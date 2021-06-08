@@ -1,4 +1,5 @@
 collections:
   english:
     output: true
-    order: []
+    order:
+      - about-us.md
