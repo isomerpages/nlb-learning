@@ -1,9 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: English
-    url: /contact-us/
-  - title: Example Single
-    url: /example-single/
   - title: Example Collection
     collection: example-collection
   - title: Example Resource
