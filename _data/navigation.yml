@@ -1,8 +1,4 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Example Collection
-    collection: example-collection
-  - title: Example Resource
-    resource_room: true
   - title: English
     collection: english
