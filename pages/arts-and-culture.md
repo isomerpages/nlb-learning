@@ -1,4 +1,5 @@
 ---
 title: "Arts & Culture "
-permalink: /permalink
+permalink: /sites/nlb-learning/english/artsandculture
 ---
+
