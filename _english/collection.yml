@@ -2,6 +2,6 @@ collections:
   english:
     output: true
     order:
+      - about-us.md
       - join-a-learning-community/.keep
       - join-a-learning-community/list-by-interest.md
-      - about-us.md
