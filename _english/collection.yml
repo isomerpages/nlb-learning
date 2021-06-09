@@ -2,6 +2,7 @@ collections:
   english:
     output: true
     order:
+      - start/.keep
       - about-us.md
       - join-a-learning-community/.keep
       - join-a-learning-community/list-by-interest.md
