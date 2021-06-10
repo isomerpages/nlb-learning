@@ -22,8 +22,15 @@ All our Learning Communities are free and open to the public. Knowledge in your 
 **Be welcoming:**
 Libraries are public places and everyone should feel safe and welcome here! People learn best and connect meaningfully when they are in spaces where they feel they can be themselves without judgement. Encourage your group to express themselves with kindness and curiosity! 
 
-What we’ll do:
-Make space for you: We provide space in our public libraries to all our Learning Communities. We also provide basic equipment, including chairs, tables, and writing materials.
-Provide guidance: Although Learning Communities are largely self-directed by its members, our friendly librarians will be on hand to advise and support you and your community when necessary. 
-Get the word out: All Learning Communities will be listed on the Learning Communities website for prospective members to read about and join. We’ll also keep you informed about other opportunities to publicise as and when they come up. 
+*What we’ll do:*
+
+**Make space for you:**
+We provide space in our public libraries to all our Learning Communities. We also provide basic equipment, including chairs, tables, and writing materials.
+
+**Provide guidance:** 
+Although Learning Communities are largely self-directed by its members, our friendly librarians will be on hand to advise and support you and your community when necessary. 
+
+
+**Get the word out:** All Learning Communities will be listed on the Learning Communities website for prospective members to read about and join. We’ll also keep you informed about other opportunities to publicise as and when they come up. 
+
 Fill out this application form to get started!
