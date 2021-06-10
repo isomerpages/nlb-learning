@@ -1,5 +1,6 @@
 ---
 title: Learning Community Etiquette
-permalink: /permalink
+permalink: /english/join-a-learning-community/permalink
 third_nav_title: Join
 ---
+
