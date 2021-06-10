@@ -1,8 +1,9 @@
 ---
 title: Join a Learning Community
-permalink: /english/join/permalink
+permalink: /english/join-a-learning-community/permalink
 third_nav_title: Join
 ---
+
 **Join a Learning Community**
 
 Our Learning Communities cover a wide range of interests and meet in libraries all over Singapore. 
