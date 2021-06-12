@@ -5,4 +5,5 @@ collections:
       - join/.keep
       - join/list-by-interest.md
       - join/list-by-location.md
+      - join/list-by-age-group.md
       - about-us.md
