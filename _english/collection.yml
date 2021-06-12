@@ -2,4 +2,5 @@ collections:
   english:
     output: true
     order:
+      - join/.keep
       - about-us.md
