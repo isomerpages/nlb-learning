@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - join/.keep
+      - join/list-by-interest.md
       - about-us.md
