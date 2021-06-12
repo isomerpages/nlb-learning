@@ -4,4 +4,5 @@ collections:
     order:
       - join/.keep
       - join/list-by-interest.md
+      - join/list-by-location.md
       - about-us.md
