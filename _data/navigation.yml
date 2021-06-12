@@ -2,3 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: English
     collection: english
+  - title: Chinese
+    collection: chinese
