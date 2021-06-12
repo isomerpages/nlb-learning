@@ -2,6 +2,7 @@ collections:
   english:
     output: true
     order:
+      - start/.keep
       - about-us.md
       - join/.keep
       - join/list-by-interest.md
