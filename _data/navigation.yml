@@ -1,2 +1,4 @@
 logo: /images/isomer-logo.svg
-links: []
+links:
+  - title: English
+    collection: english
