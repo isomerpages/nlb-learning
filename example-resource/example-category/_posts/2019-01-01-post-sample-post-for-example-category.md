@@ -6,3 +6,7 @@ layout: post
 ---
 
 Lorem ipsum sit amet
+
+<div class="test-color">
+  Hello Color
+</div>
