@@ -4,9 +4,10 @@ date: 2019-01-01
 permalink: /example-resource/example-category/test
 layout: post
 ---
-
 Lorem ipsum sit amet
 
 <div class="test-color">
   Hello Color
 </div>
+
+<div class="">Column</div>
