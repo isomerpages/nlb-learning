@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - arts-and-culture.md
+      - faq.md
