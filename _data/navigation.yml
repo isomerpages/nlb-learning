@@ -8,3 +8,12 @@ links:
     collection: learnx-careers
   - title: Learnx Digital
     collection: learnx-digital
+  - title: Menu Title
+    resource_room: true
+  - title: Start
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
