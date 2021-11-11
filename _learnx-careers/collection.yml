@@ -2,7 +2,7 @@ collections:
   learnx-careers:
     output: true
     order:
-      - overview.md
+      - Learnx Careers.md
       - Teenagers/.keep
       - Teenagers/Teenagers Overview.md
       - Teenagers/Learning Pathways.md
