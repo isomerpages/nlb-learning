@@ -1,5 +1,5 @@
 collections:
-  learnx-careers:
+  careers:
     output: true
     order:
       - Learnx Careers.md

@@ -1,5 +1,5 @@
 ---
-title: Learnx Careers
+title: LearnX Careers
 permalink: /careers/overview
 breadcrumb: overview
 description: ""
