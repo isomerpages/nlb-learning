@@ -1,7 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Start Learning
-    # url: /permalink
     sublinks:
       - title: LearnX Digital
         url: /learnx-digital/overview
@@ -9,3 +8,8 @@ links:
         url: /learnx-careers/overview
       - title: LearnX Sustainability
         url: /learnx-sustainability/overview
+  - title: Explore LearnX Communities
+    collection: learnx-communities
+  - title: Partners
+    url: /permalink
+    sublinks: []
