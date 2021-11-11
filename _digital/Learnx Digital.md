@@ -1,5 +1,5 @@
 ---
-title: Learnx Digital
+title: LearnX Digital
 permalink: /digital/overview
 breadcrumb: overview
 description: ""
