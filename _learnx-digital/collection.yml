@@ -2,4 +2,4 @@ collections:
   learnx-digital:
     output: true
     order:
-      - overview.md
+      - Learnx Digital.md
