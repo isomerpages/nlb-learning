@@ -3,13 +3,13 @@ links:
   - title: Start Learning
     sublinks:
       - title: LearnX Digital
-        url: /learnx-digital/overview
+        url: /digital/overview
       - title: LearnX Careers
-        url: /learnx-careers/overview
+        url: /careers/overview
       - title: LearnX Sustainability
-        url: /learnx-sustainability/overview
+        url: /sustainability/overview
   - title: Explore LearnX Communities
-    collection: learnx-communities
+    collection: communities
   - title: Partners
     url: /permalink
-    sublinks: []
+#    sublinks: []

@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /digital/preschoolers/programmes
+permalink: /learnx-digital/preschoolers/programmes
 description: ""
 third_nav_title: Preschoolers
 ---

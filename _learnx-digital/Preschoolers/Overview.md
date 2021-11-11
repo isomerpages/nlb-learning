@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /digital/preschoolers/overview
+permalink: /learnx-digital/preschoolers/overview
 description: ""
 third_nav_title: Preschoolers
 ---

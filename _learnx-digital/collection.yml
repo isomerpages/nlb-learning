@@ -2,9 +2,10 @@ collections:
   learnx-digital:
     output: true
     order:
+      - Learnx Digital.md
+      - Preschoolers/.keep
       - Preschoolers/Overview.md
       - Preschoolers/Content.md
       - Preschoolers/Programmes.md
       - Preschoolers/Learning Pathways.md
-      - Preschoolers/.keep
-      - Learnx Digital.md
+
