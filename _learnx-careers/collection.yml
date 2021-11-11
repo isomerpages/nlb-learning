@@ -2,9 +2,9 @@ collections:
   learnx-careers:
     output: true
     order:
-      - Teenagers/Programmes.md
-      - Teenagers/Learning Pathways.md
       - Teenagers/.keep
+      - Teenagers/Learning Pathways.md
+      - Teenagers/Programmes.md
       - overview.md
       - teenagers.md
       - adults-seniors.md
