@@ -2,5 +2,6 @@ collections:
   learnx-digital:
     output: true
     order:
+      - Preschoolers/Learning Pathways.md
       - Preschoolers/.keep
       - Learnx Digital.md
