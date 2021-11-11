@@ -2,8 +2,8 @@ collections:
   learnx-communities:
     output: true
     order:
-      - Join LearnX Community/Digital Communities.md
-      - Join LearnX Community/.keep
+      - Join A LearnX Community/Digital Communities.md
+      - Join A LearnX Community/.keep
       - overview.md
       - preschoolers.md
       - children-tweens.md
