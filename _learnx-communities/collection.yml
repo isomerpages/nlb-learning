@@ -2,6 +2,7 @@ collections:
   learnx-communities:
     output: true
     order:
+      - Join/.keep
       - overview.md
       - preschoolers.md
       - children-tweens.md
