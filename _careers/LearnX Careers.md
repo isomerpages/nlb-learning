@@ -5,4 +5,4 @@ breadcrumb: overview
 description: ""
 ---
 
-### **Learnx Careers Landing**
+### **LearnX Careers Landing**
