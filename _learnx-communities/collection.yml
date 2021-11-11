@@ -2,6 +2,7 @@ collections:
   learnx-communities:
     output: true
     order:
+      - Join A LearnX Community/Overview.md
       - Join A LearnX Community/Sustainability Communities.md
       - Join A LearnX Community/Careers Communities.md
       - Join A LearnX Community/Digital Communities.md
