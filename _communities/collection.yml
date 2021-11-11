@@ -1,5 +1,5 @@
 collections:
-  learnx-communities:
+  communities:
     output: true
     order:
       - Explore LearnX Communities.md
