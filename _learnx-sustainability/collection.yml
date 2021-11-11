@@ -1,5 +1,5 @@
 collections:
-  learnx-digital:
+  learnx-sustainability:
     output: true
     order:
       - preschoolers.md

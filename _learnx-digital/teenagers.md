@@ -1,6 +1,6 @@
 ---
 title: Teenagers
-permalink: /learnx-careers/teenagers
+permalink: /learnx-digital/teenagers
 description: ""
 ---
 ### **Teenagers**
