@@ -1,7 +1,7 @@
 ---
 title: Content
-permalink: /learnx-careers/teenagers/content
+permalink: /careers/teenagers/content
 description: ""
 third_nav_title: Teenagers
 ---
-# Content
+### **Content**

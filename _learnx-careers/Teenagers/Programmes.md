@@ -1,7 +1,7 @@
 ---
 title: Programmes
-permalink: /learnx-careers/teenagers/programmes
+permalink: /careers/teenagers/programmes
 description: ""
 third_nav_title: Teenagers
 ---
-# Programmes
+### **Programmes**

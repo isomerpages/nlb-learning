@@ -1,7 +1,7 @@
 ---
 title: Teenagers Overview
-permalink: /learnx-careers/teenagers/overview
+permalink: /careers/teenagers/overview
 description: ""
 third_nav_title: Teenagers
 ---
-# Teenagers Overview
+### **Teenagers Overview**
