@@ -2,6 +2,7 @@ collections:
   learnx-sustainability:
     output: true
     order:
+      - overview.md
       - preschoolers.md
       - children-tweens.md
       - teenagers.md
