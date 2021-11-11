@@ -2,7 +2,7 @@ collections:
   digital:
     output: true
     order:
-      - Learnx Digital.md
+      - LearnX Digital.md
       - Preschoolers/.keep
       - Preschoolers/Overview.md
       - Preschoolers/Content.md

@@ -5,4 +5,4 @@ breadcrumb: overview
 description: ""
 ---
 
-### **Learnx Digital Landing**
+### **LearnX Digital Landing**
