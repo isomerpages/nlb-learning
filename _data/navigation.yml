@@ -1,19 +1,21 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Start Learning
+    # url: /permalink
+    sublinks:
+      - title: LearnX Digital
+        url: /learnx-digital
+      - title: LearnX Careers
+        url: /learnx-careers
+      - title: LearnX Sustainability
+        url: /learnx-sustainability
   - title: English
     collection: english
-  - title: Chinese
-    collection: chinese
+
   - title: Learnx Careers
     collection: learnx-careers
   - title: Learnx Digital
     collection: learnx-digital
   - title: Menu Title
     resource_room: true
-  - title: Start
-    url: /permalink
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
+  

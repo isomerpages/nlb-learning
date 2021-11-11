@@ -1,5 +1,0 @@
-collections:
-  chinese:
-    output: true
-    order:
-      - .md
