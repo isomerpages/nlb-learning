@@ -4,18 +4,8 @@ links:
     # url: /permalink
     sublinks:
       - title: LearnX Digital
-        url: /learnx-digital
+        url: /learnx-digital/overview
       - title: LearnX Careers
-        url: /learnx-careers
+        url: /learnx-careers/overview
       - title: LearnX Sustainability
-        url: /learnx-sustainability
-  - title: English
-    collection: english
-
-  - title: Learnx Careers
-    collection: learnx-careers
-  - title: Learnx Digital
-    collection: learnx-digital
-  - title: Menu Title
-    resource_room: true
-  
+        url: /learnx-sustainability/overview

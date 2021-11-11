@@ -2,5 +2,6 @@ collections:
   learnx-careers:
     output: true
     order:
+      - overview.md
       - teenagers.md
       - adults-seniors.md
