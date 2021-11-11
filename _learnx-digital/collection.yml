@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - overview.md
-      - children-tweens.md
       - teenagers.md
       - adults-seniors.md
