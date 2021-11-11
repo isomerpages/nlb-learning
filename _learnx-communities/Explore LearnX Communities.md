@@ -1,7 +1,8 @@
 ---
 title: Explore LearnX Communities
-permalink: /learnx-communities/overview
+permalink: /communities/overview
 breadcrumb: overview
 description: ""
 ---
+
 ### **Explore LearnX Communities Landing**
