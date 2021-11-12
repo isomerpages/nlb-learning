@@ -13,3 +13,7 @@ Get all the answers you need through enjoyable and engaging content that will de
 <div class="responsive-iframe-container ratio-16by9">
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uOfQMXQ4lL8"></iframe>
 </div>
+
+---
+<h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>
+<a href="/communities/overview" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>

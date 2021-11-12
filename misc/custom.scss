@@ -155,16 +155,20 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Button
 .bp-button {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 
   &.is-primary-outline {
     border: 1px solid $primary;
     color: $primary;
     background-color: $white;
+    text-decoration: none;
 
     &:focus, &:hover {
       border: 1px solid $primary;
       color: $white;
       background-color: $primary;
+      text-decoration: none;
     }
   }
 }
