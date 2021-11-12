@@ -228,9 +228,13 @@ $desktop: 960px + (2 * $gap) !default;
       a {
         color: $mint;
 
-        &.active{
-          @include touch(){
-            border-bottom:2px solid $white;
+        &:focus, &:hover {
+          color: $white;
+        }
+
+        &.active {
+          @include touch() {
+            border-bottom: 2px solid $white;
           }
         }
       }
@@ -249,7 +253,7 @@ $desktop: 960px + (2 * $gap) !default;
     border-left: 1px solid $white;
   }
 
-  .navbar-item{
+  .navbar-item {
 
     .sub-link.is-active{
       color:$white;
@@ -280,21 +284,20 @@ $desktop: 960px + (2 * $gap) !default;
       }
     }
 
-    &:hover a {
-      background-color: transparent;
-    }
+    &:hover {
 
-    &:hover a.sub-link {
-      color: $white;
-      background-color: transparent;
-    }
-  }
-.navbar-item:hover {
-  a {
-    color:$white;
-  }
-  .selector {
-      background-color:$white;
+      a {
+        background-color: transparent;
+
+        &.sub-link {
+          color: $white;
+          background-color: transparent;
+        }
+      }
+
+      .selector {
+        background-color:$white;
+      }
     }
   }
 }
@@ -320,10 +323,11 @@ $desktop: 960px + (2 * $gap) !default;
 
   a {
     color: $primary;
+    font-weight: bold;
 
     &:focus, &:hover {
       color: darken($primary,10%);
-    } 
+    }
   }
 }
 
