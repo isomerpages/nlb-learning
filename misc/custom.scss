@@ -126,26 +126,26 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Menu/Left-nav
 .bp-menu-list a.is-active {
-	color: $secondary !important;
-	border-bottom: 2px solid $secondary !important;
+	color: $primary !important;
+	border-bottom: 2px solid $primary !important;
 	&:hover {
-		border-bottom: 2px solid $secondary !important;
+		border-bottom: 2px solid $primary !important;
 	}
 }
 .bp-menu-list a:hover {
-	color: $secondary !important;
-	border-bottom: 1px solid $secondary !important;
+	color: $primary !important;
+	border-bottom: 1px solid $primary !important;
 }
 
 // Button
 
 .bp-button.is-text span {
   &:hover, &:focus {
-    color: $secondary;
+    color: $primary;
   }
 }
 .bp-button:hover {
-  color: $secondary;
+  color: $primary;
 }
 
 // Secondary button
