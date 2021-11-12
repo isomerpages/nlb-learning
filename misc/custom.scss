@@ -6,8 +6,9 @@
 
 // Agency brand colors
 $primary: {{- site.colors.primary-color -}};
+$primary-hover: darken($primary, 10%);
 $secondary: {{- site.colors.secondary-color -}};
-$secondary-hover: lighten($secondary, 10%);
+$secondary-hover: darken($secondary, 10%);
 
 $mint: #cff2e8;
 $white: #ffffff;
@@ -153,6 +154,20 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Button
+.bp-button {
+
+  &.is-primary-outline {
+    border: 1px solid $primary;
+    color: $primary;
+    background-color: $white;
+
+    &:focus, &:hover {
+      border: 1px solid $primary;
+      color: $white;
+      background-color: $primary;
+    }
+  }
+}
 
 .bp-button.is-text span {
   &:hover, &:focus {
@@ -162,6 +177,24 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-button:hover {
   color: $primary;
 }
+
+// Primary button
+.bp-pri-button {
+	color: $primary;
+	& span {
+		border-bottom: 2px solid $primary !important;
+	}
+	&:hover {
+		& span {
+	    	border-bottom: 2px solid $primary-hover !important;
+	    	color: $primary-hover !important;
+	  	}
+	  	& i {
+	    	color: $primary-hover !important;
+	  	}
+	}
+}
+
 
 // Secondary button
 .bp-sec-button {
@@ -185,7 +218,7 @@ $desktop: 960px + (2 * $gap) !default;
 	a {
 		background-color: $primary;
 	    &:hover{
-	      background-color: darken($primary,10%) !important;
+	      background-color: $primary-hover !important;
 	    }
 	}
 }
@@ -218,12 +251,12 @@ $desktop: 960px + (2 * $gap) !default;
 #key-highlights{
 	background-color: $primary;
 	.col {
-		border-left:1px solid darken($primary,10%);
+		border-left: 1px solid $primary-hover;
 		@include touch(){
-			border-top:1px solid darken($primary,10%);
+			border-top:1px solid $primary-hover;
 		}
 		&:hover{
-			background-color: darken($primary,10%);
+			background-color: $primary-hover;
 		}
 	}
 }
@@ -346,7 +379,7 @@ $desktop: 960px + (2 * $gap) !default;
     font-weight: bold;
 
     &:focus, &:hover {
-      color: darken($primary,10%);
+      color: $primary-hover;
     }
   }
 }
@@ -473,7 +506,7 @@ $desktop: 960px + (2 * $gap) !default;
       color: $primary;
   
       &:focus, &:hover {
-        color: darken($primary,10%);
+        color: $primary-hover;
       }
     }
   

@@ -14,4 +14,4 @@ Technology and digital trends change so rapidly it might feel almost impossible 
 
 ---
 <h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>
-<a href="/contact-us/" class="bp-button is-primary is-outlined is-uppercase">Explore Communities</a>
+<a href="/communities/overview" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>
