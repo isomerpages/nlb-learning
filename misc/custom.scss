@@ -11,6 +11,13 @@ $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: darken($secondary, 10%);
 
 $sky: #cff2e8;
+$mint: #dce5d3;
+$jade: #00b794;
+$pink: #ffbac7;
+$ruby: #a60517;
+$orange: #ffc9ad;
+$tangerine: #fe5828;
+
 $white: #ffffff;
 $black: #000000;
 $black-10: mix($black, $white, 10%);
@@ -22,6 +29,8 @@ $black-60: mix($black, $white, 60%);
 $black-70: mix($black, $white, 70%);
 $black-80: mix($black, $white, 80%);
 $black-90: mix($black, $white, 90%);
+
+
 
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
@@ -598,9 +607,14 @@ $desktop: 960px + (2 * $gap) !default;
     font-size: 1.25rem;
     text-align: center;
     text-decoration: none;
+    text-transform: uppercase;
 
     &:focus, &:hover {
       text-decoration: none;
+    }
+
+    span {
+      padding: .5rem;
     }
   }
 
@@ -611,6 +625,36 @@ $desktop: 960px + (2 * $gap) !default;
     a:focus, a:hover {
       background-color: $primary;
       color: $sky;
+    }
+  }
+  
+  &.is-mint-jade {
+    background-color: $mint;
+    color: $jade;
+
+    a:focus, a:hover {
+      background-color: $jade;
+      color: $mint;
+    }
+  }
+  
+  &.is-pink-ruby {
+    background-color: $pink;
+    color: $ruby;
+
+    a:focus, a:hover {
+      background-color: $ruby;
+      color: $pink;
+    }
+  }
+  
+  &.is-generic {
+    background-color: $mint;
+    color: $primary;
+
+    a:focus, a:hover {
+      background-color: $primary;
+      color: $mint;
     }
   }
 }

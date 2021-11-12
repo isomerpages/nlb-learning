@@ -14,6 +14,44 @@ Get all the answers you need through enjoyable and engaging content that will de
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uOfQMXQ4lL8"></iframe>
 </div>
 
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/sustainability/preschoolers/overview">
+        <span>Preschoolers</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/sustainability/children-tweens/overview">
+        <span>Children & Tweens</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/sustainability/teenagers/overview">
+        <span>Teenagers</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/sustainability/adults-seniors/overview">
+        <span>Adults & Seniors</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+  </div>
+  <div class="col is-one-third">
+  </div>
+</div>
+
 ---
 <h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>
 <a href="/communities/overview" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>

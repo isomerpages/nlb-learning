@@ -12,6 +12,44 @@ Technology and digital trends change so rapidly it might feel almost impossible 
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uOfQMXQ4lL8"></iframe>
 </div>
 
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="/digital/preschoolers/overview">
+        <span>Preschoolers</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="/digital/children-tweens/overview">
+        <span>Children & Tweens</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="/digital/teenagers/overview">
+        <span>Teenagers</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="/digital/adults-seniors/overview">
+        <span>Adults & Seniors</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+  </div>
+  <div class="col is-one-third">
+  </div>
+</div>
+
 ---
 <h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>
 <a href="/communities/overview" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>
