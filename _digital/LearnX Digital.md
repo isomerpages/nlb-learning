@@ -11,3 +11,7 @@ Technology and digital trends change so rapidly it might feel almost impossible 
 <div class="responsive-iframe-container ratio-16by9">
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uOfQMXQ4lL8"></iframe>
 </div>
+
+---
+<h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>
+<a href="/contact-us/" class="bp-button is-primary is-outlined is-uppercase">Explore Communities</a>
