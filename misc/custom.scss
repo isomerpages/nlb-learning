@@ -302,12 +302,17 @@ $desktop: 960px + (2 * $gap) !default;
     &:hover {
 
       a {
+        
         background-color: transparent;
 
-        &.sub-link {
+        @include touch {
+          color: $mint;
+        }
+
+        /* &.sub-link {
           color: $white;
           background-color: transparent;
-        }
+        } */
       }
 
       .selector {
@@ -481,13 +486,18 @@ $desktop: 960px + (2 * $gap) !default;
 // Sidebar
 .bp-menu-list {
 
-  a {
-    font-size: 1rem;
-    line-height: 1.2;
+   a {
+     color: $black;
+    // font-size: 1rem;
+    // line-height: 1.2;
   }
-
+  /*
   a.third-level-nav-header i.sgds-icon {
     line-height: 1;
+  } */
+
+  li:not(:first-child) a {
+    border-top: 1px solid $black;
   }
   
   li a.third-level-nav-item {
