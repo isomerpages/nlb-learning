@@ -222,7 +222,7 @@ $desktop: 960px + (2 * $gap) !default;
   &-start{
     margin: 0 auto;
     padding-bottom: 1rem;
-    border-bottom: 1px solid $white;
+    border-bottom: none;
     
     .navbar-item{
       a {
