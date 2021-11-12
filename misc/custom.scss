@@ -489,12 +489,12 @@ $desktop: 960px + (2 * $gap) !default;
    a {
      color: $black;
     // font-size: 1rem;
-    // line-height: 1.2;
+    line-height: 1.2;
   }
-  /*
+  
   a.third-level-nav-header i.sgds-icon {
     line-height: 1;
-  } */
+  }
 
   li:not(:first-child) a {
     border-top: 1px solid $black;

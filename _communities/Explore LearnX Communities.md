@@ -14,7 +14,7 @@ Sharing knowledge and exchanging ideas with people who have similar interests as
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uOfQMXQ4lL8"></iframe>
 </div>
 
-<hr>
+---
 <h3 class="margin--top--none margin--bottom--lg"><b>Featured learning communities</b></h3>
 
 <div class="row is-multiline">
