@@ -220,39 +220,39 @@ $desktop: 960px + (2 * $gap) !default;
       a{
         &.active{
           @include touch(){
-            border-bottom:2px solid $secondary;
+            border-bottom:2px solid $white;
           }
         }
       }
     }
   }
   .navbar-link:hover:after {
-    border-bottom: 1px solid $secondary;
-    border-left: 1px solid $secondary;
+    border-bottom: 1px solid $white;
+    border-left: 1px solid $white;
   }
 
   .navbar-item{
     .sub-link.is-active{
-      color:$secondary;
+      color:$white;
     }
 
     .selector{
       &.active{
-        background-color:$secondary;
+        background-color:$white;
       }
     }
     &.active{
       @include desktop(){
-        border-bottom:1px solid $secondary;
+        border-bottom:1px solid $white;
       }
     }
   }
 .navbar-item:hover {
   a {
-    color:$secondary;
+    color:$white;
   }
   .selector {
-      background-color:$secondary;
+      background-color:$white;
     }
   }
 }
@@ -346,8 +346,28 @@ $desktop: 960px + (2 * $gap) !default;
   box-shadow: none;
 }
 
-.bp-section-pagetitle h1 .has-text-white {
+.bp-section-pagetitle h1.has-text-white {
   color: $mint !important;
+}
+
+// Hamburger 
+.navbar-burger {
+
+  span {
+    background-color: $mint;
+  }
+
+  &:focus, &:active {
+    span {
+      background-color: $white;
+    }
+  }
+}
+
+.navbar-menu {
+  @include touch {
+    background-color: $primary;
+  }
 }
 
 // Navbar
@@ -361,7 +381,7 @@ $desktop: 960px + (2 * $gap) !default;
       color: $mint;
     }
 
-    &:hover a {
+    &:focus a, &:hover a {
       color: $white;
     }
 
@@ -371,6 +391,10 @@ $desktop: 960px + (2 * $gap) !default;
 
     span {
       color: $mint;
+
+      &:focus, &:hover {
+        color: $white;
+      }
     }
   }
 
@@ -380,7 +404,7 @@ $desktop: 960px + (2 * $gap) !default;
       border-color: $mint;
     }
 
-    &:hover:after {
+    &:focus:after, &:hover:after {
       border-color: $white;
     }
   }
@@ -392,7 +416,7 @@ $desktop: 960px + (2 * $gap) !default;
   a {
     color: $mint;
 
-    &:hover {
+    &:focus, &:hover {
       color: $white;
     }
   }
