@@ -345,6 +345,10 @@ $desktop: 960px + (2 * $gap) !default;
   box-shadow: none;
 }
 
+.bp-section-pagetitle h1 .has-text-white {
+  color: $mint !important;
+}
+
 // Navbar
 .navbar {
   background-color: $primary;
@@ -381,6 +385,21 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+// Breadcrumbs
+.bp-breadcrumb {
+
+  a {
+    color: $mint;
+
+    &:hover {
+      color: $white;
+    }
+  }
+
+  li+li::before {
+    color: $mint;
+  }
+}
 
 // Sidebar
 .bp-menu-list {
