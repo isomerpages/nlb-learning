@@ -335,3 +335,13 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+// Sidebar
+.bp-menu-list a {
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.bp-menu-list li a.third-level-nav-item {
+  padding-left: 0;
+}
