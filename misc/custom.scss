@@ -317,6 +317,14 @@ $desktop: 960px + (2 * $gap) !default;
 	blockquote > ul {
 		color: $primary;
 	}
+
+  a {
+    color: $primary;
+
+    &:focus, &:hover {
+      color: darken($primary,10%);
+    } 
+  }
 }
 
 // Media category buttons - not used now but will be used in the future
@@ -362,7 +370,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .image-card:hover {
   .news-content {
-    background-color: darken(#ffffff, 10%);
+    background-color: darken($white, 10%);
   }
 }
 
@@ -441,7 +449,7 @@ $desktop: 960px + (2 * $gap) !default;
       color: $primary;
   
       &:focus, &:hover {
-        color: $primary;
+        color: darken($primary,10%);
       }
     }
   
