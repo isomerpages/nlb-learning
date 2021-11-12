@@ -4,5 +4,12 @@ permalink: /communities/overview
 breadcrumb: overview
 description: ""
 ---
+## More the merrier
 
-### **Explore LearnX Communities Landing**
+Learning Communities connect like-minded people to create a modern kampong of communal learning.
+
+Sharing knowledge and exchanging ideas with people who have similar interests as you makes learning so much more rewarding. Learning Communities cover a range of topics and can be found in libraries all over the island.
+
+<div class="responsive-iframe-container">
+  <iframe class="responsive-iframe" src="https://youtu.be/uOfQMXQ4lL8"></iframe>
+</div>

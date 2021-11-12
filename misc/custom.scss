@@ -198,6 +198,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 
+
 // Homepage
 #key-highlights{
 	background-color: $primary;
@@ -415,5 +416,38 @@ $desktop: 960px + (2 * $gap) !default;
   
   li a.third-level-nav-item {
     padding-left: 0;
+  }
+}
+
+// Responsive Media Iframe
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+
+  &-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+
+    &.ratio-16by9 {
+      padding-top: 56.25%;
+    }
+
+    &.ratio-4by3 {
+      padding-top: 75%;
+    }
+
+    &.ratio-3by2 {
+      padding-top: 66.66%;
+    }
+
+    &.ratio-1by1 {
+      padding-top: 100%;
+    }
   }
 }
