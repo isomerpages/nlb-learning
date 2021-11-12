@@ -337,11 +337,18 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Sidebar
-.bp-menu-list a {
-  font-size: 1rem;
-  line-height: 1.2;
-}
+.bp-menu-list {
 
-.bp-menu-list li a.third-level-nav-item {
-  padding-left: 0;
+  a {
+    font-size: 1rem;
+    line-height: 1.2;
+  }
+
+  a.third-level-nav-header i.sgds-icon {
+    line-height: 1;
+  }
+  
+  li a.third-level-nav-item {
+    padding-left: 0;
+  }
 }
