@@ -7,21 +7,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: "Learning Communities "
-      subtitle: "Come as you are. Learn what you want. Make the connections you need. "
-      background: /images/hero-banner.png
+      title: Welcome to LearnX
+      subtitle: "LearnX is an exciting new platform that lets you to dive into topics
+        you’ve always wanted to explore. Whatever your motivation—personal
+        development, being "
+      background: /images/masthead-icons-1366x507-1.gif
       button: Curious? Find out more.
       url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
