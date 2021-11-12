@@ -10,7 +10,7 @@ $primary-hover: darken($primary, 10%);
 $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: darken($secondary, 10%);
 
-$mint: #cff2e8;
+$sky: #cff2e8;
 $white: #ffffff;
 $black: #000000;
 $black-10: mix($black, $white, 10%);
@@ -278,7 +278,7 @@ $desktop: 960px + (2 * $gap) !default;
     
     .navbar-item{
       a {
-        color: $mint;
+        color: $sky;
 
         &:focus, &:hover {
           color: $white;
@@ -296,7 +296,7 @@ $desktop: 960px + (2 * $gap) !default;
   .navbar-link {
 
     &:after {
-      border-color: $mint;
+      border-color: $sky;
     }
   }
 
@@ -329,7 +329,7 @@ $desktop: 960px + (2 * $gap) !default;
     }
 
     span {
-      color: $mint !important;
+      color: $sky !important;
 
       &:focus, &:hover {
         color: $white !important;
@@ -343,7 +343,7 @@ $desktop: 960px + (2 * $gap) !default;
         background-color: transparent;
 
         @include touch {
-          color: $mint;
+          color: $sky;
         }
 
         /* &.sub-link {
@@ -459,7 +459,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section-pagetitle h1.has-text-white {
-  color: $mint !important;
+  color: $sky !important;
 }
 
 .bg-secondary h1.has-text-white {
@@ -470,7 +470,7 @@ $desktop: 960px + (2 * $gap) !default;
 .navbar-burger {
 
   span {
-    background-color: $mint;
+    background-color: $sky;
   }
 
   &:focus, &:active {
@@ -492,7 +492,7 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-breadcrumb {
 
   a {
-    color: $mint;
+    color: $sky;
 
     &:focus, &:hover {
       color: $white;
@@ -500,7 +500,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
 
   li+li::before {
-    color: $mint;
+    color: $sky;
   }
 }
 
@@ -531,6 +531,7 @@ $desktop: 960px + (2 * $gap) !default;
   
   a.third-level-nav-header i.sgds-icon {
     line-height: 1;
+    margin-left: .5rem;
   }
 
   li:not(:first-child) a {
@@ -545,7 +546,6 @@ $desktop: 960px + (2 * $gap) !default;
     }
   }
 }
-
 
 // Responsive Media Iframe
 .responsive-iframe {
@@ -576,6 +576,41 @@ $desktop: 960px + (2 * $gap) !default;
 
     &.ratio-1by1 {
       padding-top: 100%;
+    }
+  }
+}
+
+// Clickbox
+.clickbox {
+  display: block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  background-color: transparent;
+
+  a {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.25rem;
+    text-align: center;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      text-decoration: none;
+    }
+  }
+
+  &.is-sky-indigo {
+    background-color: $sky;
+    color: $primary;
+
+    a:focus, a:hover {
+      background-color: $primary;
+      color: $sky;
     }
   }
 }
