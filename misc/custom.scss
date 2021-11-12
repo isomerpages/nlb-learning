@@ -350,6 +350,10 @@ $desktop: 960px + (2 * $gap) !default;
   color: $mint !important;
 }
 
+.bg-secondary .bp-section-pagetitle h1.has-text-white {
+  color: $primary !important;
+}
+
 // Hamburger 
 .navbar-burger {
 
