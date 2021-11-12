@@ -9,6 +9,9 @@ $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: lighten($secondary, 10%);
 
+$mint: #cff2e8;
+$white: #ffffff;
+
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
 {%- endfor -%}
@@ -334,6 +337,23 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
+}
+
+// Navbar
+.navbar {
+  background-color: $primary;
+  border-bottom: none;
+
+  .navbar-item {
+    a {
+      color: $mint;
+    }
+
+    .selector.active {
+      background-color: $white;
+    }
+  }
+
 }
 
 // Sidebar
