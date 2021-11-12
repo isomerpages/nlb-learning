@@ -22,7 +22,7 @@ Lorem ipsum sit amet
   <div class="col is-half-tablet padding--bottom--lg">
     <a href="/guides/arts/visual-arts/" class="project-link">
       <img src="/images/category/performing-arts.jpg" alt="Arts" class="project-image">
-      <div class="project-title">					
+      <div class="project-title">
       <h5><b>Arts</b></h5>
       </div>
     </a>

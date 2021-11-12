@@ -168,9 +168,9 @@ $desktop: 960px + (2 * $gap) !default;
 // Bottom navigation bar
 .bottom-navigation {
 	a {
-		background-color: $secondary;
+		background-color: $primary;
 	    &:hover{
-	      background-color: darken($secondary,10%) !important;
+	      background-color: darken($primary,10%) !important;
 	    }
 	}
 }
@@ -183,17 +183,17 @@ $desktop: 960px + (2 * $gap) !default;
 .pagination {
 	span {
 		&:hover {
-            border-color: $secondary;
-            color: $secondary;
+            border-color: $primary;
+            color: $primary;
 		}
         &.selected-page:hover {
-            background-color: $secondary;
-            border-color: $secondary;
+            background-color: $primary;
+            border-color: $primary;
         }
 	}
     .selected-page {
-        background-color: $secondary;
-        border-color: $secondary;
+        background-color: $primary;
+        border-color: $primary;
     }
 }
 
@@ -260,19 +260,19 @@ $desktop: 960px + (2 * $gap) !default;
 // Post-content
 .content {
 	h1, h2, h3, h4, h5 {
-		color: $secondary;
+		color: $primary;
 		strong {
-			color: $secondary;
+			color: $primary;
 		}
 	}
 	blockquote {
-		border-left-color: $secondary;
+		border-left-color: $primary;
 	}
 	blockquote > p {
-		color: $secondary;
+		color: $primary;
 	}
 	blockquote > ul {
-		color: $secondary;
+		color: $primary;
 	}
 }
 
@@ -286,8 +286,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .media-category-button:hover, .media-category-button.selected {
-  color: $secondary;
-  border-bottom: 2px solid $secondary;
+  color: $primary;
+  border-bottom: 2px solid $primary;
 }
 
 // CSS to be refactored
