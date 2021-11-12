@@ -10,6 +10,6 @@ Learning Communities connect like-minded people to create a modern kampong of co
 
 Sharing knowledge and exchanging ideas with people who have similar interests as you makes learning so much more rewarding. Learning Communities cover a range of topics and can be found in libraries all over the island.
 
-<div class="responsive-iframe-container">
-  <iframe class="responsive-iframe" src="https://youtu.be/uOfQMXQ4lL8"></iframe>
+<div class="responsive-iframe-container ratio-16by9">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uOfQMXQ4lL8"></iframe>
 </div>
