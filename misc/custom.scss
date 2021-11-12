@@ -213,11 +213,21 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+
 // Navbar
 .navbar{
+  background-color: $primary;
+  border-bottom: none;
+
   &-start{
+    margin: 0 auto;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid $white;
+    
     .navbar-item{
-      a{
+      a {
+        color: $mint;
+
         &.active{
           @include touch(){
             border-bottom:2px solid $white;
@@ -226,6 +236,14 @@ $desktop: 960px + (2 * $gap) !default;
       }
     }
   }
+
+  .navbar-link {
+
+    &:after {
+      border-color: $mint;
+    }
+  }
+
   .navbar-link:hover:after {
     border-bottom: 1px solid $white;
     border-left: 1px solid $white;
@@ -246,6 +264,14 @@ $desktop: 960px + (2 * $gap) !default;
         border-bottom:1px solid $white;
       }
     }
+
+    span {
+      color: $mint;
+
+      &:focus, &:hover {
+        color: $white;
+      }
+    }
   }
 .navbar-item:hover {
   a {
@@ -256,6 +282,7 @@ $desktop: 960px + (2 * $gap) !default;
     }
   }
 }
+
 
 // Post-content
 .content {
@@ -350,7 +377,7 @@ $desktop: 960px + (2 * $gap) !default;
   color: $mint !important;
 }
 
-.bg-secondary .bp-section-pagetitle h1.has-text-white {
+.bg-secondary h1.has-text-white {
   color: $primary !important;
 }
 
@@ -374,45 +401,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
-// Navbar
-.navbar {
-  background-color: $primary;
-  border-bottom: none;
 
-  .navbar-item {
-
-    a {
-      color: $mint;
-    }
-
-    &:focus a, &:hover a {
-      color: $white;
-    }
-
-    .selector.active {
-      background-color: $white;
-    }
-
-    span {
-      color: $mint;
-
-      &:focus, &:hover {
-        color: $white;
-      }
-    }
-  }
-
-  .navbar-link {
-
-    &:after {
-      border-color: $mint;
-    }
-
-    &:focus:after, &:hover:after {
-      border-color: $white;
-    }
-  }
-}
 
 // Breadcrumbs
 .bp-breadcrumb {
@@ -443,6 +432,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
   
   li a.third-level-nav-item {
+    color: $primary !important;
     padding-left: 0;
   }
 }
