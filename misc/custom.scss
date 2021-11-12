@@ -339,22 +339,48 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+
+// Masthead 
+.masthead-container {
+  box-shadow: none;
+}
+
 // Navbar
 .navbar {
   background-color: $primary;
   border-bottom: none;
 
   .navbar-item {
+
     a {
       color: $mint;
+    }
+
+    &:hover a {
+      color: $white;
     }
 
     .selector.active {
       background-color: $white;
     }
+
+    span {
+      color: $mint;
+    }
   }
 
+  .navbar-link {
+
+    &:after {
+      border-color: $mint;
+    }
+
+    &:hover:after {
+      border-color: $white;
+    }
+  }
 }
+
 
 // Sidebar
 .bp-menu-list {
