@@ -11,6 +11,16 @@ $secondary-hover: lighten($secondary, 10%);
 
 $mint: #cff2e8;
 $white: #ffffff;
+$black: #000000;
+$black-10: mix($black, $white, 10%);
+$black-20: mix($black, $white, 20%);
+$black-30: mix($black, $white, 30%);
+$black-40: mix($black, $white, 40%);
+$black-50: mix($black, $white, 50%);
+$black-60: mix($black, $white, 60%);
+$black-70: mix($black, $white, 70%);
+$black-80: mix($black, $white, 80%);
+$black-90: mix($black, $white, 90%);
 
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
@@ -122,6 +132,11 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .has-text-secondary {
 	color: $secondary !important;
+}
+
+// Divider
+.hr {
+  background-color: $black-50;
 }
 
 // Menu/Left-nav
