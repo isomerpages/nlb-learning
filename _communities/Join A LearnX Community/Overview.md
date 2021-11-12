@@ -8,6 +8,74 @@ Head over to GoLibrary to register for upcoming sessions of your chosen communit
 
 If you do not see any upcoming events, send in an enquiry and we’ll get back to you with any updates.
 
+<div class="row is-multiline">
+  <div class="col is-half">
+    <div class="clickbox is-pink-ruby">
+      <a href="/communities/join/overview">
+        <span>Join A Community</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-half">
+    <div class="clickbox is-pink-ruby">
+      <a href="/communities/start/overview">
+        <span>Start A Community</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="row is-multiline">
+  <div class="col is-half">
+    <div class="clickbox is-pink-ruby">
+      <a href="/communities/join/overview">
+        <span>Join A Community</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-half">
+    <div class="clickbox is-pink-ruby">
+      <a href="/communities/start/overview">
+        <span>Start A Community</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="row is-multiline">
+  <div class="col is-half">
+    <div class="clickbox is-pink-ruby">
+      <a href="/communities/join/overview">
+        <span>Join A Community</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-half">
+    <div class="clickbox is-pink-ruby">
+      <a href="/communities/start/overview">
+        <span>Start A Community</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="row is-multiline">
+  <div class="col is-half">
+    <div class="clickbox is-pink-ruby">
+      <a href="/communities/join/overview">
+        <span>Join A Community</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-half">
+    <div class="clickbox is-pink-ruby">
+      <a href="/communities/start/overview">
+        <span>Start A Community</span>
+      </a>
+    </div>
+  </div>
+</div>
+
 ---
 <h3 class="margin--top--none margin--bottom--lg"><b>The community code</b></h3>
 Let’s make our learning communities a warm, welcoming and safe space.

@@ -8,8 +8,27 @@ description: ""
 
 Looking to take that first step towards upgrading your professional skills, starting a business or even pushing your existing business further? At LearnX Careers you have access to bite-sized articles, eBooks, eMagazines, databases, eLearning courses and learning pathways to help you get to where you want to be.
 
-<div class="responsive-iframe-container ratio-16by9">
+<p><div class="responsive-iframe-container ratio-16by9">
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uOfQMXQ4lL8"></iframe>
+</div></p>
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-pink-ruby">
+      <a href="/careers/teenagers/overview">
+        <span>Teenagers</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-pink-ruby">
+      <a href="/careers/adults-seniors/overview">
+        <span>Adults & Seniors</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+  </div>
 </div>
 
 ---

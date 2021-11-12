@@ -622,7 +622,10 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: $sky;
     color: $primary;
 
-    a:focus, a:hover {
+    a {
+      color: $primary;
+    
+      &:focus, &:hover {
       background-color: $primary;
       color: $sky;
     }
@@ -632,7 +635,10 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: $mint;
     color: $jade;
 
-    a:focus, a:hover {
+    a {
+      color: $jade;
+    
+      &:focus, &:hover {
       background-color: $jade;
       color: $mint;
     }
@@ -642,7 +648,10 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: $pink;
     color: $ruby;
 
-    a:focus, a:hover {
+    a {
+      color: $ruby;
+    
+      &:focus, &:hover {
       background-color: $ruby;
       color: $pink;
     }
@@ -652,7 +661,10 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: $mint;
     color: $primary;
 
-    a:focus, a:hover {
+    a {
+      color: $primary;
+    
+      &:focus, &:hover {
       background-color: $primary;
       color: $mint;
     }
