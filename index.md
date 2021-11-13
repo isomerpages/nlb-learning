@@ -10,7 +10,7 @@ sections:
       title: Welcome to LearnX
       subtitle: LearnX is an exciting new platform that lets you to dive into topics
         you’ve always wanted to explore. Whatever your motivation—personal
-        development, being "
+        development, being
       background: /images/masthead-icons-1366x507-1.gif
       button: Curious? Find out more.
       url: /contact-us/
