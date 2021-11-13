@@ -15,7 +15,7 @@ sections:
   - infobar:
       title: Infobar title
       subtitle: Subtitle
-      description: About a sentence worth of description here
+      description: <img src="/images/careers-teens-takeover-header-1.jpg"><br>About a sentence worth of description here
       button: Button text
       url: /faq/
   - infopic:
@@ -35,26 +35,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-<div class="row is-multiline">
-  <div class="col is-one-third">
-    <div class="clickbox is-generic">
-      <a href="/communities/start/helpful-hints">
-        <span>Helpful Hints</span>
-      </a>
-    </div>
-  </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-generic">
-      <a href="/communities/start/support-resources">
-        <span>Support & Resources</span>
-      </a>
-    </div>
-  </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-generic">
-      <a href="/communities/start/funding">
-        <span>Funding</span>
-      </a>
-    </div>
-  </div>
-</div>
