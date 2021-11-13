@@ -616,8 +616,14 @@ $desktop: 960px + (2 * $gap) !default;
 
   .navbar-item {
 
-    &:focus, &:active {
-      color:$white;
+    &:focus, &:hover {
+      a {
+        color: $white;
+
+        &.sub-link {
+          color: $sky;
+        }
+      }
     }
 
     .sub-link.is-active{
@@ -626,7 +632,7 @@ $desktop: 960px + (2 * $gap) !default;
 
     .selector{
       &.active{
-        background-color:$white;
+        background-color: $white;
       }
     }
 
@@ -670,6 +676,14 @@ $desktop: 960px + (2 * $gap) !default;
       }
     }
   }
+}
+
+a.navbar-item.is-active,
+a.navbar-item:hover,
+a.navbar-link.is-active,
+a.navbar-link:hover {
+  background-color: transparent;
+  color: $white;
 }
 
 // Dropdown Menu
