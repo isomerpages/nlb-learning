@@ -10,6 +10,7 @@ $primary-hover: darken($primary, 10%);
 $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: darken($secondary, 10%);
 
+$indigo: #322987;
 $sky: #cff2e8;
 $mint: #dce5d3;
 $jade: #00b794;
@@ -131,8 +132,41 @@ $desktop: 960px + (2 * $gap) !default;
 	&-primary {
 		background-color: $primary !important;
 	}
-	&-secondary {
+
+  &-secondary {
 		background-color: $secondary !important;
+	}
+
+  &-indigo {
+		background-color: $indigo !important;
+	}
+
+  &-sky {
+		background-color: $sky !important;
+	}
+
+  &-mint {
+		background-color: $mint !important;
+	}
+
+  &-jade {
+		background-color: $jade !important;
+	}
+
+  &-pink {
+		background-color: $pink !important;
+	}
+
+  &-ruby {
+		background-color: $ruby !important;
+	}
+
+  &-orange {
+		background-color: $orange !important;
+	}
+  
+  &-tangerine {
+		background-color: $tangerine !important;
 	}
 }
 
@@ -140,9 +174,43 @@ $desktop: 960px + (2 * $gap) !default;
 .has-text-primary {
 	color: $primary !important;
 }
+
 .has-text-secondary {
 	color: $secondary !important;
 }
+
+.has-text-indigo {
+	color: $indigo !important;
+}
+
+.has-text-sky {
+	color: $sky !important;
+}
+
+.has-text-mint {
+	color: $mint !important;
+}
+
+.has-text-jade {
+	color: $jade !important;
+}
+
+.has-text-pink {
+	color: $pink !important;
+}
+
+.has-text-ruby {
+	color: $ruby !important;
+}
+
+.has-text-orange {
+	color: $orange !important;
+}
+
+.has-text-tangerine {
+	color: $tangerine !important;
+}
+
 
 // Divider
 .hr {

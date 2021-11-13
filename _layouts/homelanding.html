@@ -3,20 +3,27 @@ layout: skeleton
 ---
 <style>
   .bg-hero {
-    background: url('{{site.baseurl}}/images/Website Banner A_13062020.jpg') no-repeat center top;
+    background: url('{{site.baseurl}}/images/masthead-icons-1366x507-1.gif') no-repeat center top;
     -webkit-background-size: contain;
-    background-color: #ffffff;
+    background-color: #322987;
     background-position: center;
     background-size: contain;
   }
   
-  .bp-hero h1 {
+/*   .bp-hero h1 {
     font-size: 40px;
     letter-spacing: 0;
     line-height: 1.3em;
-    color: #3F3D56;
+    color: #cff2e8;
   }
-  
+
+  .bp-hero p {
+    color: #cff2e8;
+  }
+   */
+
+
+
   .partners-say h1 {
     font-size: 32px;
     letter-spacing: 0;
@@ -24,7 +31,7 @@ layout: skeleton
     color: #3F3D56;
   }
   
-  .bp-hero p {
+  /* .bp-hero p {
     color: #3F3D56;
   }
   
@@ -34,7 +41,7 @@ layout: skeleton
   
   .bg-hero-bottom {
     background: {{site.colors.secondary-color}}
-  }
+  } */
   
   .helper {
     display: flex;
@@ -115,13 +122,25 @@ layout: skeleton
 	}
 </style>
 
-<section>
-	<img style="width:100%;" src="{{site.baseurl}}/images/Website Banner A_13062020.jpg">
+<section class="bp-hero bg-hero">
+    <div class="bp-hero-body">
+        <div class="bp-container margin--top--lg">
+            <div class="row is-vcentered is-centered ma">
+                <div class="col is-9 has-text-centered has-text-sky">
+                    <h1 class="display padding--bottom--lg margin--none">
+                        <b class="is-hidden-touch">Welcome to LearnX</b>
+                        <b class="is-hidden-desktop">Welcome to LearnX</b>
+                    </h1>
+                    <p class="is-hidden-mobile padding--bottom--lg has-text-sky">LearnX is an exciting new platform that lets you to dive into topics you’ve always wanted to explore. Whatever your motivation—personal development, being better informed about the world or simply wanting to learn something new—we have something for everyone. Customise your learning journey by making use of our curated content, learning pathways and communities.</p>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 
 
 
-<section class="bp-section min2bg padding--top--xl">
+<!-- <section class="bp-section min2bg padding--top--xl">
   <div class="bp-container">
     <div class="row is-hidden-desktop is-hidden-tablet-only">
       <div class="col col-text is-half padding--bottom padding--top--xl">
@@ -179,9 +198,9 @@ layout: skeleton
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
-<section class="bp-section">
+<!-- <section class="bp-section">
   <div class="bp-container">
     <div class="row is-hidden-desktop is-hidden-tablet-only">
       <div class="col col-text is-half padding--bottom padding--top--xl">
@@ -296,10 +315,10 @@ layout: skeleton
       
     </div>
   </div>
-</section>
+</section> -->
 
 
-<section class="bp-section bg-hero-bottom">
+<!-- <section class="bp-section bg-hero-bottom">
   <div class="bp-container">
     <div class="row">
       <div class="col is-8 is-offset-2 has-text-centered padding--top--xl padding--bottom--xl has-text-white">
@@ -312,9 +331,9 @@ layout: skeleton
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
-<section class="bp-section bg-newssection">
+<!-- <section class="bp-section bg-newssection">
     <div class="bp-container is-fluid">
         <div class="row">
             <div class="col is-half is-offset-one-quarter has-text-centered padding--top--xl">
@@ -337,4 +356,4 @@ layout: skeleton
             </a>
         </div>
     </div>
-</section>
+</section> -->
