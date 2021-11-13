@@ -425,6 +425,10 @@ $desktop: 960px + (2 * $gap) !default;
   margin: 0;
 }
 
+// Helpers
+.height-auto {
+  height: auto !important;
+}
 
 // Homepage
 .bg-hero {
@@ -464,6 +468,7 @@ $desktop: 960px + (2 * $gap) !default;
 
     @include touch {
       width: 100%;
+      min-height: auto;
       order: 2;
       padding: 1.5rem;
     }
