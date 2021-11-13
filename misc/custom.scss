@@ -262,21 +262,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Primary button
-.bp-pri-button {
-	color: $primary;
-	& span {
-		border-bottom: 2px solid $primary !important;
-	}
-	&:hover {
-		& span {
-	    	border-bottom: 2px solid $primary-hover !important;
-	    	color: $primary-hover !important;
-	  	}
-	  	& i {
-	    	color: $primary-hover !important;
-	  	}
-	}
-}
+
 
 
 // Secondary button
@@ -294,6 +280,22 @@ $desktop: 960px + (2 * $gap) !default;
 	    	color: $secondary-hover !important;
 	  	}
 	}
+
+  &.btn-primary {
+    color: $primary;
+    & span {
+      border-color: $primary !important;
+    }
+    &:hover {
+      & span {
+          border-color: $primary-hover !important;
+          color: $primary-hover !important;
+        }
+        & i {
+          color: $primary-hover !important;
+        }
+    }
+  }
 }
 
 // Bottom navigation bar
