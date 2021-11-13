@@ -465,6 +465,10 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch {
     right: 0;
   }
+
+  &:after {
+    content: 'next';
+  }
 }
 
 .swiper-btn-prev {
@@ -474,6 +478,10 @@ $desktop: 960px + (2 * $gap) !default;
 
   @include touch {
     right: 48px;
+  }
+
+  &:after {
+    content: 'prev';
   }
 }
 
