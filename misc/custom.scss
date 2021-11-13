@@ -484,6 +484,7 @@ $desktop: 960px + (2 * $gap) !default;
 
     @include touch {
       width: 100%;
+      min-height: auto;
       order: 1;
     }
 
