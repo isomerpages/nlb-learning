@@ -8,12 +8,10 @@ notification: ""
 sections:
   - hero:
       title: Welcome to LearnX
-      subtitle: LearnX is an exciting new platform that lets you to dive into topics
-        you’ve always wanted to explore. Whatever your motivation—personal
-        development, being
+      subtitle: LearnX is an exciting new platform that lets you to dive into topics you’ve always wanted to explore. Whatever your motivation—personal development, being better informed about the world or simply wanting to learn something new—we have something for everyone. Customise your learning journey by making use of our curated content, learning pathways and communities.
       background: /images/masthead-icons-1366x507-1.gif
-      button: Curious? Find out more.
-      url: /contact-us/
+  #    button: Curious? Find out more.
+  #    url: /contact-us/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
