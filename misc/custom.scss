@@ -171,46 +171,48 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Text color
-.has-text-primary {
-	color: $primary !important;
-}
+.has-text { 
+  
+  &-primary {
+    color: $primary !important;
+  }
 
-.has-text-secondary {
-	color: $secondary !important;
-}
+  &-secondary {
+    color: $secondary !important;
+  }
 
-.has-text-indigo {
-	color: $indigo !important;
-}
+  &-indigo {
+    color: $indigo !important;
+  }
 
-.has-text-sky {
-	color: $sky !important;
-}
+  &-sky {
+    color: $sky !important;
+  }
 
-.has-text-mint {
-	color: $mint !important;
-}
+  &-mint {
+    color: $mint !important;
+  }
 
-.has-text-jade {
-	color: $jade !important;
-}
+  &-jade {
+    color: $jade !important;
+  }
 
-.has-text-pink {
-	color: $pink !important;
-}
+  &-pink {
+    color: $pink !important;
+  }
 
-.has-text-ruby {
-	color: $ruby !important;
-}
+  &-ruby {
+    color: $ruby !important;
+  }
 
-.has-text-orange {
-	color: $orange !important;
-}
+  &-orange {
+    color: $orange !important;
+  }
 
-.has-text-tangerine {
-	color: $tangerine !important;
+  &-tangerine {
+    color: $tangerine !important;
+  }
 }
-
 
 // Divider
 .hr {
