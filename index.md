@@ -1,8 +1,6 @@
 ---
 layout: homelanding
-title: Isomer Site
+title: NLB Learn
 description: Brief site description here
-image: /images/isomer-logo.svg
 permalink: /
-notification: ""
 ---
