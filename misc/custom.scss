@@ -331,48 +331,57 @@ $desktop: 960px + (2 * $gap) !default;
 // Secondary button
 .bp-sec-button {
 	color: $secondary;
+
 	& span {
 		border-bottom: 2px solid $secondary !important;
 	}
+
 	&:hover {
 		& span {
-	    	border-bottom: 2px solid $secondary-hover !important;
-	    	color: $secondary-hover !important;
-	  	}
-	  	& i {
-	    	color: $secondary-hover !important;
-	  	}
+      border-bottom: 2px solid $secondary-hover !important;
+      color: $secondary-hover !important;
+    }
+
+    & i {
+      color: $secondary-hover !important;
+    }
 	}
 
   &.btn-primary {
     color: $primary;
+
     & span {
       border-color: $primary !important;
     }
+
     &:hover {
       & span {
-          border-color: $primary-hover !important;
-          color: $primary-hover !important;
-        }
-        & i {
-          color: $primary-hover !important;
-        }
+        border-color: $primary-hover !important;
+        color: $primary-hover !important;
+      }
+
+      & i {
+        color: $primary-hover !important;
+      }
     }
   }
 
   &.btn-sky {
     color: $sky;
+
     & span {
       border-color: $sky !important;
     }
+
     &:hover {
       & span {
-          border-color: $sky-hover !important;
-          color: $sky-hover !important;
-        }
-        & i {
-          color: $sky-hover !important;
-        }
+        border-color: $sky-hover !important;
+        color: $sky-hover !important;
+      }
+
+      & i {
+        color: $sky-hover !important;
+      }
     }
   }
 }
@@ -720,8 +729,6 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: $primary;
   }
 }
-
-
 
 // Breadcrumbs
 .bp-breadcrumb {
