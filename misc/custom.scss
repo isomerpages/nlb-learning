@@ -429,7 +429,7 @@ $desktop: 960px + (2 * $gap) !default;
 .swiper-btn-next,
 .swiper-btn-prev {
   position: absolute;
-  top: 50%;
+  bottom: 0;
   z-index: 10;
   cursor: pointer;
   display: flex;
@@ -560,10 +560,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
-
-
-
-#key-highlights{
+/* #key-highlights{
 	background-color: $primary;
 	.col {
 		border-left: 1px solid $primary-hover;
@@ -574,7 +571,8 @@ $desktop: 960px + (2 * $gap) !default;
 			background-color: $primary-hover;
 		}
 	}
-}
+} */
+
 
 // Navbar
 .navbar{
@@ -587,6 +585,7 @@ $desktop: 960px + (2 * $gap) !default;
     border-bottom: none;
     
     .navbar-item{
+      
       a {
         color: $sky;
 
@@ -616,6 +615,10 @@ $desktop: 960px + (2 * $gap) !default;
   }
 
   .navbar-item {
+
+    &:focus, &:active {
+      color:$white;
+    }
 
     .sub-link.is-active{
       color:$white;
@@ -669,6 +672,21 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+// Dropdown Menu
+.bp-dropdown {
+
+  &-item {
+    color: $black;
+
+    &:focus, &:hover {
+      color: $primary;
+    }
+
+    &.has-text-secondary {
+      color: $primary !important;
+    }
+  }
+}
 
 // Post-content
 .content {
@@ -791,9 +809,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .navbar-menu {
-  @include touch {
-    background-color: $primary;
-  }
+  background-color: $primary !important;
 }
 
 // Breadcrumbs
