@@ -625,7 +625,7 @@ $desktop: 960px + (2 * $gap) !default;
         }
 
         &.sub-link {
-          color: $primary;
+          color: $black;
 
           @include touch {
             color: $white;
@@ -692,6 +692,7 @@ $desktop: 960px + (2 * $gap) !default;
       a {
         .navbar-item {
           &:focus, &:hover {
+
             @include desktop {
               color: $primary !important;
             }
