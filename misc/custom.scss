@@ -631,6 +631,20 @@ $desktop: 960px + (2 * $gap) !default;
       }
     }
   }
+
+  &.is-indigo-sky {
+    background-color: $primary;
+    color: $sky;
+
+    a {
+      color: $sky;
+    
+      &:focus, &:hover {
+        background-color: $sky;
+        color: $primary;
+      }
+    }
+  }
   
   &.is-mint-jade {
     background-color: $mint;
@@ -645,6 +659,20 @@ $desktop: 960px + (2 * $gap) !default;
       }
     }
   }
+
+  &.is-jade-mint {
+    background-color: $jade;
+    color: $mint;
+
+    a {
+      color: $mint;
+    
+      &:focus, &:hover {
+        background-color: $mint;
+        color: $jade;
+      }
+    }
+  }
   
   &.is-pink-ruby {
     background-color: $pink;
@@ -656,6 +684,48 @@ $desktop: 960px + (2 * $gap) !default;
       &:focus, &:hover {
         background-color: $ruby;
         color: $pink;
+      }
+    }
+  }
+
+  &.is-ruby-pink {
+    background-color: $ruby;
+    color: $pink;
+
+    a {
+      color: $pink;
+    
+      &:focus, &:hover {
+        background-color: $pink;
+        color: $ruby;
+      }
+    }
+  }
+
+  &.is-tangerine-orange {
+    background-color: $tangerine;
+    color: $orange;
+
+    a {
+      color: $orange;
+    
+      &:focus, &:hover {
+        background-color: $orange;
+        color: $tangerine;
+      }
+    }
+  }
+
+  &.is-orange-tangerine {
+    background-color: $orange;
+    color: $tangerine;
+
+    a {
+      color: $tangerine;
+    
+      &:focus, &:hover {
+        background-color: $tangerine;
+        color: $orange;
       }
     }
   }
