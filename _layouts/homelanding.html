@@ -21,50 +21,63 @@ layout: skeleton
 </section>
 
 <section class="bp-section is-mint">
-    <!-- Slider main container -->
-    <div class="swiper">
-        <!-- Additional required wrapper -->
-        <div class="swiper-wrapper">
-            <!-- Slides -->
-            <div class="swiper-slide">Slide 1</div>
-            <div class="swiper-slide">Slide 2</div>
-            <div class="swiper-slide">Slide 3</div>
-            ...
+    <!-- Carousel -->
+    <div class="media-wrap">
+        <div class="swiper-container image-carousel" id="image_carousel">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="single-slide">
+                <div class="figure-wrap">
+                  <div class="fixed-16by9 figure-img">
+                    <img src="assets/img/haydairies-1.jpg" alt="" class="img-contain">
+                  </div>
+                  <figcaption class="figure-caption">
+                    <p>A caption for the above image.</p>
+                  </figcaption>
+                </div>
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="single-slide">
+                <div class="figure-wrap">
+                  <div class="fixed-16by9 figure-img">
+                    <img src="assets/img/haydairies-2.jpg" alt="" class="img-contain">
+                  </div>
+                  <figcaption class="figure-caption">
+                    <p>A caption for the above image.</p>
+                  </figcaption>
+                </div>
+              </div>
+            </div>
+
+          </div>
         </div>
-        <!-- If we need pagination -->
-        <div class="swiper-pagination"></div>
-
-        <!-- If we need navigation buttons -->
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>
-
-        <!-- If we need scrollbar -->
-        <div class="swiper-scrollbar"></div>
-    </div>
+        <!-- Add Arrows -->
+        <div class="swiper-button-next __outer" id="swiper_btn_next_2"><i class="far fa-chevron-right"></i>
+        </div>
+        <div class="swiper-button-prev __outer" id="swiper_btn_prev_2"><i class="far fa-chevron-left"></i></div>
+        <!-- Pagination -->
+        <div class="swiper-pagination __outer" id="swiper_pagination_2"></div>
+      </div>
+      <!-- /.Carousel -->
 </section>
-<script>
-    const swiper = new Swiper('.swiper', {
-        // Optional parameters
-        direction: 'vertical',
-        loop: true,
 
-        // If we need pagination
-        pagination: {
-            el: '.swiper-pagination',
-        },
-
-        // Navigation arrows
-        navigation: {
-            nextEl: '.swiper-button-next',
-            prevEl: '.swiper-button-prev',
-        },
-
-        // And if we need scrollbar
-        scrollbar: {
-            el: '.swiper-scrollbar',
-        },
+<script type="text/javascript">
+    var swiper2 = new Swiper('#image_carousel', {
+      loop: false,
+      pagination: {
+        el: '#swiper_pagination_2',
+        type: 'bullets',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '#swiper_btn_next_2',
+        prevEl: '#swiper_btn_prev_2',
+      }
     });
-</script>
+  </script>
 
 <section class="bp-section is-mint">
     <div class="bp-container">
