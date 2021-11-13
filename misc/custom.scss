@@ -626,8 +626,9 @@ $desktop: 960px + (2 * $gap) !default;
       color: $primary;
     
       &:focus, &:hover {
-      background-color: $primary;
-      color: $sky;
+        background-color: $primary;
+        color: $sky;
+      }
     }
   }
   
@@ -639,8 +640,9 @@ $desktop: 960px + (2 * $gap) !default;
       color: $jade;
     
       &:focus, &:hover {
-      background-color: $jade;
-      color: $mint;
+        background-color: $jade;
+        color: $mint;
+      }
     }
   }
   
@@ -652,8 +654,9 @@ $desktop: 960px + (2 * $gap) !default;
       color: $ruby;
     
       &:focus, &:hover {
-      background-color: $ruby;
-      color: $pink;
+        background-color: $ruby;
+        color: $pink;
+      }
     }
   }
   
@@ -665,8 +668,9 @@ $desktop: 960px + (2 * $gap) !default;
       color: $primary;
     
       &:focus, &:hover {
-      background-color: $primary;
-      color: $mint;
+        background-color: $primary;
+        color: $mint;
+      }
     }
   }
 }
