@@ -19,6 +19,15 @@ $ruby: #a60517;
 $orange: #ffc9ad;
 $tangerine: #fe5828;
 
+$indigo-hover: darken($indigo, 10%);
+$sky-hover: darken($sky, 10%);
+$mint-hover: darken($mint, 10%);
+$jade-hover: darken($jade, 10%);
+$pink-hover: darken($pink, 10%);
+$ruby-hover: darken($ruby, 10%);
+$orange-hover: darken($orange, 10%);
+$tangerine-hover: darken($tangerine, 10%);
+
 $white: #ffffff;
 $black: #000000;
 $black-10: mix($black, $white, 10%);
@@ -293,6 +302,22 @@ $desktop: 960px + (2 * $gap) !default;
         }
         & i {
           color: $primary-hover !important;
+        }
+    }
+  }
+
+  &.btn-sky {
+    color: $sky;
+    & span {
+      border-color: $sky !important;
+    }
+    &:hover {
+      & span {
+          border-color: $sky-hover !important;
+          color: $sky-hover !important;
+        }
+        & i {
+          color: $sky-hover !important;
         }
     }
   }
