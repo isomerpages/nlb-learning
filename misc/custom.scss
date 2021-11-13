@@ -621,11 +621,15 @@ $desktop: 960px + (2 * $gap) !default;
         color: $white;
 
         @include touch {
-          color: $ruby;
+          color: $white !important;
         }
 
         &.sub-link {
-          color: $white;
+          color: $primary;
+
+          @include touch {
+            color: $white;
+          }
         }
       }
     }
@@ -641,8 +645,9 @@ $desktop: 960px + (2 * $gap) !default;
     }
 
     &.is-search-bar {
-      border-top: none;
+      border: none;
       padding: 0.5rem 0.75rem;
+      background-color: $primary-hover;
     }
 
     &.active{
@@ -682,14 +687,13 @@ $desktop: 960px + (2 * $gap) !default;
   }
 
   &.is-transparent {
-    
 
     .navbar-dropdown {
       a {
         .navbar-item {
           &:focus, &:hover {
             @include desktop {
-              color: $primary;
+              color: $primary !important;
             }
           }
         }
@@ -718,6 +722,11 @@ a.navbar-link:hover {
 
     &.has-text-secondary {
       color: $primary !important;
+
+      &:focus, &:hover {
+        color: $primary !important;
+      }
+
     }
   }
 }
