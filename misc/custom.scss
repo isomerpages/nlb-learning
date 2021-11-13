@@ -621,7 +621,7 @@ $desktop: 960px + (2 * $gap) !default;
         color: $white;
 
         @include touch {
-          color: $white;
+          color: $ruby;
         }
 
         &.sub-link {
@@ -843,7 +843,7 @@ a.navbar-link:hover {
 
   &:focus, &:hover {
     background-color: transparent;
-    
+
     span {
       background-color: $white;
     }
