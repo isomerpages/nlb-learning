@@ -1,13 +1,8 @@
-var swiper = new Swiper('#image_carousel', {
+const swiper = new Swiper('.swiper', {
     loop: false,
-    pagination: {
-    el: '#swiper_pagination',
-    type: 'bullets',
-    clickable: true,
-    },
     navigation: {
-    nextEl: '#swiper_btn_next',
-    prevEl: '#swiper_btn_prev',
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
     }
 });
 
