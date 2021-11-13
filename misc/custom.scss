@@ -446,6 +446,7 @@ $desktop: 960px + (2 * $gap) !default;
   &-content {
     display: flex;
     flex-direction: column;
+    box-sizing: border-box;
     width: 50%;
     min-height: 480px;
     padding: 4rem;
@@ -465,23 +466,23 @@ $desktop: 960px + (2 * $gap) !default;
 
   &-image {
     display: flex;
+    box-sizing: border-box;
     width: 50%;
     min-height: 480px;
     justify-content: flex-end;
-    
+    order: 1;
+
+    @include touch {
+      width: 100%;
+      order: 1;
+    }
+
     &.align-top {
       align-items: flex-start;
     }
 
     &.align-bottom {
       align-items: flex-end;
-    }
-
-    order: 1;
-
-    @include touch {
-      width: 100%;
-      order: 1;
     }
   }
 }
