@@ -30,7 +30,7 @@ layout: skeleton
               <div class="single-slide">
                 <div class="figure-wrap">
                   <div class="fixed-16by9 figure-img">
-                    <img src="assets/img/haydairies-1.jpg" alt="" class="img-contain">
+                    <img src="/images/logo-nyp-white.png" class="logo-nyp-white" alt="NYP">
                   </div>
                   <figcaption class="figure-caption">
                     <p>A caption for the above image.</p>
@@ -43,7 +43,7 @@ layout: skeleton
               <div class="single-slide">
                 <div class="figure-wrap">
                   <div class="fixed-16by9 figure-img">
-                    <img src="assets/img/haydairies-2.jpg" alt="" class="img-contain">
+                    <img src="/images/logo-nyp-white.png" class="logo-nyp-white" alt="NYP">
                   </div>
                   <figcaption class="figure-caption">
                     <p>A caption for the above image.</p>
@@ -55,29 +55,16 @@ layout: skeleton
           </div>
         </div>
         <!-- Add Arrows -->
-        <div class="swiper-button-next __outer" id="swiper_btn_next_2"><i class="far fa-chevron-right"></i>
+        <div class="swiper-button-next __outer" id="swiper_btn_next"><i class="far fa-chevron-right"></i>
         </div>
-        <div class="swiper-button-prev __outer" id="swiper_btn_prev_2"><i class="far fa-chevron-left"></i></div>
+        <div class="swiper-button-prev __outer" id="swiper_btn_prev"><i class="far fa-chevron-left"></i></div>
         <!-- Pagination -->
-        <div class="swiper-pagination __outer" id="swiper_pagination_2"></div>
+        <div class="swiper-pagination __outer" id="swiper_pagination"></div>
       </div>
       <!-- /.Carousel -->
 </section>
 
-<script type="text/javascript">
-    var swiper2 = new Swiper('#image_carousel', {
-      loop: false,
-      pagination: {
-        el: '#swiper_pagination_2',
-        type: 'bullets',
-        clickable: true,
-      },
-      navigation: {
-        nextEl: '#swiper_btn_next_2',
-        prevEl: '#swiper_btn_prev_2',
-      }
-    });
-  </script>
+
 
 <section class="bp-section is-mint">
     <div class="bp-container">
@@ -340,3 +327,18 @@ layout: skeleton
         </div>
     </div>
 </section> -->
+
+<script type="text/javascript">
+var swiper = new Swiper('#image_carousel', {
+    loop: false,
+    pagination: {
+    el: '#swiper_pagination',
+    type: 'bullets',
+    clickable: true,
+    },
+    navigation: {
+    nextEl: '#swiper_btn_next',
+    prevEl: '#swiper_btn_prev',
+    }
+});
+</script>
