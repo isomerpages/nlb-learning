@@ -19,8 +19,31 @@ layout: skeleton
         </div>
     </div>
 </section>
+<style>
+    .home-carousel {
+        position: relative;
+        display: flex;
+        flex-direction: row;
+    }
 
-<section class="bp-section is-mint">
+    .home-carousel-content {
+        display: flex;
+        width: 50%;
+        height: 480px;
+        padding: 4rem;
+    }
+
+    .home-carousel-image {
+        display: flex;
+        width: 50%;
+        height: 480px;
+        justify-content: flex-end;
+        align-items: flex-end;
+    }
+
+
+</style>
+<section class="bp-section">
     <!-- Carousel -->
     <div class="media-wrap">
         <div class="swiper-container image-carousel" id="image_carousel">
@@ -28,26 +51,26 @@ layout: skeleton
 
             <div class="swiper-slide">
               <div class="single-slide">
-                <div class="figure-wrap">
-                  <div class="fixed-16by9 figure-img">
-                    <img src="/images/logo-nyp-white.png" class="logo-nyp-white" alt="NYP">
-                  </div>
-                  <figcaption class="figure-caption">
-                    <p>A caption for the above image.</p>
-                  </figcaption>
+                <div class="home-carousel is-ruby">
+                    <div class="home-carousel-content">
+                        <h6>LearnX Careers</h6>
+                        <h3>Perfect for professionals, small businesses and entrepreneurs looking to take the next step. </h3>
+                    </div>
+                    <div class="home-carousel-image">
+                        <img src="/images/logo-nyp-white.png" class="logo-nyp-white" alt="NYP">
+                    </div>
                 </div>
               </div>
-            </div>
 
-            <div class="swiper-slide">
               <div class="single-slide">
-                <div class="figure-wrap">
-                  <div class="fixed-16by9 figure-img">
-                    <img src="/images/logo-nyp-white.png" class="logo-nyp-white" alt="NYP">
-                  </div>
-                  <figcaption class="figure-caption">
-                    <p>A caption for the above image.</p>
-                  </figcaption>
+                <div class="home-carousel is-indigo">
+                    <div class="home-carousel-content">
+                        <h6>LearnX Careers</h6>
+                        <h3>Perfect for professionals, small businesses and entrepreneurs looking to take the next step. </h3>
+                    </div>
+                    <div class="home-carousel-image">
+                        <img src="/images/logo-nyp-white.png" class="logo-nyp-white" alt="NYP">
+                    </div>
                 </div>
               </div>
             </div>
