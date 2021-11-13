@@ -676,6 +676,22 @@ $desktop: 960px + (2 * $gap) !default;
       }
     }
   }
+
+  &.is-transparent {
+    
+
+    .navbar-dropdown {
+      a {
+        .navbar-item {
+          &:focus, &:hover {
+            @include desktop {
+              color: $primary;
+            }
+          }
+        }
+      }
+    }
+  }
 }
 
 a.navbar-item.is-active,
