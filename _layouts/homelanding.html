@@ -17,6 +17,42 @@ layout: skeleton
     </div>
 </section>
 
+<section>
+    <div class="owl-carousel owl-theme">
+        <div class="item"><h4>1</h4></div>
+        <div class="item"><h4>2</h4></div>
+        <div class="item"><h4>3</h4></div>
+        <div class="item"><h4>4</h4></div>
+        <div class="item"><h4>5</h4></div>
+        <div class="item"><h4>6</h4></div>
+        <div class="item"><h4>7</h4></div>
+        <div class="item"><h4>8</h4></div>
+        <div class="item"><h4>9</h4></div>
+        <div class="item"><h4>10</h4></div>
+        <div class="item"><h4>11</h4></div>
+        <div class="item"><h4>12</h4></div>
+    </div>
+</section>
+
+<script>
+    $('.owl-carousel').owlCarousel({
+        loop:true,
+        margin:10,
+        nav:true,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:3
+            },
+            1000:{
+                items:5
+            }
+        }
+    })
+</script>
+
 <section class="bp-section is-mint">
     <div class="bp-container">
         <div class="row">
@@ -42,14 +78,14 @@ layout: skeleton
         <div class="row">
             <div class="col is-half is-offset-one-quarter has-text-centered padding--top--xl">
                 <h2 class="has-text-sky padding--bottom"><b>Partners</b></h2>
-                <p class="padding--bottom"><img src="/images/communities-sustainbility-1.png" alt="NYP"></p>
+                <p class="padding--bottom"><img src="/images/logo-nyp-white.png" class="logo-nyp-white" alt="NYP"></p>
                 <p class="has-text-sky">NLB & NYP are partnering to develop a series of learning pathways that are essentially the starter pack to the different topics offered by LearnX. Programmes exploring Careers, Digital and Sustainability are available to everyone at public libraries or online.</p>
             </div>
         </div>
     </div>
     <div class="row has-text-centered margin--top padding--bottom--xl">
         <div class="col is-offset-one-third is-one-third">
-            <a href="/communities/overview" class="bp-sec-button btn-sky">
+            <a href="#" class="bp-sec-button btn-sky">
                 <div>
                     <span>Learn More</span>
                     <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>

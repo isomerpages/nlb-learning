@@ -368,6 +368,10 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: transparent;
 }
 
+.logo-nyp-white {
+  max-width: 340px;
+}
+
 #key-highlights{
 	background-color: $primary;
 	.col {
