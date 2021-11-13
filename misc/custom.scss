@@ -425,6 +425,43 @@ $desktop: 960px + (2 * $gap) !default;
   margin: 0;
 }
 
+// Swiper
+.swiper-button-next,
+.swiper-button-prev {
+  background-color: rgba(0,0,0,.5);
+  width: 68px;
+  height: 68px;
+  bottom: 0;
+
+  @include touch {
+    width: 48px;
+    height: 48px;
+  }
+
+  &:after {
+    font-size: 18px;
+    color: $white;
+  }
+}
+
+.swiper-button-next {
+  right: 50%;
+  left: auto;
+
+  @include touch {
+    right: 0;
+  }
+}
+
+.swiper-button-prev {
+  left: auto;
+  right: calc(50% + 68px);
+
+  @include touch {
+    right: 48px;
+  }
+}
+
 // Helpers
 .height-auto {
   height: auto !important;
@@ -450,7 +487,7 @@ $desktop: 960px + (2 * $gap) !default;
 .home-carousel {
   position: relative;
   display: flex;
-  height: auto;
+  height: 100%;
   flex-direction: row;
 
   @include touch {
@@ -463,6 +500,7 @@ $desktop: 960px + (2 * $gap) !default;
     box-sizing: border-box;
     width: 50%;
     min-height: 480px;
+    height: 100%;
     padding: 4rem;
     justify-content: space-between;
     order: 1;
@@ -498,6 +536,8 @@ $desktop: 960px + (2 * $gap) !default;
     }
   }
 }
+
+
 
 
 #key-highlights{
