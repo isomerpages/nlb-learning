@@ -446,7 +446,13 @@ $desktop: 960px + (2 * $gap) !default;
   }
 
   &:after {
+    font-family: swiper-icons;
     font-size: 18px;
+    text-transform: none !important;
+    letter-spacing: 0;
+    text-transform: none;
+    font-variant: initial;
+    line-height: 1;
     color: $white;
   }
 }
@@ -454,6 +460,7 @@ $desktop: 960px + (2 * $gap) !default;
 .swiper-btn-next {
   right: 50%;
   left: auto;
+  border-left: 1px solid $black;
 
   @include touch {
     right: 0;
@@ -463,6 +470,7 @@ $desktop: 960px + (2 * $gap) !default;
 .swiper-btn-prev {
   left: auto;
   right: calc(50% + 68px);
+  border-right: 1px solid $black;
 
   @include touch {
     right: 48px;
@@ -471,7 +479,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Helpers
 .height-auto {
-  height: auto;
+  height: auto !important;
 }
 
 // Homepage
