@@ -426,8 +426,15 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Swiper
-.swiper-button-next,
-.swiper-button-prev {
+.swiper-btn-next,
+.swiper-btn-prev {
+  position: absolute;
+  top: 50%;
+  z-index: 10;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: rgba(0,0,0,.5);
   width: 68px;
   height: 68px;
@@ -444,7 +451,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
-.swiper-button-next {
+.swiper-btn-next {
   right: 50%;
   left: auto;
 
@@ -453,7 +460,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
-.swiper-button-prev {
+.swiper-btn-prev {
   left: auto;
   right: calc(50% + 68px);
 
@@ -464,7 +471,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Helpers
 .height-auto {
-  height: auto !important;
+  height: auto;
 }
 
 // Homepage
