@@ -690,11 +690,12 @@ $desktop: 960px + (2 * $gap) !default;
 
     .navbar-dropdown {
       a {
-        .navbar-item {
+        &.navbar-item {
+
           &:focus, &:hover {
 
             @include desktop {
-              color: $primary !important;
+              color: $primary;
             }
           }
         }
