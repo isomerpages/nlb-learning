@@ -343,10 +343,6 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: transparent;
 }
 
-
-
-
-
 #key-highlights{
 	background-color: $primary;
 	.col {
@@ -359,7 +355,6 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 	}
 }
-
 
 // Navbar
 .navbar{
