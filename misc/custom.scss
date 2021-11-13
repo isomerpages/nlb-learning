@@ -249,13 +249,69 @@ $desktop: 960px + (2 * $gap) !default;
   &.is-primary-outline {
     border: 1px solid $primary;
     color: $primary;
-    background-color: $white;
+    background-color: transparent;
     text-decoration: none;
 
     &:focus, &:hover {
-      border: 1px solid $primary;
-      color: $white;
-      background-color: $primary;
+      border: 1px solid $primary-hover;
+      color: $primary-hover;
+      background-color: transparent;
+      text-decoration: none;
+    }
+  }
+
+  &.is-secondary-outline {
+    border: 1px solid $secondary;
+    color: $secondary;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $secondary-hover;
+      color: $secondary-hover;
+      background-color: transparent;
+      text-decoration: none;
+    }
+  }
+
+  &.is-sky-outline {
+    border: 1px solid $sky;
+    color: $sky;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $sky-hover;
+      color: $sky-hover;
+      background-color: transparent;
+      text-decoration: none;
+    }
+  }
+
+  &.is-pink-outline {
+    border: 1px solid $pink;
+    color: $pink;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $pink-hover;
+      color: $pink-hover;
+      background-color: transparent;
+      text-decoration: none;
+    }
+  }
+
+  &.is-mint-outline {
+    border: 1px solid $mint;
+    color: $mint;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $mint-hover;
+      color: $mint-hover;
+      background-color: transparent;
       text-decoration: none;
     }
   }
@@ -391,19 +447,26 @@ $desktop: 960px + (2 * $gap) !default;
     display: flex;
     flex-direction: column;
     width: 50%;
-    height: 480px;
+    min-height: 480px;
     padding: 4rem;
+    justify-content: space-between;
     order: 1;
 
     @include touch {
+      width: 100%;
       order: 2;
+      padding: 1.5rem;
+    }
+
+    > h3 {
+      line
     }
   }
 
   &-image {
     display: flex;
     width: 50%;
-    height: 480px;
+    min-height: 480px;
     justify-content: flex-end;
     
     &.align-top {
@@ -417,6 +480,7 @@ $desktop: 960px + (2 * $gap) !default;
     order: 1;
 
     @include touch {
+      width: 100%;
       order: 1;
     }
   }
