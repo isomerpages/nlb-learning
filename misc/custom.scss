@@ -986,6 +986,12 @@ a.navbar-link:hover {
     }
   }
 
+  &.has-bg-img {
+    background-image: url('/images/communities-cta-bg-careers-1.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+
   &.is-sky-indigo {
     background-color: $sky;
     color: $primary;
