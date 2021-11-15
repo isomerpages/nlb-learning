@@ -992,8 +992,12 @@ a.navbar-link:hover {
     background-image: url('/images/communities-cta-bg-digital-1.jpg');
     color: $sky;
 
-    &:focus, &:hover {
-      color: $white;
+    a {
+      color: $sky;
+      
+      &:focus, &:hover {
+        color: $white;
+      }
     }
   }
 
@@ -1003,8 +1007,12 @@ a.navbar-link:hover {
     background-image: url('/images/communities-cta-bg-careers-1.jpg');
     color: $pink;
 
-    &:focus, &:hover {
-      color: $white;
+    a {
+      color: $pink;
+      
+      &:focus, &:hover {
+        color: $white;
+      }
     }
   }
 
@@ -1014,8 +1022,12 @@ a.navbar-link:hover {
     background-image: url('/images/communities-cta-bg-sustainability-1.jpg');
     color: $mint;
 
-    &:focus, &:hover {
-      color: $white;
+    a {
+      color: $mint;
+
+      &:focus, &:hover {
+        color: $white;
+      }
     }
   }
 
