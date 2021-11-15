@@ -10,14 +10,14 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
 
 <div class="row is-multiline">
   <div class="col is-half">
-    <div class="clickbox has-bg-img" style="">
+    <div class="clickbox is-careers" style="">
       <a href="#">
         <span>Careers Communities</span>
       </a>
     </div>
   </div>
   <div class="col is-half">
-    <div class="clickbox has-bg-img">
+    <div class="clickbox is-digital">
       <a href="#">
         <span>Digital Communities</span>
       </a>
@@ -27,7 +27,7 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
 
 <div class="row is-multiline">
   <div class="col is-half">
-    <div class="clickbox has-bg-img">
+    <div class="clickbox is-sustainability">
       <a href="#">
         <span>Sustainability Communities</span>
       </a>

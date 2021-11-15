@@ -986,10 +986,37 @@ a.navbar-link:hover {
     }
   }
 
-  &.has-bg-img {
-    background-image: url('/images/communities-cta-bg-careers-1.jpg');
+  &.is-digital {
     background-position: center;
     background-size: cover;
+    background-image: url('/images/communities-cta-bg-digital-1.jpg');
+    color: $sky;
+
+    &:focus, &:hover {
+      color: $white;
+    }
+  }
+
+  &.is-careers {
+    background-position: center;
+    background-size: cover;
+    background-image: url('/images/communities-cta-bg-careers-1.jpg');
+    color: $pink;
+
+    &:focus, &:hover {
+      color: $white;
+    }
+  }
+
+  &.is-sustainability {
+    background-position: center;
+    background-size: cover;
+    background-image: url('/images/communities-cta-bg-sustainability-1.jpg');
+    color: $mint;
+
+    &:focus, &:hover {
+      color: $white;
+    }
   }
 
   &.is-sky-indigo {
