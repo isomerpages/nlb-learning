@@ -8,7 +8,7 @@ Head over to GoLibrary to register for upcoming sessions of your chosen communit
 
 If you do not see any upcoming events, send in an enquiry and we’ll get back to you with any updates.
 
-<div class="row is-multiline">
+<div class="row is-multiline margin--top--lg">
   <div class="col is-half">
     <div class="clickbox is-careers" style="">
       <a href="#">

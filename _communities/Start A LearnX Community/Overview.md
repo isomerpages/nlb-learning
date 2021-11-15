@@ -10,8 +10,7 @@ We are looking for Learning Communities on the following topics:
 
 ### **Careers<br>Digital<br>Sustainability<br>Wellness<br>Arts<br>Reading<br>Science<br>Singapore**
 
-
-<div class="row is-multiline">
+<div class="row is-multiline margin--top--lg">
   <div class="col is-one-third">
     <div class="clickbox is-generic">
       <a href="/communities/start/helpful-hints">
