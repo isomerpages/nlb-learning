@@ -18,4 +18,4 @@ Click here for the latest programme listings.
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-Children-Prog-01.png)
 A series of talks, workshops, publications on Sustainability themes for children aged 7-9.   
 
-Click here for the latest programme listings.
+Click [here](https://go.gov.sg/cckpl) for the latest programme listings.
