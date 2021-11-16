@@ -6,7 +6,7 @@ third_nav_title: Preschoolers
 ---
 ### **Programmes**
 
-Introduce your child to the world of sustainable living through interactive workshops
+Introduce your child to the world of sustainable living through interactive workshops, talks, storytelling sessions and events.
 
 # Caring For The Environment
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-Preschool-01.png)
