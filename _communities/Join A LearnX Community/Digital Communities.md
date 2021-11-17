@@ -8,7 +8,6 @@ third_nav_title: Join A LearnX Community
 
 A tech-whiz or a total beginner, there’s a community out there for you.
 
-<br>
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
     <img src="/images/learning-communities/digital/LC-Digital-Stockimage-04.jpg" alt="Code Breakers">
