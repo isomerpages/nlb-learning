@@ -7,7 +7,6 @@ third_nav_title: Join A LearnX Community
 ### **Careers Communities**
 You’re not alone in your journey to future-proof yourself professionally. Get support and motivation from group members as you navigate challenges, success and opportunities together.
 
-<br>
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
     <img src="/images/learning-communities/careers/LC-Career-Stockimage-01.jpg" alt="Association of Chartered Certified Accountants (ACCA) Learning Community">
