@@ -4,10 +4,10 @@ permalink: /sustainability/adults-seniors/programmes
 description: ""
 third_nav_title: Adults & Seniors
 ---
-### **Programmes**
+
 Hear from experts, attend workshops, and connect with your community to start your sustainable living journey. 
 
-# Thematic Expert Talks
+## **Thematic Expert Talks**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-08.png)
 
 In partnership with **NUS’s Ridge View Residential College (RVRC)**, this series of quarterly themed talks unpacks pertinent sustainability topics and makes them accessible whatever your background.
@@ -18,14 +18,14 @@ All talks are listed on Eventbrite and suitable for adults and seniors.
 
 Click here for the latest programme listings.
 
-# WWF Explains
+## **WWF Explains**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-09.png)
 
 A signature series with WWF Singapore that features conservation experts discussing the unexpected links between our daily concerns and the environment. Held on a quarterly basis.
 
 Click here for the latest programme listings.
 
-# Garden Talks by Nparks
+## **Garden Talks by Nparks**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-01.jpg)
 
 Started at Queenstown Public Library, this series of garden talks is a collaboration with National Parks Board (NParks) in promoting green living in the city and sharing of knowledge on home gardening. 
@@ -34,7 +34,7 @@ Held on a quarterly basis, this programme is specially targeted at seniors who w
 
 Click here for the latest programme listings.
 
-# Build Your Own Workshop
+## **Build Your Own Workshop**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-02.jpg)
 
 Get ready to get your hands dirty as you learn how to make lifestyle products such as beauty scrubs and items for home use using discardables and décor items with elements from nature. 
@@ -43,7 +43,7 @@ Pitched at beginners, these workshops held monthly for seniors and quarterly for
 
 Click here for the latest programme listings.
 
-# Green Market
+## **Green Market**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-03.png)
 
 A signature event that presents a range of fun activities and programmes from talks, workshops to activity booths that will engage you in sustainable practices and green groups to support. Look forward to different concepts from farmer’s markets, swaps to service-learning experiences. The Biodiversity Festival is a form of the Green Market.
@@ -54,7 +54,7 @@ Conducted over 2-3 days, the Green Market is suitable for the whole family.
 
 Click here for the latest programme listings.
 
-# Learning Journeys
+## **Learning Journeys**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-05.jpg)
 
 If you are an outdoorsy person, then this will be right up your alley. 
@@ -65,7 +65,7 @@ These journeys are open to both adults and seniors and held on a quarterly basis
 
 Click here for the latest programme listings.
 
-# Sustainable Chapter
+## **Sustainable Chapter**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-06.jpg)
 
 Be prepared to be inspired. Practitioners, innovators, grandfluencers, ordinary adults and seniors will share how they adopt and practise natural or sustainable living together with our librarian. 
@@ -74,7 +74,7 @@ This series is specially targeted at seniors who want to more ideas on how they 
 
 Click here for the latest programme listings.
 
-# ECO Warrior Competition 
+## **ECO Warrior Competition**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-07.png)
 
 Share your personal sustainable practises with us and win $500 in vouchers! This competition is supported by Capitaland Hope Foundation, Lot One and Infracrowd Asia Pte Ltd. 
