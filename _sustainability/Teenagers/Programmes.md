@@ -11,4 +11,4 @@ Let these programmes inspire you to live more sustainably!
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-Teens-Prog-01.jpg)
 A series of talks and workshops for teens to explore various green topics and projects. 
 
-Click [here](https://go.gov.sg/nlb-teensprogs) for the latest programme listings.
+Click here for the latest programme listings.
