@@ -4,10 +4,10 @@ permalink: /digital/preschoolers/programmes
 description: ""
 third_nav_title: Preschoolers
 ---
-### **Programmes**
+
 Sneak a bit of activities that builds computational thinking your child will get to have a holistic learning experience that is experiential and interactive!
 
-# Discovertech
+## **Discovertech**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-Preschooler-01.png)
 
 Help future-proof your child with this series of introductory workshops and talks focusing on preparing your child to navigate in the digital environment! Suitable for children and parents of children 4-6 years old.   
