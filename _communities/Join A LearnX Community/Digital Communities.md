@@ -10,7 +10,7 @@ A tech-whiz or a total beginner, there’s a community out there for you.
 
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
-    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-03.jpg" alt=" Code Breakers">
+    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-04.jpg" alt=" Code Breakers">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Code Breakers</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Always been curious about coding? Join us to learn the basics! 
@@ -19,7 +19,7 @@ Set your own goals and determine your own pace of learning—no pressure! </p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
-    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-02.jpg" alt="The Video Creators Club">
+    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-06.jpg" alt="The Video Creators Club">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>The Video Creators Club</b></h5>
       <p class="margin--top--sm margin--bottom--sm">If you’ve always wanted to try your hand at video creation, this is the group for you. Aimed at beginners and amateurs, this community is helmed by Mr. Phillip Au, a professional videographer.</p>
@@ -27,7 +27,7 @@ Set your own goals and determine your own pace of learning—no pressure! </p>
     </div>
   </div>
 <div class="col is-half-tablet padding--bottom--lg">
-    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-03.jpg" alt="Pi and Python">
+    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-07.jpg" alt="Pi and Python">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Pi and Python</b></h5>
       <p class="margin--top--sm margin--bottom--sm">Always wondered how a Smart Home works? Join us at our Pi and Python group to learn more about Raspberry Pi and programme it using the Python Language.</p>
