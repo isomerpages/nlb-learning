@@ -7,12 +7,14 @@ third_nav_title: Adults & Seniors
 ### **Programmes**
 Hear from experts, attend workshops, and connect with your community to start your sustainable living journey. 
 
-# Expert Talks
+# Thematic Expert Talks
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-08.png)
 
-In partnership with NUS’s Ridge View Residential College (RVRC), this is a series of themed talks that unpacks sustainability topics and makes them accessible to everyone. 
+In partnership with **NUS’s Ridge View Residential College (RVRC)**, this series of quarterly themed talks unpacks pertinent sustainability topics and makes them accessible whatever your background.
 
-Held on a bi-monthly basis, these talks are suitable for adults, seniors and the curious or clueless.   
+Held on a bi-monthly basis, these talks seek to better your knowledge about Sustainability. 
+
+All talks are listed on Eventbrite and suitable for adults and seniors.    
 
 Click here for the latest programme listings.
 
@@ -32,28 +34,43 @@ Held on a quarterly basis, this programme is specially targeted at seniors who w
 
 Click here for the latest programme listings.
 
+# Build Your Own Workshop
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-02.jpg)
+
+Get ready to get your hands dirty as you learn how to make lifestyle products such as beauty scrubs and items for home use using discardables and décor items with elements from nature. 
+
+Pitched at beginners, these workshops held monthly for seniors and quarterly for adults. 
+
+Click here for the latest programme listings.
+
 # Green Market
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-03.png)
 
-If you have been wondering how to start or ways to contribute further in your sustainability journey, look no further than the Green Market.
+A signature event that presents a range of fun activities and programmes from talks, workshops to activity booths that will engage you in sustainable practices and green groups to support. Look forward to different concepts from farmer’s markets, swaps to service-learning experiences. The Biodiversity Festival is a form of the Green Market.
 
-This signature event consists of fun activities and programmes including talks, workshops and activity booths to get you excited about sustainable practices. Look forward to concepts such as farmer’s markets and the Biodiversity Festival. 
+If you have been wondering how to start or ways to contribute further in your sustainability journey, look no further than the Green Market. 
+
+Conducted over 2-3 days, the Green Market is suitable for the whole family.
 
 Click here for the latest programme listings.
 
 # Learning Journeys
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-05.jpg)
 
-If you describe yourself as an “outdoorsy person” this will hit the spot. Visit places such as Semakau Island and even beach clean-ups to experience sustainability up close. 
+If you are an outdoorsy person, then this will be right up your alley. 
+
+Nothing beats getting up close to learn how Singapore and various organisations have implemented sustainable solutions. Here you can expect visits to places such as Semakau Island, tree-planting at our parks and even beach clean ups to experience Sustainability in action. 
+
+These journeys are open to both adults and seniors and held on a quarterly basis. 
 
 Click here for the latest programme listings.
 
 # Sustainable Chapter
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-06.jpg)
 
-Hear from those who have adopted the sustainable way of life. Practitioners, innovators, ordinary adults and seniors share their journey to living a more eco-conscious life.  
+Be prepared to be inspired. Practitioners, innovators, grandfluencers, ordinary adults and seniors will share how they adopt and practise natural or sustainable living together with our librarian. 
 
-This series is specially targeted at seniors who would like more ideas on how they can practise sustainable living by learning through the experience of others. 
+This series is specially targeted at seniors who want to more ideas on how they can practise sustainable living by learning through the experience of others. 
 
 Click here for the latest programme listings.
 
@@ -63,4 +80,3 @@ Click here for the latest programme listings.
 Share your personal sustainable practises with us and win $500 in vouchers! This competition is supported by Capitaland Hope Foundation, Lot One and Infracrowd Asia Pte Ltd. 
 
 Check here for more details
-
