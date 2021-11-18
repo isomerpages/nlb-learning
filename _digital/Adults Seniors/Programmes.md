@@ -8,14 +8,15 @@ third_nav_title: Adults & Seniors
 LearnX Digital goes beyond books to bring tech closer to you, with up-close and hands-on experiences in innovation, to bring a fresh, new way to learn and tinker with digital technology.
 
 ## **Future Of Work**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-01.png)
+
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-01.jpg)
 
 Learn more about current and upcoming changing needs at work, to get working adults better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites. 
 
 Click [here](https://go.gov.sg/nlbfow) for the latest programme listings.
 
 ## **My Digital Life**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-02.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-02.jpg)
 
 A new series on how current and emerging ways that technology impacts our daily lives. Emerging and trending topics such as Artificial intelligence, 5G, online privacy, media literacy, and cyber-wellness are covered in free-for-public workshops and sessions, to cultivate better understanding and demystification of the technology that now permeates our lives. This series is run in collaboration with NLB’s S.U.R.E programme, partners and community advocates. 
 
@@ -55,7 +56,7 @@ Who said seniors can’t be digital creators? Take your creativity and digital s
 Click here for the latest programme listings.
 
 ## **IT Talks**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-07a.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-07.JPG)
 
 Join regular sessions with NLB’s IT savvy seniors who share their knowledge and experience from their own perspective. A great way for seniors to learn more about technology from their own peers.
 
