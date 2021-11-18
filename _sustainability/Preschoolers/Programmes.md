@@ -7,7 +7,7 @@ third_nav_title: Preschoolers
 Introduce your child to the world of sustainable living through interactive workshops, talks, storytelling sessions and events.
 
 ## **Caring For The Environment**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-Preschool-01a.png)
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-Preschool-02.png)
 
 Workshops for children aged 4-6 years to equip them with knowledge and practical skills on sustainability topics. Conducted monthly.
 
