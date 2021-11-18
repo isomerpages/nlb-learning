@@ -14,8 +14,7 @@ Workshops for children aged 4-6 years to equip them with knowledge and practical
 Click here for the latest programme listings.
 
 ## **Caring For Nature**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-Preschool-02a.png)
-
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-Preschool-01.png)
 Workshops for children aged 4-6 years to equip them with knowledge and practical skills on conservation and awareness and love of nature. Conducted monthly.
 
 Click here for the latest programme listings.
