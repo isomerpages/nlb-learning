@@ -10,25 +10,21 @@ LearnX Digital goes beyond books to bring tech closer to you, with up-close and 
 ## **Future Of Work**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-01.png)
 
-Upskill yourself in the digital platforms and skills that are transforming the workplace at NLB’s Future of Work.
-The series helps business owners, employees and individuals prepare for the future workplace by exploring topics such as artificial intelligence, big data, blockchain and digital productivity suites. 
+Learn more about current and upcoming changing needs at work, to get working adults better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites. 
 
- 
 Click [here](https://go.gov.sg/nlbfow) for the latest programme listings.
 
 ## **My Digital Life**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-02.png)
 
-Learn about what makes the technology around us tick, and how we can use it safely and responsibly at My Digital Life programmes. Dive into topics such as eHobbies, online privacy, media literacy, and cyber-wellness through free-for-public workshops and sessions. 
-
-This series is organised in collaboration with NLB’s S.U.R.E programme, partners and community advocates. 
+A new series on how current and emerging ways that technology impacts our daily lives. Emerging and trending topics such as Artificial intelligence, 5G, online privacy, media literacy, and cyber-wellness are covered in free-for-public workshops and sessions, to cultivate better understanding and demystification of the technology that now permeates our lives. This series is run in collaboration with NLB’s S.U.R.E programme, partners and community advocates. 
 
 Click [here](https://go.gov.sg/nlbmdl) for the latest programme listings.
 
 ## **MakeIt at Libraries** 
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-03.png)
 
-NLB’s free-for-public makerspace introduces the wonder of digital and technology-based creativity to all library members. Try your hand at emerging technology like 3D printing, robotics, and other forms of tech-based tinkering. The best part? No prior experience needed! 
+NLB’s free-for-public makerspace. MakeIT introduces the wonder of digital and tech based creativity to all library members. Try your hand at emerging fabrication technology like 3D printing, Robotics, and other forms of tech-based tinkering. No prior expertise required. All equipment and consumables are provided. For ages 13 to 99. 
 
 Click [here](https://go.gov.sg/nlb-makeit-events) for the latest programme listings.
 
@@ -61,7 +57,7 @@ Click here for the latest programme listings.
 ## **IT Talks**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-07.png)
 
-What better way for seniors to learn more about technology than from their peers? Join regular sessions with NLB’s IT-savvy seniors who explain digital and technology through their personal experiences.
+Join regular sessions with NLB’s IT savvy seniors who share their knowledge and experience from their own perspective. A great way for seniors to learn more about technology from their own peers.
 
 Click here for the latest programme listings.
 
