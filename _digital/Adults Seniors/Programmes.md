@@ -41,7 +41,7 @@ Started in September 2020, Digital Ambassadors at select libraries are available
 Click [here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs) for more info.
 
 ## **Library Learning Journey**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-05.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-05a.png)
 
 Designed and curated by NLB, these monthly sessions help seniors understand how to use NLB’s digital services and resources. While tech-savvy participants are welcome, This programme introduces basic concepts such as WIFI, QR codes, eNewspapers, and using the NLB mobile app. 
 
@@ -55,14 +55,14 @@ Who said seniors can’t be digital creators? Take your creativity and digital s
 Click here for the latest programme listings.
 
 ## **IT Talks**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-07.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-07a.png)
 
 Join regular sessions with NLB’s IT savvy seniors who share their knowledge and experience from their own perspective. A great way for seniors to learn more about technology from their own peers.
 
 Click here for the latest programme listings.
 
 ## **Digital Learning x TOYL (Time of Your Life)**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-08.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-08a.png)
 
 Look for special sessions of Future of Work and MakeIT in our TOYL series, for sessions suitable for older adults with less familiarity on these tech topics. 
 
