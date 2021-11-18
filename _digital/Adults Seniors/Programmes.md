@@ -66,11 +66,8 @@ What better way for seniors to learn more about technology than from their peers
 Click here for the latest programme listings.
 
 ## **Digital Learning x TOYL (Time of Your Life)**
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-08.png)
 
 Look for special sessions of Future of Work and MakeIT in our TOYL series, for sessions suitable for older adults with less familiarity on these tech topics. 
 
 Click here for the latest TOYL programme listings.
-
-
-
-
