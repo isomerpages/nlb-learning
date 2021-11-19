@@ -48,12 +48,30 @@ Designed and curated by NLB, these monthly sessions help seniors understand how 
 
 Click [here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys) to register.
 
+## **e-Payment Learning Journey**
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-05.png)
+
+Conducted by Digital Ambassadors and DBS volunteers, the e-Payment Learning Journey lets participants learn how to make e-payments on their phone and scan the SGQR code to pay for items.
+
+Click here for the latest programme listings. 
+
+
 ## **Sliver Digital Creators**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-06.png)
 
 Who said seniors can’t be digital creators? Take your creativity and digital skills to the next level through photography, movie making, coding, music and more. Mix and match courses to create your perfect syllabus.
 
 Click here for the latest programme listings.
+
+## **Sliver Infocomm Junction**
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-02.png)
+
+The Silver Infocomm Junctions offer affordable customised courses for seniors, covering over 20 topics. Through these courses, seniors will be equipped with digital skills for daily activities, such as e-Payment, accessing government digital services and more. 
+
+These payable sessions are conducted by RSVP
+
+Click here to register. 
+
 
 ## **IT Talks**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-07.JPG)
@@ -62,9 +80,16 @@ Join regular sessions with NLB’s IT savvy seniors who share their knowledge an
 
 Click here for the latest programme listings.
 
-## **Digital Learning x TOYL (Time of Your Life)**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-08a.png)
+## **MakeIT x TOYL (Time of Your Life)**
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-08.png)
 
-Look for special sessions of Future of Work and MakeIT in our TOYL series, for sessions suitable for older adults with less familiarity on these tech topics. 
+MakeIT TOYL are project based sessions which aim to encourage and inspire the next batch of seniors to participate in Making. 
 
 Click here for the latest TOYL programme listings.
+
+## **Tech Bazaar**
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-09.png)
+
+Tech Bazaars, leveraging on libraries to serve as Tech Experience Touchpoints, enable seniors to experience technology safely and conveniently, and understand how these technologies connect to their daily lives.
+
+Click here for the latest Tech Bazaar programme listings.
