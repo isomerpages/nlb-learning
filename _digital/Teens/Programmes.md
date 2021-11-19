@@ -1,8 +1,8 @@
 ---
 title: Programmes
-permalink: /digital/teenagers/programmes
+permalink: /digital/teens/programmes
 description: ""
-third_nav_title: Teenagers
+third_nav_title: Teens
 ---
 Discover exciting programmes in the digital world such as coding, robotics and more. 
 

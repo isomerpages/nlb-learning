@@ -15,7 +15,7 @@ Looking to take that first step towards upgrading your professional skills, star
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="/careers/teenagers/overview">
+      <a href="/careers/teens/overview">
         <span>Teenagers</span>
       </a>
     </div>

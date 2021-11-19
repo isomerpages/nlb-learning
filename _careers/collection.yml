@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - LearnX Careers.md
-      - Teenagers/.keep
-      - Teenagers/Teenagers Overview.md
-      - Teenagers/Learning Pathways.md
-      - Teenagers/Programmes.md
-      - Teenagers/Content.md
+      - Teens/.keep
+      - Teens/Teens Overview.md
+      - Teens/Learning Pathways.md
+      - Teens/Programmes.md
+      - Teens/Content.md
       - Adults Seniors/.keep
       - Adults Seniors/Adults Seniors Overview.md
       - Adults Seniors/Learning Pathways.md

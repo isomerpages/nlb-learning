@@ -1,8 +1,8 @@
 ---
 title: Programmes
-permalink: /careers/teenagers/programmes
+permalink: /careers/teens/programmes
 description: ""
-third_nav_title: Teenagers
+third_nav_title: Teens
 ---
 Unlike your classroom, at LearnX you can learn on your own terms. Choose the topics you like and explore them on a schedule that works for you.
 
