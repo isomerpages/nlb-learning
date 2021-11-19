@@ -4,7 +4,6 @@ permalink: /sustainability/adults-seniors/programmes
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 Hear from experts, attend workshops, and connect with your community to start your sustainable living journey. 
 
 ## **Thematic Expert Talks**
@@ -74,9 +73,3 @@ This series is specially targeted at seniors who want to more ideas on how they 
 
 Click here for the latest programme listings.
 
-## **ECO Warrior Competition**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-07.png)
-
-Share your personal sustainable practises with us and win $500 in vouchers! This competition is supported by Capitaland Hope Foundation, Lot One and Infracrowd Asia Pte Ltd. 
-
-Check here for more details
