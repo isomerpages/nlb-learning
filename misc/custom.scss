@@ -197,6 +197,24 @@ a[href$=".pdf"]:before {
   }
 }
 
+// Text Style
+.has-weight-normal {
+  font-weight: normal !important;
+}
+
+.has-weight-bold {
+  font-weight: bold !important;
+}
+
+// Table Style
+.content table thead td, .content table thead th {
+  border-width: 0 0 1px 0;
+}
+
+.content table td, .content table th {
+  border-color: $black;
+}
+
 // Divider
 .hr {
   background-color: $black-50;
