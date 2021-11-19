@@ -42,7 +42,7 @@ Check out the video resources below to help your child understand more about the
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
       <iframe class="responsive-iframe" src="https://www.youtube.com/embed/6jQ7y_qQYUA"></iframe>
-    </div></p>
+    </div>
   </div>
   <div class="col is-three-fifths">
     <p><b class="has-text-jade">Recycling for Kids | Recycling Plastic, Glass and Paper | Recycle Symbol | Kids Academy (4 mins 42 sec)</b><br>
@@ -54,7 +54,7 @@ Check out the video resources below to help your child understand more about the
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
       <iframe class="responsive-iframe" src="https://www.youtube.com/embed/XKGsaziqRE4"></iframe>
-    </div></p>
+    </div>
   </div>
   <div class="col is-three-fifths">
     <p><b class="has-text-jade">What is recycling? | Recycling for children | Learn to recycle | Polly Olly (3 mins 33 sec)</b><br>
