@@ -15,7 +15,13 @@ If you aren’t quite sure what goes into formal emails, we’re here to help yo
 **Here are a few more resources from the library to help you write better:**
 
 <h5 class="has-text-ruby margin--bottom--lg"><b>Teen Things: Emailing 101</b></h5>
-<img>
+
+<div class="row is-multiline">
+  <div class="col is-half">
+    <img src="/images/career/teens/cover-teen-things-1.jpg" alt="Teen Things: Emailing 101">
+  </div>
+</div>
+
 Author: Gary Provost
 Publisher: Berkley Books, 2019
 Only available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/4264951){:target="_blank" .has-text-ruby}.
@@ -26,8 +32,14 @@ In this compact, easy-to-use volume you’ll find the eternal building blocks of
 
 Synopsis from [Penguin](https://www.penguin.com.au/){:target="_blank" .has-text-ruby}.
 
-<h5 class="has-text-ruby margin--bottom--lg"><b>Teen Things: Emailing 101</b></h5>
-<img>
+<h5 class="has-text-ruby margin--bottom--lg"><b>Eliza and Her Monsters</b></h5>
+
+<div class="row is-multiline">
+  <div class="col is-half">
+    <img src="/images/career/teens/cover-eliza-and-her-monster-1.jpg" alt="Eliza and Her Monsters">
+  </div>
+</div>
+
 Call No.: Y ZAP
 Publisher: Greenwillow Books, 2017
 Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/library/teens/media/2948046){:target="_blank" .has-text-ruby}.
