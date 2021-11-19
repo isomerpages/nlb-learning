@@ -213,11 +213,13 @@ a[href$=".pdf"]:before {
     font-size: 1.25rem;
     line-height: 2.2rem;
     
-    thead td, .content table thead th {
+    thead td,
+    thead th {
       border-width: 0 0 1px 0;
     }
 
-    td, .content table th {
+    td,
+    th {
       border-color: $black;
     }
   }
