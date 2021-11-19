@@ -2,7 +2,6 @@ collections:
   digital:
     output: true
     order:
-      - Tweens/.keep
       - LearnX Digital.md
       - Preschoolers/.keep
       - Preschoolers/Overview.md
