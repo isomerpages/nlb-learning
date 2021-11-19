@@ -438,6 +438,16 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Homepage
+.home-section-padding {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+
+  @include touch {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+}
+
 .bg-hero {
   background: url('{{site.baseurl}}/images/masthead-icons-1366x507-1.gif') no-repeat center top;
   -webkit-background-size: contain;
@@ -447,6 +457,13 @@ $desktop: 960px + (2 * $gap) !default;
  
   &-body {
     background-color: transparent;
+
+    .row {
+      @include desktop {
+        height: 400px;
+        min-height: 360px;
+      }
+    }
   }
 
   .hero-content-h1 {
@@ -460,20 +477,17 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .logo-nyp-white {
+  width: 100%;
   max-width: 340px;
 }
 
 .about-lab25-content {
   max-width: 820px;
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-
-  @include touch {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-  }
+  margin: 0 auto;
+  
 
   .logo-lab25 {
+    width: 100%;
     max-width: 360px;
   }
 }
@@ -529,8 +543,6 @@ $desktop: 960px + (2 * $gap) !default;
       align-items: flex-end;
     }
   }
-
-
 }
 
 /* #key-highlights{
