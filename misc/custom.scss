@@ -455,6 +455,10 @@ $desktop: 960px + (2 * $gap) !default;
   background-position: center;
   background-size: contain;
 
+  @include mobile {
+    background-position: 50% 10%;
+  }
+
   .hero-content-h1 {
     line-height: 1.2;
   }
