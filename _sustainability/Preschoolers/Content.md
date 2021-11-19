@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Preschoolers
 ---
 <h3 class="has-text-jade"><b>Learning Package</b></h3>
-
 Articles that teach your child how to live sustainably.
 
 [**Protecting Birds in Singapore**](/files/Sustainability-Protecting-Birds-in-Singapore-Early-Read.pdf){:target="_blank" .has-text-jade}<br>
