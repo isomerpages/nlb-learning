@@ -232,6 +232,20 @@ body {
     }
   }
 
+  &.is-indigo-outline {
+    border: 1px solid $indigo;
+    color: $indigo;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $indigo-hover;
+      color: $indigo-hover;
+      background-color: transparent;
+      text-decoration: none;
+    }
+  }
+
   &.is-sky-outline {
     border: 1px solid $sky;
     color: $sky;
@@ -241,6 +255,20 @@ body {
     &:focus, &:hover {
       border: 1px solid $sky-hover;
       color: $sky-hover;
+      background-color: transparent;
+      text-decoration: none;
+    }
+  }
+
+  &.is-ruby-outline {
+    border: 1px solid $ruby;
+    color: $ruby;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $ruby-hover;
+      color: $ruby-hover;
       background-color: transparent;
       text-decoration: none;
     }
@@ -260,6 +288,20 @@ body {
     }
   }
 
+  &.is-jade-outline {
+    border: 1px solid $jade;
+    color: $jade;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $jade-hover;
+      color: $jade-hover;
+      background-color: transparent;
+      text-decoration: none;
+    }
+  }
+
   &.is-mint-outline {
     border: 1px solid $mint;
     color: $mint;
@@ -269,6 +311,34 @@ body {
     &:focus, &:hover {
       border: 1px solid $mint-hover;
       color: $mint-hover;
+      background-color: transparent;
+      text-decoration: none;
+    }
+  }
+
+  &.is-orange-outline {
+    border: 1px solid $orange;
+    color: $orange;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $orange-hover;
+      color: $orange-hover;
+      background-color: transparent;
+      text-decoration: none;
+    }
+  }
+
+  &.is-tangerine-outline {
+    border: 1px solid $tangerine;
+    color: $tangerine;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $tangerine-hover;
+      color: $tangerine-hover;
       background-color: transparent;
       text-decoration: none;
     }

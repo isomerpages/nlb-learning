@@ -8,11 +8,11 @@ description: ""
 
 Technology and digital trends change so rapidly it might feel almost impossible to keep up with everything. But we’re committed to making learning fun and accessible for all, so this digital-focused learning module is perfect for people from all backgrounds. Learn how to use technology smartly and safely, and equip yourself for the future as Singapore moves towards becoming a SMART nation.
 
-<p>
+<!-- <p>
   <div class="responsive-iframe-container ratio-16by9">
     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uOfQMXQ4lL8"></iframe>
   </div>
-</p>
+</p> -->
 
 <div class="row is-multiline">
   <div class="col is-one-third">
@@ -61,4 +61,4 @@ Technology and digital trends change so rapidly it might feel almost impossible 
 <h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>
 ![Learning Communities](/images/digital/learnx-digital-landing-overview-1.jpg)
 
-<a href="/communities/overview" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>
+<a href="/communities/overview" class="bp-button is-indigo-outline is-uppercase">Explore Communities</a>

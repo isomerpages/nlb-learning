@@ -1,8 +1,8 @@
 ---
 title: Programmes
-permalink: /sustainability/teenagers/programmes
+permalink: /sustainability/teens/programmes
 description: ""
-third_nav_title: Teenagers
+third_nav_title: Teens
 ---
 
 Let these programmes inspire you to live more sustainably!
