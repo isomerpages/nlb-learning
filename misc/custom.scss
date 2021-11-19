@@ -972,7 +972,7 @@ a.navbar-link:hover {
   &.is-digital {
     background-position: center;
     background-size: cover;
-    background-image: url('/images/communities-cta-bg-digital-1.jpg');
+    background-image: url('/images/learning-communities/communities-cta-bg-digital-1.jpg');
     color: $sky;
 
     a {
@@ -987,7 +987,7 @@ a.navbar-link:hover {
   &.is-careers {
     background-position: center;
     background-size: cover;
-    background-image: url('/images/communities-cta-bg-careers-1.jpg');
+    background-image: url('/images/learning-communities/communities-cta-bg-careers-1.jpg');
     color: $pink;
 
     a {
@@ -1002,7 +1002,7 @@ a.navbar-link:hover {
   &.is-sustainability {
     background-position: center;
     background-size: cover;
-    background-image: url('/images/communities-cta-bg-sustainability-1.jpg');
+    background-image: url('/images/learning-communities/communities-cta-bg-sustainability-1.jpg');
     color: $mint;
 
     a {
@@ -1010,6 +1010,81 @@ a.navbar-link:hover {
 
       &:focus, &:hover {
         color: $white;
+      }
+    }
+  }
+
+  &.is-wellness {
+    background-position: center;
+    background-size: cover;
+    background-image: url('/images/learning-communities/communities-cta-bg-wellness-1.jpg');
+    color: $orange;
+
+    a {
+      color: $orange;
+
+      &:focus, &:hover {
+        color: $white;
+      }
+    }
+  }
+  
+  &.is-arts {
+    background-position: center;
+    background-size: cover;
+    background-image: url('/images/learning-communities/communities-cta-bg-arts-1.jpg');
+    color: $ruby;
+
+    a {
+      color: $ruby;
+
+      &:focus, &:hover {
+        color: darken($ruby, 10%);
+      }
+    }
+  }
+
+  &.is-reading {
+    background-position: center;
+    background-size: cover;
+    background-image: url('/images/learning-communities/communities-cta-bg-reading-1.jpg');
+    color: $indigo;
+
+    a {
+      color: $indigo;
+
+      &:focus, &:hover {
+        color: darken($indigo, 10%);
+      }
+    }
+  }
+
+  &.is-science {
+    background-position: center;
+    background-size: cover;
+    background-image: url('/images/learning-communities/communities-cta-bg-science-1.jpg');
+    color: $jade;
+
+    a {
+      color: $jade;
+
+      &:focus, &:hover {
+        color: darken($jade, 10%);
+      }
+    }
+  }
+
+  &.is-singapore {
+    background-position: center;
+    background-size: cover;
+    background-image: url('/images/learning-communities/communities-cta-bg-singapore-1.jpg');
+    color: $tangerine;
+
+    a {
+      color: $tangerine;
+
+      &:focus, &:hover {
+        color: darken($tangerine, 10%);
       }
     }
   }

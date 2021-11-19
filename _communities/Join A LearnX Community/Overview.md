@@ -36,7 +36,7 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
     </div>
   </div>
   <div class="col is-half">
-    <div class="clickbox is-tangerine-orange">
+    <div class="clickbox is-wellness">
       <a href="#">
         <span>Wellness Communities</span>
       </a>
@@ -61,7 +61,7 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
   </div>
 </div>
 
-<!-- <div class="row is-multiline">
+<div class="row is-multiline">
   <div class="col is-half">
     <div class="clickbox is-mint-jade">
       <a href="#">
@@ -76,10 +76,12 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
       </a>
     </div>
   </div>
-</div> -->
+</div>
 
 ---
 <h3 class="margin--top--none margin--bottom--lg"><b>The community code</b></h3>
+![Learning Communities](/images/learning-communities/communities-join-overview-1.jpg)
+
 Let’s make our learning communities a warm, welcoming and safe space.
 
 <a href="/communities/overview" class="bp-button is-primary-outline is-uppercase">Learn More</a>
