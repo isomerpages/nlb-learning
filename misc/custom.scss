@@ -207,12 +207,20 @@ a[href$=".pdf"]:before {
 }
 
 // Table Style
-.content table thead td, .content table thead th {
-  border-width: 0 0 1px 0;
-}
+.content {
 
-.content table td, .content table th {
-  border-color: $black;
+  table {
+    font-size: 1.25rem;
+    line-height: 2.2rem;
+    
+    thead td, .content table thead th {
+      border-width: 0 0 1px 0;
+    }
+
+    td, .content table th {
+      border-color: $black;
+    }
+  }
 }
 
 // Divider
