@@ -26,7 +26,7 @@ Check out the video resources below to help your child understand more about the
 
 ##### **Videos**{: .has-text-jade}
 
-<div class="row is-multiline">
+<div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
       <iframe class="responsive-iframe" src="https://www.youtube.com/embed/8DJ45Yc3urg"></iframe>
@@ -38,7 +38,7 @@ Check out the video resources below to help your child understand more about the
   </div>
 </div>
 
-<div class="row is-multiline">
+<div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
       <iframe class="responsive-iframe" src="https://www.youtube.com/embed/6jQ7y_qQYUA"></iframe>
