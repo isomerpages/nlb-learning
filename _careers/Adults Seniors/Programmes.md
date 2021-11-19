@@ -61,6 +61,7 @@ Click [here](http://www.eyeonasia.gov.sg/) to visit the website.
 # **Business Information Literacy**
 
 ## **Effective Ways to Gather Market Intelligence**
+![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-04.png)
 
 Learn the ropes of conducting online research on business and market-related information. We will introduce a range of useful and credible resources to help you build your knowledge about the various industry sectors and improve your business planning with clear research strategies. 
 
@@ -72,12 +73,17 @@ Topics covered:
 
 •	Business Information Resources used for Market Intelligence
 
+Click here to learn more about this programme.
 
 ## **Research for Starting, Managing and Growing your Business**
+![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-05.png)
+
 Learn how to conduct effective business and market research to meet your information needs. This workshop aims to build your business research competence to retrieve information related to market intelligence such as company reports, country profile analyses and up-to-date industry trends. 
 
 This hands-on workshop is recommended for business owners, aspiring entrepreneurs, and anyone who wishes to conduct quick effective research to gather information, better understand the markets and gain business insights.
 
 Topics covered:
 
-•	Library databases and web resources used in Business Research 
+•	Library databases and web resources used in Business Research
+
+Click here to learn more about this programme.
