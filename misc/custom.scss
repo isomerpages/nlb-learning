@@ -439,8 +439,8 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Homepage
 .home-section-padding {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 9rem;
+  padding-bottom: 9rem;
 
   @include touch {
     padding-top: 3rem;
@@ -451,7 +451,7 @@ $desktop: 960px + (2 * $gap) !default;
 .bg-hero {
   background: url('{{site.baseurl}}/images/masthead-icons-1366x507-1.gif') no-repeat center top;
   -webkit-background-size: contain;
-  background-color: #322987;
+  background-color: $primary;
   background-position: center;
   background-size: contain;
 
