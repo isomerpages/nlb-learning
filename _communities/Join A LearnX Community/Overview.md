@@ -46,14 +46,14 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
 
 <div class="row is-multiline">
   <div class="col is-half">
-    <div class="clickbox is-pink-ruby">
+    <div class="clickbox is-arts">
       <a href="#">
         <span>Arts Communities</span>
       </a>
     </div>
   </div>
   <div class="col is-half">
-    <div class="clickbox is-sky-indigo">
+    <div class="clickbox is-reading">
       <a href="#">
         <span>Reading Communities</span>
       </a>
@@ -63,14 +63,14 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
 
 <div class="row is-multiline">
   <div class="col is-half">
-    <div class="clickbox is-mint-jade">
+    <div class="clickbox is-science">
       <a href="#">
         <span>Science Communities</span>
       </a>
     </div>
   </div>
   <div class="col is-half">
-    <div class="clickbox is-orange-tangerine">
+    <div class="clickbox is-singapore">
       <a href="#">
         <span>Singapore Communities</span>
       </a>

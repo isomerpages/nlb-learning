@@ -69,6 +69,11 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+// Body
+body {
+  color: $black;
+}
+
 // Background
 .bg{
   &-primary{
