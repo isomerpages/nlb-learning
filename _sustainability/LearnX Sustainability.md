@@ -59,6 +59,6 @@ Get all the answers you need through enjoyable and engaging content that will de
 
 ---
 <h3 class="has-text-jade margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>
-![Learning Communities](/images/digital/learnx-digital-landing-overview-1.jpg)
+![Explore Communities](/images/sustainability/learnx-sustainability-landing-overview-1.jpg)
 
 <a href="/communities/overview" class="bp-button is-jade-outline is-uppercase">Explore Communities</a>

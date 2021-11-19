@@ -59,6 +59,6 @@ Technology and digital trends change so rapidly it might feel almost impossible 
 
 ---
 <h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>
-![Learning Communities](/images/digital/learnx-digital-landing-overview-1.jpg)
+![Explore Communities](/images/digital/learnx-digital-landing-overview-1.jpg)
 
 <a href="/communities/overview" class="bp-button is-indigo-outline is-uppercase">Explore Communities</a>

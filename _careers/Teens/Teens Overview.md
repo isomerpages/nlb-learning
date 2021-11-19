@@ -4,26 +4,26 @@ permalink: /careers/teens/overview
 description: ""
 third_nav_title: Teens
 ---
-You might still be in school but your professional career is right around the corner. Use the pathways, programmes and content to get a taste of what to expect and prepare for the next phase of your life.
+You may still be in school but your professional career is right around the corner. Use our pathways, programmes and content to get a taste of what to expect and prepare for the next phase of your life.
 
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="/careers/teenagers/learning-pathways">
-        <span>Learning Pathways</span>
+      <a href="/careers/teens/learning-pathways">
+        <span>Learning<br>Pathways</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="/careers/teenagers/programmes">
+      <a href="/careers/teens/programmes">
         <span>Programmes</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="/careers/teenagers/content">
+      <a href="/careers/teens/content">
         <span>Content</span>
       </a>
     </div>
