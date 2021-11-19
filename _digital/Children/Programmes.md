@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /digital/children-tweens/programmes
+permalink: /digital/children/programmes
 description: ""
 third_nav_title: Children
 ---

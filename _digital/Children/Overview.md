@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /digital/children-tweens/overview
+permalink: /digital/children/overview
 description: ""
 third_nav_title: Children
 ---
