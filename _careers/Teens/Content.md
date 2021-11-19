@@ -22,8 +22,8 @@ If you aren’t quite sure what goes into formal emails, we’re here to help yo
   </div>
 </div>
 
-Author: Gary Provost
-Publisher: Berkley Books, 2019
+Author: Gary Provost<br>
+Publisher: Berkley Books, 2019<br>
 Only available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/4264951){:target="_blank" .has-text-ruby}.
 
 This is the one guide that anyone who writes—whether student, businessperson, or professional writer—should keep on his or her desk. Filled with professional tips and a wealth of instructive examples, 100 Ways to Improve Your Writing can help solve any writing problem.
@@ -40,8 +40,8 @@ Synopsis from [Penguin](https://www.penguin.com.au/){:target="_blank" .has-text-
   </div>
 </div>
 
-Call No.: Y ZAP
-Publisher: Greenwillow Books, 2017
+Call No.: Y ZAP<br>
+Publisher: Greenwillow Books, 2017<br>
 Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/library/teens/media/2948046){:target="_blank" .has-text-ruby}.
 
 In the real world, Eliza Mirk is shy, weird, and friendless. Online, Eliza is LadyConstellation, anonymous creator of a popular webcomic called Monstrous Sea. With millions of followers and fans throughout the world, Eliza’s persona is popular. Eliza can’t imagine enjoying the real world as much as she loves her digital community.
