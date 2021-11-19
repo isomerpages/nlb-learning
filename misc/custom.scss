@@ -463,8 +463,19 @@ $desktop: 960px + (2 * $gap) !default;
   max-width: 340px;
 }
 
-.logo-lab25 {
-  max-width: 360px;
+.about-lab25-content {
+  max-width: 820px;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+
+  @include touch {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+
+  .logo-lab25 {
+    max-width: 360px;
+  }
 }
 
 .home-carousel {
