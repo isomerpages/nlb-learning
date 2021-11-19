@@ -14,9 +14,7 @@ Get a head start on your future by checking out our career-related programmes. T
 
 Click [here](https://go.gov.sg/nlb-teenstakeover){:target="_blank" .has-text-ruby} for the latest programme listings.
 
-For the latest programme listings, visit .
-
-## **Human Library**{: .has-text-ruby}
+### **{: .has-text-ruby}Human Library**
 
 ![Teens Human library](/images/career/teens/programmes-human-library-1.png)
 
