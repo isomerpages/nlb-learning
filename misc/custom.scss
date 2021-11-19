@@ -448,10 +448,23 @@ $desktop: 960px + (2 * $gap) !default;
   &-body {
     background-color: transparent;
   }
+
+  .hero-content-h1 {
+    line-height: 1.2;
+  }
+
+  .hero-content-p {
+    max-width: 700px;
+    margin: 0 auto;
+  }
 }
 
 .logo-nyp-white {
   max-width: 340px;
+}
+
+.logo-lab25 {
+  max-width: 360px;
 }
 
 .home-carousel {
@@ -506,9 +519,7 @@ $desktop: 960px + (2 * $gap) !default;
     }
   }
 
-  .hero-content-p {
-    max-width: 700px;
-  }
+
 }
 
 /* #key-highlights{
