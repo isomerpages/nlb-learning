@@ -454,17 +454,6 @@ $desktop: 960px + (2 * $gap) !default;
   background-color: #322987;
   background-position: center;
   background-size: contain;
- 
-  &-body {
-    background-color: transparent;
-
-    .row {
-      @include desktop {
-        height: 400px;
-        min-height: 360px;
-      }
-    }
-  }
 
   .hero-content-h1 {
     line-height: 1.2;
