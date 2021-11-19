@@ -81,11 +81,11 @@ body {
 .content h3 strong,
 .content h4 strong,
 .content h5 strong {
-  color: inherit;
+  color: inherit !important;
 }
 
 a[href$=".pdf"]:before {
-  color: inherit;
+  color: inherit !important;
   font-weight: normal !important;
   font-style: normal !important;
 }

@@ -4,7 +4,7 @@ permalink: /sustainability/preschoolers/content
 description: ""
 third_nav_title: Preschoolers
 ---
-### **Learning Package**{: .has-text-jade}
+<h3 class="has-text-jade"><b>Learning Package</b></h3>
 
 Articles that teach your child how to live sustainably.
 
@@ -17,14 +17,14 @@ As an island nation, Singapore has to be extra conscious about the creatures who
 [**Urban Farming**](/files/Sustainability-Urban-Farming-Vertical-Farming-Early-Read.pdf){:target="_blank" .has-text-jade}<br>
 When you think of a farm, you might be picturing a big field with lots of fruits or vegetables being grown. But did you know there are also farms in our city, including one on Orchard Road? Learn more about these urban farms and why they could be Singapore’s answer to securing a stable food supply for us all.
 
-### **Playlist**{: .has-text-jade}
+<h3 class="has-text-jade"><b>Playlist</b></h3>
 It is never too early to teach children about sustainability and the importance of caring for our environment. Although this might be a broad topic, there are plenty of ways to teach young children about sustainability in a way that they can understand. 
 
 As a start, we can tell them ways to protect the environment by practising the three Rs: reduce, reuse and recycle.
 
 Check out the video resources below to help your child understand more about the three Rs and how to take care of the environment.
 
-##### **Videos**{: .has-text-jade}
+<h5 class="has-text-jade margin--bottom--lg"><b>Videos</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
