@@ -49,6 +49,14 @@ Set your own goals and determine your own pace of learning—no pressure! </p>
       <p class="margin--top--sm margin--bottom--sm">This community was created in partnership with ai4impact for anyone and everyone interested in chatbot technology.</p>
       <p class="margin--top--sm margin--bottom--sm"><a href="#">Learn more</a></p>
     </div>
+</div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-06.jpg" alt="The Video Creators Club">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Learning IT For Seniors (LITS)</b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> LITS is a monthly bilingual Interest Group predominantly facilitated by librarians. Every month an interesting Digital Readiness topic will be shared with the seniors to update them on the latest digital trends.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="#">Learn more</a></p>
+    </div>
   </div>
 
 </div>
