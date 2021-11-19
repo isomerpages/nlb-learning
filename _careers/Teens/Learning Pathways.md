@@ -18,10 +18,10 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 25%;"><a href="https://www.go.gov.sg/teenthings" target="_blank" class="has-text-ruby"><b>Teen.Things: Emailing 101</b></a></td>
-        <td style="width: 45%;">We’ve all sent emails out to friends and teachers before, but crafting a professional email is a whole different ball game. If you aren’t sure what should go into formal emails, here are some tips and tricks that are sure to impress any recipient!</td>
-        <td style="width: 15%;">Dec 2021</td>
-        <td style="width: 15%;">TBC</td>
+        <td style="width: 20%;"><a href="https://www.go.gov.sg/teenthings" target="_blank" class="has-text-ruby"><b>Teen.Things: Emailing 101</b></a></td>
+        <td style="width: 40%;">We’ve all sent emails out to friends and teachers before, but crafting a professional email is a whole different ball game. If you aren’t sure what should go into formal emails, here are some tips and tricks that are sure to impress any recipient!</td>
+        <td style="width: 20%;">Dec 2021</td>
+        <td style="width: 20%;">TBC</td>
       </tr>
       <tr>
         <td><a href="#" target="_blank" class="has-text-ruby"><b>A Day in the Life of: Healthcare Professionals</b></a></td>
@@ -42,10 +42,10 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 25%;"><a href="http://go.gov.sg/nlb-teensprogs" target="_blank" class="has-text-ruby"><b>CCKPL: Teens Takeover – A Day In The Life Of | portfolio</b></a></td>
-        <td style="width: 45%;">Get inspired by the daily experiences of different professionals in this workshop held in collaboration with Nanyang Polytechnic.</td>
-        <td style="width: 15%;">18 Dec 2021,<br>2pm - 3.30pm</td>
-        <td style="width: 15%;">CCKPL<br>Programme<br>Room 1</td>
+        <td style="width: 20%;"><a href="http://go.gov.sg/nlb-teensprogs" target="_blank" class="has-text-ruby"><b>CCKPL: Teens Takeover – A Day In The Life Of | portfolio</b></a></td>
+        <td style="width: 40%;">Get inspired by the daily experiences of different professionals in this workshop held in collaboration with Nanyang Polytechnic.</td>
+        <td style="width: 20%;">18 Dec 2021,<br>2pm - 3.30pm</td>
+        <td style="width: 20%;">CCKPL<br>Programme<br>Room 1</td>
       </tr>
       <tr>
         <td><a href="#" target="_blank" class="has-text-ruby"><b>[Industry Insights series] A Career in Design</b></a></td>
@@ -66,10 +66,10 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 25%;"><a href="http://go.gov.sg/get-professional-series" target="_blank" class="has-text-ruby"><b>[Get Professional series] Interview Skills</b></a></td>
-        <td style="width: 45%;">Get equipped with the skills required to ace job interviews and leave a lasting impression on your interviewer.</td>
-        <td style="width: 15%;">Jan 7 2022, 7pm - 9pm<br>Jan 17 2022, 7pm - 9pm<br>Feb 4 2022, 7pm - 9pm</td>
-        <td style="width: 15%;">Zoom</td>
+        <td style="width: 20%;"><a href="http://go.gov.sg/get-professional-series" target="_blank" class="has-text-ruby"><b>[Get Professional series] Interview Skills</b></a></td>
+        <td style="width: 40%;">Get equipped with the skills required to ace job interviews and leave a lasting impression on your interviewer.</td>
+        <td style="width: 20%;">Jan 7 2022, 7pm - 9pm<br>Jan 17 2022, 7pm - 9pm<br>Feb 4 2022, 7pm - 9pm</td>
+        <td style="width: 20%;">Zoom</td>
       </tr>
     </tbody>
   </table>
@@ -84,10 +84,10 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 25%;"><a href="http://go.gov.sg/nlb-teensprogs" target="_blank" class="has-text-ruby"><b>LearnX Digital</b><br>Mobile Phone Videography Workshop | digi.lit | Teens Takeover</a></td>
-        <td style="width: 45%;">Whether you’re looking to be the next TikTok star or just want to impress your family and friends, this online workshop will teach you how to shoot and edit videos to take your social media content to the next level.</td>
-        <td style="width: 15%;">15 Dec 2021,<br>3pm - 4pm</td>
-        <td style="width: 15%;">Zoom</td>
+        <td style="width: 20%;"><a href="http://go.gov.sg/nlb-teensprogs" target="_blank" class="has-text-ruby"><b>LearnX Digital</b><br>Mobile Phone Videography Workshop | digi.lit | Teens Takeover</a></td>
+        <td style="width: 40%;">Whether you’re looking to be the next TikTok star or just want to impress your family and friends, this online workshop will teach you how to shoot and edit videos to take your social media content to the next level.</td>
+        <td style="width: 20%;">15 Dec 2021,<br>3pm - 4pm</td>
+        <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
         <td><a href="http://go.gov.sg/nlb-teensprogs" target="_blank" class="has-text-ruby"><b>LearnX Sustainability</b><br>CCKPL: Teens Takeover - Urban Farming Workshop | GREENHOUSE</a></td>
