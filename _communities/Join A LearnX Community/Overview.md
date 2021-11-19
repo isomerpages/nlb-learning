@@ -4,7 +4,9 @@ permalink: /communities/join/overview
 description: ""
 third_nav_title: Join A LearnX Community
 ---
-Head over to GoLibrary to register for upcoming sessions of your chosen community.
+Find a Learning Community that best suits your needs!
+
+Head over to [https://go.gov.sg/lcsessions](GoLibrary) to register for upcoming sessions of your chosen community. 
 
 If you do not see any upcoming events, send in an enquiry and we’ll get back to you with any updates.
 
@@ -59,7 +61,7 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
   </div>
 </div>
 
-<div class="row is-multiline">
+<!-- <div class="row is-multiline">
   <div class="col is-half">
     <div class="clickbox is-mint-jade">
       <a href="#">
@@ -74,7 +76,7 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
       </a>
     </div>
   </div>
-</div>
+</div> -->
 
 ---
 <h3 class="margin--top--none margin--bottom--lg"><b>The community code</b></h3>

@@ -20,4 +20,4 @@ For the latest programme listings, visit [https://go.gov.sg/nlb-teenstakeover](h
 
 Get invaluable career insights and connect first-hand with successful individuals in various fields to help you make informed decisions for your future.
 
-For the latest programme listings, visit  [https://go.gov.sg/nlb-teenstakeover](https://go.gov.sg/nlb-teenstakeover).
+For the latest programme listings, visit [https://go.gov.sg/nlb-teenstakeover](https://go.gov.sg/nlb-teenstakeover).
