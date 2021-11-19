@@ -2,7 +2,7 @@
 
 ---
 
-@charset "utf-8";
+@charset "UTF-8";
 
 // Agency brand colors
 $primary: {{- site.colors.primary-color -}};
@@ -47,9 +47,15 @@ $black-90: mix($black, $white, 90%);
 {%- endfor -%}
 
 $gap: 32px !default;
+$mobile: 768px !default;
 $desktop: 960px + (2 * $gap) !default;
 
 // Mixins
+@mixin mobile() {
+	@media screen and (max-width: $mobile){
+    	@content
+	}
+}
 
 @mixin touch() {
 	@media screen and (max-width: $desktop - 1px){
