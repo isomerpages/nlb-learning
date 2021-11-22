@@ -6,8 +6,8 @@ third_nav_title: Adults & Seniors
 ---
 Hear from experts, attend workshops, and connect with your community to start your sustainable living journey. 
 
-## **Thematic Expert Talks**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-08.png)
+## **Expert Talks**
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-ExpertTalks.jpg)
 
 In partnership with **NUS’s Ridge View Residential College (RVRC)**, this series of quarterly themed talks unpacks pertinent sustainability topics and makes them accessible whatever your background.
 
@@ -18,7 +18,7 @@ All talks are listed on Eventbrite and suitable for adults and seniors.
 Click here for the latest programme listings.
 
 ## **WWF Explains**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-09.png)
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-WWFExplains.jpg)
 
 A signature series with WWF Singapore that features conservation experts discussing the unexpected links between our daily concerns and the environment. Held on a quarterly basis.
 
@@ -43,7 +43,7 @@ Pitched at beginners, these workshops held monthly for seniors and quarterly for
 Click here for the latest programme listings.
 
 ## **Green Market**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-03.png)
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-GreenMarket.jpg)
 
 A signature event that presents a range of fun activities and programmes from talks, workshops to activity booths that will engage you in sustainable practices and green groups to support. Look forward to different concepts from farmer’s markets, swaps to service-learning experiences. The Biodiversity Festival is a form of the Green Market.
 
@@ -72,4 +72,3 @@ Be prepared to be inspired. Practitioners, innovators, grandfluencers, ordinary 
 This series is specially targeted at seniors who want to more ideas on how they can practise sustainable living by learning through the experience of others. 
 
 Click here for the latest programme listings.
-
