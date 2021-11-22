@@ -13,6 +13,7 @@ third_nav_title: Adults & Seniors
 <p>Since technology has become a mainstay, we have become increasingly reliant on our digital devices and the internet to make the world go round. While technology does have its benefits and advantages, the prevalence of issues stemming from an unhealthy usage of technology, such as digital burnout, social isolation and cyberbullying, begs us to constantly evaluate our relationship with it.
 <p>Cyber wellness, which can be defined as the positive well-being of users in cyberspace, is key in this day and age. Not only does it help ensure a healthy relationship with technology, it also has a positive impact on communities by helping to nurture good digital citizens who are mindful of their online presence and observe proper netiquette.</p>
 <p> Learn more about cyber wellness by checking out the resources below! Together, let’s achieve more positive online experiences by ensuring safe and responsible usage of the internet.</p>
+
 <table border="1">
 	<tbody><tr>
 		<td>
@@ -76,7 +77,7 @@ Cal Newport (2019), <i> Digital Minimalism </i>, Penguin Publishing Group.
 
 <h5>1. <a href="https://www.unep.org/explore-topics/green-economy?__cf_chl_managed_tk__=pmd_3uVt5NT5vJszILkDQcVVe9Mo8Y_Mcem8z3ZkMMqxUG4-1632874402-0-gqNtZGzNAxCjcnBszQjl">UN Environment Programme</a></h5>
 <p> We’ve got more in store for you! Check out the programmes under our My Digital Life series to learn more about how technology affects your daily life and unpack trending topics.</p>
-<p> Sign up here: go.gov.sg/nlbmdl </p>
+<p> Sign up here: <a href="go.gov.sg/nlbmdl">go.gov.sg/nlbmdl</a></p>
 			
 <h4>References</h4>
 <ol>
