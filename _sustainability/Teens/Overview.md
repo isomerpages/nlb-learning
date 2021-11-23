@@ -9,8 +9,8 @@ Empower yourself with the tools to make a positive impact on our environment thr
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="/sustainability/teens/learning-pathways">
-        <span>Learning Packages</span>
+      <a href="/sustainability/teens/content">
+        <span>Content</span>
       </a>
     </div>
   </div>
@@ -23,8 +23,8 @@ Empower yourself with the tools to make a positive impact on our environment thr
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="/sustainability/teens/content">
-        <span>Content</span>
+      <a href="/sustainability/teens/learning-pathways">
+        <span>Learning<br>Pathways</span>
       </a>
     </div>
   </div>

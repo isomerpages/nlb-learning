@@ -9,8 +9,8 @@ Make sustainability the way of life at home with these programmes, resources and
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="/sustainability/tweens/learning-pathways">
-        <span>Learning Packages</span>
+      <a href="/sustainability/tweens/content">
+        <span>Content</span>
       </a>
     </div>
   </div>
@@ -23,8 +23,8 @@ Make sustainability the way of life at home with these programmes, resources and
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="/sustainability/tweens/content">
-        <span>Content</span>
+      <a href="/sustainability/tweens/learning-pathways">
+        <span>Learning<br>Pathways</span>
       </a>
     </div>
   </div>

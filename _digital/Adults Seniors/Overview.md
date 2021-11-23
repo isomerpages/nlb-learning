@@ -11,8 +11,8 @@ We understand that learning about new technology can be an unfamiliar adventure.
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
-      <a href="/digital/adults-seniors/learning-pathways">
-        <span>Learning Pathways</span>
+      <a href="/digital/adults-seniors/content">
+        <span>Content</span>
       </a>
     </div>
   </div>
@@ -25,8 +25,8 @@ We understand that learning about new technology can be an unfamiliar adventure.
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
-      <a href="/digital/adults-seniors/content">
-        <span>Content</span>
+      <a href="/digital/adults-seniors/learning-pathways">
+        <span>Learning<br>Pathways</span>
       </a>
     </div>
   </div>

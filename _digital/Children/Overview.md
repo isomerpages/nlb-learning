@@ -10,22 +10,22 @@ Set your child up for success in the ever-changing world of technology with prog
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
-      <a href="/digital/children-tweens/learning-pathways">
-        <span>Learning Pathways</span>
+      <a href="/digital/children/content">
+        <span>Content</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
-      <a href="/digital/children-tweens/programmes">
+      <a href="/digital/children/programmes">
         <span>Programmes</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
-      <a href="/digital/children-tweens/content">
-        <span>Content</span>
+      <a href="/digital/children/learning-pathways">
+        <span>Learning<br>Pathways</span>
       </a>
     </div>
   </div>

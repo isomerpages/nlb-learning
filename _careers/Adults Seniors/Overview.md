@@ -9,8 +9,8 @@ Find everything you need to thrive in your career, e.g. by boosting your interpe
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="/careers/adults-seniors/learning-pathways">
-        <span>Learning Pathways</span>
+      <a href="/careers/adults-seniors/content">
+        <span>Content</span>
       </a>
     </div>
   </div>
@@ -23,8 +23,8 @@ Find everything you need to thrive in your career, e.g. by boosting your interpe
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="/careers/adults-seniors/content">
-        <span>Content</span>
+      <a href="/careers/adults-seniors/learning-pathways">
+        <span>Learning<br>Pathways</span>
       </a>
     </div>
   </div>

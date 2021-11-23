@@ -10,8 +10,8 @@ Many studies have reported that well curated experiences with new media such as 
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
-      <a href="/digital/preschoolers/learning-pathways">
-        <span>Learning Pathways</span>
+      <a href="/digital/preschoolers/content">
+        <span>Content</span>
       </a>
     </div>
   </div>
@@ -24,8 +24,8 @@ Many studies have reported that well curated experiences with new media such as 
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
-      <a href="/digital/preschoolers/content">
-        <span>Content</span>
+      <a href="/digital/preschoolers/learning-pathways">
+        <span>Learning<br>Pathways</span>
       </a>
     </div>
   </div>

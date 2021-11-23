@@ -9,8 +9,8 @@ It’s never too late to make a lifestyle change so, but there’s no better tim
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="/sustainability/adults-seniors/learning-pathways">
-        <span>Learning Packages</span>
+      <a href="/sustainability/adults-seniors/content">
+        <span>Content</span>
       </a>
     </div>
   </div>
@@ -23,8 +23,8 @@ It’s never too late to make a lifestyle change so, but there’s no better tim
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="/sustainability/adults-seniors/content">
-        <span>Content</span>
+      <a href="/sustainability/adults-seniors/learning-pathways">
+        <span>Learning<br>Pathways</span>
       </a>
     </div>
   </div>

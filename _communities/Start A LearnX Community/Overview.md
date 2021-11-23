@@ -2,7 +2,7 @@
 title: Overview
 permalink: /communities/start/overview
 description: ""
-third_nav_title: Start A LearnX Community
+third_nav_title: Start a LearnX Community
 ---
 Have a special interest or skill but can’t find a community? Just start your own!
 

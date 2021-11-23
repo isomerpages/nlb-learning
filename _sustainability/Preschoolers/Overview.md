@@ -9,8 +9,8 @@ Now more than ever, it’s crucial that we bring up the next generation with the
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="/sustainability/preschoolers/learning-pathways">
-        <span>Learning Packages</span>
+      <a href="/sustainability/preschoolers/content">
+        <span>Content</span>
       </a>
     </div>
   </div>
@@ -23,8 +23,8 @@ Now more than ever, it’s crucial that we bring up the next generation with the
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="/sustainability/preschoolers/content">
-        <span>Content</span>
+      <a href="/sustainability/preschoolers/learning-pathways">
+        <span>Learning<br>Pathways</span>
       </a>
     </div>
   </div>

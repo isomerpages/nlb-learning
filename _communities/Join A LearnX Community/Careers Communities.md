@@ -2,7 +2,7 @@
 title: Careers Communities
 permalink: /communities/join/careers-communities
 description: ""
-third_nav_title: Join A LearnX Community
+third_nav_title: Join a LearnX Community
 ---
 ### **Careers Communities**
 You’re not alone in your journey to future-proof yourself professionally. Get support and motivation from group members as you navigate challenges, success and opportunities together.

@@ -2,7 +2,7 @@
 title: Overview
 permalink: /communities/join/overview
 description: ""
-third_nav_title: Join A LearnX Community
+third_nav_title: Join a LearnX Community
 ---
 Find a Learning Community that best suits your needs!
 
@@ -61,7 +61,7 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
   </div>
 </div>
 
-<div class="row is-multiline">
+<!--<div class="row is-multiline">
   <div class="col is-half">
     <div class="clickbox is-science">
       <a href="#">
@@ -76,7 +76,7 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
       </a>
     </div>
   </div>
-</div>
+</div>-->
 
 ---
 <h3 class="margin--top--none margin--bottom--lg"><b>The community code</b></h3>
