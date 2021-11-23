@@ -256,7 +256,7 @@ a[href$=".pdf"]:before {
 
     &:focus, &:hover {
       border: 1px solid $primary;
-      color: $white;
+      color: $sky;
       background-color: $primary;
       text-decoration: none;
     }
@@ -270,7 +270,7 @@ a[href$=".pdf"]:before {
 
     &:focus, &:hover {
       border: 1px solid $secondary;
-      color: $white;
+      color: $sky;
       background-color: $secondary;
       text-decoration: none;
     }
@@ -284,7 +284,7 @@ a[href$=".pdf"]:before {
 
     &:focus, &:hover {
       border: 1px solid $indigo;
-      color: $white;
+      color: $sky;
       background-color: $indigo;
       text-decoration: none;
     }
@@ -298,7 +298,7 @@ a[href$=".pdf"]:before {
 
     &:focus, &:hover {
       border: 1px solid $sky;
-      color: $white;
+      color: $indigo;
       background-color: $sky;
       text-decoration: none;
     }
@@ -312,7 +312,7 @@ a[href$=".pdf"]:before {
 
     &:focus, &:hover {
       border: 1px solid $ruby;
-      color: $white;
+      color: $pink;
       background-color: $ruby;
       text-decoration: none;
     }
@@ -326,7 +326,7 @@ a[href$=".pdf"]:before {
 
     &:focus, &:hover {
       border: 1px solid $pink;
-      color: $white;
+      color: $ruby;
       background-color: $pink;
       text-decoration: none;
     }
@@ -340,7 +340,7 @@ a[href$=".pdf"]:before {
 
     &:focus, &:hover {
       border: 1px solid $jade;
-      color: $white;
+      color: $mint;
       background-color: $jade;
       text-decoration: none;
     }
@@ -354,7 +354,7 @@ a[href$=".pdf"]:before {
 
     &:focus, &:hover {
       border: 1px solid $mint;
-      color: $white;
+      color: $jade;
       background-color: $mint;
       text-decoration: none;
     }
@@ -368,7 +368,7 @@ a[href$=".pdf"]:before {
 
     &:focus, &:hover {
       border: 1px solid $orange;
-      color: $white;
+      color: $tangerine;
       background-color: $orange;
       text-decoration: none;
     }
@@ -382,7 +382,7 @@ a[href$=".pdf"]:before {
 
     &:focus, &:hover {
       border: 1px solid $tangerine;
-      color: $white;
+      color: $orange;
       background-color: $tangerine;
       text-decoration: none;
     }
@@ -606,6 +606,19 @@ a[href$=".pdf"]:before {
   .logo-lab25 {
     width: 100%;
     max-width: 360px;
+  }
+
+  > p {
+
+      a {
+        color: $primary;
+        text-decoration: underline;
+
+        &:focus, &:hover {
+          color: $primary-hover;
+          text-decoration: underline;
+        }
+      }
   }
 }
 

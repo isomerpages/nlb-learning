@@ -2,7 +2,7 @@
 title: Adults & Seniors Overview
 permalink: /careers/adults-seniors/overview
 description: ""
-third_nav_title: Adults Seniors
+third_nav_title: Adults & Seniors
 ---
 Find everything you need to thrive in your career, e.g. by boosting your interpersonal or communication skills. Get insights into industry trends and opportunities, tips on starting a business, and more. Pick up skills and strategies on learning more effectively.
 

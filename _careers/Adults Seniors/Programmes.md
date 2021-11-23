@@ -2,7 +2,7 @@
 title: Programmes
 permalink: /careers/adults-seniors/programmes
 description: ""
-third_nav_title: Adults Seniors
+third_nav_title: Adults & Seniors
 ---
 ### **Programmes**
 Pick up skills from professional trainers, and get answers, ideas as well as inspiration from experts in various subjects.
