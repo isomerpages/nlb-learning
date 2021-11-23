@@ -1,5 +1,5 @@
 ---
-title: Adults & Seniors Overview
+title: Overview
 permalink: /careers/adults-seniors/overview
 description: ""
 third_nav_title: Adults & Seniors
