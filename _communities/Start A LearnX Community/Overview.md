@@ -15,7 +15,7 @@ We are looking for LearnX Communities on the following topics:
 <div class="row is-multiline margin--top--lg">
   <div class="col is-one-third">
     <div class="clickbox is-generic">
-      <a href="/communities/start/helpful-hints">
+      <a href="/communities/start/quick-guide">
         <span>A Quick Guide</span>
       </a>
     </div>
