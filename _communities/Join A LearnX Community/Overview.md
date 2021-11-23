@@ -13,14 +13,14 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
 <div class="row is-multiline margin--top--lg">
   <div class="col is-half">
     <div class="clickbox is-careers" style="">
-      <a href="#">
+      <a href="/communities/join/careers-communities">
         <span>Careers Communities</span>
       </a>
     </div>
   </div>
   <div class="col is-half">
     <div class="clickbox is-digital">
-      <a href="#">
+      <a href="/communities/join/digital-communities">
         <span>Digital Communities</span>
       </a>
     </div>
@@ -30,7 +30,7 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
 <div class="row is-multiline">
   <div class="col is-half">
     <div class="clickbox is-sustainability">
-      <a href="#">
+      <a href="/communities/join/sustainability-communities">
         <span>Sustainability Communities</span>
       </a>
     </div>
