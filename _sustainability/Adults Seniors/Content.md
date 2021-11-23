@@ -91,9 +91,10 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 	<li><a id="footnote-ten">What is circular economy?</a> <i>Towards Zero Waste Singapore</i>. Retrieved 2021, October 21 from <a href="https://www.towardszerowaste.gov.sg/zero-waste-masterplan/chapter2/circular-economy/">https://www.towardszerowaste.gov.sg/zero-waste-masterplan/chapter2/circular-economy/</a></li>
 </ol>
 
-<img src="/images/sustainability/energysustainabilitybanner.jpg" alt="cover image">
+
 ---
 <h1>Learning Package: Energy Sustainability</h1>
+<img src="/images/sustainability/energysustainabilitybanner.png" alt="cover image">
 <h2>Introduction</h2>
 <p> Our energy needs are vast covering daily activities to industry use. The concern of our generation is to meet those needs through sustainable energy forms that are renewable and clean unlike fossil fuels that pollute and have been one of the main causes of climate change. Some examples of sustainable energy forms are solar, wind, water to geothermal power.</p>
 <p> In Singapore, we depend on imports for our energy needs and are constrained in terms of options for renewable energy sources.  An energy strategy recently adopted resolves around four supply switches that promote cleaner power generation.<sup><a href="#footnote-one">1</a></sup>.</p>
