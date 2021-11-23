@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Explore LearnX Communities.md
-      - Join a LearnX Community/Careers Communities.md
-      - Join a LearnX Community/Overview.md
       - Join a LearnX Community/.keep
+      - Join a LearnX Community/Overview.md
+      - Join a LearnX Community/Careers Communities.md
       - Start a LearnX Community/.keep
