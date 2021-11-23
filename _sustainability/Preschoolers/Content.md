@@ -37,6 +37,7 @@ Check out the video resources below to help your child understand more about the
   <div class="col is-three-fifths">
     <p><b class="has-text-jade">Recycling for Kids | Recycling Plastic, Glass and Paper | Recycle Symbol | Kids Academy (4 mins 42 sec)</b><br>
     Join two children as they learn about the process of recycling including how to recycle, what can be recycled and what will happen to the recycled items.  Children can also try sorting items into the correct bins.</p>
+    <p>Source: Kids Academy: Recycling for Kids: Recycling Plastic, Glass and Paper- Youtube (2018, Dec 22). Retrieved 2021, October 20.</p>
   </div>
 </div>
 
@@ -47,8 +48,9 @@ Check out the video resources below to help your child understand more about the
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-jade">What is recycling? | Recycling for children | Learn to recycle | Polly Olly (3 mins 33 sec)</b><br>
+    <p><b class="has-text-jade">What is recycling? | Recycling for Children | Learn to Recycle | Polly Olly (3 mins 33)</b><br>
     In this engaging video, Polly explains to kids what recycling is and why it is important to recycle paper and plastic.</p>
+    <p>Source: Polly Olly - Kids Videos and Nursery Rhymes: What is recycling? Recycling for children-Youtube (2019, Aug 25). Retrieved 2021, October 20.</p>
   </div>
 </div>
 
