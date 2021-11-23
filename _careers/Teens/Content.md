@@ -5,6 +5,48 @@ description: ""
 third_nav_title: Teens
 ---
 Busy chasing dreams? These resources will help you get there faster.
+
+<h3 class="has-text-ruby"><b>Playlist</b></h3>
+A collection of short videos and podcasts to inspire you as you make that all-important decision on what career path to take.
+
+<h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: A Day in the Life of: Healthcare Professionals</b></h5>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/HsrG3INWx_g"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-ruby">On My Way!: A Day in the Life of a Surgeon (5 min)</b><br>
+    Join Dr Hamid Razak as he gives us a peek into the true life of a surgeon.</p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Xtn0i4P6HaU"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-ruby">Nursing for Life Episode 1: Growing Up Years (3 min)</b><br>
+    Follow the journey of five nurses as they see patients through every life stage.</p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/8Lh04f6ENHU"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-ruby">What It’s Like Being A Medical Social Worker In Singapore (4 min)</b><br>
+    A medical social worker from Jamiyah Nursing Home explains how his role is different from social workers and touches on some of the challenges he faces at work.</p>
+  </div>
+</div>
+
 <h3 class="has-text-ruby"><b>Learning Package</b></h3>
 Get a glimpse of what it takes to achieve your aspirations with these articles and activities.
 
@@ -53,43 +95,4 @@ Synopsis from [Harper Collins](https://www.harpercollins.com/){:target="_blank" 
 
 The book covers and synopses are the copyright of the respective publishing companies. (All websites were last accessed on 8 October 2021.)
 
-<h3 class="has-text-ruby"><b>Playlist</b></h3>
-A collection of short videos and podcasts to inspire you as you make that all-important decision on what career path to take.
-
-<h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: A Day in the Life of: Healthcare Professionals</b></h5>
-
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/HsrG3INWx_g"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b class="has-text-ruby">On My Way!: A Day in the Life of a Surgeon (5 min)</b><br>
-    Join Dr Hamid Razak as he gives us a peek into the true life of a surgeon.</p>
-  </div>
-</div>
-
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Xtn0i4P6HaU"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b class="has-text-ruby">Nursing for Life Episode 1: Growing Up Years (3 min)</b><br>
-    Follow the journey of five nurses as they see patients through every life stage.</p>
-  </div>
-</div>
-
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/8Lh04f6ENHU"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b class="has-text-ruby">What It’s Like Being A Medical Social Worker In Singapore (4 min)</b><br>
-    A medical social worker from Jamiyah Nursing Home explains how his role is different from social workers and touches on some of the challenges he faces at work.</p>
-  </div>
-</div>
+<a href="#main-content">Back to top</a>
