@@ -90,3 +90,76 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 	<li><a id="footnote-nine">Circular economy</a>. <i>Towards Zero Waste Singapore</i>. Retrieved 2021, October 21 from <a href="https://www.towardszerowaste.gov.sg/circular-economy">https://www.towardszerowaste.gov.sg/circular-economy</a></li>
 	<li><a id="footnote-ten">What is circular economy?</a> <i>Towards Zero Waste Singapore</i>. Retrieved 2021, October 21 from <a href="https://www.towardszerowaste.gov.sg/zero-waste-masterplan/chapter2/circular-economy/">https://www.towardszerowaste.gov.sg/zero-waste-masterplan/chapter2/circular-economy/</a></li>
 </ol>
+
+<img src="/images/sustainability/energysustainabilitybanner.jpg" alt="cover image">
+---
+<h1>Learning Package: Energy Sustainability</h1>
+<h2>Introduction</h2>
+<p> Our energy needs are vast covering daily activities to industry use. The concern of our generation is to meet those needs through sustainable energy forms that are renewable and clean unlike fossil fuels that pollute and have been one of the main causes of climate change. Some examples of sustainable energy forms are solar, wind, water to geothermal power.</p>
+<p> In Singapore, we depend on imports for our energy needs and are constrained in terms of options for renewable energy sources.  An energy strategy recently adopted resolves around four supply switches that promote cleaner power generation.<sup><a href="#footnote-one">1</a></sup>.</p>
+<p>Delve further into the field of energy sustainability through the resources we have prepared here.</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+			<h2>Did you know...</h2>
+			<p>Tengeh Reservoir is the site of one of the world’s largest single floating solar systems. It is expected to generate enough energy to power about 16,000 four-room HDB flats<sup><a href="#footnote-two">2</a></sup>!</p>
+			<p> The most energy efficient and environmentally friendly mode of transporting cargo is seaborne trade<sup><a href="#footnote-three">3</a></sup>.</p>
+		</td>
+	</tr>
+	</tbody></table>
+	
+<h4>Videos</h4>
+<h5>1. What are Renewable Energies?</h5>
+<p>This video provides an overview of renewable energy types that exist.</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bkow2fDy5KY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="https://www.youtube.com/embed/Bkow2fDy5KY" target="_blank">What are Renewable Energies?</a> (2017, January 5). <i>Acciona.</i> Retrieved 2021, October 16
+
+<h5>2. Singapore to ramp up solar energy production</h5> 
+<p> Solar energy is the most viable energy source for Singapore in comparison to other renewables like wind or water. Explore how we harness this renewable energy and upcoming plans in this video.</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BHFBCc33eU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="https://www.youtube.com/embed/BHFBCc33eU0" target="_blank">Singapore to ramp up solar energy production</a> (2019, October 29). <i>The Straits Times.</i> Retrieved 2021, September 15
+
+<h4>Podcast</h4>
+<h5>1. <a href="https://www.brookings.edu/essay/why-are-fossil-fuels-so-hard-to-quit/">Brookings</a></h5>
+<p> Listen in as Samantha Gross gives an overview on her essay where she explores issues relating to giving up our fossil fuel dependency.</p>
+
+<h4>eBooks</h4>
+<h5>1. Superpower: One Man’s Quest To Transform America Energy</h5>
+Russel Gold (2019), <i> Superpower: One Man’s Quest To Transform America Energy </i>, Simon & Schuster.
+<br>
+<a href="https://nlb.overdrive.com/media/4501140"><img src="/images/sustainability/adults-and-seniors/Superpower.jpg " style="width:300px; text-align:left;" alt="book cover for superpower: one man’s quest to transform America energy"></a>
+<p> Get inspired by the story of Michael Skelly who defined naysayers to pour effort into wind energy and built the second largest wind power company in the United States, earning him billions in return.</p>
+<p><a href="https://nlb.overdrive.com/media/4501140 ">Borrow the eBook here</a>. </p>
+<body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
+
+
+<h5>2. How Bad Are Bananas: The Carbon Footprint of Everything </h5>
+Mike Berners-Lee (2020), <i> How Bad Are Bananas: The Carbon Footprint of Everything </i>, Profile.
+<p>
+<a href="https://nlb.overdrive.com/media/506398"><img src="/images/sustainability/adults-and-seniors/HowBadareBananas.jpg" style="width:300px; text-align:left;" alt="book cover for how bad are bananas"></a>
+</p><p> Here’s a practical guide on what you can do to lower your carbon footprint by concentrating on what can made huge impact.</p>
+
+<p><a href="https://nlb.overdrive.com/media/506398">Borrow the eBook here</a>. </p>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+
+<h5>3. Net Zero: How We Stop Causing Climate Change </h5>
+Dieter Helm (2020), <i> Net Zero: How We Stop Causing Climate Change </i>, HarperCollins Publishers.
+<br>
+<a href="https://nlb.overdrive.com/media/5359282"><img src="/images/sustainability/adults-and-seniors/NetZero.jpg" style="width:300px; text-align:left;" alt=" book cover for net zero"></a>
+<p> We can do something about the climate emergency which this book examines from a personal to a national level. </p>
+<p><a href="https://nlb.overdrive.com/media/5359282">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+
+<h4>Sustainability Programmes in NLB</h4>
+<p> There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a href="go.gov.sg/sustainprog">go.gov.sg/sustainprog</a> 
+</p>
+			
+<h4>References</h4>
+<ol>
+    <li><a id="footnote-one"> Singapore’s Approach to Alternative Energy </a>. (2021, August 13). <i>National Climate Change Secretariat</i>. Retrieved 2021, September 15 from <a href=" https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/"> https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/ </a></li>
+	<li><a id="footnote-two"> Singapore’s largest solar farm can power up 16,000 four room HBD flats for one year </a>. (2021, May 18). <i>The Straits Times</i>. Retrieved 2021, September 15 from <a href="https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year">https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year</a> </li>
+	<li><a id="footnote-three">Facts and Trivia</a>. (2021, October 20). <i>Maritime and Port Authority of Singapore</i>. Retrieved 2021, October 22 from <a href="https://www.greenplan.gov.sg/key-focus-areas/green-economy/">https://www.mpa.gov.sg/web/portal/home/maritime-singapore/introduction-to-maritime-singapore/facts-and-trivia</a></li>
+</ol>
