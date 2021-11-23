@@ -41,7 +41,7 @@ These communities cover a wide range of topics and can be found in libraries all
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Comics X Nature</b></h5>
       <p class="margin--top--sm margin--bottom--sm">The Comics X Nature Learning Community is made up of those who use comics as a way to express their love for nature and the environment. Through this unique medium, participants hope to spread their message and learn from each other. To date, the community has had the opportunity to learn from artist and illustrator Alan Bay, as well as comic artist Sonia Yeo. An anthology of the community’s works on environmental issues will soon be produced and made available for loan at public libraries and online.</p>
-      <p class="margin--top--sm margin--bottom--sm">Read the Comics X Nature anthology <a href="https://go.gov.sg/comicsxnature" target="_blank">here</a>.</p>
+      <p class="">Read the Comics X Nature anthology <a href="https://go.gov.sg/comicsxnature" target="_blank">here</a>.</p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
@@ -49,12 +49,14 @@ These communities cover a wide range of topics and can be found in libraries all
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Zine LC</b></h5>
       <p class="margin--top--sm margin--bottom--sm">This community is made up of creators who produce Zines. Pronounced “zeens”, these are self-published magazines produced in small batches. There are no rules as to what makes a zine, and that is possibly their biggest charm.</p>
-      <p class="margin--top--sm margin--bottom--sm">Check out some of the Zines created by this community:<br>
-      1. <a href="/files/A-Walk-in-the-Park-by-Fanny-Ozda.pdf" target="_blank">A Walk in the Park by Fanny Ozda</a><br>
-      2. <a href="/files/An-Ode-to-the-Toilet-Cubicle-by-Ei-Xue-Han.pdf" target="_blank">An Ode to the Toilet Cubicle by Ei Xui Han</a><br>
-      3. <a href="/files/Differences-by-Su.pdf" target="_blank">Differences by Su</a><br>
-      4. <a href="/files/Extraction-by-T-Shuxia.pdf" target="_blank">Extraction by T Shuzia</a><br>
-      5. <a href="/files/Now-I-Lay-Me-Down-to-Rest-at-Home-by-Anna-Onni.pdf" target="_blank">Now I Lay me Down to Rest at Home by by Anna Onni</a></p>
+      <p class="">Check out some of the Zines created by this community:</p>
+      <ol>
+        <li><a href="/files/A-Walk-in-the-Park-by-Fanny-Ozda.pdf" target="_blank">A Walk in the Park by Fanny Ozda</a></li>
+        <li><a href="/files/An-Ode-to-the-Toilet-Cubicle-by-Ei-Xue-Han.pdf" target="_blank">An Ode to the Toilet Cubicle by Ei Xui Han</a></li>
+        <li><a href="/files/Differences-by-Su.pdf" target="_blank">Differences by Su</a></li>
+        <li><a href="/files/Extraction-by-T-Shuxia.pdf" target="_blank">Extraction by T Shuzia</a></li>
+        <li><a href="/files/Now-I-Lay-Me-Down-to-Rest-at-Home-by-Anna-Onni.pdf" target="_blank">Now I Lay me Down to Rest at Home by Anna Onni</a></li>
+      </ol>
     </div>
   </div>
 </div>
