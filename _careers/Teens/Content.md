@@ -95,4 +95,6 @@ Synopsis from [Harper Collins](https://www.harpercollins.com/){:target="_blank" 
 
 The book covers and synopses are the copyright of the respective publishing companies. (All websites were last accessed on 8 October 2021.)
 
-<a href="#main-content">Back to top</a>
+&nbsp;
+
+[Back to top](#main-content){: .has-text-ruby .has-text-right}
