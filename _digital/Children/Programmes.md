@@ -4,7 +4,6 @@ permalink: /digital/children/programmes
 description: ""
 third_nav_title: Children
 ---
-
 Introduce your child to future-ready concepts such as coding, robotics, AR and more through interactive, hands-on programmes.
 
 ## **Budding Coders**
@@ -13,11 +12,6 @@ Children will learn coding concepts through hands-on gameplays and develop probl
 
 Click here for the latest programme listings.
 
-## **Tweenkerama: Technology**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-Children-02b.png)
-Tweens aged 10 to 13 years old will get to learn and explore topics on S.T.E.A.M. through a variety of hands-on and experiential learning activities. 
-
-Click [here](https://go.gov.sg/Tweenkerama) for the latest programme listings.
 
 ## **S.T.E.A.M Lab** 
 
