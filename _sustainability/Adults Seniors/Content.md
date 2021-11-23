@@ -121,7 +121,7 @@ Source: <a href="https://www.youtube.com/embed/Bkow2fDy5KY" target="_blank">What
 <h5>2. Singapore to ramp up solar energy production</h5> 
 <p> Solar energy is the most viable energy source for Singapore in comparison to other renewables like wind or water. Explore how we harness this renewable energy and upcoming plans in this video.</p>
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BHFBCc33eU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BHFBCc33eU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 Source: <a href="https://www.youtube.com/watch?v=BHFBCc33eU0" target="_blank">
 Singapore to ramp up solar energy production</a> (2019, October 29). <i>The Straits Times.</i> Retrieved 2021, September 15
@@ -129,11 +129,14 @@ Singapore to ramp up solar energy production</a> (2019, October 29). <i>The Stra
 <h4>Podcast</h4>
 <h5>1. <a href="https://www.brookings.edu/essay/why-are-fossil-fuels-so-hard-to-quit/">Brookings</a></h5>
 <p> Listen in as Samantha Gross gives an overview on her essay where she explores issues relating to giving up our fossil fuel dependency.</p>
+Source: <a href="https://www.brookings.edu/essay/why-are-fossil-fuels-so-hard-to-quit/" target="_blank">
+Why are Fossil Fuels so Hard to Quit</a> (2020, July 17). <i>The Straits Times.</i> Retrieved 2020, October 22
 
 <h4>eBooks</h4>
 <h5>1. Superpower: One Man’s Quest To Transform America Energy</h5>
 Russel Gold (2019), <i> Superpower: One Man’s Quest To Transform America Energy </i>, Simon & Schuster.
 <br>
+
 <a href="https://nlb.overdrive.com/media/4501140"><img src="/images/sustainability/adults-and-seniors/Superpower.jpg " style="width:300px; text-align:left;" alt="book cover for superpower: one man’s quest to transform America energy"></a>
 <p> Get inspired by the story of Michael Skelly who defined naysayers to pour effort into wind energy and built the second largest wind power company in the United States, earning him billions in return.</p>
 <p><a href="https://nlb.overdrive.com/media/4501140 ">Borrow the eBook here</a>. </p>
@@ -162,8 +165,8 @@ Dieter Helm (2020), <i> Net Zero: How We Stop Causing Climate Change </i>, Harpe
 			
 <h4>References</h4>
 <ol>
-    <li><a id="footnote-one"> Singapore’s Approach to Alternative Energy </a>. (2021, August 13). <i>National Climate Change Secretariat</i>. Retrieved 2021, September 15 from <a href=" https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/"> https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/ </a></li>
-	<li><a id="footnote-two"> Singapore’s largest solar farm can power up 16,000 four room HBD flats for one year </a>. (2021, May 18). <i>The Straits Times</i>. Retrieved 2021, September 15 from <a href="https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year">https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year</a> </li>
+    <li><a id="footnote-one"> Singapore’s Approach to Alternative Energy</a>. (2021, August 13). <i> National Climate Change Secretariat</i>. Retrieved 2021, September 15 from <a href=" https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/"> https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/ </a></li>
+	<li><a id="footnote-two"> Singapore’s largest solar farm can power up 16,000 four room HBD flats for one year</a>. (2021, May 18). <i>The Straits Times</i>. Retrieved 2021, September 15 from <a href="https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year">https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year</a> </li>
 	<li><a id="footnote-three">Facts and Trivia</a>. (2021, October 20). <i>Maritime and Port Authority of Singapore</i>. Retrieved 2021, October 22 from <a href="https://www.greenplan.gov.sg/key-focus-areas/green-economy/">https://www.mpa.gov.sg/web/portal/home/maritime-singapore/introduction-to-maritime-singapore/facts-and-trivia</a></li>
 </ol>
 ---
@@ -177,7 +180,7 @@ Dieter Helm (2020), <i> Net Zero: How We Stop Causing Climate Change </i>, Harpe
           	<tbody><tr>
                          	<td>
                                        	<h2>Did you know...</h2>
-                                       	<p>Fashion accounts for 20-35% of micro plastic flows into the ocean <sup><a href="#footnote-one">1</a></sup> </p>
+                                       	<p>Fashion accounts for 20-35% of micro plastic flows into the ocean <sup><a href="#footnote-one">1</a></sup>.</p>
                                        	<p>In 2018, only about 10% of the clothes given to the Salvation Army, are sold in its thrift shops. <sup><a href="#footnote-two">2</a></sup>.</p>
                          	</td>
           	</tr>
@@ -203,6 +206,7 @@ Source: <a href="https://www.youtube.com/embed/rt-kBnsBzCo" target="_blank">9 Co
  
 <h5>1. <a href="https://www.straitstimes.com/business/money-fm-podcast-swapping-not-shopping-making-fashion-sustainable">Money FM 89.3</a></h5>
 <p>Find out about the practice of swapping, a method that extends the lifespan of your clothes in this podcast.</p>
+Source: <a href="https://www.straitstimes.com/business/money-fm-podcast-swapping-not-shopping-making-fashion-sustainable" target="_blank">Swapping, not Shopping- Making fashion sustainable</a> (2020, Oct 5). <i>Money FM 89.3.</i> Retrieved 2021, September 15
  
 <h4>eBooks</h4>
 <h5>1. A Life Less Throwaway: The lost art of buying for life </h5>
