@@ -4,6 +4,7 @@ permalink: /communities/join/sustainability-communities
 description: ""
 third_nav_title: Join A LearnX Community
 ---
+## **Sustainability Communities**
 It’s no surprise that the desire to live sustainably is growing. Join people who are at different points of their transformation to get inspired, exchange first-hand tips and more.
 
 <div class="row is-multiline">
