@@ -2,4 +2,5 @@ collections:
   communities:
     output: true
     order:
+      - Join a LearnX Community/.keep
       - Explore LearnX Communities.md
