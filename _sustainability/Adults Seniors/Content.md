@@ -173,69 +173,73 @@ Dieter Helm (2020), <i> Net Zero: How We Stop Causing Climate Change </i>, Harpe
 <p>Our fashion choices have an impact on the planet. Beyond the materials used to make a piece of clothing, where and how it is made, to its distribution, potential for reuse, repair, remake or recycle determine the extent of the environmental and social impact it has. We must also consider our consumption patterns and usage when we talk about sustainable fashion. The onus on making fashion more sustainable thus lies with all stakeholders from fashion companies to the consumers. </p>
 <p>To help you untangle the topic of sustainable fashion and guide you in making better fashion choices and practices to adopt, check out the resources we have compiled here.</p>
 <table border="1">
-	<tbody><tr>
-		<td>
-			<h2>Did you know...</h2>
-			<p>Fashion accounts for 20-35% of micro plastic flows into the ocean <sup><a href="#footnote-one">1</a></sup>.</p>
-			<p>In 2018, only about 10% of the clothes given to the Salvation Army, are sold in its thrift shops. <sup><a href="#footnote-two">2</a></sup>.</p>
-		</td>
-	</tr>
-	</tbody></table>
-	
+          	<tbody><tr>
+                         	<td>
+                                       	<h2>Did you know...</h2>
+                                       	<p>Fashion accounts for 20-35% of micro plastic flows into the ocean <sup><a href="#footnote-one">1</a></sup> </p>
+                                       	<p>In 2018, only about 10% of the clothes given to the Salvation Army, are sold in its thrift shops. <sup><a href="#footnote-two">2</a></sup>.</p>
+                         	</td>
+          	</tr>
+          	</tbody></table>
+             
 <h4>Videos</h4>
 <h5>1. Fashion Industry and Circular Economy</h5>
 <p>Get an overview of the issues plaguing the fashion industry and the actions that are being taken to improve its sustainability in this video.</p>
-
+ 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/65zR2nU0sBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 Source: <a href="https://www.youtube.com/embed/65zR2nU0sBU" target="_blank">Fashion industry & Circular Economy</a> (2017, Dec 21). <i>WorlDynamics.</i> Retrieved 2021, September 15
-
-<h5>2. 9 Common Misconceptions about Sustainable Fashion</h5> 
+ 
+<h5>2. 9 Common Misconceptions about Sustainable Fashion</h5>
 <p> Discover what sustainable fashion really means and the important considerations to bear in mind to be planet friendly through this insightful video.</p>
-
+ 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rt-kBnsBzCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/embed/rt-kBnsBzCo" target="_blank">9 Common Misconceptions about Sustainable Fashion</a> (2020, Oct 5). <i>imperfectidealist.</i> Retrieved 2021, September 15
-
+ 
 <h4>Podcast</h4>
-
+ 
 <h5>1. <a href="https://www.straitstimes.com/business/money-fm-podcast-swapping-not-shopping-making-fashion-sustainable">Money FM 89.3</a></h5>
 <p>Find out about the practice of swapping, a method that extends the lifespan of your clothes in this podcast.</p>
-
+ 
 <h4>eBooks</h4>
 <h5>1. A Life Less Throwaway: The lost art of buying for life </h5>
 Tara Button (2018), <i>Life Less Throwaway: The lost art of buying for life</i>, New York: Ten Speed Press.
 <br>
-<a href="https://nlb.overdrive.com/media/3341119"><img src="//adults-and-seniors/A Life Less Throwaway" style="width:300px; text-align:left;" alt="book cover for a life less throwaway"></a>
+
+<a href="https://nlb.overdrive.com/media/3341119"><img src="/images/sustainability/adults-and-seniors/ALifeLessThrowaway.jpg" style="width:300px; text-align:left;" alt="book cover for a life less throwaway"></a>
 <p> Overcome impulse buys by discovering what really suits you and reach out for the best, most classic and long-lasting objects. Achieve this by following the 10 steps outlined in this book.
 </p>
 <p><a href="https://nlb.overdrive.com/media/3341119">Borrow the eBook here</a>. </p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
-
+ 
 <h5>2. Dress [with] Sense: The practical guide to a conscious closet </h5>
 Redress (2017), <i>Dress [with] Sense: The practical guide to a conscious closet</i>, Thomas and Hudson Ltd.
 <p>
-<a href="https://nlb.overdrive.com/media/3164984"><img src="/images/adults-and-seniors/Dress with Sense.jpg" style="width:300px; text-align:left;" alt="book cover for dress with sense"></a>
+<a href="https://nlb.overdrive.com/media/3164984"><img src="/images/sustainability/adults-and-seniors/DresswithSense.jpg" style="width:300px; text-align:left;" alt="book cover for dress with sense"></a>
 </p><p> Inch your way to a more sustainable wardrobe with this how-to book that features practical tips and case studies. </p>
-
+ 
 <p><a href="https://nlb.overdrive.com/media/3164984">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
-	
-<h5>3.Wear, Repair, Repurpose : A Maker’s Guide to Mending and Upcycling Clothes</h5>
+             
+<h5>3. Wear, Repair, Repurpose : A Maker’s Guide to Mending and Upcycling Clothes</h5>
 Lily Fulop (2020), <i>Wear, Repair, Repurpose : A Maker’s Guide to Mending and Upcycling Clothes</i>, Countryman Press
 <br>
-<a href="https://nlb.overdrive.com/media/5155080"><img src="/images/sustainability/adults-and-seniors/Wear, Repair, Repurpose.jpg" style="width:300px; text-align:left;" alt=" book cover for wear, repair, repurpose"></a>
-<p> Learn how to repair, upcycle or remake your fashion pieces to reduce waste with this book. 
 
+<a href="https://nlb.overdrive.com/media/5155080"><img src="/images/sustainability/adults-and-seniors/WearRepairRepurpose.jpg" style="width:300px; text-align:left;" alt=" book cover for wear, repair, repurpose"></a>
+<p> Learn how to repair, upcycle or remake your fashion pieces to reduce waste with this book.
+ 
 </p><p><a href="https://nlb.overdrive.com/media/5155080">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
-
+ 
 <h4>Sustainability Programmes in NLB</h4>
 <p> There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a href="go.gov.sg/sustainprog">go.gov.sg/sustainprog</a>
 </p>
-			
+                                          
 <h4>References</h4>
 <ol>
-    <li><a id="footnote-one">What is sustainable fashion and why does it matter.</a>. (2021) <i>Conscious Life & Style</i>. Retrieved 2021, September 15 from <a href="https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/">https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/</a></li>
-	<li><a id="footnote-two"> The true cost of demand for cheap clothes, to you and the environment. </a>. (2021). <i>CNA</i>. Retrieved 2021, September 15 from <a href="https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706">https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706</a> </li>
+	<li><a id="footnote-one">What is sustainable fashion and why does it matter.</a>. (2021) <i>Conscious Life & Style</i>. Retrieved 2021, September 15 from <a href="https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/">https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/</a></li>
+          	<li><a id="footnote-two"> The true cost of demand for cheap clothes, to you and the environment. </a>. (2021). <i>CNA</i>. Retrieved 2021, September 15 from <a href="https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706">https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706</a> </li>
 </ol>
+
+
