@@ -123,7 +123,8 @@ Source: <a href="https://www.youtube.com/embed/Bkow2fDy5KY" target="_blank">What
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHFBCc33eU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-Source: <a href="https://www.youtube.com/embed/BHFBCc33eU0" target="_blank">Singapore to ramp up solar energy production</a> (2019, October 29). <i>The Straits Times.</i> Retrieved 2021, September 15
+Source: <a href="https://www.youtube.com/watch?v=BHFBCc33eU0" target="_blank">
+Singapore to ramp up solar energy production</a> (2019, October 29). <i>The Straits Times.</i> Retrieved 2021, September 15
 
 <h4>Podcast</h4>
 <h5>1. <a href="https://www.brookings.edu/essay/why-are-fossil-fuels-so-hard-to-quit/">Brookings</a></h5>
