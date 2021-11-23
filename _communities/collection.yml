@@ -2,6 +2,6 @@ collections:
   communities:
     output: true
     order:
-      - Start a LearnX Community/.keep
-      - Join a LearnX Community/.keep
       - Explore LearnX Communities.md
+      - Join a LearnX Community/.keep
+      - Start a LearnX Community/.keep
