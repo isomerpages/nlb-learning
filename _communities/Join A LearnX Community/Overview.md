@@ -37,7 +37,7 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
   </div>
   <div class="col is-half">
     <div class="clickbox is-wellness">
-      <a href="#">
+      <a href="/communities/join/wellness-communities">
         <span>Wellness Communities</span>
       </a>
     </div>
@@ -47,14 +47,14 @@ If you do not see any upcoming events, send in an enquiry and we’ll get back t
 <div class="row is-multiline">
   <div class="col is-half">
     <div class="clickbox is-arts">
-      <a href="#">
+      <a href="/communities/join/art-communities">
         <span>Arts Communities</span>
       </a>
     </div>
   </div>
   <div class="col is-half">
     <div class="clickbox is-reading">
-      <a href="#">
+      <a href="/communities/join/reading-communities">
         <span>Reading Communities</span>
       </a>
     </div>
