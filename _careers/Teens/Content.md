@@ -97,4 +97,4 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 
 [Back to top](#main-content){: .has-text-ruby}
-{: .has-text-right}
+{: .has-text-right .margin--top--xl}
