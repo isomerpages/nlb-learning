@@ -93,7 +93,7 @@ Check out the video resources below to help your child understand more about the
 <h3 class="has-text-jade"><b>Learning Package</b></h3>
 Articles and activities that will teach and inspire your child to live sustainably.
 
-<a id="playlist">[**Protecting Birds in Singapore**](/files/SustainabilityProtectingBirdsinSingaporeEarlyRead.pdf)<br></a>
+<a id="playlist">[**Protecting Birds in Singapore**](/files/SustainabilityProtectingBirdsinSingaporeEarlyRead.pdf)</a><br>
 From the ever-present Mynah to the colourful Kingfisher, birds are a common sight in this garden city we call home. But did you know they do a lot more for the environment than just adding life and colour to our surroundings? Find out more about the role birds play in our ecosystem, the dangers they face, and how we can do our part to keep them safe.
  
 [**Sea Turtle Rescue**](/files/Sustainability-Sea-Turtle-Rescue-Early-Read.pdf)<br>
