@@ -10,7 +10,7 @@ We’ll be here to help you get started with guidance from our experienced libra
 
 We are looking for LearnX Communities on the following topics:
 
-### **[Careers](/communities/join/careers-communities)<br>[Digital](/communities/join/digital-communities)<br>[Sustainability](/communities/join/sustainability-communities)<br>[Wellness](/communities/join/wellness-communities)<br>[Arts](/communities/join/art-communities)<br>[Reading](/communities/join/reading-communities)<br>Science<br>Singapore**
+### **[Careers](/communities/join/careers-communities)<br>[Digital](/communities/join/digital-communities)<br>[Sustainability](/communities/join/sustainability-communities)<br>[Wellness](/communities/join/wellness-communities)<br>[Arts](/communities/join/art-communities)<br>[Reading](/communities/join/reading-communities)
 
 <div class="row is-multiline margin--top--lg">
   <div class="col is-one-third">

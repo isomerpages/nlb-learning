@@ -84,6 +84,24 @@ body {
   color: inherit !important;
 }
 
+h1 {
+  @include touch {
+    line-height: 3.5rem;
+  }
+}
+
+h2 {
+  @include touch {
+    line-height: 2.75rem;
+  }
+}
+
+h3 {
+  @include touch {
+    line-height: 2.5rem;
+  }
+}
+
 a[href$=".pdf"]:before {
   color: inherit !important;
   font-weight: normal !important;
@@ -221,6 +239,9 @@ a[href$=".pdf"]:before {
     td,
     th {
       border-color: $black;
+      @include mobile {
+        min-width: 50vw;
+      }
     }
   }
 }
