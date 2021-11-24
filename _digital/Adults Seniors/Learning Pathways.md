@@ -160,7 +160,7 @@ Learn to use your smartphone effectively and safely to have knowledge at your fi
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/adults-seniors/content" target="_blank" class="has-text-ruby"><b>Using Your Smartphone Learning Package and Play List</b></a></td>
+        <td style="width: 20%;"><a href="/digital/adults-seniors/content" target="_blank" class="has-text-indigo"><b>Using Your Smartphone Learning Package and Play List</b></a></td>
         <td style="width: 40%;">Learn to use your smartphones effectively!</td>
         <td style="width: 20%;">Available online</td>
         <td style="width: 20%;">LEARNX</td>
@@ -196,37 +196,44 @@ Yishun Public Library<br></td>
         <td>List of selected libraries available <a href="https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys" target="_blank" class="has-text-indigo">here</a>.
 </td>
       </tr>
+<tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b> Everyday Banking with POSB digibank</b></a></td>
         <td>This workshop provides a step-by-step guide to POSB digibank. Plus, learn how to protect yourself online with our #BSHARP security tips!</td>
         <td>6 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
+<tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Go Cashless with DBS PayLah!</b></a></td>
         <td>Learn how to make your everyday easier with the DBS PayLah! app. Whether you are paying your friends, buying groceries or paying for your bills and more, enjoy convenience and seamless every day services with PayLah! 
 </td>
         <td>13 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
+<tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Make e-Payments with PayNow</b></a></td>
         <td>Learn about the benefits of PayNow and how to use PayNow on your POSB digibank app and internet banking. .</td>
         <td>20 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
+<tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Spotting Deepfake Images & Videos</b></a></td>
         <td>Learn more about Artificial Intelligence generated deepfake images and videos, how they work, and how to detect them.</td>
         <td>7 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
+<tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>[银发族S.U.R.E.技能系列] 如何识破 “深度伪造” 图像和影像</b></a></td>
         <td>通过这个工作坊，您能了解什么是利用人工智能（AI）合成的“深度伪造” (Deepfake) 图像和影像，以及如何识破它们。</td>
         <td>15 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
+<tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Social Impact of Technologies</b></a></td>
         <td>Learn more about the positive and negative impact of technology in our daily lives</td>
         <td>2 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
+<tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Internet of Things</b></a></td>
         <td>Find out more about the fundamentals of IoT at this workshop, including how some common sensors work, its interface to a microcontroller, and how the Internet fits into all of this..</td>
         <td>21 Dec 2021, <br>3pm – 4.30pm</td>
