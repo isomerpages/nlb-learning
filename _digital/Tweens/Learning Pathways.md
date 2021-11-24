@@ -4,7 +4,7 @@ permalink: /digital/tweens/learning-pathways
 description: ""
 third_nav_title: Tweens
 ---
-### **Learning Pathways**
+Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3 class="has-text-indigo"><b>Tech and You!</b></h3>
 Explore the wonders of tech.
@@ -78,5 +78,3 @@ Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank" class=
     </tbody>
   </table>
 </div>
-
-
