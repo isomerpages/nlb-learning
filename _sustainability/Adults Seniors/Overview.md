@@ -4,7 +4,7 @@ permalink: /sustainability/adults-seniors/overview
 description: ""
 third_nav_title: Adults & Seniors
 ---
-It’s never too late to make a lifestyle change so, but there’s no better time to start than now! Explore our resources and transition to a eco-friendly way of life today.
+It’s never too late to make a lifestyle change, but there’s no better time to start than now! Explore our resources and transition to a eco-friendly way of life today.
 
 <div class="row is-multiline">
   <div class="col is-one-third">
