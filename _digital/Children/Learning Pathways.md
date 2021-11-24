@@ -20,13 +20,13 @@ Go digital with your child and explore the world of digital and tech together.
         <td style="width: 20%;"><a href="/digital/children/content" target="_blank" class="has-text-indigo"><b>Playlist: Safer Internet</b></a></td>
         <td style="width: 40%;">A collection of short videos exploring topics around digital concepts.<br><br>
 					<b>Safer internet</b><br>
-Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below</td>
+Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
         <td><a href="/digital/children/content" target="_blank" class="has-text-indigo"><b>Learning Package: Stay Curious With Your Child</b></a></td>
-        <td>Coming soon.</td>
+        <td>Coming soon</td>
         <td> </td>
         <td> </td>
       </tr>
@@ -44,7 +44,7 @@ Learn how to keep yourself safe online as you explore all the information availa
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="#" target="_blank" class="has-text-indigo"><b>CSA: How to Go Safe Online: Primary School Edition </b></a></td>
-        <td style="width: 40%;">This programme is suitable for children aged 7 to 12 years old, and parents are welcome to attend with their children.<br>
+        <td style="width: 40%;">This programme is suitable for children aged 7 to 12 years old, and parents are welcome to attend with their children.<br><br>
 Join us for this online session to learn about the types of cyber threats to look out for and learn how you can Go Safe Online by practising good cyber hygiene habits. 
 </td>
         <td style="width: 20%;">4 Dec 2021,<br>10am – 11am</td>
