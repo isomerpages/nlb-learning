@@ -133,5 +133,3 @@ Participants will have a chance to experience Bee bot, a programmable robot in t
     </tbody>
   </table>
 </div>
-
-
