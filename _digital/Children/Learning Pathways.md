@@ -4,10 +4,10 @@ permalink: /digital/children/learning-pathways
 description: ""
 third_nav_title: Children
 ---
-### **Learning Pathways**
+Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3 class="has-text-indigo"><b>Tech and You!</b></h3>
-Explore the wonders of tech.
+<h3 class="has-text-indigo"><b>Let’s Go Digital</b></h3>
+Go digital with your child and explore the world of digital and tech together.
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -18,7 +18,7 @@ Explore the wonders of tech.
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/digital/children/content" target="_blank" class="has-text-indigo"><b>Playlist: Safer Internet</b></a></td>
-        <td style="width: 40%;"><b>A collection of short videos exploring topics around digital concepts.<br><br>
+        <td style="width: 40%;">A collection of short videos exploring topics around digital concepts.<br><br>
 Safer internet<br>
 Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below</td>
         <td style="width: 20%;"></td>
