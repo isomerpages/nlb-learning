@@ -4,7 +4,7 @@ permalink: /sustainability/children/overview
 description: ""
 third_nav_title: Children
 ---
-Make sustainability the way of life at home with these programmes, resources and pathways.
+Make sustainability the way of life at home with these programmes, resources and pathways. This section is suitable for 7 to 9 year olds.
 
 <div class="row is-multiline">
   <div class="col is-one-third">
