@@ -6,7 +6,42 @@ third_nav_title: Preschoolers
 ---
 Get your child to fall in love with nature through these activities and videos created especially for preschoolers.
 
-<h3 class="has-text-jade"><b>Playlist: 3 Rs for young children</b></h3>
+Check out our **playlist** for a collection of short videos exploring topics around sustainability.
+
+Check our **learning packages** for fun facts and activities that show our little ones interesting ways to protect nature.
+
+<div class="row is-multiline">
+  <div class="col is-one-fourth">
+    <div class="clickbox is-mint-jade">
+      <a href="#playlist">
+        <span>Playlist: 3 Rs</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-fourth">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-birds">
+        <span>Learning<br>Package:<br>Birds</span>
+      </a>
+    </div>
+  </div>
+	  <div class="col is-one-fourth">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-turtles">
+        <span>Learning<br>Package:<br>Sea Turtles</span>
+      </a>
+    </div>
+  </div>
+		  <div class="col is-one-fourth">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-farming">
+        <span>Learning<br>Package:<br>Urban Farming</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<a id="playlist"><h3 class="has-text-jade"><b>Playlist: 3 Rs for young children</b></h3></a>
 
 It is never too early to teach children about sustainability and the importance of caring for our environment. Although this might be a broad topic, there are plenty of ways to teach young children about sustainability in a way that they can understand. 
 
@@ -58,7 +93,7 @@ Check out the video resources below to help your child understand more about the
 <h3 class="has-text-jade"><b>Learning Package</b></h3>
 Articles and activities that will teach and inspire your child to live sustainably.
 
-[**Protecting Birds in Singapore**](/files/SustainabilityProtectingBirdsinSingaporeEarlyRead.pdf)<br>
+<a id="playlist">[**Protecting Birds in Singapore**](/files/SustainabilityProtectingBirdsinSingaporeEarlyRead.pdf)<br></a>
 From the ever-present Mynah to the colourful Kingfisher, birds are a common sight in this garden city we call home. But did you know they do a lot more for the environment than just adding life and colour to our surroundings? Find out more about the role birds play in our ecosystem, the dangers they face, and how we can do our part to keep them safe.
  
 [**Sea Turtle Rescue**](/files/Sustainability-Sea-Turtle-Rescue-Early-Read.pdf)<br>
