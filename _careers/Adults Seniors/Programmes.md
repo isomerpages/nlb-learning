@@ -87,3 +87,6 @@ Topics covered:
 •	Library databases and web resources used in Business Research
 
 Click here to learn more about this programme.
+
+[Back to top](#main-content){: .has-text-ruby}
+{: .has-text-right .margin--top--xl}

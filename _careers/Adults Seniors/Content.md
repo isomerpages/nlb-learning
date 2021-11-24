@@ -134,4 +134,5 @@ Source: 3 Ideas For More Effective Job Hunting by Dan Kiernan (2020, November 10
   </div>
 </div>
 
-
+[Back to top](#main-content){: .has-text-ruby}
+{: .has-text-right .margin--top--xl}

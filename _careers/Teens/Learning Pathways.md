@@ -98,3 +98,6 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </tbody>
   </table>
 </div>
+
+[Back to top](#main-content){: .has-text-ruby}
+{: .has-text-right .margin--top--xl}

@@ -93,3 +93,6 @@ Click here for the latest TOYL programme listings.
 Tech Bazaars, leveraging on libraries to serve as Tech Experience Touchpoints, enable seniors to experience technology safely and conveniently, and understand how these technologies connect to their daily lives.
 
 Click here for the latest Tech Bazaar programme listings.
+
+[Back to top](#main-content){: .has-text-indigo}
+{: .has-text-right .margin--top--xl}
