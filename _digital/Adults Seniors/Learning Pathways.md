@@ -20,7 +20,7 @@ Technology is changing the way we live and work by making things more accessible
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/adults-seniors/content" target="_blank" class="has-text-ruby"><b>Cybercrime</b></a></td>
+        <td style="width: 20%;"><a href="/digital/adults-seniors/content" target="_blank" class="has-text-indigo"><b>Cybercrime</b></a></td>
         <td style="width: 40%;">Learn how to avoid Cybercrime with our Learning Packages and Playlists</td>
         <td style="width: 20%;">Available Online</td>
         <td style="width: 20%;">LEARNX</td>
@@ -55,36 +55,43 @@ Technology is changing the way we live and work by making things more accessible
         <td>3 Dec 2021, <br>7pm -830pm</td>
         <td>TBC</td>
       </tr>
+<tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Cyberbullying</b></a></td>
         <td>Find out how you can identify signs of cyberbullying and help persons who are victims of it.</td>
         <td>6 Dec 2021, <br>7pm -830pm</td>
         <td>TBC</td>
       </tr>
+<tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Hacking Software and Protection Tools 201</b></a></td>
         <td> Learn about the complex levels of hacking, the protection methods that developed as a result of them, and the usage of associated advanced tools.</td>
         <td>9 Dec 2021, <br>7pm -830pm</td>
         <td>TBC</td>
       </tr>
+<tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Digital Etiquette</b></a></td>
         <td>Understand the importance of good digital etiquette and how it impacts other users.</td>
         <td>9 Dec 2021, <br>7pm -830pm</td>
         <td>TBC</td>
       </tr>
+<tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Introduction to Information Security </b></a></td>
         <td>Learn about the common approaches to information security and acquire basic foundational knowledge on the topic.</td>
         <td>14 Dec 2021, <br>7pm -830pm</td>
         <td>TBC</td>
       </tr>
+<tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Introduction to Website Security </b></a></td>
         <td>Learn about the common approaches to information security and acquire basic foundational knowledge on the topic.</td>
         <td>16 Dec 2021, <br>7pm -830pm</td>
         <td>TBC</td>
       </tr>
+<tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Information Security 201</b></a></td>
         <td>Learn about the more complex approaches to information security and acquire more in-depth knowledge on this topic.</td>
         <td>18 Dec 2021, <br>7pm -830pm</td>
         <td>TBC</td>
       </tr>
+<tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Website Security 201</b></a></td>
         <td>Understand the importance of website security and dive deep into the security protection measures you can undertake to secure your website.</td>
         <td>21 Dec 2021, <br>7pm -830pm</td>
