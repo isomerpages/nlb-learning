@@ -6,7 +6,9 @@ description: ""
 ---
 ![LearnX Digital](/images/digital/learnx-digital-landing-kv-1.jpg)
 
-Technology and digital trends change so rapidly it might feel almost impossible to keep up with everything. But we’re committed to making learning fun and accessible for all, so this digital-focused learning module is perfect for people from all backgrounds. Learn how to use technology smartly and safely, and equip yourself for the future as Singapore moves towards becoming a SMART nation.
+Technology has become pervasive in every aspect of our lives. Innovation and technological progress have become part of how we all live and work, and knowing how to smartly and safety use tech has become and will continue to be an essential skill.
+
+We have created this Digital area of learning to be easy to access and understand, even for non-experts. Come join Singapore’s journey to be a SMART Nation in a digital future.
 
 <!-- <p>
   <div class="responsive-iframe-container ratio-16by9">
