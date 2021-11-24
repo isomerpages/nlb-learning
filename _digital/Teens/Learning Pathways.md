@@ -5,3 +5,62 @@ description: ""
 third_nav_title: Teens
 ---
 ### **Learning Pathways**
+
+<h3 class="has-text-indigo"><b>#Tech4U</b></h3>
+Immerse yourself in the possibilities of digital and tech!
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Collections</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/digital/teens/content" target="_blank" class="has-text-indigo"><b>Playlist: Stay safe, Stay informed</b></a></td>
+        <td style="width: 40%;"><b>Stay safe, Stay informed</b><br>
+Check out these resources that highlight tips on keeping your online information protected, while exploring new digital advancements and opportunities. </td>
+        <td style="width: 20%;">Available Online</td>
+        <td style="width: 20%;">LEARNX</td>
+      </tr>
+      <tr>
+        <td><a href="/digital/teens/content" target="_blank" class="has-text-indigo"><b> Teen.Things: Graphic Design is My Passion </b></a></td>
+        <td> Need something more than MS Paint for your projects? Here’s a list of five free and easy-to-use online resources for you to experiment with graphic design and web-page building. </td>
+        <td>Available Online</td>
+        <td>LEARNX</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Explore Experiences</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href=" http://go.gov.sg/nlb-teensprogs" target="_blank" class="has-text-indigo"><b>[Teens Takeover | digi.lit] Mobile Phone Videography Workshop </b></a></td>
+        <td style="width: 40%;">YouTube, Instagram and TikTok have made mobile phone videography a nifty skill to pick up. In this online workshop, learn how to shoot and edit better videos to impress your friends, family, and social media feed! </td>
+        <td style="width: 20%;">15 Dec 2021,<br>3pm – 4pm</td>
+        <td style="width: 20%;">Zoom</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.facebook.com/publiclibrarysg" target="_blank" class="has-text-indigo"><b>S.T.E.A.M. Lab Mini</b></a></td>
+        <td>Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
+Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank" class="has-text-indigo">Public Libraries Singapore’s Facebook page</a> to be notified when the videos go live.</td>
+        <td>Dec 2021 to Jan 2022</td>
+        <td>Facebook</td>
+      </tr>
+<tr>
+<td><a href="https://go.gov.sg/nlb-teensprogs" target="_blank" class="has-text-indigo"><b> Teens Takeover | portfolio - NYP's "A Day in the life of...” (Digital Artist/Forensic Specialist/Marketer)</b></a></td>
+        <td>Coming soon.</td>
+        <td>TBC</td>
+        <td>TBC</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
