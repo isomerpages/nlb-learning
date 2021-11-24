@@ -41,7 +41,7 @@ Check our **learning packages** for fun facts and activities that show our littl
   </div>
 </div>
 
-<a id="playlist"><h3 class="has-text-jade"><b>Playlist: 3 Rs for young children</b></h3></a>
+<h3 class="has-text-jade"><a id="playlist"><b>Playlist: 3 Rs for young children</b></a></h3>
 
 It is never too early to teach children about sustainability and the importance of caring for our environment. Although this might be a broad topic, there are plenty of ways to teach young children about sustainability in a way that they can understand. 
 
