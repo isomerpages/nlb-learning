@@ -4,7 +4,8 @@ permalink: /digital/teens/learning-pathways
 description: ""
 third_nav_title: Teens
 ---
-### **Learning Pathways**
+Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you. 
+
 
 <h3 class="has-text-indigo"><b>#Tech4U</b></h3>
 Immerse yourself in the possibilities of digital and tech!
