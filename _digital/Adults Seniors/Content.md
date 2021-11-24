@@ -161,5 +161,4 @@ Kevin Mitnick (2019), <i> The Art of Invisibility </i>, Little, Brown and Compan
 <li><a id="footnote-two"> Cybercrime To Cost The World $10.5 Trillion Annually By 2025 (2020, November 13).  Cybercrime Magazine.</a>. Retrieved 2021, October 19 from <a href="https://cybersecurityventures.com/cybercrime-damage-costs-10-trillion-by-2025/">https://cybersecurityventures.com/cybercrime-damage-costs-10-trillion-by-2025/</a></li>
 </ol>
 
-[Back to top](#main-content){: .has-text-indigo}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>
