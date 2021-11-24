@@ -21,14 +21,14 @@ Technology is changing the way we live and work by making things more accessible
       <tr>
         <td style="width: 20%;"><a href="/digital/adults-seniors/content" target="_blank" class="has-text-indigo"><b>Cybercrime</b></a></td>
         <td style="width: 40%;">Learn how to avoid Cybercrime with our Learning Packages and Playlists</td>
-        <td style="width: 20%;">Available Online</td>
-        <td style="width: 20%;">LEARNX</td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
       </tr>
       <tr>
         <td><a href="/digital/adults-seniors/content" target="_blank" class="has-text-indigo"><b>Cyber Wellness</b></a></td>
         <td>Learn more about Cyber Wellness with our Learning Packages and Playlists</td>
-        <td>Available Online</td>
-        <td>LEARNX</td>
+        <td></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
