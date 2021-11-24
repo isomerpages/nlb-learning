@@ -7,8 +7,9 @@ third_nav_title: Adults & Seniors
 ### **Learning Pathways**
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3 class="has-text-indigo"><b>Grow Your Understanding of the Green Economy</b></h3>
-The Green Economy is one of the five key pillars in Singapore’s Green Plan. We break it down to its key concepts from circulatory to going low-carbon with practical skills you can learn.
+<h3 class="has-text-indigo"><b> Embrace a Safe and Healthy Digital Lifestyle.
+</b></h3>
+Technology is changing the way we live and work by making things more accessible. Yet, it also comes with it’s associated dangers and impact. Learn more about how to use technology safely and creating new ways to maintain a healthy and balanced lifestyle.
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
