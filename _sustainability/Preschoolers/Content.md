@@ -41,7 +41,7 @@ Check our **learning packages** for fun facts and activities that show our littl
   </div>
 </div>
 
-<h3 class="has-text-jade"><a id="playlist"><b>Playlist: 3 Rs for young children</b></a></h3>
+<h3 class="has-text-jade"><b>Playlist: 3 Rs for young children</b></h3>
 
 It is never too early to teach children about sustainability and the importance of caring for our environment. Although this might be a broad topic, there are plenty of ways to teach young children about sustainability in a way that they can understand. 
 
@@ -93,13 +93,13 @@ Check out the video resources below to help your child understand more about the
 <h3 class="has-text-jade"><b>Learning Packages</b></h3>
 Articles and activities that will teach and inspire your child to live sustainably.
 
-<h4><a id="lp-birds" href="/files/SustainabilityProtectingBirdsinSingaporeEarlyRead.pdf"><b>Protecting Birds in Singapore</b></a></h4>
+<h4><a id="lp-birds" href="/files/SustainabilityProtectingBirdsinSingaporeEarlyRead.pdf" class="has-text-jade"><b>Protecting Birds in Singapore</b></a></h4>
 <p>From the ever-present Mynah to the colourful Kingfisher, birds are a common sight in this garden city we call home. But did you know they do a lot more for the environment than just adding life and colour to our surroundings? Find out more about the role birds play in our ecosystem, the dangers they face, and how we can do our part to keep them safe.</p>
  
-<h4><a id="lp-turtles" href="/files/Sustainability-Sea-Turtle-Rescue-Early-Read.pdf"><b>Sea Turtle Rescue</b></a></h4>
+<h4><a id="lp-turtles" href="/files/Sustainability-Sea-Turtle-Rescue-Early-Read.pdf" class="has-text-jade"><b>Sea Turtle Rescue</b></a></h4>
 <p>As an island nation, Singapore has to be extra conscious about the creatures who call the oceans their home. Sea turtles may look tough with their strong shells, but in reality they face many dangers from humans and the environment. Discover some simple steps that we can take to keep our sea friends safe and learn how you can make your very own (paper plate) sea turtle!</p>
  
-<h4><a id="lp-farming" href="/files/Sustainability-Urban-Farming-Vertical-Farming-Early-Read.pdf"><b>Urban Farming</b></a></h4>
+<h4><a id="lp-farming" href="/files/Sustainability-Urban-Farming-Vertical-Farming-Early-Read.pdf" class="has-text-jade"><b>Urban Farming</b></a></h4>
 <p>When you think of a farm, you might be picturing a big field with lots of fruits or vegetables being grown. But did you know there are also farms in our city, including one on Orchard Road? Learn more about these urban farms and why they could be Singapore’s answer to securing a stable food supply for us all.</p>
 
 [Back to top](#main-content){: .has-text-jade}
