@@ -19,7 +19,7 @@ Go digital with your child and explore the world of digital and tech together.
       <tr>
         <td style="width: 20%;"><a href="/digital/children/content" target="_blank" class="has-text-indigo"><b>Playlist: Safer Internet</b></a></td>
         <td style="width: 40%;">A collection of short videos exploring topics around digital concepts.<br><br>
-Safer internet<br>
+					<b>Safer internet</b><br>
 Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
@@ -79,5 +79,3 @@ The story conveys a heart-warming interaction between a little girl and her gran
     </tbody>
   </table>
 </div>
-
-
