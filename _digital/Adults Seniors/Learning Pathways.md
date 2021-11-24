@@ -4,10 +4,9 @@ permalink: /digital/adults-seniors/learning-pathways
 description: ""
 third_nav_title: Adults & Seniors
 ---
-### **Learning Pathways**
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3 class="has-text-indigo"><b> Embrace a Safe and Healthy Digital Lifestyle.
+<h3 class="has-text-indigo"><b> Embrace a Safe and Healthy Digital Lifestyle
 </b></h3>
 Technology is changing the way we live and work by making things more accessible. Yet, it also comes with it’s associated dangers and impact. Learn more about how to use technology safely and creating new ways to maintain a healthy and balanced lifestyle.
 
@@ -284,4 +283,3 @@ Yishun Public Library<br></td>
   </tbody>
   </table>
 </div>
-
