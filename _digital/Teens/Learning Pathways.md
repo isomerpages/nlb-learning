@@ -42,7 +42,7 @@ Check out these resources that highlight tips on keeping your online information
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href=" http://go.gov.sg/nlb-teensprogs" target="_blank" class="has-text-indigo"><b>[Teens Takeover | digi.lit] Mobile Phone Videography Workshop </b></a></td>
+        <td style="width: 20%;"><a href="http://go.gov.sg/nlb-teensprogs" target="_blank" class="has-text-indigo"><b>[Teens Takeover | digi.lit] Mobile Phone Videography Workshop </b></a></td>
         <td style="width: 40%;">YouTube, Instagram and TikTok have made mobile phone videography a nifty skill to pick up. In this online workshop, learn how to shoot and edit better videos to impress your friends, family, and social media feed! </td>
         <td style="width: 20%;">15 Dec 2021<br>3pm – 4pm</td>
         <td style="width: 20%;">Zoom</td>
