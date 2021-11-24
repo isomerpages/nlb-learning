@@ -11,4 +11,7 @@ Use these resources to introduce your child to sustainability and caring for the
 Articles that show us interesting ways to live sustainably.
 
 <h5><b>Don’t Say Goodbye: Endangered Species | Tweenkerama Tinker Sheet</b></h5>
-[Try your hand at this Tinker Sheet](/files/sus_tweens_lp-endangered.pdf) on endangered animal species and common threats to wildlife, complete with related activities and recommended reads!	
+[Try your hand at this Tinker Sheet](/files/sus_tweens_lp-endangered.pdf) on endangered animal species and common threats to wildlife, complete with related activities and recommended reads!
+
+[Back to top](#main-content){: .has-text-jade}
+{: .has-text-right .margin--top--xl}

@@ -12,3 +12,6 @@ Discover exciting programmes in the digital world such as coding, robotics and m
 Programmes for teens aged 13 to 17 years old to gain new learning experiences and skills related to the tech field. 
 
 Click [here](https://go.gov.sg/nlb-teensprogs) for the latest programme listings.
+
+[Back to top](#main-content){: .has-text-indigo}
+{: .has-text-right .margin--top--xl}

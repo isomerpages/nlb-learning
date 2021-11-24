@@ -79,3 +79,6 @@ The story conveys a heart-warming interaction between a little girl and her gran
     </tbody>
   </table>
 </div>
+
+[Back to top](#main-content){: .has-text-indigo}
+{: .has-text-right .margin--top--xl}

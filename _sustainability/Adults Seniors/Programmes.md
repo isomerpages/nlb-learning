@@ -72,3 +72,6 @@ Be prepared to be inspired. Practitioners, innovators, grandfluencers, ordinary 
 This series is specially targeted at seniors who want to more ideas on how they can practise sustainable living by learning through the experience of others. 
 
 Click here for the latest programme listings.
+
+[Back to top](#main-content){: .has-text-jade}
+{: .has-text-right .margin--top--xl}

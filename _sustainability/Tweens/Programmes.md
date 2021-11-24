@@ -12,3 +12,5 @@ Tweens aged 10 to 14 years old will get to learn and explore topics on sustainab
 
 Click [here](https://go.gov.sg/nlb-teensprogs) for the latest programme listings.
 
+[Back to top](#main-content){: .has-text-jade}
+{: .has-text-right .margin--top--xl}

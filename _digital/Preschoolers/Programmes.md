@@ -20,3 +20,6 @@ Some topics that will be covered will include:
 •	Developing computational skills in young children 
 
 Click here for the latest programme listings.
+
+[Back to top](#main-content){: .has-text-indigo}
+{: .has-text-right .margin--top--xl}

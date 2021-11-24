@@ -133,3 +133,6 @@ Participants will have a chance to experience Bee bot, a programmable robot in t
     </tbody>
   </table>
 </div>
+
+[Back to top](#main-content){: .has-text-indigo}
+{: .has-text-right .margin--top--xl}

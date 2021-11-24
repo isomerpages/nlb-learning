@@ -11,3 +11,6 @@ Encourage your child to grow a love for nature and pick up eco-friendly habits t
 A series of talks, workshops, publications on Sustainability themes for children and tweens.   
 
 Click [here](https://go.gov.sg/cckpl) for the latest programme listings.
+
+[Back to top](#main-content){: .has-text-jade}
+{: .has-text-right .margin--top--xl}
