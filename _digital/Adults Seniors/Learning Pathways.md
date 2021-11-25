@@ -129,7 +129,7 @@ In this four-week programme, participants will go through self-paced e-learning 
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-INDIGO">Go Beyond Career To Explore Related Topics</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-INDIGO">Learn More About Digital and Tech In Other Aspects</th>
       </tr>
     </thead>
     <tbody>
