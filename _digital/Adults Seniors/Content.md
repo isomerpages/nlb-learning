@@ -389,9 +389,7 @@ Sweigart, Al (2021), <i>The big book of small Python projects: 81 easy practice 
 				<li><p>MakeIT X TOYL – In this programme series, learn and embrace new ways on making and creating something using digital fabrication technologies</a></li>
 				<li>The Video Creators Club – Suitable for beginners interested in nurturing their videography skills, let our volunteer facilitator Mr Philip Au take you through different video-based projects and assignments!</a></li>
 				
-			</ul>
-
-
+	
 			
 <h4>References</h4>
 <ol>
