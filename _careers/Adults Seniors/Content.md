@@ -10,42 +10,44 @@ Check out our **playlists** for collections of short videos or selected podcasts
 Check our **learning packages** for articles that will give you confidence in your professional life.  
 
 <div class="row is-multiline">
-  <div class="col is-one-sixth">
+  <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
       <a href="#playlist-job">
         <span>Playlist:<br>Jobseekers</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-sixth">
+  <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
       <a href="#playlist-biz">
         <span>Playlist:<br>New Entrepreneurs</span>
       </a>
     </div>
   </div>
-<div class="col is-one-sixth">
+<div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
       <a href="#playlist-happy">
         <span>Playlist:<br>Happy at Work</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-sixth">
+	</div>
+	<div class="row is-multiline">
+  <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
       <a href="#lp-job">
         <span>Learning Package:<br>Jobseekers</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-sixth">
+  <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
       <a href="#lp-biz">
         <span>Learning Package:<br>New Entrepreneurs</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-sixth">
+  <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
       <a href="#lp-comm">
         <span>Learning Package: Communication at Work</span>
