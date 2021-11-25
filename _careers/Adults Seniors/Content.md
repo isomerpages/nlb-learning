@@ -187,3 +187,67 @@ Source: 3 Ideas For More Effective Job Hunting by Dan Kiernan (2020, November 10
 
 [Back to top](#main-content){: .has-text-ruby}
 {: .has-text-right .margin--top--xl}
+
+<h3 class="has-text-ruby"><a id="lp-job"><b>Learning Package: Job-Hunter’s Toolkit</b></a></h3>
+<h2>Introduction</h2>
+<p> There are 4 main challenges in looking for a job – 1) deciding on the types of industries and positions that suit us, 2) writing a resume that maximises our chances of getting an interview, 3) acing interviews, and 4) staying positive. Here are some great resources to help make this journey as painless as possible. </p>
+<table border="1">
+	<tbody><tr>
+		<td>
+			<h2>Did you know...</h2>
+			<ul>
+				<li>Make sure your LinkedIn profile is optimised to attract more job opportunities. There are many guides online that show you how to do so.</li>
+				<li>Starting every bullet point of your achievements in your resume with an action word (e.g. spearheaded, led) would make it more compelling.</li>
+			</ul>
+		</td>
+	</tr>
+	</tbody></table>
+	
+<h4>Infographic</h4>
+<h5><a href=”/images/career/adults/PreparingtoAceyourNextInterview_infographic.png>Preparing to Ace your Next Interview</a></h5>
+<p><a href=”/images/career/adults/PreparingtoAceyourNextInterview_infographic.png>Get started on your interview preparations with 5 quick tips in this infographic.</a></p>
+Source: <b>Preparing to Ace your Next Interview</b> (2021). <i>National Library Board Singapore</i>. Retrieved 2021, October 21
+
+<h4>Articles</h4>
+
+<h5><a href="https://blog.seedly.sg/salary-guide-singapore/">The Ultimate Salary Guide For Singaporeans</a></h5>
+<p> What is the ballpark figure you should be expecting for your salary? Consult <a href="https://blog.seedly.sg/salary-guide-singapore/">Seedly’s guide</a>, which covers a variety of positions in different industries.</p>
+Source: <a href="https://blog.seedly.sg/salary-guide-singapore/#median-wage">The Ultimate Salary Guide For Singaporeans</a> (2021, Jun 2). <i>Seedly</i>. Retrieved 2021, October 21
+
+<h5><a href="https:/www.resumewriter.sg/blog/how-to-write-a-winning-resume-your-ultimate-cv-guide/">How to Write a Winning CV in 2021</a></h5>
+<p><a href="https:/www.resumewriter.sg/blog/how-to-write-a-winning-resume-your-ultimate-cv-guide/">This detailed article from a local professional resume writing company</a> teaches expert tips, like how to phrase your accomplishments for maximum impact.</p>
+Source: <a href="https:/www.resumewriter.sg/blog/how-to-write-a-winning-resume-your-ultimate-cv-guide/">How to Write a Winning CV in 2021</a> (2021, Sep 2). <i>ResumeWriter.SG</i>. Retrieved 2021, October 21
+
+<h4>eBooks</h4>
+<h5><a href=”https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&l=JHT1”>Get Hired Now! How to Accelerate Your Job Search, Stand Out, and Land Your Next Great Opportunity</a></h5>
+Ian Siegel (2021), <i> Get Hired Now!</i>, Wiley.
+<br>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&l=JHT1"><img src=”/images/career/adults/GetHiredNow.jpg" style="width:300px; text-align:left;" alt="Book cover for Get Hired Now"></a>
+<p>Get step-by-step instructions, insider tips and insights from the founder and CEO of a recruiting company, based on the author’s observations of how employers really make hires.</p>
+<p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&l=JHT1">Borrow the eBook here</a>. </p>
+<body>Retrieved from Libby (a <a href=”https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/”>myLibrary username</a> is required to access the eBook).</body>
+
+<h5><a href=”https://eresources.nlb.gov.sg/ereads/proxy?id=514C11B6-CAFF-4F1D-8B31-48F6A8A01CFD&l=JHT2”>Next Job, Best Job: A Headhunter's 11 Strategies to Get Hired Now</a></h5>
+Rob Barnett (2021), <i>Next Job, Best Job</i>, Citadel Press.
+<p>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=514C11B6-CAFF-4F1D-8B31-48F6A8A01CFD&l=JHT2"><img src="/images/career/adults/NextJobBestJob.jpg" style="width:300px; text-align:left;" alt="Book cover for Next Job, Best Job"></a>
+</p>
+<p>Getting demoralised and frustrated about the job hunt? This book stands out from other similar guides by adding strategies on how to stay focused amid rejections, using what the author learnt from overcoming his own struggles. </p>
+<p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=514C11B6-CAFF-4F1D-8B31-48F6A8A01CFD&l=JHT2">Borrow the eBook here</a>. </p>
+<body>Retrieved from Libby (a <a href=”https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/”>myLibrary username</a> is required to access the eBook).</body>
+	
+<h5><a href=”https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&l=JHT3”>What Color Is Your Parachute? 2021
+<br>
+Your Guide to a Lifetime of Meaningful Work and Career Success
+</a>
+</h5>
+Richard N. Bolles & Katharine Brooks (2020), <i>What Color Is Your Parachute? 2021</i>, Clarkson Potter/Ten Speed.
+<br>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&l=JHT3"><img src="/images/career/adults/WhatColorisyourParachute.jpg" style="width:300px; text-align:left;" alt="Book cover for What Color is Your Parachute"></a>
+<p>On top of guiding you on resumes and interviews, this classic practical manual also helps you discover what types of careers best match your values, strengths and passions.</p><p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&l=JHT3">Borrow the eBook here</a>.</p>
+<body>Retrieved from Libby (a <a href=”https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/”>myLibrary username</a> is required to access the eBook).</body>
+
+
+<h4>Programmes</h4>
+<p> Want to attend workshops on resume-writing and interviewing skills? Or are you hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at .<a href="https://go.gov.sg/get-professional-series"> go.gov.sg/get-professional-series</a>.
+</p>
