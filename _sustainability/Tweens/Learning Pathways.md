@@ -13,7 +13,7 @@ Taking care of the environment starts with YOU!
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Recommended Collections</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
