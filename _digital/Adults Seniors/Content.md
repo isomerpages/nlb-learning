@@ -439,9 +439,8 @@ Sweigart, Al (2021), <i>The big book of small Python projects: 81 easy practice 
 <p>Learn how to create fun Python projects such as digital art, games and animations easily using simple text-based programmes.</p><p><a href="https://share.libbyapp.com/title/5665661">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook)
 
 <h4>Digital Programmes in NLB</h4>
-<p>Digital talks and workshops are always happening in the library. Browse through <a href="https://go.gov.sg/toyl">https://go.gov.sg/toyl</a> to find the right one for you!
-</p>
-</p>MakeIT X TOYL – In this programme series, learn and embrace new ways on making and creating something using digital fabrication technologies.
+<p>Digital talks and workshops are always happening in the library. Browse through <a href="https://go.gov.sg/toyl">https://go.gov.sg/toyl</a> to find the right one for you!</p>
+</p>MakeIT X TOYL – In this programme series, learn and embrace new ways on making and creating something using digital fabrication technologies..</p>
 </p>The Video Creators Club – Suitable for beginners interested in nurturing their videography skills, let our volunteer facilitator Mr Philip Au take you through different video-based projects and assignments!	
 </p>
 
