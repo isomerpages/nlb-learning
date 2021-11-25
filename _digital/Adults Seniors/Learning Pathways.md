@@ -266,23 +266,5 @@ Yishun Public Library<br></td>
   </table>
 </div>
 
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-INDIGO">Go Beyond Career To Explore Related Topics</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="#" target="_blank" class="has-text-indigo"><b>LearnX Wellness</b><br>Cyber Burnout</a></td>
-        <td style="width: 40%;">Coming soon.<br></td>
-        <td style="width: 20%;">TBC</td>
-        <td style="width: 20%;">TBC</td>
-      </tr>
-  </tbody>
-  </table>
-</div>
-
 [Back to top](#main-content){: .has-text-indigo}
 {: .has-text-right .margin--top--xl}
