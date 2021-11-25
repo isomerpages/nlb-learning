@@ -23,7 +23,8 @@ For Adults, conducted monthly in English at library@orchard. For more informatio
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Gundam Building </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Interested in building Gundams?
-Join our Gundam club and enjoy crafting your creation together. This programme is for adults as the usage of sharp tools is involved. <br><br>
+Join our Gundam club and enjoy crafting your creation together. <br>
+This programme is for adults as the usage of sharp tools is involved. <br><br>
 Please bring your own kits and tools. <br><br>
 For Teens and Adults, conducted monthly in English at Woodlands Regional Library.</p>
       <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Learn more</a></p>
