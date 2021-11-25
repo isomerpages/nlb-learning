@@ -31,8 +31,9 @@ Check our **learning packages** for articles that will give you confidence in yo
       </a>
     </div>
   </div>
-	</div>
-	<div class="row is-multiline">
+</div>
+
+<div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
       <a href="#lp-job">
