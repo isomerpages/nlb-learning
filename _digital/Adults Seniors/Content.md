@@ -188,7 +188,7 @@ Source: <a href="https://mindpumppodcast.com/982-improving-digital-wellness-with
 <h5>1. The Cyber Effect</h5>
 Mary Aiken (2016), <i>The Cyber Effect</i>, Random House Publishing Group.
 <br>
-<a href="https://share.libbyapp.com/title/2621145"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover for The Cyber Effect"></a>
+<a href="https://share.libbyapp.com/title/2621145"><img src="images/digital/adults/cyberwellness/TheCyberEffect.jpg" style="width:300px; text-align:left;" alt="book cover for The Cyber Effect"></a>
 <p> Unpack how cyberspace is shaping society by diving into research and case studies that uncover how the internet is affecting and altering various facets of our lives.</p>
 <p><a href="https://share.libbyapp.com/title/2621145">Borrow the eBook here</a>. </p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
@@ -197,7 +197,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 <h5>2. The Dark Side of Our Digital World </h5>
 Andrew Weiss (2020), <i> The Dark Side of Our Digital World </i>, Rowman &amp; Littlefield Publishers.
 <br>
-<a href="https://share.libbyapp.com/title/5353717"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover for The Dark Side of Our Digital World"></a>
+<a href="https://share.libbyapp.com/title/5353717"><img src="images/digital/adults/cyberwellness/TheDarkSideofOurDigitalWorld.jpg" style="width:300px; text-align:left;" alt="book cover for The Dark Side of Our Digital World"></a>
 <p> Explore the problems emerging as a result of an increasingly digitalised world and find out the potential paths we can take to address them.</p>
 <p><a href="https://share.libbyapp.com/title/5353717">Borrow the eBook here</a>. </p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
@@ -205,7 +205,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 <h5>3. Digital Minimalism </h5>
 Cal Newport (2019), <i> Digital Minimalism </i>, Penguin Publishing Group.
 <br>
-<a href="https://share.libbyapp.com/title/4022749"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover for Digital Minimalism"></a>
+<a href="https://share.libbyapp.com/title/4022749"><img src="images/digital/adults/cyberwellness/DigitalMinimalism.jpg" style="width:300px; text-align:left;" alt="book cover for Digital Minimalism"></a>
 <p> The concept of digital minimalism has been gaining traction over the years as we find ways to adapt to this fast-paced digital world. Unpack this philosophy and find out how you can incorporate some useful strategies into your everyday life.</p>
 <p><a href="https://share.libbyapp.com/title/4022749">Borrow the eBook here</a>. </p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
@@ -226,7 +226,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 ---
 
-<img src="/images/Digital/Adults/Cyberwellness/Digital-Prog-AS-A-Cyberwellness-01.png" alt="cover image">
+<img src="/images/digital/adults/cybercrime/Digital-Prog-AS-A-Cybercrime-01.png" alt="cover image">
 
 <h1>Learning Package: Cybercrime</h1>
 <h2>Introduction</h2>
@@ -268,7 +268,7 @@ Source: <a href="https://adamlevin.com/2021/07/12/new-podcast-what-the-hack-with
 <h5>1. Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin’s Most Dangerous Hackers</h5>
 Andy Greenberg (2019), <i> Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin’s Most Dangerous Hackers </i>, Knopf Doubleday Publishing Group.
 <br>
-<a href="https://share.libbyapp.com/title/4715580"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover for Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin’s Most Dangerous Hackers"></a>
+<a href="https://share.libbyapp.com/title/4715580"><img src="images/digital/adults/cybercrime/Sandworm.jpg" style="width:300px; text-align:left;" alt="book cover for Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin’s Most Dangerous Hackers"></a>
 <p> Unpack how cyberspace is shaping society by diving into research and case studies that uncover how the internet is affecting and altering various facets of our lives.</p>
 <p><a href="https://share.libbyapp.com/title/4715580">Borrow the eBook here</a>. </p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
@@ -277,7 +277,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 <h5>2. Net Force: Dark Web </h5>
 Jerome Preisler (2019), <i> Net Force: Dark Web </i>, Hanover Square Press.
 <br>
-<a href="https://share.libbyapp.com/title/4659451"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover for Net Force: Dark Web"></a>
+<a href="https://share.libbyapp.com/title/4659451"><img src="images/digital/adults/cybercrime/NetForce.jpg" style="width:300px; text-align:left;" alt="book cover for Net Force: Dark Web"></a>
 <p> A reboot of the original series by Tom Clancy and Steve Pieczenik, this thrilling crime fiction novel explores the fight for national security in the invisible world of cyberspace, highlighting the stakes and the players involved.</p>
 <p><a href="https://share.libbyapp.com/title/4659451">Borrow the eBook here</a>. </p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
@@ -285,7 +285,8 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 <h5>3. The Art of Invisibility </h5>
 Kevin Mitnick (2019), <i> The Art of Invisibility </i>, Little, Brown and Company.
 <br>
-<a href="https://share.libbyapp.com/title/2763965"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover for Digital Minimalism"></a>
+<a href="https://share.libbyapp.com/title/2763965"><img src="images/digital/adults/cybercrime/TheArtofInvisibility.jpg
+" style="width:300px; text-align:left;" alt="book cover for Digital Minimalism"></a>
 <p> In this guide written by a renowned computer security expert, learn different tactics and strategies you can adopt to protect your privacy and leave no digital trace in today’s modern world.</p>
 <p><a href="https://share.libbyapp.com/title/2763965">Borrow the eBook here</a>. </p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
