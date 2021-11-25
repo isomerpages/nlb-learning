@@ -61,6 +61,10 @@ Check out these resources to help you navigate the digital world, from keeping y
         <td>14 Jan 2021<br>11am – 12pm</td>
         <td>Zoom</td>
       </tr>
+		</tbody>
+  </table>
+</div>
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
