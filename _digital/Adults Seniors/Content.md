@@ -514,18 +514,18 @@ Kristen Meinzer (2019), <i>So You Want to Start a Podcast: Finding Your Voice, T
 
 <h1>Learning Package: Using Your Smartphone</h1>
 <h2>Introduction</h2>
-<p>There are many useful and fun things you can do with your smartphone today. With its ability to access the Internet, a smartphone can do more than make a phone call or send a text message. Depending on your needs and interests, you can use a smartphone to look up information, play games, watch videos and even buy groceries. Today, a smartphone has become an important tool that provides its users with both convenience and ease, wherever you go!
-If you would like to find out more about what a smartphone can do for you in your everyday life, some resources have been compiled here.</p>
+<p>There are many useful and fun things you can do with your smartphone today. With its ability to access the Internet, a smartphone can do more than make a phone call or send a text message. Depending on your needs and interests, you can use a smartphone to look up information, play games, watch videos and even buy groceries. Today, a smartphone has become an important tool that provides its users with both convenience and ease, wherever you go!</p>
+<p>If you would like to find out more about what a smartphone can do for you in your everyday life, some resources have been compiled here.</p>
 <table border="1">
-	<tbody><tr>
-		<td>
-			<h2> Fun Fact:...</h2>
-			<p>As of 2021, a whopping 89.64% of the Singapore population own a smartphone.<sup><a href="#footnote-one">1</a></sup>.</p> 
-			 
-			
-		</td>
-	</tr>
-	</tbody></table>
+	<tbody>
+    <tr>
+      <td>
+        <h2> Fun Fact:...</h2>
+        <p>As of 2021, a whopping 89.64% of the Singapore population own a smartphone.<sup><a href="#footnote-one">1</a></sup>.</p> 
+      </td>
+    </tr>
+	</tbody>
+</table>
 	
 <h4>Videos</h4>
 <h5>1. How To Video Call A Doctor From Home - White Coat, Doctor Anywhere, MyDoc, HiDoc, Doctor World SG<h5>
