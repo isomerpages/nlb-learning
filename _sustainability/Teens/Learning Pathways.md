@@ -98,3 +98,5 @@ Be informed and make an impact to the environment.
   </table>
 </div>
 
+[Back to top](#main-content){: .has-text-jade}
+{: .has-text-right .margin--top--xl}
