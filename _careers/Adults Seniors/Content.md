@@ -165,9 +165,9 @@ Reduce your nervousness and frustration with your job search with these videos. 
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p class="has-text-ruby"><b>Top 5 Job Search Strategies To Find A Job In 2021 by Daniel's Brew</b><br>
-Learn ways to stand out in the job market, including how to maximise your chances of getting opportunities through LinkedIn.<br><br>
-Source: Top 5 Job Search Strategies To Find A Job In 2021 (JOB SEARCH TACTICS & TECHNIQUES) (2020, Dec 15). Daniel's Brew.<p>
+  <p class="has-text-ruby"><b>Top 5 Job Search Strategies To Find A Job In 2021 by Daniel's Brew</b></p>
+<p>Learn ways to stand out in the job market, including how to maximise your chances of getting opportunities through LinkedIn.</p>
+<small>Source: Top 5 Job Search Strategies To Find A Job In 2021 (JOB SEARCH TACTICS & TECHNIQUES) (2020, Dec 15). Daniel's Brew.</small>
   </div>
 </div>
 
