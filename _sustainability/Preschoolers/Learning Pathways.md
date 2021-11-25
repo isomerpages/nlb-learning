@@ -126,5 +126,4 @@ Participants will have a chance to experience Bee bot, a programmable robot in t
 </div>
 
 
-[Back to top](#main-content){: .has-text-jade}
-{: .has-text-right .margin--top--xl}
+[Back to top](#main-content){: .has-text-jade}{: .has-text-right .margin--top--xl}
