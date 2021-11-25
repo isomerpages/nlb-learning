@@ -528,7 +528,7 @@ Kristen Meinzer (2019), <i>So You Want to Start a Podcast: Finding Your Voice, T
 </table>
 	
 <h4>Videos</h4>
-<h5>1. How To Video Call A Doctor From Home - White Coat, Doctor Anywhere, MyDoc, HiDoc, Doctor World SG<h5>
+<h5>1. How To Video Call A Doctor From Home - White Coat, Doctor Anywhere, MyDoc, HiDoc, Doctor World SG</h5>
 <p>Discover the world of telemedicine, where you can have a video consultation with a doctor and even get your medicine delivered to you when you are feeling unwell!</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mj0Xe5g7jwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -542,7 +542,7 @@ Source: <a href="https://www.youtube.com/watch?v=mj0Xe5g7jwQ&ab_channel=TECH360.
 </div>
 Source: <a href="https://www.youtube.com/watch?v=h6CE9F_wli4&ab_channel=TECH360.TV" target="_blank">How to Pay Using PayNow, SGQR Code and More in Singapore</a> (2020, May 16). <i>TECH360.TV.</i> Retrieved 2021, October 20
 
-<h5>3. How To Shop Better Online In Singapore - Tips & Tricks On Online Shopping, e-Commerce<h5>
+<h5>3. How To Shop Better Online In Singapore - Tips & Tricks On Online Shopping, e-Commerce</h5>
 <p>Do online shopping platforms such as Shopee and Lazada seem same same but different to you? Find out the differences among the major e-commerce platforms in Singapore and decide which suits your needs best before placing that next order.</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-drb7O4ZvYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
