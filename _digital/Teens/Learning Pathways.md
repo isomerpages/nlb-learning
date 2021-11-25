@@ -73,4 +73,3 @@ Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank" class=
 </div>
 [Back to top](#main-content){: .has-text-indigo}
 {: .has-text-right .margin--top--xl}
-
