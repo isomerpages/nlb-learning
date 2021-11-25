@@ -104,5 +104,4 @@ Be informed and make an impact to the environment.
   </table>
 </div>
 
-[Back to top](#main-content){: .has-text-jade}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>

@@ -4,7 +4,6 @@ permalink: /sustainability/teens/content
 description: ""
 third_nav_title: Teens
 ---
-### **Content**
+COMING SOON
 
-[Back to top](#main-content){: .has-text-jade}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>

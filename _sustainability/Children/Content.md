@@ -4,12 +4,14 @@ permalink: /sustainability/children/content
 description: ""
 third_nav_title: Children
 ---
-### **Content**
-
 Use these resources to introduce your child to sustainability and caring for the environment.
-<h3><b>Learning Package</b></h3>
+### **Learning Package**{: .has-text-jade}
 Articles that show us interesting ways to live sustainably.
 
-<h5><b>Gardening for Kids | Stay Curious with Your Child (coming in Dec 2021)</b></h5>
+### **Gardening for Kids | Stay Curious with Your Child (coming in Dec 2021)**{: .has-text-jade}
+
 Children and parents can bond over this Stay Curious with Your Child activity on gardening, accompanied by recommended reads.
-<h5><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child">Stay Curious with Your Child</a></h5>
+
+[Stay Curious with Your Child](https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child){: .has-text-jade}
+
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>

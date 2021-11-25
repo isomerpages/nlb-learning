@@ -78,9 +78,8 @@ Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank" class=
         <td style="width: 20%;">Dec 2021 to Jan 2022</td>
         <td style="width: 20%;">Facebook</td>
       </tr>
-
-<tr>
-<td><a href="#" target="_blank" class="has-text-jade"><b> [Tweenkerama | Tech] presents Everyone Can Code Workshop</b></a></td>
+      <tr>
+      <td><a href="#" target="_blank" class="has-text-jade"><b> [Tweenkerama | Tech] presents Everyone Can Code Workshop</b></a></td>
         <td> Kickstart your school holidays with fun coding workshops using iPad. Designed for Tweens aged 10 - 13, these beginner friendly online workshops leverage activities from A Quick Start to Code Guide. Participants will get to try a variety of coding challenges with the Swift Playgrounds app for iPad.</td>
         <td>1 Dec 2021 <br>2 Dec 2021 <br>3 Dec 2021 <br>11am -12.30pm</td>
         <td>Zoom</td>
@@ -89,7 +88,4 @@ Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank" class=
   </table>
 </div>
 
-
-
-[Back to top](#main-content){: .has-text-jade}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>

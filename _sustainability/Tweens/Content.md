@@ -13,5 +13,4 @@ Articles that show us interesting ways to live sustainably.
 <h5><b>Don’t Say Goodbye: Endangered Species | Tweenkerama Tinker Sheet</b></h5>
 [Try your hand at this Tinker Sheet](/files/sus_tweens_lp-endangered.pdf) on endangered animal species and common threats to wildlife, complete with related activities and recommended reads!
 
-[Back to top](#main-content){: .has-text-jade}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>
