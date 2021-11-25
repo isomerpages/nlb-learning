@@ -13,6 +13,4 @@ Articles that will give you an insight into digital concepts.
 <h5><b>DIY Tinker Package: Secret Message </b></h5>
 Problem-solve through a do-it-yourself activity, [Secret Messages](/files/Tweenssecretmessages.pdf) based on codes and cryptography. Just follow the instructions and have fun!
 
-
-[Back to top](#main-content){: .has-text-indigo}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>

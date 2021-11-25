@@ -266,5 +266,4 @@ Yishun Public Library<br></td>
   </table>
 </div>
 
-[Back to top](#main-content){: .has-text-indigo}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>

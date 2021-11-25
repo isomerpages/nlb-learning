@@ -19,5 +19,4 @@ Some topics that will be covered include:
 
 [Click here](#){: .has-text-indigo} for the latest programme listings.
 
-[Back to top](#main-content){: .has-text-indigo}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>
