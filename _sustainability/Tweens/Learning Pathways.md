@@ -53,13 +53,26 @@ Taking care of the environment starts with YOU!
         <td>24 Jan 2022, 4pm – 5pm</td>
         <td>Choa Chu Kang Public Library </td>
       </tr>
-<tr>
-<td><a href="https://www.facebook.com/publiclibrarysg" target="_blank" class="has-text-jade"><b>Doing Our Part for A More Sustainable World  | Time of Your Life</b></a></td>
-        <td>Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
-Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank" class="has-text-jade"> Public Libraries Singapore’s Facebook</a> page to be notified when the videos go live.</td>
-        <td>Dec 2021 – Jan 2022</td>
-        <td>Facebook</td>
+    </tbody>
+  </table>
+</div>
+			
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Other Learning Focus Areas</th>
       </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank" class="has-text-indigo"><b>S.T.E.A.M. Lab Mini</b></a></td>
+        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
+Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank" class="has-text-indigo">Public Libraries Singapore’s Facebook page</a> to be notified when the videos go live.</td>
+        <td style="width: 20%;">Dec 2021 to Jan 2022</td>
+        <td style="width: 20%;">Facebook</td>
+      </tr>
+
 <tr>
 <td><a href="#" target="_blank" class="has-text-jade"><b> [Tweenkerama | Tech] presents Everyone Can Code Workshop</b></a></td>
         <td> Kickstart your school holidays with fun coding workshops using iPad. Designed for Tweens aged 10 - 13, these beginner friendly online workshops leverage activities from A Quick Start to Code Guide. Participants will get to try a variety of coding challenges with the Swift Playgrounds app for iPad.</td>
