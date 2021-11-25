@@ -65,7 +65,7 @@ Join us for this online session to learn about the types of cyber threats to loo
   </table>
 </div>
 
-			<div class="horizontal-scroll margin--bottom--lg">
+<div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
       <tr>
