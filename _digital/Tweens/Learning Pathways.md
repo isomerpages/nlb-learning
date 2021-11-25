@@ -5,14 +5,13 @@ description: ""
 third_nav_title: Tweens
 ---
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
-
 <h3 class="has-text-indigo"><b>Tech and You!</b></h3>
 Explore the wonders of tech.
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Collections</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -39,7 +38,7 @@ Check out these resources to help you navigate the digital world, from keeping y
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Explore Experiences</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Explore Programmes</th>
       </tr>
     </thead>
     <tbody>
@@ -57,22 +56,30 @@ Check out these resources to help you navigate the digital world, from keeping y
         <td>Marine Parade Public Library<br>Sengkang Public Library</td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank" class="has-text-indigo"><b>Digipanion: Managing Screen Time in a Fun Way for Parents of 7 – 15 years olds</b></a></td>
+        <td><a href="#" target="_blank" class="has-text-indigo"><b>Digipanion: Managing Screen Time in a Fun Way for Parents of 7 to 15 year olds</b></a></td>
         <td>Are digital devices impacting your child’s physical & mental wellbeing? Are you tired of constantly reminding your child to get off the phone? Do you wish your child to make smart choices online even when you aren’t present? This workshop is for you!</td>
         <td>14 Jan 2021<br>11am – 12pm</td>
         <td>Zoom</td>
       </tr>
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
       <tr>
-        <td><a href="https://www.facebook.com/publiclibrarysg" target="_blank" class="has-text-indigo"><b>S.T.E.A.M. Lab Mini</b></a></td>
-        <td>Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Other Learning Focus Areas</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank" class="has-text-indigo"><b>S.T.E.A.M. Lab Mini</b></a></td>
+        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
 Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank" class="has-text-indigo">Public Libraries Singapore’s Facebook page</a> to be notified when the videos go live.</td>
-        <td>Dec 2021 to Jan 2022</td>
-        <td>Facebook</td>
+        <td style="width: 20%;">Dec 2021 to Jan 2022</td>
+        <td style="width: 20%;">Facebook</td>
       </tr>
 <tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Creating Impact: Greta Thunberg Style</b></a></td>
-        <td> Creating Impact: Greta Thunberg Style</td>
-        <td>Dec 2021</td>
+        <td>A public speaking workshop for young activists on the theme of climate change.</td>
+        <td>10 Dec 2021<br>2pm – 3.30pm</td>
         <td>TBC</td>
       </tr>
     </tbody>
