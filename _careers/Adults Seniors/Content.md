@@ -136,13 +136,13 @@ We often feel overwhelmed at work because we don’t know how to reject others, 
   </div>
   <div class="col is-three-fifths">
   <p class="has-text-ruby"><b>6 tips to improve your work-life balance by BBC Ideas (3 mins)
-</b><br>
-  The Vice President of Twitter shares tips to reduce stress and increase creativity. For instance, research has shown that the most creative offices are the ones where the employees strike up the most non-work-related conversations, and that working 40 hours a week may be the optimal amount. To us, the latter means that we can stop feeling guilty for taking longer breaks or being late or knocking off earlier sometimes.<br><br>
-Source: 6 tips to improve your work-life balance | BBC Ideas (2018, December 19). BBC Ideas.</p>
+</b></p>
+<p>The Vice President of Twitter shares tips to reduce stress and increase creativity. For instance, research has shown that the most creative offices are the ones where the employees strike up the most non-work-related conversations, and that working 40 hours a week may be the optimal amount. To us, the latter means that we can stop feeling guilty for taking longer breaks or being late or knocking off earlier sometimes.</p>
+<small>Source: 6 tips to improve your work-life balance | BBC Ideas (2018, December 19). BBC Ideas.</small>
   </div>
 </div>
  
-<h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: Chicken Soup for the Jobseeker’s Soul</b></h5>
+<h5 class="has-text-ruby margin--bottom--lg"><a id="playlist-job"><b>Playlist: Chicken Soup for the Jobseeker’s Soul</b></a></h5>
 Reduce your nervousness and frustration with your job search with these videos. Discover the top questions that local interviewers like to ask, how to make your LinkedIn profile a honey trap, and how to get into the optimal mindset while you are on the hunt. 
 <br>
 <div class="row is-multiline margin--bottom--lg">
