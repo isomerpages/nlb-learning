@@ -4,6 +4,56 @@ permalink: /careers/adults-seniors/content
 description: ""
 third_nav_title: Adults & Seniors
 ---
+These curated sets of videos, articles, books and more will give you tips and tricks on building a successful career/business, or finding happiness at work.
+
+Check out our **playlists** for collections of short videos or selected podcasts, exploring topics around personal and professional development.
+Check our **learning packages** for articles that will give you confidence in your professional life.  
+
+<div class="row is-multiline">
+  <div class="col is-one-sixth">
+    <div class="clickbox is-pink-ruby">
+      <a href="#playlist-job">
+        <span>Playlist:<br>Jobseekers</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-sixth">
+    <div class="clickbox is-pink-ruby">
+      <a href="#playlist-biz">
+        <span>Playlist:<br>New Entrepreneurs</span>
+      </a>
+    </div>
+  </div>
+<div class="col is-one-sixth">
+    <div class="clickbox is-pink-ruby">
+      <a href="#playlist-happy">
+        <span>Playlist:<br>Happy at Work</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-sixth">
+    <div class="clickbox is-pink-ruby">
+      <a href="#lp-job">
+        <span>Learning Package:<br>Jobseekers</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-sixth">
+    <div class="clickbox is-pink-ruby">
+      <a href="#lp-biz">
+        <span>Learning Package:<br>New Entrepreneurs</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-sixth">
+    <div class="clickbox is-pink-ruby">
+      <a href="#lp-comm">
+        <span>Learning Package: Communication at Work</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
 <h3 class="has-text-ruby"><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
