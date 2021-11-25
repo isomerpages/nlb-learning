@@ -37,7 +37,7 @@ Taking care of the environment starts with YOU!
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Learn With Expert Speakers or Explore Through Art</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Explore Programmes</th>
       </tr>
     </thead>
     <tbody>
