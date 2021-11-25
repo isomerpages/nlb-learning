@@ -61,7 +61,7 @@ Check out our **playlists** for collections of short videos or selected podcasts
 <h3 class="has-text-ruby"><b>Playlists</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<a id="playlist-biz"><h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: Are you ready to start your own business?</b></h5></a>
+<h5 class="has-text-ruby margin--bottom--lg"><a id="playlist-biz"><b>Playlist: Are you ready to start your own business?</b></a></h5>
 
 Starting your own business can be daunting. A single idea can light the spark to start your entrepreneurial endeavour, but several aspects must be considered before setting off.<br>
 
@@ -95,7 +95,7 @@ Check out these resources to help you jet-start your journey to build your own b
 </div>
 
  
-<a id="playlist-happy"><h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: How to be Happy at Work</b></h5></a>
+<h5 class="has-text-ruby margin--bottom--lg"><a id="playlist-happy"><b>Playlist: How to be Happy at Work</b></a></h5>
 Happiness at work (and life) can be simple – learn ways to stop saying “yes” on impulse, how to make your life easier, and how you can use “monk mode” regularly for uninterrupted blocks of super-productive time.
 <br>
 <div class="row is-multiline margin--bottom--lg">
@@ -142,7 +142,7 @@ We often feel overwhelmed at work because we don’t know how to reject others, 
   </div>
 </div>
  
-<a id="playlist-job"><h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: Chicken Soup for the Jobseeker’s Soul</b></h5></a>
+<h5 class="has-text-ruby margin--bottom--lg"><a id="playlist-job"><b>Playlist: Chicken Soup for the Jobseeker’s Soul</b></a></h5>
 Reduce your nervousness and frustration with your job search with these videos. Discover the top questions that local interviewers like to ask, how to make your LinkedIn profile a honey trap, and how to get into the optimal mindset while you are on the hunt. 
 <br>
 <div class="row is-multiline margin--bottom--lg">
