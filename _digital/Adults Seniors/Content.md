@@ -462,11 +462,11 @@ Learn more about how to use the various popular social media platforms and find 
 			<h2>Did you know...</h2>
 			<p> There are 4.8 million Facebook users in Singapore as of 2020. <sup><a href="#footnote-one">1</a></sup>.</p>
 			<p> Globally, users aged 16 to 64 spend 2 hours and 24 minutes on social media daily .<sup><a href="#footnote-two">2</a></sup>.</p>
-			<ul>
-				
-		</td>
+
+                   </td>
 	</tr>
 	</tbody></table>
+
 	
 <h4>Videos</h4>
 <h5>1. How to Make Tik Tok videos – Beginners Guide to Tik Tok</h5>
@@ -618,4 +618,3 @@ Becca Caddy (2021), <i>Screen Time</i>, Blink Publishing. <br>
 <h4>References</h4>
 <ol>
 	<li><a id="footnote-one">Smartphone penetration rate as share of the population in Singapore from 2010 to 2020 and a forecast up to 2025</a>. <i>Statista.com</i>. Retrieved 2021, October 21 from <a href="https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/">https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/</a></li>
-	
