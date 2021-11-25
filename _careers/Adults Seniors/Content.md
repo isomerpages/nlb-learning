@@ -61,7 +61,7 @@ Check out our **playlists** for collections of short videos or selected podcasts
 <h3 class="has-text-ruby"><b>Playlists</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: Are you ready to start your own business?</b></h5>
+<a id="playlist-biz"><h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: Are you ready to start your own business?</b></h5></a>
 
 Starting your own business can be daunting. A single idea can light the spark to start your entrepreneurial endeavour, but several aspects must be considered before setting off.<br>
 
@@ -95,7 +95,7 @@ Check out these resources to help you jet-start your journey to build your own b
 </div>
 
  
-<h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: How to be Happy at Work</b></h5>
+<a id="playlist-happy"><h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: How to be Happy at Work</b></h5></a>
 Happiness at work (and life) can be simple – learn ways to stop saying “yes” on impulse, how to make your life easier, and how you can use “monk mode” regularly for uninterrupted blocks of super-productive time.
 <br>
 <div class="row is-multiline margin--bottom--lg">
