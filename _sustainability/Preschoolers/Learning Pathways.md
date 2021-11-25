@@ -85,7 +85,6 @@ What can we do to protect the environment around us? Do you know the different t
     </tbody>
   </table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
