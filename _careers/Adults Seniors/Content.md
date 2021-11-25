@@ -72,7 +72,6 @@ Source: How to (Gracefully) Say No (2017, August 31). How to Adult.</p>
   <p class="has-text-ruby"><b>How to Simplify Your Life by The School of Life
 </b><br>
     Learn why you constantly feel overwhelmed, and strategies to maximise happiness – in both work and life. <br><br>
-
 Source: How to Simplify Your Life (2019, August 21). The School of Life.<p>
   </div>
 </div>
@@ -86,7 +85,7 @@ Source: How to Simplify Your Life (2019, August 21). The School of Life.<p>
   <div class="col is-three-fifths">
   <p class="has-text-ruby"><b>6 tips to improve your work-life balance by BBC Ideas (3 mins)
 </b><br>
-  The Vice President of Twitter shares tips to reduce stress and increase creativity. For instance, research has shown that the most creative offices are the ones where the employees strike up the most non-work-related conversations, and that working 40 hours a week may be the optimal amount. To us, the latter means that we can stop feeling guilty for taking longer breaks or being late or knocking off earlier sometimes.
+  The Vice President of Twitter shares tips to reduce stress and increase creativity. For instance, research has shown that the most creative offices are the ones where the employees strike up the most non-work-related conversations, and that working 40 hours a week may be the optimal amount. To us, the latter means that we can stop feeling guilty for taking longer breaks or being late or knocking off earlier sometimes.<br><br>
 Source: 6 tips to improve your work-life balance | BBC Ideas (2018, December 19). BBC Ideas.</p>
   </div>
 </div>
