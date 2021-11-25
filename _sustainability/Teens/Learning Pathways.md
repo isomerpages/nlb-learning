@@ -17,37 +17,37 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/teens/content" target="_blank" class="has-text-jade"><b> Playlist<br>Think Green, Go Green</b></a></td>
+        <td style="width: 20%;"><a href="/sustainability/teens/content" class="has-text-jade"><b> Playlist<br>Think Green, Go Green</b></a></td>
         <td style="width: 40%;"> Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/sustainability/teens/content" target="_blank" class="has-text-jade"><b> Learning Package<br>Think Green, Go Green!</b></a></td>
+        <td><a href="/sustainability/teens/content" class="has-text-jade"><b> Learning Package<br>Think Green, Go Green!</b></a></td>
         <td> Be inspired by this Teen.Things article on environmental mindfulness and green habits, accompanied by videos and recommended reads.</td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/adults-seniors/content" target="_blank" class="has-text-jade"><b>Why You Should be Concerned About Your Wardrobe</b></a></td>
+        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>Why You Should be Concerned About Your Wardrobe</b></a></td>
         <td>We address some of your burning queries about energy sustainability, a crucial area that impacts our everyday living in this video compilation.</td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/adults-seniors/content" target="_blank" class="has-text-jade"><b>The Green Economy</b></a></td>
+        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>The Green Economy</b></a></td>
         <td>Dive deeper into the Green Economy with this curated list of recommended resources. </td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/adults-seniors/content" target="_blank" class="has-text-jade"><b>Sustainable Fashion</b></a></td>
+        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>Sustainable Fashion</b></a></td>
         <td>We pick apart sustainable fashion and show you resources that will help you become a more discerning consumer.</td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/adults-seniors/content" target="_blank" class="has-text-jade"><b>Energy Sustainability</b></a></td>
+        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>Energy Sustainability</b></a></td>
         <td>Take a step further on issues surrounding energy with our list of recommended resources.</td>
         <td></td>
         <td> </td>

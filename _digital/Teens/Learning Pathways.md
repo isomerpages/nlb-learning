@@ -17,14 +17,14 @@ Immerse yourself in the possibilities of digital and tech!
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/teens/content" target="_blank" class="has-text-indigo"><b>Playlist: Stay safe, Stay informed</b></a></td>
+        <td style="width: 20%;"><a href="/digital/teens/content" class="has-text-indigo"><b>Playlist: Stay safe, Stay informed</b></a></td>
         <td style="width: 40%;"><b>Stay safe, Stay informed</b><br>
 Check out these resources that highlight tips on keeping your online information protected, while exploring new digital advancements and opportunities. </td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="/digital/teens/content" target="_blank" class="has-text-indigo"><b> Teen.Things: Graphic Design is My Passion </b></a></td>
+        <td><a href="/digital/teens/content" class="has-text-indigo"><b> Teen.Things: Graphic Design is My Passion </b></a></td>
         <td> Need something more than MS Paint for your projects? Here’s a list of five free and easy-to-use online resources for you to experiment with graphic design and web-page building. </td>
         <td></td>
         <td></td>

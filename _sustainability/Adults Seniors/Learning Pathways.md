@@ -19,37 +19,37 @@ The Green Economy is one of the five key pillars in Singapore’s Green Plan. We
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank" class="has-text-jade"><b>The 5 Things to Know about The Green Economy</b></a></td>
+        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>The 5 Things to Know about The Green Economy</b></a></td>
         <td style="width: 40%;">We round up the main points about the green economy to get you quickly up to speed on this concept that is integral to achieving sustainable development while balancing environmental needs.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/sustainability/adults-seniors/content" target="_blank" class="has-text-jade"><b>Why You Should be Concerned About Your Wardrobe</b></a></td>
+        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>Why You Should be Concerned About Your Wardrobe</b></a></td>
         <td>We zero in on some of the sustainability issues related to fashion in this compilation. </td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/adults-seniors/content" target="_blank" class="has-text-jade"><b>Why You Should be Concerned About Your Wardrobe</b></a></td>
+        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>Why You Should be Concerned About Your Wardrobe</b></a></td>
         <td>We address some of your burning queries about energy sustainability, a crucial area that impacts our everyday living in this video compilation.</td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/adults-seniors/content" target="_blank" class="has-text-jade"><b>The Green Economy</b></a></td>
+        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>The Green Economy</b></a></td>
         <td>Dive deeper into the Green Economy with this curated list of recommended resources. </td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/adults-seniors/content" target="_blank" class="has-text-jade"><b>Sustainable Fashion</b></a></td>
+        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>Sustainable Fashion</b></a></td>
         <td>We pick apart sustainable fashion and show you resources that will help you become a more discerning consumer.</td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/adults-seniors/content" target="_blank" class="has-text-jade"><b>Energy Sustainability</b></a></td>
+        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>Energy Sustainability</b></a></td>
         <td>Take a step further on issues surrounding energy with our list of recommended resources.</td>
         <td></td>
         <td> </td>
@@ -111,13 +111,13 @@ Suitable for participants aged 15 years and above. </td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" target="_blank" class="has-text-jade"><b> Build Your Own: Coasters from Magazine Pages | Time of Your Life</b></a></td>
+        <td style="width: 20%;"><a href="#" class="has-text-jade"><b> Build Your Own: Coasters from Magazine Pages | Time of Your Life</b></a></td>
         <td style="width: 40%;"> Recycle your old magazines and turn them into pretty table coasters which you can use to decorate your home in this festive season, while adopting a sustainable practice. This Build-Your-Own workshop aims to promote sustainable practices which are simple and practical for seniors.</td>
         <td style="width: 20%;">15 Dec 2021, <br>7.30pm-8.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
-        <td><a href="/communities/join/sustainability-communities" target="_blank" class="has-text-jade"><b>The Nature Club</b></a></td>
+        <td><a href="/communities/join/sustainability-communities" class="has-text-jade"><b>The Nature Club</b></a></td>
         <td> Whether you're an environmentalist or just curious, we welcome all to join us to discuss stories that help us understand our relationship with the planet. The next session will be conducted on 25 January 2022.</td>
         <td>Last Tuesday of every month <br>7pm – 8.30pm</td>
         <td>Zoom</td>
@@ -158,13 +158,13 @@ City in nature is one of the five key pillars in Singapore’s Green Plan. We ex
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank" class="has-text-jade"><b>Why You Need Nature More than Nature Needs You</b></a></td>
+        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>Why You Need Nature More than Nature Needs You</b></a></td>
         <td style="width: 40%;">We tend to take nature for granted but she does so much for us. This compilation sheds light on the ways we depend on nature more so than we realise.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/adults-seniors/content" target="_blank" class="has-text-jade"><b>City in Nature</b></a></td>
+        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>City in Nature</b></a></td>
         <td>We explore what is a City in Nature and how you can participate in it in through the resources presented here. </td>
         <td></td>
         <td> </td>

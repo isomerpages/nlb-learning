@@ -18,7 +18,7 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/tweens/content" target="_blank" class="has-text-jade"><b> Playlist<br>D.I.Y. Recycling</b></a></td>
+        <td style="width: 20%;"><a href="/sustainability/tweens/content" class="has-text-jade"><b> Playlist<br>D.I.Y. Recycling</b></a></td>
         <td style="width: 40%;"> Get inspired to recycle and repurpose trash into treasure!</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
