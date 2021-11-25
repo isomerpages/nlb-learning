@@ -451,3 +451,86 @@ Sweigart, Al (2021), <i>The big book of small Python projects: 81 easy practice 
 	<li><a id="footnote-one">First Digital Photos, From Victorian Technology To The Internet </a>. <i>The National Science and Media Museum</i>. Retrieved 2021, October 20 from <a href="https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos"> https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos</a></li>
 	<li><a id="footnote-two">Artist Beeple’s digital work sells for record $93 million</a>. <i> The Straits Times</i>. Retrieved 2021, March 12 from <a href="https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million">https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million</a></li>
 </ol>
+
+<h1>Learning Package: Social Media</h1>
+<h2>Introduction</h2>
+<p> Social media has changed the way and the speed with which we can interact and exchange information with others. In essence, social media are online communication tools that allow you to publish and share information. You can use a social media platform to connect with friends and family, catch up on news and to watch videos. Some popular examples include Facebook, Instagram or YouTube. More than just for personal use, social media can also be used by businesses to market their products and services and connect to their consumers. 
+Learn more about how to use the various popular social media platforms and find out basic tips on how to protect yourself when using social media.</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+			<h2>Did you know...</h2>
+			<p> There are 4.8 million Facebook users in Singapore as of 2020. <sup><a href="#footnote-one">1</a></sup>.</p>
+			<p> Globally, users aged 16 to 64 spend 2 hours and 24 minutes on social media daily .<sup><a href="#footnote-two">2</a></sup>.</p>
+			<ul>
+				
+		</td>
+	</tr>
+	</tbody></table>
+	
+<h4>Videos</h4>
+<h5>1. How to Make Tik Tok videos – Beginners Guide to Tik Tok</h5>
+<p> Want to start using the fun video app Tik Tok? You’ve come to the right place. Watch this video to learn how to use Tik Tok and make your own Tik Tok videos.</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/apoVa0gwER8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="www.youtube.com/watch?v=apoVa0gwER8" target="_blank">How to Make Tik Tok videos – Beginners Guide to Tik Tok</a> (2018, September 2). <i>Techboomers.</i> Retrieved 2021, October 20
+
+<h5>2.How To Use Instagram</h5> 
+<p> This video shows you an overview on how to get started on Instagram. By showing you how Instagram works and how to post pictures, you’ll be using Instagram with ease in no time!</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a0qrvLKtu6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="www.youtube.com/watch?v=a0qrvLKtu6Y" target="_blank">How To Use Instagram</a> (2020, December 12). <i>Business Insider.</i> Retrieved 2021, October 21
+<h5>3.How Hashtags Work on Social Media: Twitter, Instagram & Facebook Hashtag Tips</h5>
+<p> Hashtags allow users to connect to content they are interested in. In this video, see how hashtags are used on the different social media sites and use the tips to use the relevant hashtags yourself.</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rX5MbZ48EwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="https://www.youtube.com/watch?v=rX5MbZ48EwM" target="_blank">How Hashtags Work on Social Media: Twitter, Instagram & Facebook Hashtag Tips</a> (2019, Jan 17). <i>Brand24</i> Retrieved 2021, October 21
+
+<h5>4. How to Be S.U.R.E. Before You Share</h5> 
+<p>Learn how to safeguard yourself and others against online falsehoods by using the National Library Board's S.U.R.E. steps.</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNFnPqTTPIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="https://www.youtube.com/watch?v=JNFnPqTTPIc" target="_blank"> \How to Be S.U.R.E. Before You Share</a> (2020, February 18). <i>NLB Singapore.</i> Retrieved 2021, October 20
+
+<h4>Websites</h4>
+
+<h5>1. <a href="https://www.nortonlifelockpartner.com/security-center/15-social-networking-safety-tips.html">15 Social Networking Safety Tips</a></h5>
+<p> With all the benefits social networking offers, it is easy to overlook the risks that are involved. These include criminal activity such as stalking, bullying, identity theft and hacking. Users may also fall prey to impersonators who can cause damage to their reputation. To make the best use of social networking while avoiding the risks, users will need to understand and follow a set of basic safety tips that are easy to remember and highly effective.</p>
+
+<h4>eBooks</h4>
+<h5>1. A Social Media Survival Guide: How to Use the Most Popular Platforms and Protect Your Privacy</h5>
+Melody Karle (2020), <i>A Social Media Survival Guide: How to Use the Most Popular Platforms and Protect Your Privacy</i>, Rowman & Littlefield.
+<br>
+<a href="https://share.libbyapp.com/title/5104452"><img src="/images/Digital/Seniors/ASocialMediaSurvivalGuide.jpg" style="width:300px; text-align:left;" alt="book cover for a social media survival guide: how to use the most popular platforms and protect your privacy"></a>
+<p>With a myriad of rules and ways to communicate, figuring out different types of social media platforms can be a mind-boggling task for the regular person. Follow author Melody Karle as she shows you how to navigate the most popular networking sites – while still protecting your privacy.</p>
+<p><a href="https://share.libbyapp.com/title/5104452">Borrow the eBook here</a>. </p>
+<body>Retrieved from Libby (myLibraryid is required to access the eBook).</body>
+
+<h5>2. Instagram Rules: The Essential Guide to Building Brands, Business and Community</h5>
+Jodie Cook (2020), <i>Instagram Rules: The Essential Guide to Building Brands, Business and Community</i>, Frances Lincoln.
+<p>
+<a href="https://share.libbyapp.com/title/5986423"><img src="/images/Digital/Seniors/InstagramRules.jpg" style="width:300px; text-align:left;" alt="book cover for instagram rules: the essential guide to building brands, business and community"></a></p>
+<p>Winner of the 2021 Business Book Awards, Social media expert Jodie Cook provides you with 125 bite-sized rules to easily and efficiently optimise your profile and improve your engagement.</p>
+<p><a href="https://share.libbyapp.com/title/5986423">Borrow the eBook here</a>. </p>
+Retrieved from Libby (myLibraryid is required to access the eBook).
+	
+<h5>3. So You Want to Start a Podcast: Finding Your Voice, Telling Your Story, and Building a Community That Will Listen</h5>
+Kristen Meinzer (2019), <i>So You Want to Start a Podcast: Finding Your Voice, Telling Your Story, and Building a Community That Will Listen</i>, William Morrow.
+<br>
+<a href="https://share.libbyapp.com/title/4395781"><img src="/images/Digital/Seniors/SoYouWanttoStartaPodcast.jpg " style="width:300px; text-align:left;" alt=" book cover for so you want to start a podcast: finding your voice, telling Your story, and building a community that will listen"></a>
+<p>Podcast is one of the fastest growing forms of media. However, starting a hit podcast show can be tricky. With practical and comprehensive advice, this book will take you through (and inspire you) on how to produce an entertaining and informative show for your target audience.</p>
+<p><a href="https://share.libbyapp.com/title/4395781">Borrow the eBook here</a>.</p>Retrieved from Libby (myLibraryid is required to access the eBook).
+
+<h4>Digital Programmes in NLB</h4>
+<p>We’ve got more in store for you! Check out the digital-related programmes under the Time of Your Life (TOYL) series to pick up more knowledge and skills about digital platforms. <a href="go.gov.sg/toyl">go.gov.sg/toyl</a> to find the right one for you!
+</p>
+			
+<h4>References</h4>
+<ol>    
+	<li><a id="footnote-one"> Number of Facebook users in Singapore from 2017 to 2020 and a forecast up to 2025</a>. <i>statista.com</i>. Retrieved 2021, October 19 from <a href="https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/">https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/</a></li>
+	<li><a id="footnote-two">Daily Time Spent with Media. Half a Billion Users joined Social in the Last Year (and other facts)</a> <i>Hootsuite</i>. Retrieved 2021, October 19 from <a href="https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png">https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png</a></li>
+</ol>
