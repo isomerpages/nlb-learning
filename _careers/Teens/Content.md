@@ -20,6 +20,7 @@ A collection of short videos and podcasts to inspire you as you make that all-im
   <div class="col is-three-fifths">
     <p><b class="has-text-ruby">On My Way!: A Day in the Life of a Surgeon (5 min)</b><br>
     Join Dr Hamid Razak as he gives us a peek into the true life of a surgeon.</p>
+    <small>Source: On My Way!: A Day in the Life of a Surgeon - YouTube (2020, Dec 14). NYCSingapore. Retrieved 2021, October 22.</small>
   </div>
 </div>
 
@@ -32,6 +33,7 @@ A collection of short videos and podcasts to inspire you as you make that all-im
   <div class="col is-three-fifths">
     <p><b class="has-text-ruby">Nursing for Life Episode 1: Growing Up Years (3 min)</b><br>
     Follow the journey of five nurses as they see patients through every life stage.</p>
+    <small>Source: Nursing for Life Episode 1: Growing Up Years - YouTube (2016, Dec 27). Care to Go Beyond. Retrieved 2021, October 22.</small>
   </div>
 </div>
 
@@ -44,6 +46,7 @@ A collection of short videos and podcasts to inspire you as you make that all-im
   <div class="col is-three-fifths">
     <p><b class="has-text-ruby">What It’s Like Being A Medical Social Worker In Singapore (4 min)</b><br>
     A medical social worker from Jamiyah Nursing Home explains how his role is different from social workers and touches on some of the challenges he faces at work.</p>
+    <small>Source: What it’s like being a Medical Social Worker in Singapore - YouTube (2020, Dec 24). Agency for Integrated Care (AIC) Singapore. Retrieved 2021, October 22.</small>
   </div>
 </div>
 
