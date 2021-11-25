@@ -21,7 +21,7 @@ Learn how you can reclaim positive online experiences and improve your relations
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>Digital Wellbeing: Technology and our daily lives</b><br>
+    <p><b class="has-text-indigo">Digital Wellbeing: Technology and our daily lives</b><br>
     In this video, catch a glimpse of how different people relate to technology in their everyday lives. Have a quick think about what it means to have a healthy relationship with technology in this digital age.</p>
     <small> Source: Digital Wellbeing: Technology and our daily lives (2019, May 8). Google. Retrieved 2021, October 11.</small>
   </div>
@@ -34,7 +34,7 @@ Learn how you can reclaim positive online experiences and improve your relations
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>What is digital wellness and why is it important</b><br>
+    <p><b class="has-text-indigo">What is digital wellness and why is it important</b><br>
     Learn about what digital wellness is and why it is important in ensuring good work-life integration, especially in a world that is increasingly dependent on technology to make it go round.</p>
     <small>What is digital wellness and why is it important (2020, September 26). Citrix. Retrieved 2021, October 12.</small>
   </div>
@@ -43,9 +43,8 @@ Learn how you can reclaim positive online experiences and improve your relations
 <h5 class="margin--bottom--lg"><b>Podcast</b></h5>
 <h5><a href="https://www.globalwellbeinginitiative.org/insights/policy-implications/a-world-of-wellbeing-podcast-digital-wellbeing">A World of Wellbeing Podcast: Digital Wellbeing</a></h5>
 <p>Explore the concept of digital wellbeing, how the COVID-19 pandemic has altered our digital lives, and what constitutes intentional and considerate usage of technology.</p>
-    <small> Source: A World of Wellbeing Podcast: Digital Wellbeing (2021, April 19). Global Wellbeing Podcast. Retrieved 2021, October 12.</small>
-  </div>
-</div>
+<small> Source: A World of Wellbeing Podcast: Digital Wellbeing (2021, April 19). Global Wellbeing Podcast. Retrieved 2021, October 12.</small>
+
 
 <h3><b>Playlist: Uncovering the Secrets of Cybercrime</b></h3>
 
@@ -60,7 +59,7 @@ Interested to find out more about cybercrime and the domain in which it lurks? W
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>What is Cybercrime? Types of Cybercrime and Cyberattacks</b><br>
+    <p><b class="has-text-indigo">What is Cybercrime? Types of Cybercrime and Cyberattacks</b><br>
 Find out what exactly is cybercrime and the different forms it can take in our world today.</p>
     <small> Source: What is Cybercrime? Types of Cybercrime and Cyberattacks (2020, January 11). Eye on Tech. Retrieved 2021, October 12.</small>
   </div>
@@ -73,7 +72,7 @@ Find out what exactly is cybercrime and the different forms it can take in our w
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>Ex-Cyber Criminal Answers Burning Questions About The Dark Web </b><br>
+    <p><b class="has-text-indigo">Ex-Cyber Criminal Answers Burning Questions About The Dark Web </b><br>
     Join an ex-cyber criminal in unpacking the dark web, finding out what exactly makes it “dark”, and drawing the line between criminal and non-criminal Internet activity.</p>
     <small>Source: Ex-Cyber Criminal Answers Burning Questions About The Dark Web (2020, May 23). BuzzFeedVideo. Retrieved 2021, October 12.</small>
   </div>
@@ -84,8 +83,6 @@ Find out what exactly is cybercrime and the different forms it can take in our w
 
 <p>Ever wondered what would happen if someone wanted to steal your Instagram account? Join host Jack Rhysider in uncovering the possible motivations behind this form of online identify theft, and find out what to do if it were to occur.</p>
 <small> Source: Ep 97: The Pizza Problem (2021, July 21). Darknet Diaries. Retrieved 2021, October 12.</small>
-  </div>
-</div>
 
 <h3><b>Playlist: Think Like A Designer</b></h3>
 
@@ -102,7 +99,7 @@ Watch these videos to learn more about design thinking, the process behind good 
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>How to solve problems like a designer</b><br>
+    <p><b class="has-text-indigo">How to solve problems like a designer</b><br>
 Unpack the steps designers take in the innovation process, and find out how Design Thinking can help to address problems and meet different needs.</p>
     <small> Source: How to solve problems like a designer (2017, September 21). Vox. Retrieved 2021, October 12.</small>
   </div>
@@ -115,7 +112,7 @@ Unpack the steps designers take in the innovation process, and find out how Desi
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>IDEO-U | What is Design Thinking?</b><br>
+    <p><b class="has-text-indigo">IDEO-U | What is Design Thinking?</b><br>
 Catch a glimpse of how Design Thinking has human interest and wellbeing at its core, and learn how the potential for creative problem-solving lies in every individual.</p>
     <small>Source: IDEO-U | What is Design Thinking? (2018, December 6). IDEO U. Retrieved 2021, October 12.</small>
   </div>
@@ -123,16 +120,13 @@ Catch a glimpse of how Design Thinking has human interest and wellbeing at its c
 
 <h5><b>Podcast</b></h5>
 <h5><a href="https://www.helpfulhuman.com/podcasts/design-thinking-does-it-matter">Design Thinking – Does it Matter?</a></h5>
-<p>Uncover the significance of Design Thinking in innovation, and understand why this iterative process is important problem-solving. 
-</p>
+<p>Uncover the significance of Design Thinking in innovation, and understand why this iterative process is important problem-solving.</p>
 <small> Source: Design Thinking - Does it Matter? (2021, September 28). The Helpful Human Podcast. Retrieved 2021, October 12.</small>
-  </div>
-</div>
 
-LEARNING PATHWAYS
+
+<h5><b>LEARNING PATHWAYS</b></h5>
 
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
-
 
 <img src="images/digital/adults/cyberwellness/Digital-Prog-AS-A-Cyberwellness-01.png" alt="cover image">
 
