@@ -88,10 +88,9 @@ Check out these resources to help you jet-start your journey to build your own b
   </div>
   <div class="col is-three-fifths">
   <p class="has-text-ruby"><b>How to Write a Business Plan (3 mins)
-</b><br>
-    Learn to create a business plan to help you organize your ideas and strategies through this instructional video. <br><br>
-
-Source: How to Write a Business Plan (2018, Sept 18). Business Wales/Busnes Cymru. Retrieved 2021, October 19.</p>
+</b></p>
+<p>Learn to create a business plan to help you organize your ideas and strategies through this instructional video. </p>
+<small>Source: How to Write a Business Plan (2018, Sept 18). Business Wales/Busnes Cymru. Retrieved 2021, October 19.</small>
   </div>
 </div>
 
@@ -108,9 +107,9 @@ Happiness at work (and life) can be simple – learn ways to stop saying “yes�
   <div class="col is-three-fifths">
     <p class="has-text-ruby"><b>How to (Gracefully) Say No by How to Adult (4 mins)
 			</b></p>
-		<br>
-    “Saying no isn’t selfish, it’s self care.” – Hank Green <br><br>
-We often feel overwhelmed at work because we don’t know how to reject others, or feel that we cannot do so. Here are some nifty strategies that will get you your sanity back – the video even covers lines you can use on people who won’t take no for an answer.<br><br>
+		<p>
+    “Saying no isn’t selfish, it’s self care.” – Hank Green <br>
+We often feel overwhelmed at work because we don’t know how to reject others, or feel that we cannot do so. Here are some nifty strategies that will get you your sanity back – the video even covers lines you can use on people who won’t take no for an answer.</p>
 <small>Source: How to (Gracefully) Say No (2017, August 31). How to Adult.</small>
   </div>
 </div>
@@ -123,9 +122,9 @@ We often feel overwhelmed at work because we don’t know how to reject others, 
   </div>
   <div class="col is-three-fifths">
   <p class="has-text-ruby"><b>How to Simplify Your Life by The School of Life
-</b><br>
-    Learn why you constantly feel overwhelmed, and strategies to maximise happiness – in both work and life. <br><br>
-Source: How to Simplify Your Life (2019, August 21). The School of Life.<p>
+</b></p>
+<p>Learn why you constantly feel overwhelmed, and strategies to maximise happiness – in both work and life. </p>
+<small>Source: How to Simplify Your Life (2019, August 21). The School of Life.</small>
   </div>
 </div>
 
