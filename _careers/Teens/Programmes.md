@@ -22,5 +22,4 @@ Get invaluable career insights and connect first-hand with successful individual
 
 Click [here](https://go.gov.sg/nlb-teenstakeover){:target="_blank" .has-text-ruby} for the latest programme listings.
 
-[Back to top](#main-content){: .has-text-ruby}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-ruby">Back to top</a></p>

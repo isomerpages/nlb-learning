@@ -4,7 +4,6 @@ permalink: /careers/adults-seniors/learning-pathways
 description: ""
 third_nav_title: Adults & Seniors
 ---
-### **Learning Pathways**
+COMING SOON
 
-[Back to top](#main-content){: .has-text-ruby}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-ruby">Back to top</a></p>

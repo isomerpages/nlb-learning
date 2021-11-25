@@ -99,5 +99,4 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
   </table>
 </div>
 
-[Back to top](#main-content){: .has-text-ruby}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-ruby">Back to top</a></p>

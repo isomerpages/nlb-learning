@@ -88,5 +88,4 @@ Topics covered:
 
 Click here to learn more about this programme.
 
-[Back to top](#main-content){: .has-text-ruby}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-ruby">Back to top</a></p>

@@ -249,3 +249,5 @@ Richard N. Bolles & Katharine Brooks (2020), <i>What Color Is Your Parachute? 20
 <h4>Programmes</h4>
 <p> Want to attend workshops on resume-writing and interviewing skills? Or are you hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at .<a href="https://go.gov.sg/get-professional-series"> go.gov.sg/get-professional-series</a>.
 </p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-ruby">Back to top</a></p>
