@@ -7,7 +7,8 @@ third_nav_title: Adults & Seniors
 These curated sets of videos, articles, books and more will give you tips and tricks on building a successful career/business, or finding happiness at work.
 
 Check out our **playlists** for collections of short videos or selected podcasts, exploring topics around personal and professional development.
-Check our **learning packages** for articles that will give you confidence in your professional life.  
+
+<p>Check our **learning packages** for articles that will give you confidence in your professional life.</p>
 
 <div class="row is-multiline">
   <div class="col is-one-third">
@@ -95,7 +96,6 @@ Source: How to Write a Business Plan (2018, Sept 18). Business Wales/Busnes Cymr
   </div>
 </div>
 
-
  
 <h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: How to be Happy at Work</b></h5>
 Happiness at work (and life) can be simple – learn ways to stop saying “yes” on impulse, how to make your life easier, and how you can use “monk mode” regularly for uninterrupted blocks of super-productive time.
@@ -108,10 +108,11 @@ Happiness at work (and life) can be simple – learn ways to stop saying “yes�
   </div>
   <div class="col is-three-fifths">
     <p class="has-text-ruby"><b>How to (Gracefully) Say No by How to Adult (4 mins)
-</b><br>
+			</b></p>
+		<br>
     “Saying no isn’t selfish, it’s self care.” – Hank Green <br><br>
 We often feel overwhelmed at work because we don’t know how to reject others, or feel that we cannot do so. Here are some nifty strategies that will get you your sanity back – the video even covers lines you can use on people who won’t take no for an answer.<br><br>
-Source: How to (Gracefully) Say No (2017, August 31). How to Adult.</p>
+Source: How to (Gracefully) Say No (2017, August 31). How to Adult.
   </div>
 </div>
 
