@@ -534,3 +534,89 @@ Kristen Meinzer (2019), <i>So You Want to Start a Podcast: Finding Your Voice, T
 	<li><a id="footnote-one"> Number of Facebook users in Singapore from 2017 to 2020 and a forecast up to 2025</a>. <i>statista.com</i>. Retrieved 2021, October 19 from <a href="https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/">https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/</a></li>
 	<li><a id="footnote-two">Daily Time Spent with Media. Half a Billion Users joined Social in the Last Year (and other facts)</a> <i>Hootsuite</i>. Retrieved 2021, October 19 from <a href="https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png">https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png</a></li>
 </ol>
+
+<h1>Learning Package: Using Your Smartphone</h1>
+<h2>Introduction</h2>
+<p> There are many useful and fun things you can do with your smartphone today. With its ability to access the Internet, a smartphone can do more than make a phone call or send a text message. Depending on your needs and interests, you can use a smartphone to look up information, play games, watch videos and even buy groceries. Today, a smartphone has become an important tool that provides its users with both convenience and ease, wherever you go!
+If you would like to find out more about what a smartphone can do for you in your everyday life, some resources have been compiled here.</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+			<h2> Fun Fact:...</h2>
+			<p>As of 2021, a whopping 89.64% of the Singapore population own a smartphone.<sup><a href="#footnote-one">1</a></sup>.</p> 
+			 
+			
+		</td>
+	</tr>
+	</tbody></table>
+	
+<h4>Videos</h4>
+<h5>1. How To Video Call A Doctor From Home - White Coat, Doctor Anywhere, MyDoc, HiDoc, Doctor World SG<h5>
+<p>Discover the world of telemedicine, where you can have a video consultation with a doctor and even get your medicine delivered to you when you are feeling unwell!</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mj0Xe5g7jwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="https://www.youtube.com/watch?v=mj0Xe5g7jwQ&ab_channel=TECH360.TV" target="_blank"> How To Video Call A Doctor From Home - White Coat, Doctor Anywhere, MyDoc, HiDoc, Doctor World SG</a> (2020, April 24). <i>TECH360.TV.</i> Retrieved 2021, October 20
+
+<h5>2. How to Pay Using PayNow, SGQR Code and More in Singapore</h5> 
+<p>In this succinct and informative video, learn about the various types of digital payment available in Singapore. Learn the difference between PayNow and PayLah!, and find out what a SGQR Code is.</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h6CE9F_wli4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="https://www.youtube.com/watch?v=h6CE9F_wli4&ab_channel=TECH360.TV" target="_blank">How to Pay Using PayNow, SGQR Code and More in Singapore</a> (2020, May 16). <i>TECH360.TV.</i> Retrieved 2021, October 20
+
+<h5>3. How To Shop Better Online In Singapore - Tips & Tricks On Online Shopping, e-Commerce<h5>
+<p> Do online shopping platforms such as Shopee and Lazada seem same same but different to you? Find out the differences among the major e-commerce platforms in Singapore and decide which suits your needs best before placing that next order.</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-drb7O4ZvYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="https://www.youtube.com/watch?v=-drb7O4ZvYc&ab_channel=TECH360.TV" target="_blank">How To Shop Better Online In Singapore - Tips & Tricks On Online Shopping, e-Commerce </a> (2020, May 11). <i>TECH360.TV.</i> Retrieved 2021, October 20
+
+<h4>Courses</h4>
+
+<h5>1. <a href="https://www.family-central.sg/courses/shop-with-fairprice-app/">Shop with Fairprice App</a></h5>
+<p>Don’t feel like heading out to buy groceries? Now you can order groceries online and have them delivered to your doorstep! This course will guide you through how to order groceries using the Fairprice app.</p>
+
+<h4>Articles</h4>
+
+<h5>1. <a href="https://www.lendingbee.com.sg/must-have-apps-for-those-living-in-singapore/">26 Must-Have Apps For Those Living In Singapore</a></h5>
+<p> This article outlines the most useful apps for all residents of Singapore. These include transport, food, entertainment, and many more!</p>
+<h4>Websites</h4>
+
+<h5>1. <a href="https://www.rd.com/list/iphone-hacks/">25 Hidden iPhone Hacks You Never Knew About</a></h5>
+<p>Did you know that you can measure items using the iPhone camera? Find out how you can do so, among other amazing tips and tricks to make your iPhone experience more seamless.</p>
+
+
+<h4>eBooks</h4>
+<h5>1. Keep Calm and Log On</h5>
+Gillian Andrews (2020), <i>Keep Calm and Log On</i>, The MIT Press.
+<br>
+<a href="https://share.libbyapp.com/title/5413443"><img src="/images/Digital/Seniors/KeepCalmandLogOn.jpg.jpg" style="width:300px; text-align:left;" alt="book cover for keep calm and log on"></a>
+<p>Written for the ordinary person, find out tips on how you can shop, share and connect online while keeping yourself safe from fake news, personal data leaks and even, Internet addiction.</p>
+<p><a href="https://share.libbyapp.com/title/5413443">Borrow the eBook here</a>. </p>
+<body>Retrieved from Libby (myLibraryid is required to access the eBook).</body>
+
+<h5>2. Android For Dummies</h5>
+Dan Gookin (2020), <i>Android For Dummies</i>, Wiley.
+<p>
+<a href="https://share.libbyapp.com/title/5281904"><img src="/images/Digital/Seniors/AndroidForDummies.jpg " style="width:300px; text-align:left;" alt="book cover for android for dummies"></a></p>
+<p>Regardless of whether you are a new or seasoned Android user, learn more about it in this title as the author takes you through this comprehensive guide. 
+</p>
+<p><a href="https://share.libbyapp.com/title/5281904">Borrow the eBook here</a>. </p>
+Retrieved from Libby (myLibraryid is required to access the eBook).
+	
+<h5>3. Screen Time</h5>
+Becca Caddy (2021), <i>Screen Time</i>, Blink Publishing. <br>
+<a href="https://share.libbyapp.com/title/5817735"><img src="/images/Digital/Seniors/ScreenTime.jpg " style="width:300px; text-align:left;" alt=" book cover for Screen Time"></a><p>
+<p>Understand how your phone and your screen time affects your life and make small changes to help you strike a healthy balance. Discover what works for you and what you can do without!</p>
+<p><a href="https://share.libbyapp.com/title/5817735">Borrow the eBook here</a>.</p>Retrieved from Libby (myLibraryid is required to access the eBook).
+
+<h4>Digital Programmes in NLB</h4>
+<p>We’ve got more in store for you! Check out the digital-related programmes under the Time of Your Life (TOYL) series to pick up more knowledge and skills about digital platforms. <a href="go.gov.sg/toyl">go.gov.sg/toyl </a> 
+</p>
+			
+<h4>References</h4>
+<ol>
+	<li><a id="footnote-one">Smartphone penetration rate as share of the population in Singapore from 2010 to 2020 and a forecast up to 2025</a>. <i>Statista.com</i>. Retrieved 2021, October 21 from <a href="https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/">https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/</a></li>
+	
+</ol>
