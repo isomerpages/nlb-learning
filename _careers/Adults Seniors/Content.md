@@ -4,7 +4,6 @@ permalink: /careers/adults-seniors/content
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 <h3 class="has-text-ruby"><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
@@ -31,7 +30,7 @@ Source: When to go from employee to entrepreneur | CNBC Make It (2019, Jan 30). 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/ cuo6YGagjfM"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/cuo6YGagjfM"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
