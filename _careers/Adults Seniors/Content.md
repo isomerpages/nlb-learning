@@ -8,7 +8,7 @@ These curated sets of videos, articles, books and more will give you tips and tr
 
 Check out our **playlists** for collections of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<p>Check our **learning packages** for articles that will give you confidence in your professional life.</p>
+<p>Check our <b>learning packages</b> for articles that will give you confidence in your professional life.</p>
 
 <div class="row is-multiline">
   <div class="col is-one-third">
@@ -58,14 +58,14 @@ Check out our **playlists** for collections of short videos or selected podcasts
   </div>
   </div>
 
-<h3 class="has-text-ruby"><b>Playlist</b></h3>
+<h3 class="has-text-ruby"><b>Playlists</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
 <h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: Are you ready to start your own business?</b></h5>
 
 Starting your own business can be daunting. A single idea can light the spark to start your entrepreneurial endeavour, but several aspects must be considered before setting off.<br>
 
-Check out these resources to help you jet-start your journey to build your own business and gain some inspiration from those on the same path. </p>
+Check out these resources to help you jet-start your journey to build your own business and gain some inspiration from those on the same path. 
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -74,10 +74,9 @@ Check out these resources to help you jet-start your journey to build your own b
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p class="has-text-ruby"><b>When to go from employee to entrepreneur | CNBC Make It (3 mins)
-</b><br>
-    Hear from three entrepreneurs on what motivated them to quit their day jobs and advice they have for people who want to start their own business.<br><br>
-Source: When to go from employee to entrepreneur | CNBC Make It (2019, Jan 30). CNBC International. Retrieved 2021, October 19.</p>
+    <p class="has-text-ruby"><b>When to go from employee to entrepreneur | CNBC Make It (3 mins)</b></p>
+    Hear from three entrepreneurs on what motivated them to quit their day jobs and advice they have for people who want to start their own business.<br>
+<small>Source: When to go from employee to entrepreneur | CNBC Make It (2019, Jan 30). CNBC International. Retrieved 2021, October 19.</small>
   </div>
 </div>
 
