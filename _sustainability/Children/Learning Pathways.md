@@ -4,7 +4,7 @@ permalink: /sustainability/children/learning-pathways
 description: ""
 third_nav_title: Children
 ---
-Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
+‘Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3 class="has-text-jade"><b>Save Our Earth</b></h3>
 Go green with your child towards an eco-friendly future together.
@@ -53,18 +53,6 @@ Go green with your child towards an eco-friendly future together.
         <td>Choa Chu Kang Public Library </td>
       </tr>
 <tr>
-<td><a href="http://go.gov.sg/BookBugs" target="_blank" class="has-text-jade"><b>Book Bugs: Rescuers of Stories Lost</b></a></td>
-        <td>A bug-themed collectible card game reading promotion targeted at children to encourage reading in both English and Mother Tongue Languages</td>
-        <td>Jan-Sep 2022</td>
-        <td></td>
-      </tr>
-<tr>
-<td><a href="#" target="_blank" class="has-text-jade"><b>CSA: How to Go Safe Online: Primary School Edition</b></a></td>
-        <td>Join us for this online session to learn about the types of cyber threats to look out for and learn how you can Go Safe Online by practising good cyber hygiene habits.</td>
-        <td>4 Dec 2021 <br>10am – 11am</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
 <td><a href="#" target="_blank" class="has-text-jade"><b>Get Creative for Climate Change! | Earth Heroes</b></a></td>
         <td>Let’s draw Water Wally & Sally and learn more about climate change!</td>
         <td>11 Dec 2021, <br>1.30pm - 230pm</td>
@@ -74,7 +62,29 @@ Go green with your child towards an eco-friendly future together.
   </table>
 </div>
 
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Other Learning Focus Areas</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="http://go.gov.sg/BookBugs" target="_blank" class="has-text-indigo"><b>Book Bugs: Rescuers of Stories Lost</b></a></td>
+        <td style="width: 40%;"> A bug-themed collectible card game reading promotion targeted at children to encourage reading in both English and Mother Tongue Languages.</td>
+        <td style="width: 20%;">Jan-Sep 2022</td>
+        <td style="width: 20%;"></td>
+      </tr>
+<tr>
+<td><a href="#" target="_blank" class="has-text-jade"><b>CSA: How to Go Safe Online: Primary School Edition</b></a></td>
+        <td>Join us for this online session to learn about the types of cyber threats to look out for and learn how you can Go Safe Online by practising good cyber hygiene habits.</td>
+        <td>4 Dec 2021 <br>10am – 11am</td>
+        <td>Zoom</td>
+      </tr>
+   </tbody>
+  </table>
+</div>
 
-
-[Back to top](#main-content){: .has-text-jade}
+[Back to top](#main-content){: .has-text-indigo}
 {: .has-text-right .margin--top--xl}
