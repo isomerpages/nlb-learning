@@ -230,19 +230,19 @@ Rob Barnett (2021), <i>Next Job, Best Job</i>, Citadel Press.
 <p><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=514C11B6-CAFF-4F1D-8B31-48F6A8A01CFD&l=JHT2">Borrow the eBook here</a>. </p>
 <p>Retrieved from Libby (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</p>
 	
-<h5><a class="has-text-ruby" href=”https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&l=JHT3”>What Color Is Your Parachute? 2021
+<h5><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&l=JHT3">What Color Is Your Parachute? 2021
 <br>
 Your Guide to a Lifetime of Meaningful Work and Career Success
 </a>
 </h5>
 Richard N. Bolles & Katharine Brooks (2020), <i>What Color Is Your Parachute? 2021</i>, Clarkson Potter/Ten Speed.
 <br>
-<a  class="has-text-ruby"href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&l=JHT3"><img src="/images/career/adults/WhatColorisyourParachute.jpg" style="width:300px; text-align:left;" alt="Book cover for What Color is Your Parachute"></a>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&l=JHT3"><img src="/images/career/adults/WhatColorisyourParachute.jpg" style="width:300px; text-align:left;" alt="Book cover for What Color is Your Parachute"></a>
 <p>On top of guiding you on resumes and interviews, this classic practical manual also helps you discover what types of careers best match your values, strengths and passions.</p><p><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&l=JHT3">Borrow the eBook here</a>.</p>
 <body>Retrieved from Libby (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</body>
 
-<h4>Programmes</h4>
-<p> Want to attend workshops on resume-writing and interviewing skills? Or are you hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at .<a class="has-text-ruby" href="https://go.gov.sg/get-professional-series"> go.gov.sg/get-professional-series</a>.
+<h4 class="has-text-ruby"><b>Programmes</b></h4>
+<p>Want to attend workshops on resume-writing and interviewing skills? Or are you hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at .<a class="has-text-ruby" href="https://go.gov.sg/get-professional-series"> go.gov.sg/get-professional-series</a>.
 </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-ruby">Back to top</a></p>
