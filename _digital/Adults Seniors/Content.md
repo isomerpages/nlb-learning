@@ -250,3 +250,84 @@ Kevin Mitnick (2019), <i> The Art of Invisibility </i>, Little, Brown and Compan
 
 
 	<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>
+	
+<h1>Learning Package: Digital Creation</h1>
+<h2>Introduction</h2>
+<p>What is digital creation? To put it simply, digital creation is the process of creating a work, a product or a tool using digital technology. Digital creation can range from simple actions like snapping a photo with your phone or writing a blog post, to more advanced ones like creating digital art and engaging in digital making such as 3D printing and digital cutting.
+To help you understand and learn more about digital creations, do check out the resources that we have compiled here.
+<table border="1">
+	<tbody><tr>
+		<td>
+			<h2>Did you know...</h2>
+			<ul>
+				<li>The first digital image was created in 1957 by Russell Kirsch when he scanned a photograph of his three-month-old son using an early computer.<sup><a href="#footnote-one">1</a></sup></li>
+				<li>A digital artwork titled “Everydays – The First 5000 Days” by digital artist Beeple was sold at a record high amount of US$69 million (S$93 million).<sup><a href="#footnote-two">2</a></sup></li>
+				
+			</ul>
+			
+		</td>
+	</tr>
+	</tbody></table>
+	
+<h4>Videos</h4>
+<h5>1. Mastering Mobile Photography with Chris Orwig | Adobe Creative Cloud</h5>
+<p>Discover how to capture, compose, edit and share with your smartphone camera</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CD5GV8tbfJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=CD5GV8tbfJo" target="_blank">Mastering Mobile Photography with Chris Orwig | Adobe Creative Cloud</a> (2020, Feb 21). <i>Adobe Creative Cloud.</i> Retrieved 2021, October 20
+
+<h5>2. Take better smartphone videos. | MOBILE VIDEOGRAPHY</h5> 
+<p>Learn mobile videography tips on how to take better videos with your smartphone.</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KkrV804Ahzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="https://www.youtube.com/watch?v=KkrV804Ahzc" target="_blank"> Take better smartphone videos.</a> (2020, Mar 23). <i>MOBILE VIDEOGRAPHY.</i> Retrieved 2021, October 20
+
+<h5>3.Is 3D printing a revolution or just a trend?</h5> 
+<p>Explore the technology of 3D printing and how it might change the future.</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NRUbaAPbmVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="https://www.youtube.com/watch?v=NRUbaAPbmVA" target="_blank"> Is 3D printing a revolution or just a trend?</a> (2020, Sep 14). <i> Is 3D printing a revolution or just a trend</i> Retrieved 2021, Oct 20
+
+<h4>eBooks</h4>
+<h5>1.Digital Photographer’s Handbook</h5>
+Tom Ang (2020), <i>Digital Photographer's Handbook</i>, Dorling Kindersley.
+<br>
+<a href="https://share.libbyapp.com/title/5167404"><img src="/images/Digital Photographer's Handbook.jpg" style="width:300px; text-align:left;" alt="book cover for digital photographer’s handbook"></a>
+<p>Whether you are a beginner or an experienced photographer, learn useful tips on how you can capture the best shots, enhance a photo or use the latest technology and equipment.</p>
+<p><a href="https://share.libbyapp.com/title/5167404">Borrow the eBook here</a>. </p>
+<body>Retrieved from Libby (myLibraryid is required to access the eBook).</body>
+
+<h5>2.The Big Book of Maker Skills: Tools & Techniques for Building Great Tech Projects</h5>
+Hackett, Chris (2020), <i>The Big Book of Maker Skills: Tools & Techniques for Building Great Tech Projects</i>, Weldon Owen.
+<p>
+<a href="https://share.libbyapp.com/title/3136238"><img src="/images/The Big Book of Maker Skills.jpg" style="width:300px; text-align:left;" alt="book cover for The Big Book of Maker Skills: Tools & Techniques for Building Great Tech Projects"></a>
+</p><p>Covering topics like 3D printing and laser-cutting, learn more about the essential techniques that can help bring your DIY projects to the next level.</p>
+<p><a href="https://share.libbyapp.com/title/3136238">Borrow the eBook here</a>. </p>
+Retrieved from Libby (myLibraryid is required to access the eBook).
+	
+<h5>3.The Big Book of Small Python Projects: 81 Easy Practice Programs</h5>
+Sweigart, Al (2021), <i>The big book of small Python projects: 81 easy practice programs</i>, No Starch Press
+<br>
+<a href="https://share.libbyapp.com/title/5665661"><img src="/images/The Big Book of Small Python Projects.jpg" style="width:300px; text-align:left;" alt="book cover for The Big Book of Small Python Projects: 81 Easy Practice Programs"></a>
+<p>Learn how to create fun Python projects such as digital art, games and animations easily using simple text-based programmes.</p><p><a href="https://share.libbyapp.com/title/5665661">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+
+<h4>Digital Programmes in NLB</h4>
+<p>Digital talks and workshops are always happening in the library. Browse through <a href="https://go.gov.sg/toyl">https://go.gov.sg/toyl</a> to find the right one for you!
+</p>
+			<ul>
+				<li><p>MakeIT X TOYL – In this programme series, learn and embrace new ways on making and creating something using digital fabrication technologies</a></li>
+				<li>The Video Creators Club – Suitable for beginners interested in nurturing their videography skills, let our volunteer facilitator Mr Philip Au take you through different video-based projects and assignments!</a></li>
+				
+			</ul>
+
+
+			
+<h4>References</h4>
+<ol>
+	<li><a id="footnote-one">First Digital Photos, From Victorian Technology To The Internet </a>. <i>The National Science and Media Museum</i>. Retrieved 2021, October 20 from <a href=" https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos"> https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos</a></li>
+	<li><a id="footnote-two">Artist Beeple’s digital work sells for record $93 million</a>. <i> The Straits Times</i>. Retrieved 2021, March 12 from <a href="https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million">https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million</a></li>
+</ol>
+	
+	
