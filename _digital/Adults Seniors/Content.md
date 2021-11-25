@@ -248,6 +248,75 @@ Kevin Mitnick (2019), <i> The Art of Invisibility </i>, Little, Brown and Compan
 <li><a id="footnote-two"> Cybercrime To Cost The World $10.5 Trillion Annually By 2025 (2020, November 13).  Cybercrime Magazine.</a>. Retrieved 2021, October 19 from <a href="https://cybersecurityventures.com/cybercrime-damage-costs-10-trillion-by-2025/">https://cybersecurityventures.com/cybercrime-damage-costs-10-trillion-by-2025/</a></li>
 </ol>
 
+<img src="/images/Digital/Adults/Cyberwellness/Digital-Prog-AS-A-Designthinking-01.png" alt="cover image">
+---
+<h1>Learning Package: Design Thinking</h1>
+<h2>Introduction</h2>
+<p> From the computer mouse to the smart phone, many technologies that are part and parcel of our day-to-day have come about because of Design Thinking, an iterative process that aims to understand users’ needs and come up with effective solutions to the problems they face. A deeply empathetic approach focused on prototyping and testing, Design Thinking is a tool in creative problem-solving that is not only useful in the industry, but also in our everyday lives. 
+<p> To unpack this concept of Design Thinking and understand how it is deeply embedded in our world today, check out the following resources that we have curated just for you! </p>
+<table border="1">
+	<tbody><tr>
+		<td>
+			<h2>Did you know...</h2>
+			<p> Companies that embrace the Design Thinking process include Lego, IKEA, Starbucks, Mercedes-Benz, and Apple <sup><a href="#footnote-one">1</a></sup>. </p>
+			<p> Singapore, itself, is shaped and reshaped by Design Thinking <sup><a href="#footnote-two">2</a></sup>.</p>
+			
+			
+		</td>
+	</tr>
+	</tbody></table>
+	
+<h4>Videos</h4>
+<h5>1. What is Design Thinking? An Overview </h5>
+<p> Learn about the step-by-step approach to Design Thinking and understand how the various stages come together in the process of innovation. </p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gHGN6hs2gZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+Source: <a href="https://www.youtube.com/embed/ gHGN6hs2gZY" target="_blank"> What is Design Thinking? An Overview</a> (2020, Feb 4). <i> AJ&Smart.</i> Retrieved 2021, October 13
+
+<h4>Podcast</h4>
+<h5>2. Design Thinking and Innovation </h5> 
+<p> Dive deep into the tenets of Design Thinking, learn how they are applied, and explore the key elements in ensuring the adoption of this mindset in our world today. </p>
+Source: <a href="https://www.ipi-singapore.org/podcasts/design-thinking-and-innovation.html" target="_blank"> Design Thinking and Innovation </a> <i> Innovation Partner for Impact.</i> Retrieved 2021, October 13
+
+<h4> Audio Books & E-books</h4>
+<h5>1. The Design Thinking Playbook </h5>
+Michael Lewrick, Patrick Link, Larry Leifer (2018),<i> The Design Thinking Playbook, Wiley. </i>, Wiley.
+<br>
+<a href="https://share.libbyapp.com/title/3597207"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover for The Design Thinking Playbook "></a>
+<p> Discover effective tools and practices that you can adopt in this guide by exploring real-life examples of Design Thinking being applied across different sectors. 
+</p>
+<p><a href=" https://share.libbyapp.com/title/3597207">Borrow the eBook here</a>. </p>
+<body>Retrieved from NLB Libby (myLibraryid is required to access the eBook).</body>
+
+
+<h5>2. Change by Design</h5>
+Tim Brown (2019), <i> Change by Design, </i>, Harper Business.
+<br>
+<a href="https://share.libbyapp.com/title/4056857"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover for Change by Design "></a>
+<p> Demystify the idea that innovation is achieved overnight and unpack the in-depth, transformative and fulfilling process of Design Thinking.</p>
+<p><a href=" https://share.libbyapp.com/title/4056857">Borrow the eBook here</a>. </p>
+<body>Retrieved from NLB Libby (myLibraryid is required to access the eBook).</body>
+
+<h5>3. Inclusive Design for a Digital World </h5>
+Regine M. Gilbert (2019), <i> Inclusive Design for a Digital World: Designing with Accessibility in Mind </i>, Apress.
+<br>
+<a href="https://share.libbyapp.com/title/5200372"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover Inclusive Design for a Digital World: Designing with Accessibility in Mind "></a>
+<p> When it comes to design in our digital, modern world, accessibility is a priority that creators have to consider. Explore the reasons why this is so and learn how you can ensure inclusive design for various users.</p>
+<p><a href=" https://share.libbyapp.com/title/5200372">Borrow the eBook here</a>. </p>
+<body>Retrieved from NLB Libby (myLibraryid is required to access the eBook).</body>
+
+<h4>Programmes</h4>
+<p> We’ve got more in store for you! Check out the programmes under our My Digital Life series to learn more about how technology affects your daily life and unpack trending topics.</p>
+<p> Sign up here: <a href="go.gov.sg/nlbmdl">go.gov.sg/nlbmdl</a></p>			
+
+
+<h4>References</h4>
+<ol>
+<li><a id="footnote-one"> Five Companies, Five Rules of Design (2014, November 13). Designorate.</a>. Retrieved 2021, October 19 from <a href="https://www.designorate.com/five-companies-five-rules-of-design/.">https://www.designorate.com/five-companies-five-rules-of-design/.</a></li>
+<li><a id="footnote-two"> How is Design-Thinking reshaping Singapore? GovInsider.</a>. Retrieved 2021, October 19 from <a href="https://govinsider.asia/innovation/how-is-design-thinking-reshaping-singapore/.">https://govinsider.asia/innovation/how-is-design-thinking-reshaping-singapore/.</a></li>
+</ol>
+
 
 	<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>
 	
@@ -329,5 +398,3 @@ Sweigart, Al (2021), <i>The big book of small Python projects: 81 easy practice 
 	<li><a id="footnote-one">First Digital Photos, From Victorian Technology To The Internet </a>. <i>The National Science and Media Museum</i>. Retrieved 2021, October 20 from <a href=" https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos"> https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos</a></li>
 	<li><a id="footnote-two">Artist Beeple’s digital work sells for record $93 million</a>. <i> The Straits Times</i>. Retrieved 2021, March 12 from <a href="https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million">https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million</a></li>
 </ol>
-	
-	
