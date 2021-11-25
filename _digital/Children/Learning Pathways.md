@@ -61,7 +61,11 @@ Join us for this online session to learn about the types of cyber threats to loo
         <td>17 Dec 2021 <br>1pm – 2pm or <br> 3pm – 4pm(MPPL) <br><br>20 Dec 2021 <br>1pm – 2pm or <br> 3pm – 4pm(SKPL)</td>
         <td>Marine Parade Public Library<br>Sengkang Public Library</td>
       </tr>
-<div class="horizontal-scroll margin--bottom--lg">
+    </tbody>
+  </table>
+</div>
+
+			<div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
       <tr>
