@@ -4,10 +4,10 @@ permalink: /careers/adults-seniors/programmes
 description: ""
 third_nav_title: Adults & Seniors
 ---
-### **Programmes**
+### **Programmes**{: .has-text-ruby}
 Pick up skills from professional trainers, and get answers, ideas as well as inspiration from experts in various subjects.
 
-## **Get Professional Series**
+## **Get Professional Series**{: .has-text-ruby}
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-01.png)
 
 Get Professional Season 4 spotlights important skills to enhance employability (interview and resume writing) and cope in the new normal (managing change and building resiliency), with exciting new facets on writing and presentation skills. From general business writing to corporate storytelling, the series focuses on vital skills to improve workplace productivity and efficiency. 
@@ -17,9 +17,9 @@ This series is recommended for jobseekers and working adults seeking to improve 
 By the end of each workshop, you can expect to have learnt a couple of effective strategies to improve your skill in the topic covered.
 
 To check out the latest listing of programmes under Get Professional Series, go to
-[go.gov.sg/get-professional-series](http://go.gov.sg/get-professional-series). 
+[go.gov.sg/get-professional-series](http://go.gov.sg/get-professional-series){: .has-text-ruby}. 
 
-## **Industry Insights**
+## **Industry Insights**{: .has-text-ruby}
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-01.png)
 
 Have you always been curious about a particular industry – be it fintech, gaming, user experience and so on? In this series of talks, you can expect to learn what it is like to work in a particular industry – the joys and challenges, and the forces that impact it. 
@@ -28,7 +28,7 @@ This series is recommended for anyone who wishes to find out more about the indu
 
 Click here to learn more about the programme. 
 
-## **Breakthrough**
+## **Breakthrough**{: .has-text-ruby}
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-02.png)
 Harness the secrets of success from conversations with entrepreneurs in this programme series, which include panel discussions, workshops and networking sessions. 
 
@@ -36,9 +36,9 @@ The panel discussions are recommended for business owners, aspiring entrepreneur
 
 Learning outcomes include advice on overcoming challenges in entrepreneurship, innovation and/or a particular industry.
 
-Click [here](https://go.gov.sg/breakthrough-series) to learn more about this programme. 
+Click [here](https://go.gov.sg/breakthrough-series){: .has-text-ruby} to learn more about this programme. 
 
-## **Learning to Learn**
+## **Learning to Learn**{: .has-text-ruby}
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-02.png)
 We learn new things every day, but committing them to memory and putting them into practice seems to be an uphill task at times, even when there is a lot at stake. Pick up skills and strategies to help you learn better, faster, and for longer.  
 
@@ -69,13 +69,12 @@ This talk is recommended for business owners, aspiring entrepreneurs, and anyone
 
 Topics covered:
 
-•	Identifying Information Needs
-
-•	Business Information Resources used for Market Intelligence
+- Identifying Information Needs
+- Business Information Resources used for Market Intelligence
 
 Click here to learn more about this programme.
 
-## **Research for Starting, Managing and Growing your Business**
+## **Research for Starting, Managing and Growing your Business**{: .has-text-ruby}
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-05.png)
 
 Learn how to conduct effective business and market research to meet your information needs. This workshop aims to build your business research competence to retrieve information related to market intelligence such as company reports, country profile analyses and up-to-date industry trends. 
@@ -84,7 +83,7 @@ This hands-on workshop is recommended for business owners, aspiring entrepreneur
 
 Topics covered:
 
-•	Library databases and web resources used in Business Research
+- Library databases and web resources used in Business Research
 
 Click here to learn more about this programme.
 
