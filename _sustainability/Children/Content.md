@@ -11,7 +11,5 @@ Use these resources to introduce your child to sustainability and caring for the
 Articles that show us interesting ways to live sustainably.
 
 <h5><b>Gardening for Kids | Stay Curious with Your Child (coming in Dec 2021)</b></h5>
-Children and parents can bond over this <h5><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child">Stay Curious with Your Child</a></h5>
-activity on gardening, accompanied by recommended reads.
-
-<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>
+Children and parents can bond over this Stay Curious with Your Child activity on gardening, accompanied by recommended reads.
+<h5><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child">Stay Curious with Your Child</a></h5>
