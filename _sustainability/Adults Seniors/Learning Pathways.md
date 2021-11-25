@@ -142,6 +142,9 @@ Suitable for participants aged 15 years and above. </td>
   </table>
 </div>
  
+ [Back to top](#main-content){: .has-text-jade}
+{: .has-text-right .margin--top--xl}
+ 
 <h3 class="has-text-jade"><b>City in Nature</b></h3>
 City in nature is one of the five key pillars in Singapore’s Green Plan. We explore the importance of green spaces in the city, efforts taken by Singapore to go low carbon and how to incorporate nature and reduce emissions in your life. 
 <div class="horizontal-scroll margin--bottom--lg">
@@ -258,8 +261,6 @@ Botanical Beauty: 80 Essential Recipes for Natural Space Products by Aubre Andru
   </table>
 </div>
 
-
-<a href="#main-content" target="_blank" class="has-text-jade">[Back to Top]</a>
 
 [Back to top](#main-content){: .has-text-jade}
 {: .has-text-right .margin--top--xl}
