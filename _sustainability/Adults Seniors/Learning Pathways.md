@@ -6,6 +6,8 @@ third_nav_title: Adults & Seniors
 ---
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
+We start with getting to know about the Green Economy, and renewing our appreciation of a City In Nature.
+
 <h3 class="has-text-jade"><b>Understanding the Green Economy</b></h3>
 The Green Economy is one of the five key pillars in Singapore’s Green Plan. We break it down to its key concepts from circulatory to going low-carbon with practical skills you can learn.
 <div class="horizontal-scroll margin--bottom--lg">
@@ -253,8 +255,8 @@ Botanical Beauty: 80 Essential Recipes for Natural Space Products by Aubre Andru
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="#" target="_blank" class="has-text-jade"><b>LearnX Digital</b><br>MakeIT</a></td>
-        <td style="width: 40%;">MakeIT aims to introduce Making and Innovayion to the general public by way of areas, including Making with upcycling in mind.Topics available include repair and home-hacks and lofi prototyping<br></td>
-        <td style="width: 20%;">TBC</td>
+        <td style="width: 40%;">MakeIT aims to introduce Making and Innovayion to the general public by way of areas, including Making with upcycling in mind. Topics available include repair and home-hacks and lofi prototyping<br></td>
+        <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
   </tbody>
