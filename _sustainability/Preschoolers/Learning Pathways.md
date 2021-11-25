@@ -95,7 +95,7 @@ What can we do to protect the environment around us? Do you know the different t
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" target="_blank" class="has-text-jade"><b> Think Like a coder: Session 2: Powerful Patterns</a></td>
+        <td style="width: 20%;"><a href="#" target="_blank" class="has-text-jade"><b>Think Like a coder: Session 2: Powerful Patterns</a></td>
         <td style="width: 40%;"> In this screen free coding workshop, children learns about patterns around them and how that helps in creating loops. <br></td>
         <td style="width: 20%;">12 Dec 2021<br>2pm – 2.30pm</td>
         <td style="width: 20%;">Zoom</td>
@@ -123,6 +123,3 @@ Participants will have a chance to experience Bee bot, a programmable robot in t
   </tbody>
   </table>
 </div>
-</div>
-
-
