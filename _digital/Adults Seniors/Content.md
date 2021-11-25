@@ -422,12 +422,12 @@ Tom Ang (2020), <i>Digital Photographer's Handbook</i>, Dorling Kindersley.
 <a href="https://share.libbyapp.com/title/5167404"><img src="/images/Digital/Seniors/DigitalPhotographersHandbook.jpg" style="width:300px; text-align:left;" alt="book cover for digital photographer’s handbook"></a>
 <p>Whether you are a beginner or an experienced photographer, learn useful tips on how you can capture the best shots, enhance a photo or use the latest technology and equipment.</p>
 <p><a href="https://share.libbyapp.com/title/5167404">Borrow the eBook here</a>. </p>
-Retrieved from Libby (myLibraryid is required to access the eBook).
+Retrieved from Libby (myLibraryid is required to access the eBook)
 
-<h5>2.The Big Book of Maker Skills: Tools &amp; Techniques for Building Great Tech Projects</h5>
-Hackett, Chris (2020), <i>The Big Book of Maker Skills: Tools &amp; Techniques for Building Great Tech Projects</i>, Weldon Owen.
+h5>2.The Big Book of Maker Skills: Tools & Techniques for Building Great Tech Projects</h5>
+Hackett, Chris (2020), <i>The Big Book of Maker Skills: Tools & Techniques for Building Great Tech Projects</i>, Weldon Owen.
 <p>
-<a href="https://share.libbyapp.com/title/3136238"><img src="/images/The Big Book of Maker Skills.jpg" style="width:300px; text-align:left;" alt="book cover for The Big Book of Maker Skills: Tools &amp; Techniques for Building Great Tech Projects"></a>
+<a href="https://share.libbyapp.com/title/3136238"><img src="/images/Digital/Seniors/TheBigBookofMakerSkills.jpg" style="width:300px; text-align:left;" alt="book cover for The Big Book of Maker Skills: Tools & Techniques for Building Great Tech Projects"></a>
 </p><p>Covering topics like 3D printing and laser-cutting, learn more about the essential techniques that can help bring your DIY projects to the next level.</p>
 <p><a href="https://share.libbyapp.com/title/3136238">Borrow the eBook here</a>. </p>
 Retrieved from Libby (myLibraryid is required to access the eBook).
@@ -435,8 +435,8 @@ Retrieved from Libby (myLibraryid is required to access the eBook).
 <h5>3.The Big Book of Small Python Projects: 81 Easy Practice Programs</h5>
 Sweigart, Al (2021), <i>The big book of small Python projects: 81 easy practice programs</i>, No Starch Press
 <br>
-<a href="https://share.libbyapp.com/title/5665661"><img src="/images/The Big Book of Small Python Projects.jpg" style="width:300px; text-align:left;" alt="book cover for The Big Book of Small Python Projects: 81 Easy Practice Programs"></a>
-<p>Learn how to create fun Python projects such as digital art, games and animations easily using simple text-based programmes.</p><p><a href="https://share.libbyapp.com/title/5665661">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+<a href="https://share.libbyapp.com/title/5665661"><img src="/images/Digital/Seniors/TheBigBookofSmallPythonProjects.jpg" style="width:300px; text-align:left;" alt="book cover for The Big Book of Small Python Projects: 81 Easy Practice Programs"></a>
+<p>Learn how to create fun Python projects such as digital art, games and animations easily using simple text-based programmes.</p><p><a href="https://share.libbyapp.com/title/5665661">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook)
 
 <h4>Digital Programmes in NLB</h4>
 <p>Digital talks and workshops are always happening in the library. Browse through <a href="https://go.gov.sg/toyl">https://go.gov.sg/toyl</a> to find the right one for you!
