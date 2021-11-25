@@ -116,7 +116,7 @@ Unpack the steps designers take in the innovation process, and find out how Desi
   </div>
   <div class="col is-three-fifths">
     <p><b>IDEO-U | What is Design Thinking?</b><br>
-Catch a glimpse of how Design Thinking has human interest and wellbeing at its core, and learn how the potential for creative problem-solving lies in every individual. </p>
+Catch a glimpse of how Design Thinking has human interest and wellbeing at its core, and learn how the potential for creative problem-solving lies in every individual.</p>
     <small>Source: IDEO-U | What is Design Thinking? (2018, December 6). IDEO U. Retrieved 2021, October 12.</small>
   </div>
 </div>
@@ -148,7 +148,7 @@ Think of learning pathways as appetizers. Get started on your learning journey w
     <tr>
       <td>
         <h2>Did you know...</h2>
-        <p>Cyber wellness is a key focus of the Character and Citizenship Education (CCE) curriculum in Singapore schools <sup><a href="#footnote-one">1</a></sup>. </p>
+        <p>Cyber wellness is a key focus of the Character and Citizenship Education (CCE) curriculum in Singapore schools <sup><a href="#footnote-one">1</a></sup>.</p>
         <p>Digital burnout is now classified by the World Health Organisation (WHO) as an “occupational phenomenon” that affect people’s health <sup><a href="#footnote-two">2</a></sup>.</p>
     </td>
 	</tr>
@@ -164,7 +164,7 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 Source: <a href="https://www.youtube.com/embed/JvDGGceA-0A" target="_blank"> Lessons on Digital Citizenship From Charlie Brown</a> (2016, May 26). <i>TEDx Talks.</i> Retrieved 2021, October 17
 
 <h5>2. It’s not you. Phones are designed to be addicting. </h5> 
-<p>In this exciting video, explore the design elements making it so difficult for us to put down our phones and learn some ways in which you can take control of your phone usage. </p>
+<p>In this exciting video, explore the design elements making it so difficult for us to put down our phones and learn some ways in which you can take control of your phone usage.</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NUMa0QkPzns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
@@ -172,7 +172,7 @@ Source: <a href="https://www.youtube.com/embed/NUMa0QkPzns" target="_blank"> It�
 
 <h4>Podcast</h4>
 <h5>3. 982: Improving Digital Wellness with Tommy Sobel. </h5> 
-<p>Find out more about establishing a healthier relationship with technology by hearing from Digital Habits Coach Tommy Sobel. </p>
+<p>Find out more about establishing a healthier relationship with technology by hearing from Digital Habits Coach Tommy Sobel.</p>
 Source: <a href="https://mindpumppodcast.com/982-improving-digital-wellness-with-tommy-sobel/" target="_blank"> 982: Improving Digital Wellness with Tommy Sobel. </a> <i> Mind Pump Media.</i> Retrieved 2021, October 17
 
 <h4> Audio Books &amp; E-books</h4>
@@ -181,7 +181,7 @@ Mary Aiken (2016), <i>The Cyber Effect</i>, Random House Publishing Group.
 <br>
 <a href="https://share.libbyapp.com/title/2621145"><img src="images/digital/adults/cyberwellness/TheCyberEffect.jpg" style="width:300px; text-align:left;" alt="book cover for The Cyber Effect"></a>
 <p>Unpack how cyberspace is shaping society by diving into research and case studies that uncover how the internet is affecting and altering various facets of our lives.</p>
-<p><a href="https://share.libbyapp.com/title/2621145">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/2621145">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 
@@ -190,7 +190,7 @@ Andrew Weiss (2020), <i> The Dark Side of Our Digital World </i>, Rowman &amp; L
 <br>
 <a href="https://share.libbyapp.com/title/5353717"><img src="images/digital/adults/cyberwellness/TheDarkSideofOurDigitalWorld.jpg" style="width:300px; text-align:left;" alt="book cover for The Dark Side of Our Digital World"></a>
 <p>Explore the problems emerging as a result of an increasingly digitalised world and find out the potential paths we can take to address them.</p>
-<p><a href="https://share.libbyapp.com/title/5353717">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/5353717">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <h5>3. Digital Minimalism </h5>
@@ -198,7 +198,7 @@ Cal Newport (2019), <i> Digital Minimalism </i>, Penguin Publishing Group.
 <br>
 <a href="https://share.libbyapp.com/title/4022749"><img src="images/digital/adults/cyberwellness/DigitalMinimalism.jpg" style="width:300px; text-align:left;" alt="book cover for Digital Minimalism"></a>
 <p>The concept of digital minimalism has been gaining traction over the years as we find ways to adapt to this fast-paced digital world. Unpack this philosophy and find out how you can incorporate some useful strategies into your everyday life.</p>
-<p><a href="https://share.libbyapp.com/title/4022749">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/4022749">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <h4>Programmes</h4>
@@ -225,7 +225,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
   <tr>
 		<td>
 			<h2>Did you know...</h2>
-			<p>Cybercrime cases alone accounted for a significant 43% of total crime in Singapore in 2020 <sup><a href="#footnote-one">1</a></sup>. </p>
+			<p>Cybercrime cases alone accounted for a significant 43% of total crime in Singapore in 2020 <sup><a href="#footnote-one">1</a></sup>.</p>
 			<p>Cybercrime is estimated to cost a whopping USD $6 trillion globally in 2021 <sup><a href="#footnote-two">2</a></sup>.</p>
 		</td>
 	</tr>
@@ -234,14 +234,14 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 	
 <h4>Videos</h4>
 <h5>1. Where is cybercrime really coming from? | Caleb Barlow </h5>
-<p>Understand the severity of cybercrime and explore the possibility of a collaborative, collective solution against it. </p>
+<p>Understand the severity of cybercrime and explore the possibility of a collaborative, collective solution against it.</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FqrLUtIFVjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 Source: <a href="https://www.youtube.com/embed/FqrLUtIFVjs" target="_blank"> Where is cybercrime really coming from? </a> (2017, May 16). <i>TED.</i> Retrieved 2021, October 14
 
 <h5>2. Are You Being Hacked? Meet The Cybersecurity Heroes Fighting The Deep Dark Web | On The Red Dot </h5> 
-<p>In this insightful documentary, delve into the depths of the dark web and learn more about the technology being used in the fight against cybercrime. </p>
+<p>In this insightful documentary, delve into the depths of the dark web and learn more about the technology being used in the fight against cybercrime.</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEs1hBghFEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
@@ -249,7 +249,7 @@ Source: <a href="https://www.youtube.com/embed/kEs1hBghFEA" target="_blank"> Are
 
 <h4>Podcast</h4>
 <h5>3. Episode One: Roy Gets Hacked by an Evil Clown | What the Hack with Adam Levin </h5> 
-<p>In this introductory podcast episode, learn how hackers embed malicious software in words, graphics, or header advertisements, and find out how you can stay safe on various online platforms and by practising good password habits. </p>
+<p>In this introductory podcast episode, learn how hackers embed malicious software in words, graphics, or header advertisements, and find out how you can stay safe on various online platforms and by practising good password habits.</p>
 Source: <a href="https://adamlevin.com/2021/07/12/new-podcast-what-the-hack-with-adam-levin-and-friends/" target="_blank"> Episode One: Roy Gets Hacked by an Evil Clown | What the Hack with Adam Levin. </a> <i> Adam Levin.</i> Retrieved 2021, October 16
 
 <h4> Audio Books &amp; E-books</h4>
@@ -258,7 +258,7 @@ Andy Greenberg (2019), <i> Sandworm: A New Era of Cyberwar and the Hunt for the 
 <br>
 <a href="https://share.libbyapp.com/title/4715580"><img src="images/digital/adults/cybercrime/Sandworm.jpg" style="width:300px; text-align:left;" alt="book cover for Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin’s Most Dangerous Hackers"></a>
 <p>Unpack how cyberspace is shaping society by diving into research and case studies that uncover how the internet is affecting and altering various facets of our lives.</p>
-<p><a href="https://share.libbyapp.com/title/4715580">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/4715580">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <h5>2. Net Force: Dark Web </h5>
@@ -266,7 +266,7 @@ Jerome Preisler (2019), <i> Net Force: Dark Web </i>, Hanover Square Press.
 <br>
 <a href="https://share.libbyapp.com/title/4659451"><img src="images/digital/adults/cybercrime/NetForce.jpg" style="width:300px; text-align:left;" alt="book cover for Net Force: Dark Web"></a>
 <p>A reboot of the original series by Tom Clancy and Steve Pieczenik, this thrilling crime fiction novel explores the fight for national security in the invisible world of cyberspace, highlighting the stakes and the players involved.</p>
-<p><a href="https://share.libbyapp.com/title/4659451">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/4659451">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <h5>3. The Art of Invisibility </h5>
@@ -275,7 +275,7 @@ Kevin Mitnick (2019), <i> The Art of Invisibility </i>, Little, Brown and Compan
 <a href="https://share.libbyapp.com/title/2763965"><img src="images/digital/adults/cybercrime/TheArtofInvisibility.jpg
 " style="width:300px; text-align:left;" alt="book cover for Digital Minimalism"></a>
 <p>In this guide written by a renowned computer security expert, learn different tactics and strategies you can adopt to protect your privacy and leave no digital trace in today’s modern world.</p>
-<p><a href="https://share.libbyapp.com/title/2763965">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/2763965">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <h4>Programmes</h4>
@@ -296,13 +296,13 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 <h1>Learning Package: Design Thinking</h1>
 <h2>Introduction</h2>
 <p>From the computer mouse to the smart phone, many technologies that are part and parcel of our day-to-day have come about because of Design Thinking, an iterative process that aims to understand users’ needs and come up with effective solutions to the problems they face. A deeply empathetic approach focused on prototyping and testing, Design Thinking is a tool in creative problem-solving that is not only useful in the industry, but also in our everyday lives. 
-</p><p>To unpack this concept of Design Thinking and understand how it is deeply embedded in our world today, check out the following resources that we have curated just for you! </p>
+</p><p>To unpack this concept of Design Thinking and understand how it is deeply embedded in our world today, check out the following resources that we have curated just for you!</p>
 <table border="1">
 	<tbody>
     <tr>
       <td>
         <h2>Did you know...</h2>
-        <p>Companies that embrace the Design Thinking process include Lego, IKEA, Starbucks, Mercedes-Benz, and Apple <sup><a href="#footnote-one">1</a></sup>. </p>
+        <p>Companies that embrace the Design Thinking process include Lego, IKEA, Starbucks, Mercedes-Benz, and Apple <sup><a href="#footnote-one">1</a></sup>.</p>
         <p>Singapore, itself, is shaped and reshaped by Design Thinking <sup><a href="#footnote-two">2</a></sup>.</p>
       </td>
     </tr>
@@ -311,7 +311,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 	
 <h4>Videos</h4>
 <h5>1. What is Design Thinking? An Overview </h5>
-<p>Learn about the step-by-step approach to Design Thinking and understand how the various stages come together in the process of innovation. </p>
+<p>Learn about the step-by-step approach to Design Thinking and understand how the various stages come together in the process of innovation.</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gHGN6hs2gZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
@@ -319,7 +319,7 @@ Source: <a href="https://www.youtube.com/embed/ gHGN6hs2gZY" target="_blank"> Wh
 
 <h4>Podcast</h4>
 <h5>2. Design Thinking and Innovation </h5> 
-<p>Dive deep into the tenets of Design Thinking, learn how they are applied, and explore the key elements in ensuring the adoption of this mindset in our world today. </p>
+<p>Dive deep into the tenets of Design Thinking, learn how they are applied, and explore the key elements in ensuring the adoption of this mindset in our world today.</p>
 Source: <a href="https://www.ipi-singapore.org/podcasts/design-thinking-and-innovation.html" target="_blank"> Design Thinking and Innovation </a> <i> Innovation Partner for Impact.</i> Retrieved 2021, October 13
 
 <h4> Audio Books &amp; E-books</h4>
@@ -329,7 +329,7 @@ Michael Lewrick, Patrick Link, Larry Leifer (2018),<i> The Design Thinking Playb
 <a href="https://share.libbyapp.com/title/3597207"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover for The Design Thinking Playbook"></a>
 <p>Discover effective tools and practices that you can adopt in this guide by exploring real-life examples of Design Thinking being applied across different sectors. 
 </p>
-<p><a href="https://share.libbyapp.com/title/3597207">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/3597207">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 
@@ -338,7 +338,7 @@ Tim Brown (2019), <i> Change by Design, </i>, Harper Business.
 <br>
 <a href="https://share.libbyapp.com/title/4056857"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover for Change by Design"></a>
 <p>Demystify the idea that innovation is achieved overnight and unpack the in-depth, transformative and fulfilling process of Design Thinking.</p>
-<p><a href="https://share.libbyapp.com/title/4056857">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/4056857">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <h5>3. Inclusive Design for a Digital World </h5>
@@ -346,7 +346,7 @@ Regine M. Gilbert (2019), <i> Inclusive Design for a Digital World: Designing wi
 <br>
 <a href="https://share.libbyapp.com/title/5200372"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover Inclusive Design for a Digital World: Designing with Accessibility in Mind"></a>
 <p>When it comes to design in our digital, modern world, accessibility is a priority that creators have to consider. Explore the reasons why this is so and learn how you can ensure inclusive design for various users.</p>
-<p><a href="https://share.libbyapp.com/title/5200372">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/5200372">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <h4>Programmes</h4>
@@ -356,30 +356,30 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <h4>References</h4>
 <ol>
-<li><a id="footnote-one"> Five Companies, Five Rules of Design (2014, November 13). Designorate.</a>. Retrieved 2021, October 19 from <a href="https://www.designorate.com/five-companies-five-rules-of-design/.">https://www.designorate.com/five-companies-five-rules-of-design/.</a></li>
-<li><a id="footnote-two"> How is Design-Thinking reshaping Singapore? GovInsider.</a>. Retrieved 2021, October 19 from <a href="https://govinsider.asia/innovation/how-is-design-thinking-reshaping-singapore/.">https://govinsider.asia/innovation/how-is-design-thinking-reshaping-singapore/.</a></li>
+<li><span id="footnote-one"> Five Companies, Five Rules of Design (2014, November 13). Designorate.</span>. Retrieved 2021, October 19 from <a href="https://www.designorate.com/five-companies-five-rules-of-design/.">https://www.designorate.com/five-companies-five-rules-of-design/.</a></li>
+<li><span id="footnote-two"> How is Design-Thinking reshaping Singapore? GovInsider.</span>. Retrieved 2021, October 19 from <a href="https://govinsider.asia/innovation/how-is-design-thinking-reshaping-singapore/.">https://govinsider.asia/innovation/how-is-design-thinking-reshaping-singapore/.</a></li>
 </ol>
 
 
-	<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>
 	
 <h1>Learning Package: Digital Creation</h1>
 <h2>Introduction</h2>
 <p>What is digital creation? To put it simply, digital creation is the process of creating a work, a product or a tool using digital technology. Digital creation can range from simple actions like snapping a photo with your phone or writing a blog post, to more advanced ones like creating digital art and engaging in digital making such as 3D printing and digital cutting.
 To help you understand and learn more about digital creations, do check out the resources that we have compiled here.
 <table border="1">
-	<tbody><tr>
+	<tbody>
+  <tr>
 		<td>
 			<h2>Did you know...</h2>
 			<ul>
 				<li>The first digital image was created in 1957 by Russell Kirsch when he scanned a photograph of his three-month-old son using an early computer.<sup><a href="#footnote-one">1</a></sup></li>
 				<li>A digital artwork titled “Everydays – The First 5000 Days” by digital artist Beeple was sold at a record high amount of US$69 million (S$93 million).<sup><a href="#footnote-two">2</a></sup></li>
-				
 			</ul>
-			
 		</td>
 	</tr>
-	</tbody></table>
+	</tbody>
+</table>
 	
 </p><h4>Videos</h4>
 <h5>1. Mastering Mobile Photography with Chris Orwig | Adobe Creative Cloud</h5>
@@ -408,15 +408,14 @@ Tom Ang (2020), <i>Digital Photographer's Handbook</i>, Dorling Kindersley.
 <br>
 <a href="https://share.libbyapp.com/title/5167404"><img src="/images/Digital/Seniors/DigitalPhotographersHandbook.jpg" style="width:300px; text-align:left;" alt="book cover for digital photographer’s handbook"></a>
 <p>Whether you are a beginner or an experienced photographer, learn useful tips on how you can capture the best shots, enhance a photo or use the latest technology and equipment.</p>
-<p><a href="https://share.libbyapp.com/title/5167404">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/5167404">Borrow the eBook here</a>.</p>
 Retrieved from Libby (myLibraryid is required to access the eBook)
 
 <h5>2.The Big Book of Maker Skills: Tools & Techniques for Building Great Tech Projects</h5>
 Hackett, Chris (2020), <i>The Big Book of Maker Skills: Tools & Techniques for Building Great Tech Projects</i>, Weldon Owen.
-<p>
-<a href="https://share.libbyapp.com/title/3136238"><img src="/images/Digital/Seniors/TheBigBookofMakerSkills.jpg" style="width:300px; text-align:left;" alt="book cover for The Big Book of Maker Skills: Tools & Techniques for Building Great Tech Projects"></a>
-</p><p>Covering topics like 3D printing and laser-cutting, learn more about the essential techniques that can help bring your DIY projects to the next level.</p>
-<p><a href="https://share.libbyapp.com/title/3136238">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/3136238"><img src="/images/Digital/Seniors/TheBigBookofMakerSkills.jpg" style="width:300px; text-align:left;" alt="book cover for The Big Book of Maker Skills: Tools & Techniques for Building Great Tech Projects"></a></p>
+<p>Covering topics like 3D printing and laser-cutting, learn more about the essential techniques that can help bring your DIY projects to the next level.</p>
+<p><a href="https://share.libbyapp.com/title/3136238">Borrow the eBook here</a>.</p>
 Retrieved from Libby (myLibraryid is required to access the eBook).
 	
 <h5>3.The Big Book of Small Python Projects: 81 Easy Practice Programs</h5>
@@ -426,8 +425,7 @@ Sweigart, Al (2021), <i>The big book of small Python projects: 81 easy practice 
 <p>Learn how to create fun Python projects such as digital art, games and animations easily using simple text-based programmes.</p><p><a href="https://share.libbyapp.com/title/5665661">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook)
 
 <h4>Digital Programmes in NLB</h4>
-<p>Digital talks and workshops are always happening in the library. Browse through <a href="https://go.gov.sg/toyl">https://go.gov.sg/toyl</a> to find the right one for you!
-</p>
+<p>Digital talks and workshops are always happening in the library. Browse through <a href="https://go.gov.sg/toyl">https://go.gov.sg/toyl</a> to find the right one for you!</p>
 MakeIT X TOYL – In this programme series, learn and embrace new ways on making and creating something using digital fabrication technologies.
 
 The Video Creators Club – Suitable for beginners interested in nurturing their videography skills, let our volunteer facilitator Mr Philip Au take you through different video-based projects and assignments!
@@ -492,7 +490,7 @@ Melody Karle (2020), <i>A Social Media Survival Guide: How to Use the Most Popul
 <br>
 <a href="https://share.libbyapp.com/title/5104452"><img src="/images/Digital/Seniors/ASocialMediaSurvivalGuide.jpg" style="width:300px; text-align:left;" alt="book cover for a social media survival guide: how to use the most popular platforms and protect your privacy"></a>
 <p>With a myriad of rules and ways to communicate, figuring out different types of social media platforms can be a mind-boggling task for the regular person. Follow author Melody Karle as she shows you how to navigate the most popular networking sites – while still protecting your privacy.</p>
-<p><a href="https://share.libbyapp.com/title/5104452">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/5104452">Borrow the eBook here</a>.</p>
 <body>Retrieved from Libby (myLibraryid is required to access the eBook).</body>
 
 <h5>2. Instagram Rules: The Essential Guide to Building Brands, Business and Community</h5>
@@ -500,7 +498,7 @@ Jodie Cook (2020), <i>Instagram Rules: The Essential Guide to Building Brands, B
 <p>
 <a href="https://share.libbyapp.com/title/5986423"><img src="/images/Digital/Seniors/InstagramRules.jpg" style="width:300px; text-align:left;" alt="book cover for instagram rules: the essential guide to building brands, business and community"></a></p>
 <p>Winner of the 2021 Business Book Awards, Social media expert Jodie Cook provides you with 125 bite-sized rules to easily and efficiently optimise your profile and improve your engagement.</p>
-<p><a href="https://share.libbyapp.com/title/5986423">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/5986423">Borrow the eBook here</a>.</p>
 Retrieved from Libby (myLibraryid is required to access the eBook).
 	
 <h5>3. So You Want to Start a Podcast: Finding Your Voice, Telling Your Story, and Building a Community That Will Listen</h5>
@@ -578,7 +576,7 @@ Gillian Andrews (2020), <i>Keep Calm and Log On</i>, The MIT Press.
 <br>
 <a href="https://share.libbyapp.com/title/5413443"><img src="/images/Digital/Seniors/KeepCalmandLogOn.jpg" style="width:300px; text-align:left;" alt="book cover for keep calm and log on"></a>
 <p>Written for the ordinary person, find out tips on how you can shop, share and connect online while keeping yourself safe from fake news, personal data leaks and even, Internet addiction.</p>
-<p><a href="https://share.libbyapp.com/title/5413443">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/5413443">Borrow the eBook here</a>.</p>
 <body>Retrieved from Libby (myLibraryid is required to access the eBook).</body>
 
 <h5>2. Android For Dummies</h5>
@@ -587,7 +585,7 @@ Dan Gookin (2020), <i>Android For Dummies</i>, Wiley.
 <a href="https://share.libbyapp.com/title/5281904"><img src="/images/Digital/Seniors/AndroidForDummies.jpg " style="width:300px; text-align:left;" alt="book cover for android for dummies"></a></p>
 <p>Regardless of whether you are a new or seasoned Android user, learn more about it in this title as the author takes you through this comprehensive guide. 
 </p>
-<p><a href="https://share.libbyapp.com/title/5281904">Borrow the eBook here</a>. </p>
+<p><a href="https://share.libbyapp.com/title/5281904">Borrow the eBook here</a>.</p>
 Retrieved from Libby (myLibraryid is required to access the eBook).
 	
 <h5>3. Screen Time</h5>
