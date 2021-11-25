@@ -12,7 +12,7 @@ What can we do to protect the environment around us? Do you know the different t
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Recommended Collections</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -54,7 +54,7 @@ What can we do to protect the environment around us? Do you know the different t
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Learn With Expert Speakers or Explore Through Art</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Explore Programmes</th>
       </tr>
     </thead>
     <tbody>
@@ -89,7 +89,7 @@ What can we do to protect the environment around us? Do you know the different t
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Learn more about Sustainability in other aspects</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Other Learning Focus Areas</th>
       </tr>
     </thead>
     <tbody>
