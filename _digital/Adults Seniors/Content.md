@@ -43,7 +43,12 @@ In this video, catch a glimpse of how different people relate to technology in t
 
 <a href="https://www.globalwellbeinginitiative.org/insights/policy-implications/a-world-of-wellbeing-podcast-digital-wellbeing">A World of Wellbeing Podcast: Digital Wellbeing</a></h5>
 <p>Explore the concept of digital wellbeing, how the COVID-19 pandemic has altered our digital lives, and what constitutes intentional and considerate usage of technology. </p>
-    <small>A World of Wellbeing Podcast: Digital Wellbeing (2021, April 19). Global Wellbeing Podcast. Retrieved 2021, October 12.</small>
+    <small>A World of Wellbeing Podcast: Digital Wellbeing (2021, April 19). Global Wellbeing Podcast. Retrieved 2021, October 12.</sma
+	
+	<h4>Podcast</h4>
+<h5><a href="https://www.globalwellbeinginitiative.org/insights/policy-implications/a-world-of-wellbeing-podcast-digital-wellbeing">A World of Wellbeing Podcast: Digital Wellbeing</a></h5>
+<p>Explore the concept of digital wellbeing, how the COVID-19 pandemic has altered our digital lives, and what constitutes intentional and considerate usage of technology.</p>
+
   </div>
 </div>
 
