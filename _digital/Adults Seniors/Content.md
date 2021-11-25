@@ -496,7 +496,7 @@ Source: <a href="https://www.youtube.com/watch?v=NRUbaAPbmVA" target="_blank"> I
 <h5>1.Digital Photographer’s Handbook</h5>
 Tom Ang (2020), <i>Digital Photographer's Handbook</i>, Dorling Kindersley.
 <br>
-<a href="https://share.libbyapp.com/title/5167404"><img src="/images/DigitalPhotographersHandbook.jpg" style="width:300px; text-align:left;" alt="book cover for digital photographer’s handbook"></a>
+<a href="https://share.libbyapp.com/title/5167404"><img src="/images/Digital/Seniors/DigitalPhotographersHandbook.jpg" style="width:300px; text-align:left;" alt="book cover for digital photographer’s handbook"></a>
 <p>Whether you are a beginner or an experienced photographer, learn useful tips on how you can capture the best shots, enhance a photo or use the latest technology and equipment.</p>
 <p><a href="https://share.libbyapp.com/title/5167404">Borrow the eBook here</a>. </p>
 Retrieved from Libby (myLibraryid is required to access the eBook).
