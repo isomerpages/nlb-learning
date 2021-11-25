@@ -2,7 +2,7 @@ collections:
   communities:
     output: true
     order:
-      - Explore LearnX Communities.md
+      - What is a LearnX Communities?.md
       - Join a LearnX Community/.keep
       - Join a LearnX Community/Overview.md
       - Join a LearnX Community/Careers Communities.md
