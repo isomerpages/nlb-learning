@@ -73,5 +73,4 @@ This series is specially targeted at seniors who want to more ideas on how they 
 
 Click here for the latest programme listings.
 
-[Back to top](#main-content){: .has-text-jade}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>

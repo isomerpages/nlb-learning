@@ -246,7 +246,6 @@ Richard N. Bolles & Katharine Brooks (2020), <i>What Color Is Your Parachute? 20
 <p>On top of guiding you on resumes and interviews, this classic practical manual also helps you discover what types of careers best match your values, strengths and passions.</p><p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&l=JHT3">Borrow the eBook here</a>.</p>
 <body>Retrieved from Libby (a <a href=”https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/”>myLibrary username</a> is required to access the eBook).</body>
 
-
 <h4>Programmes</h4>
 <p> Want to attend workshops on resume-writing and interviewing skills? Or are you hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at .<a href="https://go.gov.sg/get-professional-series"> go.gov.sg/get-professional-series</a>.
 </p>

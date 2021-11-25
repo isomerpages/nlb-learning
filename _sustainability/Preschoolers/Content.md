@@ -71,5 +71,4 @@ Articles and activities that will teach and inspire your child to live sustainab
 <h4><a id="lp-farming" href="/files/Sustainability-Urban-Farming-Vertical-Farming-Early-Read.pdf" class="has-text-jade" target="_blank"><b>Urban Farming</b></a></h4>
 <p>When you think of a farm, you might be picturing a big field with lots of fruits or vegetables being grown. But did you know there are also farms in our city, including one on Orchard Road? Learn more about these urban farms and why they could be Singapore’s answer to securing a stable food supply for us all.</p>
 
-[Back to top](#main-content){: .has-text-jade}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>

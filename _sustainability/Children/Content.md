@@ -14,6 +14,4 @@ Articles that show us interesting ways to live sustainably.
 Children and parents can bond over this <h5><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child">Stay Curious with Your Child</a></h5>
 activity on gardening, accompanied by recommended reads.
 
-
-[Back to top](#main-content){: .has-text-jade}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>

@@ -12,5 +12,4 @@ A series of talks, workshops, publications on Sustainability themes for children
 
 Click [here](https://go.gov.sg/cckpl) for the latest programme listings.
 
-[Back to top](#main-content){: .has-text-jade}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>

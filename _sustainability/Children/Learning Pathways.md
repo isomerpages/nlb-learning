@@ -86,5 +86,4 @@ Go green with your child towards an eco-friendly future together.
   </table>
 </div>
 
-[Back to top](#main-content){: .has-text-indigo}
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>

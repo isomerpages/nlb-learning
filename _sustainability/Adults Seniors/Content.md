@@ -247,4 +247,4 @@ Lily Fulop (2020), <i>Wear, Repair, Repurpose : A Maker’s Guide to Mending and
           	<li><a id="footnote-two"> The true cost of demand for cheap clothes, to you and the environment. </a>(2021). <i>CNA</i>. Retrieved 2021, September 15 from <a href="https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706">https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706</a> </li>
 </ol>
 
-<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>

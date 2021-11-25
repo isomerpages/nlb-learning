@@ -4,22 +4,20 @@ permalink: /digital/preschoolers/programmes
 description: ""
 third_nav_title: Preschoolers
 ---
-Sneak a bit of activities that builds computational thinking your child will get to have a holistic learning experience that is experiential and interactive!
+Introduce your child to activities that are experiential and interactive to nurture computational thinking from a young age.
 
 ## **Discovertech**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-Preschooler-01.png)
 
-Help future-proof your child with this series of introductory workshops and talks focusing on preparing your child to navigate in the digital environment! Suitable for children and parents of children 4-6 years old.   
+Future-proof your child with this series of introductory workshops and talks that will prepare your child to navigate the digital environment. This series is suitable for children aged 4-6 years old and parents.
  
-Some topics that will be covered will include: 
+Some topics that will be covered include:
 
-•	Helping children adopt positive digital habits and/or managing screen related issues 
+- Helping children adopt positive digital habits and/or managing screen related issues 
+- Emerging technologies and it’s practical applications in learning 
+- Developing computational skills in young children 
 
-•	Emerging technologies and it’s practical applications in learning 
-
-•	Developing computational skills in young children 
-
-Click here for the latest programme listings.
+[Click here](#){: .has-text-indigo} for the latest programme listings.
 
 [Back to top](#main-content){: .has-text-indigo}
 {: .has-text-right .margin--top--xl}
