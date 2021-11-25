@@ -75,7 +75,7 @@ Check out these resources to help you jet-start your journey to build your own b
   </div>
   <div class="col is-three-fifths">
     <p class="has-text-ruby"><b>When to go from employee to entrepreneur | CNBC Make It (3 mins)</b></p>
-    Hear from three entrepreneurs on what motivated them to quit their day jobs and advice they have for people who want to start their own business.<br>
+<p>Hear from three entrepreneurs on what motivated them to quit their day jobs and advice they have for people who want to start their own business.</p>
 <small>Source: When to go from employee to entrepreneur | CNBC Make It (2019, Jan 30). CNBC International. Retrieved 2021, October 19.</small>
   </div>
 </div>
