@@ -28,7 +28,7 @@ Check out our **playlists** for collections of short videos or selected podcasts
 <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
       <a href="#playlist-happy">
-        <span>Playlist:<br>&#128513 Happy at Work &#128188</span>
+        <span>Playlist:<br>Happy at Work</span>
       </a>
     </div>
   </div>
@@ -142,7 +142,7 @@ We often feel overwhelmed at work because we don’t know how to reject others, 
   </div>
 </div>
  
-<h5 class="has-text-ruby margin--bottom--lg"><a id="playlist-job"><b>Playlist: Chicken Soup for the Jobseeker’s Soul</b></a></h5>
+<a id="playlist-job"><h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: Chicken Soup for the Jobseeker’s Soul</b></h5></a>
 Reduce your nervousness and frustration with your job search with these videos. Discover the top questions that local interviewers like to ask, how to make your LinkedIn profile a honey trap, and how to get into the optimal mindset while you are on the hunt. 
 <br>
 <div class="row is-multiline margin--bottom--lg">
