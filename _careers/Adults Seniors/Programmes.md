@@ -49,18 +49,18 @@ By the end of each workshop, you can expect to have learnt a couple of strategie
 Click here to learn more about this programme.
 
 
-## **Eye on Asia**
+## **Eye on Asia**{: .has-text-ruby}
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-03.png)
 Eye on Asia is a collaborative effort by the National Library with partners from both public and private sectors to provide resources for everyone, including young Singaporeans, who wish to find out more about the region and explore internationalisation opportunities abroad.
 
 Focusing on ASEAN, China and India, as well as emerging cities, you will discover a broad overview of useful resources to create more awareness of developments in these countries. In addition, regular programmes are organised to gain insights from entrepreneurs and people who have lived and worked abroad in these cities and countries.
 
-Click [here](http://www.eyeonasia.gov.sg/) to visit the website. 
+Click [here](http://www.eyeonasia.gov.sg/){: .has-text-ruby} to visit the website. 
 
 
-# **Business Information Literacy**
+# **Business Information Literacy**{: .has-text-ruby}
 
-## **Effective Ways to Gather Market Intelligence**
+## **Effective Ways to Gather Market Intelligence**{: .has-text-ruby}
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-04.png)
 
 Learn the ropes of conducting online research on business and market-related information. We will introduce a range of useful and credible resources to help you build your knowledge about the various industry sectors and improve your business planning with clear research strategies. 
