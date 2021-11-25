@@ -41,7 +41,7 @@ In this video, catch a glimpse of how different people relate to technology in t
   </div>
 </div>
 
-	
+<h5 class="has-text-jade margin--bottom--lg"><b>Podcast</b></h5>
 <h5><a href="https://www.globalwellbeinginitiative.org/insights/policy-implications/a-world-of-wellbeing-podcast-digital-wellbeing">A World of Wellbeing Podcast: Digital Wellbeing</a></h5>
 <p>Explore the concept of digital wellbeing, how the COVID-19 pandemic has altered our digital lives, and what constitutes intentional and considerate usage of technology.</p>
 
