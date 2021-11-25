@@ -6,7 +6,7 @@ third_nav_title: Join a LearnX Community
 ---
 Find a LearnX Community that best suits your needs!
 
-Head over to [GoLibrary](https://go.gov.sg/lcsessions){:target="_blank"} to register for upcoming sessions of your chosen LearnX community. 
+Head over to [GoLibrary](https://go.gov.sg/lcsessions){:target="_blank"} to register for upcoming sessions of your chosen LearnX Community. 
 
 If you do not see any upcoming events, [send in an enquiry](mailto:enquiry@nlb.gov.sg) and we’ll get back to you with any updates.
 
