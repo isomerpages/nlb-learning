@@ -123,7 +123,7 @@ Participants will have a chance to experience Bee bot, a programmable robot in t
   </tbody>
   </table>
 </div>
-
+</div>
 
 
 [Back to top](#main-content){: .has-text-jade}
