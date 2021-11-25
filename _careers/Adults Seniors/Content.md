@@ -112,7 +112,7 @@ Happiness at work (and life) can be simple – learn ways to stop saying “yes�
 		<br>
     “Saying no isn’t selfish, it’s self care.” – Hank Green <br><br>
 We often feel overwhelmed at work because we don’t know how to reject others, or feel that we cannot do so. Here are some nifty strategies that will get you your sanity back – the video even covers lines you can use on people who won’t take no for an answer.<br><br>
-Source: How to (Gracefully) Say No (2017, August 31). How to Adult.
+<small>Source: How to (Gracefully) Say No (2017, August 31). How to Adult.</small>
   </div>
 </div>
 
