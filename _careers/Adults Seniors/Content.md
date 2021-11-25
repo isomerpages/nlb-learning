@@ -28,7 +28,7 @@ Check out our **playlists** for collections of short videos or selected podcasts
 <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
       <a href="#playlist-happy">
-        <span>Playlist:<br>Happy at Work</span>
+        <span>Playlist:<br>&#128513 Happy at Work &#128188</span>
       </a>
     </div>
   </div>
