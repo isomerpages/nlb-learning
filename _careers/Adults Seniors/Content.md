@@ -188,12 +188,12 @@ Source: 3 Ideas For More Effective Job Hunting by Dan Kiernan (2020, November 10
 {: .has-text-right .margin--top--xl}
 
 <h3 class="has-text-ruby"><a id="lp-job"><b>Learning Package: Job-Hunter’s Toolkit</b></a></h3>
-<h2>Introduction</h2>
+<h4 class="has-text-ruby">Introduction</h4>
 <p> There are 4 main challenges in looking for a job – 1) deciding on the types of industries and positions that suit us, 2) writing a resume that maximises our chances of getting an interview, 3) acing interviews, and 4) staying positive. Here are some great resources to help make this journey as painless as possible. </p>
 <table border="1">
 	<tbody><tr>
 		<td>
-			<h2>Did you know...</h2>
+			<h4 class="has-text-ruby">Did you know...</h4>
 			<ul>
 				<li>Make sure your LinkedIn profile is optimised to attract more job opportunities. There are many guides online that show you how to do so.</li>
 				<li>Starting every bullet point of your achievements in your resume with an action word (e.g. spearheaded, led) would make it more compelling.</li>
@@ -202,23 +202,23 @@ Source: 3 Ideas For More Effective Job Hunting by Dan Kiernan (2020, November 10
 	</tr>
 	</tbody></table>
 	
-<h4>Infographic</h4>
-<h5><a href=”/images/career/adults/PreparingtoAceyourNextInterview_infographic.png">Preparing to Ace your Next Interview</a></h5>
-<p><a href=”/images/career/adults/PreparingtoAceyourNextInterview_infographic.png>Get started on your interview preparations with 5 quick tips in this infographic.</a></p>
+<h4 class="has-text-ruby">Infographic</h4>
+<h5 class="has-text-ruby"><a href=”/images/career/adults/PreparingtoAceyourNextInterview_infographic.png">Preparing to Ace your Next Interview</a></h5>
+<p><img src=”/images/career/adults/PreparingtoAceyourNextInterview_infographic.png>Get started on your interview preparations with 5 quick tips in this infographic.</a></p>
 Source: <b>Preparing to Ace your Next Interview</b> (2021). <i>National Library Board Singapore</i>. Retrieved 2021, October 21
 
-<h4>Articles</h4>
+<h4 class="has-text-ruby">Articles</h4>
 
-<h5><a href="https://blog.seedly.sg/salary-guide-singapore/">The Ultimate Salary Guide For Singaporeans</a></h5>
+<h5 class="has-text-ruby"><a href="https://blog.seedly.sg/salary-guide-singapore/">The Ultimate Salary Guide For Singaporeans</a></h5>
 <p> What is the ballpark figure you should be expecting for your salary? Consult <a href="https://blog.seedly.sg/salary-guide-singapore/">Seedly’s guide</a>, which covers a variety of positions in different industries.</p>
 Source: <a href="https://blog.seedly.sg/salary-guide-singapore/#median-wage">The Ultimate Salary Guide For Singaporeans</a> (2021, Jun 2). <i>Seedly</i>. Retrieved 2021, October 21
 
-<h5><a href="https:/www.resumewriter.sg/blog/how-to-write-a-winning-resume-your-ultimate-cv-guide/">How to Write a Winning CV in 2021</a></h5>
+<h5 class="has-text-ruby" ><a href="https:/www.resumewriter.sg/blog/how-to-write-a-winning-resume-your-ultimate-cv-guide/">How to Write a Winning CV in 2021</a></h5>
 <p><a href="https:/www.resumewriter.sg/blog/how-to-write-a-winning-resume-your-ultimate-cv-guide/">This detailed article from a local professional resume writing company</a> teaches expert tips, like how to phrase your accomplishments for maximum impact.</p>
 Source: <a href="https:/www.resumewriter.sg/blog/how-to-write-a-winning-resume-your-ultimate-cv-guide/">How to Write a Winning CV in 2021</a> (2021, Sep 2). <i>ResumeWriter.SG</i>. Retrieved 2021, October 21
 
-<h4>eBooks</h4>
-<h5><a href=”https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&l=JHT1”>Get Hired Now! How to Accelerate Your Job Search, Stand Out, and Land Your Next Great Opportunity</a></h5>
+<h4 class="has-text-ruby">eBooks</h4>
+<h5 class="has-text-ruby"><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&l=JHT1">Get Hired Now! How to Accelerate Your Job Search, Stand Out, and Land Your Next Great Opportunity</a></h5>
 Ian Siegel (2021), <i> Get Hired Now!</i>, Wiley.
 <br>
 <a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&l=JHT1"><img src=”/images/career/adults/GetHiredNow.jpg" style="width:300px; text-align:left;" alt="Book cover for Get Hired Now"></a>
