@@ -6,6 +6,49 @@ third_nav_title: Adults & Seniors
 ---
 ### **Content**
 
+In a hurry? Check out these videos, articles and programmes for a quick lesson on digital trends and technology.
+
+<h3 class="has-text-jade"><b>Playlist: Cyber wellness is just a click away!</b></h3>
+
+In a world heavily reliant on technology, issues such as digital burnout, social isolation and cyberbullying can be daunting. 
+Learn how you can reclaim positive online experiences and improve your relationship with technology by checking out the following resources! 
+
+<h5 class="has-text-jade margin--bottom--lg"><b>Videos</b></h5>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/L7rB_Iwlh8M"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-jade">Digital Wellbeing: Technology and our daily lives</b><br>
+In this video, catch a glimpse of how different people relate to technology in their everyday lives. Have a quick think about what it means to have a healthy relationship with technology in this digital age. </p>
+    <small> Source: Digital Wellbeing: Technology and our daily lives (2019, May 8). Google. Retrieved 2021, October 11.</small>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/JVbo_rzu8k0"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-jade">What is digital wellness and why is it important</b><br>
+    Learn about what digital wellness is and why it is important in ensuring good work-life integration, especially in a world that is increasingly dependent on technology to make it go round.</p>
+    <small>What is digital wellness and why is it important (2020, September 26). Citrix. Retrieved 2021, October 12.</small>
+  </div>
+</div>
+
+<a href="https://www.globalwellbeinginitiative.org/insights/policy-implications/a-world-of-wellbeing-podcast-digital-wellbeing">A World of Wellbeing Podcast: Digital Wellbeing</a></h5>
+<p>Explore the concept of digital wellbeing, how the COVID-19 pandemic has altered our digital lives, and what constitutes intentional and considerate usage of technology. </p>
+    <small>A World of Wellbeing Podcast: Digital Wellbeing (2021, April 19). Global Wellbeing Podcast. Retrieved 2021, October 12.</small>
+  </div>
+</div>
+
+
+
 LEARNING PATHWAYS
 
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
