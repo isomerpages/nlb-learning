@@ -12,7 +12,7 @@ Be informed and make an impact to the environment.
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Recommended Collections</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -60,7 +60,7 @@ Be informed and make an impact to the environment.
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Learn With Expert Speakers or Explore Through Art</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Explore Programmes</th>
       </tr>
     </thead>
     <tbody>
@@ -84,7 +84,7 @@ Be informed and make an impact to the environment.
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Learn more about Sustainability in other aspects</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover other learning focus areas</th>
       </tr>
     </thead>
     <tbody>
