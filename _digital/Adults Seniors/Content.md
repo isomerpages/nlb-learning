@@ -279,8 +279,8 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <h4>References</h4>
 <ol>
-<li><a id="footnote-one"> Cybercrime made up 43% of overall crime in 2020; more online threats linked to COVID-19 (2021, July 8). CNA.</a>. Retrieved 2021, October 19 from <a href="https://www.channelnewsasia.com/singapore/cybercrime-hacking-phishing-online-crimes-covid-19-1984866.">https://www.channelnewsasia.com/singapore/cybercrime-hacking-phishing-online-crimes-covid-19-1984866.</a></li>
-<li><a id="footnote-two"> Cybercrime To Cost The World $10.5 Trillion Annually By 2025 (2020, November 13).  Cybercrime Magazine.</a>. Retrieved 2021, October 19 from <a href="https://cybersecurityventures.com/cybercrime-damage-costs-10-trillion-by-2025/">https://cybersecurityventures.com/cybercrime-damage-costs-10-trillion-by-2025/</a></li>
+<li><span id="footnote-one"> Cybercrime made up 43% of overall crime in 2020; more online threats linked to COVID-19 (2021, July 8). CNA.</span>. Retrieved 2021, October 19 from <a href="https://www.channelnewsasia.com/singapore/cybercrime-hacking-phishing-online-crimes-covid-19-1984866.">https://www.channelnewsasia.com/singapore/cybercrime-hacking-phishing-online-crimes-covid-19-1984866.</a></li>
+<li><span id="footnote-two"> Cybercrime To Cost The World $10.5 Trillion Annually By 2025 (2020, November 13).  Cybercrime Magazine.</span>. Retrieved 2021, October 19 from <a href="https://cybersecurityventures.com/cybercrime-damage-costs-10-trillion-by-2025/">https://cybersecurityventures.com/cybercrime-damage-costs-10-trillion-by-2025/</a></li>
 </ol>
 
 ---
@@ -508,8 +508,8 @@ Kristen Meinzer (2019), <i>So You Want to Start a Podcast: Finding Your Voice, T
 			
 <h4>References</h4>
 <ol>    
-	<li><a id="footnote-one"> Number of Facebook users in Singapore from 2017 to 2020 and a forecast up to 2025</a>. <i>statista.com</i>. Retrieved 2021, October 19 from <a href="https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/">https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/</a></li>
-	<li><a id="footnote-two">Daily Time Spent with Media. Half a Billion Users joined Social in the Last Year (and other facts)</a> <i>Hootsuite</i>. Retrieved 2021, October 19 from <a href="https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png">https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png</a></li>
+	<li><span id="footnote-one"> Number of Facebook users in Singapore from 2017 to 2020 and a forecast up to 2025</span>. <i>statista.com</i>. Retrieved 2021, October 19 from <a href="https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/">https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/</a></li>
+	<li><span id="footnote-two">Daily Time Spent with Media. Half a Billion Users joined Social in the Last Year (and other facts)</span> <i>Hootsuite</i>. Retrieved 2021, October 19 from <a href="https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png">https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png</a></li>
 </ol>
 
 <h1>Learning Package: Using Your Smartphone</h1>
@@ -594,4 +594,4 @@ Becca Caddy (2021), <i>Screen Time</i>, Blink Publishing. <br>
 			
 <h4>References</h4>
 <ol>
-	<li><a id="footnote-one">Smartphone penetration rate as share of the population in Singapore from 2010 to 2020 and a forecast up to 2025</a>. <i>Statista.com</i>. Retrieved 2021, October 21 from <a href="https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/">https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/</a></li>
+	<li><span id="footnote-one">Smartphone penetration rate as share of the population in Singapore from 2010 to 2020 and a forecast up to 2025</span>. <i>Statista.com</i>. Retrieved 2021, October 21 from <a href="https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/">https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/</a></li>
