@@ -4,11 +4,11 @@ permalink: /communities/join/overview
 description: ""
 third_nav_title: Join a LearnX Community
 ---
-Find a Learning Community that best suits your needs!
+Find a LearnX Community that best suits your needs!
 
-Head over to [GoLibrary](https://go.gov.sg/lcsessions){:target="_blank"} to register for upcoming sessions of your chosen community. 
+Head over to [GoLibrary](https://go.gov.sg/lcsessions){:target="_blank"} to register for upcoming sessions of your chosen LearnX community. 
 
-If you do not see any upcoming events, send in an enquiry and we’ll get back to you with any updates.
+If you do not see any upcoming events, [send in an enquiry](mailto:enquiry@nlb.gov.sg) and we’ll get back to you with any updates.
 
 <div class="row is-multiline margin--top--lg">
   <div class="col is-half">

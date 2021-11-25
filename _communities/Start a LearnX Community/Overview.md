@@ -4,13 +4,13 @@ permalink: /communities/start/overview
 description: ""
 third_nav_title: Start a LearnX Community
 ---
-Have a special interest or skill but can’t find a community? Just start your own!
+Have a special interest or skill but can’t find a LearnX Community? Just start your own!
 
 We’ll be here to help you get started with guidance from our experienced librarians, free skills training to get you equipped with the tools you need, funding to purchase necessary logistics, and more. With your expertise and enthusiasm, we can build a community together!
 
 We are looking for LearnX Communities on the following topics:
 
-### **[Careers](/communities/join/careers-communities)<br>[Digital](/communities/join/digital-communities)<br>[Sustainability](/communities/join/sustainability-communities)<br>[Wellness](/communities/join/wellness-communities)<br>[Arts](/communities/join/art-communities)<br>[Reading](/communities/join/reading-communities)
+### **[Careers](/communities/join/careers-communities)<br>[Digital](/communities/join/digital-communities)<br>[Sustainability](/communities/join/sustainability-communities)<br>[Wellness](/communities/join/wellness-communities)<br>[Arts](/communities/join/art-communities)<br>[Reading](/communities/join/reading-communities)**
 
 <div class="row is-multiline margin--top--lg">
   <div class="col is-one-third">

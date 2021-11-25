@@ -10,37 +10,6 @@ Check out our **playlist** for a collection of short videos exploring topics aro
 
 Check our **learning packages** for fun facts and activities that show our little ones interesting ways to protect nature.
 
-<div class="row is-multiline">
-  <div class="col is-one-fourth">
-    <div class="clickbox is-mint-jade">
-      <a href="#playlist">
-        <span>Playlist: 3 Rs</span>
-      </a>
-    </div>
-  </div>
-  <div class="col is-one-fourth">
-    <div class="clickbox is-mint-jade">
-      <a href="#lp-birds">
-        <span>Learning<br>Package:<br>Birds</span>
-      </a>
-    </div>
-  </div>
-	  <div class="col is-one-fourth">
-    <div class="clickbox is-mint-jade">
-      <a href="#lp-turtles">
-        <span>Learning<br>Package:<br>Sea Turtles</span>
-      </a>
-    </div>
-  </div>
-		  <div class="col is-one-fourth">
-    <div class="clickbox is-mint-jade">
-      <a href="#lp-farming">
-        <span>Learning<br>Package:<br>Urban Farming</span>
-      </a>
-    </div>
-  </div>
-</div>
-
 <h3 class="has-text-jade"><b>Playlist: 3 Rs for young children</b></h3>
 
 It is never too early to teach children about sustainability and the importance of caring for our environment. Although this might be a broad topic, there are plenty of ways to teach young children about sustainability in a way that they can understand. 
