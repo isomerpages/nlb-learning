@@ -424,7 +424,7 @@ Tom Ang (2020), <i>Digital Photographer's Handbook</i>, Dorling Kindersley.
 <p><a href="https://share.libbyapp.com/title/5167404">Borrow the eBook here</a>. </p>
 Retrieved from Libby (myLibraryid is required to access the eBook)
 
-h5>2.The Big Book of Maker Skills: Tools & Techniques for Building Great Tech Projects</h5>
+<h5>2.The Big Book of Maker Skills: Tools & Techniques for Building Great Tech Projects</h5>
 Hackett, Chris (2020), <i>The Big Book of Maker Skills: Tools & Techniques for Building Great Tech Projects</i>, Weldon Owen.
 <p>
 <a href="https://share.libbyapp.com/title/3136238"><img src="/images/Digital/Seniors/TheBigBookofMakerSkills.jpg" style="width:300px; text-align:left;" alt="book cover for The Big Book of Maker Skills: Tools & Techniques for Building Great Tech Projects"></a>
