@@ -12,7 +12,7 @@ Go green with your child towards an eco-friendly future together.
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Recommended Collections</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -36,7 +36,7 @@ Go green with your child towards an eco-friendly future together.
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Learn With Expert Speakers or Explore Through Art</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Explore Programmes</th>
       </tr>
     </thead>
     <tbody>
