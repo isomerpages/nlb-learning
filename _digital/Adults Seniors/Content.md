@@ -11,7 +11,7 @@ LEARNING PATHWAYS
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 
-<img src="/images/Digital/Adults/Cyberwellness/Digital-Prog-AS-A-Cyberwellness-01.png" alt="cover image">
+<img src="images/digital/adults/cyberwellness/Digital-Prog-AS-A-Cyberwellness-01.png" alt="cover image">
 ---
 <h1>Learning Package: Cyber Wellness</h1>
 <h2>Introduction</h2>
