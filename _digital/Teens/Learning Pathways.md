@@ -47,6 +47,10 @@ Check out these resources that highlight tips on keeping your online information
         <td style="width: 20%;">15 Dec 2021,<br>3pm – 4pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
+		</tbody>
+  </table>
+</div>
+
       <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
