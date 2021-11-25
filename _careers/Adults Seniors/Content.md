@@ -203,7 +203,7 @@ Source: 3 Ideas For More Effective Job Hunting by Dan Kiernan (2020, November 10
 	</tbody></table>
 	
 <h4>Infographic</h4>
-<h5><a href=”/images/career/adults/PreparingtoAceyourNextInterview_infographic.png>Preparing to Ace your Next Interview</a></h5>
+<h5><a href=”/images/career/adults/PreparingtoAceyourNextInterview_infographic.png">Preparing to Ace your Next Interview</a></h5>
 <p><a href=”/images/career/adults/PreparingtoAceyourNextInterview_infographic.png>Get started on your interview preparations with 5 quick tips in this infographic.</a></p>
 Source: <b>Preparing to Ace your Next Interview</b> (2021). <i>National Library Board Singapore</i>. Retrieved 2021, October 21
 
