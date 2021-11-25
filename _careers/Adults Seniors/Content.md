@@ -152,9 +152,9 @@ Reduce your nervousness and frustration with your job search with these videos. 
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p class="has-text-ruby"><b>A Peek into the Interviewer’s Mind by Workforce Singapore</b><br>
-What are the traits local interviewers look out for in an interview? What are the best ways to tackle one of the common questions – “Tell me how you overcame a challenge at work”? Find out more in this video by Workforce Singapore. <br><br>
-Source: A Peek into the Interviewer’s Mind by Workforce Singapore (2019, Sept 11). Workforce Singapore.</p>
+    <p class="has-text-ruby"><b>A Peek into the Interviewer’s Mind by Workforce Singapore</b></p>
+<p>What are the traits local interviewers look out for in an interview? What are the best ways to tackle one of the common questions – “Tell me how you overcame a challenge at work”? Find out more in this video by Workforce Singapore. </p>
+<small>Source: A Peek into the Interviewer’s Mind by Workforce Singapore (2019, Sept 11). Workforce Singapore.</small>
   </div>
 </div>
 
