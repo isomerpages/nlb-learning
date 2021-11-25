@@ -11,6 +11,7 @@ In a hurry? Check out these videos, articles and programmes for a quick lesson o
 <h3 class="has-text-jade"><b>Playlist: Cyber wellness is just a click away!</b></h3>
 
 In a world heavily reliant on technology, issues such as digital burnout, social isolation and cyberbullying can be daunting. 
+
 Learn how you can reclaim positive online experiences and improve your relationship with technology by checking out the following resources! 
 
 <h5 class="has-text-jade margin--bottom--lg"><b>Videos</b></h5>
@@ -44,6 +45,9 @@ In this video, catch a glimpse of how different people relate to technology in t
 <h5 class="has-text-jade margin--bottom--lg"><b>Podcast</b></h5>
 <h5><a href="https://www.globalwellbeinginitiative.org/insights/policy-implications/a-world-of-wellbeing-podcast-digital-wellbeing">A World of Wellbeing Podcast: Digital Wellbeing</a></h5>
 <p>Explore the concept of digital wellbeing, how the COVID-19 pandemic has altered our digital lives, and what constitutes intentional and considerate usage of technology.</p>
+    <small> Source: A World of Wellbeing Podcast: Digital Wellbeing (2021, April 19). Global Wellbeing Podcast. Retrieved 2021, October 12.</small>
+  </div>
+</div>
 
 <h3 class="has-text-jade"><b>Playlist: Uncovering the Secrets of Cybercrime</b></h3>
 
@@ -81,10 +85,14 @@ Find out what exactly is cybercrime and the different forms it can take in our w
 <h5><a href="https://darknetdiaries.com/episode/97/">Darknet Diaries Ep 97: The Pizza Problem</a></h5>
 
 <p> Ever wondered what would happen if someone wanted to steal your Instagram account? Join host Jack Rhysider in uncovering the possible motivations behind this form of online identify theft, and find out what to do if it were to occur.</p>
+<small> Source: Ep 97: The Pizza Problem (2021, July 21). Darknet Diaries. Retrieved 2021, October 12.</small>
+  </div>
+</div>
 
 <h3 class="has-text-jade"><b>Playlist: Think Like A Designer</b></h3>
 
 Good design, as the saying goes, is invisible – it brings you greater convenience and simple satisfaction with no questions or complaints. 
+
 Watch these videos to learn more about design thinking, the process behind good design that helps to identify users’ needs and address them effectively. 
 
 <h5 class="has-text-jade margin--bottom--lg"><b>Videos</b></h5>
@@ -119,6 +127,9 @@ Catch a glimpse of how Design Thinking has human interest and wellbeing at its c
 <h5><a href="https://www.helpfulhuman.com/podcasts/design-thinking-does-it-matter">Design Thinking – Does it Matter?</a></h5>
 <p>Uncover the significance of Design Thinking in innovation, and understand why this iterative process is important problem-solving. 
 </p>
+<small> Source: Design Thinking - Does it Matter? (2021, September 28). The Helpful Human Podcast. Retrieved 2021, October 12.</small>
+  </div>
+</div>
 
   
 
