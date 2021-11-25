@@ -94,6 +94,12 @@ Be informed and make an impact to the environment.
         <td style="width: 20%;">15 Dec 2021<br>3pm-4pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
+			      <tr>
+        <td style="width: 20%;"><a href="#" target="_blank" class="has-text-jade"><b>LearnX Digital</b><br>MakeIT</a></td>
+        <td style="width: 40%;">MakeIT aims to introduce Making and Innovayion to the general public by way of areas, including Making with upcycling in mind. Topics available include repair and home-hacks and lofi prototyping<br></td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
+      </tr>
   </tbody>
   </table>
 </div>
