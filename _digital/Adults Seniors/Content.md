@@ -591,7 +591,7 @@ Source: <a href="https://www.youtube.com/watch?v=-drb7O4ZvYc&ab_channel=TECH360.
 <h5>1. Keep Calm and Log On</h5>
 Gillian Andrews (2020), <i>Keep Calm and Log On</i>, The MIT Press.
 <br>
-<a href="https://share.libbyapp.com/title/5413443"><img src="/images/Digital/Seniors/KeepCalmandLogOn.jpg.jpg" style="width:300px; text-align:left;" alt="book cover for keep calm and log on"></a>
+<a href="https://share.libbyapp.com/title/5413443"><img src="/images/Digital/Seniors/KeepCalmandLogOn.jpg" style="width:300px; text-align:left;" alt="book cover for keep calm and log on"></a>
 <p>Written for the ordinary person, find out tips on how you can shop, share and connect online while keeping yourself safe from fake news, personal data leaks and even, Internet addiction.</p>
 <p><a href="https://share.libbyapp.com/title/5413443">Borrow the eBook here</a>. </p>
 <body>Retrieved from Libby (myLibraryid is required to access the eBook).</body>
