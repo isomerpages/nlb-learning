@@ -47,6 +47,11 @@ $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
 // Mixins
+@mixin mobile() {
+	@media screen and (max-width: $mobile){
+    	@content
+	}
+}
 
 @mixin touch() {
 	@media screen and (max-width: $desktop - 1px){
@@ -192,6 +197,49 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+// Color definitions
+.is {
+	&-primary {
+		background-color: $primary !important;
+	}
+
+  &-secondary {
+		background-color: $secondary !important;
+	}
+
+  &-indigo {
+		background-color: $indigo !important;
+	}
+
+  &-sky {
+		background-color: $sky !important;
+	}
+
+  &-mint {
+		background-color: $mint !important;
+	}
+
+  &-jade {
+		background-color: $jade !important;
+	}
+
+  &-pink {
+		background-color: $pink !important;
+	}
+
+  &-ruby {
+		background-color: $ruby !important;
+	}
+
+  &-orange {
+		background-color: $orange !important;
+	}
+  
+  &-tangerine {
+		background-color: $tangerine !important;
+	}
+}
+
 // Bottom navigation bar
 .bottom-navigation {
 	a {
@@ -237,6 +285,10 @@ $desktop: 960px + (2 * $gap) !default;
 			background-color: darken($primary,10%);
 		}
 	}
+}
+
+.bp-hero-body {
+  background-color: transparent !important;
 }
 
 // Navbar
