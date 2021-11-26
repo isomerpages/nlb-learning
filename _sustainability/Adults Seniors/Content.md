@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Adults & Seniors
 ---
 <h3><b>Learning Package</b></h3>
-<h5 class="has-text-jade margin--bottom--lg"><b>The Green Economy</b></h5>
+<h5 class="margin--bottom--lg"><b>The Green Economy</b></h5>
 <p>It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><a href="#footnote-one">1</a></sup>
 <p>As one of the key pillars of the Singapore Green Plan 2030, a whole-of-nation movement to advance Singapore’s national agenda on sustainable development<sup><a href="#footnote-two">2</a></sup> developing a Green Economy in Singapore refers to seeking green growth to create new jobs, transform industries and harness sustainability as a competitive advantage<sup><a href="#footnote-three">3</a></sup>.</p>
 <p>In a green economy, growth in employment and income are driven by public and private investment into low carbon, resource efficient and socially inclusive economic activities, infrastructure, and assets that allow reduced carbon emissions and pollution, enhanced energy and resource efficiency, and prevention of the loss of biodiversity and ecosystem services.<sup><a href="#footnote-four">4</a></sup></p>

@@ -9,7 +9,7 @@ Busy chasing dreams? These resources will help you get there faster.
 <h3><b>Playlist</b></h3>
 A collection of short videos and podcasts to inspire you as you make that all-important decision on what career path to take.
 
-<h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: A Day in the Life of: Healthcare Professionals</b></h5>
+<h5 class="margin--bottom--lg"><b>Playlist: A Day in the Life of: Healthcare Professionals</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -53,14 +53,14 @@ A collection of short videos and podcasts to inspire you as you make that all-im
 <h3><b>Learning Package</b></h3>
 Get a glimpse of what it takes to achieve your aspirations with these articles and activities.
 
-<h5 class="has-text-ruby margin--bottom--lg"><b>Teen Things: Emailing 101</b></h5>
+<h5 class="margin--bottom--lg"><b>Teen Things: Emailing 101</b></h5>
 So you’ve just been assigned to email an organisation for a school project or a Values in Action (VIA) programme, or maybe you have to apply for an internship.
 
 If you aren’t quite sure what goes into formal emails, we’re here to help you out! [Check out](/files/TeenThings-Email101.pdf){:target="_blank" } some tips and tricks on writing emails that are sure to impress.
 
 **Here are a few more resources from the library to help you write better:**
 
-<h5 class="has-text-ruby margin--bottom--lg"><b>Teen Things: Emailing 101</b></h5>
+<h5 class="margin--bottom--lg"><b>Teen Things: Emailing 101</b></h5>
 
 <div class="row is-multiline">
   <div class="col is-half">
@@ -78,7 +78,7 @@ In this compact, easy-to-use volume you’ll find the eternal building blocks of
 
 Synopsis from [Penguin](https://www.penguin.com.au/){:target="_blank" }.
 
-<h5 class="has-text-ruby margin--bottom--lg"><b>Eliza and Her Monsters</b></h5>
+<h5 class="margin--bottom--lg"><b>Eliza and Her Monsters</b></h5>
 
 <div class="row is-multiline">
   <div class="col is-half">

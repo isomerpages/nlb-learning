@@ -13,7 +13,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-ruby">Discover Recommended Collections</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Collections</th>
       </tr>
     </thead>
     <tbody>
@@ -37,7 +37,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-ruby">Explore With Industry Speakers And Trainers</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore With Industry Speakers And Trainers</th>
       </tr>
     </thead>
     <tbody>
@@ -61,7 +61,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-ruby">Use And Apply Skills</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Use And Apply Skills</th>
       </tr>
     </thead>
     <tbody>
@@ -79,7 +79,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-ruby">Learn More About Career In Other Aspects</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Learn More About Career In Other Aspects</th>
       </tr>
     </thead>
     <tbody>

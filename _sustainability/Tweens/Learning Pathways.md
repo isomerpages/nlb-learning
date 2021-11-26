@@ -13,7 +13,7 @@ Taking care of the environment starts with YOU!
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Recommended Resources</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -37,7 +37,7 @@ Taking care of the environment starts with YOU!
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Explore Programmes</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
       </tr>
     </thead>
     <tbody>
@@ -67,7 +67,7 @@ Taking care of the environment starts with YOU!
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Other Learning Focus Areas</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Areas</th>
       </tr>
     </thead>
     <tbody>

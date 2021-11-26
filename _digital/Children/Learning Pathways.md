@@ -11,7 +11,7 @@ Go digital with your child and explore the world of digital and tech together.
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Resources</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -37,7 +37,7 @@ Learn how to keep yourself safe online as you explore all the information availa
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Explore Programme</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Programme</th>
       </tr>
     </thead>
     <tbody>
@@ -69,7 +69,7 @@ Join us for this online session to learn about the types of cyber threats to loo
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Other Learning Focus Areas</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Areas</th>
       </tr>
     </thead>
     <tbody>

@@ -18,7 +18,7 @@ As a start, we can tell them ways to protect the environment by practising the t
 
 Check out the video resources below to help your child understand more about the three Rs and how to take care of the environment.
 
-<h5 class="has-text-jade margin--bottom--lg"><b>Videos</b></h5>
+<h5 class="margin--bottom--lg"><b>Videos</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">

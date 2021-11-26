@@ -17,7 +17,7 @@ These activities will include programming tech toys without the need for a scree
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Resources</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -53,7 +53,7 @@ These activities will include programming tech toys without the need for a scree
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Explore Experiences</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Experiences</th>
       </tr>
     </thead>
     <tbody>
@@ -90,7 +90,7 @@ Participants will have a chance to experience Bee bot, a programmable robot in t
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover other Learning Focus Areas</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover other Learning Focus Areas</th>
       </tr>
     </thead>
     <tbody>

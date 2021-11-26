@@ -16,7 +16,7 @@ Technology is changing the way we live and work by making things more accessible
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Resources</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -40,7 +40,7 @@ Technology is changing the way we live and work by making things more accessible
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Explore with Industry Speakers and Trainers</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore with Industry Speakers and Trainers</th>
       </tr>
     </thead>
     <tbody>
@@ -106,7 +106,7 @@ Technology is changing the way we live and work by making things more accessible
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Use and Apply Skills</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Use and Apply Skills</th>
       </tr>
     </thead>
     <tbody>
@@ -131,7 +131,7 @@ In this four-week programme, participants will go through self-paced e-learning 
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-INDIGO">Learn More About Digital and Tech In Other Aspects</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Learn More About Digital and Tech In Other Aspects</th>
       </tr>
     </thead>
     <tbody>
@@ -156,7 +156,7 @@ Learn to use your smartphone effectively and safely to have knowledge at your fi
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Resources</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -174,7 +174,7 @@ Learn to use your smartphone effectively and safely to have knowledge at your fi
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Explore with Industry Speakers and Trainers</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore with Industry Speakers and Trainers</th>
       </tr>
     </thead>
     <tbody>
@@ -248,7 +248,7 @@ Yishun Public Library<br></td>
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Use and Apply Skills</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Use and Apply Skills</th>
       </tr>
     </thead>
     <tbody>

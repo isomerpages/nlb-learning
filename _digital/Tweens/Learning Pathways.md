@@ -11,7 +11,7 @@ Explore the wonders of tech.
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Resources</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -38,7 +38,7 @@ Check out these resources to help you navigate the digital world, from keeping y
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Explore Programmes</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
       </tr>
     </thead>
     <tbody>
@@ -69,7 +69,7 @@ Check out these resources to help you navigate the digital world, from keeping y
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Other Learning Focus Areas</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Areas</th>
       </tr>
     </thead>
     <tbody>

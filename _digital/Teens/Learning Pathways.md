@@ -12,7 +12,7 @@ Immerse yourself in the possibilities of digital and tech!
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Resources</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -37,7 +37,7 @@ Check out these resources that highlight tips on keeping your online information
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Explore Experiences</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Experiences</th>
       </tr>
     </thead>
     <tbody>
@@ -55,7 +55,7 @@ Check out these resources that highlight tips on keeping your online information
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Other Learning Focus Areas</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Areas</th>
       </tr>
     </thead>
     <tbody>
