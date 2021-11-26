@@ -14,7 +14,7 @@ Technology is changing the way we live and work by making things more accessible
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Collections</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -51,49 +51,49 @@ Technology is changing the way we live and work by making things more accessible
       <tr>
         <td><a href="#" target="_blank" class="has-text-indigo"><b>[S. U. R. E. Skills Series x My Digital Life] Be a Smart Factchecker</b></a></td>
         <td>Find out how to distinguish between real facts and fake news in this programme. </td>
-        <td>3 Dec 2021, <br>7pm -830pm</td>
+        <td>3 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
 <tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Cyberbullying</b></a></td>
         <td>Find out how you can identify signs of cyberbullying and help persons who are victims of it.</td>
-        <td>6 Dec 2021, <br>7pm -830pm</td>
+        <td>6 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
 <tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Hacking Software and Protection Tools 201</b></a></td>
         <td> Learn about the complex levels of hacking, the protection methods that developed as a result of them, and the usage of associated advanced tools.</td>
-        <td>9 Dec 2021, <br>7pm -830pm</td>
+        <td>9 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
 <tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Digital Etiquette</b></a></td>
         <td>Understand the importance of good digital etiquette and how it impacts other users.</td>
-        <td>9 Dec 2021, <br>7pm -830pm</td>
+        <td>9 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
 <tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Introduction to Information Security </b></a></td>
         <td>Learn about the common approaches to information security and acquire basic foundational knowledge on the topic.</td>
-        <td>14 Dec 2021, <br>7pm -830pm</td>
+        <td>14 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
 <tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Introduction to Website Security </b></a></td>
         <td>Learn about the common approaches to information security and acquire basic foundational knowledge on the topic.</td>
-        <td>16 Dec 2021, <br>7pm -830pm</td>
+        <td>16 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
 <tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Information Security 201</b></a></td>
         <td>Learn about the more complex approaches to information security and acquire more in-depth knowledge on this topic.</td>
-        <td>18 Dec 2021, <br>7pm -830pm</td>
+        <td>18 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
 <tr>
 <td><a href="#" target="_blank" class="has-text-indigo"><b>Website Security 201</b></a></td>
         <td>Understand the importance of website security and dive deep into the security protection measures you can undertake to secure your website.</td>
-        <td>21 Dec 2021, <br>7pm -830pm</td>
+        <td>21 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
     </tbody>
@@ -111,7 +111,7 @@ Technology is changing the way we live and work by making things more accessible
       <tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/lcsessions" target="_blank" class="has-text-indigo"><b>Pi and Python LC</b></a></td>
         <td style="width: 40%;">The aim of this course is to create awareness of the Raspberry Pi, learn how to programme it using the Python Language, and create interesting projects like a burglar alarm.</td>
-        <td style="width: 20%;">2 Dec 2021, <br> 9pm-10pm</td>
+        <td style="width: 20%;">2 Dec 2021, <br>9pm - 10pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
@@ -253,13 +253,13 @@ Yishun Public Library<br></td>
       <tr>
         <td style="width: 20%;"><a href="#" target="_blank" class="has-text-indigo"><b>Useful Google Apps for Seniors Part 1 | Time of Your Life</b></a></td>
         <td style="width: 40%;">Learn how Google Photos & YouTube can be useful for you!</td>
-        <td style="width: 20%;">2 Dec 2021, <br> 9pm-10pm</td>
+        <td style="width: 20%;">2 Dec 2021, <br>9pm - 10pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
         <td><a href="https://go.gov.sg/poutline" target="_blank" class="has-text-indigo"><b>Useful Google Apps for Seniors Part 2 | Time of Your Life</b></a></td>
         <td>Learn how Google Photos & YouTube can be useful for you!</td>
-        <td style="width: 20%;">2 Dec 2021, <br> 9pm-10pm</td>
+        <td style="width: 20%;">2 Dec 2021, <br>9pm - 10pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
     </tbody>
