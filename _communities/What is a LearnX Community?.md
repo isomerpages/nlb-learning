@@ -43,7 +43,7 @@ These communities cover a wide range of topics and can be found in libraries all
     <small>Image credit: Alan Bay</small>
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Comics X Nature</b></h5>
-      <p class="margin--top--sm margin--bottom--sm">The Comics X Nature Learning Community is made up of those who use comics as a way to express their love for nature and the environment. Through this unique medium, participants hope to spread their message and learn from each other. To date, the community has had the opportunity to learn from artist and illustrator Alan Bay, as well as comic artist Sonia Yeo. An anthology of the community’s works on environmental issues will soon be produced and made available for loan at public libraries and online.</p>
+      <p class="margin--top--sm margin--bottom--sm">The Comics X Nature community is made up of those who use comics as a way to express their love for nature and the environment. Through this unique medium, participants hope to spread their message and learn from each other. To date, the community has had the opportunity to learn from artist and illustrator Alan Bay, as well as comic artist Sonia Yeo. An anthology of the community’s works on environmental issues will soon be produced and made available for loan at public libraries and online.</p>
       <p class="">Read the Comics X Nature anthology <a href="https://go.gov.sg/comicsxnature" target="_blank">here</a>.</p>
     </div>
   </div>

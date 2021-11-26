@@ -22,9 +22,9 @@ For more information, <a href="https://www.facebook.com/ACCA.Singapore/" target=
     <img src="/images/learning-communities/careers/LC%20Career-Stockimage-02.jpg" alt="Life Communication Skills Toastmasters Club">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Life Communication Skills (LCS) Toastmasters Club</b></h5>
-      <p class="margin--top--sm margin--bottom--sm">We are a public club that supports the mastery of communication and leadership skills for career and personal development. We are actively expanding our Learning Community and extending our knowledge and expertise to benefit more individuals. We collaborate with agencies who have the same synergy and we welcome everyone to join us on this amazing and meaningful journey! <br><br>
-For adults, conducted monthly in English at Toa Payoh Public Library, Bishan Public Library and online.<br>
-For more information, <a href="https://www.facebook.com/LCSTMC" target="_blank">visit their page</a>.</p>
+      <p class="margin--top--sm margin--bottom--sm">We are a public club that supports the mastery of communication and leadership skills for career and personal development. We are actively expanding our community and extending our knowledge and expertise to benefit more individuals. We collaborate with agencies who have the same synergy and we welcome everyone to join us on this amazing and meaningful journey!</p>
+      <p>For adults, conducted monthly in English at Toa Payoh Public Library, Bishan Public Library and online.<br>
+      For more information, <a href="https://www.facebook.com/LCSTMC" target="_blank">visit their page</a>.</p>
       <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>
