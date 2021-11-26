@@ -176,7 +176,7 @@ For Children (aged 4 to 6), conducted monthly in Chinese at Bishan Public Librar
     </div>
   </div>
 <div class="col is-half-tablet padding--bottom--lg">
-    <img alt="Parenting Book Club" src="/images/learning-communities/reading/LC-Reading-StockImage-01.jpg">
+    <img alt="Parenting Book Club" src="/images/learning-communities/reading/LC-Reading-StockImage-03.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Parenting Book Club </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Parenting without a support network, encouragement, and sharing of experiences can be exasperating and lonely. This parenting book club aims to share alternative parenting perspectives and up-to-date tips and tricks to parent our children. We will read together, hold open discussion and take home some tips, so that we can better support our children and grow together as a healthy and strong family.<br><br>
