@@ -733,7 +733,7 @@ Becca Caddy (2021), <i>Screen Time</i>, Blink Publishing. <br>
 <p><a href="https://share.libbyapp.com/title/5817735">Borrow the eBook here</a>.</p>Retrieved from Libby (myLibraryid is required to access the eBook).
 
 <h4>Digital Programmes in NLB</h4>
-<p>We’ve got more in store for you! Check out the digital-related programmes under the Time of Your Life (TOYL) series to pick up more knowledge and skills about digital platforms. <a href="go.gov.sg/toyl">go.gov.sg/toyl </a> 
+<p>We’ve got more in store for you! Check out the digital-related programmes under the Time of Your Life (TOYL) series to pick up more knowledge and skills about digital platforms. <a href="https://go.gov.sg/toyl">go.gov.sg/toyl </a> 
 </p>
 			
 <h4>References</h4>
