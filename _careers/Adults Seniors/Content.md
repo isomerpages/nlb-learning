@@ -199,7 +199,9 @@ Reduce your nervousness and frustration with your job search with these videos. 
 	
 <h4 class="has-text-ruby">Infographic</h4>
 <h5 class="has-text-ruby">Preparing to Ace your Next Interview</h5>
-<p><img src="/images/career/adults/PreparingtoAceyourNextInterview_infographic.png">Get started on your interview preparations with 5 quick tips in this infographic.</p>
+<p>Get started on your interview preparations with 5 quick tips in this infographic.</p>
+<br><img src="/images/career/adults/PreparingtoAceyourNextInterview_infographic.png">
+<br>
 <small>Source: <b>Preparing to Ace your Next Interview</b> (2021). <i>National Library Board Singapore</i>. Retrieved 2021, October 21</small>
 
 <h4 class="has-text-ruby">Articles</h4>
