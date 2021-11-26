@@ -244,7 +244,7 @@ Richard N. Bolles &amp; Katharine Brooks (2020), <i>What Color Is Your Parachute
 Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 
 <h4><b>Programmes</b></h4>
-<p>Want to attend workshops on resume-writing and interviewing skills? Or are you hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at .<a href="https://go.gov.sg/get-professional-series"> go.gov.sg/get-professional-series</a>.
+<p>Want to attend workshops on resume-writing and interviewing skills? Or are you hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at <a href="https://go.gov.sg/get-professional-series">go.gov.sg/get-professional-series</a>.
 </p>
 
 <h3 class="has-text-ruby" id="lp-biz"><b>Learning Package: How to Start Your Own Business</b></h3>
