@@ -14,7 +14,7 @@ third_nav_title: Join a LearnX Community
       <p class="margin--top--sm margin--bottom--sm">Now Boarding: Wanderlusters, adventurers and culture enthusiasts.
 library@orchard Communities is an alternative learning environment in which you can pick up a plethora of skills by sharing and experimenting with others. This monthly series is built on the belief that teaching and learning can happen without a teacher. <br><br>
 For Adults, conducted monthly in English at library@orchard. For more information, meetup.com/sgtravelmeet.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Learn more</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
@@ -25,7 +25,7 @@ For Adults, conducted monthly in English at library@orchard. For more informatio
 Join our Gundam club and enjoy crafting your creation together. This programme is for adults as the usage of sharp tools is involved. <br><br>
 Please bring your own kits and tools. <br><br>
 For Teens and Adults, conducted monthly in English at Woodlands Regional Library.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Learn more</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>
 <div class="col is-half-tablet padding--bottom--lg">
@@ -34,6 +34,6 @@ For Teens and Adults, conducted monthly in English at Woodlands Regional Library
       <h5 class="margin--top--sm margin--bottom--sm"><b> Malay in Minutes </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Would you like to converse in Malay with your friends and neighbours? Join us in this ongoing book club where we use simple Malay books as part of learning tools. Admission is free and no registration is required. <br><br>
 For Children, Teens and Adults, conducted monthly in English and Malay at Geylang East Public Library.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Learn more</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>
