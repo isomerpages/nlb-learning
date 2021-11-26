@@ -61,7 +61,7 @@ Check our **learning packages** for articles that will give you confidence in yo
 <h3><b>Playlists</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<h5 class="margin--bottom--lg" id="playlist-biz"><b>Playlist: Are you ready to start your own business?</b></h5>
+<h5 id="playlist-biz" class="margin--bottom--lg"><b>Playlist: Are you ready to start your own business?</b></h5>
 
 Starting your own business can be daunting. A single idea can light the spark to start your entrepreneurial endeavour, but several aspects must be considered before setting off.<br>
 
@@ -70,7 +70,7 @@ Check out these resources to help you jet-start your journey to build your own b
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/rmaeXiz2J8Y"></iframe>
+      <iframe src="https://www.youtube.com/embed/rmaeXiz2J8Y" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -83,7 +83,7 @@ Check out these resources to help you jet-start your journey to build your own b
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/cuo6YGagjfM"></iframe>
+      <iframe src="https://www.youtube.com/embed/cuo6YGagjfM" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -94,13 +94,13 @@ Check out these resources to help you jet-start your journey to build your own b
 </div>
 
  
-<h5 class="margin--bottom--lg" id="playlist-happy"><b>Playlist: How to be Happy at Work</b></h5>
+<h5 id="playlist-happy" class="margin--bottom--lg"><b>Playlist: How to be Happy at Work</b></h5>
 Happiness at work (and life) can be simple – learn ways to stop saying “yes” on impulse, how to make your life easier, and how you can use “monk mode” regularly for uninterrupted blocks of super-productive time.
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/vs-Km-0QsBc"></iframe>
+      <iframe src="https://www.youtube.com/embed/vs-Km-0QsBc" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -114,7 +114,7 @@ Happiness at work (and life) can be simple – learn ways to stop saying “yes�
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7lECIsRif10"></iframe>
+      <iframe src="https://www.youtube.com/embed/7lECIsRif10" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -127,7 +127,7 @@ Happiness at work (and life) can be simple – learn ways to stop saying “yes�
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/O0yxJH2i0DE"></iframe>
+      <iframe src="https://www.youtube.com/embed/O0yxJH2i0DE" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -137,13 +137,13 @@ Happiness at work (and life) can be simple – learn ways to stop saying “yes�
   </div>
 </div>
  
-<h5 class="margin--bottom--lg" id="playlist-job"><b>Playlist: Chicken Soup for the Jobseeker’s Soul</b></h5>
+<h5 id="playlist-job" class="margin--bottom--lg"><b>Playlist: Chicken Soup for the Jobseeker’s Soul</b></h5>
 Reduce your nervousness and frustration with your job search with these videos. Discover the top questions that local interviewers like to ask, how to make your LinkedIn profile a honey trap, and how to get into the optimal mindset while you are on the hunt. 
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/548TF1Dkkfs"></iframe>
+      <iframe src="https://www.youtube.com/embed/548TF1Dkkfs" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -156,7 +156,7 @@ Reduce your nervousness and frustration with your job search with these videos. 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/r3yiGbnPYFI"></iframe>
+      <iframe src="https://www.youtube.com/embed/r3yiGbnPYFI" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -169,7 +169,7 @@ Reduce your nervousness and frustration with your job search with these videos. 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/tVKfJ6z4fYg"></iframe>
+      <iframe src="https://www.youtube.com/embed/tVKfJ6z4fYg" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -218,7 +218,7 @@ Source: <a href="https:/www.resumewriter.sg/blog/how-to-write-a-winning-resume-y
 <h5><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&amp;l=JHT1">Get Hired Now! How to Accelerate Your Job Search, Stand Out, and Land Your Next Great Opportunity</a></h5>
 Ian Siegel (2021), <i> Get Hired Now!</i>, Wiley.
 <br>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&amp;l=JHT1"><img src="/images/career/adults/GetHiredNow.jpg" style="width:300px; text-align:left;" alt="Book cover for Get Hired Now"></a>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&amp;l=JHT1"><img alt="Book cover for Get Hired Now" style="width:300px; text-align:left;" src="/images/career/adults/GetHiredNow.jpg"></a>
 <p>Get step-by-step instructions, insider tips and insights from the founder and CEO of a recruiting company, based on the author’s observations of how employers really make hires.</p>
 <p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&amp;l=JHT1">Borrow the eBook here</a>. </p>
 Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
@@ -226,7 +226,7 @@ Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/m
 <h5><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=514C11B6-CAFF-4F1D-8B31-48F6A8A01CFD&amp;l=JHT2">Next Job, Best Job: A Headhunter's 11 Strategies to Get Hired Now</a></h5>
 Rob Barnett (2021), <i>Next Job, Best Job</i>, Citadel Press.
 <p>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=514C11B6-CAFF-4F1D-8B31-48F6A8A01CFD&amp;l=JHT2"><img src="/images/career/adults/NextJobBestJob.jpg" style="width:300px; text-align:left;" alt="Book cover for Next Job, Best Job"></a>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=514C11B6-CAFF-4F1D-8B31-48F6A8A01CFD&amp;l=JHT2"><img alt="Book cover for Next Job, Best Job" style="width:300px; text-align:left;" src="/images/career/adults/NextJobBestJob.jpg"></a>
 </p>
 <p>Getting demoralised and frustrated about the job hunt? This book stands out from other similar guides by adding strategies on how to stay focused amid rejections, using what the author learnt from overcoming his own struggles. </p>
 <p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=514C11B6-CAFF-4F1D-8B31-48F6A8A01CFD&amp;l=JHT2">Borrow the eBook here</a>. </p>
@@ -239,7 +239,7 @@ Your Guide to a Lifetime of Meaningful Work and Career Success
 </h5>
 Richard N. Bolles &amp; Katharine Brooks (2020), <i>What Color Is Your Parachute? 2021</i>, Clarkson Potter/Ten Speed.
 <br>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&amp;l=JHT3"><img src="/images/career/adults/WhatColorisyourParachute.jpg" style="width:300px; text-align:left;" alt="Book cover for What Color is Your Parachute"></a>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&amp;l=JHT3"><img alt="Book cover for What Color is Your Parachute" style="width:300px; text-align:left;" src="/images/career/adults/WhatColorisyourParachute.jpg"></a>
 <p>On top of guiding you on resumes and interviews, this classic practical manual also helps you discover what types of careers best match your values, strengths and passions.</p><p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&amp;l=JHT3">Borrow the eBook here</a>.</p>
 Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 
@@ -247,7 +247,7 @@ Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/m
 <p>Want to attend workshops on resume-writing and interviewing skills? Or are you hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at .<a href="https://go.gov.sg/get-professional-series"> go.gov.sg/get-professional-series</a>.
 </p>
 
-<h3 id="lp-biz" class="has-text-ruby"><b>Learning Package: How to Start Your Own Business</b></h3>
+<h3 class="has-text-ruby" id="lp-biz"><b>Learning Package: How to Start Your Own Business</b></h3>
 <h4 class="has-text-ruby">Introduction</h4>
 <p> Having a great business idea is the first step to starting a business of your own. With many home-based businesses requiring minimal start-up costs and the proliferation of social media to attract new customers, the prospect of being your own boss certainly seems within reach.
 <br>
@@ -269,7 +269,7 @@ Here are some resources to get you started.</p>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/awnn-bqV_Tw" class="responsive-iframe"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/awnn-bqV_Tw"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -282,7 +282,7 @@ Here are some resources to get you started.</p>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/87WNMAtZozI" class="responsive-iframe"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/87WNMAtZozI"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -294,39 +294,39 @@ Here are some resources to get you started.</p>
 
 <h4 class="has-text-ruby">Article</h4>
 
-<h5 class="has-text-ruby"><a href="https://www.fundera.com/blog/small-business-podcasts" class="has-text-ruby">21 Inspiring Podcasts Every Small Business Owner Should Download</a></h5>
+<h5 class="has-text-ruby"><a class="has-text-ruby" href="https://www.fundera.com/blog/small-business-podcasts">21 Inspiring Podcasts Every Small Business Owner Should Download</a></h5>
 <p>Find inspirations to get yourself through different aspects of starting your own business with these 21 recommended podcasts catered for startups and small businesses.</p>
-Source: <a href="https://www.fundera.com/blog/small-business-podcasts" class="has-text-ruby">21 Inspiring Podcasts Every Small Business Owner Should Download</a> (2020, Feb 6). <i> Fundera</i>. Retrieved 2021, October 21
+Source: <a class="has-text-ruby" href="https://www.fundera.com/blog/small-business-podcasts">21 Inspiring Podcasts Every Small Business Owner Should Download</a> (2020, Feb 6). <i> Fundera</i>. Retrieved 2021, October 21
 
 <h4 class="has-text-ruby">eBooks</h4>
-<h5 class="has-text-ruby"><a href="https://nlb.overdrive.com/media/5850187" class="has-text-ruby">How to Start Your Own Business … And Make it Work</a></h5>
+<h5 class="has-text-ruby"><a class="has-text-ruby" href="https://nlb.overdrive.com/media/5850187">How to Start Your Own Business … And Make it Work</a></h5>
 DK (2021), <i>How to Start Your Own Business: And Make it Work</i>, London: Dorling Kindersley Ltd.
 <br>
-<a href="https://nlb.overdrive.com/media/5850187" class="has-text-ruby"><img alt="Book cover for How to Start Your Own Business" style="width:300px; text-align:left;" src="/images/career/adults/HowtoStartYourOwnBusiness.jpg"></a>
+<a class="has-text-ruby" href="https://nlb.overdrive.com/media/5850187"><img src="/images/career/adults/HowtoStartYourOwnBusiness.jpg" style="width:300px; text-align:left;" alt="Book cover for How to Start Your Own Business"></a>
 <p> In this visual guide, learn ways to turn your business idea into a reality. With practical, authoritative and insightful advice from business managers, learn the basics to make your start-up stand out from the crowd.</p>
-<p><a href="https://nlb.overdrive.com/media/5850187" class="has-text-ruby">Borrow the eBook here</a>. </p>
-Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" class="has-text-ruby">myLibrary username</a> is required to access the eBook).
+<p><a class="has-text-ruby" href="https://nlb.overdrive.com/media/5850187">Borrow the eBook here</a>. </p>
+Retrieved from OverDrive (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 
-<h5><a href="”https://nlb.overdrive.com/media/4177541&quot;" class="has-text-ruby"> Start Your Own Business:<br>The Only Startup Book You'll Ever Need </a></h5>
+<h5><a class="has-text-ruby" href="”https://nlb.overdrive.com/media/4177541&quot;"> Start Your Own Business:<br>The Only Startup Book You'll Ever Need </a></h5>
 The Staff of Entrepreneur Media, Inc., (2018), <i>Start Your Own Business: The Only Startup Book You'll Ever Need</i>, California: Entrepreneur Press.
 <p>
-<a href="https://nlb.overdrive.com/media/4177541" class="has-text-ruby"><img alt="Book cover for Start Your Own Business: The Only Startup Book You'll Ever Need" style="width:300px; text-align:left;" src="/images/career/adults/StartYourOwnBusiness.jpg"></a>
+<a class="has-text-ruby" href="https://nlb.overdrive.com/media/4177541"><img src="/images/career/adults/StartYourOwnBusiness.jpg" style="width:300px; text-align:left;" alt="Book cover for Start Your Own Business: The Only Startup Book You'll Ever Need"></a>
 </p>
 <p> A guide for people who want to earn money on the side with the dream of growing their business. This book provides expert advice to guide new entrepreneurs for the first 3 years.</p>
-<p><a href="”https://nlb.overdrive.com/media/4177541&quot;" class="has-text-ruby">Borrow the eBook here</a>. </p>
-Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" class="has-text-ruby">myLibrary username</a> is required to access the eBook).
+<p><a class="has-text-ruby" href="”https://nlb.overdrive.com/media/4177541&quot;">Borrow the eBook here</a>. </p>
+Retrieved from OverDrive (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 	
-<h5><a href="https://nlb.overdrive.com/media/4568823" class="has-text-ruby">Entrepreneurship: How to Start and Grow Your Own Business</a>
+<h5><a class="has-text-ruby" href="https://nlb.overdrive.com/media/4568823">Entrepreneurship: How to Start and Grow Your Own Business</a>
 </h5>
 Brian Tracy (2019), <i>Entrepreneurship: How to Start and Grow Your Own Business</i>, New York: G&amp;D Media.
 <br>
-<a href="https://nlb.overdrive.com/media/4568823"><img alt="Book cover for Entrepreneurship: How to Start and Grow Your Own Business" style="width:300px; text-align:left;" src="/images/career/adults/Entrepreneurship.jpg"></a>
+<a href="https://nlb.overdrive.com/media/4568823"><img src="/images/career/adults/Entrepreneurship.jpg" style="width:300px; text-align:left;" alt="Book cover for Entrepreneurship: How to Start and Grow Your Own Business"></a>
 <p>Learn the skill sets required to be an entrepreneur from business consultant and writer Brian Tracy. These include ways to create a realistic business plan and use sales and marketing to fuel growth.</p>
-<p><a href="https://nlb.overdrive.com/media/4568823" class="has-text-ruby">Borrow the eBook here</a>.</p>
-Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" class="has-text-ruby">myLibrary username</a> is required to access the eBook).
+<p><a class="has-text-ruby" href="https://nlb.overdrive.com/media/4568823">Borrow the eBook here</a>.</p>
+Retrieved from OverDrive (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 
 <h4 class="has-text-ruby"><b>Programmes</b></h4>
-<p>Sign up for our programmes for entrepreneurs through this link: <a href="https://go.gov.sg/breakthrough-series" class="has-text-ruby">go.gov.sg/breakthrough-series</a>.
+<p>Sign up for our programmes for entrepreneurs through this link: <a class="has-text-ruby" href="https://go.gov.sg/breakthrough-series">go.gov.sg/breakthrough-series</a>.
 </p>
 <h4 class="has-text-ruby">References</h4>
 <ol>
@@ -337,7 +337,7 @@ Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-wi
 
 <!-- start Learning Package 3: Communication at Work -->
 
-<h3 id="lp-comm" class="has-text-ruby"><b>Learning Package: Communication at Work</b></h3>
+<h3 class="has-text-ruby" id="lp-comm"><b>Learning Package: Communication at Work</b></h3>
 <h4 class="has-text-ruby">Introduction</h4>
 <p> With the right resources and tips, anyone can become a better communicator. To help you take your communication skills at work to the next level, check out the resources we have compiled here. </p>
 <table border="1">
@@ -356,7 +356,7 @@ Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-wi
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/v90HldmKvNA" class="responsive-iframe"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/v90HldmKvNA"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -369,7 +369,7 @@ Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-wi
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/1XctnF7C74s" class="responsive-iframe"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/1XctnF7C74s"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -381,44 +381,43 @@ Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-wi
 
 <h4 class="has-text-ruby">Articles</h4>
 
-<h5 class="has-text-ruby"><a href="https://hbr.org/2021/06/conquer-your-self-doubt-in-meetings" class="has-text-ruby">Conquer Your Self-Doubt in Meetings</a></h5>
+<h5 class="has-text-ruby"><a class="has-text-ruby" href="https://hbr.org/2021/06/conquer-your-self-doubt-in-meetings">Conquer Your Self-Doubt in Meetings</a></h5>
 <p>For those who lack confidence to share their thoughts in a group setting, a global CEO coach explains exactly how they can successfully bring up their ideas - with impact and panache, to boot.</p>
-Source: <a href="https://hbr.org/2021/06/conquer-your-self-doubt-in-meetings" class="has-text-ruby">Conquer Your Self-Doubt in Meetings</a> (2021, Jun 21). Sabina Nawaz. Published on Harvard Business Review. Retrieved 2021, October 21
+Source: <a class="has-text-ruby" href="https://hbr.org/2021/06/conquer-your-self-doubt-in-meetings">Conquer Your Self-Doubt in Meetings</a> (2021, Jun 21). Sabina Nawaz. Published on Harvard Business Review. Retrieved 2021, October 21
 
 <h4 class="has-text-ruby">eBooks</h4>
-<h5 class="has-text-ruby"><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5F04388-8E11-490E-98A0-BA7E4DBB451E&amp;l=CW1" class="has-text-ruby">Message Received: 7 Steps to Break Down Communication Barriers at Work</a></h5>
+<h5 class="has-text-ruby"><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5F04388-8E11-490E-98A0-BA7E4DBB451E&amp;l=CW1">Message Received: 7 Steps to Break Down Communication Barriers at Work</a></h5>
 Mary E. Donohue (2020), <i>Message Received: 7 Steps to Break Down Communication Barriers at Work</i>, McGraw-Hill Education.
 <br>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5F04388-8E11-490E-98A0-BA7E4DBB451E&amp;l=CW1"><img alt="Book cover for Message Received" style="width:300px; text-align:left;" src="/images/career/adults/MessageReceived.png"></a>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5F04388-8E11-490E-98A0-BA7E4DBB451E&amp;l=CW1"><img src="/images/career/adults/MessageReceived.png" style="width:300px; text-align:left;" alt="Book cover for Message Received"></a>
 <p>Learn from social scientist and award-winning CEO Dr. Mary Donohue on how you can transform communication at the workplace from a stressor to a tool to alleviate stress.</p>
-<p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5F04388-8E11-490E-98A0-BA7E4DBB451E&amp;l=CW1" class="has-text-ruby">Borrow the eBook here</a>. </p>
-Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" class="has-text-ruby">myLibrary username</a> is required to access the eBook).
+<p><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5F04388-8E11-490E-98A0-BA7E4DBB451E&amp;l=CW1">Borrow the eBook here</a>. </p>
+Retrieved from Libby (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 
-<h5><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F07A0DD9-95D2-4511-A9E7-CC08896FC52B&amp;l=CW2" class="has-text-ruby">A World Without Email: Reimagining Work in an Age of Communication Overload</a></h5>
+<h5><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=F07A0DD9-95D2-4511-A9E7-CC08896FC52B&amp;l=CW2">A World Without Email: Reimagining Work in an Age of Communication Overload</a></h5>
 Cal Newport (2021), <i>A World Without Email</i>, Penguin Publishing Group.
 <p>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F07A0DD9-95D2-4511-A9E7-CC08896FC52B&amp;l=CW2" class="has-text-ruby"><img alt="Book cover for A World Without Email" style="width:300px; text-align:left;" src="/images/career/adults/AWorldWithoutEmail.png"></a>
+<a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=F07A0DD9-95D2-4511-A9E7-CC08896FC52B&amp;l=CW2"><img src="/images/career/adults/AWorldWithoutEmail.png" style="width:300px; text-align:left;" alt="Book cover for A World Without Email"></a>
 </p>
 <p>How do we escape a workday filled with constant digital chatter and actually focus on doing work? Cal Newport offers a series of principles and concrete instructions on how important communication can be improved and streamlined.</p>
-<p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F07A0DD9-95D2-4511-A9E7-CC08896FC52B&amp;l=CW2" class="has-text-ruby">Borrow the eBook here</a>. </p>
-<p>Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" class="has-text-ruby">myLibrary username</a> is required to access the eBook).</p>
+<p><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=F07A0DD9-95D2-4511-A9E7-CC08896FC52B&amp;l=CW2">Borrow the eBook here</a>. </p>
+<p>Retrieved from Libby (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</p>
 	
-<h5><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5B213EE-2DE0-4D08-86AB-31613217D30E&amp;l=CW3" class="has-text-ruby">How to Write Effective Business English</a>
+<h5><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5B213EE-2DE0-4D08-86AB-31613217D30E&amp;l=CW3">How to Write Effective Business English</a>
 </h5>
 Fiona Talbot (2019), <i>How to Write Effective Business English</i>, Kogan Page.
 <br>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5B213EE-2DE0-4D08-86AB-31613217D30E&amp;l=CW3"><img alt="Book cover for How to Write Effective Business English" style="width:300px; text-align:left;" src="/images/career/adults/HowtoWriteEffectiveBusinessEnglish.png"></a>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5B213EE-2DE0-4D08-86AB-31613217D30E&amp;l=CW3"><img src="/images/career/adults/HowtoWriteEffectiveBusinessEnglish.png" style="width:300px; text-align:left;" alt="Book cover for How to Write Effective Business English"></a>
 <p>Drawing from case studies and real-life scenarios, this book will walk you through how to respond in different situations, and help you express yourself in writing clearly, concisely, and confidently.</p>
-<p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5B213EE-2DE0-4D08-86AB-31613217D30E&amp;l=CW3" class="has-text-ruby">Borrow the eBook here</a>.</p>
-Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" class="has-text-ruby">myLibrary username</a> is required to access the eBook).
+<p><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5B213EE-2DE0-4D08-86AB-31613217D30E&amp;l=CW3">Borrow the eBook here</a>.</p>
+Retrieved from Libby (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 
 <h4 class="has-text-ruby"><b>Programmes</b></h4>
-<p>Hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at .<a href="https://go.gov.sg/get-professional-series" class="has-text-ruby"> go.gov.sg/get-professional-series</a>.
+<p>Hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at .<a class="has-text-ruby" href="https://go.gov.sg/get-professional-series"> go.gov.sg/get-professional-series</a>.
 </p>
 <h4>References</h4>
-<ol>
-	<li><a href="https://www.indeed.com/career-advice/career-development/top-job-skills" id="footnote-four">12 Top Job Skills for Any Industry: Transferable Skills You Need</a>. (2021, April 20). Indeed. Retrieved 2021, October 18 from <a href="https://www.indeed.com/career-advice/career-development/top-job-skills">https://www.indeed.com/career-advice/career-development/top-job-skills</a></li>
-	<li><a href="https://www.valamis.com/hub/types-of-communication”>Types of Communication</a>. (2021, January 19). Valamis. Retrieved 2021, October 18 from <a href=" id="footnote-five">https://www.valamis.com/hub/types-of-communication</a> </li>
-</ol>
+4. <a id="footnote-four" href="https://www.indeed.com/career-advice/career-development/top-job-skills">12 Top Job Skills for Any Industry: Transferable Skills You Need</a>. (2021, April 20). Indeed. Retrieved 2021, October 18 from <a href="https://www.indeed.com/career-advice/career-development/top-job-skills">https://www.indeed.com/career-advice/career-development/top-job-skills</a>
+<br>
+5. <a id="footnote-five”>Types of Communication</a>. (2021, January 19). Valamis. Retrieved 2021, October 18 from <a href=" href="https://www.valamis.com/hub/types-of-communication">https://www.valamis.com/hub/types-of-communication</a>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
