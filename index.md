@@ -21,11 +21,9 @@ sections:
           description: 30 Characters Here
           url: /sustainability/overview
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Learning is a lot more fun when you have like-minded peo...
+      button: Explore Communities
+      url: /communities/what-is-a-learnx-community
   - infopic:
       title: LAB25
       description: 160 Characters
