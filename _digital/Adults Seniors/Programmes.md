@@ -94,4 +94,4 @@ Tech Bazaars, leveraging on libraries to serve as Tech Experience Touchpoints, e
 
 Click here for the latest Tech Bazaar programme listings.
 
-<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

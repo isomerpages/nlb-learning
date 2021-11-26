@@ -20,7 +20,7 @@ If you would like to find out more about what a smartphone can do for you in you
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Use Your Phone To Pay Everything! A Day in Singapore Without Cash & EZ-Link | Apple Pay & Grab Pay</b><br>
+    <p><b>Use Your Phone To Pay Everything! A Day in Singapore Without Cash & EZ-Link | Apple Pay & Grab Pay</b><br>
 Watch how one Singaporean goes around the island performing his day-to-day activities without his wallet. You will be amazed at the multitude of things you can accomplish with just a smartphone!</p>
     <small>Source: Use Your Phone To Pay Everything! A Day in Singapore Without Cash & EZ-Link | Apple Pay & Grab Pay - Youtube (2020, Oct 19). Retrieved 2021, October 20.</small>
   </div>
@@ -33,7 +33,7 @@ Watch how one Singaporean goes around the island performing his day-to-day activ
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Help Our Seniors Go Digital: Mothership Hits The Streets (Safe Distancing Edition)</b><br>
+    <p><b>Help Our Seniors Go Digital: Mothership Hits The Streets (Safe Distancing Edition)</b><br>
     Find out how our seniors are coping with the transition to digital platforms and how we can help them learn more about the various uses of their smartphones.</p>
     <small>Source: Help Our Seniors Go Digital: Mothership Hits The Streets (Safe Distancing Edition) - YouTube (2020, Apr 1). Retrieved 2021, Oct 20.</small>
   </div>
@@ -46,7 +46,7 @@ Watch how one Singaporean goes around the island performing his day-to-day activ
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">IMDA Digital Pods</b><br>
+    <p><b>IMDA Digital Pods</b><br>
     Explore a series of talks and tutorials geared towards helping seniors navigate the most useful smartphone apps available.</p>
     <small>Source: IMDA Digital Pods -Youtube (2021, Oct 10). Retrieved 2021, October 20.</small>
   </div>
@@ -67,7 +67,7 @@ Learn more about how to use the various popular social media platforms and find 
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Social Media Explained</b><br>
+    <p><b>Social Media Explained</b><br>
     In this clip, learn about the various social networks, the history and timeline on the development of social media sites.</p>
     <small>Source: Social Media Explained - Youtube (2019, Sep 9). Retrieved 2021, October 22.</small>
   </div>
@@ -80,7 +80,7 @@ Learn more about how to use the various popular social media platforms and find 
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">YouTube’s First Ever Video</b><br>
+    <p><b>YouTube’s First Ever Video</b><br>
     Some interesting facts about the first ever video posted on YouTube!</p>
     <small>Source: YouTube’s First Ever Video- YouTube (2019, Apr 23). Retrieved 2021, October 22.</small>
   </div>
@@ -94,7 +94,7 @@ src="https://www.youtube.com/embed/zomo9OKXW6I"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Your Social Media Posts Are Helping Criminals To Target You</b><br>
+    <p><b>Your Social Media Posts Are Helping Criminals To Target You</b><br>
     A clip of an episode of the documentary series “Why IT Matters”. It showcases the type of information that malicious persons can obtain from social media posts. (Or why is it important to know how to be safe on social media).</p>
     <small>Source: Your Social Media Posts Are Helping Criminals To Target You-Youtube (2019, Jan 16). Retrieved 2021, October 22.</small>
   </div>
@@ -116,7 +116,7 @@ src="https://player.vimeo.com/video/221117048"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">1997: Birth of the Camera Phone</b><br>
+    <p><b>1997: Birth of the Camera Phone</b><br>
     The story of how the first photo was sent by a cell phone in real time that eventually became an important part of our modern life.</p>
     <small> Source: 1997: Birth of the Camera Phone (2017, June 10). Conscious Minds Vimeo. Retrieved 2021 October 2020.</small>
   </div>
@@ -129,7 +129,7 @@ src="https://player.vimeo.com/video/221117048"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">What is a Makerspace?</b><br>
+    <p><b>What is a Makerspace?</b><br>
     Understanding what a makerspace is and what the makerspace means to the students.</p>
     <small> Source: What is a Makerspace? (2013, Sep 1). Retrieved 2021 October 2020.</small>
   </div>
@@ -143,7 +143,7 @@ src="https://www.youtube.com/embed/llNNrrDZZdE"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> While You Were Sleeping – Darren Soh </b><br>
+    <p><b> While You Were Sleeping – Darren Soh </b><br>
     A documentary featuring Darren Soh where he shares his story and photographs documenting night landscapes in Singapore and how the places has changed over the years.</p>
     <small> Source: While You Were Sleeping – Darren Soh (2021, Mar 31). Retrieved 2021 October 2020.</small>
   </div>
@@ -165,7 +165,7 @@ Learn how you can reclaim positive online experiences and improve your relations
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Digital Wellbeing: Technology and our daily lives</b><br>
+    <p><b>Digital Wellbeing: Technology and our daily lives</b><br>
     In this video, catch a glimpse of how different people relate to technology in their everyday lives. Have a quick think about what it means to have a healthy relationship with technology in this digital age.</p>
     <small> Source: Digital Wellbeing: Technology and our daily lives (2019, May 8). Google. Retrieved 2021, October 11.</small>
   </div>
@@ -178,7 +178,7 @@ Learn how you can reclaim positive online experiences and improve your relations
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">What is digital wellness and why is it important</b><br>
+    <p><b>What is digital wellness and why is it important</b><br>
     Learn about what digital wellness is and why it is important in ensuring good work-life integration, especially in a world that is increasingly dependent on technology to make it go round.</p>
     <small>What is digital wellness and why is it important (2020, September 26). Citrix. Retrieved 2021, October 12.</small>
   </div>
@@ -203,7 +203,7 @@ Interested to find out more about cybercrime and the domain in which it lurks? W
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">What is Cybercrime? Types of Cybercrime and Cyberattacks</b><br>
+    <p><b>What is Cybercrime? Types of Cybercrime and Cyberattacks</b><br>
 Find out what exactly is cybercrime and the different forms it can take in our world today.</p>
     <small> Source: What is Cybercrime? Types of Cybercrime and Cyberattacks (2020, January 11). Eye on Tech. Retrieved 2021, October 12.</small>
   </div>
@@ -216,7 +216,7 @@ Find out what exactly is cybercrime and the different forms it can take in our w
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Ex-Cyber Criminal Answers Burning Questions About The Dark Web </b><br>
+    <p><b>Ex-Cyber Criminal Answers Burning Questions About The Dark Web </b><br>
     Join an ex-cyber criminal in unpacking the dark web, finding out what exactly makes it “dark”, and drawing the line between criminal and non-criminal Internet activity.</p>
     <small>Source: Ex-Cyber Criminal Answers Burning Questions About The Dark Web (2020, May 23). BuzzFeedVideo. Retrieved 2021, October 12.</small>
   </div>
@@ -243,7 +243,7 @@ Watch these videos to learn more about design thinking, the process behind good 
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">How to solve problems like a designer</b><br>
+    <p><b>How to solve problems like a designer</b><br>
 Unpack the steps designers take in the innovation process, and find out how Design Thinking can help to address problems and meet different needs.</p>
     <small> Source: How to solve problems like a designer (2017, September 21). Vox. Retrieved 2021, October 12.</small>
   </div>
@@ -256,7 +256,7 @@ Unpack the steps designers take in the innovation process, and find out how Desi
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">IDEO-U | What is Design Thinking?</b><br>
+    <p><b>IDEO-U | What is Design Thinking?</b><br>
 Catch a glimpse of how Design Thinking has human interest and wellbeing at its core, and learn how the potential for creative problem-solving lies in every individual.</p>
     <small>Source: IDEO-U | What is Design Thinking? (2018, December 6). IDEO U. Retrieved 2021, October 12.</small>
   </div>
@@ -499,7 +499,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 </ol>
 
 
-<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
 <h1>Learning Package: Digital Creation</h1>
 <h2>Introduction</h2>

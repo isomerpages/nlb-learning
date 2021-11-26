@@ -6,7 +6,7 @@ third_nav_title: Teens
 ---
 These programmes will give you the power to expand your opportunities. Explore the topics you like and open up a world of possibilities.
 
-<h3 class="has-text-ruby"><b>Teens Takeover I | Portfolio</b></h3>
+<h3><b>Teens Takeover I | Portfolio</b></h3>
 
 ![Teens Takeover](/images/career/teens/programmes-teens-takeover-1.jpg)
 
@@ -14,7 +14,7 @@ Get a head start on your future by checking out our career-related programmes. T
 
 Click [here](https://go.gov.sg/nlb-teenstakeover){:target="_blank" } for the latest programme listings.
 
-<h3 class="has-text-ruby"><b>Human Library</b></h3>
+<h3><b>Human Library</b></h3>
 
 ![Teens Human library](/images/career/teens/programmes-human-library-1.png)
 
@@ -22,4 +22,4 @@ Get invaluable career insights and connect first-hand with successful individual
 
 Click [here](https://go.gov.sg/nlb-teenstakeover){:target="_blank" } for the latest programme listings.
 
-<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-ruby">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

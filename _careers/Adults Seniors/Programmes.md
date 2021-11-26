@@ -87,4 +87,4 @@ Topics covered:
 
 Click here to learn more about this programme.
 
-<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-ruby">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

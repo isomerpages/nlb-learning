@@ -6,7 +6,7 @@ third_nav_title: Teens
 ---
 Busy chasing dreams? These resources will help you get there faster.
 
-<h3 class="has-text-ruby"><b>Playlist</b></h3>
+<h3><b>Playlist</b></h3>
 A collection of short videos and podcasts to inspire you as you make that all-important decision on what career path to take.
 
 <h5 class="has-text-ruby margin--bottom--lg"><b>Playlist: A Day in the Life of: Healthcare Professionals</b></h5>
@@ -18,7 +18,7 @@ A collection of short videos and podcasts to inspire you as you make that all-im
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-ruby">On My Way!: A Day in the Life of a Surgeon (5 min)</b><br>
+    <p><b>On My Way!: A Day in the Life of a Surgeon (5 min)</b><br>
     Join Dr Hamid Razak as he gives us a peek into the true life of a surgeon.</p>
     <small>Source: On My Way!: A Day in the Life of a Surgeon - YouTube (2020, Dec 14). NYCSingapore. Retrieved 2021, October 22.</small>
   </div>
@@ -31,7 +31,7 @@ A collection of short videos and podcasts to inspire you as you make that all-im
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-ruby">Nursing for Life Episode 1: Growing Up Years (3 min)</b><br>
+    <p><b>Nursing for Life Episode 1: Growing Up Years (3 min)</b><br>
     Follow the journey of five nurses as they see patients through every life stage.</p>
     <small>Source: Nursing for Life Episode 1: Growing Up Years - YouTube (2016, Dec 27). Care to Go Beyond. Retrieved 2021, October 22.</small>
   </div>
@@ -44,13 +44,13 @@ A collection of short videos and podcasts to inspire you as you make that all-im
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-ruby">What It’s Like Being A Medical Social Worker In Singapore (4 min)</b><br>
+    <p><b>What It’s Like Being A Medical Social Worker In Singapore (4 min)</b><br>
     A medical social worker from Jamiyah Nursing Home explains how his role is different from social workers and touches on some of the challenges he faces at work.</p>
     <small>Source: What it’s like being a Medical Social Worker in Singapore - YouTube (2020, Dec 24). Agency for Integrated Care (AIC) Singapore. Retrieved 2021, October 22.</small>
   </div>
 </div>
 
-<h3 class="has-text-ruby"><b>Learning Package</b></h3>
+<h3><b>Learning Package</b></h3>
 Get a glimpse of what it takes to achieve your aspirations with these articles and activities.
 
 <h5 class="has-text-ruby margin--bottom--lg"><b>Teen Things: Emailing 101</b></h5>
@@ -98,4 +98,4 @@ Synopsis from [Harper Collins](https://www.harpercollins.com/){:target="_blank" 
 
 The book covers and synopses are the copyright of the respective publishing companies. (All websites were last accessed on 8 October 2021.)
 
-<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-ruby">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

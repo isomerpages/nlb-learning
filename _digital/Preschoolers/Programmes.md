@@ -19,4 +19,4 @@ Some topics that will be covered include:
 
 [Click here](#) for the latest programme listings.
 
-<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
