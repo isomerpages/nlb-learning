@@ -8,7 +8,7 @@ Get your child to fall in love with nature through these activities and videos c
 
 Check out our **playlist** for a collection of short videos exploring topics around sustainability.
 
-Check our **learning packages** for fun facts and activities that show our little ones interesting ways to protect nature.
+Explore our **learning packages** for fun facts and activities that show our little ones interesting ways to protect nature.
 
 <h3 class="has-text-jade"><b>Playlist: 3 Rs for young children</b></h3>
 
@@ -28,7 +28,7 @@ Check out the video resources below to help your child understand more about the
   </div>
   <div class="col is-three-fifths">
     <p><b class="has-text-jade">Going Green! | Earth Day song for kids about the three Rs: Reduce, Reuse and Recycle! (2 mins 39 sec)</b><br>
-    A catchy song about how to take care of the Earth! In this song, children will learn about the three Rs—Reduce, Reuse, and Recycle.They will learn simple, practical things that they can do to reduce waste and consumption, reuse old items and recycle appropriate materials.</p>
+    A catchy song about how to take care of the Earth! In this song, children will learn about the three Rs—Reduce, Reuse, and Recycle. They will learn simple, practical things that they can do to reduce waste and consumption, reuse old items and recycle appropriate materials.</p>
     <small>Source: Harry Kindergarten Music. Going Green! - Earth Day song for kids about the three Rs - Reduce, Reuse, and Recycle! - Youtube (2013, Aug 18). Retrieved 2021, October 20.</small>
   </div>
 </div>

@@ -8,7 +8,7 @@ Find a LearnX Community that best suits your needs!
 
 Head over to [GoLibrary](https://go.gov.sg/lcsessions){:target="_blank"} to register for upcoming sessions of your chosen LearnX Community. 
 
-If you do not see any upcoming events, [send in an enquiry](mailto:enquiry@nlb.gov.sg) and we’ll get back to you with any updates.
+If you do not see any upcoming events, [send in an enquiry](mailto:enquiry@nlb.gov.sg) and we’ll get back to you with updates.
 
 <div class="row is-multiline margin--top--lg">
   <div class="col is-half">
@@ -47,7 +47,7 @@ If you do not see any upcoming events, [send in an enquiry](mailto:enquiry@nlb.g
 <div class="row is-multiline">
   <div class="col is-half">
     <div class="clickbox is-arts">
-      <a href="/communities/join/art-communities">
+      <a href="/communities/join/arts-communities">
         <span>Arts Communities</span>
       </a>
     </div>
