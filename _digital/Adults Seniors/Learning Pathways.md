@@ -161,8 +161,8 @@ Learn to use your smartphone effectively and safely to have knowledge at your fi
       <tr>
         <td style="width: 20%;"><a href="/digital/adults-seniors/content" class="has-text-indigo"><b>Using Your Smartphone Learning Package and Play List</b></a></td>
         <td style="width: 40%;">Learn to use your smartphones effectively!</td>
-        <td style="width: 20%;">Available online</td>
-        <td style="width: 20%;">LEARNX</td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
       </tr>
     </tbody>
   </table>
