@@ -23,7 +23,7 @@ Go green with your child towards an eco-friendly future together.
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/sustainability/children/content"><b> Learning Package<br>Home Gardening for Kids</b></a></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child"><b> Learning Package<br>Home Gardening for Kids</b></a></td>
         <td> Children and parents can bond over this Stay Curious with Your Child activity on gardening, accompanied by recommended reads.</td>
         <td></td>
         <td> </td>
