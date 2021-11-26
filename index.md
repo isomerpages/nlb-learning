@@ -36,7 +36,7 @@ sections:
   - infopic:
       title: <img src"/images/home/logo-nyp-white.png">
       subtitle: Partners
-      description: Infopic description
+      description: 160 Characters
       button: Button Text
       image: /images/home/logo-nyp-white.png
       alt: Image alt text
