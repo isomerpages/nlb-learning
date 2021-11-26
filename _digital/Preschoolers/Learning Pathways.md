@@ -95,7 +95,7 @@ Participants will have a chance to experience Bee bot, a programmable robot in t
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank" class="has-text-indigo"><b>Budding Scientists: Baking Soda & Vinegar Balloons Experiment </b></a></td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-science-progs" target="_blank" class="has-text-indigo"><b>Budding Scientists: Baking Soda & Vinegar Balloons Experiment </b></a></td>
         <td style="width: 40%;"> Children will learn about how chemical reactions work with this fun and exciting screen free activity!</td>
         <td style="width: 20%;">11 Dec 2021 <br>12pm - 3pm</td>
         <td style="width: 20%;">Zoom</td>
