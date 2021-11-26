@@ -51,7 +51,7 @@ Check out these resources that highlight tips on keeping your online information
   </table>
 </div>
 
-      <div class="horizontal-scroll margin--bottom--lg">
+<div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
       <tr>
