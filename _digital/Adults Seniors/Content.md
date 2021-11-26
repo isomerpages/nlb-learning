@@ -6,6 +6,23 @@ third_nav_title: Adults & Seniors
 ---
 In a hurry? Check out these videos, articles and programmes for a quick lesson on digital trends and technology.
 
+<h3 class="has-text-jade"><b>Playlist: Using Your Smartphone</b></h3>
+
+There are many useful and fun things you can do with your smartphone today. With its ability to access the Internet, a smartphone can do more than make a phone call or send a text message. Depending on your needs and interests, you can use a smartphone to look up information, play games, watch videos and even buy groceries. Today, a smartphone has become an important tool that provides its users with both convenience and ease, wherever you go!
+If you would like to find out more about what a smartphone can do for you in your everyday life, some resources have been compiled here. 
+
+<h5 class="has-text-jade margin--bottom--lg"><b>Videos</b></h5>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/RS3HnGGTt48"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-jade"> Use Your Phone To Pay Everything! A Day in Singapore Without Cash & EZ-Link | Apple Pay & Grab Pay</b><br>
+
+
 <h3><b>Playlist: Cyber wellness is just a click away!</b></h3>
 
 In a world heavily reliant on technology, issues such as digital burnout, social isolation and cyberbullying can be daunting. 
