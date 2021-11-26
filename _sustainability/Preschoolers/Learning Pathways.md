@@ -35,13 +35,7 @@ What can we do to protect the environment around us? Do you know the different t
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/preschoolers/content" class="has-text-jade"><b>The Green Economy</b></a></td>
-        <td>Dive deeper into the Green Economy with this curated list of recommended resources. </td>
-        <td></td>
-        <td> </td>
-      </tr>
-<tr>
-        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b> 3 Rs for Children</b></a></td>
+        <td><a href="/sustainability/preschoolers/content" class="has-text-jade"><b> 3 Rs for Children</b></a></td>
         <td>Video resources to help children understand more about the 3Rs and how to take care of the environment.</td>
         <td></td>
         <td> </td>
