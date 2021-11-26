@@ -112,7 +112,7 @@ To help you understand and learn more about digital creations, do check out the 
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
       <iframe class="responsive-iframe" 
-src="https://www.vimeo.com/221117048"></iframe>
+src="https://player.vimeo.com/embed/221117048"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
