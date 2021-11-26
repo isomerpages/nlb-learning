@@ -34,10 +34,9 @@ sections:
       image: /images/home/logo-lab25-row-1.png
       alt: LAB25
   - infopic:
-      title: <img src"/images/home/logo-nyp-white.png">
+      title: Nanyang Polytechnic
       subtitle: Partners
       description: 160 Characters
-      button: Button Text
       image: /images/home/logo-nyp-white.png
-      alt: Image alt text
+      alt: NYP
 ---
