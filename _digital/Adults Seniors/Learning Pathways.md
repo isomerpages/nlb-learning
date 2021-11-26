@@ -179,7 +179,7 @@ Learn to use your smartphone effectively and safely to have knowledge at your fi
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs" target="_blank" class="has-text-indigo"><b>SG Digital Office</b></a></td>
+        <td style="width: 20%;"><a href="https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs" target="_blank" class="has-text-indigo"><b>[Basic Digital Skills]</b><br>SG Digital Office</a></td>
         <td style="width: 40%;"> Manned by “Digital Ambassadors”, these provide one-on-one personalised guidance on digital queries daily. Scope of service include 3 tiers of digital skills<br>
 •	Basic communication<br>
 •	Digital Government Services<br>
@@ -191,33 +191,33 @@ Woodlands Regional Library<br>
 Yishun Public Library<br></td>
       </tr>
       <tr>
-        <td><a href="https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys" target="_blank" class="has-text-indigo"><b>Library Learning Journey</b></a></td>
+        <td><a href="https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys" target="_blank" class="has-text-indigo"><b>[Basic Digital Skills]</b><br>Library Learning Journey</a></td>
         <td>LLJ equips participants with basic introductory knowledge on the library’s digital services e.g. eNewspapers, Wireless@SG, and NLB Mobile App.</td>
         <td>Available for daily walk-ins at selected public libraries.</td>
         <td>List of selected libraries available <a href="https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys" target="_blank" class="has-text-indigo">here</a>.
 </td>
       </tr>
 <tr>
-<td><a href="#" target="_blank" class="has-text-indigo"><b> Everyday Banking with POSB digibank</b></a></td>
+<td><a href="#" target="_blank" class="has-text-indigo"><b>[Basic Digital Skills]</b><br> Everyday Banking with POSB digibank</a></td>
         <td>This workshop provides a step-by-step guide to POSB digibank. Plus, learn how to protect yourself online with our #BSHARP security tips!</td>
         <td>6 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank" class="has-text-indigo"><b>Go Cashless with DBS PayLah!</b></a></td>
+<td><a href="#" target="_blank" class="has-text-indigo"><b>[Basic Digital Skills]</b><br>Go Cashless with DBS PayLah!</a></td>
         <td>Learn how to make your everyday easier with the DBS PayLah! app. Whether you are paying your friends, buying groceries or paying for your bills and more, enjoy convenience and seamless every day services with PayLah! 
 </td>
         <td>13 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank" class="has-text-indigo"><b>Make e-Payments with PayNow</b></a></td>
+<td><a href="#" target="_blank" class="has-text-indigo"><b>[Basic Digital Skills]</b><br>Make e-Payments with PayNow</a></td>
         <td>Learn about the benefits of PayNow and how to use PayNow on your POSB digibank app and internet banking. .</td>
         <td>20 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank" class="has-text-indigo"><b>Spotting Deepfake Images & Videos</b></a></td>
+<td><a href="#" target="_blank" class="has-text-indigo"><b>[S.U.R.E Skills Series]</b><br>Spotting Deepfake Images & Videos</a></td>
         <td>Learn more about Artificial Intelligence generated deepfake images and videos, how they work, and how to detect them.</td>
         <td>7 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
@@ -229,13 +229,13 @@ Yishun Public Library<br></td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank" class="has-text-indigo"><b>Social Impact of Technologies</b></a></td>
+<td><a href="#" target="_blank" class="has-text-indigo"><b>[My Digital Life]</b><br>Social Impact of Technologies</a></td>
         <td>Learn more about the positive and negative impact of technology in our daily lives</td>
         <td>2 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank" class="has-text-indigo"><b>Internet of Things</b></a></td>
+<td><a href="#" target="_blank" class="has-text-indigo"><b>[My Digital Life]</b><br>Internet of Things</a></td>
         <td>Find out more about the fundamentals of IoT at this workshop, including how some common sensors work, its interface to a microcontroller, and how the Internet fits into all of this..</td>
         <td>21 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
