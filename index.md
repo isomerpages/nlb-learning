@@ -4,32 +4,26 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: Welcome to LearnX
+      subtitle: 160 characters here
+      background: /images/home/masthead-icons-1366x507-1.gif
+      key_highlights:
+        - title: LearnX Digital
+          description: 30 Characters here
+          url: /digital/overview
+        - title: LearnX Careers
+          description: 30 Characters here
+          url: /careers/overview
+        - title: LearnX Sustainability
+          description: 30 Characters Here
+          url: /sustainability/overview
+  - infobar:
+      title: Infobar title
+      subtitle: Subtitle
+      description: About a sentence worth of description here
+      button: Button text
+      url: /faq/
 ---
