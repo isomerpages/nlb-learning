@@ -62,4 +62,4 @@ Get all the answers you need through enjoyable and engaging content that will de
 ![Explore Communities](/images/sustainability/learnx-sustainability-landing-overview-1.jpg)
 <small>Image credit: Alan Bay</small>
 
-<a href="/communities/join/sustainability-communities" class="bp-button is-jade-outline is-uppercase">Explore Communities</a>
+<a href="/communities/join/sustainability-communities" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>

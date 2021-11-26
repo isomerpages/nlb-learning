@@ -157,6 +157,16 @@ $desktop: 960px + (2 * $gap) !default;
 	color: $secondary !important;
 }
 
+// Text Style
+.has-weight-normal {
+  font-weight: normal !important;
+}
+
+.has-weight-bold {
+  font-weight: bold !important;
+}
+
+
 // Menu/Left-nav
 .bp-menu-list a.is-active {
 	color: $secondary !important;

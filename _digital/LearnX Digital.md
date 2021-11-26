@@ -63,4 +63,4 @@ We have created this Digital area of learning to be easy to access and understan
 <h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>
 ![Explore Communities](/images/digital/learnx-digital-landing-overview-1.jpg)
 
-<a href="/communities/join/digital-communities" class="bp-button is-indigo-outline is-uppercase">Explore Communities</a>
+<a href="/communities/join/digital-communities" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>
