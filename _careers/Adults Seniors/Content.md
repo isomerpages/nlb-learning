@@ -61,7 +61,7 @@ Check our **learning packages** for articles that will give you confidence in yo
 <h3><b>Playlists</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<h5 class="margin--bottom--lg" id="playlist-biz"><b>Playlist: Are you ready to start your own business?</b></h5>
+<h5 id="playlist-biz" class="margin--bottom--lg"><b>Playlist: Are you ready to start your own business?</b></h5>
 
 Starting your own business can be daunting. A single idea can light the spark to start your entrepreneurial endeavour, but several aspects must be considered before setting off.<br>
 
@@ -70,7 +70,7 @@ Check out these resources to help you jet-start your journey to build your own b
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/rmaeXiz2J8Y"></iframe>
+      <iframe src="https://www.youtube.com/embed/rmaeXiz2J8Y" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -83,7 +83,7 @@ Check out these resources to help you jet-start your journey to build your own b
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/cuo6YGagjfM"></iframe>
+      <iframe src="https://www.youtube.com/embed/cuo6YGagjfM" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -94,13 +94,13 @@ Check out these resources to help you jet-start your journey to build your own b
 </div>
 
  
-<h5 class="margin--bottom--lg" id="playlist-happy"><b>Playlist: How to be Happy at Work</b></h5>
+<h5 id="playlist-happy" class="margin--bottom--lg"><b>Playlist: How to be Happy at Work</b></h5>
 Happiness at work (and life) can be simple – learn ways to stop saying “yes” on impulse, how to make your life easier, and how you can use “monk mode” regularly for uninterrupted blocks of super-productive time.
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/vs-Km-0QsBc"></iframe>
+      <iframe src="https://www.youtube.com/embed/vs-Km-0QsBc" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -114,7 +114,7 @@ Happiness at work (and life) can be simple – learn ways to stop saying “yes�
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7lECIsRif10"></iframe>
+      <iframe src="https://www.youtube.com/embed/7lECIsRif10" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -127,7 +127,7 @@ Happiness at work (and life) can be simple – learn ways to stop saying “yes�
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/O0yxJH2i0DE"></iframe>
+      <iframe src="https://www.youtube.com/embed/O0yxJH2i0DE" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -137,13 +137,13 @@ Happiness at work (and life) can be simple – learn ways to stop saying “yes�
   </div>
 </div>
  
-<h5 class="margin--bottom--lg" id="playlist-job"><b>Playlist: Chicken Soup for the Jobseeker’s Soul</b></h5>
+<h5 id="playlist-job" class="margin--bottom--lg"><b>Playlist: Chicken Soup for the Jobseeker’s Soul</b></h5>
 Reduce your nervousness and frustration with your job search with these videos. Discover the top questions that local interviewers like to ask, how to make your LinkedIn profile a honey trap, and how to get into the optimal mindset while you are on the hunt. 
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/548TF1Dkkfs"></iframe>
+      <iframe src="https://www.youtube.com/embed/548TF1Dkkfs" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -156,20 +156,20 @@ Reduce your nervousness and frustration with your job search with these videos. 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/r3yiGbnPYFI"></iframe>
+      <iframe src="https://www.youtube.com/embed/r3yiGbnPYFI" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
     <p><b>Top 5 Job Search Strategies To Find A Job In 2021 by Daniel's Brew</b><br>
     Learn ways to stand out in the job market, including how to maximise your chances of getting opportunities through LinkedIn.</p>
-    <small>Source: Top 5 Job Search Strategies To Find A Job In 2021 (JOB SEARCH TACTICS & TECHNIQUES) (2020, Dec 15). Daniel's Brew.</small>
+    <small>Source: Top 5 Job Search Strategies To Find A Job In 2021 (JOB SEARCH TACTICS &amp; TECHNIQUES) (2020, Dec 15). Daniel's Brew.</small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/tVKfJ6z4fYg"></iframe>
+      <iframe src="https://www.youtube.com/embed/tVKfJ6z4fYg" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -215,36 +215,124 @@ Source: <a href="https://blog.seedly.sg/salary-guide-singapore/#median-wage">The
 Source: <a href="https:/www.resumewriter.sg/blog/how-to-write-a-winning-resume-your-ultimate-cv-guide/">How to Write a Winning CV in 2021</a> (2021, Sep 2). <i>ResumeWriter.SG</i>. Retrieved 2021, October 21
 
 <h4>eBooks</h4>
-<h5><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&l=JHT1">Get Hired Now! How to Accelerate Your Job Search, Stand Out, and Land Your Next Great Opportunity</a></h5>
+<h5><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&amp;l=JHT1">Get Hired Now! How to Accelerate Your Job Search, Stand Out, and Land Your Next Great Opportunity</a></h5>
 Ian Siegel (2021), <i> Get Hired Now!</i>, Wiley.
 <br>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&l=JHT1"><img src="/images/career/adults/GetHiredNow.jpg" style="width:300px; text-align:left;" alt="Book cover for Get Hired Now"></a>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&amp;l=JHT1"><img alt="Book cover for Get Hired Now" style="width:300px; text-align:left;" src="/images/career/adults/GetHiredNow.jpg"></a>
 <p>Get step-by-step instructions, insider tips and insights from the founder and CEO of a recruiting company, based on the author’s observations of how employers really make hires.</p>
-<p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&l=JHT1">Borrow the eBook here</a>. </p>
-<body>Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</body>
+<p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&amp;l=JHT1">Borrow the eBook here</a>. </p>
+Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 
-<h5><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=514C11B6-CAFF-4F1D-8B31-48F6A8A01CFD&l=JHT2">Next Job, Best Job: A Headhunter's 11 Strategies to Get Hired Now</a></h5>
+<h5><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=514C11B6-CAFF-4F1D-8B31-48F6A8A01CFD&amp;l=JHT2">Next Job, Best Job: A Headhunter's 11 Strategies to Get Hired Now</a></h5>
 Rob Barnett (2021), <i>Next Job, Best Job</i>, Citadel Press.
 <p>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=514C11B6-CAFF-4F1D-8B31-48F6A8A01CFD&l=JHT2"><img src="/images/career/adults/NextJobBestJob.jpg" style="width:300px; text-align:left;" alt="Book cover for Next Job, Best Job"></a>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=514C11B6-CAFF-4F1D-8B31-48F6A8A01CFD&amp;l=JHT2"><img alt="Book cover for Next Job, Best Job" style="width:300px; text-align:left;" src="/images/career/adults/NextJobBestJob.jpg"></a>
 </p>
 <p>Getting demoralised and frustrated about the job hunt? This book stands out from other similar guides by adding strategies on how to stay focused amid rejections, using what the author learnt from overcoming his own struggles. </p>
-<p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=514C11B6-CAFF-4F1D-8B31-48F6A8A01CFD&l=JHT2">Borrow the eBook here</a>. </p>
+<p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=514C11B6-CAFF-4F1D-8B31-48F6A8A01CFD&amp;l=JHT2">Borrow the eBook here</a>. </p>
 <p>Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</p>
 	
-<h5><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&l=JHT3">What Color Is Your Parachute? 2021
+<h5><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&amp;l=JHT3">What Color Is Your Parachute? 2021
 <br>
 Your Guide to a Lifetime of Meaningful Work and Career Success
 </a>
 </h5>
-Richard N. Bolles & Katharine Brooks (2020), <i>What Color Is Your Parachute? 2021</i>, Clarkson Potter/Ten Speed.
+Richard N. Bolles &amp; Katharine Brooks (2020), <i>What Color Is Your Parachute? 2021</i>, Clarkson Potter/Ten Speed.
 <br>
-<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&l=JHT3"><img src="/images/career/adults/WhatColorisyourParachute.jpg" style="width:300px; text-align:left;" alt="Book cover for What Color is Your Parachute"></a>
-<p>On top of guiding you on resumes and interviews, this classic practical manual also helps you discover what types of careers best match your values, strengths and passions.</p><p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&l=JHT3">Borrow the eBook here</a>.</p>
-<body>Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</body>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&amp;l=JHT3"><img alt="Book cover for What Color is Your Parachute" style="width:300px; text-align:left;" src="/images/career/adults/WhatColorisyourParachute.jpg"></a>
+<p>On top of guiding you on resumes and interviews, this classic practical manual also helps you discover what types of careers best match your values, strengths and passions.</p><p><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=DCDF70C3-CF1F-4CDD-8B51-C320237A30F3&amp;l=JHT3">Borrow the eBook here</a>.</p>
+Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 
 <h4><b>Programmes</b></h4>
 <p>Want to attend workshops on resume-writing and interviewing skills? Or are you hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at .<a href="https://go.gov.sg/get-professional-series"> go.gov.sg/get-professional-series</a>.
 </p>
+
+<h3 id="lp-biz" class="has-text-ruby"><b>Learning Package: How to Start Your Own Business</b></h3>
+<h4 class="has-text-ruby">Introduction</h4>
+<p> Having a great business idea is the first step to starting a business of your own. With many home-based businesses requiring minimal start-up costs and the proliferation of social media to attract new customers, the prospect of being your own boss certainly seems within reach.
+<br>
+Here are some resources to get you started.</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+			<h4 class="has-text-ruby">Did you know...</h4>
+			<ul>
+				<li>The total value of merchandise sold through social commerce in Singapore had an increase of nearly seven-fold over the first six months in 2020.<sup><a href="#footnote-one">1</a></sup></li><a href="#footnote-one">
+				</a><li><a href="#footnote-one">In just the first six months of 2021, about 23,000 new companies were incorporated in Singapore, 20 percent more than during the same period in 2020<sup></sup></a><a href="#footnote-two">2.</a></li><a href="#footnote-two">
+</a><li><a href="#footnote-two">During the circuit breaker in Singapore, more than three in five small businesses on Facebook made at least 25 per cent of the past month's sales digitally<sup></sup></a><a href="#footnote-three">3.</a></li><a href="#footnote-three">
+			</a></ul><a href="#footnote-three">
+		</a></td>
+	</tr>
+	</tbody></table>
+	
+<h4 class="has-text-ruby">Videos</h4>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe src="https://www.youtube.com/embed/awnn-bqV_Tw" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-ruby">How to Start a Business from NOTHING in 2021</b><br>
+    Learn how to start your own business from nothing, through a step-by-step framework by productivity expert and doctor Ali Abdaal. </p>
+    <small>Source: How to Start a Business from NOTHING in 2021 - Youtube (2021, Aug 25). Retrieved 2021, October 20.</small>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe src="https://www.youtube.com/embed/87WNMAtZozI" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-ruby">Starting Up a Business in Singapore with Jeff Cheong</b><br>
+    Listen in to an intimate conversation between a young and a seasoned entrepreneur, and learn about the 4 C’s which can bring businesses to a whole new level.</p>
+    <small>Source: Starting Up a Business in Singapore with Jeff Cheong - Youtube (2020, Oct 31). Retrieved 2021, October 20.</small>
+  </div>
+</div>
+
+<h4 class="has-text-ruby">Article</h4>
+
+<h5 class="has-text-ruby"><a href="https://www.fundera.com/blog/small-business-podcasts" class="has-text-ruby">21 Inspiring Podcasts Every Small Business Owner Should Download</a></h5>
+<p>Find inspirations to get yourself through different aspects of starting your own business with these 21 recommended podcasts catered for startups and small businesses.</p>
+Source: <a href="https://www.fundera.com/blog/small-business-podcasts" class="has-text-ruby">21 Inspiring Podcasts Every Small Business Owner Should Download</a> (2020, Feb 6). <i> Fundera</i>. Retrieved 2021, October 21
+
+<h4 class="has-text-ruby">eBooks</h4>
+<h5 class="has-text-ruby"><a href="https://nlb.overdrive.com/media/5850187" class="has-text-ruby">How to Start Your Own Business … And Make it Work</a></h5>
+DK (2021), <i>How to Start Your Own Business: And Make it Work</i>, London: Dorling Kindersley Ltd.
+<br>
+<a href="https://nlb.overdrive.com/media/5850187"><img href="https://nlb.overdrive.com/media/5850187" alt="Book cover for How to Start Your Own Business”></a>
+<p> In this visual guide, learn ways to turn your business idea into a reality. With practical, authoritative and insightful advice from business managers, learn the basics to make your start-up stand out from the crowd.</p>
+<p><a class=" style="width:300px; text-align:left;" src="/images/career/adults/ HowtoStartYourOwnBusiness.jpg">Borrow the eBook here</a>. <p></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" class="has-text-ruby">myLibrary username</a> is required to access the eBook).
+
+<h5><a href="”https://nlb.overdrive.com/media/4177541&quot;" class="has-text-ruby"> Start Your Own Business:<br>The Only Startup Book You'll Ever Need </a></h5>
+The Staff of Entrepreneur Media, Inc., (2018), <i>Start Your Own Business: The Only Startup Book You'll Ever Need</i>, California: Entrepreneur Press.
+<p>
+<a href="https://nlb.overdrive.com/media/4177541" class="has-text-ruby"><img alt="Book cover for Start Your Own Business: The Only Startup Book You'll Ever Need" style="width:300px; text-align:left;" src="/images/career/adults/StartYourOwnBusiness.jpg"></a>
+</p>
+<p> A guide for people who want to earn money on the side with the dream of growing their business. This book provides expert advice to guide new entrepreneurs for the first 3 years.</p>
+<p><a href="”https://nlb.overdrive.com/media/4177541&quot;" class="has-text-ruby">Borrow the eBook here</a>. </p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" class="has-text-ruby">myLibrary username</a> is required to access the eBook).
+	
+<h5><a href="https://nlb.overdrive.com/media/4568823" class="has-text-ruby">Entrepreneurship: How to Start and Grow Your Own Business</a>
+</h5>
+Brian Tracy (2019), <i>Entrepreneurship: How to Start and Grow Your Own Business</i>, New York: G&amp;D Media.
+<br>
+<a href="https://nlb.overdrive.com/media/4568823"><img alt="Book cover for Entrepreneurship: How to Start and Grow Your Own Business" style="width:300px; text-align:left;" src="/images/career/adults/ Entrepreneurship.jpg"></a>
+<p>Learn the skill sets required to be an entrepreneur from business consultant and writer Brian Tracy. These include ways to create a realistic business plan and use sales and marketing to fuel growth.</p>
+<p><a href="https://nlb.overdrive.com/media/4568823" class="has-text-ruby">Borrow the eBook here</a>.</p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" class="has-text-ruby">myLibrary username</a> is required to access the eBook).
+
+<h4 class="has-text-ruby"><b>Programmes</b></h4>
+<p>Sign up for our programmes for entrepreneurs through this link: <a href="https://go.gov.sg/breakthrough-series" class="has-text-ruby">go.gov.sg/breakthrough-series</a>.
+</p>
+<h4 class="has-text-ruby">References</h4>
+<ol>
+    <li><a id="footnote-one"> Home-based F&amp;B businesses flourish amid pandemic (2021, February 12)</a> <i>CNA</i>. Retrieved 2021, October 19 from <a href="https://www.channelnewsasia.com/singapore/home-based-bakers-businesses-covid-19-pandemic-347736">https://www.channelnewsasia.com/singapore/home-based-bakers-businesses-covid-19-pandemic-347736</a></li>
+	<li><a id="footnote-two">Singapore startup and business update: July 2021 (2021, July 26)</a>. <i>corporateservices.com</i>. Retrieved 2021, October 19 from <a href="https://www.corporateservices.com/singapore-startup-and-business-update-july-2021/">https://www.corporateservices.com/singapore-startup-and-business-update-july-2021/</a> </li>
+	<li><a id="footnote-three">Home sweet home-based businesses</a>. (2020, December 20). <i>Business Times</i>. Retrieved 2021, October 19 from <a href="https://www.businesstimes.com.sg/brunch/home-sweet-home-based-businesses">https://www.businesstimes.com.sg/brunch/home-sweet-home-based-businesses</a></li>
+</ol>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
