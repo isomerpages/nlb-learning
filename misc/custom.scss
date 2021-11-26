@@ -568,14 +568,6 @@ $desktop: 960px + (2 * $gap) !default;
 .content {
 
   table {
-    font-size: 1.25rem;
-    line-height: 2.2rem;
-    
-    thead td,
-    thead th {
-      border-width: 0 0 1px 0;
-    }
-
     td,
     th {
       border-color: $black;
