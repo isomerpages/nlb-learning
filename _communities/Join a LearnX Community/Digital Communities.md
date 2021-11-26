@@ -15,7 +15,7 @@ A tech-whiz or a total beginner, there’s a community out there for you.
       <h5 class="margin--top--sm margin--bottom--sm"><b>Code Breakers</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Ever wondered how to code? Join us at our coding interest group to learn the basics of coding and be part of what you want to learn, deciding your own goal and defining your own pace. This sharing session is hosted by our volunteers Manik and Surendra.<br><br>
 For 15 and above, conducted monthly in English at Tampines Regional Library.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
@@ -26,7 +26,7 @@ For 15 and above, conducted monthly in English at Tampines Regional Library.</p>
 				
 From how to plan your videos to how to film creatively, join Mr. Philip Au, a professional videographer and passionate library volunteer, as he helps you find your voice through video!<br><br>
  For seniors, conducted online monthly in English.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>
 <div class="col is-half-tablet padding--bottom--lg">
@@ -37,7 +37,7 @@ From how to plan your videos to how to film creatively, join Mr. Philip Au, a pr
 				
 Facilitated by Mr Goh Soon Seng, a retired software developer who is passionate about imparting his knowledge to youths and adults alike! This is a five-week course, with ad-hoc sessions held afterwards.<br><br>
  For 9 and above, conducted weekly in English at MakeIT @ Tampines Regional Library.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>
 <div class="col is-half-tablet padding--bottom--lg">
@@ -46,7 +46,7 @@ Facilitated by Mr Goh Soon Seng, a retired software developer who is passionate 
       <h5 class="margin--top--sm margin--bottom--sm"><b>Digital Café @ Harbourfront</b></h5>
       <p class="margin--top--sm margin--bottom--sm">Keeping up with the latest digital trends does not have to be daunting! Join other seniors and discover how different I.T trends can be useful and even fun! <br><br>
 For seniors, conducted monthly in English at library@harbourfront.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>
 <div class="col is-half-tablet padding--bottom--lg">
@@ -57,7 +57,7 @@ For seniors, conducted monthly in English at library@harbourfront.</p>
 
 Facilitated by Mr. Christian Jonathan, a business development executive at TerraAI and Facilitator at ai4impact. Ai4impact is a learning group which aims to make AI accessible to everyone, including non-programmers.<br><br>
 For 15 and above, conducted monthly in English at Woodlands Regional Library and Telegram. </p>
-      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
     </div>
 </div>
   <div class="col is-half-tablet padding--bottom--lg">
@@ -66,8 +66,7 @@ For 15 and above, conducted monthly in English at Woodlands Regional Library and
       <h5 class="margin--top--sm margin--bottom--sm"><b>Learning IT for Seniors (LITS)</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> LITS is a monthly bilingual Interest Group predominantly facilitated by librarians. Every month an interesting Digital Readiness topic will be shared with the seniors to update them on the latest digital trends.<br><br>
  For seniors, conducted online monthly.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>
 </div>
-
