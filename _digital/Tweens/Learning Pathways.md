@@ -52,7 +52,7 @@ Check out these resources to help you navigate the digital world, from keeping y
       <tr>
         <td><a href="#" target="_blank" class="has-text-indigo"><b>Kawaii Animal Character Design (2 Sessions)</b></a></td>
         <td>Calling all budding artists and storytellers! Join us for a digital art workshop and pick up the fundamentals of drawing and visual storytelling. Each participant will be provided with an Apple iPad and Apple Pencil for the session. Learn how to use simple shapes to design your own characters with interesting backstories.</td>
-        <td>17 Dec 2021 <br>1pm – 2pm or <br> 3pm – 4pm(MPPL) <br><br>20 Dec 2021 <br>1pm – 2pm or <br> 3pm – 4pm(SKPL)</td>
+        <td>17 Dec 2021 <br>1pm – 2pm or <br> 3pm – 4pm<br>(MPPL) <br><br>20 Dec 2021 <br>1pm – 2pm or <br> 3pm – 4pm<br>(SKPL)</td>
         <td>Marine Parade Public Library<br>Sengkang Public Library</td>
       </tr>
       <tr>
