@@ -84,4 +84,4 @@ If you do not see any upcoming events, [send in an enquiry](mailto:enquiry@nlb.g
 
 Let’s make our learning communities a warm, welcoming and safe space.
 
-<a href="/communities/overview" class="bp-button is-primary-outline is-uppercase">Learn More</a>
+<a href="/communities/what-is-a-learnx-community" class="bp-button is-primary-outline is-uppercase">Learn More</a>
