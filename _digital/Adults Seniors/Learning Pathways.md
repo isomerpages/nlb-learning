@@ -75,25 +75,25 @@ Technology is changing the way we live and work by making things more accessible
         <td>TBC</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank" class="has-text-indigo"><b>Introduction to Information Security </b></a></td>
+<td><a href="#" target="_blank" class="has-text-indigo"><b>[Future of Work]</b><br>Introduction to Information Security </a></td>
         <td>Learn about the common approaches to information security and acquire basic foundational knowledge on the topic.</td>
         <td>14 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank" class="has-text-indigo"><b>Introduction to Website Security </b></a></td>
+<td><a href="#" target="_blank" class="has-text-indigo"><b>[Future of Work]</b><br>Introduction to Website Security</a></td>
         <td>Learn about the common approaches to information security and acquire basic foundational knowledge on the topic.</td>
         <td>16 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank" class="has-text-indigo"><b>Information Security 201</b></a></td>
+<td><a href="#" target="_blank" class="has-text-indigo"><b>[Future of Work]</b><br>Information Security 201</a></td>
         <td>Learn about the more complex approaches to information security and acquire more in-depth knowledge on this topic.</td>
         <td>18 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank" class="has-text-indigo"><b>Website Security 201</b></a></td>
+<td><a href="#" target="_blank" class="has-text-indigo"><b>[Future of Work]</b><br>Website Security 201</a></td>
         <td>Understand the importance of website security and dive deep into the security protection measures you can undertake to secure your website.</td>
         <td>21 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
