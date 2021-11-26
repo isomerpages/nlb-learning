@@ -100,6 +100,56 @@ src="https://www.youtube.com/embed/zomo9OKXW6"></iframe>
   </div>
 </div>
 
+<h3 class="has-text-jade"><b>Playlist: Digital Creations</b></h3>
+
+What is digital creation? To put it simply, digital creation is the process of creating a work, a product or a tool using digital technology. Digital creation can range from simple actions like snapping a photo with your phone or writing a blog post, to more advanced ones like creating digital art and engaging in digital making such as 3D printing and digital cutting. 
+
+To help you understand and learn more about digital creations, do check out the resources that we have compiled here. 
+
+<h5 class="has-text-jade margin--bottom--lg"><b>Videos</b></h5>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" 
+src="https://www.vimeo.com/embed/221117048"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-jade">1997: Birth of the Camera Phone</b><br>
+    The story of how the first photo was sent by a cell phone in real time that eventually became an important part of our modern life.</p>
+    <small> Source: 1997: Birth of the Camera Phone (2017, June 10). Conscious Minds Vimeo. Retrieved 2021 October 2020.</small>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7NUjR9l6vyE"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-jade">What is a Makerspace?</b><br>
+    Understanding what a makerspace is and what the makerspace means to the students.</p>
+    <small> Source: What is a Makerspace? (2013, Sep 1). Retrieved 2021 October 2020.</small>
+  </div>
+</div>
+
+<div class="row is-multiline">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" 
+src="https://www.youtube.com/embed/llNNrrDZZdE"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-jade"> While You Were Sleeping – Darren Soh </b><br>
+    A documentary featuring Darren Soh where he shares his story and photographs documenting night landscapes in Singapore and how the places has changed over the years.</p>
+    <small> Source: While You Were Sleeping – Darren Soh (2021, Mar 31). Retrieved 2021 October 2020.</small>
+  </div>
+</div>
+
+
 <h3><b>Playlist: Cyber wellness is just a click away!</b></h3>
 
 In a world heavily reliant on technology, issues such as digital burnout, social isolation and cyberbullying can be daunting. 
