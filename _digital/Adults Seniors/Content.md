@@ -29,7 +29,7 @@ Watch how one Singaporean goes around the island performing his day-to-day activ
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/M_BUfno14cc"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/BUfno14cc&ab"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -90,7 +90,7 @@ Learn more about how to use the various popular social media platforms and find 
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
       <iframe class="responsive-iframe" 
-src="https://www.youtube.com/embed/zomo9OKXW6I"></iframe>
+src="https://www.youtube.com/embed/zomo9OKXW6"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -429,7 +429,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 ---
 
-<img src="/images/Digital/Adults/Cyberwellness/Digital-Prog-AS-A-Designthinking-01.png" alt="cover image">
+<img src="/images/digital/adults/designthinking/Digital-Prog-AS-A-Designthinking-01.png" alt="cover image">
 
 <h1>Learning Package: Design Thinking</h1>
 <h2>Introduction</h2>
@@ -464,7 +464,7 @@ Source: <a href="https://www.ipi-singapore.org/podcasts/design-thinking-and-inno
 <h5>1. The Design Thinking Playbook </h5>
 Michael Lewrick, Patrick Link, Larry Leifer (2018),<i> The Design Thinking Playbook, Wiley. </i>, Wiley.
 <br>
-<a href="https://share.libbyapp.com/title/3597207"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover for The Design Thinking Playbook"></a>
+<a href="https://share.libbyapp.com/title/3597207"><img src="images/digital/adults/designthinking/TheDesignThinkingPlaybook.jpg" style="width:300px; text-align:left;" alt="book cover for The Design Thinking Playbook"></a>
 <p>Discover effective tools and practices that you can adopt in this guide by exploring real-life examples of Design Thinking being applied across different sectors. 
 </p>
 <p><a href="https://share.libbyapp.com/title/3597207">Borrow the eBook here</a>.</p>
@@ -474,7 +474,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 <h5>2. Change by Design</h5>
 Tim Brown (2019), <i> Change by Design, </i>, Harper Business.
 <br>
-<a href="https://share.libbyapp.com/title/4056857"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover for Change by Design"></a>
+<a href="https://share.libbyapp.com/title/4056857"><img src="images/digital/adults/designthinking/ChangebyDesign.jpg" style="width:300px; text-align:left;" alt="book cover for Change by Design"></a>
 <p>Demystify the idea that innovation is achieved overnight and unpack the in-depth, transformative and fulfilling process of Design Thinking.</p>
 <p><a href="https://share.libbyapp.com/title/4056857">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
@@ -482,7 +482,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 <h5>3. Inclusive Design for a Digital World </h5>
 Regine M. Gilbert (2019), <i> Inclusive Design for a Digital World: Designing with Accessibility in Mind </i>, Apress.
 <br>
-<a href="https://share.libbyapp.com/title/5200372"><img src="/images/CCS-2-YoureNotListening.jpg" style="width:300px; text-align:left;" alt="book cover Inclusive Design for a Digital World: Designing with Accessibility in Mind"></a>
+<a href="https://share.libbyapp.com/title/5200372"><img src="images/digital/adults/designthinking/InclusiveDesignforaDigitalWorld.jpg" style="width:300px; text-align:left;" alt="book cover Inclusive Design for a Digital World: Designing with Accessibility in Mind"></a>
 <p>When it comes to design in our digital, modern world, accessibility is a priority that creators have to consider. Explore the reasons why this is so and learn how you can ensure inclusive design for various users.</p>
 <p><a href="https://share.libbyapp.com/title/5200372">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
