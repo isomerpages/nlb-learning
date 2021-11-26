@@ -6,7 +6,7 @@ third_nav_title: Join a LearnX Community
 ---
 ### **Art Communities**
 
-(Insert Write-up)
+
 
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
