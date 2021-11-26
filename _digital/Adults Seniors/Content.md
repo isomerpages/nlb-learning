@@ -511,8 +511,8 @@ To help you understand and learn more about digital creations, do check out the 
 		<td>
 			<h2>Did you know...</h2>
 			<ul>
-				<li>The first digital image was created in 1957 by Russell Kirsch when he scanned a photograph of his three-month-old son using an early computer.<sup><a href="#footnote-one">1</a></sup></li>
-				<li>A digital artwork titled “Everydays – The First 5000 Days” by digital artist Beeple was sold at a record high amount of US$69 million (S$93 million).<sup><a href="#footnote-two">2</a></sup></li>
+				<li>The first digital image was created in 1957 by Russell Kirsch when he scanned a photograph of his three-month-old son using an early computer.<sup><a href="#footnote-eleven">11</a></sup></li>
+				<li>A digital artwork titled “Everydays – The First 5000 Days” by digital artist Beeple was sold at a record high amount of US$69 million (S$93 million).<sup><a href="#footnote-twelve">12</a></sup></li>
 			</ul>
 		</td>
 	</tr>
