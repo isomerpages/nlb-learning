@@ -79,7 +79,7 @@ Participants will have a chance to experience Bee bot, a programmable robot in t
 <tr>
 <td><a href="https://go.gov.sg/er-digital-progs" target="_blank" class="has-text-indigo"><b>Precoding For Preschoolers: Story Sequence and Algorithms</b></a></td>
         <td>In this screen free coding workshop, children are introduced to sequences and loops and how they can experience sequences and loops from day to day activities.</td>
-        <td>19 Feb 2022 <br>11am-12pm</td>
+        <td>19 Feb 2022 <br>11am - 12pm</td>
         <td>Woodlands Regional Library</td>
       </tr>
     </tbody>
@@ -97,25 +97,25 @@ Participants will have a chance to experience Bee bot, a programmable robot in t
       <tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank" class="has-text-indigo"><b>Budding Scientists: Baking Soda & Vinegar Balloons Experiment </b></a></td>
         <td style="width: 40%;"> Children will learn about how chemical reactions work with this fun and exciting screen free activity!</td>
-        <td style="width: 20%;">11 Dec 2021 <br>12pm-3pm</td>
+        <td style="width: 20%;">11 Dec 2021 <br>12pm - 3pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank" class="has-text-indigo"><b>Budding Engineers: Blast Off with Magnetic Rockets!</b></a></td>
         <td>Children will learn about how magnets work with this fun and exciting screen free activity!</td>
-        <td>26 Feb 2022<br>2pm-3pm</td>
+        <td>26 Feb 2022<br>2pm - 3pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/tsr-progs" target="_blank" class="has-text-indigo"><b>Toddlers Songs & Rhymes</b></a></td>
         <td>Introduce the concept of Numbers / Counting [Digital] through this fun session of Toddlers, Songs & Rhymes.</td>
-        <td>17 Dec 2021 <br>3pm-4pm</td>
+        <td>17 Dec 2021 <br>3pm - 4pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank" class="has-text-indigo"><b>Budding Engineers: It's Time to Learn About Time!</b></a></td>
         <td>Children will learn about how chemical reactions work with this fun and exciting screen free activity!</td>
-        <td>15 Jan 2022 <br>2pm-3pm</td>
+        <td>15 Jan 2022 <br>2pm - 3pm</td>
         <td>Zoom</td>
       </tr>
     </tbody>
