@@ -17,7 +17,7 @@ These activities will include programming tech toys without the need for a scree
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Collections</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -82,6 +82,10 @@ Participants will have a chance to experience Bee bot, a programmable robot in t
         <td>19 Feb 2022 <br>11am-12pm</td>
         <td>Woodlands Regional Library</td>
       </tr>
+    </tbody>
+  </table>
+</div>
+			
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
