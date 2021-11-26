@@ -67,8 +67,9 @@ Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank" class=
         <td style="width: 20%;">Facebook</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/nlb-teensprogs" target="_blank" class="has-text-indigo"><b> Teens Takeover | portfolio - NYP's "A Day in the life of...” (Digital Artist/Forensic Specialist/Marketer)</b></a></td>
-        <td>Interactive Live Demo of Aaron Lim creating fantasy game concept arts and a sharing of his journey in the fantasy gaming industry.</td>
+<td><a href="https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-portfolio-tickets-176075315007?aff=ebcollection&keep_tld=1" target="_blank" class="has-text-indigo"><b>CCKPL: Teens Takeover - A Day in Life of a Game Artist | portfolio</b></a></td>
+        <td>Get an intimate look into the daily lives of different professionals in this new series and get inspired to explore possible careers of your future.<br><br>
+This session is in collaboration with Nanyang Polytechnic.</td>
         <td>18 Dec 2021<br> 2pm - 3.30pm</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
