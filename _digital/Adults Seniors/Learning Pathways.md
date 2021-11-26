@@ -217,7 +217,7 @@ Yishun Public Library<br></td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/e/how-to-be-a-smart-fact-checker-sure-x-my-digital-life-registration-209078267727?aff=ebdssbonlinesearch" target="_blank"><b>[S.U.R.E Skills Series]</b><br>Spotting Deepfake Images & Videos</a></td>
+<td><a href="https://www.eventbrite.sg/e/sure-skills-series-for-seniors-spotting-deepfake-images-and-videos-tickets-174925586137?aff=ebdssbonlinesearch" target="_blank"><b>[S.U.R.E Skills Series]</b><br>Spotting Deepfake Images & Videos</a></td>
         <td>Learn more about Artificial Intelligence generated deepfake images and videos, how they work, and how to detect them.</td>
         <td>7 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
