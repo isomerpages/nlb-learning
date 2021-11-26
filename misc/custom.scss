@@ -9,6 +9,36 @@ $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: lighten($secondary, 10%);
 
+$indigo: #322987;
+$sky: #cff2e8;
+$mint: #dce5d3;
+$jade: #00b794;
+$pink: #ffbac7;
+$ruby: #a60517;
+$orange: #ffc9ad;
+$tangerine: #fe5828;
+
+$indigo-hover: darken($indigo, 10%);
+$sky-hover: darken($sky, 10%);
+$mint-hover: darken($mint, 10%);
+$jade-hover: darken($jade, 10%);
+$pink-hover: darken($pink, 10%);
+$ruby-hover: darken($ruby, 10%);
+$orange-hover: darken($orange, 10%);
+$tangerine-hover: darken($tangerine, 10%);
+
+$white: #ffffff;
+$black: #000000;
+$black-10: mix($black, $white, 10%);
+$black-20: mix($black, $white, 20%);
+$black-30: mix($black, $white, 30%);
+$black-40: mix($black, $white, 40%);
+$black-50: mix($black, $white, 50%);
+$black-60: mix($black, $white, 60%);
+$black-70: mix($black, $white, 70%);
+$black-80: mix($black, $white, 80%);
+$black-90: mix($black, $white, 90%);
+
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
 {%- endfor -%}
