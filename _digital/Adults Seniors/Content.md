@@ -582,8 +582,8 @@ Learn more about how to use the various popular social media platforms and find 
 	<tbody><tr>
 		<td>
 			<h2>Did you know...</h2>
-			<p>There are 4.8 million Facebook users in Singapore as of 2020. <sup><a href="#footnote-one">1</a></sup>.</p>
-			<p>Globally, users aged 16 to 64 spend 2 hours and 24 minutes on social media daily .<sup><a href="#footnote-two">2</a></sup>.</p>
+			<p>There are 4.8 million Facebook users in Singapore as of 2020. <sup><a href="#footnote-eleven">11</a></sup>.</p>
+			<p>Globally, users aged 16 to 64 spend 2 hours and 24 minutes on social media daily .<sup><a href="#footnote-twelve">12</a></sup>.</p>
     </td>
 </tr>
 </tbody>
