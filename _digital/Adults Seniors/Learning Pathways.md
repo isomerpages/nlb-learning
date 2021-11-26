@@ -198,20 +198,20 @@ Yishun Public Library<br></td>
 </td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>[Basic Digital Skills]</b><br> Everyday Banking with POSB digibank</a></td>
+<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>[Basic Digital Skills]</b><br> Everyday Banking with POSB digibank</a></td>
         <td>This workshop provides a step-by-step guide to POSB digibank. Plus, learn how to protect yourself online with our #BSHARP security tips!</td>
         <td>6 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>[Basic Digital Skills]</b><br>Go Cashless with DBS PayLah!</a></td>
+<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>[Basic Digital Skills]</b><br>Go Cashless with DBS PayLah!</a></td>
         <td>Learn how to make your everyday easier with the DBS PayLah! app. Whether you are paying your friends, buying groceries or paying for your bills and more, enjoy convenience and seamless every day services with PayLah! 
 </td>
         <td>13 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>[Basic Digital Skills]</b><br>Make e-Payments with PayNow</a></td>
+<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>[Basic Digital Skills]</b><br>Make e-Payments with PayNow</a></td>
         <td>Learn about the benefits of PayNow and how to use PayNow on your POSB digibank app and internet banking. .</td>
         <td>20 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
