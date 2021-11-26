@@ -28,30 +28,6 @@ Be informed and make an impact to the environment.
         <td></td>
         <td> </td>
       </tr>
-<tr>
-        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>Why You Should be Concerned About Your Wardrobe</b></a></td>
-        <td>We address some of your burning queries about energy sustainability, a crucial area that impacts our everyday living in this video compilation.</td>
-        <td></td>
-        <td> </td>
-      </tr>
-<tr>
-        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>The Green Economy</b></a></td>
-        <td>Dive deeper into the Green Economy with this curated list of recommended resources. </td>
-        <td></td>
-        <td> </td>
-      </tr>
-<tr>
-        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>Sustainable Fashion</b></a></td>
-        <td>We pick apart sustainable fashion and show you resources that will help you become a more discerning consumer.</td>
-        <td></td>
-        <td> </td>
-      </tr>
-<tr>
-        <td><a href="/sustainability/adults-seniors/content" class="has-text-jade"><b>Energy Sustainability</b></a></td>
-        <td>Take a step further on issues surrounding energy with our list of recommended resources.</td>
-        <td></td>
-        <td> </td>
-      </tr>
     </tbody>
   </table>
 </div>
@@ -95,8 +71,8 @@ Be informed and make an impact to the environment.
         <td style="width: 20%;">Zoom</td>
       </tr>
 			      <tr>
-        <td style="width: 20%;"><a href="#" target="_blank" class="has-text-jade"><b>LearnX Digital</b><br>MakeIT</a></td>
-        <td style="width: 40%;">MakeIT aims to introduce Making and Innovayion to the general public by way of areas, including Making with upcycling in mind. Topics available include repair and home-hacks and lofi prototyping<br></td>
+        <td style="width: 20%;"><a href="https://codesg.imda.gov.sg/in-community/makeit-at-libraries/" target="_blank" class="has-text-jade"><b>LearnX Digital</b><br>MakeIT</a></td>
+        <td style="width: 40%;">MakeIT aims to introduce Making and Innovation to the general public by way of areas, including Making with upcycling in mind. Topics available include repair and home-hacks and lofi prototyping<br></td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
