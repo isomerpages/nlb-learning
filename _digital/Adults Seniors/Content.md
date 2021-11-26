@@ -728,7 +728,7 @@ Retrieved from Libby (myLibraryid is required to access the eBook).
 	
 <h5>3. Screen Time</h5>
 Becca Caddy (2021), <i>Screen Time</i>, Blink Publishing. <br>
-<a href="https://share.libbyapp.com/title/5817735"><img src="/images/Digital/Seniors/ScreenTime.jpg " style="width:300px; text-align:left;" alt=" book cover for Screen Time"></a><p>
+<a href="https://share.libbyapp.com/title/5817735"><img src="/images/Digital/Seniors/ScreenTime.jpg " style="width:300px; text-align:left;" alt=" book cover for Screen Time"></a>
 <p>Understand how your phone and your screen time affects your life and make small changes to help you strike a healthy balance. Discover what works for you and what you can do without!</p>
 <p><a href="https://share.libbyapp.com/title/5817735">Borrow the eBook here</a>.</p>Retrieved from Libby (myLibraryid is required to access the eBook).
 
