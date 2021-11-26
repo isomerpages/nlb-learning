@@ -45,31 +45,31 @@ Technology is changing the way we live and work by making things more accessible
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" class="has-text-indigo"><b> Introduction to Hacking Software and Protection Tools</b></a></td>
+        <td style="width: 20%;"><a href="#" class="has-text-indigo"><b>[Future of Work]</b><br> Introduction to Hacking Software and Protection Tools</a></td>
         <td style="width: 40%;"> Learn about the approaches to hacking and find out what tools can help you protect your data.</td>
         <td style="width: 20%;"> 2 Dec 2021,<br>7pm – 8.30pm</td>
         <td style="width: 20%;">TBC</td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank" class="has-text-indigo"><b>[S. U. R. E. Skills Series x My Digital Life] Be a Smart Factchecker</b></a></td>
+        <td><a href="#" target="_blank" class="has-text-indigo"><b>[S. U. R. E. Skills Series x My Digital Life]</b><br> Be a Smart Factchecker</a></td>
         <td>Find out how to distinguish between real facts and fake news in this programme. </td>
         <td>3 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank" class="has-text-indigo"><b>Cyberbullying</b></a></td>
+<td><a href="#" target="_blank" class="has-text-indigo"><b>[My Digital Life]</b><br>Cyberbullying</a></td>
         <td>Find out how you can identify signs of cyberbullying and help persons who are victims of it.</td>
         <td>6 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank" class="has-text-indigo"><b>Hacking Software and Protection Tools 201</b></a></td>
+<td><a href="#" target="_blank" class="has-text-indigo"><b>[Future of Work]</b><br>Hacking Software and Protection Tools 201</a></td>
         <td> Learn about the complex levels of hacking, the protection methods that developed as a result of them, and the usage of associated advanced tools.</td>
         <td>9 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank" class="has-text-indigo"><b>Digital Etiquette</b></a></td>
+	<td><a href="#" target="_blank" class="has-text-indigo"><b>[My Digital Life]</b><br>Digital Etiquette</b></a></td>
         <td>Understand the importance of good digital etiquette and how it impacts other users.</td>
         <td>9 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
