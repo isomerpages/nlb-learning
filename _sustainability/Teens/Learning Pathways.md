@@ -23,7 +23,7 @@ Be informed and make an impact to the environment.
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/sustainability/teens/content"><b> Learning Package<br>Think Green, Go Green!</b></a></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things "><b> Learning Package<br>Think Green, Go Green!</b></a></td>
         <td> Be inspired by this Teen.Things article on environmental mindfulness and green habits, accompanied by videos and recommended reads.</td>
         <td></td>
         <td> </td>
@@ -47,7 +47,7 @@ Be informed and make an impact to the environment.
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank"><b> WWF Explains: City in Nature</b></a></td>
+        <td><a href="https://www.eventbrite.sg/e/what-is-the-environmental-cost-of-building-your-wardrobe-wwf-explains-registration-202049925767?aff=ebdssbdestsearch" target="_blank"><b> WWF Explains: City in Nature</b></a></td>
         <td> Join environmental conservationists as they evaluate the concept of City in Nature, how far we have come, and how much there is to go.</td>
         <td>24 Feb 2022<br>7pm – 8.30pm</td>
         <td>Zoom</td>
