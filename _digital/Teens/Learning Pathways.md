@@ -12,7 +12,7 @@ Immerse yourself in the possibilities of digital and tech!
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Collections</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
