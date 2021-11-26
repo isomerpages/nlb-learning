@@ -568,10 +568,11 @@ $desktop: 960px + (2 * $gap) !default;
 .content {
 
   table {
-    td,
-    th {
+    
+    td, th {
       border-color: $black;
-      @include mobile {
+
+      @include mobile() {
         min-width: 50vw;
       }
     }
