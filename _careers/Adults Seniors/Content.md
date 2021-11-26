@@ -335,5 +335,90 @@ Brian Tracy (2019), <i>Entrepreneurship: How to Start and Grow Your Own Business
 	<li><a id="footnote-three">Home sweet home-based businesses</a>. (2020, December 20). <i>Business Times</i>. Retrieved 2021, October 19 from <a href="https://www.businesstimes.com.sg/brunch/home-sweet-home-based-businesses">https://www.businesstimes.com.sg/brunch/home-sweet-home-based-businesses</a></li>
 </ol>
 
+<!-- start Learning Package 3: Communication at Work -->
+
+<h3 class="has-text-ruby" id="lp-comm"><b>Learning Package: Communication at Work</b></h3>
+<h4 class="has-text-ruby">Introduction</h4>
+<p> With the right resources and tips, anyone can become a better communicator. To help you take your communication skills at work to the next level, check out the resources we have compiled here. </p>
+<table border="1">
+	<tbody><tr>
+		<td>
+			<h4 class="has-text-ruby">Did you know...</h4>
+			<ul>
+				<li>Communication is listed as one of the top 12 job skills for any industry<sup><a href="#footnote-four">4</a></sup>.</li>
+				<li>Communication refers to more than just speaking. It can be broken down into 4 broad types – verbal, non-verbal, written, and visual<sup><a href="#footnote-five">5</a></sup>.</li>
+			</ul>
+		</td>
+	</tr>
+	</tbody></table>
+
+<h4 class="has-text-ruby">Videos</h4>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/v90HldmKvNA"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-ruby">Improve Your Communication Skills at Work: Top 5 Tips to Improve Your Professional Communication</b><br>
+    If you often feel like your message is not getting across, or the people you speak to seem frustrated, this video can help. A career coach shares strategies such as repetition and analogies that will help you save time and energy while communicating.</p>
+    <small>Improve Your Communication Skills at Work: Top 5 Tips to Improve Your Professional Communication – Youtube (2021, Aug 24). <i>Kara Ronin</i> Retrieved 2021, October 18.</small>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/1XctnF7C74s"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-ruby">8 Email Etiquette Tips – How to Write Better Emails at Work </b><br>
+    Start mastering the art of email writing with these practical ‘do’s and ‘don’ts’ <strike>– and fantasise about how you would call out your colleagues and bosses for doing some of the “don’t’s</strike> (e.g. do include a call to action in the subject line, and don’t start multiple email threads for the same project).</p>
+    <small>Source: 8 Email Etiquette Tips – How to Write Better Emails at Work - Youtube (2021, Jul 7). <i>Harvard Business Review</i>. Retrieved 2021, October 18.</small>
+  </div>
+</div>
+
+<h4 class="has-text-ruby">Articles</h4>
+
+<h5 class="has-text-ruby"><a class="has-text-ruby" href="https://hbr.org/2021/06/conquer-your-self-doubt-in-meetings">Conquer Your Self-Doubt in Meetings</a></h5>
+<p>For those who lack confidence to share their thoughts in a group setting, a global CEO coach explains exactly how they can successfully bring up their ideas - with impact and panache, to boot.</p>
+Source: <a class="has-text-ruby" href="https://hbr.org/2021/06/conquer-your-self-doubt-in-meetings">Conquer Your Self-Doubt in Meetings</a> (2021, Jun 21). Sabina Nawaz. Published on Harvard Business Review. Retrieved 2021, October 21
+
+<h4 class="has-text-ruby">eBooks</h4>
+<h5 class="has-text-ruby"><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5F04388-8E11-490E-98A0-BA7E4DBB451E&l=CW1">Message Received: 7 Steps to Break Down Communication Barriers at Work</a></h5>
+Mary E. Donohue (2020), <i>Message Received: 7 Steps to Break Down Communication Barriers at Work</i>, McGraw-Hill Education.
+<br>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5F04388-8E11-490E-98A0-BA7E4DBB451E&l=CW1"><img src="/images/career/adults/MessageReceived.png" style="width:300px; text-align:left;" alt="Book cover for Message Received"></a>
+<p>Learn from social scientist and award-winning CEO Dr. Mary Donohue on how you can transform communication at the workplace from a stressor to a tool to alleviate stress.</p>
+<p><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5F04388-8E11-490E-98A0-BA7E4DBB451E&l=CW1">Borrow the eBook here</a>. </p>
+<body>Retrieved from Libby (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</body>
+
+<h5><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=F07A0DD9-95D2-4511-A9E7-CC08896FC52B&l=CW2">A World Without Email: Reimagining Work in an Age of Communication Overload</a></h5>
+Cal Newport (2021), <i>A World Without Email</i>, Penguin Publishing Group.
+<p>
+<a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=F07A0DD9-95D2-4511-A9E7-CC08896FC52B&l=CW2"><img src="/images/career/adults/AWorldWithoutEmail.png" style="width:300px; text-align:left;" alt="Book cover for A World Without Email"></a>
+</p>
+<p>How do we escape a workday filled with constant digital chatter and actually focus on doing work? Cal Newport offers a series of principles and concrete instructions on how important communication can be improved and streamlined.</p>
+<p><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=F07A0DD9-95D2-4511-A9E7-CC08896FC52B&l=CW2">Borrow the eBook here</a>. </p>
+<p>Retrieved from Libby (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</p>
+	
+<h5><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5B213EE-2DE0-4D08-86AB-31613217D30E&l=CW3">How to Write Effective Business English</a>
+</h5>
+Fiona Talbot (2019), <i>How to Write Effective Business English</i>, Kogan Page.
+<br>
+<a href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5B213EE-2DE0-4D08-86AB-31613217D30E&l=CW3"><img src="/images/career/adults/HowtoWriteEffectiveBusinessEnglish.png" style="width:300px; text-align:left;" alt="Book cover for How to Write Effective Business English"></a>
+<p>Drawing from case studies and real-life scenarios, this book will walk you through how to respond in different situations, and help you express yourself in writing clearly, concisely, and confidently.</p>
+<p><a class="has-text-ruby" href="https://eresources.nlb.gov.sg/ereads/proxy?id=E5B213EE-2DE0-4D08-86AB-31613217D30E&l=CW3">Borrow the eBook here</a>.</p>
+<body>Retrieved from Libby (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</body>
+
+<h4 class="has-text-ruby"><b>Programmes</b></h4>
+<p>Hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at .<a class="has-text-ruby" href="https://go.gov.sg/get-professional-series"> go.gov.sg/get-professional-series</a>.
+</p>
+<h4>References</h4>
+<ol>
+	<li><a id="footnote-four" href="https://www.indeed.com/career-advice/career-development/top-job-skills">12 Top Job Skills for Any Industry: Transferable Skills You Need</a>. (2021, April 20). Indeed. Retrieved 2021, October 18 from <a href="https://www.indeed.com/career-advice/career-development/top-job-skills">https://www.indeed.com/career-advice/career-development/top-job-skills</a></li>
+	<li><a id="footnote-five" href=”https://www.valamis.com/hub/types-of-communication”>Types of Communication</a>. (2021, January 19). Valamis. Retrieved 2021, October 18 from <a href="https://www.valamis.com/hub/types-of-communication">https://www.valamis.com/hub/types-of-communication</a> </li>
+</ol>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
