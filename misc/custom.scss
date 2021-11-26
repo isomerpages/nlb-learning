@@ -240,6 +240,152 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+// Button
+.bp-button {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+
+  &.is-primary-outline {
+    border: 1px solid $primary;
+    color: $primary;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $primary;
+      color: $sky;
+      background-color: $primary;
+      text-decoration: none;
+    }
+  }
+
+  &.is-secondary-outline {
+    border: 1px solid $secondary;
+    color: $secondary;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $secondary;
+      color: $sky;
+      background-color: $secondary;
+      text-decoration: none;
+    }
+  }
+
+  &.is-indigo-outline {
+    border: 1px solid $indigo;
+    color: $indigo;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $indigo;
+      color: $sky;
+      background-color: $indigo;
+      text-decoration: none;
+    }
+  }
+
+  &.is-sky-outline {
+    border: 1px solid $sky;
+    color: $sky;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $sky;
+      color: $indigo;
+      background-color: $sky;
+      text-decoration: none;
+    }
+  }
+
+  &.is-ruby-outline {
+    border: 1px solid $ruby;
+    color: $ruby;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $ruby;
+      color: $pink;
+      background-color: $ruby;
+      text-decoration: none;
+    }
+  }
+
+  &.is-pink-outline {
+    border: 1px solid $pink;
+    color: $pink;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $pink;
+      color: $ruby;
+      background-color: $pink;
+      text-decoration: none;
+    }
+  }
+
+  &.is-jade-outline {
+    border: 1px solid $jade;
+    color: $jade;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $jade;
+      color: $mint;
+      background-color: $jade;
+      text-decoration: none;
+    }
+  }
+
+  &.is-mint-outline {
+    border: 1px solid $mint;
+    color: $mint;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $mint;
+      color: $jade;
+      background-color: $mint;
+      text-decoration: none;
+    }
+  }
+
+  &.is-orange-outline {
+    border: 1px solid $orange;
+    color: $orange;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $orange;
+      color: $tangerine;
+      background-color: $orange;
+      text-decoration: none;
+    }
+  }
+
+  &.is-tangerine-outline {
+    border: 1px solid $tangerine;
+    color: $tangerine;
+    background-color: transparent;
+    text-decoration: none;
+
+    &:focus, &:hover {
+      border: 1px solid $tangerine;
+      color: $orange;
+      background-color: $tangerine;
+      text-decoration: none;
+    }
+  }
+}
+
 // Bottom navigation bar
 .bottom-navigation {
 	a {
