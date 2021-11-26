@@ -595,14 +595,14 @@ Learn more about how to use the various popular social media platforms and find 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/apoVa0gwER8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-Source: <a href="www.youtube.com/watch?v=apoVa0gwER8" target="_blank">How to Make Tik Tok videos – Beginners Guide to Tik Tok</a> (2018, September 2). <i>Techboomers.</i> Retrieved 2021, October 20
+Source: <a href="https://www.youtube.com/watch?v=apoVa0gwER8" target="_blank">How to Make Tik Tok videos – Beginners Guide to Tik Tok</a> (2018, September 2). <i>Techboomers.</i> Retrieved 2021, October 20
 
 <h5>2.How To Use Instagram</h5> 
 <p>This video shows you an overview on how to get started on Instagram. By showing you how Instagram works and how to post pictures, you’ll be using Instagram with ease in no time!</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a0qrvLKtu6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-Source: <a href="www.youtube.com/watch?v=a0qrvLKtu6Y" target="_blank">How To Use Instagram</a> (2020, December 12). <i>Business Insider.</i> Retrieved 2021, October 21
+Source: <a href="https://www.youtube.com/watch?v=a0qrvLKtu6Y" target="_blank">How To Use Instagram</a> (2020, December 12). <i>Business Insider.</i> Retrieved 2021, October 21
 <h5>3.How Hashtags Work on Social Media: Twitter, Instagram & Facebook Hashtag Tips</h5>
 <p>Hashtags allow users to connect to content they are interested in. In this video, see how hashtags are used on the different social media sites and use the tips to use the relevant hashtags yourself.</p>
 <div class="bp-youtube">
