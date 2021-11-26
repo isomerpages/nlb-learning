@@ -23,7 +23,7 @@ A new series on how current and emerging ways that technology impacts our daily 
 Click [here](https://go.gov.sg/nlbmdl) for the latest programme listings.
 
 ## **MakeIt at Libraries** 
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-03.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-MakeIT-at-Libraries.png)
 
 NLB’s free-for-public makerspace. MakeIT introduces the wonder of digital and tech based creativity to all library members. Try your hand at emerging fabrication technology like 3D printing, Robotics, and other forms of tech-based tinkering. No prior expertise required. All equipment and consumables are provided. For ages 13 to 99. 
 
