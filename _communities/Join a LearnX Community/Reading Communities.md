@@ -8,6 +8,7 @@ third_nav_title: Join a LearnX Community
 
 (Insert Write-up)
 
+
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
     <img alt="Book Lovers Club" src="/images/learning-communities/reading/LC-Reading-StockImage-04.jpg">
@@ -116,15 +117,6 @@ For Adults and Seniors, conducted monthly in English at Bukit Batok Public Libra
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
-    <img alt="Heartlands Book Club" src="/images/learning-communities/reading/LC-Reading-HeartlandsBookClub-01.jpg">
-    <div class="margin--top--lg">
-      <h5 class="margin--top--sm margin--bottom--sm"><b>Heartlands Book Club</b></h5>
-      <p class="margin--top--sm margin--bottom--sm"> The Heartlands Book Club, formed in August 2005, was the outcome of the Read! Singapore nation-wide initiative.  The Book Club aims to promote the culture of reading among all who share the love for reading.  We discuss mainly books on Singapore and Asian fiction, Award-winners and non-fiction inspirational books.<br><br>
-For Adults and Seniors, conducted monthly in English at Bukit Batok Public Library or online. </p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
-    </div>
-  </div>
-  <div class="col is-half-tablet padding--bottom--lg">
     <img alt="Ilham Pustaka Malay Reading Club" src="/images/learning-communities/reading/LC-Reading-IlhamPustakaMalay-01.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Ilham Pustaka Malay Reading Club </b></h5>
@@ -204,7 +196,7 @@ For Teens, Adults, Seniors, conducted once every two months in Chinese at Centra
     </div>
   </div>
    <div class="col is-half-tablet padding--bottom--lg">
-    <img alt="SG Writings Reading Club 随笔南洋读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-16.jpg">
+        <img alt="SG Writings Reading Club 随笔南洋读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-16.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> SG Writings Reading Club 随笔南洋读书会 </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> SG Writings Reading Club（Former Tea Chapter Reading Club） was founded in October 18, 1998. The reading club encourages reading practise, promote reading culture and share reading knowledge. Through the practise and sharing, we aim to improve ourability to appreciate literatures and to develop our latent sense of art, and to explore the true essence of literatures together.<br><br>
@@ -233,7 +225,7 @@ For Adults, conducted monthly in English at Central Public Library.</p>
     </div>
   </div>
    <div class="col is-half-tablet padding--bottom--lg">
-    <img alt="Taxi Shifu and Friends Reading Club 德士师傅与好友读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-13.jpg">
+        <img alt="Taxi Shifu and Friends Reading Club 德士师傅与好友读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-13.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Taxi Shifu and Friends Reading Club 德士师傅与好友读书会</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Come join us and share your passion for reading with like-minded readers of Taxi Shifu and Friends Reading Club. Every book discussion is an enriching experience for all as the participants establish friendships and leave with valuable insights and knowledge that help them better appreciate the book.<br><br>
@@ -243,7 +235,7 @@ For Adults and Seniors, conducted once every two months in Chinese at Ang Mo Kio
     </div>
   </div>
    <div class="col is-half-tablet padding--bottom--lg">
-    <img alt="The Golden Circle" src="/images/learning-communities/reading/LC-Reading-StockImage-10.jpg">
+        <img alt="The Golden Circle" src="/images/learning-communities/reading/LC-Reading-StockImage-10.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> The Golden Circle </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> The rustle of a well-thumbed page, the whiff of age from a much-cherished tome—come and appreciate the beauty of a good book with the Golden Circle, an English book club for seniors. Discussions will be centred around fiction books, so join us for a stimulating afternoon of lively discussions.<br><br>
