@@ -52,7 +52,7 @@ Join us for this online session to learn about the types of cyber threats to loo
       <tr>
         <td><a href="#" target="_blank"><b>Code With Your Child!</b></a></td>
         <td>Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. Through hands-on coding gameplays, kids can learn coding concepts without a screen or keyboard and develop problem solving skills, critical thinking, creativity and collaboration.</td>
-        <td>4 Dec 2021 <br>2.30pm – 4pm (HBPL)<br><br>11 Dec 2021 <br>2.30pm – 4pm (AMPL)<br><br>15 Jan 2021 <br>2.30pm – 4pm (BIPL)<br><br>29 Jan 2021 <br>2.30pm – 4pm (TPPL)</td>
+        <td>4 Dec 2021 <br>2.30pm – 4pm <br>library@harbourfront<br><br>11 Dec 2021 <br>2.30pm – 4pm<br>Ang Mo Kio Public Library<br><br>15 Jan 2021 <br>2.30pm – 4pm<br>Bishan Public Library<br><br>29 Jan 2021 <br>2.30pm – 4pm<br>Toa Payoh Public Library</td>
         <td>Programme Zone</td>
       </tr>
       <tr>
