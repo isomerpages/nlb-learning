@@ -738,4 +738,4 @@ Becca Caddy (2021), <i>Screen Time</i>, Blink Publishing. <br>
 			
 <h4>References</h4>
 <ol>
-	<li><span id="footnote-one">Smartphone penetration rate as share of the population in Singapore from 2010 to 2020 and a forecast up to 2025</span>. <i>Statista.com</i>. Retrieved 2021, October 21 from <a href="https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/">https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/</a></li>
+	<li><span id="footnote-thirteen">Smartphone penetration rate as share of the population in Singapore from 2010 to 2020 and a forecast up to 2025</span>. <i>Statista.com</i>. Retrieved 2021, October 21 from <a href="https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/">https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/</a></li>
