@@ -1,0 +1,15 @@
+collections:
+  careers:
+    output: true
+    order:
+      - LearnX Careers.md
+      - Teens/.keep
+      - Teens/Overview.md
+      - Teens/Content.md
+      - Teens/Programmes.md
+      - Teens/Learning Pathways.md
+      - Adults Seniors/.keep
+      - Adults Seniors/Overview.md
+      - Adults Seniors/Content.md
+      - Adults Seniors/Programmes.md
+      - Adults Seniors/Learning Pathways.md

@@ -1,17 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo-learnx.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Single
-    url: /example-single/
-  - title: Example Collection
-    collection: example-collection
-  - title: Example Resource
-    resource_room: true
+  - title: Start Learning
+    sublinks:
+      - title: LearnX Digital
+        url: /digital/overview
+      - title: LearnX Careers
+        url: /careers/overview
+      - title: LearnX Sustainability
+        url: /sustainability/overview
+  - title: Explore LearnX Communities
+    collection: communities
+  - title: Partners
+    url: /partners

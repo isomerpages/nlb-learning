@@ -1,0 +1,30 @@
+collections:
+  sustainability:
+    output: true
+    order:
+      - LearnX Sustainability.md
+      - Preschoolers/.keep
+      - Preschoolers/Overview.md
+      - Preschoolers/Content.md
+      - Preschoolers/Programmes.md
+      - Preschoolers/Learning Pathways.md
+      - Children/.keep
+      - Children/Overview.md
+      - Children/Content.md
+      - Children/Programmes.md
+      - Children/Learning Pathways.md
+      - Tweens/.keep
+      - Tweens/Overview.md
+      - Tweens/Content.md
+      - Tweens/Programmes.md
+      - Tweens/Learning Pathways.md
+      - Teens/.keep
+      - Teens/Overview.md
+      - Teens/Content.md
+      - Teens/Programmes.md
+      - Teens/Learning Pathways.md
+      - Adults Seniors/.keep
+      - Adults Seniors/Overview.md
+      - Adults Seniors/Content.md
+      - Adults Seniors/Programmes.md
+      - Adults Seniors/Learning Pathways.md
