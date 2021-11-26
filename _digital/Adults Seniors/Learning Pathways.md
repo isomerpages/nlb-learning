@@ -6,7 +6,7 @@ third_nav_title: Adults & Seniors
 ---
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-We start with a healthy digital lifestyle for all, and for seniors, <a href="/digital/adults-seniors/content">Master The Use Of Smartphones.</a> 
+We start with a healthy digital lifestyle for all, and for seniors, <a href="#secondlp">Master The Use Of Smartphones.</a> 
 
 <h3><b> Embrace a Safe and Healthy Digital Lifestyle
 </b></h3>
