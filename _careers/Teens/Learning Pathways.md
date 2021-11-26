@@ -48,8 +48,8 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
         <td style="width: 20%;">Chua Chu Kang Public Library<br>Programme Room 1</td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank" class="has-text-ruby"><b>[Industry Insights series] A Career in the Green Energy</b></a></td>
-        <td>Explore the ins and outs of a career in the green energy - the joys, the challenges and the forces that drive it.</td>
+        <td><a href="#" target="_blank" class="has-text-ruby"><b>[Industry Insights series] A Career in the Green Economy</b></a></td>
+        <td>Explore the ins and outs of a career in the green economy - the joys, the challenges and the forces that drive it.</td>
         <td>30 Dec 2021<br> 7pm -9pm</td>
         <td>Zoom</td>
       </tr>
