@@ -588,6 +588,14 @@ $desktop: 960px + (2 * $gap) !default;
       }
     }
   }
+
+  a {
+    color: $primary;
+
+    &:focus, &:hover {
+      color: $primary-hover;
+    }
+  }
 }
 
 // Responsive Media Iframe
