@@ -148,7 +148,9 @@ With guest speakers:<br>
   </tbody>
   </table>
 </div>
- 
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3><b>Learning To Effectively Use Smartphones to Make Life Better!</b></h3>
 Learn to use your smartphone effectively and safely to have knowledge at your fingertips and bring more convenience to your life!
 
