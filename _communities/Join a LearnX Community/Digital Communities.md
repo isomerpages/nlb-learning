@@ -10,7 +10,7 @@ A tech-whiz or a total beginner, there’s a community out there for you.
 
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
-    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-04.jpg" alt="Code Breakers">
+    <img src="/images/learning-communities/digital/LC-Digital-Codebreakers-01.png" alt="Code Breakers">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Code Breakers</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Ever wondered how to code? Join us at our coding interest group to learn the basics of coding and be part of what you want to learn, deciding your own goal and defining your own pace. This sharing session is hosted by our volunteers Manik and Surendra.<br><br>
@@ -19,7 +19,7 @@ For 15 and above, conducted monthly in English at Tampines Regional Library.</p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
-    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-06.jpg" alt="The Video Creators Club">
+    <img src="/images/learning-communities/digital/LC-Digital-VideoCreatorClub-01.png" alt="The Video Creators Club">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>The Video Creators Club</b></h5>
       <p class="margin--top--sm margin--bottom--sm">Videos can be a fun and meaningful way to evoke laughter, convey sadness and spark joy. Learn how you can make your own videos at this learning community that is targeted for beginners and amateurs. <br>
@@ -30,7 +30,7 @@ From how to plan your videos to how to film creatively, join Mr. Philip Au, a pr
     </div>
   </div>
 <div class="col is-half-tablet padding--bottom--lg">
-    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-07.jpg" alt="Pi and Python">
+    <img src="/images/learning-communities/digital/LC-Digital-Pi_PythonClub-01.png" alt="Pi and Python">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Pi and Python</b></h5>
       <p class="margin--top--sm margin--bottom--sm">Wonder how Smart Home works? Join us at our Pi and Python interest group to learn more about Raspberry Pi and programme it using the Python Language. Connect with enthusiasts and together, let’s create interesting IoT (internet of things) projects using sensors!<br>
@@ -41,7 +41,7 @@ Facilitated by Mr Goh Soon Seng, a retired software developer who is passionate 
     </div>
   </div>
 <div class="col is-half-tablet padding--bottom--lg">
-    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-05.jpg" alt="Digital Café @ Harbourfront">
+    <img src="/images/learning-communities/digital/LC-Digital-DigitalCafe-01.png" alt="Digital Café @ Harbourfront">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Digital Café @ Harbourfront</b></h5>
       <p class="margin--top--sm margin--bottom--sm">Keeping up with the latest digital trends does not have to be daunting! Join other seniors and discover how different I.T trends can be useful and even fun! <br><br>
@@ -61,7 +61,7 @@ For 15 and above, conducted monthly in English at Woodlands Regional Library and
     </div>
 </div>
   <div class="col is-half-tablet padding--bottom--lg">
-    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-08.jpg" alt="Learning IT for Seniors">
+    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-05.jpg" alt="Learning IT for Seniors">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Learning IT for Seniors (LITS)</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> LITS is a monthly bilingual Interest Group predominantly facilitated by librarians. Every month an interesting Digital Readiness topic will be shared with the seniors to update them on the latest digital trends.<br><br>
