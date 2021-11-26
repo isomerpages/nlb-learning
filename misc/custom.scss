@@ -44,6 +44,7 @@ $black-90: mix($black, $white, 90%);
 {%- endfor -%}
 
 $gap: 32px !default;
+$mobile: 768px !default;
 $desktop: 960px + (2 * $gap) !default;
 
 // Mixins
@@ -568,7 +569,7 @@ $desktop: 960px + (2 * $gap) !default;
 .content {
 
   table {
-    
+
     td, th {
       border-color: $black;
 
