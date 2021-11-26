@@ -82,20 +82,20 @@ The Green Economy is one of the five key pillars in Singapore’s Green Plan. We
 <td><a href="https://www.eventbrite.sg/e/216029378687" target="_blank" class="has-text-jade"><b>Doing Our Part for A More Sustainable World  | Time of Your Life</b></a></td>
         <td>Learn about the causes of global warming and how you can play a role in contributing to a carbon-neutral city from our Friend of the Library volunteer, Mr Ho Hew Lee. <br><br>
 Suitable for aged 50 and above.</td>
-        <td>23 Jan 202, <br>2pm -4pm</td>
+        <td>23 Jan 202, <br>2pm - 4pm</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
 <tr>
 <td><a href="#" target="_blank" class="has-text-jade"><b>Thinker+Play: Fun with Puzzles (Sustainability) | Time of Your Life</b></a></td>
         <td>This is a Nature and Sustainability-themed session of Thinker+ Play where seniors can get their minds active through solving puzzles and learning interesting facts related to the environment.</td>
-        <td>22 Dec 2021, <br>2pm -3pm</td>
+        <td>22 Dec 2021, <br>2pm - 3pm</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
 <tr>
 <td><a href="#" target="_blank" class="has-text-jade"><b> Hydroponics Workshop</b></a></td>
         <td> Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. <br><br>
 Suitable for participants aged 15 years and above. </td>
-        <td>9 Dec 2021, <br>7pm -830pm</td>
+        <td>9 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
       </tr>
     </tbody>
@@ -113,7 +113,7 @@ Suitable for participants aged 15 years and above. </td>
       <tr>
         <td style="width: 20%;"><a href="#" class="has-text-jade"><b> Build Your Own: Coasters from Magazine Pages | Time of Your Life</b></a></td>
         <td style="width: 40%;"> Recycle your old magazines and turn them into pretty table coasters which you can use to decorate your home in this festive season, while adopting a sustainable practice. This Build-Your-Own workshop aims to promote sustainable practices which are simple and practical for seniors.</td>
-        <td style="width: 20%;">15 Dec 2021, <br>7.30pm-8.30pm</td>
+        <td style="width: 20%;">15 Dec 2021, <br>7.30pm- 8.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
