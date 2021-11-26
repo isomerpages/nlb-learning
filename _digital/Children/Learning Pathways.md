@@ -25,7 +25,7 @@ Learn how to keep yourself safe online as you explore all the information availa
       </tr>
       <tr>
         <td><a href="/digital/children/content"><b>Stay Curious with Your Child: Unplugged Coding Ideas for Kids</b></a></td>
-        <td>Coming soon.</td>
+        <td>Basic elements which you can introduce during playtime to help them get comfortable with coding concepts without even using any digital devices!</td>
         <td> </td>
         <td> </td>
       </tr>
