@@ -247,7 +247,7 @@ Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/m
 <p>Want to attend workshops on resume-writing and interviewing skills? Or are you hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at .<a href="https://go.gov.sg/get-professional-series"> go.gov.sg/get-professional-series</a>.
 </p>
 
-<h3 id="lp-biz" class="has-text-ruby"><b>Learning Package: How to Start Your Own Business</b></h3>
+<h3 class="has-text-ruby" id="lp-biz"><b>Learning Package: How to Start Your Own Business</b></h3>
 <h4 class="has-text-ruby">Introduction</h4>
 <p> Having a great business idea is the first step to starting a business of your own. With many home-based businesses requiring minimal start-up costs and the proliferation of social media to attract new customers, the prospect of being your own boss certainly seems within reach.
 <br>
@@ -257,11 +257,11 @@ Here are some resources to get you started.</p>
 		<td>
 			<h4 class="has-text-ruby">Did you know...</h4>
 			<ul>
-				<li>The total value of merchandise sold through social commerce in Singapore had an increase of nearly seven-fold over the first six months in 2020.<sup><a href="#footnote-one">1</a></sup></li><a href="#footnote-one">
-				</a><li><a href="#footnote-one">In just the first six months of 2021, about 23,000 new companies were incorporated in Singapore, 20 percent more than during the same period in 2020<sup></sup></a><a href="#footnote-two">2.</a></li><a href="#footnote-two">
-</a><li><a href="#footnote-two">During the circuit breaker in Singapore, more than three in five small businesses on Facebook made at least 25 per cent of the past month's sales digitally<sup></sup></a><a href="#footnote-three">3.</a></li><a href="#footnote-three">
-			</a></ul><a href="#footnote-three">
-		</a></td>
+				<li>The total value of merchandise sold through social commerce in Singapore had an increase of nearly seven-fold over the first six months in 2020.<sup><a href="#footnote-one">1</a></sup>.</li>
+				<li>In just the first six months of 2021, about 23,000 new companies were incorporated in Singapore, 20 percent more than during the same period in 2020<sup><a href="#footnote-two">2</a></sup>.</li>
+<li>During the circuit breaker in Singapore, more than three in five small businesses on Facebook made at least 25 per cent of the past month's sales digitally<sup><a href="#footnote-three">3</a></sup>.</li>
+			</ul>
+		</td>
 	</tr>
 	</tbody></table>
 	
@@ -269,7 +269,7 @@ Here are some resources to get you started.</p>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/awnn-bqV_Tw" class="responsive-iframe"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/awnn-bqV_Tw"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -282,7 +282,7 @@ Here are some resources to get you started.</p>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/87WNMAtZozI" class="responsive-iframe"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/87WNMAtZozI"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -294,45 +294,46 @@ Here are some resources to get you started.</p>
 
 <h4 class="has-text-ruby">Article</h4>
 
-<h5 class="has-text-ruby"><a href="https://www.fundera.com/blog/small-business-podcasts" class="has-text-ruby">21 Inspiring Podcasts Every Small Business Owner Should Download</a></h5>
+<h5 class="has-text-ruby"><a class="has-text-ruby" href="https://www.fundera.com/blog/small-business-podcasts">21 Inspiring Podcasts Every Small Business Owner Should Download</a></h5>
 <p>Find inspirations to get yourself through different aspects of starting your own business with these 21 recommended podcasts catered for startups and small businesses.</p>
-Source: <a href="https://www.fundera.com/blog/small-business-podcasts" class="has-text-ruby">21 Inspiring Podcasts Every Small Business Owner Should Download</a> (2020, Feb 6). <i> Fundera</i>. Retrieved 2021, October 21
+Source: <a class="has-text-ruby" href="https://www.fundera.com/blog/small-business-podcasts">21 Inspiring Podcasts Every Small Business Owner Should Download</a> (2020, Feb 6). <i> Fundera</i>. Retrieved 2021, October 21
 
 <h4 class="has-text-ruby">eBooks</h4>
-<h5 class="has-text-ruby"><a href="https://nlb.overdrive.com/media/5850187" class="has-text-ruby">How to Start Your Own Business … And Make it Work</a></h5>
+<h5 class="has-text-ruby"><a class="has-text-ruby" href="https://nlb.overdrive.com/media/5850187">How to Start Your Own Business … And Make it Work</a></h5>
 DK (2021), <i>How to Start Your Own Business: And Make it Work</i>, London: Dorling Kindersley Ltd.
 <br>
-<a href="https://nlb.overdrive.com/media/5850187"><img href="https://nlb.overdrive.com/media/5850187" alt="Book cover for How to Start Your Own Business”></a>
+<a class="has-text-ruby" href=" https://nlb.overdrive.com/media/5850187"><img src="/images/career/adults/HowtoStartYourOwnBusiness.jpg" style="width:300px; text-align:left;" alt="Book cover for How to Start Your Own Business"></a>
 <p> In this visual guide, learn ways to turn your business idea into a reality. With practical, authoritative and insightful advice from business managers, learn the basics to make your start-up stand out from the crowd.</p>
-<p><a class=" style="width:300px; text-align:left;" src="/images/career/adults/ HowtoStartYourOwnBusiness.jpg">Borrow the eBook here</a>. <p></p>
-Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" class="has-text-ruby">myLibrary username</a> is required to access the eBook).
+<p><a class="has-text-ruby" href="https://nlb.overdrive.com/media/5850187">Borrow the eBook here</a>. </p>
+<body>Retrieved from OverDrive (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</body>
 
-<h5><a href="”https://nlb.overdrive.com/media/4177541&quot;" class="has-text-ruby"> Start Your Own Business:<br>The Only Startup Book You'll Ever Need </a></h5>
+<h5><a class="has-text-ruby" href=”https://nlb.overdrive.com/media/4177541"> Start Your Own Business:<br>The Only Startup Book You'll Ever Need </a></h5>
 The Staff of Entrepreneur Media, Inc., (2018), <i>Start Your Own Business: The Only Startup Book You'll Ever Need</i>, California: Entrepreneur Press.
 <p>
-<a href="https://nlb.overdrive.com/media/4177541" class="has-text-ruby"><img alt="Book cover for Start Your Own Business: The Only Startup Book You'll Ever Need" style="width:300px; text-align:left;" src="/images/career/adults/StartYourOwnBusiness.jpg"></a>
+<a class="has-text-ruby" href="https://nlb.overdrive.com/media/4177541"><img src="/images/career/adults/StartYourOwnBusiness.jpg" style="width:300px; text-align:left;" alt="Book cover for Start Your Own Business: The Only Startup Book You'll Ever Need"></a>
 </p>
 <p> A guide for people who want to earn money on the side with the dream of growing their business. This book provides expert advice to guide new entrepreneurs for the first 3 years.</p>
-<p><a href="”https://nlb.overdrive.com/media/4177541&quot;" class="has-text-ruby">Borrow the eBook here</a>. </p>
-Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" class="has-text-ruby">myLibrary username</a> is required to access the eBook).
+<p><a class="has-text-ruby" href=”https://nlb.overdrive.com/media/4177541">Borrow the eBook here</a>. </p>
+<body>Retrieved from OverDrive (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</body>
 	
-<h5><a href="https://nlb.overdrive.com/media/4568823" class="has-text-ruby">Entrepreneurship: How to Start and Grow Your Own Business</a>
+<h5><a class="has-text-ruby" href="https://nlb.overdrive.com/media/4568823">Entrepreneurship: How to Start and Grow Your Own Business</a>
 </h5>
-Brian Tracy (2019), <i>Entrepreneurship: How to Start and Grow Your Own Business</i>, New York: G&amp;D Media.
+Brian Tracy (2019), <i>Entrepreneurship: How to Start and Grow Your Own Business</i>, New York: G&D Media.
 <br>
-<a href="https://nlb.overdrive.com/media/4568823"><img alt="Book cover for Entrepreneurship: How to Start and Grow Your Own Business" style="width:300px; text-align:left;" src="/images/career/adults/ Entrepreneurship.jpg"></a>
+<a href="https://nlb.overdrive.com/media/4568823"><img src="/images/career/adults/Entrepreneurship.jpg" style="width:300px; text-align:left;" alt="Book cover for Entrepreneurship: How to Start and Grow Your Own Business"></a>
 <p>Learn the skill sets required to be an entrepreneur from business consultant and writer Brian Tracy. These include ways to create a realistic business plan and use sales and marketing to fuel growth.</p>
-<p><a href="https://nlb.overdrive.com/media/4568823" class="has-text-ruby">Borrow the eBook here</a>.</p>
-Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" class="has-text-ruby">myLibrary username</a> is required to access the eBook).
+<p><a class="has-text-ruby" href="https://nlb.overdrive.com/media/4568823">Borrow the eBook here</a>.</p>
+<body>Retrieved from OverDrive (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</body>
 
 <h4 class="has-text-ruby"><b>Programmes</b></h4>
-<p>Sign up for our programmes for entrepreneurs through this link: <a href="https://go.gov.sg/breakthrough-series" class="has-text-ruby">go.gov.sg/breakthrough-series</a>.
+<p>Sign up for our programmes for entrepreneurs through this link: <a class="has-text-ruby" href="https://go.gov.sg/breakthrough-series">go.gov.sg/breakthrough-series</a>.
 </p>
 <h4 class="has-text-ruby">References</h4>
 <ol>
-    <li><a id="footnote-one"> Home-based F&amp;B businesses flourish amid pandemic (2021, February 12)</a> <i>CNA</i>. Retrieved 2021, October 19 from <a href="https://www.channelnewsasia.com/singapore/home-based-bakers-businesses-covid-19-pandemic-347736">https://www.channelnewsasia.com/singapore/home-based-bakers-businesses-covid-19-pandemic-347736</a></li>
+    <li><a id="footnote-one"> Home-based F&B businesses flourish amid pandemic (2021, February 12)</a> <i>CNA</i>. Retrieved 2021, October 19 from <a href="https://www.channelnewsasia.com/singapore/home-based-bakers-businesses-covid-19-pandemic-347736">https://www.channelnewsasia.com/singapore/home-based-bakers-businesses-covid-19-pandemic-347736</a></li>
 	<li><a id="footnote-two">Singapore startup and business update: July 2021 (2021, July 26)</a>. <i>corporateservices.com</i>. Retrieved 2021, October 19 from <a href="https://www.corporateservices.com/singapore-startup-and-business-update-july-2021/">https://www.corporateservices.com/singapore-startup-and-business-update-july-2021/</a> </li>
 	<li><a id="footnote-three">Home sweet home-based businesses</a>. (2020, December 20). <i>Business Times</i>. Retrieved 2021, October 19 from <a href="https://www.businesstimes.com.sg/brunch/home-sweet-home-based-businesses">https://www.businesstimes.com.sg/brunch/home-sweet-home-based-businesses</a></li>
 </ol>
+
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
