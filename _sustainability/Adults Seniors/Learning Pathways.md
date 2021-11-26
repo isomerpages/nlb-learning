@@ -153,7 +153,7 @@ City in nature is one of the five key pillars in Singapore’s Green Plan. We ex
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Recommended Collections</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -254,7 +254,7 @@ Botanical Beauty: 80 Essential Recipes for Natural Space Products by Aubre Andru
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" target="_blank" class="has-text-jade"><b>LearnX Digital</b><br>MakeIT</a></td>
+        <td style="width: 20%;"><a href="https://codesg.imda.gov.sg/in-community/makeit-at-libraries/" target="_blank" class="has-text-jade"><b>LearnX Digital</b><br>MakeIT</a></td>
         <td style="width: 40%;">MakeIT aims to introduce Making and Innovayion to the general public by way of areas, including Making with upcycling in mind. Topics available include repair and home-hacks and lofi prototyping<br></td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
