@@ -19,4 +19,4 @@ Workshops for children aged 4-6 years to equip them with knowledge and practical
 
 Click here for the latest programme listings.
 
-<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

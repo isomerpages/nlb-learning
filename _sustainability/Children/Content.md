@@ -14,4 +14,4 @@ Children and parents can bond over this Stay Curious with Your Child activity on
 
 [Stay Curious with Your Child](https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child)
 
-<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

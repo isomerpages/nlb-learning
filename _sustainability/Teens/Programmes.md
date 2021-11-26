@@ -13,4 +13,4 @@ A series of talks and workshops for teens to explore various green topics and pr
 
 Click here for the latest programme listings.
 
-<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
