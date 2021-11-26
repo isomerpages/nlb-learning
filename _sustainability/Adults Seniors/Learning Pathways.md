@@ -14,7 +14,7 @@ The Green Economy is one of the five key pillars in Singapore’s Green Plan. We
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Recommended Collections</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-jade">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
