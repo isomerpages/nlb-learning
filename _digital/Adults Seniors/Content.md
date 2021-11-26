@@ -647,7 +647,7 @@ Kristen Meinzer (2019), <i>So You Want to Start a Podcast: Finding Your Voice, T
 <p><a href="https://share.libbyapp.com/title/4395781">Borrow the eBook here</a>.</p>Retrieved from Libby (myLibraryid is required to access the eBook).
 
 <h4>Digital Programmes in NLB</h4>
-<p>We’ve got more in store for you! Check out the digital-related programmes under the Time of Your Life (TOYL) series to pick up more knowledge and skills about digital platforms. <a href="go.gov.sg/toyl">go.gov.sg/toyl</a> to find the right one for you!
+<p>We’ve got more in store for you! Check out the digital-related programmes under the Time of Your Life (TOYL) series to pick up more knowledge and skills about digital platforms. <a href="https://go.gov.sg/toyl">go.gov.sg/toyl</a> to find the right one for you!
 </p>
 			
 <h4>References</h4>
