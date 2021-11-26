@@ -7,8 +7,9 @@
 // Agency brand colors
 $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
-$secondary-hover: lighten($secondary, 10%);
 $primary-hover: darken($primary, 10%);
+$secondary-hover: lighten($secondary, 10%);
+
 
 $indigo: #322987;
 $sky: #cff2e8;
