@@ -570,7 +570,7 @@ The Video Creators Club – Suitable for beginners interested in nurturing their
 
 <h4>References</h4>
 <ol>
-	<li><a id="footnote-nine">First Digital Photos, From Victorian Technology To The Internet</span>. <i>The National Science and Media Museum</i>. Retrieved 2021, October 20 from <a href="https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos"> https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos</a></li>
+	<li><a id="footnote-nine">First Digital Photos, From Victorian Technology To The Internet</a>. <i>The National Science and Media Museum</i>. Retrieved 2021, October 20 from <a href="https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos"> https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos</a></li>
 	<li><a id="footnote-ten">Artist Beeple’s digital work sells for record $93 million</span>. <i> The Straits Times</i>. Retrieved 2021, March 12 from <a href="https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million">https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million</a></li>
 </ol>
 
