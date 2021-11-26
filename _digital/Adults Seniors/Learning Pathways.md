@@ -253,15 +253,15 @@ Yishun Public Library<br></td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" target="_blank"><b>Useful Google Apps for Seniors Part 1 | Time of Your Life</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/it-talk-series-useful-google-apps-for-seniors-part-1-time-of-your-life-tickets-202760250367?aff=ebdssbonlinesearch" target="_blank"><b>Useful Google Apps for Seniors Part 1 | Time of Your Life</b></a></td>
         <td style="width: 40%;">Learn how Google Photos & YouTube can be useful for you!</td>
         <td style="width: 20%;">2 Dec 2021, <br>9pm - 10pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
-        <td><a href="https://go.gov.sg/poutline" target="_blank"><b>Useful Google Apps for Seniors Part 2 | Time of Your Life</b></a></td>
+        <td><a href="https://www.eventbrite.sg/e/it-talk-series-useful-google-apps-for-seniors-part-2-time-of-your-life-tickets-202772115857?aff=ebdssbonlinesearch" target="_blank"><b>Useful Google Apps for Seniors Part 2 | Time of Your Life</b></a></td>
         <td>Learn how Google Photos & YouTube can be useful for you!</td>
-        <td style="width: 20%;">2 Dec 2021, <br>9pm - 10pm</td>
+        <td style="width: 20%;">16 Dec 2021, <br>9pm - 10pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
     </tbody>
