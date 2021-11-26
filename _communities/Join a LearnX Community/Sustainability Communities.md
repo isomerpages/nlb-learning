@@ -24,6 +24,7 @@ For teens, adults and seniors, conducted in English at Queenstown Public Library
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>The Nature Club</b></h5>
       <p class="margin--top--sm margin--bottom--sm">The Nature Club aspires to be an intergenerational book club (for all ages), creating a space for the discussion of ecological narratives.<br>
+				
 Collective calamities like the climate crisis - among others - often inflict wounds of ecological grief, hurt and isolation on all of us, and stories provide a language and medium of catharsis and healing for everyone who wishes to join our sessions.  <br><br>
 For all ages, conducted monthly in English at Central Public Library.<br>
 For more information, <a href="www.instagram.com/natureclubsg/" target="_blank">visit their page</a>.</p>
