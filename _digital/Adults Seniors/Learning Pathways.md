@@ -51,7 +51,7 @@ Technology is changing the way we live and work by making things more accessible
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank"><b>[S. U. R. E. Skills Series x My Digital Life]</b><br> Be a Smart Factchecker</a></td>
+        <td><a href="https://www.eventbrite.sg/e/how-to-be-a-smart-fact-checker-sure-x-my-digital-life-registration-209078267727?aff=ebdssbonlinesearch" target="_blank"><b>[S. U. R. E. Skills Series x My Digital Life]</b><br> Be a Smart Factchecker</a></td>
         <td>Find out how to distinguish between real facts and fake news in this programme. </td>
         <td>3 Dec 2021, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
@@ -217,25 +217,25 @@ Yishun Public Library<br></td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>[S.U.R.E Skills Series]</b><br>Spotting Deepfake Images & Videos</a></td>
+<td><a href="https://www.eventbrite.sg/e/how-to-be-a-smart-fact-checker-sure-x-my-digital-life-registration-209078267727?aff=ebdssbonlinesearch" target="_blank"><b>[S.U.R.E Skills Series]</b><br>Spotting Deepfake Images & Videos</a></td>
         <td>Learn more about Artificial Intelligence generated deepfake images and videos, how they work, and how to detect them.</td>
         <td>7 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>[银发族S.U.R.E.技能系列] 如何识破 “深度伪造” 图像和影像</b></a></td>
+<td><a href="https://www.eventbrite.sg/e/how-to-be-a-smart-fact-checker-sure-x-my-digital-life-registration-209078267727?aff=ebdssbonlinesearch" target="_blank"><b>[银发族S.U.R.E.技能系列] 如何识破 “深度伪造” 图像和影像</b></a></td>
         <td>通过这个工作坊，您能了解什么是利用人工智能（AI）合成的“深度伪造” (Deepfake) 图像和影像，以及如何识破它们。</td>
         <td>15 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>[My Digital Life]</b><br>Social Impact of Technologies</a></td>
+<td><a href="https://www.eventbrite.com/c/my-digital-life-ccbgxhmp--Z5JZyySTqONy/" target="_blank"><b>[My Digital Life]</b><br>Social Impact of Technologies</a></td>
         <td>Learn more about the positive and negative impact of technology in our daily lives</td>
         <td>2 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>[My Digital Life]</b><br>Internet of Things</a></td>
+<td><a href="https://www.eventbrite.com/c/my-digital-life-ccbgxhmp--Z5JZyySTqONy/" target="_blank"><b>[My Digital Life]</b><br>Internet of Things</a></td>
         <td>Find out more about the fundamentals of IoT at this workshop, including how some common sensors work, its interface to a microcontroller, and how the Internet fits into all of this..</td>
         <td>21 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
