@@ -665,7 +665,7 @@ Kristen Meinzer (2019), <i>So You Want to Start a Podcast: Finding Your Voice, T
     <tr>
       <td>
         <h2> Fun Fact:...</h2>
-        <p>As of 2021, a whopping 89.64% of the Singapore population own a smartphone.<sup><a href="#footnote-one">1</a></sup>.</p> 
+        <p>As of 2021, a whopping 89.64% of the Singapore population own a smartphone.<sup><a href="#footnote-thirteen">13</a></sup>.</p> 
       </td>
     </tr>
 	</tbody>
