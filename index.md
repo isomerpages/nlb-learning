@@ -26,4 +26,18 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: LAB25
+      description: 160 Characters
+      button: Click Here
+      url: https://www.nlb.gov.sg/WhoWeAre/AboutUs/AboutLAB25.aspx
+      image: /images/home/logo-lab25-row-1.png
+      alt: LAB25
+  - infopic:
+      title: <img src"/images/home/logo-nyp-white.png">
+      subtitle: Partners
+      description: Infopic description
+      button: Button Text
+      image: /images/home/logo-nyp-white.png
+      alt: Image alt text
 ---
