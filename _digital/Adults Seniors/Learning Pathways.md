@@ -6,7 +6,7 @@ third_nav_title: Adults & Seniors
 ---
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-We start with a healthy digital lifestyle for all, and for seniors, Master The Use Of Smartphones.  
+We start with a healthy digital lifestyle for all, and for seniors, <a href="/digital/adults-seniors/content">Master The Use Of Smartphones.</a> 
 
 <h3><b> Embrace a Safe and Healthy Digital Lifestyle
 </b></h3>
@@ -151,6 +151,7 @@ With guest speakers:<br>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<div id="#secondlp">
 <h3><b>Learning To Effectively Use Smartphones to Make Life Better!</b></h3>
 Learn to use your smartphone effectively and safely to have knowledge at your fingertips and bring more convenience to your life!
 
@@ -269,5 +270,6 @@ Yishun Public Library<br></td>
     </tbody>
   </table>
 </div>
+</div>	
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
