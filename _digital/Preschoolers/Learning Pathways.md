@@ -90,7 +90,7 @@ Participants will have a chance to experience Bee bot, a programmable robot in t
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover other LFA Programmes</th>
+        <th colspan="4" class="is-uppercase has-weight-normal has-text-indigo">Discover other Learning Focus Areas</th>
       </tr>
     </thead>
     <tbody>
