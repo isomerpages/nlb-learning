@@ -223,7 +223,7 @@ Yishun Public Library<br></td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/e/how-to-be-a-smart-fact-checker-sure-x-my-digital-life-registration-209078267727?aff=ebdssbonlinesearch" target="_blank"><b>[银发族S.U.R.E.技能系列] 如何识破 “深度伪造” 图像和影像</b></a></td>
+<td><a href="https://www.eventbrite.sg/e/sure-tickets-174926157847?aff=ebdssbonlinesearch" target="_blank"><b>[银发族S.U.R.E.技能系列] 如何识破 “深度伪造” 图像和影像</b></a></td>
         <td>通过这个工作坊，您能了解什么是利用人工智能（AI）合成的“深度伪造” (Deepfake) 图像和影像，以及如何识破它们。</td>
         <td>15 Dec 2021, <br>3pm – 4.30pm</td>
         <td>Zoom</td>
