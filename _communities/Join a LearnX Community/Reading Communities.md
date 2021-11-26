@@ -204,7 +204,7 @@ For Teens, Adults, Seniors, conducted once every two months in Chinese at Centra
     </div>
   </div>
    <div class="col is-half-tablet padding--bottom--lg">
-    <img alt="SG Writings Reading Club 随笔南洋读书会" src="/images/learning-communities/reading/LC-Reading- StockImage-16.jpg">
+    <img alt="SG Writings Reading Club 随笔南洋读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-16.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> SG Writings Reading Club 随笔南洋读书会 </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> SG Writings Reading Club（Former Tea Chapter Reading Club） was founded in October 18, 1998. The reading club encourages reading practise, promote reading culture and share reading knowledge. Through the practise and sharing, we aim to improve ourability to appreciate literatures and to develop our latent sense of art, and to explore the true essence of literatures together.<br><br>
@@ -233,7 +233,7 @@ For Adults, conducted monthly in English at Central Public Library.</p>
     </div>
   </div>
    <div class="col is-half-tablet padding--bottom--lg">
-    <img alt="Taxi Shifu and Friends Reading Club 德士师傅与好友读书会" src="/images/learning-communities/reading/LC-Reading- StockImage-13.jpg">
+    <img alt="Taxi Shifu and Friends Reading Club 德士师傅与好友读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-13.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Taxi Shifu and Friends Reading Club 德士师傅与好友读书会</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Come join us and share your passion for reading with like-minded readers of Taxi Shifu and Friends Reading Club. Every book discussion is an enriching experience for all as the participants establish friendships and leave with valuable insights and knowledge that help them better appreciate the book.<br><br>
@@ -243,7 +243,7 @@ For Adults and Seniors, conducted once every two months in Chinese at Ang Mo Kio
     </div>
   </div>
    <div class="col is-half-tablet padding--bottom--lg">
-    <img alt="The Golden Circle" src="/images/learning-communities/reading/LC-Reading- StockImage-10.jpg">
+    <img alt="The Golden Circle" src="/images/learning-communities/reading/LC-Reading-StockImage-10.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> The Golden Circle </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> The rustle of a well-thumbed page, the whiff of age from a much-cherished tome—come and appreciate the beauty of a good book with the Golden Circle, an English book club for seniors. Discussions will be centred around fiction books, so join us for a stimulating afternoon of lively discussions.<br><br>
@@ -271,11 +271,12 @@ For Teens and Adults, conducted monthly in English at Toa Payoh Public Library.<
     </div>
   </div>
    <div class="col is-half-tablet padding--bottom--lg">
-    <img alt="3G Book Club 第三代读书会" src="/images/learning-communities/reading/LC-Reading- StockImage-02.jpg">
+    <img alt="3G Book Club 第三代读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-02.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> 3G Book Club 第三代读书会 </b></h5>
       <p class="margin--top--sm margin--bottom--sm">This reading club was first founded in 2006 by a group of Chinese Language teachers to promote reading. The club welcomes anyone who enjoys reading to participate in their sessions. They discuss both local and overseas Chinese works, and also organise reading workshops periodically.<br><br>
 For Adults, conducted quarterly in Chinese at National Library.</p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
     </div>
-  </div></div>
+  </div>
+</div>
