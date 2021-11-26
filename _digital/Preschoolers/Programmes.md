@@ -17,6 +17,6 @@ Some topics that will be covered include:
 - Emerging technologies and it’s practical applications in learning 
 - Developing computational skills in young children 
 
-[Click here](#){: .has-text-indigo} for the latest programme listings.
+[Click here](#) for the latest programme listings.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>

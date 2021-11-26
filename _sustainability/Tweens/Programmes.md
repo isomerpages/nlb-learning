@@ -6,10 +6,10 @@ third_nav_title: Tweens
 ---
 Encourage your child to grow a love for nature and pick up eco-friendly habits through talks, workshops and activities
 
-## **Tweenkerama | Sustainability**{: .has-text-jade}
+## **Tweenkerama | Sustainability**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-Children-01.png)
 Tweens aged 10 to 14 years old will get to learn and explore topics on sustainability through a variety of hands-on and experiential learning activities. 
 
-Click [here](https://go.gov.sg/nlb-teensprogs){: .has-text-jade} for the latest programme listings.
+Click [here](https://go.gov.sg/nlb-teensprogs) for the latest programme listings.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-jade">Back to top</a></p>
