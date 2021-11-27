@@ -4,7 +4,6 @@ permalink: /digital/teens/content
 description: ""
 third_nav_title: Teens
 ---
-```
 <p>Explore resources and content on topics that reveal the possibilities of technology.</p>
 <p>Check out our <b>playlist</b> for a collection of short videos exploring topics around digital concepts.</p>
 <p>Check our <b>learning package</b> for articles that will give you an insight into digital concepts.</p>
@@ -70,6 +69,3 @@ Are you very sure that your data and accounts are secured and have not been comp
 </div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-```
-
-
