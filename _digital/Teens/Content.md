@@ -23,7 +23,6 @@ third_nav_title: Teens
       </a>
     </div>
   </div>
-</div>
 
 <h3 class="has-text-indigo" id=”playlist-sure”><b>Playlist: Stay Safe, Stay Informed</b></h3>
 <p>Check out these resources that highlight tips on keeping your online information protected, while exploring new digital advancements and opportunities.</p>
