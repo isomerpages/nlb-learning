@@ -416,9 +416,6 @@ Retrieved from Libby (a <a class="has-text-ruby" href="https://mobileapp.nlb.gov
 <p>Hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at <a class="has-text-ruby" href="https://go.gov.sg/get-professional-series">go.gov.sg/get-professional-series</a>.
 </p>
 
-<h4>References</h4>
-4. <a id="footnote-four" href="https://www.indeed.com/career-advice/career-development/top-job-skills">12 Top Job Skills for Any Industry: Transferable Skills You Need</a>. (2021, April 20). Indeed. Retrieved 2021, October 18 from <a href="https://www.indeed.com/career-advice/career-development/top-job-skills">https://www.indeed.com/career-advice/career-development/top-job-skills</a>
-<br>
-5. <a id="footnote-five" href=”https://www.valamis.com/hub/types-of-communication”>Types of Communication</a>. (2021, January 19). Valamis. Retrieved 2021, October 18 from <a href="https://www.valamis.com/hub/types-of-communication">https://www.valamis.com/hub/types-of-communication</a>
+
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
