@@ -114,7 +114,7 @@ Check out our **learning packages** for articles that will give you an insight i
 <h2>Playlists</h2>
 <p>In a hurry? Check out these videos, articles and programmes for a quick lesson on digital trends and technology.</p>
 
-<h3><a id=”playlist-smartphone”>Playlist: Using Your Smartphone</a></h3>
+<h5 class="margin--bottom--lg" id="playlist-biz"><b>Playlist: Using Your Smartphone</b></h5>
 
 There are many useful and fun things you can do with your smartphone today. With its ability to access the Internet, a smartphone can do more than make a phone call or send a text message. Depending on your needs and interests, you can use a smartphone to look up information, play games, watch videos and even buy groceries. Today, a smartphone has become an important tool that provides its users with both convenience and ease, wherever you go!
 If you would like to find out more about what a smartphone can do for you in your everyday life, some resources have been compiled here. 
