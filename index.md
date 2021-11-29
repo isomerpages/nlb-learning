@@ -8,7 +8,9 @@ notification: ""
 sections:
   - hero:
       title: Welcome to LearnX
-      subtitle: 160 characters here
+      subtitle: "A platform where you can choose what, when and how you learn.
+        Customise your learning journey with resources across a wide range of
+        topics. "
       background: /images/home/masthead-icons-1366x507-1.gif
       key_highlights:
         - title: LearnX Digital
