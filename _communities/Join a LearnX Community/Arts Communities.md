@@ -4,10 +4,8 @@ permalink: /communities/join/arts-communities
 description: ""
 third_nav_title: Join a LearnX Community
 ---
-
 ### **Art Communities**
-
-
+Not all of us make a living through the arts, but the arts make life worth living. Connect with communities of like-minded people who dare see beyond what the world is, by imagining what it could be. 
 
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">

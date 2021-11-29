@@ -20,7 +20,7 @@ If you would like to find out more about what a smartphone can do for you in you
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Use Your Phone To Pay Everything! A Day in Singapore Without Cash & EZ-Link | Apple Pay & Grab Pay</b><br>
+    <p><b>Use Your Phone To Pay Everything! A Day in Singapore Without Cash & EZ-Link | Apple Pay & Grab Pay</b><br>
 Watch how one Singaporean goes around the island performing his day-to-day activities without his wallet. You will be amazed at the multitude of things you can accomplish with just a smartphone!</p>
     <small>Source: Use Your Phone To Pay Everything! A Day in Singapore Without Cash & EZ-Link | Apple Pay & Grab Pay - Youtube (2020, Oct 19). Retrieved 2021, October 20.</small>
   </div>
@@ -33,7 +33,7 @@ Watch how one Singaporean goes around the island performing his day-to-day activ
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Help Our Seniors Go Digital: Mothership Hits The Streets (Safe Distancing Edition)</b><br>
+    <p><b>Help Our Seniors Go Digital: Mothership Hits The Streets (Safe Distancing Edition)</b><br>
     Find out how our seniors are coping with the transition to digital platforms and how we can help them learn more about the various uses of their smartphones.</p>
     <small>Source: Help Our Seniors Go Digital: Mothership Hits The Streets (Safe Distancing Edition) - YouTube (2020, Apr 1). Retrieved 2021, Oct 20.</small>
   </div>
@@ -46,7 +46,7 @@ Watch how one Singaporean goes around the island performing his day-to-day activ
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">IMDA Digital Pods</b><br>
+    <p><b>IMDA Digital Pods</b><br>
     Explore a series of talks and tutorials geared towards helping seniors navigate the most useful smartphone apps available.</p>
     <small>Source: IMDA Digital Pods -Youtube (2021, Oct 10). Retrieved 2021, October 20.</small>
   </div>
@@ -67,7 +67,7 @@ Learn more about how to use the various popular social media platforms and find 
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Social Media Explained</b><br>
+    <p><b>Social Media Explained</b><br>
     In this clip, learn about the various social networks, the history and timeline on the development of social media sites.</p>
     <small>Source: Social Media Explained - Youtube (2019, Sep 9). Retrieved 2021, October 22.</small>
   </div>
@@ -80,7 +80,7 @@ Learn more about how to use the various popular social media platforms and find 
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">YouTube’s First Ever Video</b><br>
+    <p><b>YouTube’s First Ever Video</b><br>
     Some interesting facts about the first ever video posted on YouTube!</p>
     <small>Source: YouTube’s First Ever Video- YouTube (2019, Apr 23). Retrieved 2021, October 22.</small>
   </div>
@@ -94,7 +94,7 @@ src="https://www.youtube.com/embed/zomo9OKXW6I"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Your Social Media Posts Are Helping Criminals To Target You</b><br>
+    <p><b>Your Social Media Posts Are Helping Criminals To Target You</b><br>
     A clip of an episode of the documentary series “Why IT Matters”. It showcases the type of information that malicious persons can obtain from social media posts. (Or why is it important to know how to be safe on social media).</p>
     <small>Source: Your Social Media Posts Are Helping Criminals To Target You-Youtube (2019, Jan 16). Retrieved 2021, October 22.</small>
   </div>
@@ -116,7 +116,7 @@ src="https://player.vimeo.com/video/221117048"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">1997: Birth of the Camera Phone</b><br>
+    <p><b>1997: Birth of the Camera Phone</b><br>
     The story of how the first photo was sent by a cell phone in real time that eventually became an important part of our modern life.</p>
     <small> Source: 1997: Birth of the Camera Phone (2017, June 10). Conscious Minds Vimeo. Retrieved 2021 October 2020.</small>
   </div>
@@ -129,7 +129,7 @@ src="https://player.vimeo.com/video/221117048"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">What is a Makerspace?</b><br>
+    <p><b>What is a Makerspace?</b><br>
     Understanding what a makerspace is and what the makerspace means to the students.</p>
     <small> Source: What is a Makerspace? (2013, Sep 1). Retrieved 2021 October 2020.</small>
   </div>
@@ -143,7 +143,7 @@ src="https://www.youtube.com/embed/llNNrrDZZdE"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> While You Were Sleeping – Darren Soh </b><br>
+    <p><b> While You Were Sleeping – Darren Soh </b><br>
     A documentary featuring Darren Soh where he shares his story and photographs documenting night landscapes in Singapore and how the places has changed over the years.</p>
     <small> Source: While You Were Sleeping – Darren Soh (2021, Mar 31). Retrieved 2021 October 2020.</small>
   </div>
@@ -165,7 +165,7 @@ Learn how you can reclaim positive online experiences and improve your relations
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Digital Wellbeing: Technology and our daily lives</b><br>
+    <p><b>Digital Wellbeing: Technology and our daily lives</b><br>
     In this video, catch a glimpse of how different people relate to technology in their everyday lives. Have a quick think about what it means to have a healthy relationship with technology in this digital age.</p>
     <small> Source: Digital Wellbeing: Technology and our daily lives (2019, May 8). Google. Retrieved 2021, October 11.</small>
   </div>
@@ -178,7 +178,7 @@ Learn how you can reclaim positive online experiences and improve your relations
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">What is digital wellness and why is it important</b><br>
+    <p><b>What is digital wellness and why is it important</b><br>
     Learn about what digital wellness is and why it is important in ensuring good work-life integration, especially in a world that is increasingly dependent on technology to make it go round.</p>
     <small>What is digital wellness and why is it important (2020, September 26). Citrix. Retrieved 2021, October 12.</small>
   </div>
@@ -203,7 +203,7 @@ Interested to find out more about cybercrime and the domain in which it lurks? W
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">What is Cybercrime? Types of Cybercrime and Cyberattacks</b><br>
+    <p><b>What is Cybercrime? Types of Cybercrime and Cyberattacks</b><br>
 Find out what exactly is cybercrime and the different forms it can take in our world today.</p>
     <small> Source: What is Cybercrime? Types of Cybercrime and Cyberattacks (2020, January 11). Eye on Tech. Retrieved 2021, October 12.</small>
   </div>
@@ -216,7 +216,7 @@ Find out what exactly is cybercrime and the different forms it can take in our w
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Ex-Cyber Criminal Answers Burning Questions About The Dark Web </b><br>
+    <p><b>Ex-Cyber Criminal Answers Burning Questions About The Dark Web </b><br>
     Join an ex-cyber criminal in unpacking the dark web, finding out what exactly makes it “dark”, and drawing the line between criminal and non-criminal Internet activity.</p>
     <small>Source: Ex-Cyber Criminal Answers Burning Questions About The Dark Web (2020, May 23). BuzzFeedVideo. Retrieved 2021, October 12.</small>
   </div>
@@ -243,7 +243,7 @@ Watch these videos to learn more about design thinking, the process behind good 
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">How to solve problems like a designer</b><br>
+    <p><b>How to solve problems like a designer</b><br>
 Unpack the steps designers take in the innovation process, and find out how Design Thinking can help to address problems and meet different needs.</p>
     <small> Source: How to solve problems like a designer (2017, September 21). Vox. Retrieved 2021, October 12.</small>
   </div>
@@ -256,7 +256,7 @@ Unpack the steps designers take in the innovation process, and find out how Desi
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">IDEO-U | What is Design Thinking?</b><br>
+    <p><b>IDEO-U | What is Design Thinking?</b><br>
 Catch a glimpse of how Design Thinking has human interest and wellbeing at its core, and learn how the potential for creative problem-solving lies in every individual.</p>
     <small>Source: IDEO-U | What is Design Thinking? (2018, December 6). IDEO U. Retrieved 2021, October 12.</small>
   </div>
@@ -499,7 +499,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 </ol>
 
 
-<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
 <h1>Learning Package: Digital Creation</h1>
 <h2>Introduction</h2>
@@ -511,8 +511,8 @@ To help you understand and learn more about digital creations, do check out the 
 		<td>
 			<h2>Did you know...</h2>
 			<ul>
-				<li>The first digital image was created in 1957 by Russell Kirsch when he scanned a photograph of his three-month-old son using an early computer.<sup><a href="#footnote-one">1</a></sup></li>
-				<li>A digital artwork titled “Everydays – The First 5000 Days” by digital artist Beeple was sold at a record high amount of US$69 million (S$93 million).<sup><a href="#footnote-two">2</a></sup></li>
+				<li>The first digital image was created in 1957 by Russell Kirsch when he scanned a photograph of his three-month-old son using an early computer.<sup><a href="#footnote-nine">9</a></sup></li>
+				<li>A digital artwork titled “Everydays – The First 5000 Days” by digital artist Beeple was sold at a record high amount of US$69 million (S$93 million).<sup><a href="#footnote-ten">10</a></sup></li>
 			</ul>
 		</td>
 	</tr>
@@ -569,10 +569,9 @@ MakeIT X TOYL – In this programme series, learn and embrace new ways on making
 The Video Creators Club – Suitable for beginners interested in nurturing their videography skills, let our volunteer facilitator Mr Philip Au take you through different video-based projects and assignments!
 
 <h4>References</h4>
-<ol>
-	<li><span id="footnote-one">First Digital Photos, From Victorian Technology To The Internet</span>. <i>The National Science and Media Museum</i>. Retrieved 2021, October 20 from <a href="https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos"> https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos</a></li>
-	<li><span id="footnote-two">Artist Beeple’s digital work sells for record $93 million</span>. <i> The Straits Times</i>. Retrieved 2021, March 12 from <a href="https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million">https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million</a></li>
-</ol>
+9) <a id="footnote-nine">First Digital Photos, From Victorian Technology To The Internet </a>. <i>The National Science and Media Museum</i>. Retrieved 2021, October 20 from <a href=" https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos"> https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos</a> 
+<br>
+10) <a id="footnote-ten">Artist Beeple’s digital work sells for record $93 million</a>. <i> The Straits Times</i>. Retrieved 2021, March 12 from <a href="https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million">https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million</a>
 
 <h1>Learning Package: Social Media</h1>
 <h2>Introduction</h2>
@@ -582,8 +581,8 @@ Learn more about how to use the various popular social media platforms and find 
 	<tbody><tr>
 		<td>
 			<h2>Did you know...</h2>
-			<p>There are 4.8 million Facebook users in Singapore as of 2020. <sup><a href="#footnote-one">1</a></sup>.</p>
-			<p>Globally, users aged 16 to 64 spend 2 hours and 24 minutes on social media daily .<sup><a href="#footnote-two">2</a></sup>.</p>
+			<p>There are 4.8 million Facebook users in Singapore as of 2020. <sup><a href="#footnote-eleven">11</a></sup>.</p>
+			<p>Globally, users aged 16 to 64 spend 2 hours and 24 minutes on social media daily .<sup><a href="#footnote-twelve">12</a></sup>.</p>
     </td>
 </tr>
 </tbody>
@@ -595,14 +594,14 @@ Learn more about how to use the various popular social media platforms and find 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/apoVa0gwER8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-Source: <a href="www.youtube.com/watch?v=apoVa0gwER8" target="_blank">How to Make Tik Tok videos – Beginners Guide to Tik Tok</a> (2018, September 2). <i>Techboomers.</i> Retrieved 2021, October 20
+Source: <a href="https://www.youtube.com/watch?v=apoVa0gwER8" target="_blank">How to Make Tik Tok videos – Beginners Guide to Tik Tok</a> (2018, September 2). <i>Techboomers.</i> Retrieved 2021, October 20
 
 <h5>2.How To Use Instagram</h5> 
 <p>This video shows you an overview on how to get started on Instagram. By showing you how Instagram works and how to post pictures, you’ll be using Instagram with ease in no time!</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a0qrvLKtu6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-Source: <a href="www.youtube.com/watch?v=a0qrvLKtu6Y" target="_blank">How To Use Instagram</a> (2020, December 12). <i>Business Insider.</i> Retrieved 2021, October 21
+Source: <a href="https://www.youtube.com/watch?v=a0qrvLKtu6Y" target="_blank">How To Use Instagram</a> (2020, December 12). <i>Business Insider.</i> Retrieved 2021, October 21
 <h5>3.How Hashtags Work on Social Media: Twitter, Instagram & Facebook Hashtag Tips</h5>
 <p>Hashtags allow users to connect to content they are interested in. In this video, see how hashtags are used on the different social media sites and use the tips to use the relevant hashtags yourself.</p>
 <div class="bp-youtube">
@@ -647,14 +646,14 @@ Kristen Meinzer (2019), <i>So You Want to Start a Podcast: Finding Your Voice, T
 <p><a href="https://share.libbyapp.com/title/4395781">Borrow the eBook here</a>.</p>Retrieved from Libby (myLibraryid is required to access the eBook).
 
 <h4>Digital Programmes in NLB</h4>
-<p>We’ve got more in store for you! Check out the digital-related programmes under the Time of Your Life (TOYL) series to pick up more knowledge and skills about digital platforms. <a href="go.gov.sg/toyl">go.gov.sg/toyl</a> to find the right one for you!
+<p>We’ve got more in store for you! Check out the digital-related programmes under the Time of Your Life (TOYL) series to pick up more knowledge and skills about digital platforms. <a href="https://go.gov.sg/toyl">go.gov.sg/toyl</a> to find the right one for you!
 </p>
 			
 <h4>References</h4>
-<ol>    
-	<li><span id="footnote-one"> Number of Facebook users in Singapore from 2017 to 2020 and a forecast up to 2025</span>. <i>statista.com</i>. Retrieved 2021, October 19 from <a href="https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/">https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/</a></li>
-	<li><span id="footnote-two">Daily Time Spent with Media. Half a Billion Users joined Social in the Last Year (and other facts)</span> <i>Hootsuite</i>. Retrieved 2021, October 19 from <a href="https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png">https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png</a></li>
-</ol>
+11) <a id="footnote-eleven"> Number of Facebook users in Singapore from 2017 to 2020 and a forecast up to 2025</a>. <i>statista.com</i>. Retrieved 2021, October 19 from <a href="https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/">https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/</a>
+<br>
+12) <a id="footnote-twelve">Daily Time Spent with Media. Half a Billion Users joined Social in the Last Year (and other facts)</a> <i>Hootsuite</i>. Retrieved 2021, October 19 from <a href="https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png">https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png</a>
+
 
 <h1>Learning Package: Using Your Smartphone</h1>
 <h2>Introduction</h2>
@@ -665,7 +664,7 @@ Kristen Meinzer (2019), <i>So You Want to Start a Podcast: Finding Your Voice, T
     <tr>
       <td>
         <h2> Fun Fact:...</h2>
-        <p>As of 2021, a whopping 89.64% of the Singapore population own a smartphone.<sup><a href="#footnote-one">1</a></sup>.</p> 
+        <p>As of 2021, a whopping 89.64% of the Singapore population own a smartphone.<sup><a href="#footnote-thirteen">13</a></sup>.</p> 
       </td>
     </tr>
 	</tbody>
@@ -728,14 +727,12 @@ Retrieved from Libby (myLibraryid is required to access the eBook).
 	
 <h5>3. Screen Time</h5>
 Becca Caddy (2021), <i>Screen Time</i>, Blink Publishing. <br>
-<a href="https://share.libbyapp.com/title/5817735"><img src="/images/Digital/Seniors/ScreenTime.jpg " style="width:300px; text-align:left;" alt=" book cover for Screen Time"></a><p>
+<a href="https://share.libbyapp.com/title/5817735"><img src="/images/Digital/Seniors/ScreenTime.jpg " style="width:300px; text-align:left;" alt=" book cover for Screen Time"></a>
 <p>Understand how your phone and your screen time affects your life and make small changes to help you strike a healthy balance. Discover what works for you and what you can do without!</p>
 <p><a href="https://share.libbyapp.com/title/5817735">Borrow the eBook here</a>.</p>Retrieved from Libby (myLibraryid is required to access the eBook).
 
 <h4>Digital Programmes in NLB</h4>
-<p>We’ve got more in store for you! Check out the digital-related programmes under the Time of Your Life (TOYL) series to pick up more knowledge and skills about digital platforms. <a href="go.gov.sg/toyl">go.gov.sg/toyl </a> 
+<p>We’ve got more in store for you! Check out the digital-related programmes under the Time of Your Life (TOYL) series to pick up more knowledge and skills about digital platforms. <a href="https://go.gov.sg/toyl">go.gov.sg/toyl </a> 
 </p>
-			
 <h4>References</h4>
-<ol>
-	<li><span id="footnote-one">Smartphone penetration rate as share of the population in Singapore from 2010 to 2020 and a forecast up to 2025</span>. <i>Statista.com</i>. Retrieved 2021, October 21 from <a href="https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/">https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/</a></li>
+13) <a id="footnote-thirteen">Smartphone penetration rate as share of the population in Singapore from 2010 to 2020 and a forecast up to 2025</a>. <i>Statista.com</i>. Retrieved 2021, October 21 from <a href="https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/">https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/</a>

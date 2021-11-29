@@ -23,7 +23,7 @@ A new series on how current and emerging ways that technology impacts our daily 
 Click [here](https://go.gov.sg/nlbmdl) for the latest programme listings.
 
 ## **MakeIt at Libraries** 
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-03.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-MakeIT-at-Libraries.png)
 
 NLB’s free-for-public makerspace. MakeIT introduces the wonder of digital and tech based creativity to all library members. Try your hand at emerging fabrication technology like 3D printing, Robotics, and other forms of tech-based tinkering. No prior expertise required. All equipment and consumables are provided. For ages 13 to 99. 
 
@@ -35,7 +35,7 @@ Click [here](https://go.gov.sg/nlb-makeit-events) for the latest programme listi
 We have specially curated programme series to suit your learning style and pace. The following programmes are recommended for the 50+.
 
 ## **SG Digital Office**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-04.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Seniors_SDO.jpg)
 
 Started in September 2020, Digital Ambassadors at select libraries are available to provide one-on-one guidance to seniors to equip them with the skills to use technology in their daily life. 
 
@@ -53,24 +53,24 @@ Click [here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/L
 
 Conducted by Digital Ambassadors and DBS volunteers, the e-Payment Learning Journey lets participants learn how to make e-payments on their phone and scan the SGQR code to pay for items.
 
-Click here for the latest programme listings. 
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest programme listings. 
 
 
 ## **Sliver Digital Creators**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-06.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-Seniors_SDC_TBC.jpg)
 
 Who said seniors can’t be digital creators? Take your creativity and digital skills to the next level through photography, movie making, coding, music and more. Mix and match courses to create your perfect syllabus.
 
-Click here for the latest programme listings.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest programme listings.
 
 ## **Sliver Infocomm Junction**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-02.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-Seniors_SIJ_TBC.jpg)
 
 The Silver Infocomm Junctions offer affordable customised courses for seniors, covering over 20 topics. Through these courses, seniors will be equipped with digital skills for daily activities, such as e-Payment, accessing government digital services and more. 
 
 These payable sessions are conducted by RSVP
 
-Click here to register. 
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) to register. 
 
 
 ## **IT Talks**
@@ -78,20 +78,20 @@ Click here to register.
 
 Join regular sessions with NLB’s IT savvy seniors who share their knowledge and experience from their own perspective. A great way for seniors to learn more about technology from their own peers.
 
-Click here for the latest programme listings.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest programme listings.
 
 ## **MakeIT x TOYL (Time of Your Life)**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-08.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-Seniors_makeITTOYL.jpg)
 
 MakeIT TOYL are project based sessions which aim to encourage and inspire the next batch of seniors to participate in Making. 
 
-Click here for the latest TOYL programme listings.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest TOYL programme listings.
 
 ## **Tech Bazaar**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-09.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-Seniors_Techbazaar.jpg)
 
 Tech Bazaars, leveraging on libraries to serve as Tech Experience Touchpoints, enable seniors to experience technology safely and conveniently, and understand how these technologies connect to their daily lives.
 
-Click here for the latest Tech Bazaar programme listings.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest Tech Bazaar programme listings.
 
-<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

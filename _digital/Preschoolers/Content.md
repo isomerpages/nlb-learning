@@ -12,4 +12,4 @@ Many studies have reported that well curated experiences with new media such as 
 
 [Let's learn about Algorithms!](/files/DIgital_Algoritms_Package_Early%20Read.pdf)
 
-<p class="has-text-right margin--top--xl"><a href="#main-content" class="has-text-indigo">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

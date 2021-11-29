@@ -1,0 +1,6 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Partners.md
+      - Nanyang Polytechnic.md
