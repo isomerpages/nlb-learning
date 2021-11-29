@@ -37,6 +37,6 @@ Some topics that will be covered include:
 - Emerging technologies and it’s practical applications in learning 
 - Developing computational skills in young children 
 
-Click [here](https://www.eventbrite.com/c/early-read-digital-programmes-ccbkrwyy--HoLyq4w9zQdc/) for the latest programme listings.
+Click [here](https://www.eventbrite.com/c/early-read-digital-programmes-ccbkrwyy--HoLyq4w9zQdc/){:target="_blank"} for the latest programme listings.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
