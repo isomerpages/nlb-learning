@@ -25,7 +25,7 @@ Check out the schedule below, and look out for more programmes to be introduced 
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
-      <a href="/careers/overview">
+      <a href="#Careers">
         <span>Careers</span>
       </a>
     </div>
@@ -96,9 +96,8 @@ Learn how to create unique content through storytelling and incorporate subtle c
 <table>
 </table><table width="100%" cellspacing="15" cellpadding="15" border="0">
 
-<h4>Careers</h4>
+<h4 id="Careers">Careers</h4>
 <hr>
-
 
 <tr>
 <td><strong><a href="https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-game-artist-portfolio-registration-176075315007?aff=ebcollection&amp;keep_tld=1CCKPL">Teens Takeover – A Day In The Life Of Game Artist | portfolio</a></strong></td>
