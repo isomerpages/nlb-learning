@@ -37,13 +37,13 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/teens/content"><b> Playlist<br>Think Green, Go Green</b></a></td>
+        <td style="width: 20%;"><a href="/sustainability/teens/content" target="_blank"><b> Playlist<br>Think Green, Go Green</b></a></td>
         <td style="width: 40%;"> Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things "><b> Learning Package<br>Think Green, Go Green!</b></a></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things" target="_blank"><b> Learning Package<br>Think Green, Go Green!</b></a></td>
         <td> Be inspired by this Teen.Things article on environmental mindfulness and green habits, accompanied by videos and recommended reads.</td>
         <td></td>
         <td> </td>

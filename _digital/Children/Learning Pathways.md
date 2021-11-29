@@ -36,7 +36,7 @@ Go digital with your child and explore the world of digital and tech together.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/children/content"><b>Playlist: Safer Internet</b></a></td>
+        <td style="width: 20%;"><a href="/digital/children/content" target="_blank"><b>Playlist: Safer Internet</b></a></td>
         <td style="width: 40%;">A collection of short videos exploring topics around digital concepts.<br><br>
 Safer internet<br>
 Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below</td>
@@ -44,7 +44,7 @@ Learn how to keep yourself safe online as you explore all the information availa
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child"><b>Stay Curious with Your Child: Unplugged Coding Ideas for Kids</b></a></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b>Stay Curious with Your Child: Unplugged Coding Ideas for Kids</b></a></td>
         <td>Basic elements which you can introduce during playtime to help them get comfortable with coding concepts without even using any digital devices!</td>
         <td> </td>
         <td> </td>

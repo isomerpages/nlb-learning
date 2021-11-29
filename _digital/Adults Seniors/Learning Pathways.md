@@ -41,13 +41,13 @@ Technology is changing the way we live and work by making things more accessible
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/adults-seniors/content"><b>Cybercrime</b></a></td>
+        <td style="width: 20%;"><a href="/digital/adults-seniors/content" target="_blank"><b>Cybercrime</b></a></td>
         <td style="width: 40%;">Learn how to avoid Cybercrime with our Learning Packages and Playlists</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="/digital/adults-seniors/content"><b>Cyber Wellness</b></a></td>
+        <td><a href="/digital/adults-seniors/content" target="_blank"><b>Cyber Wellness</b></a></td>
         <td>Learn more about Cyber Wellness with our Learning Packages and Playlists</td>
         <td></td>
         <td></td>
@@ -65,7 +65,7 @@ Technology is changing the way we live and work by making things more accessible
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/"><b>[Future of Work]</b><br> Introduction to Hacking Software and Protection Tools</a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>[Future of Work]</b><br> Introduction to Hacking Software and Protection Tools</a></td>
         <td style="width: 40%;"> Learn about the approaches to hacking and find out what tools can help you protect your data.</td>
         <td style="width: 20%;"> 2 Dec 2021,<br>7pm – 8.30pm</td>
         <td style="width: 20%;">Zoom</td>
@@ -184,7 +184,7 @@ Learn to use your smartphone effectively and safely to have knowledge at your fi
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/adults-seniors/content"><b>Using Your Smartphone Learning Package and Playlist</b></a></td>
+        <td style="width: 20%;"><a href="/digital/adults-seniors/content" target="_blank"><b>Using Your Smartphone Learning Package and Playlist</b></a></td>
         <td style="width: 40%;">Learn to use your smartphones effectively!</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
