@@ -44,14 +44,14 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b>A Career in Green Energy</b></a></td>
+        <td style="width: 20%;"><b>A Career in Green Energy</b></td>
         <td style="width: 40%;">What is it like having a career in this industry? How does one get a foot in the door? Find out in this talk by an expert from Nanyang Polytechnic. <b>Registration opens mid-December.</b></td>
         <td style="width: 20%;"> 30 Dec 2021,<br>7pm - 9pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><b>Career Planning and 
-Career Coaching (by partners)</b></a></td>
+        <td><b>Career Planning and
+Career Coaching (by partners)</b></td>
         <td>Career Catalyst (1-to-1 Career Coaching) by WSG Growth @ Work: Career Planning and Development workshop by Nanyang Polytechnic </td>
         <td>Coming in Sep 2022</td>
         <td>TBC</td>
@@ -84,7 +84,7 @@ Career Coaching (by partners)</b></a></td>
         <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>Learn how to acquire new skills with 
 SkillsFuture credits</b></a></td>
         <td></td>
-        <td>><a href="https://www.skillsfuture.gov.sg/advice" target="_blank">Refer to SkillsFuture website</a></td>
+        <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank">Refer to SkillsFuture website</a></td>
         <td>Zoom</td>
       </tr>
     </tbody>
