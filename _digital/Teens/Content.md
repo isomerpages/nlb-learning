@@ -69,7 +69,7 @@ Are you very sure that your data and accounts are secured and have not been comp
 </div>
 
 <a name="lp-design">![Graphic Design is My Passion header](images/digital/teens/tt21-header-gd.png)</a>
-#### **Graphic Design is My Passion**
+#### **Learning Package: Graphic Design is My Passion**
 Need something more than MS Paint for your projects? Get creative with five free and easy-to-use online resources for you to experiment with graphic design and web-page building. 
 
 **1) Canva**
@@ -150,7 +150,7 @@ Synopsis from [Chronicle Books](https://www.chroniclebooks.com/).
 
 
 <a href="https://nlb.overdrive.com/media/3139937"><img src="images/digital/teens/tt-gd-book2.png" alt="Graphic Design for Everyone book cover." style="width: 30%;"></a><br>
-#### **Learning Package: Graphic Design is My Passion**<br>
+#### **Graphic Design is My Passion**<br>
 Author: Cath Caldwell<br>
 Call No.: English 741.6 GRA -[ART]<br>
 Publisher: DK Publishing, 2019<br>
