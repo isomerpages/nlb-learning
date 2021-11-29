@@ -64,25 +64,25 @@ third_nav_title: Join a LearnX Community
 .clickbox.is-arts { background-position: center; background-size: cover; background-image: url('/images/learning-communities/communities-cta-bg-arts-1.jpg'); color: #a60517; }
 .clickbox.is-arts a { color: #a60517; }
 .clickbox.is-arts a:focus,
-.clickbox.is-arts a:hover { color: #950515; }
+.clickbox.is-arts a:hover { color: #850412; }
 
 /* Reading */
 .clickbox.is-reading { background-position: center; background-size: cover; background-image: url('/images/learning-communities/communities-cta-bg-reading-1.jpg'); color: #322987; }
 .clickbox.is-reading a { color: #322987; }
 .clickbox.is-reading a:focus,
-.clickbox.is-reading a:hover { color: #2d257a; }
+.clickbox.is-reading a:hover { color: #28216c; }
 
 /* Science */
 .clickbox.is-science { background-position: center; background-size: cover; background-image: url('/images/learning-communities/communities-cta-bg-science-1.jpg'); color: #00b794; }
 .clickbox.is-science a { color: #00b794; }
 .clickbox.is-science a:focus,
-.clickbox.is-science a:hover { color: #00a585; }
+.clickbox.is-science a:hover { color: #009276; }
 
 /* Singapore */
 .clickbox.is-singapore { background-position: center; background-size: cover; background-image: url('/images/learning-communities/communities-cta-bg-singapore-1.jpg'); color: #fe5828; }
 .clickbox.is-singapore a { color: #fe5828; }
 .clickbox.is-singapore a:focus,
-.clickbox.is-singapore a:hover { color: #e54f24; }
+.clickbox.is-singapore a:hover { color: #cb4620; }
 </style>
 Find a LearnX Community that best suits your needs!
 
