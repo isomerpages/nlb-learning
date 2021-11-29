@@ -22,6 +22,19 @@ description: ""
 .responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Generic */
+.clickbox.is-generic { background-color: #dce5d3; color: #322987; }
+.clickbox.is-generic a { color: #322987; }
+.clickbox.is-generic a:focus,
+.clickbox.is-generic a:hover { background-color: #322987; color: #dce5d3; }
 </style>
 NLB and Nanyang Polytechnic (NYP) are partnering to co-develop the various learning focus areas - Digital, Career, Sustainability, Arts, Wellness, Science, Reading and Singapore. NYP will also introduce free taster programmes at public libraries, starting from November 2021. 
 
@@ -37,14 +50,14 @@ Check out the schedule below, and look out for more programmes to be introduced 
 
 <div class="row is-multiline">
   <div class="col is-one-third">
-    <div class="clickbox is-sky-indigo">
+    <div class="clickbox is-generic">
 			<a href="#Digital">
         <span>Digital</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
-    <div class="clickbox is-sky-indigo">
+    <div class="clickbox is-generic">
       <a href="#Careers">
         <span>Careers</span>
       </a>
@@ -54,12 +67,6 @@ Check out the schedule below, and look out for more programmes to be introduced 
   </div>
 </div>
 
-
- 
-  <style type="text/css">
-
-
-</style>
 <br>
 	
 <table>
