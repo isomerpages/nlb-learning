@@ -204,19 +204,19 @@ This is a 2-day learning journey jointly organized by Our Tampines Hub and NLB t
         <td>Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>Paint the Town Green</b></a></td>
+<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Paint the Town Green</b></a></td>
         <td>Find out why we need to conserve and create green spaces not just for ourselves but to promote biodiversity.</td>
         <td>15 Feb 2021, <br>7.30pm -8.30pm</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>Nature to the Rescue</b></a></td>
+<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Nature to the Rescue</b></a></td>
         <td>Nature holds the key to our well-being and helps us to live well especially when it comes to mitigating floods and droughts.  In this session, our speaker explains the role of “natural capital’ in our journey towards sustainability.</td>
         <td>22 Mar 2021, <br>7pm -8.30pm</td>
         <td> Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>Green Market: Swap</b></a></td>
+<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Green Market: Swap</b></a></td>
         <td>The Green Market, the family friendly event is back and this time, it is about reducing wastage and encouraging sharing through swapping. At the same time, enjoy talks, workshops and interactive children programmes while you engage with various green groups at the market.</td>
         <td>19-20 Mar 2021, <br>11am -8pm</td>
         <td>Choa Chu Kang Public Library</td>
