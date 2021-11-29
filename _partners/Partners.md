@@ -6,6 +6,38 @@ description: ""
 NLB and Nanyang Polytechnic (NYP) are partnering to co-develop the various learning focus areas - Digital, Career, Sustainability, Arts, Wellness, Science, Reading and Singapore. NYP will also introduce free taster programmes at public libraries, starting from November 2021. 
 
 Check out the schedule below, and look out for more programmes to be introduced soon!
+<br>
+<br>
+
+<!-- <p>
+  <div class="responsive-iframe-container ratio-16by9">
+    <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uOfQMXQ4lL8"></iframe>
+  </div>
+</p> -->
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="/digital/overview">
+        <span>Digital</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="/careers/overview">
+        <span>Careers</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="/sustainability/overview">
+        <span>Sustainability</span>
+      </a>
+    </div>
+  </div>
+</div>
 
 <hr>
 
