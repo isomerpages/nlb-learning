@@ -5,7 +5,7 @@ description: ""
 ---
 NLB and Nanyang Polytechnic (NYP) are partnering to co-develop the various learning focus areas - Digital, Career, Sustainability, Arts, Wellness, Science, Reading and Singapore. NYP will also introduce free taster programmes at public libraries, starting from November 2021. 
 
-Check out the schedule below, and look out for more programmes to be introduced soon. 
+Check out the schedule below, and look out for more programmes to be introduced soon!
 
 <hr>
 <style type="text/css">
@@ -15,7 +15,7 @@ Check out the schedule below, and look out for more programmes to be introduced 
 
 
 <table>
-</table><table border="0" cellpadding="15" cellspacing="" width="100%">
+</table><table width="100%" cellspacing="" cellpadding="15" border="0">
 
 
   <tbody><tr><td><strong><a href="https://www.eventbrite.sg/e/why-seo-is-vital-for-your-business-growth-future-of-work-registration-206950272837?aff=ebdssbonlinesearch">Why SEO is vital for your business growth | Future of Work</a></strong></td>
