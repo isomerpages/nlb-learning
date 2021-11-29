@@ -651,6 +651,7 @@ Kristen Meinzer (2019), <i>So You Want to Start a Podcast: Finding Your Voice, T
 			
 <h4>References</h4>
 11) <a id="footnote-eleven"> Number of Facebook users in Singapore from 2017 to 2020 and a forecast up to 2025</a>. <i>statista.com</i>. Retrieved 2021, October 19 from <a href="https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/">https://www.statista.com/statistics/490492/number-of-singapore-facebook-users/</a>
+<br>
 12) <a id="footnote-twelve">Daily Time Spent with Media. Half a Billion Users joined Social in the Last Year (and other facts)</a> <i>Hootsuite</i>. Retrieved 2021, October 19 from <a href="https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png">https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png</a>
 
 
