@@ -42,8 +42,10 @@ sections:
       url: /communities/what-is-a-learnx-community
   - infopic:
       title: LAB25
-      description: 160 Characters
-      button: Click Here
+      description: LearnX is part of the National Library Board's Learning and
+        Archives Blueprint 2025 (LAB25) plan to reimagine libraries in
+        Singapore.
+      button: Learn More
       url: https://www.nlb.gov.sg/WhoWeAre/AboutUs/AboutLAB25.aspx
       image: /images/home/logo-lab25-colour-16-9.png
       alt: LAB25
