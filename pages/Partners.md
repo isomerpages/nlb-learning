@@ -6,14 +6,9 @@ description: ""
 COMING SOON
 
 
-
  
- <style type="text/css">
+  <style type="text/css">
 
-   table {
-    border-collapse: collapse;
-    width: 100%;
-}
 
 tr {
     border-bottom: 1px solid #ccc;
@@ -30,10 +25,10 @@ text-align: left;
 
 
 <table>
-</table><table width="100%" cellspacing="15" cellpadding="15" border="0">
+</table><table width="100%" cellspacing="0" cellpadding="20" border="0">
 
 
-  <tbody><tr><td>Why SEO is vital for your business growth | Future of Work</td>
+  <tbody><tr><td><strong>Why SEO is vital for your business growth | Future of Work</strong></td>
   <td>It is not surprising that the use of the internet has increased exponentially during this period. It is estimated Google processes approximately 63,000 search queries every second, translating to 5.6 billion searches per day and approximately 2 trillion global searches per year. The average person conducts between three and four searches each day. (Hubspot), search engine optimisation (SEO) is more important than ever for businesses, especially for our local SMEs.
 In this webinar, you will learn how to discover the number of potential customers that are searching for your products and services on Google and is it worth the effort or money to get your website rank on the top 5 of Google Search?
 </td>
