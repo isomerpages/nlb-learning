@@ -65,4 +65,10 @@ sections:
       title: Nanyang Polytechnic
       subtitle: Nanyang Polytechnic Subtitle
       description: Nanyang Polytechnic description
+  - infobar:
+      title: LAB25 Title
+      subtitle: LAB25 Subtitle
+      description: LAB25 description
+      button: Click Here
+      url: https://www.nlb.gov.sg/WhoWeAre/AboutUs/AboutLAB25.aspx
 ---
