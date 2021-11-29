@@ -59,7 +59,7 @@ We have specially curated programme series to suit your learning style and pace.
 
 Started in September 2020, Digital Ambassadors at select libraries are available to provide one-on-one guidance to seniors to equip them with the skills to use technology in their daily life. 
 
-Click [here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs) for more info.
+Click [here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs){:target="_blank"} for more info.
 
 ## **Library Learning Journey**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-05a.png)
