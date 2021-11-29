@@ -32,7 +32,7 @@ These programmes will give you the power to expand your opportunities. Explore t
 
 Get a head start on your future by checking out our career-related programmes. These include self-development workshops, job teasers and behind-the-scenes sharing by professionals to inspire young adults.
 
-Click [here](https://go.gov.sg/nlb-teenstakeover){:target="_blank" } for the latest programme listings.
+Click [here](https://go.gov.sg/nlb-teenstakeover){:target="_blank"} for the latest programme listings.
 
 <h3><b>Human Library</b></h3>
 
@@ -40,6 +40,6 @@ Click [here](https://go.gov.sg/nlb-teenstakeover){:target="_blank" } for the lat
 
 Get invaluable career insights and connect first-hand with successful individuals in various fields to help you make informed decisions for your future.
 
-Click [here](https://go.gov.sg/nlb-teenstakeover){:target="_blank" } for the latest programme listings.
+Click [here](https://go.gov.sg/nlb-teenstakeover){:target="_blank"} for the latest programme listings.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
