@@ -81,8 +81,7 @@ Career Coaching (by partners)</b></a></td>
         <td>Zoom</td>
       </tr>
 <tr>
-        <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>Learn how to acquire new skills with 
-SkillsFuture credits</b></a></td>
+        <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>Learn how to acquire new skills with SkillsFuture credits</b></a></td>
         <td></td>
         <td>TBC</td>
         <td>Zoom</td>
