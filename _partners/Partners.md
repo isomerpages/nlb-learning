@@ -40,13 +40,12 @@ Check out the schedule below, and look out for more programmes to be introduced 
 
 
 </style>
-
----
+<br>
 	
 <table>
 </table><table width="100%" cellspacing="15" cellpadding="15" border="0">
 
-<h5 id="Digital">Digital</h5>
+<strong><h5 id="Digital">Digital</strong></h5>
 <hr>
 
   <tbody><tr><td><strong><a href="https://www.eventbrite.sg/e/why-seo-is-vital-for-your-business-growth-future-of-work-registration-206950272837?aff=ebdssbonlinesearch">Why SEO is vital for your business growth | Future of Work</a></strong></td>
@@ -90,13 +89,13 @@ Learn how to create unique content through storytelling and incorporate subtle c
   
 
 </tbody></table>
-<hr>
+<br>
 <!-- table 2 code here -->
 
 <table>
 </table><table width="100%" cellspacing="15" cellpadding="15" border="0">
 
-<h5 id="Careers">Careers</h5>
+<strong><h5 id="Careers">Careers</strong></h5>
 <hr>
 <tr>
 <td><strong><a href="https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-game-artist-portfolio-registration-176075315007?aff=ebcollection&amp;keep_tld=1CCKPL">Teens Takeover – A Day In The Life Of Game Artist | portfolio</a></strong></td>
