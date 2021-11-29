@@ -47,7 +47,7 @@ sections:
       image: /images/sustainability/learnx-sustainability-landing-kv-1.jpg
       alt: LearnX Sustainability
   - infobar:
-      title: Learning is a lot more fun when you have like-minded peo...
+      title: "Find a group of like-minded people to learn with. "
       button: Explore Communities
       url: /communities/what-is-a-learnx-community
   - infopic:
@@ -60,13 +60,17 @@ sections:
   - infopic:
       title: Nanyang Polytechnic
       subtitle: Partners
-      description: 160 Characters
+      description: "NLB and Nanyang Polytechnic (NYP) are co-developing the learning
+        focus areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
+        Science and Reading. "
       image: /images/home/logo-nyp-white.png
       alt: NYP
   - infobar:
       title: Nanyang Polytechnic
-      subtitle: Nanyang Polytechnic Subtitle
-      description: Nanyang Polytechnic description
+      subtitle: Partners
+      description: "NLB and Nanyang Polytechnic (NYP) are co-developing the learning
+        focus areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
+        Science and Reading. "
   - infobar:
       title: LAB25 Title
       subtitle: LAB25 Subtitle
