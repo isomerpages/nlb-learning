@@ -86,7 +86,7 @@ Suitable for aged 50 and above.</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>Thinker+Play: Fun with Puzzles (Sustainability) | Time of Your Life</b></a></td>
+<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>Thinker+ PLAY: Unscramble The Word (Sustainability) | Time of Your Life</b></a></td>
         <td>This is a Nature and Sustainability-themed session of Thinker+ Play where seniors can get their minds active through solving puzzles and learning interesting facts related to the environment.</td>
         <td>22 Dec 2021, <br>2pm - 3pm</td>
         <td>Choa Chu Kang Public Library</td>
@@ -111,9 +111,9 @@ Suitable for participants aged 15 years and above. </td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849"><b> Build Your Own: Coasters from Magazine Pages | Time of Your Life</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/seniors-build-your-own-workshop-craft-projects-with-old-magazines-toyl-tickets-217844407487?aff=ebdssbonlinesearch"><b>Seniors Build-Your-Own Workshop: Craft Projects with Old Magazines | Time of Your Life</b></a></td>
         <td style="width: 40%;"> Recycle your old magazines and turn them into pretty table coasters which you can use to decorate your home in this festive season, while adopting a sustainable practice. This Build-Your-Own workshop aims to promote sustainable practices which are simple and practical for seniors.</td>
-        <td style="width: 20%;">15 Dec 2021, <br>7.30pm- 8.30pm</td>
+        <td style="width: 20%;">15 Dec 2021, <br>3pm- 4.15pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
