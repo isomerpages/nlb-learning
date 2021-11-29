@@ -84,34 +84,32 @@ Career Coaching (by partners)</b></td>
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Acquire Skills</th>
+        <th colspan="4" class="is-uppercase has-weight-normal ">Acquire Skills</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="http://go.gov.sg/get-professional-series" target="_blank"><b>Resume Writing Skills</b></a></td>
-        <td style="width: 40%;"> </td>
-        <td style="width: 20%;">Part 1:<br>8 Dec 2021, <br>18 Jan 2022, <br>11 Feb 2022,<br> 7pm - 9pm<br><br> Part 2:<br>15 Dec 2021,<br>25 Jan 2022,<br> Feb 25 2022,<br> 7pm - 9pm <br></td>
+        <td style="width: 40%;">Understand the thought process behind how recruiters review resumes so that you can create one that is truly representative of your talents, experiences, and potential.</td>
+        <td style="width: 20%;">Part 1:<br>8 Dec 2021, <br>18 Jan 2022, <br>11 Feb 2022,<br> 7pm - 9pm<br><br> Part 2:<br>15 Dec 2021,<br>25 Jan 2022,<br> Feb 25 2022,<br> 7pm - 9pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
-<tr>
+      <tr>
         <td><a href="http://go.gov.sg/get-professional-series" target="_blank"><b>Interview Skills</b></a></td>
-        <td> </td>
-        <td>7 Dec 2021,<br>7 Jan 2022,<br> Jan 47 2022, <br> Feb 4 2022, <br>7pm - 9pm</td>
+        <td>This workshop will guide you through the pre to post-interview processes, help you to understand what your interviewer is looking for, and how to ace the interview session itself.</td>
+        <td>7 Dec 2021,<br>7 Jan 2022,<br> Jan 47 2022, <br> Feb 4 2022, <br>7pm - 9pm<br></td>
         <td>Zoom</td>
       </tr>
 <tr>
-        <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>Learn how to acquire new skills with 
+<td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>Learn how to acquire new skills with 
 SkillsFuture credits</b></a></td>
         <td></td>
         <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank">Refer to SkillsFuture website</a></td>
-        <td>Zoom</td>
+        <td>Online</td>
       </tr>
-</thead>
     </tbody>
   </table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
