@@ -110,6 +110,29 @@ Check out our **learning packages** for articles that will give you an insight i
     </div>
   </div>
   </div>
+<br>
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#lp-wellness">
+        <span>Learning Package: <br>Cyber Wellness</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#lp-crime">
+    <span>Learning Package: <br>Cybercrime</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#lp-think">
+    <span>Learning Package: <br>Design Thinking</span>
+      </a>
+    </div>
+  </div>
+  </div>
 
 <h2>Playlists</h2>
 <p>In a hurry? Check out these videos, articles and programmes for a quick lesson on digital trends and technology.</p>
@@ -158,7 +181,6 @@ Watch how one Singaporean goes around the island performing his day-to-day activ
     Explore a series of talks and tutorials geared towards helping seniors navigate the most useful smartphone apps available.</p>
     <small>Source: IMDA Digital Pods -Youtube (2021, Oct 10). Retrieved 2021, October 20.</small>
   </div>
-</div>
 <h5 class="margin--bottom--lg" id=”playlist-socmed”>Playlist: Social Media</h5>
 
 Social media has changed the way and the speed with which we can interact and exchange information with others. In essence, social media are online communication tools that allow you to publish and share information. You can use a social media platform to connect with friends and family, catch up on news and to watch videos. Some popular examples include Facebook, Instagram or YouTube. More than just for personal use, social media can also be used by businesses to market their products and services and connect to their consumers.
