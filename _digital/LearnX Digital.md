@@ -4,6 +4,37 @@ permalink: /digital/overview
 breadcrumb: overview
 description: ""
 ---
+<style type="text/css">
+	.clickbox {
+		display: block;
+		position: relative;
+		width: 100%;
+		padding-bottom: 56.25%;
+		background-color: transparent;
+  }
+	
+	.clickbox span {
+      padding: .5rem;
+	}
+	
+	.clickbox a {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.25rem;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+	}
+
+	.clickbox a:focus,
+	.clickbox a:hover {
+		text-decoration: none;
+	}
+</style>
 ![LearnX Digital](/images/digital/learnx-digital-landing-kv-1.jpg)
 
 Technology has become pervasive in every aspect of our lives. Innovation and technological progress have become part of how we all live and work. Knowing how to smartly and safely use technology has become, and will continue to be, an essential skill.
