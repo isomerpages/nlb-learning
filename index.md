@@ -45,7 +45,7 @@ sections:
       description: 160 Characters
       button: Click Here
       url: https://www.nlb.gov.sg/WhoWeAre/AboutUs/AboutLAB25.aspx
-      image: /images/home/logo-lab25-row-1.png
+      image: /images/home/logo-lab25-colour-16-9.png
       alt: LAB25
   - infopic:
       title: Nanyang Polytechnic
@@ -53,7 +53,7 @@ sections:
       description: NLB and Nanyang Polytechnic (NYP) are co-developing the learning
         focus areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
         Science and Reading.
-      image: /images/home/logo-nyp-white.png
+      image: /images/home/logo-nyp-colour-16-9.png
       alt: NYP
   - infobar:
       title: LAB25 Title
