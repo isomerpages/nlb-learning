@@ -44,7 +44,14 @@ Check out the schedule below, and look out for more programmes to be introduced 
 	
 <table>
 <table width="100%" cellspacing="15" cellpadding="15" border="0">
-
+	
+ <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 50%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 15%;">
+    </colgroup>
+	
 <strong><h5 id="Digital">Digital</h5></strong>
 <hr>
 
@@ -93,8 +100,15 @@ Learn how to create unique content through storytelling and incorporate subtle c
 <!-- table 2 code here -->
 
 <table>
-</table><table width="100%" cellspacing="15" cellpadding="15" border="0">
-
+<table width="100%" cellspacing="15" cellpadding="15" border="0">
+	
+ <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 50%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 15%;">
+    </colgroup>
+	
 <strong><h5 id="Careers">Careers</h5></strong>
 <hr>
 <tr>
