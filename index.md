@@ -20,7 +20,6 @@ sections:
       image: /images/home/home-digital-kv.png
       alt: LearnX Digital
   - infopic:
-      title: LearnX Careers
       description: "Perfect for professionals, small businesses and entrepreneurs
         looking to take the next step. "
       button: Start Learning
@@ -28,7 +27,6 @@ sections:
       image: /images/home/home-careers-kv.png
       alt: LearnX Careers
   - infopic:
-      title: LearnX Sustainability
       description: If you’ve been toying with the idea of living sustainably but don’t
         know where to start, you’ve come to the right place. 
       button: Start Learning
