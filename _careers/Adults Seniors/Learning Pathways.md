@@ -85,7 +85,7 @@ Career Coaching (by partners)</b></a></td>
         <td></td>
         <td>TBC</td>
         <td>Zoom</td>
-      </tr>
+     </tr>
     </tbody>
   </table>
 </div>
