@@ -446,9 +446,18 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-.bp-hero-body {
-  background-color: transparent !important;
+.bp-hero {
+  
+  &-body {
+    background-color: transparent !important;
+  }
+
+  p.is-hidden-mobile {
+    display: block !important;
+  }
 }
+
+
 
 // Navbar
 .navbar{
