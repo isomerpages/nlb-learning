@@ -13,7 +13,6 @@ sections:
         topics. "
       background: /images/home/masthead-icons-1366x507-1.gif
   - infopic:
-      title: LearnX Digital
       description: "Keep up with changing digital trends and technology through
         easy-to-understand and accessible content. "
       button: Start Learning
