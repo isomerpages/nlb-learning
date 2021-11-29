@@ -10,8 +10,6 @@ Check out our **playlists** for collections of short videos exploring topics aro
 
 Check out our **learning packages** for articles that will give you an insight into digital concepts.
 
-
-<!-- Navigation boxes - Playlists -->
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
@@ -58,8 +56,6 @@ Check out our **learning packages** for articles that will give you an insight i
     </div>
   </div>
 <br>
-<!-- Navigation boxes – Learning Packages -->
-
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
