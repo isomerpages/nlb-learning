@@ -70,7 +70,7 @@ Career Coaching (by partners)</b></a></td>
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="http://go.gov.sg/get-professional-series" target="_blank"><b>Resume Writing Skills</b></a></td>
-        <td style="width: 40%;"> </td>
+        <td style="width: 40%;"></td>
         <td style="width: 20%;">Part 1:<br>8 Dec 2021, <br>18 Jan 2022, <br>11 Feb 2022,<br> 7pm - 9pm<br><br> Part 2:<br>15 Dec 2021,<br>25 Jan 2022,<br> Feb 25 2022,<br> 7pm - 9pm <br></td>
         <td style="width: 20%;">Zoom</td>
       </tr>
@@ -271,8 +271,7 @@ SkillsFuture credits</b></a></td>
         <td>TBC</td>
       </tr>
 <tr>
-        <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>Learn how to acquire new skills with 
-SkillsFuture credits</b></a></td>
+        <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>Learn how to acquire new skills with SkillsFuture credits</b></a></td>
         <td>Get equipped with the skills required to ace job interviews and leave a lasting impression on your interviewer.</td>
         <td>TBC</td>
         <td>Zoom</td>
