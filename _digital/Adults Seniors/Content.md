@@ -109,7 +109,6 @@ Check out our **learning packages** for articles that will give you an insight i
       </a>
     </div>
   </div>
-  </div>
 <br>
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
