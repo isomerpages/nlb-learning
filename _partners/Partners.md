@@ -16,14 +16,14 @@ Check out the schedule below, and look out for more programmes to be introduced 
 </p> -->
 
 <div class="row is-multiline">
-  <div class="col is-one-third">
+  <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
 			<a href="#Digital">
         <span>Digital</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
+  <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
       <a href="#Careers">
         <span>Careers</span>
