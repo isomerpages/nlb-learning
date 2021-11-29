@@ -37,4 +37,12 @@ sections:
       description: 160 Characters
       image: /images/home/logo-nyp-white.png
       alt: NYP
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Learn More
+      url: /digital/overview
+      image: /images/digital/learnx-digital-landing-kv-1.jpg
+      alt: Image alt text
 ---
