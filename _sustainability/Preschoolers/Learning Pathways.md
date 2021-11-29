@@ -37,25 +37,25 @@ What can we do to protect the environment around us? Do you know the different t
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/preschoolers/content"><b> Animal Conservation Series: Protecting birds in Singapore</b></a></td>
+        <td style="width: 20%;"><a href="/sustainability/preschoolers/content" target="_blank"><b> Animal Conservation Series: Protecting birds in Singapore</b></a></td>
         <td style="width: 40%;"> Understand more about the different types of birds in Singapore, why they are important and how to protect them. There are also fun activities and related book recommendations.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/sustainability/preschoolers/content"><b> Animal Conservation Series: Sea Turtle Rescue</b></a></td>
+        <td><a href="/sustainability/preschoolers/content" target="_blank"><b> Animal Conservation Series: Sea Turtle Rescue</b></a></td>
         <td>Understand more about sea turtles and the dangers they are facing and how to protect them. There are also fun activities and related book recommendations.</td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/preschoolers/content"><b> Urban Farming</b></a></td>
+        <td><a href="/sustainability/preschoolers/content" target="_blank"><b> Urban Farming</b></a></td>
         <td>Understand more about what is urban farming and its benefits. There are also fun activities and related book recommendations.</td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/preschoolers/content"><b> 3 Rs for Children</b></a></td>
+        <td><a href="/sustainability/preschoolers/content" target="_blank"><b> 3 Rs for Children</b></a></td>
         <td>Video resources to help children understand more about the 3Rs and how to take care of the environment.</td>
         <td></td>
         <td> </td>

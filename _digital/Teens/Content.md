@@ -106,16 +106,16 @@ Are you very sure that your data and accounts are secured and have not been comp
 Need something more than MS Paint for your projects? Get creative with five free and easy-to-use online resources for you to experiment with graphic design and web-page building. 
 
 **1) Canva**
-<a href="https://www.canva.com/"><img src="images/digital/teens/tt-gd-1a.png" alt="Canva site screenshot." style="width: 80%;"></a>
-<p style="text-align: center;"><sup>Image source: <a href="https://www.canva.com/">Canva</a>.</sup></p>
+<a href="https://www.canva.com/" target="_blank"><img src="images/digital/teens/tt-gd-1a.png" alt="Canva site screenshot." style="width: 80%;"></a>
+<p style="text-align: center;"><sup>Image source: <a href="https://www.canva.com/" target="_blank">Canva</a>.</sup></p>
 
 A free design website offering a suite of templates, stock images and graphics, audio,  and video clips. Some elements require a premium account to access, but you can still create cool designs with a basic account.
 
 <img src="images/digital/teens/tt-gd-1b.png" alt="Creating simple and eye-catching designs with pre-existing templates. Templates are already sized for specific needs i.e. Instagram posts, presentations. Big library of free stock graphics, photos, audio and video clips." style="width: 70%;">
 
 **2) Vectr**
-<a href="https://vectr.com/"><img src="images/digital/teens/tt-gd-2a.png" alt="Vectr site screenshot." style="width: 80%;"></a>
-<p style="text-align: center;"><sup>Image source: <a href="https://vectr.com/">Vectr</a>.</sup></p>
+<a href="https://vectr.com/" target="_blank"><img src="images/digital/teens/tt-gd-2a.png" alt="Vectr site screenshot." style="width: 80%;"></a>
+<p style="text-align: center;"><sup>Image source: <a href="https://vectr.com/" target="_blank">Vectr</a>.</sup></p>
 
 A free graphics software to create and edit vector graphics online.  
 
@@ -127,8 +127,8 @@ This means you can create images and elements for your designs without worrying 
 
 
 **3) Photopea**
-<a href="https://photopea.com/"><img src="images/digital/teens/tt-gd-3a.png" alt="Photopea site screenshot." style="width: 80%;"></a>
-<p style="text-align: center;"><sup>Image source: <a href="https://photopea.com/">Photopea</a>.</sup></p>
+<a href="https://photopea.com/" target="_blank"><img src="images/digital/teens/tt-gd-3a.png" alt="Photopea site screenshot." style="width: 80%;"></a>
+<p style="text-align: center;"><sup>Image source: <a href="https://photopea.com/" target="_blank">Photopea</a>.</sup></p>
 
 A free online image editor that functions similarly to photo-editing software like Adobe Photoshop.
 
@@ -138,8 +138,8 @@ Users can open and work on a myriad of image file formats, including Adobe files
 
 
 **4) build.mmm.page**
-<a href="https://build.mmm.page/"><img src="images/digital/teens/tt-gd-4a.png" alt="build.mmm.page site screenshot." style="width: 80%;"></a>
-<p style="text-align: center;"><sup>Image source: <a href="https://build.mmm.page/">build.mmm.page</a>.</sup></p>
+<a href="https://build.mmm.page/" target="_blank"><img src="images/digital/teens/tt-gd-4a.png" alt="build.mmm.page site screenshot." style="width: 80%;"></a>
+<p style="text-align: center;"><sup>Image source: <a href="https://build.mmm.page/" target="_blank">build.mmm.page</a>.</sup></p>
 
 A free platform to create personalised, collage-styled webpages.
 
@@ -151,8 +151,8 @@ With its easy drag-and-drop format and capacity to embed media like photos and Y
 
 
 **5) Pixilart**
-<a href="https://www.pixilart.com/"><img src="images/digital/teens/tt-gd-5a.png" alt="Pixilart site screenshot." style="width: 80%;"></a>
-<p style="text-align: center;"><sup>Image source: <a href="https://www.pixilart.com/">Pixilart</a>.</sup></p>
+<a href="https://www.pixilart.com/" target="_blank"><img src="images/digital/teens/tt-gd-5a.png" alt="Pixilart site screenshot." style="width: 80%;"></a>
+<p style="text-align: center;"><sup>Image source: <a href="https://www.pixilart.com/" target="_blank">Pixilart</a>.</sup></p>
 
 A free web-based app to create cool pixel art, which is digital art made up of many tiny squares to form an image. 
 
@@ -163,14 +163,14 @@ The site provides a canvas for users to create and export illustrations for use,
 **Learn more**<br>
 Library members have free access to the electronic database, [LinkedIn Learning for Library](https://eresources.nlb.gov.sg/main/linkedin.html). This is an online learning platform that helps users learn skills in creative design, business, software, etc. through video courses taught by recognised industry experts. 
 
-<a href="https://eresources.nlb.gov.sg/main/linkedin.html"><img src="images/digital/teens/tt-gd-6.png" alt="LinkedIn Learning for Library site screenshot." style="width: 80%;"></a>
-<p style="text-align: center;"><sup>Image source: <a href="https://eresources.nlb.gov.sg/main/linkedin.html">LinkedIn Learning for Library</a>.</sup></p>
+<a href="https://eresources.nlb.gov.sg/main/linkedin.html" target="_blank"><img src="images/digital/teens/tt-gd-6.png" alt="LinkedIn Learning for Library site screenshot." style="width: 80%;"></a>
+<p style="text-align: center;"><sup>Image source: <a href="https://eresources.nlb.gov.sg/main/linkedin.html" target="_blank">LinkedIn Learning for Library</a>.</sup></p>
 
 You may access the platform with your myLibrary account, and explore the suite of graphic design and illustration courses on it!
 
 **For more reads on graphic design, check out these titles!**
 
-<a href="https://nlb.overdrive.com/media/3139937"><img src="images/digital/teens/tt-gd-book1.png" alt="Creative Pep Talk book cover." style="width: 30%;"></a><br>
+<a href="https://nlb.overdrive.com/media/3139937" target="_blank"><img src="images/digital/teens/tt-gd-book1.png" alt="Creative Pep Talk book cover." style="width: 30%;"></a><br>
 **Creative Pep Talk**<br>
 Author: Andy J. Miller<br>
 Call No.: English 741.60922 CRE -[ART]<br>
@@ -182,7 +182,7 @@ Every artist needs a little pep talk now and then. An inspiring tool and beautif
 Synopsis from [Chronicle Books](https://www.chroniclebooks.com/).
 
 
-<a href="https://nlb.overdrive.com/media/3139937"><img src="images/digital/teens/tt-gd-book2.png" alt="Graphic Design for Everyone book cover." style="width: 30%;"></a><br>
+<a href="https://nlb.overdrive.com/media/3139937" target="_blank"><img src="images/digital/teens/tt-gd-book2.png" alt="Graphic Design for Everyone book cover." style="width: 30%;"></a><br>
 #### **Graphic Design is for Everyone**<br>
 Author: Cath Caldwell<br>
 Call No.: English 741.6 GRA -[ART]<br>

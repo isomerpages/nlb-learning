@@ -36,7 +36,7 @@ Explore the wonders of tech.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/Tweens-Secret Messages.pdf"><b>Learning Package: Secret Message</b></a></td>
+        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/Tweens-Secret Messages.pdf" target="_blank"><b>Learning Package: Secret Message</b></a></td>
         <td style="width: 40%;">Spark your child’s curiosity in digital literacy through engaging activities and articles.<br><br>
 Secret Message<br>
 Problem-solve through a do-it-yourself activity based on codes and cryptography. Just follow the instructions and have fun!</td>
@@ -44,7 +44,7 @@ Problem-solve through a do-it-yourself activity based on codes and cryptography.
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="/digital/tweens/content"><b>Playlist: Be Informed, Be Safe</b></a></td>
+        <td><a href="/digital/tweens/content" target="_blank"><b>Playlist: Be Informed, Be Safe</b></a></td>
         <td> Be Informed, Be Safe<br>
 Check out these resources to help you navigate the digital world, from keeping your information protected to ensuring that you are equipped to analyse and debunk fake news!. </td>
         <td> </td>

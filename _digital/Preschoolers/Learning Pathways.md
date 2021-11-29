@@ -42,25 +42,25 @@ These activities will include programming tech toys without the need for a scree
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/preschoolers/content"><b> Let’s Learn About Decomposition</b></a></td>
+        <td style="width: 20%;"><a href="/digital/preschoolers/content" target="_blank"><b> Let’s Learn About Decomposition</b></a></td>
         <td style="width: 40%;">Contains tips, activities and resources that will help children learn about the computational thinking skill of decomposition at home.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="/digital/preschoolers/content"><b>Let’s Learn About Algorithms</b></a></td>
+        <td><a href="/digital/preschoolers/content" target="_blank"><b>Let’s Learn About Algorithms</b></a></td>
         <td>Contains tips, activities and resources that will help children learn about the computational thinking skill of algorithms at home.</td>
         <td> </td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/digital/preschoolers/content"><b>Let’s Learn About Sequence</b></a></td>
+        <td><a href="/digital/preschoolers/content" target="_blank"><b>Let’s Learn About Sequence</b></a></td>
         <td>Contains tips, activities and resources that will help children learn about the computational thinking skill of sequence at home.</td>
         <td> </td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/digital/preschoolers/content"><b>Understanding Screen Time for Young Children</b></a></td>
+        <td><a href="/digital/preschoolers/content" target="_blank"><b>Understanding Screen Time for Young Children</b></a></td>
         <td>Video resources to help parents understand more about screen time for children.</td>
         <td> </td>
         <td> </td>

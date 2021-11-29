@@ -37,13 +37,13 @@ Go green with your child towards an eco-friendly future together.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/children/content"><b> Playlist<br>Save Our Earth</b></a></td>
+        <td style="width: 20%;"><a href="/sustainability/children/content" target="_blank"><b> Playlist<br>Save Our Earth</b></a></td>
         <td style="width: 40%;"> Learn the importance of caring for our planet and how children can play their part.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child"><b> Learning Package<br>Home Gardening for Kids</b></a></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b> Learning Package<br>Home Gardening for Kids</b></a></td>
         <td> Children and parents can bond over this Stay Curious with Your Child activity on gardening, accompanied by recommended reads.</td>
         <td></td>
         <td> </td>
