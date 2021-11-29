@@ -61,4 +61,8 @@ sections:
       description: 160 Characters
       image: /images/home/logo-nyp-white.png
       alt: NYP
+  - infobar:
+      title: Nanyang Polytechnic
+      subtitle: Nanyang Polytechnic Subtitle
+      description: Nanyang Polytechnic description
 ---
