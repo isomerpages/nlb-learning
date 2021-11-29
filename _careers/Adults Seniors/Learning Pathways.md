@@ -198,7 +198,7 @@ SkillsFuture credits</b></a></td>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h3><b>Accelerate Your Career and Improve Work-Life Balance</b></h3>
+<h3 id="work-life-balance" class="margin--bottom--lg"><b>Accelerate Your Career and Improve Work-Life Balance</b></h3>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
