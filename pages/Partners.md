@@ -15,7 +15,7 @@ Check out the schedule below, and look out for more programmes to be introduced 
 
 
 <table>
-</table><table width="100%" cellspacing="" cellpadding="15" border="0">
+</table><table border="0" cellpadding="15" cellspacing="" width="100%">
 
 
   <tbody><tr><td><strong><a href="https://www.eventbrite.sg/e/why-seo-is-vital-for-your-business-growth-future-of-work-registration-206950272837?aff=ebdssbonlinesearch">Why SEO is vital for your business growth | Future of Work</a></strong></td>
@@ -50,8 +50,7 @@ Learn how to create unique content through storytelling and incorporate subtle c
 </tr>
 	
 	<tr>
-<td><strong><a href="https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-game-artist-portfolio-registration-176075315007?aff=ebcollection&amp;keep_tld=1/">CCKPL: Teens Takeover – A Day In The Life Of Game Artist | portfolio
-&gt;/a&gt;</a></strong></td>
+<td><strong><a href="https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-game-artist-portfolio-registration-176075315007?aff=ebcollection&amp;keep_tld=1/">CCKPL: Teens Takeover – A Day In The Life Of Game Artist | portfolio</a></strong></td>
 <td>Get an intimate look into the daily lives of different professionals in this new series and get inspired to explore possible careers of your future. <br>
 <br>In this session, join Mr Aaron Lim, Lecturer from Nanyang Polytechnic’s School of Design &amp; Media, in an interactive live demonstration creating fantasy game concept arts as well as a sharing of his journey in the fantasy gaming industry.<br>
 <br>About the Speaker:
