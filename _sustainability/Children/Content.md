@@ -32,6 +32,6 @@ Articles that show us interesting ways to live sustainably.
 
 Children and parents can bond over this Stay Curious with Your Child activity on gardening, accompanied by recommended reads.
 
-[Stay Curious with Your Child](https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child)
+[Stay Curious with Your Child](https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child){:target="_blank"}
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

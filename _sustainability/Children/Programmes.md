@@ -30,6 +30,6 @@ Encourage your child to grow a love for nature and pick up eco-friendly habits t
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-Children-02.png)
 A series of talks, workshops, publications on Sustainability themes for children and tweens.
 
-Click [here](https://go.gov.sg/cckpl) for the latest programme listings.
+Click [here](https://go.gov.sg/cckpl){:target="_blank"} for the latest programme listings.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
