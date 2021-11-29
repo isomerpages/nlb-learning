@@ -88,10 +88,10 @@ What can we do to protect the environment around us? Do you know the different t
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" target="_blank"><b>Think Like a coder: Session 2: Powerful Patterns</b></a></td>
-        <td style="width: 40%;"> In this screen free coding workshop, children learns about patterns around them and how that helps in creating loops.</td>
-        <td style="width: 20%;">12 Dec 2021<br>2pm – 2.30pm</td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>StoriiAlive Through Stem</b></a></td>
+        <td style="width: 40%;">StoriiAlive is a series of workshops created to bring stories alive through the use of screen free coding via tech toys. Through fun and creative approaches, children learn to code and complete challenges with the use of book-related coding activities. </td>
+        <td style="width: 20%;">19 Dec 2021<br>11am – 12pm</td>
+        <td style="width: 20%;">Toa Payoh Public Library</td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists 
