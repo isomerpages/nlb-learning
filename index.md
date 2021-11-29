@@ -43,8 +43,9 @@ sections:
         Singapore.
       button: Learn More
       url: https://www.nlb.gov.sg/WhoWeAre/AboutUs/AboutLAB25.aspx
-      image: /images/home/home-logo-lab25.png
+      image: /images/home/logo-lab25-colour-halfsize.png
       alt: LAB25
+      title: LAB25
   - infopic:
       title: Partners
       description: NLB and Nanyang Polytechnic (NYP) are co-developing the learning
