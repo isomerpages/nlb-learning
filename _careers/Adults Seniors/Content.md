@@ -4,6 +4,20 @@ permalink: /careers/adults-seniors/content
 description: ""
 third_nav_title: Adults & Seniors
 ---
+<style type="text/css">
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Pink Ruby */
+.clickbox.is-pink-ruby { background-color: #ffbac7; color: #a60517; }
+.clickbox.is-pink-ruby a { color: #a60517; }
+.clickbox.is-pink-ruby a:focus,
+.clickbox.is-pink-ruby a:hover { background-color: #a60517; color: #ffbac7; }
+</style>
 These curated sets of videos, articles, books and more will give you tips and tricks on building a successful career/business, or finding happiness at work.
 
 Check out our **playlists** for collections of short videos or selected podcasts, exploring topics around personal and professional development.

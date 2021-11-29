@@ -4,6 +4,20 @@ permalink: /sustainability/overview
 breadcrumb: overview
 description: ""
 ---
+<style type="text/css">
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Mint Jade */
+.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
+.clickbox.is-mint-jade a { color: #00b794; }
+.clickbox.is-mint-jade a:focus,
+.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }
+</style>
 ![LearnX Sustainability](/images/sustainability/learnx-sustainability-landing-kv-1.jpg)
 
 Sustainable living is all the rage right now, but what does it really mean? Where do you start? Will it really make a difference to the environment?

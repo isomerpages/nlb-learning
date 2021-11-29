@@ -4,6 +4,20 @@ permalink: /digital/teens/content
 description: ""
 third_nav_title: Teens
 ---
+<style type="text/css">
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Indigo Sky */
+.clickbox.is-sky-indigo { background-color: #cff2e8; color: #322987; }
+.clickbox.is-sky-indigo a { color: #322987; }
+.clickbox.is-sky-indigo a:focus,
+.clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
+</style>
 <p>Explore resources and content on topics that reveal the possibilities of technology.</p>
 <p>Check out our <b>playlist</b> for a collection of short videos exploring topics around digital concepts.</p>
 <p>Check out our <b>learning package</b> for articles that will give you an insight into digital concepts.</p>
