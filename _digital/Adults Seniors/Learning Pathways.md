@@ -28,7 +28,7 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 
 We start with a healthy digital lifestyle for all, and for seniors, <a href="#effectively-use-smartphones ">Master The Use Of Smartphones</a>.
 
-<h3><b> Embrace a Safe and Healthy Digital Lifestyle
+<h3><b>Embrace a Safe and Healthy Digital Lifestyle
 </b></h3>
 Technology is changing the way we live and work by making things more accessible. Yet, it also comes with it’s associated dangers and impact. Learn more about how to use technology safely and creating new ways to maintain a healthy and balanced lifestyle.
 

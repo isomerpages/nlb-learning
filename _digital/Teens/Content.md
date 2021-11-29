@@ -161,7 +161,7 @@ The site provides a canvas for users to create and export illustrations for use,
 <img src="images/digital/teens/tt-gd-5b.png" alt="Gallery with pre-made stamps available for use. Resizing your image after you already completed it. Community-created pixel art tutorials to guide fellow users." style="width: 70%;">
 
 **Learn more**<br>
-Library members have free access to the electronic database, [LinkedIn Learning for Library](https://eresources.nlb.gov.sg/main/linkedin.html). This is an online learning platform that helps users learn skills in creative design, business, software, etc. through video courses taught by recognised industry experts. 
+Library members have free access to the electronic database, [LinkedIn Learning for Library](https://eresources.nlb.gov.sg/main/linkedin.html){:target="_blank"}. This is an online learning platform that helps users learn skills in creative design, business, software, etc. through video courses taught by recognised industry experts. 
 
 <a href="https://eresources.nlb.gov.sg/main/linkedin.html" target="_blank"><img src="images/digital/teens/tt-gd-6.png" alt="LinkedIn Learning for Library site screenshot." style="width: 80%;"></a>
 <p style="text-align: center;"><sup>Image source: <a href="https://eresources.nlb.gov.sg/main/linkedin.html" target="_blank">LinkedIn Learning for Library</a>.</sup></p>
@@ -175,11 +175,11 @@ You may access the platform with your myLibrary account, and explore the suite o
 Author: Andy J. Miller<br>
 Call No.: English 741.60922 CRE -[ART]<br>
 Publisher: Chronicle Books, 2017<br>
-Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/3139937). 
+Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/3139937){:target="_blank"}. 
 
 Every artist needs a little pep talk now and then. An inspiring tool and beautiful art book in one, Creative Pep Talk offers illustrated words of wisdom from 50 of today's leading creative professionals. 
 
-Synopsis from [Chronicle Books](https://www.chroniclebooks.com/).
+Synopsis from [Chronicle Books](https://www.chroniclebooks.com/){:target="_blank"}.
 
 
 <a href="https://nlb.overdrive.com/media/3139937" target="_blank"><img src="images/digital/teens/tt-gd-book2.png" alt="Graphic Design for Everyone book cover." style="width: 30%;"></a><br>
@@ -187,13 +187,13 @@ Synopsis from [Chronicle Books](https://www.chroniclebooks.com/).
 Author: Cath Caldwell<br>
 Call No.: English 741.6 GRA -[ART]<br>
 Publisher: DK Publishing, 2019<br>
-Available as a physical copy only. (Find a copy at the public libraries via the [NLB catalogue](https://catalogue.nlb.gov.sg)!)<br>
+Available as a physical copy only. (Find a copy at the public libraries via the [NLB catalogue](https://catalogue.nlb.gov.sg){:target="_blank"}!)<br>
 
 Students, entrepreneurs, community groups, social media influencers, bloggers or campaigners: this practical guide is for you, and everyone else who wants to learn how to communicate visually, combining the building blocks of type, photography, illustration, and colour to create designs that inform, influence, and enthrall.
 
 If you're ready to use the power of design to take your personal project or burgeoning business to the next level, Graphic Design for Everyone is a one-stop resource to becoming an effective, inspirational visual communicator.
 
-Synopsis from [DK](https://www.dk.com/sg).
+Synopsis from [DK](https://www.dk.com/sg){:target="_blank"}.
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
