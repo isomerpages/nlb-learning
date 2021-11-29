@@ -17,7 +17,6 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
       <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
-    </thead>
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="_blank"><b>Job Hunting Toolkit Learning Package</b></a></td>
