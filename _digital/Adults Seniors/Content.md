@@ -551,7 +551,6 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 </ol>
 
 ---
-<!--Learning Package: Design Thinking-->
 <img src="/images/digital/adults/designthinking/Digital-Prog-AS-A-Designthinking-01.png" alt="cover image">
 
 <h5 class="margin--bottom--lg" id="lp-think">Learning Package: Design Thinking</h5>
