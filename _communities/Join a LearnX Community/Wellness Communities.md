@@ -10,7 +10,7 @@ Health is wealth! Join a community committed to protecting and growing life’s 
 
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
-    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-04.jpg" alt="太极读书会
+    <img src="/images/learning-communities/wellness/LC-Wellness-TaijiBookClub.jpg" alt="太极读书会
 Taiji Book Club">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>太极读书会
