@@ -3,16 +3,11 @@ title: Partners
 permalink: /partners
 description: ""
 ---
-COMING SOON
-
+INTRO 
+<hr>
 
  
   <style type="text/css">
-
-
-tr {
-    border-bottom: 1px solid #ccc;
-}
    
    
 td {
@@ -25,7 +20,7 @@ text-align: left;
 
 
 <table>
-</table><table width="100%" cellspacing="0" cellpadding="20" border="0">
+</table><table width="100%" cellspacing="" cellpadding="15" border="0">
 
 
   <tbody><tr><td><strong>Why SEO is vital for your business growth | Future of Work</strong></td>
@@ -38,8 +33,28 @@ In this webinar, you will learn how to discover the number of potential customer
 
 </tr>
 <tr>
-</tr><tr class="row"><td>Cell contents</td>
-<td>Cell contents</td>
+<td>Livestreaming for Cash, Career or Company | Future of Work
+</td>
+<td>Amid the pandemic, more companies are turning to livestreaming to reach customers remotely and this opens up more revenue making opportunities for entrepreneurs, digital marketeers and influencers to explore. 
+	<br>•	Find out how you can livestream professionally<br>
+	<br>•	Learn from a professional host who succeeded changing his career to livestreaming.<br> 
+</td>
+<td>13 Jan, 7pm - 8pm</td>
+<td>Zoom</td>
+</tr>
+	
+	<tr>
+<td>Content</td>
+<td>Content</td>
+<td>Content</td>
+<td>Content</td>
+</tr>
+	
+	<tr>
+<td>Content</td>
+<td>Content</td>
+<td>Content</td>
+<td>Content</td>
 </tr>
 
 
