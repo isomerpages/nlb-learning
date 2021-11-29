@@ -4,6 +4,20 @@ permalink: /communities/what-is-a-LearnX-Community
 breadcrumb: overview
 description: ""
 ---
+<style type="text/css">
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Generic */
+.clickbox.is-generic { background-color: #dce5d3; color: #322987; }
+.clickbox.is-generic a { color: #322987; }
+.clickbox.is-generic a:focus,
+.clickbox.is-generic a:hover { background-color: #322987; color: #dce5d3; }
+</style>
 ## **More the merrier**
 
 Sharing knowledge and exchanging ideas with people who have similar interests as you makes learning so much more rewarding. That’s why LearnX Communities connect like-minded people to create a modern kampong of communal learning.

@@ -8,7 +8,7 @@ Being responsible for a community can seem like a mammoth task, but have no fear
 
 ![Alt text for image on Isomer site](/images/learning-communities/1%20LEARNX-Community-Intro.jpg)
 
-**Use our spaces:** We provide spaces in our public libraries to all our Learning Communities. We also provide basic equipment, including chairs, tables, and writing materials. 
+**Use our spaces:** We provide spaces in our public libraries to all our Learning Communities. We also provide basic equipment, including chairs, tables, and writing materials.
 Ask us for guidance: Although Learning Communities are largely self-directed by its members, our friendly librarians will be on hand to advise and support you and your community when necessary. 
 
 **Get access to resources:** Whether you are a veteran in running a community group or completely new to it, we have specially curated resources that will help develop your skills. Tell me more.
@@ -21,6 +21,6 @@ Fill out this application form to get started!
 
 **Meet up:** Communities meet regularly to share their knowledge, practise a skill, or just chat about their chosen subject.
 
-**Be open:** All our Learning Communities are free and open to the public. Knowledge in your group should be shared unconditionally, and without any strings attached!   
+**Be open:** All our Learning Communities are free and open to the public. Knowledge in your group should be shared unconditionally, and without any strings attached!  
 
 **Be welcoming:** Libraries are public places and everyone should feel safe and welcome here. People learn and connect meaningfully when they are in spaces where they feel they can be themselves without judgement. Encourage your group to express themselves with kindness and curiosity!
