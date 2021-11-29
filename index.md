@@ -57,17 +57,4 @@ sections:
         Science and Reading.
       image: /images/home/logo-nyp-colour-16-9.png
       alt: NYP
-  - infobar:
-      title: LAB25
-      description: LearnX is part of the National Library Board's Learning and
-        Archives Blueprint 2025 (LAB25) plan to reimagine libraries in
-        Singapore.
-      button: Learn More
-      url: https://www.nlb.gov.sg/WhoWeAre/AboutUs/AboutLAB25.aspx
-  - infobar:
-      title: Nanyang Polytechnic
-      subtitle: Partners
-      description: NLB and Nanyang Polytechnic (NYP) are co-developing the learning
-        focus areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
-        Science and Reading.
 ---
