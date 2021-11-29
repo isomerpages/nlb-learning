@@ -60,7 +60,7 @@ Check out these resources that highlight tips on keeping your online information
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
+        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
         <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
 Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank">Public Libraries Singapore’s Facebook page</a> to be notified when the videos go live.</td>
         <td style="width: 20%;">Dec 2021 to Jan 2022</td>
