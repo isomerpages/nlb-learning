@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Example Title.md
       - Partners.md
       - Nanyang Polytechnic/.keep
