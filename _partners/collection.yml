@@ -2,5 +2,5 @@ collections:
   partners:
     output: true
     order:
-      - Partners/.keep
+      - Nanyang Polytechnic/.keep
       - Partners.md
