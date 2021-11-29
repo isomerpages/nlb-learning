@@ -18,7 +18,7 @@ Check out the schedule below, and look out for more programmes to be introduced 
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
-      <a href="/digital/overview">
+			<a href="#Digital"></a>
         <span>Digital</span>
       </a>
     </div>
@@ -44,6 +44,8 @@ Check out the schedule below, and look out for more programmes to be introduced 
 <table>
 </table><table width="100%" cellspacing="15" cellpadding="15" border="0">
 
+<h4><a id="Digital"></h4>
+<hr>
 
   <tbody><tr><td><strong><a href="https://www.eventbrite.sg/e/why-seo-is-vital-for-your-business-growth-future-of-work-registration-206950272837?aff=ebdssbonlinesearch">Why SEO is vital for your business growth | Future of Work</a></strong></td>
   <td>It is not surprising that the use of the internet has increased exponentially during this period. It is estimated Google processes approximately 63,000 search queries every second, translating to 5.6 billion searches per day and approximately 2 trillion global searches per year. The average person conducts between three and four searches each day. (Hubspot), search engine optimisation (SEO) is more important than ever for businesses, especially for our local SMEs.
@@ -55,18 +57,6 @@ This programme is suitable for Adults. <br>
   <td>Zoom</td>
   
 
-</tr>
-<tr>
-<td><strong><a href="https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-game-artist-portfolio-registration-176075315007?aff=ebcollection&amp;keep_tld=1CCKPL">Teens Takeover – A Day In The Life Of Game Artist | portfolio</a></strong></td>
-<td>Get an intimate look into the daily lives of different professionals in this new series and get inspired to explore possible careers of your future. 
-<br><br>
-In this session, join Mr Aaron Lim, Lecturer from Nanyang Polytechnic’s School of Design &amp; Media, in an interactive live demonstration creating fantasy game concept arts as well as a sharing of his journey in the fantasy gaming industry.
-<br><br>About the Speaker:
-Aaron Lim started gaming since the 1980s, when he was 5 years old. He is a passionate artist who loves to design Fantasy Worlds. He pursued a career in the game industry in Japan (Koei Tecmo) and Taiwan (Soft-world) from 2003 to 2015 as a game artist. He has been making AAA Massively Multiplayer Online Role-Playing Games (AAA MMORPGs) for more than a decade and started his own VR game company in 2016. He later developed the Train to Busan VR experience with Vividthree. Currently, he is teaching Digital Game Art Diploma in Nanyang Polytechnic.
-<br><br>This programme is suitable for Teens.
-</td>
-<td>18 Dec, 2pm - 3.30pm</td>
-<td>Choa Chu Kang Public Library </td>
 </tr>
 
 <tr>
@@ -98,3 +88,25 @@ Learn how to create unique content through storytelling and incorporate subtle c
   
 
 </tbody></table>
+
+<!-- table 2 code here -->
+
+<table>
+</table><table width="100%" cellspacing="15" cellpadding="15" border="0">
+
+<h4>Careers</h4>
+<hr>
+
+
+<tr>
+<td><strong><a href="https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-game-artist-portfolio-registration-176075315007?aff=ebcollection&amp;keep_tld=1CCKPL">Teens Takeover – A Day In The Life Of Game Artist | portfolio</a></strong></td>
+<td>Get an intimate look into the daily lives of different professionals in this new series and get inspired to explore possible careers of your future. 
+<br><br>
+In this session, join Mr Aaron Lim, Lecturer from Nanyang Polytechnic’s School of Design &amp; Media, in an interactive live demonstration creating fantasy game concept arts as well as a sharing of his journey in the fantasy gaming industry.
+<br><br>About the Speaker:
+Aaron Lim started gaming since the 1980s, when he was 5 years old. He is a passionate artist who loves to design Fantasy Worlds. He pursued a career in the game industry in Japan (Koei Tecmo) and Taiwan (Soft-world) from 2003 to 2015 as a game artist. He has been making AAA Massively Multiplayer Online Role-Playing Games (AAA MMORPGs) for more than a decade and started his own VR game company in 2016. He later developed the Train to Busan VR experience with Vividthree. Currently, he is teaching Digital Game Art Diploma in Nanyang Polytechnic.
+<br><br>This programme is suitable for Teens.
+</td>
+<td>18 Dec, 2pm - 3.30pm</td>
+<td>Choa Chu Kang Public Library </td>
+</tr>
