@@ -44,14 +44,14 @@ sections:
         Singapore.
       button: Learn More
       url: https://www.nlb.gov.sg/WhoWeAre/AboutUs/AboutLAB25.aspx
-      image: /images/home/logo-lab25-colour-16-9.png
+      image: /images/home/home/logo-lab25-colour-fullsize.png
       alt: LAB25
   - infopic:
       title: Partners
       description: NLB and Nanyang Polytechnic (NYP) are co-developing the learning
         focus areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
         Science and Reading.
-      image: /images/home/logo-nyp-colour-16-9.png
+      image: /images/home/logo-nyp-colour-fullsize.png
       alt: NYP
       url: /partners
       button: Learn More
