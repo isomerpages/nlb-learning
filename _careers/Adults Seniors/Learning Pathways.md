@@ -87,6 +87,7 @@ SkillsFuture credits</b></a></td>
         <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank">Refer to SkillsFuture website</a></td>
         <td>Zoom</td>
       </tr>
+</thead>
     </tbody>
   </table>
 </div>
@@ -104,7 +105,7 @@ SkillsFuture credits</b></a></td>
         <td style="width: 20%;"><b>LearnX Sustainability</b><br>The Low Carbon Economy</a></td>
         <td style="width: 40%;"></td>
         <td style="width: 20%;">21 Dec 2021<br> 7.30-8.30pm</td>
-        <td style="width: 20%;">Chua Chu Kang Public Library</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library</td>
       </tr>
       <tr>
         <td><a href="#" target="_blank"><b>LearnX Digital</b><br>Future of Work – Expert Edition Videos</a></td>
@@ -275,7 +276,7 @@ SkillsFuture credits</b></a></td>
         <td style="width: 20%;"><a href="#" target="_blank"><b>LearnX Digital</b><br>Design Thinking Workshop</a></td>
         <td style="width: 40%;">Coming soon</td>
         <td style="width: 20%;">21 Dec <br> 7.30-8.30pm</td>
-        <td style="width: 20%;">Chua Chu Kang Public Library</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library</td>
       </tr>
 <td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>LearnX Wellness</b><br>Financial Literacy: Adulting 101 and Adulting 102</a></td>
         <td>Learn about buying property, insurance and investments.</td>
