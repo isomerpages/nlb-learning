@@ -82,7 +82,7 @@ Technology is changing the way we live and work by making things more accessible
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>[Future of Work]</b><br>Introduction to Website Security</a></td>
-        <td>Learn about the common approaches to information security and acquire basic foundational knowledge on the topic.</td>
+        <td>Learn about the common approaches to website security and acquire basic foundational knowledge on the topic.</td>
         <td>16 Dec 2021, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
