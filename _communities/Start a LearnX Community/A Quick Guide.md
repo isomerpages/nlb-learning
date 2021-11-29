@@ -4,9 +4,9 @@ permalink: /communities/start/quick-guide
 description: ""
 third_nav_title: Start a LearnX Community
 ---
-![Alt text for image on Isomer site](/images/learning-communities/1%20LEARNX-Community-Intro.jpg)
-
 Being responsible for a community can seem like a mammoth task, but have no fear, we’re always here!
+
+![Alt text for image on Isomer site](/images/learning-communities/1%20LEARNX-Community-Intro.jpg)
 
 **Use our spaces:** We provide spaces in our public libraries to all our Learning Communities. We also provide basic equipment, including chairs, tables, and writing materials. 
 Ask us for guidance: Although Learning Communities are largely self-directed by its members, our friendly librarians will be on hand to advise and support you and your community when necessary. 
