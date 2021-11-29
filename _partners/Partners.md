@@ -47,7 +47,7 @@ Check out the schedule below, and look out for more programmes to be introduced 
 </table><table width="100%" cellspacing="15" cellpadding="15" border="0">
 
 <h5 id="Digital">Digital</h5>
-<br>
+<hr>
 
   <tbody><tr><td><strong><a href="https://www.eventbrite.sg/e/why-seo-is-vital-for-your-business-growth-future-of-work-registration-206950272837?aff=ebdssbonlinesearch">Why SEO is vital for your business growth | Future of Work</a></strong></td>
   <td>It is not surprising that the use of the internet has increased exponentially during this period. It is estimated Google processes approximately 63,000 search queries every second, translating to 5.6 billion searches per day and approximately 2 trillion global searches per year. The average person conducts between three and four searches each day. (Hubspot), search engine optimisation (SEO) is more important than ever for businesses, especially for our local SMEs.
@@ -97,7 +97,7 @@ Learn how to create unique content through storytelling and incorporate subtle c
 </table><table width="100%" cellspacing="15" cellpadding="15" border="0">
 
 <h5 id="Careers">Careers</h5>
-<br>
+<hr>
 <tr>
 <td><strong><a href="https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-game-artist-portfolio-registration-176075315007?aff=ebcollection&amp;keep_tld=1CCKPL">Teens Takeover – A Day In The Life Of Game Artist | portfolio</a></strong></td>
 <td>Get an intimate look into the daily lives of different professionals in this new series and get inspired to explore possible careers of your future. 
