@@ -43,7 +43,7 @@ Check out the schedule below, and look out for more programmes to be introduced 
 <br>
 	
 <table>
-</table><table width="100%" cellspacing="15" cellpadding="15" border="0">
+<table width="100%" cellspacing="15" cellpadding="15" border="0">
 
 <strong><h5 id="Digital">Digital</h5></strong>
 <hr>
