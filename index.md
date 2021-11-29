@@ -23,26 +23,26 @@ sections:
           description: 30 Characters Here
           url: /sustainability/overview
   - infopic:
-      title: LearnX Digital Title
-      subtitle: LearnX Digital
-      description: LearnX Digital description
-      button: Learn More
+      title: LearnX Digital
+      description: "Keep up with changing digital trends and technology  through
+        easy-to-understand and accessible content. "
+      button: Start Learn
       url: /digital/overview
       image: /images/digital/learnx-digital-landing-kv-1.jpg
-      alt: Image alt text
+      alt: LearnX Digital
   - infopic:
-      title: LearnX Careers Title
-      subtitle: LearnX Careers
-      description: LearnX Careers description
-      button: Learn More
+      title: LearnX Careers
+      description: "Perfect for professionals, small businesses  and entrepreneurs
+        looking to take the next step. "
+      button: Start Learn
       url: /careers/overview
       image: /images/career/learnx-careers-landing-kv-1.jpg
       alt: LearnX Careers
   - infopic:
-      title: LearnX Sustainability Title
-      subtitle: LearnX Sustainability
-      description: LearnX Sustainability description
-      button: Learn More
+      title: LearnX Sustainability
+      description: If you’ve been toying with the idea of living sustainably  but
+        don’t know where to start, you’ve come to the right place. 
+      button: Start Learn
       url: /sustainability/overview
       image: /images/sustainability/learnx-sustainability-landing-kv-1.jpg
       alt: LearnX Sustainability
