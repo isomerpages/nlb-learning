@@ -4,7 +4,6 @@ permalink: /careers/adults-seniors/learning-pathways
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 We start with Powering Up Your Job Search, Helping you Launch Your Own Business and finally, Accelerating Your Career and Improve Work-Life Balance.
@@ -21,13 +20,13 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" target="_blank"><b>Job Hunting Toolkit Learning Package</b></a></td>
+        <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="_blank"><b>Job Hunting Toolkit Learning Package</b></a></td>
         <td style="width: 40%;"> </td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank"><b>Job Search Strategies Playlist</b></a></td>
+        <td><a href="/careers/adults-seniors/content" target="_blank"><b>Job Search Strategies Playlist</b></a></td>
         <td> </td>
         <td></td>
         <td> </td>
@@ -134,7 +133,7 @@ SkillsFuture credits</b></a></td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" target="_blank"><b>How To Start Your Own Business</b></a></td>
+        <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="_blank"><b>How To Start Your Own Business</b></a></td>
         <td style="width: 40%;"></td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
@@ -210,13 +209,13 @@ SkillsFuture credits</b></a></td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" target="_blank"><b>Communication at Work Learning Package</b></a></td>
+        <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="_blank"><b>Communication at Work Learning Package</b></a></td>
         <td style="width: 40%;"></td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank"><b>How To Be Happy At Work playlist</b></a></td>
+        <td><a href="/careers/adults-seniors/content" target="_blank"><b>How To Be Happy At Work playlist</b></a></td>
         <td></td>
         <td></td>
         <td></td>

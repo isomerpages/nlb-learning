@@ -54,7 +54,7 @@ Taking care of the environment starts with YOU!
         <td>Choa Chu Kang Public Library </td>
       </tr>
 			 <tr>
-        <td><a href="#" target="_blank"><b>Sustainable Art Installation</b></a></td>
+        <td><b>Sustainable Art Installation</b></td>
         <td>Three Pockets Full of Rye is an “living art installation” housed at the newly revamped Choa Chu Kang Public Library where artist Veronyka Lau uses found objects to interpret her own relationship with food and the concepts of sustainability and security. In mirroring the towering glass city around us, the artwork alludes to our modern life of living to be seen, yet with much hidden from view. Three Pockets Full of Rye is also about our relationship with objects - having them, wanting them, and finding some to be out of reach.</td>
         <td>28 Oct -30 Nov <br> (CCKPL)<br><br>1 Dec – 10 Jan 2022 <br>(JRL)</td>
         <td>Choa Chu Kang Public Library<br><br>Jurong Regional Library</td>

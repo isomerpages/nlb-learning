@@ -19,7 +19,7 @@ Taiji Book Club</b></h5>
 
 Taiji Book Club is a reading club for adults, hoping to share with the public on how taichi may help to strengthen the body and maintain good health, as well as to promote Chinese martial traditions. <br><br>
 For adults, conducted monthly in Chinese at Tampines Regional Library.<br>
-For more information, visit their page  <a href="https://go.gov.sg/lcsessions" target="_blank">here</a>.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/taiji-readingclub" target="_blank">Click here for upcoming session</a></p>
+For more information, visit their page  <a href="https://go.gov.sg/taiji-readingclub" target="_blank">here</a>.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>

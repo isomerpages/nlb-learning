@@ -27,7 +27,7 @@ For teens, adults and seniors, conducted in English at Queenstown Public Library
 				
 Collective calamities like the climate crisis - among others - often inflict wounds of ecological grief, hurt and isolation on all of us, and stories provide a language and medium of catharsis and healing for everyone who wishes to join our sessions.  <br><br>
 For all ages, conducted monthly in English at Central Public Library.<br>
-For more information, <a href="www.instagram.com/natureclubsg/" target="_blank">visit their page</a>.</p>
+For more information, <a href="https://www.instagram.com/natureclubsg/" target="_blank">visit their page</a>.</p>
       <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming sessions</a></p>
     </div>
   </div>

@@ -73,9 +73,9 @@ The Green Economy is one of the five key pillars in Singapore’s Green Plan. We
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank"><b>Sustainable Art Installation</b></a></td>
+        <td><b>Sustainable Art Installation</b></td>
         <td>Three Pockets Full of Rye is an “living art installation” housed at the newly revamped Choa Chu Kang Public Library where artist Veronyka Lau uses found objects to interpret her own relationship with food and the concepts of sustainability and security. In mirroring the towering glass city around us, the artwork alludes to our modern life of living to be seen, yet with much hidden from view. Three Pockets Full of Rye is also about our relationship with objects - having them, wanting them, and finding some to be out of reach.</td>
-        <td>28 Oct -30 Nov <br> (CCKPL)<br><br>1 Dec – 10 Jan 2022 <br>(JRL)</td>
+        <td>28 Oct -30 Nov 2021<br><br>1 Dec – 10 Jan 2022 <br></td>
         <td>Choa Chu Kang Public Library<br><br>Jurong Regional Library</td>
       </tr>
 <tr>
@@ -86,14 +86,14 @@ Suitable for aged 50 and above.</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>Thinker+Play: Fun with Puzzles (Sustainability) | Time of Your Life</b></a></td>
+<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>Thinker+Play: Fun with Puzzles (Sustainability) | Time of Your Life</b></a></td>
         <td>This is a Nature and Sustainability-themed session of Thinker+ Play where seniors can get their minds active through solving puzzles and learning interesting facts related to the environment.</td>
         <td>22 Dec 2021, <br>2pm - 3pm</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b> Hydroponics Workshop</b></a></td>
-        <td> Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. <br><br>
+<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>Urban Farming Workshop</b></a></td>
+        <td>Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. <br><br>
 Suitable for participants aged 15 years and above. </td>
         <td>9 Dec 2021, <br>7pm - 8.30pm</td>
         <td>TBC</td>
@@ -111,7 +111,7 @@ Suitable for participants aged 15 years and above. </td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#"><b> Build Your Own: Coasters from Magazine Pages | Time of Your Life</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849"><b> Build Your Own: Coasters from Magazine Pages | Time of Your Life</b></a></td>
         <td style="width: 40%;"> Recycle your old magazines and turn them into pretty table coasters which you can use to decorate your home in this festive season, while adopting a sustainable practice. This Build-Your-Own workshop aims to promote sustainable practices which are simple and practical for seniors.</td>
         <td style="width: 20%;">15 Dec 2021, <br>7.30pm- 8.30pm</td>
         <td style="width: 20%;">Zoom</td>
@@ -135,7 +135,7 @@ Suitable for participants aged 15 years and above. </td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" target="_blank"><b>LearnX Digital</b><br>MakeIT</a></td>
+        <td style="width: 20%;"><a href="https://codesg.imda.gov.sg/in-community/makeit-at-libraries/" target="_blank"><b>LearnX Digital</b><br>MakeIT</a></td>
         <td style="width: 40%;">MakeIT aims to introduce Making and Innovayion to the general public by way of areas, including Making with upcycling in mind.Topics available include repair and home-hacks and lofi prototyping<br></td>
         <td style="width: 20%;">TBC</td>
         <td style="width: 20%;"></td>
@@ -182,7 +182,7 @@ City in nature is one of the five key pillars in Singapore’s Green Plan. We ex
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" target="_blank"><b>Go Green & Grow: A Sustainability Learning Journey (Day 1)</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Go Green & Grow: A Sustainability Learning Journey (Day 1)</b></a></td>
         <td style="width: 40%;"><b>Day 1: Upcycling & Recycling</b><br>
 Understand how food waste can be recycled and converted into useful fertilizer at the Eco-Digestor (OTH) and participate in an upcycling workshop at TRL.<br><br>
 This is a 2-day learning journey jointly organized by Our Tampines Hub and NLB to raise awareness of the sustainable practices in the community and how everyone can play a part in contributing to a more sustainable world. Suitable for aged 50 and above.</td>
@@ -190,7 +190,7 @@ This is a 2-day learning journey jointly organized by Our Tampines Hub and NLB t
         <td style="width: 20%;">Tampines Reginal Library<br>OTH</td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank"><b>Go Green & Grow: A Sustainability Learning Journey (Day 2)</b></a></td>
+        <td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Go Green & Grow: A Sustainability Learning Journey (Day 2)</b></a></td>
         <td><b>Day 2: From Garden to Table</b><br>
 Tour of the therapeutic garden to learn about the benefits of spices and how to grow them, followed by a demonstration of salad-making from homegrown produce. <br><br>
 This is a 2-day learning journey jointly organized by Our Tampines Hub and NLB to raise awareness of the sustainable practices in the community and how everyone can play a part in contributing to a more sustainable world. Suitable for aged 50 and above.</td>
@@ -198,25 +198,25 @@ This is a 2-day learning journey jointly organized by Our Tampines Hub and NLB t
         <td style="width: 20%;">Tampines Reginal Library<br>OTH</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>Enroute to Zero- Waste</b></a></td>
+<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Enroute to Zero- Waste</b></a></td>
         <td>Discover how Singapore will be working towards a zero-waste and low emissions future.</td>
         <td>18 Jan 202, <br>7.30pm -8.30pm</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>Paint the Town Green</b></a></td>
+<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Paint the Town Green</b></a></td>
         <td>Find out why we need to conserve and create green spaces not just for ourselves but to promote biodiversity.</td>
         <td>15 Feb 2021, <br>7.30pm -8.30pm</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>Nature to the Rescue</b></a></td>
+<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Nature to the Rescue</b></a></td>
         <td>Nature holds the key to our well-being and helps us to live well especially when it comes to mitigating floods and droughts.  In this session, our speaker explains the role of “natural capital’ in our journey towards sustainability.</td>
         <td>22 Mar 2021, <br>7pm -8.30pm</td>
         <td> Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>Green Market: Swap</b></a></td>
+<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Green Market: Swap</b></a></td>
         <td>The Green Market, the family friendly event is back and this time, it is about reducing wastage and encouraging sharing through swapping. At the same time, enjoy talks, workshops and interactive children programmes while you engage with various green groups at the market.</td>
         <td>19-20 Mar 2021, <br>11am -8pm</td>
         <td>Choa Chu Kang Public Library</td>
