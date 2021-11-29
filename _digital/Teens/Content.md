@@ -6,7 +6,7 @@ third_nav_title: Teens
 ---
 <p>Explore resources and content on topics that reveal the possibilities of technology.</p>
 <p>Check out our <b>playlist</b> for a collection of short videos exploring topics around digital concepts.</p>
-<p>Check our <b>learning package</b> for articles that will give you an insight into digital concepts.</p>
+<p>Check out our <b>learning package</b> for articles that will give you an insight into digital concepts.</p>
 
 <div class="row is-multiline">
   <div class="col is-one-half">
