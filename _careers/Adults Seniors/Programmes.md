@@ -16,8 +16,7 @@ This series is recommended for jobseekers and working adults seeking to improve 
 
 By the end of each workshop, you can expect to have learnt a couple of effective strategies to improve your skill in the topic covered.
 
-To check out the latest listing of programmes under Get Professional Series, go to
-[go.gov.sg/get-professional-series](http://go.gov.sg/get-professional-series). 
+Click [here](http://go.gov.sg/get-professional-series) for the latest programme listings.
 
 ## **Industry Insights**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-01.png)
@@ -26,7 +25,7 @@ Have you always been curious about a particular industry – be it fintech, gami
 
 This series is recommended for anyone who wishes to find out more about the industry in focus, whether for general knowledge or with a view to eventually pursuing a career in this field.
 
-Click here to learn more about the programme. 
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) to learn more about the programme. 
 
 ## **Breakthrough**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-02.png)
@@ -46,7 +45,7 @@ This series is recommended for adults and seniors who wish to unlock the secrets
 
 By the end of each workshop, you can expect to have learnt a couple of strategies to learn more effectively.
 
-Click here to learn more about this programme.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) to learn more about this programme.
 
 
 ## **Eye on Asia**
@@ -72,7 +71,7 @@ Topics covered:
 - Identifying Information Needs
 - Business Information Resources used for Market Intelligence
 
-Click here to learn more about this programme.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest programme listings.
 
 ## **Research for Starting, Managing and Growing your Business**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-05.png)
@@ -85,6 +84,6 @@ Topics covered:
 
 - Library databases and web resources used in Business Research
 
-Click here to learn more about this programme.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) to learn more about this programme.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
