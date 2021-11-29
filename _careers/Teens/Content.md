@@ -6,6 +6,27 @@ third_nav_title: Teens
 ---
 Busy chasing dreams? These resources will help you get there faster.
 
+Check out our **playlist** for a collection of short videos/podcasts to inspire you in exploring possible careers for your future. 
+
+Check our **learning package** to get a glimpse into what it takes to achieve your aspirations with these articles and activities.
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-pink-ruby">
+      <a href="#playlist-health">
+        <span>Playlist:<br>Healthcare</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-pink-ruby">
+      <a href="#lp-email">
+        <span>Learning Package: Teen Things: Emailing 101</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
 <h3><b>Playlist</b></h3>
 A collection of short videos and podcasts to inspire you as you make that all-important decision on what career path to take.
 
