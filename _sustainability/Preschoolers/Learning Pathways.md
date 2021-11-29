@@ -94,17 +94,11 @@ What can we do to protect the environment around us? Do you know the different t
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>Budding Scientists 
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists 
 What Makes an Apple Turns Brown?</b></a></td>
         <td>Children will learn about how chemical reactions work with this fun and exciting screen free activity!</td>
         <td>17 December 2021<br>3pm – 4pm</td>
         <td>Zoom</td>
-      </tr>
-<tr>
-<td><a href="#" target="_blank"><b>Toddler Songs & Rhymes</b></a></td>
-        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs & rhymes on nature!</td>
-        <td>Jan 2022</td>
-        <td>TBC</td>
       </tr>
 <tr>
 <td><a href="#" target="_blank"><b>Travelling with Bee Bot</b></a></td>
@@ -112,6 +106,12 @@ What Makes an Apple Turns Brown?</b></a></td>
 Participants will have a chance to experience Bee bot, a programmable robot in this workshop. Screens are not needed for this activity!</td>
         <td>March 2022</td>
         <td>TBC</td>
+      </tr>
+			<tr>
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Marine Animals</b></a></td>
+        <td>Descend through the ocean to discover its mesmerizing ocean life. The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. Did you know that clownfish are actually omnivores, which mean they eat both meat and plants? What is the living habitat like for these marine animals? In this session, you will be introduced to the wonders of the oceans and learnt about the fun facts of the marine animals.</td>
+        <td>18 Mar 2022<br>3pm - 4pm</td>
+        <td>Zoom <br>TBC</td>
       </tr>
   </tbody>
   </table>
