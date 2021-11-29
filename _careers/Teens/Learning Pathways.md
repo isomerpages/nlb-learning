@@ -24,7 +24,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank"><b>A Day in the Life of: Healthcare Professionals</b></a></td>
+        <td><a href="/careers/teens/content"><b>A Day in the Life of: Healthcare Professionals</b></a></td>
         <td>Considering a career in healthcare? Then you won’t want to miss getting an intimate look into the daily lives of different healthcare professionals and hearing their inspiring stories.</td>
         <td></td>
         <td></td>
