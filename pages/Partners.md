@@ -3,10 +3,7 @@ title: Partners
 permalink: /partners
 description: ""
 ---
-
-
- 
-  <style type="text/css">
+<style type="text/css">
    
    
 td {
@@ -61,7 +58,7 @@ Learn how to create unique content through storytelling and incorporate subtle c
 <br>About the Speaker:
 Aaron Lim started gaming since the 1980s, when he was 5 years old. He is a passionate artist who loves to design Fantasy Worlds. He pursued a career in the game industry in Japan (Koei Tecmo) and Taiwan (Soft-world) from 2003 to 2015 as a game artist. He has been making AAA Massively Multiplayer Online Role-Playing Games (AAA MMORPGs) for more than a decade and started his own VR game company in 2016. He later developed the Train to Busan VR experience with Vividthree. Currently, he is teaching Digital Game Art Diploma in Nanyang Polytechnic.</td>
 <td>18 Dec, 2p.m - 3.30p.m</td>
-<td>Choa Chu Kang Public Libraru</td>
+<td>Choa Chu Kang Public Library</td>
 </tr>
 
 
