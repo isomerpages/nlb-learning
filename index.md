@@ -12,23 +12,13 @@ sections:
         Customise your learning journey with resources across a wide range of
         topics. "
       background: /images/home/masthead-icons-1366x507-1.gif
-      key_highlights:
-        - title: LearnX Digital
-          description: 30 Characters here
-          url: /digital/overview
-        - title: LearnX Careers
-          description: 30 Characters here
-          url: /careers/overview
-        - title: LearnX Sustainability
-          description: 30 Characters Here
-          url: /sustainability/overview
   - infopic:
       title: LearnX Digital
       description: "Keep up with changing digital trends and technology through
         easy-to-understand and accessible content. "
       button: Start Learn
       url: /digital/overview
-      image: /images/digital/learnx-digital-landing-kv-1.jpg
+      image: /images/home/home-digital-kv.png
       alt: LearnX Digital
   - infopic:
       title: LearnX Careers
@@ -36,7 +26,7 @@ sections:
         looking to take the next step. "
       button: Start Learn
       url: /careers/overview
-      image: /images/career/learnx-careers-landing-kv-1.jpg
+      image: /images/home/home-careers-kv.png
       alt: LearnX Careers
   - infopic:
       title: LearnX Sustainability
@@ -44,7 +34,7 @@ sections:
         know where to start, you’ve come to the right place. 
       button: Start Learn
       url: /sustainability/overview
-      image: /images/sustainability/learnx-sustainability-landing-kv-1.jpg
+      image: /images/home/home-sustainability-kv.png
       alt: LearnX Sustainability
   - infobar:
       title: Find a group of like-minded people to learn with.
