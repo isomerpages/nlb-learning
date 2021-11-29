@@ -6,6 +6,8 @@ third_nav_title: Teens
 ---
 Sustainability will be a breeze once you’re done with these packages and playlists.
 
+
+
 <a name="id9">![Think Green, Go Green header](/images/sustainability/teens/tt-header-green.png)</a>
 #### **Think Green, Go Green!**
 
