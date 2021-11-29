@@ -25,7 +25,7 @@ Have you always been curious about a particular industry – be it fintech, gami
 
 This series is recommended for anyone who wishes to find out more about the industry in focus, whether for general knowledge or with a view to eventually pursuing a career in this field.
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) to learn more about the programme. 
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest programme listings. 
 
 ## **Breakthrough**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-02.png)
@@ -45,7 +45,7 @@ This series is recommended for adults and seniors who wish to unlock the secrets
 
 By the end of each workshop, you can expect to have learnt a couple of strategies to learn more effectively.
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) to learn more about this programme.
+Coming soon.
 
 
 ## **Eye on Asia**
@@ -84,6 +84,6 @@ Topics covered:
 
 - Library databases and web resources used in Business Research
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) to learn more about this programme.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest programme listings.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
