@@ -240,14 +240,13 @@ SkillsFuture credits</b></a></td>
       </tr>
       <tr>
         <td><a href="#" target="_blank"><b>How To Learn Like A Pro</b></a></td>
-       <td> Recordings from the Future of Learning 2021 event, featuring prominent local experts and TED/TEDx speakers</td>
+       <td>Recordings from the Future of Learning 2021 event, featuring prominent local experts and TED/TEDx speakers</td>
         <td>TBC</td>
         <td>TBC</td>
       </tr>
     </tbody>
   </table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -266,7 +265,7 @@ Learn any workplace skill with online courses from LinkedIn Learning for Library
 <tr>
         <td><a href="http://go.gov.sg/get-professional-series" target="_blank"><b>Learn how to acquire new skills with 
 SkillsFuture credits</b></a></td>
-        <td>SkillsFuture Advice webinarstd>
+        <td>SkillsFuture Advice webinars</td>
         <td>TBC</td>
         <td>TBC</td>
       </tr>
