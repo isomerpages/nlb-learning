@@ -6,7 +6,7 @@ third_nav_title: Adults & Seniors
 ---
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-We start with getting to know about the Green Economy, and renewing our appreciation of a City In Nature.
+We start with getting to know about the Green Economy, and renewing our appreciation of a <a href="#city-in-nature">City In Nature</a>.
 
 <h3><b>Understanding the Green Economy</b></h3>
 The Green Economy is one of the five key pillars in Singapore’s Green Plan. We break it down to its key concepts from circulatory to going low-carbon with practical skills you can learn.
@@ -147,7 +147,7 @@ Suitable for participants aged 15 years and above. </td>
  [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
  
-<h3><b>City in Nature</b></h3>
+<h3 id="city-in-nature" class="margin--bottom--lg"><b>City in Nature</b></h3>
 City in nature is one of the five key pillars in Singapore’s Green Plan. We explore the importance of green spaces in the city, efforts taken by Singapore to go low carbon and how to incorporate nature and reduce emissions in your life. 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
