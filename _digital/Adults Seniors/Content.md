@@ -6,6 +6,10 @@ third_nav_title: Adults & Seniors
 ---
 In a hurry? Check out these videos, articles and programmes for a quick lesson on digital trends and technology.
 
+Check out our **playlists** for collections of short videos exploring topics around digital concepts.
+
+Check out our **learning packages** for articles that will give you an insight into digital concepts.
+
 
 <!-- Navigation boxes - Playlists -->
 <div class="row is-multiline">
