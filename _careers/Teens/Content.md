@@ -8,7 +8,7 @@ Busy chasing dreams? These resources will help you get there faster.
 
 Check out our **playlist** for a collection of short videos/podcasts to inspire you in exploring possible careers for your future. 
 
-Check our **learning package** to get a glimpse into what it takes to achieve your aspirations with these articles and activities.
+Check out our **learning package** to get a glimpse into what it takes to achieve your aspirations with these articles and activities.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
