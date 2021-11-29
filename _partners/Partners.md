@@ -26,7 +26,6 @@ Check out the schedule below, and look out for more programmes to be introduced 
 In this webinar, you will learn how to discover the number of potential customers that are searching for your products and services on Google and is it worth the effort or money to get your website rank on the top 5 of Google Search?
 <br>
 This programme is suitable for Adults. <br>
-<br>
 </td>
   <td>15 Dec, 7pm - 8pm </td>
   <td>Zoom</td>
