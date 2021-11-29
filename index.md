@@ -45,4 +45,12 @@ sections:
       url: /digital/overview
       image: /images/digital/learnx-digital-landing-kv-1.jpg
       alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: LearnX Careers
+      description: Infopic description
+      button: Learn More
+      url: /careers/overview
+      image: /images/career/learnx-careers-landing-kv-1.jpg
+      alt: LearnX Careers
 ---
