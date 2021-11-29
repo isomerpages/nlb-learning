@@ -66,15 +66,15 @@ sections:
       image: /images/home/logo-nyp-white.png
       alt: NYP
   - infobar:
-      title: Nanyang Polytechnic
-      subtitle: Partners
-      description: "NLB and Nanyang Polytechnic (NYP) are co-developing the learning
-        focus areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
-        Science and Reading. "
-  - infobar:
       title: LAB25 Title
       subtitle: LAB25 Subtitle
       description: LAB25 description
       button: Click Here
       url: https://www.nlb.gov.sg/WhoWeAre/AboutUs/AboutLAB25.aspx
+  - infobar:
+      title: Nanyang Polytechnic
+      subtitle: Partners
+      description: "NLB and Nanyang Polytechnic (NYP) are co-developing the learning
+        focus areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
+        Science and Reading. "
 ---
