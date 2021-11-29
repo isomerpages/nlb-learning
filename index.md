@@ -60,8 +60,8 @@ sections:
   - infopic:
       title: Nanyang Polytechnic
       subtitle: Partners
-      description: "NLB and Nanyang Polytechnic (NYP) are co-developing the learning
-        focus areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
+      description: "NLB and Nanyang Polytechnic are co-developing the learning focus
+        areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
         Science and Reading. "
       image: /images/home/logo-nyp-white.png
       alt: NYP
@@ -74,7 +74,7 @@ sections:
   - infobar:
       title: Nanyang Polytechnic
       subtitle: Partners
-      description: "NLB and Nanyang Polytechnic (NYP) are co-developing the learning
-        focus areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
+      description: "NLB and Nanyang Polytechnic are co-developing the learning focus
+        areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
         Science and Reading. "
 ---
