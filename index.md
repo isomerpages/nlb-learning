@@ -21,25 +21,33 @@ sections:
           description: 30 Characters Here
           url: /sustainability/overview
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
+      title: LearnX Digital Title
+      subtitle: LearnX Digital
+      description: LearnX Digital description
       button: Learn More
       url: /digital/overview
       image: /images/digital/learnx-digital-landing-kv-1.jpg
       alt: Image alt text
-  - infobar:
-      title: Learning is a lot more fun when you have like-minded peo...
-      button: Explore Communities
-      url: /communities/what-is-a-learnx-community
   - infopic:
-      title: Infopic Title
+      title: LearnX Careers Title
       subtitle: LearnX Careers
-      description: Infopic description
+      description: LearnX Careers description
       button: Learn More
       url: /careers/overview
       image: /images/career/learnx-careers-landing-kv-1.jpg
       alt: LearnX Careers
+  - infopic:
+      title: LearnX Sustainability Title
+      subtitle: LearnX Sustainability
+      description: LearnX Sustainability description
+      button: Learn More
+      url: /sustainability/overview
+      image: /images/sustainability/learnx-sustainability-landing-kv-1.jpg
+      alt: LearnX Sustainability
+  - infobar:
+      title: Learning is a lot more fun when you have like-minded peo...
+      button: Explore Communities
+      url: /communities/what-is-a-learnx-community
   - infopic:
       title: LAB25
       description: 160 Characters
@@ -53,12 +61,4 @@ sections:
       description: 160 Characters
       image: /images/home/logo-nyp-white.png
       alt: NYP
-  - infopic:
-      title: Infopic Title
-      subtitle: LearnX Sustainability
-      description: Infopic description
-      button: Learn More
-      url: /sustainability/overview
-      image: /images/sustainability/learnx-sustainability-landing-kv-1.jpg
-      alt: LearnX Sustainability
 ---
