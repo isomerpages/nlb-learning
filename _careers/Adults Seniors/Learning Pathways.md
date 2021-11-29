@@ -260,7 +260,7 @@ SkillsFuture credits</b></a></td>
         <td style="width: 20%;"><a href="http://go.gov.sg/get-professional-series" target="_blank"><b>Getting Things Done</b></a></td>
         <td style="width: 40%;">By David Allen, creator of the popular GTD productivity method
 Learn any workplace skill with online courses from LinkedIn Learning for Library.</td>
-        <td style="width: 20%;">TBC <br></td>
+        <td style="width: 20%;">TBC</td>
         <td style="width: 20%;">TBC</td>
       </tr>
 <tr>
