@@ -40,15 +40,15 @@ Check out the schedule below, and look out for more programmes to be introduced 
 
 
 </style>
+<br>
 
-<h4 id="Digital">Digital</h4>
-<hr>
 	
 <table>
 </table><table width="100%" cellspacing="15" cellpadding="15" border="0">
 
-
-
+<h5 id="Digital">Digital</h5>
+<hr>
+	
   <tbody><tr><td><strong><a href="https://www.eventbrite.sg/e/why-seo-is-vital-for-your-business-growth-future-of-work-registration-206950272837?aff=ebdssbonlinesearch">Why SEO is vital for your business growth | Future of Work</a></strong></td>
   <td>It is not surprising that the use of the internet has increased exponentially during this period. It is estimated Google processes approximately 63,000 search queries every second, translating to 5.6 billion searches per day and approximately 2 trillion global searches per year. The average person conducts between three and four searches each day. (Hubspot), search engine optimisation (SEO) is more important than ever for businesses, especially for our local SMEs.
 In this webinar, you will learn how to discover the number of potential customers that are searching for your products and services on Google and is it worth the effort or money to get your website rank on the top 5 of Google Search?
@@ -96,7 +96,7 @@ Learn how to create unique content through storytelling and incorporate subtle c
 <table>
 </table><table width="100%" cellspacing="15" cellpadding="15" border="0">
 
-<h4 id="Careers">Careers</h4>
+<h5 id="Careers">Careers</h5>
 <hr>
 
 <tr>
