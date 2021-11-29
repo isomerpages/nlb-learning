@@ -60,7 +60,7 @@ Click [here](http://www.eyeonasia.gov.sg/) to visit the website.
 # **Business Information Literacy**
 
 ## **Effective Ways to Gather Market Intelligence**
-![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-04.png)
+![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Biz%20IL%20image.jpg)
 
 Learn the ropes of conducting online research on business and market-related information. We will introduce a range of useful and credible resources to help you build your knowledge about the various industry sectors and improve your business planning with clear research strategies. 
 
