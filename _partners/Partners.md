@@ -47,8 +47,8 @@ Check out the schedule below, and look out for more programmes to be introduced 
 	
  <colgroup>
        <col span="1" style="width: 20%;">
-       <col span="1" style="width: 50%;">
-       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 55%;">
+       <col span="1" style="width: 10%;">
        <col span="1" style="width: 15%;">
     </colgroup>
 	
@@ -104,8 +104,8 @@ Learn how to create unique content through storytelling and incorporate subtle c
 	
  <colgroup>
        <col span="1" style="width: 20%;">
-       <col span="1" style="width: 50%;">
-       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 55%;">
+       <col span="1" style="width: 10%;">
        <col span="1" style="width: 15%;">
     </colgroup>
 	
@@ -116,8 +116,7 @@ Learn how to create unique content through storytelling and incorporate subtle c
 <td>Get an intimate look into the daily lives of different professionals in this new series and get inspired to explore possible careers of your future. 
 <br><br>
 In this session, join Mr Aaron Lim, Lecturer from Nanyang Polytechnic’s School of Design &amp; Media, in an interactive live demonstration creating fantasy game concept arts as well as a sharing of his journey in the fantasy gaming industry.
-<br><br>About the Speaker:
-Aaron Lim started gaming since the 1980s, when he was 5 years old. He is a passionate artist who loves to design Fantasy Worlds. He pursued a career in the game industry in Japan (Koei Tecmo) and Taiwan (Soft-world) from 2003 to 2015 as a game artist. He has been making AAA Massively Multiplayer Online Role-Playing Games (AAA MMORPGs) for more than a decade and started his own VR game company in 2016. He later developed the Train to Busan VR experience with Vividthree. Currently, he is teaching Digital Game Art Diploma in Nanyang Polytechnic.
+<br><br>About the Speaker:Aaron Lim started gaming since the 1980s, when he was 5 years old. He is a passionate artist who loves to design Fantasy Worlds. He pursued a career in the game industry in Japan (Koei Tecmo) and Taiwan (Soft-world) from 2003 to 2015 as a game artist. He has been making AAA Massively Multiplayer Online Role-Playing Games (AAA MMORPGs) for more than a decade and started his own VR game company in 2016. He later developed the Train to Busan VR experience with Vividthree. Currently, he is teaching Digital Game Art Diploma in Nanyang Polytechnic.
 <br><br>This programme is suitable for Teens.
 </td>
 <td>18 Dec, 2pm - 3.30pm</td>
