@@ -81,11 +81,11 @@ If you aren’t quite sure what goes into formal emails, we’re here to help yo
 
 **Here are a few more resources from the library to help you write better:**
 
-<h5 class="margin--bottom--lg"><b>Teen Things: Emailing 101</b></h5>
+<h5 class="margin--bottom--lg"><b>100 Ways to Improve Your Writing</b></h5>
 
 <div class="row is-multiline">
   <div class="col is-half">
-    <img src="/images/career/teens/cover-teen-things-1.jpg" alt="Teen Things: Emailing 101">
+    <img src="/images/career/teens/cover-teen-things-1.jpg" alt="100 Ways to Improve Your Writing">
   </div>
 </div>
 
