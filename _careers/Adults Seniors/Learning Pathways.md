@@ -122,7 +122,7 @@ SkillsFuture credits</b></a></td>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h3><b>Launch your Own Business</b></h3>
+<h3 id="launch-your-own-business" class="margin--bottom--lg"><b>Launch your Own Business</b></h3>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
