@@ -41,11 +41,13 @@ Check out the schedule below, and look out for more programmes to be introduced 
 
 </style>
 
+<h4 id="Digital">Digital</h4>
+<hr>
+	
 <table>
 </table><table width="100%" cellspacing="15" cellpadding="15" border="0">
 
-<h4 id="Digital">Digital</h4>
-<hr>
+
 
   <tbody><tr><td><strong><a href="https://www.eventbrite.sg/e/why-seo-is-vital-for-your-business-growth-future-of-work-registration-206950272837?aff=ebdssbonlinesearch">Why SEO is vital for your business growth | Future of Work</a></strong></td>
   <td>It is not surprising that the use of the internet has increased exponentially during this period. It is estimated Google processes approximately 63,000 search queries every second, translating to 5.6 billion searches per day and approximately 2 trillion global searches per year. The average person conducts between three and four searches each day. (Hubspot), search engine optimisation (SEO) is more important than ever for businesses, especially for our local SMEs.
