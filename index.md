@@ -40,14 +40,14 @@ sections:
       alt: LearnX Careers
   - infopic:
       title: LearnX Sustainability
-      description: If you’ve been toying with the idea of living sustainably but
-        don’t know where to start, you’ve come to the right place. 
+      description: If you’ve been toying with the idea of living sustainably but don’t
+        know where to start, you’ve come to the right place. 
       button: Start Learn
       url: /sustainability/overview
       image: /images/sustainability/learnx-sustainability-landing-kv-1.jpg
       alt: LearnX Sustainability
   - infobar:
-      title: "Find a group of like-minded people to learn with."
+      title: Find a group of like-minded people to learn with.
       button: Explore Communities
       url: /communities/what-is-a-learnx-community
   - infopic:
@@ -60,9 +60,9 @@ sections:
   - infopic:
       title: Nanyang Polytechnic
       subtitle: Partners
-      description: "NLB and Nanyang Polytechnic are co-developing the learning focus
-        areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
-        Science and Reading. "
+      description: NLB and Nanyang Polytechnic (NYP) are co-developing the learning
+        focus areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
+        Science and Reading.
       image: /images/home/logo-nyp-white.png
       alt: NYP
   - infobar:
@@ -74,7 +74,7 @@ sections:
   - infobar:
       title: Nanyang Polytechnic
       subtitle: Partners
-      description: "NLB and Nanyang Polytechnic are co-developing the learning focus
-        areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
-        Science and Reading. "
+      description: NLB and Nanyang Polytechnic (NYP) are co-developing the learning
+        focus areas—Digital, Careers, Sustainability, Arts, Singapore, Wellness,
+        Science and Reading.
 ---
