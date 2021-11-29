@@ -6,50 +6,16 @@ description: ""
 ---
 <style type="text/css">
 /* Indigo Sky */
-.clickbox {
-  display: block;
-  position: relative;
-  width: 100%;
-  padding-bottom: 56.25%;
-  background-color: transparent;
-}
-
-.clickbox span {
-    padding: .5rem;
-}
-
-.clickbox a {
-  position: absolute;
-  display: flex;
-  width: 100%;
-  height: 100%;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.25rem;
-  text-align: center;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
 .clickbox a:focus,
-.clickbox a:hover {
-  text-decoration: none;
-}
+.clickbox a:hover { text-decoration: none; }
 
-.clickbox.is-sky-indigo {
-  background-color: #cff2e8;
-  color: #322987;
-}
-
-.clickbox.is-sky-indigo a {
-  color: #322987;
-}  
-
+.clickbox.is-sky-indigo { background-color: #cff2e8; color: #322987; }
+.clickbox.is-sky-indigo a { color: #322987; }
 .clickbox.is-sky-indigo a:focus,
-.clickbox.is-sky-indigo a:hover {
-  background-color: #322987;
-  color: #cff2e8;
-}
+.clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
 </style>
 ![LearnX Digital](/images/digital/learnx-digital-landing-kv-1.jpg)
 
