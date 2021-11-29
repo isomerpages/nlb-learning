@@ -66,7 +66,6 @@ Check out our **learning packages** for articles that will give you an insight i
     </div>
   </div>
 <br>
-<div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
       <a href="#playlist-wellness">
