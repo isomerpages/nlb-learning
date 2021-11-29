@@ -96,7 +96,7 @@ Suitable for aged 50 and above.</td>
         <td>Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. <br><br>
 Suitable for participants aged 15 years and above. </td>
         <td>27 Dec 2021, <br>4pm - 5pm</td>
-        <td>TBC</td>
+        <td>Choa Chu Kang Public Library, <br>Programme Room 1 & 2</td>
       </tr>
     </tbody>
   </table>
