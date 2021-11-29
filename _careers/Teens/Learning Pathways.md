@@ -84,13 +84,13 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="http://go.gov.sg/nlb-teensprogs" target="_blank"><b>LearnX Digital</b><br>Mobile Phone Videography Workshop | digi.lit | Teens Takeover</a></td>
+        <td style="width: 20%;"><a href="http://go.gov.sg/nlb-teensprogs" target="_blank"><b>LearnX Digital<br>Mobile Phone Videography Workshop | digi.lit | Teens Takeover</b></a></td>
         <td style="width: 40%;">Whether you’re looking to be the next TikTok star or just want to impress your family and friends, this online workshop will teach you how to shoot and edit videos to take your social media content to the next level.</td>
         <td style="width: 20%;">15 Dec 2021,<br>3pm - 4pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><a href="http://go.gov.sg/nlb-teensprogs" target="_blank"><b>LearnX Sustainability</b><br>Teens Takeover - Urban Farming Workshop | GREENHOUSE</a></td>
+        <td><a href="http://go.gov.sg/nlb-teensprogs" target="_blank"><b>LearnX Sustainability<br>Teens Takeover - Urban Farming Workshop | GREENHOUSEl</b</a></td>
         <td>Learn all about growing some greens in a concrete jungle in this hour-long workshop on urban farming.</td>
         <td>22 Nov 2021,<br>4pm - 5pm</td>
         <td>Chua Chu Kang Public Library<br>Programme Room 1</td>
