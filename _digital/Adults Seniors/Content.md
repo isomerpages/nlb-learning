@@ -4,6 +4,7 @@ permalink: /digital/adults-seniors/content
 description: ""
 third_nav_title: Adults & Seniors
 ---
+In a hurry? Check out these videos, articles and programmes for a quick lesson on digital trends and technology.
 
 
 <!-- Navigation boxes - Playlists -->
