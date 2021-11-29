@@ -6,6 +6,8 @@ third_nav_title: Join a LearnX Community
 ---
 ### **Wellness Communities**
 
+Health is wealth! Join a community committed to protecting and growing life’s most precious resource together, so you not only have more days in your life, but more life in your days. 
+
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
     <img src="/images/learning-communities/wellness/LC-Wellness-CommunitiesTravel-01.jpg" alt="Communities: Travel & Culture Explorers">
