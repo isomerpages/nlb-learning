@@ -35,9 +35,6 @@ Check out the schedule below, and look out for more programmes to be introduced 
 </div>
 
 
-<hr>
-
-
  
   <style type="text/css">
 
@@ -45,6 +42,7 @@ Check out the schedule below, and look out for more programmes to be introduced 
 </style>
 <br>
 
+---
 	
 <table>
 </table><table width="100%" cellspacing="15" cellpadding="15" border="0">
