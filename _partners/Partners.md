@@ -90,7 +90,7 @@ Learn how to create unique content through storytelling and incorporate subtle c
   
 
 </tbody></table>
-
+<hr>
 <!-- table 2 code here -->
 
 <table>
