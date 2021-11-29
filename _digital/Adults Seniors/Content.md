@@ -4,9 +4,86 @@ permalink: /digital/adults-seniors/content
 description: ""
 third_nav_title: Adults & Seniors
 ---
+
+
+<!-- Navigation boxes - Playlists -->
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#playlist-smartphone">
+        <span>Playlist: <br>Using Smartphones</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#playlist-socmed">
+        <span>Playlist: <br>Social Media</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#playlist-create">
+        <span>Playlist: <br>Digital Creations</span>
+      </a>
+    </div>
+  </div>
+<br>
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#playlist-wellness">
+        <span>Playlist: <br> Cyber Wellness</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#playlist-crime">
+        <span>Playlist: <br>Cybercrime</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#playlist-think">
+        <span>Playlist: <br>Design Thinking</span>
+      </a>
+    </div>
+  </div>
+<br>
+<!-- Navigation boxes – Learning Packages -->
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#lp-smartphone">
+        <span>Learning Package: <br>Using Smartphones</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#lp-socmed">
+    <span>Learning Package: <br>Social Media</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#lp-create">
+    <span>Learning Package: <br>Digital Creation</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
+<h2>Playlists</h2>
 In a hurry? Check out these videos, articles and programmes for a quick lesson on digital trends and technology.
 
-<h3><b>Playlist: Using Your Smartphone</b></h3>
+<!-- Playlist: Using Your Smartphone -->
+<h3 id=”playlist-smartphone”>Playlist: Using Your Smartphone</h3>
 
 There are many useful and fun things you can do with your smartphone today. With its ability to access the Internet, a smartphone can do more than make a phone call or send a text message. Depending on your needs and interests, you can use a smartphone to look up information, play games, watch videos and even buy groceries. Today, a smartphone has become an important tool that provides its users with both convenience and ease, wherever you go!
 If you would like to find out more about what a smartphone can do for you in your everyday life, some resources have been compiled here. 
@@ -51,8 +128,8 @@ Watch how one Singaporean goes around the island performing his day-to-day activ
     <small>Source: IMDA Digital Pods -Youtube (2021, Oct 10). Retrieved 2021, October 20.</small>
   </div>
 </div>
-
-<h3><b>Playlist: Social Media</b></h3>
+<!-- Playlist: Social Media -->
+<h3 id=”playlist-socmed”>Playlist: Social Media</h3>
 
 Social media has changed the way and the speed with which we can interact and exchange information with others. In essence, social media are online communication tools that allow you to publish and share information. You can use a social media platform to connect with friends and family, catch up on news and to watch videos. Some popular examples include Facebook, Instagram or YouTube. More than just for personal use, social media can also be used by businesses to market their products and services and connect to their consumers.
 
@@ -100,7 +177,9 @@ src="https://www.youtube.com/embed/zomo9OKXW6I"></iframe>
   </div>
 </div>
 
-<h3><b>Playlist: Digital Creations</b></h3>
+<!-- Playlist: Digital Creations -->
+
+<h3 id=”playlist-create”>Playlist: Digital Creations</h3>
 
 What is digital creation? To put it simply, digital creation is the process of creating a work, a product or a tool using digital technology. Digital creation can range from simple actions like snapping a photo with your phone or writing a blog post, to more advanced ones like creating digital art and engaging in digital making such as 3D printing and digital cutting. 
 
@@ -149,8 +228,9 @@ src="https://www.youtube.com/embed/llNNrrDZZdE"></iframe>
   </div>
 </div>
 
+<!-- Playlist: Cyber Wellness -->
 
-<h3><b>Playlist: Cyber wellness is just a click away!</b></h3>
+<h3 id=”playlist-wellness”>Playlist: Cyber wellness is just a click away!</h3>
 
 In a world heavily reliant on technology, issues such as digital burnout, social isolation and cyberbullying can be daunting. 
 
@@ -189,8 +269,9 @@ Learn how you can reclaim positive online experiences and improve your relations
 <p>Explore the concept of digital wellbeing, how the COVID-19 pandemic has altered our digital lives, and what constitutes intentional and considerate usage of technology.</p>
 <small> Source: A World of Wellbeing Podcast: Digital Wellbeing (2021, April 19). Global Wellbeing Podcast. Retrieved 2021, October 12.</small>
 
+<!-- Playlist: Cybercrime -->
 
-<h3><b>Playlist: Uncovering the Secrets of Cybercrime</b></h3>
+<h3 id=”playlist-crime”>Playlist: Uncovering the Secrets of Cybercrime</h3>
 
 Interested to find out more about cybercrime and the domain in which it lurks? Watch these videos to discover the various forms of cyberattacks, the truth about the dark web, and what you can do in the event of online identity theft!
 
@@ -227,8 +308,9 @@ Find out what exactly is cybercrime and the different forms it can take in our w
 
 <p>Ever wondered what would happen if someone wanted to steal your Instagram account? Join host Jack Rhysider in uncovering the possible motivations behind this form of online identify theft, and find out what to do if it were to occur.</p>
 <small> Source: Ep 97: The Pizza Problem (2021, July 21). Darknet Diaries. Retrieved 2021, October 12.</small>
+<!-- Playlist: Design Thinking -->
 
-<h3><b>Playlist: Think Like A Designer</b></h3>
+<h3 id=”playlist-think”>Playlist: Think Like A Designer</h3>
 
 Good design, as the saying goes, is invisible – it brings you greater convenience and simple satisfaction with no questions or complaints. 
 
@@ -267,15 +349,14 @@ Catch a glimpse of how Design Thinking has human interest and wellbeing at its c
 <p>Uncover the significance of Design Thinking in innovation, and understand why this iterative process is important problem-solving.</p>
 <small> Source: Design Thinking - Does it Matter? (2021, September 28). The Helpful Human Podcast. Retrieved 2021, October 12.</small>
 
+<!—Start: Learning Packages -->
 
-<h5><b>LEARNING PATHWAYS</b></h5>
-
+<h2>Learning Packages</h2>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <img src="images/digital/adults/cyberwellness/Digital-Prog-AS-A-Cyberwellness-01.png" alt="cover image">
-
-<h1>Learning Package: Cyber Wellness</h1>
-<h2>Introduction</h2>
+<!--Learning Package: Cyber Wellness-->
+<h3 id="lp-wellness">Learning Package: Cyber Wellness</h3>
 <p>Since technology has become a mainstay, we have become increasingly reliant on our digital devices and the internet to make the world go round. While technology does have its benefits and advantages, the prevalence of issues stemming from an unhealthy usage of technology, such as digital burnout, social isolation and cyberbullying, begs us to constantly evaluate our relationship with it.
 </p>
 <p>Cyber wellness, which can be defined as the positive well-being of users in cyberspace, is key in this day and age. Not only does it help ensure a healthy relationship with technology, it also has a positive impact on communities by helping to nurture good digital citizens who are mindful of their online presence and observe proper netiquette.</p>
@@ -354,8 +435,8 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <img src="/images/digital/adults/cybercrime/Digital-Prog-AS-A-Cybercrime-01.png" alt="cover image">
 
-<h1>Learning Package: Cybercrime</h1>
-<h2>Introduction</h2>
+<!--Learning Package: Cybercrime-->
+<h3 id="lp-crime">Learning Package: Cybercrime</h3>
 <p>Cybercrime, referring to illegal activities conducted through the use of computers or the internet, has become more and more prevalent in the digital age we live in. Given how easy it is for important information to be compromised online, data protection and privacy are more important now than ever before. With the ongoing spread of malicious software and scammers constantly on the prowl, it is our responsibility to stay alert and make sure that we do not become unknowing victims to cybercrime.</p>
 <p>Learn more about cybercrime and how you can reduce your chances of falling victim to it by checking out the resources we have compiled for you below!</p>
 <table border="1">
@@ -428,10 +509,10 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 </ol>
 
 ---
-
+<!--Learning Package: Design Thinking-->
 <img src="/images/digital/adults/designthinking/Digital-Prog-AS-A-Designthinking-01.png" alt="cover image">
 
-<h1>Learning Package: Design Thinking</h1>
+<h3 id="lp-think">Learning Package: Design Thinking</h3>
 <h2>Introduction</h2>
 <p>From the computer mouse to the smart phone, many technologies that are part and parcel of our day-to-day have come about because of Design Thinking, an iterative process that aims to understand users’ needs and come up with effective solutions to the problems they face. A deeply empathetic approach focused on prototyping and testing, Design Thinking is a tool in creative problem-solving that is not only useful in the industry, but also in our everyday lives. 
 </p><p>To unpack this concept of Design Thinking and understand how it is deeply embedded in our world today, check out the following resources that we have curated just for you!</p>
@@ -500,9 +581,9 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-	
-<h1>Learning Package: Digital Creation</h1>
-<h2>Introduction</h2>
+
+<!--Learning Package: Digital Creation-->	
+<h3 id=”lp-create”>Learning Package: Digital Creation</h3>
 <p>What is digital creation? To put it simply, digital creation is the process of creating a work, a product or a tool using digital technology. Digital creation can range from simple actions like snapping a photo with your phone or writing a blog post, to more advanced ones like creating digital art and engaging in digital making such as 3D printing and digital cutting.
 To help you understand and learn more about digital creations, do check out the resources that we have compiled here.
 <table border="1">
@@ -573,8 +654,9 @@ The Video Creators Club – Suitable for beginners interested in nurturing their
 <br>
 10) <a id="footnote-ten">Artist Beeple’s digital work sells for record $93 million</a>. <i> The Straits Times</i>. Retrieved 2021, March 12 from <a href="https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million">https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million</a>
 
-<h1>Learning Package: Social Media</h1>
-<h2>Introduction</h2>
+<!--Learning Package: Social Media-->
+
+<h3 id=”lp-socmed”>Learning Package: Social Media</h3>
 <p>Social media has changed the way and the speed with which we can interact and exchange information with others. In essence, social media are online communication tools that allow you to publish and share information. You can use a social media platform to connect with friends and family, catch up on news and to watch videos. Some popular examples include Facebook, Instagram or YouTube. More than just for personal use, social media can also be used by businesses to market their products and services and connect to their consumers. 
 Learn more about how to use the various popular social media platforms and find out basic tips on how to protect yourself when using social media.</p>
 <table border="1">
@@ -654,9 +736,8 @@ Kristen Meinzer (2019), <i>So You Want to Start a Podcast: Finding Your Voice, T
 <br>
 12) <a id="footnote-twelve">Daily Time Spent with Media. Half a Billion Users joined Social in the Last Year (and other facts)</a> <i>Hootsuite</i>. Retrieved 2021, October 19 from <a href="https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png">https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png</a>
 
-
-<h1>Learning Package: Using Your Smartphone</h1>
-<h2>Introduction</h2>
+<!--Learning Package: Using Your Smartphone -->
+<h3 id=”lp-smartphone”>Learning Package: Using Your Smartphone</h3>
 <p>There are many useful and fun things you can do with your smartphone today. With its ability to access the Internet, a smartphone can do more than make a phone call or send a text message. Depending on your needs and interests, you can use a smartphone to look up information, play games, watch videos and even buy groceries. Today, a smartphone has become an important tool that provides its users with both convenience and ease, wherever you go!</p>
 <p>If you would like to find out more about what a smartphone can do for you in your everyday life, some resources have been compiled here.</p>
 <table border="1">
