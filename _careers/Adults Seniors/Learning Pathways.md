@@ -6,7 +6,7 @@ third_nav_title: Adults & Seniors
 ---
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-We start with Powering Up Your Job Search, Helping you Launch Your Own Business and finally, Accelerating Your Career and Improve Work-Life Balance.
+We start with Powering Up Your Job Search, helping you <a href="#launch-your-own-business">Launch Your Own Business</a> and finally, <a href="#work-life-balance">Accelerating Your Career and Improve Work-Life Balance.
 
 <h3><b>Power Up Your Job Search</b></h3>
 When it comes to a fulfilling career, there’s no one-size-fits-all answer for everyone. Maybe you need to polish your soft skills or perhaps you’re keen to see what career options are out there. Through this pathway you can explore different resources and get on a professional path that’s right for you. 
