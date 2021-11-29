@@ -43,7 +43,7 @@ sections:
         Singapore.
       button: Learn More
       url: https://www.nlb.gov.sg/WhoWeAre/AboutUs/AboutLAB25.aspx
-      image: /images/home/logo-lab25-colour-halfsize.png
+      image: /images/home/home-logo-lab25.png
       alt: LAB25
   - infopic:
       title: Partners
