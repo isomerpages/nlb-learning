@@ -137,7 +137,7 @@ Suitable for participants aged 15 years and above. </td>
       <tr>
         <td style="width: 20%;"><a href="https://codesg.imda.gov.sg/in-community/makeit-at-libraries/" target="_blank"><b>LearnX Digital</b><br>MakeIT</a></td>
         <td style="width: 40%;">MakeIT aims to introduce Making and Innovayion to the general public by way of areas, including Making with upcycling in mind.Topics available include repair and home-hacks and lofi prototyping<br></td>
-        <td style="width: 20%;">TBC</td>
+        <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
   </tbody>
