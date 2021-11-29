@@ -42,14 +42,14 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="http://go.gov.sg/nlb-teensprogs" target="_blank"><b>CCKPL: Teens Takeover – A Day In The Life Of | portfolio</b></a></td>
-        <td style="width: 40%;">Get inspired by the daily experiences of different professionals in this workshop held in collaboration with Nanyang Polytechnic.</td>
+        <td style="width: 20%;"><a href="http://go.gov.sg/nlb-teensprogs" target="_blank"><b>CCKPL: Teens Takeover – A Day In The Life Of Game Artist| portfolio</b></a></td>
+        <td style="width: 40%;">Get an intimate look into the daily lives of different professionals in this new series and get inspired to explore possible careers of your future.</td>
         <td style="width: 20%;">18 Dec 2021,<br>2pm - 3.30pm</td>
         <td style="width: 20%;">Chua Chu Kang Public Library<br>Programme Room 1</td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank"><b>[Industry Insights series] A Career in the Green Economy</b></a></td>
-        <td>Explore the ins and outs of a career in the green economy - the joys, the challenges and the forces that drive it.</td>
+        <td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>[Industry Insights series] A Career in the Green Energy</b></a></td>
+        <td>Explore the ins and outs of a career in the green energy - the joys, the challenges and the forces that drive it.</td>
         <td>30 Dec 2021<br> 7pm -9pm</td>
         <td>Zoom</td>
       </tr>
