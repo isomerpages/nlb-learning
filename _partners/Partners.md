@@ -18,7 +18,7 @@ Check out the schedule below, and look out for more programmes to be introduced 
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
-			<a href="#Digital"></a>
+			<a href="#Digital">
         <span>Digital</span>
       </a>
     </div>
