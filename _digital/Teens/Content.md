@@ -150,7 +150,7 @@ Synopsis from [Chronicle Books](https://www.chroniclebooks.com/).
 
 
 <a href="https://nlb.overdrive.com/media/3139937"><img src="images/digital/teens/tt-gd-book2.png" alt="Graphic Design for Everyone book cover." style="width: 30%;"></a><br>
-#### **Graphic Design is My Passion**<br>
+#### **Graphic Design is for Everyone**<br>
 Author: Cath Caldwell<br>
 Call No.: English 741.6 GRA -[ART]<br>
 Publisher: DK Publishing, 2019<br>
