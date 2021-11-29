@@ -171,7 +171,7 @@ SkillsFuture credits</b></a></td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b>An Artificially Intelligent Business</b></a></td>
+        <td style="width: 20%;"><b>An Artificially Intelligent Business</b></td>
         <td style="width: 40%;">Breakthrough Series with <br>Sinuhe Arroyo, Founder of Taiger <br>Asheeh Mehra, Co-founder of AntWorks<br> Joel Bar-El, Founder of Trax Retail</td>
         <td style="width: 20%;"> 20 Jan 2022<br>7pm - 8pm</td>
         <td style="width: 20%;">Zoom</td>
@@ -189,13 +189,13 @@ SkillsFuture credits</b></a></td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b>Engage Customers through Social Media</b></a></td>
+        <td style="width: 20%;"><b>Engage Customers through Social Media</b></td>
         <td style="width: 40%;">A webinar by NYP</td>
         <td style="width: 20%;">6 Jan 2022, ,<br> 7pm – 8.30pm <br></td>
         <td style="width: 20%;">TBC</td>
       </tr>
 <tr>
-        <td><b>Innovation and Value Proposition</b></a></td>
+        <td><b>Innovation and Value Proposition</b></td>
         <td>A workshop for aspiring entreprenuers.</td>
         <td>20 Jan 2022</td>
         <td>TBC</td>
@@ -285,7 +285,6 @@ SkillsFuture credits</b></a></td>
   <table class="generic-table">
     <thead>
       <tr>
-<td>
         <th colspan="4" class="is-uppercase has-weight-normal">Go Beyond Career To Explore Related Topics</th>
       </tr>
     </thead>
