@@ -50,7 +50,7 @@ Taking care of the environment starts with YOU!
       <tr>
         <td><a href="https://www.eventbrite.sg/e/cckpl-urban-farming-series-tickets-170400171500?aff=ebdsoporgprofile" target="_blank"><b> CCKPL: Tweenkerama - Urban Farming Workshop | Sustainability</b></a></td>
         <td> Learn all about urban farming at this hour-long workshop!</td>
-        <td>24 Jan 2022, 4pm – 5pm</td>
+        <td>5 Dec 2021, 11am – 12pm</td>
         <td>Choa Chu Kang Public Library </td>
       </tr>
 			 <tr>
