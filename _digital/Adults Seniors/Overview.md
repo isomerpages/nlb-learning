@@ -6,7 +6,7 @@ third_nav_title: Adults & Seniors
 ---
 Whether you’re a student, a hobbyist, in the workforce, or a retiree, learn more about current and emerging digital skills and trends with NLB. 
 
-We understand that learning about new technology can be an unfamiliar adventure. That’s why we have curated a wide range of programmes and services that can help you take that first step. No expertise.
+We understand that learning about new technology can be an unfamiliar adventure. That’s why we have curated a wide range of programmes and services that can help you take that first step. 
 
 <div class="row is-multiline">
   <div class="col is-one-third">
