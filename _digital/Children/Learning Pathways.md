@@ -24,7 +24,7 @@ Learn how to keep yourself safe online as you explore all the information availa
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="/digital/children/content"><b>Stay Curious with Your Child: Unplugged Coding Ideas for Kids</b></a></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child"><b>Stay Curious with Your Child: Unplugged Coding Ideas for Kids</b></a></td>
         <td>Basic elements which you can introduce during playtime to help them get comfortable with coding concepts without even using any digital devices!</td>
         <td> </td>
         <td> </td>
@@ -81,7 +81,7 @@ Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank">Public
         <td style="width: 20%;">Facebook</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>Storytime: My Favourite Days </b></a></td>
+<td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/primary-main#storytime" target="_blank"><b>Storytime: My Favourite Days </b></a></td>
         <td>My Favourite Days – an Augmented Reality (AR) storybook is a collaborative project by TOUCH Community Services, Facebook, MeshMinds and the Smart Nation and Digital Government Office.<br><br>
 The story conveys a heart-warming interaction between a little girl and her grandpa through a journey of self-discovery. Young readers will get to stretch their imagination on the future career possibilities offered by technology and be inspired by a future where technology improves lives and opens up fresh opportunities in our work that we would not have imagined!</td>
         <td>25 Dec 2021</td>
