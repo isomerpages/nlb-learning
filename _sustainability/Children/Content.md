@@ -8,7 +8,7 @@ Use these resources to introduce your child to sustainability and caring for the
 ### **Learning Package**
 Articles that show us interesting ways to live sustainably.
 
-### **Gardening for Kids | Stay Curious with Your Child (coming in Dec 2021)**
+### **Gardening for Kids | Stay Curious with Your Child**
 
 Children and parents can bond over this Stay Curious with Your Child activity on gardening, accompanied by recommended reads.
 
