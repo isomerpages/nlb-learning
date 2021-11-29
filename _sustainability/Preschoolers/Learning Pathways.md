@@ -53,25 +53,25 @@ What can we do to protect the environment around us? Do you know the different t
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" target="_blank"><b>Let's Grow! Learn to be An Urban Farmer!</b></a></td>
-        <td style="width: 40%;">Do you know what you can grow in your own home? Learn all about urban farming in this story and hands on activity programme!</td>
-        <td style="width: 20%;">4 Dec 2021,<br>11.30am – 12.30pm</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library,<br>Programme Zone 1 &2</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Get Creative for Climate Change! [7 years and below]</b></a></td>
+        <td style="width: 40%;">Want to learn more about climate change and how we can care for our environment in fun, creative ways? Water Wally & Sally have partnered up with our friends at the National Library Board and The Art People to show you how we can do just that! During this 1-hour online session, we will share some book recommendations, and do some art and craft with recycled materials.</td>
+        <td style="width: 20%;">18 Dec 2021,<br>1.30pm – 2.30pm</td>
+        <td style="width: 20%;">TBC</td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank"><b>Animal Conservation Series: Horseshoe Crab Conservation by Republic Poly</b></a></td>
+        <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Horseshoe Crab Conservation by Republic Poly</b></a></td>
         <td> Learn all about the fascinating horseshoe crabs and their role in the environment!</td>
-        <td>19 Dec 2021<br>2pm-3pm</td>
+        <td>5 Dec 2021<br>11am - 11.45am<br><br>19 Dec 2021<br>2pm - 3pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>Animal Conservation Series: Birds In Singapore!</b></a></td>
+<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Birds In Singapore!</b></a></td>
         <td> Join us in this special storytelling and craft session where you will learn about our feathered friends in Singapore!</td>
         <td>Jan 2022</td>
         <td>TBC</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
+<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
         <td>Sea turtles are a bastion of the ocean ecology. Learn all about the amazing sea turtle in this special storytelling and craft session.</td>
         <td>Feb 2022</td>
         <td>TBC</td>
