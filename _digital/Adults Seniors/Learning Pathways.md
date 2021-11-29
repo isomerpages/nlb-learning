@@ -118,7 +118,7 @@ Technology is changing the way we live and work by making things more accessible
       </tr>
 <tr>
         <td><a href="https://go.gov.sg/poutline" target="_blank"><b>Chatbot LC</b></a></td>
-        <td>Are you interested in creating your very own Chatbot? Join our Chatbot-making challenge and meet like-minded folks in this new learning community. <br><br>
+        <td>Are you interested in creating your very own Chatbot? Join our Chatbot-making challenge and meet like-minded folks in this new LearnX Community. <br><br>
 In this four-week programme, participants will go through self-paced e-learning via a learning platform and have the opportunity to prototype a Smart Nation Chatbot. AI Experts will also be guiding and evaluating your Chatbots online. Please refer to https://go.gov.sg/poutline for a detailed programme outline.</td>
         <td>20 Nov-18 Dec 2021</td>
         <td>Telegram</td>
@@ -164,7 +164,7 @@ Learn to use your smartphone effectively and safely to have knowledge at your fi
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/adults-seniors/content"><b>Using Your Smartphone Learning Package and Play List</b></a></td>
+        <td style="width: 20%;"><a href="/digital/adults-seniors/content"><b>Using Your Smartphone Learning Package and Playlist</b></a></td>
         <td style="width: 40%;">Learn to use your smartphones effectively!</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
