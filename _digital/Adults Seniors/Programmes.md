@@ -57,14 +57,14 @@ Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singap
 
 
 ## **Sliver Digital Creators**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-06.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-Seniors_SDC_TBC.jpg)
 
 Who said seniors can’t be digital creators? Take your creativity and digital skills to the next level through photography, movie making, coding, music and more. Mix and match courses to create your perfect syllabus.
 
 Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest programme listings.
 
 ## **Sliver Infocomm Junction**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-02.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-Seniors_SIJ_TBC.jpg)
 
 The Silver Infocomm Junctions offer affordable customised courses for seniors, covering over 20 topics. Through these courses, seniors will be equipped with digital skills for daily activities, such as e-Payment, accessing government digital services and more. 
 
@@ -81,14 +81,14 @@ Join regular sessions with NLB’s IT savvy seniors who share their knowledge an
 Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest programme listings.
 
 ## **MakeIT x TOYL (Time of Your Life)**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-08.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-Seniors_makeITTOYL.jpg)
 
 MakeIT TOYL are project based sessions which aim to encourage and inspire the next batch of seniors to participate in Making. 
 
 Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest TOYL programme listings.
 
 ## **Tech Bazaar**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-09.png)
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-Seniors_Techbazaar.jpg)
 
 Tech Bazaars, leveraging on libraries to serve as Tech Experience Touchpoints, enable seniors to experience technology safely and conveniently, and understand how these technologies connect to their daily lives.
 
