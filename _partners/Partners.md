@@ -16,7 +16,7 @@ Check out the schedule below, and look out for more programmes to be introduced 
 
 <table>
 </table><br><br><br>
-			This programme is suitable for Teens. <br><table width="100%" cellspacing="" cellpadding="15" border="0">
+		<br><br>	This programme is suitable for Teens. <br><table border="0" cellpadding="15" cellspacing="" width="100%">
 
 
   <tbody><tr><td><strong><a href="https://www.eventbrite.sg/e/why-seo-is-vital-for-your-business-growth-future-of-work-registration-206950272837?aff=ebdssbonlinesearch">Why SEO is vital for your business growth | Future of Work</a></strong></td>
