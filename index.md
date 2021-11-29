@@ -38,7 +38,6 @@ sections:
       button: Explore Communities
       url: /communities/what-is-a-learnx-community
   - infopic:
-      title: LAB25
       description: LearnX is part of the National Library Board's Learning and
         Archives Blueprint 2025 (LAB25) plan to reimagine libraries in
         Singapore.
