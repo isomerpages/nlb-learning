@@ -81,7 +81,7 @@ Steven Cohen (2021), <i>The Sustainable City</i>, New York: The MIT Press.
 <p>
 <a href="https://nlb.overdrive.com/media/3294693" target="_blank"><img src="images/sustainability/adults-and-seniors/TheSustainableCity.jpg" style="width:300px; text-align:left;" alt="Book cover for The Sustainable City"></a>
 </p><p>Lost on how to embrace sustainability in an urban city? The Sustainable City synthesizes the disparate strands of sustainable city planning in an approachable and applicable guide that highlights how these issues touch our lives on a daily basis, whether the transportation we take, where our energy comes from, or what becomes of our food waste. Providing recommendations and insights with immediacy and relevance, this book has invaluable lessons for anyone seeking to link public policy to promoting a sustainable lifestyle.</p>
-<p><a href="https://nlb.overdrive.com/media/3294693">Borrow the eBook here</a>. </p>
+<p><a href="https://nlb.overdrive.com/media/3294693" target="_blank">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 	
 <h5>3. Tomorrow's economy: A guide to creating healthy green growth</h5>
