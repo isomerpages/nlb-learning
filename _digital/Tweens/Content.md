@@ -6,9 +6,9 @@ third_nav_title: Tweens
 ---
 <style type="text/css">
 /* Links */
-.content a { color: #322987 !important; }
+.content a { color: #322987; }
 .content a:focus,
-.content a:hover { color: #28216c !important; }
+.content a:hover { color: #28216c; }
 
 /* Button Outline */
 .bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
