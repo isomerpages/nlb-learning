@@ -6,8 +6,7 @@ third_nav_title: Join a LearnX Community
 ---
 ### **Reading Communities**
 
-(Insert Write-up)
-
+There’s a reader for every book, and a book for every reader. Browse our ‘library’ of book clubs and check out a reading community that’s right for you!
 
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
