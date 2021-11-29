@@ -16,7 +16,7 @@ sections:
       title: LearnX Digital
       description: "Keep up with changing digital trends and technology through
         easy-to-understand and accessible content. "
-      button: Start Learn
+      button: Start Learning
       url: /digital/overview
       image: /images/home/home-digital-kv.png
       alt: LearnX Digital
@@ -24,7 +24,7 @@ sections:
       title: LearnX Careers
       description: "Perfect for professionals, small businesses and entrepreneurs
         looking to take the next step. "
-      button: Start Learn
+      button: Start Learning
       url: /careers/overview
       image: /images/home/home-careers-kv.png
       alt: LearnX Careers
@@ -32,7 +32,7 @@ sections:
       title: LearnX Sustainability
       description: If you’ve been toying with the idea of living sustainably but don’t
         know where to start, you’ve come to the right place. 
-      button: Start Learn
+      button: Start Learning
       url: /sustainability/overview
       image: /images/home/home-sustainability-kv.png
       alt: LearnX Sustainability
