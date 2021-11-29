@@ -77,4 +77,8 @@ sections:
       description: LAB25 description
       button: Click Here
       url: https://www.nlb.gov.sg/WhoWeAre/AboutUs/AboutLAB25.aspx
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
