@@ -92,10 +92,10 @@ Suitable for aged 50 and above.</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>Urban Farming Workshop</b></a></td>
+<td><a href="https://www.eventbrite.com/e/cckpl-urban-farming-workshop-registration-215443395997?aff=ebcollection&keep_tld=1" target="_blank"><b>Urban Farming Workshop</b></a></td>
         <td>Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. <br><br>
 Suitable for participants aged 15 years and above. </td>
-        <td>9 Dec 2021, <br>7pm - 8.30pm</td>
+        <td>27 Dec 2021, <br>4pm - 5pm</td>
         <td>TBC</td>
       </tr>
     </tbody>
