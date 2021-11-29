@@ -30,14 +30,7 @@ Check out the schedule below, and look out for more programmes to be introduced 
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-sky-indigo">
-      <a href="/sustainability/overview">
-        <span>Sustainability</span>
-      </a>
-    </div>
-  </div>
-</div>
+
 
 <hr>
 
