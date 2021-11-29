@@ -86,7 +86,7 @@ Suitable for aged 50 and above.</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>Thinker+ PLAY: Unscramble The Word (Sustainability) | Time of Your Life</b></a></td>
+<td><a href="https://www.eventbrite.sg/e/thinker-play-unscramble-the-word-sustainability-time-of-your-life-tickets-217851408427?aff=ebdssbonlinesearch" target="_blank"><b>Thinker+ PLAY: Unscramble The Word (Sustainability) | Time of Your Life</b></a></td>
         <td>This is a Nature and Sustainability-themed session of Thinker+ Play where seniors can get their minds active through solving puzzles and learning interesting facts related to the environment.</td>
         <td>22 Dec 2021, <br>2pm - 3pm</td>
         <td>Choa Chu Kang Public Library</td>
