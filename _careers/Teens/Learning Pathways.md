@@ -13,7 +13,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Collections</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
