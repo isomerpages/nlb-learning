@@ -24,7 +24,6 @@ third_nav_title: Tweens
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
-### **Content**
 
 Use these resources to introduce your child to digital concepts and technology.
 <h3><b>Learning Package</b></h3>
