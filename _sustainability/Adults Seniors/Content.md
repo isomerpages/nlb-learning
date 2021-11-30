@@ -138,7 +138,7 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 Source: <a href="https://www.youtube.com/embed/Bkow2fDy5KY" target="_blank">What are Renewable Energies?</a> (2017, January 5). <i>Acciona.</i> Retrieved 2021, October 16
 
 <h5>2. Singapore to ramp up solar energy production</h5> 
-<p>Solar energy is the most viable energy source for Singapore in comparison to other renewables like wind or water. Explore how we harness this renewable energy and upcoming plans <a href="https://www.youtube.com/embed/BHFBCc33eU0"> in this video</a>.</p>
+<p>Solar energy is the most viable energy source for Singapore in comparison to other renewables like wind or water. Explore how we harness this renewable energy and upcoming plans <a href="https://www.youtube.com/watch?v=BHFBCc33eU0"> in this video</a>.</p>
 
 Source: <a href="https://www.youtube.com/watch?v=BHFBCc33eU0" target="_blank">
 Singapore to ramp up solar energy production</a> (2019, October 29). <i>The Straits Times.</i> Retrieved 2021, September 15
