@@ -39,9 +39,9 @@ third_nav_title: Teens
 </style>
 <p>Explore resources and content on topics that reveal the possibilities of technology.</p>
 
-<h3 id="playlist-sure" class="margin--bottom--lg"><b>Playlist: Stay Safe, Stay Informed</b></h3>
+<h3 id="playlist-sure" class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Check out these resources that highlight tips on keeping your online information protected, while exploring new digital advancements and opportunities.</p>
-<h5 class="has-text-indigo margin--bottom--lg"><b>Videos</b></h5>
+<h5 class="has-text-indigo margin--bottom--lg"><b>Playlist: Stay Safe, Stay Informed</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
