@@ -31,7 +31,7 @@ LearnX Digital goes beyond books to bring tech closer to you, with up-close and 
 
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-01.jpg)
 
-Learn more about current and upcoming changing needs at work, to get working adults better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites. 
+Learn more about the evolving needs at work and get better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites.
 
 Click [here](https://go.gov.sg/nlbfow){:target="_blank"} for the latest programme listings.
 
