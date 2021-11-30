@@ -82,7 +82,7 @@ In fact, they will soon realise computational thinking exists in all aspects of 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Think Like a coder: Session 2: Powerful Patterns)</b></a></td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Think like a coder: Session 2: Powerful Patterns)</b></a></td>
         <td style="width: 40%;">In this screen-free coding workshop, children learn about patterns arounds and how that helps in creating loops.</td>
         <td style="width: 20%;">12 Dec 2021,<br>2pm – 2.30pm</td>
         <td style="width: 20%;">Zoom</td>
