@@ -26,6 +26,51 @@ third_nav_title: Tweens
 </style>
 Use these resources to introduce your child to sustainability and caring for the environment.
 
+<h5 class="has-text-indigo margin--bottom--lg"><b>Playlist: D.I.Y. Recycling</b></h5>
+Get inspired to recycle and repurpose trash into treasure!
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/2gt-czT-YaU"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-indigo"> School Holiday Specials with Librarians: Reuse and Recycle (12 min) </b><br>
+Join librarians, Jodi and Shi Cheng, as they share about the need to recycle, and learn a fun activity on how to reuse an item instead, if you can’t recycle. </p>
+   <small>Source: School Holiday Specials with Librarians: Reuse and Recycle - Facebook (2021, June 25). Public Libraries Singapore. Retrieved 2021, October 22.</small>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/pDQMzJoNcS0"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+<p><b class="has-text-indigo"> Workshop: Upcycled newspaper bowl (By Green Sproutz Singapore) (6 min)</b><br>
+Did you know you can convert newspaper into decorative containers and bowls? Here’s how you can turn old unused items into something valuable. </p>
+
+    <small> Source: Workshop: Upcycled newspaper bowl (By Green Sproutz Singapore) - YouTube (2020, November 29). GREEN SPROUTZ SINGAPORE. Retrieved 2021, October 22. </small>
+  </div>
+</div>
+
+<div class="row is-multiline">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7dT6-mWYMnk"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-indigo"> Recycling Right - In 30 Seconds (1 min)</b><br>
+#TowardsZeroWaste ambassador, Ms Denise Keller, presents a quick outline of what can be recycled and what steps to take when recycling. </p>
+
+    <small>Source: Recycling Right - In 30 Seconds - YouTube (2019, February 20). Ministry of Sustainability and the Environment. Retrieved 2021, October 22.</small>
+  </div>
+</div>
+<br>
+
+
 ### **Learning Package**
 Articles that show us interesting ways to live sustainably.
 
