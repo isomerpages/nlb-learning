@@ -230,7 +230,7 @@ src="https://www.youtube.com/embed/zomo9OKXW6I"></iframe>
   </div>
 </div>
 
-<h5 class="margin--bottom--lg" id=”playlist-create”>Playlist: Digital Creations</h5>
+<h5 class="margin--bottom--lg" id="playlist-create"><b>Playlist: Digital Creations</b></h5>
 
 What is digital creation? To put it simply, digital creation is the process of creating a work, a product or a tool using digital technology. Digital creation can range from simple actions like snapping a photo with your phone or writing a blog post, to more advanced ones like creating digital art and engaging in digital making such as 3D printing and digital cutting. 
 
