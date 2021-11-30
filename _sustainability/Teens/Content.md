@@ -37,6 +37,9 @@ It’s often difficult to know where to begin, and you may feel like a small see
 
 Here are some resources to help you develop environmental mindfulness ☺️
 
+<h3 id="playlist-sure" class="margin--bottom--lg"><b>Playlist</b></h3>
+<p>Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.</p>
+
 <h5 class="has-text-indigo margin--bottom--lg"><b>Playlist: Think Green, Go Green</b></h5>
 Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.
 <div class="row is-multiline margin--bottom--lg">
