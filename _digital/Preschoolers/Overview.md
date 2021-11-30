@@ -37,7 +37,9 @@ third_nav_title: Preschoolers
 .clickbox.is-sky-indigo a:focus,
 .clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
 </style>
-Many studies have reported that well curated experiences with new media such as those offered by coding programmes or technological toys can have a long-term positive impact on children’s development. As such we have curated a list of resources and programmes for you and your child to explore. Have fun learning!
+Many studies have reported that well-curated experiences with new media such as those offered by coding programmes or technological toys can have a long-term, positive impact on children’s development. 
+
+We have curated a list of resources and programmes for you and your child to explore together. Have fun learning!
 
 
 <div class="row is-multiline">
