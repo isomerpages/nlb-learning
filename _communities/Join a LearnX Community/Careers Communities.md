@@ -34,7 +34,7 @@ You’re not alone in your journey to future-proof yourself professionally. Get 
       <h5 class="margin--top--sm margin--bottom--sm"><b>Association of Chartered Certified Accountants (ACCA) Learning Community</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> We come together for study support on Association of Chartered Certified Accountants (ACCA) exams and peer study. Join the community for engagement opportunities with mentors and finance practitioners who can share insights from topical applications in the workforce to employability skillsets.<br><br>
 For adults, conducted in English.<br>
-For more information, <a href="https://www.facebook.com/ACCA.Singapore/" target="_blank">visit their page</a>.</p>
+For more information, <a href="https://www.facebook.com/ACCA.Singapore/" target="_blank">visit their page</a>.</p><br>
      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming sessions</a></p>
 		</div>
   </div>
