@@ -99,6 +99,8 @@ A related concept to the green economy is the blue economy which is about managi
 
 <h5 id="energy-sustainability" class="margin--bottom--lg"><b>Playlist: The Curious About Energy Sustainability Playlist</b></h5>
 
+We address some of your burning queries about energy sustainability, a crucial area that impacts our everyday living in this video compilation.<br>
+
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -139,8 +141,9 @@ This video explains everything you want to know about carbon capture and why it 
 </div>
 
 <h5 id="nature-playlist" class="margin--bottom--lg"><b>Playlist: Why You need Nature more than Nature needs You</b></h5>
-We tend to take nature for granted but she does so much for us. This compilation sheds light on the ways we depend on nature more so than we realise. 
-<br>
+
+We tend to take nature for granted but she does so much for us. This compilation sheds light on the ways we depend on nature more so than we realise. <br>
+
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -181,6 +184,7 @@ This video examines what draws us to nature and the lessons it can impart about 
 </div>
 
 <h5 id="wardrobe-playlist" class="margin--bottom--lg"><b>Playlist: Why You Should Be Concerned About Your Wardrobe</b></h5>
+
 We zero in on some of the sustainability issues related to fashion in this compilation. <br>
 
 <div class="row is-multiline margin--bottom--lg">
