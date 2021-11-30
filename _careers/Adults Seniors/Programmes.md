@@ -37,9 +37,7 @@ Click [here](http://go.gov.sg/get-professional-series){:target="_blank"} for the
 ## **Industry Insights**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-01.png)
 
-Have you always been curious about a particular industry – be it fintech, gaming, user experience and so on? In this series of talks, you can expect to learn what it is like to work in a particular industry – the joys and challenges, and the forces that impact it. 
-
-This series is recommended for anyone who wishes to find out more about the industry in focus, whether for general knowledge or with a view to eventually pursuing a career in this field.
+Always been curious about new industries that seem to have taken the world by storm such as FinTech, gaming and user experience? Through this series of talks you can explore the ins and outs of a particular industry—the joys, the challenges and the forces that drive it.
 
 Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings. 
 
