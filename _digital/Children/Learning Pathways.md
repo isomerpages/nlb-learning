@@ -26,7 +26,7 @@ third_nav_title: Children
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 <h3><b>Let’s Go Digital</b></h3>
-Go digital with your child and explore the world of digital and tech together.
+Go digital with your child and discover a world of technology and innovation together. 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
