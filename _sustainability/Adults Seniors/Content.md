@@ -30,7 +30,8 @@ A collection of short videos or selected podcasts, exploring topics around perso
 
 <h5 id="green-economy" class="margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
 
-<br>
+We round up the main points about the green economy to get you quickly up to speed on this concept that is integral to achieving sustainable development while balancing environmental needs.<br>
+
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
