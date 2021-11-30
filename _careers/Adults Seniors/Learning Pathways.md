@@ -225,7 +225,7 @@ Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Ma
       </tr>
       <tr>
         <td><a href="/careers/adults-seniors/content" target="_blank"><b>How To Be Happy At Work playlist</b></a></td>
-        <td></td>
+        <td>With the right resources and tips, anyone can become a better communicator.</td>
         <td></td>
         <td></td>
       </tr>
