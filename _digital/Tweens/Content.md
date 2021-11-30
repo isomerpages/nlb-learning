@@ -40,7 +40,8 @@ Problem-solve through a do-it-yourself activity, [Secret Messages](/files/Tweens
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
   <a href="https://www.facebook.com/MediaLiteracyCouncilSG/videos/844324729321869">
-		<img src="/images/digital/Digital-Prog-AS-01.jpg">
+		<img src="/images/digital/Digital-Prog-AS-01.jpg"
+				 width=150" height="70">
 			</a>
     </div>
   </div>
@@ -48,6 +49,6 @@ Problem-solve through a do-it-yourself activity, [Secret Messages](/files/Tweens
     <p><b class="has-text-indigo"> Bringing Water to Terry - The Adventures of Water Wally & Sally (5 min)</b><br>
 Join Public Utilities Board’s Water Wally and Sally, as they help their friend Terry the Terrapin, after he finds his pond all dried up. Brought to life by imaginative illustrations and effects, children will enjoy this storytelling video presented by Zemily Leow.  </p>
 
-   <small>Source: Bringing Water to Terry - The Adventures of Water Wally & Sally - YouTube (2021, January 29). sgPUB. Retrieved 2021, October 23. </small>
+   <small>Source: Bringing Water to Terry - The Adventures of Water Wally & Sally - YouTube (2021, January 29). sgPUB. Retrieved 2021, October 24. </small>
   </div>
 </div>
