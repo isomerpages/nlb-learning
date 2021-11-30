@@ -38,7 +38,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.go.gov.sg/teenthings" target="_blank"><b>Teen.Things: Emailing 101</b></a></td>
+        <td style="width: 20%;"><a href="https://nlb-learning-staging.netlify.app/careers/teens/content" target="_blank"><b>Teen.Things: Emailing 101</b></a></td>
         <td style="width: 40%;">We’ve all sent emails out to friends and teachers before, but crafting a professional email is a whole different ball game. If you aren’t sure what should go into formal emails, here are some tips and tricks that are sure to impress any recipient!</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
