@@ -41,7 +41,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="_blank"><b>Job Hunting Toolkit Learning Package</b></a></td>
-        <td style="width: 40%;"> </td>
+        <td style="width: 40%;">Here are some great resources to help make this journey as painless as possible.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
