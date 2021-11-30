@@ -181,8 +181,8 @@ Watch how one Singaporean goes around the island performing his day-to-day activ
     <small>Source: IMDA Digital Pods -Youtube (2021, Oct 10). Retrieved 2021, October 20.</small>
   </div>
 	</div>
-	</div>
-<h5 class="margin--bottom--lg" id=”playlist-socmed”>Playlist: Social Media</h5>
+
+<h5 class="margin--bottom--lg" id="playlist-socmed"><b>Playlist: Social Media</b></h5>
 
 Social media has changed the way and the speed with which we can interact and exchange information with others. In essence, social media are online communication tools that allow you to publish and share information. You can use a social media platform to connect with friends and family, catch up on news and to watch videos. Some popular examples include Facebook, Instagram or YouTube. More than just for personal use, social media can also be used by businesses to market their products and services and connect to their consumers.
 
