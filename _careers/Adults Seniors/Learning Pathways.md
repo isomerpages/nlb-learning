@@ -149,7 +149,7 @@ Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Ma
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="_blank"><b>How To Start Your Own Business</b></a></td>
-        <td style="width: 40%;"></td>
+        <td style="width: 40%;">Having a great idea is the first step to starting a business of your own.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
