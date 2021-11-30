@@ -25,10 +25,10 @@ third_nav_title: Adults & Seniors
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
 
-<h3 class="has-text-ruby"><b>Playlist</b></h3>
+<h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<h5 id=”green=economy” class=”margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
+<h5 id=”green=economy”><b>Playlist: Five Things to Know about the Green Economy</b></h5>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
