@@ -203,7 +203,7 @@ Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Ma
       </tr>
 <tr>
         <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbAb/" target="_blank"><b>Machine Learning in the Future of Work</b></a></td>
-        <td>Learn how machine learning will transform our work in future.</td>
+        <td>Learn how machine learning will transform our work in future.<br><br>Registration opens two weeks before the programme.</td>
         <td>6 Jan 2022 <br> 7pm-8.30pm</td>
         <td>TBC</td>
       </tr>
