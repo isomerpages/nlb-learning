@@ -156,7 +156,7 @@ In this four-week programme, participants will go through self-paced e-learning 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" target="_blank"><b>LearnX Career</b><br>An Artificially Intelligent Business</a></td>
+        <td style="width: 20%;"><a href="#" target="_blank"><b>LearnX Careers</b><br>An Artificially Intelligent Business</a></td>
         <td style="width: 40%;">Series: Breakthrough<br>
 With guest speakers:<br>
 •	Sinuhe Arroyo, Founder of Taiger, <br>
