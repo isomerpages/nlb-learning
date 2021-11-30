@@ -34,7 +34,7 @@ Future-proof your child with this series of introductory workshops and talks tha
 Some topics that will be covered include:
 
 - Helping children adopt positive digital habits and/or managing screen related issues 
-- Emerging technologies and it’s practical applications in learning 
+- Emerging technologies and its practical applications in learning 
 - Developing computational skills in young children 
 
 Click [here](https://www.eventbrite.com/c/early-read-digital-programmes-ccbkrwyy--HoLyq4w9zQdc/){:target="_blank"} for the latest programme listings.
