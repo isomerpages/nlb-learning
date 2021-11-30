@@ -98,7 +98,7 @@ A collection of short videos or selected podcasts, exploring topics around perso
 
 Starting your own business can be daunting. A single idea can light the spark to start your entrepreneurial endeavour, but several aspects must be considered before setting off.<br>
 
-Check out these resources to help you jet-start your journey to build your own business and gain some inspiration from those on the same path. 
+Check out these resources to help you kickstart your entrepreneurial  journey and gain some inspiration from those on the same path.
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -216,8 +216,17 @@ Reduce your nervousness and frustration with your job search with these videos. 
 {: .has-text-right .margin--top--xl}
 
 <h3 id="lp-job"><b>Learning Package: Job-Hunter’s Toolkit</b></h3>
-<h4>Introduction</h4>
-<p> There are 4 main challenges in looking for a job – 1) deciding on the types of industries and positions that suit us, 2) writing a resume that maximises our chances of getting an interview, 3) acing interviews, and 4) staying positive. Here are some great resources to help make this journey as painless as possible. </p>
+
+<p> There are 4 main challenges when looking for a job:
+
+1) Deciding on the types of industries and positions that suit you. 
+2) Writing a resume that maximises your chances of getting an interview.
+
+3) Acing interviews 
+
+4) Staying positive. 
+
+Here are some great resources to help make this journey as painless as possible. </p>
 <table border="1">
 	<tbody><tr>
 		<td>
@@ -277,12 +286,11 @@ Richard N. Bolles &amp; Katharine Brooks (2020), <i>What Color Is Your Parachute
 Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 
 <h4><b>Programmes</b></h4>
-<p>Want to attend workshops on resume-writing and interviewing skills? Or are you hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series of programmes at <a href="https://go.gov.sg/get-professional-series" target="_blank">go.gov.sg/get-professional-series</a>.
+<p>Want to attend workshops on resume-writing and interviewing skills? Or are you hoping to brush up on your speaking and writing abilities? Sign up for the Get Professional Series at <a href="https://go.gov.sg/get-professional-series" target="_blank">go.gov.sg/get-professional-series</a>.
 </p>
 
 <h3 id="lp-biz"><b>Learning Package: How to Start Your Own Business</b></h3>
-<h4>Introduction</h4>
-<p> Having a great business idea is the first step to starting a business of your own. With many home-based businesses requiring minimal start-up costs and the proliferation of social media to attract new customers, the prospect of being your own boss certainly seems within reach.
+<p> Having a great idea is the first step to starting a business of your own. With many home-based businesses requiring minimal start-up costs and the proliferation of social media to attract new customers, the prospect of being your own boss certainly seems within reach.
 <br>
 Here are some resources to get you started.</p>
 <table border="1">
@@ -450,9 +458,9 @@ Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/m
 </p>
 
 <h4>References</h4>
-4) <a id="footnote-four">12 Top Job Skills for Any Industry: Transferable Skills You Need</a>. (2021, April 20). Indeed. Retrieved 2021, October 18 from <a href="https://www.indeed.com/career-advice/career-development/top-job-skills" target="_blank">https://www.indeed.com/career-advice/career-development/top-job-skills</a>
+4) <a id="footnote-four"><small>12 Top Job Skills for Any Industry: Transferable Skills You Need</a>. (2021, April 20). Indeed. Retrieved 2021, October 18 from <a href="https://www.indeed.com/career-advice/career-development/top-job-skills" target="_blank">https://www.indeed.com/career-advice/career-development/top-job-skills</small></a>
  <br>
-5) <a id="footnote-five">Types of Communication</a>. (2021, January 19). Valamis. Retrieved 2021, October 18 from <a href="https://www.valamis.com/hub/types-of-communication" target="_blank">https://www.valamis.com/hub/types-of-communication</a>
+5) <a id="footnote-five"><small>Types of Communication</a>. (2021, January 19). Valamis. Retrieved 2021, October 18 from <a href="https://www.valamis.com/hub/types-of-communication" target="_blank">https://www.valamis.com/hub/types-of-communication</small></a>
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
