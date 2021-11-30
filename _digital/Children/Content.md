@@ -45,9 +45,9 @@ Gain insights into the intricacies of environmental issues and be inspired to li
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
 <a href="https://www.facebook.com/MediaLiteracyCouncilSG/videos/844324729321869">
-<img alt="Vid Thumbnail" src="/images/digital/Digital-Prog-AS-01.jpg"
-         width=150" height="70">
-</a>
+         <img alt="Thumbnail" src="/images/digital/Digital-Prog-AS-01.jpg"
+         width=460" height="258">
+      </a>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -57,4 +57,3 @@ Follow Dorothy Chiang’s journey as an eco-influencer, where she learns how goi
 <small>Source: Dot and the Green Pea | Episode 1: Green is the New Black - YouTube (2018, April 2). Ministry of Sustainability and the Environment. Retrieved 2021, October 22.</small>
   </div>
 </div>
-
