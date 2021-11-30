@@ -45,7 +45,7 @@ Gain insights into the intricacies of environmental issues and be inspired to li
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
 <a href="https://www.facebook.com/MediaLiteracyCouncilSG/videos/844324729321869">
-         <img alt="Thumbnail" src="/images/digital/Digital-Prog-AS-01.jpg"
+         <img alt="Thumbnail" src="![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-01.jpg)"
          width=460" height="258">
       </a>
     </div>
