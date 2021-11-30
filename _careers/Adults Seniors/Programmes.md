@@ -43,11 +43,7 @@ Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singap
 
 ## **Breakthrough**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-02.png)
-Harness the secrets of success from conversations with entrepreneurs in this programme series, which include panel discussions, workshops and networking sessions. 
-
-The panel discussions are recommended for business owners, aspiring entrepreneurs, and anyone who is curious about the speakers and their companies. 
-
-Learning outcomes include advice on overcoming challenges in entrepreneurship, innovation and/or a particular industry.
+Uncover the secrets of success through conversations with entrepreneurs at the top of their game. Engage with them through panel discussions, workshops and networking sessions with a focus on topics such as overcoming challenges, innovation and more. 
 
 Click [here](https://go.gov.sg/breakthrough-series){:target="_blank"} to learn more about this programme. 
 
