@@ -26,8 +26,11 @@ third_nav_title: Tweens
 </style>
 Use these resources to introduce your child to sustainability and caring for the environment.
 
+<h3 id="playlist-sure" class="margin--bottom--lg"><b>Playlist</b></h3>
+<p>Get inspired to recycle and repurpose trash into treasure!</p>
+
 <h5 class="has-text-indigo margin--bottom--lg"><b>Playlist: D.I.Y. Recycling</b></h5>
-Get inspired to recycle and repurpose trash into treasure!
+
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
