@@ -26,7 +26,7 @@ third_nav_title: Tweens
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 <h3><b>Tech and You!</b></h3>
-Explore the wonders of tech.
+Spark your child’s curiosity in digital literacy through engaging activities and articles.
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
