@@ -254,7 +254,7 @@ Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Ma
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank"><b>How To Learn Like A Pro</b></a></td>
+        <td><b>How To Learn Like A Pro</b></td>
        <td>Recordings from the Future of Learning 2021 event, featuring prominent local experts and TED/TEDx speakers</td>
         <td>TBC</td>
         <td>TBC</td>
