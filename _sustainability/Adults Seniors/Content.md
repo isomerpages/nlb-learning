@@ -97,6 +97,91 @@ A related concept to the green economy is the blue economy which is about managi
   </div>
 </div>
 
+<h5 id="energy-sustainability" class="margin--bottom--lg"><b>Playlist: The Curious About Energy Sustainability Playlist</b></h5>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/RnvCbquYeIM" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Can 100% Renewable Energy Power the World?</b><br>
+You have heard about renewable energy but wondered about its potential to meet our energy needs. This video examines the possibilities. <br><br>
+<small>Source: Can 100% Renewable Energy Power the World? (2017, December 7). TED-ED. Retrieved 2021, October 16.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/qdoEmebP-b0" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b> Are Electric Cars Really Good For the Environment?</b><br>
+This video brings you up to speed to the debate on electric cars and lays out the key points to consider about its environmental friendliness. <br><br>
+Source: Are Electric Cars Really Good For the Environment? (2020, October 10). CNA Insider.Retrieved 2021, October 15..</p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/wu3hoo3p4Kk" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>How Carbon Capture Works?</b><br>
+This video explains everything you want to know about carbon capture and why it is important to countries who aim to reach net zero emission status.<br><br>  
+<small>Source: How Does Carbon Capture Work? (2021, July 7). Reactions. Retrieved 2021, October 12. </small></p>
+  </div>
+</div>
+
+<h5 id="nature-playlist" class="margin--bottom--lg"><b>Playlist: Why You need Nature more than Nature needs You</b></h5>
+We tend to take nature for granted but she does so much for us. This compilation sheds light on the ways we depend on nature more so than we realise. 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/1wkPMUZ9vX4" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Nature Makes You Happy</b><br>
+Nature has a positive impact on our feelings. As a testament to nature’s power, this video highlights that watching documentaries on nature can confer also benefits!<br><br>
+<small>Source: Nature Makes You Happy.(2017, Mar 8). BBC Earth. Retrieved 2021, Sept 15. </small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/0uk0QriYYws" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Prescribing Nature for Health</b><br>
+We can turn to nature to better our health. In this video, Dr Nooshin shares how nature can heal.<br><br>
+<small>Source: Prescribing Nature for Health (2016, Jun 14). TedxNashville. Retrieved 2021, Oct 30</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/IadAzzx7EHc" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+ <p><b>What Nature Can Teach Us About Life</b><br>
+This video examines what draws us to nature and the lessons it can impart about life. 
+<small>Source: What Nature Can Teach Us About Life. (2017, Mar 12). Goalcast. Retrieved 2021, Nov 16. </small></p>
+  </div>
+</div>
+
+[Back to top](#main-content)
+{: .has-text-right .margin--top--xl}
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg"><b>The Green Economy</b></h5>
