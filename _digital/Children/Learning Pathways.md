@@ -61,15 +61,16 @@ Go digital with your child and discover a world of technology and innovation tog
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-go-safe-online-primary-school-edition-online-registration-206175585727?aff=ebdsoporgprofile" target="_blank"><b>CSA: How to Go Safe Online: Primary School Edition </b></a></td>
-        <td style="width: 40%;">This programme is suitable for children aged 7 to 12 years old, and parents are welcome to attend with their children.<br>
-Join us for this online session to learn about the types of cyber threats to look out for and learn how you can Go Safe Online by practising good cyber hygiene habits. 
+        <td style="width: 40%;">Join us for this online session to learn about the types of cyber threats to look out for and learn how you can Go Safe Online by practising good cyber hygiene habits.	
+<br><br>
+This programme is suitable for children aged 7 to 12 years old, and parents are welcome to attend with their children.<br> 
 </td>
         <td style="width: 20%;">4 Dec 2021,<br>10am – 11am</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
         <td><a href="https://www.eventbrite.sg/e/code-with-your-child-libraryharbourfront-registration-208429537357?aff=ebdsoporgprofile" target="_blank"><b>Code With Your Child!</b></a></td>
-        <td>Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. Through hands-on coding gameplays, kids can learn coding concepts without a screen or keyboard and develop problem solving skills, critical thinking, creativity and collaboration.</td>
+        <td>Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. Through hands-on coding gameplay, children can learn coding concepts without a screen or keyboard and develop problem-solving skills, critical thinking, creativity and more.	</td>
         <td>4 Dec 2021 <br>2.30pm – 4pm <br>library@harbourfront<br><br>11 Dec 2021 <br>2.30pm – 4pm<br>Ang Mo Kio Public Library<br><br>15 Jan 2021 <br>2.30pm – 4pm<br>Bishan Public Library<br><br>29 Jan 2021 <br>2.30pm – 4pm<br>Toa Payoh Public Library</td>
         <td>Programme Zone</td>
       </tr>
