@@ -28,7 +28,7 @@ third_nav_title: Adults & Seniors
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<h5 id="green=economy" class=”margin–bottom–lg”><b>Playlist: Five Things to Know about the Green Economy</b></h5>
+<h5 id="green=economy" class="margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
