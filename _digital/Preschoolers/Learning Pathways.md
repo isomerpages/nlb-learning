@@ -27,11 +27,13 @@ third_nav_title: Preschoolers
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 <h3><b> Learning Computational Thinking through Unplugged Play!</b></h3>
 
-Computational thinking is a creative way of thinking that allows individuals to be systematic problem solvers. 
+Computational thinking is a creative way of thinking that allows individuals to be systematic problem solvers.
 
-Through this suite of exciting programmes offered by the public libraries, parents of young children can learn how to help their children in developing computational thinking skills through screen free activities! 
+Through this suite of exciting programmes offered by the public libraries, parents of young children can learn how to help their children develop computational thinking skills through screen-free activities!
 
-These activities will include programming tech toys without the need for a screen, or understand how to incorporate computational thinking in our daily lives. In fact, they can see that computational thinking exists in all aspects of our daily lives.  For example, children will be able to learn that understanding algorithm is an important skill to have if they are conducting an experiment and that patterns exists everywhere including the natural world!
+These activities will include programming tech toys without the need for a screen, or understanding how to incorporate computational thinking into our daily lives. 
+
+In fact, they will soon realise computational thinking exists in all aspects of our lives. For example, children will be able to learn that understanding algorithms is an important skill to have if they are conducting an experiment and that patterns exists everywhere including the natural world!
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
