@@ -4,6 +4,26 @@ permalink: /digital/children/learning-pathways
 description: ""
 third_nav_title: Children
 ---
+<style type="text/css">
+/* Links */
+.content a { color: #322987; }
+.content a:focus,
+.content a:hover { color: #28216c; }
+
+/* Button Outline */
+.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
+.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
+.bp-button.is-primary-outline:focus,
+.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
+
+/* Responsive Iframe */
+.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
+.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
+.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
+.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
+.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
+.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+</style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 <h3><b>Let’s Go Digital</b></h3>
 Go digital with your child and explore the world of digital and tech together.
@@ -16,7 +36,7 @@ Go digital with your child and explore the world of digital and tech together.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/children/content"><b>Playlist: Safer Internet</b></a></td>
+        <td style="width: 20%;"><a href="/digital/children/content" target="_blank"><b>Playlist: Safer Internet</b></a></td>
         <td style="width: 40%;">A collection of short videos exploring topics around digital concepts.<br><br>
 Safer internet<br>
 Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below</td>
@@ -24,7 +44,7 @@ Learn how to keep yourself safe online as you explore all the information availa
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child"><b>Stay Curious with Your Child: Unplugged Coding Ideas for Kids</b></a></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b>Stay Curious with Your Child: Unplugged Coding Ideas for Kids</b></a></td>
         <td>Basic elements which you can introduce during playtime to help them get comfortable with coding concepts without even using any digital devices!</td>
         <td> </td>
         <td> </td>

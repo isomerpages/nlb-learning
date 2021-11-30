@@ -4,6 +4,26 @@ permalink: /careers/adults-seniors/programmes
 description: ""
 third_nav_title: Adults & Seniors
 ---
+<style type="text/css">
+/* Links */
+.content a { color: #322987; }
+.content a:focus,
+.content a:hover { color: #28216c; }
+
+/* Button Outline */
+.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
+.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
+.bp-button.is-primary-outline:focus,
+.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
+
+/* Responsive Iframe */
+.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
+.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
+.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
+.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
+.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
+.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+</style>
 ### **Programmes**
 Pick up skills from professional trainers, and get answers, ideas as well as inspiration from experts in various subjects.
 
@@ -16,7 +36,7 @@ This series is recommended for jobseekers and working adults seeking to improve 
 
 By the end of each workshop, you can expect to have learnt a couple of effective strategies to improve your skill in the topic covered.
 
-Click [here](http://go.gov.sg/get-professional-series) for the latest programme listings.
+Click [here](http://go.gov.sg/get-professional-series){:target="_blank"} for the latest programme listings.
 
 ## **Industry Insights**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-01.png)
@@ -25,7 +45,7 @@ Have you always been curious about a particular industry – be it fintech, gami
 
 This series is recommended for anyone who wishes to find out more about the industry in focus, whether for general knowledge or with a view to eventually pursuing a career in this field.
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest programme listings. 
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings. 
 
 ## **Breakthrough**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-02.png)
@@ -35,7 +55,7 @@ The panel discussions are recommended for business owners, aspiring entrepreneur
 
 Learning outcomes include advice on overcoming challenges in entrepreneurship, innovation and/or a particular industry.
 
-Click [here](https://go.gov.sg/breakthrough-series) to learn more about this programme. 
+Click [here](https://go.gov.sg/breakthrough-series){:target="_blank"} to learn more about this programme. 
 
 ## **Learning to Learn**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-02.png)
@@ -54,7 +74,7 @@ Eye on Asia is a collaborative effort by the National Library with partners from
 
 Focusing on ASEAN, China and India, as well as emerging cities, you will discover a broad overview of useful resources to create more awareness of developments in these countries. In addition, regular programmes are organised to gain insights from entrepreneurs and people who have lived and worked abroad in these cities and countries.
 
-Click [here](http://www.eyeonasia.gov.sg/) to visit the website. 
+Click [here](http://www.eyeonasia.gov.sg/){:target="_blank"} to visit the website. 
 
 
 # **Business Information Literacy**
@@ -71,7 +91,9 @@ Topics covered:
 - Identifying Information Needs
 - Business Information Resources used for Market Intelligence
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest programme listings.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"}
+
+ for the latest programme listings.
 
 ## **Research for Starting, Managing and Growing your Business**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-05.png)
@@ -84,6 +106,8 @@ Topics covered:
 
 - Library databases and web resources used in Business Research
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest programme listings.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"}
+
+ for the latest programme listings.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

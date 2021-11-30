@@ -4,9 +4,29 @@ permalink: /sustainability/adults-seniors/learning-pathways
 description: ""
 third_nav_title: Adults & Seniors
 ---
+<style type="text/css">
+/* Links */
+.content a { color: #322987; }
+.content a:focus,
+.content a:hover { color: #28216c; }
+
+/* Button Outline */
+.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
+.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
+.bp-button.is-primary-outline:focus,
+.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
+
+/* Responsive Iframe */
+.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
+.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
+.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
+.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
+.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
+.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+</style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-We start with getting to know about the Green Economy, and renewing our appreciation of a City In Nature.
+We start with getting to know about the Green Economy, and renewing our appreciation of a <a href="#city-in-nature">City In Nature</a>.
 
 <h3><b>Understanding the Green Economy</b></h3>
 The Green Economy is one of the five key pillars in Singapore’s Green Plan. We break it down to its key concepts from circulatory to going low-carbon with practical skills you can learn.
@@ -19,7 +39,7 @@ The Green Economy is one of the five key pillars in Singapore’s Green Plan. We
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content"><b>The 5 Things to Know about The Green Economy</b></a></td>
+        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank"><b>The 5 Things to Know about The Green Economy</b></a></td>
         <td style="width: 40%;">We round up the main points about the green economy to get you quickly up to speed on this concept that is integral to achieving sustainable development while balancing environmental needs.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
@@ -86,17 +106,17 @@ Suitable for aged 50 and above.</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>Thinker+Play: Fun with Puzzles (Sustainability) | Time of Your Life</b></a></td>
+<td><a href="https://www.eventbrite.sg/e/thinker-play-unscramble-the-word-sustainability-time-of-your-life-tickets-217851408427?aff=ebdssbonlinesearch" target="_blank"><b>Thinker+ PLAY: Unscramble The Word (Sustainability) | Time of Your Life</b></a></td>
         <td>This is a Nature and Sustainability-themed session of Thinker+ Play where seniors can get their minds active through solving puzzles and learning interesting facts related to the environment.</td>
         <td>22 Dec 2021, <br>2pm - 3pm</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>Urban Farming Workshop</b></a></td>
+<td><a href="https://www.eventbrite.com/e/cckpl-urban-farming-workshop-registration-215443395997?aff=ebcollection&keep_tld=1" target="_blank"><b>Urban Farming Workshop</b></a></td>
         <td>Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. <br><br>
 Suitable for participants aged 15 years and above. </td>
-        <td>9 Dec 2021, <br>7pm - 8.30pm</td>
-        <td>TBC</td>
+        <td>27 Dec 2021, <br>4pm - 5pm</td>
+        <td>Choa Chu Kang Public Library, <br>Programme Room 1 & 2</td>
       </tr>
     </tbody>
   </table>
@@ -111,13 +131,13 @@ Suitable for participants aged 15 years and above. </td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849"><b> Build Your Own: Coasters from Magazine Pages | Time of Your Life</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/seniors-build-your-own-workshop-craft-projects-with-old-magazines-toyl-tickets-217844407487?aff=ebdssbonlinesearch" target="_blank"><b>Seniors Build-Your-Own Workshop: Craft Projects with Old Magazines | Time of Your Life</b></a></td>
         <td style="width: 40%;"> Recycle your old magazines and turn them into pretty table coasters which you can use to decorate your home in this festive season, while adopting a sustainable practice. This Build-Your-Own workshop aims to promote sustainable practices which are simple and practical for seniors.</td>
-        <td style="width: 20%;">15 Dec 2021, <br>7.30pm- 8.30pm</td>
+        <td style="width: 20%;">15 Dec 2021, <br>3pm- 4.15pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
-        <td><a href="/communities/join/sustainability-communities"><b>The Nature Club</b></a></td>
+        <td><a href="/communities/join/sustainability-communities" target="_blank"><b>The Nature Club</b></a></td>
         <td> Whether you're an environmentalist or just curious, we welcome all to join us to discuss stories that help us understand our relationship with the planet. The next session will be conducted on 25 January 2022.</td>
         <td>Last Tuesday of every month <br>7pm – 8.30pm</td>
         <td>Zoom</td>
@@ -137,7 +157,7 @@ Suitable for participants aged 15 years and above. </td>
       <tr>
         <td style="width: 20%;"><a href="https://codesg.imda.gov.sg/in-community/makeit-at-libraries/" target="_blank"><b>LearnX Digital</b><br>MakeIT</a></td>
         <td style="width: 40%;">MakeIT aims to introduce Making and Innovayion to the general public by way of areas, including Making with upcycling in mind.Topics available include repair and home-hacks and lofi prototyping<br></td>
-        <td style="width: 20%;">TBC</td>
+        <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
   </tbody>
@@ -147,7 +167,7 @@ Suitable for participants aged 15 years and above. </td>
  [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
  
-<h3><b>City in Nature</b></h3>
+<h3 id="city-in-nature" class="margin--bottom--lg"><b>City in Nature</b></h3>
 City in nature is one of the five key pillars in Singapore’s Green Plan. We explore the importance of green spaces in the city, efforts taken by Singapore to go low carbon and how to incorporate nature and reduce emissions in your life. 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -158,13 +178,13 @@ City in nature is one of the five key pillars in Singapore’s Green Plan. We ex
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content"><b>Why You Need Nature More than Nature Needs You</b></a></td>
+        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank"><b>Why You Need Nature More than Nature Needs You</b></a></td>
         <td style="width: 40%;">We tend to take nature for granted but she does so much for us. This compilation sheds light on the ways we depend on nature more so than we realise.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/adults-seniors/content"><b>City in Nature</b></a></td>
+        <td><a href="/sustainability/adults-seniors/content" target="_blank"><b>City in Nature</b></a></td>
         <td>We explore what is a City in Nature and how you can participate in it in through the resources presented here. </td>
         <td></td>
         <td> </td>

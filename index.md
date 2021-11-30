@@ -8,10 +8,11 @@ notification: ""
 sections:
   - hero:
       title: Welcome to LearnX
-      subtitle: "A platform where you can choose what, when and how you learn.
+      background: /images/home/masthead-icons-1366x507-1.gif
+  - infobar:
+      description: "A platform where you can choose what, when and how you learn.
         Customise your learning journey with resources across a wide range of
         topics. "
-      background: /images/home/masthead-icons-1366x507-1.gif
   - infopic:
       description: "Keep up with changing digital trends and technology through
         easy-to-understand and accessible content. "

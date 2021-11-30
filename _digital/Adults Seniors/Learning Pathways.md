@@ -4,11 +4,31 @@ permalink: /digital/adults-seniors/learning-pathways
 description: ""
 third_nav_title: Adults & Seniors
 ---
+<style type="text/css">
+/* Links */
+.content a { color: #322987; }
+.content a:focus,
+.content a:hover { color: #28216c; }
+
+/* Button Outline */
+.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
+.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
+.bp-button.is-primary-outline:focus,
+.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
+
+/* Responsive Iframe */
+.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
+.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
+.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
+.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
+.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
+.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+</style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-We start with a healthy digital lifestyle for all, and for seniors, Master The Use Of Smartphones.
+We start with a healthy digital lifestyle for all, and for seniors, <a href="#effectively-use-smartphones ">Master The Use Of Smartphones</a>.
 
-<h3><b> Embrace a Safe and Healthy Digital Lifestyle
+<h3><b>Embrace a Safe and Healthy Digital Lifestyle
 </b></h3>
 Technology is changing the way we live and work by making things more accessible. Yet, it also comes with it’s associated dangers and impact. Learn more about how to use technology safely and creating new ways to maintain a healthy and balanced lifestyle.
 
@@ -21,13 +41,13 @@ Technology is changing the way we live and work by making things more accessible
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/adults-seniors/content"><b>Cybercrime</b></a></td>
+        <td style="width: 20%;"><a href="/digital/adults-seniors/content" target="_blank"><b>Cybercrime</b></a></td>
         <td style="width: 40%;">Learn how to avoid Cybercrime with our Learning Packages and Playlists</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="/digital/adults-seniors/content"><b>Cyber Wellness</b></a></td>
+        <td><a href="/digital/adults-seniors/content" target="_blank"><b>Cyber Wellness</b></a></td>
         <td>Learn more about Cyber Wellness with our Learning Packages and Playlists</td>
         <td></td>
         <td></td>
@@ -45,7 +65,7 @@ Technology is changing the way we live and work by making things more accessible
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/"><b>[Future of Work]</b><br> Introduction to Hacking Software and Protection Tools</a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>[Future of Work]</b><br> Introduction to Hacking Software and Protection Tools</a></td>
         <td style="width: 40%;"> Learn about the approaches to hacking and find out what tools can help you protect your data.</td>
         <td style="width: 20%;"> 2 Dec 2021,<br>7pm – 8.30pm</td>
         <td style="width: 20%;">Zoom</td>
@@ -82,7 +102,7 @@ Technology is changing the way we live and work by making things more accessible
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>[Future of Work]</b><br>Introduction to Website Security</a></td>
-        <td>Learn about the common approaches to information security and acquire basic foundational knowledge on the topic.</td>
+        <td>Learn about the common approaches to website security and acquire basic foundational knowledge on the topic.</td>
         <td>16 Dec 2021, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
@@ -118,7 +138,7 @@ Technology is changing the way we live and work by making things more accessible
       </tr>
 <tr>
         <td><a href="https://go.gov.sg/poutline" target="_blank"><b>Chatbot LC</b></a></td>
-        <td>Are you interested in creating your very own Chatbot? Join our Chatbot-making challenge and meet like-minded folks in this new learning community. <br><br>
+        <td>Are you interested in creating your very own Chatbot? Join our Chatbot-making challenge and meet like-minded folks in this new LearnX Community. <br><br>
 In this four-week programme, participants will go through self-paced e-learning via a learning platform and have the opportunity to prototype a Smart Nation Chatbot. AI Experts will also be guiding and evaluating your Chatbots online. Please refer to https://go.gov.sg/poutline for a detailed programme outline.</td>
         <td>20 Nov-18 Dec 2021</td>
         <td>Telegram</td>
@@ -152,7 +172,7 @@ With guest speakers:<br>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 
-<h3><b>Learning To Effectively Use Smartphones to Make Life Better!</b></h3>
+<h3 id="effectively-use-smartphones" class="margin--bottom--lg"><b>Learning To Effectively Use Smartphones to Make Life Better!</b></h3>
 Learn to use your smartphone effectively and safely to have knowledge at your fingertips and bring more convenience to your life!
 
 <div class="horizontal-scroll margin--bottom--lg">
@@ -164,7 +184,7 @@ Learn to use your smartphone effectively and safely to have knowledge at your fi
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/adults-seniors/content"><b>Using Your Smartphone Learning Package and Play List</b></a></td>
+        <td style="width: 20%;"><a href="/digital/adults-seniors/content" target="_blank"><b>Using Your Smartphone Learning Package and Playlist</b></a></td>
         <td style="width: 40%;">Learn to use your smartphones effectively!</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>

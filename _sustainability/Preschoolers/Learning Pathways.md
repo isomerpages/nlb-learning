@@ -4,6 +4,26 @@ permalink: /sustainability/preschoolers/learning-pathways
 description: ""
 third_nav_title: Preschoolers
 ---
+<style type="text/css">
+/* Links */
+.content a { color: #322987; }
+.content a:focus,
+.content a:hover { color: #28216c; }
+
+/* Button Outline */
+.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
+.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
+.bp-button.is-primary-outline:focus,
+.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
+
+/* Responsive Iframe */
+.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
+.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
+.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
+.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
+.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
+.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+</style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3><b>Go Wild & Wow With Sustainability!</b></h3>
@@ -17,25 +37,25 @@ What can we do to protect the environment around us? Do you know the different t
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/preschoolers/content"><b> Animal Conservation Series: Protecting birds in Singapore</b></a></td>
+        <td style="width: 20%;"><a href="/sustainability/preschoolers/content" target="_blank"><b> Animal Conservation Series: Protecting birds in Singapore</b></a></td>
         <td style="width: 40%;"> Understand more about the different types of birds in Singapore, why they are important and how to protect them. There are also fun activities and related book recommendations.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/sustainability/preschoolers/content"><b> Animal Conservation Series: Sea Turtle Rescue</b></a></td>
+        <td><a href="/sustainability/preschoolers/content" target="_blank"><b> Animal Conservation Series: Sea Turtle Rescue</b></a></td>
         <td>Understand more about sea turtles and the dangers they are facing and how to protect them. There are also fun activities and related book recommendations.</td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/preschoolers/content"><b> Urban Farming</b></a></td>
+        <td><a href="/sustainability/preschoolers/content" target="_blank"><b> Urban Farming</b></a></td>
         <td>Understand more about what is urban farming and its benefits. There are also fun activities and related book recommendations.</td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/preschoolers/content"><b> 3 Rs for Children</b></a></td>
+        <td><a href="/sustainability/preschoolers/content" target="_blank"><b> 3 Rs for Children</b></a></td>
         <td>Video resources to help children understand more about the 3Rs and how to take care of the environment.</td>
         <td></td>
         <td> </td>
