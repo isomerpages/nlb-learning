@@ -68,7 +68,7 @@ Click [here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/S
 
 Designed and curated by NLB, these monthly sessions help seniors understand how to use NLB’s digital services and resources. While tech-savvy participants are welcome, this programme largely explores the basics such as WIFI, QR codes and the NLB mobile app. 
 
-Click [here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys){:target="_blank"} to register.
+Click <strong>[here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys){:target="_blank"}</strong> to register.
 
 ## **e-Payment Learning Journey**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-05.png)
