@@ -131,12 +131,6 @@ Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Ma
         <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank">Various dates</td>
         <td>Zoom</td>
       </tr>
-<tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>LearnX Health</b><br>Financial Literacy: Adulting 101 and Adulting 102</a></td>
-        <td>Learn about buying property, insurance and investments.</td>
-        <td>Various dates</td>
-        <td>Zoom</td>
-      </tr>
     </tbody>
   </table>
 </div>
