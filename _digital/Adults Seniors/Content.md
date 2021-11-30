@@ -395,8 +395,6 @@ Catch a glimpse of how Design Thinking has human interest and wellbeing at its c
 <p>Uncover the significance of Design Thinking in innovation, and understand why this iterative process is important problem-solving.</p>
 <small> Source: Design Thinking - Does it Matter? (2021, September 28). The Helpful Human Podcast. Retrieved 2021, October 12.</small>
 
-<!—Start: Learning Packages -->
-
 <h2>Learning Packages</h2>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
@@ -859,3 +857,4 @@ Becca Caddy (2021), <i>Screen Time</i>, Blink Publishing. <br>
 </p>
 <h4>References</h4>
 13) <a id="footnote-thirteen">Smartphone penetration rate as share of the population in Singapore from 2010 to 2020 and a forecast up to 2025</a>. <i>Statista.com</i>. Retrieved 2021, October 21 from <a href="https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/" target="_blank">https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/</a>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
