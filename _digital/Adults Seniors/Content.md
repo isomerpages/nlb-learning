@@ -279,7 +279,8 @@ src="https://www.youtube.com/embed/llNNrrDZZdE"></iframe>
   </div>
 </div>
 
-<h5 class="margin--bottom--lg" id=”playlist-wellness”>Playlist: Cyber wellness is just a click away!</h5>
+<h5 class="margin--bottom--lg" id="playlist-wellness"><b>Playlist: Cyber wellness is just a click away!</b></h5>
+
 
 In a world heavily reliant on technology, issues such as digital burnout, social isolation and cyberbullying can be daunting. 
 
@@ -318,7 +319,7 @@ Learn how you can reclaim positive online experiences and improve your relations
 <p>Explore the concept of digital wellbeing, how the COVID-19 pandemic has altered our digital lives, and what constitutes intentional and considerate usage of technology.</p>
 <small> Source: A World of Wellbeing Podcast: Digital Wellbeing (2021, April 19). Global Wellbeing Podcast. Retrieved 2021, October 12.</small>
 
-<h5 class="margin--bottom--lg" id=”playlist-crime”>Playlist: Uncovering the Secrets of Cybercrime</h5>
+<h5 class="margin--bottom--lg" id="playlist-crime"><b>Playlist: Uncovering the Secrets of Cybercrime</b></h5>
 
 Interested to find out more about cybercrime and the domain in which it lurks? Watch these videos to discover the various forms of cyberattacks, the truth about the dark web, and what you can do in the event of online identity theft!
 
@@ -356,7 +357,7 @@ Find out what exactly is cybercrime and the different forms it can take in our w
 <p>Ever wondered what would happen if someone wanted to steal your Instagram account? Join host Jack Rhysider in uncovering the possible motivations behind this form of online identify theft, and find out what to do if it were to occur.</p>
 <small> Source: Ep 97: The Pizza Problem (2021, July 21). Darknet Diaries. Retrieved 2021, October 12.</small>
 
-<h5 class="margin--bottom--lg" id=”playlist-think”>Playlist: Think Like A Designer</h5>
+<h5 class="margin--bottom--lg" id="playlist-think"><b>Playlist: Think Like A Designer</b></h5>
 Good design, as the saying goes, is invisible – it brings you greater convenience and simple satisfaction with no questions or complaints. 
 
 Watch these videos to learn more about design thinking, the process behind good design that helps to identify users’ needs and address them effectively. 
@@ -624,7 +625,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id=”lp-create”>Learning Package: Digital Creation</h5>
+<h5 class="margin--bottom--lg" id="lp-create"><b>Learning Package: Digital Creation</b></h5>
 <p>What is digital creation? To put it simply, digital creation is the process of creating a work, a product or a tool using digital technology. Digital creation can range from simple actions like snapping a photo with your phone or writing a blog post, to more advanced ones like creating digital art and engaging in digital making such as 3D printing and digital cutting.
 To help you understand and learn more about digital creations, do check out the resources that we have compiled here.
 <table border="1">
@@ -694,8 +695,9 @@ The Video Creators Club – Suitable for beginners interested in nurturing their
 9) <a id="footnote-nine">First Digital Photos, From Victorian Technology To The Internet </a>. <i>The National Science and Media Museum</i>. Retrieved 2021, October 20 from <a href=" https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos" target="_blank"> https://www.scienceandmediamuseum.org.uk/objects-and-stories/first-digital-photos</a> 
 <br>
 10) <a id="footnote-ten">Artist Beeple’s digital work sells for record $93 million</a>. <i> The Straits Times</i>. Retrieved 2021, March 12 from <a href="https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million" target="_blank">https://www.straitstimes.com/world/united-states/artist-beeples-digital-work-sells-for-record-93-million</a>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id=”lp-socmed”>Learning Package: Social Media</h5>
+<h5 class="margin--bottom--lg" id="lp-socmed"><b>Learning Package: Social Media</b></h5>
 <p>Social media has changed the way and the speed with which we can interact and exchange information with others. In essence, social media are online communication tools that allow you to publish and share information. You can use a social media platform to connect with friends and family, catch up on news and to watch videos. Some popular examples include Facebook, Instagram or YouTube. More than just for personal use, social media can also be used by businesses to market their products and services and connect to their consumers. 
 Learn more about how to use the various popular social media platforms and find out basic tips on how to protect yourself when using social media.</p>
 <table border="1">
@@ -775,7 +777,9 @@ Kristen Meinzer (2019), <i>So You Want to Start a Podcast: Finding Your Voice, T
 <br>
 12) <a id="footnote-twelve">Daily Time Spent with Media. Half a Billion Users joined Social in the Last Year (and other facts)</a> <i>Hootsuite</i>. Retrieved 2021, October 19 from <a href="https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png" target="_blank">https://blog.hootsuite.com/wp-content/uploads/2021/07/Digital-2021-Q3-Daily-Time-Spent-with-Media.png</a>
 
-<h5 class="margin--bottom--lg" id=”lp-smartphone”>Learning Package: Using Your Smartphone</h5>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="lp-smartphone"><b>Learning Package: Using Your Smartphone</b></h5>
 <p>There are many useful and fun things you can do with your smartphone today. With its ability to access the Internet, a smartphone can do more than make a phone call or send a text message. Depending on your needs and interests, you can use a smartphone to look up information, play games, watch videos and even buy groceries. Today, a smartphone has become an important tool that provides its users with both convenience and ease, wherever you go!</p>
 <p>If you would like to find out more about what a smartphone can do for you in your everyday life, some resources have been compiled here.</p>
 <table border="1">
