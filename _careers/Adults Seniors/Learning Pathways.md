@@ -271,11 +271,11 @@ SkillsFuture credits</b></a></td>
     </thead>
     <tbody>
 <tr>
-        <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>Learn how to acquire new skills with 
+        <td style="width: 20%;"><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>Learn how to acquire new skills with 
 SkillsFuture credits</b></a></td>
-        <td>SkillsFuture Advice webinars</td>
-        <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank">Various dates – refer to the SkillsFuture website</a></td>
-        <td>Zoom</td>
+        <td style="width: 40%;">SkillsFuture Advice webinars</td>
+        <td style="width: 20%;"><a href="https://www.skillsfuture.gov.sg/advice" target="_blank">Various dates – refer to the SkillsFuture website</a></td>
+        <td style="width: 20%;">Zoom</td>
       </tr>
     </tbody>
   </table>
