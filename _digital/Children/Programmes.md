@@ -28,7 +28,7 @@ Introduce your child to future-ready concepts such as coding, robotics, AR and m
 
 ## **Budding Coders**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-Children-01b.png)
-Children will learn coding concepts through hands-on gameplays and develop problem solving skills, critical thinking, creativity, and collaboration. 
+Children will learn coding concepts through hands-on gameplay and develop problem-solving skills, critical thinking, creativity and more.
 
 Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
