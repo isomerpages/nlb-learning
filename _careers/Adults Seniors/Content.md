@@ -290,7 +290,6 @@ Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/m
 </p>
 
 <h3 id="lp-biz"><b>Learning Package: How to Start Your Own Business</b></h3>
-<h4>Introduction</h4>
 <p> Having a great business idea is the first step to starting a business of your own. With many home-based businesses requiring minimal start-up costs and the proliferation of social media to attract new customers, the prospect of being your own boss certainly seems within reach.
 <br>
 Here are some resources to get you started.</p>
