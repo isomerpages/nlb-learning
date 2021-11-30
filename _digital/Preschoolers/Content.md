@@ -24,7 +24,9 @@ third_nav_title: Preschoolers
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
-Many studies have reported that well curated experiences with new media such as those offered by coding programmes or technological toys can have a long-term positive impact on children’s development. As such we have curated a list of resources and programmes for you and your child to explore. Have fun learning!
+Many studies have reported that well-curated experiences with new media such as those offered by coding programmes or technological toys can have a long-term, positive impact on children’s development. 
+
+We have curated a list of resources and programmes for you and your child to explore together. Have fun learning!
 
 [Let's learn about Decomposition!](/files/Digital_Decomposition_Package_Early%20Read.pdf){:target="_blank"}
 
