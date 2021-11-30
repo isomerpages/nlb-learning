@@ -98,7 +98,7 @@ A collection of short videos or selected podcasts, exploring topics around perso
 
 Starting your own business can be daunting. A single idea can light the spark to start your entrepreneurial endeavour, but several aspects must be considered before setting off.<br>
 
-Check out these resources to help you jet-start your journey to build your own business and gain some inspiration from those on the same path. 
+Check out these resources to help you kickstart your entrepreneurial  journey and gain some inspiration from those on the same path.
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
