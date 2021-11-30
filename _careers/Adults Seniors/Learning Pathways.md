@@ -173,7 +173,7 @@ Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Ma
     <tbody>
       <tr>
         <td style="width: 20%;"><b>An Artificially Intelligent Business</b></td>
-        <td style="width: 40%;">Breakthrough Series with <br>Sinuhe Arroyo, Founder of Taiger <br>Asheeh Mehra, Co-founder of AntWorks<br> Joel Bar-El, Founder of Trax Retail</td>
+        <td style="width: 40%;">Breakthrough Series with <br>Sinuhe Arroyo, Founder of Taiger <br>Asheeh Mehra, Co-founder of AntWorks<br> Joel Bar-El, Founder of Trax Retail<br><br>Registration opens two weeks before the programme.</td>
         <td style="width: 20%;"> 20 Jan 2022<br>7pm - 8pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
