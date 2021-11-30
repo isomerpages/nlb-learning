@@ -39,9 +39,9 @@ description: ""
 </style>
 ![LearnX Digital](/images/digital/learnx-digital-landing-kv-1.jpg)
 
-Technology has become pervasive in every aspect of our lives. Innovation and technological progress have become part of how we all live and work. Knowing how to smartly and safely use technology has become, and will continue to be, an essential skill.
+Technology has become pervasive in every aspect of our lives.  Knowing how to smartly and safely use technology is, and will continue to be, an essential skill.
 
-We have created this Digital area of learning to be easy to access and understand, even for non-experts. Come join Singapore’s journey to be a SMART Nation in a digital future.
+This digital area of learning is accessible and easy to understand, even for non-experts. Come join Singapore’s journey to become a SMART Nation with a digital future.
 
 <!-- <p>
   <div class="responsive-iframe-container ratio-16by9">
