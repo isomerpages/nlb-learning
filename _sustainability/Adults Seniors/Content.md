@@ -121,7 +121,7 @@ You have heard about renewable energy but wondered about its potential to meet o
   <div class="col is-three-fifths">
   <p><b> Are Electric Cars Really Good For the Environment?</b><br>
 This video brings you up to speed to the debate on electric cars and lays out the key points to consider about its environmental friendliness. <br><br>
-Source: Are Electric Cars Really Good For the Environment? (2020, October 10). CNA Insider.Retrieved 2021, October 15..</p>
+<small>Source: Are Electric Cars Really Good For the Environment? (2020, October 10). CNA Insider.Retrieved 2021, October 15.</small></p>
   </div>
 </div>
 
@@ -175,10 +175,40 @@ We can turn to nature to better our health. In this video, Dr Nooshin shares how
   </div>
   <div class="col is-three-fifths">
  <p><b>What Nature Can Teach Us About Life</b><br>
-This video examines what draws us to nature and the lessons it can impart about life. 
+This video examines what draws us to nature and the lessons it can impart about life. <br><br>
 <small>Source: What Nature Can Teach Us About Life. (2017, Mar 12). Goalcast. Retrieved 2021, Nov 16. </small></p>
   </div>
 </div>
+
+<h5 id="wardrobe-playlist" class="margin--bottom--lg"><b>Playlist: Why You Should Be Concerned About Your Wardrobe</b></h5>
+We zero in on some of the sustainability issues related to fashion in this compilation. <br>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/YOA0D0i5-fA" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Is Fast Fashion Destroying our Environment?</b><br>
+Fast Fashion is considered one of the greatest contributors to climate crisis. This short video essay explains what fast fashion is and how it impacts the environment.<br><br>
+<small>Source: Is Fast Fashion destroying our environment? (2018, November 24). Our Changing Climate. Retrieved 2021, October 16.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/UMBZeJ74GuE" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Where Your Old Clothes Go | Trash Trail</b><br>
+You love fashion and think nothing of buying the latest designs. However, have you thought about what happens to those pieces that you discard to make space for more?<br><br>
+<small> Source: Where Your Old Clothes Go | Trash Trail (2017, February 16). CNA Insider. Retrieved 2021, October 12.</small></p>
+  </div>
+</div>
+
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
