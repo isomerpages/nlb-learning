@@ -36,23 +36,3 @@ Articles that will give you an insight into digital concepts.
 Unsure of how to get your children started with coding? 
 Here are some basic elements which you can introduce during playtime to help them get comfortable with coding concepts without even using any digital devices!
 <h5><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank">Learn More</a></h5>
-<br>
-<br>
-
-<!--TESTING PURPOSES-->
-
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-  <a href="https://www.facebook.com/MediaLiteracyCouncilSG/videos/844324729321869">
-		<img src="![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-01.jpg)">
-			</a>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> Bringing Water to Terry - The Adventures of Water Wally & Sally (5 min)</b><br>
-Join Public Utilities Board’s Water Wally and Sally, as they help their friend Terry the Terrapin, after he finds his pond all dried up. Brought to life by imaginative illustrations and effects, children will enjoy this storytelling video presented by Zemily Leow.  </p>
-
-   <small>Source: Bringing Water to Terry - The Adventures of Water Wally & Sally - YouTube (2021, January 29). sgPUB. Retrieved 2021, October 22. </small>
-  </div>
-</div>
