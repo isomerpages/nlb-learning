@@ -82,6 +82,50 @@ Are you very sure that your data and accounts are secured and have not been comp
   </div>
 </div>
 
+<h5 class="has-text-indigo margin--bottom--lg"><b>Playlist: Think Green, Go Green</b></h5>
+Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=LLJlRA51vak"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-indigo"> Dot and the Green Pea | Episode 1: Green is the New Black (5 min)</b><br>
+Follow Dorothy Chiang’s journey as an eco-influencer, where she learns how going green is not as easy as it seems. Dot and the Green Pea is a short series that touches on re-examining our convictions about sustainability. </p>
+
+    <small>Source: Dot and the Green Pea | Episode 1: Green is the New Black - YouTube (2018, April 2). Ministry of Sustainability and the Environment. Retrieved 2021, October 22.</small>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=VnXviCxC_Fs"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+<p><b class="has-text-indigo"> Dear Earth (2 min)</b><br>
+How much thought have you given to how you can better relate to the earth and the natural environment you live in? Don’t hesitate and start thinking now!</p>
+
+    <small> Source: Dear Earth - YouTube (2019, April 20). Ministry of Sustainability and the Environment. Retrieved 2021, October 22.</small>
+  </div>
+</div>
+
+<div class="row is-multiline">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=yiw6_JakZFc"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-indigo"> Can YOU Fix Climate Change? (15 min)</b><br>
+    Are you aware of the different interlinked issues behind our pursuit of sustainability? This video will challenge you to understand the bigger picture before considering what you can do to raise awareness and truly make a difference. </p>
+    <small>Source: Can YOU Fix Climate Change? - YouTube (2021, September 22). Kurzgesagt – In a Nutshell. Retrieved 2021, October 22.</small>
+  </div>
+</div>
+<br>
+
 <a name="lp-design">![Graphic Design is My Passion header](images/digital/teens/tt21-header-gd.png)</a>
 #### **Learning Package: Graphic Design is My Passion**
 Need something more than MS Paint for your projects? Get creative with five free and easy-to-use online resources for you to experiment with graphic design and web-page building. 
