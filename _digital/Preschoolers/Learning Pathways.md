@@ -137,7 +137,7 @@ In fact, they will soon realise computational thinking exists in all aspects of 
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Engineers: It's Time to Learn About Time!</b></a></td>
-        <td>Children will learn about how chemical reactions work with this fun and exciting screen free activity!</td>
+        <td>Children will learn about the fascinating world of time in this fun-filled session!</td>
         <td>15 Jan 2022 <br>2pm - 3pm</td>
         <td>Zoom</td>
       </tr>
