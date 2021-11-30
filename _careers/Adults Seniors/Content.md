@@ -216,8 +216,17 @@ Reduce your nervousness and frustration with your job search with these videos. 
 {: .has-text-right .margin--top--xl}
 
 <h3 id="lp-job"><b>Learning Package: Job-Hunter’s Toolkit</b></h3>
-<h4>Introduction</h4>
-<p> There are 4 main challenges in looking for a job – 1) deciding on the types of industries and positions that suit us, 2) writing a resume that maximises our chances of getting an interview, 3) acing interviews, and 4) staying positive. Here are some great resources to help make this journey as painless as possible. </p>
+
+<p> There are 4 main challenges when looking for a job:
+
+1) Deciding on the types of industries and positions that suit you. 
+2) Writing a resume that maximises your chances of getting an interview.
+
+3) Acing interviews 
+
+4) Staying positive. 
+
+Here are some great resources to help make this journey as painless as possible. </p>
 <table border="1">
 	<tbody><tr>
 		<td>
