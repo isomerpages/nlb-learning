@@ -32,10 +32,6 @@ Pick up skills from professional trainers, and get answers, ideas as well as ins
 
 Get Professional Season 4 spotlights important skills to enhance employability (interview and resume writing) and cope in the new normal (managing change and building resiliency), with exciting new facets on writing and presentation skills. From general business writing to corporate storytelling, the series focuses on vital skills to improve workplace productivity and efficiency. 
 
-This series is recommended for jobseekers and working adults seeking to improve their writing, speaking and interpersonal skills.
-
-By the end of each workshop, you can expect to have learnt a couple of effective strategies to improve your skill in the topic covered.
-
 Click [here](http://go.gov.sg/get-professional-series){:target="_blank"} for the latest programme listings.
 
 ## **Industry Insights**
