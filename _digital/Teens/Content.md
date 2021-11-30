@@ -38,25 +38,6 @@ third_nav_title: Teens
 .clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
 </style>
 <p>Explore resources and content on topics that reveal the possibilities of technology.</p>
-<p>Check out our <b>playlist</b> for a collection of short videos exploring topics around digital concepts.</p>
-<p>Check out our <b>learning package</b> for articles that will give you an insight into digital concepts.</p>
-
-<div class="row is-multiline">
-  <div class="col is-one-half">
-    <div class="clickbox is-sky-indigo">
-      <a href="#playlist-sure">
-        <span>Playlist: Stay Safe,<br> Stay Informed</span>
-      </a>
-    </div>
-  </div>
-  <div class="col is-one-half">
-    <div class="clickbox is-sky-indigo">
-      <a href="#lp-design">
-        <span>Learning Package:<br>Graphic Design</span>
-      </a>
-    </div>
-  </div>
-	</div>
 
 <h3 id="playlist-sure" class="margin--bottom--lg"><b>Playlist: Stay Safe, Stay Informed</b></h3>
 <p>Check out these resources that highlight tips on keeping your online information protected, while exploring new digital advancements and opportunities.</p>

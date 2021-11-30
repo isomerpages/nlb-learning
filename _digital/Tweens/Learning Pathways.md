@@ -26,7 +26,7 @@ third_nav_title: Tweens
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 <h3><b>Tech and You!</b></h3>
-Explore the wonders of tech.
+Spark your child’s curiosity in digital literacy through engaging activities and articles.
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -37,16 +37,15 @@ Explore the wonders of tech.
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/Tweens-Secret Messages.pdf" target="_blank"><b>Learning Package: Secret Message</b></a></td>
-        <td style="width: 40%;">Spark your child’s curiosity in digital literacy through engaging activities and articles.<br><br>
-Secret Message<br>
-Problem-solve through a do-it-yourself activity based on codes and cryptography. Just follow the instructions and have fun!</td>
+        <td style="width: 40%;">Problem-solve through a do-it-yourself activities based on codes and cryptography. Just follow the instructions and have fun!
+</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
         <td><a href="/digital/tweens/content" target="_blank"><b>Playlist: Be Informed, Be Safe</b></a></td>
         <td> Be Informed, Be Safe<br>
-Check out these resources to help you navigate the digital world, from keeping your information protected to ensuring that you are equipped to analyse and debunk fake news!. </td>
+Check out these resources to help you navigate the digital world, from keeping your information protected to ensuring that you are equipped to analyse and debunk fake news!</td>
         <td> </td>
         <td> </td>
       </tr>

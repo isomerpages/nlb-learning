@@ -132,7 +132,7 @@ Technology is changing the way we live and work by making things more accessible
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/lcsessions" target="_blank"><b>Pi and Python LC</b></a></td>
-        <td style="width: 40%;">The aim of this course is to create awareness of the Raspberry Pi, learn how to programme it using the Python Language, and create interesting projects like a burglar alarm.</td>
+        <td style="width: 40%;">The aim of this LearnX Community is to create awareness of the Raspberry Pi, learn how to programme it using the Python Language, and create interesting projects like a burglar alarm.</td>
         <td style="width: 20%;">2 Dec 2021, <br>9pm - 10pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
@@ -156,7 +156,7 @@ In this four-week programme, participants will go through self-paced e-learning 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" target="_blank"><b>LearnX Career</b><br>An Artificially Intelligent Business</a></td>
+        <td style="width: 20%;"><a href="#" target="_blank"><b>LearnX Careers</b><br>An Artificially Intelligent Business</a></td>
         <td style="width: 40%;">Series: Breakthrough<br>
 With guest speakers:<br>
 •	Sinuhe Arroyo, Founder of Taiger, <br>

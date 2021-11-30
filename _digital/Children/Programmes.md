@@ -28,7 +28,7 @@ Introduce your child to future-ready concepts such as coding, robotics, AR and m
 
 ## **Budding Coders**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-Children-01b.png)
-Children will learn coding concepts through hands-on gameplays and develop problem solving skills, critical thinking, creativity, and collaboration. 
+Children will learn coding concepts through hands-on gameplay and develop problem-solving skills, critical thinking, creativity and more.
 
 Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
@@ -36,7 +36,7 @@ Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singap
 ## **S.T.E.A.M Lab** 
 
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-Children-03.png)
-An annual event that engages tweens aged 7 to 17 years old, in an all-round tinkering experience on S.T.E.A.M topics through hands-on activity booths and exhibits. 
+An annual event that engages children and tweens aged 7 to 17 years old, in an all-round tinkering experience on S.T.E.A.M topics through hands-on activity booths and exhibits. 
 
 Click [here](https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama){:target="_blank"} for the latest programme listings.
 
