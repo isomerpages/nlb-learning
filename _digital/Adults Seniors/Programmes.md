@@ -42,7 +42,7 @@ A new series on how technology impacts our daily lives. Dive into topics such as
 
 This series is organised in collaboration with NLB’s S.U.R.E programme, partners and community advocates. 
 
-Click [here](https://go.gov.sg/nlbmdl){:target="_blank"} for the latest programme listings.
+Click <strong>[here](https://go.gov.sg/nlbmdl){:target="_blank"}</strong> for the latest programme listings.
 
 ## **MakeIt at Libraries** 
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-MakeIT-at-Libraries.png)
