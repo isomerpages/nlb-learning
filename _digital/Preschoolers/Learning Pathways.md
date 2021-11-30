@@ -131,7 +131,7 @@ In fact, they will soon realise computational thinking exists in all aspects of 
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/tsr-progs" target="_blank"><b>Toddlers Songs & Rhymes</b></a></td>
-        <td>Introduce the concept of Numbers / Counting [Digital] through this fun session of Toddlers, Songs & Rhymes.</td>
+        <td>Toddlers will be introduced to the concept of numbers and counting through this series of fun songs and rhymes.</td>
         <td>17 Dec 2021 <br>3pm - 4pm</td>
         <td>Zoom</td>
       </tr>
