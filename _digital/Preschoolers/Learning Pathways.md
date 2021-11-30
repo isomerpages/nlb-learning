@@ -89,20 +89,19 @@ In fact, they will soon realise computational thinking exists in all aspects of 
       </tr>
       <tr>
         <td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Think like a coder Session 1- Amazing Algos: Think Like a coder</b></a></td>
-        <td>In this screen free coding workshop, children are introduced to algorithms and how they can make their own algorithm from day to day activities. </td>
+        <td>In this screen-free coding workshop, children are introduced to algorithms and how they can make their own from day-to-day activities. </td>
         <td>22 Jan 2022<br>2pm – 2.30pm</td>
         <td>Zoom</td>
       </tr>
       <tr>
         <td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Travelling with Bee Bot</b></a></td>
-        <td>Come programme Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking.  Screens are not needed for this activity! <br><br>
-Participants will have a chance to experience Bee bot, a programmable robot in this workshop. Screens are not needed for this activity!</td>
+        <td>Come programme Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking. Screens are not needed for this activity!</td>
         <td>February 2022</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Precoding For Preschoolers: Story Sequence and Algorithms</b></a></td>
-        <td>In this screen free coding workshop, children are introduced to sequences and loops and how they can experience sequences and loops from day to day activities.</td>
+        <td>In this screen-free coding workshop, children are introduced to sequences and loops, and learn how they can experience them in day-to-day activities.</td>
         <td>19 Feb 2022 <br>11am - 12pm</td>
         <td>Woodlands Regional Library</td>
       </tr>
