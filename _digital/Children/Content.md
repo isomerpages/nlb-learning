@@ -37,4 +37,24 @@ Unsure of how to get your children started with coding?
 Here are some basic elements which you can introduce during playtime to help them get comfortable with coding concepts without even using any digital devices!
 <h5><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank">Learn More</a></h5>
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+<!--TESTING PURPOSES-->
+
+<h5 class="has-text-indigo margin--bottom--lg"><b>Playlist: Think Green, Go Green</b></h5>
+Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+<a href="https://www.facebook.com/MediaLiteracyCouncilSG/videos/844324729321869">
+<img alt="Vid Thumbnail" src="/images/digital/Digital-Prog-AS-01.jpg"
+         width=150" height="70">
+</a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b class="has-text-indigo"> Dot and the Green Pea | Episode 1: Green is the New Black (5 min)</b><br>
+Follow Dorothy Chiang’s journey as an eco-influencer, where she learns how going green is not as easy as it seems. Dot and the Green Pea is a short series that touches on re-examining our convictions about sustainability. </p>
+
+<small>Source: Dot and the Green Pea | Episode 1: Green is the New Black - YouTube (2018, April 2). Ministry of Sustainability and the Environment. Retrieved 2021, October 22.</small>
+  </div>
+</div>
+
