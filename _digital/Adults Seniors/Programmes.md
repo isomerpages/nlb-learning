@@ -49,7 +49,7 @@ Click <strong>[here](https://go.gov.sg/nlbmdl){:target="_blank"}</strong> for th
 
 NLB’s free-for-public makerspace introduces the wonder of digital and technology-based creativity to all library members. Try your hand at emerging technology like 3D printing, robotics, and other forms of tech-based tinkering. The best part? No prior experience needed! All equipment and consumables are provided. Suitable for all ages.
 
-Click [here](https://go.gov.sg/nlb-makeit-events){:target="_blank"} for the latest programme listings.
+Click <strong>[here](https://go.gov.sg/nlb-makeit-events){:target="_blank"}</strong> for the latest programme listings.
 
 
 # **For Older Learners**
