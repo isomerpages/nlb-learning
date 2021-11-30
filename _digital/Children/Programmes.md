@@ -36,7 +36,7 @@ Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singap
 ## **S.T.E.A.M Lab** 
 
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-Children-03.png)
-An annual event that engages tweens aged 7 to 17 years old, in an all-round tinkering experience on S.T.E.A.M topics through hands-on activity booths and exhibits. 
+An annual event that engages children and tweens aged 7 to 17 years old, in an all-round tinkering experience on S.T.E.A.M topics through hands-on activity booths and exhibits. 
 
 Click [here](https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama){:target="_blank"} for the latest programme listings.
 
