@@ -38,7 +38,9 @@ Click [here](https://go.gov.sg/nlbfow){:target="_blank"} for the latest programm
 ## **My Digital Life**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-02.jpg)
 
-A new series on how current and emerging ways that technology impacts our daily lives. Emerging and trending topics such as Artificial intelligence, 5G, online privacy, media literacy, and cyber-wellness are covered in free-for-public workshops and sessions, to cultivate better understanding and demystification of the technology that now permeates our lives. This series is run in collaboration with NLB’s S.U.R.E programme, partners and community advocates. 
+A new series on how technology impacts our daily lives. Dive into topics such as artificial intelligence, 5G, online privacy, media literacy, and cyber-wellness through free-for-public workshops and sessions. 
+
+This series is organised in collaboration with NLB’s S.U.R.E programme, partners and community advocates. 
 
 Click [here](https://go.gov.sg/nlbmdl){:target="_blank"} for the latest programme listings.
 
