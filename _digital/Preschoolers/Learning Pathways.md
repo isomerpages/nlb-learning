@@ -35,6 +35,8 @@ These activities will include programming tech toys without the need for a scree
 
 In fact, they will soon realise computational thinking exists in all aspects of our lives. For example, children will be able to learn that understanding algorithms is an important skill to have if they are conducting an experiment and that patterns exists everywhere including the natural world!
 
+<br>
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
