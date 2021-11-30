@@ -78,7 +78,7 @@ Are you very sure that your data and accounts are secured and have not been comp
   <div class="col is-three-fifths">
     <p><b class="has-text-indigo">Digital Footprints (2:46)</b><br>
     Ever stopped to think if you should really be posting that online? Watch this video to learn more about the digital footprints you leave behind with each online post, and why it matters now and even in the future.</p>
-    <small>Source: Digital Footprints -Youtube (2019, Apr 17). <i>NgeeAnnPoly Library</i>. Retrieved 2021, October 22.</small>
+<small>Source: Digital Footprints -Youtube (2019, Apr 17). <i>NgeeAnnPoly Library</i>. Retrieved 2021, October 22.</small>
   </div>
 </div>
 
@@ -87,21 +87,21 @@ Gain insights into the intricacies of environmental issues and be inspired to li
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=LLJlRA51vak"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/LLJlRA51vak"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
     <p><b class="has-text-indigo"> Dot and the Green Pea | Episode 1: Green is the New Black (5 min)</b><br>
 Follow Dorothy Chiang’s journey as an eco-influencer, where she learns how going green is not as easy as it seems. Dot and the Green Pea is a short series that touches on re-examining our convictions about sustainability. </p>
 
-    <small>Source: Dot and the Green Pea | Episode 1: Green is the New Black - YouTube (2018, April 2). Ministry of Sustainability and the Environment. Retrieved 2021, October 22.</small>
+   <small>Source: Dot and the Green Pea | Episode 1: Green is the New Black - YouTube (2018, April 2). Ministry of Sustainability and the Environment. Retrieved 2021, October 22.</small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=VnXviCxC_Fs"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/VnXviCxC_Fs"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -115,7 +115,7 @@ How much thought have you given to how you can better relate to the earth and th
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=yiw6_JakZFc"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/yiw6_JakZFc"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
