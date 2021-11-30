@@ -27,7 +27,7 @@ third_nav_title: Teens
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3><b>Career Exploration</b></h3>
-When it comes to a fulfilling career, there’s no one-size-fits-all answer for everyone. Maybe you need to polish your soft skills or perhaps you’re keen to see what career options are out there. Through this pathway you can explore different resources and get on a professional path that’s right for you.
+Clueless about which career is suitable for you? Discover and explore various careers through our curated programmes and resources.
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
