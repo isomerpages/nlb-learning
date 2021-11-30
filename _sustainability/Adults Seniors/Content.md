@@ -24,6 +24,80 @@ third_nav_title: Adults & Seniors
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
+
+<h3 class="has-text-ruby"><b>Playlist</b></h3>
+A collection of short videos or selected podcasts, exploring topics around personal and professional development.
+
+<h5 id=”green=economy” class=”margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/zCRKvDyyHmI" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Explaining the Circular Economy: Rethink Progress</b><br>
+    A key principle of the green economy is circulatory, which is about keeping products and materials in continued use. This video explains how circulatory works and highlights how it can be implemented. 
+																	
+<small>Source: Explaining the Circular Economy: Rethink Progress (2011, August 29). Ted. Retrieved 2021, October 16.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/XmN_DpN9CNs" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b> Working Together to Grow a Green Economy</b><br>
+    Another principle of the green economy is collaboration. This video showcases ways of working together by highlighting initiatives from Ethiopia. <br><br>
+<small>Source: Working Together to Grow a Green Economy (2016, November 9). World Bank. Retrieved 2021, October 13.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/A3jb2k93tZM" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Forests: The Heart of the Green Economy</b><br>
+    Nature and the economy are interconnected with protection of nature vital to enable the transition to a green economy. <br><br>
+<small>Source: Forests: The Heart of the Green Economy (2013, June 18). UN Enrichment Programme. Retrieved 2021, October 12.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/W4bnCCE07Hw" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Green Economy: Singapore Green Plan 2030</b><br>
+    The green economy is one of five key pillars under Singapore’s Green Plan.  Find out what this entails and how it will be implemented. <br><br>
+<small>Source: Green Economy: Singapore Green Plan 2030 (2021, Feb 10). Ministry of Sustainability and the Environment. Retrieved 2021, September 25. </small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/Qg5u63QQP-A" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Changing Tides: A Sustainable Blue Economy</b><br> 
+A related concept to the green economy is the blue economy which is about managing the ocean’s role as a food supply source and enabler of global trade in a way that is sustainable. <br><br>
+<small>Source:   Changing Tides: A Sustainable Blue Economy (2021, Nov 28). UN Environment Programme. Retrieved 2021, September 16.</small></p>
+  </div>
+</div>
+
+
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg"><b>The Green Economy</b></h5>
 <p>It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><a href="#footnote-one">1</a></sup>
