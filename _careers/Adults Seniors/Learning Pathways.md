@@ -219,7 +219,7 @@ Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Ma
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="_blank"><b>Communication at Work Learning Package</b></a></td>
-        <td style="width: 40%;"></td>
+        <td style="width: 40%;">Happiness at work (and life) can be simple – learn ways to stop saying “yes” on impulse, how to make your life easier, and how you can use “monk mode” regularly for uninterrupted blocks of super-productive time.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
