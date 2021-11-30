@@ -37,9 +37,7 @@ Go digital with your child and discover a world of technology and innovation tog
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/digital/children/content" target="_blank"><b>Playlist: Safer Internet</b></a></td>
-        <td style="width: 40%;">A collection of short videos exploring topics around digital concepts.<br><br>
-Safer internet<br>
-Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below</td>
+        <td style="width: 40%;">Learn how to keep yourself safe online and become digitally savvy through these series of videos.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
