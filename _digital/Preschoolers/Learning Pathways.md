@@ -119,13 +119,13 @@ In fact, they will soon realise computational thinking exists in all aspects of 
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists: Baking Soda & Vinegar Balloons Experiment </b></a></td>
-        <td style="width: 40%;"> Children will learn about how chemical reactions work with this fun and exciting screen free activity!</td>
+        <td style="width: 40%;"> Children will learn about how chemical reactions work in this fun and exciting screen-free activity. </td>
         <td style="width: 20%;">11 Dec 2021 <br>12pm - 3pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Engineers: Blast Off with Magnetic Rockets!</b></a></td>
-        <td>Children will learn about how magnets work with this fun and exciting screen free activity!</td>
+        <td>Children will learn about how magnets work in this fun and exciting screen-free activity. </td>
         <td>26 Feb 2022<br>2pm - 3pm</td>
         <td>Zoom</td>
       </tr>
