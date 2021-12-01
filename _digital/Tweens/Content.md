@@ -25,6 +25,38 @@ third_nav_title: Tweens
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
 
+<h3><b>Playlist </b></h3>
+Check out these resources to help you navigate the digital world, from keeping your information protected to ensuring that you are equipped to analyse and debunk fake news!
+<h5 class="margin--bottom--lg" id="playlist-health"><b>Playlist: Be Informed, Be Safe </b></h5>
+
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7ya1t51lIcQ"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Learn cyber tips from our very own Cyber Sandra! Episode 1: Strong Passwords (2min) </b><br>
+Learn how you can keep your online accounts more secure with Cyber Sandra, from the Cyber Security Agency of Singapore. Try out some of these fast and effective password security tips!</p>
+    <small>Source: Cyber Sandra's Hacks - Strong Passwords - YouTube (2021, May 7). Cyber Security Agency of Singapore. Retrieved 2021, October 22. </small>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/kQzLiygnSWY"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Lets Talk Cyber: How to be cyber safe? (16min)</b><br>
+ Do you know how to be safe online? Navigate through the various threats found online with Cyber Sandra, as she discusses the interconnected nature of our devices, and how we can protect ourselves from these threats and keep our information safe.</p>
+    <small>Digital Defence: How to be cyber safe? - YouTube (2021, June 14). Cyber Security Agency of Singapore. Retrieved 2021, October 22.</small>
+  </div>
+</div>
+
+
 Use these resources to introduce your child to digital concepts and technology.
 <h3><b>Learning Package</b></h3>
 Articles that will give you an insight into digital concepts.
