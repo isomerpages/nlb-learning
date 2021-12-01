@@ -46,6 +46,24 @@ Check out our **playlist** for a collection of short videos exploring topics aro
 
 Explore our **learning packages** for fun facts and activities that show our little ones interesting ways to protect nature.
 
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#playlist-3r">
+        <span>Playlist:<br>The 3 Rs</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-sust">
+        <span>Learning Packages</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
+
 <h5 class="margin--bottom--lg" id="playlist-3r"><b>Playlist: 3 Rs for young children</b></h5>
 
 It is never too early to teach children about sustainability and the importance of caring for our environment. Although this might be a broad topic, there are plenty of ways to teach young children about sustainability in a way that they can understand. 
