@@ -372,7 +372,7 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 </ol>
 
 <img src="/images/sustainability/energysustainabilitybanner.png" alt="cover image">
-<h1>Learning Package: Energy Sustainability</h1>
+<h1 id="lp-energy-sust">Learning Package: Energy Sustainability</h1>
 
 <h2>Introduction</h2>
 <p>Our energy needs are vast covering daily activities to industry use. The concern of our generation is to meet those needs through sustainable energy forms that are renewable and clean unlike fossil fuels that pollute and have been one of the main causes of climate change. Some examples of sustainable energy forms are solar, wind, water to geothermal power.</p>
