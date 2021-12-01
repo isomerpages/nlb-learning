@@ -60,7 +60,7 @@ Check our **learning packages** for articles that will give you insights into li
 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#nature-playlist">
-        <span>Playlist:<br>Nature</span>
+        <span>Playlist:<br>You & Nature</span>
       </a>
     </div>
   </div>
