@@ -24,7 +24,7 @@ third_nav_title: Join a LearnX Community
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
-### **Art Communities**
+### **Arts Communities**
 Not all of us make a living through the arts, but the arts make life worth living. Connect with communities of like-minded people who dare see beyond what the world is, by imagining what it could be. 
 
 <div class="row is-multiline">
