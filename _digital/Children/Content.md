@@ -26,7 +26,39 @@ third_nav_title: Children
 </style>
 Use these resources to introduce your child to digital concepts and technology.
 
+<h3><b>Playlist </b></h3>
+Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below. 
+<h5 class="margin--bottom--lg" id="playlist-health"><b>Playlist: Safer Internet</b></h5>
 
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Kl2HWY_kprs"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Kasper, Sky and the Green Bear (56s) </b><br>
+    Kaspersky, a leading company in cybersecurity, joins forces with writer Marlies Slegers, in creating a digital storytelling series which aims to inform children on how to stay safe online. This episode introduces the main characters as they embark on their adventure.</p>
+    <small>Source: Kasper, Sky and the Green Bear | Episode 1 – Intro - YouTube (2020, June 22). Kaspersky. Retrieved 2021, October 22. </small>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/YZBiboXz-tY"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Building Healthy Digital Habits in Our Children (7min 38s)</b><br>
+    Ever wondered how to bring up the topic of managing and maintaining healthy screen time usage with your children? 
+Learn these 4 tips by former Media Literacy Council member, Mr Chong Ee Jay, a Family Life Specialist with Focus on the Family and Deputy Head of FamChamps Singapore.</p>
+    <small>Source: Building Healthy Digital Habits in Our Children - Facebook (2020, May 22). Media Literacy Council. Retrieved 2021, October 25.</small>
+  </div>
+</div>
+
+<br>
 <h3><b>Learning Package</b></h3>
 Articles that will give you an insight into digital concepts.
 
