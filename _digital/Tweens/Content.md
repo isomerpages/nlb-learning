@@ -23,11 +23,24 @@ third_nav_title: Tweens
 .responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+	
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Indigo Sky */
+.clickbox.is-sky-indigo { background-color: #cff2e8; color: #322987; }
+.clickbox.is-sky-indigo a { color: #322987; }
+.clickbox.is-sky-indigo a:focus,
+.clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
 </style>
 
 <h3><b>Playlist </b></h3>
 Check out these resources to help you navigate the digital world, from keeping your information protected to ensuring that you are equipped to analyse and debunk fake news!
-<h5 class="margin--bottom--lg" id="playlist-health"><b>Playlist: Be Informed, Be Safe </b></h5>
+<h5 class="margin--bottom--lg" id="playlist-informed"><b>Playlist: Be Informed, Be Safe </b></h5>
 
 
 <div class="row is-multiline margin--bottom--lg">
