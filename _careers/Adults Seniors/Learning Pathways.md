@@ -128,7 +128,7 @@ Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Ma
       <tr>
         <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>LearnX Digital</b><br>Future of Work</a></td>
         <td>Learn more about current and upcoming changing needs at work, to get working adults better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites.</td>
-        <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank">Various dates</td>
+        <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank">Various dates</a></td>
         <td>Zoom</td>
       </tr>
     </tbody>
