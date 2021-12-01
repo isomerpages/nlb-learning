@@ -45,14 +45,14 @@ Check out our **playlist** for a collection of short videos/podcasts to learn mo
 Check out our **learning package** for more information on coding for children.
 
 <div class="row is-multiline">
-  <div class="col is-one-third">
+  <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
       <a href="#screen-time">
         <span>Playlist:<br>Screen time</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
+  <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
       <a href="#lp-presch-digi">
         <span>Learning Packages</span>
