@@ -456,7 +456,7 @@ Dieter Helm (2020), <i> Net Zero: How We Stop Causing Climate Change </i>, Harpe
 	<tbody>
 		<tr>
 			<td>
-				<h2>Did you know...</h2>
+				<h3>Did you know...</h3>
 				<p>Fashion accounts for 20-35% of micro plastic flows into the ocean <sup><a href="#footnote-one">1</a></sup>.</p>
 				<p>In 2018, only about 10% of the clothes given to the Salvation Army, are sold in its thrift shops. <sup><a href="#footnote-two">2</a></sup>.</p>
 			</td>
