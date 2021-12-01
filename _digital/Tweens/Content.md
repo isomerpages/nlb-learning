@@ -55,7 +55,7 @@ Check out our **learning package** for some D.I.Y cryptography fun.
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
-      <a href="#lp-secret">
+      <a href="#lp-tinker">
         <span>Learning Package: D.I.Y Secret Message</span>
       </a>
     </div>
