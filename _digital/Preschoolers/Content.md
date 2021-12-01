@@ -82,6 +82,8 @@ Is your child hooked onto the screen? Get tips from expert, Dr Jared Ng, Consult
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
 
+<h3 class="margin--bottom--lg" id="lp-presch-digi"><b>Learning Packages</b></h3>
+Articles that provides more insights into media, coding and more.
 
 [Let's learn about Decomposition!](/files/Digital_Decomposition_Package_Early%20Read.pdf){:target="_blank"}
 
