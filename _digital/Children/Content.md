@@ -47,21 +47,20 @@ Check out our **learning package** for more insights into digital concepts.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
-    <div class="clickbox is-indigo-sky">
+    <div class="clickbox is-sky-indigo">
       <a href="#playlist-internet">
         <span>Playlist:<br>Safer Internet</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
-    <div class="clickbox is-indigo-sky">
+    <div class="clickbox is-sky-indigo">
       <a href="#lp-coding">
         <span>Learning Package: Coding Ideas for Kids</span>
       </a>
     </div>
   </div>
   </div>
-
 
 <h3><b>Playlist </b></h3>
 Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below. 
