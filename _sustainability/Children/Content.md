@@ -43,8 +43,30 @@ Use these resources to introduce your child to sustainability and caring for the
 <h3><b>Playlist</b></h3>
 Learn the importance of caring for our planet and how children can play their part from a young age.
 
-<h5 class="margin--bottom--lg" id="playlist-earth"><b>Playlist: Save Our Earth</b></h5>
 
+Check out our **playlist** for a collection of short videos/podcasts highlighting the importance of sustainability. 
+
+Check out our **learning package** for gardening-related activities with some parent-children bonding time.
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-sky-indigo">
+      <a href="#playlist-earth">
+        <span>Playlist:<br>Save Our Earth</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-sky-indigo">
+      <a href="#lp-gardening">
+        <span>Learning Package: Gardening for Kids</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
+
+<h5 class="margin--bottom--lg" id="playlist-earth"><b>Playlist: Save Our Earth</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
