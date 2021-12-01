@@ -1,4 +1,4 @@
-title: National Library Board
+title: LearnX
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://nlb-learning-staging.netlify.app
 prod: https://nlb-learning-prod.netlify.app
+is_government: true
