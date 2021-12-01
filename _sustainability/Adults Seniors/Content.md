@@ -448,7 +448,7 @@ Dieter Helm (2020), <i> Net Zero: How We Stop Causing Climate Change </i>, Harpe
 
 <img src="/images/sustainability/sustainable-fashion-learning-package.jpg" alt="cover image">
 
-<h1>Learning Package: Sustainable Fashion</h1>
+<h1 id="lp-wardrobe">Learning Package: Sustainable Fashion</h1>
 <h2>Introduction</h2>
 <p>Our fashion choices have an impact on the planet. Beyond the materials used to make a piece of clothing, where and how it is made, to its distribution, potential for reuse, repair, remake or recycle determine the extent of the environmental and social impact it has. We must also consider our consumption patterns and usage when we talk about sustainable fashion. The onus on making fashion more sustainable thus lies with all stakeholders from fashion companies to the consumers.</p>
 <p>To help you untangle the topic of sustainable fashion and guide you in making better fashion choices and practices to adopt, check out the resources we have compiled here.</p>
