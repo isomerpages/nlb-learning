@@ -312,7 +312,7 @@ You love fashion and think nothing of buying the latest designs. However, have y
 	
 <h4>Videos</h4>
 <h5>1. What is a Green Economy?</h5>
-<p>Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here!Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here!</p>
+<p>Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here! Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here!</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VkOtfvhtawA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/embed/VkOtfvhtawA" target="_blank">What is a Green Economy?</a> (2020, July 6). <i>Greenpeace UK.</i> Retrieved 2021, September 15
