@@ -39,9 +39,31 @@ third_nav_title: Teens
 </style>
 <p>Explore resources and content on topics that reveal the possibilities of technology.</p>
 
-<h3 id="playlist-sure" class="margin--bottom--lg"><b>Playlist</b></h3>
+<h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Check out these resources that highlight tips on keeping your online information protected, while exploring new digital advancements and opportunities.</p>
-<h5 class="has-text-indigo margin--bottom--lg"><b>Playlist: Stay Safe, Stay Informed</b></h5>
+
+Check out our **playlist** for a collection of short videos/podcasts for tips in ensuring safe internet usage. 
+
+Check out our **learning package** for free online graphic design resources.
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-sky-indigo">
+      <a href="#playlist-safe">
+        <span>Playlist:<br>Stay Safe, Stay Informed</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-sky-indigo">
+      <a href="#lp-graphic">
+        <span>Learning Package: Graphic Design</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
+<h5 class="margin--bottom--lg" id="playlist-safe"><b>Playlist: Stay Safe, Stay Informed</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -82,9 +104,9 @@ Are you very sure that your data and accounts are secured and have not been comp
   </div>
 </div>
 
-
+<h3><b>Learning Package</b></h3>
 <a name="lp-design">![Graphic Design is My Passion header](images/digital/teens/tt21-header-gd.png)</a>
-#### **Learning Package: Graphic Design is My Passion**
+<h5 class="margin--bottom--lg" id="lp-graphic"><b>Graphic Design is My Passion</b></h5>
 Need something more than MS Paint for your projects? Get creative with five free and easy-to-use online resources for you to experiment with graphic design and web-page building. 
 
 **1) Canva**

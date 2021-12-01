@@ -23,33 +23,69 @@ third_nav_title: Children
 .responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Mint Jade */
+.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
+.clickbox.is-mint-jade a { color: #00b794; }
+.clickbox.is-mint-jade a:focus,
+.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }	
 </style>
+
 Use these resources to introduce your child to sustainability and caring for the environment.
 
 <h3><b>Playlist</b></h3>
 Learn the importance of caring for our planet and how children can play their part from a young age.
 
-<h5 class="has-text-indigo margin--bottom--lg"><b>Playlist: Save Our Earth</b></h5>
 
+Check out our **playlist** for a collection of short videos/podcasts highlighting the importance of sustainability. 
+
+Check out our **learning package** for gardening-related activities with some parent-children bonding time.
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#playlist-earth">
+        <span>Playlist:<br>Save Our Earth</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-gardening">
+        <span>Learning Package: Gardening for Kids</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
+
+<h5 class="margin--bottom--lg" id="playlist-earth"><b>Playlist: Save Our Earth</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/c7cdKwaSyIA"></iframe>
+      <iframe src="https://www.youtube.com/embed/c7cdKwaSyIA" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> Bringing Water to Terry - The Adventures of Water Wally & Sally (5 min)</b><br>
+    <p><b class="has-text-indigo"> Bringing Water to Terry - The Adventures of Water Wally &amp; Sally (5 min)</b><br>
 Join Public Utilities Board’s Water Wally and Sally, as they help their friend Terry the Terrapin, after he finds his pond all dried up. Brought to life by imaginative illustrations and effects, children will enjoy this storytelling video presented by Zemily Leow.  </p>
 
-   <small>Source: Bringing Water to Terry - The Adventures of Water Wally & Sally - YouTube (2021, January 29). sgPUB. Retrieved 2021, October 22. </small>
+   <small>Source: Bringing Water to Terry - The Adventures of Water Wally &amp; Sally - YouTube (2021, January 29). sgPUB. Retrieved 2021, October 22. </small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/6yCAPAqXodc"></iframe>
+      <iframe src="https://www.youtube.com/embed/6yCAPAqXodc" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -63,7 +99,7 @@ Squeaks and Mister Brown, from the SciShowKids channel, teach children why it’
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/tp-RR1_LDn8"></iframe>
+      <iframe src="https://www.youtube.com/embed/tp-RR1_LDn8" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -76,10 +112,10 @@ Listen to Dr Jane Goodall as she inspires children to love and protect nature. T
 <br>
 
 
-### **Learning Package**
+<h3><b>Learning Package</b></h3>
 Articles that show us interesting ways to live sustainably.
 
-### **Gardening for Kids | Stay Curious with Your Child**
+<h5 class="margin--bottom--lg" id="lp-gardening"><b>Gardening for Kids | Stay Curious with Your Child</b></h5>
 
 Children and parents can bond over this Stay Curious with Your Child activity on gardening, accompanied by recommended reads.
 

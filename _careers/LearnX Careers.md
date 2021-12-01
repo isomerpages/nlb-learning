@@ -46,23 +46,21 @@ Hit your career goals with our wide range of resources. Increase employability b
 </div></p> -->
 
 <div class="row is-multiline">
-  <div class="col is-one-third">
+  <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
       <a href="/careers/teens/overview">
         <span>Teens</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
+  <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
       <a href="/careers/adults-seniors/overview">
         <span>Adults & Seniors</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
-  </div>
-</div>
+ 
 
 ---
 <h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>

@@ -23,10 +23,43 @@ third_nav_title: Teens
 .responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+	
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Mint Jade */
+.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
+.clickbox.is-mint-jade a { color: #00b794; }
+.clickbox.is-mint-jade a:focus,
+.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }	
 </style>
-Sustainability will be a breeze once you’re done with these packages and playlists.
 
+Sustainability will be a breeze once you’re done with these learning packages and playlists.
 
+Check out our **playlist** for insights into the intricacies of environmental issues and be inspired to live more sustainably..
+
+Check out our **learning packages** to learn useful terminologies, and how you can live more sustainably.
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#playlist-gogreen">
+        <span>Playlist:<br>Think Green, Go Green</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-gogreen">
+        <span>Learning Packages</span>
+      </a>
+    </div>
+  </div>
+  </div>
 
 <a name="id9">![Think Green, Go Green header](/images/sustainability/teens/tt-header-green.png){:target="_blank"}</a>
 #### **Think Green, Go Green!**
@@ -37,10 +70,10 @@ It’s often difficult to know where to begin, and you may feel like a small see
 
 Here are some resources to help you develop environmental mindfulness ☺️
 
-<h3 id="playlist-sure" class="margin--bottom--lg"><b>Playlist</b></h3>
+<h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.</p>
 
-<h5 class="has-text-indigo margin--bottom--lg"><b>Playlist: Think Green, Go Green</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-gogreen"><b>Playlist: Think Green, Go Green</b></h5>
 Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -83,6 +116,8 @@ How much thought have you given to how you can better relate to the earth and th
   </div>
 </div>
 <br>
+
+<h3 class="margin--bottom--lg" id="lp-gogreen"><b>Learning Packages</b></h3>
 
 **Part 1: Reconnect with Nature - Forest Bathing**<br>
 Known as shinrin-yoku, forest bathing does not actually involve any bathing. Instead, it is an opportunity for you to leave your tech behind, and spend some quiet time immersed in nature. Learn more about forest bathing and its benefits through this video below:

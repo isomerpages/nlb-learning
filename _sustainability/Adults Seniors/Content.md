@@ -23,8 +23,75 @@ third_nav_title: Adults & Seniors
 .responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Mint Jade */
+.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
+.clickbox.is-mint-jade a { color: #00b794; }
+.clickbox.is-mint-jade a:focus,
+.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }	
 </style>
 
+Check out our **playlists** for collections of short videos or selected podcasts, exploring topics around environment and sustainability.
+
+Check our **learning packages** for articles that will give you insights into living more sustainably.
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#green-economy">
+        <span>Playlist:<br>Green Economy</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#energy-sustainability">
+        <span>Playlist:<br>Energy Sustainability</span>
+      </a>
+    </div>
+  </div>
+<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#nature-playlist">
+        <span>Playlist:<br>You & Nature</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-green-econ">
+        <span>Learning Package:<br>Green Economy</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-energy-sust">
+        <span>Learning Package:<br>Energy Sustainability</span>
+      </a>
+    </div>
+  </div>
+	  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-wardrobe">
+        <span>Learning Package:<br>Wardrobe Sustainability</span>
+      </a>
+    </div>
+  </div>
+
+</div>
+
+	
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
@@ -219,7 +286,7 @@ You love fashion and think nothing of buying the latest designs. However, have y
 {: .has-text-right .margin--top--xl}
 
 <h3><b>Learning Package</b></h3>
-<h5 class="margin--bottom--lg"><b>The Green Economy</b></h5>
+<h5 class="margin--bottom--lg" id="lp-green-econ"><b>The Green Economy</b></h5>
 <p>It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><a href="#footnote-one">1</a></sup>
 <p>As one of the key pillars of the Singapore Green Plan 2030, a whole-of-nation movement to advance Singapore’s national agenda on sustainable development<sup><a href="#footnote-two">2</a></sup> developing a Green Economy in Singapore refers to seeking green growth to create new jobs, transform industries and harness sustainability as a competitive advantage<sup><a href="#footnote-three">3</a></sup>.</p>
 <p>In a green economy, growth in employment and income are driven by public and private investment into low carbon, resource efficient and socially inclusive economic activities, infrastructure, and assets that allow reduced carbon emissions and pollution, enhanced energy and resource efficiency, and prevention of the loss of biodiversity and ecosystem services.<sup><a href="#footnote-four">4</a></sup></p>
@@ -290,7 +357,7 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 <p>Sustainability talks and workshops are always happening in the library. Browse through <a href="https://go.gov.sg/sustainprog" target="_blank">go.gov.sg/sustainprog</a> to find the right one for you!
 </p>
 			
-<h4>References</h4>
+<small>References</small>
 <ol>
     <li><span id="footnote-one">Hardcastle, D. &amp; Mattios, G. (2021, January 28). Southeast Asia's Green Economy: Pathway to full potential.</span> <i>Bain</i>. Retrieved 2021, October 1 from <a href="https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/" target="_blank">https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/</a></li>
 	<li><span id="footnote-two">Singapore green plan 2030</span>. (2021). <i>Singapore Green Plan 2030</i>. Retrieved 2021, October 1 from <a href="https://www.greenplan.gov.sg/" target="_blank">https://www.greenplan.gov.sg/</a> </li>
@@ -305,9 +372,9 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 </ol>
 
 <img src="/images/sustainability/energysustainabilitybanner.png" alt="cover image">
-<h1>Learning Package: Energy Sustainability</h1>
+<h3 id="lp-energy-sust">Learning Package: Energy Sustainability</h3>
 
-<h2>Introduction</h2>
+<h5>Introduction</h5>
 <p>Our energy needs are vast covering daily activities to industry use. The concern of our generation is to meet those needs through sustainable energy forms that are renewable and clean unlike fossil fuels that pollute and have been one of the main causes of climate change. Some examples of sustainable energy forms are solar, wind, water to geothermal power.</p>
 <p>In Singapore, we depend on imports for our energy needs and are constrained in terms of options for renewable energy sources.  An energy strategy recently adopted resolves around four supply switches that promote cleaner power generation.<sup><a href="#footnote-one">1</a></sup>.</p>
 <p>Delve further into the field of energy sustainability through the resources we have prepared here.</p>
@@ -315,7 +382,7 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 	<tbody>
 		<tr>
 			<td>
-				<h2>Did you know...</h2>
+				<h3>Did you know...</h3>
 				<p>Tengeh Reservoir is the site of one of the world’s largest single floating solar systems. It is expected to generate enough energy to power about 16,000 four-room HDB flats<sup><a href="#footnote-two">2</a></sup>!</p>
 				<p>The most energy efficient and environmentally friendly mode of transporting cargo is seaborne trade<sup><a href="#footnote-three">3</a></sup>.</p>
 			</td>
@@ -372,7 +439,7 @@ Dieter Helm (2020), <i> Net Zero: How We Stop Causing Climate Change </i>, Harpe
 <p>There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a href="https://go.gov.sg/sustainprog" target="_blank">go.gov.sg/sustainprog</a> 
 </p>
 
-<h4>References</h4>
+<small>References</small>
 <ol>
   <li><span id="footnote-one">Singapore’s Approach to Alternative Energy</span>. (2021, August 13).<i> National Climate Change Secretariat</i>. Retrieved 2021, September 15 from <a href="https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/" target="_blank">https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/</a></li>
 	<li><span id="footnote-two"> Singapore’s largest solar farm can power up 16,000 four room HBD flats for one year</span>. (2021, May 18). <i>The Straits Times</i>. Retrieved 2021, September 15 from <a href="https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year" target="_blank">https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year</a></li>
@@ -381,15 +448,15 @@ Dieter Helm (2020), <i> Net Zero: How We Stop Causing Climate Change </i>, Harpe
 
 <img src="/images/sustainability/sustainable-fashion-learning-package.jpg" alt="cover image">
 
-<h1>Learning Package: Sustainable Fashion</h1>
-<h2>Introduction</h2>
+<h3 id="lp-wardrobe">Learning Package: Sustainable Fashion</h3>
+<h5>Introduction</h5>
 <p>Our fashion choices have an impact on the planet. Beyond the materials used to make a piece of clothing, where and how it is made, to its distribution, potential for reuse, repair, remake or recycle determine the extent of the environmental and social impact it has. We must also consider our consumption patterns and usage when we talk about sustainable fashion. The onus on making fashion more sustainable thus lies with all stakeholders from fashion companies to the consumers.</p>
 <p>To help you untangle the topic of sustainable fashion and guide you in making better fashion choices and practices to adopt, check out the resources we have compiled here.</p>
 <table border="1">
 	<tbody>
 		<tr>
 			<td>
-				<h2>Did you know...</h2>
+				<h3>Did you know...</h3>
 				<p>Fashion accounts for 20-35% of micro plastic flows into the ocean <sup><a href="#footnote-one">1</a></sup>.</p>
 				<p>In 2018, only about 10% of the clothes given to the Salvation Army, are sold in its thrift shops. <sup><a href="#footnote-two">2</a></sup>.</p>
 			</td>
@@ -450,8 +517,9 @@ Lily Fulop (2020), <i>Wear, Repair, Repurpose : A Maker’s Guide to Mending and
                                           
 <h4>References</h4>
 <ol>
-	<li><span id="footnote-one">What is sustainable fashion and why does it matter.</span>(2021) <i>Conscious Life & Style</i>. Retrieved 2021, September 15 from <a href="https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/" target="_blank">https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/</a></li>
-  <li><span id="footnote-two"> The true cost of demand for cheap clothes, to you and the environment.</span>(2021). <i>CNA</i>. Retrieved 2021, September 15 from <a href="https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706" target="_blank">https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706</a></li>
+<small>
+	<li><span id="footnote-one">What is sustainable fashion and why does it matter.</span>(2021) <i>Conscious Life & Style</i>. Retrieved 2021, September 15 from <a href="https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/" target="_blank">https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/</a></small></li>
+ <small> <li><span id="footnote-two"> The true cost of demand for cheap clothes, to you and the environment.</span>(2021). <i>CNA</i>. Retrieved 2021, September 15 from <a href="https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706" target="_blank">https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706</a></small></li>
 </ol>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

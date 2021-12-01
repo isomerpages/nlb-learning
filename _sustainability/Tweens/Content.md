@@ -23,13 +23,51 @@ third_nav_title: Tweens
 .responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+	
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Mint Jade */
+.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
+.clickbox.is-mint-jade a { color: #00b794; }
+.clickbox.is-mint-jade a:focus,
+.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }	
+
 </style>
+
 Use these resources to introduce your child to sustainability and caring for the environment.
 
-<h3 id="playlist-sure" class="margin--bottom--lg"><b>Playlist</b></h3>
+<h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Get inspired to recycle and repurpose trash into treasure!</p>
 
-<h5 class="has-text-indigo margin--bottom--lg"><b>Playlist: D.I.Y. Recycling</b></h5>
+Check out our **playlist** for a collection of short videos/podcasts for tips on recycling. 
+
+Check out our **learning package** for insights into endangered species.
+
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#playlist-recycling">
+        <span>Playlist:<br>D.I.Y Recycling</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-endangered">
+        <span>Learning Package: Endangered Species</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
+
+<h5 class="margin--bottom--lg" id="playlist-recycling"><b>Playlist: D.I.Y. Recycling</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -74,10 +112,10 @@ Did you know you can convert newspaper into decorative containers and bowls? Her
 <br>
 
 
-### **Learning Package**
+<h3><b>Learning Package</b></h3>
 Articles that show us interesting ways to live sustainably.
 
-##### **Don’t Say Goodbye: Endangered Species | Tweenkerama Tinker Sheet**
+<h5 class="margin--bottom--lg" id="lp-endangered"><b>Don't Say Goodbye: Endangered Species | Tweenkerama Tinker Sheet</b></h5>
 [Try your hand at this Tinker Sheet](/files/sus_tweens_lp-endangered.pdf){:target="_blank"} on endangered animal species and common threats to wildlife, complete with related activities and recommended reads!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

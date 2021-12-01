@@ -101,8 +101,7 @@ Career Coaching (by partners)</b></td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>Learn how to acquire new skills with 
-SkillsFuture credits</b></a></td>
+<td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>Learn how to acquire new skills with SkillsFuture credits</b></a></td>
         <td></td>
         <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank">Refer to SkillsFuture website</a></td>
         <td>Online</td>
@@ -110,6 +109,7 @@ SkillsFuture credits</b></a></td>
     </tbody>
   </table>
 </div>
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -128,17 +128,17 @@ Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Ma
       <tr>
         <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>LearnX Digital</b><br>Future of Work</a></td>
         <td>Learn more about current and upcoming changing needs at work, to get working adults better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites.</td>
-        <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank">Various dates</td>
+        <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank">Various dates</a></td>
         <td>Zoom</td>
       </tr>
     </tbody>
   </table>
 </div>
 
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 id="launch-your-own-business" class="margin--bottom--lg"><b>Launch your Own Business</b></h3>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
