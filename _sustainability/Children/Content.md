@@ -43,7 +43,7 @@ Use these resources to introduce your child to sustainability and caring for the
 <h3><b>Playlist</b></h3>
 Learn the importance of caring for our planet and how children can play their part from a young age.
 
-<h5 class="has-text-indigo margin--bottom--lg id="><b>Playlist: Save Our Earth</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-earth"><b>Playlist: Save Our Earth</b></h5>
 
 
 <div class="row is-multiline margin--bottom--lg">
