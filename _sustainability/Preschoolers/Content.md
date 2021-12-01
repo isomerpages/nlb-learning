@@ -93,7 +93,7 @@ Check out the video resources below to help your child understand more about the
   </div>
 </div>
 
-<h3><b>Learning Packages</b></h3>
+<h3 class="margin--bottom--lg" id="lp-sust"><b>Learning Packages</b></h3>
 Articles and activities that will teach and inspire your child to live sustainably.
 
 <h4 id="lp-birds"><a href="/files/Sustainability-Protecting-Birds-in-Singapore-Early-Read.pdf" target="_blank"><b>Protecting Birds in Singapore</b></a></h4>
