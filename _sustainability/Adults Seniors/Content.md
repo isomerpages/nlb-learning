@@ -69,22 +69,22 @@ Check our **learning packages** for articles that will give you insights into li
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-wardrobe">
-        <span>Learning Package:<br>Wardrobe Sustainability</span>
-      </a>
-    </div>
-  </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
       <a href="#lp-green-econ">
         <span>Learning Package:<br>Green Economy</span>
       </a>
     </div>
   </div>
-	  <div class="col is-one-third">
+  <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-energy-sust">
         <span>Learning Package:<br>Energy Sustainability</span>
+      </a>
+    </div>
+  </div>
+	  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-wardrobe">
+        <span>Learning Package:<br>Wardrobe Sustainability</span>
       </a>
     </div>
   </div>
