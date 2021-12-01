@@ -69,7 +69,7 @@ Check our **learning packages** for articles that will give you insights into li
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#playlist-wardrobe">
+      <a href="#lp-wardrobe">
         <span>Learning Package:<br>Wardrobe Sustainability</span>
       </a>
     </div>
