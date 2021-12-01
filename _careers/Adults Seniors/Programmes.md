@@ -32,28 +32,18 @@ Pick up skills from professional trainers, and get answers, ideas as well as ins
 
 Get Professional Season 4 spotlights important skills to enhance employability (interview and resume writing) and cope in the new normal (managing change and building resiliency), with exciting new facets on writing and presentation skills. From general business writing to corporate storytelling, the series focuses on vital skills to improve workplace productivity and efficiency. 
 
-This series is recommended for jobseekers and working adults seeking to improve their writing, speaking and interpersonal skills.
-
-By the end of each workshop, you can expect to have learnt a couple of effective strategies to improve your skill in the topic covered.
-
 Click [here](http://go.gov.sg/get-professional-series){:target="_blank"} for the latest programme listings.
 
 ## **Industry Insights**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-01.png)
 
-Have you always been curious about a particular industry – be it fintech, gaming, user experience and so on? In this series of talks, you can expect to learn what it is like to work in a particular industry – the joys and challenges, and the forces that impact it. 
-
-This series is recommended for anyone who wishes to find out more about the industry in focus, whether for general knowledge or with a view to eventually pursuing a career in this field.
+Always been curious about new industries that seem to have taken the world by storm such as FinTech, gaming and user experience? Through this series of talks you can explore the ins and outs of a particular industry—the joys, the challenges and the forces that drive it.
 
 Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings. 
 
 ## **Breakthrough**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-02.png)
-Harness the secrets of success from conversations with entrepreneurs in this programme series, which include panel discussions, workshops and networking sessions. 
-
-The panel discussions are recommended for business owners, aspiring entrepreneurs, and anyone who is curious about the speakers and their companies. 
-
-Learning outcomes include advice on overcoming challenges in entrepreneurship, innovation and/or a particular industry.
+Uncover the secrets of success through conversations with entrepreneurs at the top of their game. Engage with them through panel discussions, workshops and networking sessions with a focus on topics such as overcoming challenges, innovation and more. 
 
 Click [here](https://go.gov.sg/breakthrough-series){:target="_blank"} to learn more about this programme. 
 

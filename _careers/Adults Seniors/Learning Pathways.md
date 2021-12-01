@@ -41,13 +41,13 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="_blank"><b>Job Hunting Toolkit Learning Package</b></a></td>
-        <td style="width: 40%;"> </td>
+        <td style="width: 40%;">Here are some great resources to help make this journey as painless as possible.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
         <td><a href="/careers/adults-seniors/content" target="_blank"><b>Job Search Strategies Playlist</b></a></td>
-        <td> </td>
+        <td>Discover the top questions that local interviewers like to ask, how to make your LinkedIn profile a honey trap, and how to get into the optimal mindset while you are on the hunt.</td>
         <td></td>
         <td> </td>
       </tr>
@@ -119,21 +119,16 @@ SkillsFuture credits</b></a></td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b>LearnX Sustainability</b><br>The Low Carbon Economy</td>
-        <td style="width: 40%;"></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/a-clean-break-from-coal-singapores-transition-to-clean-energy-tickets-213485630267?aff=ebcollection&keep_tld=1" target="_blank"><b>LearnX Sustainability</b><br>The Low Carbon Economy</a></td>
+        <td style="width: 40%;">A Clean Break From Coal: Singapore's Transition to Clean Energy<br><br>
+Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Material Science & Engineering, Nanyang Technological University to learn more on the city state’s transition to clean energy and how it plans to achieve energy resilience.</td>
         <td style="width: 20%;">21 Dec 2021<br> 7.30-8.30pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library</td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank"><b>LearnX Digital</b><br>Future of Work – Expert Edition Videos</a></td>
-        <td> </td>
-        <td>TBC</td>
-        <td>TBC</td>
-      </tr>
-<tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>LearnX Health</b><br>Financial Literacy: Adulting 101 and Adulting 102</a></td>
-        <td>Learn about buying property, insurance and investments.</td>
-        <td>Various dates</td>
+        <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>LearnX Digital</b><br>Future of Work</a></td>
+        <td>Learn more about current and upcoming changing needs at work, to get working adults better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites.</td>
+        <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank">Various dates</td>
         <td>Zoom</td>
       </tr>
     </tbody>
@@ -154,7 +149,7 @@ SkillsFuture credits</b></a></td>
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="_blank"><b>How To Start Your Own Business</b></a></td>
-        <td style="width: 40%;"></td>
+        <td style="width: 40%;">Having a great idea is the first step to starting a business of your own.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
@@ -172,7 +167,7 @@ SkillsFuture credits</b></a></td>
     <tbody>
       <tr>
         <td style="width: 20%;"><b>An Artificially Intelligent Business</b></td>
-        <td style="width: 40%;">Breakthrough Series with <br>Sinuhe Arroyo, Founder of Taiger <br>Asheeh Mehra, Co-founder of AntWorks<br> Joel Bar-El, Founder of Trax Retail</td>
+        <td style="width: 40%;">Breakthrough Series with <br>Sinuhe Arroyo, Founder of Taiger <br>Asheeh Mehra, Co-founder of AntWorks<br> Joel Bar-El, Founder of Trax Retail<br><br>Registration opens two weeks before the programme.</td>
         <td style="width: 20%;"> 20 Jan 2022<br>7pm - 8pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
@@ -201,8 +196,8 @@ SkillsFuture credits</b></a></td>
         <td>TBC</td>
       </tr>
 <tr>
-        <td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>Machine Learning in the Future of Work</b></a></td>
-        <td>Learn how machine learning will transform our work in future.</td>
+        <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbAb/" target="_blank"><b>Machine Learning in the Future of Work</b></a></td>
+        <td>Learn how machine learning will transform our work in future.<br><br>Registration opens two weeks before the programme.</td>
         <td>6 Jan 2022 <br> 7pm-8.30pm</td>
         <td>TBC</td>
       </tr>
@@ -224,13 +219,13 @@ SkillsFuture credits</b></a></td>
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="_blank"><b>Communication at Work Learning Package</b></a></td>
-        <td style="width: 40%;"></td>
+        <td style="width: 40%;">Happiness at work (and life) can be simple – learn ways to stop saying “yes” on impulse, how to make your life easier, and how you can use “monk mode” regularly for uninterrupted blocks of super-productive time.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
         <td><a href="/careers/adults-seniors/content" target="_blank"><b>How To Be Happy At Work playlist</b></a></td>
-        <td></td>
+        <td>With the right resources and tips, anyone can become a better communicator.</td>
         <td></td>
         <td></td>
       </tr>
@@ -253,10 +248,10 @@ SkillsFuture credits</b></a></td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><a href="#" target="_blank"><b>How To Learn Like A Pro</b></a></td>
+        <td><b>How To Learn Like A Pro</b></td>
        <td>Recordings from the Future of Learning 2021 event, featuring prominent local experts and TED/TEDx speakers</td>
-        <td>TBC</td>
-        <td>TBC</td>
+        <td>Coming soon</td>
+        <td>Online</td>
       </tr>
     </tbody>
   </table>

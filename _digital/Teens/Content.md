@@ -39,9 +39,9 @@ third_nav_title: Teens
 </style>
 <p>Explore resources and content on topics that reveal the possibilities of technology.</p>
 
-<h3 id="playlist-sure" class="margin--bottom--lg"><b>Playlist: Stay Safe, Stay Informed</b></h3>
+<h3 id="playlist-sure" class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Check out these resources that highlight tips on keeping your online information protected, while exploring new digital advancements and opportunities.</p>
-<h5 class="has-text-indigo margin--bottom--lg"><b>Videos</b></h5>
+<h5 class="has-text-indigo margin--bottom--lg"><b>Playlist: Stay Safe, Stay Informed</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -78,9 +78,10 @@ Are you very sure that your data and accounts are secured and have not been comp
   <div class="col is-three-fifths">
     <p><b class="has-text-indigo">Digital Footprints (2:46)</b><br>
     Ever stopped to think if you should really be posting that online? Watch this video to learn more about the digital footprints you leave behind with each online post, and why it matters now and even in the future.</p>
-    <small>Source: Digital Footprints -Youtube (2019, Apr 17). <i>NgeeAnnPoly Library</i>. Retrieved 2021, October 22.</small>
+<small>Source: Digital Footprints -Youtube (2019, Apr 17). <i>NgeeAnnPoly Library</i>. Retrieved 2021, October 22.</small>
   </div>
 </div>
+
 
 <a name="lp-design">![Graphic Design is My Passion header](images/digital/teens/tt21-header-gd.png)</a>
 #### **Learning Package: Graphic Design is My Passion**

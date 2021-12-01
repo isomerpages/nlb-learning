@@ -33,7 +33,7 @@ LearnX Digital goes beyond books to bring tech closer to you, with up-close and 
 
 Learn more about the evolving needs at work and get better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites.
 
-Click [here](https://go.gov.sg/nlbfow){:target="_blank"} for the latest programme listings.
+Click <strong>[here](https://go.gov.sg/nlbfow){:target="_blank"}</strong> for the latest programme listings.
 
 ## **My Digital Life**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-02.jpg)
@@ -42,14 +42,14 @@ A new series on how technology impacts our daily lives. Dive into topics such as
 
 This series is organised in collaboration with NLB’s S.U.R.E programme, partners and community advocates. 
 
-Click [here](https://go.gov.sg/nlbmdl){:target="_blank"} for the latest programme listings.
+Click <strong>[here](https://go.gov.sg/nlbmdl){:target="_blank"}</strong> for the latest programme listings.
 
 ## **MakeIt at Libraries** 
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-MakeIT-at-Libraries.png)
 
 NLB’s free-for-public makerspace introduces the wonder of digital and technology-based creativity to all library members. Try your hand at emerging technology like 3D printing, robotics, and other forms of tech-based tinkering. The best part? No prior experience needed! All equipment and consumables are provided. Suitable for all ages.
 
-Click [here](https://go.gov.sg/nlb-makeit-events){:target="_blank"} for the latest programme listings.
+Click <strong>[here](https://go.gov.sg/nlb-makeit-events){:target="_blank"}</strong> for the latest programme listings.
 
 
 # **For Older Learners**
@@ -68,7 +68,7 @@ Click [here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/S
 
 Designed and curated by NLB, these monthly sessions help seniors understand how to use NLB’s digital services and resources. While tech-savvy participants are welcome, this programme largely explores the basics such as WIFI, QR codes and the NLB mobile app. 
 
-Click [here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys){:target="_blank"} to register.
+Click <strong>[here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys){:target="_blank"}</strong> to register.
 
 ## **e-Payment Learning Journey**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-05.png)

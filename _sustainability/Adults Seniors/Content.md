@@ -24,6 +24,200 @@ third_nav_title: Adults & Seniors
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
+
+<h3><b>Playlist</b></h3>
+A collection of short videos or selected podcasts, exploring topics around personal and professional development.
+
+<h5 id="green-economy" class="margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
+
+We round up the main points about the green economy to get you quickly up to speed on this concept that is integral to achieving sustainable development while balancing environmental needs.<br>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/zCRKvDyyHmI" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Explaining the Circular Economy: Rethink Progress</b><br>
+    A key principle of the green economy is circulatory, which is about keeping products and materials in continued use. This video explains how circulatory works and highlights how it can be implemented. 
+																	
+<small>Source: Explaining the Circular Economy: Rethink Progress (2011, August 29). Ted. Retrieved 2021, October 16.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/XmN_DpN9CNs" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b> Working Together to Grow a Green Economy</b><br>
+    Another principle of the green economy is collaboration. This video showcases ways of working together by highlighting initiatives from Ethiopia. <br><br>
+<small>Source: Working Together to Grow a Green Economy (2016, November 9). World Bank. Retrieved 2021, October 13.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/A3jb2k93tZM" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Forests: The Heart of the Green Economy</b><br>
+    Nature and the economy are interconnected with protection of nature vital to enable the transition to a green economy. <br><br>
+<small>Source: Forests: The Heart of the Green Economy (2013, June 18). UN Enrichment Programme. Retrieved 2021, October 12.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/W4bnCCE07Hw" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Green Economy: Singapore Green Plan 2030</b><br>
+    The green economy is one of five key pillars under Singapore’s Green Plan.  Find out what this entails and how it will be implemented. <br><br>
+<small>Source: Green Economy: Singapore Green Plan 2030 (2021, Feb 10). Ministry of Sustainability and the Environment. Retrieved 2021, September 25. </small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/Qg5u63QQP-A" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Changing Tides: A Sustainable Blue Economy</b><br> 
+A related concept to the green economy is the blue economy which is about managing the ocean’s role as a food supply source and enabler of global trade in a way that is sustainable. <br><br>
+<small>Source:   Changing Tides: A Sustainable Blue Economy (2021, Nov 28). UN Environment Programme. Retrieved 2021, September 16.</small></p>
+  </div>
+</div>
+
+<h5 id="energy-sustainability" class="margin--bottom--lg"><b>Playlist: The Curious About Energy Sustainability Playlist</b></h5>
+
+We address some of your burning queries about energy sustainability, a crucial area that impacts our everyday living in this video compilation.<br>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/RnvCbquYeIM" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Can 100% Renewable Energy Power the World?</b><br>
+You have heard about renewable energy but wondered about its potential to meet our energy needs. This video examines the possibilities. <br><br>
+<small>Source: Can 100% Renewable Energy Power the World? (2017, December 7). TED-ED. Retrieved 2021, October 16.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/qdoEmebP-b0" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b> Are Electric Cars Really Good For the Environment?</b><br>
+This video brings you up to speed to the debate on electric cars and lays out the key points to consider about its environmental friendliness. <br><br>
+<small>Source: Are Electric Cars Really Good For the Environment? (2020, October 10). CNA Insider.Retrieved 2021, October 15.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/wu3hoo3p4Kk" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>How Carbon Capture Works?</b><br>
+This video explains everything you want to know about carbon capture and why it is important to countries who aim to reach net zero emission status.<br><br>  
+<small>Source: How Does Carbon Capture Work? (2021, July 7). Reactions. Retrieved 2021, October 12. </small></p>
+  </div>
+</div>
+
+<h5 id="nature-playlist" class="margin--bottom--lg"><b>Playlist: Why You need Nature more than Nature needs You</b></h5>
+
+We tend to take nature for granted but she does so much for us. This compilation sheds light on the ways we depend on nature more so than we realise. <br>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/1wkPMUZ9vX4" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Nature Makes You Happy</b><br>
+Nature has a positive impact on our feelings. As a testament to nature’s power, this video highlights that watching documentaries on nature can confer also benefits!<br><br>
+<small>Source: Nature Makes You Happy.(2017, Mar 8). BBC Earth. Retrieved 2021, Sept 15. </small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/0uk0QriYYws" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Prescribing Nature for Health</b><br>
+We can turn to nature to better our health. In this video, Dr Nooshin shares how nature can heal.<br><br>
+<small>Source: Prescribing Nature for Health (2016, Jun 14). TedxNashville. Retrieved 2021, Oct 30</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/IadAzzx7EHc" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+ <p><b>What Nature Can Teach Us About Life</b><br>
+This video examines what draws us to nature and the lessons it can impart about life. <br><br>
+<small>Source: What Nature Can Teach Us About Life. (2017, Mar 12). Goalcast. Retrieved 2021, Nov 16. </small></p>
+  </div>
+</div>
+
+<h5 id="wardrobe-playlist" class="margin--bottom--lg"><b>Playlist: Why You Should Be Concerned About Your Wardrobe</b></h5>
+
+We zero in on some of the sustainability issues related to fashion in this compilation. <br>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/YOA0D0i5-fA" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Is Fast Fashion Destroying our Environment?</b><br>
+Fast Fashion is considered one of the greatest contributors to climate crisis. This short video essay explains what fast fashion is and how it impacts the environment.<br><br>
+<small>Source: Is Fast Fashion destroying our environment? (2018, November 24). Our Changing Climate. Retrieved 2021, October 16.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/UMBZeJ74GuE" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Where Your Old Clothes Go | Trash Trail</b><br>
+You love fashion and think nothing of buying the latest designs. However, have you thought about what happens to those pieces that you discard to make space for more?<br><br>
+<small> Source: Where Your Old Clothes Go | Trash Trail (2017, February 16). CNA Insider. Retrieved 2021, October 12.</small></p>
+  </div>
+</div>
+
+
+[Back to top](#main-content)
+{: .has-text-right .margin--top--xl}
+
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg"><b>The Green Economy</b></h5>
 <p>It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><a href="#footnote-one">1</a></sup>
@@ -138,10 +332,8 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 Source: <a href="https://www.youtube.com/embed/Bkow2fDy5KY" target="_blank">What are Renewable Energies?</a> (2017, January 5). <i>Acciona.</i> Retrieved 2021, October 16
 
 <h5>2. Singapore to ramp up solar energy production</h5> 
-<p>Solar energy is the most viable energy source for Singapore in comparison to other renewables like wind or water. Explore how we harness this renewable energy and upcoming plans in this video.</p>
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BHFBCc33eU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<p>Solar energy is the most viable energy source for Singapore in comparison to other renewables like wind or water. Explore how we harness this renewable energy and upcoming plans <a href="https://www.youtube.com/watch?v=BHFBCc33eU0"> in this video</a>.</p>
+
 Source: <a href="https://www.youtube.com/watch?v=BHFBCc33eU0" target="_blank">
 Singapore to ramp up solar energy production</a> (2019, October 29). <i>The Straits Times.</i> Retrieved 2021, September 15
 
