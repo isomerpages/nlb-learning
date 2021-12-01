@@ -40,6 +40,28 @@ third_nav_title: Tweens
 
 <h3><b>Playlist </b></h3>
 Check out these resources to help you navigate the digital world, from keeping your information protected to ensuring that you are equipped to analyse and debunk fake news!
+
+Check out our **playlist** for a collection of short videos/podcasts for introductory videos on cyber safety 
+
+Check out our **learning package** for some D.I.Y cryptography fun.
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-sky-indigo">
+      <a href="#playlist-informed">
+        <span>Playlist:<br>Be Informed, Be Safe</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-sky-indigo">
+      <a href="#lp-secret">
+        <span>Learning Package: D.I.Y Secret Message</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
 <h5 class="margin--bottom--lg" id="playlist-informed"><b>Playlist: Be Informed, Be Safe </b></h5>
 
 
@@ -73,7 +95,7 @@ Use these resources to introduce your child to digital concepts and technology.
 <h3><b>Learning Package</b></h3>
 Articles that will give you an insight into digital concepts.
 
-<h5><b>DIY Tinker Package: Secret Message </b></h5>
+<h5 class="margin--bottom--lg" id="lp-tinker"><b>DIY Tinker Package: Secret Message </b></h5>
 Problem-solve through a do-it-yourself activity, [Secret Messages](/files/Tweenssecretmessages.pdf){:target="_blank"} based on codes and cryptography. Just follow the instructions and have fun!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
