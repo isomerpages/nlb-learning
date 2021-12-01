@@ -109,6 +109,7 @@ Career Coaching (by partners)</b></td>
     </tbody>
   </table>
 </div>
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
