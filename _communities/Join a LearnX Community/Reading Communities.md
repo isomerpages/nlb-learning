@@ -364,5 +364,35 @@ For children, conducted once every week in Tamil, Jurong West Public Library and
       <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
     </div>
   </div>
-	
-</div>
+	<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
+    <img alt="Rava Upma" src="/images/learning-communities/reading/LC-Reading-StockImage-14.jpg">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Rava Upma / ரவா உப்புமா</b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> சிங்கப்பூரில் தமிழ் மேடை நகைச்சுவையை அறிமுகம் செய்து மாதம்தோறும் நிகழ்சிகளைப் படைத்து  வருகிறவர்கள் “ரவா உப்புமா”  நகைச்சுவைக் குழுவினர்.  வளமான தமிழில், தரமான பொருளை நல்ல நகைச்சுவை உணர்வோடு பேசும் பேச்சாளர்கள்தான் இந்த ரவா உப்புமா குழுவினர்.. அனைத்து வயதினரும் புரிந்து அனுபவிக்கக்கூடிய தேர்ந்த தமிழ் நகைச்சுவை விருந்து படைக்கும் இவர்களின் எதிர்காலக் கனவு தமிழ்மொழி சிரிக்க வைக்கவும் சிந்திக்க வைக்கவும் பிறந்த மொழி என்பதை நிலைநிறுத்துவதே. <br><br>
+For adults, conducted once every four months in Tamil, online.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+    </div>
+  </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <img alt="Centre for Singapore Tamil Culture" src="/images/learning-communities/reading/LC-Reading-StockImage-02.jpg">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Centre for Singapore Tamil Culture / கலாசார மரபுடைமை கலந்துரையாடல் தொடர்</b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> தமிழ் கலாசாரம், பாரம்பரியம், கலைகள் போன்றவை குறித்து நடத்தப்படும் கலந்துரையாடல் நிகழ்வு. நிபுணர்கள் கலந்துகொண்டு உரையாற்றுவர். தலைப்புக்கு ஏற்ற நூல்களைப் பொதுமக்கள் இரவல் பெறலாம். மாதம் ஒருமுறை. <br><br>
+The Centre for Singapore Tamil Culture (CSTC) aims to study, share and sustain aspects of Tamil culture in Singapore, as well as to build bridges across Singapore cultures for a better appreciation of each other’s culture.  <br><br> 
+CSTC will focus on programmes and publications that promote intercultural understanding. In so doing, it will collaborate with like-minded organisations and individuals to extend its reach and enhance its coverage. <br><br>
+For adults, conducted once every month in Tamil, online.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+    </div>
+  </div>
+<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
+    <img alt="LISHA Literacy Club" src="/images/learning-communities/reading/LC-Reading-StockImage-19.jpg">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b> LISHA Literacy Club / லிஷா வாசிப்புக் குழு</b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> வாசிப்புப் பிரியர்களை ஒன்றிணைக்கவும் அதிகமாக வாசிக்கும் கலாசாரத்தை உருவாக்கவும் இக்குழு செயல்படுகிறது.<br><br>
+The Club strives to bring together readers and promote reading as a lifelong habit. <br><br>
+For adults, conducted once every month in Tamil, online.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+    </div>
+  </div>
