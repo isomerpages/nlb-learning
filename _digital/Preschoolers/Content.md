@@ -31,11 +31,11 @@ third_nav_title: Preschoolers
 .clickbox a:focus,
 .clickbox a:hover { text-decoration: none; }
 
-/* Mint Jade */
-.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
-.clickbox.is-mint-jade a { color: #00b794; }
-.clickbox.is-mint-jade a:focus,
-.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }	
+/* Indigo Sky */
+.clickbox.is-sky-indigo { background-color: #cff2e8; color: #322987; }
+.clickbox.is-sky-indigo a { color: #322987; }
+.clickbox.is-sky-indigo a:focus,
+.clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
 
 </style>
 
