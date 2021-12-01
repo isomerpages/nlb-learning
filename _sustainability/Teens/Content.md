@@ -24,9 +24,28 @@ third_nav_title: Teens
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
-Sustainability will be a breeze once you’re done with these packages and playlists.
+Sustainability will be a breeze once you’re done with these learning packages and playlists.
 
+Check out our **playlist** for insights into the intricacies of environmental issues and be inspired to live more sustainably..
 
+Check out our **learning package** to learn useful terminologies, and how you can live more sustainably.
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#playlist-gogreen">
+        <span>Playlist:<br>Think Green, Go Green</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-gogreen">
+        <span>Learning Packages</span>
+      </a>
+    </div>
+  </div>
+  </div>
 
 <a name="id9">![Think Green, Go Green header](/images/sustainability/teens/tt-header-green.png){:target="_blank"}</a>
 #### **Think Green, Go Green!**
