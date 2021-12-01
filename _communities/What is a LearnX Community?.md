@@ -37,7 +37,7 @@ description: ""
 .clickbox.is-generic a:focus,
 .clickbox.is-generic a:hover { background-color: #322987; color: #dce5d3; }
 </style>
-## **More the merrier**
+### **More the merrier**
 
 Sharing knowledge and exchanging ideas with people who have similar interests as you makes learning so much more rewarding. That’s why LearnX Communities connect like-minded people to create a modern kampong of communal learning.
  

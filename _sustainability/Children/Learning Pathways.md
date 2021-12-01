@@ -24,10 +24,10 @@ third_nav_title: Children
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
-‘Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
+Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3><b>Save Our Earth</b></h3>
-Go green with your child towards an eco-friendly future together.
+Go green with your child to build an eco-friendly future together.
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
