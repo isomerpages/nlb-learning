@@ -25,6 +25,50 @@ third_nav_title: Adults & Seniors
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
 
+Check out our **playlists** for collections of short videos or selected podcasts, exploring topics around environment and sustainability.
+
+Check our **learning packages** for articles that will give you insights into living more sustainably.
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-pink-ruby">
+      <a href="#green-economy">
+        <span>Playlist:<br>Green Economy</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-pink-ruby">
+      <a href="#energy-sustainability">
+        <span>Playlist:<br>Energy Sustainability</span>
+      </a>
+    </div>
+  </div>
+<div class="col is-one-third">
+    <div class="clickbox is-pink-ruby">
+      <a href="#nature-playlist">
+        <span>Playlist:<br>Nature</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-pink-ruby">
+      <a href="#playlist-wardrobe">
+        <span>Learning Package:<br>Wardrobe Sustainability</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-pink-ruby">
+      <a href="#lp-green-econ">
+        <span>Learning Package:<br>Green Economy</span>
+      </a>
+    </div>
+  </div>
+
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
