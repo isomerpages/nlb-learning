@@ -31,12 +31,12 @@ Introduce your child to the world of sustainable living through interactive work
 
 Workshops for children aged 4-6 years to equip them with knowledge and practical skills on sustainability topics. Conducted monthly.
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
+Click [here](https://go.gov.sg/er-sustainability-progs){:target="_blank"} for the latest programme listings.
 
 ## **Connecting with Nature**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-Preschool-01.png)
 Workshops for children aged 4-6 years to equip them with knowledge and practical skills on conservation and awareness and love of nature. Conducted monthly.
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
+Click [here](https://go.gov.sg/er-sustainability-progs){:target="_blank"} for the latest programme listings.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
