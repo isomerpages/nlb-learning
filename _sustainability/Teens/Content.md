@@ -36,8 +36,8 @@ third_nav_title: Teens
 .clickbox.is-mint-jade a { color: #00b794; }
 .clickbox.is-mint-jade a:focus,
 .clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }	
-
 </style>
+
 Sustainability will be a breeze once you’re done with these learning packages and playlists.
 
 Check out our **playlist** for insights into the intricacies of environmental issues and be inspired to live more sustainably..
