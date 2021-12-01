@@ -84,7 +84,7 @@ How much thought have you given to how you can better relate to the earth and th
 </div>
 <br>
 
-<h3 class="margin--bottom--lg"><b>Learning Packages</b></h3>
+<h3 class="margin--bottom--lg" id="lp-gogreen"><b>Learning Packages</b></h3>
 
 **Part 1: Reconnect with Nature - Forest Bathing**<br>
 Known as shinrin-yoku, forest bathing does not actually involve any bathing. Instead, it is an opportunity for you to leave your tech behind, and spend some quiet time immersed in nature. Learn more about forest bathing and its benefits through this video below:
