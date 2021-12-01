@@ -23,12 +23,49 @@ third_nav_title: Children
 .responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+	
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Indigo Sky */
+.clickbox.is-sky-indigo { background-color: #cff2e8; color: #322987; }
+.clickbox.is-sky-indigo a { color: #322987; }
+.clickbox.is-sky-indigo a:focus,
+.clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
+
 </style>
+
 Use these resources to introduce your child to digital concepts and technology.
+
+Check out our **playlist** for a collection of short videos/podcasts for introductory videos on internet safety. 
+
+Check out our **learning package** for more insights into digital concepts.
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-indigo-sky">
+      <a href="#playlist-internet">
+        <span>Playlist:<br>Safer Internet</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-indigo-sky">
+      <a href="#lp-coding">
+        <span>Learning Package: Coding Ideas for Kids</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
 
 <h3><b>Playlist </b></h3>
 Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below. 
-<h5 class="margin--bottom--lg" id="playlist-health"><b>Playlist: Safer Internet</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-internet"><b>Playlist: Safer Internet</b></h5>
 
 
 <div class="row is-multiline margin--bottom--lg">
@@ -64,7 +101,7 @@ Articles that will give you an insight into digital concepts.
 
 <img src="/Images/Digital/Teens/UnpluggedCodingIdeas.jpg" alt="cover image">
 
-<h5><b>Unplugged Coding Ideas for Kids</b></h5>
+<h5 class="margin--bottom--lg" id="lp-coding"><b>Unplugged Coding Ideas for Kids</b></h5>
 Unsure of how to get your children started with coding? 
 Here are some basic elements which you can introduce during playtime to help them get comfortable with coding concepts without even using any digital devices!
 <h5><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank">Learn More</a></h5>
