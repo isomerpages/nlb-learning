@@ -23,6 +23,20 @@ third_nav_title: Preschoolers
 .responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+	
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Mint Jade */
+.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
+.clickbox.is-mint-jade a { color: #00b794; }
+.clickbox.is-mint-jade a:focus,
+.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }	
+
 </style>
 
 Many studies have reported that well-curated experiences with new media such as those offered by coding programmes or technological toys can have a long-term, positive impact on children’s development. 
@@ -32,7 +46,6 @@ We have curated a list of resources and programmes for you and your child to exp
 
 
 <h3><b>Playlist</b></h3>
-A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
 <h5 id="screen-time" class="margin--bottom--lg"><b>Playlist: Understanding screen time for your children</b></h5>
 
