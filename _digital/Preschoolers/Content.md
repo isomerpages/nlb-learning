@@ -78,7 +78,7 @@ Check out the video resources below to understand more about screen time for chi
   </div>
   <div class="col is-three-fifths">
     <p><b>Screen Time Rules for Kids | Let's Talk | NPR  (2 mins 13 secs)</b><br>
-Do you want to know how much time your kids should spend using devices? Here is a video guide to balance the need for limits with the potential benefits. 
+Do you want to know how much time your kids should spend using devices? Here is a video guide to balance the need for limits with the potential benefits. <br><br>
 <small>Source: Screen Time Rules for Kids | Let's Talk (2018, March 22). NPR. Retrieved 2021, November 30.</small></p>
   </div>
 </div>
