@@ -36,7 +36,7 @@ Being responsible for a community can seem like a mammoth task, but have no fear
 
 **Get the word out:** All LearnX Communities will be listed on our website for prospective members to read about and join. We’ll also keep you informed about other opportunities to publicise as and when they come up. 
 
-[Fill out this application form to get started!](https://go.gov.sg/startlc )
+[Fill out this application form to get started!](https://go.gov.sg/startlc){:target="_blank"}
 
 **Get together:** We recommend each community to consist of at least 4-6 core members. If your group needs more members, you can count on us to host a few sessions to get the word out. 
 
