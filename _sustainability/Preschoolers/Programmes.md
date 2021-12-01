@@ -35,7 +35,7 @@ Click [here](https://go.gov.sg/er-sustainability-progs){:target="_blank"} for th
 
 ## **Connecting with Nature**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-Preschool-01.png)
-Workshops for children aged 4-6 years to equip them with knowledge and practical skills on conservation and awareness and love of nature. Conducted monthly.
+Workshops for children aged 4-6 years to equip them with knowledge and practical skills on conservation to inspire a love of nature. Conducted monthly.
 
 Click [here](https://go.gov.sg/er-sustainability-progs){:target="_blank"} for the latest programme listings.
 
