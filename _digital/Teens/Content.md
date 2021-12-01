@@ -63,7 +63,7 @@ Check out our **learning package** for free online graphic design resources.
   </div>
   </div>
 
-<h5 class="margin--bottom--lg" id="playlist-safe"><b>Playlist: Stay Safe, Stay Informed</b></h5>
+<h3 class="margin--bottom--lg" id="playlist-safe"><b>Playlist: Stay Safe, Stay Informed</b></h3>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
