@@ -23,6 +23,20 @@ third_nav_title: Teens
 .responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+	
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Mint Jade */
+.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
+.clickbox.is-mint-jade a { color: #00b794; }
+.clickbox.is-mint-jade a:focus,
+.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }	
+
 </style>
 Sustainability will be a breeze once you’re done with these learning packages and playlists.
 
