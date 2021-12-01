@@ -109,7 +109,6 @@ Career Coaching (by partners)</b></td>
     </tbody>
   </table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -133,6 +132,7 @@ Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Ma
       </tr>
     </tbody>
   </table>
+</div>
 </div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
