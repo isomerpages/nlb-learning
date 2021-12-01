@@ -41,6 +41,28 @@ third_nav_title: Teens
 
 <h3 id="playlist-safe" class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Check out these resources that highlight tips on keeping your online information protected, while exploring new digital advancements and opportunities.</p>
+
+Check out our **playlist** for a collection of short videos/podcasts for tips in ensuring safe internet usage. 
+
+Check out our **learning package** for free online graphic design resources.
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-sky-indigo">
+      <a href="#playlist-safe">
+        <span>Playlist:<br>Stay Safe, Stay Informed</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-sky-indigo">
+      <a href="#lp-graphic">
+        <span>Learning Package: Graphic Design</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
 <h5 class="has-text-indigo margin--bottom--lg"><b>Playlist: Stay Safe, Stay Informed</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
