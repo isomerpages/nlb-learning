@@ -39,7 +39,7 @@ third_nav_title: Teens
 </style>
 <p>Explore resources and content on topics that reveal the possibilities of technology.</p>
 
-<h3 id="playlist-safe" class="margin--bottom--lg"><b>Playlist</b></h3>
+<h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Check out these resources that highlight tips on keeping your online information protected, while exploring new digital advancements and opportunities.</p>
 
 Check out our **playlist** for a collection of short videos/podcasts for tips in ensuring safe internet usage. 
