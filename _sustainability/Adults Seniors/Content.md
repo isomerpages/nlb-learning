@@ -357,7 +357,7 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 <p>Sustainability talks and workshops are always happening in the library. Browse through <a href="https://go.gov.sg/sustainprog" target="_blank">go.gov.sg/sustainprog</a> to find the right one for you!
 </p>
 			
-<h4>References</h4>
+<small>References</small>
 <ol>
     <li><span id="footnote-one">Hardcastle, D. &amp; Mattios, G. (2021, January 28). Southeast Asia's Green Economy: Pathway to full potential.</span> <i>Bain</i>. Retrieved 2021, October 1 from <a href="https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/" target="_blank">https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/</a></li>
 	<li><span id="footnote-two">Singapore green plan 2030</span>. (2021). <i>Singapore Green Plan 2030</i>. Retrieved 2021, October 1 from <a href="https://www.greenplan.gov.sg/" target="_blank">https://www.greenplan.gov.sg/</a> </li>
@@ -372,9 +372,9 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 </ol>
 
 <img src="/images/sustainability/energysustainabilitybanner.png" alt="cover image">
-<h1 id="lp-energy-sust">Learning Package: Energy Sustainability</h1>
+<h3 id="lp-energy-sust">Learning Package: Energy Sustainability</h3>
 
-<h2>Introduction</h2>
+<h5>Introduction</h5>
 <p>Our energy needs are vast covering daily activities to industry use. The concern of our generation is to meet those needs through sustainable energy forms that are renewable and clean unlike fossil fuels that pollute and have been one of the main causes of climate change. Some examples of sustainable energy forms are solar, wind, water to geothermal power.</p>
 <p>In Singapore, we depend on imports for our energy needs and are constrained in terms of options for renewable energy sources.  An energy strategy recently adopted resolves around four supply switches that promote cleaner power generation.<sup><a href="#footnote-one">1</a></sup>.</p>
 <p>Delve further into the field of energy sustainability through the resources we have prepared here.</p>
@@ -382,7 +382,7 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 	<tbody>
 		<tr>
 			<td>
-				<h2>Did you know...</h2>
+				<h3>Did you know...</h3>
 				<p>Tengeh Reservoir is the site of one of the world’s largest single floating solar systems. It is expected to generate enough energy to power about 16,000 four-room HDB flats<sup><a href="#footnote-two">2</a></sup>!</p>
 				<p>The most energy efficient and environmentally friendly mode of transporting cargo is seaborne trade<sup><a href="#footnote-three">3</a></sup>.</p>
 			</td>
