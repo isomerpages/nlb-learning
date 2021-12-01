@@ -42,7 +42,7 @@ We have curated a list of resources and programmes for you and your child to exp
 
 Check out our **playlist** for a collection of short videos/podcasts to learn more about screen-time for children. 
 
-Check out our **learning package** for more information on coding for children.
+Check out our **learning packages** for more information on coding for children.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
