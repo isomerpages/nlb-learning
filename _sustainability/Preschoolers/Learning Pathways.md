@@ -109,21 +109,20 @@ What can we do to protect the environment around us? Do you know the different t
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>StoriiAlive Through Stem</b></a></td>
-        <td style="width: 40%;">StoriiAlive is a series of workshops created to bring stories alive through the use of screen free coding via tech toys. Through fun and creative approaches, children learn to code and complete challenges with the use of book-related coding activities. </td>
+        <td style="width: 40%;">StoriiAlive is a series of workshops created to bring stories alive through the use of screenfree coding via tech toys. Through fun and creative approaches, children learn to code and complete challenges with the use of book-related coding activities. </td>
         <td style="width: 20%;">19 Dec 2021<br>11am – 12pm</td>
         <td style="width: 20%;">Toa Payoh Public Library</td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists 
 What Makes an Apple Turns Brown?</b></a></td>
-        <td>Children will learn about how chemical reactions work with this fun and exciting screen free activity!</td>
+        <td>Children will learn about how chemical reactions work with this fun and exciting screen-free activity!</td>
         <td>17 December 2021<br>3pm – 4pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a href="#" target="_blank"><b>Travelling with Bee Bot</b></a></td>
-        <td>Come programme Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking.  Screens are not needed for this activity! 
-Participants will have a chance to experience Bee bot, a programmable robot in this workshop. Screens are not needed for this activity!</td>
+        <td>Come programme Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking. Screens are not needed for this activity! </td>
         <td>March 2022</td>
         <td>TBC</td>
       </tr>
