@@ -28,7 +28,7 @@ Sustainability will be a breeze once you’re done with these learning packages 
 
 Check out our **playlist** for insights into the intricacies of environmental issues and be inspired to live more sustainably..
 
-Check out our **learning package** to learn useful terminologies, and how you can live more sustainably.
+Check out our **learning packages** to learn useful terminologies, and how you can live more sustainably.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
