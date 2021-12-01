@@ -4,52 +4,32 @@ permalink: /sustainability/children/content
 description: ""
 third_nav_title: Children
 ---
-<style type="text/css">
-/* Links */
-.content a { color: #322987; }
-.content a:focus,
-.content a:hover { color: #28216c; }
-
-/* Button Outline */
-.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
-.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
-.bp-button.is-primary-outline:focus,
-.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
-
-/* Responsive Iframe */
-.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
-.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
-.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
-.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
-.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
-.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
-</style>
 Use these resources to introduce your child to sustainability and caring for the environment.
 
 <h3><b>Playlist</b></h3>
 Learn the importance of caring for our planet and how children can play their part from a young age.
 
-<h5 class="has-text-indigo margin--bottom--lg"><b>Playlist: Save Our Earth</b></h5>
+<h5 class="has-text-indigo margin--bottom--lg id="><b>Playlist: Save Our Earth</b></h5>
 
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/c7cdKwaSyIA"></iframe>
+      <iframe src="https://www.youtube.com/embed/c7cdKwaSyIA" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> Bringing Water to Terry - The Adventures of Water Wally & Sally (5 min)</b><br>
+    <p><b class="has-text-indigo"> Bringing Water to Terry - The Adventures of Water Wally &amp; Sally (5 min)</b><br>
 Join Public Utilities Board’s Water Wally and Sally, as they help their friend Terry the Terrapin, after he finds his pond all dried up. Brought to life by imaginative illustrations and effects, children will enjoy this storytelling video presented by Zemily Leow.  </p>
 
-   <small>Source: Bringing Water to Terry - The Adventures of Water Wally & Sally - YouTube (2021, January 29). sgPUB. Retrieved 2021, October 22. </small>
+   <small>Source: Bringing Water to Terry - The Adventures of Water Wally &amp; Sally - YouTube (2021, January 29). sgPUB. Retrieved 2021, October 22. </small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/6yCAPAqXodc"></iframe>
+      <iframe src="https://www.youtube.com/embed/6yCAPAqXodc" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -63,7 +43,7 @@ Squeaks and Mister Brown, from the SciShowKids channel, teach children why it’
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/tp-RR1_LDn8"></iframe>
+      <iframe src="https://www.youtube.com/embed/tp-RR1_LDn8" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
