@@ -32,6 +32,7 @@ We have curated a list of resources and programmes for you and your child to exp
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
 <h5 id="green-economy" class="margin--bottom--lg"><b>Playlist: Understanding screen time for your children</b></h5>
+
 Technology is all around us and our children will be exposed to it one way or another.  It can be a perfect tool to support our children in multisensory learning.  Furthermore, time spent with screens can help reinforce learning and promote creative play when appropriate educational programmes, games and applications are used.  But too much screen time may lead to issues and problems for children.  
 
 Check out the video resources below to understand more about screen time for children.<br>
