@@ -37,10 +37,10 @@ It’s often difficult to know where to begin, and you may feel like a small see
 
 Here are some resources to help you develop environmental mindfulness ☺️
 
-<h3 id="playlist-sure" class="margin--bottom--lg"><b>Playlist</b></h3>
+<h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.</p>
 
-<h5 class="has-text-indigo margin--bottom--lg"><b>Playlist: Think Green, Go Green</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-gogreen"><b>Playlist: Think Green, Go Green</b></h5>
 Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -83,6 +83,8 @@ How much thought have you given to how you can better relate to the earth and th
   </div>
 </div>
 <br>
+
+<h3 class="margin--bottom--lg"><b>Learning Packages</b></h3>
 
 **Part 1: Reconnect with Nature - Forest Bathing**<br>
 Known as shinrin-yoku, forest bathing does not actually involve any bathing. Instead, it is an opportunity for you to leave your tech behind, and spend some quiet time immersed in nature. Learn more about forest bathing and its benefits through this video below:
