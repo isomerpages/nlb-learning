@@ -439,7 +439,7 @@ Dieter Helm (2020), <i> Net Zero: How We Stop Causing Climate Change </i>, Harpe
 <p>There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a href="https://go.gov.sg/sustainprog" target="_blank">go.gov.sg/sustainprog</a> 
 </p>
 
-<h4>References</h4>
+<small>References</small>
 <ol>
   <li><span id="footnote-one">Singapore’s Approach to Alternative Energy</span>. (2021, August 13).<i> National Climate Change Secretariat</i>. Retrieved 2021, September 15 from <a href="https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/" target="_blank">https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/</a></li>
 	<li><span id="footnote-two"> Singapore’s largest solar farm can power up 16,000 four room HBD flats for one year</span>. (2021, May 18). <i>The Straits Times</i>. Retrieved 2021, September 15 from <a href="https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year" target="_blank">https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year</a></li>
@@ -448,7 +448,7 @@ Dieter Helm (2020), <i> Net Zero: How We Stop Causing Climate Change </i>, Harpe
 
 <img src="/images/sustainability/sustainable-fashion-learning-package.jpg" alt="cover image">
 
-<h1 id="lp-wardrobe">Learning Package: Sustainable Fashion</h1>
+<h3 id="lp-wardrobe">Learning Package: Sustainable Fashion</h3>
 <h2>Introduction</h2>
 <p>Our fashion choices have an impact on the planet. Beyond the materials used to make a piece of clothing, where and how it is made, to its distribution, potential for reuse, repair, remake or recycle determine the extent of the environmental and social impact it has. We must also consider our consumption patterns and usage when we talk about sustainable fashion. The onus on making fashion more sustainable thus lies with all stakeholders from fashion companies to the consumers.</p>
 <p>To help you untangle the topic of sustainable fashion and guide you in making better fashion choices and practices to adopt, check out the resources we have compiled here.</p>
