@@ -44,6 +44,29 @@ Use these resources to introduce your child to sustainability and caring for the
 <h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Get inspired to recycle and repurpose trash into treasure!</p>
 
+Check out our **playlist** for a collection of short videos/podcasts for tips on recycling. 
+
+Check out our **learning package** for insights into endangered species.
+
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#playlist-recycling">
+        <span>Playlist:<br>D.I.Y Recycling</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-endangered">
+        <span>Learning Package: Endangered Species</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
+
 <h5 class="margin--bottom--lg" id="playlist-recycling"><b>Playlist: D.I.Y. Recycling</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
@@ -92,7 +115,7 @@ Did you know you can convert newspaper into decorative containers and bowls? Her
 <h3><b>Learning Package</b></h3>
 Articles that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-tweenkerama"><b>Don't Say Goodbye: Endangered Species | Tweenkerama Tinker Sheet</b></h5>
+<h5 class="margin--bottom--lg" id="lp-endangered"><b>Don't Say Goodbye: Endangered Species | Tweenkerama Tinker Sheet</b></h5>
 [Try your hand at this Tinker Sheet](/files/sus_tweens_lp-endangered.pdf){:target="_blank"} on endangered animal species and common threats to wildlife, complete with related activities and recommended reads!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
