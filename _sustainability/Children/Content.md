@@ -50,14 +50,14 @@ Check out our **learning package** for gardening-related activities with some pa
 
 <div class="row is-multiline">
   <div class="col is-one-half">
-    <div class="clickbox is-sky-indigo">
+    <div class="clickbox is-mint-jade">
       <a href="#playlist-earth">
         <span>Playlist:<br>Save Our Earth</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
-    <div class="clickbox is-sky-indigo">
+    <div class="clickbox is-mint-jade">
       <a href="#lp-gardening">
         <span>Learning Package: Gardening for Kids</span>
       </a>
