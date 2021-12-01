@@ -36,7 +36,6 @@ third_nav_title: Preschoolers
 .clickbox.is-sky-indigo a { color: #322987; }
 .clickbox.is-sky-indigo a:focus,
 .clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
-
 </style>
 
 Many studies have reported that well-curated experiences with new media such as those offered by coding programmes or technological toys can have a long-term, positive impact on children’s development. 
@@ -46,6 +45,23 @@ We have curated a list of resources and programmes for you and your child to exp
 Check out our **playlist** for a collection of short videos/podcasts to learn more about screen-time for children. 
 
 Check out our **learning package** for more information on coding for children.
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#screen-time">
+        <span>Playlist:<br>Screen time</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#lp-presch-digi">
+        <span>Learning Packages</span>
+      </a>
+    </div>
+  </div>
+</div>
 
 
 <h3><b>Playlist</b></h3>
