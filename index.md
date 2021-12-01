@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: LearnX
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -57,3 +57,4 @@ sections:
       url: /partners
       button: Learn More
 ---
+
