@@ -290,4 +290,79 @@ For Adults, conducted quarterly in Chinese at National Library.</p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
     </div>
   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <img alt="Kathaikalam" src="/images/learning-communities/reading/LC-Reading-StockImage-11.jpg">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Kathaikalam / கதைக்களம்</b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> சிங்கப்பூர்த் தமிழ் எழுத்தாளர் கழகம் – கதைக்களம்
+சிங்கப்பூர்த் தமிழ் எழுத்தாளர் கழகம் 45 ஆண்டுகளாக சிங்கப்பூரில் தமிழ் மொழி வளர்ச்சிக்கும் தமிழ் இலக்கிய வளர்ச்சிக்கும் பணியாற்றிக் கொண்டிருக்கிறது. ஒவ்வொரு ஆண்டும் முத்தமிழ் விழா, கம்பன் விழா, மு.கு. இராமச்சந்திரா புத்தகப் பரிசு, கவியரசு கண்ணதாசன் விழா என நான்கு முக்கிய விழாக்களை நடத்துகிறது. ஒவ்வொரு மாதமும் சிறுகதை இலக்கியத்தை மையப்படுத்தி கதைக்களம் என்ற நிகழ்ச்சியையும் நடத்தி வருகிறது.<br><br>
+Association of Singapore Tamil Writers is one of the most active Tamil organisations in Singapore, actively promoting Tamil language and literature for the past 45 years. They organise four main events every year, namely, Muthamizh Vizha, Kamban Vizha, Mu. Ku. Ramachandra Book Prize and Kaviyarasu Kannadasan Vizha. They also conduct monthly Kathaikalam event focusing on creative writing especially on the short story literary form. <br><br>
+For adults, conducted once every month in Tamil, National Library and online.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+    </div>
+  </div>
+<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
+    <img alt="Maya Ilakkiya Vattam" src="/images/learning-communities/reading/LC-Reading-StockImage-14.jpg">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Maya Ilakkiya Vattam / மாயா இலக்கிய வட்டம்</b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> சிங்கப்பூரிலும் தமிழகத்திலும் வெளிவரும் இதழ்கள், மின் இதழ்கள் ஆகியவற்றில் உள்ள சிறுகதைகள், கவிதைகள் பற்றி விவாதிப்பதும், நடப்பு ஆண்டுகளில் வெளிவந்த சிறுகதைத் தொகுப்பு, கவிதைத் தொகுப்பு, நாவல்கள் ஆகியவை பற்றி விவாதிப்பதும் மாயா இலக்கிய வட்டத்தின் நோக்கம். <br><br>
+Maya Literary Circle was formed with the key objective of focusing literary discussions on Singapore Tamil Literature, ranging from short stories, poems all the way to novels. Through these discussions, we hope to generate greater interest in Tamil Singapore Literature and also create a healthy space in which both writers and readers can not only interact but also channel reviews about locally produced literary works to the writers themselves.<br><br>
+For adults, conducted once every month in Tamil, online.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+    </div>
+  </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <img alt="Sangapalagai" src="/images/learning-communities/reading/LC-Reading-StockImage-15.jpg">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Sangapalagai Literary Sessions / சங்கப்பலகை இலக்கிய அமர்வுகள்</b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> பழந்தமிழ் இலக்கியங்களைப் படித்துப் பார்ப்போம். சங்க இலக்கியங்களின் வழி, நம் தமிழர் வாழ்வியல் நெறிகளைக் கண்ணோட்டமிடுவோம்.  இன, மத, நாட்டு எல்லைகளைக் கடந்து அனைவருக்கும் பயன் தரும் தமிழ் இலக்கியங்களின் சாரத்தை சங்கப்பலகை நிகழ்ச்சி மூலம் உணர்த்துவோம். அதன் மூலம் இளைய தலைமுறை பலனும் பெருமையும் அடைய வழி வகுப்போம்.<br><br>   
+To read and review ancient Tamil Classics. To socialize literary criticism of such works among the general readers. To educate the youth on the rich and varied treasures of ancient Tamil literature cutting across region, race and religion.<br><br>
+For adults, conducted once every month in Tamil, online.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+    </div>
+  </div>
+<div class="col is-half-tablet padding--bottom--lg">
+    <img alt="Kavimalai" src="/images/learning-communities/reading/LC-Reading-Kavimaalai-01.jpg">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Kavimalai / கவிமாலை</b></h5>
+      <p class="margin--top--sm margin--bottom--sm">“கவிமாலை சிங்கப்பூர்” 2000-ஆம் ஆண்டு தொடங்கப்பட்டு கடந்த 20 ஆண்டுகளாக சிங்கப்பூரில் கவிஞர்களை உருவாக்கவும் ஊக்குவிக்கவும், அவர்கள் நூல்களைப் படைத்து, அச்சிட்டு, வெளியிடுவதற்கு தேவையான ஆதரவை வழங்கி, கவிதை இலக்கிய வளர்ச்சிக்குத் தொடர்ந்து களப்பணி ஆற்றி வருகிறது. இதுவரை கவிஞர்களின் சுமார் 125-க்கும் மேற்பட்ட நூல்கள் வெளியிடப்பட்டுள்ளன.  225 மாதாந்திரக் கவிமாலை நிகழ்ச்சிகளையும் கவிதைப் போட்டிகளையும் நடத்தியிருக்கிறார்கள்.<br><br>
+Kavimaalai Singapore is a registered Tamil Society for Tamil Poets. It serves to nurture Tamil Literature by grooming poets and offers a conducive environment for authoring, editing and publishing books on literature since 2000 annually. To date more than 125 books were published. For the past 20 years it has completed 225 monthly poet meets, workshops and poetry competitions. <br><br>
+For adults, conducted once every month in Tamil, online.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+    </div>
+  </div>
+<div class="col is-half-tablet padding--bottom--lg">
+    <img alt="Vaasagar Vattam" src="/images/learning-communities/reading/LC-Reading-VasagarVattam-01.jpg">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Vaasagar Vattam / வாசகர் வட்டம்</b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> வாசகர் வட்டச் சந்திப்புகளில் தமிழ் நாவல்கள், சிறுகதைகள், கவிதைகள், கட்டுரைகள் குறித்த ரசனைப் பகிர்வு, விமர்சனம், கலந்துரையாடல் ஆகியவை நடைபெறும். தமிழ் இலக்கிய உலகில் நடக்கும் சமீபகால மாற்றங்கள் குறித்து விழிப்புணர்வை உருவாக்குவதும் இந்தக் குழுவின் நோக்கம். <br><br> 
+Readers Circle conducts monthly meetings. A particular book or author will be chosen, read and readers  will give their views. This will be followed by further sharing and discussion. Through these sessions people are encouraged to read more books. It aim i to develop a habit a lifelong serious reading among the Tamil Community.<br><br>
+For adults, conducted once every month in Tamil, online.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+    </div>
+  </div>
+<div class="col is-half-tablet padding--bottom--lg">
+    <img alt="Young Writers Circle" src="/images/learning-communities/reading/LC-Reading-YoungWritersClub-01.jpg">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Young Writers Circle / இளம் எழுத்தாளர் வட்டம்</b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> இளம் எழுத்தாளர் வட்டம், தேசிய நூலக வாரியத்தின் கீழ் ஒரு கற்றல் சமூகமாக இயங்கி வருகிறது. இளம் தமிழ் எழுத்தாளர்கள் தங்கள் இலக்கிய திறன்களைச் செம்மைப்படுத்தவும் சிங்கப்பூர்த் தமிழ் எழுத்தாளர்களாக தங்கள் தனித்தன்மையான குரலைக் கண்டறியவும் ஆதரவு வழங்குவது அதன் நோக்கம். 2018-இல் ஆரம்பிக்கப்பட்ட இந்த அமைப்பு, தமிழ் இளையர்கள் மட்டுமல்லாது பொது மக்களுக்கான பல்வேறு தமிழிலக்கிய நிகழ்வுகளையும் முன்னெடுப்புகளையும் ஏற்பாடு செய்து வருகிறது.<br><br>  
+
+Young Writers Circle is a learning community under the National Library Board. It strives to develop and support young Tamil writers committed to honing their literary talents and finding their distinct voices as Singapore Tamil writers. Having started in 2018, the circle has organised multiple literary events and projects not only for Tamil youths, but also the larger public in Singapore. <br><br>
+
+For adults, conducted once every month in Tamil, online.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+    </div>
+</div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <img alt="Thulir Reading Club" src="/images/learning-communities/reading/LC-Reading-StockImage-05.jpg">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Thulir Reading Club / துளிர் வாசிப்பு முகாம் </b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> துளிர் வாசிப்பு முகாம் 2019 ஜனவரி மாதம் 26 ஆம் ஆண்டு ஜூரோங் வெஸ்ட் பொது நூலகத்தில் வாரம்தொரும் சனிக்கிழமை 6 – 7 pm இயங்க ஆரம்பித்தது. 3 குழந்தைகள் கொண்டு ஆரம்பிக்கப்பட்ட இம்முகாம் இன்று ஒவ்வொரு வாரமும் 15 க்கும் மேற்பட்ட குழந்தைகள் தொடர்ந்துப் பங்கேற்க, மிக அருமையாக இயங்கிக் கொண்டிருக்கிறது. இவ்வாசிப்பு முகாமின் நோக்கம் குழந்தைகள் மத்தியில் வாசிப்பை ஊக்குவிக்கவும், அவர்களுக்குள் இருக்கும் படைப்பாற்றலை வெளிக்கொணர்தலும் ஆகும். <br><br>
+Thulir Reading Club started on 26 Jan 2019 at Jurong West Public Library from 6pm to 7pm. The club started with 3 kids but now we have an average attendance of 15 kids in our weekly sessions. The sessions are very successful. Our aim is to promote reading and creativity among children. <br><br>
+For children, conducted once every week in Tamil, Jurong West Public Library and online.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
+    </div>
+  </div>
+	
 </div>
