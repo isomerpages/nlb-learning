@@ -90,10 +90,10 @@ Listen to Dr Jane Goodall as she inspires children to love and protect nature. T
 <br>
 
 
-### **Learning Package**
+<h3><b>Learning Package</b></h3>
 Articles that show us interesting ways to live sustainably.
 
-### **Gardening for Kids | Stay Curious with Your Child**
+<h5 class="margin--bottom--lg" id="lp-gardening"><b>Gardening for Kids | Stay Curious with Your Child</b></h5>
 
 Children and parents can bond over this Stay Curious with Your Child activity on gardening, accompanied by recommended reads.
 
