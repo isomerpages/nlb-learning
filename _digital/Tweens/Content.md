@@ -72,7 +72,7 @@ Check out our **learning package** for some D.I.Y cryptography fun.
   </div>
   <div class="col is-three-fifths">
     <p><b> Better Internet Campaign 2020 – Check Before You Click (30s) </b><br>
-Learn how you can keep your online accounts more secure with Cyber Sandra, from the Cyber Security Agency of Singapore. Try out some of these fast and effective password security tips!</p>
+Is this offer too good to be true? How do you know if you're sharing too much personal information online? Check out this video to learn how to protect yourself from e-commerce scams and to manage your own digital footprint. </p>
     <small>Source: Better Internet Campaign 2020 – Check Before You Click - YouTube (2020, Aug 21). Media Literacy Council Singapore. Retrieved 2021, December 1. </small>
   </div>
 </div>
