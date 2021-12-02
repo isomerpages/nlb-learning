@@ -70,6 +70,17 @@ Learn how to keep yourself safe online as you explore all the information availa
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/JNFnPqTTPIc"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> How to be S.U.R.E. before you share (3min) </b><br>
+    With so much Learn how to keep yourself and others safe from online falsehoods, using NLB's S.U.R.E steps. </p>
+    <small>How to be S.U.R.E. before you share (2020, Feb 18). National Library Board. Retrieved 2021, December 1. </small>
+  </div>
+</div><div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
       <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Kl2HWY_kprs"></iframe>
     </div>
   </div>
