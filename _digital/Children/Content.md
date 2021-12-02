@@ -75,7 +75,7 @@ Learn how to keep yourself safe online as you explore all the information availa
   </div>
   <div class="col is-three-fifths">
     <p><b> How to be S.U.R.E. before you share (3min) </b><br>
-    With so much information present in the digital sphere, being able to identity and prevent the spread of false information becomes more important than ever. Learn how to keep yourself and others safe from online falsehoods, using NLB's S.U.R.E steps. </p>
+    With so much information present in the digital sphere, being able to identity and prevent the spread of false information becomes more important than ever. Learn how to keep yourself and others safe from online falsehoods using NLB's S.U.R.E steps with this video. </p>
     <small>How to be S.U.R.E. before you share (2020, Feb 18). National Library Board. Retrieved 2021, December 1. </small>
   </div>
 </div><div class="row is-multiline margin--bottom--lg">
