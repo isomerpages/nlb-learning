@@ -64,6 +64,18 @@ Check out our **learning package** for some D.I.Y cryptography fun.
 
 <h5 class="margin--bottom--lg" id="playlist-informed"><b>Playlist: Be Informed, Be Safe </b></h5>
 
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/B5AuU4PUlIQ"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Better Internet Campaign 2020 – Check Before You Click (30s) </b><br>
+Learn how you can keep your online accounts more secure with Cyber Sandra, from the Cyber Security Agency of Singapore. Try out some of these fast and effective password security tips!</p>
+    <small>Source: Cyber Sandra's Hacks - Strong Passwords - YouTube (2021, May 7). Cyber Security Agency of Singapore. Retrieved 2021, October 22. </small>
+  </div>
+</div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
