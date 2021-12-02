@@ -64,6 +64,18 @@ Check out our **learning package** for some D.I.Y cryptography fun.
 
 <h5 class="margin--bottom--lg" id="playlist-informed"><b>Playlist: Be Informed, Be Safe </b></h5>
 
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/B5AuU4PUlIQ"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Better Internet Campaign 2020 – Check Before You Click (30s) </b><br>
+Is this offer too good to be true? How do you know if you're sharing too much personal information online? Check out this video to learn how to protect yourself from e-commerce scams and to manage your own digital footprint. </p>
+    <small>Source: Better Internet Campaign 2020 – Check Before You Click - YouTube (2020, Aug 21). Media Literacy Council Singapore. Retrieved 2021, December 1. </small>
+  </div>
+</div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
