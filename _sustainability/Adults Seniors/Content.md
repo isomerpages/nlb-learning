@@ -64,6 +64,13 @@ Check our **learning packages** for articles that will give you insights into li
       </a>
     </div>
   </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#wardrobe-playlist">
+        <span>Playlist:<br>You & Nature</span>
+      </a>
+    </div>
+  </div>
 </div>
 
 <div class="row is-multiline">
