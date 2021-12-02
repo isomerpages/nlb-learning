@@ -73,7 +73,7 @@ Check out our **learning package** for some D.I.Y cryptography fun.
   <div class="col is-three-fifths">
     <p><b> Better Internet Campaign 2020 – Check Before You Click (30s) </b><br>
 Learn how you can keep your online accounts more secure with Cyber Sandra, from the Cyber Security Agency of Singapore. Try out some of these fast and effective password security tips!</p>
-    <small>Source: Cyber Sandra's Hacks - Strong Passwords - YouTube (2021, May 7). Cyber Security Agency of Singapore. Retrieved 2021, October 22. </small>
+    <small>Source: Better Internet Campaign 2020 – Check Before You Click - YouTube (2020, Aug 21). Media Literacy Council Singapore. Retrieved 2021, December 1. </small>
   </div>
 </div>
 
