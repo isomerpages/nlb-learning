@@ -296,7 +296,7 @@ You love fashion and think nothing of buying the latest designs. However, have y
   </div>
   <div class="col is-three-fifths">
   <p><b>Greenwashing: What you need to know - BBC My World</b><br>
-You love fashion and think nothing of buying the latest designs. However, have you thought about what happens to those pieces that you discard to make space for more?<br><br>
+ <br><br>
 <small> Source: Greenwashing: What you need to know - BBC My World (2021, October 20). BBC My World. Retrieved 2021, November 30.</small></p>
   </div>
 </div>
