@@ -67,7 +67,7 @@ Check our **learning packages** for articles that will give you insights into li
 	<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#wardrobe-playlist">
-        <span>Playlist:<br>You & Nature</span>
+        <span>Playlist:<br>Wardrobe Sustainability</span>
       </a>
     </div>
   </div>
@@ -288,6 +288,18 @@ You love fashion and think nothing of buying the latest designs. However, have y
   </div>
 </div>
 
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/QphGrZe4b8w" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Greenwashing: What you need to know - BBC My World</b><br>
+You love fashion and think nothing of buying the latest designs. However, have you thought about what happens to those pieces that you discard to make space for more?<br><br>
+<small> Source: Greenwashing: What you need to know - BBC My World (2021, October 20). BBC My World. Retrieved 2021, November 30.</small></p>
+  </div>
+</div>
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
