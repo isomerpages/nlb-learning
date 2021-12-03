@@ -2,5 +2,6 @@ collections:
   reading:
     output: true
     order:
+      - Children/LearnX Reading.md
       - Children/.keep
       - Preschoolers/.keep
