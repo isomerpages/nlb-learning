@@ -2,6 +2,7 @@ collections:
   science:
     output: true
     order:
+      - Teens/.keep
       - Tweens/.keep
       - Children/.keep
       - Preschoolers/.keep
