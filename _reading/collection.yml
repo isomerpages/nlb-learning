@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Children/.keep
-      - LearnX Reading.md
       - Preschoolers/.keep
