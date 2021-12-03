@@ -60,7 +60,10 @@ Hit your career goals with our wide range of resources. Increase employability b
       </a>
     </div>
   </div>
- 
+   <div class="col is-one-third">
+  </div>
+</div>
+
 
 ---
 <h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>	
