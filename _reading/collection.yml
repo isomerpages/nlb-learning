@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - LearnX Reading.md
-      - Preschoolers/Content.md
-      - Preschoolers/Overview.md
       - Preschoolers/.keep
+      - Preschoolers/Overview.md
+      - Preschoolers/Content.md
       - Children/.keep
       - Tweens/.keep
       - Teens/.keep
