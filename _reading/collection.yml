@@ -8,11 +8,11 @@ collections:
       - Preschoolers/Content.md
       - Preschoolers/Programmes.md
       - Preschoolers/Learning Package.md
+      - Children/.keep
+      - Children/Overview.md
+      - Children/Content.md
       - Children/Programmes.md
       - Children/Learning Packages.md
-      - Children/Content.md
-      - Children/Overview.md
-      - Children/.keep
       - Tweens/.keep
       - Teens/.keep
       - Adults Seniors/.keep
