@@ -34,13 +34,6 @@ sections:
       url: /sustainability/overview
       image: /images/home/home-sustainability-kv.png
       alt: LearnX Sustainability
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Blurb for Reading
-      button: Start learning
-      url: /reading/overview
-      alt: LearnX Reading
   - infobar:
       title: Find a group of like-minded people to learn with.
       button: Explore Communities
