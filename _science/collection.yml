@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - LearnX Science .md
+      - Preschoolers/Overview.md
       - Preschoolers/Content.md
       - Preschoolers/Programmes.md
       - Preschoolers/Learning Pathways.md
