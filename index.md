@@ -57,5 +57,3 @@ sections:
       url: /partners
       button: Learn More
 ---
-
-

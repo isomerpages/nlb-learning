@@ -458,9 +458,9 @@ Retrieved from Libby (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/m
 </p>
 
 <h4>References</h4>
-4) <a id="footnote-four"><small>12 Top Job Skills for Any Industry: Transferable Skills You Need</a>. (2021, April 20). Indeed. Retrieved 2021, October 18 from <a href="https://www.indeed.com/career-advice/career-development/top-job-skills" target="_blank">https://www.indeed.com/career-advice/career-development/top-job-skills</small></a>
+4) <small><a id="footnote-four">12 Top Job Skills for Any Industry: Transferable Skills You Need</a>. (2021, April 20). Indeed. Retrieved 2021, October 18 from <a href="https://www.indeed.com/career-advice/career-development/top-job-skills" target="_blank">https://www.indeed.com/career-advice/career-development/top-job-skills</a></small>
  <br>
-5) <a id="footnote-five"><small>Types of Communication</a>. (2021, January 19). Valamis. Retrieved 2021, October 18 from <a href="https://www.valamis.com/hub/types-of-communication" target="_blank">https://www.valamis.com/hub/types-of-communication</small></a>
+5) <small><a id="footnote-five">Types of Communication</a>. (2021, January 19). Valamis. Retrieved 2021, October 18 from <a href="https://www.valamis.com/hub/types-of-communication" target="_blank">https://www.valamis.com/hub/types-of-communication</a></small>
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

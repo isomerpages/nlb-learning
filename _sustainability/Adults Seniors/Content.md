@@ -533,9 +533,8 @@ Lily Fulop (2020), <i>Wear, Repair, Repurpose : A Maker’s Guide to Mending and
                                           
 <h4>References</h4>
 <ol>
-<small>
-	<li><span id="footnote-one">What is sustainable fashion and why does it matter.</span>(2021) <i>Conscious Life & Style</i>. Retrieved 2021, September 15 from <a href="https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/" target="_blank">https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/</a></small></li>
- <small> <li><span id="footnote-two"> The true cost of demand for cheap clothes, to you and the environment.</span>(2021). <i>CNA</i>. Retrieved 2021, September 15 from <a href="https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706" target="_blank">https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706</a></small></li>
+	<li><small><span id="footnote-one">What is sustainable fashion and why does it matter.</span>(2021) <i>Conscious Life & Style</i>. Retrieved 2021, September 15 from <a href="https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/" target="_blank">https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/</a></small></li>
+ <li><small><span id="footnote-two"> The true cost of demand for cheap clothes, to you and the environment.</span>(2021). <i>CNA</i>. Retrieved 2021, September 15 from <a href="https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706" target="_blank">https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706</a></small></li>
 </ol>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

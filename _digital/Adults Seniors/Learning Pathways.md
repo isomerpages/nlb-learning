@@ -89,7 +89,7 @@ Technology is changing the way we live and work by making things more accessible
         <td>Zoom</td>
       </tr>
 <tr>
-	<td><a href="https://www.eventbrite.com/c/my-digital-life-ccbgxhmp--Z5JZyySTqONy/" target="_blank"><b>[My Digital Life]</b><br>Digital Etiquette</b></a></td>
+	<td><a href="https://www.eventbrite.com/c/my-digital-life-ccbgxhmp--Z5JZyySTqONy/" target="_blank"><b>[My Digital Life]</b><br>Digital Etiquette</a></td>
         <td>Understand the importance of good digital etiquette and how it impacts other users.</td>
         <td>9 Dec 2021, <br>7pm - 8.30pm</td>
         <td>Zoom</td>

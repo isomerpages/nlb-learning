@@ -60,10 +60,14 @@ Hit your career goals with our wide range of resources. Increase employability b
       </a>
     </div>
   </div>
- 
+   <div class="col is-one-third">
+  </div>
+</div>
+
 
 ---
-<h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>
-![Explore Communities](/images/career/learnx-careers-landing-overview-1.jpg)
+<h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>	
+
+![Alt text for image on Isomer site](/images/career/learnx-careers-landing-overview-1.jpg)
 
 <a href="/communities/join/careers-communities" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>
