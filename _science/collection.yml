@@ -1,4 +1,5 @@
 collections:
   science:
     output: true
-    order: []
+    order:
+      - LearnX Science .md
