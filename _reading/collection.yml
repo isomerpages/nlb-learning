@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - LearnX Reading.md
+      - Preschoolers/Programmes.md
       - Preschoolers/.keep
       - Preschoolers/Overview.md
       - Preschoolers/Content.md
