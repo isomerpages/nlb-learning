@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - LearnX Science .md
+      - Preschoolers/Learning Pathways.md
       - Preschoolers/.keep
       - Children/.keep
       - Tweens/.keep
