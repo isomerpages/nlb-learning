@@ -31,10 +31,10 @@ description: ""
 .clickbox a:hover { text-decoration: none; }
 
 	/* Aware Aqua */
-.clickbox.is-aware-aqua { background-color: #dce5d3; color: #00b794; }
+.clickbox.is-aware-aqua { background-color: #00b794; color: #dce5d3; }
 .clickbox.is-aware-aqua a { color: #00b794; }
 .clickbox.is-aware-aqua a:focus,
-.clickbox.is-aware-aqua a:hover { background-color: #00b794; color: #dce5d3; }
+.clickbox.is-aware-aqua a:hover { background-color: #dce5d3; color: #00b794; }
 
 </style>
 It’s never too late to make a lifestyle change, but there’s no better time to start than now! Explore our resources and transition to a eco-friendly way of life today.
