@@ -30,32 +30,32 @@ description: ""
 .clickbox a:focus,
 .clickbox a:hover { text-decoration: none; }
 
-/* Playful Pink */
-.clickbox.is-playful-pink { background-color: #a60517; color: #ffbac7; }
-.clickbox.is-playful-pink a { color: #ffbac7; }
-.clickbox.is-playful-pink a:focus,
-.clickbox.is-playful-pink a:hover { background-color: #ffbac7; color: #a60517; }
+	/* Aware Aqua */
+.clickbox.is-aware-aqua { background-color: #dce5d3; color: #00b794; }
+.clickbox.is-aware-aqua a { color: #00b794; }
+.clickbox.is-aware-aqua a:focus,
+.clickbox.is-aware-aqua a:hover { background-color: #00b794; color: #dce5d3; }
 
 </style>
 It’s never too late to make a lifestyle change, but there’s no better time to start than now! Explore our resources and transition to a eco-friendly way of life today.
 
 <div class="row is-multiline">
   <div class="col is-one-third">
-    <div class="clickbox is-playful-pink">
+    <div class="clickbox is-aware-aqua">
       <a href="/sustainability/adults-seniors/content">
         <span>Content</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
-    <div class="clickbox is-playful-pink">
+    <div class="clickbox is-aware-aqua">
       <a href="/sustainability/adults-seniors/programmes">
         <span>Programmes</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
-    <div class="clickbox is-playful-pink">
+    <div class="clickbox is-aware-aqua">
       <a href="/sustainability/adults-seniors/learning-pathways">
         <span>Learning<br>Pathways</span>
       </a>
