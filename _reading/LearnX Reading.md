@@ -32,7 +32,7 @@ description: ""
 
 	/* Aware Aqua */
 .clickbox.is-aware-aqua { background-color: #00b794; color: #dce5d3; }
-.clickbox.is-aware-aqua a { color: #00b794; }
+.clickbox.is-aware-aqua a { color: #dce5d3; }
 .clickbox.is-aware-aqua a:focus,
 .clickbox.is-aware-aqua a:hover { background-color: #dce5d3; color: #00b794; }
 
