@@ -31,10 +31,10 @@ description: ""
 .clickbox a:hover { text-decoration: none; }
 
 /* Thoughtful Tangerine */
-.clickbox.is-thoughtful-tangerine { background-color: #ffc9ad; color: #fe5b28; }
-.clickbox.is-thoughtful-tangerine a { color: # fe5b28; }
+.clickbox.is-thoughtful-tangerine { background-color: #ffc9ad; color: #fe5828; }
+.clickbox.is-thoughtful-tangerine a { color: # fe5828; }
 .clickbox.is-thoughtful-tangerine a:focus,
-.clickbox.is-thoughtful-tangerine a:hover { background-color: # fe5b28; color: ##ffc9ad; }
+.clickbox.is-thoughtful-tangerine a:hover { background-color: # fe5828; color: ##ffc9ad; }
 
 </style>
 It’s never too late to make a lifestyle change, but there’s no better time to start than now! Explore our resources and transition to a eco-friendly way of life today.
