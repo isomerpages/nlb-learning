@@ -30,32 +30,32 @@ description: ""
 .clickbox a:focus,
 .clickbox a:hover { text-decoration: none; }
 
-/* Thoughtful Tangerine */
-.clickbox.is-thoughtful-tangerine { background-color: #ffc9ad; color: #fe5828; }
-.clickbox.is-thoughtful-tangerine a { color: # fe5828; }
-.clickbox.is-thoughtful-tangerine a:focus,
-.clickbox.is-thoughtful-tangerine a:hover { background-color: # fe5828; color: ##ffc9ad; }
+/* Playful Pink */
+.clickbox.is-playful-pink { background-color: #a60517; color: #ffbac7; }
+.clickbox.is-playful-pink a { color: #ffbac7; }
+.clickbox.is-playful-pink a:focus,
+.clickbox.is-playful-pink a:hover { background-color: #ffbac7; color: #a60517; }
 
 </style>
 It’s never too late to make a lifestyle change, but there’s no better time to start than now! Explore our resources and transition to a eco-friendly way of life today.
 
 <div class="row is-multiline">
   <div class="col is-one-third">
-    <div class="clickbox is-thoughtful-tangerine">
+    <div class="clickbox is-playful-pink">
       <a href="/sustainability/adults-seniors/content">
         <span>Content</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
-    <div class="clickbox is-thoughtful-tangerine">
+    <div class="clickbox is-playful-pink">
       <a href="/sustainability/adults-seniors/programmes">
         <span>Programmes</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
-    <div class="clickbox is-thoughtful-tangerine">
+    <div class="clickbox is-playful-pink">
       <a href="/sustainability/adults-seniors/learning-pathways">
         <span>Learning<br>Pathways</span>
       </a>
