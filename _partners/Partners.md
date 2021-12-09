@@ -63,6 +63,13 @@ Check out the schedule below, and look out for more programmes to be introduced 
       </a>
     </div>
   </div>
+	  <div class="col is-one-third">
+    <div class="clickbox is-generic">
+      <a href="#sustainability">
+        <span>Sustainability</span>
+      </a>
+    </div>
+  </div>
   <div class="col is-one-third">
   </div>
 </div>
@@ -149,3 +156,59 @@ In this session, join Mr Aaron Lim, Lecturer from Nanyang Polytechnic’s School
 <td>18 Dec, 2pm - 3.30pm</td>
 <td>Choa Chu Kang Public Library </td>
 </tr>
+	
+<!-- End your code here -->
+  
+
+</tbody></table>
+<br>
+
+<table>
+<table width="100%" cellspacing="15" cellpadding="15" border="0">
+	
+ <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 55%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 15%;">
+    </colgroup>
+	
+<strong><h5 id="sustainability">Sustainability</h5></strong>
+<hr>
+
+  <tbody><tr><td><strong><a href="https://www.eventbrite.com/c/learnx-sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank">The Science of Cultivated Meat</a></strong></td>
+  <td>Learn about the science of cultivated meat!
+Food production is one of the major causes of climate change and we need to look at more efficient ways to grow, process and distribute it. One option being pursued by several organisations including start-ups is cultivated meat. 
+This talk, a collaboration with Nanyang Polytechnic will go behind the science involved in cultivated meat to help you understand what the process are in developing it and the impact it has on food as we know it. <br><br>
+Registration opens one month before the session.<br>
+</td>
+  <td>6 Jan, 7pm – 8.30pm </td>
+  <td>Zoom</td>
+  
+
+</tr>
+
+<tr>
+<td><strong><a href="https://www.eventbrite.com/c/learnx-sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank">Future of Connected Homes and Devices</a></strong></td>
+<td>Find out what it takes to make your home smart!
+This course will equip participants with basic understanding of what connect device and smart home is, the trend and evolvement of the technology, to advance level of setting up a system which in turn will equip the participants with the necessary skillset to setup a system from scratch. No prior knowledge is required.
+Brought to you in partnership with Nanyang Polytechnic. <br><br>
+Registration opens one month before the session.
+</td>
+<td>19 Feb, 11.30am – 12.30pm</td>
+<td>Zoom</td>
+</tr>
+
+<tr>
+<td><strong><a href="https://www.eventbrite.com/c/learnx-sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank">Home farming with DIY hydroponic kit</a></strong></td>
+<td>Learn the basics of hydroponic and how you can build one at home.
+This course will teach you about hydroponics and is brought to you in partnership with Nanyang Polytechnic.<br><br>
+Registration opens one month before the session.</td>
+<td>26 Mar, 2pm - 4pm</td>
+<td>Jurong Regional Library</td>
+</tr>
+
+<!-- End your code here -->
+  
+</tbody></table>
+<br>
