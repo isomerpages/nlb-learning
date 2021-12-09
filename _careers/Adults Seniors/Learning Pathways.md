@@ -72,7 +72,8 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
       <tr>
         <td><b>Career Planning and
 Career Coaching (by partners)</b></td>
-        <td>Career Catalyst (1-to-1 Career Coaching) by WSG Growth @ Work: Career Planning and Development workshop by Nanyang Polytechnic</td>
+        <td>Career Catalyst (1-to-1 Career Coaching) by WSG 
+					<br>Growth @ Work: Career Planning and Development workshop by Nanyang Polytechnic</td>
         <td>Coming in Sep 2022</td>
         <td>TBC</td>
       </tr>
