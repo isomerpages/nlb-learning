@@ -105,7 +105,7 @@ third_nav_title: Preschoolers
     </div>
   </div>
 	 <div class="col is-one-third">
-    <div class="clickbox is-aware-aqua">
+    <div class="clickbox is-mint-jade">
       <a href="/sustainability/adults-seniors/programmes">
         <span>Singapore</span>
       </a>
@@ -119,16 +119,10 @@ third_nav_title: Preschoolers
     </div>
   </div>
 	 <div class="col is-one-third">
-    <div class="clickbox is-playful-pink">
+    <div class="clickbox is-pink-ruby">
       <a href="/sustainability/adults-seniors/programmes">
         <span>Art</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="/sustainability/adults-seniors/learning-pathways">
-        <span>Extra</span>
-      </a>
-    </div>
-  </div>
+  
