@@ -2,4 +2,4 @@ collections:
   reading:
     output: true
     order:
-      - LEARNX Reading .md
+      - LearnX Reading .md
