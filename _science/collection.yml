@@ -2,6 +2,7 @@ collections:
   science:
     output: true
     order:
+      - Tweens/Learning Pathways.md
       - Tweens/.keep
       - Teens/Overview.md
       - Teens/Content.md
