@@ -38,7 +38,7 @@ third_nav_title: Preschoolers
 .clickbox.is-indigo-sky a:hover { background-color: #322987; color: #cff2e8; }
 
 </style>
-Encourage the love of reading in your child through these activities and videos curated for your little ones. 
+Encourage the love of reading in your child through these learning packages and videos curated for your little ones. 
 
 <h3><b>Playlist</b></h3>
 
