@@ -109,7 +109,7 @@ Ms. Lena, a children’s librarian from Wichita Public Library, shared one of th
 
 <h3 class="margin--bottom--lg" id="learning-packages-i-can-read"><b>Learning Packages</b></h3>
 	
-Useful tips and activities that will help you develop your child to become a fluent reader.
+Useful tips and activities that can help you develop your child to become a fluent reader.
 
 <h4 id="lp-baby"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b>For Ages 0 to 12 months</b></a></h4>
 <p> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make! </p>
