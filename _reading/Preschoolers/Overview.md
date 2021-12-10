@@ -37,7 +37,7 @@ third_nav_title: Preschoolers
 .clickbox.is-indigo-sky a:focus,
 .clickbox.is-indigo-sky a:hover { background-color: #322987; color: #cff2e8; }
 </style>
-It’s never too early to start reading to your child, but there’s no better time to start than now! Explore our resources and help develop your child's love for reading. 
+It’s never too early to start reading to your child! Explore our content, programmes and pathways that are centred on early literacy practices that can help children to become fluent readers. 
 
 <div class="row is-multiline">
   <div class="col is-one-third">
