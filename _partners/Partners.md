@@ -157,7 +157,7 @@ In this session, join Mr Aaron Lim, Lecturer from Nanyang Polytechnic’s School
 <!-- End your code here -->
   
 
-</tbody></table>
+
 <br>
 
 <table>
