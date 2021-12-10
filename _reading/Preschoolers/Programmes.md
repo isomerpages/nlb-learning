@@ -24,9 +24,9 @@ third_nav_title: Preschoolers
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
-Help your child to develop essential early literacy skills through our interactive workshops, talks, storytelling sessions and events.
+Help your child develop essential early literacy skills through our array of interactive workshops, talks, storytelling sessions and events.
 ### Raising Readers for Life
 ![Alt text for image on Isomer site](/images/reading/preschool/readingbannerpreschool.png)
 
 
-Click [here] for the latest programme listings.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849) for the latest programme listings.
