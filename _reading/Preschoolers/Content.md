@@ -92,9 +92,6 @@ Check our **learning packages** for recommended early literacy tips and activiti
   </div>
 	
 <h3><b>Playlist</b></h3>
-
-It is never too early to teach children about sustainability and the importance of caring for our environment. Although this might be a broad topic, there are plenty of ways to teach young children about sustainability in a way that they can understand. <br><br>
-As a start, we can tell them ways to protect the environment by practising the three Rs: reduce, reuse and recycle.
-<br><br>
-Check out the video resources below to help your child understand more about the three Rs and how to take care of the environment.
 	
+
+Check out the video resources below to make storytime with your child more fun and pick up tips on how to develop early literacy skills in your child. 
