@@ -143,7 +143,7 @@ Learn how to create unique content through storytelling and incorporate subtle c
 <strong><h5 id="Careers">Careers</h5></strong>
 <hr>
 <tr>
-<td><strong><a href="https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-game-artist-portfolio-registration-176075315007?aff=ebcollection&amp;keep_tld=1CCKPL" target="_blank">Teens Takeover – A Day In The Life Of Game Artist | portfolio</a></strong></td>
+<tbody><td><strong><a href="https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-game-artist-portfolio-registration-176075315007?aff=ebcollection&amp;keep_tld=1CCKPL" target="_blank">Teens Takeover – A Day In The Life Of Game Artist | portfolio</a></strong></td>
 <td>Get an intimate look into the daily lives of different professionals in this new series and get inspired to explore possible careers of your future. 
 <br><br>
 In this session, join Mr Aaron Lim, Lecturer from Nanyang Polytechnic’s School of Design &amp; Media, in an interactive live demonstration creating fantasy game concept arts as well as a sharing of his journey in the fantasy gaming industry.
