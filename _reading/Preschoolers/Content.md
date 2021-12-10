@@ -93,5 +93,9 @@ Check our **learning packages** for recommended early literacy tips and activiti
 	
 <h3><b>Playlist</b></h3>
 	
-
-Check out the video resources below to make storytime with your child more fun and pick up tips on how to develop early literacy skills in your child. 
+Check out the video resources below to make storytime with your child more fun and pick up tips on how to develop early literacy skills in your child.
+	
+### Learning Packages
+	
+	
+	
