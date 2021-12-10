@@ -46,21 +46,21 @@ Check our **learning packages** for recommended early literacy tips and activiti
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#green-economy">
-        <span>Playlist:<br>Green Economy</span>
+        <span>Playlist:<br> Reading is fun</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#energy-sustainability">
-        <span>Playlist:<br>Energy Sustainability</span>
+        <span>Playlist:<br>Songs & Rhymes</span>
       </a>
     </div>
   </div>
 <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#nature-playlist">
-        <span>Playlist:<br>Nature</span>
+        <span>Playlist:<br>Storytelling tips</span>
       </a>
     </div>
   </div>
@@ -70,25 +70,31 @@ Check our **learning packages** for recommended early literacy tips and activiti
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#playlist-wardrobe">
-        <span>Learning Package:<br>Wardrobe Sustainability</span>
+        <span>Learning Package:<br> For Ages 0 to 12 Months
+				</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#lp-green-econ">
-        <span>Learning Package:<br>Green Economy</span>
+        <span>Learning Package:<br>For Ages 1 to 3 Years</span>
       </a>
 		</div> </div>
-	
-	
-	
-	<br>
+	 
+ <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#nature-playlist">
+        <span>Learning Package:<br>For Ages 4 to 6 Years</span>
+      </a>
+    </div>
+  </div>
 	
 <h3><b>Playlist</b></h3>
 
-It is never too early to teach children about sustainability and the importance of caring for our environment. Although this might be a broad topic, there are plenty of ways to teach young children about sustainability in a way that they can understand. 
-
+It is never too early to teach children about sustainability and the importance of caring for our environment. Although this might be a broad topic, there are plenty of ways to teach young children about sustainability in a way that they can understand. <br><br>
 As a start, we can tell them ways to protect the environment by practising the three Rs: reduce, reuse and recycle.
-
+<br><br>
 Check out the video resources below to help your child understand more about the three Rs and how to take care of the environment.
+	
+	
