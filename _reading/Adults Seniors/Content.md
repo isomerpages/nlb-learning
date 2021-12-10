@@ -85,9 +85,9 @@ Check out our **playlists** and **learning packages** for recommended books, col
       </a>
     </div>
   </div>
- <div class="row is-multiline">
+	<div class="row is-multiline">
    <div class="col is-one-third">
-    <div class="clickbox is-sky-indigo">
+     <div class="clickbox is-sky-indigo">
       <a href="#lp-writing-stories">
         <span>Learning Package:<br>Writing Stories</span>
       </a>
