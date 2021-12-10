@@ -55,4 +55,11 @@ sections:
       alt: NYP
       url: /partners
       button: Learn More
+  - infopic:
+      title: Reading
+      subtitle: Infopic Subtitle
+      description: xxx
+      button: Start Learning
+      url: https://learning.nlb.gov.sg/reading/overview
+      alt: Image alt text
 ---
