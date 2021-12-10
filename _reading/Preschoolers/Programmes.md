@@ -25,8 +25,8 @@ third_nav_title: Preschoolers
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
 Help your child to develop important early literacy skills through our array of interactive workshops, talks, storytelling sessions and events.
-#
-## *Raising Readers for Life*
+
+### *Raising Readers for Life*
 ![Alt text for image on Isomer site](/images/reading/preschool/readingbannerpreschool.png)
 
 Programmes for children aged 0 to 6 years old such as Storytelling, Baby Lapsit, Baby Songs and Rhymes, Toddler Songs and Rhymes and Jiggle, Read & Rhymes. Conducted regularly.
