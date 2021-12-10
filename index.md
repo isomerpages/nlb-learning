@@ -34,6 +34,13 @@ sections:
       url: /sustainability/overview
       image: /images/home/home-sustainability-kv.png
       alt: LearnX Sustainability
+  - infopic:
+      title: Reading
+      subtitle: Infopic Subtitle
+      description: xxx
+      button: Start Learning
+      url: https://learning.nlb.gov.sg/reading/overview
+      alt: Image alt text
   - infobar:
       title: Find a group of like-minded people to learn with.
       button: Explore Communities
@@ -55,11 +62,4 @@ sections:
       alt: NYP
       url: /partners
       button: Learn More
-  - infopic:
-      title: Reading
-      subtitle: Infopic Subtitle
-      description: xxx
-      button: Start Learning
-      url: https://learning.nlb.gov.sg/reading/overview
-      alt: Image alt text
 ---
