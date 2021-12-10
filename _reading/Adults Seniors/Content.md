@@ -12,6 +12,4 @@ Check out our **playlists** and **learning packages** for collections of short v
       <a href=">
         <span>Playlist:<br>Reading in a Digital Age</span>
       
-    </div>
-  
-</div>
+   
