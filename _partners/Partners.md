@@ -129,7 +129,6 @@ Learn how to create unique content through storytelling and incorporate subtle c
   
 </tbody></table>
 <br>
-<!-- table 2 code here -->
 
 <table>
 <table width="100%" cellspacing="15" cellpadding="15" border="0">
