@@ -125,10 +125,8 @@ Learn how to create unique content through storytelling and incorporate subtle c
 </tr>
 
 
-
 <!-- End your code here -->
   
-
 </tbody></table>
 <br>
 <!-- table 2 code here -->
