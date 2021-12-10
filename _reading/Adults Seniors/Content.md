@@ -38,7 +38,7 @@ third_nav_title: Adults Seniors
 .clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
 </style>
 
-Check out our **playlists** and **learning packages** for collections of recommended books, short videos, selected podcasts and articles exploring topics around reading. 
+Check out our **playlists** and **learning packages** for recommended books, collection of short videos, selected podcasts and articles exploring topics around reading. 
 
 <div class="row is-multiline">
   <div class="col is-one-third">
@@ -97,4 +97,3 @@ Check out our **playlists** and **learning packages** for collections of recomme
       </a>
     </div>
   </div>
-	
