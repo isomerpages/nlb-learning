@@ -2,6 +2,7 @@ collections:
   science:
     output: true
     order:
+      - Preschoolers/.keep
       - Children/Overview.md
       - Children/Content.md
       - Children/Programmes.md
