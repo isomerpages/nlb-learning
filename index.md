@@ -36,11 +36,9 @@ sections:
       alt: LearnX Sustainability
   - infopic:
       title: Reading
-      subtitle: Infopic Subtitle
       description: xxx
       button: Start Learning
       url: https://learning.nlb.gov.sg/reading/overview
-      alt: Image alt text
   - infobar:
       title: Find a group of like-minded people to learn with.
       button: Explore Communities
