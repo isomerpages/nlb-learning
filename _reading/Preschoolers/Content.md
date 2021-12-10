@@ -37,6 +37,7 @@ third_nav_title: Preschoolers
 .clickbox.is-indigo-sky a:focus,
 .clickbox.is-indigo-sky a:hover { background-color: #322987; color: #cff2e8; }
 </style>
+### Reading starts from young!
 
 Check out our **playlists** for collections of short videos, exploring topics around early literacy and reading for young children.
 
@@ -96,5 +97,4 @@ It is never too early to teach children about sustainability and the importance 
 As a start, we can tell them ways to protect the environment by practising the three Rs: reduce, reuse and recycle.
 <br><br>
 Check out the video resources below to help your child understand more about the three Rs and how to take care of the environment.
-	
 	
