@@ -42,14 +42,14 @@ Reading never ends. What to read, and how to read? Discover great ideas through 
 
 <div class="row is-multiline">
   <div class="col is-one-third">
-    <div class="clickbox is- sky-indigo">
+    <div class="clickbox is-sky-indigo">
       <a href="/reading/adults-seniors/content ">
         <span>Content </span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
-    <div class="clickbox is- sky-indigo">
+    <div class="clickbox is-sky-indigo">
       <a href="/reading/adults-seniors/programmes">
         <span>Programmes</span>
       </a>
