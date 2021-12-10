@@ -78,7 +78,7 @@ Check our **learning packages** for recommended early literacy tips and activiti
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#lp-green-econ">
+      <a href="#for-ages-4-to-6-years">
         <span>Learning Package:<br>For Ages 1 to 3 Years</span>
       </a>
 		</div> </div>
