@@ -153,6 +153,7 @@ In this session, join Mr Aaron Lim, Lecturer from Nanyang Polytechnic’s School
 <td>18 Dec, 2pm - 3.30pm</td>
 <td>Choa Chu Kang Public Library </td>
 </tr>
+	</table>
 	
 <!-- End your code here -->
   
