@@ -2,9 +2,9 @@ collections:
   reading:
     output: true
     order:
+      - LearnX Reading .md
       - Preschoolers/.keep
       - Children/.keep
       - Tweens/.keep
       - Teens/.keep
-      - LearnX Reading .md
       - Adults Seniors/.keep
