@@ -14,4 +14,4 @@ Check out our **playlists** and **learning packages** for collections of short v
       
     </div>
   
-</div></div>
+</div>
