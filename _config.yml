@@ -53,3 +53,4 @@ plugins:
 staging: https://nlb-learning-staging.netlify.app
 prod: https://nlb-learning-prod.netlify.app
 is_government: true
+google_analytics: UA-50449401-41
