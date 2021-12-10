@@ -2,6 +2,7 @@ collections:
   science:
     output: true
     order:
+      - Preschoolers/Overview.md
       - Preschoolers/Content.md
       - Preschoolers/Programmes.md
       - Preschoolers/Learning Pathways.md
