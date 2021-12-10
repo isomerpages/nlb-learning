@@ -71,49 +71,53 @@ Learn more about early literacy tips through these videos.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/ KS5q9n2Pur0"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/KS5q9n2Pur0"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
     <p><b> Early Literacy Skills - Everything Parents Need to Know</b><br>
-    A catchy song about how to take care of the Earth! In this song, children will learn about the three Rs—Reduce, Reuse, and Recycle. They will learn simple, practical things that they can do to reduce waste and consumption, reuse old items and recycle appropriate materials.</p>
-    <small>Source: Harry Kindergarten Music. Going Green! - Earth Day song for kids about the three Rs - Reduce, Reuse, and Recycle! - Youtube (2013, Aug 18). Retrieved 2021, October 20.</small>
+This video explains the building blocks of early literacy and ways on how parents can foster learning through simple and exciting reading related activities at home.</p>
+    <small>Source: The Institute of Reading Development [Reading Programs]. (2019, March 2). Early Literacy Skills - Everything Parents Need to Know [Video]. YouTube. https://www.youtube.com/watch?v=KS5q9n2Pur0 </small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/6jQ7y_qQYUA"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/lLCYNOxue04"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>Recycling for Kids | Recycling Plastic, Glass and Paper | Recycle Symbol | Kids Academy (4 mins 42 sec)</b><br>
-    Join two children as they learn about the process of recycling including how to recycle, what can be recycled and what will happen to the recycled items.  Children can also try sorting items into the correct bins.</p>
-    <small>Source: Kids Academy: Recycling for Kids: Recycling Plastic, Glass and Paper- Youtube (2018, Dec 22). Retrieved 2021, October 20.</small>
+    <p><b> Read, Speak, Sing: Your baby and early literacy</b><br>
+Learning to read starts from birth. Whether through books, words, or songs – daily language experiences help form an emotional bond with your baby and are vital to the development of your baby’s early literacy skills.</p>
+    <small> Source: Read, Speak, Sing: Your baby and early literacy YouTube (2015, Jan 27). Canadian Paediatric Society. Retrieved 2021, November 5.</small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/XKGsaziqRE4"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/w756YPhVPIs"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>What is recycling? | Recycling for Children | Learn to Recycle | Polly Olly (3 mins 33)</b><br>
-    In this engaging video, Polly explains to kids what recycling is and why it is important to recycle paper and plastic.</p>
-    <small>Source: Polly Olly - Kids Videos and Nursery Rhymes: What is recycling? Recycling for children-Youtube (2019, Aug 25). Retrieved 2021, October 20.</small>
+    <p><b> Build early literacy skills by reading to your child<b><br>
+Ms. Lena, a children’s librarian from Wichita Public Library, shared one of the 5 activity skills parents can do to foster the love of reading in your child. </p>
+    <small> Source: Build early literacy skills by reading to your child YouTube (2017, Oct 25). Wichita Public Library. Retrieved 2021, November 5.</small>
   </div>
 </div>
 
 <h3 class="margin--bottom--lg" id="learning-packages-i-can-read"><b>Learning Packages</b></h3>
+	
 Useful tips and activities that will help you develop your child to become a fluent reader.
 
-<h4 id="lp-birds"><a href="/files/Sustainability-Protecting-Birds-in-Singapore-Early-Read.pdf" target="_blank"><b>Protecting Birds in Singapore</b></a></h4>
-<p>From the ever-present Mynah to the colourful Kingfisher, birds are a common sight in this garden city we call home. But did you know they do a lot more for the environment than just adding life and colour to our surroundings? Find out more about the role birds play in our ecosystem, the dangers they face, and how we can do our part to keep them safe.</p>
+<h4 id="lp-baby"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b>For Ages 0 to 12 months</b></a></h4>
+<p> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make! </p>
  
-<h4 id="lp-turtles"><a href="/files/Sustainability-Sea-Turtle-Rescue-Early-Read.pdf" target="_blank"><b>Sea Turtle Rescue</b></a></h4>
-<p>As an island nation, Singapore has to be extra conscious about the creatures who call the oceans their home. Sea turtles may look tough with their strong shells, but in reality they face many dangers from humans and the environment. Discover some simple steps that we can take to keep our sea friends safe and learn how you can make your very own (paper plate) sea turtle!</p>
+<h4 id="lp-toddlers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b>For Ages 1 to 3 years</b></a></h4>
+<p> Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help them build their letter knowledge and vocabulary. </p>
+	
+<h4 id="lp-preschoolers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b>For Ages 4 to 6 years</b></a></h4>
+<p>How can you encourage the love of reading in your pre-schooler? Learn some tups and activities you can do to develop your child into a confident reader!</p>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
