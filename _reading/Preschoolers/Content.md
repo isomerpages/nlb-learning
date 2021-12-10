@@ -70,7 +70,7 @@ Check our **learning packages** for recommended early literacy tips and activiti
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#playlist-wardrobe">
+      <a href="#for-ages-0-to-12-months">
         <span>Learning Package:<br> For Ages 0 to 12 Months
 				</span>
       </a>
@@ -105,7 +105,3 @@ It's never too early to start reading to your newborn! Learn some tips on how to
 	
 [**For Ages 4 to 6 years**<br>](https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read)
 	How can you encourage the love of reading in your preschooler? Learn some tips and activities you can do to develop your child into a confident reader.
-	
-	
-	
-	
