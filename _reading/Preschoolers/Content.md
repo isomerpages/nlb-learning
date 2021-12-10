@@ -97,3 +97,15 @@ Check out the video resources below to make storytime with your child more fun a
 	
 ### Learning Packages
 	
+[**For Ages 0 to 12 months** ](https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read)<br>
+It's never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make!
+
+[**For Ages 1 to 3 years**](https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read)
+<br> Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help build their letter knowledge and vocabulary.
+	
+[**For Ages 4 to 6 years**<br>](https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read)
+	How can you encourage the love of reading in your preschooler? Learn some tips and activities you can do to develop your child into a confident reader.
+	
+	
+	
+	
