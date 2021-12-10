@@ -2,6 +2,7 @@ collections:
   reading:
     output: true
     order:
+      - Preschoolers/.keep
       - Children/.keep
       - Tweens/.keep
       - Teens/.keep
