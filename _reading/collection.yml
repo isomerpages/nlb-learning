@@ -2,6 +2,7 @@ collections:
   reading:
     output: true
     order:
+      - Children/.keep
       - Tweens/.keep
       - Teens/.keep
       - LearnX Reading .md
