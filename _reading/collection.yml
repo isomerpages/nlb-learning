@@ -2,5 +2,5 @@ collections:
   reading:
     output: true
     order:
-      - Adults Seniors/.keep
       - LearnX Reading .md
+      - Adults Seniors/.keep
