@@ -23,7 +23,7 @@ third_nav_title: Preschoolers
 .responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
-
+	
 /* Click Box */
 .clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
 .clickbox span { padding: .5rem; }
@@ -32,76 +32,88 @@ third_nav_title: Preschoolers
 .clickbox a:hover { text-decoration: none; }
 
 /* Indigo Sky */
-.clickbox.is-indigo-sky { background-color #cff2e8; color: #322987; }
+.clickbox.is-indigo-sky { background-color: #cff2e8; color: #322987; }
 .clickbox.is-indigo-sky a { color: #322987; }
 .clickbox.is-indigo-sky a:focus,
 .clickbox.is-indigo-sky a:hover { background-color: #322987; color: #cff2e8; }
+
 </style>
-### Reading starts from young!
+Encourage the love of reading in your child through these activities and videos curated for your little ones. 
 
-Check out our **playlists** for collections of short videos, exploring topics around early literacy and reading for young children.
+<h3><b>Playlist</b></h3>
 
-Check our **learning packages** for recommended early literacy tips and activities.
+Check out our **playlist** for a collection of short videos that provide early literacy tips.
+
+Explore our **learning packages** for useful tips on selecting age-appropriate books and fun early literacy activities that can be done at home.
 
 <div class="row is-multiline">
-  <div class="col is-one-third">
+  <div class="col is-one-half">
     <div class="clickbox is-indigo-sky">
-      <a href="#green-economy">
-        <span>Playlist:<br> Reading is fun</span>
+      <a href="#playlist-early-literacy">
+        <span>Playlist:<br>Early Literacy</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
+  <div class="col is-one-half">
     <div class="clickbox is-indigo-sky">
-      <a href="#energy-sustainability">
-        <span>Playlist:<br>Songs & Rhymes</span>
+      <a href="#learning-packages-i-can-read">
+        <span>Learning Packages</span>
       </a>
     </div>
   </div>
-<div class="col is-one-third">
-    <div class="clickbox is-indigo-sky">
-      <a href="#nature-playlist">
-        <span>Playlist:<br>Storytelling tips</span>
-      </a>
+  </div>
+
+
+<h3 class="margin--bottom--lg" id="playlist-early-literacy"><b>Playlist: Early Literacy</b></h3>
+
+Learn more about early literacy tips through these videos.
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/ KS5q9n2Pur0"></iframe>
     </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Early Literacy Skills - Everything Parents Need to Know</b><br>
+    A catchy song about how to take care of the Earth! In this song, children will learn about the three Rs—Reduce, Reuse, and Recycle. They will learn simple, practical things that they can do to reduce waste and consumption, reuse old items and recycle appropriate materials.</p>
+    <small>Source: Harry Kindergarten Music. Going Green! - Earth Day song for kids about the three Rs - Reduce, Reuse, and Recycle! - Youtube (2013, Aug 18). Retrieved 2021, October 20.</small>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/6jQ7y_qQYUA"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Recycling for Kids | Recycling Plastic, Glass and Paper | Recycle Symbol | Kids Academy (4 mins 42 sec)</b><br>
+    Join two children as they learn about the process of recycling including how to recycle, what can be recycled and what will happen to the recycled items.  Children can also try sorting items into the correct bins.</p>
+    <small>Source: Kids Academy: Recycling for Kids: Recycling Plastic, Glass and Paper- Youtube (2018, Dec 22). Retrieved 2021, October 20.</small>
   </div>
 </div>
 
 <div class="row is-multiline">
-  <div class="col is-one-third">
-    <div class="clickbox is-indigo-sky">
-      <a href="#for-ages-0-to-12-months">
-        <span>Learning Package:<br> For Ages 0 to 12 Months
-				</span>
-      </a>
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/XKGsaziqRE4"></iframe>
     </div>
   </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-indigo-sky">
-      <a href="#for-ages-4-to-6-years">
-        <span>Learning Package:<br>For Ages 1 to 3 Years</span>
-      </a>
-		</div> </div>
-	 
- <div class="col is-one-third">
-    <div class="clickbox is-indigo-sky">
-      <a href="#nature-playlist">
-        <span>Learning Package:<br>For Ages 4 to 6 Years</span>
-      </a>
-    </div>
+  <div class="col is-three-fifths">
+    <p><b>What is recycling? | Recycling for Children | Learn to Recycle | Polly Olly (3 mins 33)</b><br>
+    In this engaging video, Polly explains to kids what recycling is and why it is important to recycle paper and plastic.</p>
+    <small>Source: Polly Olly - Kids Videos and Nursery Rhymes: What is recycling? Recycling for children-Youtube (2019, Aug 25). Retrieved 2021, October 20.</small>
   </div>
-	
-<h3><b>Playlist</b></h3>
-	
-Check out the video resources below to make storytime with your child more fun and pick up tips on how to develop early literacy skills in your child.
-	
-### Learning Packages
-	
-[**For Ages 0 to 12 months** ](https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read)<br>
-It's never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make!
+</div>
 
-[**For Ages 1 to 3 years**](https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read)
-<br> Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help build their letter knowledge and vocabulary.
-	
-[**For Ages 4 to 6 years**<br>](https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read)
-	How can you encourage the love of reading in your preschooler? Learn some tips and activities you can do to develop your child into a confident reader.
+<h3 class="margin--bottom--lg" id="learning-packages-i-can-read"><b>Learning Packages</b></h3>
+Useful tips and activities that will help you develop your child to become a fluent reader.
+
+<h4 id="lp-birds"><a href="/files/Sustainability-Protecting-Birds-in-Singapore-Early-Read.pdf" target="_blank"><b>Protecting Birds in Singapore</b></a></h4>
+<p>From the ever-present Mynah to the colourful Kingfisher, birds are a common sight in this garden city we call home. But did you know they do a lot more for the environment than just adding life and colour to our surroundings? Find out more about the role birds play in our ecosystem, the dangers they face, and how we can do our part to keep them safe.</p>
+ 
+<h4 id="lp-turtles"><a href="/files/Sustainability-Sea-Turtle-Rescue-Early-Read.pdf" target="_blank"><b>Sea Turtle Rescue</b></a></h4>
+<p>As an island nation, Singapore has to be extra conscious about the creatures who call the oceans their home. Sea turtles may look tough with their strong shells, but in reality they face many dangers from humans and the environment. Discover some simple steps that we can take to keep our sea friends safe and learn how you can make your very own (paper plate) sea turtle!</p>
+ 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
