@@ -42,7 +42,7 @@ It’s never too early to start reading to your child, but there’s no better t
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="/reading/subfolders/preschoolers/content">
+      <a href="reading/subfolders/Preschoolers/editPage/Content.md">
         <span>Content</span>
       </a>
     </div>
