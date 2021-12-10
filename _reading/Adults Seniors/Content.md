@@ -72,6 +72,7 @@ Check out our **playlists** and **learning packages** for collections of recomme
       </a>
     </div>
   </div>
+	
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
       <a href="#lp-sing-lit">
@@ -88,6 +89,7 @@ Check out our **playlists** and **learning packages** for collections of recomme
       </a>
     </div>
   </div>
+	
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
       <a href="#lp-writing-stories">
@@ -95,3 +97,4 @@ Check out our **playlists** and **learning packages** for collections of recomme
       </a>
     </div>
   </div>
+	
