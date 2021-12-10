@@ -75,9 +75,20 @@ Check our **learning packages** for recommended early literacy tips and activiti
     </div>
   </div>
   <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
+    <div class="clickbox is-indigo-sky">
       <a href="#lp-green-econ">
         <span>Learning Package:<br>Green Economy</span>
       </a>
-    </div>
-  </div>
+		</div> </div>
+	
+	
+	
+	<br>
+	
+<h3><b>Playlist</b></h3>
+
+It is never too early to teach children about sustainability and the importance of caring for our environment. Although this might be a broad topic, there are plenty of ways to teach young children about sustainability in a way that they can understand. 
+
+As a start, we can tell them ways to protect the environment by practising the three Rs: reduce, reuse and recycle.
+
+Check out the video resources below to help your child understand more about the three Rs and how to take care of the environment.
