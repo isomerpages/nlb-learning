@@ -26,12 +26,9 @@ third_nav_title: Preschoolers
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3><b>Ignite a lifelong love of reading in your children!</b></h3>
-
+<h3><b>Ignite a lifelong love of reading in your children</b></h3>
 Reading is a fundamental life skill in children and is significant in their development of literacy skills. Learning to read starts long before a child enters school and parents play an important role in nurturing children’s passion for reading and life-long learning.
-
-Make reading a fun activity while fostering that special bond between you and your little one, through this suite of reading programmes offered by the public libraries. Learn how you can develop the 6 pre-reading skills though the simple 5 Early Practices of Reading, Singing, Playing, Talking and Writing via programmes at the libraries.
-
+Make reading a fun activity while fostering that special bond between you and your little one, through this suite of reading programmes offered by the public libraries.  Learn how you can develop the 6 pre-reading skills though the simple 5 Early Practices of Reading, Singing, Playing, Talking and Writing via programmes at the libraries. 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -41,30 +38,31 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b> Developing Early Literacy
-Skills at home (0-12 months)</b></a></td>
+        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b> Developing Early Literacy Skills at home (0-12 months)</b></a></td>
         <td style="width: 40%;"> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make!</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b> Developing Early Literacy
-Skills at home (1-3 years old)</b></a></td>
-        <td>Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help them build their letter knowledge and vocabulary.</td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b> Developing Early Literacy Skills at home (1-3 years old) </b></a></td>
+        <td> Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help them build their letter knowledge and vocabulary. </td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b> Developing Early Literacy
-Skills at home (4-6 years old)</b></a></td>
-        <td>How can you encourage the love of reading in your pre-schooler? Learn some tips and activities you can do to develop your child into a confident reader!</td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b> Developing Early Literacy Skills at home (4-6 years old)</b></a></td>
+        <td> How can you encourage the love of reading in your pre-schooler? Learn some tips and activities you can do to develop your child into a confident reader! </td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
+        <td><a href="/reading/preschoolers/content" target="_blank"><b> The World of Picture Books</b></a></td>
+        <td> Video resources to help parents understand more about the different types of picture books.</td>
         <td></td>
         <td> </td>
-     
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <div class="horizontal-scroll margin--bottom--lg">
@@ -76,28 +74,28 @@ Skills at home (4-6 years old)</b></a></td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/tsr-progs" target="_blank"><b>Toddler Songs & Rhymes (Theme: Numbers & Counting)</b></a></td>
-        <td style="width: 40%;">Learn all about numeracy through this fun session of Toddler Songs & Rhymes
-with our librarians!</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/tsr-progs" target="_blank"><b> Toddler Songs & Rhymes [Theme: Numbers & Counting] </b></a></td>
+        <td style="width: 40%;"> Learn all about numeracy through this fun session of Toddler Songs & Rhymes with our librarians! </td>
         <td style="width: 20%;">18 Jan 2022,<br>4.00pm – 4.20pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Toddler Songs & Rhymes (Theme: Colours & Shapes)  </b></a></td>
-        <td> Have fun learning about colours and shapes with your child in this interactive
-session of Toddler Songs & Rhymes. Get your child grooving to the different
-rhymes and action songs in this session. Teaching your toddler the movements
-and act out a rhyme will show your child that learning and fun can happen at the
-same time.</td>
-        <td>15 Mar 2022<br>4.00pm-4.20pm<br><br>
+        <td><a href="https://go.gov.sg/tsr-progs" target="_blank"><b> Toddler Songs & Rhymes [Theme: Colours & Shapes] </b></a></td>
+        <td> Have fun learning about colours and shapes with your child in this interactive session of Toddler Songs & Rhymes.  Get your child grooving to the different rhymes and action songs in this session. Teaching your toddler the movements and act out a rhyme will show your child that learning and fun can happen at the same time. </td>
+        <td>15 Mar 2022<br>4.00pm-4.20pm<br></td>
         <td>Zoom</td>
       </tr>
-
 <tr>
-<td><a href="https://go.gov.sg/er-progs" target="_blank"><b>Sensory Storytime</b></a></td>
-        <td>Join us for a special story time tailored to support children with additional needs. Families with typically developing children aged 4-6 years old are also welcome. Limited to 15 parent-child pairs.</td>
-        <td>12 Feb 2022</td>
-        <td>Bedok Public Library</td>
+<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Birds In Singapore!</b></a></td>
+        <td> Join us in this special storytelling and craft session where you will learn about our feathered friends in Singapore!</td>
+        <td>Jan 2022</td>
+        <td>TBC</td>
+      </tr>
+<tr>
+<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
+        <td>Sea turtles are a bastion of the ocean ecology. Learn all about the amazing sea turtle in this special storytelling and craft session.</td>
+        <td>Feb 2022</td>
+        <td>TBC</td>
       </tr>
     </tbody>
   </table>
@@ -111,21 +109,20 @@ same time.</td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Think Like A Coder (Session 1) - Amazing Algos </b></a></td>
-        <td style="width: 40%;">In this screen free coding workshop, children are introduced to algorithms and how they can make their own algorithm from day to day activities. 
- </td>
-        <td style="width: 20%;">22 Jan 2022<br>2.00pm – 2.30pm</td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>StoriiAlive Through Stem</b></a></td>
+        <td style="width: 40%;">StoriiAlive is a series of workshops created to bring stories alive through the use of screenfree coding via tech toys. Through fun and creative approaches, children learn to code and complete challenges with the use of book-related coding activities. </td>
+        <td style="width: 20%;">19 Dec 2021<br>11am – 12pm</td>
+        <td style="width: 20%;">Toa Payoh Public Library</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Travelling with BeeBot</b></a></td>
-        <td>Join Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking.  Screens are not needed for this activity! 
-</td>
-        <td>Feb 2022<br>3pm – 4pm</td>
-        <td>TBC</td>
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists 
+What Makes an Apple Turns Brown?</b></a></td>
+        <td>Children will learn about how chemical reactions work with this fun and exciting screen-free activity!</td>
+        <td>17 December 2021<br>3pm – 4pm</td>
+        <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b></b></a></td>
+<td><a href="#" target="_blank"><b>Travelling with Bee Bot</b></a></td>
         <td>Come programme Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking. Screens are not needed for this activity! </td>
         <td>March 2022</td>
         <td>TBC</td>
