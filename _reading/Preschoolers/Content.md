@@ -83,7 +83,7 @@ Learn more about <b> The World of Picture Books</b> through these videos.
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Choosing Suitable Picture Books (8 mins 44 sec) </b><br>
+    <p><b> Choosing Suitable Picture Books (8 min 44 sec) </b><br>
 What are linear stories, repetitive, or cumulative stories.
 
 Join our librarian Nathaniel Chew, as he shares ways on choosing great picture books, and storytelling techniques.</p>
@@ -98,7 +98,7 @@ Join our librarian Nathaniel Chew, as he shares ways on choosing great picture b
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Pourquoi Tales </b><br>
+    <p><b> Pourquoi Tales (6 min 52 sec) </b><br>
 Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means ‘why’ in French.  Learn about the different ‘pourquoi’ stories that you can share with your child to spur their innate curiosity about the world and why certain events happened.</p>
  
   </div>
@@ -111,7 +111,7 @@ Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means ‘why’ in Fre
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> SING-LIT</b><br>
+    <p><b> SING-LIT (4 min)</b><br>
 Discover the array of Sing-Lit stories to share with your little ones. Find out the history behind Jurong Island Singapore’s National Flower (Vanda Miss Joaquim) in this video.
 
 You can even take your child on a literary trail based on the stories that were featured.</p> 
