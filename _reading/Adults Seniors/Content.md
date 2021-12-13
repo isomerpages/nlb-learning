@@ -94,6 +94,7 @@ Check out our **playlists** and **learning packages** for recommended books, col
     </div>
   </div>
 	<br>
+	<br>
 <h5 id="reading-digital-age" class="margin--bottom--lg"><b>Playlist: Reading in a Digital Age</b></h5>
 	
 <p>So many books, so little time. How has the reading brain evolved with the advent of the digital age? These resources will give you short explainers on how our reading has changed with our devices, and how to cultivate the reading habit in a distracted age. 
@@ -133,7 +134,7 @@ This video has Max Joseph interview influential writers, avid readers and bookst
   </div>
   <div class="col is-three-fifths">
   <p><b>Neuroscience of Reading | Maryanne Wolf</b><br>
-    Nature and the economy are interconnected with protection of nature vital to enable the transition to a green economy. <br><br>
+    The quality of our thinking is influenced by the quality of our reading. In this video, Maryanne Wolf explains how reading affects the plasticity of our brain, and thereby how we think and understand. <br><br>
 <small>Falling Walls Foundation (2019, Nov 14). *Neuroscience of Reading | Maryanne Wolf*. Retrieved 2021, December 9.</small></p>
   </div>
 	</div>
