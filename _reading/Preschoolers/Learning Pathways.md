@@ -86,17 +86,13 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Birds In Singapore!</b></a></td>
-        <td> Join us in this special storytelling and craft session where you will learn about our feathered friends in Singapore!</td>
-        <td>Jan 2022</td>
-        <td>TBC</td>
+<td><a href="https://go.gov.sg/er-progs" target="_blank"><b>Sensory Storytime!</b></a></td>
+        <td> Join us for a special story time tailored to support children with additional needs. Families with typically developing children aged 4-6 years old are also welcome.  Limited to 15 parent-child pairs.
+</td>
+        <td>12 Feb 2022</td>
+        <td>Bedok Public Library</td>
       </tr>
-<tr>
-<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
-        <td>Sea turtles are a bastion of the ocean ecology. Learn all about the amazing sea turtle in this special storytelling and craft session.</td>
-        <td>Feb 2022</td>
-        <td>TBC</td>
-      </tr>
+
     </tbody>
   </table>
 </div>
