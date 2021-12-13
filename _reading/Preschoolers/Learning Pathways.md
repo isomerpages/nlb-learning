@@ -105,16 +105,17 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>StoriiAlive Through Stem</b></a></td>
-        <td style="width: 40%;">StoriiAlive is a series of workshops created to bring stories alive through the use of screenfree coding via tech toys. Through fun and creative approaches, children learn to code and complete challenges with the use of book-related coding activities. </td>
-        <td style="width: 20%;">19 Dec 2021<br>11am – 12pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Birds In Singapore! 
+</b></a></td>
+        <td style="width: 40%;">Join us in this special storytelling and craft session where you will learn about our feathered friends in Singapore! </td>
+        <td style="width: 20%;">29 Jan 2022<br>11.00am - 12.00pm</td>
+        <td style="width: 20%;">Central Public Library</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists 
-What Makes an Apple Turns Brown?</b></a></td>
-        <td>Children will learn about how chemical reactions work with this fun and exciting screen-free activity!</td>
-        <td>17 December 2021<br>3pm – 4pm</td>
+<td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Think like a Coder Session 1- Amazing Algos: Think Like a Coder
+</b></a></td>
+        <td>In this screen free coding workshop, children are introduced to algorithms and how they can make their own algorithm from day to day activities. </td>
+        <td>22 Jan 2022<br>2.00pm – 2.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
