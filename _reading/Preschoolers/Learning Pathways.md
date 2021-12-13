@@ -89,7 +89,7 @@ Make reading a fun activity while fostering that special bond between you and yo
 <td><a href="https://go.gov.sg/er-progs" target="_blank"><b>Sensory Storytime!</b></a></td>
         <td> Join us for a special story time tailored to support children with additional needs. Families with typically developing children aged 4-6 years old are also welcome.  Limited to 15 parent-child pairs.
 </td>
-        <td>12 Feb 2022</td>
+        <td>12 Feb 2022 <br>3.00pm-3.30pm</td>
         <td>Bedok Public Library</td>
       </tr>
 
@@ -129,7 +129,7 @@ Make reading a fun activity while fostering that special bond between you and yo
 			<tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Marine Animals</b></a></td>
         <td>Descend through the ocean to discover its mesmerizing ocean life. The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. Did you know that clownfish are actually omnivores, which mean they eat both meat and plants? What is the living habitat like for these marine animals? In this session, you will be introduced to the wonders of the oceans and learnt about the fun facts of the marine animals.</td>
-        <td>18 Mar 2022<br>3pm - 4pm</td>
+        <td>18 Mar 2022<br>3.00pm - 4.00pm</td>
         <td>Zoom <br>TBC</td>
       </tr>
   </tbody>
