@@ -57,7 +57,7 @@ Explore our **learning packages** for useful tips on selecting age-appropriate b
   <div class="col is-one-half">
     <div class="clickbox is-indigo-sky">
       <a href="#learning-packages-i-can-read">
-        <span>Learning Packages: Developing Early Literacy Skills</span>
+        <span>Learning Packages: <br> Developing Early Literacy Skills</span>
       </a>
     </div>
   </div>
