@@ -123,8 +123,8 @@ Make reading a fun activity while fostering that special bond between you and yo
 " target="_blank"><b>Precoding for Preschoolers: Story Sequence and Algorithms
 </b></a></td>
         <td>In this screen-free coding workshop, children are introduced to sequences and loops, and learn how they can experience them in day-to-day activities.</td>
-        <td>19 Feb 2022</td>
-        <td>11.00am-12.00pm</td>
+        <td>19  Feb 2022 <br>11.00am -12.00pm</td>
+        <td>Woodlands Regional Library</td>
       </tr>
 			<tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Marine Animals</b></a></td>
