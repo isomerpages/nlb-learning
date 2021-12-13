@@ -71,13 +71,28 @@ Learn more about early literacy tips through these videos.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/KS5q9n2Pur0"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/ZLuBblMvIMU"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Early Literacy Skills - Everything Parents Need to Know</b><br>
-This video explains the building blocks of early literacy and ways on how parents can foster learning through simple and exciting reading related activities at home.</p>
-    <small>Source: The Institute of Reading Development [Reading Programs]. (2019, March 2). Early Literacy Skills - Everything Parents Need to Know [Video]. YouTube. https://www.youtube.com/watch?v=KS5q9n2Pur0 </small>
+    <p><b> Choosing Suitable Picture Books (8 mins 44 sec) </b><br>
+What are linear stories, repetitive, or cumulative stories.
+
+Join our librarian Nathaniel Chew, as he shares ways on choosing great picture books, and storytelling techniques.</p>
+
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Jy-vn8nGJFc"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Pourquoi Tales </b><br>
+Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means ‘why’ in French.  Learn about the different ‘pourquoi’ stories that you can share with your child to spur their innate curiosity about the world and why certain events happened.</p>
+ 
   </div>
 </div>
 
@@ -88,22 +103,10 @@ This video explains the building blocks of early literacy and ways on how parent
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Read, Speak, Sing: Your baby and early literacy</b><br>
-Learning to read starts from birth. Whether through books, words, or songs – daily language experiences help form an emotional bond with your baby and are vital to the development of your baby’s early literacy skills.</p>
-    <small> Source: Read, Speak, Sing: Your baby and early literacy YouTube (2015, Jan 27). Canadian Paediatric Society. Retrieved 2021, November 5.</small>
-  </div>
-</div>
+    <p><b> SING-LIT</b><br>
+Discover the array of Sing-Lit stories to share with your little ones. Find out the history behind Jurong Island Singapore’s National Flower (Vanda Miss Joaquim) in this video.
 
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/lLCYNOxue04"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b> Read, Speak, Sing: Your baby and early literacy</b><br>
-Learning to read starts from birth. Whether through books, words, or songs – daily language experiences help form an emotional bond with your baby and are vital to the development of your baby’s early literacy skills.</p>
-    <small> Source: Read, Speak, Sing: Your baby and early literacy YouTube (2015, Jan 27). Canadian Paediatric Society. Retrieved 2021, November 5.</small>
+You can even take your child on a literary trail based on the stories that were featured.</p> 
   </div>
 </div>
 
