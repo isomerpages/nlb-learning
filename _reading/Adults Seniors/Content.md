@@ -110,7 +110,7 @@ Check out our **playlists** and **learning packages** for recommended books, col
   </div>
   <div class="col is-three-fifths">
     <p><b>BOOKSTORES: How to Read More Books in the Golden Age of Content</b><br>
-This video has Max Joseph interview influential writers, avid readers and bookstore owners on how to make time for reading today, including how to read faster! The icing on the cake is following his haunts around Europe and North America for the dreamiest and most surreal bookstores.<br><br> 
+This video has Max Joseph interview influential writers, avid readers and bookstore owners on how to make time for reading today, including how to read faster! The icing on the cake is following his haunts for the dreamiest and most surreal bookstores.<br><br> 
 <small>Source: Max Joseph (2019, April 23). <em>BOOKSTORES: How to Read More Books in the Golden Age of Content</em>. Retrieved 2021, December 9.</small></p>
   </div>
 </div>
@@ -149,5 +149,5 @@ This video has Max Joseph interview influential writers, avid readers and bookst
 
 Relive the pleasure of being told stories, even as adults. Tune in to these podcasts to discover a myriad of life experiences from over the world, and our own shores.  Stories range from the poignant, humorous, bizarre to downright frightening.
 <br>
-</div>
-</div>
+<h5>1. <a href=”https://themoth.org/podcast”target=”_blank”>The Moth</a></h5> <p>intro</p>
+Retrieved 2021, 9 December 
