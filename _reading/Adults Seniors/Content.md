@@ -107,7 +107,7 @@ So many books, so little time. How has the reading brain evolved with the advent
   </div>
   <div class="col is-three-fifths">
     <p><b>BOOKSTORES: How to Read More Books in the Golden Age of Content</b><br>
-This video has Max Joseph interview influential writers, avid readers and bookstore owners on how to make time for reading today, including how to read faster! The icing on the cake is following his haunts around Europe and North America for the dreamiest and most surreal bookstores. 
+This video has Max Joseph interview influential writers, avid readers and bookstore owners on how to make time for reading today, including how to read faster! The icing on the cake is following his haunts around Europe and North America for the dreamiest and most surreal bookstores.<br><br> 
 <small>Source: Max Joseph (2019, April 23). BOOKSTORES: How to Read More Books in the Golden Age of Content. Retrieved 2021, December 9.</small></p>
   </div>
 </div>
