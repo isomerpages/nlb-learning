@@ -94,9 +94,9 @@ Check out our **playlists** and **learning packages** for recommended books, col
     </div>
   </div>
 	
-	<h5 id="reading-in-a-digital-age" class="margin--bottom--lg">
-
-	<b>Playlist: Reading in a Digital Age/b></h5>
+	<h5 id="reading-digital-age" class="margin--bottom--lg">
+<b>Playlist: Reading in a Digital Age</b></h5>
+	
 So many books, so little time. How has the reading brain evolved with the advent of the digital age? These resources will give you short explainers on how our reading has changed with our devices, and how to cultivate the reading habit in a distracted age. 
 <br>
 <div class="row is-multiline margin--bottom--lg">
