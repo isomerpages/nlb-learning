@@ -63,9 +63,7 @@ Skills at home (4-6 years old)</b></a></td>
 <tr>
         <td></td>
         <td> </td>
-      </tr>
-    </tbody>
-  </table>
+     
 </div>
 
 <div class="horizontal-scroll margin--bottom--lg">
@@ -93,13 +91,7 @@ same time.</td>
         <td>15 Mar 2022<br>4.00pm-4.20pm<br><br>
         <td>Zoom</td>
       </tr>
-<tr>
-<td><a href="https://go.gov.sg/bsr-progs" target="_blank"><b>Baby Songs & Rhymes</b></a></td>
-        <td> Join our librarians as they share songs and rhymes to help build pre-reading skills. Sing
-along with us and bond with your baby at home.</td>
-        <td>19 Mar 2022</td>
-        <td>Zoom</td>
-      </tr>
+
 <tr>
 <td><a href="https://go.gov.sg/er-progs" target="_blank"><b>Sensory Storytime</b></a></td>
         <td>Join us for a special story time tailored to support children with additional needs. Families with typically developing children aged 4-6 years old are also welcome. Limited to 15 parent-child pairs.</td>
@@ -125,14 +117,14 @@ along with us and bond with your baby at home.</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists 
-What Makes an Apple Turns Brown?</b></a></td>
-        <td>Children will learn about how chemical reactions work with this fun and exciting screen-free activity!</td>
-        <td>17 December 2021<br>3pm – 4pm</td>
-        <td>Zoom</td>
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Travelling with BeeBot</b></a></td>
+        <td>Join Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking.  Screens are not needed for this activity! 
+</td>
+        <td>Feb 2022<br>3pm – 4pm</td>
+        <td>TBC</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>Travelling with Bee Bot</b></a></td>
+<td><a href="#" target="_blank"><b></b></a></td>
         <td>Come programme Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking. Screens are not needed for this activity! </td>
         <td>March 2022</td>
         <td>TBC</td>
