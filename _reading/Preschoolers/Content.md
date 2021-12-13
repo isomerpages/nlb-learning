@@ -94,18 +94,20 @@ Learning to read starts from birth. Whether through books, words, or songs – d
   </div>
 </div>
 
-<div class="row is-multiline">
+<div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/w756YPhVPIs"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/lLCYNOxue04"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Build early literacy skills by reading to your child<b><br>
-Ms. Lena, a children’s librarian from Wichita Public Library, shared one of the 5 activity skills parents can do to foster the love of reading in your child. </p>
-    <small> Source: Build early literacy skills by reading to your child YouTube (2017, Oct 25). Wichita Public Library. Retrieved 2021, November 5.</small>
- 
+    <p><b> Read, Speak, Sing: Your baby and early literacy</b><br>
+Learning to read starts from birth. Whether through books, words, or songs – daily language experiences help form an emotional bond with your baby and are vital to the development of your baby’s early literacy skills.</p>
+    <small> Source: Read, Speak, Sing: Your baby and early literacy YouTube (2015, Jan 27). Canadian Paediatric Society. Retrieved 2021, November 5.</small>
+  </div>
+</div>
 
+ 
 <h3 class="margin--bottom--lg" id="learning-packages-i-can-read"><b>Learning Packages</b></h3>
 	
 Useful tips and activities that can help you develop your child to become a fluent reader.
