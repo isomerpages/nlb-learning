@@ -64,7 +64,7 @@ Explore our **learning packages** for useful tips on selecting age-appropriate b
   </div>
 
 
-<h3 class="margin--bottom--lg" id="playlist-early-literacy"><b>Playlist: The World of Picture Books</b></h3>
+<h3 class="margin--bottom--lg" id="playlist-the-world-of-picture-books"><b>Playlist: The World of Picture Books</b></h3>
 
 Picture books can be enjoyed at any age and they are powerful tools in fostering the love of reading in young children. It is never too early to start reading with your child. Reading a variety of picture books with your child can:
 
