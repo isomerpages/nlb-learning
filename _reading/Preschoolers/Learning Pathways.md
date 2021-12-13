@@ -77,29 +77,34 @@ Skills at home (4-6 years old)</b></a></td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/tsr-progs" target="_blank"><b>Toddler Songs & Rhymes! (theme: Numbers & Counting)</b></a></td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/tsr-progs" target="_blank"><b>Toddler Songs & Rhymes (Theme: Numbers & Counting)</b></a></td>
         <td style="width: 40%;">Learn all about numeracy through this fun session of Toddler Songs & Rhymes
 with our librarians!</td>
         <td style="width: 20%;">18 Jan 2022,<br>4.00pm – 4.20pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Horseshoe Crab Conservation by Republic Poly</b></a></td>
-        <td> Learn all about the fascinating horseshoe crabs and their role in the environment!</td>
-        <td>5 Dec 2021<br>11am - 11.45am<br><br>19 Dec 2021<br>2pm - 3pm</td>
+        <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Toddler Songs & Rhymes (Theme: Colours & Shapes)  </b></a></td>
+        <td> Have fun learning about colours and shapes with your child in this interactive
+session of Toddler Songs & Rhymes. Get your child grooving to the different
+rhymes and action songs in this session. Teaching your toddler the movements
+and act out a rhyme will show your child that learning and fun can happen at the
+same time.</td>
+        <td>15 Mar 2022<br>4.00pm-4.20pm<br><br>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Birds In Singapore!</b></a></td>
-        <td> Join us in this special storytelling and craft session where you will learn about our feathered friends in Singapore!</td>
-        <td>Jan 2022</td>
-        <td>TBC</td>
+<td><a href="https://go.gov.sg/bsr-progs" target="_blank"><b>Baby Songs & Rhymes</b></a></td>
+        <td> Join our librarians as they share songs and rhymes to help build pre-reading skills. Sing
+along with us and bond with your baby at home.</td>
+        <td>19 Mar 2022</td>
+        <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
-        <td>Sea turtles are a bastion of the ocean ecology. Learn all about the amazing sea turtle in this special storytelling and craft session.</td>
-        <td>Feb 2022</td>
-        <td>TBC</td>
+<td><a href="https://go.gov.sg/er-progs" target="_blank"><b>Sensory Storytime</b></a></td>
+        <td>Join us for a special story time tailored to support children with additional needs. Families with typically developing children aged 4-6 years old are also welcome. Limited to 15 parent-child pairs.</td>
+        <td>12 Feb 2022</td>
+        <td>Bedok Public Library</td>
       </tr>
     </tbody>
   </table>
