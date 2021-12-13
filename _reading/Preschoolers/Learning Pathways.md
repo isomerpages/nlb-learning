@@ -119,10 +119,12 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="#" target="_blank"><b>Travelling with Bee Bot</b></a></td>
-        <td>Come programme Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking. Screens are not needed for this activity! </td>
-        <td>March 2022</td>
-        <td>TBC</td>
+<td><a href="https://go.gov.sg/er-digital-progs
+" target="_blank"><b>Precoding for Preschoolers: Story Sequence and Algorithms
+</b></a></td>
+        <td>In this screen-free coding workshop, children are introduced to sequences and loops, and learn how they can experience them in day-to-day activities.</td>
+        <td>19 Feb 2022</td>
+        <td>11.00am-12.00pm</td>
       </tr>
 			<tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Marine Animals</b></a></td>
