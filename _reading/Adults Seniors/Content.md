@@ -108,7 +108,7 @@ So many books, so little time. How has the reading brain evolved with the advent
   <div class="col is-three-fifths">
     <p><b>BOOKSTORES: How to Read More Books in the Golden Age of Content</b><br>
 This video has Max Joseph interview influential writers, avid readers and bookstore owners on how to make time for reading today, including how to read faster! The icing on the cake is following his haunts around Europe and North America for the dreamiest and most surreal bookstores.<br><br> 
-<small>Source: Max Joseph (2019, April 23). BOOKSTORES: How to Read More Books in the Golden Age of Content. Retrieved 2021, December 9.</small></p>
+<small>Source: Max Joseph (2019, April 23). *BOOKSTORES: How to Read More Books in the Golden Age of Content*. Retrieved 2021, December 9.</small></p>
   </div>
 </div>
 
@@ -121,7 +121,7 @@ This video has Max Joseph interview influential writers, avid readers and bookst
   <div class="col is-three-fifths">
   <p><b> Rewiring Our Brains: Nicholas Carr</b><br>
     Pulitzer Prize finalist, Nicholas Carr, explains how our usage of the internet has literally re-wired our brains, affecting how we read, write, learn and understand. <br><br>
-<small>Source: Wheeler Centre (2015, Jan 23). Rewiring Our Brains: Nicholas Carr. Retrieved 2021, December 9.</small></p>
+<small>Source: Wheeler Centre (2015, Jan 23). *Rewiring Our Brains: Nicholas Carr*. Retrieved 2021, December 9.</small></p>
   </div>
 </div>
 
@@ -134,7 +134,8 @@ This video has Max Joseph interview influential writers, avid readers and bookst
   <div class="col is-three-fifths">
   <p><b>Neuroscience of Reading | Maryanne Wolf</b><br>
     Nature and the economy are interconnected with protection of nature vital to enable the transition to a green economy. <br><br>
-<small>Falling Walls Foundation (2019, Nov 14). Neuroscience of Reading | Maryanne Wolf. Retrieved 2021, December 9.</small></p>
+<small>Falling Walls Foundation (2019, Nov 14). *Neuroscience of Reading | Maryanne Wolf*. Retrieved 2021, December 9.</small></p>
   </div>
-</div>	
-
+	</div>
+	[Back to top](#main-content)
+{: .has-text-right .margin--top--xl}
