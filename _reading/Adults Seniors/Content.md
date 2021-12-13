@@ -142,3 +142,10 @@ This video has Max Joseph interview influential writers, avid readers and bookst
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
+	
+<h5 id="stories-for-adults" class="margin--bottom--lg"><b>Playlist: Stories for Adults</b></h5>
+
+Relive the pleasure of being told stories, even as adults. Tune in to these podcasts to discover a myriad of life experiences from over the world, and our own shores.  Stories range from the poignant, humorous, bizarre to downright frightening.
+<br>
+</div>
+</div>
