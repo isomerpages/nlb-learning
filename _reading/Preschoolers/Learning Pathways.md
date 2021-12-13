@@ -118,10 +118,11 @@ along with us and bond with your baby at home.</td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>StoriiAlive Through Stem</b></a></td>
-        <td style="width: 40%;">StoriiAlive is a series of workshops created to bring stories alive through the use of screenfree coding via tech toys. Through fun and creative approaches, children learn to code and complete challenges with the use of book-related coding activities. </td>
-        <td style="width: 20%;">19 Dec 2021<br>11am – 12pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Think Like A Coder (Session 1) - Amazing Algos </b></a></td>
+        <td style="width: 40%;">In this screen free coding workshop, children are introduced to algorithms and how they can make their own algorithm from day to day activities. 
+ </td>
+        <td style="width: 20%;">22 Jan 2022<br>2.00pm – 2.30pm</td>
+        <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists 
