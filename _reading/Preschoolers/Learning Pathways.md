@@ -28,7 +28,8 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 
 <h3><b>Ignite a lifelong love of reading in your children!</b></h3>
 Reading is a fundamental life skill in children and is significant in their development of literacy skills. Learning to read starts long before a child enters school and parents play an important role in nurturing children’s passion for reading and life-long learning.
-Make reading a fun activity while fostering that special bond between you and your little one, through this suite of reading programmes offered by the public libraries.  Learn how you can develop the 6 pre-reading skills though the simple 5 Early Practices of Reading, Singing, Playing, Talking and Writing via programmes at the libraries. 
+Make reading a fun activity while fostering that special bond between you and your little one, through this suite of reading programmes offered by the public libraries. 
+<br><br>Learn how you can develop the 6 pre-reading skills though the simple 5 Early Practices of Reading, Singing, Playing, Talking and Writing via programmes at the libraries. 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
