@@ -136,7 +136,5 @@ This video has Max Joseph interview influential writers, avid readers and bookst
     Nature and the economy are interconnected with protection of nature vital to enable the transition to a green economy. <br><br>
 <small>Falling Walls Foundation (2019, Nov 14). Neuroscience of Reading | Maryanne Wolf. Retrieved 2021, December 9.</small></p>
   </div>
-</div>
+</div>	
 
-[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
