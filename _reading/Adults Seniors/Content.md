@@ -94,11 +94,11 @@ Check out our **playlists** and **learning packages** for recommended books, col
     </div>
   </div>
 	
-	<h5 id="reading-digital-age" class="margin--bottom--lg">
-<b>Playlist: Reading in a Digital Age</b></h5>
+<h5 id="reading-digital-age" class="margin--bottom--lg"><b>Playlist: Reading in a Digital Age</b></h5>
 	
 So many books, so little time. How has the reading brain evolved with the advent of the digital age? These resources will give you short explainers on how our reading has changed with our devices, and how to cultivate the reading habit in a distracted age. 
 <br>
+	
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -108,7 +108,7 @@ So many books, so little time. How has the reading brain evolved with the advent
   <div class="col is-three-fifths">
     <p><b>BOOKSTORES: How to Read More Books in the Golden Age of Content</b><br>
 This video has Max Joseph interview influential writers, avid readers and bookstore owners on how to make time for reading today, including how to read faster! The icing on the cake is following his haunts around Europe and North America for the dreamiest and most surreal bookstores. 
-<small>Source: Max Joseph (2019, April 23). BOOKSTORES: How to Read More Books in the Golden Age of Content. Retrieved 2021, December 9.</small></p>.. 
+<small>Source: Max Joseph (2019, April 23). BOOKSTORES: How to Read More Books in the Golden Age of Content. Retrieved 2021, December 9.</small></p>
   </div>
 </div>
 
