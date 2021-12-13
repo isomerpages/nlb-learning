@@ -74,7 +74,7 @@ Picture books can be enjoyed at any age and they are powerful tools in fostering
 •	build their empathy and self-awareness
 
 
-Learn more about <b> The World of Picture Books</b> through these videos.
+Learn more about the world of picture books through these videos. <br><br>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
