@@ -37,7 +37,7 @@ third_nav_title: Preschoolers
 .clickbox.is-indigo-sky a:focus,
 .clickbox.is-indigo-sky a:hover { background-color: #322987; color: #cff2e8; }
 </style>
-It’s never too early to start reading to your child! Explore our content, programmes and pathways that are centred on early literacy practices that can help your children to become fluent readers.
+It’s never too early to start reading to your child! Explore our content, programmes and pathways that are centred on the five early literacy practices that can help your children become fluent readers.
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
