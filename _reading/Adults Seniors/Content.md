@@ -97,7 +97,7 @@ Check out our **playlists** and **learning packages** for recommended books, col
 </div>
 	
 
-<h5 id="reading-digital-age" class="margin--bottom--lg"><b>Playlist: Reading in a Digital Age</b></h5>
+<h5 id="playlist-reading-digital-age" class="margin--bottom--lg"><b>Playlist: Reading in a Digital Age</b></h5>
 	
 <p>So many books, so little time. How has the reading brain evolved with the advent of the digital age? These resources will give you short explainers on how our reading has changed with our devices, and how to cultivate the reading habit in a distracted age. 
 <br>
@@ -140,7 +140,7 @@ This video has Max Joseph interview influential writers, avid readers and bookst
 		<small>Falling Walls Foundation (2019, Nov 14). <em>Neuroscience of Reading | Maryanne Wolf</em>. Retrieved 2021, December 9.</small></p>
   </div>
  	</div>
-<br>
+
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
