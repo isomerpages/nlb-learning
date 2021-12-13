@@ -117,6 +117,6 @@ Useful tips and activities that can help you develop your child to become a flue
 <p> Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help them build their letter knowledge and vocabulary. </p>
 	
 <h4 id="lp-preschoolers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b>For Ages 4 to 6 years</b></a></h4>
-<p>How can you encourage the love of reading in your pre-schooler? Learn some tups and activities you can do to develop your child into a confident reader!</p>
+<p>How can you encourage the love of reading in your pre-schooler? Learn some tips and activities you can do to develop your child into a confident reader!</p>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
