@@ -122,7 +122,7 @@ This video has Max Joseph interview influential writers, avid readers and bookst
   <div class="col is-three-fifths">
   <p><b> Rewiring Our Brains: Nicholas Carr</b><br>
     Pulitzer Prize finalist, Nicholas Carr, explains how our usage of the internet has literally re-wired our brains, affecting how we read, write, learn and understand. <br><br>
-<small>Source: Wheeler Centre (2015, Jan 23). *Rewiring Our Brains: Nicholas Carr*. Retrieved 2021, December 9.</small></p>
+		<small>Source: Wheeler Centre (2015, Jan 23). <em>Rewiring Our Brains: Nicholas Carr</em>. Retrieved 2021, December 9.</small></p>
   </div>
 </div>
 
@@ -135,8 +135,10 @@ This video has Max Joseph interview influential writers, avid readers and bookst
   <div class="col is-three-fifths">
   <p><b>Neuroscience of Reading | Maryanne Wolf</b><br>
     The quality of our thinking is influenced by the quality of our reading. In this video, Maryanne Wolf explains how reading affects the plasticity of our brain, and thereby how we think and understand. <br><br>
-<small>Falling Walls Foundation (2019, Nov 14). *Neuroscience of Reading | Maryanne Wolf*. Retrieved 2021, December 9.</small></p>
+		<small>Falling Walls Foundation (2019, Nov 14). <em>Neuroscience of Reading | Maryanne Wolf</em>. Retrieved 2021, December 9.</small></p>
   </div>
-	</div>
-	[Back to top](#main-content)
+ 	</div>
+<br>
+
+[Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
