@@ -93,3 +93,50 @@ Check out our **playlists** and **learning packages** for recommended books, col
       </a>
     </div>
   </div>
+	
+	<h5 id="reading-in-a-digital-age" class="margin--bottom--lg">
+
+	<b>Playlist: Reading in a Digital Age/b></h5>
+So many books, so little time. How has the reading brain evolved with the advent of the digital age? These resources will give you short explainers on how our reading has changed with our devices, and how to cultivate the reading habit in a distracted age. 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/lIW5jBrrsS0&t=111s" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>BOOKSTORES: How to Read More Books in the Golden Age of Content</b><br>
+This video has Max Joseph interview influential writers, avid readers and bookstore owners on how to make time for reading today, including how to read faster! The icing on the cake is following his haunts around Europe and North America for the dreamiest and most surreal bookstores. 
+<small>Source: Max Joseph (2019, April 23). BOOKSTORES: How to Read More Books in the Golden Age of Content. Retrieved 2021, December 9.</small></p>.. 
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/b6LwzNMTl0s" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b> Rewiring Our Brains: Nicholas Carr</b><br>
+    Pulitzer Prize finalist, Nicholas Carr, explains how our usage of the internet has literally re-wired our brains, affecting how we read, write, learn and understand. <br><br>
+<small>Source: Wheeler Centre (2015, Jan 23). Rewiring Our Brains: Nicholas Carr. Retrieved 2021, December 9.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/j6TEiV49Fa4" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Neuroscience of Reading | Maryanne Wolf</b><br>
+    Nature and the economy are interconnected with protection of nature vital to enable the transition to a green economy. <br><br>
+<small>Falling Walls Foundation (2019, Nov 14). Neuroscience of Reading | Maryanne Wolf. Retrieved 2021, December 9.</small></p>
+  </div>
+</div>
+
+[Back to top](#main-content)
+{: .has-text-right .margin--top--xl}
