@@ -26,12 +26,8 @@ third_nav_title: Preschoolers
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3><b>Ignite a lifelong love of reading in your children !</b></h3>
-
-Reading is a fundamental life skill in children and is significant in theirdevelopment of literacy skills. Learning to read starts long before a child enters school and parents play an important role in nurturing children’s passion for reading and life-long learning.
-
-Make reading a fun activity while fostering that special bond between you and your little one, through this suite of reading programmes offered by the public libraries. Learn how you can develop the 6 pre-reading skills though the simple 5 Early Practices of Reading, Singing, Playing, Talking and Writing via programmes at the libraries.
-
+<h3><b>Go Wild & Wow With Sustainability!</b></h3>
+What can we do to protect the environment around us? Do you know the different types of animals and plants in Singapore that we can care for? Through the suite of exciting programmes available, children will get an opportunity to learn all about the various facets of sustainability and the role they can play in taking care of the natural environment. Join us on this journey on caring for the environment and connecting with nature with the various interesting talks, workshops and activities available online and at the libraries!
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -41,9 +37,8 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b>Developing Early Literacy
-Skills at home (0-12 months) </b></a></td>
-        <td style="width: 40%;"> .</td>
+        <td style="width: 20%;"><a href="/sustainability/preschoolers/content" target="_blank"><b> Animal Conservation Series: Protecting birds in Singapore</b></a></td>
+        <td style="width: 40%;"> Understand more about the different types of birds in Singapore, why they are important and how to protect them. There are also fun activities and related book recommendations.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
