@@ -77,10 +77,11 @@ Skills at home (4-6 years old)</b></a></td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Get Creative for Climate Change! [7 years and below]</b></a></td>
-        <td style="width: 40%;">Want to learn more about climate change and how we can care for our environment in fun, creative ways? Water Wally & Sally have partnered up with our friends at the National Library Board and The Art People to show you how we can do just that! During this 1-hour online session, we will share some book recommendations, and do some art and craft with recycled materials.</td>
-        <td style="width: 20%;">18 Dec 2021,<br>1.30pm – 2.30pm</td>
-        <td style="width: 20%;">TBC</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/tsr-progs" target="_blank"><b>Toddler Songs & Rhymes! (theme: Numbers & Counting)</b></a></td>
+        <td style="width: 40%;">Learn all about numeracy through this fun session of Toddler Songs & Rhymes
+with our librarians!</td>
+        <td style="width: 20%;">18 Jan 2022,<br>4.00pm – 4.20pm</td>
+        <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
         <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Horseshoe Crab Conservation by Republic Poly</b></a></td>
