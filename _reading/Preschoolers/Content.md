@@ -104,8 +104,7 @@ Learning to read starts from birth. Whether through books, words, or songs – d
     <p><b> Build early literacy skills by reading to your child<b><br>
 Ms. Lena, a children’s librarian from Wichita Public Library, shared one of the 5 activity skills parents can do to foster the love of reading in your child. </p>
     <small> Source: Build early literacy skills by reading to your child YouTube (2017, Oct 25). Wichita Public Library. Retrieved 2021, November 5.</small>
-  </div>
-</div>
+ 
 
 <h3 class="margin--bottom--lg" id="learning-packages-i-can-read"><b>Learning Packages</b></h3>
 	
