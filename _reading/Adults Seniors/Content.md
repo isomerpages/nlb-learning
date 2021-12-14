@@ -112,10 +112,10 @@ This video has Max Joseph interview influential writers, avid readers and bookst
 {: .has-text-right .margin--top--xl}
 	
 <h5 class="margin--bottom--lg" id="playlist-stories-for-adults"><b>Playlist: Stories for Adults</b>
+	
 Relive the pleasure of being told stories, even as adults. Tune in to these podcasts to discover a myriad of life experiences from over the world, and our own shores.  Stories range from the poignant, humorous, bizarre to downright frightening.
 </h5>
 <br>
-
 <h5>1. <a href=”https://themoth.org/podcast”target=_blank”>The Moth</a></h5> 
 <p>The Moth Podcast hosts an archive of stories from a myriad of life experiences. Told by storytellers from all walks of life ranging from the everyday person to personalities, the stories range from the poignant, humorous, sad to suspenseful – all a reminder of how our humanly longings and fears are essentially similar.  </p>
 <small>Retrieved 2021, 9 December </small>
