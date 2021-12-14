@@ -149,17 +149,17 @@ This video has Max Joseph interview influential writers, avid readers and bookst
 
 Relive the pleasure of being told stories, even as adults. Tune in to these podcasts to discover a myriad of life experiences from over the world, and our own shores.  Stories range from the poignant, humorous, bizarre to downright frightening.
 <br>
-<h5>1. <a href=”https://themoth.org/podcast”target=_blank”>The Moth</a></h5> 
+<h5>1. <a href=”https://themoth.org/podcast”target="_blank”>The Moth</a></h5> 
 <p>The Moth Podcast hosts an archive of stories from a myriad of life experiences. Told by storytellers from all walks of life ranging from the everyday person to personalities, the stories range from the poignant, humorous, sad to suspenseful – all a reminder of how our humanly longings and fears are essentially similar.  </p>
 
 <small>Retrieved 2021, 9 December</small>
 
-<h5>2. <a href=”https://www.newyorker.com/podcast/the-authors-voice”target=_blank”>The New Yorker: The Writer’s Voice</a></h5> 
+<h5>2. <a href=”https://www.newyorker.com/podcast/the-authors-voice”target="_blank”>The New Yorker: The Writer’s Voice</a></h5> 
 <p>Besides publishing original fiction by different writers, the New Yorker also invite them to tell their stories as how they intended it to be heard. Listen to the writers, which includes the likes of Margarte Atwood ad Jhumpa Lahiri. </p>
 
 <small>Retrieved 2021, 9 December</small>
 
-<h5>3. <a href=”https://open.spotify.com/show/0iKoHztCnL4pmxkWvwAfKX”target=_blank”> Ghost Maps: True Southeast Asian Horror Stories </a></h5> 
+<h5>3. <a href=”https://open.spotify.com/show/0iKoHztCnL4pmxkWvwAfKX”target="_blank”> Ghost Maps: True Southeast Asian Horror Stories </a></h5> 
 <p>Ghost Maps collects stories to do with the supernatural, based on real life experiences. Be prepared to be spooked. </p>
 
 <small>Retrieved 2021, 9 December</small>
