@@ -24,7 +24,7 @@ third_nav_title: Preschoolers
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
-Help your child to develop important early literacy skills through our array of interactive workshops, talks, storytelling sessions and events.
+Help your child develop important early literacy skills through our array of interactive workshops, talks, storytelling sessions and events.
 
 ### Raising Readers for Life
 ![Alt text for image on Isomer site](/images/reading/preschool/readingbannerpreschool.png)
