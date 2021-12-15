@@ -29,5 +29,5 @@ Help your child develop important early literacy skills through our array of int
 ### Raising Readers for Life
 ![Alt text for image on Isomer site](/images/reading/preschool/readingbannerpreschool.png)
 
-Programmes for children aged 0 to 6 years old such as Storytelling, Baby Lapsit, Baby Songs and Rhymes, Toddler Songs and Rhymes and Jiggle, Read & Rhymes. Conducted regularly.
+Programmes for children aged 0 to 6 years old such as Storytelling, Baby Lapsit, Baby Songs and Rhymes, Toddler Songs and Rhymes and Jiggle, Read & Rhymes are conducted regularly.
 Click [here](https://go.gov.sg/early-read-reading-programmes) for the latest programme listings.
