@@ -153,7 +153,7 @@ Relive the pleasure of being told stories, even as adults. Tune in to these podc
 <small>Retrieved 2021, 9 December </small>
 
 <h5>2. <a href="https://www.newyorker.com/podcast/the-authors-voice" target="_blank">The New Yorker: The Writer’s Voice</a></h5> 
-<p>Besides publishing original fiction by different writers, the New Yorker also invite them to tell their stories as how they intended it to be heard. Listen to the writers, which includes the likes of Margaret Atwood ad Jhumpa Lahiri. </p>
+<p>Besides publishing original fiction by different writers, the New Yorker also invite them to tell their stories as how they intended it to be heard. Listen to the writers, which includes the likes of Margaret Atwood and Jhumpa Lahiri. </p>
 
 <small>Retrieved 2021, 9 December</small>
 
