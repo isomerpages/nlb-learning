@@ -208,7 +208,7 @@ For Parents, conducted quarterly in English. The location is to be confirmed.</p
   <div class="col is-half-tablet padding--bottom--lg">
     <img alt="Qing History Society 清史读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-12.jpg">
     <div class="margin--top--lg">
-      <h5 class="margin--top--sm margin--bottom--sm"><b> Qing History Society 清史读书</b></h5>
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Qing History Society 清史读书会</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> We hope to gather more friends who are interested in the history of China or the Qing dynasty. Whether you are young, in your prime or in your old age, we welcome you to join us and come together to promote Chinese culture and nurture the love for the Chinese language.<br><br>
 我们希望能够聚集更多对中国历史或清朝历史有兴趣的朋友。无论您是年轻人、正值壮年或是年长者，我们都欢迎您一起来参与，一起为推广中华文化，甚至为提高新加坡的华文水平努力！<br><br>
 For Teens, Adults, Seniors, conducted once every two months in Chinese at Central Public Library.</p>
