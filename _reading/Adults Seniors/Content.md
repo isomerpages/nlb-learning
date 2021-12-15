@@ -49,7 +49,7 @@ Check out our **playlists** and **learning packages** for recommended books, col
   </div>
   <div class="col is-one-third"> 
     <div class="clickbox is-sky-indigo">
-      <a href="#playlist-stories-for-adults">
+      <a href="#tldr-short-reads">
         <span>Playlist:<br>Stories for Adults</span>
       </a>
     </div>
