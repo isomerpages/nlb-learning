@@ -61,8 +61,8 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td> Video resources to help parents understand more about the different types of picture books.</td>
         <td></td>
         <td> </td>
-      </tr>
-    </tbody>
+      </tr>	
+       </tbody>
   </table>
 </div>
 
