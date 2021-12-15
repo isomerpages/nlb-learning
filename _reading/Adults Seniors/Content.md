@@ -50,7 +50,7 @@ Check out our **playlists** and **learning packages** for recommended books, col
   <div class="col is-one-third"> 
     <div class="clickbox is-sky-indigo">
       <a href="#tldr-short-reads">
-        <span>Playlist:<br>Stories for Adults</span>
+     <span>TLDR:<br>Short Reads</span>
       </a>
     </div>
   </div>
