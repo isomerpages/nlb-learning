@@ -145,7 +145,7 @@ This video has Max Joseph interview influential writers, avid readers and bookst
 {: .has-text-right .margin--top--xl}
 
 <h5 id="tldr-short-reads" class="margin--bottom--lg"><b>TLDR: Short Reads</b></h5>
-Get back into reading with these short reads. Or pull these up to tide you over that commute or long wait.  From short stories, comics to poetry, we’ve got you covered.
+Get back into reading with these short reads. Or pull these out to tide you over that commute or long wait.  From short stories, comics to poetry, we’ve got you covered.
 <br>
 <h4>Websites</h4>
 <h5>1. <a href=" http://www.qlrs.com/stories.asp" target=_blank">Quarterly Literary Review Singapore: Short Stories</a></h5> 
