@@ -250,5 +250,6 @@ This video explains how memory, symbols and pattern distinguish a professional r
   </div>
 </div>
 
+
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
