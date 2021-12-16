@@ -232,13 +232,16 @@ David Sedaris (2000), <i> Me Talk Pretty One Day </i>, Hachette Audio.
 
 <small>Retrieved 2021, 9 December</small>
 
+[Back to top](#main-content)
+{: .has-text-right .margin--top--xl}
+
 <h5 id="playlist-intro-literature" class="margin--bottom--lg"><b>Playlist: Introduction to Literature</b></h5>
 <p>Literature examines human communication and facilitates critical thinking. Check out this playlist to kickstart your journey in discovering literature.</p>
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/xz9rfDm1Wr4&list=RDLV4RCFLobfqcw&index=4" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/xz9rfDm1Wr4" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -263,7 +266,7 @@ Literature facilitates critical thinking, and human communication. Check out thi
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/ vjLDSz5th4A" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/vjLDSz5th4A" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
