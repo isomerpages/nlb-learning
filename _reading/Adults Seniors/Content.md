@@ -204,7 +204,7 @@ This is Roald Dahl’s first collection of twisted short stories for adults. </p
 
 <small>Retrieved 2021, 9 December</small>
 
-<h5 id="playlist-understanding-literature" class="margin--bottom--lg"><b>Playlist: Understanding Literature</b></h5>
+<h5 id="playlist-intro-literature" class="margin--bottom--lg"><b>Playlist: Understanding Literature</b></h5>
 <p>Literature examines human communication and facilitates critical thinking. Check out this playlist to kickstart your journey in discovering literature.</p>
 <br>
 <div class="row is-multiline margin--bottom--lg">
@@ -247,4 +247,3 @@ This video explains how memory, symbols and pattern distinguish a professional r
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
-
