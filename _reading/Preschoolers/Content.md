@@ -85,8 +85,8 @@ Learn more about the world of picture books through these videos. <br><br>
   <div class="col is-three-fifths">
     <p><b> Choosing Suitable Picture Books (8 min 44 sec) </b><br>
     
-What’s so great about picture books? Do you know the differences between linear and cumulative stories?
-			
+What’s so great about picture books? Do you know the differences between linear and cumulative stories? </b><br>
+		
 Join our librarian Nathaniel Chew, as he shares ways on choosing great picture books, and storytelling techniques.</p>
 
   </div>
