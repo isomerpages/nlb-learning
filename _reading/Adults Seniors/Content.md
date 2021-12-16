@@ -56,8 +56,8 @@ Check out our **playlists** and **learning packages** for recommended books, col
   </div>
 <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
-      <a href="#lp-short-reads">
-        <span>Learning Package:<br>Short Reads</span>
+      <a href="#playlist-stories-for-adults">
+        <span>Playlist<br>Stories for Adults</span>
       </a>
     </div>
   </div>
