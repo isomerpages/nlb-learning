@@ -204,7 +204,7 @@ This is Roald Dahl’s first collection of twisted short stories for adults. </p
 
 <small>Retrieved 2021, 9 December</small>
 
-<h5 id="playlist-intro-literature" class="margin--bottom--lg"><b>Playlist: Understanding Literature</b></h5>
+<h5 id="playlist-intro-literature" class="margin--bottom--lg"><b>Playlist: Introduction to Literature</b></h5>
 <p>Literature examines human communication and facilitates critical thinking. Check out this playlist to kickstart your journey in discovering literature.</p>
 <br>
 <div class="row is-multiline margin--bottom--lg">
@@ -217,7 +217,7 @@ This is Roald Dahl’s first collection of twisted short stories for adults. </p
     <p><b>An introduction to the discipline of Literature</b><br>
 Literature facilitates critical thinking, and human communication. Check out this video to glean into key ideas and prominent thinkers that has influenced the discipline of literature.
 <br><br>
-<small>Source: Macat (2016, April 14). <em>An introduction to the discipline of Literature</em>. Retrieved 2021, December 9.</small></p>.
+<small>Source: Macat (2016, April 14). <em>An introduction to the discipline of Literature</em>. Retrieved 2021, December 9.</small></p>
   </div>
 </div>
 <div class="row is-multiline margin--bottom--lg">
