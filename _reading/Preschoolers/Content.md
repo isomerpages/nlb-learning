@@ -126,7 +126,7 @@ Useful tips and activities that can help you develop your child to become a flue
 <h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b>Developing Early Literacy Skills at home (0-12 months)</b></a></h4>
 <p> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make! </p>
  
-<h4 id="lp-toddlers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b>Developing Early Literacy Skills at home (1-3 years old)</b></a></h4>
+<h4 id="lp-toddlers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-1-to-3-years" target="_blank"><b>Developing Early Literacy Skills at home (1-3 years old)</b></a></h4>
 <p> Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help them build their letter knowledge and vocabulary. </p>
 	
 <h4 id="lp-preschoolers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b>Developing Early Literacy Skills at home (4-6 years old)</b></a></h4>
