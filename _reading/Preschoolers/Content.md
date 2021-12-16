@@ -123,7 +123,7 @@ You can even take your child on a literary trail based on the stories that were 
 	
 Useful tips and activities that can help you develop your child to become a fluent reader.
 
-<h4 id="lp-baby"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b>Developing Early Literacy Skills at home (0-12 months)</b></a></h4>
+<h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b>Developing Early Literacy Skills at home (0-12 months)</b></a></h4>
 <p> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make! </p>
  
 <h4 id="lp-toddlers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b>Developing Early Literacy Skills at home (1-3 years old)</b></a></h4>
