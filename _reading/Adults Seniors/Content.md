@@ -210,7 +210,7 @@ This is Roald Dahl’s first collection of twisted short stories for adults. </p
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/ xz9rfDm1Wr4&list=RDLV4RCFLobfqcw&index=4" class="responsive-iframe"></iframe>
+     <iframe src=" https://www.youtube.com/embed/xz9rfDm1Wr4&list=RDLV4RCFLobfqcw&index=4" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -223,7 +223,7 @@ Literature facilitates critical thinking, and human communication. Check out thi
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/ U_pxfifB6Co" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/U_pxfifB6Co" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
