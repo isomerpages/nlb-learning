@@ -203,3 +203,48 @@ This is Roald Dahl’s first collection of twisted short stories for adults. </p
 <p>Based in Singapore, Ghost Maps collects stories to do with the supernatural, based on real life experiences. Be prepared to be spooked. </p>
 
 <small>Retrieved 2021, 9 December</small>
+
+<h5 id="playlist-understanding-literature" class="margin--bottom--lg"><b>Playlist: Understanding Literature</b></h5>
+<p>Literature examines human communication and facilitates critical thinking. Check out this playlist to kickstart your journey in discovering literature.</p>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/ xz9rfDm1Wr4&list=RDLV4RCFLobfqcw&index=4" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>An introduction to the discipline of Literature</b><br>
+Literature facilitates critical thinking, and human communication. Check out this video to glean into key ideas and prominent thinkers that has influenced the discipline of literature.
+<br><br>
+<small>Source: Macat (2016, April 14). <em>An introduction to the discipline of Literature</em>. Retrieved 2021, December 9.</small></p>.
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/ U_pxfifB6Co" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b> Literary Devices in Pop Culture</b><br>
+    Tune in to this video to see (and learn) use of literary devices with pop culture. <br><br>
+<small>Source: bcwalden43 (2019, Sept 12). <em>Literary Devices in Pop Culture</em>. Retrieved 2021, December 9.</small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/ vjLDSz5th4A" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>How to Read Literature like a Professor</b><br>
+This video explains how memory, symbols and pattern distinguish a professional reader from the rest. <br><br>
+<small>Profound Understanding (2019, June 21). How to Read Literature like a Professor. Retrieved 2021, December 9.</small></p>
+  </div>
+</div>
+
+[Back to top](#main-content)
+{: .has-text-right .margin--top--xl}
+
