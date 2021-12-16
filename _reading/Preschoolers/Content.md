@@ -113,6 +113,7 @@ Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means ‘why’ in Fre
   <div class="col is-three-fifths">
     <p><b> SING-LIT (4 min)</b><br>
 Discover the array of Sing-Lit stories to share with your little ones in this session! Find out the history behind Jurong Island Singapore’s National Flower (Vanda Miss Joaquim) in this video.
+			
 
 You can even take your child on a literary trail based on the stories that were featured.</p> 
   </div>
