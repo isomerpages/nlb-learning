@@ -84,7 +84,7 @@ Learn more about the world of picture books through these videos. <br><br>
   </div>
   <div class="col is-three-fifths">
     <p><b> Choosing Suitable Picture Books (8 min 44 sec) </b><br>
-What are linear stories, repetitive, or cumulative stories.
+What’s so great about picture books? Do you know the differences between linear and cumulative stories?
 
 Join our librarian Nathaniel Chew, as he shares ways on choosing great picture books, and storytelling techniques.</p>
 
@@ -99,7 +99,7 @@ Join our librarian Nathaniel Chew, as he shares ways on choosing great picture b
   </div>
   <div class="col is-three-fifths">
     <p><b> Pourquoi Tales (6 min 52 sec) </b><br>
-Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means ‘why’ in French.  Learn about the different ‘pourquoi’ stories that you can share with your child to spur their innate curiosity about the world and why certain events happened.</p>
+Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means ‘why’ in French.  Learn about the different ‘pourquoi’ stories that you can share with your child to spur their innate curiosity about the world and why certain events happened.  </p>
  
   </div>
 </div>
@@ -112,7 +112,7 @@ Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means ‘why’ in Fre
   </div>
   <div class="col is-three-fifths">
     <p><b> SING-LIT (4 min)</b><br>
-Discover the array of Sing-Lit stories to share with your little ones. Find out the history behind Jurong Island Singapore’s National Flower (Vanda Miss Joaquim) in this video.
+Discover the array of Sing-Lit stories to share with your little ones in this session! Find out the history behind Jurong Island Singapore’s National Flower (Vanda Miss Joaquim) in this video.
 
 You can even take your child on a literary trail based on the stories that were featured.</p> 
   </div>
@@ -123,13 +123,13 @@ You can even take your child on a literary trail based on the stories that were 
 	
 Useful tips and activities that can help you develop your child to become a fluent reader.
 
-<h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b>Developing Early Literacy Skills at home (0-12 months)</b></a></h4>
+<h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b>Developing Early Literacy Skills at Home (0-12 months)</b></a></h4>
 <p> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make! </p>
  
-<h4 id="lp-toddlers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-1-to-3-years" target="_blank"><b>Developing Early Literacy Skills at home (1-3 years old)</b></a></h4>
+<h4 id="lp-toddlers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-1-to-3-years" target="_blank"><b>Developing Early Literacy Skills at Home (1-3 years old)</b></a></h4>
 <p> Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help them build their letter knowledge and vocabulary. </p>
 	
-<h4 id="lp-preschoolers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read" target="_blank"><b>Developing Early Literacy Skills at home (4-6 years old)</b></a></h4>
+<h4 id="lp-preschoolers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-4-to-6-years" target="_blank"><b>Developing Early Literacy Skills at Home (4-6 years old)</b></a></h4>
 <p>How can you encourage the love of reading in your pre-schooler? Learn some tips and activities you can do to develop your child into a confident reader!</p>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
