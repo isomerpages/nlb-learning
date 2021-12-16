@@ -170,8 +170,7 @@ This is Roald Dahl’s first collection of twisted short stories for adults. </p
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
 
 <h5>2. Hell-Heaven</h5>
-Jhumpa Lahiri (2015), <i>Hell-Heaven</i>, Knopf Doubleday Publishing Group.
-
+<p>Jhumpa Lahiri (2015), <i>Hell-Heaven</i>, Knopf Doubleday Publishing Group.
 <p>A beautiful story that revolves around family, after taking in a stranger.</p>
 
 <a href="nlb.overdrive.com/media/2174670" target="_blank"><img src="/images/reading/adults-seniors/Hell-Heaven.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
@@ -179,8 +178,7 @@ Jhumpa Lahiri (2015), <i>Hell-Heaven</i>, Knopf Doubleday Publishing Group.
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
 
 <h5>3. Men Without Women</h5>
-Haruki Murakami (2017), <i>Men Without Women</i>, Knopf Doubleday Publishing Group.
-
+<p>Haruki Murakami (2017), <i>Men Without Women</i>, Knopf Doubleday Publishing Group.
 <p>A collection of short stories about men who have found themselves without important women in their lives.</p>
 
 <a href="nlb.overdrive.com/media/3031101" target="_blank"><img src="/images/reading/adults-seniors/Men Without Women.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
