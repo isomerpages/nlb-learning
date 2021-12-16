@@ -212,12 +212,12 @@ This is Roald Dahl’s first collection of twisted short stories for adults. </p
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/xz9rfDm1Wr4&list=RDLV4RCFLobfqcw&index=4" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/xz9rfDm1Wr4&list=RDLV4RCFLobfqcw&index=4" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
     <p><b>An introduction to the discipline of Literature</b><br>
-Literature facilitates critical thinking, and human communication. Check out this video to glean into key ideas and prominent thinkers that has influenced the discipline of literature.
+Literature facilitates critical thinking, and human communication. Check out this video to glean into key ideas and prominent thinkers that influenced the discipline of literature.
 <br><br>
 <small>Source: Macat (2016, April 14). <em>An introduction to the discipline of Literature</em>. Retrieved 2021, December 9.</small></p>
   </div>
@@ -230,7 +230,7 @@ Literature facilitates critical thinking, and human communication. Check out thi
   </div>
   <div class="col is-three-fifths">
   <p><b> Literary Devices in Pop Culture</b><br>
-    Tune in to this video to see (and learn) use of literary devices with pop culture. <br><br>
+    Tune in to this video to see (and learn) the use of literary devices through pop culture. <br><br>
 <small>Source: bcwalden43 (2019, Sept 12). <em>Literary Devices in Pop Culture</em>. Retrieved 2021, December 9.</small></p>
   </div>
 </div>
