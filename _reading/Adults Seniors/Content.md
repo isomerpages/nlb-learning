@@ -185,6 +185,8 @@ This is Roald Dahl’s first collection of twisted short stories for adults. </p
 <p><a href="nlb.overdrive.com/media/3031101" target="_blank">Borrow the eBook here</a>. </p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
 
+[Back to top](#main-content)
+{: .has-text-right .margin--top--xl}
 
 <h5 class="margin--bottom--lg" id="playlist-stories-for-adults"><b>Playlist: Stories for Adults</b></h5>
 	
