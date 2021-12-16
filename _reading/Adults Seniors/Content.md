@@ -57,7 +57,7 @@ Check out our **playlists** and **learning packages** for recommended books, col
 <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
       <a href="#playlist-stories-for-adults">
-        <span>Playlist<br>Stories for Adults</span>
+        <span>Playlist:<br>Stories for Adults</span>
       </a>
     </div>
   </div>
@@ -143,7 +143,33 @@ This video has Max Joseph interview influential writers, avid readers and bookst
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
-	
+
+<h5 id="tldr-short-reads" class="margin--bottom--lg"><b>TLDR: Short Reads</b></h5>
+Get back into reading with these short reads. Or pull these up to tide you over that commute or long wait.  From short stories, comics to poetry, we’ve got you covered.
+<br>
+<h4>Websites</h4>
+<h5>1. <a href=" http://www.qlrs.com/stories.asp" target=_blank">Quarterly Literary Review Singapore: Short Stories</a></h5> 
+<p>Quarterly Literary Review Singapore (QLRS) is a respected online literary journal, with a mission to promote and stimulate good writing in Singapore. Glean into short stories by local writers here, or explore other literary forms such as poetry, essays and criticism. </p>
+<small>Retrieved 2021, 9 December </small>
+
+<h5>2. <a href="http://www.softblow.org/" target=_blank">SOFTBLOW</a></h5> 
+<p>SOFTBLOW is a Singapore-based literary journal which houses contemporary poetry from all over the world. </p>
+<small>Retrieved 2021, 9 December </small>
+
+<h5>3. <a href="https://www.lucyknisley.com/hourly-comic-day" target=_blank">Hourly Comic Day by Lucy Knisley</a></h5> 
+<p>Lucy Knisley is an award-winning comic artist, known for her candid writing and works. Check out this link for comics in small doses. </p>
+<small>Retrieved 2021, 9 December </small>
+
+<h4>eBooks</h4>
+<h5>1. Someone Like You</h5>
+Roald Dahl (2009), <i>Someone Like You</i>, Penguin Books Ltd.
+<p>
+<a href="https://nlb.overdrive.com/media/301965" target="_blank"><img src="/images/reading/adults-seniors/Roald Dahl_Someone Like You.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
+<p>This is Roald Dahl’s first collection of twisted short stories for adults. </p>
+<p><a href="https://nlb.overdrive.com/media/301965" target="_blank">Borrow the eBook here</a>. </p>
+<body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
+
+
 <h5 class="margin--bottom--lg" id="playlist-stories-for-adults"><b>Playlist: Stories for Adults</b></h5>
 	
 Relive the pleasure of being told stories, even as adults. Tune in to these podcasts to discover a myriad of life experiences from over the world, and our own shores.  Stories range from the poignant, humorous, bizarre to downright frightening.
