@@ -96,7 +96,7 @@ Check out our **playlists** and **learning packages** for recommended books, col
 </div>
 	
 
-<h5 class="margin--bottom--lg" id="playlist-reading-digital-age"><b>Playlist: Reading in a Digital Age</b></h5>
+<h4 class="margin--bottom--lg" id="playlist-reading-digital-age"><b>Playlist: Reading in a Digital Age</b></h4>
 	
 <p>So many books, so little time. How has the reading brain evolved with the advent of the digital age? These resources will give you short explainers on how our reading has changed with our devices, and how to cultivate the reading habit in a distracted age. 
 <br>
@@ -144,10 +144,10 @@ This video has Max Joseph interview influential writers, avid readers and bookst
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
 
-<h5 id="tldr-short-reads" class="margin--bottom--lg"><b>TLDR: Short Reads</b></h5>
+<h4 id="tldr-short-reads" class="margin--bottom--lg"><b>TLDR: Short Reads</b></h4>
 Get back into reading with these short reads. Or pull these out to tide you over that commute or long wait.  From short stories, comics to poetry, we’ve got you covered.
 <br>
-<h4>Websites</h4>
+<h5>Websites</h5>
 <h5>1. <a href="http://www.qlrs.com/stories.asp" target="_blank">Quarterly Literary Review Singapore: Short Stories</a></h5> 
 <p>Quarterly Literary Review Singapore (QLRS) is a respected online literary journal, with a mission to promote and stimulate good writing in Singapore. Glean into short stories by local writers here, or explore other literary forms such as poetry, essays and criticism. </p>
 <small>Retrieved 2021, 9 December </small>
@@ -160,7 +160,7 @@ Get back into reading with these short reads. Or pull these out to tide you over
 <p>Lucy Knisley is an award-winning comic artist, known for her candid writing and works. Check out this link for comics in small doses. </p>
 <small>Retrieved 2021, 9 December </small>
 
-<h4>eBooks</h4>
+<h5>eBooks</h5>
 <h5>1. Someone Like You</h5>
 <p>Roald Dahl (2009), <i>Someone Like You</i>, Penguin Books Ltd.
 
