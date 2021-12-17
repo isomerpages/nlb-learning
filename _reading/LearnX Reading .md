@@ -38,7 +38,8 @@ description: ""
 </style>
 ![LearnX Reading](/images/reading/lfa-reading.png)
 
-For team to insert copy*
+For team to insert copy
+
 <!-- <p>
   <div class="responsive-iframe-container ratio-16by9">
     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uOfQMXQ4lL8"></iframe>
