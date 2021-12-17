@@ -3,8 +3,6 @@ title: LearnX Science
 permalink: /science/overview
 description: ""
 ---
- 
-  
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -83,5 +81,3 @@ For team to insert copy
   <div class="col is-one-third">
   </div>
 </div>
-
-
