@@ -34,6 +34,18 @@ sections:
       url: /sustainability/overview
       image: /images/home/home-sustainability-kv.png
       alt: LearnX Sustainability
+  - infopic:
+      description: For team to insert copy
+      button: start Learning
+      url: /reading/overview
+      image: /images/home/home-reading-kv.png
+      alt: Image alt text
+  - infopic:
+      description: For team to insert copy
+      button: Start Learning
+      url: /science/overview
+      image: /images/home/home-science-kv.png
+      alt: Image alt text
   - infobar:
       title: Find a group of like-minded people to learn with.
       button: Explore Communities
