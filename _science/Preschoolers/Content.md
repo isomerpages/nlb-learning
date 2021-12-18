@@ -114,7 +114,7 @@ Learn more about how vaccines were invented back in 1796 and how they teach our 
 Our body's immune system keeps us strong by producing antibodies to attack germs in our body. How do antibodies do that?</p> 
   </div>
 </div>
-
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
  
 <h3 class="margin--bottom--lg" id="learning-packages"><b>Learning Packages</b></h3>
 	
