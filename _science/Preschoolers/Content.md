@@ -92,12 +92,13 @@ Learn more about how vaccines were invented back in 1796 and how they teach our 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Jy-vn8nGJFc"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/WELYkx1ylY8"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Pourquoi Tales (6 min 52 sec) </b><br>
-Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means ‘why’ in French.  Learn about the different ‘pourquoi’ stories that you can share with your child to spur their innate curiosity about the world and why certain events happened.  </p>
+    <p><b> How Antibiotics Work? | ANTIBIOTICS | Importance Of Antibiotics | The Dr Binocs Show | Peekaboo Kidz (8 mins 3 secs)</b><br>
+		Bacteria are everywhere, even in your body! Learn more about how antibiotics attack harmful bacteria and stop them from growing in our bodies.
+</p>
  
   </div>
 </div>
@@ -105,15 +106,12 @@ Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means ‘why’ in Fre
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/W9m6tn7_t9E"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/cixCF5_mF-4"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> SING-LIT (4 min)</b><br>
-Discover the array of Sing-Lit stories to share with your little ones in this session! Find out the history behind Jurong Island Singapore’s National Flower (Vanda Miss Joaquim) in this video.
-			
-
-You can even take your child on a literary trail based on the stories that were featured.</p> 
+    <p><b> What Are Antibodies? (1 min 4 secs)</b><br>
+Our body's immune system keeps us strong by producing antibodies to attack germs in our body. How do antibodies do that?</p> 
   </div>
 </div>
 
