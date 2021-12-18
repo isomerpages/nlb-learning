@@ -43,21 +43,21 @@ As preschoolers are still young and might have difficulty comprehending scientif
 We have curated a list of resources and programmes for you and your child to explore together. Have fun learning! 
 <div class="row is-multiline">
   <div class="col is-one-third">
-    <div class=".clickbox.is-thoughtful-tangerine">
+    <div class="clickbox is-thoughtful-tangerine">
       <a href="/science/preschoolers/content">
         <span>Content</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
-    <div class=".clickbox.is-thoughtful-tangerine">
+    <div class="clickbox is-thoughtful-tangerine">
       <a href="/science/preschoolers/programmes">
         <span>Programmes</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
-    <div class=".clickbox.is-thoughtful-tangerine">
+    <div class="clickbox is-thoughtful-tangerine">
       <a href="/science/preschoolers/learning-pathways">
         <span>Learning<br>Pathways</span>
       </a>
