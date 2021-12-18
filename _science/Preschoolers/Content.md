@@ -60,7 +60,7 @@ Check out our thematic **learning packages**, complete with activity ideas and t
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="#learning-packages-i-can-read">
+      <a href="#learning-packages">
         <span>Learning Packages</span>
       </a>
     </div>
@@ -73,7 +73,7 @@ Check out our thematic **learning packages**, complete with activity ideas and t
 **Microscopic World: Protecting the Body! Science Behind Medical Biotechnology**
 
 In this playlist, discover with your child how our bodies keep us safe from germs with antibodies. However, explain that sometimes, that may not be enough. Keep watching together to learn how scientists over the years invented vaccines and antibiotics to help boost your immune systems to ward off serious illnesses. You may even talk about some of the common vaccines available today and how they strengthen our bodies against viruses! Perhaps, the next vaccination with the doctor may become easier to manage.
-<br>
+<br><br>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -116,7 +116,7 @@ Our body's immune system keeps us strong by producing antibodies to attack germs
 </div>
 
  
-<h3 class="margin--bottom--lg" id="learning-packages-i-can-read"><b>Learning Packages</b></h3>
+<h3 class="margin--bottom--lg" id="learning-packages"><b>Learning Packages</b></h3>
 	
 Useful tips and activities that can help you develop your child to become a fluent reader.
 
