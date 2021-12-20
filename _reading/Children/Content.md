@@ -39,8 +39,10 @@ third_nav_title: Children
 </style>
 
 Create fun reading experiences at home with these bite-sized resources for your child to discover the joy of reading
+
 Check out our **playlists** for collections of short videos to expand reading interests.
 Check our **learning packages** for D.I.Y to engage your child in reading fun.
+
 
 <div class="row is-multiline">
   <div class="col is-one-third">
@@ -57,6 +59,7 @@ Check our **learning packages** for D.I.Y to engage your child in reading fun.
       </a>
     </div>
   </div>
+	
 A collection of short videos to expand reading interests.
 
 <h5 id="reading-fun-at-home" class="margin--bottom--lg"><b>Playlist: Reading Fun at Home</b></h5>
@@ -99,4 +102,13 @@ A collection of short videos to expand reading interests.
     If something sounds too good to be true, it just might be! Join Camy and the NLB Teen Reading Ambassadors as they share a dramatised rendition of “The Emperor’s New Clothes”! <br><br>
 <small>Source: The Emperor’s New Clothes | StoryTime (2021, April 17), Public Libraries Singapore. Retrieved 2021, December 15.</small></p>
   </div>
-</div>
+ </div>
+	
+<h3><b>Learning Package</b></h3>
+	
+D.I.Y activities to engage your child in reading fun.
+	
+	
+<h4 id="lp-flying-high"><a href="/files/Reading_Children_Flying%20High.pdf" target="_blank"><b>Flying High</b></a></h4>
+<p> Discover good reads and try your hand at making your own airplane!</p>
+	
