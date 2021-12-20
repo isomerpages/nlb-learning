@@ -104,11 +104,10 @@ A collection of short videos to expand reading interests.
   </div>
  </div>
 	
-<h3><b>Learning Package</b></h3>
+<h3 class="margin--bottom--lg"><b>Learning Package</b></h3>
 	
 D.I.Y activities to engage your child in reading fun.
 	
 	
 <h4 id="lp-flying-high"><a href="/files/Reading_Children_Flying%20High.pdf" target="_blank"><b>Flying High</b></a></h4>
 <p> Discover good reads and try your hand at making your own airplane!</p>
-	
