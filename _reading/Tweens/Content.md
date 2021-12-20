@@ -23,7 +23,7 @@ third_nav_title: Tweens
 .responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
-
+	
 /* Click Box */
 .clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
 .clickbox span { padding: .5rem; }
@@ -32,11 +32,13 @@ third_nav_title: Tweens
 .clickbox a:hover { text-decoration: none; }
 
 /* Indigo Sky */
-.clickbox.is-sky-indigo { background-color: #cff2e8; color: #322987; }
-.clickbox.is-sky-indigo a { color: #322987; }
-.clickbox.is-sky-indigo a:focus,
-.clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
+.clickbox.is-indigo-sky { background-color: #cff2e8; color: #322987; }
+.clickbox.is-indigo-sky a { color: #322987; }
+.clickbox.is-indigo-sky a:focus,
+.clickbox.is-indigo-sky a:hover { background-color: #322987; color: #cff2e8; }
+
 </style>
+
 
 Explore different topics with these resources for your child to expand reading diets.  
 Check out our **playlists** for collections of short videos and podcasts to expand reading interests.
