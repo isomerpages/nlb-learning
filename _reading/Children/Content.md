@@ -40,7 +40,7 @@ third_nav_title: Children
 
 Create fun reading experiences at home with these bite-sized resources for your child to discover the joy of reading
 
-Check out our **playlists** for collections of short videos to expand reading interests.
+Check out our **playlists** for collections of short videos to expand reading interests.<br>
 Check our **learning packages** for D.I.Y to engage your child in reading fun.
 
 
@@ -65,7 +65,6 @@ A collection of short videos to expand reading interests.
 
 <h5 id="reading-fun-at-home" class="margin--bottom--lg"><b>Playlist: Reading Fun at Home</b></h5>
 
-<br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
