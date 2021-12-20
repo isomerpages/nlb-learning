@@ -58,6 +58,7 @@ Check our **learning packages** for D.I.Y to engage your child in different topi
       </a>
     </div>
   </div>
+	</div>
 	
 A collection of short videos and podcasts to expand reading interests.
 
