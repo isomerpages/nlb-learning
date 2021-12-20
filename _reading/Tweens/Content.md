@@ -53,7 +53,7 @@ Check our **learning packages** for D.I.Y to engage your child in different topi
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#reach-out-for-the-skies">
+      <a href="#lp-reach-out-for-the-skies">
         <span>Learning Package:<br> Reach out for the skies</span>
       </a>
     </div>
@@ -98,7 +98,7 @@ A collection of short videos and podcasts to expand reading interests.
 
 D.I.Y activities to engage your child in different topics.	
 	
-<h4 id=" lp-reach-out-for-the-skies "><a href="/files/Reading_Tweens_Reach%20Out%20for%20the%20Skies.pdf " target="_blank"><b> Reach Out for the Skies </b></a></h4>
+<h4 id="lp-reach-out-for-the-skies"><a href="/files/Reading_Tweens_Reach%20Out%20for%20the%20Skies.pdf " target="_blank"><b> Reach Out for the Skies </b></a></h4>
 <p>Discover good reads and try your hand at the book-related craft activity!</p>
 
 
