@@ -92,14 +92,15 @@ Read with your child to explore new topics and discover new experience.
     <tbody>
       <tr>
       <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank"><b> S.T.E.A.M. Lab Mini</b></a></td>
-        <td style="width: 40%;"> Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.</td>
-        
+        <td style="width: 40%;"> Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. <br><br>Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.</td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
       </tr>
 <tr>
 <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/easy-coffee-art-libraryharbourfront-registration-221844301277?aff=ebdssbdestsearch" target="_blank"><b> Easy Coffee Art</b></a></td>
-        <td style="width: 40%;"> Join our Easy Coffee Art workshop at library@harbourfront and have an aromatic day doing coffee painting!</td>
-        <td style="width: 20%;"> 22 Jan 2022,<br>2:30pm – 3.30pm</td>
-        <td style="width: 20%;"> library@harbourfront</td>
+        <td> Join our Easy Coffee Art workshop at library@harbourfront and have an aromatic day doing coffee painting!</td>
+        <td> 22 Jan 2022,<br>2:30pm – 3.30pm</td>
+        <td> library@harbourfront</td>
       </tr>
   </tbody>
   </table>
