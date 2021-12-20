@@ -59,6 +59,7 @@ Check our **learning packages** for D.I.Y to engage your child in reading fun.
       </a>
     </div>
   </div>
+</div>
 	
 A collection of short videos to expand reading interests.
 
@@ -106,11 +107,11 @@ A collection of short videos to expand reading interests.
 
 <h3 class="margin--bottom--lg" id="reading-fun"><b>Learning Packages</b></h3>
 	
-D.I.Y activities to engage your child in reading fun.
+<p>D.I.Y activities to engage your child in reading fun.</p>
 
 <h4 id="lp-flying-high"><a href="/files/Reading_Children_Flying%20High.pdf" target="_blank"><b>Flying High</b></a></h4>
 <p> Discover good reads and try your hand at making your own airplane!</p>
 
 
 	
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
