@@ -54,7 +54,7 @@ Check our **learning packages** for D.I.Y to engage your child in reading fun.
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#flying-fun">
+      <a href="#lp-flying-high">
         <span>Learning Package:<br>Flying Fun</span>
       </a>
     </div>
@@ -103,11 +103,14 @@ A collection of short videos to expand reading interests.
 <small>Source: The Emperor’s New Clothes | StoryTime (2021, April 17), Public Libraries Singapore. Retrieved 2021, December 15.</small></p>
   </div>
  </div>
-	
-<h3 class="margin--bottom--lg"><b>Learning Package</b></h3>
+
+<h3 class="margin--bottom--lg" id="reading-fun"><b>Learning Packages</b></h3>
 	
 D.I.Y activities to engage your child in reading fun.
-	
-	
+
 <h4 id="lp-flying-high"><a href="/files/Reading_Children_Flying%20High.pdf" target="_blank"><b>Flying High</b></a></h4>
 <p> Discover good reads and try your hand at making your own airplane!</p>
+
+
+	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>	
