@@ -171,11 +171,10 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 <p>A collection of humorous and hilarious short stories Sedaris-style, after his move to France. </p>
 
 <a target="_blank" href="https://nlb.overdrive.com/media/87791"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-seniors/Me Talk Pretty One Day.PNG"></a>
-<p><a href="https://nlb.overdrive.com/media/87791?cid=21704">Borrow the eBook here</a>.</p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/87791">Borrow the eBook here</a>.</p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <br>
-
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
 
