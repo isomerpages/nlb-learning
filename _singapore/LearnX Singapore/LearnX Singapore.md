@@ -43,23 +43,15 @@ What does it mean to be a Singaporean? Sometimes, to go forward, we have to unde
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade ">
-      <a href="/sustainability/adults-seniors/content ">
-        <span>Content </span>
+      <a href="/singapore/teens/overview">
+        <span>Teens</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="/sustainability/adults-seniors/programmes">
-        <span>Programmes</span>
+      <a href="/singapore/adults/overview">
+        <span>Adults</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="/sustainability/adults-seniors/learning-pathways">
-        <span>Learning<br>Pathways</span>
-      </a>
-    </div>
-  </div>
-</div>
