@@ -33,7 +33,6 @@ Spark the joy of reading in your child with these programmes, resources and path
   <table class="generic-table">
     <thead>
       <tr>
-				<tr>
         <th colspan="4" class="is-uppercase has-weight-normal ">Discover Recommended Resources</th>
       </tr>
     </thead>
