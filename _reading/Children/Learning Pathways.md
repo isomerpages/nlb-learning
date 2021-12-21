@@ -24,6 +24,7 @@ third_nav_title: Children
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
+
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3><b> Reading Joy</b></h3>
@@ -37,13 +38,13 @@ Spark the joy of reading in your child with these programmes, resources and path
       </tr>
     </thead>
     <tbody>
-      <tr>
+<tr>
         <td style="width: 20%;"><a href="/reading/children/content" target="_blank"><b>Playlist Reading Fun at Home</b></a></td>
         <td style="width: 40%;">Create fun reading experiences at home with these bite-sized resources for your child to discover the joy of reading.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
-      </tr>
-      <tr>
+      </tr>      
+<tr>
         <td><a href="/reading/children/content"><b>Learning Package Flying Fun</b></a></td>
         <td>Help your child relate to a book through a short read and a story-based craft. </td>
         <td></td>
