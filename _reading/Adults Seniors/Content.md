@@ -256,7 +256,7 @@ Literature facilitates critical thinking, and human communication. Check out thi
   </div>
   <div class="col is-three-fifths">
   <p><b> Literary Devices in Pop Culture</b><br>
-    Tune in to this video to see (and learn) the use of literary devices through pop culture. <br><br>
+		Tune in to this video to see (and learn) the use of literary devices through pop culture. <br><br>
 <small>Source: bcwalden43 (2019, Sept 12). <em>Literary Devices in Pop Culture</em>. Retrieved 2021, December 9.</small></p>
   </div>
 </div>
@@ -268,8 +268,8 @@ Literature facilitates critical thinking, and human communication. Check out thi
   </div>
   <div class="col is-three-fifths">
   <p><b>How to Read Literature like a Professor</b><br>
-This video explains how memory, symbols and pattern distinguish a professional reader from the rest. </br>
-<small>Profound Understanding (2019, June 21). How to Read Literature like a Professor. Retrieved 2021, December 9.</small></p>
+		This video explains how memory, symbols and pattern distinguish a professional reader from the rest. <br><br>
+<small>Source:Profound Understanding (2019, June 21). <em>How to Read Literature like a Professor</em>. Retrieved 2021, December 9.</small></p>
 </div>
 		
 <br>
