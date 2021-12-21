@@ -204,7 +204,7 @@ This is Roald Dahl’s first collection of twisted short stories for adults. </p
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
 
 <h5>3. Me Talk Pretty One Day</h5>
-<p>David Sedaris (2000), <i> Me Talk Pretty One Day </i>, Hachette Audio.
+<p>David Sedaris (2000), <i> Me Talk Pretty One Day </i>, Hachette Audio.</p>
 <p>A collection of humorous and hilarious short stories Sedaris-style, after his move to France. </p>
 
 <a href=" https://nlb.overdrive.com/media/87791?cid=21704 " target="_blank"><img src="/images/reading/adults-seniors/Me Talk Pretty One Day.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
