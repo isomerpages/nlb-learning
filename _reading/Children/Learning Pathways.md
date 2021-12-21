@@ -29,6 +29,8 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 
 <h3><b> Reading Joy</b></h3>
 Spark reading joy in your child to nurture a lifelong passion for reading and learning.
+<td>
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
