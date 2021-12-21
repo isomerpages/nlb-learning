@@ -38,4 +38,4 @@ third_nav_title: Adults
 .clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; } 
 </style>
 
-Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you. 
+Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
