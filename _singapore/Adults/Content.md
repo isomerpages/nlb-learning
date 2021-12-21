@@ -67,3 +67,14 @@ Singapore has undergone massive developments in the decades past. Take a look at
   <div class="col is-three-fifths">
     <p><b>Raffles Place's New Image</b><br>
     Raffles Place in 1965 featured modern attractions such as an underground carpark, a rooftop garden, and a clock donated by a Japanese watchmaker. Experience Singapore’s commercial centre in the first year of Independence. For more archival materials from the National Archives of Singapore, please visit [www.nas.gov.sg/archivesonline].
+ </div>
+  </div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/watch?v=cHh9x5qhOnM&list=PLJlLW0qKYHTPLU7t3rtJ5JUDkDmPL3UAL&index=11" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Celebration Of New Housing</b><br>
+			The Housing and Development Board (HDB) drew up its first five-year plan when it was established in 1960. By 1965, HDB exceeded the target on new housing units, rehousing the population at a rate that was considered remarkable worldwide. For more archival materials from the National Archives of Singapore, please visit [www.nas.gov.sg/archivesonline].
