@@ -71,7 +71,6 @@ Singapore has undergone massive developments in the decades past. Take a look at
  </div>
 </div>
 
---------------------------
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -88,38 +87,16 @@ Singapore has undergone massive developments in the decades past. Take a look at
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/W4bnCCE07Hw" class="responsive-iframe"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-  <p><b>Green Economy: Singapore Green Plan 2030</b><br>
-    The green economy is one of five key pillars under Singapore’s Green Plan.  Find out what this entails and how it will be implemented. <br><br>
-<small>Source: Green Economy: Singapore Green Plan 2030 (2021, Feb 10). Ministry of Sustainability and the Environment. Retrieved 2021, September 25. </small></p>
-  </div>
-</div>
-
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
      <iframe src=" https://www.youtube.com/watch?v=cHh9x5qhOnM&list=PLJlLW0qKYHTPLU7t3rtJ5JUDkDmPL3UAL&index=11" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>Celebration Of New Housing</b><br>
-The Housing and Development Board (HDB) drew up its first five-year plan when it was established in 1960. By 1965, HDB exceeded the target on new housing units, rehousing the population at a rate that was considered remarkable worldwide. For more archival materials from the National Archives of Singapore, please visit [Archives Online](www.nas.gov.sg/archivesonline).
-			</div>
+  <p><b>Ceremony of Laying the Foundation Stone of the Clyde Terrace Market</b><br>
+    Discover the history behind one of Singapore’s earliest markets, the Clyde Terrace Market, with Associate Librarian Zoe Yeo. The market later became known as “tie pasar” in Chinese, “thih pa sat” in Hokkien, or “pasar besi” in Malay, which all translate into “iron market”, as it was mainly made up of iron. Catch other episodes.<br><br>
+<small>Source: National Library, Singapore. </small></p>
   </div>
-	<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/watch?v=QvejDgHtmjw&list=PLJlLW0qKYHTPLU7t3rtJ5JUDkDmPL3UAL" class="responsive-iframe"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b>Ceremony of Laying the Foundation Stone of the Clyde Terrace Market</b><br>
-    Discover the history behind one of Singapore’s earliest markets, the Clyde Terrace Market, with Associate Librarian Zoe Yeo. The market later became known as “tie pasar” in Chinese, “thih pa sat” in Hokkien, or “pasar besi” in Malay, which all translate into “iron market”, as it was mainly made up of iron. Catch other episodes [here](https://go.gov.sg/fromthestacks).
- </div>
 </div>
+
 
  [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
