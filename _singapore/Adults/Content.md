@@ -95,3 +95,4 @@ The Housing and Development Board (HDB) drew up its first five-year plan when it
 </div>
 
  [Back to top](#main-content)
+{: .has-text-right .margin--top--xl}
