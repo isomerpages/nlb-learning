@@ -139,8 +139,6 @@ This video has Max Joseph interview influential writers, avid readers and bookst
 		<small>Falling Walls Foundation (2019, Nov 14). <em>Neuroscience of Reading | Maryanne Wolf</em>. Retrieved 2021, December 9.</small></p>
   </div>
  	</div>
-
-
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
 
@@ -209,7 +207,6 @@ Get back into reading with these short reads. Or pull these out to tide you over
 <p><a href=" https://nlb.overdrive.com/media/87791?cid=21704 ">Borrow the eBook here</a>.</p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
 <br>
-
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
 
@@ -230,9 +227,7 @@ Get back into reading with these short reads. Or pull these out to tide you over
 <p>Based in Singapore, Ghost Maps collects stories to do with the supernatural, based on real life experiences. Be prepared to be spooked. </p>
 
 <small>Retrieved 2021, 9 December</small>
-</div>
-</div>
-
+<br>
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
 
@@ -274,10 +269,7 @@ Literature facilitates critical thinking, and human communication. Check out thi
   <p><b>How to Read Literature like a Professor</b><br>
 This video explains how memory, symbols and pattern distinguish a professional reader from the rest. <br><br>
 <small>Profound Understanding (2019, June 21). How to Read Literature like a Professor. Retrieved 2021, December 9.</small></p>
-  </div>
-</div>
-
-
+ <br>
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
 
