@@ -28,7 +28,7 @@ third_nav_title: Children
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3><b> Reading Joy</b></h3>
-Spark the joy of reading in your child with these programmes, resources and pathways.
+Spark reading joy in your child to nurture a lifelong passion for reading and learning.
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
