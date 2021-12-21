@@ -62,7 +62,7 @@ Check our **learning packages** for D.I.Y activities to engage your child in rea
   </div>
 </div>
 	
-A collection of short videos to expand reading interests.
+
 
 <h5 id="reading-fun-at-home" class="margin--bottom--lg"><b>Playlist: Reading Fun at Home</b></h5>
 
