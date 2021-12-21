@@ -58,7 +58,7 @@ A collection of short videos or selected podcasts, exploring topics around perso
 
 Singapore has undergone massive developments in the decades past. Take a look at how select places and spaces were like prior to redevelopment.
 
-
+<br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -67,7 +67,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
   </div>
   <div class="col is-three-fifths">
     <p><b>Raffles Place's New Image</b><br>
-    Raffles Place in 1965 featured modern attractions such as an underground carpark, a rooftop garden, and a clock donated by a Japanese watchmaker. Experience Singapore’s commercial centre in the first year of Independence. For more archival materials from the National Archives of Singapore, please visit [Archives Online](www.nas.gov.sg/archivesonline).
+    Raffles Place in 1965 featured modern attractions such as an underground carpark, a rooftop garden, and a clock donated by a Japanese watchmaker. Experience Singapore’s commercial centre in the first year of Independence. For more archival materials from the National Archives of Singapore, please visit [Archives Online](www.nas.gov.sg/archivesonline).</p>
  </div>
 </div>
 
