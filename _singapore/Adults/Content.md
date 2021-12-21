@@ -68,7 +68,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
     <p><b>Raffles Place's New Image</b><br>
     Raffles Place in 1965 featured modern attractions such as an underground carpark, a rooftop garden, and a clock donated by a Japanese watchmaker. Experience Singapore’s commercial centre in the first year of Independence. For more archival materials from the National Archives of Singapore, please visit [Archives Online](www.nas.gov.sg/archivesonline).
  </div>
-  </div>
+</div>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -91,3 +91,8 @@ Singapore has undergone massive developments in the decades past. Take a look at
     Discover the history behind one of Singapore’s earliest markets, the Clyde Terrace Market, with Associate Librarian Zoe Yeo. The market later became known as “tie pasar” in Chinese, “thih pa sat” in Hokkien, or “pasar besi” in Malay, which all translate into “iron market”, as it was mainly made up of iron. Catch other episodes [here](https://go.gov.sg/fromthestacks).
  </div>
 </div>
+
+ [Back to top](#main-content)
+
+
+
