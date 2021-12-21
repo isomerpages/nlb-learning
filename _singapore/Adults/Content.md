@@ -55,7 +55,7 @@ A collection of short videos or selected podcasts, exploring topics around perso
 
 <h5 id="place history" class="margin--bottom--lg"><b>Playlist: Place History</b></h5>
 
-Singapore witnessed massive developments in the decades past. Take a look at how places and spaces were like prior.
+Singapore has undergone massive developments in the decades past. Take a look at how places and spaces were like prior.
 
 
 <div class="row is-multiline margin--bottom--lg">
