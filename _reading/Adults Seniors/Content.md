@@ -297,4 +297,7 @@ This video explains how memory, symbols and pattern distinguish a professional r
 			<p><li>Sing Lit has a long history, with generations of writers. The first notable Sing Lit work in English was said to be a work of poetry by Teo Poh Leng, written under the pseudonym of Francis P. Ng<sup><small><a href="#footnote-four">2</a></small></sup> from 1937.</li></p>
 					
 			<p><li>Sing Lit is garnering attention overseas. A few works by Singapore-born authors have won prestigious awards, been translated into various languages and picked up by overseas publishers. For example, Sonny Liew’s Charlie Chan Hock Chye not only bagged three Eisner Awards 2017<sup><small><a href="#footnote-five">2</a></small></sup>- deemed the Oscars of the comics world – but was also nominated of a host of other foreign prizes><sup><small><a href="#footnote-six">2</a></small></sup>. Rachel Heng’s The Suicide Club has been translated to ten languages<sup><small><a href="#footnote-siz">2</a></small></sup>, and several titles have been pick-up by overseas publishers. <sup><small><a href="#footnote-seven">2</a></small></sup><p>
-			
+				</td>
+	</tr>
+	</tbody>
+		</table>
