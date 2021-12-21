@@ -95,7 +95,10 @@ A collection of short videos and podcasts to expand reading interests.
   </div>
 </div>
 
-	
+	<h5><a href="https://www.bookclubforkids.org/new-blog/2019/9/9/episode-95-the-parker-inheritance-varian-johnson" target="_blank">Episode 95 – The Parker Inheritance – Varian Johnson</a></h5>
+
+<p>Here’s a podcast for you where kids actively participate in discussions with the author and the podcast host, with a snippet of the book being read by a celebrity reader. The book of this episode is all about mysteries, with the main storyline involving a treasure hunt passed down from generations.<br><br>
+<small>Source: Episode 95 – The Parker Inheritance – Varian Johnson (2019, September 9). Book Club for Kids. Retrieved 2021, December 15.</small></p>
 
 <h3><b>Learning Package</b></h3>
 	
