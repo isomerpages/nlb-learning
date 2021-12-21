@@ -264,9 +264,9 @@ Literature facilitates critical thinking, and human communication. Check out thi
 				</tr></tbody>
 	</table>
 
-<h4>Must Reads</h4>
+<p><h4>Must Reads</h4>
 There are numerous Sing Lit works deemed as must-reads across the different genres. This list for English books comprise of a small selection. For more titles beyond this list, check out the links below.
-<h5>1. A History of Amnesia</h5>
+<h5>1. A History of Amnesia</h5></p>
 Alfian Sa’at (2020). <i>A History of Amnesia</i>. Ethos Books.
 <p>
 <a target="_blank" href="https://nlb.overdrive.com/media/5300523"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-and-seniors/HistoryofAmnesia.jpg"></a>
