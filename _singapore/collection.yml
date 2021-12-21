@@ -9,8 +9,8 @@ collections:
       - Teens/Content.md
       - Teens/Overview.md
       - Teens/.keep
-      - Adults/Learning Packages.md
-      - Adults/Programmes.md
-      - Adults/Content.md
-      - Adults/Overview.md
       - Adults/.keep
+      - Adults/Overview.md
+      - Adults/Content.md
+      - Adults/Programmes.md
+      - Adults/Learning Packages.md
