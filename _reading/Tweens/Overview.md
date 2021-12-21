@@ -38,7 +38,7 @@ third_nav_title: Tweens
 .clickbox.is-indigo-sky a:hover { background-color: #322987; color: #cff2e8; }
 </style>
 
-Discover new reading experiences and adventures with these programmes, resources and pathways!
+Discover new reading experiences and adventures with your child through these programmes, resources and pathways!
 
 <div class="row is-multiline">
   <div class="col is-one-third">
