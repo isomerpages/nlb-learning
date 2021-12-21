@@ -268,8 +268,9 @@ Literature facilitates critical thinking, and human communication. Check out thi
   </div>
   <div class="col is-three-fifths">
   <p><b>How to Read Literature like a Professor</b><br>
-This video explains how memory, symbols and pattern distinguish a professional reader from the rest. <br><br>
+This video explains how memory, symbols and pattern distinguish a professional reader from the rest. </br>
 <small>Profound Understanding (2019, June 21). How to Read Literature like a Professor. Retrieved 2021, December 9.</small></p>
+		
 <br>
 		
 [Back to top](#main-content)
