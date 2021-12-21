@@ -31,13 +31,13 @@ third_nav_title: Children
 .clickbox a:focus,
 .clickbox a:hover { text-decoration: none; }
 
-/* Indigo Sky */ 
-.clickbox.is-sky-indigo { background-color: #cff2e8; color: #322987; }
-.clickbox.is-sky-indigo a { color: #322987; }
-.clickbox.is-sky-indigo a:focus,
-.clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
-	
+/* Indigo Sky */
+.clickbox.is-indigo-sky { background-color: #cff2e8; color: #322987; }
+.clickbox.is-indigo-sky a { color: #322987; }
+.clickbox.is-indigo-sky a:focus,
+.clickbox.is-indigo-sky a:hover { background-color: #322987; color: #cff2e8; }
 </style>
+
 
 Spark the joy of reading in your child with these programmes, resources and pathways.
 <div class="row is-multiline">
