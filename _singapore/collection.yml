@@ -4,11 +4,11 @@ collections:
     order:
       - LearnX Singapore/.keep
       - LearnX Singapore/LearnX Singapore.md
-      - Teens/Learning Pathways.md
-      - Teens/Programmes.md
-      - Teens/Content.md
-      - Teens/Overview.md
       - Teens/.keep
+      - Teens/Overview.md
+      - Teens/Content.md
+      - Teens/Programmes.md
+      - Teens/Learning Pathways.md
       - Adults/.keep
       - Adults/Overview.md
       - Adults/Content.md
