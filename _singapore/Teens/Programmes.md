@@ -39,6 +39,7 @@ third_nav_title: Teens
 </style>
 LearnX Singapore goes beyond the walls of libraries and archives to bring you experiences through talks, workshops, exhibitions, installations and games.
 
+![Alt text for image on Isomer site](/images/singapore/singapore/Curiocity_overall.png)
 ## **Curiocity: Places & Perspectives**
 From 3 January 2022 to 3 February 2022, immerse in Singapore's history through light installations at the National Library Plaza, as well as satellite displays at three locations in the Civic District, namely: The Arts House, Asian Civilisations Museum and Esplanade Park. These immersive installations will transport you to the city’s past while exploring the interconnected themes of history and community through imaginative ways.
 
