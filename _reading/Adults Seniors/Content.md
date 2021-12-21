@@ -210,10 +210,7 @@ This is Roald Dahl’s first collection of twisted short stories for adults. </p
 <a href=" https://nlb.overdrive.com/media/87791?cid=21704 " target="_blank"><img src="/images/reading/adults-seniors/Me Talk Pretty One Day.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a href=" https://nlb.overdrive.com/media/87791?cid=21704 ">Borrow the eBook here</a>. </p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
- </div>
- </div>
- 
- 
+
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
 
