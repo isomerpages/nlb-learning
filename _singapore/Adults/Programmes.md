@@ -40,23 +40,23 @@ third_nav_title: Adults
 
 LearnX Singapore goes beyond the walls of libraries and archives to bring you experiences through talks, workshops, exhibitions, installations and games.
 
-## Curiocity: Places & Perspectives
+## **Curiocity: Places & Perspectives**
 From 3 January 2022 to 3 February 2022, immerse in Singapore's history through light installations at the National Library Plaza, as well as satellite displays at three locations in the Civic District, namely: The Arts House, Asian Civilisations Museum and Esplanade Park. These immersive installations will transport you to the city’s past while exploring the interconnected themes of history and community through imaginative ways. 
 
-## Immersive Spaces with Art and Technology talk by Ong Kian Peng
+## **Immersive Spaces with Art and Technology talk by Ong Kian Peng**
 ![Alt text for image on Isomer site](/images/singapore/singapore/Curiocity_OKP.jpg)
 Watercolourist Ong Kian Peng shares insights on his practice, the work presented in Curiocity: Places & Perspectives and the technologies behind it.
 
 Click [here](https://www.eventbrite.sg/e/immersive-spaces-with-art-and-technology-tickets-223847593177?aff=FB&fbclid=IwAR1AO3GYPNdjwAO-q1KWVHjQXFJNfu5bY4gWVvx9Go0KPiYJr7Mz3wqwcLw) to sign up for the talk.
 
-## A Librarian's World
+## **A Librarian's World**
 Ever wondered what librarians do? Find out what makes our librarians tick as they share highlights of their work from the collections of the National Library. 
 
-## Archives Unlocked
+## **Archives Unlocked**
 Join archivists from the National Archives of Singapore as they speak on topics that draw from the rich collection at the Archives. 
 
-## Archives Invite
+## **Archives Invite**
 Community histories unfold in this series that traces Singapore's social past with help from the archives.
 
-## Histories
+## **Histories**
 For 2022, we are placing the focus on Transforming Places in Singapore, and examine how they have impacted communities and lives.
