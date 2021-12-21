@@ -162,55 +162,53 @@ Get back into reading with these short reads. Or pull these out to tide you over
 
 <h5>eBooks</h5>
 <h5>1. Someone Like You</h5>
-<p>Roald Dahl (2009), <i>Someone Like You</i>, Penguin Books Ltd.
-<p>
-This is Roald Dahl’s first collection of twisted short stories for adults. </p>
+<p>Roald Dahl (2009), <i>Someone Like You</i>, Penguin Books Ltd.</p>
+<p>This is Roald Dahl’s first collection of twisted short stories for adults. </p>
 <a href="https://nlb.overdrive.com/media/301965" target="_blank"><img src="/images/reading/adults-seniors/Roald Dahl_Someone Like You.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
-<p><a href="https://nlb.overdrive.com/media/301965" target="_blank">Borrow the eBook here</a>. </p>
+<p><a href="https://nlb.overdrive.com/media/301965" target="_blank">Borrow the eBook here</a>.</p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
 
 <h5>2. Hell-Heaven</h5>
-<p>Jhumpa Lahiri (2015), <i>Hell-Heaven</i>, Knopf Doubleday Publishing Group.
+<p>Jhumpa Lahiri (2015), <i>Hell-Heaven</i>, Knopf Doubleday Publishing Group.</p>
 <p>A beautiful story that revolves around family, after taking in a stranger.</p>
 
 <a href="nlb.overdrive.com/media/2174670" target="_blank"><img src="/images/reading/adults-seniors/Hell-Heaven.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
-<p><a href="nlb.overdrive.com/media/2174670" target="_blank">Borrow the eBook here</a>. </p>
+<p><a href="nlb.overdrive.com/media/2174670" target="_blank">Borrow the eBook here</a>.</p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
 
 <h5>3. Men Without Women</h5>
-<p>Haruki Murakami (2017), <i>Men Without Women</i>, Knopf Doubleday Publishing Group.
+<p>Haruki Murakami (2017), <i>Men Without Women</i>, Knopf Doubleday Publishing Group.</p>
 <p>A collection of short stories about men who have found themselves without important women in their lives.</p>
 
 <a href="nlb.overdrive.com/media/3031101" target="_blank"><img src="/images/reading/adults-seniors/Men Without Women.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
-<p><a href="nlb.overdrive.com/media/3031101" target="_blank">Borrow the eBook here</a>. </p>
+<p><a href="nlb.overdrive.com/media/3031101" target="_blank">Borrow the eBook here</a>.</p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
-  </div>
-  </div>
+	
 <h5>Audiobooks</h5>
 <h5>1. Fortunately, The Milk</h5>
-<p>Neil Gaiman (2013), <i>Fortunately, The Milk</i>, HarperCollins.
+<p>Neil Gaiman (2013), <i>Fortunately, The Milk</i>, HarperCollins.</p>
 <p>A quirky story on time travel and breakfast cereal.</p>
 
 <a href="nlb.overdrive.com/media/1395461" target="_blank"><img src="/images/reading/adults-seniors/Fortunately The Milk.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
-<p><a href="nlb.overdrive.com/media/1395461" target="_blank">Borrow the eBook here</a>. </p>
+<p><a href="nlb.overdrive.com/media/1395461" target="_blank">Borrow the eBook here</a>.</p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
 
 <h5>2. Home Remedies</h5>
-<p>Xuan Juliana Wang (2019), <i>Home Remedies</i>, Penguin Random House Audio Publishing Group.
+<p>Xuan Juliana Wang (2019), <i>Home Remedies</i>, Penguin Random House Audio Publishing Group.</p>
 <p>Nominated for a few literary awards, this is a hit debut by a young writer that captures the new experiences of Chinese immigrants around the world.</p>
 
 <a href="https://nlb.overdrive.com/media/4245470" target="_blank"><img src="/images/reading/adults-seniors/Home Remedies.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
-<p><a href="https://nlb.overdrive.com/media/4245470" target="_blank">Borrow the eBook here</a>. </p>
+<p><a href="https://nlb.overdrive.com/media/4245470" target="_blank">Borrow the eBook here</a>.</p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
 
 <h5>3. Me Talk Pretty One Day</h5>
-<p>David Sedaris (2000), <i> Me Talk Pretty One Day </i>, Hachette Audio.</p>
+<p>David Sedaris (2000), <i>Me Talk Pretty One Day </i>, Hachette Audio.</p>
 <p>A collection of humorous and hilarious short stories Sedaris-style, after his move to France. </p>
 
 <a href=" https://nlb.overdrive.com/media/87791?cid=21704 " target="_blank"><img src="/images/reading/adults-seniors/Me Talk Pretty One Day.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
-<p><a href=" https://nlb.overdrive.com/media/87791?cid=21704 ">Borrow the eBook here</a></p>
+<p><a href=" https://nlb.overdrive.com/media/87791?cid=21704 ">Borrow the eBook here</a>.</p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
-</div>
+<br>
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
