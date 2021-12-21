@@ -38,4 +38,12 @@ third_nav_title: Teens
 .clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; } 
 </style>
 
-Learn on the go. Check out our playlists for collections of short videos, and learning packages for articles, that will give you a slice of history and heritage. 
+Learn on the go. 
+
+Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
+
+
+
+
+<h3><b>Playlist</b></h3>
+A collection of short videos or selected podcasts, exploring topics around personal and professional development.
