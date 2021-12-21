@@ -43,7 +43,9 @@ LearnX Singapore goes beyond the walls of libraries and archives to bring you ex
 ## Curiocity: Places & Perspectives
 From 3 January 2022 to 3 February 2022, immerse in Singapore's history through light installations at the National Library Plaza, as well as satellite displays at three locations in the Civic District, namely: The Arts House, Asian Civilisations Museum and Esplanade Park. These immersive installations will transport you to the city’s past while exploring the interconnected themes of history and community through imaginative ways. 
 
-## Ong Kian Peng
+## Immersive Spaces with Art and Technology talk by Ong Kian Peng
+![Alt text for image on Isomer site](/images/singapore/singapore/Curiocity_OKP.jpg)
+Watercolourist Ong Kian Peng shares insights on his practice, the work presented in Curiocity: Places & Perspectives and the technologies behind it.
 
 Click [here](https://www.eventbrite.sg/e/immersive-spaces-with-art-and-technology-tickets-223847593177?aff=FB&fbclid=IwAR1AO3GYPNdjwAO-q1KWVHjQXFJNfu5bY4gWVvx9Go0KPiYJr7Mz3wqwcLw) to sign up for the talk.
 
