@@ -286,9 +286,9 @@ Literature facilitates critical thinking, and human communication. Check out thi
 </p>
 
 		
-<table border="1">
+		<table border="1">
 			
-<tbody><tr>
+				<tbody><tr>
 		
 				<td>
 			
