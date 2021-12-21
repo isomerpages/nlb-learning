@@ -2,5 +2,5 @@ collections:
   singapore:
     output: true
     order:
-      - Adults and Seniors/.keep
       - Teens/.keep
+      - Adults and Seniors/.keep
