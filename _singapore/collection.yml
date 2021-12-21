@@ -2,6 +2,7 @@ collections:
   singapore:
     output: true
     order:
+      - LearnX Singapore/LearnX Singapore.md
       - LearnX Singapore/.keep
       - Teens/.keep
       - Adults and Seniors/.keep
