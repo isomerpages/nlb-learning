@@ -38,4 +38,19 @@ third_nav_title: Adults
 .clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; } 
 </style>
 
-LearnX Singapore goes beyond the walls of libraries and archives to bring you experiences through talks, workshops, exhibitions, installations and games.  
+LearnX Singapore goes beyond the walls of libraries and archives to bring you experiences through talks, workshops, exhibitions, installations and games.
+
+## Curiocity: Places & Perspectives
+From 3 January 2022 to 3 February 2022, immerse in Singapore's history through light installations at the National Library Plaza, as well as satellite displays at three locations in the Civic District, namely: The Arts House, Asian Civilisations Museum and Esplanade Park. These immersive installations will transport you to the city’s past while exploring the interconnected themes of history and community through imaginative ways. 
+
+## A Librarian's World
+Ever wondered what librarians do? Find out what makes our librarians tick as they share highlights of their work from the collections of the National Library. 
+
+## Archives Unlocked
+Join archivists from the National Archives of Singapore as they speak on topics that draw from the rich collection at the Archives. 
+
+## Archives Invite
+Community histories unfold in this series that traces Singapore's social past with help from the archives.
+
+## Histories
+For 2022, we are placing the focus on Transforming Places in Singapore, and examine how they have impacted communities and lives.
