@@ -40,5 +40,30 @@ third_nav_title: Adults
 
 Learn on the go. Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
 
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#place-history">
+        <span>Playlist:<br>Place History</span>
+      </a>
+    </div>
+  </div>
+</div>	
+
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
+
+<h5 id="place history" class="margin--bottom--lg"><b>Playlist: Place History</b></h5>
+
+Singapore witnessed massive developments in the decades past. Take a look at how places and spaces were like prior.
+
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/watch?v=QvejDgHtmjw&list=PLJlLW0qKYHTPLU7t3rtJ5JUDkDmPL3UAL" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Raffles Place's New Image</b><br>
+    Raffles Place in 1965 featured modern attractions such as an underground carpark, a rooftop garden, and a clock donated by a Japanese watchmaker. Experience Singapore’s commercial centre in the first year of Independence. For more archival materials from the National Archives of Singapore, please visit [www.nas.gov.sg/archivesonline].
