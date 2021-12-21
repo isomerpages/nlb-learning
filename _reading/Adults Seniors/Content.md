@@ -283,6 +283,7 @@ This video explains how memory, symbols and pattern distinguish a professional r
 <p> In this resource package, glean into Sing Lit must-reads and get a headstart to Sing Lit works.
 </p>
 
+		
 <table border="1">
 			
 <tbody><tr>
