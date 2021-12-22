@@ -416,6 +416,6 @@ For more recommendations, check out:
     <p><li><span id="footnote-eight">Tee, Karen (2016, September 2018) <em>Singapore Literature is Having Its Moment in the International Spotlight.</em> <p>Retrieved 2021, December 20 from <a href="https://www.thepeakmagazine.com.sg/lifestyle/singapore-literature-is-having-its-moment-in-the-international-spotlight/" target="_blank">https://www.thepeakmagazine.com.sg/lifestyle/singapore-literature-is-having-its-moment-in-the-international-spotlight/.</a></li>
 </ol>
 
-					 <br>
+<br>
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
