@@ -8,6 +8,7 @@ Get to know your books, writers and listen to experts on current issues as we di
 
 ## **How To Fall In Love with Classics**
 ![Alt text for image on Isomer site](/images/reading/adults-seniors/classics.png)
+
 How to Fall in Love with Classics is a lecture series that introduces canonical and beloved works of literature to a wide audience. This series will equip attendees with the relevant literary and historical contexts and inspire reflections on the title’s relevance to our lives today.
 
 Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest programme listings.
@@ -15,6 +16,7 @@ Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest p
 ## **SG Author Series** 
 
 ![Alt text for image on Isomer site](images/reading/adults-seniors/sgauthors.png)
+
 The SG Author Series celebrates local literature by showcasing Singapore authors from various languages who have contributed to the development of Singapore’s literary landscape.
 
 ## **Read Fest!** 
