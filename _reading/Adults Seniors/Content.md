@@ -288,74 +288,83 @@ Literature facilitates critical thinking, and human communication. Check out thi
 </p>
 		
 <table border="1">
+	
 			<tbody><tr>
+				
 				<td>
-				<h2>Did you know...</h2>
-				<p><li>One of our founding fathers, <b>S Rajaratnam</b>, was also a man of words? While pursuing his law degree in London, his works caught the eye of George Orwell, who engaged Rajaratnam to contribute scripts to the BBC Eastern network where Orwell worked. This works have been compiled into <em>The Short Stories and Radio Plays of S. Rajaratnam. </em><sup><small><a href="#footnote-three">2</a></small></sup></li></p>
+					
+					<h2>Did you know...</h2>
+					
+					<p><li>One of our founding fathers, <b>S Rajaratnam</b>, was also a man of words? While pursuing his law degree in London, his works caught the eye of George Orwell, who engaged Rajaratnam to contribute scripts to the BBC Eastern network where Orwell worked. This works have been compiled into <em>The Short Stories and Radio Plays of S. Rajaratnam. </em><sup><small><a href="#footnote-three">2</a></small></sup></li></p>
+					
 			<p><li>Sing Lit has a long history, with generations of writers. The first notable Sing Lit work in English was said to be a work of poetry by Teo Poh Leng, written under the pseudonym of Francis P. Ng<sup><small><a href="#footnote-four">2</a></small></sup> from 1937.</li></p>
-			<p><li>Sing Lit is garnering attention overseas. A few works by Singapore-born authors have won prestigious awards, been translated into various languages and picked up by overseas publishers. For example, Sonny Liew’s Charlie Chan Hock Chye not only bagged three Eisner Awards 2017<sup><small><a href="#footnote-five">2</a></small></sup>- deemed the Oscars of the comics world – but was also nominated of a host of other foreign prizes&gt;<sup><small><a href="#footnote-six">2</a></small></sup>. Rachel Heng’s The Suicide Club has been translated to ten languages<sup><small><a href="#footnote-siz">2</a></small></sup>, and several titles have been pick-up by overseas publishers. <sup><small><a href="#footnote-seven">2</a></small></sup></p>
+					
+			<p><li>Sing Lit is garnering attention overseas. A few works by Singapore-born authors have won prestigious awards, been translated into various languages and picked up by overseas publishers. For example, Sonny Liew’s Charlie Chan Hock Chye not only bagged three Eisner Awards 2017<sup><small><a href="#footnote-five">2</a></small></sup>- deemed the Oscars of the comics world – but was also nominated of a host of other foreign prizes&gt;<sup><small><a href="#footnote-six">2</a></small></sup>. Rachel Heng’s The Suicide Club has been translated to ten languages<sup><small><a href="#footnote-siz">2</a></small></sup>, and several titles have been pick-up by overseas publishers. <sup><small><a href="#footnote-seven">2</a></small></sup>.</p>
+					
 				</td>
-				</tr></tbody>
-	</table>
+				
+				</tr>
+	
+	</tbody></table>
 
 <p><h4>Must Reads</h4>
 There are numerous Sing Lit works deemed as must-reads across the different genres. This list for English books comprise of a small selection. For more titles beyond this list, check out the links below.
 <h5>1. A History of Amnesia</h5></p>
-<p>Alfian Sa’at (2020). <i>A History of Amnesia</i>. Ethos Books.<p>
+<p>Alfian Sa’at (2020). <em>A History of Amnesia</em>. Ethos Books.<p>
 <a href="https://nlb.overdrive.com/media/5300523" target="_blank"><img src="/images/reading/adults-seniors/History of Amnesia.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/5300523">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>2. Ministry of Moral Panic</h5>
-<p>Koe, Amanda Lee (2013). <i>Ministry of Moral Panic</i>. Epigram Books.<p>
+<p>Koe, Amanda Lee (2013). <em>Ministry of Moral Panic</em>. Epigram Books.<p>
 <a href="https://nlb.overdrive.com/media/3300287" target="_blank"><img src="/images/reading/adults-seniors/moral panic.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/3300287">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>3. Sugarbread</h5>
-<p>Jaswal, Balli Kaur (2018). <i>Sugarbread</i>. Epigram Books.
+<p>Jaswal, Balli Kaur (2018). <em>Sugarbread</em>. Epigram Books.
 <p>
 <a href="https://nlb.overdrive.com/media/4333654" target="_blank"><img src="/images/reading/adults-seniors/sugarbread.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/4333654">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>4. Let Me Tell You Something About That Night</h5>
-<p>Wong, Cyril (2020). <i>Let Me Tell You Something About That Night</i>. Ethos Books.
+<p>Wong, Cyril (2020). <em>Let Me Tell You Something About That Night</em>. Ethos Books.
 <p>
 <a href="https://nlb.overdrive.com/media/5300547 " target="_blank"><img src="/images/reading/adults-seniors/let me tell.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/5300547 ">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>5. Me Migrant</h5>
-<p>Hossine, Md Mukul (2020). <i>Me Migrant</i>. Ethos Books.
+<p>Hossine, Md Mukul (2020). <em>Me Migrant</em>. Ethos Books.
 <p>
 <a href="https://nlb.overdrive.com/media/5300550 " target="_blank"><img src="/images/reading/adults-seniors/Me Migrant.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/5300550 ">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>6. The Goddess in the Living Room</h5>
-<p>Latha (2014). <i>The Goddess in the Living Room</i>. Epigram Books.
+<p>Latha (2014). <em>The Goddess in the Living Room</em>. Epigram Books.
 <p>
 <a href="https://nlb.overdrive.com/media/3300315 " target="_blank"><img src="/images/reading/adults-seniors/Goddess.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/3300315 ">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>7. State of Emergency</h5>
-<p>Tiang, Jeremy (2018). <i>State of Emergency</i>. Epigram Books.
+<p>Tiang, Jeremy (2018). <em>State of Emergency</em>. Epigram Books.
 <p>
 <a href="https://nlb.overdrive.com/media/4387245 " target="_blank"><img src="/images/reading/adults-seniors/State of Emergency.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/4387245 ">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>8. Confrontation</h5>
-<p>Mohamed, Latiff Mohamed (2018). <i>Confrontation</i>. Epigram Books.
+<p>Mohamed, Latiff Mohamed (2018). <em>Confrontation</em>. Epigram Books.
 <p>
 <a href="https://nlb.overdrive.com/media/3300251 " target="_blank"><img src="/images/reading/adults-seniors/Confrontation.png" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/3300251">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>9. Nimita’s Place</h5>
-<p>Nanda, Akshita (2019). <i>Nimita’s Place</i>. Epigram Books.
+<p>Nanda, Akshita (2019). <em>Nimita’s Place</em>. Epigram Books.
 <p>
 <a href="https://nlb.overdrive.com/media/4686077 " target="_blank"><img src="/images/reading/adults-seniors/Nimitas Place.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/4686077">Borrow the eBook here</a>. </p>
