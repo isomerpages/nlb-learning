@@ -123,7 +123,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 		</td>
 	</tr>
 	</tbody></table>
-	</p>
+
 <h4>Videos</h4>
 <h5>Malaca, l'Inde Méridionale et le Cathay | From the Stacks S1</h5>
 
