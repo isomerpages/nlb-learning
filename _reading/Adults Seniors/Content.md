@@ -392,7 +392,7 @@ For more recommendations, check out:
 <p>An interview with several Sing Lit writers to discuss what makes Singapore Literature.<p>
 
 
-<p><li><a href="https://open.spotify.com/episode/22qMVnHwCMzft8YMDkqsq0" target=_blank”>Songbirds: After You</a></li><p>
+<p><li><a href="https://open.spotify.com/episode/22qMVnHwCMzft8YMDkqsq0" target=_blank">Songbirds: After You</a></li><p>
 <p>A podcast series by The Arts House, Wilson Goh and Amanda Lee reinterprets selected Singapore poems into songs.</p>
 
 
