@@ -382,3 +382,37 @@ For more recommendations, check out:
 </li><li><a target="_blank" href="https://www.straitstimes.com/life/arts/the-50-greatest-works-of-singlit">The 50 Greatest Work of Sing Lit</a> by Olivia Ho, The Straits Times, Dec 2021.<p></p></li>
 
 <li><a target="_blank" href="https://www.tatlerasia.com/culture/arts/tatler-reading-list-6-singapore-literary-insiders-share-their-top-picks-for-books">World Book Day 2021: 6 Singapore Literary Insiders Share Their Favourite Books</a> by Hashimi, Nurin Hashim Hashimi, Tatler Singapore, Apr 2021.<p></p></li>
+
+<h4>Resources</h4>
+
+<p><li><a href="https://www.ricemedia.co/a-case-for-singlit/" target="_blank">A Case for Sing Lit</a></li></p>
+<p>This article from Wild Rice’s Op-ed Competition writes about how reading Sing Lit touches a unique chord that possibly only Singaporeans can relate to.</p>
+
+<p><li><a href="https://www.lifestyleasia.com/sg/culture/the-arts/pooja-nansi-singlit/" target="_blank"> The Singapore Spotlight: Pooja Nansi on our blossoming literary scene</a></li></p>
+<p>This interview with Pooja Nansi, festival director of Singapore Writers Festival since 2019, gives a good take on the current Sing Lit scene.</p>
+
+<p><li><a href="https://www.lifestyleasia.com/sg/culture/the-arts/what-is-sing-lit-singaporean-authors-define/" target="_blank">Must we define Singapore’s literary voice for it to be recognised? Local authors pitch in</a></li><p>
+<p>An interview with several Sing Lit writers to discuss what makes Singapore Literature.<p>
+
+
+<p><li><a href=”https://open.spotify.com/episode/22qMVnHwCMzft8YMDkqsq0” target=_blank”>Songbirds: After You</a></li><p>
+<p>A podcast series by The Arts House, Wilson Goh and Amanda Lee reinterprets selected Singapore poems into songs.</p>
+
+
+<h4>Programmes on Singapore Literature</h4>
+<p>Literary programmes featuring Sing Lit are always happening in the library. Browse through <a href="https://www.eventbrite.com/c/literary-arts-programmes-ccbxzpzm--NctcKbrqfPWk/" target="_blank">go.gov.sg/literaryprogs</a> to find the right one for you!
+</p>
+			
+<small>References</small>
+<ol>
+        <li><span id="footnote-one">Chua, Ivy, Ismail, Rafiq.(2020, June 30). <em>Stories About Us: Literary Culture in Singapore</em> Constellations. https://www.constellations.sg/2020/06/30/stories-about-us-literary-culture-in-singapore. Retrieved 2021, December 20 from <a href="https://www.constellations.sg/2020/06/30/stories-about-us-literary-culture-in-singapore" target="_blank">https://www.constellations.sg/2020/06/30/stories-about-us-literary-culture-in-singapore</a></li>
+    <li><span id="footnote-two">Tze Yi, Goh. (2021, Dec 13). <em>#BuySingLit movement rebrands to get S'poreans to Read Our World</em> The Straits Times. https://www.straitstimes.com/life/buysinglit-movement-rebrands-to-get-sporeans-to-read-our-world. Retrieved 2021, December 20 from <a href="https://www.straitstimes.com/life/buysinglit-movement-rebrands-to-get-sporeans-to-read-our-world" target="_blank">https://www.straitstimes.com/life/buysinglit-movement-rebrands-to-get-sporeans-to-read-our-world</a></li>
+    <li><span id="footnote-three">NLB Overdrive <em>The Short Stories and Radio Plays of S. Rajaratnam.</em> Retrieved 2021, December 20 from <a href="https://nlb.overdrive.com/media/3300320" target="_blank">https://nlb.overdrive.com/media/3300320</a></li>
+    <li><span id="footnote-four">Ogihara-Shuck, Eriko. (2015, Jan 1) <em>On the Trail of Francis P. Ng: Author of F.M.S.R.</em> Retrieved 2021, December 20 from <a href="https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-march-2015/on-the-trail" target="_blank">https://biblioasia.nlb.gov.sg/vol-10/issue-4/jan-march-2015/on-the-trail</a></li>
+	    <li><span id="footnote-five">Lovett, Jamie. (2017, November 9) <em>Here Are Your 2017 Eisner Awards Winners.</em> Retrieved 2021, December 20 from <a href="https://comicbook.com/comics/news/eisner-awards-winners-2017/" target="_blank">https://comicbook.com/comics/news/eisner-awards-winners-2017/</a></li>
+			    <li><span id="footnote-six">Ho, Olivia (2017, May 3) <em>Singaporean graphic novelist Sonny Liew tops nominations for Eisner comic awards.</em> Retrieved 2021, December 20 from <a href="https://www.straitstimes.com/lifestyle/arts/singaporean-graphic-novelist-sonny-liew-tops-nominations-for-eisner-comic-awards" target="_blank">https://www.straitstimes.com/lifestyle/arts/singaporean-graphic-novelist-sonny-liew-tops-nominations-for-eisner-comic-awards</a></li>
+    <li><span id="footnote-seven">Tee, Karen (2016, September 2018) <em>Singapore Literature is Having Its Moment in the International Spotlight.</em> Retrieved 2021, December 20 from <a href="https://www.thepeakmagazine.com.sg/lifestyle/singapore-literature-is-having-its-moment-in-the-international-spotlight/" target="_blank">https://www.thepeakmagazine.com.sg/lifestyle/singapore-literature-is-having-its-moment-in-the-international-spotlight/"</a></li>
+</ol>
+
+[Back to top](#main-content)
+{: .has-text-right .margin--top--xl}
