@@ -99,8 +99,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 </div>
 
 
- [Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-green-econ" ><b>The Many Names of Singapore </b></h5>
