@@ -103,26 +103,36 @@ Singapore has undergone massive developments in the decades past. Take a look at
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-green-econ" ><b>The Many Names of Singapore </b></h5>
-<p>Sincapura.</p>
+<p>We probably are familiar with the variant names of Singapore such as Temasek and Singapura today. Back in the 17<sup>th</sup> to early 19<sup>th</sup> century, Singapore was identified as a promontory, a strait, a ridge, an island, as well as a settlement, based on naming conventions on cartographical references that have been documented.<sup><a href="#footnote-five">1</a></sup> For Singaporeans, this is a nation we associate with, and a place we call home. This learning package offers some trivia to the variant names of Singapore from early records.</p>
 
 <table border="1">
 	<tbody><tr>
 		<td>
 			<h2>Did you know...</h2>
-			<p>Long before the British arrived and made Singapore a colonial port city, Singapore was already a port as part of the early maritime trade route. <sup><a href="#footnote-five">1</a></sup> 
+			<p>Long before the British arrived and made Singapore a colonial port city, Singapore was already a port as part of the early maritime trade route. <sup><a href="#footnote-five">1</a></sup> In early maritime charts and maps (17<sup>th</sup> to early 19<sup>th</sup> century), we learn that Singapore was known by many names.
 		</p>
 			<p>Some names that Singapore was known by include<sup><a href="#footnote-eight">2</a></sup>.</p>
 			<ul>
 				<li>Temasek or Temasik 淡马锡</li>
-				<li>Paulau Panjang [Long Island]</li>
+				<li>Pulo ou Isle Panjang or Paulau Panjang [Long Island]</li>
 				<li>Ujong Tanah [Land's End]</li>
 				<li>Sincapour</li>
+				<li> Governor's Island</li>
 			</ul>
 			<p></p>
 		</td>
 	</tr>
 	</tbody></table>
 	</p>
+<h4>Videos</h4>
+<h5>Malaca, l'Inde Méridionale et le Cathay | From the Stacks S1</h5>
+
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IX7xg-h1CKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="https://www.youtube.com/watch?v=IX7xg-h1CKA" target="_blank">Malaca, l'Inde Méridionale et le Cathay</a> (2019). <i>National Library Singapore.</i>
+
 <h4>References</h4>
 <ol>
     <li><small><span id="footnote-one ">Kwa, C. G. et. al (2019). </span> <i>Seven hundred years: a history of Singapore</i>. Singapore: Marshall Cavendish Editions and National Library Board. eBook available via NLB Mobile. Call no. 959.57 KWA </li>
