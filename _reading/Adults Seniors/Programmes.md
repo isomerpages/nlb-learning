@@ -15,7 +15,7 @@ Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest p
 
 ## **SG Author Series** 
 
-![Alt text for image on Isomer site](images/reading/adults-seniors/sgauthor.jpg)
+![Alt text for image on Isomer site](images/reading/adults-seniors/sgauthor.jpeg)
 
 The SG Author Series celebrates local literature by showcasing Singapore authors from various languages who have contributed to the development of Singapore’s literary landscape.
 
