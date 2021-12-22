@@ -400,7 +400,7 @@ For more recommendations, check out:
 <p>Literary programmes featuring Sing Lit are always happening in the library. Browse through <a href="https://www.eventbrite.com/c/literary-arts-programmes-ccbxzpzm--NctcKbrqfPWk/" target="_blank">go.gov.sg/literaryprogs</a> to find the right one for you!
 </p>
 			
-<small>References</small>
+<h4>References</h4>
 <ol>
         <li><span id="footnote-one">Chua, Ivy, Ismail, Rafiq. (2020, June 30). <em>Stories About Us: Literary Culture in Singapore</em> Constellations. 
 <p>Retrieved 2021, December 20 from <a href="https://www.constellations.sg/2020/06/30/stories-about-us-literary-culture-in-singapore" target="_blank">https://www.constellations.sg/2020/06/30/stories-about-us-literary-culture-in-singapore.</a>
