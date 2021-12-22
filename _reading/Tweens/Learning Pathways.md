@@ -62,9 +62,9 @@ Read with your child to explore new topics and discover new experience.
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/213485630267" target="_blank"><b> Connecting with our History – The 3 Kingdoms </b></a></td>
-        <td style="width: 40%;">TBC</td>
-        <td style="width: 20%;"> TBC</td>
-        <td style="width: 20%;">TBC</td>
+        <td style="width: 40%;">A workshop for children from 10 to 12 years on the dynasties that ruled Tamil Nadu — namely, the Chera, Chola and Pandya dynasties. The workshop conducted in Tamil will provide a brief into the kingdoms, coupled with quizzes and activities to follow.</td>
+        <td style="width: 20%;"> 30 Jan 2022, 3:00pm-4:30pm</td>
+        <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
 <td><a href=" http://go.gov.sg/BookBugs " target="_blank"><b> Book Bugs: Rescuers of Stories Lost</b></a></td>
