@@ -110,7 +110,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 	<tbody><tr>
 		<td>
 			<h2>Did you know...</h2>
-			<p>Singapore was a port even before the British made Singapore a port.<sup><a href="#footnote-five">5</a></sup> 
+			<p>Singapore was a port even before the British made Singapore a port.<sup><a href="#footnote-five">2</a></sup> 
 		</p>
 			<p>Some names that Singapore was known by include<sup><a href="#footnote-eight">8</a></sup>.</p>
 			<ul>
@@ -123,3 +123,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 		</td>
 	</tr>
 	</tbody></table>
+	</p>
+	<small>References</small>
+<ol>
+    <li><span id="footnote-one ">National Library Board (2015). </span> <i>Visualising space: maps of Singapore and the region</i>. Available on BookSG  <a href="https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx" target="_blank">https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx</a></li>
