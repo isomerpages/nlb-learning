@@ -302,7 +302,9 @@ Literature facilitates critical thinking, and human communication. Check out thi
 				
 				</tr>
 	
-	</tbody></table>
+	</tbody>
+		
+		</table>
 
 <p><h4>Must Reads</h4>
 There are numerous Sing Lit works deemed as must-reads across the different genres. This list for English books comprise of a small selection. For more titles beyond this list, check out the links below.
