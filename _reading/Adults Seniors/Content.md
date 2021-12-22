@@ -280,20 +280,20 @@ Literature facilitates critical thinking, and human communication. Check out thi
 {: .has-text-right .margin--top--xl}
 
 <h3><b>Learning Package</b></h3>
-<h5 class="margin--bottom--lg" id="lp-sing-lit"><b>Singapore Literature</b></h5>
+<h4><b>Singapore Literature</b></h4>
 <p>In this package, Singapore Literature, or Sing Lit, refers to books written by Singaporean or Singapore-based writers, in the four national languages namely English, Chinese, Malay and Tamil. Genres include fiction, poetry, creative non-fiction and plays.</p>
 <p>The body of Sing Lit covers an extensive breadth – culture, race, work, food, family, place, identities – stemming from experiences and reflections of life in Singapore. Sing Lit is one avenue for us to discover, ponder and even question aspects of a Singaporean life. Poet, Ng Yi Sheng described it best when he said, “Literature encourages us to empathise with the complexities of history and its subjectivities rather than coming to easy straightforward conclusions.” <sup><small><a href="#footnote-one">1</a></small></sup>.</p>
 <p>The Sing Lit scene in Singapore is lively, experimental and growing; seen through the active ecosystem of writers, publishers, literary organisations, bookstores, literary prizes and movements. Most recently, the Sing Lit scene has seen the rebrand of industry-led movement #BuySinglit to Sing Lit: Read Our World, to spotlight the full ecosystem of Sing Lit including ‘creators, authors and readers’ <sup><small><a href="#footnote-two">2</a></small></sup> throughout the year. As the industry is galvanizing to bring our stories to the forefront, would you heed this call to know our world with Sing Lit?
 </p><p> In this resource package, glean into Sing Lit must-reads and get a headstart to Sing Lit works.
 </p>
-		
-<table border="1">
 	
-			<tbody><tr>
-				
-				<td>
-					
-					<h2>Did you know...</h2>
+<table border="1">
+		
+		<tbody><tr>
+			
+			<td>
+	
+				<h2>Did you know...</h2>
 					
 					<p><li>One of our founding fathers, <b>S Rajaratnam</b>, was also a man of words? While pursuing his law degree in London, his works caught the eye of George Orwell, who engaged Rajaratnam to contribute scripts to the BBC Eastern network where Orwell worked. This works have been compiled into <em>The Short Stories and Radio Plays of S. Rajaratnam. </em><sup><small><a href="#footnote-three">2</a></small></sup></li></p>
 					
