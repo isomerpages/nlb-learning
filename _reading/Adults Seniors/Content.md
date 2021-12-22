@@ -308,63 +308,63 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>2. Ministry of Moral Panic</h5>
 <p>Koe, Amanda Lee (2013). <i>Ministry of Moral Panic</i>. Epigram Books.<p>
-<a href="https://nlb.overdrive.com/media/5300523" target="_blank"><img src="/images/reading/adults-seniors/moral panic.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
-</p><p><a target="_blank" href="https://nlb.overdrive.com/media/5300523">Borrow the eBook here</a>. </p>
+<a href="https://nlb.overdrive.com/media/3300287" target="_blank"><img src="/images/reading/adults-seniors/moral panic.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
+</p><p><a target="_blank" href="https://nlb.overdrive.com/media/3300287">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>3. Sugarbread</h5>
 Jaswal, Balli Kaur (2018). <i>Sugarbread</i>. Epigram Books.
 <p>
-<a target="_blank" href="https://nlb.overdrive.com/media/4333654"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-and-seniors/HistoryofAmnesia.jpg"></a>
+<a href="https://nlb.overdrive.com/media/4333654" target="_blank"><img src="/images/reading/adults-seniors/sugarbread.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/4333654">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>4. Let Me Tell You Something About That Night</h5>
 Wong, Cyril (2020). <i>Let Me Tell You Something About That Night</i>. Ethos Books.
 <p>
-<a target="_blank" href="https://nlb.overdrive.com/media/5300547"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-and-seniors/HistoryofAmnesia.jpg"></a>
-</p><p><a target="_blank" href="https://nlb.overdrive.com/media/5300547">Borrow the eBook here</a>. </p>
+<a href="https://nlb.overdrive.com/media/5300547 " target="_blank"><img src="/images/reading/adults-seniors/let me tell.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
+</p><p><a target="_blank" href="https://nlb.overdrive.com/media/5300547 ">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>5. Me Migrant</h5>
 Hossine, Md Mukul (2020). <i>Me Migrant</i>. Ethos Books.
 <p>
-<a target="_blank" href="https://nlb.overdrive.com/media/5300550"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-and-seniors/HistoryofAmnesia.jpg"></a>
-</p><p><a target="_blank" href="https://nlb.overdrive.com/media/5300550">Borrow the eBook here</a>. </p>
+<a href="https://nlb.overdrive.com/media/5300550 " target="_blank"><img src="/images/reading/adults-seniors/Me Migrant.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
+</p><p><a target="_blank" href="https://nlb.overdrive.com/media/5300550 ">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>6. The Goddess in the Living Room</h5>
 Latha (2014). <i>The Goddess in the Living Room</i>. Epigram Books.
 <p>
-<a target="_blank" href="https://nlb.overdrive.com/media/3300315"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-and-seniors/HistoryofAmnesia.jpg"></a>
-</p><p><a target="_blank" href="https://nlb.overdrive.com/media/3300315">Borrow the eBook here</a>. </p>
+<a href="https://nlb.overdrive.com/media/3300315 " target="_blank"><img src="/images/reading/adults-seniors/Goddess.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
+</p><p><a target="_blank" href="https://nlb.overdrive.com/media/3300315 ">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>7. State of Emergency</h5>
 Tiang, Jeremy (2018). <i>State of Emergency</i>. Epigram Books.
 <p>
-<a target="_blank" href="https://nlb.overdrive.com/media/4387245"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-and-seniors/HistoryofAmnesia.jpg"></a>
-</p><p><a target="_blank" href="https://nlb.overdrive.com/media/4387245">Borrow the eBook here</a>. </p>
+<a href="https://nlb.overdrive.com/media/4387245 " target="_blank"><img src="/images/reading/adults-seniors/State of Emergency.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
+</p><p><a target="_blank" href="https://nlb.overdrive.com/media/4387245 ">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>8. Confrontation</h5>
 Mohamed, Latiff Mohamed (2018). <i>Confrontation</i>. Epigram Books.
 <p>
-<a target="_blank" href="https://nlb.overdrive.com/media/3300251"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-and-seniors/HistoryofAmnesia.jpg"></a>
-</p><p><a href="https://nlb.overdrive.com/media/3300251 target=">Borrow the eBook here</a>. </p>
+<a href="https://nlb.overdrive.com/media/3300251 " target="_blank"><img src="/images/reading/adults-seniors/Confrontation.png" style="width:300px; text-align:left;" alt="you're not listening"></a>
+</p><p><a target="_blank" href="https://nlb.overdrive.com/media/3300251">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>9. Nimita’s Place</h5>
 Nanda, Akshita (2019). <i>Nimita’s Place</i>. Epigram Books.
 <p>
-<a href="https://nlb.overdrive.com/media/4686077target="><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-and-seniors/HistoryofAmnesia.jpg"></a>
+<a href="https://nlb.overdrive.com/media/4686077 " target="_blank"><img src="/images/reading/adults-seniors/Nimitas Place.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/4686077">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>10. The Gatekeeper</h5>
 Norasid, Nuraliah, (2018).<i>The Gatekeeper</i>. Epigram Books.
 <p>
-<a target="_blank" href="https://nlb.overdrive.com/media/4333656"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-and-seniors/HistoryofAmnesia.jpg"></a>
+<a href="https://nlb.overdrive.com/media/4333656 " target="_blank"><img src="/images/reading/adults-seniors/Gatekeeper.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/4333656">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
