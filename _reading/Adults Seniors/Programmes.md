@@ -15,32 +15,32 @@ Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest p
 
 ## **SG Author Series** 
 
-![Alt text for image on Isomer site](images/reading/adults-seniors/sgauthors.png)
+![Alt text for image on Isomer site](/images/reading/adults-seniors/sgauthors.png)
 
 The SG Author Series celebrates local literature by showcasing Singapore authors from various languages who have contributed to the development of Singapore’s literary landscape.
 
 ## **Read Fest!** 
 
-![Alt text for image on Isomer site](images/reading/adults-seniors/rf21.png)
+![Alt text for image on Isomer site](/images/reading/adults-seniors/rf21.png)
 
 Read! Fest is NLB’s signature event to encourage Singaporeans to be acquainted or re-acquainted with reading in English and the Mother Tongue languages. Part of the National Reading Movement, Read! Fest features Singapore and international writing of different genres, promoted through a programme line-up celebrating reading with author talks, panel sessions, workshops and reading trails.
 
 ## **Night At the Library** 
 
-![Alt text for image on Isomer site](images/reading/adults-seniors/natl.png)
+![Alt text for image on Isomer site](/images/reading/adults-seniors/natl.png)
 
 Night at The Library  is an annual after-dark event which highlights the library as a lifestyle destination and social learning space, and promotes our collections in unconventional ways. Started in 2018 with horror as a central theme, Night At the Library created awareness of related literary arts content, historical research and films, presented in light-hearted formats.
 
 ## **Reading in the Age of Distraction** 
 
-![Alt text for image on Isomer site](images/reading/adults-seniors/rad21.png)
+![Alt text for image on Isomer site](/images/reading/adults-seniors/rad21.png)
 
 Reading in the Age of Distraction is a series of conversations featuring acclaimed international thinkers on the science of reading, and reading well in the digital age. The first installation of the event in 2021 featured speakers such as Nicholas Carr, author of The Shallows: What the Internet is Doing to Our Brains, Rolf Dobelli, author of the Art of Thinking Clearly, Alan Rusbridger, former editor-in-chief of The Guardian and Maryanne Wolf, author of Reader Come Home: The Reading Brain in the Digital World.
 
 
 ## **One Story** 
 
-![Alt text for image on Isomer site](images/reading/adults-seniors/razi.png)
+![Alt text for image on Isomer site](/images/reading/adults-seniors/razi.png)
 
 One Story is a multi-year project that makes local short stories - originally written in Tamil, Malay, Chinese, or English - available in other languages. The project aims to create a common literary conversation for everyone, regardless of language.
 
