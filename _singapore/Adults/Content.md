@@ -92,7 +92,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
   </div>
   <div class="col is-three-fifths">
   <p><b>Ceremony of Laying the Foundation Stone of the Clyde Terrace Market</b><br>
-    Discover the history behind one of Singapore’s earliest markets, the Clyde Terrace Market, with Associate Librarian Zoe Yeo. The market later became known as “tie pasar” in Chinese, “thih pa sat” in Hokkien, or “pasar besi” in Malay, which all translate into “iron market”, as it was mainly made up of iron. Catch other episodes.<br><br>
+    Discover the history behind one of Singapore’s earliest markets, the Clyde Terrace Market, with Associate Librarian Zoe Yeo. The market later became known as “tie pasar” in Chinese, “thih pa sat” in Hokkien, or “pasar besi” in Malay, which all translate into “iron market”, as it was mainly made up of iron. Catch other episodes at NLB Youtube channel.<br><br>
 <small>Source: National Library, Singapore. </small></p>
   </div>
 </div>
