@@ -301,17 +301,15 @@ Literature facilitates critical thinking, and human communication. Check out thi
 <p><h4>Must Reads</h4>
 There are numerous Sing Lit works deemed as must-reads across the different genres. This list for English books comprise of a small selection. For more titles beyond this list, check out the links below.
 <h5>1. A History of Amnesia</h5></p>
-Alfian Sa’at (2020). <i>A History of Amnesia</i>. Ethos Books.
-<p>
-<a target="_blank" href="https://nlb.overdrive.com/media/5300523"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-and-seniors/history of Amnesia.jpg"></a>
-	<a href="https://nlb.overdrive.com/media/5300523" target="_blank"><img src="/images/reading/adults-seniors/history of amnesia.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
+<p>Alfian Sa’at (2020). <i>A History of Amnesia</i>. Ethos Books.<p>
+<a href="https://nlb.overdrive.com/media/5300523" target="_blank"><img src="/images/reading/adults-seniors/History of Amnesia.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/5300523">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
-				<h5>2. Ministry of Moral Panic</h5>
-Koe, Amanda Lee (2013). <i>Ministry of Moral Panic</i>. Epigram Books.
-<p>
-<a target="_blank" href="https://nlb.overdrive.com/media/3300287"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-and-seniors/HistoryofAmnesia.jpg"></a>
-</p><p><a target="_blank" href="https://nlb.overdrive.com/media/3300287">Borrow the eBook here</a>. </p>
+
+<h5>2. Ministry of Moral Panic</h5>
+<p>Koe, Amanda Lee (2013). <i>Ministry of Moral Panic</i>. Epigram Books.<p>
+<a href="https://nlb.overdrive.com/media/5300523" target="_blank"><img src="/images/reading/adults-seniors/moral panic.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
+</p><p><a target="_blank" href="https://nlb.overdrive.com/media/5300523">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 				<h5>3. Sugarbread</h5>
 Jaswal, Balli Kaur (2018). <i>Sugarbread</i>. Epigram Books.
