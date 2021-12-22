@@ -97,7 +97,7 @@ Check out our **playlists** and **learning packages** for recommended books, col
 </div>
 	
 
-<h4 id="playlist-reading-digital-age" class="margin--bottom--lg"><b>Playlist: Reading in a Digital Age</b></h4>
+<h3 id="playlist-reading-digital-age" class="margin--bottom--lg"><b>Playlist: Reading in a Digital Age</b></h3>
 	
 <p>So many books, so little time. How has the reading brain evolved with the advent of the digital age? These resources will give you short explainers on how our reading has changed with our devices, and how to cultivate the reading habit in a distracted age. 
 <br>
@@ -143,7 +143,7 @@ This video has Max Joseph interview influential writers, avid readers and bookst
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
 
-<h4 class="margin--bottom--lg" id="tldr-short-reads"><b>TLDR: Short Reads</b></h4>
+<h3 class="margin--bottom--lg" id="tldr-short-reads"><b>TLDR: Short Reads</b></h3>
 Get back into reading with these short reads. Or pull these out to tide you over that commute or long wait.  From short stories, comics to poetry, we’ve got you covered.
 
 <h5>Websites</h5>
@@ -212,7 +212,7 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
 
-<h5 id="playlist-stories-for-adults" class="margin--bottom--lg"><b>Playlist: Stories for Adults</b></h5>
+<h3 id="playlist-stories-for-adults" class="margin--bottom--lg"><b>Playlist: Stories for Adults</b></h3>
 	
 <p>Relive the pleasure of being told stories, even as adults. Tune in to these podcasts to discover a myriad of life experiences from over the world, and our own shores.  Stories range from the poignant, humorous, bizarre to downright frightening.</p>
 
@@ -234,7 +234,7 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
 
-<h5 class="margin--bottom--lg" id="playlist-intro-literature"><b>Playlist: Introduction to Literature</b></h5>
+<h3 class="margin--bottom--lg" id="playlist-intro-literature"><b>Playlist: Introduction to Literature</b></h3>
 <p>Literature examines human communication and facilitates critical thinking. Check out this playlist to kickstart your journey in discovering literature.</p>
 <br>
 <div class="row is-multiline margin--bottom--lg">
