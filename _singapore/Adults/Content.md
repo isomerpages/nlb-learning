@@ -104,17 +104,17 @@ Singapore has undergone massive developments in the decades past. Take a look at
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-green-econ" ><b>The Many Names of Singapore </b></h5>
-<p>Sincapura.<sup><small><a href="#footnote-one">1</a></ small></sup>.</p>
+<p>Sincapura.</p>
 
 <table border="1">
 	<tbody><tr>
 		<td>
 			<h2>Did you know...</h2>
-			<p>Singapore was a port even before the British made Singapore a port.<sup><a href="#footnote-five">2</a></sup> 
+			<p>Long before the British arrived and made Singapore a colonial port city, Singapore was already a port as part of the early maritime trade route. <sup><a href="#footnote-five">1</a></sup> 
 		</p>
-			<p>Some names that Singapore was known by include<sup><a href="#footnote-eight">8</a></sup>.</p>
+			<p>Some names that Singapore was known by include<sup><a href="#footnote-eight">2</a></sup>.</p>
 			<ul>
-				<li>Temasek 淡马锡</li>
+				<li>Temasek or Temasik 淡马锡</li>
 				<li>Paulau Panjang [Long Island]</li>
 				<li>Ujong Tanah [Land's End]</li>
 				<li>Sincapour</li>
