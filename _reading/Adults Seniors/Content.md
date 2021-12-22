@@ -276,8 +276,9 @@ Literature facilitates critical thinking, and human communication. Check out thi
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
 
-<h3 id="lp-sing-lit" class="margin--bottom--lg"><b>Learning Package: Singapore Literature</b></h3>
+<h3 class="margin--bottom--lg" id="lp-sing-lit"><b>Learning Package: Singapore Literature</b></h3>
 <p>In this package, Singapore Literature, or Sing Lit, refers to books written by Singaporean or Singapore-based writers, in the four national languages namely English, Chinese, Malay and Tamil. Genres include fiction, poetry, creative non-fiction and plays.</p>
+
 <p>The body of Sing Lit covers an extensive breadth – culture, race, work, food, family, place, identities – stemming from experiences and reflections of life in Singapore. Sing Lit is one avenue for us to discover, ponder and even question aspects of a Singaporean life. Poet, Ng Yi Sheng described it best when he said, “Literature encourages us to empathise with the complexities of history and its subjectivities rather than coming to easy straightforward conclusions.” <sup><small><a href="#footnote-one">1</a></small></sup>.</p>
 <p>The Sing Lit scene in Singapore is lively, experimental and growing; seen through the active ecosystem of writers, publishers, literary organisations, bookstores, literary prizes and movements. Most recently, the Sing Lit scene has seen the rebrand of industry-led movement #BuySinglit to Sing Lit: Read Our World, to spotlight the full ecosystem of Sing Lit including ‘creators, authors and readers’ <sup><small><a href="#footnote-two">2</a></small></sup> throughout the year. As the industry is galvanizing to bring our stories to the forefront, would you heed this call to know our world with Sing Lit?
 </p><p> In this resource package, glean into Sing Lit must-reads and get a headstart to Sing Lit works.
