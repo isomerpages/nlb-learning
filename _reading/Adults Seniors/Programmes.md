@@ -21,7 +21,7 @@ The SG Author Series celebrates local literature by showcasing Singapore authors
 
 ## **Read Fest!** 
 
-![Alt text for image on Isomer site](images/reading/adults-seniors/rf21.jpeg)
+![Alt text for image on Isomer site](images/reading/adults-seniors/rf21.jpg)
 Read! Fest is NLB’s signature event to encourage Singaporeans to be acquainted or re-acquainted with reading in English and the Mother Tongue languages. Part of the National Reading Movement, Read! Fest features Singapore and international writing of different genres, promoted through a programme line-up celebrating reading with author talks, panel sessions, workshops and reading trails.
 
 ## **Night At the Library** 
