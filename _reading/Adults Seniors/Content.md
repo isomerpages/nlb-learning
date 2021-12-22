@@ -284,13 +284,13 @@ Literature facilitates critical thinking, and human communication. Check out thi
 </p><p> In this resource package, glean into Sing Lit must-reads and get a headstart to Sing Lit works.
 </p>
 	
-<h2>Did you know...</h2>
+<h4>Did you know...</h4>
 					
-					<p><li>One of our founding fathers, <b>S Rajaratnam</b>, was also a man of words? While pursuing his law degree in London, his works caught the eye of George Orwell, who engaged Rajaratnam to contribute scripts to the BBC Eastern network where Orwell worked. This works have been compiled into <em>The Short Stories and Radio Plays of S. Rajaratnam. </em><sup><small><a href="#footnote-three">3</a></small></sup></li></p>
+<p><li>One of our founding fathers, <b>S Rajaratnam</b>, was also a man of words? While pursuing his law degree in London, his works caught the eye of George Orwell, who engaged Rajaratnam to contribute scripts to the BBC Eastern network where Orwell worked. This works have been compiled into <em>The Short Stories and Radio Plays of S. Rajaratnam. </em><sup><small><a href="#footnote-three">3</a></small></sup></li></p>
 					
-			<p><li>Sing Lit has a long history, with generations of writers. The first notable Sing Lit work in English was said to be a work of poetry by Teo Poh Leng, written under the pseudonym of Francis P. Ng<sup><small><a href="#footnote-four">4</a></small></sup> from 1937.</li></p>
+<p><li>Sing Lit has a long history, with generations of writers. The first notable Sing Lit work in English was said to be a work of poetry by Teo Poh Leng, written under the pseudonym of Francis P. Ng<sup><small><a href="#footnote-four">4</a></small></sup> from 1937.</li></p>
 					
-			<p><li>Sing Lit is garnering attention overseas. A few works by Singapore-born authors have won prestigious awards, been translated into various languages and picked up by overseas publishers. For example, Sonny Liew’s Charlie Chan Hock Chye not only bagged three Eisner Awards 2017<sup><small><a href="#footnote-five">5</a></small></sup> – deemed the Oscars of the comics world – but was also nominated of a host of other foreign prizes&gt;<sup><small><a href="#footnote-six">6</a></small></sup>. Rachel Heng’s The Suicide Club has been translated to ten languages<sup><small><a href="#footnote-seven">7</a></small></sup>, and several titles have been pick-up by overseas publishers. <sup><small><a href="#footnote-eight">8</a></small></sup>.</p>
+<p><li>Sing Lit is garnering attention overseas. A few works by Singapore-born authors have won prestigious awards, been translated into various languages and picked up by overseas publishers. For example, Sonny Liew’s Charlie Chan Hock Chye not only bagged three Eisner Awards 2017<sup><small><a href="#footnote-five">5</a></small></sup> – deemed the Oscars of the comics world – but was also nominated of a host of other foreign prizes&gt;<sup><small><a href="#footnote-six">6</a></small></sup>. Rachel Heng’s The Suicide Club has been translated to ten languages<sup><small><a href="#footnote-seven">7</a></small></sup>, and several titles have been pick-up by overseas publishers. <sup><small><a href="#footnote-eight">8</a></small></sup>.</p>
 
 <p><h4>Must Reads</h4>
 There are numerous Sing Lit works deemed as must-reads across the different genres. This list for English books comprise of a small selection. For more titles beyond this list, check out the links below.
