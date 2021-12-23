@@ -48,7 +48,7 @@ Reading in the Age of Distraction is a series of conversations featuring acclaim
 
 One Story is a multi-year project that makes local short stories - originally written in Tamil, Malay, Chinese, or English - available in other languages. The project aims to create a common literary conversation for everyone, regardless of language.
 
-Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest programme listings.
+Click [here](https://readingnation.nlb.gov.sg/initiatives/one-story/){:target="_blank"} for the latest programme listings.
 
 ## **Head2Head** 
 
