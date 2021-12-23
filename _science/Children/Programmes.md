@@ -27,20 +27,24 @@ third_nav_title: Children
 ## **Budding Scientists**
 ![Budding Scientists](/images/science-lfa-updates/Budding-Scientists.png)
 A series of workshops for children to learn about plants, animals, the human body and more.
+
 Click [here](https://go.gov.sg/Tweenkerama ){:target="_blank"} for the latest programme listings.
 
 ## **Budding Engineers**
 ![Budding Engineers](/images/science-lfa-updates/Budding-Engineers.png)
 A series of workshops for children to learn about engineering, physics and more.
+
 Click [here](https://go.gov.sg/Tweenkerama ){:target="_blank"} for the latest programme listings.
 
 ## **Tweenkerama: Science**
 ![Tweenkerama Science](/images/science-lfa-updates/Tweenkerama-Science.png)
 Is your child interested in understanding scientific concepts and knowledge through application? 
 Tweenkerama gives tweens aged 10-13 years the opportunity to learn and explore topics on S.T.E.A.M. (Science, Technology, Engineering, Art, and Mathematics) through a variety of hands-on and experiential learning activities.
+
 Click [here](https://go.gov.sg/Tweenkerama){:target="_blank"} for the latest programme listings.
 
 ## **S.T.E.A.M. Lab**
 ![STEAM Lab](/images/science-lfa-updates/STEAM-Lab.png)
 An annual event for children and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.
+
 Click [here](https://go.gov.sg/Tweenkerama ){:target="_blank"} for the latest programme listings.
