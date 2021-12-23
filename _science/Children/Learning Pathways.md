@@ -48,6 +48,9 @@ Spark your child’s curiosity in science literacy through engaging programmes!
         <td> </td>
       </tr>
 
+			
+<br>
+			
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
