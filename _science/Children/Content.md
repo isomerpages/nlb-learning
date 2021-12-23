@@ -62,3 +62,47 @@ Use these resources to introduce your child to science concepts!
     </div>
   </div>
 </div>
+
+<h3><b>Playlist</b></h3>
+A collection of short videos exploring topics around science concepts.
+<h5 id="time-for-science"  class="margin--bottom--lg"><b>Playlist: Time for Science!</b></h5>
+Spark your child’s curiosity in science literacy through these engaging and educational videos!
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/vUXWrQMa8QY " class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Make a Parachute at home | School Holiday Specials with Librarians (9:31)</b><br>
+Do your children like creating their own inventions just like Leonardo Da Vinci? Join our librarian Faye, as she shows us Leonardo's many amazing inventions and teaches us how to make one of them!  
+<small> Primary School Children (Part 2) | School Holiday Specials with Librarians (2020, July 20). Public Libraries Singapore.</small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/NyZD-c4J4NU " class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Science WHAAAAT? | DIY Hot Air Balloon (2:49) </b><br>
+Do you know how hot air balloons work? 
+Hot air balloons have been around for ages and are known as a form of transportation then and now. 
+<small> Science WHAAAAT? | DIY Cloud Ring - YouTube (2020, July 20). Science Centre Singapore. Retrieved 2021, October 22.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/O5IZFC8BYgo " class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Science o'Clock Junior: Pepper's Lab | Let's Build A Tower! (2:28) </b><br>
+Have you ever wondered how a tall and high skyscraper like the Burj Khalifa in Dubai, can be so stable and strong?  
+<small> Science o'Clock Junior: Pepper's Lab | Let's Build A Tower! - YouTube (2020, September 26). Science Centre Singapore. Retrieved 2021, October 22.</small></p>
+  </div>
+</div>
