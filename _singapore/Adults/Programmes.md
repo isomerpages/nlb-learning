@@ -52,11 +52,19 @@ Click [here](https://www.eventbrite.sg/e/immersive-spaces-with-art-and-technolog
 ## **A Librarian's World**
 Ever wondered what librarians do? Find out what makes our librarians tick as they share highlights of their work from the collections of the National Library. 
 
+Click [here](https://www.eventbrite.com/cc/learnx-singapore-67809) for the latest programme listings.
+
 ## **Archives Unlocked**
 Join archivists from the National Archives of Singapore as they speak on topics that draw from the rich collection at the Archives. 
+
+Click [here](https://www.eventbrite.com/cc/learnx-singapore-67809) for the latest programme listings.
 
 ## **Archives Invite**
 Community histories unfold in this series that traces Singapore's social past with help from the archives.
 
+Click [here](https://www.eventbrite.com/cc/learnx-singapore-67809) for the latest programme listings.
+
 ## **Histories**
 For 2022, we are placing the focus on Transforming Places in Singapore, and examine how they have impacted communities and lives.
+
+Click [here](https://www.eventbrite.com/cc/learnx-singapore-67809) for the latest programme listings.
