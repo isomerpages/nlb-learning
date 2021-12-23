@@ -50,7 +50,7 @@ Click [here](https://www.youtube.com/watch?v=B_00DBTUT2E&list=PLJlLW0qKYHTOqPxC7
 
 One Story is a multi-year project that makes local short stories - originally written in Tamil, Malay, Chinese, or English - available in other languages. The project aims to create a common literary conversation for everyone, regardless of language.
 
-Click [here](https://readingnation.nlb.gov.sg/initiatives/one-story/){:target="_blank"} for the latest programme listings.
+Click [here](https://readingnation.nlb.gov.sg/initiatives/one-story-events/){:target="_blank"} for the latest programme listings.
 
 ## **Head2Head** 
 
