@@ -105,4 +105,45 @@ Hot air balloons have been around for ages and are known as a form of transporta
 Have you ever wondered how a tall and high skyscraper like the Burj Khalifa in Dubai, can be so stable and strong?  
 <small> Science o'Clock Junior: Pepper's Lab | Let's Build A Tower! - YouTube (2020, September 26). Science Centre Singapore. Retrieved 2021, October 22.</small></p>
   </div>
+<h5 id="all-about-food-science"  class="margin--bottom--lg"><b>Playlist: All about Food Science!</b></h5>
+Satisfy your food cravings and learn about science behind it with this tasty taster playlist!
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/74RnO_wHX7k " class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> How to Make Popping Boba: The Science of Spherification (8:31) </b><br>
+Have you heard about molecular gastronomy? Learn how to make popping boba balls from juice and other liquids!  
+<small>How to Make Popping Boba: The Science of Spherification (2021, September 4). Science Buddies.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/0ODKxiptt7c " class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> </b><br>
+Have you ever used baking soda while baking? Learn more about the science behind this ingredient and pick up a new delicious brownie recipe!  
+<small>Science o'Clock | Tinkering with Brownies! (2020, August 20). Science Centre Singapore.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/H_rlit9yV4A " class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> </b><br>
+Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah, as she debunks common myths about this everyday appliance and shares a simple cheesy potato recipe you can try at home!
+<small>Mythbusting Microwaves | December School Holidays Special (2021, December 18). Public Libraries Singapore. </small></p>
+  </div>
+</div>
 </div>
