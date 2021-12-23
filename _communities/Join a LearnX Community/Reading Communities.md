@@ -206,7 +206,7 @@ For Parents, conducted quarterly in English. The location is to be confirmed.</p
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
-    <img alt="Qing History Society 清史读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-12.jpg">
+    <img alt="Qing History Society 清史读书会" src="/images/learning-communities/reading/LC-Reading-QingHistoryReadingClub-01.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Qing History Reading Club 清史读书会</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> We hope to gather more friends who are interested in the history of China or the Qing dynasty. Whether you are young, in your prime or in your old age, we welcome you to join us and come together to promote Chinese culture and nurture the love for the Chinese language.<br><br>
