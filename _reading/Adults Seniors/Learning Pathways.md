@@ -10,6 +10,7 @@ Finding time for regular reading is becoming a challenge. Cultivate the reading 
 
 <h3><b>Read Well</b></h3>
 When kickstarting a habit, start small. Rekindle your reading with recommended short reads, or start reading from our own shores with Singapore literature. Besides what to read, understand how our reading brain works, especially in the age of the internet.
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
