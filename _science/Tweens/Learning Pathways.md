@@ -69,15 +69,15 @@ Follow Public Libraries Singapore’s Facebook page to be notified when the vide
         <td> </td>
       </tr>
 <tr>
-<td><b> TinkerWorks | Science </b></a></td>
-        <td>A series of tinkering sessions to learn and explore topics on S.T.E.A.M. (Science, Technology, Engineering, Art, and Mathematics) through a variety of hands-on and experiential learning activities.
+<td><b> TinkerWorks | Science </b></td>
+        <td>A series of tinkering sessions to learn and explore topics on S.T.E.A.M. (Science, Technology, Engineering, Art, and Mathematics) through a variety of hands-on and experiential learning activities.<br><br>
 Stay tuned for more updates. </td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
 <td><a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama" target="_blank"><b>Tweenkerama | Science</b></a></td>
-        <td> A series of workshops sessions to learn and explore topics on S.T.E.A.M. (Science, Technology, Engineering, Art, and Mathematics) through a variety of hands-on and experiential learning activities. <br>
+        <td> A series of workshops sessions to learn and explore topics on S.T.E.A.M. (Science, Technology, Engineering, Art, and Mathematics) through a variety of hands-on and experiential learning activities. <br><br>
 Stay tuned for more updates.</td>
         <td></td>
         <td> </td>
