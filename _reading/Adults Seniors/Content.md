@@ -407,3 +407,93 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
+
+<h3 class="margin--bottom--lg" id="lp-storytelling"><b>Learning Package: Storytelling</b></h3>
+			
+Humans are biologically wired for stories. Research has shown that the exchange of stories ignites understanding between sharer and listener, and is one of the means which develops empathy between us. There is however, an art to storytelling! Explore this learning package to find out more.
+<br>
+			
+<h4>Videos</h4>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/vyZMSZG2Dmk" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>How stories shape our minds | The science of storytelling | BBC Ideas</b><br>
+This video shows the power of stories, and how our brains are wired for it.<br><br>
+<small>Source: BBC Ideas (2019, July 23). <em>How stories shape our minds | The science of storytelling | BBC Ideas</em>. Retrieved 2021, December 23.</small></p>.
+  </div>
+</div>
+			<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/D_J5SENQK6A" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>The Art of Storytelling: The Mechanics of a Great Story</b><br>
+    “The essence of a great story is its ability not only to make you care, but also to make you forget. Check out this engaging video for succinct tips and examples on crafting such stories.<br><br>
+<small>Source: The Quintessential Mind (2020, Oct 1). <em>The Art of Storytelling: The Mechanics of a Great Story</em>. Retrieved 2021, December 23.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/FDhlOovaGrI" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>This is your brain on communication | Uri Hasson</b><br>
+Neuroscientist, Uri Hasson, shows how our brain synchronizes when we listen to the same stories. <br><br>
+<small>TED (2016, June 4). <em>This is your brain on communication | Uri Hasson</em>. Retrieved 2021, December 9.</small></p>
+  </div>
+</div>
+			
+<h4>Websites</h4>
+<ol>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html" target="_blank">Chinese Street Storytellers</a></h5>
+<p>This article with archival pictures shows a slice of Singapore’s street storytelling tradition.</p>
+
+<h5><a href="https://www.thecuriousreader.in/features/the-lost-art-of-storytelling/" target="_blank"> The Lost Art of Storytelling</a></h5>
+<p>Another interesting article which gives us a snippet of the oral storytelling tradition in India.</p>
+
+<h5><a href="https://blog.britishmuseum.org/a-history-of-storytelling-through-pictures/" target="_blank">A history of storytelling through pictures</a></h5>
+<p>An article by the British Museum, this article complete with pictures shows how history was told through artefacts around the world.<p>
+<br>
+	
+<h4>eBooks</h4>
+<h5>Into The Woods: How Stories Work and Why We Tell Them</h5>
+John Yorke (2013), Penguin Books Ltd.
+<p>
+<a href="https://nlb.overdrive.com/media/1255434" target="_blank"><img src="/images/reading/adults-seniors/Roald Dahl_Someone Like You.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
+<p>John Yorke, the creator of BBC’s Writers’ Academy, writes about the foundational structures of all stories.</p>
+<p><a href="https://nlb.overdrive.com/media/1255434" target="_blank">Borrow the eBook here</a>. </p>
+<body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
+
+<h5>Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling</h5>
+Matthew Dicks (2018), New World.
+<p>
+<a href="https://nlb.overdrive.com/media/3990836" target="_blank"><img src="/images/reading/adults-seniors/Roald Dahl_Someone Like You.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
+<p>A five-time The Moth GrandSlam winner, the author shares techniques on enthralling your audience with stories.</p>
+<p><a href="https://nlb.overdrive.com/media/3990836" target="_blank">Borrow the eBook here</a>. </p>
+<body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
+
+<h5>The Enchanted Hour:The Miraculous Power of Reading Aloud in the Age of Distraction</h5>
+Meghan Cox Gurdon (2019), Harper.
+<p>
+<a href="https://nlb.overdrive.com/media/3949068" target="_blank"><img src="/images/reading/adults-seniors/Roald Dahl_Someone Like You.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
+<p>Based on neuroscience and behavioural research, the author writes on the cognitive power of reading aloud, and listening to stories not only for children, but also adults.</p>
+<p><a href="https://nlb.overdrive.com/media/3949068" target="_blank">Borrow the eBook here</a>. </p>
+<body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
+ 
+[Back to top](#main-content)
+{: .has-text-right .margin—top--xl}
+
+
+
+
+			
+			
