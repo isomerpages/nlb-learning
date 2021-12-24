@@ -77,8 +77,8 @@ Spark your child’s curiosity in science literacy through these engaging and ed
   </div>
   <div class="col is-three-fifths">
     <p><b> Make a Parachute at home | School Holiday Specials with Librarians (9:31)</b><br>
-Do your children like creating their own inventions just like Leonardo Da Vinci? Join our librarian Faye, as she shows us Leonardo's many amazing inventions and teaches us how to make one of them!  
-<small> Primary School Children (Part 2) | School Holiday Specials with Librarians (2020, July 20). Public Libraries Singapore.</small></p>
+Do your children like creating their own inventions just like Leonardo Da Vinci? Join our librarian Faye, as she shows us Leonardo's many amazing inventions and teaches us how to make one of them! <br>
+<small> Source: Primary School Children (Part 2) | School Holiday Specials with Librarians (2020, July 20). Public Libraries Singapore.</small></p>
   </div>
 </div>
 <div class="row is-multiline margin--bottom--lg">
@@ -90,8 +90,8 @@ Do your children like creating their own inventions just like Leonardo Da Vinci?
   <div class="col is-three-fifths">
     <p><b> Science WHAAAAT? | DIY Hot Air Balloon (2:49) </b><br>
 Do you know how hot air balloons work? 
-Hot air balloons have been around for ages and are known as a form of transportation then and now. 
-<small> Science WHAAAAT? | DIY Cloud Ring - YouTube (2020, July 20). Science Centre Singapore. Retrieved 2021, October 22.</small></p>
+Hot air balloons have been around for ages and are known as a form of transportation then and now.  <br>
+<small> Source: Science WHAAAAT? | DIY Cloud Ring - YouTube (2020, July 20). Science Centre Singapore. Retrieved 2021, October 22.</small></p>
   </div>
 </div>
 
@@ -103,8 +103,8 @@ Hot air balloons have been around for ages and are known as a form of transporta
   </div>
   <div class="col is-three-fifths">
     <p><b> Science o'Clock Junior: Pepper's Lab | Let's Build A Tower! (2:28) </b><br>
-Have you ever wondered how a tall and high skyscraper like the Burj Khalifa in Dubai, can be so stable and strong?  
-<small> Science o'Clock Junior: Pepper's Lab | Let's Build A Tower! - YouTube (2020, September 26). Science Centre Singapore. Retrieved 2021, October 22.</small></p>
+Have you ever wondered how a tall and high skyscraper like the Burj Khalifa in Dubai, can be so stable and strong? <br>
+<small>  Source: Science o'Clock Junior: Pepper's Lab | Let's Build A Tower! - YouTube (2020, September 26). Science Centre Singapore. Retrieved 2021, October 22.</small></p>
   </div>
 </div>
 
@@ -119,8 +119,8 @@ Satisfy your food cravings and learn about science behind it with this tasty tas
   </div>
   <div class="col is-three-fifths">
     <p><b> How to Make Popping Boba: The Science of Spherification (8:31) </b><br>
-Have you heard about molecular gastronomy? Learn how to make popping boba balls from juice and other liquids!  
-<small>How to Make Popping Boba: The Science of Spherification (2021, September 4). Science Buddies.</small></p>
+Have you heard about molecular gastronomy? Learn how to make popping boba balls from juice and other liquids!   <br>
+<small>Source: How to Make Popping Boba: The Science of Spherification (2021, September 4). Science Buddies.</small></p>
   </div>
 </div>
 
@@ -132,8 +132,8 @@ Have you heard about molecular gastronomy? Learn how to make popping boba balls 
   </div>
   <div class="col is-three-fifths">
     <p><b> Science o'Clock | Tinkering with Brownies! (3:29) </b><br>
-Have you ever used baking soda while baking? Learn more about the science behind this ingredient and pick up a new delicious brownie recipe!  
-<small>Science o'Clock | Tinkering with Brownies! (2020, August 20). Science Centre Singapore.</small></p>
+Have you ever used baking soda while baking? Learn more about the science behind this ingredient and pick up a new delicious brownie recipe!  <br>
+<small>Source: Science o'Clock | Tinkering with Brownies! (2020, August 20). Science Centre Singapore.</small></p>
   </div>
 </div>
 
@@ -145,8 +145,8 @@ Have you ever used baking soda while baking? Learn more about the science behind
   </div>
   <div class="col is-three-fifths">
     <p><b> Mythbusting Microwaves | December School Holidays Special (9:39) </b><br>
-Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah, as she debunks common myths about this everyday appliance and shares a simple cheesy potato recipe you can try at home!
-<small>Mythbusting Microwaves | December School Holidays Special (2021, December 18). Public Libraries Singapore. </small></p>
+Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah, as she debunks common myths about this everyday appliance and shares a simple cheesy potato recipe you can try at home! <br>
+<small>Source: Mythbusting Microwaves | December School Holidays Special (2021, December 18). Public Libraries Singapore. </small></p>
   </div>
 </div>
 <h3><b>Learning Package</b></h3>
