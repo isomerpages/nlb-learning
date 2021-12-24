@@ -72,8 +72,8 @@ Check out this playlist for fun applications of science concepts outside of the 
   <div class="col is-three-fifths">
     <p><b> The Science of a DIY Mask (2:55)</b><br>
 When the COVID-19 outbreak began, A*STAR tasked their researchers and engineers to channel their focus towards coming up with innovations that would contribute to Singapore’s fight against COVID-19.
-Watch this video tutorial to make your own reusable mask.
-<small> The Science of a DIY Mask - YouTube (2020, April 9). A*STAR. </small></p>
+Watch this video tutorial to make your own reusable mask. <br>
+<small> Source: The Science of a DIY Mask - YouTube (2020, April 9). A*STAR. </small></p>
   </div>
 </div>
 <div class="row is-multiline margin--bottom--lg">
