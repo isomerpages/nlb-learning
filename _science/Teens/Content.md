@@ -106,7 +106,7 @@ Have you ever wondered how a tall and high skyscraper like the Burj Khalifa in D
 <h3><b>Learning Package</b></h3>
 Articles that will give you an insight into various concepts.
 
-![Fermentation Station](/images/science-lfa-updates/Tweenkerama-Science.png)
+![Fermentation Station](/images/science-lfa-updates/tt21-header-ferm.png)
 <h5 class="margin--bottom--lg" id="fermentation-station" ><b> Teen.Things: Fermentation Station: Food All Around Us </b></h5>
 <p> Mould, yeast, and bacteria. These are three ingredients which create a delicious meal. 
 Whether it’s that fragrant egg and onion thosai (savoury thin pancake) you had for supper, or a mouth-watering bowl of suan cai yu (pickled fish stew) from your favourite stall, many things we consume daily are made with the help of microorganisms. </p>
