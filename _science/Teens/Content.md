@@ -72,34 +72,33 @@ Check out this playlist for fun applications of science concepts outside of the 
   <div class="col is-three-fifths">
     <p><b> The Science of a DIY Mask (2:55)</b><br>
 When the COVID-19 outbreak began, A*STAR tasked their researchers and engineers to channel their focus towards coming up with innovations that would contribute to Singapore’s fight against COVID-19.
-Watch this video tutorial to make your own reusable mask.<br>
-<small> Source: The Science of a DIY Mask - YouTube (2020, April 9). A*STAR. </small></p>
+Watch this video tutorial to make your own reusable mask.
+<small> The Science of a DIY Mask - YouTube (2020, April 9). A*STAR. </small></p>
   </div>
 </div>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/NyZD-c4J4NU " class="responsive-iframe"></iframe>
+     <iframe src=" https://www.youtube.com/embed/T5yHHZMn8ko" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Science WHAAAAT? | DIY Hot Air Balloon (2:49) </b><br>
-Do you know how hot air balloons work? 
-Hot air balloons have been around for ages and are known as a form of transportation then and now. <br>
-<small> Source: Science WHAAAAT? | DIY Cloud Ring - YouTube (2020, July 20). Science Centre Singapore. Retrieved 2021, October 22.</small></p>
+    <p><b> The Fossil Record In Your Mouth (9:00) </b><br>
+The hardened residue scraped off your teeth at the dentist is called your dental calculus, and your dental calculus is the only part of your body that actually fossilizes while you’re alive! And scientists have figured out how to study & trace the evolutionary history of these microbes over tens of millions of years. <br>
+<small> Source: The Fossil Record In Your Mouth - YouTube (2021, December 10). PBS Eons. Retrieved 2021, December 23.</small></p>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/O5IZFC8BYgo " class="responsive-iframe"></iframe>
+     <iframe src=" https://www.youtube.com/embed/g9Szzb2YBXY " class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Science o'Clock Junior: Pepper's Lab | Let's Build A Tower! (2:28) </b><br>
-Have you ever wondered how a tall and high skyscraper like the Burj Khalifa in Dubai, can be so stable and strong?  <br>
-<small> Source: Science o'Clock Junior: Pepper's Lab | Let's Build A Tower! - YouTube (2020, September 26). Science Centre Singapore. Retrieved 2021, October 22.</small></p>
+    <p><b> Nature's fortress: How cacti keep water in and predators out - Lucas C. Majure (4:19) </b><br>
+Discover the adaptations that allow cacti to not only survive, but thrive, in some of the harshest desert climates on Earth. <br>
+<small> Source: Nature's fortress: How cacti keep water in and predators out - Lucas C. Majure - YouTube (2021, November 19). TED-Ed. Retrieved 2021, December 24.</small></p>
   </div>
 </div>
 
@@ -110,6 +109,7 @@ Articles that will give you an insight into various concepts.
 <h5 class="margin--bottom--lg" id="fermentation-station" ><b> Teen.Things: Fermentation Station: Food All Around Us </b></h5>
 <p> Mould, yeast, and bacteria. These are three ingredients which create a delicious meal. 
 Whether it’s that fragrant egg and onion thosai (savoury thin pancake) you had for supper, or a mouth-watering bowl of suan cai yu (pickled fish stew) from your favourite stall, many things we consume daily are made with the help of microorganisms. </p>
-<h4 id="fermentation-station"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things" target="_blank"><b>Learn More</b></a></h4>
+<h4 id="fermentation-station"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things" target="_blank"><b>Learn More</a></h4>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top
+
