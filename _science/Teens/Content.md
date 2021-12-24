@@ -109,7 +109,6 @@ Articles that will give you an insight into various concepts.
 <h5 class="margin--bottom--lg" id="fermentation-station" ><b> Teen.Things: Fermentation Station: Food All Around Us </b></h5>
 <p> Mould, yeast, and bacteria. These are three ingredients which create a delicious meal. 
 Whether it’s that fragrant egg and onion thosai (savoury thin pancake) you had for supper, or a mouth-watering bowl of suan cai yu (pickled fish stew) from your favourite stall, many things we consume daily are made with the help of microorganisms. </p>
-<h4 id="fermentation-station"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things" target="_blank"><b>Learn More</a></h4>
+<h4 id="fermentation-station"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things" target="_blank"><b>Learn More
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top
-
