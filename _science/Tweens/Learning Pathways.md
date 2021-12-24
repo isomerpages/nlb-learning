@@ -42,10 +42,8 @@ Explore the wonders of Science!
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href=" https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/CarInAction_Preview_FA.pdf "><b>Learning Package: Cars in Action</b></a></td>
+        <td><a href=" https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/CarInAction_Preview_FA.pdf "target="_blank"><b>Learning Package: Cars in Action</b></a></td>
         <td><b>Cars in Action</b><br> Try your hand at this Tinker Sheet on cars, complete with related activities and recommended reads!</td>
-        <td></td>
-        <td> </td>
    </tr>
  </tbody>
 </table>
