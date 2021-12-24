@@ -95,7 +95,6 @@ The story conveys a heart-warming interaction between a little girl and her gran
   </table>
 </div>
 
-<br>
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
