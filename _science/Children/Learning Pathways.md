@@ -43,7 +43,7 @@ Spark your child’s curiosity in science literacy through engaging programmes!
       </tr>
       <tr>
         <td><a href="/science/children/content"><b>Learning Package: Stay Curious With Your Child</b></a></td>
-        <td><b>Baking Chemistry!</b> Go beyond classroom chemistry and try a hands-on baking experiment with your child. </td>
+        <td><b>Baking Chemistry!</b><br> Go beyond classroom chemistry and try a hands-on baking experiment with your child. </td>
         <td></td>
         <td> </td>
       </tr>
@@ -62,14 +62,14 @@ Spark your child’s curiosity in science literacy through engaging programmes!
       <tr>
         <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama 
 " target="_blank"><b> S.T.E.A.M. Lab Mini </b></a></td>
-        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.
+        <td style="width: 50%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. <br><br>
 Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
 </td>
-        <td style="width: 40%;"> Jan’22 – Feb’22</td>
+        <td style="width: 30%;"> Jan’22 – Feb’22</td>
       </tr>
 <tr>
 <td><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/primary/shs-videos " target="_blank"><b> School Holiday Special </b></a></td>
-        <td> <b>Microwave Magic </b>
+        <td> <b>Microwave Magic </b><br>
 Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah, as she debunks common myths about this everyday appliance and shares a simple cheesy potato recipe you can try at home!</td>
       </tr>
 <tr>
@@ -79,17 +79,17 @@ Stay tuned for more updates.</td>
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.sg/e/code-with-your-child-libraryharbourfront-registration-208429537357?aff=ebdsoporgprofile " target="_blank"><b> Code With Your Child!</b></a></td>
-        <td> Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. Through hands-on coding gameplays, kids can learn coding concepts without a screen or keyboard and develop problem solving skills, critical thinking, creativity and collaboration. </td>
-        <td>15 Jan 2022, <br>2:30pm – 4pm<br>
+        <td> Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. <br><br>Through hands-on coding gameplays, kids can learn coding concepts without a screen or keyboard and develop problem solving skills, critical thinking, creativity and collaboration. </td>
+        <td>15 Jan 2022, <br>2:30pm – 4pm<br><br>
 29 Jan 2022, <br>2:30pm – 4pm </td>
-        <td>Bishan Public Library<br>Toa Payoh Public Library</td>
+        <td>Bishan Public Library<br><br><br>Toa Payoh Public Library</td>
       </tr>
 <tr>
 <td><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/primary/primary-main#storytime " target="_blank"><b> Storytime: My Favourite Days </b></a></td>
-        <td>My Favourite Days – an Augmented Reality (AR) storybook is a collaborative project by TOUCH Community Services, Facebook, MeshMinds and the Smart Nation and Digital Government Office.
+        <td>My Favourite Days – an Augmented Reality (AR) storybook is a collaborative project by TOUCH Community Services, Facebook, MeshMinds and the Smart Nation and Digital Government Office. <br><br>
 The story conveys a heart-warming interaction between a little girl and her grandpa through a journey of self-discovery. Young readers will get to stretch their imagination on the future career possibilities offered by technology and be inspired by a future where technology improves lives and opens up fresh opportunities in our work that we would not have imagined!</td>
         <td>25 Dec 2021 </td>
-        <td>[Public Libraries Facebook](https://www.facebook.com/publiclibrarysg) <br> [Public Libraries Youtube] (https://www.youtube.com/c/NLBsg)</td>
+        <td>Public Libraries Singapore Facebook and Youtube</td>
       </tr>
 </tbody>
   </table>
