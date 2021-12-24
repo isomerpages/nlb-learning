@@ -65,7 +65,7 @@ Spark your child’s curiosity in science literacy through engaging programmes!
         <td style="width: 50%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. <br><br>
 Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
 </td>
-        <td style="width: 30%;"> Jan’22 – Feb’22</td>
+        <td style="width: 20%;"> Jan’22 – Feb’22</td>
       </tr>
 <tr>
 <td><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/primary/shs-videos " target="_blank"><b> School Holiday Special </b></a></td>
@@ -73,7 +73,7 @@ Follow Public Libraries Singapore’s Facebook page to be notified when the vide
 Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah, as she debunks common myths about this everyday appliance and shares a simple cheesy potato recipe you can try at home!</td>
       </tr>
 <tr>
-<td><b> TinkerWorks | Science </b></a></td>
+<td><b> TinkerWorks | Science </b></td>
         <td>A series of tinkering sessions to learn and explore topics on S.T.E.A.M. (Science, Technology, Engineering, Art, and Mathematics) through a variety of hands-on and experiential learning activities.
 Stay tuned for more updates.</td>
       </tr>
