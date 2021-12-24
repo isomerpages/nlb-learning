@@ -72,8 +72,8 @@ Check out this playlist for fun applications of science concepts outside of the 
   <div class="col is-three-fifths">
     <p><b> The Science of a DIY Mask (2:55)</b><br>
 When the COVID-19 outbreak began, A*STAR tasked their researchers and engineers to channel their focus towards coming up with innovations that would contribute to Singapore’s fight against COVID-19.
-Watch this video tutorial to make your own reusable mask.
-<small> The Science of a DIY Mask - YouTube (2020, April 9). A*STAR. </small></p>
+Watch this video tutorial to make your own reusable mask.<br>
+<small> Source: The Science of a DIY Mask - YouTube (2020, April 9). A*STAR. </small></p>
   </div>
 </div>
 <div class="row is-multiline margin--bottom--lg">
@@ -85,8 +85,8 @@ Watch this video tutorial to make your own reusable mask.
   <div class="col is-three-fifths">
     <p><b> Science WHAAAAT? | DIY Hot Air Balloon (2:49) </b><br>
 Do you know how hot air balloons work? 
-Hot air balloons have been around for ages and are known as a form of transportation then and now. 
-<small> Science WHAAAAT? | DIY Cloud Ring - YouTube (2020, July 20). Science Centre Singapore. Retrieved 2021, October 22.</small></p>
+Hot air balloons have been around for ages and are known as a form of transportation then and now. <br>
+<small> Source: Science WHAAAAT? | DIY Cloud Ring - YouTube (2020, July 20). Science Centre Singapore. Retrieved 2021, October 22.</small></p>
   </div>
 </div>
 
@@ -98,8 +98,8 @@ Hot air balloons have been around for ages and are known as a form of transporta
   </div>
   <div class="col is-three-fifths">
     <p><b> Science o'Clock Junior: Pepper's Lab | Let's Build A Tower! (2:28) </b><br>
-Have you ever wondered how a tall and high skyscraper like the Burj Khalifa in Dubai, can be so stable and strong?  
-<small> Science o'Clock Junior: Pepper's Lab | Let's Build A Tower! - YouTube (2020, September 26). Science Centre Singapore. Retrieved 2021, October 22.</small></p>
+Have you ever wondered how a tall and high skyscraper like the Burj Khalifa in Dubai, can be so stable and strong?  <br>
+<small> Source: Science o'Clock Junior: Pepper's Lab | Let's Build A Tower! - YouTube (2020, September 26). Science Centre Singapore. Retrieved 2021, October 22.</small></p>
   </div>
 </div>
 
