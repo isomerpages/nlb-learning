@@ -119,3 +119,82 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
 </div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b>Storytelling and Writing</b></h3>
+Stories have been an intuitive form of communication for humans since ancient times. While the way we tell stories have evolved, the fundamental elements of what makes a great story remain. Discover the art of telling and crafting stories here.
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th class="is-uppercase has-weight-normal" colspan="4">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a target="“_blank”" href=“/reading/adults-seniors/content"><b>Learning Package: Storytelling</b></a></td>
+        <td style="width: 40%;">Humans are biologically wired for stories. Research has shown that the exchange of stories ignites understanding between sharer and listener, and is one of the means which develops empathy between us. There is however, an art to storytelling! Explore this learning package to find out more.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+<tr>
+        <td><a href=“/reading/adults-seniors/content”><b>Playlist: Writing Stories</b></a></td>
+        <td>For budding writers, check out this learning package for tips on writing.</td>
+        <td></td>
+        <td> </td>
+      </tr>
+ </tbody>
+  </table>
+</div>
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th class="is-uppercase has-weight-normal" colspan="4">Learn With Writers and Experts</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.com/e/226751779677"><b>[NAC- NLB Writers’ Lab] The Story Behind the Story by Gabby TYE</b></a></td>
+        <td style="width: 40%;">One of Singapore’s youngest National Bestselling Authors, Gabby Tye answer any questions you, as a reader, might have regarding writing, editing and publishing a novel. .</td>
+        <td style="width: 20%;"> 2 Jan 2022,<br>10.30am – 11.30am</td>
+        <td style="width: 20%;">Zoom</td>
+      </tr>
+					<tr>
+<td><a target="_blank" href="https://www.eventbrite.com/e/226752832827"><b>[NAC- NLB Writers’ Lab] The Readers’ Response By Gabby TYE</b></a></td>
+        <td><b>Gabby TYE will be giving participants a sneak peek into her most recent project with Writer’s Lab. This will be an open feedback session where participants will be able to voice out their suggestions on the manuscript and what additions they would like to see in the final product.<br><br>
+        </td><td>9 Jan 2022, <br>10.20am - 12pm</td>
+        <td>Zoom</td>
+      </tr>
+<tr>
+<td><a target="_blank" href="https://www.eventbrite.com/e/210936365347"><b>Storytelling Today | Animated & Interactive Storytelling</b></a></td>
+        <td><b>In this session, Neil Humphreys and Kamini Ramachandran will share on using story prompts to find your unique voice, develop ideas, and breathe life into story characters.<br><br>
+        </td><td>7 Feb 2022,<br>7pm - 8pm</td>
+        <td>Zoom</td>
+      </tr>
+<tr>
+<td><a target="_blank" href="https://www.eventbrite.com/e/207683526017"><b>Storytelling Today | Translating Culture through Storytelling</b></a></td>
+        <td><b><em>Join Annaliza Bakri and Dr. Nazry Bahrawi as they share storytelling techniques across language and cultures.<br><br>
+        </em></td><td>14 Feb 2022, <br>7pm - 8pm</td>
+        <td>Zoom</td>
+      </tr>
+<tr>
+<td><a target="_blank" href="https://www.eventbrite.com/e/203656049727"><b>Storytelling Today | Stories on Disabilities</b></a></td>
+				<td><b>Join Eva Wong Nava and Dr Sa’eda Buang to hear about developing communication, empathy and empowering individuals with special needs to share their stories.<br><br>
+        </td><td>21 Feb 2022, <br>7pm - 8pm</td>
+        <td>Zoom</td>
+      </tr>
+<tr>
+<td><a target="_blank" href="https://www.eventbrite.com/e/210935954117"><b>Storytelling Today | The Masterstroke of Horror Storytelling</b></a></td>
+        <td><b><em>Learn about horror tropes and nuances of fear that Suffian Hakim & Tunku Halim deploy in their creations.<br><br>
+        </em></td><td>28 Feb 2022, <br>7pm - 8pm</td>
+        <td>Zoom</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
