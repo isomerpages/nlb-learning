@@ -272,12 +272,9 @@ Literature facilitates critical thinking, and human communication. Check out thi
   <p><b>How to Read Literature like a Professor</b><br>
 		This video explains how memory, symbols and pattern distinguish a professional reader from the rest. <br><br>
 <small>Source:Profound Understanding (2019, June 21). <em>How to Read Literature like a Professor</em>. Retrieved 2021, December 9.</small></p>
-	</div>
+	</div>	
 	
-<br>
-	
-[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 class="margin--bottom--lg" id="lp-sing-lit"><b>Learning Package: Singapore Literature</b></h3>
 <p>In this package, Singapore Literature, or Sing Lit, refers to books written by Singaporean or Singapore-based writers, in the four national languages namely English, Chinese, Malay and Tamil. Genres include fiction, poetry, creative non-fiction and plays.
