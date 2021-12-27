@@ -407,8 +407,7 @@ Retrieved 2021, December 20 from <a href="https://www.constellations.sg/2020/06/
 {: .has-text-right .margin--top--xl}
 
 <h3 class="margin--bottom--lg" id="lp-storytelling"><b>Learning Package: Storytelling</b></h3>
-			
-Humans are biologically wired for stories. Research has shown that the exchange of stories ignites understanding between sharer and listener, and is one of the means which develops empathy between us. There is however, an art to storytelling! Explore this learning package to find out more.
+<p>Humans are biologically wired for stories. Research has shown that the exchange of stories ignites understanding between sharer and listener, and is one of the means which develops empathy between us. There is however, an art to storytelling! Explore this learning package to find out more.</p>
 <br>
 			
 <h4>Videos</h4>
@@ -424,7 +423,7 @@ This video shows the power of stories, and how our brains are wired for it.<br><
 <small>Source: BBC Ideas (2019, July 23). <em>How stories shape our minds | The science of storytelling | BBC Ideas</em>. Retrieved 2021, December 23.</small></p>.
   </div>
 </div>
-			<div class="row is-multiline margin--bottom--lg">
+<div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
      <iframe src=" https://www.youtube.com/embed/D_J5SENQK6A" class="responsive-iframe"></iframe>
@@ -459,21 +458,19 @@ Neuroscientist, Uri Hasson, shows how our brain synchronizes when we listen to t
 <p>Another interesting article which gives us a snippet of the oral storytelling tradition in India.</p>
 
 <h5><a href="https://blog.britishmuseum.org/a-history-of-storytelling-through-pictures/" target="_blank">A history of storytelling through pictures</a></h5>
-<p>An article by the British Museum, this article complete with pictures shows how history was told through artefacts around the world.<p>
-<br>
+<p>An article by the British Museum, this article complete with pictures shows how history was told through artefacts around the world.</p>
+</ol><br>
 	
 <h4>eBooks</h4>
 <h5>Into The Woods: How Stories Work and Why We Tell Them</h5>
 John Yorke (2013), Penguin Books Ltd.
-<p>
 <a href="https://nlb.overdrive.com/media/1255434" target="_blank"><img src="/images/reading/adults-seniors/into the woods.png" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p>John Yorke, the creator of BBC’s Writers’ Academy, writes about the foundational structures of all stories.</p>
 <p><a href="https://nlb.overdrive.com/media/1255434" target="_blank">Borrow the eBook here</a>. </p>
-<body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling</h5>
 Matthew Dicks (2018), New World.
-<p>
 <a href="https://nlb.overdrive.com/media/3990836" target="_blank"><img src="/images/reading/adults-seniors/storyworthy.png" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p>A five-time The Moth GrandSlam winner, the author shares techniques on enthralling your audience with stories.</p>
 <p><a href="https://nlb.overdrive.com/media/3990836" target="_blank">Borrow the eBook here</a>. </p>
@@ -481,7 +478,6 @@ Matthew Dicks (2018), New World.
 
 <h5>The Enchanted Hour:The Miraculous Power of Reading Aloud in the Age of Distraction</h5>
 Meghan Cox Gurdon (2019), Harper.
-<p>
 <a href="https://nlb.overdrive.com/media/3949068" target="_blank"><img src="/images/reading/adults-seniors/enchanted.png" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p>Based on neuroscience and behavioural research, the author writes on the cognitive power of reading aloud, and listening to stories not only for children, but also adults.</p>
 <p><a href="https://nlb.overdrive.com/media/3949068" target="_blank">Borrow the eBook here</a>. </p>
