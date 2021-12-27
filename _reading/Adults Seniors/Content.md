@@ -486,7 +486,7 @@ Neuroscientist, Uri Hasson, shows how our brain synchronizes when we listen to t
 [Back to top](#main-content)
 {: .has-text-right .margin—top--xl}
 
-<h3 id="playlist-writing-stories" class="margin--bottom--lg"><b>Playlist: Writing Stories</b></h3>
+<h3 id="lp-writing-stories" class="margin--bottom--lg"><b>Playlist: Writing Stories</b></h3>
 	
 <p>Check out this learning package for tips on writing.
 <br>
