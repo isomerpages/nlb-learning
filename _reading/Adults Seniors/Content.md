@@ -392,7 +392,7 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 			
 <h4>References</h4>
 <ol>
-        <li><span id="footnote-one">Chua, Ivy, Ismail, Rafiq. (2020, June 30). <em>Stories About Us: Literary Culture in Singapore</em> Constellations. 
+        <li><span id="footnote-one">Chua, Ivy, Ismail, Rafiq. (2020, June 30). Stories About Us: Literary Culture in Singapore. Constellations. 
 Retrieved 2021, December 20 from <a href="https://www.constellations.sg/2020/06/30/stories-about-us-literary-culture-in-singapore" target="_blank">https://www.constellations.sg/2020/06/30/stories-about-us-literary-culture-in-singapore.</a></li>
 	
   <li><span id="footnote-two">Tze Yi, Goh. (2021, Dec 13). <em>#BuySingLit movement rebrands to get S'poreans to Read Our World</em> The Straits Times. Retrieved 2021, December 20 from <a href="https://www.straitstimes.com/life/buysinglit-movement-rebrands-to-get-sporeans-to-read-our-world" target="_blank">https://www.straitstimes.com/life/buysinglit-movement-rebrands-to-get-sporeans-to-read-our-world.</a></li>
@@ -401,7 +401,7 @@ Retrieved 2021, December 20 from <a href="https://www.constellations.sg/2020/06/
 	    <p><li><span id="footnote-five">Lovett, Jamie. (2017, November 9) <em>Here Are Your 2017 Eisner Awards Winners.</em> <p>Retrieved 2021, December 20 from <a href="https://comicbook.com/comics/news/eisner-awards-winners-2017/" target="_blank">https://comicbook.com/comics/news/eisner-awards-winners-2017/.</a></li>
 			   <p> <li><span id="footnote-six">Ho, Olivia (2017, May 3) <em>Singaporean graphic novelist Sonny Liew tops nominations for Eisner comic awards.</em> <p>Retrieved 2021, December 20 from <a href="https://www.straitstimes.com/lifestyle/arts/singaporean-graphic-novelist-sonny-liew-tops-nominations-for-eisner-comic-awards" target="_blank">https://www.straitstimes.com/lifestyle/arts/singaporean-graphic-novelist-sonny-liew-tops-nominations-for-eisner-comic-awards.</a>
 					 <p><li><span id="footnote-seven">Heng, Rachel. <em>Suicide Club.</em> <p>Retrieved 2021, December 20 from <a href="https://www.rachelhengqp.com/suicide-club" target="_blank">"https://www.rachelhengqp.com/suicide-club.</a>
-    <p><li><span id="footnote-eight">Tee, Karen (2016, September 2018) <em>Singapore Literature is Having Its Moment in the International Spotlight.</em> <p>Retrieved 2021, December 20 from <a href="https://www.thepeakmagazine.com.sg/lifestyle/singapore-literature-is-having-its-moment-in-the-international-spotlight/" target="_blank">https://www.thepeakmagazine.com.sg/lifestyle/singapore-literature-is-having-its-moment-in-the-international-spotlight/.</a>
+    <p><li><span id="footnote-eight">Tee, Karen (2016, September 2018) <em>Singapore Literature is Having Its Moment in the International Spotlight.</em> <p>Retrieved 2021, December 20 from <a href="https://www.thepeakmagazine.com.sg/lifestyle/singapore-literature-is-having-its-moment-in-the-international-spotlight/" target="_blank">https://www.thepeakmagazine.com.sg/lifestyle/singapore-literature-is-having-its-moment-in-the-international-spotlight/.</a></li>
 </ol>
 
 [Back to top](#main-content)
