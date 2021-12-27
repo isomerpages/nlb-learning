@@ -463,21 +463,21 @@ Neuroscientist, Uri Hasson, shows how our brain synchronizes when we listen to t
 	
 <h4>eBooks</h4>
 <h5>Into The Woods: How Stories Work and Why We Tell Them</h5>
-John Yorke (2013), Penguin Books Ltd.
+<p>John Yorke (2013), Penguin Books Ltd.</p>
 <a href="https://nlb.overdrive.com/media/1255434" target="_blank"><img src="/images/reading/adults-seniors/into the woods.png" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p>John Yorke, the creator of BBC’s Writers’ Academy, writes about the foundational structures of all stories.</p>
 <p><a href="https://nlb.overdrive.com/media/1255434" target="_blank">Borrow the eBook here</a>. </p>
-Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+<body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
 
 <h5>Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling</h5>
-Matthew Dicks (2018), New World.
+<p>Matthew Dicks (2018), New World.</p>
 <a href="https://nlb.overdrive.com/media/3990836" target="_blank"><img src="/images/reading/adults-seniors/storyworthy.png" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p>A five-time The Moth GrandSlam winner, the author shares techniques on enthralling your audience with stories.</p>
 <p><a href="https://nlb.overdrive.com/media/3990836" target="_blank">Borrow the eBook here</a>. </p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
 
 <h5>The Enchanted Hour:The Miraculous Power of Reading Aloud in the Age of Distraction</h5>
-Meghan Cox Gurdon (2019), Harper.
+<p>Meghan Cox Gurdon (2019), Harper.</p>
 <a href="https://nlb.overdrive.com/media/3949068" target="_blank"><img src="/images/reading/adults-seniors/enchanted.png" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p>Based on neuroscience and behavioural research, the author writes on the cognitive power of reading aloud, and listening to stories not only for children, but also adults.</p>
 <p><a href="https://nlb.overdrive.com/media/3949068" target="_blank">Borrow the eBook here</a>. </p>
