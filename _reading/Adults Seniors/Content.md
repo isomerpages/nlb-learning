@@ -279,12 +279,12 @@ Literature facilitates critical thinking, and human communication. Check out thi
 {: .has-text-right .margin--top--xl}
 
 <h3 class="margin--bottom--lg" id="lp-sing-lit"><b>Learning Package: Singapore Literature</b></h3>
-<p>In this package, Singapore Literature, or Sing Lit, refers to books written by Singaporean or Singapore-based writers, in the four national languages namely English, Chinese, Malay and Tamil. Genres include fiction, poetry, creative non-fiction and plays.
+<p>In this package, Singapore Literature, or Sing Lit, refers to books written by Singaporean or Singapore-based writers, in the four national languages namely English, Chinese, Malay and Tamil. Genres include fiction, poetry, creative non-fiction and plays.</p>
 
-<p>The body of Sing Lit covers an extensive breadth – culture, race, work, food, family, place, identities – stemming from experiences and reflections of life in Singapore. Sing Lit is one avenue for us to discover, ponder and even question aspects of a Singaporean life. Poet, Ng Yi Sheng described it best when he said, “Literature encourages us to empathise with the complexities of history and its subjectivities rather than coming to easy straightforward conclusions.” <sup><small><a href="#footnote-one">1</a></small></sup>.
+<p>The body of Sing Lit covers an extensive breadth – culture, race, work, food, family, place, identities – stemming from experiences and reflections of life in Singapore. Sing Lit is one avenue for us to discover, ponder and even question aspects of a Singaporean life. Poet, Ng Yi Sheng described it best when he said, “Literature encourages us to empathise with the complexities of history and its subjectivities rather than coming to easy straightforward conclusions.” <sup><small><a href="#footnote-one">1</a></small></sup>.</p>
 	
-<p>The Sing Lit scene in Singapore is lively, experimental and growing; seen through the active ecosystem of writers, publishers, literary organisations, bookstores, literary prizes and movements. Most recently, the Sing Lit scene has seen the rebrand of industry-led movement #BuySinglit to Sing Lit: Read Our World, to spotlight the full ecosystem of Sing Lit including ‘creators, authors and readers’ <sup><small><a href="#footnote-two">2</a></small></sup> throughout the year. As the industry is galvanizing to bring our stories to the forefront, would you heed this call to know our world with Sing Lit?
-<p> In this resource package, glean into Sing Lit must-reads and get a headstart to Sing Lit works.
+<p>The Sing Lit scene in Singapore is lively, experimental and growing; seen through the active ecosystem of writers, publishers, literary organisations, bookstores, literary prizes and movements. Most recently, the Sing Lit scene has seen the rebrand of industry-led movement #BuySinglit to Sing Lit: Read Our World, to spotlight the full ecosystem of Sing Lit including ‘creators, authors and readers’ <sup><small><a href="#footnote-two">2</a></small></sup> throughout the year. As the industry is galvanizing to bring our stories to the forefront, would you heed this call to know our world with Sing Lit?</p>
+<p> In this resource package, glean into Sing Lit must-reads and get a headstart to Sing Lit works.</p>
 	
 <h4>Did you know...</h4>
 					
@@ -294,8 +294,8 @@ Literature facilitates critical thinking, and human communication. Check out thi
 					
 <p><li>Sing Lit is garnering attention overseas. A few works by Singapore-born authors have won prestigious awards, been translated into various languages and picked up by overseas publishers. For example, Sonny Liew’s Charlie Chan Hock Chye not only bagged three Eisner Awards 2017<sup><small><a href="#footnote-five">5</a></small></sup> – deemed the Oscars of the comics world – but was also nominated of a host of other foreign prizes&gt;<sup><small><a href="#footnote-six">6</a></small></sup>. Rachel Heng’s The Suicide Club has been translated to ten languages<sup><small><a href="#footnote-seven">7</a></small></sup>, and several titles have been pick-up by overseas publishers. <sup><small><a href="#footnote-eight">8</a></small></sup>.</li></p>
 
-<p><h4>Must Reads</h4>
-There are numerous Sing Lit works deemed as must-reads across the different genres. This list for English books comprise of a small selection. For more titles beyond this list, check out the links below.</p>
+<h4>Must Reads</h4>
+<p>There are numerous Sing Lit works deemed as must-reads across the different genres. This list for English books comprise of a small selection. For more titles beyond this list, check out the links below.</p>
 <h5>1. A History of Amnesia</h5>
 <p>Alfian Sa’at (2020). <em>A History of Amnesia</em>. Ethos Books.</p>
 <a href="https://nlb.overdrive.com/media/5300523" target="_blank"><img src="/images/reading/adults-seniors/History of Amnesia.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
