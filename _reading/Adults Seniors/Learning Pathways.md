@@ -130,18 +130,17 @@ Stories have been an intuitive form of communication for humans since ancient ti
         <th class="is-uppercase has-weight-normal" colspan="4">Discover Recommended Resources</th>
       </tr>
     </thead>
+		
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="“_blank”" href=“/reading/adults-seniors/content"><b>Learning Package: Storytelling</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/reading/adults-seniors/content"><b>Learning Package: Storytelling</b></a></td>
         <td style="width: 40%;">Humans are biologically wired for stories. Research has shown that the exchange of stories ignites understanding between sharer and listener, and is one of the means which develops empathy between us. There is however, an art to storytelling! Explore this learning package to find out more.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
 <tr>
-        <td><a href=“/reading/adults-seniors/content”><b>Playlist: Writing Stories</b></a></td>
+        <td><a href="/reading/adults-seniors/content"><b>Playlist: Writing Stories</b></a></td>
         <td>For budding writers, check out this learning package for tips on writing.</td>
-        <td></td>
-        <td> </td>
       </tr>
  </tbody>
   </table>
@@ -190,8 +189,8 @@ Stories have been an intuitive form of communication for humans since ancient ti
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/210935954117"><b>Storytelling Today | The Masterstroke of Horror Storytelling</b></a></td>
-        <td><b><em>Learn about horror tropes and nuances of fear that Suffian Hakim & Tunku Halim deploy in their creations.<br><br>
-        </em></td><td>28 Feb 2022, <br>7pm - 8pm</td>
+        <td><b>Learn about horror tropes and nuances of fear that Suffian Hakim & Tunku Halim deploy in their creations.<br><br>
+       </td><td>28 Feb 2022, <br>7pm - 8pm</td>
         <td>Zoom</td>
       </tr>
     </tbody>
