@@ -118,7 +118,7 @@ Our body's immune system keeps us strong by producing antibodies to attack germs
  
 <h3 class="margin--bottom--lg" id="learning-packages"><b>Learning Packages</b></h3>
 	
-Useful tips and activities that can help you develop your child to become a fluent reader.
+Explore our learning packages for useful tips on selecting age-appropriate books and fun experiments that can be done at home. 
 
 <h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b>Developing Early Literacy Skills at Home (0-12 months)</b></a></h4>
 <p> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make! </p>
