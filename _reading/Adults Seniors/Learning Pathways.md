@@ -114,8 +114,8 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
         <td style="width: 20%;”>17 Feb 2022, <br>8pm- 9pm</td>
         <td style=">Zoom</td>
       </tr>
+  </tbody>
+  </table>
+</div>
 
-
-
-
-</tbody></table></div>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
