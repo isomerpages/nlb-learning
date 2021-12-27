@@ -275,7 +275,8 @@ Literature facilitates critical thinking, and human communication. Check out thi
 	</div>
 </div>
 	
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+[Back to top](#main-content)
+{: .has-text-right .margin--top--xl}
 
 <h3 class="margin--bottom--lg" id="lp-sing-lit"><b>Learning Package: Singapore Literature</b></h3>
 <p>In this package, Singapore Literature, or Sing Lit, refers to books written by Singaporean or Singapore-based writers, in the four national languages namely English, Chinese, Malay and Tamil. Genres include fiction, poetry, creative non-fiction and plays.
