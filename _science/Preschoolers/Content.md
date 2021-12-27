@@ -120,13 +120,13 @@ Our body's immune system keeps us strong by producing antibodies to attack germs
 	
 Explore our learning packages for useful tips on selecting age-appropriate books and fun experiments that can be done at home. 
 
-<h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b>Developing Early Literacy Skills at Home (0-12 months)</b></a></h4>
-<p> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make! </p>
+<h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Density (for children aged 4-6 years)</b></a></h4>
+<p> Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together! </p>
  
-<h4 id="lp-toddlers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-1-to-3-years" target="_blank"><b>Developing Early Literacy Skills at Home (1-3 years old)</b></a></h4>
-<p> Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help them build their letter knowledge and vocabulary. </p>
+<h4 id="lp-toddlers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-1-to-3-years" target="_blank"><b>ABC's of Applied Physics for Kids: It's Time to Learn About Time! ( for 4-6 years old)</b></a></h4>
+<p> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!  </p>
 	
-<h4 id="lp-preschoolers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-4-to-6-years" target="_blank"><b>Developing Early Literacy Skills at Home (4-6 years old)</b></a></h4>
-<p>How can you encourage the love of reading in your pre-schooler? Learn some tips and activities you can do to develop your child into a confident reader!</p>
+<h4 id="lp-preschoolers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-4-to-6-years" target="_blank"><b>All About Animals: Let's Learn about Ocean and Marine (for 3-6 years old)</b></a></h4>
+<p>The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. What is the living habitat like for these marine animals? What special features they have developed to enable them to survive in the water? Let's find out! </p>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
