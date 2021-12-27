@@ -408,7 +408,6 @@ Retrieved 2021, December 20 from <a href="https://www.constellations.sg/2020/06/
 
 <h3 class="margin--bottom--lg" id="lp-storytelling"><b>Learning Package: Storytelling</b></h3>
 <p>Humans are biologically wired for stories. Research has shown that the exchange of stories ignites understanding between sharer and listener, and is one of the means which develops empathy between us. There is however, an art to storytelling! Explore this learning package to find out more.</p>
-<br>
 			
 <h4>Videos</h4>
 <div class="row is-multiline margin--bottom--lg">
@@ -459,7 +458,7 @@ Neuroscientist, Uri Hasson, shows how our brain synchronizes when we listen to t
 
 <h5><a href="https://blog.britishmuseum.org/a-history-of-storytelling-through-pictures/" target="_blank">A history of storytelling through pictures</a></h5>
 <p>An article by the British Museum, this article complete with pictures shows how history was told through artefacts around the world.</p>
-</ol><br>
+</ol>
 	
 <h4>eBooks</h4>
 <h5>Into The Woods: How Stories Work and Why We Tell Them</h5>
