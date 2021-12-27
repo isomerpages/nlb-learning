@@ -126,7 +126,7 @@ Explore our learning packages for useful tips on selecting age-appropriate books
 <h4 id="lp-toddlers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-1-to-3-years" target="_blank"><b>ABC's of Applied Physics for Kids: It's Time to Learn About Time! ( for 4-6 years old)</b></a></h4>
 <p> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!  </p>
 	
-<h4 id="lp-preschoolers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-4-to-6-years" target="_blank"><b>All About Animals: Let's Learn about Ocean and Marine (for 3-6 years old)</b></a></h4>
+<h4 id="lp-preschoolers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-4-to-6-years" target="_blank"><b>All About Animals: Let's Learn about Ocean and Marine Animals (for 3-6 years old)</b></a></h4>
 <p>The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. What is the living habitat like for these marine animals? What special features they have developed to enable them to survive in the water? Let's find out! </p>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
