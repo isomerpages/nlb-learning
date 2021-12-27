@@ -40,13 +40,13 @@ third_nav_title: Preschoolers
 </style>
 The best way for preschoolers to learn about STEAM is to show them the concepts through activities, hands-on experiments and engaging videos. 
   
-We have specially curated video resources in our playlist and original learning packages uniquely designed for each topic.  
+We have specially curated video resources in our playlist and learning packages for each topic.  
   
-With us, you can inspire your child to discover the world. 
+Inspire your child to discover the world. 
 
 <h3><b>Playlist and Learning Packages</b></h3>
 
-Our **playlists** contain videos that are handpicked by our librarians to make scientific knowledge fun and accessible to children. 
+Our **playlists** contain videos selected by our librarians to make scientific knowledge fun and accessible to children. 
 
 Check out our thematic **learning packages**, complete with activity ideas and tips, on specific STEAM topics that you can introduce to your child!
 
@@ -72,7 +72,7 @@ Check out our thematic **learning packages**, complete with activity ideas and t
 </b></h3>
 **Microscopic World: Protecting the Body! Science Behind Medical Biotechnology**
 
-In this playlist, discover with your child how our bodies keep us safe from germs with antibodies. However, explain that sometimes, that may not be enough. Keep watching together to learn how scientists over the years invented vaccines and antibiotics to help boost your immune systems to ward off serious illnesses. You may even talk about some of the common vaccines available today and how they strengthen our bodies against viruses! Perhaps, the next vaccination with the doctor may become easier to manage.
+In this playlist, discover with your child how our bodies keep us safe from germs with antibodies. Discover how scientists over the years invented vaccines and antibiotics to help boost your immune systems to ward off serious illnesses.  
 <br><br>
 
 <div class="row is-multiline margin--bottom--lg">
