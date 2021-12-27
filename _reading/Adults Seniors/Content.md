@@ -89,7 +89,7 @@ Check out our **playlists** and **learning packages** for recommended books, col
 	<div class="col is-one-third">
 	 <div class="clickbox is-sky-indigo">
       <a href="#lp-writing-stories">
-				 <span>Learning Package:<br>Writing Stories</span>
+				 <span>Playlist:<br>Writing Stories</span>
       </a>
     </div>
    </div>
@@ -485,3 +485,49 @@ Neuroscientist, Uri Hasson, shows how our brain synchronizes when we listen to t
 	
 [Back to top](#main-content)
 {: .has-text-right .margin—top--xl}
+
+<h3 id="playlist-writing-stories" class="margin--bottom--lg"><b>Playlist: Writing Stories</b></h3>
+	
+<p>Check out this learning package for tips on writing.
+<br>
+	
+</p><div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/YAKcbvioxFk" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>How to Show, Not Tell: The Complete Writing Guide</b><br>
+This video contains tips on for stronger writing through the tool of "showing", and not "telling".<br><br> 
+<small>Source: Diane Callahan (2020, Oct 3). <em>How to Show, Not Tell: The Complete Writing Guide</em>. Retrieved 2021, December 27.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/5LxiYwMrwRg" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>My Top 12 Writing Tips! | Advice That Changed How I Write</b><br>
+Check out this video for practical tips to improve your writing.<br><br>
+		<small>Source: ShaelinWrites (2021, Apr 24). <em>My Top 12 Writing Tips! | Advice That Changed How I Write</em>. Retrieved 2021, December 27.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/sHfrvpgDsaw" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>How To Write A Book In A Weekend: Serve Humanity By Writing A Book | Chandler Bolt | TEDxYoungstown</b><br>
+    Chandler Bolt, founder ans CEO of Self-Publishing School shares a system for writers in crafting their book.<br><br>
+		<small>TEDx Talks (2019, Nov 14). <em>How To Write A Book In A Weekend: Serve Humanity By Writing A Book | Chandler Bolt | TEDxYoungstown</em>. Retrieved 2019, October 25.</small></p>
+  </div>
+ 	</div>
+[Back to top](#main-content)
+{: .has-text-right .margin--top--xl}
