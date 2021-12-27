@@ -358,9 +358,9 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>10. The Gatekeeper</h5>
 <p>Norasid, Nuraliah, (2018). <em>The Gatekeeper</em>. Epigram Books.
-<p>
+</p>
 <a href="https://nlb.overdrive.com/media/4333656 " target="_blank"><img src="/images/reading/adults-seniors/Gatekeeper.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
-</p><p><a target="_blank" href="https://nlb.overdrive.com/media/4333656">Borrow the eBook here</a>. </p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/4333656">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <p>For more recommendations, check out:
