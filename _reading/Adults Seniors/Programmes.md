@@ -35,13 +35,13 @@ Click [here](https://readingnation.nlb.gov.sg/readfest/main){:target="_blank"} t
 
 ![Alt text for image on Isomer site](/images/reading/adults-seniors/natl.png)
 
-Night at The Library  is an annual after-dark event which highlights the library as a lifestyle destination and social learning space, and promotes our collections in unconventional ways. Started in 2018 with horror as a central theme, Night At the Library created awareness of related literary arts content, historical research and films, presented in light-hearted formats.
+Night at The Library is an annual after-dark event which highlights the library as a lifestyle destination and social learning space, and promotes our collections in unconventional ways. Started in 2018 with horror as a central theme, Night At the Library created awareness of related literary arts content, historical research and films, presented in light-hearted formats.
 
 ## **Reading in the Age of Distraction** 
 
 ![Alt text for image on Isomer site](/images/reading/adults-seniors/rad21.png)
 
-Reading in the Age of Distraction (RAD) is a series of conversations featuring acclaimed international thinkers on the science of reading, and reading well in the digital age. The first installation of the event in 2021 featured speakers such as Nicholas Carr, author of The Shallows: What the Internet is Doing to Our Brains, Rolf Dobelli, author of the Art of Thinking Clearly, Alan Rusbridger, former editor-in-chief of The Guardian and Maryanne Wolf, author of Reader Come Home: The Reading Brain in the Digital World.
+Reading in the Age of Distraction (RAD) is a series of conversations featuring acclaimed international thinkers on the science of reading, and reading well in the digital age. The first installation of the event in 2021 featured speakers such as Nicholas Carr, author of <em>The Shallows: What the Internet is Doing to Our Brains</em>, Rolf Dobelli, author of the <em>Art of Thinking Clearly</em>, Alan Rusbridger, former editor-in-chief of The Guardian and Maryanne Wolf, author of <em>Reader Come Home: The Reading Brain in the Digital World</em>.
 
 Click [here](https://www.youtube.com/watch?v=B_00DBTUT2E&list=PLJlLW0qKYHTOqPxC7r4BMBjRK0bUJEZXi){:target="_blank"} to listen to selected RAD 2021's webinars.
 
