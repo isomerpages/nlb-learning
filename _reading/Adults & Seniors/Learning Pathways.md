@@ -81,7 +81,7 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/207873534337"><b>Henry David Thoreau’s Walden | How to Fall in Love with Classics</b></a></td>
-        <td><b><em>Henry David Thoreau’s<em>Walden</em></em></b> is a nineteenth-century journal following an experiment to simplify life and live deliberately in nature. The woods in Concord, Massachusetts, became the setting for a pursuit of self-reliance and a spiritual journey into the meaning of life. Gwee Li Sui will look into Thoreau’s guiding philosophy and the continuing charm this work presents to our technological society.<br><br>
+        <td><b><em>Henry David Thoreau’s<em> Walden</em></em></b> is a nineteenth-century journal following an experiment to simplify life and live deliberately in nature. The woods in Concord, Massachusetts, became the setting for a pursuit of self-reliance and a spiritual journey into the meaning of life. Gwee Li Sui will look into Thoreau’s guiding philosophy and the continuing charm this work presents to our technological society.<br><br>
         </td><td>28 Apr 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
