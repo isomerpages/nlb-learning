@@ -290,7 +290,7 @@ Literature facilitates critical thinking, and human communication. Check out thi
 					
 <p><li>Sing Lit is garnering attention overseas. A few works by Singapore-born authors have won prestigious awards, been translated into various languages and picked up by overseas publishers. For example, Sonny Liew’s Charlie Chan Hock Chye not only bagged three Eisner Awards 2017<sup><small><a href="#footnote-five">5</a></small></sup> – deemed the Oscars of the comics world – but was also nominated for a host of other foreign prizes<sup><small><a href="#footnote-six">6</a></small></sup>. Rachel Heng’s The Suicide Club has been translated to ten languages<sup><small><a href="#footnote-seven">7</a></small></sup>, and several Singapore titles have been picked up by overseas publishers<sup><small><a href="#footnote-eight">8</a></small></sup>.</li></p>
 
-<h4>Must Reads</h4>
+<h4><b>Must Reads</b></h4>
 <p>There are numerous Sing Lit works deemed as must-reads across the different genres. This list for English books comprise a small selection. For more titles beyond this list, check out the links below.</p>
 <h5>1. A History of Amnesia</h5>
 <p>Alfian Sa’at (2020). <em> Ethos Books.</p>
@@ -366,13 +366,14 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <li><a target="_blank" href="https://www.tatlerasia.com/culture/arts/tatler-reading-list-6-singapore-literary-insiders-share-their-top-picks-for-books">World Book Day 2021: 6 Singapore Literary Insiders Share Their Favourite Books</a> by Hashimi, Nurin Hashim Hashimi, Tatler Singapore, Apr 2021. (Retrieved 20 Dec 2021.)</li></p>
 
-<h4>Resources</h4>
+<h4><b>Resources</b></h4>
 
 <p><li><a href="https://www.ricemedia.co/a-case-for-singlit/" target="_blank">A Case for Sing Lit</a></li></p>
-<p>This article from Wild Rice’s Op-ed Competition writes about how reading Sing Lit touches a unique chord that possibly only Singaporeans can relate to.</p>
+<p>This article from Wild Rice’s Op-ed Competition writes about how reading Sing Lit touches a unique chord that possibly only Singaporeans can relate to.<br>
+	Rice Media. (2021, July). <em>A Case for Sing Lit</em>. Rice Media. https://www.ricemedia.co/a-case-for-singlit/</p>
 
 <p><li><a href="https://www.lifestyleasia.com/sg/culture/the-arts/pooja-nansi-singlit/" target="_blank"> The Singapore Spotlight: Pooja Nansi on our blossoming literary scene</a></li></p>
-<p>This interview with Pooja Nansi, festival director of Singapore Writers Festival since 2019, gives a good take on the current Sing Lit scene.</p>
+<p>This interview with Pooja Nansi, festival director of Singapore Writers Festival since 2019, gives a good take on the current Sing Lit scene.<br>Neo, Josiah. (2019, Aug 29). The Singapore Spotlight: Pooja Nansi on our blossoming literary scene. <em>Lifestyle Asia Singapore</em>. https://www.lifestyleasia.com/sg/culture/the-arts/pooja-nansi-singlit/</p>
 
 <p><li><a href="https://www.lifestyleasia.com/sg/culture/the-arts/what-is-sing-lit-singaporean-authors-define/" target="_blank">Must we define Singapore’s literary voice for it to be recognised? Local authors pitch in</a></li></p>
 <p>An interview with several Sing Lit writers to discuss what makes Singapore Literature.</p>
