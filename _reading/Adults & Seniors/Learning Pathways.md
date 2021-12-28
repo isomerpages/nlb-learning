@@ -161,7 +161,7 @@ Stories have been an intuitive form of communication for humans since ancient ti
 					<tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/226752832827"><b>[NAC- NLB Writers’ Lab] The Readers’ Response By Gabby TYE</b></a></td>
         <td>Gabby TYE will be giving participants a sneak peek into her most recent project with Writer’s Lab. This will be an open feedback session where participants will be able to voice out their suggestions on the manuscript and what additions they would like to see in the final product.<br><br>
-        </td><td>9 Jan 2022, <br>10.20am - 12pm</td>
+        </td><td>9 Jan 2022, <br>10.30am - 12pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
