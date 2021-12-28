@@ -4,12 +4,14 @@ permalink: /reading/Adults-Seniors/programmes
 description: ""
 third_nav_title: Adults Seniors
 ---
-Get to know your books, writers and listen to experts on current issues as we dive into topics on reading.
+Get to know your books, writers and listen to experts on current issues as we dive into topics on reading and literature.
 
 ## **How To Fall In Love with Classics**
 ![Alt text for image on Isomer site](/images/reading/adults-seniors/classics.png)
 
-How to Fall in Love with Classics is a lecture series that introduces canonical and beloved works of literature to a wide audience. This series will equip attendees with the relevant literary and historical contexts and inspire reflections on the title’s relevance to our lives today.
+How to Fall in Love with Classics is a lecture series that introduces canonical and beloved works of literature to a wide audience. This series will equip attendees with the relevant literary and historical contexts and inspire reflections on the title’s relevance to our lives today. 
+
+Click [here](https://www.facebook.com/howtofallinlovewithclassics/){:target="_blank"} for past lectures.
 
 Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest programme listings.
 
