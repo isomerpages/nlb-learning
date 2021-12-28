@@ -35,7 +35,7 @@ sections:
       image: /images/home/home-sustainability-kv.png
       alt: LearnX Sustainability
   - infopic:
-      description: For team to insert copy
+      description: What to read, and how to read?
       button: start Learning
       url: /reading/overview
       image: /images/home/home-reading-kv.png
