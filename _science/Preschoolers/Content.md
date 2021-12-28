@@ -4,40 +4,6 @@ permalink: /science/Preschoolers/content
 description: ""
 third_nav_title: Preschoolers
 ---
-<style type="text/css">
-/* Links */
-.content a { color: #322987; }
-.content a:focus,
-.content a:hover { color: #28216c; }
-
-/* Button Outline */
-.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
-.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
-.bp-button.is-primary-outline:focus,
-.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
-
-/* Responsive Iframe */
-.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
-.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
-.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
-.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
-.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
-.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
-	
-/* Click Box */
-.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
-.clickbox span { padding: .5rem; }
-.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
-.clickbox a:focus,
-.clickbox a:hover { text-decoration: none; }
-
-/* Thoughtful Tangerine */ 
-.clickbox.is-thoughtful-tangerine { background-color: #ffc9ad; color: #FE5828; }
-.clickbox.is-thoughtful-tangerine a { color: #FE5828; }
-.clickbox.is-thoughtful-tangerine a:focus,
-.clickbox.is-thoughtful-tangerine a:hover { background-color: #FE5828; color: #ffc9ad; }
-
-</style>
 The best way for preschoolers to learn about STEAM is to show them the concepts through activities, hands-on experiments and engaging videos. 
   
 We have specially curated video resources in our playlist and learning packages for each topic.  
@@ -68,17 +34,16 @@ Check out our thematic **learning packages**, complete with activity ideas and t
   </div>
 
 
-<h3 class="margin--bottom--lg" id="playlists"><b>Playlists
+<h3 id="playlists" class="margin--bottom--lg"><b>Playlists
 </b></h3>
 **Microscopic World: Protecting the Body! Science Behind Medical Biotechnology**
 
 In this playlist, discover with your child how our bodies keep us safe from germs with antibodies. Discover how scientists over the years invented vaccines and antibiotics to help boost your immune systems to ward off serious illnesses.  
 <br><br>
-
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/OVcVSyjJkY4" class="responsive-iframe"></iframe>
+    <div class="image">
+      <a target="_blank" href="https://youtu.be/OVcVSyjJkY4"><img src="/images/science/preschoolers/howvaccineswork.jpeg"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -92,7 +57,7 @@ Learn more about how vaccines were invented back in 1796 and how they teach our 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/WELYkx1ylY8"></iframe>
+      <iframe src="https://www.youtube.com/embed/WELYkx1ylY8" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -104,7 +69,7 @@ Learn more about how vaccines were invented back in 1796 and how they teach our 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/cixCF5_mF-4"></iframe>
+      <iframe src="https://www.youtube.com/embed/cixCF5_mF-4" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -114,17 +79,17 @@ Our body's immune system keeps us strong by producing antibodies to attack germs
 </div>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
  
-<h3 class="margin--bottom--lg" id="learning-packages"><b>Learning Packages</b></h3>
+<h3 id="learning-packages" class="margin--bottom--lg"><b>Learning Packages</b></h3>
 	
 Explore our learning packages for useful tips on selecting age-appropriate books and fun experiments that can be done at home. 
 
-<h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Density (for children aged 4-6 years)</b></a></h4>
+<h4 id="lp-baby"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Density (for children aged 4-6 years)</b></a></h4>
 <p> Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together! </p>
  
-<h4 id="lp-toddlers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-1-to-3-years" target="_blank"><b>ABC's of Applied Physics for Kids: It's Time to Learn About Time! ( for 4-6 years old)</b></a></h4>
+<h4 id="lp-toddlers"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-1-to-3-years"><b>ABC's of Applied Physics for Kids: It's Time to Learn About Time! ( for 4-6 years old)</b></a></h4>
 <p> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!  </p>
 	
-<h4 id="lp-preschoolers"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-4-to-6-years" target="_blank"><b>All About Animals: Let's Learn about Ocean and Marine Animals (for 3-6 years old)</b></a></h4>
+<h4 id="lp-preschoolers"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-4-to-6-years"><b>All About Animals: Let's Learn about Ocean and Marine Animals (for 3-6 years old)</b></a></h4>
 <p>The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. What is the living habitat like for these marine animals? What special features they have developed to enable them to survive in the water? Let's find out! </p>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
