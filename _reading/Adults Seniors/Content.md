@@ -295,7 +295,7 @@ Literature facilitates critical thinking, and human communication. Check out thi
 <h5>1. A History of Amnesia</h5>
 <p>Alfian Sa’at (2020). Ethos Books.</p>
 <a href="https://nlb.overdrive.com/media/5300523" target="_blank"><img src="/images/reading/adults-seniors/History of Amnesia.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/5300523">Borrow the eBook here</a>. </p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/5300523">Borrow the eBook here</a>.</p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>2. Ministry of Moral Panic</h5>
