@@ -52,12 +52,10 @@ In this playlist, discover with your child how our bodies keep us safe from germ
 Learn more about how vaccines were invented back in 1796 and how they teach our body to fight new viruses!</p>
   </div>
 </div>
-
-
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="image">
-      <a target="_blank" href="https://youtu.be/OVcVSyjJkY4"><img src="/images/science/preschoolers/howvaccineswork.jpeg"></a>
+      <a target="_blank" href="https://youtu.be/WELYkx1ylY8"><img src="/images/science/preschoolers/howantibioticswork.jpeg"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
