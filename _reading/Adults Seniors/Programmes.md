@@ -23,8 +23,6 @@ The SG Author Series celebrates local literature by showcasing Singapore authors
 
 Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest programme listings.
 
-
-
 ## **One Story** 
 
 ![Alt text for image on Isomer site](/images/reading/adults-seniors/razi.png)
