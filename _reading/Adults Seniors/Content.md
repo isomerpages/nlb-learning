@@ -73,8 +73,8 @@ Check out our **playlists** and **learning packages** for recommended books, col
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
-      <a href="#lp-sing-lit">
-        <span>Learning Package:<br>Singapore Literature</span>
+      <a href="#sing-lit">
+        <span>Get To Know:<br>Singapore Literature</span>
       </a>
     </div>
   </div>
@@ -262,7 +262,7 @@ Literature facilitates critical thinking, and human communication. Check out thi
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
 
-<h3 class="margin--bottom--lg" id="lp-sing-lit"><b>Learning Package: Singapore Literature</b></h3>
+<h3 class="margin--bottom--lg" id="sing-lit"><b>Get To Know: Singapore Literature</b></h3>
 <p>In this package, Singapore Literature, or Sing Lit, refers to books written by Singaporean or Singapore-based writers, in the four national languages namely English, Chinese, Malay and Tamil. Genres include fiction, poetry, creative non-fiction and plays.</p>
 
 <p>The body of Sing Lit covers an extensive breadth of topics – culture, race, work, food, family, place, identities – stemming from experiences and reflections of life in Singapore. Sing Lit is one avenue for us to discover, ponder and even question aspects of a Singaporean life. Poet, Ng Yi Sheng described it best when he said, “Literature encourages us to empathise with the complexities of history and its subjectivities rather than coming to easy straightforward conclusions.” <sup><small><a href="#footnote-one">1</a></small></sup>.</p>
