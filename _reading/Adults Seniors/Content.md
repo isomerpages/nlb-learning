@@ -370,7 +370,8 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <p><li><a href="https://www.ricemedia.co/a-case-for-singlit/" target="_blank">A Case for Sing Lit</a></li></p>
 <p>This article from Wild Rice’s Op-ed Competition writes about how reading Sing Lit touches a unique chord that possibly only Singaporeans can relate to.<br>
-	Rice Media. (2021, July). <em>A Case for Sing Lit</em>. Rice Media. https://www.ricemedia.co/a-case-for-singlit/</p>
+	
+<small>Rice Media. (2021, July). <em>A Case for Sing Lit</em>. Rice Media. https://www.ricemedia.co/a-case-for-singlit/</small></p>
 
 <p><li><a href="https://www.lifestyleasia.com/sg/culture/the-arts/pooja-nansi-singlit/" target="_blank"> The Singapore Spotlight: Pooja Nansi on our blossoming literary scene</a></li></p>
 <p>This interview with Pooja Nansi, festival director of Singapore Writers Festival since 2019, gives a good take on the current Sing Lit scene.<br>Neo, Josiah. (2019, Aug 29). The Singapore Spotlight: Pooja Nansi on our blossoming literary scene. <em>Lifestyle Asia Singapore</em>. https://www.lifestyleasia.com/sg/culture/the-arts/pooja-nansi-singlit/</p>
