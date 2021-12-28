@@ -78,7 +78,7 @@ In this playlist, discover with your child how our bodies keep us safe from germ
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src=" https://www.youtube.com/embed/OVcVSyjJkY4" class="responsive-iframe"></iframe>
+      <iframe src="https://www.youtube.com/embed/OVcVSyjJkY4" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
