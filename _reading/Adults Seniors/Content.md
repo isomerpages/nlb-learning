@@ -169,23 +169,23 @@ Retrieved from NLB Overdrive (myLibraryID is required to access the eBook).
 <h5>2. Hell-Heaven</h5>
 <p>Jhumpa Lahiri (2015), Knopf Doubleday Publishing Group.</p>
 
-<a target="_blank" href="nlb.overdrive.com/media/2174670"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-seniors/Hell-Heaven.PNG"></a>
-<p>A beautiful story that revolves around a family, after a decision to take in a stranger.<a target="_blank" href="nlb.overdrive.com/media/2174670"> Borrow the eBook here</a>.</p>
+<a target="_blank" href="https://nlb.overdrive.com/media/2174670"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-seniors/Hell-Heaven.PNG"></a>
+<p>A beautiful story that revolves around a family, after a decision to take in a stranger.<a target="_blank" href="https://nlb.overdrive.com/media/2174670"> Borrow the eBook here</a>.</p>
 Retrieved from NLB Overdrive (myLibraryID is required to access the eBook).
 
 <h5>3. Men Without Women</h5>
 <p>Haruki Murakami (2017), Knopf Doubleday Publishing Group.</p>
 
-<a target="_blank" href="nlb.overdrive.com/media/3031101"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-seniors/Men Without Women.PNG"></a>
-<p>A collection of short stories about men who have found themselves without important women in their lives. <a target="_blank" href="nlb.overdrive.com/media/3031101">Borrow the eBook here</a>.</p>
+<a target="_blank" href="https://nlb.overdrive.com/media/3031101"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-seniors/Men Without Women.PNG"></a>
+<p>A collection of short stories about men who have found themselves without important women in their lives. <a target="_blank" href="https://nlb.overdrive.com/media/3031101">Borrow the eBook here</a>.</p>
 Retrieved from NLB Overdrive (myLibraryID is required to access the eBook).
 	
 <h5><b>Audiobooks</b></h5>
 <h5>1. Fortunately, The Milk</h5>
 <p>Neil Gaiman (2013), HarperCollins.</p>
 
-<a target="_blank" href="nlb.overdrive.com/media/1395461"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-seniors/Fortunately The Milk.PNG"></a>
-<p>A quirky story on time travel and breakfast cereal. <a target="_blank" href="nlb.overdrive.com/media/1395461">Borrow the eBook here</a>.</p>
+<a target="_blank" href="https://nlb.overdrive.com/media/1395461"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-seniors/Fortunately The Milk.PNG"></a>
+<p>A quirky story on time travel and breakfast cereal. <a target="_blank" href="https://nlb.overdrive.com/media/1395461">Borrow the eBook here</a>.</p>
 Retrieved from NLB Overdrive (myLibraryID is required to access the eBook).
 
 <h5>2. Home Remedies</h5>
