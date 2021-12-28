@@ -170,7 +170,7 @@ Retrieved from NLB Overdrive (myLibraryID is required to access the eBook).
 <p>Jhumpa Lahiri (2015), Knopf Doubleday Publishing Group.</p>
 
 <a target="_blank" href="nlb.overdrive.com/media/2174670"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-seniors/Hell-Heaven.PNG"></a>
-<p>A beautiful story that revolves around a family, after a decision to take in a stranger.<a target="_blank" href="nlb.overdrive.com/media/2174670">Borrow the eBook here</a>.</p>
+<p>A beautiful story that revolves around a family, after a decision to take in a stranger.<a target="_blank" href="nlb.overdrive.com/media/2174670"> Borrow the eBook here</a>.</p>
 Retrieved from NLB Overdrive (myLibraryID is required to access the eBook).
 
 <h5>3. Men Without Women</h5>
@@ -244,18 +244,6 @@ Retrieved from NLB Overdrive (myLibraryID is required to access the eBook).
 Literature facilitates critical thinking, and human communication. Check out this video to glean into key ideas and prominent thinkers that influenced the discipline of literature.
 <br><br>
 <small>Source: Macat (2016, April 14). <em>An introduction to the discipline of Literature</em>. Retrieved 2021, December 9.</small></p>
-  </div>
-</div>
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/U_pxfifB6Co"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-  <p><b> Literary Devices in Pop Culture</b><br>
-		Tune in to this video to see (and learn) the use of literary devices through pop culture. <br><br>
-<small>Source: bcwalden43 (2019, Sept 12). <em>Literary Devices in Pop Culture</em>. Retrieved 2021, December 9.</small></p>
   </div>
 </div>
 <div class="row is-multiline margin--bottom--lg">
