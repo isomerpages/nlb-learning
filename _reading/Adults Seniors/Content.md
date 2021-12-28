@@ -146,7 +146,7 @@ This video has Max Joseph interview influential writers, avid readers and bookst
 <h3 class="margin--bottom--lg" id="tldr-short-reads"><b>TLDR: Short Reads</b></h3>
 Get back into reading with these short reads. Or pull these out to tide you over that commute or long wait.  From short stories, comics to poetry, we’ve got you covered.
 
-<h5>Websites</h5>
+<h5><b>Websites</b></h5>
 <h5>1. <a target="_blank" href="http://www.qlrs.com/stories.asp">Quarterly Literary Review Singapore: Short Stories</a></h5> 
 <p>Quarterly Literary Review Singapore (QLRS) is a respected online literary journal, with a mission to promote and stimulate good writing in Singapore. Glean into short stories by local writers here, or explore other literary forms such as poetry, essays and criticism. </p>
 <small>Retrieved 2021, 9 December </small>
@@ -159,12 +159,11 @@ Get back into reading with these short reads. Or pull these out to tide you over
 <p>Lucy Knisley is an award-winning comic artist, known for her candid writing and works. Check out this link for comics in small doses. </p>
 <small>Retrieved 2021, 9 December </small>
 
-<h5>eBooks</h5>
+<h5><b>eBooks</b></h5>
 <h5>1. Someone Like You</h5>
-<p>Roald Dahl (2009), <i>Someone Like You</i>, Penguin Books Ltd.</p>
-<p>This is Roald Dahl’s first collection of twisted short stories for adults. </p>
+<p>Roald Dahl (2009), Penguin Books Ltd.</p>
 <a target="_blank" href="https://nlb.overdrive.com/media/301965"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-seniors/Roald Dahl_Someone Like You.PNG"></a>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/301965">Borrow the eBook here</a>.</p>
+<p>This is Roald Dahl’s first collection of twisted short stories for adults. <a target="_blank" href="https://nlb.overdrive.com/media/301965">Borrow the eBook here</a>.</p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>2. Hell-Heaven</h5>
