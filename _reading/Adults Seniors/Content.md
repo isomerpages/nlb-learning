@@ -379,18 +379,20 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 Retrieved 20 December 2021.</small></p>
 
 <p><li><a href="https://www.lifestyleasia.com/sg/culture/the-arts/what-is-sing-lit-singaporean-authors-define/" target="_blank">Must we define Singapore’s literary voice for it to be recognised? Local authors pitch in</a></li></p>
-<p>An interview with several Sing Lit writers to discuss what makes Singapore Literature.</p>
+<p>An interview with several Sing Lit writers to discuss what makes Singapore Literature.</p><br><small>Bowers, Beatrice. (2020, Feb 21). Must we define Singapore’s literary voice for it to be recognised? Local authors pitch in. <em>Lifestyle Asia Singapore</em>. https://www.lifestyleasia.com/sg/culture/the-arts/what-is-sing-lit-singaporean-authors-define/<br>
+Retrieved 20 December 2021.</small></p>
 
 <p><li><a href="https://open.spotify.com/episode/22qMVnHwCMzft8YMDkqsq0" target="_blank">Songbirds: After You</a></li></p>
 <p>A podcast series by The Arts House, Wilson Goh and Amanda Lee reinterprets selected Singapore poems into songs.<br>
-	<small>The Arts House. (2021, March 25 Day). Songbirds. <em>Lit Spins</em>. The Arts House. https://open.spotify.com/episode/22qMVnHwCMzft8YMDkqsq0</small></p>
+	<small>The Arts House. (2021, March 25 Day). Songbirds. <em>Lit Spins</em>. The Arts House. https://open.spotify.com/episode/22qMVnHwCMzft8YMDkqsq0<br>
+Retrieved 20 December 2021.</small></p>
 
 
-<h4>Programmes on Singapore Literature</h4>
+<h4><b>Programmes on Singapore Literature</b></h4>
 <p>Literary programmes featuring Sing Lit are always happening in the library. Browse through <a href="https://www.eventbrite.com/c/literary-arts-programmes-ccbxzpzm--NctcKbrqfPWk/" target="_blank">go.gov.sg/literaryprogs</a> to find the right one for you!
 </p>
 			
-<h4>References</h4>
+<h4><b>References</b></h4>
 <ol>
 	<li><span id="footnote-one">Chua, Ivy, Ismail, Rafiq. </span>(2020, June 30). <em>Stories About Us: Literary Culture in Singapore.</em> Constellations. 
 Retrieved 2021, December 20 from <a href="https://www.constellations.sg/2020/06/30/stories-about-us-literary-culture-in-singapore" target="_blank">https://www.constellations.sg/2020/06/30/stories-about-us-literary-culture-in-singapore.</a></li>
@@ -409,7 +411,7 @@ Retrieved 2021, December 20 from <a href="https://www.constellations.sg/2020/06/
 <h3 class="margin--bottom--lg" id="lp-storytelling"><b>Learning Package: Storytelling</b></h3>
 <p>Humans are biologically wired for stories. Research has shown that the exchange of stories ignites understanding between sharer and listener, and is one of the means which develops empathy between us. There is however, an art to storytelling! Explore this learning package to find out more.</p>
 			
-<h4>Videos</h4>
+<h4><b>Videos</b></h4>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -430,7 +432,7 @@ This video shows the power of stories, and how our brains are wired for it.<br><
   </div>
   <div class="col is-three-fifths">
   <p><b>The Art of Storytelling: The Mechanics of a Great Story</b><br>
-    “The essence of a great story is its ability not only to make you care, but also to make you forget. Check out this engaging video for succinct tips and examples on crafting such stories.<br><br>
+    “The essence of a great story is its ability not only to make you care, but also to make you forget." Check out this engaging video for succinct tips and examples on crafting such stories.<br><br>
 <small>Source: The Quintessential Mind (2020, Oct 1). <em>The Art of Storytelling: The Mechanics of a Great Story</em>. Retrieved 2021, December 23.</small></p>
   </div>
 </div>
@@ -448,19 +450,19 @@ Neuroscientist, Uri Hasson, shows how our brain synchronizes when we listen to t
   </div>
 </div>
 			
-<h4>Websites</h4>
+<h4><b>Websites</b></h4>
 <ol>
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html" target="_blank">Chinese Street Storytellers</a></h5>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html" target="_blank">1. Chinese Street Storytellers</a></h5>
 <p>This article with archival pictures shows a slice of Singapore’s street storytelling tradition.</p>
 
-<h5><a href="https://www.thecuriousreader.in/features/the-lost-art-of-storytelling/" target="_blank"> The Lost Art of Storytelling</a></h5>
+<h5><a href="https://www.thecuriousreader.in/features/the-lost-art-of-storytelling/" target="_blank">2. The Lost Art of Storytelling</a></h5>
 <p>Another interesting article which gives us a snippet of the oral storytelling tradition in India.</p>
 
-<h5><a href="https://blog.britishmuseum.org/a-history-of-storytelling-through-pictures/" target="_blank">A history of storytelling through pictures</a></h5>
-<p>An article by the British Museum, this article complete with pictures shows how history was told through artefacts around the world.</p>
+<h5><a href="https://blog.britishmuseum.org/a-history-of-storytelling-through-pictures/" target="_blank">3. A history of storytelling through pictures</a></h5>
+<p>An article by the British Museum, this article complete with visuals shows how history was told through artefacts around the world.</p>
 </ol>
 	
-<h4>eBooks</h4>
+<h4><b>eBooks</b></h4>
 <h5>Into The Woods: How Stories Work and Why We Tell Them</h5>
 <p>John Yorke (2013), Penguin Books Ltd.</p>
 <a href="https://nlb.overdrive.com/media/1255434" target="_blank"><img src="/images/reading/adults-seniors/into the woods.png" style="width:300px; text-align:left;" alt="you're not listening"></a>
@@ -471,7 +473,7 @@ Neuroscientist, Uri Hasson, shows how our brain synchronizes when we listen to t
 <h5>Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling</h5>
 <p>Matthew Dicks (2018), New World.</p>
 <a href="https://nlb.overdrive.com/media/3990836" target="_blank"><img src="/images/reading/adults-seniors/storyworthy.png" style="width:300px; text-align:left;" alt="you're not listening"></a>
-<p>A five-time The Moth GrandSlam winner, the author shares techniques on enthralling your audience with stories.</p>
+<p>A five-time The Moth Grand Slam winner, the author shares techniques on enthralling your audience with stories.</p>
 <p><a href="https://nlb.overdrive.com/media/3990836" target="_blank">Borrow the eBook here</a>. </p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
 
@@ -488,7 +490,7 @@ Neuroscientist, Uri Hasson, shows how our brain synchronizes when we listen to t
 
 <h3 id="lp-writing-stories" class="margin--bottom--lg"><b>Playlist: Writing Stories</b></h3>
 	
-<p>Check out this learning package for tips on writing.
+<p>Check out this playlist for tips on writing.
 <br>
 	
 </p><div class="row is-multiline margin--bottom--lg">
@@ -499,7 +501,7 @@ Neuroscientist, Uri Hasson, shows how our brain synchronizes when we listen to t
   </div>
   <div class="col is-three-fifths">
     <p><b>How to Show, Not Tell: The Complete Writing Guide</b><br>
-This video contains tips on for stronger writing through the tool of "showing", and not "telling".<br><br> 
+This video contains tips for stronger writing through the tool of "showing", and not "telling".<br><br> 
 <small>Source: Diane Callahan (2020, Oct 3). <em>How to Show, Not Tell: The Complete Writing Guide</em>. Retrieved 2021, December 27.</small></p>
   </div>
 </div>
@@ -525,7 +527,7 @@ Check out this video for practical tips to improve your writing.<br><br>
   </div>
   <div class="col is-three-fifths">
   <p><b>How To Write A Book In A Weekend: Serve Humanity By Writing A Book | Chandler Bolt | TEDxYoungstown</b><br>
-    Chandler Bolt, founder ans CEO of Self-Publishing School shares a system for writers in crafting their book.<br><br>
+    Chandler Bolt, founder and CEO of Self-Publishing School shares a system for writers in crafting their book.<br><br>
 		<small>TEDx Talks (2019, Nov 14). <em>How To Write A Book In A Weekend: Serve Humanity By Writing A Book | Chandler Bolt | TEDxYoungstown</em>. Retrieved 2019, October 25.</small></p>
   </div>
  	</div>
