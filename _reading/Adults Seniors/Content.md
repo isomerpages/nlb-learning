@@ -362,9 +362,9 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <p>For more recommendations, check out:
 
-<li><a target="_blank" href="https://www.straitstimes.com/life/arts/the-50-greatest-works-of-singlit">The 50 Greatest Work of Sing Lit</a> by Olivia Ho, The Straits Times, Dec 2021.</li>
+<li><a target="_blank" href="https://www.straitstimes.com/life/arts/the-50-greatest-works-of-singlit">The 50 Greatest Work of Sing Lit</a> by Olivia Ho, The Straits Times, Dec 2021. (Retrieved 20 Dec 2021.)</li>
 
-<li><a target="_blank" href="https://www.tatlerasia.com/culture/arts/tatler-reading-list-6-singapore-literary-insiders-share-their-top-picks-for-books">World Book Day 2021: 6 Singapore Literary Insiders Share Their Favourite Books</a> by Hashimi, Nurin Hashim Hashimi, Tatler Singapore, Apr 2021.</li></p>
+<li><a target="_blank" href="https://www.tatlerasia.com/culture/arts/tatler-reading-list-6-singapore-literary-insiders-share-their-top-picks-for-books">World Book Day 2021: 6 Singapore Literary Insiders Share Their Favourite Books</a> by Hashimi, Nurin Hashim Hashimi, Tatler Singapore, Apr 2021. (Retrieved 20 Dec 2021.)</li></p>
 
 <h4>Resources</h4>
 
