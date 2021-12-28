@@ -266,7 +266,7 @@ Literature facilitates critical thinking, and human communication. Check out thi
   </div>
   <div class="col is-three-fifths">
   <p><b>Literary Devices: How to Use Literary Elements to Improve Writing</b><br>
-		Learn about the various literary devices. It can also improve your writing! <br><br>
+		Learn about the various literary devices.<br><br>
 <small>Source: Self Publishing School (2019, Oct 1). <em>Literary Devices: How to Use Literary Elements to Improve Writing</em>. Retrieved 2021, December 27.</small></p>
 	</div>
 </div>
