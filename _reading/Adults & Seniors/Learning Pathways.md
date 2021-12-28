@@ -118,7 +118,7 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
     </tbody>
   </table>
 </div>
-<p class="><a href=">Back to top</p><p></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 id="storytelling-and-writing" class="margin--bottom--lg"><b>Storytelling and Writing</b></h3>
 Stories have been an intuitive form of communication for humans since ancient times. While the way we tell stories have evolved, the fundamental elements of what makes a great story remain. Discover the art of telling and crafting stories here.
