@@ -367,7 +367,7 @@ Retrieved from NLB Overdrive (myLibraryID is required to access the eBook).
 Retrieved 20 December 2021.</small></p>
 
 <p><li><a href="https://www.lifestyleasia.com/sg/culture/the-arts/what-is-sing-lit-singaporean-authors-define/" target="_blank">Must we define Singapore’s literary voice for it to be recognised? Local authors pitch in</a></li></p>
-<p>An interview with several Sing Lit writers to discuss what makes Singapore Literature.</p><br><small>Bowers, Beatrice. (2020, Feb 21). Must we define Singapore’s literary voice for it to be recognised? Local authors pitch in. <em>Lifestyle Asia Singapore</em>. https://www.lifestyleasia.com/sg/culture/the-arts/what-is-sing-lit-singaporean-authors-define/<br>
+<p>An interview with several Sing Lit writers to discuss what makes Singapore Literature.</p><small>Bowers, Beatrice. (2020, Feb 21). Must we define Singapore’s literary voice for it to be recognised? Local authors pitch in. <em>Lifestyle Asia Singapore</em>. https://www.lifestyleasia.com/sg/culture/the-arts/what-is-sing-lit-singaporean-authors-define/<br>
 Retrieved 20 December 2021.</small></p>
 
 <p><li><a href="https://open.spotify.com/episode/22qMVnHwCMzft8YMDkqsq0" target="_blank">Songbirds: After You</a></li></p>
