@@ -277,7 +277,7 @@ Literature facilitates critical thinking, and human communication. Check out thi
 <h3 class="margin--bottom--lg" id="lp-sing-lit"><b>Learning Package: Singapore Literature</b></h3>
 <p>In this package, Singapore Literature, or Sing Lit, refers to books written by Singaporean or Singapore-based writers, in the four national languages namely English, Chinese, Malay and Tamil. Genres include fiction, poetry, creative non-fiction and plays.</p>
 
-<p>The body of Sing Lit covers an extensive breadth – culture, race, work, food, family, place, identities – stemming from experiences and reflections of life in Singapore. Sing Lit is one avenue for us to discover, ponder and even question aspects of a Singaporean life. Poet, Ng Yi Sheng described it best when he said, “Literature encourages us to empathise with the complexities of history and its subjectivities rather than coming to easy straightforward conclusions.” <sup><small><a href="#footnote-one">1</a></small></sup>.</p>
+<p>The body of Sing Lit covers an extensive breadth of topics – culture, race, work, food, family, place, identities – stemming from experiences and reflections of life in Singapore. Sing Lit is one avenue for us to discover, ponder and even question aspects of a Singaporean life. Poet, Ng Yi Sheng described it best when he said, “Literature encourages us to empathise with the complexities of history and its subjectivities rather than coming to easy straightforward conclusions.” <sup><small><a href="#footnote-one">1</a></small></sup>.</p>
 	
 <p>The Sing Lit scene in Singapore is lively, experimental and growing; seen through the active ecosystem of writers, publishers, literary organisations, bookstores, literary prizes and movements. Most recently, the Sing Lit scene has seen the rebrand of industry-led movement #BuySinglit to Sing Lit: Read Our World, to spotlight the full ecosystem of Sing Lit including ‘creators, authors and readers’ <sup><small><a href="#footnote-two">2</a></small></sup> throughout the year. As the industry is galvanizing to bring our stories to the forefront, would you heed this call to know our world with Sing Lit?</p>
 <p> In this resource package, glean into Sing Lit must-reads and get a headstart to Sing Lit works.</p>
@@ -288,73 +288,73 @@ Literature facilitates critical thinking, and human communication. Check out thi
 					
 <p><li>Sing Lit has a long history, with generations of writers. The first notable Sing Lit work in English was said to be a work of poetry by Teo Poh Leng, written under the pseudonym of Francis P. Ng<sup><small><a href="#footnote-four">4</a></small></sup> from 1937.</li></p>
 					
-<p><li>Sing Lit is garnering attention overseas. A few works by Singapore-born authors have won prestigious awards, been translated into various languages and picked up by overseas publishers. For example, Sonny Liew’s Charlie Chan Hock Chye not only bagged three Eisner Awards 2017<sup><small><a href="#footnote-five">5</a></small></sup> – deemed the Oscars of the comics world – but was also nominated of a host of other foreign prizes&gt;<sup><small><a href="#footnote-six">6</a></small></sup>. Rachel Heng’s The Suicide Club has been translated to ten languages<sup><small><a href="#footnote-seven">7</a></small></sup>, and several titles have been pick-up by overseas publishers. <sup><small><a href="#footnote-eight">8</a></small></sup>.</li></p>
+<p><li>Sing Lit is garnering attention overseas. A few works by Singapore-born authors have won prestigious awards, been translated into various languages and picked up by overseas publishers. For example, Sonny Liew’s Charlie Chan Hock Chye not only bagged three Eisner Awards 2017<sup><small><a href="#footnote-five">5</a></small></sup> – deemed the Oscars of the comics world – but was also nominated for a host of other foreign prizes<sup><small><a href="#footnote-six">6</a></small></sup>. Rachel Heng’s The Suicide Club has been translated to ten languages<sup><small><a href="#footnote-seven">7</a></small></sup>, and several Singapore titles have been picked up by overseas publishers<sup><small><a href="#footnote-eight">8</a></small></sup>.</li></p>
 
 <h4>Must Reads</h4>
-<p>There are numerous Sing Lit works deemed as must-reads across the different genres. This list for English books comprise of a small selection. For more titles beyond this list, check out the links below.</p>
+<p>There are numerous Sing Lit works deemed as must-reads across the different genres. This list for English books comprise a small selection. For more titles beyond this list, check out the links below.</p>
 <h5>1. A History of Amnesia</h5>
-<p>Alfian Sa’at (2020). <em>A History of Amnesia</em>. Ethos Books.</p>
+<p>Alfian Sa’at (2020). <em> Ethos Books.</p>
 <a href="https://nlb.overdrive.com/media/5300523" target="_blank"><img src="/images/reading/adults-seniors/History of Amnesia.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/5300523">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>2. Ministry of Moral Panic</h5>
-<p>Koe, Amanda Lee (2013). <em>Ministry of Moral Panic</em>. Epigram Books.</p>
+<p>Koe, Amanda Lee (2013). Epigram Books.</p>
 <a href="https://nlb.overdrive.com/media/3300287" target="_blank"><img src="/images/reading/adults-seniors/moral panic.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/3300287">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>3. Sugarbread</h5>
-<p>Jaswal, Balli Kaur (2018). <em>Sugarbread</em>. Epigram Books.
+<p>Jaswal, Balli Kaur (2018). Epigram Books.
 </p>
 <a href="https://nlb.overdrive.com/media/4333654" target="_blank"><img src="/images/reading/adults-seniors/sugarbread.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/4333654">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>4. Let Me Tell You Something About That Night</h5>
-<p>Wong, Cyril (2020). <em>Let Me Tell You Something About That Night</em>. Ethos Books.
+<p>Wong, Cyril (2020). Ethos Books.
 </p>
 <a href="https://nlb.overdrive.com/media/5300547 " target="_blank"><img src="/images/reading/adults-seniors/let me tell.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/5300547 ">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>5. Me Migrant</h5>
-<p>Hossine, Md Mukul (2020). <em>Me Migrant</em>. Ethos Books.
+<p>Hossine, Md Mukul (2020). Ethos Books.
 </p>
 <a href="https://nlb.overdrive.com/media/5300550 " target="_blank"><img src="/images/reading/adults-seniors/Me Migrant.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/5300550 ">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>6. The Goddess in the Living Room</h5>
-<p>Latha (2014). <em>The Goddess in the Living Room</em>. Epigram Books.
+<p>Latha (2014). Epigram Books.
 </p>
 <a href="https://nlb.overdrive.com/media/3300315 " target="_blank"><img src="/images/reading/adults-seniors/Goddess.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/3300315 ">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>7. State of Emergency</h5>
-<p>Tiang, Jeremy (2018). <em>State of Emergency</em>. Epigram Books.
+<p>Tiang, Jeremy (2018). Epigram Books.
 </p>
 <a href="https://nlb.overdrive.com/media/4387245 " target="_blank"><img src="/images/reading/adults-seniors/State of Emergency.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/4387245 ">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>8. Confrontation</h5>
-<p>Mohamed, Latiff Mohamed (2018). <em>Confrontation</em>. Epigram Books.
+<p>Mohamed, Latiff Mohamed (2018). Epigram Books.
 </p>
 <a href="https://nlb.overdrive.com/media/3300251 " target="_blank"><img src="/images/reading/adults-seniors/Confrontation.png" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/3300251">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>9. Nimita’s Place</h5>
-<p>Nanda, Akshita (2019). <em>Nimita’s Place</em>. Epigram Books.
+<p>Nanda, Akshita (2019). Epigram Books.
 </p>
 <a href="https://nlb.overdrive.com/media/4686077 " target="_blank"><img src="/images/reading/adults-seniors/Nimitas Place.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/4686077">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>10. The Gatekeeper</h5>
-<p>Norasid, Nuraliah, (2018). <em>The Gatekeeper</em>. Epigram Books.
+<p>Norasid, Nuraliah, (2018). Epigram Books.
 </p>
 <a href="https://nlb.overdrive.com/media/4333656 " target="_blank"><img src="/images/reading/adults-seniors/Gatekeeper.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/4333656">Borrow the eBook here</a>. </p>
