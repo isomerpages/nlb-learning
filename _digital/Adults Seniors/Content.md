@@ -418,6 +418,13 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 </table>
 	
 <h4>Videos</h4>
+<h5>1. Introducing Digital Wellbeing Experiments</5>
+<p>Explore the different tools and ideas that are designed to improve your relationship with technology and help you stay afloat.</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rt5LY5TeTVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="https://www.youtube.com/watch?v=rt5LY5TeTVQ" target="_blank"> Introducing Digital Wellbeing Experiments - Youtube</a> (2019, Oct 23). <i>Google.</i> Retrieved 2021, December 20
+
 <h5>1. Lessons on Digital Citizenship From Charlie Brown</h5>
 <p>Digital citizenship refers to the safe, ethical usage of technology and the maintenance of a good, responsible online presence. In this talk, learn how you can positively impact your community by being a good digital citizen!</p>
 <div class="bp-youtube">
