@@ -173,7 +173,7 @@ Stories have been an intuitive form of communication for humans since ancient ti
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/207683526017"><b>Storytelling Today | Translating Culture through Storytelling</b></a></td>
         <td>Join Annaliza Bakri and Dr. Nazry Bahrawi as they share storytelling techniques across language and cultures.<br><br>
-        </td>14 Feb 2022, <br>7pm - 8pm</td>
+        </td><td>14 Feb 2022, <br>7pm - 8pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
