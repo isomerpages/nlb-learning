@@ -4,7 +4,6 @@ permalink: /reading/Adults-Seniors/content
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -256,7 +255,19 @@ Literature facilitates critical thinking, and human communication. Check out thi
   <div class="col is-three-fifths">
   <p><b>How to Read Literature like a Professor</b><br>
 		This video explains how memory, symbols and pattern distinguish a professional reader from the rest. <br><br>
-<small>Source:Profound Understanding (2019, June 21). <em>How to Read Literature like a Professor</em>. Retrieved 2021, December 9.</small></p>
+<small>Source: Profound Understanding (2019, June 21). <em>How to Read Literature like a Professor</em>. Retrieved 2021, December 9.</small></p>
+	</div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/JIFG3ojJSug"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Literary Devices: How to Use Literary Elements to Improve Writing</b><br>
+		Learn about the various literary devices. It can also improve your writing! <br><br>
+<small>Source: Self Publishing School (2019, Oct 1). <em>Literary Devices: How to Use Literary Elements to Improve Writing</em>. Retrieved 2021, December 27.</small></p>
 	</div>
 </div>
 	
