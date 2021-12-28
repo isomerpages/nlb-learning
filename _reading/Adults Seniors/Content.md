@@ -446,7 +446,7 @@ Neuroscientist, Uri Hasson, shows how our brain synchronizes when we listen to t
 <h5><a href="https://www.thecuriousreader.in/features/the-lost-art-of-storytelling/" target="_blank">2. The Lost Art of Storytelling</a></h5>
 <p>Another interesting article which gives us a snippet of the oral storytelling tradition in India.</p>
 
-<h5><a href="https://blog.britishmuseum.org/a-history-of-storytelling-through-pictures/" target="_blank">3. A history of storytelling through pictures</a></h5>
+<h5><a href="https://blog.britishmuseum.org/a-history-of-storytelling-through-pictures/" target="_blank">3. A History of Storytelling through Pictures</a></h5>
 <p>An article by the British Museum, this article complete with visuals shows how history was told through artefacts around the world.</p>
 </ol>
 	
