@@ -56,8 +56,8 @@ Learn more about how vaccines were invented back in 1796 and how they teach our 
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/WELYkx1ylY8" class="responsive-iframe"></iframe>
+    <div class="image">
+      <a target="_blank" href="https://youtu.be/OVcVSyjJkY4"><img src="/images/science/preschoolers/howvaccineswork.jpeg"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
