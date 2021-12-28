@@ -9,7 +9,7 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 Finding time for regular reading is becoming a challenge. Cultivate the reading habit and be a cognizant reader in this age. For budding storytellers, explore the art and techniques of <a href="#storytelling-and-writing">Storytelling and Writing</a>.
 
 <h3><b>Read Well</b></h3>
-When kickstarting a habit, start small. Rekindle your reading with recommended short reads, or start reading from our own shores with Singapore literature. Besides what to read, understand how our reading brain works, especially in the age of the internet.
+When kickstarting a habit, start small. Rekindle your reading with recommended short reads, or start reading stories from our own shores with Singapore literature. Besides what to read, understand how our reading brain works, especially in the age of the internet.
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -45,7 +45,7 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
       </tr> 
 <tr>
         <td><a href="“/reading/adults-seniors/content&quot;"><b>Singapore Literature</b></a></td>
-        <td>Glean into Sing Lit must-reads and get a headstart to Sing Lit works.</td>
+        <td>Glean into Singapore literature and selected must-reads.</td>
         <td></td>
         <td> </td>
       </tr>
@@ -64,30 +64,30 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
       <tr>
         <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.com/e/223848355457"><b>Picturebooks to Develop Ethical Thinking</b></a></td>
         <td style="width: 40%;">Join this talk to learn how picturebooks can develop ethical reasoning skills and activate philosophical inquiry.</td>
-        <td style="width: 20%;"> 15 Jan 2022,<br>3pm – 4pm</td>
+        <td style="width: 20%;"> 15 Jan 2022,<br>3pm - 4pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 					<tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/207871207377"><b>Sei Shōnagon’s The Pillow Book | How to Fall in Love with Classics</b></a></td>
-        <td><b>Sei Shōnagon’s&nbsp;<em>The Pillow Book</em></b>&nbsp;is a collection of reflective and creative writings by a tenth-century Japanese courtier. Its secretive short entries were inspired by moments in her daily life and served as private pleasure as she examined her station in life. Gwee Li Sui will talk about Shōnagon’s self-fashioning, her unique place in literature, and the importance of writing.<br><br>
+        <td><b>Sei Shōnagon’s<em>The Pillow Book</em></b> is a collection of reflective and creative writings by a tenth-century Japanese courtier. Its secretive short entries were inspired by moments in her daily life and served as private pleasure as she examined her station in life. Gwee Li Sui will talk about Shōnagon’s self-fashioning, her unique place in literature, and the importance of writing.<br><br>
         </td><td>24 Feb 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/207872511277"><b>Niccolò Machiavelli’s The Prince | How to Fall in Love with Classics</b></a></td>
-        <td><b>Niccolò Machiavelli’s&nbsp;<em>The Prince</em></b>&nbsp;&nbsp;is a manual written to win the favour of sixteenth-century Florence’s ruling House of Medici.&nbsp;It controversially promises to teach the art of effective governance through the cultivation of self as a figure of power. Gwee Li Sui will talk about how this book paved the way to modern political thought and secures its relevance in today’s world.<br><br>
+        <td><b>Niccolò Machiavelli’s<em>The Prince</em></b>is a manual written to win the favour of sixteenth-century Florence’s ruling House of Medici.&nbsp;It controversially promises to teach the art of effective governance through the cultivation of self as a figure of power. Gwee Li Sui will talk about how this book paved the way to modern political thought and secures its relevance in today’s world.<br><br>
         </td><td>24 Mar 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/207873534337"><b>Henry David Thoreau’s Walden | How to Fall in Love with Classics</b></a></td>
-        <td><b><em>Henry David Thoreau’s&nbsp;<em>Walden</em></em></b><em> is a nineteenth-century journal following an experiment to simplify life and live deliberately in nature. The woods in Concord, Massachusetts, became the setting for a pursuit of self-reliance and a spiritual journey into the meaning of life. Gwee Li Sui will look into Thoreau’s guiding philosophy and the continuing charm this work presents to our technological society.<br><br>
+        <td><b><em>Henry David Thoreau’s<em>Walden</em></em></b>is a nineteenth-century journal following an experiment to simplify life and live deliberately in nature. The woods in Concord, Massachusetts, became the setting for a pursuit of self-reliance and a spiritual journey into the meaning of life. Gwee Li Sui will look into Thoreau’s guiding philosophy and the continuing charm this work presents to our technological society.<br><br>
         </em></td><td>28 Apr 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/207874396917"><b>Arthur Yap’s “there is no future in nostalgia” | How to Fall in Love with Classics</b></a></td>
-				<td><b>Arthur Yap’s <em>“there is no future in nostalgia”</em></b>is a short but enigmatic twentieth-century Singaporean poem. In a historical drive towards modernisation, this poem had tersely warned against knee-jerk nostalgia and provoked thoughts on self-orientation. Gwee Li Sui will relate its famous lines to other literary reflections on and reactions to changing history in Singaporean literature.<br><br>
+				<td><b>Arthur Yap’s <em>“there is no future in nostalgia”</em></b> is a short but enigmatic twentieth-century Singaporean poem. In a historical drive towards modernisation, this poem had tersely warned against knee-jerk nostalgia and provoked thoughts on self-orientation. Gwee Li Sui will relate its famous lines to other literary reflections on and reactions to changing history in Singaporean literature.<br><br>
         </td><td>26 May 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
