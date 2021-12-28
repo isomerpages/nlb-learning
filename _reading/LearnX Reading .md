@@ -38,7 +38,7 @@ description: ""
 </style>
 ![LearnX Reading](/images/reading/lfa-reading.png)
 
-“Think before you speak. Read before you think.” - Fran Lebowitz<br><br>Reading remains to be a fundamental activity in pursuit of knowledge and to understand our world. In this age with the sheer amount of content that can be read from numerous sources, being a smart and critical reader is key. Through LearnX Reading, glean into ways of developing young readers, cultivating a reading habit as well as navigating reading in a distracted age.<br><br>
+“Think before you speak. Read before you think.” - Fran Lebowitz<br><br>Reading remains to be a fundamental activity in pursuit of knowledge and understanding our world. In this age with the sheer amount of content that can be read from numerous sources, being a smart and critical reader is key. Through LearnX Reading, glean into ways of developing young readers, cultivating a reading habit as well as navigating reading in a distracted age.<br><br>
 
 <!-- <p>
   <div class="responsive-iframe-container ratio-16by9">
