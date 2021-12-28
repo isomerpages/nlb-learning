@@ -160,32 +160,32 @@ Stories have been an intuitive form of communication for humans since ancient ti
       </tr>
 					<tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/226752832827"><b>[NAC- NLB Writers’ Lab] The Readers’ Response By Gabby TYE</b></a></td>
-        <td><b>Gabby TYE will be giving participants a sneak peek into her most recent project with Writer’s Lab. This will be an open feedback session where participants will be able to voice out their suggestions on the manuscript and what additions they would like to see in the final product.<br><br>
+        <td>Gabby TYE will be giving participants a sneak peek into her most recent project with Writer’s Lab. This will be an open feedback session where participants will be able to voice out their suggestions on the manuscript and what additions they would like to see in the final product.<br><br>
         </td><td>9 Jan 2022, <br>10.20am - 12pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/210936365347"><b>Storytelling Today | Animated & Interactive Storytelling</b></a></td>
-        <td><b>In this session, Neil Humphreys and Kamini Ramachandran will share on using story prompts to find your unique voice, develop ideas, and breathe life into story characters.<br><br>
+        <td>In this session, Neil Humphreys and Kamini Ramachandran will share on using story prompts to find your unique voice, develop ideas, and breathe life into story characters.<br><br>
         </td><td>7 Feb 2022,<br>7pm - 8pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/207683526017"><b>Storytelling Today | Translating Culture through Storytelling</b></a></td>
-        <td><b><em>Join Annaliza Bakri and Dr. Nazry Bahrawi as they share storytelling techniques across language and cultures.<br><br>
-        </em></td><td>14 Feb 2022, <br>7pm - 8pm</td>
+        <td>Join Annaliza Bakri and Dr. Nazry Bahrawi as they share storytelling techniques across language and cultures.<br><br>
+        </td>14 Feb 2022, <br>7pm - 8pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/203656049727"><b>Storytelling Today | Stories on Disabilities</b></a></td>
-				<td><b>Join Eva Wong Nava and Dr Sa’eda Buang to hear about developing communication, empathy and empowering individuals with special needs to share their stories.<br><br>
+				<td>Join Eva Wong Nava and Dr Sa’eda Buang to hear about developing communication, empathy and empowering individuals with special needs to share their stories.<br><br>
         </td><td>21 Feb 2022, <br>7pm - 8pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/210935954117"><b>Storytelling Today | The Masterstroke of Horror Storytelling</b></a></td>
-        <td><b><em>Learn about horror tropes and nuances of fear that Suffian Hakim & Tunku Halim deploy in their creations.<br><br>
-        </em></td><td>28 Feb 2022, <br>7pm - 8pm</td>
+        <td>Learn about horror tropes and nuances of fear that Suffian Hakim & Tunku Halim deploy in their creations.<br><br>
+        </td><td>28 Feb 2022, <br>7pm - 8pm</td>
         <td>Zoom</td>
       </tr>
     </tbody>
