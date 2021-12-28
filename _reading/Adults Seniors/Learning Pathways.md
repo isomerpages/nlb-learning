@@ -75,19 +75,19 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/207872511277"><b>Niccolò Machiavelli’s The Prince | How to Fall in Love with Classics</b></a></td>
-        <td><b>Niccolò Machiavelli’s<em>The Prince</em></b>is a manual written to win the favour of sixteenth-century Florence’s ruling House of Medici.&nbsp;It controversially promises to teach the art of effective governance through the cultivation of self as a figure of power. Gwee Li Sui will talk about how this book paved the way to modern political thought and secures its relevance in today’s world.<br><br>
+        <td><b>Niccolò Machiavelli’s<em>The Prince</em></b> is a manual written to win the favour of sixteenth-century Florence’s ruling House of Medici.&nbsp;It controversially promises to teach the art of effective governance through the cultivation of self as a figure of power. Gwee Li Sui will talk about how this book paved the way to modern political thought and secures its relevance in today’s world.<br><br>
         </td><td>24 Mar 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/207873534337"><b>Henry David Thoreau’s Walden | How to Fall in Love with Classics</b></a></td>
-        <td><b><em>Henry David Thoreau’s<em>Walden</em></em></b>is a nineteenth-century journal following an experiment to simplify life and live deliberately in nature. The woods in Concord, Massachusetts, became the setting for a pursuit of self-reliance and a spiritual journey into the meaning of life. Gwee Li Sui will look into Thoreau’s guiding philosophy and the continuing charm this work presents to our technological society.<br><br>
+        <td><b><em>Henry David Thoreau’s<em>Walden</em></em></b> is a nineteenth-century journal following an experiment to simplify life and live deliberately in nature. The woods in Concord, Massachusetts, became the setting for a pursuit of self-reliance and a spiritual journey into the meaning of life. Gwee Li Sui will look into Thoreau’s guiding philosophy and the continuing charm this work presents to our technological society.<br><br>
         </em></td><td>28 Apr 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/207874396917"><b>Arthur Yap’s “there is no future in nostalgia” | How to Fall in Love with Classics</b></a></td>
-				<td><b>Arthur Yap’s <em>“there is no future in nostalgia”</em></b> is a short but enigmatic twentieth-century Singaporean poem. In a historical drive towards modernisation, this poem had tersely warned against knee-jerk nostalgia and provoked thoughts on self-orientation. Gwee Li Sui will relate its famous lines to other literary reflections on and reactions to changing history in Singaporean literature.<br><br>
+	<td><b>Arthur Yap’s “<em>there is no future in nostalgia</em>”</b> is a short but enigmatic twentieth-century Singaporean poem. In a historical drive towards modernisation, this poem had tersely warned against knee-jerk nostalgia and provoked thoughts on self-orientation. Gwee Li Sui will relate its famous lines to other literary reflections on and reactions to changing history in Singaporean literature.<br><br>
         </td><td>26 May 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
