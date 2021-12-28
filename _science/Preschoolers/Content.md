@@ -31,7 +31,11 @@ third_nav_title: Preschoolers
 .clickbox a:focus,
 .clickbox a:hover { text-decoration: none; }
 	
-
+/* Thoughtful Tangerine */ 
+.clickbox.is-thoughtful-tangerine { background-color: #ffc9ad; color: #FE5828; }
+.clickbox.is-thoughtful-tangerine a { color: #FE5828; }
+.clickbox.is-thoughtful-tangerine a:focus,
+.clickbox.is-thoughtful-tangerine a:hover { background-color: #FE5828; color: #ffc9ad; }
 </style>
 
 The best way for preschoolers to learn about STEAM is to show them the concepts through activities, hands-on experiments and engaging videos. 
