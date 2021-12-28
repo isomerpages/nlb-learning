@@ -299,27 +299,27 @@ Literature facilitates critical thinking, and human communication. Check out thi
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>2. Ministry of Moral Panic</h5>
-<p>Koe, Amanda Lee (2013). Epigram Books.</p>
+<p>Amanda Lee Koe (2013). Epigram Books.</p>
 <a href="https://nlb.overdrive.com/media/3300287" target="_blank"><img src="/images/reading/adults-seniors/moral panic.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/3300287">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>3. Sugarbread</h5>
-<p>Jaswal, Balli Kaur (2018). Epigram Books.
+<p>Balli Kaur Jaswal (2018). Epigram Books.
 </p>
 <a href="https://nlb.overdrive.com/media/4333654" target="_blank"><img src="/images/reading/adults-seniors/sugarbread.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/4333654">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>4. Let Me Tell You Something About That Night</h5>
-<p>Wong, Cyril (2020). Ethos Books.
+<p>Cyril Wong (2020). Ethos Books.
 </p>
 <a href="https://nlb.overdrive.com/media/5300547 " target="_blank"><img src="/images/reading/adults-seniors/let me tell.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/5300547 ">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>5. Me Migrant</h5>
-<p>Hossine, Md Mukul (2020). Ethos Books.
+<p>Md Mukul Hossine (2020). Ethos Books.
 </p>
 <a href="https://nlb.overdrive.com/media/5300550 " target="_blank"><img src="/images/reading/adults-seniors/Me Migrant.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/5300550 ">Borrow the eBook here</a>. </p>
@@ -333,28 +333,28 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>7. State of Emergency</h5>
-<p>Tiang, Jeremy (2018). Epigram Books.
+<p>Jeremy Tiang (2018). Epigram Books.
 </p>
 <a href="https://nlb.overdrive.com/media/4387245 " target="_blank"><img src="/images/reading/adults-seniors/State of Emergency.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/4387245 ">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>8. Confrontation</h5>
-<p>Mohamed, Latiff Mohamed (2018). Epigram Books.
+<p>Mohamed Latiff Mohamed (2018). Epigram Books.
 </p>
 <a href="https://nlb.overdrive.com/media/3300251 " target="_blank"><img src="/images/reading/adults-seniors/Confrontation.png" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/3300251">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>9. Nimita’s Place</h5>
-<p>Nanda, Akshita (2019). Epigram Books.
+<p>Akshita Nanda (2019). Epigram Books.
 </p>
 <a href="https://nlb.overdrive.com/media/4686077 " target="_blank"><img src="/images/reading/adults-seniors/Nimitas Place.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/4686077">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>10. The Gatekeeper</h5>
-<p>Norasid, Nuraliah, (2018). Epigram Books.
+<p>Nuraliah Norasid (2018). Epigram Books.
 </p>
 <a href="https://nlb.overdrive.com/media/4333656 " target="_blank"><img src="/images/reading/adults-seniors/Gatekeeper.PNG" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/4333656">Borrow the eBook here</a>. </p>
