@@ -4,7 +4,6 @@ permalink: /reading/Adults-Seniors/learning-pathways
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 Finding time for regular reading is becoming a challenge. Cultivate the reading habit and be a cognizant reader in this age. For budding storytellers, explore the art and techniques of <a href="#storytelling-and-writing">Storytelling and Writing</a>.
@@ -21,13 +20,13 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="“_blank”" href="/reading/adults-seniors/content"><b>TLDR: Short Reads</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/reading/adults-seniors/content"><b>TLDR: Short Reads</b></a></td>
         <td style="width: 40%;">Get back into reading with these short reads. Or pull these out to tide you over that commute or long wait. From short stories, comics to poetry, we’ve got you covered.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="“/reading/adults-seniors/content&quot;"><b>Stories for Adults</b></a></td>
+        <td><a href="/reading/adults-seniors/content"><b>Stories for Adults</b></a></td>
         <td>Relive the pleasure of being told stories, even as adults. Tune in to these podcasts to discover a myriad of life experiences from over the world, and our own shores. Stories range from the poignant, humorous, bizarre to downright frightening. </td>
         <td></td>
         <td> </td>
@@ -39,13 +38,13 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
         <td> </td>
       </tr>
    <tr>
-        <td><a href="“/reading/adults-seniors/content&quot;"><b>Introduction to Literature</b></a></td>
+        <td><a href="/reading/adults-seniors/content"><b>Introduction to Literature</b></a></td>
         <td>Literature examines human communication and facilitates critical thinking. Check out this playlist to start your journey in discovering literature. </td>
         <td></td>
         <td> </td>
       </tr> 
 <tr>
-        <td><a href="“/reading/adults-seniors/content&quot;"><b>Singapore Literature</b></a></td>
+        <td><a href="/reading/adults-seniors/content"><b>Singapore Literature</b></a></td>
         <td>Glean into Singapore literature and selected must-reads.</td>
         <td></td>
         <td> </td>
