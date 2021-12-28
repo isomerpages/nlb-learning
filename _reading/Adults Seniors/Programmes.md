@@ -23,27 +23,6 @@ The SG Author Series celebrates local literature by showcasing Singapore authors
 
 Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest programme listings.
 
-## **Read Fest!** 
-
-![Alt text for image on Isomer site](/images/reading/adults-seniors/rf21.png)
-
-Read! Fest is NLB’s signature event to encourage Singaporeans to be acquainted or re-acquainted with reading in English and the Mother Tongue languages. Part of the National Reading Movement, Read! Fest features Singapore and international writing of different genres, promoted through a programme line-up celebrating reading with author talks, panel sessions, workshops and reading trails.
-
-Click [here](https://readingnation.nlb.gov.sg/readfest/main){:target="_blank"} to check out what happened at Read! Fest 2021.  
-
-## **Night At the Library** 
-
-![Alt text for image on Isomer site](/images/reading/adults-seniors/natl.png)
-
-Night at The Library is an annual after-dark event which highlights the library as a lifestyle destination and social learning space, and promotes our collections in unconventional ways. Started in 2018 with horror as a central theme, Night At the Library created awareness of related literary arts content, historical research and films, presented in light-hearted formats.
-
-## **Reading in the Age of Distraction** 
-
-![Alt text for image on Isomer site](/images/reading/adults-seniors/rad21.png)
-
-Reading in the Age of Distraction (RAD) is a series of conversations featuring acclaimed international thinkers on the science of reading, and reading well in the digital age. The first installation of the event in 2021 featured speakers such as Nicholas Carr, author of <em>The Shallows: What the Internet is Doing to Our Brains</em>, Rolf Dobelli, author of the <em>Art of Thinking Clearly</em>, Alan Rusbridger, former editor-in-chief of The Guardian and Maryanne Wolf, author of <em>Reader Come Home: The Reading Brain in the Digital World</em>.
-
-Click [here](https://www.youtube.com/watch?v=B_00DBTUT2E&list=PLJlLW0qKYHTOqPxC7r4BMBjRK0bUJEZXi){:target="_blank"} to listen to selected RAD 2021's webinars.
 
 
 ## **One Story** 
@@ -65,4 +44,22 @@ Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest p
 Think Lit is a literary arts series that addresses contemporary topics in reading, literacy and literature for adults. It aims to promote critical thinking and encourages discussion on trending issues facing the literary world. The series will be conducted by educators, teachers, academics, or industry experts.
 
 Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest programme listings.
+
+## **Reading in the Age of Distraction** 
+
+![Alt text for image on Isomer site](/images/reading/adults-seniors/rad21.png)
+
+Reading in the Age of Distraction (RAD) is a series of conversations featuring acclaimed international thinkers on the science of reading, and reading well in the digital age. The first installation of the event in 2021 featured speakers such as Nicholas Carr, author of <em>The Shallows: What the Internet is Doing to Our Brains</em>, Rolf Dobelli, author of the <em>Art of Thinking Clearly</em>, Alan Rusbridger, former editor-in-chief of The Guardian and Maryanne Wolf, author of <em>Reader Come Home: The Reading Brain in the Digital World</em>.
+
+Click [here](https://www.youtube.com/playlist?list=PLJlLW0qKYHTOqPxC7r4BMBjRK0bUJEZXi){:target="_blank"} to listen to selected RAD 2021's webinars.
+
+## **Read Fest!** 
+
+![Alt text for image on Isomer site](/images/reading/adults-seniors/rf21.png)
+
+Read! Fest is NLB’s signature event to encourage Singaporeans to be acquainted or re-acquainted with reading in English and the Mother Tongue languages. Part of the National Reading Movement, Read! Fest features Singapore and international writing of different genres, promoted through a programme line-up celebrating reading with author talks, panel sessions, workshops and reading trails.
+
+Click [here](https://readingnation.nlb.gov.sg/readfest/main){:target="_blank"} to check out what happened at Read! Fest 2021.  
+
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
