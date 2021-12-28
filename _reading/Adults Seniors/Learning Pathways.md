@@ -139,7 +139,7 @@ Stories have been an intuitive form of communication for humans since ancient ti
       </tr>
       <tr>
         <td><a href="/reading/adults-seniors/content"><b>Writing Stories</b></a></td>
-        <td>For budding writers, check out this learning package for tips on writing.</td>
+        <td>For budding writers, check out this playlist for tips on writing.</td>
 				        <td></td>
         <td> </td>
       </tr>
