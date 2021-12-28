@@ -40,7 +40,7 @@ description: ""
 
 Science exists in everything around us and helps us understand the world better. The pursuit of scientific knowledge also encourages curiosity, growth, and a persevering attitude that can translate to other aspects of life. There's no such thing as an experiment that succeeds the first time round!
 
-Studying Science does not have to stop at school. Through our carefully thought-out resources and packages, join us in uncovering the beauty of Science in our everyday lives. Explore the world through newfound lens and pick up some great books along the way.
+Studying Science does not have to stop at school. Through our carefully thought-out resources and packages, join us in uncovering the beauty of Science in our everyday lives. Re-discover your world through newfound lens while having fun along the way. 
 
 <!-- <p>
   <div class="responsive-iframe-container ratio-16by9">
