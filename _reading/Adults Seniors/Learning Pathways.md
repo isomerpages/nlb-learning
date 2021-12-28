@@ -143,9 +143,6 @@ Stories have been an intuitive form of communication for humans since ancient ti
 				        <td></td>
         <td> </td>
       </tr>
- </tbody>
-  </table>
-</div>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
