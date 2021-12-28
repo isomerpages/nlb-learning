@@ -371,17 +371,19 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 <p><li><a href="https://www.ricemedia.co/a-case-for-singlit/" target="_blank">A Case for Sing Lit</a></li></p>
 <p>This article from Wild Rice’s Op-ed Competition writes about how reading Sing Lit touches a unique chord that possibly only Singaporeans can relate to.<br>
 	
-<small>Rice Media. (2021, July). <em>A Case for Sing Lit</em>. Rice Media. https://www.ricemedia.co/a-case-for-singlit/</small></p>
+<small>Rice Media. (2021, July). <em>A Case for Sing Lit</em>. Rice Media. https://www.ricemedia.co/a-case-for-singlit/<br>
+	Retrieved 20 December 2021.</small></p>
 
 <p><li><a href="https://www.lifestyleasia.com/sg/culture/the-arts/pooja-nansi-singlit/" target="_blank"> The Singapore Spotlight: Pooja Nansi on our blossoming literary scene</a></li></p>
-<p>This interview with Pooja Nansi, festival director of Singapore Writers Festival since 2019, gives a good take on the current Sing Lit scene.<br>Neo, Josiah. (2019, Aug 29). The Singapore Spotlight: Pooja Nansi on our blossoming literary scene. <em>Lifestyle Asia Singapore</em>. https://www.lifestyleasia.com/sg/culture/the-arts/pooja-nansi-singlit/</p>
+<p>This interview with Pooja Nansi, festival director of Singapore Writers Festival since 2019, gives a good take on the current Sing Lit scene.<br><small>Neo, Josiah. (2019, Aug 29). The Singapore Spotlight: Pooja Nansi on our blossoming literary scene. <em>Lifestyle Asia Singapore</em>. https://www.lifestyleasia.com/sg/culture/the-arts/pooja-nansi-singlit/<br>
+Retrieved 20 December 2021.</small></p>
 
 <p><li><a href="https://www.lifestyleasia.com/sg/culture/the-arts/what-is-sing-lit-singaporean-authors-define/" target="_blank">Must we define Singapore’s literary voice for it to be recognised? Local authors pitch in</a></li></p>
 <p>An interview with several Sing Lit writers to discuss what makes Singapore Literature.</p>
 
-
 <p><li><a href="https://open.spotify.com/episode/22qMVnHwCMzft8YMDkqsq0" target="_blank">Songbirds: After You</a></li></p>
-<p>A podcast series by The Arts House, Wilson Goh and Amanda Lee reinterprets selected Singapore poems into songs.</p>
+<p>A podcast series by The Arts House, Wilson Goh and Amanda Lee reinterprets selected Singapore poems into songs.<br>
+	<small>The Arts House. (2021, March 25 Day). Songbirds. <em>Lit Spins</em>. The Arts House. https://open.spotify.com/episode/22qMVnHwCMzft8YMDkqsq0</small></p>
 
 
 <h4>Programmes on Singapore Literature</h4>
