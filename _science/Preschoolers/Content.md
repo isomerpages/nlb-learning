@@ -85,7 +85,6 @@ In this playlist, discover with your child how our bodies keep us safe from germ
     <p><b> How Vaccines Work? | VACCINATION | Importance Of Vaccine | The Dr Binocs Show | Peekaboo Kidz (6 mins 51 secs) </b><br>
     
 Learn more about how vaccines were invented back in 1796 and how they teach our body to fight new viruses!</p>
-
   </div>
 </div>
 
@@ -99,7 +98,7 @@ Learn more about how vaccines were invented back in 1796 and how they teach our 
     <p><b> How Antibiotics Work? | ANTIBIOTICS | Importance Of Antibiotics | The Dr Binocs Show | Peekaboo Kidz (8 mins 3 secs)</b><br>
 		Bacteria are everywhere, even in your body! Learn more about how antibiotics attack harmful bacteria and stop them from growing in our bodies.
 </p>
- 
+
   </div>
 </div>
 
