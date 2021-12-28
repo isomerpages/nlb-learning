@@ -167,44 +167,41 @@ Get back into reading with these short reads. Or pull these out to tide you over
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>2. Hell-Heaven</h5>
-<p>Jhumpa Lahiri (2015), <i>Hell-Heaven</i>, Knopf Doubleday Publishing Group.</p>
-<p>A beautiful story that revolves around family, after taking in a stranger.</p>
+<p>Jhumpa Lahiri (2015), Knopf Doubleday Publishing Group.</p>
 
 <a target="_blank" href="nlb.overdrive.com/media/2174670"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-seniors/Hell-Heaven.PNG"></a>
-<p><a target="_blank" href="nlb.overdrive.com/media/2174670">Borrow the eBook here</a>.</p>
+<p>A beautiful story that revolves around a family, after a decision to take in a stranger.<a target="_blank" href="nlb.overdrive.com/media/2174670">Borrow the eBook here</a>.</p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>3. Men Without Women</h5>
-<p>Haruki Murakami (2017), <i>Men Without Women</i>, Knopf Doubleday Publishing Group.</p>
-<p>A collection of short stories about men who have found themselves without important women in their lives.</p>
+<p>Haruki Murakami (2017), Knopf Doubleday Publishing Group.</p>
 
 <a target="_blank" href="nlb.overdrive.com/media/3031101"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-seniors/Men Without Women.PNG"></a>
-<p><a target="_blank" href="nlb.overdrive.com/media/3031101">Borrow the eBook here</a>.</p>
+<p>A collection of short stories about men who have found themselves without important women in their lives. <a target="_blank" href="nlb.overdrive.com/media/3031101">Borrow the eBook here</a>.</p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 	
-<h5>Audiobooks</h5>
+<h5><b>Audiobooks</b></h5>
 <h5>1. Fortunately, The Milk</h5>
-<p>Neil Gaiman (2013), <i>Fortunately, The Milk</i>, HarperCollins.</p>
-<p>A quirky story on time travel and breakfast cereal.</p>
+<p>Neil Gaiman (2013), HarperCollins.</p>
 
 <a target="_blank" href="nlb.overdrive.com/media/1395461"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-seniors/Fortunately The Milk.PNG"></a>
-<p><a target="_blank" href="nlb.overdrive.com/media/1395461">Borrow the eBook here</a>.</p>
+<p>A quirky story on time travel and breakfast cereal. <a target="_blank" href="nlb.overdrive.com/media/1395461">Borrow the eBook here</a>.</p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>2. Home Remedies</h5>
-<p>Xuan Juliana Wang (2019), <i>Home Remedies</i>, Penguin Random House Audio Publishing Group.</p>
+<p>Xuan Juliana Wang (2019), Penguin Random House Audio Publishing Group.</p>
 <p>Nominated for a few literary awards, this is a hit debut by a young writer that captures the new experiences of Chinese immigrants around the world.</p>
 
 <a target="_blank" href="https://nlb.overdrive.com/media/4245470"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-seniors/Home Remedies.PNG"></a>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/4245470">Borrow the eBook here</a>.</p>
+<p>Nominated for a few literary awards, this is a hit debut by a young writer that captures the new experiences of Chinese immigrants around the world. <a target="_blank" href="https://nlb.overdrive.com/media/4245470">Borrow the eBook here</a>.</p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>3. Me Talk Pretty One Day</h5>
-<p>David Sedaris (2000), <i>Me Talk Pretty One Day </i>, Hachette Audio.</p>
+<p>David Sedaris (2000), Hachette Audio.</p>
 <p>A collection of humorous and hilarious short stories Sedaris-style, after his move to France. </p>
 
 <a target="_blank" href="https://nlb.overdrive.com/media/87791"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/reading/adults-seniors/Me Talk Pretty One Day.PNG"></a>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/87791">Borrow the eBook here</a>.</p>
+<p>A collection of humorous and hilarious short stories Sedaris-style, after his move to France. <a target="_blank" href="https://nlb.overdrive.com/media/87791">Borrow the eBook here</a>.</p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 <br>
 
@@ -216,11 +213,11 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 <p>Relive the pleasure of being told stories, even as adults. Tune in to these podcasts to discover a myriad of life experiences from over the world, and our own shores.  Stories range from the poignant, humorous, bizarre to downright frightening.</p>
 
 <h5>1. <a target="_blank" href="https://themoth.org/podcast">The Moth</a></h5> 
-<p>The Moth Podcast hosts an archive of stories from a myriad of life experiences. Told by storytellers from all walks of life ranging from the everyday person to personalities, the stories are a reminder of how our humanly longings and fears are essentially similar.  </p>
+<p>The Moth Podcast hosts an archive of stories from a world of experiences. Told by storytellers from all walks of life ranging from the everyday person to personalities, the stories are a reminder of how our humanly longings and fears are essentially similar.  </p>
 <small>Retrieved 2021, 9 December </small>
 
 <h5>2. <a target="_blank" href="https://www.newyorker.com/podcast/the-authors-voice">The New Yorker: The Writer’s Voice</a></h5> 
-<p>Besides publishing original fiction by different writers, the New Yorker also invite them to tell their stories as how they intended it to be heard. Listen to the writers, which includes the likes of Margaret Atwood and Jhumpa Lahiri. </p>
+<p>Besides publishing original fiction by different writers, the New Yorker also invites them to tell their stories as how they intended it to be heard. Listen to the writers, which includes the likes of Margaret Atwood and Jhumpa Lahiri. </p>
 
 <small>Retrieved 2021, 9 December</small>
 
