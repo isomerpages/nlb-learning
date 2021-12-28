@@ -35,8 +35,8 @@ sections:
       image: /images/home/home-sustainability-kv.png
       alt: LearnX Sustainability
   - infopic:
-      description: Reading never ends. Grow your reading habit with recommended books
-        and how to read in this digital age.
+      description: Reading never ends. Expand your world and learn to read well in the
+        digital age with our recommendations.
       button: start Learning
       url: /reading/overview
       image: /images/home/home-reading-kv.png
