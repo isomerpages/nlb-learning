@@ -26,25 +26,25 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/reading/adults-seniors/content"><b>Stories for Adults</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/reading/adults-seniors/content"><b>Stories for Adults</b></a></td>
         <td>Relive the pleasure of being told stories, even as adults. Tune in to these podcasts to discover a myriad of life experiences from over the world, and our own shores. Stories range from the poignant, humorous, bizarre to downright frightening. </td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/reading/adults-seniors/content"><b>Reading in a Digital Age</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/reading/adults-seniors/content"><b>Reading in a Digital Age</b></a></td>
         <td>So many books, so little time. How has the reading brain evolved with the advent of the digital age? This playlist will give you short explainers on how our reading has changed with our devices, and how to cultivate the reading habit in a distracted age. </td>
         <td></td>
         <td> </td>
       </tr>
    <tr>
-        <td><a href="/reading/adults-seniors/content"><b>Introduction to Literature</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/reading/adults-seniors/content"><b>Introduction to Literature</b></a></td>
         <td>Literature examines human communication and facilitates critical thinking. Check out this playlist to start your journey in discovering literature. </td>
         <td></td>
         <td> </td>
       </tr> 
 <tr>
-        <td><a href="/reading/adults-seniors/content"><b>Singapore Literature</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/reading/adults-seniors/content"><b>Singapore Literature</b></a></td>
         <td>Glean into Singapore literature and selected must-reads.</td>
         <td></td>
         <td> </td>
