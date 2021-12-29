@@ -109,10 +109,10 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
         <td style="width: 20%;">Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Think like a Coder Session 1- Amazing Algos: Think Like a Coder
+<td><a href="https://www.eventbrite.com/c/early-read-digital-programmes-ccbkrwyy--HoLyq4w9zQdc/" target="_blank"><b>Storytelling Session- My Favourite Days I DiscoverTech
 </b></a></td>
-        <td>In this screen free coding workshop, children are introduced to algorithms and how they can make their own algorithm from day to day activities. </td>
-        <td>22 Jan 2022<br>2.00pm – 2.30pm</td>
+        <td>The story conveys a heart-warming interaction between a little girl and her grandpa through a journey of self-discovery. Join us in the storytelling session and together let’s discover where this grandpa-granddaughter duo heads to. </td>
+        <td>16 Jan 2022<br>11.00am – 12.00pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
