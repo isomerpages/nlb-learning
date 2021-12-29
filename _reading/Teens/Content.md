@@ -54,12 +54,15 @@ Check out our **learning packages** to explore ways of expressing yourself throu
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="[Teen.Things: D.I.Y. Black Out Poetry](https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things-archive#id13)">
+      <a href="#DIY-black-out-poetry">
         <span>Learning Package:<br> D.I.Y. Black Out Poetry</span>
       </a>
     </div>
   </div>
-A collection of short videos and podcasts to expand reading interests.
+
+	
+
+	A collection of short videos and podcasts to expand reading interests.
 
 <h5 id=" more-than-words---poetry" class="margin--bottom--lg"><b>Playlist: More than Words - Poetry </b></h5>
 
