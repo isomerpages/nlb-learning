@@ -81,7 +81,7 @@ Discover with your child how our bodies keep us safe from germs with antibodies.
   <div class="col is-three-fifths">
     <p><b> How Vaccines Work? | VACCINATION | Importance Of Vaccine | The Dr Binocs Show | Peekaboo Kidz (6 mins 51 secs) </b><br>
     
-Learn more about how vaccines were invented back in 1796 and how they teach our body to fight new viruses!</p>
+Learn more about how vaccines were invented in 1796 and how they teach our body to fight new viruses!</p>
   </div>
 </div>
 <div class="row is-multiline margin--bottom--lg">
