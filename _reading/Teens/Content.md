@@ -64,7 +64,7 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 
 	A collection of short videos and podcasts to expand reading interests.
 
-<h5 id=" more-than-words---poetry" class="margin--bottom--lg"><b>Playlist: More than Words - Poetry </b></h5>
+<h5 id=" more-than-words---poetry" class="margin--bottom--lg"><b>Playlist: More than Words - Poetry</b></h5>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
