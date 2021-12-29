@@ -116,12 +116,12 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-digital-progs
-" target="_blank"><b>Precoding for Preschoolers: Story Sequence and Algorithms
+<td><a href="https://www.eventbrite.com/c/early-read-digital-programmes-ccbkrwyy--HoLyq4w9zQdc/
+" target="_blank"><b>Think Like a coder: Session 1 [Amazing Algos] I DiscoverTech
 </b></a></td>
-        <td>In this screen-free coding workshop, children are introduced to sequences and loops, and learn how they can experience them in day-to-day activities.</td>
-        <td>19  Feb 2022 <br>11.00am -12.00pm</td>
-        <td>Woodlands Regional Library</td>
+        <td>Children are introduced to algorithms and how they can make algorithms for day to day activities.</td>
+        <td>22 Jan 2022 <br>14.00am -14.30pm</td>
+        <td>Zoom</td>
       </tr>
 			<tr>
 <td><a href="https://www.eventbrite.com/c/early-read-sustainability-programmes-ccbkrxbd--MGq5L6nabutK/" target="_blank"><b>Let's Learn about Marine Animals</b></a></td>
