@@ -124,13 +124,6 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/a-clean-break-from-coal-singapores-transition-to-clean-energy-tickets-213485630267?aff=ebcollection&keep_tld=1" target="_blank"><b>LearnX Sustainability</b><br>The Low Carbon Economy</a></td>
-        <td style="width: 40%;">A Clean Break From Coal: Singapore's Transition to Clean Energy<br><br>
-Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Material Science & Engineering, Nanyang Technological University to learn more on the city state’s transition to clean energy and how it plans to achieve energy resilience.</td>
-        <td style="width: 20%;">21 Dec 2021<br> 7.30-8.30pm</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library</td>
-      </tr>
-      <tr>
         <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>LearnX Digital</b><br>Future of Work</a></td>
         <td>Learn more about current and upcoming changing needs at work, to get working adults better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites.</td>
         <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank">Various dates</a></td>
@@ -248,8 +241,8 @@ Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Ma
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/get-professional-series" target="_blank"><b>EQ at Work</b></a></td>
-        <td style="width: 40%;">Learn tips and strategies to prevent or get out of sticky situations at work – with finesse.</td>
-        <td style="width: 20%;"> 18 Dec 2021,<br>10.30am – 12.30pm</td>
+        <td style="width: 40%;">In this group coaching session, exchange tips and strategies with the trainer and your fellow attendees to get out of sticky situations at work – with finesse.</td>
+        <td style="width: 20%;">14 Jan 2022,<br>7.00pm – 8.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
