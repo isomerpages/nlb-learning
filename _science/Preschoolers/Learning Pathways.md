@@ -102,11 +102,11 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Birds In Singapore! 
+        <td style="width: 20%;"><a href="https://www.eventbrite.com/c/early-read-sustainability-programmes-ccbkrxbd--MGq5L6nabutK/" target="_blank"><b>CCKPL: The Feelings Forest 
 </b></a></td>
-        <td style="width: 40%;">Join us in this special storytelling and craft session where you will learn about our feathered friends in Singapore! </td>
-        <td style="width: 20%;">29 Jan 2022<br>11.00am - 12.00pm</td>
-        <td style="width: 20%;">Central Public Library</td>
+        <td style="width: 40%;">Join Mr Mole on his journey through the Feelings Forest, where he chats with nature and wildlife while learning about emotions and feelings. </td>
+        <td style="width: 20%;">16 Jan 2022<br>11.00am - 12.00pm</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library</td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Think like a Coder Session 1- Amazing Algos: Think Like a Coder
@@ -124,7 +124,7 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
         <td>Woodlands Regional Library</td>
       </tr>
 			<tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Marine Animals</b></a></td>
+<td><a href="https://www.eventbrite.com/c/early-read-sustainability-programmes-ccbkrxbd--MGq5L6nabutK/" target="_blank"><b>Let's Learn about Marine Animals</b></a></td>
         <td>Descend through the ocean to discover its mesmerizing ocean life. The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. Did you know that clownfish are actually omnivores, which mean they eat both meat and plants? What is the living habitat like for these marine animals? In this session, you will be introduced to the wonders of the oceans and learnt about the fun facts of the marine animals.</td>
         <td>18 Mar 2022<br>3.00pm - 4.00pm</td>
         <td>Zoom <br>TBC</td>
