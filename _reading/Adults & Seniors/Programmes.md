@@ -11,9 +11,9 @@ Get to know your books, writers and listen to experts on current issues as we di
 
 How to Fall in Love with Classics is a lecture series that introduces canonical and beloved works of literature to a wide audience. This series will equip attendees with the relevant literary and historical contexts and inspire reflections on the title’s relevance to our lives today. 
 
-Click [here](https://www.facebook.com/howtofallinlovewithclassics/){:target="_blank"} for past lectures.
-
 Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest programme listings.
+
+Click [here](https://www.facebook.com/howtofallinlovewithclassics/){:target="_blank"} for past lectures.
 
 ## **SG Author Series** 
 
@@ -21,7 +21,7 @@ Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest p
 
 The SG Author Series celebrates local literature by showcasing Singapore authors from various languages who have contributed to the development of Singapore’s literary landscape.
 
-Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest programme listings.
+The next season of SG Author series will be held in March 2022. Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for more literary programmes.
 
 ## **One Story** 
 
@@ -41,7 +41,7 @@ Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest p
 
 Head2Head seeks to create literary dialogues that pair writers of different genres and interests to negotiate their works in a new light. It features works that tackle facets of Singapore life, from nostalgic fiction writing to urban living, from the spoken word to digital mediums, capturing writing styles that writers constantly return to as they chart the past, present and future of Singapore through their words, images and voices.
 
-Seasons 4 and 5 of Head2Head will be held in Apr and Aug 2022 respectively. Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for more programmes.
+Seasons 4 and 5 of Head2Head will be held in Apr and Aug 2022 respectively. Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for more literary programmes.
 
 ## **Reading in the Age of Distraction** 
 
