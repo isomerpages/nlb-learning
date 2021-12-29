@@ -125,7 +125,7 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
       </tr>
 			<tr>
 <td><a href="https://www.eventbrite.com/c/early-read-sustainability-programmes-ccbkrxbd--MGq5L6nabutK/" target="_blank"><b>Birds in Singapore! (Animal Conservation Series)</b></a></td>
-        <td>Join us in this special storytelling and craft session where you will learn about feathered friends in Singapore! This programme is intended for children 4-6 years old. Registration is required for this programme.</td>
+        <td>Join us in this special storytelling and craft session where you will learn about feathered friends in Singapore!</td>
         <td>29 Jan 2022<br>11.00am - 12.00pm</td>
         <td>Central Public Library</td>
       </tr>
