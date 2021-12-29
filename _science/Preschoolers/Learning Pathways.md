@@ -120,7 +120,7 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
 " target="_blank"><b>Think Like a coder: Session 1 [Amazing Algos] I DiscoverTech
 </b></a></td>
         <td>Children are introduced to algorithms and how they can make algorithms for day to day activities.</td>
-        <td>22 Jan 2022 <br>14.00am -14.30pm</td>
+        <td>22 Jan 2022 <br>14.00am-14.30pm</td>
         <td>Zoom</td>
       </tr>
 			<tr>
