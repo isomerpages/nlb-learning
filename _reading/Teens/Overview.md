@@ -44,7 +44,7 @@ Discover different ways of expressing yourself through these programmes, resourc
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="/reading/teens">
+      <a href="/reading/teens/content">
         <span>Content</span>
       </a>
     </div>
