@@ -63,9 +63,11 @@ It's Time to Learn about Time!</b></a></td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/tsr-progs" target="_blank"><b> Toddler Songs & Rhymes [Theme: Numbers & Counting] </b></a></td>
-        <td style="width: 40%;"> Learn all about numeracy through this fun session of Toddler Songs & Rhymes with our librarians! </td>
-        <td style="width: 20%;">18 Jan 2022<br>4.00pm – 4.20pm</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.com/c/early-read-science-programmes-ccbkrwzp--iE1UQaAYdl04/" target="_blank"><b> [Budding Scientists] It's Time to Learn About Time! </b></a></td>
+        <td style="width: 40%;"> Time may feel too abstract a concept to teach our little ones. Never fear! In this simple yet interactive and fun programme, your child will be introduced to the world of seconds, minutes, hours and routines as they create their very own time-teller. 
+From clocks to calendars, sundials to hourglasses, have your child become happy horologists as they journey through Time. 
+</td>
+        <td style="width: 20%;">15 Jan 2022<br>2.00pm – 3.00pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
