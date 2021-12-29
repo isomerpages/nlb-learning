@@ -173,8 +173,6 @@ Yishun Public Library<br></td>
         <td>Available for daily walk-ins at selected public libraries.</td>
         <td>List of selected libraries available <a href="https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys" target="_blank">here</a>.</td>
       </tr>
-      <tr>
-        <td>
     </tbody>
   </table>
 </div>
