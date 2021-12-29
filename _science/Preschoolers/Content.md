@@ -40,10 +40,8 @@ third_nav_title: Preschoolers
 
 The best way for preschoolers to learn about STEAM is to show them the concepts through activities, hands-on experiments and engaging videos. 
   
-We have specially curated video resources in our playlist and learning packages for each topic.  
+We have specially curated video resources in our playlist and learning packages for each topic to inspre your child to discover the world.  
   
-Inspire your child to discover the world. 
-
 <h3><b>Playlist and Learning Packages</b></h3>
 
 Our **playlists** contain videos selected by our librarians to make scientific knowledge fun and accessible to children. 
