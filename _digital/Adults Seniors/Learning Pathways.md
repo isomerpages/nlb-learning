@@ -28,9 +28,9 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 
 We start with a healthy digital lifestyle for all, and for seniors, <a href="#effectively-use-smartphones ">Master The Use Of Smartphones</a>.
 
-<h3><b>Explore the latest innovation and emerging tech trends.
-</b></h3>
+<h3><b>Explore the latest innovation and emerging tech trends</b></h3>
 The story of technology is the history of people solving problems, overcoming adversity through ingenuity and elegant solutions. Join us as we unpack and demystify some of the latest technology trends and learn how a human-centric design towards innovation can help to improve our work and lifestyle.
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -44,7 +44,6 @@ The story of technology is the history of people solving problems, overcoming ad
         <td style="width: 40%;">Explore the latest innovation and emerging tech trends with our Learning Packages and Playlists</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
-      </tr>
       </tr>
     </tbody>
   </table>
