@@ -151,7 +151,9 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
 </div>
 <h3><b>Learning Package</b></h3>
 Spark your child’s curiosity in science literacy through engaging activities and articles.
-![Tweenkerama Science](/images/science-lfa-updates/Tweenkerama-Science.png)
+
+![Baking Chemistry](/images/science-lfa-updates/scwyc-baking-chemistry.JPG)
+
 <h5 class="margin--bottom--lg" id="baking-chemistry" ><b> Stay Curious with Your Child: Baking Chemistry!</b></h5>
 <p> Make chemistry come alive at home by trying out this hands-on baking experiment with your child! </p>
 <h4 id="scwyc-baking-chemistry"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b>Learn More</b>
