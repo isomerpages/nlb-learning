@@ -79,7 +79,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
         <td>Growth @ Work: Career Planning and Development workshop by Nanyang Polytechnic</td>
         <td>Coming in Sep 2022</td>
         <td>Zoom</td>
-
+			</tr>
     </tbody>
   </table>
 </div>
