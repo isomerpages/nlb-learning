@@ -86,4 +86,3 @@ Blackout poetry is a form of poetry where an author picks an existing piece of w
 <a href="”https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things-archive#id13”"> <img alt="”D.I.Y." src="”/images/reading/teens/DIYblackoutpoetrybutton.jpg”"></a></div></div>  
 
 <a href="#main-content">Back to top</a>
-
