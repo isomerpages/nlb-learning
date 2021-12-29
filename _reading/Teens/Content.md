@@ -73,7 +73,7 @@ Edgar Allen Poe’s The Raven has long been considered the quintessential Gothic
   </div>
 </div>
 
-<a href="#main-content">Back to top</a><p></p>
+<a href="#main-content">Back to top</a>
 
 <h3><b>Learning Package</b></h3>
 Get insights on reading and written-word expressions with these articles and activities.
