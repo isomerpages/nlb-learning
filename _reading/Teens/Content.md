@@ -82,7 +82,7 @@ Get insights on reading and written-word expressions with these articles and act
 
 Blackout poetry is a form of poetry where an author picks an existing piece of written text and repurposes it into a new poem by keeping a selection of words, and then *blacking out* the remaining words that’s not needed, giving the written text a different meaning than it had before.
 
-**Click on the image to check out how you can create your own blackout poems and discover poetry-related resources:**
+**Click on to find out how you can create your own blackout poems and discover poetry-related resources:**
 
 <div class="row-is-multiline"> <div class="col is-half">
 <a href="”https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things-archive#id13”"> <img alt="”D.I.Y." src="/images/reading/teens/DIYblackoutpoetrybutton.jpg"></a></div></div> 
