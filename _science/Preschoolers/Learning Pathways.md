@@ -37,29 +37,19 @@ A child's discovery of the world happens in their everyday life – in their int
     </thead>
    <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b> Developing Early Literacy Skills at Home (0-12 months)</b></a></td>
-        <td style="width: 40%;"> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make!</td>
+        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/budding-scientists/permalink" target="_blank"><b> ABC's of Applied Physics for Kids:
+It's Time to Learn about Time!</b></a></td>
+        <td style="width: 40%;"> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-1-to-3-years" target="_blank"><b> Developing Early Literacy Skills at Home (1-3 years old) </b></a></td>
-        <td> Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help them build their letter knowledge and vocabulary. </td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/budding-scientists/permalink" target="_blank"><b> ABC's of Applied Chemistry for Kids: Let’s Learn About Density </b></a></td>
+        <td> Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Read on to introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together! </td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-4-to-6-years" target="_blank"><b> Developing Early Literacy Skills at Home (4-6 years old)</b></a></td>
-        <td> How can you encourage the love of reading in your pre-schooler? Learn some tips and activities you can do to develop your child into a confident reader! </td>
-        <td></td>
-        <td> </td>
-      </tr>
-<tr>
-        <td><a href="/reading/preschoolers/content" target="_blank"><b> The World of Picture Books</b></a></td>
-        <td> Video resources to help parents understand more about the different types of picture books.</td>
-        <td></td>
-        <td> </td>
-      </tr>	
        </tbody>
   </table>
 </div>
