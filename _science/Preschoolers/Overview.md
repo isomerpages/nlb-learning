@@ -42,7 +42,7 @@ From birth, children are naturally curious. You can build on their curiosity by 
 
 We have curated a list of resources and programmes for you and your child to explore together. These resources encourage families to kick start their sense of adventure and excitement in discovering more about the world around them. 
 
-Learn strategies and practical tips to help your child develop reasoning, problem solving skills, creativity and critical thinking. Through playing, reading, writing, singing and talking, your child can and will grow and navigate the world successfully.  
+Learn strategies and practical tips to help your child develop reasoning, problem solving skills, creativity and critical thinking. Through playing, reading, writing, singing and talking, your child can grow and navigate the world successfully.  
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
