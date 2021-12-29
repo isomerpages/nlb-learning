@@ -57,7 +57,6 @@ It's Time to Learn about Time!</b></a></td>
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
-      <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
       </tr>
     </thead>
