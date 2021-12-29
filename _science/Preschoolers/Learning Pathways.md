@@ -130,7 +130,7 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
         <td>29 Jan 2022<br>11.00am - 12.00pm</td>
         <td>Central Public Library</td>
       </tr>
-  </tbody>
+    </tbody>
   </table>
 </div>
 
