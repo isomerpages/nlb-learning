@@ -51,8 +51,6 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
         <td></td>
         <td> </td>
 			</tr>
-	</table>
-</div>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
