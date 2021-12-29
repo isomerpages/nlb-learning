@@ -70,8 +70,8 @@ From clocks to calendars, sundials to hourglasses, have your child become happy 
         <td style="width: 20%;">15 Jan 2022<br>2.00pm – 3.00pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
-      <tr>
-        <td><a href="https://www.eventbrite.com/c/early-read-science-programmes-ccbkrwzp--iE1UQaAYdl04/" target="_blank"><b> [Budding Engineers] Blast Off with Magnetic Rockets! </b></a></td>
+<tr>
+<td><a href="https://www.eventbrite.com/c/early-read-science-programmes-ccbkrwzp--iE1UQaAYdl04/" target="_blank"><b> [Budding Engineers] Blast Off with Magnetic Rockets! </b></a></td>
         <td> “Shoot for the moon. Even if you miss, you’ll land among the stars.”
 Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children.
 *STEAM - Science, Technology, Engineering, Arts and Mathematics </td>
