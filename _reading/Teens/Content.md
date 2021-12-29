@@ -31,13 +31,13 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 <h3><b>Playlist</b></h3>
 A collection of short videos and podcasts to expand your reading and writing interests.
 
-<h5 id="playlist-poetry" class="margin--bottom--lg"><b>Playlist: More than Words - Poetry</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-poetry"><b>Playlist: More than Words - Poetry</b></h5>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/JwhouCNq-Fc" class="responsive-iframe"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/JwhouCNq-Fc"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -50,7 +50,7 @@ A collection of short videos and podcasts to expand your reading and writing int
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/XOieGJl6g4s" class="responsive-iframe"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/XOieGJl6g4s"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -63,7 +63,7 @@ A collection of short videos and podcasts to expand your reading and writing int
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/pMdJxVjZMRI" class="responsive-iframe"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/pMdJxVjZMRI"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -78,14 +78,15 @@ Edgar Allen Poe’s The Raven has long been considered the quintessential Gothic
 <h3><b>Learning Package</b></h3>
 Get insights on reading and written-word expressions with these articles and activities.
 
-<h5 class="margin--bottom--lg" id="lp-poetry"><b>Teen Things: D.I.Y. Blackout Poetry</b></h5>
+<h5 id="lp-poetry" class="margin--bottom--lg"><b>Teen Things: D.I.Y. Blackout Poetry</b></h5>
 
 Blackout poetry is a form of poetry where an author picks an existing piece of written text and repurposes it into a new poem. This is done by keeping a selection of words, and then *blacking out* the remaining words that’s not needed, giving the written text a different meaning than it had before.
 
 **Click on to find out how you can create your own blackout poems and discover other poetry-related resources:**
 
 <div class="row-is-multiline"> <div class="col is-half">
-<a href=”https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things-archive#id13"> <img alt=”D.I.Y." src="/images/reading/teens/DIYblackoutpoetrybutton.jpg"></a></div></div> 
+<a href="”https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things-archive#id13&quot;"> <img alt="”Teen.Things:" src="/images/reading/teens/DIYblackoutpoetrybutton.jpg"></a></div></div> 
+
 
 
 
