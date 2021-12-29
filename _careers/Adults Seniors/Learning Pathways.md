@@ -64,19 +64,23 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b>A Career in Green Energy</b></td>
-        <td style="width: 40%;">What is it like having a career in this industry? How does one get a foot in the door? Find out in this talk by an expert from Nanyang Polytechnic. <b>Registration opens mid-December.</b></td>
-        <td style="width: 20%;">30 Dec 2021,<br>7pm - 9pm</td>
+        <td style="width: 20%;"><b>A Career in Fintech</b></td>
+        <td style="width: 40%;">What is it like having a career in this industry? How does one get a foot in the door? Find out in this talk by an expert from Nanyang Polytechnic.</td>
+        <td style="width: 20%;">TBC</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
-      <tr>
-        <td><b>Career Planning and
-Career Coaching (by partners)</b></td>
-        <td>Career Catalyst (1-to-1 Career Coaching) by WSG 
-					<br>Growth @ Work: Career Planning and Development workshop by Nanyang Polytechnic</td>
-        <td>Coming in Sep 2022</td>
-        <td>TBC</td>
+							      <tr>
+        <td><b>Career Coaching (by our partner WSG)</b></td>
+        <td>Career Catalyst (1-to-1 Career Coaching) by Workforce Singapore (WSG)</td>
+        <td>WSG's Career Catalyst - details available <a href="https://content.mycareersfuture.gov.sg/careercoaching/article/get-career-clarity/">at their website</a></td>
+        <td></td>
       </tr>
+      <tr>
+        <td><b>Career Planning</b></td>
+        <td>Growth @ Work: Career Planning and Development workshop by Nanyang Polytechnic</td>
+        <td>Coming in Sep 2022</td>
+        <td>Zoom</td>
+
     </tbody>
   </table>
 </div>
@@ -92,13 +96,13 @@ Career Coaching (by partners)</b></td>
       <tr>
         <td style="width: 20%;"><a href="http://go.gov.sg/get-professional-series" target="_blank"><b>Resume Writing Skills</b></a></td>
         <td style="width: 40%;">Understand the thought process behind how recruiters review resumes so that you can create one that is truly representative of your talents, experiences, and potential.</td>
-        <td style="width: 20%;">Part 1:<br>8 Dec 2021, <br>18 Jan 2022, <br>11 Feb 2022,<br> 7pm - 9pm<br><br> Part 2:<br>15 Dec 2021,<br>25 Jan 2022,<br> Feb 25 2022,<br> 7pm - 9pm</td>
+        <td style="width: 20%;">Part 1:<br>18 Jan 2022, <br>11 Feb 2022,<br> 7pm - 9pm<br><br> Part 2:<br>25 Jan 2022,<br>25 Feb 2022,<br> 7pm - 9pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
         <td><a href="http://go.gov.sg/get-professional-series" target="_blank"><b>Interview Skills</b></a></td>
         <td>This workshop will guide you through the pre to post-interview processes, help you to understand what your interviewer is looking for, and how to ace the interview session itself.</td>
-        <td>7 Dec 2021,<br>7 Jan 2022,<br> Jan 47 2022, <br> Feb 4 2022, <br>7pm - 9pm<br></td>
+        <td>7 Jan 2022,<br>17 Jan 2022, <br>4 Feb 2022, <br>7pm - 9pm<br></td>
         <td>Zoom</td>
       </tr>
 <tr>
