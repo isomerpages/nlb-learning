@@ -71,9 +71,11 @@ From clocks to calendars, sundials to hourglasses, have your child become happy 
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><a href="https://go.gov.sg/tsr-progs" target="_blank"><b> Toddler Songs & Rhymes [Theme: Colours & Shapes] </b></a></td>
-        <td> Have fun learning about colours and shapes with your child in this interactive session of Toddler Songs & Rhymes.  Get your child grooving to the different rhymes and action songs in this session. Teaching your toddler the movements and act out a rhyme will show your child that learning and fun can happen at the same time. </td>
-        <td>15 Mar 2022<br>4.00pm-4.20pm<br></td>
+        <td><a href="https://www.eventbrite.com/c/early-read-science-programmes-ccbkrwzp--iE1UQaAYdl04/" target="_blank"><b> [Budding Engineers] Blast Off with Magnetic Rockets! </b></a></td>
+        <td> “Shoot for the moon. Even if you miss, you’ll land among the stars.”
+Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children.
+*STEAM - Science, Technology, Engineering, Arts and Mathematics </td>
+        <td>26 Feb 2022<br>2.00pm-3.00pm<br></td>
         <td>Zoom</td>
       </tr>
 <tr>
