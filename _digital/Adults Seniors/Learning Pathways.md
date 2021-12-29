@@ -177,71 +177,7 @@ Yishun Public Library<br></td>
         <td>List of selected libraries available <a href="https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys" target="_blank">here</a>.</td>
       </tr>
       <tr>
-        <td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>[Basic Digital Skills]</b><br> Everyday Banking with POSB digibank</a></td>
-        <td>This workshop provides a step-by-step guide to POSB digibank. Plus, learn how to protect yourself online with our #BSHARP security tips!</td>
-        <td>6 Dec 2021, <br>3pm – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>[Basic Digital Skills]</b><br>Go Cashless with DBS PayLah!</a></td>
-        <td>Learn how to make your everyday easier with the DBS PayLah! app. Whether you are paying your friends, buying groceries or paying for your bills and more, enjoy convenience and seamless every day services with PayLah!</td>
-        <td>13 Dec 2021, <br>3pm – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>[Basic Digital Skills]</b><br>Make e-Payments with PayNow</a></td>
-        <td>Learn about the benefits of PayNow and how to use PayNow on your POSB digibank app and internet banking. .</td>
-        <td>20 Dec 2021, <br>3pm – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/e/sure-skills-series-for-seniors-spotting-deepfake-images-and-videos-tickets-174925586137?aff=ebdssbonlinesearch" target="_blank"><b>[S.U.R.E Skills Series]</b><br>Spotting Deepfake Images & Videos</a></td>
-        <td>Learn more about Artificial Intelligence generated deepfake images and videos, how they work, and how to detect them.</td>
-        <td>7 Dec 2021, <br>3pm – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/e/sure-tickets-174926157847?aff=ebdssbonlinesearch" target="_blank"><b>[银发族S.U.R.E.技能系列] 如何识破 “深度伪造” 图像和影像</b></a></td>
-        <td>通过这个工作坊，您能了解什么是利用人工智能（AI）合成的“深度伪造” (Deepfake) 图像和影像，以及如何识破它们。</td>
-        <td>15 Dec 2021, <br>3pm – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.com/c/my-digital-life-ccbgxhmp--Z5JZyySTqONy/" target="_blank"><b>[My Digital Life]</b><br>Social Impact of Technologies</a></td>
-        <td>Learn more about the positive and negative impact of technology in our daily lives</td>
-        <td>2 Dec 2021, <br>3pm – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.com/c/my-digital-life-ccbgxhmp--Z5JZyySTqONy/" target="_blank"><b>[My Digital Life]</b><br>Internet of Things</a></td>
-        <td>Find out more about the fundamentals of IoT at this workshop, including how some common sensors work, its interface to a microcontroller, and how the Internet fits into all of this..</td>
-        <td>21 Dec 2021, <br>3pm – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Use and Apply Skills</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/it-talk-series-useful-google-apps-for-seniors-part-1-time-of-your-life-tickets-202760250367?aff=ebdssbonlinesearch" target="_blank"><b>Useful Google Apps for Seniors Part 1 | Time of Your Life</b></a></td>
-        <td style="width: 40%;">Learn how Google Photos & YouTube can be useful for you!</td>
-        <td style="width: 20%;">2 Dec 2021, <br>9pm - 10pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.eventbrite.sg/e/it-talk-series-useful-google-apps-for-seniors-part-2-time-of-your-life-tickets-202772115857?aff=ebdssbonlinesearch" target="_blank"><b>Useful Google Apps for Seniors Part 2 | Time of Your Life</b></a></td>
-        <td>Learn how Google Photos & YouTube can be useful for you!</td>
-        <td style="width: 20%;">16 Dec 2021, <br>9pm - 10pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
+        <td>
     </tbody>
   </table>
 </div>
