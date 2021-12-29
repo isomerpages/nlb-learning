@@ -70,7 +70,7 @@ Check out our **learning packages**, complete with activities and tips, on STEAM
 </b></h3>
 **Microscopic World: Protecting the Body! Science Behind Medical Biotechnology**
 
-In this playlist, discover with your child how our bodies keep us safe from germs with antibodies. Discover how scientists over the years invented vaccines and antibiotics to help boost your immune systems to ward off serious illnesses.  
+Discover with your child how our bodies keep us safe from germs with antibodies. Discover how scientists invented vaccines and antibiotics over the years to help boost our immune systems to ward off serious illnesses.  
 <br><br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
