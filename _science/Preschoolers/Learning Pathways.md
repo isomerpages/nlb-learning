@@ -124,10 +124,10 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
         <td>Zoom</td>
       </tr>
 			<tr>
-<td><a href="https://www.eventbrite.com/c/early-read-sustainability-programmes-ccbkrxbd--MGq5L6nabutK/" target="_blank"><b>Let's Learn about Marine Animals</b></a></td>
-        <td>Descend through the ocean to discover its mesmerizing ocean life. The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. Did you know that clownfish are actually omnivores, which mean they eat both meat and plants? What is the living habitat like for these marine animals? In this session, you will be introduced to the wonders of the oceans and learnt about the fun facts of the marine animals.</td>
-        <td>18 Mar 2022<br>3.00pm - 4.00pm</td>
-        <td>Zoom <br>TBC</td>
+<td><a href="https://www.eventbrite.com/c/early-read-sustainability-programmes-ccbkrxbd--MGq5L6nabutK/" target="_blank"><b>Birds in Singapore! (Animal Conservation Series)</b></a></td>
+        <td>Join Mr Mole on his journey through the Feelings Forest, where he chats with nature and wildlife while learning about emotions and feelings. This session involves interactive storytelling and an activity session, suitable for children aged 5-7 years old. This is a parent-accompanied programme, brought to you by backtogroundzero. Registration is required for this programme.</td>
+        <td>29 Jan 2022<br>11.00am - 12.00pm</td>
+        <td>Zoom</td>
       </tr>
   </tbody>
   </table>
