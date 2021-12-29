@@ -46,7 +46,7 @@ Explore new experiences through the written word.
       </tr>
       <tr>
         <td><a href="/reading/teens/content"><b>Learning Package: D.I.Y. Blackout Poetry</b></a></td>
-        <td> Find out what exactly is Blackout Poetry and how you can craft your own. </td>
+        <td> Find out what exactly is blackout poetry and how you can craft your own through our bite-sized resources. </td>
         <td></td>
 				<td></td>
       </tr>
@@ -75,18 +75,18 @@ Explore new experiences through the written word.
         <td>15 Jan 2022, <br> 2pm-4pm</td>
         <td>Toa Payoh Public Library</td>
       </tr>
-
 <tr>
-<td><a href=" https://www.eventbrite.sg/e/one-story-21-tickets-198075528237" target="_blank"><b> [ONE STORY 21] உயர்நிலைப் பள்ளி மாணவர்களுக்கான கதை கலந்துரையாடல் | Online sharing and discussion for secondary school students </b></a></td>
+<td><a href=" https://www.eventbrite.sg/e/one-story-21-tickets-198075528237" target="_blank"><b> [ONE STORY 21] Online sharing and discussion for secondary school students | உயர்நிலைப் பள்ளி மாணவர்களுக்கான கதை கலந்துரையாடல் </b></a></td>
         <td>A book discussion of the story, Razi by Dr Sa’edah Buang, for secondary school students. This discussion will be conducted in Tamil and facilitated by an invited author. Download Razi ebook at https://go.gov.sg/onestoryebook. </td>
         <td>16 Jan 2022, <br>11am – 12:30pm</td>
         <td>Zoom</td>
       </tr>
 
 
+
 <tr>
 <td><a href="https://www.eventbrite.sg/e/storytelling-today-the-masterstroke-of-horror-storytelling-registration-210935954117?aff=ebdsoporgprofile" target="_blank"><b>Storytelling Today | The Masterstroke of Horror Storytelling</b></a></td>
-        <td>There is a good reason horror stories are so popular, with adults and children alike. Like all good stories, horror-lores help us escape to another world with hearts pounding and blood rushes. Learn about horror tropes and nuances of fear that authors Suffian Hakim & Tunku Halim deploy in their creations. </td>
+        <td>There is a good reason horror stories are so popular, with adults and children alike. Learn about horror tropes and nuances of fear that authors Suffian Hakim & Tunku Halim deploy in their creations. </td>
         <td>28 Feb 2022, <br>8pm – 9pm</td>
         <td>Zoom</td>
 			</tr>
@@ -131,7 +131,7 @@ Explore new experiences through the written word.
 
 <tr>
 <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/cckpl-tweenkerama-urban-farming-workshop-sustainability-registration-200716306877?aff=ebdsoporgprofile" target="_blank"><b> CCKPL: Tweenkerama - Urban Farming Workshop | Sustainability</b></a></td>
-        <td style="width: 40%;"> Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. This programme is recommended for children and teens aged 10-13. </td>
+        <td style="width: 40%;"> Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. For children and teens aged 10-13. </td>
         <td style="width: 20%;"> 24 Jan 2022,<br>4pm – 5pm</td>
         <td style="width: 20%;"> Choa Chu Kang Public Library</td>
       </tr>
