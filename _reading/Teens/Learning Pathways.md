@@ -27,8 +27,7 @@ third_nav_title: Teens
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3><b> Write On!</b></h3>
-Explore new experiences through the written word. 
-<br></br>
+Explore new experiences through the written word. <br></br>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -40,17 +39,17 @@ Explore new experiences through the written word.
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/reading/teens/content" target="_blank"><b>Playlist: More than Words – Poetry </b></a></td>
-        <td style="width: 40%;"> Find your next literary adventure through this collection of short videos and podcasts. In this playlist, take a deep dive into the world of rhythm and words, and be inspired to find your voice through the power of poetry.	 </td>
+        <td style="width: 40%;"> Go on a literary adventure through this collection of short videos, and be inspired to find your voice through poetry.	 </td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/reading/teens/content"><b>Learning Package: D.I.Y. Blackout Poetry</b></a></td>
-        <td> Find out what exactly is blackout poetry and how you can craft your own. </td>
+        <td style="width: 20%;"><a href="/reading/teens/content"><b>Learning Package: D.I.Y. Blackout Poetry</b></a></td>
+        <td style="width: 40%;"> Find out what exactly is blackout poetry and how you can easily craft your own. </td>
         <td></td>
-			</tr>
-		</tbody>
-	</table>
+        <td> </td>
+      </tr>
+  </table>
 </div>
 
 <div class="horizontal-scroll margin--bottom--lg">
@@ -85,10 +84,9 @@ Explore new experiences through the written word.
 
 <tr>
 <td><a href="https://www.eventbrite.sg/e/storytelling-today-the-masterstroke-of-horror-storytelling-registration-210935954117?aff=ebdsoporgprofile" target="_blank"><b>Storytelling Today | The Masterstroke of Horror Storytelling</b></a></td>
-        <td>There is a good reason horror stories are so popular, with adults and children alike. Like all good stories, horror-lores help us escape to another world with hearts pounding and blood rushes. Learn about horror tropes and nuances of fear that authors Suffian Hakim & Tunku Halim deploy in their creations. </td>
+        <td>There is a good reason horror stories are so popular, with adults and children alike - they help us escape to another world with hearts pounding and blood rushes. Learn about horror tropes and nuances of fear that authors Suffian Hakim & Tunku Halim deploy in their creations. </td>
         <td>28 Feb 2022, <br>8pm – 9pm</td>
         <td>Zoom</td>
-      </tr>
         <td> </td>
 
 
