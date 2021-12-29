@@ -4,7 +4,6 @@ permalink: /reading/Adults-Seniors/programmes
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 Get to know your books, writers and listen to experts on current issues as we dive into topics on reading and literature.
 
 ## **How To Fall In Love with Classics**
@@ -32,15 +31,15 @@ One Story is a multi-year project that makes local short stories - originally wr
 
 Click [here](https://readingnation.nlb.gov.sg/initiatives/one-story-events/){:target="_blank"} for the latest programme listings.
 
-## **Head2Head** 
-
-Head2Head seeks to create literary dialogues that pair writers of different genres and interests to negotiate their works in a new light. It features works that tackle facets of Singapore life, from nostalgic fiction writing to urban living, from the spoken word to digital mediums, capturing writing styles that writers constantly return to as they chart the past, present and future of Singapore through their words, images and voices.
-
-Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest programme listings.
-
 ## **Think Lit** 
 
 Think Lit is a literary arts series that addresses contemporary topics in reading, literacy and literature for adults. It aims to promote critical thinking and encourages discussion on trending issues facing the literary world. The series will be conducted by educators, teachers, academics, or industry experts.
+
+Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest programme listings.
+
+## **Head2Head** 
+
+Head2Head seeks to create literary dialogues that pair writers of different genres and interests to negotiate their works in a new light. It features works that tackle facets of Singapore life, from nostalgic fiction writing to urban living, from the spoken word to digital mediums, capturing writing styles that writers constantly return to as they chart the past, present and future of Singapore through their words, images and voices.
 
 Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest programme listings.
 
