@@ -60,9 +60,9 @@ Check out our **learning packages** to explore ways of expressing yourself throu
     </div>
   </div>
 
-	
 
-	A collection of short videos and podcasts to expand reading interests.
+<h3><b>Playlist</b></h3>
+A collection of short videos and podcasts to expand reading interests.
 
 <h5 id=" more-than-words---poetry" class="margin--bottom--lg"><b>Playlist: More than Words - Poetry</b></h5>
 
