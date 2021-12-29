@@ -80,11 +80,11 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.com/c/early-read-science-programmes-ccbkrwzp--iE1UQaAYdl04/" target="_blank"><b>[Budding Scientists] The Amazing Body!</b></a></td>
-        <td> As your children grow, they will start to recognise the different parts of their amazing bodies. In this programme, we will identify the various body parts, learn more about each of their important functions, and make our own little body puppet!
-</td>
+        <td> As your children grow, they will start to recognise the different parts of their amazing bodies. In this programme, we will identify the various body parts, learn more about each of their important functions, and make our own little body puppet!</td>
         <td>12 Mar 2022 <br>2.00pm-3.00pm</td>
         <td>Zoom</td>
       </tr>
+<tr>			
 <td><a href="https://www.eventbrite.com/c/early-read-science-programmes-ccbkrwzp--iE1UQaAYdl04/" target="_blank"><b> [Budding Scientists] Let's Learn about Ocean and Marine Animals! </b></a></td>
         <td> Descend through the ocean and discover more about the mesmerising life that lies beneath. The ocean is home to thousands of different marine animals, such as clownfish, sharks, whales, and dolphins. Did you know that the clownfish are omnivores, which means that they eat both meat and plants? What do you think their habitat looks like? In this session, you and your child will be introduced to the wonders of the ocean and learn fun facts about marine animals! </td>
         <td>18 Mar 2022<br>3.00pm-4.00pm<br></td>
@@ -93,6 +93,7 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
 </body>
 </table>
 </div>
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
