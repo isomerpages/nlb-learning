@@ -37,7 +37,7 @@ third_nav_title: Children
 .clickbox.is-thoughtful-tangerine a:focus,
 .clickbox.is-thoughtful-tangerine a:hover { background-color: #FE5828; color: #ffc9ad; }
 </style>
-Intro text here!
+Delve into the world of science with programmes, workshops and content served in engaging, easy and convenient formats. This section is suitable for 7 to 9 year olds.
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
@@ -61,5 +61,3 @@ Intro text here!
     </div>
   </div>
 </div>
-
-
