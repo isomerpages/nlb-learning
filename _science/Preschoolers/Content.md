@@ -104,7 +104,7 @@ Learn more about how vaccines were invented in 1796 and how they teach our body 
   </div>
   <div class="col is-three-fifths">
     <p><b> What Are Antibodies? (1 min 4 secs)</b><br>
-Our body's immune system keeps us strong by producing antibodies to attack germs in our body. How do antibodies do that?</p> 
+Our body's immune system keeps us strong by producing antibodies to attack germs. How do antibodies do that?</p> 
   </div>
 </div>
 <p>All thumbnail images are copyright of the creators.</p>
