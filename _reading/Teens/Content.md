@@ -54,7 +54,7 @@ Check out our **learning packages** to explore ways of expressing yourself throu
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#DIY-black-out-poetry">
+      <a href="[Teen.Things: D.I.Y. Black Out Poetry](https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things-archive#id13)">
         <span>Learning Package:<br> D.I.Y. Black Out Poetry</span>
       </a>
     </div>
