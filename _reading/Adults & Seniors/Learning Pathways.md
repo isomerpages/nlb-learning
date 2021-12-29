@@ -20,7 +20,7 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="/reading/adults-seniors/content"><b>TLDR: Short Reads</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/reading/adults-seniors/content#tldr-short-reads"><b>TLDR: Short Reads</b></a></td>
         <td style="width: 40%;">Get back into reading with these short reads. Or pull these out to tide you over that commute or long wait. From short stories, comics to poetry, we’ve got you covered.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
