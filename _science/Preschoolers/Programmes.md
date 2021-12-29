@@ -24,7 +24,7 @@ third_nav_title: Preschoolers
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
-Join us in exploring the wondrous world of Science as we get hands on with experiments and crafts. 
+Join us in exploring the wondrous world of Science as we get involved in experiments and crafts. 
 
 ### Budding Scientists & Engineers 
 ![Banner with outline of orange circle in the centre. Inside the circle, there is an image of an astronaut in front of a moon, with the words Budding Scientists: Explore. Discover. Various scientific elements are placed in hexagons outside the circle, such as gears, magnifying glass, test tubes and microscopes. The Early Read logo is on the top left hand corner of the banner. ](/images/science/preschoolers/Budding%20Scientists_ER%20Logo.png)<br>
@@ -32,4 +32,4 @@ Join us in exploring the wondrous world of Science as we get hands on with exper
 
 Science is all around us and learning opportunities are aplenty. Through our curated list of Science-focused programmes, come have a meaningful time with your child as we learn and have fun together. Pick up tips on how the learning can be extended at home through simple set-ups and activities! 
 
-Click <a href="https://go.gov.sg/er-science-progs" target="_blank">here</a> for the latest programme listings. 
+Click <a href="https://go.gov.sg/er-science-progs" target="_blank">here</a> for the latest programme listings.
