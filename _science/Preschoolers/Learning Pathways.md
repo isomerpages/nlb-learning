@@ -24,6 +24,7 @@ third_nav_title: Preschoolers
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
+
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3><b>Growing with Science Anytime, Anywhere!</b></h3>
@@ -49,7 +50,6 @@ It's Time to Learn about Time!</b></a></td>
         <td></td>
         <td> </td>
       </tr>
-<tr>
        </tbody>
   </table>
 </div>
