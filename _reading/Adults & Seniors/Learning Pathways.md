@@ -20,7 +20,7 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="/reading/adults-seniors/content#tldr-short-reads"><b>TLDR: Short Reads</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/reading/adults-seniors/content"><b>TLDR: Short Reads</b></a></td>
         <td style="width: 40%;">Get back into reading with these short reads. Or pull these out to tide you over that commute or long wait. From short stories, comics to poetry, we’ve got you covered.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
@@ -106,7 +106,7 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
       <tr>
         <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/190827439007"><b>Around the World in 68 Days by Koh Buck Song | Sing Lit Book Club</b></a></td>
         <td style="width: 40%;"> Join prolific author Koh Buck Song as we explore the history and culture of other countries and our shared humanity in his itinerant memoir.</td>
-        <td style="width: 20%;">20 Jan 2022, <br>8pm- 9pm</td>
+        <td style="width: 20%;">20 Jan 2022, <br>8pm - 9pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
