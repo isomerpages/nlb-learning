@@ -41,7 +41,7 @@ Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest p
 
 Head2Head seeks to create literary dialogues that pair writers of different genres and interests to negotiate their works in a new light. It features works that tackle facets of Singapore life, from nostalgic fiction writing to urban living, from the spoken word to digital mediums, capturing writing styles that writers constantly return to as they chart the past, present and future of Singapore through their words, images and voices.
 
-Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for the latest programme listings.
+Seasons 4 and 5 of Head2Head will be held in Apr and Aug 2022 respectively. Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for more programmes.
 
 ## **Reading in the Age of Distraction** 
 
