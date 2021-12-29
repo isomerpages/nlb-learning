@@ -95,7 +95,7 @@ Check our **learning packages** for D.I.Y activities to engage your child in rea
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/U4gYrzF6pWc&list=PLJlLW0qKYHTOH5LSSJs6sT6Aydgy8cnt1&index=17" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/U4gYrzF6pWc" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
