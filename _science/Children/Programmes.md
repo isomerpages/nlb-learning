@@ -34,7 +34,7 @@ Click [here](https://go.gov.sg/nlb-events){:target="_blank"} for the latest prog
 ![Budding Engineers](/images/science-lfa-updates/Budding-Engineers.png)
 A series of workshops for children to learn about engineering, physics and more.
 
-Click [here](https://go.gov.sg/nlb-events) {:target="_blank"} for the latest programme listings. Stay tuned for more updates.
+Click [here](https://go.gov.sg/nlb-events){:target="_blank"} for the latest programme listings. Stay tuned for more updates.
 
 ## **Tweenkerama: Science**
 ![Tweenkerama Science](/images/science-lfa-updates/Tweenkerama-Science.png)
