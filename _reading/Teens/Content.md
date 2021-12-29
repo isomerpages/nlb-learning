@@ -37,7 +37,6 @@ third_nav_title: Teens
 .clickbox.is-sky-indigo a:focus,
 .clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
 </style>
-
 Looking for your next literary adventure?  
 
 Check out our **playlists** for collections of short videos and podcasts to expand your reading interests.
@@ -47,24 +46,25 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#more-than-words---poetry">
+      <a href="#playlist-poetry">
         <span>Playlist:<br>More than Words - Poetry</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#DIY-black-out-poetry">
-        <span>Learning Package:<br> D.I.Y. Black Out Poetry</span>
+      <a href="#lp-poetry">
+        <span>Learning Package:<br>Teen Things: D.I.Y. Black Out Poetry</span>
       </a>
     </div>
   </div>
+	</div>
 
 
 <h3><b>Playlist</b></h3>
-A collection of short videos and podcasts to expand reading interests.
+A collection of short videos and podcasts to expand your reading and writing interests.
 
-<h5 id=" more-than-words---poetry" class="margin--bottom--lg"><b>Playlist: More than Words - Poetry</b></h5>
+<h5 id="playlist-poetry" class="margin--bottom--lg"><b>Playlist: More than Words - Poetry</b></h5>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
