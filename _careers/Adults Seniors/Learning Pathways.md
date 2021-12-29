@@ -50,7 +50,9 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
         <td>Discover the top questions that local interviewers like to ask, how to make your LinkedIn profile a honey trap, and how to get into the optimal mindset while you are on the hunt.</td>
         <td></td>
         <td> </td>
-      </tr>
+			</tr>
+	</table>
+</div>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
