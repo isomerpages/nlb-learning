@@ -35,7 +35,7 @@ A child's discovery of the world happens in their everyday life – in their int
         <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
-    <tbody>
+   <tbody>
       <tr>
         <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b> Developing Early Literacy Skills at Home (0-12 months)</b></a></td>
         <td style="width: 40%;"> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make!</td>
