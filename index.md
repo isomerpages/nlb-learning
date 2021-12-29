@@ -42,7 +42,8 @@ sections:
       image: /images/home/home-reading-kv.png
       alt: Image alt text
   - infopic:
-      description: For team to insert copy
+      description: Delve into the world of science literacy through fun, educational
+        and accessible content.
       button: Start Learning
       url: /science/overview
       image: /images/home/home-science-kv.png
