@@ -121,13 +121,13 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
 " target="_blank"><b>Think Like a coder: Session 1 [Amazing Algos] I DiscoverTech
 </b></a></td>
         <td>Children are introduced to algorithms and how they can make algorithms for day to day activities.</td>
-        <td>22 Jan 2022 <br>2.00pm - 2.30pm</td>
+        <td>22 Jan 2022 <br>2.00pm – 3.00pm</td>
         <td>Zoom</td>
       </tr>
 			<tr>
 <td><a href="https://www.eventbrite.com/c/early-read-sustainability-programmes-ccbkrxbd--MGq5L6nabutK/" target="_blank"><b>Birds in Singapore! (Animal Conservation Series)</b></a></td>
         <td>Join us in this special storytelling and craft session where you will learn about feathered friends in Singapore!</td>
-        <td>29 Jan 2022<br>11.00am - 12.00pm</td>
+        <td>29 Jan 2022<br>11.00am – 12.00pm</td>
         <td>Central Public Library</td>
       </tr>
     </tbody>
