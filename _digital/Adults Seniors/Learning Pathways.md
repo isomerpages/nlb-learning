@@ -146,9 +146,7 @@ Learn to use your smartphone effectively and safely to have knowledge at your fi
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
-    </tbody>
-  </table>
-</div>
+   
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
