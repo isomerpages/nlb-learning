@@ -90,7 +90,7 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
         <td>18 Mar 2022<br>3.00pm-4.00pm<br></td>
         <td>Zoom</td>
       </tr>
-   </body>
+   </tbody>
  </table>
 </div>
 
