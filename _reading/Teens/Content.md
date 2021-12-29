@@ -76,12 +76,13 @@ Edgar Allen Poe’s The Raven has long been considered the quintessential Gothic
 <a href="#main-content">Back to top</a><p></p>
 
 <h3><b>Learning Package</b></h3>
-Get insights on reading and written-word expressions with these articles and activities.	
+Get insights on reading and written-word expressions with these articles and activities.
+
 <h5 class="margin--bottom--lg" id="lp-poetry"><b>Teen Things: D.I.Y. Blackout Poetry</b></h5>
 
 Blackout poetry is a form of poetry where an author picks an existing piece of written text and repurposes it into a new poem by keeping a selection of words, and then *blacking out* the remaining words that’s not needed, giving the written text a different meaning than it had before.
 
-**Click on to learn how you can create your own blackout poem and discover other related resources!**
+**Create your own blackout poems and discover poetry-related resources here:**
 
 <div class="”row-is-multiline”"> <div class="“col">
 <a href="”https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things-archive#id13”"> <img alt="”D.I.Y." src="/images/reading/teens/DIYblackoutpoetrybutton.jpg"></a></div></div> 
