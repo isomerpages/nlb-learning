@@ -79,13 +79,12 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-progs" target="_blank"><b>Sensory Storytime!</b></a></td>
-        <td> Join us for a special story time tailored to support children with additional needs. Families with typically developing children aged 4-6 years old are also welcome.  Limited to 15 parent-child pairs.
+<td><a href="https://www.eventbrite.com/c/early-read-science-programmes-ccbkrwzp--iE1UQaAYdl04/" target="_blank"><b>[Budding Scientists] The Amazing Body!</b></a></td>
+        <td> As your children grow, they will start to recognise the different parts of their amazing bodies. In this programme, we will identify the various body parts, learn more about each of their important functions, and make our own little body puppet!
 </td>
-        <td>12 Feb 2022 <br>3.00pm-3.30pm</td>
-        <td>Bedok Public Library</td>
+        <td>12 Mar 2022 <br>2.00pm-3.00pm</td>
+        <td>Zoom</td>
       </tr>
-
     </tbody>
   </table>
 </div>
