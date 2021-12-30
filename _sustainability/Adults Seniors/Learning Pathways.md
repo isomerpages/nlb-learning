@@ -63,23 +63,13 @@ City in nature is one of the five key pillars in Singapore’s Green Plan. We ex
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Go Green & Grow: A Sustainability Learning Journey (Day 1)</b></a></td>
-        <td style="width: 40%;"><b>Day 1: Upcycling & Recycling</b><br>
-Understand how food waste can be recycled and converted into useful fertilizer at the Eco-Digestor (OTH) and participate in an upcycling workshop at TRL.<br><br>
-This is a 2-day learning journey jointly organized by Our Tampines Hub and NLB to raise awareness of the sustainable practices in the community and how everyone can play a part in contributing to a more sustainable world. Suitable for aged 50 and above.</td>
-        <td style="width: 20%;"> 11 Jan 2022,<br>9.30am – 12.30pm</td>
-        <td style="width: 20%;">Tampines Regional Library<br>OTH</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Go Green & Grow: A Sustainability Learning Journey (Day 2)</b></a></td>
-        <td><b>Day 2: From Garden to Table</b><br>
-Tour of the therapeutic garden to learn about the benefits of spices and how to grow them, followed by a demonstration of salad-making from homegrown produce. <br><br>
-This is a 2-day learning journey jointly organized by Our Tampines Hub and NLB to raise awareness of the sustainable practices in the community and how everyone can play a part in contributing to a more sustainable world. Suitable for aged 50 and above.</td>
-        <td style="width: 20%;"> 18 Jan 2022,<br>9.30am – 12.30pm</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/go-green-grow-a-sustainability-learning-journey-tickets-224433736347" target="_blank"><b>Go Green & Grow: A Sustainability Learning Journey</b></a></td>
+        <td style="width: 40%;">You may have heard about the global movement of sustaining the environment to meet the needs of the present and future generations. Want to know more about the sustainability-related happenings right in your neighbourhood and get introduced to practical tips on how to lead a more sustainable lifestyle? Register now for this two-day learning journey jointly organised by Our Tampines Hub and Tampines Regional Library.</td>
+        <td style="width: 20%;"> 11 & 18 Jan 2022,<br>10.30am – 1.00pm</td>
         <td style="width: 20%;">Tampines Regional Library<br>OTH</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Enroute to Zero- Waste</b></a></td>
+<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Enroute to Zero-Waste</b></a></td>
         <td>Discover how Singapore will be working towards a zero-waste and low emissions future.</td>
         <td>18 Jan 202, <br>7.30pm -8.30pm</td>
         <td>Choa Chu Kang Public Library</td>
@@ -91,15 +81,20 @@ This is a 2-day learning journey jointly organized by Our Tampines Hub and NLB t
         <td>Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Nature to the Rescue</b></a></td>
-        <td>Nature holds the key to our well-being and helps us to live well especially when it comes to mitigating floods and droughts.  In this session, our speaker explains the role of “natural capital’ in our journey towards sustainability.</td>
-        <td>22 Mar 2021, <br>7pm -8.30pm</td>
+<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Restoring Nature & Its Assets</b></a></td>
+        <td>How far could tree planting efforts and urban greenscape create a living space that rebalances nature and human needs? Join this talk to learn more on your role in restoring nature and its assets in the sustainability story.</td>
+        <td>22 Mar 2021, <br>7.00pm - 8.30pm</td>
         <td> Choa Chu Kang Public Library</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Green Market: Swap</b></a></td>
-        <td>The Green Market, the family friendly event is back and this time, it is about reducing wastage and encouraging sharing through swapping. At the same time, enjoy talks, workshops and interactive children programmes while you engage with various green groups at the market.</td>
-        <td>19-20 Mar 2021, <br>11am -8pm</td>
+<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Green Market: Conscious Consumer</b></a></td>
+        <td>The Green Market is a bi-annual event celebrating sustainable living as a community and connects us with green groups and initiatives that you can support.
+The theme for this weekend event, The Conscious Consumer, is an invitation for us to be more reflective of our lifestyle and act for the environment. 
+From 19 to 20 Mar 2022, Green Market: The Conscious Consumer offers over 8 interactive events and activities that you can access online and onsite at Choa Chu Kang Public Library. 
+You will also meet community organizations and groups that are championing green who will be setting up booths at the event.
+For all age groups. 
+</td>
+        <td>19-20 Mar 2021, <br>11.00am - 8.00pm</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
     </tbody>
@@ -117,10 +112,16 @@ This is a 2-day learning journey jointly organized by Our Tampines Hub and NLB t
       <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/214978475407" target="_blank"><b>Beauty Fixes from Nature</b></a></td>
         <td style="width: 40%;">In this workshop, we demonstrate how you can make beauty products using ingredients derived from nature which are featured in these books: <br><br>
-The Big Book of Homemde Products For Your Skin, Health & Home by Jan Berry<br>
+The Big Book of Homemade Products For Your Skin, Health & Home by Jan Berry<br>
 Botanical Beauty: 80 Essential Recipes for Natural Space Products by Aubre Andrus.</td>
-        <td style="width: 20%;">15 Dec 2021, <br>7.30pm-8.30pm</td>
+        <td style="width: 20%;">18 Feb 2022,  <br>7.00pm - 8.30pm</td>
         <td style="width: 20%;">Zoom</td>
+      </tr>
+			    <tr>
+        <td><a href="https://www.eventbrite.sg/e/thinker-play-did-someone-say-bingo-sustainability-time-of-your-life-tickets-224430907887" target="_blank"><b>Thinker + Play: Did Someone Say Bingo ( Sustainability) | Time of Your Life</b></a></td>
+        <td>Get ready for some light-hearted fun at this sustainability-themed Bingo session. Win by making horizontal, vertical or diagonal lines. Invite your friends along for double the fun!This programme is suitable for those aged 50 and above. Materials will be provided.</td>
+        <td>11 Jan 2022, <br>3.00pm - 4.00pm</td>
+        <td>Bedok Public Library, <br>Programme Room Level 3</td>
       </tr>
     </tbody>
   </table>
