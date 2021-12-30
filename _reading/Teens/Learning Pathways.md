@@ -37,7 +37,7 @@ Explore new experiences through the written word. <td>
       </tr>
     </thead>
     <tbody>
-      <tr>
+ <tr>
         <td style="width: 20%;"><a href="/reading/teens/content" target="_blank"><b>Playlist: More than Words – Poetry </b></a></td>
         <td style="width: 40%;"> Go on a literary adventure through this collection of short videos, and be inspired to find your voice through poetry.	 </td>
         <td style="width: 20%;"> </td>
