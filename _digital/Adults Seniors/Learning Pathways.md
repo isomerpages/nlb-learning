@@ -63,25 +63,48 @@ The story of technology is the history of people solving problems, overcoming ad
         <td style="width: 20%;"> 10 Jan 2022,<br>7pm – 8.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
-      <tr>
-        <td><a href="https://go.gov.sg/nlbmdl" target="_blank"><b>[My Digital Life]</b><br> Future of Learning 201</a></td>
-        <td>As the second installment of our Future of Learning series, this intermediate guided session will equip you with the knowledge and skills for using online collaborative tools such as Microsoft Teams and Microsoft Streams to maximise productivity and content quality. </td>
-        <td>17 Jan 2022, <br>7pm - 8.30pm</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
-<td><a href="https://go.gov.sg/nlbfow" target="_blank"><b>[Future of Work]</b><br>Who needs assistance with Assistive Technologies?</a></td>
+     <tr>
+<td><a href="https://www.eventbrite.sg/e/who-needs-assistance-with-assistive-technologies-future-of-work-registration-225074131787?aff=ebcollection" target="_blank"><b>[Future of Work]</b><br>Who needs assistance with Assistive Technologies?</a></td>
         <td>In this workshop, learn about the role that assistive technologies play in the lives of people with disabilities and their caregivers</td>
         <td>20 Jan 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/nlbmdl" target="_blank"><b>[My Digital Life]</b><br>Future of Learning 301</a></td>
-        <td>Through this third installment of the Future of Learning series, take part in a hands-on session with tools such as Microsoft Word, Powerpoint, Sway, Stream, Teams and OneNote, that can increase productivity and interactivity for collaborative work.</td>
-        <td>24 Jan 2022, <br>7pm - 8.30pm</td>
+<td><a href="https://www.eventbrite.com/e/design-thinking-my-digital-life-registration-228060283447?aff=ebcollection&keep_tld=1" target="_blank"><b>[My Digital Life]</b><br>Design Thinking</a></td>
+        <td>In this programme, learn about design thinking principles, methodology and framework, while taking a look at examples of how design thinking is implemented.
+</td>
+        <td>25 Jan 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
-    </tbody>
+			<tr>
+<td><a href="https://go.gov.sg/nlbmdl" target="_blank"><b>[My Digital Life]</b><br>Introduction to Gamification</a></td>
+        <td>Figure out how you can harness the potential of gamification and use it effectively. 
+</td>
+        <td>7 Feb 2022, <br>7pm - 8.30pm</td>
+        <td>Zoom</td>
+      </tr>
+			<tr>
+<td><a href="https://go.gov.sg/nlbmdl" target="_blank"><b>[My Digital Life]</b><br>Introduction to VR</a></td>
+        <td>Figure out how you can harness the potential of gamification and use it effectively. 
+</td>
+        <td>9 Feb 2022, <br>7pm - 8.30pm</td>
+        <td>Zoom</td>
+      </tr>
+			<tr>
+<td><a href="https://go.gov.sg/nlbfow" target="_blank"><b>[Future of Work]</b><br>Introduction to Owned Media Marketing</a></td>
+        <td>Learn useful skills and ideas about owned media marketing to enhance your brand.
+</td>
+        <td>11 Feb 2022, <br>7pm - 8.30pm</td>
+        <td>Zoom</td>
+      </tr>
+				<tr>
+<td><a href="https://go.gov.sg/nlbfow" target="_blank"><b>[Future of Work]</b><br>Introduction to User Experience</a></td>
+        <td>Explore the concept of user experience and find out how its principles can be applied in digital marketing. 
+</td>
+        <td>15 Mar 2022, <br>7pm - 8.30pm</td>
+        <td>Zoom</td>
+      </tr>
+			    </tbody>
   </table>
 </div>
 
@@ -97,7 +120,7 @@ The story of technology is the history of people solving problems, overcoming ad
         <td style="width: 20%;"><a href="https://go.gov.sg/lcsessions" target="_blank"><b>Pi and Python LC</b></a></td>
         <td style="width: 40%;">The aim of this LearnX Community is to create awareness of the Raspberry Pi, learn how to programme it using the Python Language, and create interesting projects like a burglar alarm.</td>
         <td style="width: 20%;">22 Jan 2021, <br>12pm-3pm</td>
-        <td style="width: 20%;">MakeIT @ TRL</td>
+        <td style="width: 20%;">MakeIT @ Tampines</td>
       </tr>
     </tbody>
   </table>
