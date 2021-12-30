@@ -81,15 +81,13 @@ Explore new experiences through the written word. <td>
         <td>Zoom</td>
       </tr>
 
-
 <tr>
 <td><a href="https://www.eventbrite.sg/e/storytelling-today-the-masterstroke-of-horror-storytelling-registration-210935954117?aff=ebdsoporgprofile" target="_blank"><b>Storytelling Today | The Masterstroke of Horror Storytelling</b></a></td>
         <td>There is a good reason horror stories are so popular, with adults and children alike - they help us escape to another world with hearts pounding and blood rushes. Learn about horror tropes and nuances of fear that authors Suffian Hakim & Tunku Halim deploy in their creations. </td>
         <td>28 Feb 2022, <br>8pm – 9pm</td>
         <td>Zoom</td>
         <td> </td>
-
-
+			</tr>
     </tbody>
   </table>
 </div>
@@ -105,7 +103,8 @@ Explore new experiences through the written word. <td>
       <tr>
       <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank"><b> S.T.E.A.M. Lab Mini</b></a></td>
         <td style="width: 40%;"> Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.</td>
-        
+      <td style="width: 20%;"> </td>
+     <td style="width: 20%;"> </td>
       </tr>
 <tr>
 <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/cckpl-unplugged-registration-230187495997?aff=ebdsoporgprofile" target="_blank"><b> CCKPL: Unplugged</b></a></td>
@@ -133,7 +132,6 @@ Explore new experiences through the written word. <td>
         <td style="width: 20%;"> 24 Jan 2022,<br>4pm – 5pm</td>
         <td style="width: 20%;"> Choa Chu Kang Public Library</td>
       </tr>
-
   </tbody>
   </table>
 </div>
