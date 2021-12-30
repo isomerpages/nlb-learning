@@ -27,7 +27,7 @@ third_nav_title: Teens
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3><b> Write On!</b></h3>
-Explore new experiences through the written word. <td>
+Explore new experiences through the written word. 
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -87,7 +87,6 @@ Explore new experiences through the written word. <td>
         <td>There is a good reason horror stories are so popular, with adults and children alike - they help us escape to another world with hearts pounding and blood rushes. Learn about horror tropes and nuances of fear that authors Suffian Hakim & Tunku Halim deploy in their creations. </td>
         <td>28 Feb 2022, <br>8pm – 9pm</td>
         <td>Zoom</td>
-        <td> </td>
 			</tr>
     </tbody>
   </table>
