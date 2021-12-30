@@ -27,7 +27,7 @@ third_nav_title: Teens
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3><b> Write On!</b></h3>
-Explore new experiences through the written word. 
+Explore new experiences through the written word. <td>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
