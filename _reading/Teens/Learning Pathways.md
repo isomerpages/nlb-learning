@@ -77,7 +77,7 @@ Explore new experiences through the written word.
 
 <tr>
 <td><a href=" https://www.eventbrite.sg/e/one-story-21-tickets-198075528237" target="_blank"><b>[ONE STORY 21] Online sharing and discussion for secondary school students | உயர்நிலைப் பள்ளி மாணவர்களுக்கான கதை கலந்துரையாடல் </b></a></td>
-        <td>A book discussion of the story, Razi by Dr Sa’edah Buang, for secondary school students. This discussion will be conducted in Tamil and facilitated by an invited author. Borrow the eBook (available in 4 languages – English, Malay, Tamil & Chinese) [here](https://go.gov.sg/onestoryebook). </td>
+        <td>A book discussion of the story, Razi by Dr Sa’edah Buang, for secondary school students. This discussion will be conducted in Tamil and facilitated by an invited author. Borrow the eBook (available in 4 languages – English, Malay, Tamil & Chinese) at https://go.gov.sg/onestoryebook. </td>
       <td>16 Jan 2022, <br>11am – 12.30pm</td>
         <td>Zoom</td>
       </tr>
