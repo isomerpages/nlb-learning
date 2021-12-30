@@ -63,7 +63,7 @@ Explore new experiences through the written word. <td>
       <tr>
         <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/nac-nlb-writers-lab-the-story-behind-the-story-by-gabby-tye-registration-226751779677?aff=ebdsoporgprofile " target="_blank"><b> [NAC- NLB Writers’ Lab] The Story Behind the Story by Gabby TYE </b></a></td>
         <td style="width: 40%;"> Ever wondered how authors think up their stories and ideas? Hear from Gabby Tye, author of the popular RunHideSeek & EverAfter series, as she shares her writing process and her journey of becoming one of Singapore’s youngest bestselling authors. </td>
-        <td style="width: 20%;"> 2 Jan 2022, <br>10.30am-11.30am </td>
+        <td style="width: 20%;"> 2 Jan 2022,<br>10.30am-11.30am </td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 
@@ -75,7 +75,7 @@ Explore new experiences through the written word. <td>
       </tr>
 
 <tr>
-<td><a href=" https://www.eventbrite.sg/e/one-story-21-tickets-198075528237" target="_blank"><b> [ONE STORY 21] Online sharing and discussion for secondary school students | உயர்நிலைப் பள்ளி மாணவர்களுக்கான கதை கலந்துரையாடல் </b></a></td>
+<td><a href=" https://www.eventbrite.sg/e/one-story-21-tickets-198075528237" target="_blank"><b>[ONE STORY 21] Online sharing and discussion for secondary school students | உயர்நிலைப் பள்ளி மாணவர்களுக்கான கதை கலந்துரையாடல் </b></a></td>
         <td>A book discussion of the story, Razi by Dr Sa’edah Buang, for secondary school students. This discussion will be conducted in Tamil and facilitated by an invited author. Download Razi ebook at https://go.gov.sg/onestoryebook. </td>
         <td>16 Jan 2022, <br>11am – 12:30pm</td>
         <td>Zoom</td>
@@ -114,23 +114,23 @@ Explore new experiences through the written word. <td>
       </tr>
 
 <tr>
-<td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/discover-discord-workshop-digilit-teens-takeover-registration-223173837957?aff=odcleoeventsincollection" target="_blank"><b> Discover Discord Workshop | digi.lit | Teens Takeover</b></a></td>
-        <td style="width: 40%;"> Learn how to use Discord to connect with global communities, join interest-based servers, and pick up tips to start your own server!</td>
-        <td style="width: 20%;"> 15 Jan 2022,<br>2pm – 3.30pm</td>
-        <td style="width: 20%;"> Zoom</td>
+<td><a href=" https://www.eventbrite.sg/e/discover-discord-workshop-digilit-teens-takeover-registration-223173837957?aff=odcleoeventsincollection" target="_blank"><b> Discover Discord Workshop | digi.lit | Teens Takeover</b></a></td>
+        <td> Learn how to use Discord to connect with global communities, join interest-based servers, and pick up tips to start your own server!</td>
+        <td> 15 Jan 2022,<br>2pm – 3.30pm</td>
+        <td> Zoom</td>
       </tr>
 <tr>
-<td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/resume-writing-skills-part-1-get-professional-registration-221273353557?aff=ebdsoporgprofile" target="_blank"><b> Resume Writing Skills (Part 1) | Get Professional</b></a></td>
-        <td style="width: 40%;"> Discover resume-writing skills that are relevant for today's job applications and how recruiters review resumes. </td>
-        <td style="width: 20%;"> 18 Jan 2022,<br>7pm – 9pm</td>
-        <td style="width: 20%;"> Zoom</td>
+<td><a href=" https://www.eventbrite.sg/e/resume-writing-skills-part-1-get-professional-registration-221273353557?aff=ebdsoporgprofile" target="_blank"><b> Resume Writing Skills (Part 1) | Get Professional</b></a></td>
+        <td> Discover resume-writing skills that are relevant for today's job applications and how recruiters review resumes. </td>
+        <td> 18 Jan 2022,<br>7pm – 9pm</td>
+        <td> Zoom</td>
       </tr>
 
 <tr>
-<td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/cckpl-tweenkerama-urban-farming-workshop-sustainability-registration-200716306877?aff=ebdsoporgprofile" target="_blank"><b> CCKPL: Tweenkerama - Urban Farming Workshop | Sustainability</b></a></td>
-        <td style="width: 40%;"> Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. For children and teens aged 10-13. </td>
-        <td style="width: 20%;"> 24 Jan 2022,<br>4pm – 5pm</td>
-        <td style="width: 20%;"> Choa Chu Kang Public Library</td>
+<td><a href=" https://www.eventbrite.sg/e/cckpl-tweenkerama-urban-farming-workshop-sustainability-registration-200716306877?aff=ebdsoporgprofile" target="_blank"><b> CCKPL: Tweenkerama - Urban Farming Workshop | Sustainability</b></a></td>
+        <td> Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. For children and teens aged 10-13. </td>
+        <td> 24 Jan 2022,<br>4pm – 5pm</td>
+        <td> Choa Chu Kang Public Library</td>
       </tr>
   </tbody>
   </table>
