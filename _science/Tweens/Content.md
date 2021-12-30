@@ -65,9 +65,9 @@ Use these resources to introduce your child to science concepts!
 </div>
 
 <h3><b>Playlist</b></h3>
-A collection of short videos exploring topics around science concepts.
+<p>A collection of short videos exploring topics around science concepts.</p>
 <h5 id="time-for-science"  class="margin--bottom--lg"><b>Playlist: Time for Science!</b></h5>
-Spark your child’s curiosity in science literacy through these engaging and educational videos!
+<p>Spark your child’s curiosity in science literacy through these engaging and educational videos!</p>
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -109,7 +109,7 @@ Have you ever wondered how a tall and high skyscraper like the Burj Khalifa in D
 </div>
 
 <h5 id="all-about-food-science"  class="margin--bottom--lg"><b>Playlist: All about Food Science!</b></h5>
-Satisfy your food cravings and learn about science behind it with this tasty taster playlist!
+<p>Satisfy your food cravings and learn about science behind it with this tasty taster playlist!</p>
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -150,12 +150,12 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
   </div>
 </div>
 <h3><b>Learning Package</b></h3>
-Spark your child’s curiosity in science literacy through engaging activities and articles.
+<p>Spark your child’s curiosity in science literacy through engaging activities and articles.</p>
 
 ![Baking Chemistry](/images/science-lfa-updates/scwyc-baking-chemistry.JPG)
 
 <h5 class="margin--bottom--lg" id="baking-chemistry" ><b> Stay Curious with Your Child: Baking Chemistry!</b></h5>
 <p> Make chemistry come alive at home by trying out this hands-on baking experiment with your child! </p>
-<h4 id="scwyc-baking-chemistry"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b>Learn More</b>
+<h4 id="scwyc-baking-chemistry"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b>Learn More</b></a></h4>
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
