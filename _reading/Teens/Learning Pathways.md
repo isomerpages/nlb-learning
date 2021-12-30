@@ -44,8 +44,8 @@ Explore new experiences through the written word. <td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a href="/reading/teens/content"><b>Learning Package: D.I.Y. Blackout Poetry</b></a></td>
-        <td style="width: 40%;"> Find out what exactly is blackout poetry and how you can easily craft your own. </td>
+        <td><a href="/reading/teens/content"><b>Learning Package: D.I.Y. Blackout Poetry</b></a></td>
+        <td> Find out what exactly is blackout poetry and how you can easily craft your own. </td>
         <td></td>
         <td> </td>
       </tr>
@@ -107,10 +107,10 @@ Explore new experiences through the written word. <td>
      <td style="width: 20%;"> </td>
       </tr>
 <tr>
-<td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/cckpl-unplugged-registration-230187495997?aff=ebdsoporgprofile" target="_blank"><b> CCKPL: Unplugged</b></a></td>
-        <td style="width: 40%;">Want to take a break and unwind over some tabletop games? During Unplugged, set aside your digital devices and have fun with a variety of games. For children and teens to attend with friends and family.</td>
-        <td style="width: 20%;"> 14 Jan 2022,<br>3pm – 5pm</td>
-        <td style="width: 20%;"> Choa Chu Kang Public Library</td>
+<td><a href=" https://www.eventbrite.sg/e/cckpl-unplugged-registration-230187495997?aff=ebdsoporgprofile" target="_blank"><b> CCKPL: Unplugged</b></a></td>
+        <td>Want to take a break and unwind over some tabletop games? During Unplugged, set aside your digital devices and have fun with a variety of games. For children and teens to attend with friends and family.</td>
+        <td> 14 Jan 2022,<br>3pm – 5pm</td>
+        <td> Choa Chu Kang Public Library</td>
       </tr>
 
 <tr>
