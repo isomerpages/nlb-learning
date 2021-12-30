@@ -68,7 +68,7 @@ City in nature is one of the five key pillars in Singapore’s Green Plan. We ex
 Understand how food waste can be recycled and converted into useful fertilizer at the Eco-Digestor (OTH) and participate in an upcycling workshop at TRL.<br><br>
 This is a 2-day learning journey jointly organized by Our Tampines Hub and NLB to raise awareness of the sustainable practices in the community and how everyone can play a part in contributing to a more sustainable world. Suitable for aged 50 and above.</td>
         <td style="width: 20%;"> 11 Jan 2022,<br>9.30am – 12.30pm</td>
-        <td style="width: 20%;">Tampines Reginal Library<br>OTH</td>
+        <td style="width: 20%;">Tampines Regional Library<br>OTH</td>
       </tr>
       <tr>
         <td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Go Green & Grow: A Sustainability Learning Journey (Day 2)</b></a></td>
@@ -76,7 +76,7 @@ This is a 2-day learning journey jointly organized by Our Tampines Hub and NLB t
 Tour of the therapeutic garden to learn about the benefits of spices and how to grow them, followed by a demonstration of salad-making from homegrown produce. <br><br>
 This is a 2-day learning journey jointly organized by Our Tampines Hub and NLB to raise awareness of the sustainable practices in the community and how everyone can play a part in contributing to a more sustainable world. Suitable for aged 50 and above.</td>
         <td style="width: 20%;"> 18 Jan 2022,<br>9.30am – 12.30pm</td>
-        <td style="width: 20%;">Tampines Reginal Library<br>OTH</td>
+        <td style="width: 20%;">Tampines Regional Library<br>OTH</td>
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Enroute to Zero- Waste</b></a></td>
