@@ -50,10 +50,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
         <td>Discover the top questions that local interviewers like to ask, how to make your LinkedIn profile a honey trap, and how to get into the optimal mindset while you are on the hunt.</td>
         <td></td>
         <td> </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+			</tr>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -64,19 +61,23 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b>A Career in Green Energy</b></td>
-        <td style="width: 40%;">What is it like having a career in this industry? How does one get a foot in the door? Find out in this talk by an expert from Nanyang Polytechnic. <b>Registration opens mid-December.</b></td>
-        <td style="width: 20%;">30 Dec 2021,<br>7pm - 9pm</td>
+        <td style="width: 20%;"><b>A Career in Fintech</b></td>
+        <td style="width: 40%;">What is it like having a career in this industry? How does one get a foot in the door? Find out in this talk by an expert from Nanyang Polytechnic.</td>
+        <td style="width: 20%;">TBC</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
-      <tr>
-        <td><b>Career Planning and
-Career Coaching (by partners)</b></td>
-        <td>Career Catalyst (1-to-1 Career Coaching) by WSG 
-					<br>Growth @ Work: Career Planning and Development workshop by Nanyang Polytechnic</td>
-        <td>Coming in Sep 2022</td>
-        <td>TBC</td>
+							      <tr>
+        <td><b>Career Coaching (by our partner WSG)</b></td>
+        <td>Career Catalyst (1-to-1 Career Coaching) by Workforce Singapore (WSG)</td>
+        <td>WSG's Career Catalyst - details available <a href="https://content.mycareersfuture.gov.sg/careercoaching/article/get-career-clarity/">at their website</a></td>
+        <td></td>
       </tr>
+      <tr>
+        <td><b>Career Planning</b></td>
+        <td>Growth @ Work: Career Planning and Development workshop by Nanyang Polytechnic</td>
+        <td>Coming in Sep 2022</td>
+        <td>Zoom</td>
+			</tr>
     </tbody>
   </table>
 </div>
@@ -92,13 +93,13 @@ Career Coaching (by partners)</b></td>
       <tr>
         <td style="width: 20%;"><a href="http://go.gov.sg/get-professional-series" target="_blank"><b>Resume Writing Skills</b></a></td>
         <td style="width: 40%;">Understand the thought process behind how recruiters review resumes so that you can create one that is truly representative of your talents, experiences, and potential.</td>
-        <td style="width: 20%;">Part 1:<br>8 Dec 2021, <br>18 Jan 2022, <br>11 Feb 2022,<br> 7pm - 9pm<br><br> Part 2:<br>15 Dec 2021,<br>25 Jan 2022,<br> Feb 25 2022,<br> 7pm - 9pm</td>
+        <td style="width: 20%;">Part 1:<br>18 Jan 2022, <br>11 Feb 2022,<br> 7pm - 9pm<br><br> Part 2:<br>25 Jan 2022,<br>25 Feb 2022,<br> 7pm - 9pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
         <td><a href="http://go.gov.sg/get-professional-series" target="_blank"><b>Interview Skills</b></a></td>
         <td>This workshop will guide you through the pre to post-interview processes, help you to understand what your interviewer is looking for, and how to ace the interview session itself.</td>
-        <td>7 Dec 2021,<br>7 Jan 2022,<br> Jan 47 2022, <br> Feb 4 2022, <br>7pm - 9pm<br></td>
+        <td>7 Jan 2022,<br>17 Jan 2022, <br>4 Feb 2022, <br>7pm - 9pm<br></td>
         <td>Zoom</td>
       </tr>
 <tr>
@@ -119,13 +120,6 @@ Career Coaching (by partners)</b></td>
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/a-clean-break-from-coal-singapores-transition-to-clean-energy-tickets-213485630267?aff=ebcollection&keep_tld=1" target="_blank"><b>LearnX Sustainability</b><br>The Low Carbon Economy</a></td>
-        <td style="width: 40%;">A Clean Break From Coal: Singapore's Transition to Clean Energy<br><br>
-Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Material Science & Engineering, Nanyang Technological University to learn more on the city state’s transition to clean energy and how it plans to achieve energy resilience.</td>
-        <td style="width: 20%;">21 Dec 2021<br> 7.30-8.30pm</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library</td>
-      </tr>
       <tr>
         <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>LearnX Digital</b><br>Future of Work</a></td>
         <td>Learn more about current and upcoming changing needs at work, to get working adults better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites.</td>
@@ -244,8 +238,8 @@ Join this talk by our expert speaker, Dr Leow Shin Woei, Research Fellow from Ma
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/get-professional-series" target="_blank"><b>EQ at Work</b></a></td>
-        <td style="width: 40%;">Learn tips and strategies to prevent or get out of sticky situations at work – with finesse.</td>
-        <td style="width: 20%;"> 18 Dec 2021,<br>10.30am – 12.30pm</td>
+        <td style="width: 40%;">In this group coaching session, exchange tips and strategies with the trainer and your fellow attendees to get out of sticky situations at work – with finesse.</td>
+        <td style="width: 20%;">14 Jan 2022,<br>7.00pm – 8.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>

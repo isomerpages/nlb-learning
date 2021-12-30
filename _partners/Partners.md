@@ -125,13 +125,10 @@ Learn how to create unique content through storytelling and incorporate subtle c
 </tr>
 
 
-
 <!-- End your code here -->
   
-
 </tbody></table>
 <br>
-<!-- table 2 code here -->
 
 <table>
 <table width="100%" cellspacing="15" cellpadding="15" border="0">
@@ -156,12 +153,13 @@ In this session, join Mr Aaron Lim, Lecturer from Nanyang Polytechnic’s School
 <td>18 Dec, 2pm - 3.30pm</td>
 <td>Choa Chu Kang Public Library </td>
 </tr>
+	</table>
 	
 <!-- End your code here -->
   
 
-</tbody></table>
-<br>
+
+<br><br>
 
 <table>
 <table width="100%" cellspacing="15" cellpadding="15" border="0">

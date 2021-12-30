@@ -34,6 +34,20 @@ sections:
       url: /sustainability/overview
       image: /images/home/home-sustainability-kv.png
       alt: LearnX Sustainability
+  - infopic:
+      description: Reading never ends. Expand your world and learn to read well in the
+        digital age with our recommendations.
+      button: start Learning
+      url: /reading/overview
+      image: /images/home/home-reading-kv.png
+      alt: Image alt text
+  - infopic:
+      description: Delve into the world of science literacy through fun, educational
+        and accessible content.
+      button: Start Learning
+      url: /science/overview
+      image: /images/home/home-science-kv.png
+      alt: Image alt text
   - infobar:
       title: Find a group of like-minded people to learn with.
       button: Explore Communities

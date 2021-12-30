@@ -29,7 +29,7 @@ LearnX Digital goes beyond books to bring tech closer to you, with up-close and 
 
 ## **Future Of Work**
 
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-01.jpg)
+![Alt text for image on Isomer site](/images/Future%20of%20work%20banner.jpg)
 
 Learn more about the evolving needs at work and get better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites.
 

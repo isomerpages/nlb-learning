@@ -418,14 +418,21 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 </table>
 	
 <h4>Videos</h4>
-<h5>1. Lessons on Digital Citizenship From Charlie Brown</h5>
+<h5>1. Introducing Digital Wellbeing Experiments</5>
+<p>Explore the different tools and ideas that are designed to improve your relationship with technology and help you stay afloat.</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rt5LY5TeTVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="https://www.youtube.com/watch?v=rt5LY5TeTVQ" target="_blank"> Introducing Digital Wellbeing Experiments - Youtube</a> (2019, Oct 23). <i>Google.</i> Retrieved 2021, December 20
+
+<h5>2. Lessons on Digital Citizenship From Charlie Brown</h5>
 <p>Digital citizenship refers to the safe, ethical usage of technology and the maintenance of a good, responsible online presence. In this talk, learn how you can positively impact your community by being a good digital citizen!</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JvDGGceA-0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 Source: <a href="https://www.youtube.com/embed/JvDGGceA-0A" target="_blank"> Lessons on Digital Citizenship From Charlie Brown</a> (2016, May 26). <i>TEDx Talks.</i> Retrieved 2021, October 17
 
-<h5>2. It’s not you. Phones are designed to be addicting. </h5> 
+<h5>3. It’s not you. Phones are designed to be addicting. </h5> 
 <p>In this exciting video, explore the design elements making it so difficult for us to put down our phones and learn some ways in which you can take control of your phone usage.</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NUMa0QkPzns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -433,12 +440,12 @@ Source: <a href="https://www.youtube.com/embed/JvDGGceA-0A" target="_blank"> Les
 Source: <a href="https://www.youtube.com/embed/NUMa0QkPzns" target="_blank"> It’s not you. Phones are designed to be addicting. </a> (2018, Feb 23). <i>Vox.</i> Retrieved 2021, October 17
 
 <h4>Podcast</h4>
-<h5>3. 982: Improving Digital Wellness with Tommy Sobel. </h5> 
+<h5>4. 982: Improving Digital Wellness with Tommy Sobel. </h5> 
 <p>Find out more about establishing a healthier relationship with technology by hearing from Digital Habits Coach Tommy Sobel.</p>
 Source: <a href="https://mindpumppodcast.com/982-improving-digital-wellness-with-tommy-sobel/" target="_blank"> 982: Improving Digital Wellness with Tommy Sobel. </a> <i> Mind Pump Media.</i> Retrieved 2021, October 17
 
 <h4> Audio Books &amp; E-books</h4>
-<h5>1. The Cyber Effect</h5>
+<h5>5. The Cyber Effect</h5>
 Mary Aiken (2016), <i>The Cyber Effect</i>, Random House Publishing Group.
 <br>
 <a href="https://share.libbyapp.com/title/2621145" target="_blank"><img src="images/digital/adults/cyberwellness/TheCyberEffect.jpg" style="width:300px; text-align:left;" alt="book cover for The Cyber Effect"></a>
@@ -447,7 +454,7 @@ Mary Aiken (2016), <i>The Cyber Effect</i>, Random House Publishing Group.
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 
-<h5>2. The Dark Side of Our Digital World </h5>
+<h5>6. The Dark Side of Our Digital World </h5>
 Andrew Weiss (2020), <i> The Dark Side of Our Digital World </i>, Rowman &amp; Littlefield Publishers.
 <br>
 <a href="https://share.libbyapp.com/title/5353717" target="_blank"><img src="images/digital/adults/cyberwellness/TheDarkSideofOurDigitalWorld.jpg" style="width:300px; text-align:left;" alt="book cover for The Dark Side of Our Digital World"></a>
@@ -455,7 +462,7 @@ Andrew Weiss (2020), <i> The Dark Side of Our Digital World </i>, Rowman &amp; L
 <p><a href="https://share.libbyapp.com/title/5353717" target="_blank">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
-<h5>3. Digital Minimalism </h5>
+<h5>7. Digital Minimalism </h5>
 Cal Newport (2019), <i> Digital Minimalism </i>, Penguin Publishing Group.
 <br>
 <a href="https://share.libbyapp.com/title/4022749"><img src="images/digital/adults/cyberwellness/DigitalMinimalism.jpg" style="width:300px; text-align:left;" alt="book cover for Digital Minimalism"></a>
@@ -494,14 +501,22 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 </table>
 	
 <h4>Videos</h4>
-<h5>1. Where is cybercrime really coming from? | Caleb Barlow </h5>
+<h5> 1. How worried should we be about deadly cyber attacks? - BBC News </h5>
+<p> The threat of cyber attacks has been a prevalent one for years, and it’s only a matter of time before it reaches the level of fatality, with the German police already carrying out a homicide investigation in which the masterminds could very well be hackers. Find out more in this segment! </p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zSLDT7st7DI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="https://www.youtube.com/watch?v=zSLDT7st7DI" target="_blank"> How worried should we be about deadly cyber attacks? - BBC News - Youtube </a> (2020, Sep 26). <i>BBC News.</i> Retrieved 2021, December 20
+
+
+<h5>2. Where is cybercrime really coming from? | Caleb Barlow </h5>
 <p>Understand the severity of cybercrime and explore the possibility of a collaborative, collective solution against it.</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FqrLUtIFVjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 Source: <a href="https://www.youtube.com/embed/FqrLUtIFVjs" target="_blank"> Where is cybercrime really coming from? </a> (2017, May 16). <i>TED.</i> Retrieved 2021, October 14
 
-<h5>2. Are You Being Hacked? Meet The Cybersecurity Heroes Fighting The Deep Dark Web | On The Red Dot </h5> 
+<h5>3. Are You Being Hacked? Meet The Cybersecurity Heroes Fighting The Deep Dark Web | On The Red Dot </h5> 
 <p>In this insightful documentary, delve into the depths of the dark web and learn more about the technology being used in the fight against cybercrime.</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEs1hBghFEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -509,12 +524,12 @@ Source: <a href="https://www.youtube.com/embed/FqrLUtIFVjs" target="_blank"> Whe
 Source: <a href="https://www.youtube.com/embed/kEs1hBghFEA" target="_blank"> Are You Being Hacked? Meet The Cybersecurity Heroes Fighting The Deep Dark Web | On The Red Dot. </a> (2021, Mar 31). <i>CAN Insider.</i> Retrieved 2021, October 14
 
 <h4>Podcast</h4>
-<h5>3. Episode One: Roy Gets Hacked by an Evil Clown | What the Hack with Adam Levin </h5> 
+<h5>4. Episode One: Roy Gets Hacked by an Evil Clown | What the Hack with Adam Levin </h5> 
 <p>In this introductory podcast episode, learn how hackers embed malicious software in words, graphics, or header advertisements, and find out how you can stay safe on various online platforms and by practising good password habits.</p>
 Source: <a href="https://adamlevin.com/2021/07/12/new-podcast-what-the-hack-with-adam-levin-and-friends/" target="_blank"> Episode One: Roy Gets Hacked by an Evil Clown | What the Hack with Adam Levin. </a> <i> Adam Levin.</i> Retrieved 2021, October 16
 
 <h4> Audio Books &amp; E-books</h4>
-<h5>1. Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin’s Most Dangerous Hackers</h5>
+<h5>5. Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin’s Most Dangerous Hackers</h5>
 Andy Greenberg (2019), <i> Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin’s Most Dangerous Hackers </i>, Knopf Doubleday Publishing Group.
 <br>
 <a href="https://share.libbyapp.com/title/4715580" target="_blank"><img src="images/digital/adults/cybercrime/Sandworm.jpg" style="width:300px; text-align:left;" alt="book cover for Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin’s Most Dangerous Hackers"></a>
@@ -522,7 +537,7 @@ Andy Greenberg (2019), <i> Sandworm: A New Era of Cyberwar and the Hunt for the 
 <p><a href="https://share.libbyapp.com/title/4715580" target="_blank">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
-<h5>2. Net Force: Dark Web </h5>
+<h5>6. Net Force: Dark Web </h5>
 Jerome Preisler (2019), <i> Net Force: Dark Web </i>, Hanover Square Press.
 <br>
 <a href="https://share.libbyapp.com/title/4659451" target="_blank"><img src="images/digital/adults/cybercrime/NetForce.jpg" style="width:300px; text-align:left;" alt="book cover for Net Force: Dark Web"></a>
@@ -530,7 +545,7 @@ Jerome Preisler (2019), <i> Net Force: Dark Web </i>, Hanover Square Press.
 <p><a href="https://share.libbyapp.com/title/4659451" target="_blank">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
-<h5>3. The Art of Invisibility </h5>
+<h5>7. The Art of Invisibility </h5>
 Kevin Mitnick (2019), <i> The Art of Invisibility </i>, Little, Brown and Company.
 <br>
 <a href="https://share.libbyapp.com/title/2763965" target="_blank"><img src="images/digital/adults/cybercrime/TheArtofInvisibility.jpg
@@ -577,13 +592,20 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 </div>
 Source: <a href="https://www.youtube.com/embed/ gHGN6hs2gZY" target="_blank"> What is Design Thinking? An Overview</a> (2020, Feb 4). <i> AJ&amp;Smart.</i> Retrieved 2021, October 13
 
+<h5> 2. The Design Thinking Process </h5>
+<p> Get an in-depth look into the Design Thinking process and what it entails. The examples and steps featured will help you on your own journey in creating an effective solution for your own cause! </p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_r0VX-aU_T8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Source: <a href="https://www.youtube.com/watch?v=_r0VX-aU_T8" target="_blank"> The Design Thinking Process - Youtube</a> (2017, Oct 13). <i> Sprouts.</i> Retrieved 2021, December 20
+
 <h4>Podcast</h4>
-<h5>2. Design Thinking and Innovation </h5> 
+<h5>3. Design Thinking and Innovation </h5> 
 <p>Dive deep into the tenets of Design Thinking, learn how they are applied, and explore the key elements in ensuring the adoption of this mindset in our world today.</p>
 Source: <a href="https://www.ipi-singapore.org/podcasts/design-thinking-and-innovation.html" target="_blank"> Design Thinking and Innovation </a> <i> Innovation Partner for Impact.</i> Retrieved 2021, October 13
 
 <h4> Audio Books &amp; E-books</h4>
-<h5>1. The Design Thinking Playbook </h5>
+<h5>4. The Design Thinking Playbook </h5>
 Michael Lewrick, Patrick Link, Larry Leifer (2018),<i> The Design Thinking Playbook, Wiley. </i>, Wiley.
 <br>
 <a href="https://share.libbyapp.com/title/3597207" target="_blank"><img src="images/digital/adults/designthinking/TheDesignThinkingPlaybook.jpg" style="width:300px; text-align:left;" alt="book cover for The Design Thinking Playbook"></a>
@@ -593,7 +615,7 @@ Michael Lewrick, Patrick Link, Larry Leifer (2018),<i> The Design Thinking Playb
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 
-<h5>2. Change by Design</h5>
+<h5>5. Change by Design</h5>
 Tim Brown (2019), <i> Change by Design, </i>, Harper Business.
 <br>
 <a href="https://share.libbyapp.com/title/4056857" target="_blank"><img src="images/digital/adults/designthinking/ChangebyDesign.jpg" style="width:300px; text-align:left;" alt="book cover for Change by Design"></a>
@@ -601,7 +623,7 @@ Tim Brown (2019), <i> Change by Design, </i>, Harper Business.
 <p><a href="https://share.libbyapp.com/title/4056857" target="_blank">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
-<h5>3. Inclusive Design for a Digital World </h5>
+<h5>6. Inclusive Design for a Digital World </h5>
 Regine M. Gilbert (2019), <i> Inclusive Design for a Digital World: Designing with Accessibility in Mind </i>, Apress.
 <br>
 <a href="https://share.libbyapp.com/title/5200372" target="_blank"><img src="images/digital/adults/designthinking/InclusiveDesignforaDigitalWorld.jpg" style="width:300px; text-align:left;" alt="book cover Inclusive Design for a Digital World: Designing with Accessibility in Mind"></a>

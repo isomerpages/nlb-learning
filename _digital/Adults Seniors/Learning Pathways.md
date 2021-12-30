@@ -28,9 +28,8 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 
 We start with a healthy digital lifestyle for all, and for seniors, <a href="#effectively-use-smartphones ">Master The Use Of Smartphones</a>.
 
-<h3><b>Embrace a Safe and Healthy Digital Lifestyle
-</b></h3>
-Technology is changing the way we live and work by making things more accessible. Yet, it also comes with it’s associated dangers and impact. Learn more about how to use technology safely and creating new ways to maintain a healthy and balanced lifestyle.
+<h3><b>Explore the latest innovation and emerging tech trends</b></h3>
+The story of technology is the history of people solving problems, overcoming adversity through ingenuity and elegant solutions. Join us as we unpack and demystify some of the latest technology trends and learn how a human-centric design towards innovation can help to improve our work and lifestyle.
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -41,16 +40,10 @@ Technology is changing the way we live and work by making things more accessible
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/adults-seniors/content" target="_blank"><b>Cybercrime</b></a></td>
-        <td style="width: 40%;">Learn how to avoid Cybercrime with our Learning Packages and Playlists</td>
+        <td style="width: 20%;"><a href="/digital/adults-seniors/content" target="_blank"><b>Design Thinking</b></a></td>
+        <td style="width: 40%;">Explore the latest innovation and emerging tech trends with our Learning Packages and Playlists</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
-      </tr>
-      <tr>
-        <td><a href="/digital/adults-seniors/content" target="_blank"><b>Cyber Wellness</b></a></td>
-        <td>Learn more about Cyber Wellness with our Learning Packages and Playlists</td>
-        <td></td>
-        <td></td>
       </tr>
     </tbody>
   </table>
@@ -65,57 +58,27 @@ Technology is changing the way we live and work by making things more accessible
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>[Future of Work]</b><br> Introduction to Hacking Software and Protection Tools</a></td>
-        <td style="width: 40%;"> Learn about the approaches to hacking and find out what tools can help you protect your data.</td>
-        <td style="width: 20%;"> 2 Dec 2021,<br>7pm – 8.30pm</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/nlbmdl" target="_blank"><b>[My Digital Life]</b><br> Introduction to Future of Learning</a></td>
+        <td style="width: 40%;">Collaborative eLearning involves online social interaction with peers, instructors, and experts. In this programme, take the opportunity to view and understand things from different perspectives while problem-solving in groups!</td>
+        <td style="width: 20%;"> 10 Jan 2022,<br>7pm – 8.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><a href="https://www.eventbrite.sg/e/how-to-be-a-smart-fact-checker-sure-x-my-digital-life-registration-209078267727?aff=ebdssbonlinesearch" target="_blank"><b>[S. U. R. E. Skills Series x My Digital Life]</b><br> Be a Smart Factchecker</a></td>
-        <td>Find out how to distinguish between real facts and fake news in this programme. </td>
-        <td>3 Dec 2021, <br>7pm - 8.30pm</td>
+        <td><a href="https://go.gov.sg/nlbmdl" target="_blank"><b>[My Digital Life]</b><br> Future of Learning 201</a></td>
+        <td>As the second installment of our Future of Learning series, this intermediate guided session will equip you with the knowledge and skills for using online collaborative tools such as Microsoft Teams and Microsoft Streams to maximise productivity and content quality. </td>
+        <td>17 Jan 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.com/c/my-digital-life-ccbgxhmp--Z5JZyySTqONy/" target="_blank"><b>[My Digital Life]</b><br>Cyberbullying</a></td>
-        <td>Find out how you can identify signs of cyberbullying and help persons who are victims of it.</td>
-        <td>6 Dec 2021, <br>7pm - 8.30pm</td>
+<td><a href="https://go.gov.sg/nlbfow" target="_blank"><b>[Future of Work]</b><br>Who needs assistance with Assistive Technologies?</a></td>
+        <td>In this workshop, learn about the role that assistive technologies play in the lives of people with disabilities and their caregivers</td>
+        <td>20 Jan 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>[Future of Work]</b><br>Hacking Software and Protection Tools 201</a></td>
-        <td> Learn about the complex levels of hacking, the protection methods that developed as a result of them, and the usage of associated advanced tools.</td>
-        <td>9 Dec 2021, <br>7pm - 8.30pm</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
-	<td><a href="https://www.eventbrite.com/c/my-digital-life-ccbgxhmp--Z5JZyySTqONy/" target="_blank"><b>[My Digital Life]</b><br>Digital Etiquette</a></td>
-        <td>Understand the importance of good digital etiquette and how it impacts other users.</td>
-        <td>9 Dec 2021, <br>7pm - 8.30pm</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
-<td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>[Future of Work]</b><br>Introduction to Information Security </a></td>
-        <td>Learn about the common approaches to information security and acquire basic foundational knowledge on the topic.</td>
-        <td>14 Dec 2021, <br>7pm - 8.30pm</td>
-        <td>Zoon</td>
-      </tr>
-<tr>
-<td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>[Future of Work]</b><br>Introduction to Website Security</a></td>
-        <td>Learn about the common approaches to website security and acquire basic foundational knowledge on the topic.</td>
-        <td>16 Dec 2021, <br>7pm - 8.30pm</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
-<td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>[Future of Work]</b><br>Information Security 201</a></td>
-        <td>Learn about the more complex approaches to information security and acquire more in-depth knowledge on this topic.</td>
-        <td>18 Dec 2021, <br>7pm - 8.30pm</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
-<td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>[Future of Work]</b><br>Website Security 201</a></td>
-        <td>Understand the importance of website security and dive deep into the security protection measures you can undertake to secure your website.</td>
-        <td>21 Dec 2021, <br>7pm - 8.30pm</td>
+<td><a href="https://go.gov.sg/nlbmdl" target="_blank"><b>[My Digital Life]</b><br>Future of Learning 301</a></td>
+        <td>Through this third installment of the Future of Learning series, take part in a hands-on session with tools such as Microsoft Word, Powerpoint, Sway, Stream, Teams and OneNote, that can increase productivity and interactivity for collaborative work.</td>
+        <td>24 Jan 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
     </tbody>
@@ -133,15 +96,8 @@ Technology is changing the way we live and work by making things more accessible
       <tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/lcsessions" target="_blank"><b>Pi and Python LC</b></a></td>
         <td style="width: 40%;">The aim of this LearnX Community is to create awareness of the Raspberry Pi, learn how to programme it using the Python Language, and create interesting projects like a burglar alarm.</td>
-        <td style="width: 20%;">2 Dec 2021, <br>9pm - 10pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-<tr>
-        <td><a href="https://go.gov.sg/poutline" target="_blank"><b>Chatbot LC</b></a></td>
-        <td>Are you interested in creating your very own Chatbot? Join our Chatbot-making challenge and meet like-minded folks in this new LearnX Community. <br><br>
-In this four-week programme, participants will go through self-paced e-learning via a learning platform and have the opportunity to prototype a Smart Nation Chatbot. AI Experts will also be guiding and evaluating your Chatbots online. Please refer to https://go.gov.sg/poutline for a detailed programme outline.</td>
-        <td>20 Nov-18 Dec 2021</td>
-        <td>Telegram</td>
+        <td style="width: 20%;">22 Jan 2021, <br>12pm-3pm</td>
+        <td style="width: 20%;">MakeIT @ TRL</td>
       </tr>
     </tbody>
   </table>
@@ -189,9 +145,7 @@ Learn to use your smartphone effectively and safely to have knowledge at your fi
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
-    </tbody>
-  </table>
-</div>
+   
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -218,72 +172,6 @@ Yishun Public Library<br></td>
         <td>LLJ equips participants with basic introductory knowledge on the library’s digital services e.g. eNewspapers, Wireless@SG, and NLB Mobile App.</td>
         <td>Available for daily walk-ins at selected public libraries.</td>
         <td>List of selected libraries available <a href="https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys" target="_blank">here</a>.</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>[Basic Digital Skills]</b><br> Everyday Banking with POSB digibank</a></td>
-        <td>This workshop provides a step-by-step guide to POSB digibank. Plus, learn how to protect yourself online with our #BSHARP security tips!</td>
-        <td>6 Dec 2021, <br>3pm – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>[Basic Digital Skills]</b><br>Go Cashless with DBS PayLah!</a></td>
-        <td>Learn how to make your everyday easier with the DBS PayLah! app. Whether you are paying your friends, buying groceries or paying for your bills and more, enjoy convenience and seamless every day services with PayLah!</td>
-        <td>13 Dec 2021, <br>3pm – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>[Basic Digital Skills]</b><br>Make e-Payments with PayNow</a></td>
-        <td>Learn about the benefits of PayNow and how to use PayNow on your POSB digibank app and internet banking. .</td>
-        <td>20 Dec 2021, <br>3pm – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/e/sure-skills-series-for-seniors-spotting-deepfake-images-and-videos-tickets-174925586137?aff=ebdssbonlinesearch" target="_blank"><b>[S.U.R.E Skills Series]</b><br>Spotting Deepfake Images & Videos</a></td>
-        <td>Learn more about Artificial Intelligence generated deepfake images and videos, how they work, and how to detect them.</td>
-        <td>7 Dec 2021, <br>3pm – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/e/sure-tickets-174926157847?aff=ebdssbonlinesearch" target="_blank"><b>[银发族S.U.R.E.技能系列] 如何识破 “深度伪造” 图像和影像</b></a></td>
-        <td>通过这个工作坊，您能了解什么是利用人工智能（AI）合成的“深度伪造” (Deepfake) 图像和影像，以及如何识破它们。</td>
-        <td>15 Dec 2021, <br>3pm – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.com/c/my-digital-life-ccbgxhmp--Z5JZyySTqONy/" target="_blank"><b>[My Digital Life]</b><br>Social Impact of Technologies</a></td>
-        <td>Learn more about the positive and negative impact of technology in our daily lives</td>
-        <td>2 Dec 2021, <br>3pm – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.com/c/my-digital-life-ccbgxhmp--Z5JZyySTqONy/" target="_blank"><b>[My Digital Life]</b><br>Internet of Things</a></td>
-        <td>Find out more about the fundamentals of IoT at this workshop, including how some common sensors work, its interface to a microcontroller, and how the Internet fits into all of this..</td>
-        <td>21 Dec 2021, <br>3pm – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Use and Apply Skills</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/it-talk-series-useful-google-apps-for-seniors-part-1-time-of-your-life-tickets-202760250367?aff=ebdssbonlinesearch" target="_blank"><b>Useful Google Apps for Seniors Part 1 | Time of Your Life</b></a></td>
-        <td style="width: 40%;">Learn how Google Photos & YouTube can be useful for you!</td>
-        <td style="width: 20%;">2 Dec 2021, <br>9pm - 10pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.eventbrite.sg/e/it-talk-series-useful-google-apps-for-seniors-part-2-time-of-your-life-tickets-202772115857?aff=ebdssbonlinesearch" target="_blank"><b>Useful Google Apps for Seniors Part 2 | Time of Your Life</b></a></td>
-        <td>Learn how Google Photos & YouTube can be useful for you!</td>
-        <td style="width: 20%;">16 Dec 2021, <br>9pm - 10pm</td>
-        <td style="width: 20%;">Zoom</td>
       </tr>
     </tbody>
   </table>

@@ -59,7 +59,7 @@ For Children between 7 to 10 years old, conducted ad-hoc in Tamil online.</p>
   <div class="col is-half-tablet padding--bottom--lg">
     <img alt="Chinese Senior's Reading Club 分享读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-07.jpg">
     <div class="margin--top--lg">
-      <h5 class="margin--top--sm margin--bottom--sm"><b> Chinese Share Read Book Club 碧山图书馆乐龄读书会 </b></h5>
+      <h5 class="margin--top--sm margin--bottom--sm"><b> Bishan Seniors reading club 碧山乐龄读书会 </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Come join a group of active senior citizens in this monthly book discussion activity! As the sessions are facilitated and conducted in Chinese, you also get to improve your Chinese conversational skills as you share your experiences in life along the book discussions.<br><br>
 想结交新朋友、促进华语会话和分享您的阅读经验吗？碧山乐龄读书会每个月都会聚集一群活跃的乐龄朋友与图书馆馆员一同讨论书籍和文章。现在就加入我们吧！<br><br>
 For Seniors, conducted monthly in Chinese at Bishan Public Library.</p>
@@ -72,8 +72,8 @@ For Seniors, conducted monthly in Chinese at Bishan Public Library.</p>
       <h5 class="margin--top--sm margin--bottom--sm"><b> Chinese Share Read Book Club 分享读书会 </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> This club is for adults who are passionate about Chinese stories and culture. The participants read and discuss short stories and novels. <br><br>
 你喜欢阅读中文书吗？我们诚意邀请您来参加我们的阅读分享会。每 个月的第一个星期三，我们都会介绍不同的书，进行讨论，分享阅读 心得。欢迎您加入我们的读书会。<br><br>
-For Adults and Seniors, conducted monthly in Chinese at Woodlands Regional Library.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+For Adults and Seniors, conducted monthly in Chinese online via Zoom. Physical programme at Woodlands Regional Library is suspended until further notice.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://www.go.gov.sg/shareread"> Click here for upcoming sessions</a></p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
@@ -112,18 +112,18 @@ For Seniors, conducted monthly in English at Central Public Library.</p>
       <h5 class="margin--top--sm margin--bottom--sm"><b> Growing Parents Reading Club 性情家长读书会</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Through sharing books on education, psychology and self-development, the club hopes to inspire members, broaden their horizons and promote parent-child relations.<br><br>
 “有成长的家长，就有成长的孩子。”性情家长读书会希望通过分享教育、心理、自我成长等内容的书籍，给成员启发，开拓其视野，并促进亲子关系。<br><br>
-For Parents, conducted quarterly in Chinese at library@harbourfront.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+For Parents and Educators, conducted monthly in Chinese online via Zoom. Physical programme at library@harbourfront is suspended until further notice.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="www.go.gov.sg/growing-parents"> Click here for upcoming sessions</a></p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <img alt="Han Cultural Society Book Club 汉文化读书会" src="/images/learning-communities/reading/LC-Reading-HanCulturalSociety-01.jpg">
     <div class="margin--top--lg">
-      <h5 class="margin--top--sm margin--bottom--sm"><b> Han Cultural Society Book Club 汉文化读书会</b></h5>
-      <p class="margin--top--sm margin--bottom--sm"> Han cultural Society and Geylang East Library setup the reading club in 2020. The bookclub focuses mainly on the sharing of historical and classical classics, aiming to inspire our readers to enjoy these classics.<br><br>
-新加坡汉文化协会和芽笼东图书馆在2020年成立了汉文化读书会。读书会主要注重于历史与古典名著的分享，以求让现代人能更接触并喜欢这些经典著作。<br><br>
-For Adults, conducted once every two months at Geylang East Public Library.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+      <h5 class="margin--top--sm margin--bottom--sm"><b> Han Cultural Reading Club 汉文化读书会</b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> Han Cultural Society and Geylang East Public Library setup the reading club in 2020. The reading club focuses mainly on the sharing of historical and classical works, aiming to inspire our readers to enjoy these classics.<br><br>
+新加坡汉文化协会和芽笼东公共图书馆在2020年成立了汉文化读书会。读书会主要注重于历史与古典名著的分享，以求让现代人能更常接触并喜欢上这些经典著作.<br><br>
+For adults, conducted in Chinese online via Zoom. Physical programme at Choa Chu Kang Public Library and Geylang East Public Library is suspended until further notice.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/hancultural"> Click here for upcoming sessions</a></p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
@@ -150,8 +150,8 @@ For Adults, conducted monthly in Malay at Woodlands Regional Library. </p>
       <h5 class="margin--top--sm margin--bottom--sm"><b> Interacting @ Bukit Panjang 交流点读书会</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> The book club sessions are conducted in a casual and light-hearted manner where we encourage members to interact and share their after-thoughts after reading the book. We hope that reading will help our members broaden their horizons and improve their quality of life.<br><br>
 读书会的形式轻松，我们鼓励成员互相交流、分享阅读心得、提升对书籍的认知与课题的了解。 我们希望读书会能帮助成员开拓心灵视野、提升生活的质量。<br><br>
-For Seniors, conducted monthly in Chinese at Bukit Panjang Public Library. </p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+For adults and seniors, conducted in Chinese online via Zoom. Physical programme at Bukit Panjang Public Library is suspended until further notice.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/interacting-bukitpanjang"> Click here for upcoming sessions</a></p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
@@ -161,7 +161,7 @@ For Seniors, conducted monthly in Chinese at Bukit Panjang Public Library. </p>
       <p class="margin--top--sm margin--bottom--sm"> Immerse in an hour of storytelling and activities with Junior Avid Readers, a Chinese Reading Club for children aged 7 to 9!<br><br>
 No registration needed.<br><br>
 For Children (aged 7 to 9), conducted monthly in Chinese at Bishan Public Library, Jurong Regional Library, Pasir Ris Public Library and Tampines Regional Library.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/avidreaders"> Click here for upcoming sessions</a></p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
@@ -191,7 +191,7 @@ For Children (aged 7 to 9), conducted monthly in Malay at Sengkang Public Librar
       <p class="margin--top--sm margin--bottom--sm"> Immerse in an hour of storytelling and fun activities during Little Avid Readers, a Chinese Reading Club for children aged 4 to 6 and their parents!<br><br>
 No registration needed.<br><br>
 For Children (aged 4 to 6), conducted monthly in Chinese at Bishan Public Library, Jurong Regional Library, Woodlands Regional Library, Pasir Ris Public Library and Tampines Regional Library.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/avidreaders"> Click here for upcoming sessions</a></p>
     </div>
   </div>
 <div class="col is-half-tablet padding--bottom--lg">
@@ -206,13 +206,13 @@ For Parents, conducted quarterly in English. The location is to be confirmed.</p
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
-    <img alt="Qing History Society 清史读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-12.jpg">
+    <img alt="Qing History Society 清史读书会" src="/images/learning-communities/reading/LC-Reading-QingHistoryReadingClub-01.jpg">
     <div class="margin--top--lg">
-      <h5 class="margin--top--sm margin--bottom--sm"><b> Qing History Society 清史读书</b></h5>
+      <h5 class="margin--top--sm margin--bottom--sm"><b> Qing History Reading Club 清史读书会</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> We hope to gather more friends who are interested in the history of China or the Qing dynasty. Whether you are young, in your prime or in your old age, we welcome you to join us and come together to promote Chinese culture and nurture the love for the Chinese language.<br><br>
 我们希望能够聚集更多对中国历史或清朝历史有兴趣的朋友。无论您是年轻人、正值壮年或是年长者，我们都欢迎您一起来参与，一起为推广中华文化，甚至为提高新加坡的华文水平努力！<br><br>
 For Teens, Adults, Seniors, conducted once every two months in Chinese at Central Public Library.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/bookclub-qinghistory"> Click here for upcoming sessions</a></p>
     </div>
   </div>
    <div class="col is-half-tablet padding--bottom--lg">
@@ -221,8 +221,8 @@ For Teens, Adults, Seniors, conducted once every two months in Chinese at Centra
       <h5 class="margin--top--sm margin--bottom--sm"><b> SG Writings Reading Club 随笔南洋读书会 </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> SG Writings Reading Club（Former Tea Chapter Reading Club） was founded in October 18, 1998. The reading club encourages reading practise, promote reading culture and share reading knowledge. Through the practise and sharing, we aim to improve ourability to appreciate literatures and to develop our latent sense of art, and to explore the true essence of literatures together.<br><br>
 随笔南洋读书会（原茶渊读书会）成立于1998年10月18日。读书会以鼓励读书风气，交流阅读心得，探讨文学真谛，提高鉴赏能力，开发自身潜在艺术感觉为宗旨。<br><br>
-For Adults, conducted monthly in Chinese at library@chinatown.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+For adults, conducted in Chinese online via Zoom. Physical programme at library@chinatown is suspended until further notice.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="http://go.gov.sg/sgwritings"> Click here for upcoming sessions</a></p>
     </div>
   </div>
    <div class="col is-half-tablet padding--bottom--lg">
@@ -250,8 +250,8 @@ For Adults, conducted monthly in English at Central Public Library.</p>
       <h5 class="margin--top--sm margin--bottom--sm"><b> Taxi Shifu and Friends Reading Club 德士师傅与好友读书会</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Come join us and share your passion for reading with like-minded readers of Taxi Shifu and Friends Reading Club. Every book discussion is an enriching experience for all as the participants establish friendships and leave with valuable insights and knowledge that help them better appreciate the book.<br><br>
 您热爱阅读吗？欢迎您参加由德士师傅与好友读书会举办的 导读会与其他志趣相同的读者一起交流和分享您的心得，让大家除了对讨论的各种书籍有更深一层的认识与理解外，也可以搭起友谊的桥梁。本会的活动无须报名，入场免费。<br><br>
-For Adults and Seniors, conducted once every two months in Chinese at Ang Mo Kio Public Library.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+For adults and seniors, conducted in Chinese online via Zoom. Physical programme at Ang Mo Kio Public Library is suspended until further notice.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="http://go.gov.sg/taxishifu"> Click here for upcoming sessions</a></p>
     </div>
   </div>
    <div class="col is-half-tablet padding--bottom--lg">
@@ -287,6 +287,7 @@ For Teens and Adults, conducted monthly in English at Toa Payoh Public Library.<
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> 3G Book Club 第三代读书会 </b></h5>
       <p class="margin--top--sm margin--bottom--sm">This reading club was first founded in 2006 by a group of Chinese Language teachers to promote reading. The club welcomes anyone who enjoys reading to participate in their sessions. They discuss both local and overseas Chinese works, and also organise reading workshops periodically.<br><br>
+第三代读书会是由一群志同道合的老师凭着对华文教育的热忱而创立的教师读书会，目的在于推动阅读活动，协助年轻的新一代教师通过阅读提升自己。<br><br>
 For Adults, conducted quarterly in Chinese at National Library.</p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
     </div>

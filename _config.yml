@@ -1,6 +1,8 @@
 title: LEARNX
 url: ""
 favicon: /images/learnXfavicon.png
+# Analytics
+google_analytics: UA-50449401-41
 colors:
   primary-color: "#322987"
   secondary-color: "#322987"
@@ -53,4 +55,3 @@ plugins:
 staging: https://nlb-learning-staging.netlify.app
 prod: https://nlb-learning-prod.netlify.app
 is_government: true
-google_analytics: UA-50449401-41
