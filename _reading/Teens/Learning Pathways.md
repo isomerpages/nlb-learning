@@ -63,7 +63,7 @@ Explore new experiences through the written word.
     <tbody>
       <tr>
         <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/nac-nlb-writers-lab-the-story-behind-the-story-by-gabby-tye-registration-226751779677?aff=ebdsoporgprofile " target="_blank"><b> [NAC- NLB Writers’ Lab] The Story Behind the Story by Gabby TYE </b></a></td>
-        <td style="width: 40%;"> Ever wondered how authors think up their stories and ideas? Hear from Gabby Tye, author of the popular RunHideSeek & EverAfter series, as she shares her writing process and her journey of becoming one of Singapore’s youngest bestselling authors. </td>
+        <td style="width: 40%;"> Ever wondered how authors come up with their stories and ideas? Hear from Gabby Tye, author of the popular RunHideSeek & EverAfter series, as she shares her writing process and her journey of becoming one of Singapore’s youngest bestselling authors. </td>
         <td style="width: 20%;"> 2 Jan 2022,<br>10.30am - 11.30am </td>
         <td style="width: 20%;">Zoom</td>
       </tr>
@@ -78,7 +78,7 @@ Explore new experiences through the written word.
 <tr>
 <td><a href=" https://www.eventbrite.sg/e/one-story-21-tickets-198075528237" target="_blank"><b>[ONE STORY 21] Online sharing and discussion for secondary school students | உயர்நிலைப் பள்ளி மாணவர்களுக்கான கதை கலந்துரையாடல் </b></a></td>
         <td>A book discussion of the story, Razi by Dr Sa’edah Buang, for secondary school students. This discussion will be conducted in Tamil and facilitated by an invited author. Borrow the eBook at https://go.gov.sg/onestoryebook. </td>
-        <td>16 Jan 2022, <br>11am – 12.30pm</td>
+      <td>16 Jan 2022, <br>11am – 12.30pm</td>
         <td>Zoom</td>
       </tr>
 
