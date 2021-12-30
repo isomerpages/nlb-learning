@@ -108,7 +108,7 @@ Edgar Allen Poe’s The Raven has long been considered the quintessential Gothic
   </div>
 </div>
 
-<a href="#main-content">Back to top</a>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
 Get insights on reading and written-word expressions with these articles and activities.
@@ -124,4 +124,4 @@ Blackout poetry is a form of poetry where an author picks an existing piece of w
 
 
 
-<a href="#main-content">Back to top</a>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
