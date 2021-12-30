@@ -62,15 +62,15 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="http://go.gov.sg/nlb-teensprogs" target="_blank"><b>CCKPL: Teens Takeover – A Day In The Life Of Game Artist| portfolio</b></a></td>
-        <td style="width: 40%;">Get an intimate look into the daily lives of different professionals in this new series and get inspired to explore possible careers of your future.</td>
-        <td style="width: 20%;">18 Dec 2021,<br>2pm - 3.30pm</td>
-        <td style="width: 20%;">Chua Chu Kang Public Library<br>Programme Room 1</td>
+        <td style="width: 20%;"><a href="http://go.gov.sg/nlb-teensprogs" target="_blank"><b> A Day In The Life Of A Digital Forensic Specialist| portfolio | Teens Takeover </b></a></td>
+        <td style="width: 40%;">Get an intimate look into the daily lives of different professionals in this  series for teens aged 13-17, and get inspired to explore possible careers of your future. In collaboration with Nanyang Polytechnic. </td>
+        <td style="width: 20%;">12 Mar 2022,<br>11am - 12.30pm</td>
+        <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>[Industry Insights series] A Career in the Green Energy</b></a></td>
-        <td>Explore the ins and outs of a career in the green energy - the joys, the challenges and the forces that drive it.</td>
-        <td>30 Dec 2021<br> 7pm -9pm</td>
+        <td><b>[Industry Insights series] A Career in Fintech</b></td>
+        <td> What is it like having a career in this industry? How does one get a foot in the door? Find out in this talk by an expert from Nanyang Polytechnic.</td>
+        <td>TBC<br> </td>
         <td>Zoom</td>
       </tr>
     </tbody>
@@ -98,21 +98,27 @@ Clueless about which career is suitable for you? Discover and explore various ca
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Learn More About Career In Other Aspects</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Areas</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="http://go.gov.sg/nlb-teensprogs" target="_blank"><b>LearnX Digital<br>Mobile Phone Videography Workshop | digi.lit | Teens Takeover</b></a></td>
-        <td style="width: 40%;">Whether you’re looking to be the next TikTok star or just want to impress your family and friends, this online workshop will teach you how to shoot and edit videos to take your social media content to the next level.</td>
-        <td style="width: 20%;">15 Dec 2021,<br>3pm - 4pm</td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/nac-nlb-writers-lab-the-story-behind-the-story-by-gabby-tye-registration-226751779677?aff=ebdsoporgprofile " target="_blank"><b> [NAC- NLB Writers’ Lab] The Story Behind the Story by Gabby TYE </b></a></td>
+        <td style="width: 40%;"> Ever wondered how authors come up with their stories and ideas? Hear from Gabby Tye, author of the popular RunHideSeek & EverAfter series, as she shares her writing process and her journey of becoming one of Singapore’s youngest bestselling authors. </td>
+        <td style="width: 20%;"> 2 Jan 2022,<br>10.30am - 11.30am </td>
+        <td style="width: 20%;">Zoom</td>      
+</tr>
+<tr>
+<td><a href=" https://www.eventbrite.sg/e/discover-discord-workshop-digilit-teens-takeover-registration-223173837957?aff=odcleoeventsincollection" target="_blank"><b> Discover Discord Workshop | digi.lit | Teens Takeover</b></a></td>
+        <td> Learn how to use Discord to connect with global communities, join interest-based servers, and pick up tips to start your own server!</td>
+        <td> 15 Jan 2022,<br>2pm – 3.30pm</td>
+        <td> Zoom</td>
       </tr>
       <tr>
-        <td><a href="http://go.gov.sg/nlb-teensprogs" target="_blank"><b>LearnX Sustainability<br>Teens Takeover - Urban Farming Workshop | GREENHOUSE</b></a></td>
-        <td>Learn all about growing some greens in a concrete jungle in this hour-long workshop on urban farming.</td>
-        <td>22 Nov 2021,<br>4pm - 5pm</td>
-        <td>Chua Chu Kang Public Library<br>Programme Room 1</td>
+        <td><a href=" https://www.eventbrite.sg/e/cckpl-tweenkerama-urban-farming-workshop-sustainability-registration-200716306877?aff=ebdsoporgprofile" target="_blank"><b> CCKPL: Tweenkerama - Urban Farming Workshop | Sustainability</b></a></td>
+        <td> Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. For children and teens aged 10-13. </td>
+        <td> 24 Jan 2022,<br>4pm – 5pm</td>
+        <td> Choa Chu Kang Public Library</td>
       </tr>
     </tbody>
   </table>
