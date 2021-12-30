@@ -58,11 +58,11 @@ Revel in the possibilities of science through resources and content.
 </div>
 
 <h3><b>Playlist</b></h3>
-A collection of short videos/podcasts to spark your interests in science concepts.
+<p>A collection of short videos/podcasts to spark your interests in science concepts.</p>
 <h5 id="science-beyond-school"  class="margin--bottom--lg"><b>Playlist: Science Beyond School, Really?</b></h5>
-Check out this playlist for fun applications of science concepts outside of the classroom.
-
+<p>Check out this playlist for fun applications of science concepts outside of the classroom.</p>
 <br>
+
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -103,12 +103,12 @@ Discover the adaptations that allow cacti to not only survive, but thrive, in so
 </div>
 
 <h3><b>Learning Package</b></h3>
-Articles that will give you an insight into various concepts.
+<p>Articles that will give you an insight into various concepts.</p>
 
 ![Fermentation Station](/images/science-lfa-updates/tt21-header-ferm.png)
 <h5 class="margin--bottom--lg" id="fermentation-station" ><b> Teen.Things: Fermentation Station: Food All Around Us </b></h5>
 <p> Mould, yeast, and bacteria. These are three ingredients which create a delicious meal. 
 Whether it’s that fragrant egg and onion thosai (savoury thin pancake) you had for supper, or a mouth-watering bowl of suan cai yu (pickled fish stew) from your favourite stall, many things we consume daily are made with the help of microorganisms. </p>
-<h4 id="fermentation-station"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things" target="_blank"><b>Learn More
+<h4 id="fermentation-station"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things" target="_blank"><b>Learn More</b></a><h4>
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
