@@ -534,7 +534,7 @@ Source: <a href="https://www.youtube.com/watch?v=QCZ8jInO7UY" target="_blank"> W
 
 <h4>Podcast</h4>
  Find out what is biophilic design and the science behind this design, and how such designs can improve the quality of life for humans.<p></p>
-Source &lt; a href="https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227"&gt;What is biophilic design? Stuff You Should Know  (2019, October 7). <i> iHeartMedia, Inc <i> Retrieved 2021, December 11
+Source < a target "_blank href="https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227"> What is biophilic design? Stuff You Should Know </a> (2019, October 7). <i>iHeartMedia, Inc<i> Retrieved 2021, December 11.
 
 
 <h4>eBooks</h4>
