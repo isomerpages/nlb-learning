@@ -43,7 +43,7 @@ third_nav_title: Tweens
 Explore different topics with these resources for your child to expand reading diets.  
 Check out our **playlists** for collections of short videos and podcasts to expand reading interests.
 
-Check our **learning packages** for D.I.Y to engage your child in different topics.
+Check out our **learning packages** for D.I.Y to engage your child in different topics.
 
 <div class="row is-multiline">
   <div class="col is-one-third">
