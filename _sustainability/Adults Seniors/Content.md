@@ -65,14 +65,14 @@ Check our **learning packages** for articles that will give you insights into li
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<h5 class="margin--bottom--lg" id="green-economy"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
+<h5 id="green-economy" class="margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
 
 We round up the main points about the green economy to get you quickly up to speed on this concept that is integral to achieving sustainable development while balancing environmental needs.<br>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/zCRKvDyyHmI"></iframe>
+     <iframe src="https://www.youtube.com/embed/zCRKvDyyHmI" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -86,7 +86,7 @@ We round up the main points about the green economy to get you quickly up to spe
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/XmN_DpN9CNs"></iframe>
+     <iframe src="https://www.youtube.com/embed/XmN_DpN9CNs" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -99,7 +99,7 @@ We round up the main points about the green economy to get you quickly up to spe
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/A3jb2k93tZM"></iframe>
+     <iframe src="https://www.youtube.com/embed/A3jb2k93tZM" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -112,7 +112,7 @@ We round up the main points about the green economy to get you quickly up to spe
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/W4bnCCE07Hw"></iframe>
+     <iframe src="https://www.youtube.com/embed/W4bnCCE07Hw" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -125,7 +125,7 @@ We round up the main points about the green economy to get you quickly up to spe
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Qg5u63QQP-A"></iframe>
+     <iframe src="https://www.youtube.com/embed/Qg5u63QQP-A" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -135,14 +135,14 @@ A related concept to the green economy is the blue economy which is about managi
   </div>
 </div>
 
-<h5 class="margin--bottom--lg" id="energy-sustainability"><b>Playlist: The Curious About Energy Sustainability Playlist</b></h5>
+<h5 id="energy-sustainability" class="margin--bottom--lg"><b>Playlist: The Curious About Energy Sustainability Playlist</b></h5>
 
 We address some of your burning queries about energy sustainability, a crucial area that impacts our everyday living in this video compilation.<br>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/RnvCbquYeIM"></iframe>
+     <iframe src="https://www.youtube.com/embed/RnvCbquYeIM" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -155,7 +155,7 @@ You have heard about renewable energy but wondered about its potential to meet o
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/qdoEmebP-b0"></iframe>
+     <iframe src="https://www.youtube.com/embed/qdoEmebP-b0" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -168,7 +168,7 @@ This video brings you up to speed to the debate on electric cars and lays out th
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/wu3hoo3p4Kk"></iframe>
+     <iframe src="https://www.youtube.com/embed/wu3hoo3p4Kk" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -178,14 +178,14 @@ This video explains everything you want to know about carbon capture and why it 
   </div>
 </div>
 
-<h5 class="margin--bottom--lg" id="nature-playlist"><b>Playlist: Why You need Nature more than Nature needs You</b></h5>
+<h5 id="nature-playlist" class="margin--bottom--lg"><b>Playlist: Why You need Nature more than Nature needs You</b></h5>
 
 We tend to take nature for granted but she does so much for us. This compilation sheds light on the ways we depend on nature more so than we realise. <br>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/1wkPMUZ9vX4"></iframe>
+     <iframe src="https://www.youtube.com/embed/1wkPMUZ9vX4" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -198,7 +198,7 @@ Nature has a positive impact on our feelings. As a testament to nature’s power
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/0uk0QriYYws"></iframe>
+     <iframe src="https://www.youtube.com/embed/0uk0QriYYws" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -211,7 +211,7 @@ We can turn to nature to better our health. In this video, Dr Nooshin shares how
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/IadAzzx7EHc"></iframe>
+     <iframe src="https://www.youtube.com/embed/IadAzzx7EHc" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -221,14 +221,14 @@ This video examines what draws us to nature and the lessons it can impart about 
   </div>
 </div>
 
-<h5 class="margin--bottom--lg" id="wardrobe-playlist"><b>Playlist: Why You Should Be Concerned About Your Wardrobe</b></h5>
+<h5 id="wardrobe-playlist" class="margin--bottom--lg"><b>Playlist: Why You Should Be Concerned About Your Wardrobe</b></h5>
 
 We zero in on some of the sustainability issues related to fashion in this compilation. <br>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/YOA0D0i5-fA"></iframe>
+     <iframe src="https://www.youtube.com/embed/YOA0D0i5-fA" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -241,7 +241,7 @@ Fast Fashion is considered one of the greatest contributors to climate crisis. T
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/UMBZeJ74GuE"></iframe>
+     <iframe src="https://www.youtube.com/embed/UMBZeJ74GuE" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -254,7 +254,7 @@ You love fashion and think nothing of buying the latest designs. However, have y
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/QphGrZe4b8w"></iframe>
+     <iframe src="https://www.youtube.com/embed/QphGrZe4b8w" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -268,7 +268,7 @@ You love fashion and think nothing of buying the latest designs. However, have y
 {: .has-text-right .margin--top--xl}
 
 <h3><b>Learning Package</b></h3>
-<h5 id="lp-green-econ" class="margin--bottom--lg"><b>The Green Economy</b></h5>
+<h5 class="margin--bottom--lg" id="lp-green-econ"><b>The Green Economy</b></h5>
 <p>It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><small><a href="#footnote-one">1</a></small></sup>
 </p><p>As one of the key pillars of the Singapore Green Plan 2030, a whole-of-nation movement to advance Singapore’s national agenda on sustainable development<sup><small><a href="#footnote-two">2</a></small></sup> developing a Green Economy in Singapore refers to seeking green growth to create new jobs, transform industries and harness sustainability as a competitive advantage<sup><small><a href="#footnote-three">3</a></small></sup>.</p>
 <p>In a green economy, growth in employment and income are driven by public and private investment into low carbon, resource efficient and socially inclusive economic activities, infrastructure, and assets that allow reduced carbon emissions and pollution, enhanced energy and resource efficiency, and prevention of the loss of biodiversity and ecosystem services.<sup><small><a href="#footnote-four">4</a></small></sup></p>
@@ -296,64 +296,64 @@ You love fashion and think nothing of buying the latest designs. However, have y
 <h5>1. What is a Green Economy?</h5>
 <p>Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here! Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here!</p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VkOtfvhtawA" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/embed/VkOtfvhtawA">What is a Green Economy?</a> (2020, July 6). <i>Greenpeace UK.</i> Retrieved 2021, September 15
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VkOtfvhtawA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/embed/VkOtfvhtawA" target="_blank">What is a Green Economy?</a> (2020, July 6). <i>Greenpeace UK.</i> Retrieved 2021, September 15
 
 <h5>2. How to Get Everyone to Care about a Green Economy</h5> 
 <p>Watch this video to gather tips on how to convince people about the Green Economy. </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/slbfAfEvnQ0" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/embed/slbfAfEvnQ0">How to get everyone to care about a green economy</a> (2019, December 21). <i>TED.</i> Retrieved 2021, October 16
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slbfAfEvnQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/embed/slbfAfEvnQ0" target="_blank">How to get everyone to care about a green economy</a> (2019, December 21). <i>TED.</i> Retrieved 2021, October 16
 
 <h4>Website</h4>
 
-<h5><a target="_blank" href="https://www.unep.org/explore-topics/green-economy?__cf_chl_managed_tk__=pmd_3uVt5NT5vJszILkDQcVVe9Mo8Y_Mcem8z3ZkMMqxUG4-1632874402-0-gqNtZGzNAxCjcnBszQjl">UN Environment Programme</a></h5>
+<h5><a href="https://www.unep.org/explore-topics/green-economy?__cf_chl_managed_tk__=pmd_3uVt5NT5vJszILkDQcVVe9Mo8Y_Mcem8z3ZkMMqxUG4-1632874402-0-gqNtZGzNAxCjcnBszQjl" target="_blank">UN Environment Programme</a></h5>
 <p>Explore the site to read about the green economy on a global scale and the transition to economies that are low carbon, resource efficient and socially inclusive.</p>
 
 <h4>eBooks</h4>
 <h5>1. Greening the global economy</h5>
 Robert Polin (2020), <i>Greening the global economy</i>, New York: The MIT Press.
 <p>
-<a target="_blank" href="https://nlb.overdrive.com/media/2506198"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/GreeningtheLocalEconomy.jpg"></a>
+<a href="https://nlb.overdrive.com/media/2506198" target="_blank"><img src="/images/sustainability/adults-and-seniors/GreeningtheLocalEconomy.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
 </p><p>All too frequently, inaction on climate change is blamed on its potential harm to the economy. This book shows greening the economy is not only possible but necessary: global economic growth depends on it.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/2506198">Borrow the eBook here</a>. </p>
+<p><a href="https://nlb.overdrive.com/media/2506198" target="_blank">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>2. The Sustainable City </h5>
 Steven Cohen (2021), <i>The Sustainable City</i>, New York: The MIT Press.
 <p>
-<a target="_blank" href="https://nlb.overdrive.com/media/3294693"><img alt="Book cover for The Sustainable City" style="width:300px; text-align:left;" src="images/sustainability/adults-and-seniors/TheSustainableCity.jpg"></a>
+<a href="https://nlb.overdrive.com/media/3294693" target="_blank"><img src="images/sustainability/adults-and-seniors/TheSustainableCity.jpg" style="width:300px; text-align:left;" alt="Book cover for The Sustainable City"></a>
 </p><p>Lost on how to embrace sustainability in an urban city? The Sustainable City synthesizes the disparate strands of sustainable city planning in an approachable and applicable guide that highlights how these issues touch our lives on a daily basis, whether the transportation we take, where our energy comes from, or what becomes of our food waste. Providing recommendations and insights with immediacy and relevance, this book has invaluable lessons for anyone seeking to link public policy to promoting a sustainable lifestyle.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/3294693">Borrow the eBook here</a>. </p>
+<p><a href="https://nlb.overdrive.com/media/3294693" target="_blank">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 	
 <h5>3. Tomorrow's economy: A guide to creating healthy green growth</h5>
 Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy green growth</i>, New York: The MIT Press.
 <br>
-<a target="_blank" href="https://nlb.overdrive.com/media/5461605"><img alt="you're not listening" style="width:300px; text-align:left;" src="images/sustainability/adults-and-seniors/TomorrowsEconomy.jpg"></a>
+<a href="https://nlb.overdrive.com/media/5461605" target="_blank"><img src="images/sustainability/adults-and-seniors/TomorrowsEconomy.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
 <p>How does the economy and climate change intertwine? Giving real examples and tactics to ensure a business, individual, or institution is moving towards healthy, green, growth and limiting its impacts on climate change, Tomorrow’s economy: A guide to creating healthy green growth reframes the hot-button issue of economic growth.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/5461605">Borrow the eBook here</a>.</p>
+<p><a href="https://nlb.overdrive.com/media/5461605" target="_blank">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
 
 <h4>Sustainability Programmes in NLB</h4>
-<p>Sustainability talks and workshops are always happening in the library. Browse through <a target="_blank" href="https://go.gov.sg/sustainprog">go.gov.sg/sustainprog</a> to find the right one for you!
+<p>Sustainability talks and workshops are always happening in the library. Browse through <a href="https://go.gov.sg/sustainprog" target="_blank">go.gov.sg/sustainprog</a> to find the right one for you!
 </p>
 			
 <small>References</small>
 <ol>
-    <li><span id="footnote-one">Hardcastle, D. &amp; Mattios, G. (2021, January 28). Southeast Asia's Green Economy: Pathway to full potential.</span> <i>Bain</i>. Retrieved 2021, October 1 from <a target="_blank" href="https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/">https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/</a></li>
-	<li><span id="footnote-two">Singapore green plan 2030</span>. (2021). <i>Singapore Green Plan 2030</i>. Retrieved 2021, October 1 from <a target="_blank" href="https://www.greenplan.gov.sg/">https://www.greenplan.gov.sg/</a> </li>
-	<li><span id="footnote-three">Green economy</span>. (2021). <i>Singapore Green Plan 2030</i>. Retrieved 2021, September 28 from <a target="_blank" href="https://www.greenplan.gov.sg/key-focus-areas/green-economy/">https://www.greenplan.gov.sg/key-focus-areas/green-economy/</a></li>
-	<li><span id="footnote-four">Green economy | UNEP - UN environment programme</span>. (2021). <i>UN Environment Programme</i>. Retrieved 2021, September 28 from <a target="_blank" href="https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-economy">https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-economy</a></li>
-	<li><span id="footnote-five">Developing a roadmap for the First Circular City: Amsterdam</span>. <i>Circle Economy</i>. Retrieved 2021, October 21 from <a target="_blank" href="https://www.circle-economy.com/resources/developing-a-roadmap-for-the-first-circular-city-amsterdam">https://www.circle-economy.com/resources/developing-a-roadmap-for-the-first-circular-city-amsterdam</a></li>
-	<li><span id="footnote-six">Amsterdam: Adding the doughnut to the circular economy</span>. (2021, February 3). <i>Circular City Funding Guide</i>. Retrieved 2021, October 21 from <a target="_blank" href="https://www.circularcityfundingguide.eu/case-studies/amsterdam-adding-the-doughnut-to-the-circular-economy">https://www.circularcityfundingguide.eu/case-studies/amsterdam-adding-the-doughnut-to-the-circular-economy </a> </li>
-  <li><span id="footnote-seven">Mijatovic, S. (2016, May 26). Circle City Scan of the City of Amsterdam.</span> <i>Amsterdam Smart City</i>. Retrieved 2021, October 21 from <a target="_blank" href="https://amsterdamsmartcity.com/updates/project/circle-scan-amsterdam">https://amsterdamsmartcity.com/updates/project/circle-scan-amsterdam</a></li>
-	<li><span id="footnote-eight">Policy: Circular economy</span>. <i>City of Amsterdam.</i> Retrieved 2021, October 21 from <a target="_blank" href="https://www.amsterdam.nl/en/policy/sustainability/circular-economy/">https://www.amsterdam.nl/en/policy/sustainability/circular-economy/</a></li>
-	<li><span id="footnote-nine">Circular economy</span>. <i>Towards Zero Waste Singapore</i>. Retrieved 2021, October 21 from <a target="_blank" href="https://www.towardszerowaste.gov.sg/circular-economy">https://www.towardszerowaste.gov.sg/circular-economy</a></li>
-	<li><span id="footnote-ten">What is circular economy?</span> <i>Towards Zero Waste Singapore</i>. Retrieved 2021, October 21 from <a target="_blank" href="https://www.towardszerowaste.gov.sg/zero-waste-masterplan/chapter2/circular-economy/">https://www.towardszerowaste.gov.sg/zero-waste-masterplan/chapter2/circular-economy/</a></li>
+    <li><span id="footnote-one">Hardcastle, D. &amp; Mattios, G. (2021, January 28). Southeast Asia's Green Economy: Pathway to full potential.</span> <i>Bain</i>. Retrieved 2021, October 1 from <a href="https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/" target="_blank">https://www.bain.com/insights/southeast-asias-green-economy-pathway-to-full-potential/</a></li>
+	<li><span id="footnote-two">Singapore green plan 2030</span>. (2021). <i>Singapore Green Plan 2030</i>. Retrieved 2021, October 1 from <a href="https://www.greenplan.gov.sg/" target="_blank">https://www.greenplan.gov.sg/</a> </li>
+	<li><span id="footnote-three">Green economy</span>. (2021). <i>Singapore Green Plan 2030</i>. Retrieved 2021, September 28 from <a href="https://www.greenplan.gov.sg/key-focus-areas/green-economy/" target="_blank">https://www.greenplan.gov.sg/key-focus-areas/green-economy/</a></li>
+	<li><span id="footnote-four">Green economy | UNEP - UN environment programme</span>. (2021). <i>UN Environment Programme</i>. Retrieved 2021, September 28 from <a href="https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-economy" target="_blank">https://www.unep.org/regions/asia-and-pacific/regional-initiatives/supporting-resource-efficiency/green-economy</a></li>
+	<li><span id="footnote-five">Developing a roadmap for the First Circular City: Amsterdam</span>. <i>Circle Economy</i>. Retrieved 2021, October 21 from <a href="https://www.circle-economy.com/resources/developing-a-roadmap-for-the-first-circular-city-amsterdam" target="_blank">https://www.circle-economy.com/resources/developing-a-roadmap-for-the-first-circular-city-amsterdam</a></li>
+	<li><span id="footnote-six">Amsterdam: Adding the doughnut to the circular economy</span>. (2021, February 3). <i>Circular City Funding Guide</i>. Retrieved 2021, October 21 from <a href="https://www.circularcityfundingguide.eu/case-studies/amsterdam-adding-the-doughnut-to-the-circular-economy" target="_blank">https://www.circularcityfundingguide.eu/case-studies/amsterdam-adding-the-doughnut-to-the-circular-economy </a> </li>
+  <li><span id="footnote-seven">Mijatovic, S. (2016, May 26). Circle City Scan of the City of Amsterdam.</span> <i>Amsterdam Smart City</i>. Retrieved 2021, October 21 from <a href="https://amsterdamsmartcity.com/updates/project/circle-scan-amsterdam" target="_blank">https://amsterdamsmartcity.com/updates/project/circle-scan-amsterdam</a></li>
+	<li><span id="footnote-eight">Policy: Circular economy</span>. <i>City of Amsterdam.</i> Retrieved 2021, October 21 from <a href="https://www.amsterdam.nl/en/policy/sustainability/circular-economy/" target="_blank">https://www.amsterdam.nl/en/policy/sustainability/circular-economy/</a></li>
+	<li><span id="footnote-nine">Circular economy</span>. <i>Towards Zero Waste Singapore</i>. Retrieved 2021, October 21 from <a href="https://www.towardszerowaste.gov.sg/circular-economy" target="_blank">https://www.towardszerowaste.gov.sg/circular-economy</a></li>
+	<li><span id="footnote-ten">What is circular economy?</span> <i>Towards Zero Waste Singapore</i>. Retrieved 2021, October 21 from <a href="https://www.towardszerowaste.gov.sg/zero-waste-masterplan/chapter2/circular-economy/" target="_blank">https://www.towardszerowaste.gov.sg/zero-waste-masterplan/chapter2/circular-economy/</a></li>
 </ol>
 
-<img alt="cover image" src="/images/sustainability/energysustainabilitybanner.png">
+<img src="/images/sustainability/energysustainabilitybanner.png" alt="cover image">
 <h3 id="lp-energy-sust">Learning Package: Energy Sustainability</h3>
 
 <h5>Introduction</h5>
@@ -376,20 +376,20 @@ Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy gre
 <h5>1. What are Renewable Energies?</h5>
 <p>This video provides an overview of renewable energy types that exist.</p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Bkow2fDy5KY" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bkow2fDy5KY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
-Source: <a target="_blank" href="https://www.youtube.com/embed/Bkow2fDy5KY">What are Renewable Energies?</a> (2017, January 5). <i>Acciona.</i> Retrieved 2021, October 16
+Source: <a href="https://www.youtube.com/embed/Bkow2fDy5KY" target="_blank">What are Renewable Energies?</a> (2017, January 5). <i>Acciona.</i> Retrieved 2021, October 16
 
 <h5>2. Singapore to ramp up solar energy production</h5> 
 <p>Solar energy is the most viable energy source for Singapore in comparison to other renewables like wind or water. Explore how we harness this renewable energy and upcoming plans <a href="https://www.youtube.com/watch?v=BHFBCc33eU0"> in this video</a>.</p>
 
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=BHFBCc33eU0">
+Source: <a href="https://www.youtube.com/watch?v=BHFBCc33eU0" target="_blank">
 Singapore to ramp up solar energy production</a> (2019, October 29). <i>The Straits Times.</i> Retrieved 2021, September 15
 
 <h4>Podcast</h4>
-<h5>1. <a target="_blank" href="https://www.brookings.edu/essay/why-are-fossil-fuels-so-hard-to-quit/">Brookings</a></h5>
+<h5>1. <a href="https://www.brookings.edu/essay/why-are-fossil-fuels-so-hard-to-quit/" target="_blank">Brookings</a></h5>
 <p>Listen in as Samantha Gross gives an overview on her essay where she explores issues relating to giving up our fossil fuel dependency.</p>
-Source: <a target="_blank" href="https://www.brookings.edu/essay/why-are-fossil-fuels-so-hard-to-quit/">
+Source: <a href="https://www.brookings.edu/essay/why-are-fossil-fuels-so-hard-to-quit/" target="_blank">
 Why are Fossil Fuels so Hard to Quit</a> (2020, July 17). <i>The Straits Times.</i> Retrieved 2020, October 22
 
 <h4>eBooks</h4>
@@ -397,38 +397,38 @@ Why are Fossil Fuels so Hard to Quit</a> (2020, July 17). <i>The Straits Times.<
 Russel Gold (2019), <i> Superpower: One Man’s Quest To Transform America Energy </i>, Simon &amp; Schuster.
 <br>
 
-<a target="_blank" href="https://nlb.overdrive.com/media/4501140"><img alt="book cover for superpower: one man’s quest to transform America energy" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Superpower.jpg"></a>
+<a href="https://nlb.overdrive.com/media/4501140" target="_blank"><img src="/images/sustainability/adults-and-seniors/Superpower.jpg" style="width:300px; text-align:left;" alt="book cover for superpower: one man’s quest to transform America energy"></a>
 <p>Get inspired by the story of Michael Skelly who defined naysayers to pour effort into wind energy and built the second largest wind power company in the United States, earning him billions in return.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/4501140">Borrow the eBook here</a>. </p>
+<p><a href="https://nlb.overdrive.com/media/4501140" target="_blank">Borrow the eBook here</a>. </p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
 
 <h5>2. How Bad Are Bananas: The Carbon Footprint of Everything </h5>
 Mike Berners-Lee (2020), <i> How Bad Are Bananas: The Carbon Footprint of Everything </i>, Profile.
-<p><a target="_blank" href="https://nlb.overdrive.com/media/506398"><img alt="book cover for how bad are bananas" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/HowBadareBananas.jpg"></a></p>
+<p><a href="https://nlb.overdrive.com/media/506398" target="_blank"><img src="/images/sustainability/adults-and-seniors/HowBadareBananas.jpg" style="width:300px; text-align:left;" alt="book cover for how bad are bananas"></a></p>
 <p>Here’s a practical guide on what you can do to lower your carbon footprint by concentrating on what can made huge impact.</p>
 
-<p><a target="_blank" href="https://nlb.overdrive.com/media/506398">Borrow the eBook here</a>. </p>
+<p><a href="https://nlb.overdrive.com/media/506398" target="_blank">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>3. Net Zero: How We Stop Causing Climate Change</h5>
 Dieter Helm (2020), <i> Net Zero: How We Stop Causing Climate Change </i>, HarperCollins Publishers.
 <br>
-<a target="_blank" href="https://nlb.overdrive.com/media/5359282"><img alt="book cover for net zero" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/NetZero.jpg"></a>
+<a href="https://nlb.overdrive.com/media/5359282" target="_blank"><img src="/images/sustainability/adults-and-seniors/NetZero.jpg" style="width:300px; text-align:left;" alt="book cover for net zero"></a>
 <p>We can do something about the climate emergency which this book examines from a personal to a national level.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/5359282">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+<p><a href="https://nlb.overdrive.com/media/5359282" target="_blank">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h4>Sustainability Programmes in NLB</h4>
-<p>There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a target="_blank" href="https://go.gov.sg/sustainprog">go.gov.sg/sustainprog</a> 
+<p>There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a href="https://go.gov.sg/sustainprog" target="_blank">go.gov.sg/sustainprog</a> 
 </p>
 
 <small>References</small>
 <ol>
-  <li><span id="footnote-one">Singapore’s Approach to Alternative Energy</span>. (2021, August 13).<i> National Climate Change Secretariat</i>. Retrieved 2021, September 15 from <a target="_blank" href="https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/">https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/</a></li>
-	<li><span id="footnote-two"> Singapore’s largest solar farm can power up 16,000 four room HBD flats for one year</span>. (2021, May 18). <i>The Straits Times</i>. Retrieved 2021, September 15 from <a target="_blank" href="https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year">https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year</a></li>
-	<li><span id="footnote-three">Facts and Trivia</span>. (2021, October 20). <i>Maritime and Port Authority of Singapore</i>. Retrieved 2021, October 22 from <a target="_blank" href="https://www.greenplan.gov.sg/key-focus-areas/green-economy/">https://www.mpa.gov.sg/web/portal/home/maritime-singapore/introduction-to-maritime-singapore/facts-and-trivia</a></li>
+  <li><span id="footnote-one">Singapore’s Approach to Alternative Energy</span>. (2021, August 13).<i> National Climate Change Secretariat</i>. Retrieved 2021, September 15 from <a href="https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/" target="_blank">https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/</a></li>
+	<li><span id="footnote-two"> Singapore’s largest solar farm can power up 16,000 four room HBD flats for one year</span>. (2021, May 18). <i>The Straits Times</i>. Retrieved 2021, September 15 from <a href="https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year" target="_blank">https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year</a></li>
+	<li><span id="footnote-three">Facts and Trivia</span>. (2021, October 20). <i>Maritime and Port Authority of Singapore</i>. Retrieved 2021, October 22 from <a href="https://www.greenplan.gov.sg/key-focus-areas/green-economy/" target="_blank">https://www.mpa.gov.sg/web/portal/home/maritime-singapore/introduction-to-maritime-singapore/facts-and-trivia</a></li>
 </ol>
 
-<img alt="cover image" src="/images/sustainability/sustainable-fashion-learning-package.jpg">
+<img src="/images/sustainability/sustainable-fashion-learning-package.jpg" alt="cover image">
 
 <h3 id="lp-wardrobe">Learning Package: Sustainable Fashion</h3>
 <h5>Introduction</h5>
@@ -451,62 +451,62 @@ Dieter Helm (2020), <i> Net Zero: How We Stop Causing Climate Change </i>, Harpe
 <p>Get an overview of the issues plaguing the fashion industry and the actions that are being taken to improve its sustainability in this video.</p>
  
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/65zR2nU0sBU" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/65zR2nU0sBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
-Source: <a target="_blank" href="https://www.youtube.com/embed/65zR2nU0sBU">Fashion industry &amp; Circular Economy</a> (2017, Dec 21). <i>WorlDynamics.</i> Retrieved 2021, September 15
+Source: <a href="https://www.youtube.com/embed/65zR2nU0sBU" target="_blank">Fashion industry &amp; Circular Economy</a> (2017, Dec 21). <i>WorlDynamics.</i> Retrieved 2021, September 15
  
 <h5>2. 9 Common Misconceptions about Sustainable Fashion</h5>
 <p>Discover what sustainable fashion really means and the important considerations to bear in mind to be planet friendly through this insightful video.</p>
  
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rt-kBnsBzCo" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/embed/rt-kBnsBzCo">9 Common Misconceptions about Sustainable Fashion</a> (2020, Oct 5). <i>imperfectidealist.</i> Retrieved 2021, September 15
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rt-kBnsBzCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/embed/rt-kBnsBzCo" target="_blank">9 Common Misconceptions about Sustainable Fashion</a> (2020, Oct 5). <i>imperfectidealist.</i> Retrieved 2021, September 15
  
 <h4>Podcast</h4>
  
-<h5>1. <a target="_blank" href="https://www.straitstimes.com/business/money-fm-podcast-swapping-not-shopping-making-fashion-sustainable">Money FM 89.3</a></h5>
+<h5>1. <a href="https://www.straitstimes.com/business/money-fm-podcast-swapping-not-shopping-making-fashion-sustainable" target="_blank">Money FM 89.3</a></h5>
 <p>Find out about the practice of swapping, a method that extends the lifespan of your clothes in this podcast.</p>
-Source: <a target="_blank" href="https://www.straitstimes.com/business/money-fm-podcast-swapping-not-shopping-making-fashion-sustainable">Swapping, not Shopping- Making fashion sustainable</a> (2020, Oct 5). <i>Money FM 89.3.</i> Retrieved 2021, September 15
+Source: <a href="https://www.straitstimes.com/business/money-fm-podcast-swapping-not-shopping-making-fashion-sustainable" target="_blank">Swapping, not Shopping- Making fashion sustainable</a> (2020, Oct 5). <i>Money FM 89.3.</i> Retrieved 2021, September 15
  
 <h4>eBooks</h4>
 <h5>1. A Life Less Throwaway: The lost art of buying for life </h5>
 Tara Button (2018), <i>Life Less Throwaway: The lost art of buying for life</i>, New York: Ten Speed Press.
 
-<a target="_blank" href="https://nlb.overdrive.com/media/3341119"><img alt="book cover for a life less throwaway" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/ALifeLessThrowaway.jpg"></a>
+<a href="https://nlb.overdrive.com/media/3341119" target="_blank"><img src="/images/sustainability/adults-and-seniors/ALifeLessThrowaway.jpg" style="width:300px; text-align:left;" alt="book cover for a life less throwaway"></a>
 <p>Overcome impulse buys by discovering what really suits you and reach out for the best, most classic and long-lasting objects. Achieve this by following the 10 steps outlined in this book.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/3341119">Borrow the eBook here</a>.</p>
+<p><a href="https://nlb.overdrive.com/media/3341119" target="_blank">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
  
 <h5>2. Dress [with] Sense: The practical guide to a conscious closet </h5>
 Redress (2017), <i>Dress [with] Sense: The practical guide to a conscious closet</i>, Thomas and Hudson Ltd.
-<p><a target="_blank" href="https://nlb.overdrive.com/media/3164984"><img alt="book cover for dress with sense" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/DresswithSense.jpg"></a></p>
+<p><a href="https://nlb.overdrive.com/media/3164984" target="_blank"><img src="/images/sustainability/adults-and-seniors/DresswithSense.jpg" style="width:300px; text-align:left;" alt="book cover for dress with sense"></a></p>
 <p>Inch your way to a more sustainable wardrobe with this how-to book that features practical tips and case studies.</p>
  
-<p><a target="_blank" href="https://nlb.overdrive.com/media/3164984">Borrow the eBook here</a>.</p>
+<p><a href="https://nlb.overdrive.com/media/3164984" target="_blank">Borrow the eBook here</a>.</p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
              
 <h5>3. Wear, Repair, Repurpose : A Maker’s Guide to Mending and Upcycling Clothes</h5>
 Lily Fulop (2020), <i>Wear, Repair, Repurpose : A Maker’s Guide to Mending and Upcycling Clothes</i>, Countryman Press
 <br>
 
-<a target="_blank" href="https://nlb.overdrive.com/media/5155080"><img alt="book cover for wear, repair, repurpose" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/WearRepairRepurpose.jpg"></a>
+<a href="https://nlb.overdrive.com/media/5155080" target="_blank"><img src="/images/sustainability/adults-and-seniors/WearRepairRepurpose.jpg" style="width:300px; text-align:left;" alt="book cover for wear, repair, repurpose"></a>
 <p>Learn how to repair, upcycle or remake your fashion pieces to reduce waste with this book.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/5155080">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+<p><a href="https://nlb.overdrive.com/media/5155080" target="_blank">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
  
 <h4>Sustainability Programmes in NLB</h4>
-<p>There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a target="_blank" href="https://go.gov.sg/sustainprog">go.gov.sg/sustainprog</a>
+<p>There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a href="https://go.gov.sg/sustainprog" target="_blank">go.gov.sg/sustainprog</a>
 </p>
                                           
 <h4>References</h4>
 <ol>
-	<li><small><span id="footnote-one">What is sustainable fashion and why does it matter.</span>(2021) <i>Conscious Life &amp; Style</i>. Retrieved 2021, September 15 from <a target="_blank" href="https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/">https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/</a></small></li>
- <li><small><span id="footnote-two"> The true cost of demand for cheap clothes, to you and the environment.</span>(2021). <i>CNA</i>. Retrieved 2021, September 15 from <a target="_blank" href="https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706">https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706</a></small></li>
+	<li><small><span id="footnote-one">What is sustainable fashion and why does it matter.</span>(2021) <i>Conscious Life &amp; Style</i>. Retrieved 2021, September 15 from <a href="https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/" target="_blank">https://www.consciouslifeandstyle.com/what-is-sustainable-fashion/</a></small></li>
+ <li><small><span id="footnote-two"> The true cost of demand for cheap clothes, to you and the environment.</span>(2021). <i>CNA</i>. Retrieved 2021, September 15 from <a href="https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706" target="_blank">https://www.channelnewsasia.com/cnainsider/true-cost-demand-cheap-clothes-fast-fashion-industry-environment-220706</a></small></li>
 </ol>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
-<h5 id="lp-CityinNature" class="margin--bottom--lg"><b>City In Nature</b></h5>
+<h5 class="margin--bottom--lg" id="lp-CityinNature"><b>City In Nature</b></h5>
 <p>An urban city does not mean that it is all concrete. Vancouver and Singapore are some of the many cities in the world where one can find nature in the city. In recent years, architects and urban planners are incorporating nature when designing, planning, and building cities due to a variety of reasons. These reasons range from reducing heat and lowering temperature, increasing the quality of life to creating a natural habitat for animals and so on. </p>
 <p> We have compiled a list of resources to help you understand the different initiatives implemented by different cities to develop and grow the green spaces in their urban environments. </p><p>
 </p>
@@ -523,19 +523,18 @@ Lily Fulop (2020), <i>Wear, Repair, Repurpose : A Maker’s Guide to Mending and
 <p> In this video, you’ll learn about how different countries adopt innovative ideas, technologies and execute initiatives to create more liveable and sustainable cities. </p>
 
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/watch?v=o86Ut6kAEMQ" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=o86Ut6kAEMQ">The Urban Green</a> (2016, March 17). <i>WWF International</i> Retrieved 2021, November 19
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=o86Ut6kAEMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=o86Ut6kAEMQ" target="_blank">The Urban Green</a> (2016, March 17). <i>WWF International</i> Retrieved 2021, November 19
 
 <h5>2. World Economic Forum- Singapore has an innovative new way to design its buildings</h5> 
 <p> From this video, you will learn how Singapore has adopted the biophilic design approach in the construction of buildings. In this approach, architects embrace nature in their design by replacing columns, walls, and neon with trees, leaves and insects, thus bringing nature into the city. </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/watch?v=QCZ8jInO7UY" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=QCZ8jInO7UY"> World Economic Forum- Singapore has an innovative new way to design its buildings </a> (2020, October 10). <i> World Economic Forum.</i> Retrieved 2021, November 19
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QCZ8jInO7UY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=QCZ8jInO7UY" target="_blank"> World Economic Forum- Singapore has an innovative new way to design its buildings </a> (2020, October 10). <i> World Economic Forum.</i> Retrieved 2021, November 19
 
 <h4>Podcast</h4>
-<h5>1.< a target "_blank href="http://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227"> iHeartMedia, Inc</a></h5>
-<p> Find out what is biophilic design and the science behind this design, and how such designs can improve the quality of life for humans.</p>
-Source < a target "_blank href=" http://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227">What is biophilic design? Stuff You Should Know </a> (2019, October 7). <i> iHeartMedia, Inc <i> Retrieved 2021, December 11
+ Find out what is biophilic design and the science behind this design, and how such designs can improve the quality of life for humans.<p></p>
+Source &lt; a href="https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227"&gt;What is biophilic design? Stuff You Should Know  (2019, October 7). <i> iHeartMedia, Inc <i> Retrieved 2021, December 11
 
 
 <h4>eBooks</h4>
@@ -543,37 +542,37 @@ Source < a target "_blank href=" http://www.iheart.com/podcast/105-stuff-you-sho
 <h5>1. Nature of the City: Green Infrastructure from the Ground Up </h5>
 Andrew Tempany and Tom Armour (2020), <i> Nature of the City: Green Infrastructure from the Ground Up </i>, Abingdon : RIBA Publishing.
 <p>
-<a href=" https://nlb.overdrive.com/media/5525282" target="_blank"><img src="/images/sustainability/adults-and-seniors/ NatureoftheCity.jpg" style="width:300px; text-align:left;" alt="Book cover for Nature of the City"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/5525282"><img alt="Book cover for Nature of the City" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/ NatureoftheCity.jpg"></a>
 
-<p> A practical guide about delivering green infrastructure from the ground up and bringing nature into the built environment.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/5525282">Borrow the eBook here</a>. 
+</p><p> A practical guide about delivering green infrastructure from the ground up and bringing nature into the built environment.</p>
+<p><a href="https://nlb.overdrive.com/media/5525282" target="_blank">Borrow the eBook here</a>. 
 </p> Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
-</h5>2. Design a Healthy Home: 100 ways to Transform your Space for Physical and Mental Wellbeing</h5>
+2. Design a Healthy Home: 100 ways to Transform your Space for Physical and Mental Wellbeing
 Oliver Heath (2021), <i> Design a healthy home: 100 ways to transform your space for physical and mental wellbeing </i>, New York : DK
 <p>
-<a target="_blank" href="https://nlb.overdrive.com/media/6133815"><img alt="Book cover for Design a Healthy" style="width:300px; text-align:left;" src="images/sustainability/adults-and-seniors/Designahealthy.jpg"></a>
+<a href="https://nlb.overdrive.com/media/6133815" target="_blank"><img src="images/sustainability/adults-and-seniors/Designahealthy.jpg" style="width:300px; text-align:left;" alt="Book cover for Design a Healthy"></a>
 </p>
 <p> A guide with numerous tips to help you incorporate nature into your home.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/6133815">Borrow the eBook here</a>. </p>
+<p><a href="https://nlb.overdrive.com/media/6133815" target="_blank">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 	
 <h5>3. Nature Obscura: A city's hidden natural world </h5>
 Kelly Brenner (2020), <i> Nature Obscura : A city's hidden natural world </i>, Seattle, Mountaineer Books<br>
-<a target="_blank" href="https://nlb.overdrive.com/media/5334854"><img alt="Book cover for Nature Obscura" style="width:300px; text-align:left;" src="images/sustainability/adults-and-seniors/ NatureObscura.jpg"></a>
+<a href="https://nlb.overdrive.com/media/5334854" target="_blank"><img src="images/sustainability/adults-and-seniors/ NatureObscura.jpg" style="width:300px; text-align:left;" alt="Book cover for Nature Obscura"></a>
 <p> The book uncovers how our land alterations have impacted nature, often in ways that are unseen.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/5334854">Borrow the eBook here</a>.</p>
+<p><a href="https://nlb.overdrive.com/media/5334854" target="_blank">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
 
 <h4>Sustainability Programmes in NLB</h4>
-<p>Sustainability talks and workshops are always happening in the library. Browse through <a target="_blank" href="https://go.gov.sg/sustainprog">go.gov.sg/sustainprog</a> to find the right one for you!
+<p>Sustainability talks and workshops are always happening in the library. Browse through <a href="https://go.gov.sg/sustainprog" target="_blank">go.gov.sg/sustainprog</a> to find the right one for you!
 </p>
 			
 <small>References</small>
 <ol>
-    <li><span id="footnote-one"> Biophilic design: What is it? Why it matters? And how do we use it. (2021, November 24). Building Design + Construction.</span> <i>Bain</i>. Retrieved 2021, November 25 from <a target="_blank" href="https://www.bdcnetwork.com/blog/biophilic-design-why-it-matters-and-how-do-we-use-it/">https://www.bdcnetwork.com/blog/biophilic-design-why-it-matters-and-how-do-we-use-it/</a></li>
-	<li><span id="footnote-two"> Can Singapore, the city in a garden, grow into a city in nature?  (2018, Sept 19). <i> Eco-Business </i>. Retrieved 2021, November 24 from <a target="_blank" href="https://www/eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature"> https://www/eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature /</a> </span></li>
+    <li><span id="footnote-one"> Biophilic design: What is it? Why it matters? And how do we use it. (2021, November 24). Building Design + Construction.</span> <i>Bain</i>. Retrieved 2021, November 25 from <a href="https://www.bdcnetwork.com/blog/biophilic-design-why-it-matters-and-how-do-we-use-it/" target="_blank">https://www.bdcnetwork.com/blog/biophilic-design-why-it-matters-and-how-do-we-use-it/</a></li>
+	<li><span id="footnote-two"> Can Singapore, the city in a garden, grow into a city in nature?  (2018, Sept 19). <i> Eco-Business </i>. Retrieved 2021, November 24 from <a href="https://www/eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature" target="_blank"> https://www/eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature /</a> </span></li>
 
 </ol>
 
-</td></tr></tbody></table>
+</i></i></td></tr></tbody></table>
