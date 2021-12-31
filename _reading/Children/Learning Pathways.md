@@ -104,12 +104,11 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
       </tr>
 <tr>
 <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849#search" target="_blank"><b>Code With Your Child | Budding Coders</b></a></td>
-        <td style="width: 40%;">Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. Through hands-on coding gameplay, children can learn coding concepts without a screen or keyboard and develop problem-solving skills, critical thinking, creativity and more</td>
+        <td style="width: 40%;">Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. Through hands-on coding gameplay, children can learn coding concepts without a screen or keyboard and develop problem-solving skills, critical thinking, creativity and more<br><br> Registration will open closer to the date.</td>
         <td style="width: 20%;"> 15 Jan 2022,<br>2:30pm – 4.00pm</td>
         <td style="width: 20%;"> library@harbourfront</td>
       </tr>
   </tbody>
   </table>
 </div>
-
 	<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
