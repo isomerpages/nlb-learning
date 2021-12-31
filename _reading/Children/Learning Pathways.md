@@ -72,13 +72,15 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849#search" target="_blank"><b> Super Storytastics | Reading Comes Alive</b></a></td>
-        <td> Join our storytellers as they bring you into a world of fascinating stories and tales. Fun and excitement awaits you! </td>
+        <td> Join our storytellers as they bring you into a world of fascinating stories and tales. Fun and excitement awaits you! 
+					<br><br> Registration will open closer to the date.</td>
         <td>18 Feb 2022, <br>7:30pm – 8:00pm</td>
         <td>Ang Mo Kio Public Library</td>
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849#search" target="_blank"><b>TinkerWorks – Fight like a Knight | Reading Comes Alive</b></a></td>
-        <td>Join Camy in exploring the wonderful world of fantasy titles! Animate your very own knight in shining armour. </td>
+        <td>Join Camy in exploring the wonderful world of fantasy titles! Animate your very own knight in shining armour. 
+					<br><br> Registration will open closer to the date.</td>
         <td>19 Mar 2022, <br>2pm – 2:45pm</td>
         <td>library@harbourfront</td>
       </tr>
@@ -96,7 +98,8 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     <tbody>
 <tr>
       <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/cckpl-tinkerworks-saving-planet-earth-earth-heroes-registration-221849446667?aff=ebdssbdestsearch" target="_blank"><b>TinkerWorks - Saving Planet Earth | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Get inspired to save planet Earth through engaging book discussion and tinkering activity! This programme is part of a series of sustainability themed events for children.</td>
+        <td style="width: 40%;">Get inspired to save planet Earth through engaging book discussion and tinkering activity! This programme is part of a series of sustainability themed events for children.
+					<br><br> Registration will open closer to the date.</td>
         <td style="width: 20%;"> 22 Jan 2022,<br>1:00pm – 1.45pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library</td>
       </tr>
