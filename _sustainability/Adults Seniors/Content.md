@@ -554,12 +554,13 @@ Oliver Heath (2021), <i> Design a healthy home: 100 ways to transform your space
 <a href="https://nlb.overdrive.com/media/6133815" target="_blank"><img src="images/sustainability/adults-and-seniors/Designahealthy.jpg" style="width:300px; text-align:left;" alt="Book cover for Design a Healthy"></a>
 </p>
 <p> A guide with numerous tips to help you incorporate nature into your home.</p>
-<p><a href="https://nlb.overdrive.com/media/6133815" target="_blank">Borrow the eBook here</a>. </p>
-Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+<p><a href="https://nlb.overdrive.com/media/6133815" target="_blank">Borrow the eBook here </a>. </p>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook.
 	
 <h5>3. Nature Obscura: A city's hidden natural world </h5>
 Kelly Brenner (2020), <i> Nature Obscura : A city's hidden natural world </i>, Seattle, Mountaineer Books<br>
-<a href="https://nlb.overdrive.com/media/5334854" target="_blank"><img src="images/sustainability/adults-and-seniors/ NatureObscura.jpg" style="width:300px; text-align:left;" alt="Book cover for Nature Obscura"></a>
+	
+<a href=" https://nlb.overdrive.com/media/5334854" target="_blank"><img src="images/sustainability/adults-and-seniors/NatureObscura.jpg" style="width:300px; text-align:left;" alt="Book cover for Nature Obscura"></a>
 <p> The book uncovers how our land alterations have impacted nature, often in ways that are unseen.</p>
 <p><a href="https://nlb.overdrive.com/media/5334854" target="_blank">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
