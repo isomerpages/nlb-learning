@@ -529,13 +529,15 @@ Source: <a href="https://www.youtube.com/embed/o86Ut6kAEMQ" target="_blank">The 
 <h5>2. World Economic Forum- Singapore has an innovative new way to design its buildings</h5> 
 <p> From this video, you will learn how Singapore has adopted the biophilic design approach in the construction of buildings. In this approach, architects embrace nature in their design by replacing columns, walls, and neon with trees, leaves and insects, thus bringing nature into the city. </p>
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QCZ8jInO7UY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=QCZ8jInO7UY" target="_blank"> World Economic Forum- Singapore has an innovative new way to design its buildings </a> (2020, October 10). <i> World Economic Forum.</i> Retrieved 2021, November 19
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QCZ8jInO7UY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/embed/QCZ8jInO7UY" target="_blank"> World Economic Forum- Singapore has an innovative new way to design its buildings </a> (2020, October 10). <i> World Economic Forum.</i> Retrieved 2021, November 19
 
 <h4>Podcast</h4>
- Find out what is biophilic design and the science behind this design, and how such designs can improve the quality of life for humans.<p></p>
-Source < a target "_blank href="https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227"> What is biophilic design? Stuff You Should Know </a> (2019, October 7). <i>iHeartMedia, Inc<i> Retrieved 2021, December 11.
+<h5>1.< a href=" http://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227" target= "_blank"> iHeartMedia, Inc</a></h5>
 
+Find out what is biophilic design and the science behind this design, and how such designs can improve the quality of life for humans.<p></p>
+
+Source < a href=" http://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227 " target= "_blank">  What is biophilic design? Stuff You Should Know </a> (2019, October 7). <i> iHeartMedia, Inc <i> Retrieved 2021, December 11.
 
 <p><h4>eBooks</h4>
 	
