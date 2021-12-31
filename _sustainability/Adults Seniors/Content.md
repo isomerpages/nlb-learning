@@ -537,18 +537,18 @@ Source: <a href="https://www.youtube.com/watch?v=QCZ8jInO7UY" target="_blank"> W
 Source < a target "_blank href="https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227"> What is biophilic design? Stuff You Should Know </a> (2019, October 7). <i>iHeartMedia, Inc<i> Retrieved 2021, December 11.
 
 
-<h4>eBooks</h4>
+<p><h4>eBooks</h4>
 	
 <h5>1. Nature of the City: Green Infrastructure from the Ground Up </h5>
 Andrew Tempany and Tom Armour (2020), <i> Nature of the City: Green Infrastructure from the Ground Up </i>, Abingdon : RIBA Publishing.
 <p>
-<a target="_blank" href="https://nlb.overdrive.com/media/5525282"><img alt="Book cover for Nature of the City" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/ NatureoftheCity.jpg"></a>
+<a href="https://nlb.overdrive.com/media/5525282"><img alt="Book cover for NatureoftheCity" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/ NatureoftheCity.jpg"></a>
 
 </p><p> A practical guide about delivering green infrastructure from the ground up and bringing nature into the built environment.</p>
 <p><a href="https://nlb.overdrive.com/media/5525282" target="_blank">Borrow the eBook here</a>. 
 </p> Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
-2. Design a Healthy Home: 100 ways to Transform your Space for Physical and Mental Wellbeing
+<p>2. Design a Healthy Home: 100 ways to Transform your Space for Physical and Mental Wellbeing
 Oliver Heath (2021), <i> Design a healthy home: 100 ways to transform your space for physical and mental wellbeing </i>, New York : DK
 <p>
 <a href="https://nlb.overdrive.com/media/6133815" target="_blank"><img src="images/sustainability/adults-and-seniors/Designahealthy.jpg" style="width:300px; text-align:left;" alt="Book cover for Design a Healthy"></a>
