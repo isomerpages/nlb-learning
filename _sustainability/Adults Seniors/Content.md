@@ -542,7 +542,7 @@ Source < a target "_blank href="https://www.iheart.com/podcast/105-stuff-you-sho
 <h5>1. Nature of the City: Green Infrastructure from the Ground Up </h5>
 Andrew Tempany and Tom Armour (2020), <i> Nature of the City: Green Infrastructure from the Ground Up </i>, Abingdon : RIBA Publishing.
 <p>
-<a href="https://nlb.overdrive.com/media/5525282"><img alt="Book cover for NatureoftheCity" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/ NatureoftheCity.jpg"></a>
+<a href="https://nlb.overdrive.com/media/5525282 " target="_blank"><img src="images/sustainability/adults-and-seniors/Designahealthy.jpg" style="width:300px; text-align:left;" alt="Book cover for NatureoftheCity"></a>
 
 </p><p> A practical guide about delivering green infrastructure from the ground up and bringing nature into the built environment.</p>
 <p><a href="https://nlb.overdrive.com/media/5525282" target="_blank">Borrow the eBook here</a>. 
