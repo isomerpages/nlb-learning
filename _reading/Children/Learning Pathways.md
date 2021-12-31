@@ -98,8 +98,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     <tbody>
 <tr>
       <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/cckpl-tinkerworks-saving-planet-earth-earth-heroes-registration-221849446667?aff=ebdssbdestsearch" target="_blank"><b>TinkerWorks - Saving Planet Earth | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Get inspired to save planet Earth through engaging book discussion and tinkering activity! This programme is part of a series of sustainability themed events for children.
-					<br><br> Registration will open closer to the date.</td>
+        <td style="width: 40%;">Get inspired to save planet Earth through engaging book discussion and tinkering activity! This programme is part of a series of sustainability themed events for children.</td>
         <td style="width: 20%;"> 22 Jan 2022,<br>1:00pm – 1.45pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library</td>
       </tr>
@@ -113,4 +112,4 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
   </table>
 </div>
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
