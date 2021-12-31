@@ -533,7 +533,7 @@ Source: <a href="https://www.youtube.com/embed/o86Ut6kAEMQ" target="_blank">The 
 Source: <a href="https://www.youtube.com/embed/QCZ8jInO7UY" target="_blank"> World Economic Forum- Singapore has an innovative new way to design its buildings </a> (2020, October 10). <i> World Economic Forum.</i> Retrieved 2021, November 19
 
 <h4>Podcast</h4>
-<h5>1.< a href="https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227" target= "_blank"> iHeartMedia, Inc</a></h5>
+<h5>1.< a href="https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227/?embed=true" frameborder" target= "_blank"> iHeartMedia, Inc</a></h5>
 
 Find out what is biophilic design and the science behind this design, and how such designs can improve the quality of life for humans.<p></p>
 
