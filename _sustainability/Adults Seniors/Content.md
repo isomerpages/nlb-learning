@@ -523,7 +523,7 @@ Lily Fulop (2020), <i>Wear, Repair, Repurpose : A Maker’s Guide to Mending and
 <p> In this video, you’ll learn about how different countries adopt innovative ideas, technologies and execute initiatives to create more liveable and sustainable cities. </p>
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=o86Ut6kAEMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o86Ut6kAEMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=o86Ut6kAEMQ" target="_blank">The Urban Green</a> (2016, March 17). <i>WWF International</i> Retrieved 2021, November 19
 
 <h5>2. World Economic Forum- Singapore has an innovative new way to design its buildings</h5> 
