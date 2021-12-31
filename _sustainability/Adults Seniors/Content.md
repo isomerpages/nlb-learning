@@ -459,7 +459,7 @@ Source: <a href="https://www.youtube.com/embed/65zR2nU0sBU" target="_blank">Fash
 <p>Discover what sustainable fashion really means and the important considerations to bear in mind to be planet friendly through this insightful video.</p>
  
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rt-kBnsBzCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rt-kBnsBzCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Source: <a href="https://www.youtube.com/embed/rt-kBnsBzCo" target="_blank">9 Common Misconceptions about Sustainable Fashion</a> (2020, Oct 5). <i>imperfectidealist.</i> Retrieved 2021, September 15
  
 <h4>Podcast</h4>
