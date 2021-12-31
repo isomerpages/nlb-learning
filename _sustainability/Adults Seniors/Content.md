@@ -533,18 +533,28 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=o86Ut6kAEMQ">Th
 Source: <a target="_blank" href="https://www.youtube.com/watch?v=QCZ8jInO7UY"> World Economic Forum- Singapore has an innovative new way to design its buildings </a> (2020, October 10). <i> World Economic Forum.</i> Retrieved 2021, November 19
 
 <h4>Podcast</h4>
-<h5><a media="" target="_blank> iHeartMedia, Inc.</a></h5>
+<h5>1.< a target "_blank href=" http://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227"> iHeartMedia, Inc</a></h5>
 <p> Find out what is biophilic design and the science behind this design, and how such designs can improve the quality of life for humans.</p>
-Source <a href=" href="http://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227"><img alt="Book cover for Nature of the City" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/ NatureoftheCity.jpg"></a>
-<p> A practical guide about delivering green infrastructure from the ground up and bringing nature into the built environment.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/5525282">Borrow the eBook here</a>. </p>
-Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+Source < a target "_blank href=" http://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227">What is biophilic design? Stuff You Should Know </a> (2019, October 7). <i> iHeartMedia, Inc <i> Retrieved 2021, December 11
 
-</h5><h5>2. Design a Healthy Home: 100 ways to Transform your Space for Physical and Mental Wellbeing</h5>
+
+<h4>eBooks</h4>
+	
+<h5>1. Nature of the City: Green Infrastructure from the Ground Up </h5>
+Andrew Tempany and Tom Armour (2020), <i> Nature of the City: Green Infrastructure from the Ground Up </i>, Abingdon : RIBA Publishing.
+<p>
+<a href=" https://nlb.overdrive.com/media/5525282" target="_blank"><img src="/images/sustainability/adults-and-seniors/ NatureoftheCity.jpg" style="width:300px; text-align:left;" alt="Book cover for Nature of the City"></a>
+
+<p> A practical guide about delivering green infrastructure from the ground up and bringing nature into the built environment.</p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/5525282">Borrow the eBook here</a>. 
+</p> Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+
+</h5>2. Design a Healthy Home: 100 ways to Transform your Space for Physical and Mental Wellbeing</h5>
 Oliver Heath (2021), <i> Design a healthy home: 100 ways to transform your space for physical and mental wellbeing </i>, New York : DK
 <p>
 <a target="_blank" href="https://nlb.overdrive.com/media/6133815"><img alt="Book cover for Design a Healthy" style="width:300px; text-align:left;" src="images/sustainability/adults-and-seniors/Designahealthy.jpg"></a>
-</p><p> A guide with numerous tips to help you incorporate nature into your home.</p>
+</p>
+<p> A guide with numerous tips to help you incorporate nature into your home.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/6133815">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 	
