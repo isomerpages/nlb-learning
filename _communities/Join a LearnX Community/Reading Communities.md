@@ -219,7 +219,7 @@ For Teens, Adults, Seniors, conducted once every two months in Chinese at Centra
         <img alt="SG Writings Reading Club 随笔南洋读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-16.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> SG Writings Reading Club 随笔南洋读书会 </b></h5>
-      <p class="margin--top--sm margin--bottom--sm"> SG Writings Reading Club（Former Tea Chapter Reading Club） was founded in October 18, 1998. The reading club encourages reading practise, promote reading culture and share reading knowledge. Through the practise and sharing, we aim to improve ourability to appreciate literatures and to develop our latent sense of art, and to explore the true essence of literatures together.<br><br>
+      <p class="margin--top--sm margin--bottom--sm"> SG Writings Reading Club（Former Tea Chapter Reading Club） was founded in October 18, 1998. The reading club encourages reading practise, promote reading culture and share reading knowledge. Through the practise and sharing, we aim to improve our ability to appreciate literatures and to develop our latent sense of art, and to explore the true essence of literatures together.<br><br>
 随笔南洋读书会（原茶渊读书会）成立于1998年10月18日。读书会以鼓励读书风气，交流阅读心得，探讨文学真谛，提高鉴赏能力，开发自身潜在艺术感觉为宗旨。<br><br>
 For adults, conducted in Chinese online via Zoom. Physical programme at library@chinatown is suspended until further notice.</p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="http://go.gov.sg/sgwritings"> Click here for upcoming sessions</a></p>
