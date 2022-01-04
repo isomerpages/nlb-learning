@@ -45,7 +45,7 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
       </tr> 
 <tr>
         <td style="width: 20%;"><a target="_blank" href="/reading/adults-seniors/content"><b>Singapore Literature</b></a></td>
-        <td>Glean into Singapore literature and selected must-reads.</td>
+        <td>Discover Singapore literature and selected must-reads.</td>
         <td></td>
         <td> </td>
       </tr>
