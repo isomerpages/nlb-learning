@@ -43,7 +43,7 @@ third_nav_title: Tweens
 Explore different topics with these resources for your child to expand reading diets.  
 Check out our **playlists** for collections of short videos and podcasts to expand reading interests.
 
-Check our **learning packages** for D.I.Y to engage your child in different topics.
+Check out our **learning packages** for D.I.Y to engage your child in different topics.
 
 <div class="row is-multiline">
   <div class="col is-one-third">
@@ -106,7 +106,6 @@ D.I.Y activities to engage your child in different topics.
 	
 <h4 id="lp-reach-out-for-the-skies"><a href="/files/Reading_Tweens_Reach%20Out%20for%20the%20Skies.pdf " target="_blank"><b> Reach Out for the Skies </b></a></h4>
 <p>Discover good reads and try your hand at the book-related craft activity!</p>
-
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}

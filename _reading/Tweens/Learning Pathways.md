@@ -62,7 +62,8 @@ Read with your child to explore new topics and discover new experience.
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/213485630267" target="_blank"><b> Connecting with our History – The 3 Kingdoms </b></a></td>
-        <td style="width: 40%;">A workshop for children from 10 to 12 years on the dynasties that ruled Tamil Nadu — namely, the Chera, Chola and Pandya dynasties. The workshop conducted in Tamil will provide a brief into the kingdoms, coupled with quizzes and activities to follow.</td>
+        <td style="width: 40%;">A workshop for children from 10 to 12 years on the dynasties that ruled Tamil Nadu — namely, the Chera, Chola and Pandya dynasties. The workshop conducted in Tamil will provide a brief into the kingdoms, coupled with quizzes and activities to follow.
+					<br><br> Registration will open closer to the date.</td>
         <td style="width: 20%;"> 30 Jan 2022, 3:00pm-4:30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
@@ -74,7 +75,8 @@ Read with your child to explore new topics and discover new experience.
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.sg/e/thinker-play-unscramble-the-word-sustainability-time-of-your-life-tickets-217851408427?aff=ebdssbonlinesearch" target="_blank"><b>TinkerWorks – Transform Me | Tweenkerama | Reading</b></a></td>
-        <td>Get inspired to think out of the box through an engaging book discussion and a tinkering activity!</td>
+        <td>Get inspired to think out of the box through an engaging book discussion and a tinkering activity!
+					<br><br> Registration will open closer to the date.</td>
         <td>12 Mar 2022, <br>2:30pm – 3:15pm</td>
         <td>Jurong Regional Library</td>
       </tr>

@@ -43,7 +43,7 @@ Discover new reading experiences and adventures with your child through these pr
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="/reading/children/tweens">
+      <a href="/reading/tweens/content">
         <span>Content </span>
       </a>
     </div>
