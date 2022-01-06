@@ -91,10 +91,10 @@ What can we do to protect the environment around us? Do you know the different t
         <td></td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
-        <td>Sea turtles are a bastion of the ocean ecology. Learn all about the amazing sea turtle in this special storytelling and craft session.</td>
-        <td>Feb 2022</td>
-        <td>TBC</td>
+<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b></b></a></td>
+        <td></td>
+        <td></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
