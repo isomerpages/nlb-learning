@@ -81,7 +81,7 @@ What can we do to protect the environment around us? Do you know the different t
       <tr>
         <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
         <td> Sea turtles are a bastion of the ocean ecology. Learn all about the amazing sea turtle in this special storytelling and craft session.</td>
-        <td>5 Feb 2022<br>11.00am – 12.00pm<td>
+				<td>5 Feb 2022<br>11.00am – 12.00pm</td>
 				<td>Choa Chu Kang Public Library</td>
      </tr>
 <tr>
