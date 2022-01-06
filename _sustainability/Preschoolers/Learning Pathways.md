@@ -85,10 +85,10 @@ What can we do to protect the environment around us? Do you know the different t
 				<td>Choa Chu Kang Public Library</td>
      </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Birds In Singapore!</b></a></td>
-        <td> Join us in this special storytelling and craft session where you will learn about our feathered friends in Singapore!</td>
-        <td>Jan 2022</td>
-        <td>TBC</td>
+<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b></b></a></td>
+        <td></td>
+        <td></td>
+        <td></td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
