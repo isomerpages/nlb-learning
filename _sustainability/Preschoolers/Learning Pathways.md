@@ -108,10 +108,10 @@ What can we do to protect the environment around us? Do you know the different t
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>StoriiAlive Through Stem</b></a></td>
-        <td style="width: 40%;">StoriiAlive is a series of workshops created to bring stories alive through the use of screenfree coding via tech toys. Through fun and creative approaches, children learn to code and complete challenges with the use of book-related coding activities. </td>
-        <td style="width: 20%;">19 Dec 2021<br>11am – 12pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b></b></a></td>
+        <td style="width: 40%;"></td>
+        <td style="width: 20%;"><br></td>
+        <td style="width: 20%;"></td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists 
