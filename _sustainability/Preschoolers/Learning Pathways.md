@@ -114,11 +114,11 @@ What can we do to protect the environment around us? Do you know the different t
         <td style="width: 20%;"></td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists 
-What Makes an Apple Turns Brown?</b></a></td>
-        <td>Children will learn about how chemical reactions work with this fun and exciting screen-free activity!</td>
-        <td>17 December 2021<br>3pm – 4pm</td>
-        <td>Zoom</td>
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>
+</b></a></td>
+        <td></td>
+        <td></td>
+        <td></td>
       </tr>
 <tr>
 <td><a href="#" target="_blank"><b>Travelling with Bee Bot</b></a></td>
