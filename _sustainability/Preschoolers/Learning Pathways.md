@@ -123,8 +123,8 @@ What can we do to protect the environment around us? Do you know the different t
 <tr>
 <td><a href="#" target="_blank"><b>Travelling with Bee Bot</b></a></td>
         <td>Come programme Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking. Screens are not needed for this activity! </td>
-        <td>March 2022</td>
-        <td>11.00am – 12.00pm</td>
+        <td>19 Feb 2022<br>11.00am – 12.00pm</td>
+        <td>Geylang Public Library</td>
       </tr>
 			<tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Marine Animals</b></a></td>
