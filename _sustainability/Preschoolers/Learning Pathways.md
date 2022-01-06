@@ -130,7 +130,7 @@ What can we do to protect the environment around us? Do you know the different t
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Marine Animals</b></a></td>
         <td>Descend through the ocean to discover its mesmerizing ocean life. The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. Did you know that clownfish are actually omnivores, which mean they eat both meat and plants? What is the living habitat like for these marine animals? In this session, you will be introduced to the wonders of the oceans and learnt about the fun facts of the marine animals.</td>
         <td>18 Mar 2022<br>3pm - 4pm</td>
-        <td>Zoom <br>TBC</td>
+        <td>Zoom</td>
       </tr>
   </tbody>
   </table>
