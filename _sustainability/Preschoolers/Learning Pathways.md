@@ -75,14 +75,14 @@ What can we do to protect the environment around us? Do you know the different t
       <tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Birds in Singapore!</b></a></td>
         <td style="width: 40%;">Join us in this special storytelling and craft session where you will learn about our feathered friends in Singapore!</td>
-        <td style="width: 20%;">29 Jan 2022,<br>11.00am – 12.00pm</td>
+        <td style="width: 20%;">29 Jan 2022<br>11.00am – 12.00pm</td>
         <td style="width: 20%;">Central Public Library</td>
       </tr>
       <tr>
         <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
         <td> Sea turtles are a bastion of the ocean ecology. Learn all about the amazing sea turtle in this special storytelling and craft session.</td>
         <td>5 Feb 2022<br>11.00am – 12.00pm<td>
-				<td style="width: 20%;">Choa Chu Kang Public Library</td>
+				<td>Choa Chu Kang Public Library</td>
      </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Birds In Singapore!</b></a></td>
