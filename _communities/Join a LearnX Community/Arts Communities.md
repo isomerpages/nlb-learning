@@ -127,3 +127,13 @@ For Seniors, conducted twice a month in English at Jurong Regional Library.</p>
       <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank"> Click here for upcoming sessions</a></p>
     </div>
   </div>
+<div class="col is-half-tablet padding--bottom--lg">
+    <img alt="Gundam Building" src="/images/learning-communities/arts/Gundam-01.png">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Gundam Building</b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> Interested in building Gundams? Join our Gundam club and enjoy crafting your creation together. This programme is for adults as the usage of sharp tools is involved. Please bring your own kits and tools.<br><br>
+For Teens and Adults, conducted monthly in English at Woodlands Regional Library. </p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+    </div>
+  </div>
+
