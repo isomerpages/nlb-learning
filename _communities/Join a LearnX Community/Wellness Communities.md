@@ -42,3 +42,13 @@ For adults, conducted monthly in Chinese at Tampines Regional Library.</p>
       <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/taiji-readingclub" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <img alt="Communities: Travel and Culture Explorers" src="/images/learning-communities/wellness/Communities%20Travelers%20and%20Culture%20Explorers-01.png">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Communities: Travel and Culture Explorers</b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> Now Boarding: Wanderlusters, adventurers and culture enthusiasts. <br>
+library@orchard Communities is an alternative learning environment in which you can pick up a plethora of skills by sharing and experimenting with others. This monthly series is built on the belief that teaching and learning can happen without a teacher. <br><br>
+For Teens and Adults, conducted monthly in English at library@orchard and online. </p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+    </div>
+  </div>

@@ -73,28 +73,34 @@ What can we do to protect the environment around us? Do you know the different t
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Get Creative for Climate Change! [7 years and below]</b></a></td>
-        <td style="width: 40%;">Want to learn more about climate change and how we can care for our environment in fun, creative ways? Water Wally & Sally have partnered up with our friends at the National Library Board and The Art People to show you how we can do just that! During this 1-hour online session, we will share some book recommendations, and do some art and craft with recycled materials.</td>
-        <td style="width: 20%;">18 Dec 2021,<br>1.30pm – 2.30pm</td>
-        <td style="width: 20%;">TBC</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>The Feelings Forest</b></a></td>
+        <td style="width: 40%;">Join Mr Mole on his journey through the Feelings Forest, where he chats with nature and wildlife while learning about emotions and feelings.</td>
+        <td style="width: 20%;">16 Jan 2022<br>11.00am – 12.00pm</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library</td>
+      </tr>
+			<tr>
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Birds in Singapore!</b></a></td>
+        <td style="width: 40%;">Join us in this special storytelling and craft session where you will learn about our feathered friends in Singapore!</td>
+        <td style="width: 20%;">29 Jan 2022<br>11.00am – 12.00pm</td>
+        <td style="width: 20%;">Central Public Library</td>
       </tr>
       <tr>
-        <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Horseshoe Crab Conservation by Republic Poly</b></a></td>
-        <td> Learn all about the fascinating horseshoe crabs and their role in the environment!</td>
-        <td>5 Dec 2021<br>11am - 11.45am<br><br>19 Dec 2021<br>2pm - 3pm</td>
-        <td>Zoom</td>
+        <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
+        <td> Sea turtles are a bastion of the ocean ecology. Learn all about the amazing sea turtle in this special storytelling and craft session.</td>
+				<td>5 Feb 2022<br>11.00am – 12.00pm</td>
+				<td>Choa Chu Kang Public Library</td>
+     </tr>
+<tr>
+<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b></b></a></td>
+        <td></td>
+        <td></td>
+        <td></td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Birds In Singapore!</b></a></td>
-        <td> Join us in this special storytelling and craft session where you will learn about our feathered friends in Singapore!</td>
-        <td>Jan 2022</td>
-        <td>TBC</td>
-      </tr>
-<tr>
-<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
-        <td>Sea turtles are a bastion of the ocean ecology. Learn all about the amazing sea turtle in this special storytelling and craft session.</td>
-        <td>Feb 2022</td>
-        <td>TBC</td>
+<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b></b></a></td>
+        <td></td>
+        <td></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -108,29 +114,29 @@ What can we do to protect the environment around us? Do you know the different t
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>StoriiAlive Through Stem</b></a></td>
-        <td style="width: 40%;">StoriiAlive is a series of workshops created to bring stories alive through the use of screenfree coding via tech toys. Through fun and creative approaches, children learn to code and complete challenges with the use of book-related coding activities. </td>
-        <td style="width: 20%;">19 Dec 2021<br>11am – 12pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b></b></a></td>
+        <td style="width: 40%;"></td>
+        <td style="width: 20%;"><br></td>
+        <td style="width: 20%;"></td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists 
-What Makes an Apple Turns Brown?</b></a></td>
-        <td>Children will learn about how chemical reactions work with this fun and exciting screen-free activity!</td>
-        <td>17 December 2021<br>3pm – 4pm</td>
-        <td>Zoom</td>
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>
+</b></a></td>
+        <td></td>
+        <td></td>
+        <td></td>
       </tr>
 <tr>
 <td><a href="#" target="_blank"><b>Travelling with Bee Bot</b></a></td>
         <td>Come programme Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking. Screens are not needed for this activity! </td>
-        <td>March 2022</td>
-        <td>TBC</td>
+        <td>19 Feb 2022<br>11.00am – 12.00pm</td>
+        <td>Geylang Public Library</td>
       </tr>
 			<tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Marine Animals</b></a></td>
         <td>Descend through the ocean to discover its mesmerizing ocean life. The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. Did you know that clownfish are actually omnivores, which mean they eat both meat and plants? What is the living habitat like for these marine animals? In this session, you will be introduced to the wonders of the oceans and learnt about the fun facts of the marine animals.</td>
-        <td>18 Mar 2022<br>3pm - 4pm</td>
-        <td>Zoom <br>TBC</td>
+        <td>18 Mar 2022<br>3.00pm – 4.00pm</td>
+        <td>Zoom</td>
       </tr>
   </tbody>
   </table>
