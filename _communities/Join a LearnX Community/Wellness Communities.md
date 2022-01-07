@@ -52,5 +52,3 @@ For Teens and Adults, conducted monthly in English at library@orchard and online
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
     </div>
   </div>
-
-
