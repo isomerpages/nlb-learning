@@ -73,6 +73,12 @@ What can we do to protect the environment around us? Do you know the different t
     </thead>
     <tbody>
       <tr>
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>The Feelings Forest</b></a></td>
+        <td style="width: 40%;">Join Mr Mole on his journey through the Feelings Forest, where he chats with nature and wildlife while learning about emotions and feelings.</td>
+        <td style="width: 20%;">16 Jan 2022<br>11.00am – 12.00pm</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library</td>
+      </tr>
+			<tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Birds in Singapore!</b></a></td>
         <td style="width: 40%;">Join us in this special storytelling and craft session where you will learn about our feathered friends in Singapore!</td>
         <td style="width: 20%;">29 Jan 2022<br>11.00am – 12.00pm</td>
