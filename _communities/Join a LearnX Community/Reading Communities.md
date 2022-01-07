@@ -145,6 +145,16 @@ For Adults, conducted monthly in Malay at Woodlands Regional Library. </p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
+    <img alt="Malay in Minutes" src="/images/learning-communities/reading/LC-Reading-StockImage-09.jpg">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b> Malay In Minutes </b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> Would you like to converse in Malay with your friends and neighbours? Join us in this ongoing book club where we use simple Malay books as part of learning tools.<br><br>
+For Teens and Adults, conducted monthly in English at Geylang East Regional Library. </p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+    </div>
+  </div>
+
+  <div class="col is-half-tablet padding--bottom--lg">
     <img alt="Interacting @ Bukit Panjang  交流点读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-13.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Interacting @ Bukit Panjang 交流点读书会</b></h5>
