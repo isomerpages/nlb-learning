@@ -102,7 +102,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
       <tr>
         <td><a href="http://go.gov.sg/get-professional-series" target="_blank"><b>Interview Skills</b></a></td>
         <td>This workshop will guide you through the pre to post-interview processes, help you to understand what your interviewer is looking for, and how to ace the interview session itself.</td>
-        <td>7 Jan 2022,<br>17 Jan 2022, <br>4 Feb 2022, <br>7pm - 9pm<br></td>
+        <td>17 Jan 2022, <br>4 Feb 2022, <br>7pm - 9pm<br></td>
         <td>Zoom</td>
       </tr>
 <tr>
@@ -184,19 +184,13 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
       <tr>
         <td style="width: 20%;"><b>Engage Customers through Social Media</b></td>
         <td style="width: 40%;">A webinar by NYP</td>
-        <td style="width: 20%;">6 Jan 2022, ,<br> 7pm – 8.30pm <br></td>
-        <td style="width: 20%;">TBC</td>
+        <td style="width: 20%;">13 Apr 2022,<br> 3pm – 4.30pm <br></td>
+        <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
         <td><b>Innovation and Value Proposition</b></td>
         <td>A workshop for aspiring entreprenuers.</td>
-        <td>20 Jan 2022</td>
         <td>TBC</td>
-      </tr>
-<tr>
-        <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbAb/" target="_blank"><b>Machine Learning in the Future of Work</b></a></td>
-        <td>Learn how machine learning will transform our work in future.<br><br>Registration opens two weeks before the programme.</td>
-        <td>6 Jan 2022 <br> 7pm-8.30pm</td>
         <td>TBC</td>
       </tr>
     </tbody>
