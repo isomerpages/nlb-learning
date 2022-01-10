@@ -68,14 +68,14 @@ Go green with your child to build an eco-friendly future together.
       </tr>
       <tr>
         <td><a href="https://www.eventbrite.sg/e/cckpl-little-farmers-earth-heroes-registration-215064532807?aff=ebdsoporgprofile" target="_blank"><b>CCKPL: TinkerWorks - Saving Planet Earth | Earth Heroes</b></a></td>
-        <td>Coming soon</td>
-        <td>TBC</td>
+        <td>Get inspired to save planet Earth by engaging in a book discussion and tinkering activity!</td>
+        <td>22 Jan 2022 <br> 1pm-1.45pm</td>
         <td>Choa Chu Kang Public Library </td>
       </tr>
       <tr>
       <td><a href="https://www.eventbrite.sg/e/get-creative-for-climate-change-8-12-years-registration-206178424217?aff=ebdssbonlinesearch" target="_blank"><b>Get Creative for Climate Change! | Earth Heroes</b></a></td>
         <td>Let’s draw Water Wally & Sally and learn more about climate change!</td>
-        <td>11 Dec 2021, <br>1.30pm - 230pm</td>
+        <td>11 Dec 2021, <br>1.30pm - 2.30pm</td>
         <td>Zoom</td>
       </tr>
     </tbody>
