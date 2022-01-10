@@ -44,7 +44,7 @@ Taking care of the environment starts with YOU!
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/EndangeredSpecies_Preview_FA.pdf" target="_blank"><b> Learning Package<br>Endangered Species</b></a></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/EndangeredSpecies_Preview_FA.PDF" target="_blank"><b> Learning Package<br>Endangered Species</b></a></td>
         <td> Try your hand at this Tinker Sheet on endangered animal species and common threats to wildlife, complete with related activities and recommended reads!</td>
         <td></td>
         <td> </td>
