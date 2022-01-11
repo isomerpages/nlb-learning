@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Adults/.keep
+      - Teens/Programmes.md
       - Teens/.keep
       - Teens/Overview.md
       - Teens/Content.md
