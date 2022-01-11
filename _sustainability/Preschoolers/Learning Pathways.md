@@ -113,18 +113,18 @@ What can we do to protect the environment around us? Do you know the different t
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b></b></a></td>
-        <td style="width: 40%;"></td>
-        <td style="width: 20%;"><br></td>
-        <td style="width: 20%;"></td>
+      <tr>				
+				<td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank">Coding Unplugged: Let’s Get Looping!<b></b></a></td>
+        <td style="width: 40%;">Join us in this basic introductory precoding programme about the use of loops in coding through storytelling and game.</td>
+        <td style="width: 20%;">26 Feb 2022<br>11.00am – 12.00pm</td>
+        <td style="width: 20%;">Bedok Public Library</td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>
-</b></a></td>
-        <td></td>
-        <td></td>
-        <td></td>
+</b>The Amazing Body!</a></td>
+        <td>As your children grow, they will start to recognise the different parts of their amazing bodies. In this programme, we will identify the various body parts, learn more about each of their important functions, and make our own little body puppet!</td>
+        <td>12 Mar 2022 2.00pm-3.00pm</td>
+        <td>Zoom</td>
       </tr>
 <tr>
 <td><a href="#" target="_blank"><b>Travelling with Bee Bot</b></a></td>
