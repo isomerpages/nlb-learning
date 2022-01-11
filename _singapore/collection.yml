@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Adults/.keep
-      - Teens/Learning Packages.md
+      - Teens/Learning Pathways.md
       - Teens/Programmes.md
       - Teens/.keep
       - Teens/Overview.md
