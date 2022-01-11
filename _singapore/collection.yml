@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Adults/.keep
-      - Teens/Learning Pathways.md
-      - Teens/Programmes.md
       - Teens/.keep
       - Teens/Overview.md
       - Teens/Content.md
+      - Teens/Programmes.md
+      - Teens/Learning Pathways.md
       - LearnX Singapore.md
