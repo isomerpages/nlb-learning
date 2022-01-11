@@ -62,14 +62,7 @@ Explore new experiences through the written word.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/nac-nlb-writers-lab-the-story-behind-the-story-by-gabby-tye-registration-226751779677?aff=ebdsoporgprofile " target="_blank"><b> [NAC- NLB Writers’ Lab] The Story Behind the Story by Gabby TYE </b></a></td>
-        <td style="width: 40%;"> Ever wondered how authors come up with their stories and ideas? Hear from Gabby Tye, author of the popular RunHideSeek & EverAfter series, as she shares her writing process and her journey of becoming one of Singapore’s youngest bestselling authors. </td>
-        <td style="width: 20%;"> 2 Jan 2022,<br>10.30am - 11.30am </td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-
-<tr>
-<td><a href=" https://www.eventbrite.sg/e/writing-the-city-crafting-short-fiction-with-crispin-rodrigues-registration-220538746327?aff=ebdsoporgprofile " target="_blank"><b> Writing the City: Crafting Short Fiction with Crispin Rodrigues</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/writing-the-city-crafting-short-fiction-with-crispin-rodrigues-registration-220538746327?aff=ebdsoporgprofile " target="_blank"><b> Writing the City: Crafting Short Fiction with Crispin Rodrigues</b></a></td>
         <td> A good short story can still pack a pretty good punch, despite its brief form. Explore the intricacies of crafting a short story in this workshop with author and poet, Crispin Rodrigues. </td>
         <td>15 Jan 2022, <br> 2pm - 4pm</td>
         <td>Toa Payoh Public Library</td>
