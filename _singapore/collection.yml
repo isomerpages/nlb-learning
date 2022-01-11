@@ -2,5 +2,6 @@ collections:
   singapore:
     output: true
     order:
+      - Adults/.keep
       - Teens/.keep
       - LearnX Singapore.md
