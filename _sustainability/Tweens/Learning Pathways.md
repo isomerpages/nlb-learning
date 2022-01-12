@@ -61,8 +61,10 @@ Taking care of the environment starts with YOU!
       </tr>
     </thead>
     <tbody>
+			<tr>
         <td style="width: 20%;"><b>TinkerWorks | Sustainability</b></td>
         <td style="width: 40%;"> A series of tinkering sessions to learn and explore topics on sustainability through a variety of hands-on and experiential learning activities.<br>Stay tuned for more updates!</td>
+				</tr>
     </tbody>
   </table>
 </div>
