@@ -227,6 +227,42 @@ Professor Kevin Blackburn discusses the comfort women of Singapore from memories
 </small></p>
 </div>
 </div>
+
+<h5 id="japanese occupation" class="margin--bottom--lg"><b>Playlist: Japanese Occupation - Liberation and Aftermath of War</b></h5>
+
+Japanese surrender ceremony on 12 September 1945 at City Hall (then known as Municipal Building of Singapore) marked the end of Japanese Occupation in Southeast Asia. Singapore embarked on a road of recovery from the war.
+
+Check out these resources to relive moments during the Japanese surrender.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/YioTxyg70zg" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>Ep 4: Japan's Surrender and Victory Celebrations | Roots.Sg (3 mins)</b><br>
+Japan surrendered following the dropping of atomic bombs on Hiroshima and Nagasaki. On 12 September 1945, the Japanese forces surrendered to the British at the Municipal building, officially marking the end of the Japanese occupation of Singapore.<br><br>
+<small>Source: Ep 4: Japan's Surrender and Victory Celebrations | Roots.Sg (2017, Sep 25). Roots Sg. Retrieved 2022, January 12.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/7eHhLI-hRO4" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Civilian War Memorial Singapore - Part One | warinasia (4 mins)</b><br>
+Recounts the Civilian War Memorial project, a monument dedicated to civilians who perished during the Japanese Occupation of Singapore (1942–45).<br><br>
+<small> Source: Civilian War Memorial Singapore - Part One | warinasia (2017, Sep 28). warinasia. Retrieved 2022, January 12.</small></p>
+</div>
+</div>
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
