@@ -52,7 +52,6 @@ Check out these resources that highlight tips on keeping your online information
     </tbody>
   </table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -78,5 +77,4 @@ Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank">Public
     </tbody>
   </table>
 </div>
-
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
