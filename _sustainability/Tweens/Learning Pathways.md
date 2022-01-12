@@ -62,10 +62,8 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b>TinkerWorks | Sustainability</b></a></td>
+        <td style="width: 20%;"><b>TinkerWorks | Sustainability</b></td>
         <td style="width: 40%;"> A series of tinkering sessions to learn and explore topics on sustainability through a variety of hands-on and experiential learning activities.<br>Stay tuned for more updates!</td>
-        <td style="width: 20%;"></td>
-      </tr>
     </tbody>
   </table>
 </div>
@@ -82,7 +80,7 @@ Taking care of the environment starts with YOU!
         <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/secondary-main#learn-about-steam" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
         <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
 Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank">Public Libraries Singapore’s Facebook page</a> to be notified when the videos go live.</td>
-        <td style="width: 20%;">Dec 2021 to Jan 2022</td>
+        <td style="width: 20%;">Jan 2022</td>
         <td style="width: 20%;"></td>
       </tr>
       </tr>
