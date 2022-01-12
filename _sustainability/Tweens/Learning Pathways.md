@@ -62,22 +62,9 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/wordplay-creating-impact-greta-thunberg-style-online-registration-206178053107?aff=ebdsoporgprofile" target="_blank"><b>Creating Impact: Greta Thunberg Style | Wordplay</b></a></td>
-        <td style="width: 40%;"> A public speaking workshop for young activists on the theme of climate change.</td>
-        <td style="width: 20%;"> 10 Dec 2021,<br>2pm – 3.30pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.eventbrite.sg/e/cckpl-urban-farming-series-tickets-170400171500?aff=ebdsoporgprofile" target="_blank"><b> CCKPL: Tweenkerama - Urban Farming Workshop | Sustainability</b></a></td>
-        <td> Learn all about urban farming at this hour-long workshop!</td>
-        <td>5 Dec 2021, 11am – 12pm</td>
-        <td>Choa Chu Kang Public Library </td>
-      </tr>
-			 <tr>
-        <td><b>Sustainable Art Installation</b></td>
-        <td>Three Pockets Full of Rye is an “living art installation” housed at the newly revamped Choa Chu Kang Public Library where artist Veronyka Lau uses found objects to interpret her own relationship with food and the concepts of sustainability and security. In mirroring the towering glass city around us, the artwork alludes to our modern life of living to be seen, yet with much hidden from view. Three Pockets Full of Rye is also about our relationship with objects - having them, wanting them, and finding some to be out of reach.</td>
-        <td>28 Oct -30 Nov <br> (CCKPL)<br><br>1 Dec – 10 Jan 2022 <br>(JRL)</td>
-        <td>Choa Chu Kang Public Library<br><br>Jurong Regional Library</td>
+        <td style="width: 20%;"><b>TinkerWorks | Sustainability</b></a></td>
+        <td style="width: 40%;"> A series of tinkering sessions to learn and explore topics on sustainability through a variety of hands-on and experiential learning activities.<br>Stay tuned for more updates!</td>
+        <td style="width: 20%;"></td>
       </tr>
     </tbody>
   </table>
@@ -98,11 +85,6 @@ Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank">Public
         <td style="width: 20%;">Dec 2021 to Jan 2022</td>
         <td style="width: 20%;"></td>
       </tr>
-      <tr>
-      <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/secondary-main" target="_blank"><b> [Tweenkerama | Tech] presents Everyone Can Code Workshop</b></a></td>
-        <td> Kickstart your school holidays with fun coding workshops using iPad. Designed for Tweens aged 10 - 13, these beginner friendly online workshops leverage activities from A Quick Start to Code Guide. Participants will get to try a variety of coding challenges with the Swift Playgrounds app for iPad.</td>
-        <td>1 Dec 2021 <br>2 Dec 2021 <br>3 Dec 2021 <br>11am -12.30pm</td>
-        <td>Zoom</td>
       </tr>
     </tbody>
   </table>
