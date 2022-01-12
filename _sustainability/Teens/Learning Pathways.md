@@ -61,15 +61,9 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://file.go.gov.sg/rulesforecowarriors.pdf" target="_blank"><b> Eco-Warriors Competition</b></a></td>
-        <td style="width: 40%;"> Share your personal sustainable practises with us and win $500 in vouchers! This competition is supported by Capitaland Hope Foundation, Lot One and Infracrowd Asia Pte Ltd. </td>
-        <td style="width: 20%;"> Now till 17 Dec 2021</td>
-        <td style="width: 20%;"></td>
-      </tr>
-      <tr>
         <td><a href="https://www.eventbrite.sg/e/what-is-the-environmental-cost-of-building-your-wardrobe-wwf-explains-registration-202049925767?aff=ebdssbdestsearch" target="_blank"><b> WWF Explains: City in Nature</b></a></td>
         <td> Join environmental conservationists as they evaluate the concept of City in Nature, how far we have come, and how much there is to go.</td>
-        <td>24 Feb 2022<br>7pm – 8.30pm</td>
+        <td>24 Feb 2022,<br>7pm – 8.30pm</td>
         <td>Zoom</td>
       </tr>
     </tbody>
@@ -85,9 +79,9 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="http://go.gov.sg/nlb-teensprogs" target="_blank"><b>[Teens Takeover | digi.lit] Mobile Phone Videography Workshop</b></a></td>
-        <td style="width: 40%;">YouTube, Instagram and TikTok have made mobile phone videography a nifty skill to pick up. In this online workshop, learn how to shoot and edit better videos to impress your friends, family, and social media feed!</td>
-        <td style="width: 20%;">15 Dec 2021<br>3pm - 4pm</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/discover-discord-workshop-digilit-teens-takeover-registration-223173837957?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>[Teens Takeover | digi.lit] Discover Discord Workshop</b></a></td>
+        <td style="width: 40%;">Learn how to use Discord to connect with global communities, join interest-based servers, and pick up tips to start your own server!</td>
+        <td style="width: 20%;">15 Jan 2021,<br>2pm - 3.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 			      <tr>
