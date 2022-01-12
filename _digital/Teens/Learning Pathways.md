@@ -59,11 +59,9 @@ Check out these resources that highlight tips on keeping your online information
       <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Experiences</th>
       </tr>
-		</thead><tbody></tbody>
-	
+		</thead>	
   </table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
