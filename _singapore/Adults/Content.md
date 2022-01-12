@@ -41,11 +41,19 @@ third_nav_title: Adults
 Learn on the go. Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
 
 <br>
+
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#place-history">
         <span>Playlist:<br>Place History</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#japanese-occupation">
+        <span>Playlist:<br>Japanese Occupation</span>
       </a>
     </div>
   </div>
@@ -62,7 +70,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/watch?v=QvejDgHtmjw&list=PLJlLW0qKYHTPLU7t3rtJ5JUDkDmPL3UAL" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/QvejDgHtmjw" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -75,7 +83,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/watch?v=cHh9x5qhOnM&list=PLJlLW0qKYHTPLU7t3rtJ5JUDkDmPL3UAL&index=11" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/cHh9x5qhOnM" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -88,7 +96,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/watch?v=cHh9x5qhOnM&list=PLJlLW0qKYHTPLU7t3rtJ5JUDkDmPL3UAL&index=11" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/VHyKaSWeVJU" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -101,7 +109,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="japanese occupation" class="margin--bottom--lg"><b>Playlist: Japanese Occupation - Fall of the Gibraltar of the East</b></h5>
+<h5 id="japanese-occupation" class="margin--bottom--lg"><b>Playlist: Japanese Occupation - Fall of the Gibraltar of the East</b></h5>
 
 Singapore, used to be the British stronghold and nicknamed the "Gibraltar of the East", was captured by the Japanese after fierce fighting that lasted between 8-15 February 1942.
 
@@ -109,17 +117,16 @@ Check out these resources to help you gain some understanding of the events whic
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
-<div class="col is-two-fifths">
-<div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/watch?v=BktyGG36viE" class="responsive-iframe">
-</iframe>
-</div>
-</div>
+ <div class="col is-two-fifths">
+   <div class="responsive-iframe-container ratio-16by9">
+    <iframe src="https://www.youtube.com/embed/BktyGG36viE" class="responsive-iframe"></iframe>
+    </div>
+ </div>
 <div class="col is-three-fifths">
 <p><b>Ep 1: The Singapore Strategy | Roots.Sg (4 mins)</b><br>
 "After WWI, the British constructed a huge naval base at Sembawang, but the battle fleet could not be housed there due to economic reasons. As a compromise, they would only send their main battle fleet from the Atlantic to the Asia-Pacific when a threat was imminent. This was known as the Singapore Strategy".<br><br>
 <small>Source: Ep 1: The Singapore Strategy | Roots.Sg (2017, Mar 17). Roots Sg. Retrieved 2022, January 12.</small></p>
-</div>
+ </div>
 </div>
 
 
@@ -152,14 +159,14 @@ Check out these resources to help you gain some understanding of the events whic
 
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IX7xg-h1CKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IX7xg-h1CKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 Source: <a href="https://www.youtube.com/watch?v=IX7xg-h1CKA" target="_blank">Malaca, l'Inde Méridionale et le Cathay</a> (2019). <i>National Library Singapore.</i>
 
 <h4>References</h4>
 <ol>
     <li><small><span id="footnote-one ">Kwa, C. G. et. al (2019). </span> <i>Seven hundred years: a history of Singapore</i>. Singapore: Marshall Cavendish Editions and National Library Board. eBook available via NLB Mobile. Call no. 959.57 KWA </li>
-	  <li><span id="footnote-one ">National Library Board (2015). </span> <i>Visualising space: maps of Singapore and the region</i>. Available on BookSG  <a href="https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx" target="_blank">https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx</a></small></li>
+     <li><small><span id="footnote-one ">National Library Board (2015). </span> <i>Visualising space: maps of Singapore and the region</i>. Available on BookSG  <a href="https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx" target="_blank">https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx</a></small></li>
 </ol>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
