@@ -50,7 +50,6 @@ Go digital with your child and discover a world of technology and innovation tog
     </tbody>
   </table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -61,7 +60,6 @@ Go digital with your child and discover a world of technology and innovation tog
 		<tbody></tbody>
 	</table>
 		</div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -70,5 +68,4 @@ Go digital with your child and discover a world of technology and innovation tog
 				<tbody></tbody>
 			</table>
 </div>
-
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
