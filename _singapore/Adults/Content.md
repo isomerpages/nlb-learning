@@ -129,6 +129,23 @@ Check out these resources to help you gain some understanding of the events whic
  </div>
 </div>
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/WZ8Q07WfoD0" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>Ep 2: The Battle for Singapore | Roots.Sg (5 mins)</b><br>
+Civilians started preparations for defence while the Japanese began their invasion of Singapore.<br><br>
+<small>Source: Ep 2: The Battle for Singapore | Roots.Sg (2017, Apr 12). Roots Sg. Retrieved 2022, January 12.</small></p>
+</div>
+</div>
+
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 
 <h3><b>Learning Package</b></h3>
