@@ -85,7 +85,6 @@ Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank">Public
         <td style="width: 20%;">Jan 2022</td>
         <td style="width: 20%;"></td>
       </tr>
-      </tr>
     </tbody>
   </table>
 </div>
