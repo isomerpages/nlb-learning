@@ -107,7 +107,20 @@ Singapore, used to be the British stronghold and nicknamed the "Gibraltar of the
 
 Check out these resources to help you gain some understanding of the events which led to the fall of Singapore.
 
-
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/watch?v=BktyGG36viE" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>Ep 1: The Singapore Strategy | Roots.Sg (4 mins)</b><br>
+"After WWI, the British constructed a huge naval base at Sembawang, but the battle fleet could not be housed there due to economic reasons. As a compromise, they would only send their main battle fleet from the Atlantic to the Asia-Pacific when a threat was imminent. This was known as the Singapore Strategy".<br><br>
+<small>Source: Ep 1: The Singapore Strategy | Roots.Sg (2017, Mar 17). Roots Sg. Retrieved 2022, January 12.</small></p>
+</div>
+</div>
 
 
 
