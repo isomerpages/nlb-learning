@@ -180,7 +180,53 @@ Librarian Lee Meiyu and archivist Fiona Tan present "The Syonan Shimbun", an Eng
 </div>
 </div>
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/Mmhf9Q83C_Q" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>From The Stacks Episode 19 – Chop Suey by Gracie Lee and Raymon Huang | NLB Singapore (5 mins)</b><br>
+Senior librarian Gracie Lee and Japanese Occupation survivor Raymon Huang talk about "Chop Suey", a series of illustrated books featuring 36 charcoal drawings of the atrocities committed by Japanese soldiers during the Japanese Occupation of Singapore. It was illustrated by artist Liu Kang and published in 1946.<br><br>
+<small>Source: The Stacks Episode 19 – Chop Suey by Gracie Lee and Raymon Huang | NLB Singapore (2021, Nov 18). NLB Singapore. Retrieved 2022, January 12.
+</small></p>
+</div>
+</div>
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/t6Ss2lYql1A" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>The Lives They Live: Surviving the Japanese Occupation | The Straits Times (3 mins)</b><br>
+Former actress Mary Paul shared memories of the Japanese Occupation in Singapore and how her father escaped death.<br><br>
+<small> Source: The Lives They Live: Surviving the Japanese Occupation | The Straits Times (2017, Nov 16). The Straits Times. Retrieved 2022, January 12.
+</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/BEIWWwn1Nuk" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>The comfort women of Singapore during the Japanese Occupation: a dark heritage trail | NationalMuseumSG (60 mins)</b><br>
+Professor Kevin Blackburn discusses the comfort women of Singapore from memories of the experiences of these women and women's experiences during war as transnational history. The "comfort stations" set up by the Japanese at that time were located across Singapore in Cairnhill Road and Cairnhill Circle, Tanjong Katong Road, Bukit Pasoh Road, Pulau Bukom.<br><br>
+<small>Source: The comfort women of Singapore during the Japanese Occupation: a dark heritage trail (2019, Aug 18). NationalMuseumSG. Retrieved 2022, January 12.
+</small></p>
+</div>
+</div>
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
