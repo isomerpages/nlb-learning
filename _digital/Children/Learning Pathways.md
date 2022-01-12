@@ -59,6 +59,7 @@ Go digital with your child and discover a world of technology and innovation tog
       </tr>
     </thead>
 		<tbody></tbody>
+	</table>
 		</div>
 
 <div class="horizontal-scroll margin--bottom--lg">
