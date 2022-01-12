@@ -65,7 +65,7 @@ Studying Science can continue beyond school. Through our curated resources and p
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="/science/tweens/overview">
+      <a href="/science/tweens/permalink">
         <span>Tweens</span>
       </a>
     </div>
