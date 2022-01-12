@@ -111,7 +111,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 
 <h5 id="japanese-occupation" class="margin--bottom--lg"><b>Playlist: Japanese Occupation - Fall of the Gibraltar of the East</b></h5>
 
-Singapore, used to be the British stronghold and nicknamed the "Gibraltar of the East", was captured by the Japanese after fierce fighting that lasted between 8-15 February 1942.
+Singapore used to be the British stronghold and nicknamed the "Gibraltar of the East". It was captured by the Japanese after fierce fighting that lasted between 8-15 February 1942.
 
 Check out these resources to help you gain some understanding of the events which led to the fall of Singapore.
 
