@@ -90,7 +90,6 @@ What can we do to protect the environment around us? Do you know the different t
 				<td>5 Feb 2022<br>11.00am – 12.00pm</td>
 				<td>Choa Chu Kang Public Library</td>
      </tr>
-
     </tbody>
   </table>
 </div>
