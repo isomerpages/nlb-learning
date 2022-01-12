@@ -63,7 +63,7 @@ Go green with your child to build an eco-friendly future together.
       <tr>
         <td><a href="https://www.eventbrite.sg/e/cckpl-tinkerworks-saving-planet-earth-earth-heroes-registration-221849446667?aff=erelexpmlt" target="_blank"><b>CCKPL: TinkerWorks - Saving Planet Earth | Earth Heroes</b></a></td>
         <td>Get inspired to save planet Earth by engaging in a book discussion and tinkering activity!</td>
-        <td>22 Jan 2022 <br> 1pm-1.45pm</td>
+        <td>22 Jan 2022, <br> 1pm-1.45pm</td>
         <td>Choa Chu Kang Public Library </td>
 			</tr>
     </tbody>
