@@ -144,7 +144,28 @@ Civilians started preparations for defence while the Japanese began their invasi
 </div>
 </div>
 
+<h5 id="japanese occupation" class="margin--bottom--lg"><b>Playlist: Japanese Occupation - Under the Japanese Rule and Memories of War</b></h5>
 
+The swift success of the Japanese invasion of Malaya and Singapore turned Singapore into Syonan-to. Life under the Japanese occupied “Light of the South Island” was hard and it was all about survival.
+
+Check out these resources to help you gain some understanding of life under Japanese rule during the three years and seven months.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/XQSYCSVMJKE" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>Ep 3: British Surrender & Japanese Occupation | Roots.Sg (4 mins)</b><br>
+British surrender marks the beginning of the Japanese Occupation. Hear the World War II survivors’ stories during this period of time.<br><br>
+<small>Source: Ep 3: British Surrender & Japanese Occupation | Roots.Sg (2017, May 9). Roots Sg. Retrieved 2022, January 12.</small></p>
+</div>
+</div>
+
+	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 
