@@ -75,7 +75,6 @@ Check out these resources that highlight tips on keeping your online information
         <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
 Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank">Public Libraries Singapore’s Facebook page</a> to be notified when the videos go live.</td>
         <td style="width: 20%;">Jan 2022</td>
-			
     </tbody>
   </table>
 </div>
