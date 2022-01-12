@@ -61,23 +61,11 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/cckpl-little-farmers-earth-heroes-registration-215064532807?aff=ebdsoporgprofile" target="_blank"><b> CCKPL: Little Farmers | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Join this parent-child workshop on farming and food security, which includes a hands-on activity to grow your own vegetables!</td>
-        <td style="width: 20%;">2 Dec 2021<br>9 Dec 2021<br>16 Dec 2021<br>23 Dec 2021<br>11am – 12.30pm</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.eventbrite.sg/e/cckpl-little-farmers-earth-heroes-registration-215064532807?aff=ebdsoporgprofile" target="_blank"><b>CCKPL: TinkerWorks - Saving Planet Earth | Earth Heroes</b></a></td>
+        <td><a href="https://www.eventbrite.sg/e/cckpl-tinkerworks-saving-planet-earth-earth-heroes-registration-221849446667?aff=erelexpmlt" target="_blank"><b>CCKPL: TinkerWorks - Saving Planet Earth | Earth Heroes</b></a></td>
         <td>Get inspired to save planet Earth by engaging in a book discussion and tinkering activity!</td>
         <td>22 Jan 2022 <br> 1pm-1.45pm</td>
         <td>Choa Chu Kang Public Library </td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/e/get-creative-for-climate-change-8-12-years-registration-206178424217?aff=ebdssbonlinesearch" target="_blank"><b>Get Creative for Climate Change! | Earth Heroes</b></a></td>
-        <td>Let’s draw Water Wally & Sally and learn more about climate change!</td>
-        <td>11 Dec 2021, <br>1.30pm - 2.30pm</td>
-        <td>Zoom</td>
-      </tr>
+			</tr>
     </tbody>
   </table>
 </div>
@@ -96,13 +84,7 @@ Go green with your child to build an eco-friendly future together.
         <td style="width: 20%;">Jan-Sep 2022</td>
         <td style="width: 20%;"></td>
       </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/e/how-to-go-safe-online-primary-school-edition-online-registration-206175585727?aff=ebdsoporgprofile" target="_blank"><b>CSA: How to Go Safe Online: Primary School Edition</b></a></td>
-        <td>Join us for this online session to learn about the types of cyber threats to look out for and learn how you can Go Safe Online by practising good cyber hygiene habits.</td>
-        <td>4 Dec 2021 <br>10am – 11am</td>
-        <td>Zoom</td>
-      </tr>
-   </tbody>
+     </tbody>
   </table>
 </div>
 
