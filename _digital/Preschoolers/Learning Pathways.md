@@ -89,7 +89,7 @@ In fact, they will soon realise computational thinking exists in all aspects of 
       </tr>
       <tr>
         <td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b> Travelling with Bee Bot</b></a></td>
-        <td> Come programme Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking. Screens are not needed for this activity!</</td>
+        <td> Come programme Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking. Screens are not needed for this activity!</td>
         <td>19 Feb 2022<br>11.00am – 12.00pm</td>
         <td>Zoom</td>
       </tr>

@@ -1,8 +1,8 @@
 ---
-title: Overview
-permalink: /sustainability/children/overview
+title: Content
+permalink: /singapore/Teens/content
 description: ""
-third_nav_title: Children
+third_nav_title: Teens
 ---
 <style type="text/css">
 /* Links */
@@ -35,30 +35,15 @@ third_nav_title: Children
 .clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
 .clickbox.is-mint-jade a { color: #00b794; }
 .clickbox.is-mint-jade a:focus,
-.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }
+.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; } 
 </style>
-Make sustainability the way of life at home with these programmes, resources and pathways. This section is suitable for 7 to 9 year olds.
 
-<div class="row is-multiline">
-  <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="/sustainability/children/content">
-        <span>Content</span>
-      </a>
-    </div>
-  </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="/sustainability/children/programmes">
-        <span>Programmes</span>
-      </a>
-    </div>
-  </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="/sustainability/children/learning-pathways">
-        <span>Learning Pathways</span>
-      </a>
-    </div>
-  </div>
-</div>
+Learn on the go. 
+
+Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
+
+
+
+
+<h3><b>Playlist</b></h3>
+A collection of short videos or selected podcasts, exploring topics around personal and professional development.

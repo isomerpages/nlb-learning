@@ -52,25 +52,15 @@ Check out these resources that highlight tips on keeping your online information
     </tbody>
   </table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
       <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Experiences</th>
       </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a href=" http://go.gov.sg/nlb-teensprogs" target="_blank"><b>[Teens Takeover | digi.lit] Mobile Phone Videography Workshop </b></a></td>
-        <td style="width: 40%;">YouTube, Instagram and TikTok have made mobile phone videography a nifty skill to pick up. In this online workshop, learn how to shoot and edit better videos to impress your friends, family, and social media feed! </td>
-        <td style="width: 20%;">15 Dec 2021,<br>3pm – 4pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-		</tbody>
+		</thead>	
   </table>
-</div>
-
+	</div>
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -83,18 +73,9 @@ Check out these resources that highlight tips on keeping your online information
         <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
         <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
 Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank">Public Libraries Singapore’s Facebook page</a> to be notified when the videos go live.</td>
-        <td style="width: 20%;">Dec 2021 to Jan 2022</td>
-        <td style="width: 20%;">Facebook</td>
-      </tr>
-<tr>
-<td><a href="https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-portfolio-tickets-176075315007?aff=ebcollection&keep_tld=1" target="_blank"><b>CCKPL: Teens Takeover - A Day in Life of a Game Artist | portfolio</b></a></td>
-        <td>Get an intimate look into the daily lives of different professionals in this new series and get inspired to explore possible careers of your future.<br><br>
-This session is in collaboration with Nanyang Polytechnic.</td>
-        <td>18 Dec 2021<br> 2pm - 3.30pm</td>
-        <td>Choa Chu Kang Public Library</td>
-      </tr>
+        <td style="width: 20%;">Jan 2022</td>
+			</tr>
     </tbody>
   </table>
 </div>
-
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

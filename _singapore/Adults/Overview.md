@@ -1,8 +1,8 @@
 ---
 title: Overview
-permalink: /sustainability/children/overview
+permalink: /singapore/Adults/overview
 description: ""
-third_nav_title: Children
+third_nav_title: Adults
 ---
 <style type="text/css">
 /* Links */
@@ -35,29 +35,31 @@ third_nav_title: Children
 .clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
 .clickbox.is-mint-jade a { color: #00b794; }
 .clickbox.is-mint-jade a:focus,
-.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }
+.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; } 
 </style>
-Make sustainability the way of life at home with these programmes, resources and pathways. This section is suitable for 7 to 9 year olds.
+
+Singapore history and heritage are steeped in our everyday lives without us being consciously aware of it. Learn a piece of history and heritage through our wide range of programmes, playlists and resource guides. 
 
 <div class="row is-multiline">
   <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="/sustainability/children/content">
-        <span>Content</span>
+    <div class="clickbox is-mint-jade ">
+      <a href="/singapore/adults/content ">
+        <span>Content </span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="/sustainability/children/programmes">
+      <a href="/singapore/adults/programmes">
         <span>Programmes</span>
       </a>
     </div>
   </div>
+
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="/sustainability/children/learning-pathways">
-        <span>Learning Pathways</span>
+      <a href="/singapore/adults/learning-pathways">
+        <span>Learning<br>Pathways</span>
       </a>
     </div>
   </div>

@@ -2,7 +2,14 @@ collections:
   singapore:
     output: true
     order:
-      - Adults/.keep
-      - Teens/Overview.md
-      - Teens/.keep
       - LearnX Singapore.md
+      - Teens/.keep
+      - Teens/Overview.md
+      - Teens/Content.md
+      - Teens/Programmes.md
+      - Teens/Learning Pathways.md
+      - Adults/Overview.md
+      - Adults/Content.md
+      - Adults/Programmes.md
+      - Adults/Learning Pathways.md
+      - Adults/.keep
