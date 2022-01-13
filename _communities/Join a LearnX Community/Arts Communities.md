@@ -91,7 +91,8 @@ For Adults and Families with Children (aged 4 and above), conducted monthly in E
     <img src="/images/learning-communities/arts/LC-Arts-StockImage-07.jpg" alt="Sunday Origami">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Sunday Origami </b></h5>
-      <p class="margin--top--sm margin--bottom--sm"> What can you create by simply folding sheets of paper? Come join us every 4th Sunday to pick up origami folding techniques and learn about new styles. Get the opportunity to fold various interesting models to take home! This excellent family bonding activity is suitable for adults and those with children (aged 4 and above). Children age 7 and below will need at least 1 accompanying adult.<br>
+      <p class="margin--top--sm margin--bottom--sm"> What can you create by simply folding sheets of paper? <br> 
+Come join us every 4th Sunday to pick up origami folding techniques and learn about new styles. Get the opportunity to fold various interesting models to take home! This excellent family bonding activity is suitable for adults and those with children (aged 4 and above). Children age 7 and below will need at least 1 accompanying adult.<br>
 Materials are provided. <br><br>
 For Adults and Families with Children (aged 4 and above), conducted monthly in English at Geylang East Public Library.</p>
       <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank"> Click here for upcoming sessions</a></p>
