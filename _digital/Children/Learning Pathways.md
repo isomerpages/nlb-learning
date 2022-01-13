@@ -61,11 +61,14 @@ Go digital with your child and discover a world of technology and innovation tog
 	</table>
 		</div>
 <div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
+<table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Areas</th>
-				<tbody></tbody>
-			</table>
+        <th colspan="4" class="is-uppercase has-weight-normal ">Discover Other Learnning Focus Area</th>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
 </div>
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+ <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
