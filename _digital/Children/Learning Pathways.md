@@ -68,4 +68,4 @@ Go digital with your child and discover a world of technology and innovation tog
     </thead>
   </table>
 </div>
- <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
