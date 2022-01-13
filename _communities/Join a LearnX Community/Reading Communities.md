@@ -169,6 +169,7 @@ For adults and seniors, conducted in Chinese online via Zoom. Physical programme
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Junior Avid Readers 小书迷读书会 [Chinese Reading Clubs for Children 7 to 9 years old] </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Immerse in an hour of storytelling and activities with Junior Avid Readers, a Chinese Reading Club for children aged 7 to 9!<br><br>
+每个月一次的读书会活动，通过有趣的故事以及活动，培养7至9岁的小朋友对华文书籍的兴趣，开启他们的阅读旅程。<br><br>
 No registration needed.<br><br>
 For Children (aged 7 to 9), conducted monthly in Chinese at Bishan Public Library, Jurong Regional Library, Pasir Ris Public Library and Tampines Regional Library.</p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/avidreaders"> Click here for upcoming sessions</a></p>
@@ -198,7 +199,8 @@ For Children (aged 7 to 9), conducted monthly in Malay at Sengkang Public Librar
     <img for="" alt="Little Avid Readers 小小书迷读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-01.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Little Avid Readers 小小书迷读书会 [Chinese Reading Clubs for Children 4 to 6 years old]</b></h5>
-      <p class="margin--top--sm margin--bottom--sm"> Immerse in an hour of storytelling and fun activities during Little Avid Readers, a Chinese Reading Club for children aged 4 to 6 and their parents!<br><br>
+      <p class="margin--top--sm margin--bottom--sm"> Immerse in an hour of storytelling and fun activities during Little Avid Readers, a Chinese Reading Club for children aged 4 to 6 and their parents! <br><br>
+每个月一次的读书会活动，通过有趣的故事以及活动，培养4至6岁的小朋友对华文书籍的兴趣，开启他们的阅读旅程<br><br>
 No registration needed.<br><br>
 For Children (aged 4 to 6), conducted monthly in Chinese at Bishan Public Library, Jurong Regional Library, Woodlands Regional Library, Pasir Ris Public Library and Tampines Regional Library.</p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/avidreaders"> Click here for upcoming sessions</a></p>
@@ -300,6 +302,18 @@ For Teens and Adults, conducted monthly in English at Toa Payoh Public Library.<
 第三代读书会是由一群志同道合的老师凭着对华文教育的热忱而创立的教师读书会，目的在于推动阅读活动，协助年轻的新一代教师通过阅读提升自己。<br><br>
 For Adults, conducted quarterly in Chinese at National Library.</p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+    </div>
+  </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <img src="/images/learning-communities/wellness/LC-Wellness-TaijiBookClub.jpg" alt="太极读书会
+Taiji Book Club">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b>太极读书会
+Taiji Book Club</b></h5>
+      <p class="margin--top--sm margin--bottom--sm">太极读书会希望与公众分享有助于强身健体的太极养生，同时传承中华传统国术文化和尚武精神。<br>
+Taiji Book Club is a reading club for adults, hoping to share with the public on how taichi may help to strengthen the body and maintain good health, as well as to promote Chinese martial traditions. <br><br>
+For adults, conducted monthly in Chinese at Tampines Regional Library.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/taiji-readingclub" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
