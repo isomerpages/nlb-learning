@@ -81,9 +81,9 @@ For Adults, conducted monthly in English and Malay at library@harbourfront.</p>
     <img src="/images/learning-communities/arts/LC-Arts-StockImage-06.jpg" alt=" Origami Workshop">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Origami Workshop </b></h5>
-      <p class="margin--top--sm margin--bottom--sm"> What can you create by simply folding sheets of paper? Come join us every 4th Sunday to pick up origami folding techniques and learn about new styles. Get the opportunity to fold various interesting models to take home! This excellent family bonding activity is suitable for adults and those with children (aged 4 and above). Children age 7 and below will need at least 1 accompanying adult.<br>
-Materials are provided. This session is facilitated by Origami Singapore. <br><br>
-For Adults and Families with Children (aged 4 and above), conducted monthly in English at Toa Payoh Public Library and Bishan Public Library.</p>
+      <p class="margin--top--sm margin--bottom--sm"> Learn how to fold an origami model in just 10 minutes and bring it home. Be impressed by your handiwork! <br><br>
+
+For Adults and Families with Children (aged 4 and above), conducted monthly in English at Toa Payoh Public Library and Bishan Public Library. Materials are provided. </p>
       <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank"> Click here for upcoming sessions</a></p>
     </div>
   </div>
@@ -92,7 +92,7 @@ For Adults and Families with Children (aged 4 and above), conducted monthly in E
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Sunday Origami </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> What can you create by simply folding sheets of paper? Come join us every 4th Sunday to pick up origami folding techniques and learn about new styles. Get the opportunity to fold various interesting models to take home! This excellent family bonding activity is suitable for adults and those with children (aged 4 and above). Children age 7 and below will need at least 1 accompanying adult.<br>
-Materials are provided. This session is facilitated by Origami Singapore. <br><br>
+Materials are provided. <br><br>
 For Adults and Families with Children (aged 4 and above), conducted monthly in English at Geylang East Public Library.</p>
       <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank"> Click here for upcoming sessions</a></p>
     </div>
@@ -136,4 +136,3 @@ For Teens and Adults, conducted monthly in English at Woodlands Regional Library
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
     </div>
   </div>
-
