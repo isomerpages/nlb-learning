@@ -194,23 +194,7 @@ Senior librarian Gracie Lee and Japanese Occupation survivor Raymon Huang talk a
 <small>Source: The Stacks Episode 19 – Chop Suey by Gracie Lee and Raymon Huang | NLB Singapore (2021, Nov 18). NLB Singapore. Retrieved 2022, January 12.
 </small></p>
 </div>
-</div>
-
-<br>
-<div class="row is-multiline margin--bottom--lg">
-<div class="col is-two-fifths">
-<div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/t6Ss2lYql1A" class="responsive-iframe">
-</iframe>
-</div>
-</div>
-<div class="col is-three-fifths">
-<p><b>The Lives They Live: Surviving the Japanese Occupation | The Straits Times (3 mins)</b><br>
-Former actress Mary Paul shared memories of the Japanese Occupation in Singapore and how her father escaped death.<br><br>
-<small> Source: The Lives They Live: Surviving the Japanese Occupation | The Straits Times (2017, Nov 16). The Straits Times. Retrieved 2022, January 12.
-</small></p>
-</div>
-</div>
+</div> 
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
