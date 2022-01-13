@@ -64,7 +64,7 @@ Go digital with your child and discover a world of technology and innovation tog
 <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal ">Discover Other Learnning Focus Area</th>
+        <th colspan="4" class="is-uppercase has-weight-normal ">Discover Other Learning Focus Area</th>
       </tr>
     </thead>
     <tbody>
