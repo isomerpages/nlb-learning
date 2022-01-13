@@ -200,7 +200,7 @@ For Children (aged 7 to 9), conducted monthly in Malay at Sengkang Public Librar
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Little Avid Readers 小小书迷读书会 [Chinese Reading Clubs for Children 4 to 6 years old]</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Immerse in an hour of storytelling and fun activities during Little Avid Readers, a Chinese Reading Club for children aged 4 to 6 and their parents! <br><br>
-每个月一次的读书会活动，通过有趣的故事以及活动，培养4至6岁的小朋友对华文书籍的兴趣，开启他们的阅读旅程<br><br>
+每个月一次的读书会活动，通过有趣的故事以及活动，培养4至6岁的小朋友对华文书籍的兴趣，开启他们的阅读旅程。<br><br>
 No registration needed.<br><br>
 For Children (aged 4 to 6), conducted monthly in Chinese at Bishan Public Library, Jurong Regional Library, Woodlands Regional Library, Pasir Ris Public Library and Tampines Regional Library.</p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/avidreaders"> Click here for upcoming sessions</a></p>
