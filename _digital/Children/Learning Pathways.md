@@ -57,7 +57,6 @@ Go digital with your child and discover a world of technology and innovation tog
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Programme</th>
       </tr>
     </thead>
-		<tbody></tbody>
 	</table>
 		</div>
 <div class="horizontal-scroll margin--bottom--lg">
@@ -67,8 +66,6 @@ Go digital with your child and discover a world of technology and innovation tog
         <th colspan="4" class="is-uppercase has-weight-normal ">Discover Other Learning Focus Area</th>
       </tr>
     </thead>
-    <tbody>
-    </tbody>
   </table>
 </div>
  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
