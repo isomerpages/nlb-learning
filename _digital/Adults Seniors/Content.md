@@ -418,7 +418,7 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 </table>
 	
 <h4>Videos</h4>
-<h5>1. Introducing Digital Wellbeing Experiments</5>
+<h5>1. Introducing Digital Wellbeing Experiments</h5>
 <p>Explore the different tools and ideas that are designed to improve your relationship with technology and help you stay afloat.</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rt5LY5TeTVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
