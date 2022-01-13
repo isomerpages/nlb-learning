@@ -61,7 +61,7 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://www.eventbrite.sg/e/what-is-the-environmental-cost-of-building-your-wardrobe-wwf-explains-registration-202049925767?aff=ebdssbdestsearch" target="_blank"><td style="width: 20%;"><b> WWF Explains: City in Nature</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/what-is-the-environmental-cost-of-building-your-wardrobe-wwf-explains-registration-202049925767?aff=ebdssbdestsearch" target="_blank"><b> WWF Explains: City in Nature</b></a></td>
       <td style="width: 40%;">Join environmental conservationists as they evaluate the concept of City in Nature, how far we have come, and how much there is to go.</td>
         <td style="width: 20%;">24 Feb 2022,<br>7pm – 8.30pm</td>
         <td style="width: 20%;">Zoom</td>
