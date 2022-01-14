@@ -37,6 +37,8 @@ description: ""
 .clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; } 
 </style>
 
+![Alt text for image on Isomer site](/images/singapore/lfa-singapore.png)
+
 What does it mean to be a Singaporean? Sometimes, to go forward, we have to understand the past to understand where we come from and what transpired that shaped us today. Learn about different facets of Singapore in simple and accessible steps. Join us along the Singapore Learning Journey.
 
 <div class="row is-multiline">
