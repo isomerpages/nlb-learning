@@ -285,7 +285,7 @@ Source: <a href="https://www.youtube.com/watch?v=IX7xg-h1CKA" target="_blank">Ma
 
 <h4>References</h4>
 <ol>
-    <li><small><span id="footnote-one ">Kwa, C. G. et. al (2019). </span> <i>Seven hundred years: a history of Singapore</i>. Singapore: Marshall Cavendish Editions and National Library Board. eBook available via NLB Mobile. Call no. 959.57 KWA </li>
+    <li><small><span id="footnote-one ">Kwa, C. G. et. al (2019). </span> <i>Seven hundred years: a history of Singapore</i>. Singapore: Marshall Cavendish Editions and National Library Board. eBook available via NLB Mobile. Call no. 959.57 KWA </small></li>
      <li><small><span id="footnote-one ">National Library Board (2015). </span> <i>Visualising space: maps of Singapore and the region</i>. Available on BookSG  <a href="https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx" target="_blank">https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx</a></small></li>
 </ol>
 
