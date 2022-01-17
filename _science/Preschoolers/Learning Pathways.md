@@ -40,9 +40,7 @@ A child's discovery of the world happens in their everyday life – in their int
       <tr>
         <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/budding-scientists/permalink" target="_blank"><b> ABC's of Applied Physics for Kids:
 It's Time to Learn about Time!</b></a></td>
-        <td style="width: 40%;"> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</td>
-        <td style="width: 20%;"> </td>
-        <td style="width: 20%;"> </td>
+        <td style="width: 80%;"> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</td>
       </tr>
       <tr>
         <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/budding-scientists/permalink" target="_blank"><b> ABC's of Applied Chemistry for Kids: Let’s Learn About Density </b></a></td>
