@@ -12,7 +12,6 @@ description: ""
 <h5><u><b>Cookies</b></u></h5>
 
 <li> For our digital services:</li>
-<br><br>
 a. We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our digital services. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred digital services. While this cookie can tell us when you enter our digital services and which pages you visit, it cannot read data off your hard disk.  <br><br>
 
 b. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the digital services. 
@@ -21,7 +20,6 @@ b. You can choose to accept or decline cookies. Most web browsers automatically 
 <h5><u><b>Use of Data</b></u></h5>
 
 <li>If you provide us with personal data:</li>
-<br><br>
 a. We may use the data (such as to process, store and retain it) so as to improve the performance of our functions and to serve you in the most efficient and effective way. This includes providing updates and recommendations on NLB content and services or personalising services for you.  <br><br>
 
 b. Where appropriate, we may share necessary data with other Government Agencies, so as to improve the wider performance of public functions and to serve you in the most efficient and effective way unless such sharing is prohibited by law<br><br>
