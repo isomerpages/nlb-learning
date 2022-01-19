@@ -1,0 +1,4 @@
+collections:
+  privacy:
+    output: true
+    order: []
