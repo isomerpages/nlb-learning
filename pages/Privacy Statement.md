@@ -12,7 +12,7 @@ description: ""
 	
 <h5><u><b>Cookies</b></u></h5>
 
-2.  For our digital services:
+2.  For our digital services:<br><br>
 a. We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our digital services. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred digital services. While this cookie can tell us when you enter our digital services and which pages you visit, it cannot read data off your hard disk.  <br><br>
 
 b. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the digital services. 
