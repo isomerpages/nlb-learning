@@ -6,12 +6,13 @@ layout: post
 description: ""
 ---
 ## Privacy Statement
-1. This National Library Board (NLB) privacy statement applies whenever you have any interactions or transactions with us in relation to our functions or services.  
+<ol>
+<li> This National Library Board (NLB) privacy statement applies whenever you have any interactions or transactions with us in relation to our functions or services. </li> 
 
 
 <h5><u><b>Cookies</b></u></h5>
 
-2. For our digital services:
+<li> For our digital services:</li>
 
 a. We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our digital services. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred digital services. While this cookie can tell us when you enter our digital services and which pages you visit, it cannot read data off your hard disk.  
 
@@ -57,3 +58,5 @@ b. need more information on or access to data, which you have provided directly 
 8. ”Non-Government entity” refers to a person or entity other than a Government Agency.
 
 9. “Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012.
+
+</ol>
