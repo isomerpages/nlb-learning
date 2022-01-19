@@ -5,10 +5,8 @@ date: 2022-01-19
 layout: post
 description: ""
 ---
-
 ## Privacy Statement
 1. This National Library Board (NLB) privacy statement applies whenever you have any interactions or transactions with us in relation to our functions or services.  
-
 
 
 <h5><u><b>Cookies</b></u></h5>
@@ -59,4 +57,3 @@ b. need more information on or access to data, which you have provided directly 
 8. ”Non-Government entity” refers to a person or entity other than a Government Agency.
 
 9. “Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012.
-
