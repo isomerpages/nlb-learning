@@ -20,7 +20,7 @@ b. You can choose to accept or decline cookies. Most web browsers automatically 
 
 <h5><u><b>Use of Data</b></u></h5>
 
-<li>3. If you provide us with personal data:</li>
+<li>If you provide us with personal data:</li>
 <br><br>
 a. We may use the data (such as to process, store and retain it) so as to improve the performance of our functions and to serve you in the most efficient and effective way. This includes providing updates and recommendations on NLB content and services or personalising services for you.  <br><br>
 
