@@ -4,40 +4,6 @@ permalink: /singapore/Adults/content
 description: ""
 third_nav_title: Adults
 ---
-<style type="text/css">
-/* Links */
-.content a { color: #322987; }
-.content a:focus,
-.content a:hover { color: #28216c; }
-
-/* Button Outline */
-.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
-.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
-.bp-button.is-primary-outline:focus,
-.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
-
-/* Responsive Iframe */
-.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
-.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
-.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
-.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
-.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
-.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
-
-/* Click Box */
-.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
-.clickbox span { padding: .5rem; }
-.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
-.clickbox a:focus,
-.clickbox a:hover { text-decoration: none; }
-
-/* Mint Jade */
-.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
-.clickbox.is-mint-jade a { color: #00b794; }
-.clickbox.is-mint-jade a:focus,
-.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; } 
-</style>
-
 Learn on the go. Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
 
 <br>
@@ -70,7 +36,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<h5 id="place history" class="margin--bottom--lg"><b>Playlist: Place History</b></h5>
+<h5 class="margin--bottom--lg" id="place history"><b>Playlist: Place History</b></h5>
 
 Singapore has undergone massive developments in the decades past. Take a look at how select places and spaces were like prior to redevelopment.
 
@@ -78,7 +44,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/QvejDgHtmjw" class="responsive-iframe"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/QvejDgHtmjw"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -91,7 +57,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/cHh9x5qhOnM" class="responsive-iframe"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/cHh9x5qhOnM"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -104,7 +70,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/VHyKaSWeVJU" class="responsive-iframe"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/VHyKaSWeVJU"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -117,7 +83,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="japanese-occupation" class="margin--bottom--lg"><b>Playlist: Japanese Occupation - Fall of the Gibraltar of the East</b></h5>
+<h5 class="margin--bottom--lg" id="japanese-occupation"><b>Playlist: Japanese Occupation - Fall of the Gibraltar of the East</b></h5>
 
 Singapore used to be the British stronghold and nicknamed the "Gibraltar of the East". It was captured by the Japanese after fierce fighting that lasted between 8-15 February 1942.
 
@@ -127,7 +93,7 @@ Check out these resources to help you gain some understanding of the events whic
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
    <div class="responsive-iframe-container ratio-16by9">
-    <iframe src="https://www.youtube.com/embed/BktyGG36viE" class="responsive-iframe"></iframe>
+    <iframe class="responsive-iframe" src="https://www.youtube.com/embed/BktyGG36viE"></iframe>
     </div>
  </div>
 <div class="col is-three-fifths">
@@ -141,7 +107,7 @@ Check out these resources to help you gain some understanding of the events whic
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/WZ8Q07WfoD0" class="responsive-iframe">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/WZ8Q07WfoD0">
 </iframe>
 </div>
 </div>
@@ -152,7 +118,7 @@ Civilians started preparations for defence while the Japanese began their invasi
 </div>
 </div>
 
-<h5 id="japanese occupation" class="margin--bottom--lg"><b>Playlist: Japanese Occupation - Under the Japanese Rule and Memories of War</b></h5>
+<h5 class="margin--bottom--lg" id="japanese occupation"><b>Playlist: Japanese Occupation - Under the Japanese Rule and Memories of War</b></h5>
 
 The swift success of the Japanese invasion of Malaya and Singapore turned Singapore into Syonan-to. Life under the Japanese occupied “Light of the South Island” was hard and it was all about survival.
 
@@ -162,14 +128,14 @@ Check out these resources to help you gain some understanding of life under Japa
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/XQSYCSVMJKE" class="responsive-iframe">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/XQSYCSVMJKE">
 </iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
-<p><b>Ep 3: British Surrender & Japanese Occupation | Roots.Sg (4 mins)</b><br>
+<p><b>Ep 3: British Surrender &amp; Japanese Occupation | Roots.Sg (4 mins)</b><br>
 British surrender marks the beginning of the Japanese Occupation. Hear the World War II survivors’ stories during this period of time.<br><br>
-<small>Source: Ep 3: British Surrender & Japanese Occupation | Roots.Sg (2017, May 9). Roots Sg. Retrieved 2022, January 12.</small></p>
+<small>Source: Ep 3: British Surrender &amp; Japanese Occupation | Roots.Sg (2017, May 9). Roots Sg. Retrieved 2022, January 12.</small></p>
 </div>
 </div>
 
@@ -177,7 +143,7 @@ British surrender marks the beginning of the Japanese Occupation. Hear the World
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/LYAtMLLmIAw" class="responsive-iframe">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/LYAtMLLmIAw">
 </iframe>
 </div>
 </div>
@@ -192,7 +158,7 @@ Librarian Lee Meiyu and archivist Fiona Tan present "The Syonan Shimbun", an Eng
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/Mmhf9Q83C_Q" class="responsive-iframe">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Mmhf9Q83C_Q">
 </iframe>
 </div>
 </div>
@@ -208,7 +174,7 @@ Senior librarian Gracie Lee and Japanese Occupation survivor Raymon Huang talk a
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/BEIWWwn1Nuk" class="responsive-iframe">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/BEIWWwn1Nuk">
 </iframe>
 </div>
 </div>
@@ -220,7 +186,7 @@ Professor Kevin Blackburn discusses the comfort women of Singapore from memories
 </div>
 </div>
 
-<h5 id="japanese occupation" class="margin--bottom--lg"><b>Playlist: Japanese Occupation - Liberation and Aftermath of War</b></h5>
+<h5 class="margin--bottom--lg" id="japanese occupation"><b>Playlist: Japanese Occupation - Liberation and Aftermath of War</b></h5>
 
 Japanese surrender ceremony on 12 September 1945 at City Hall (then known as Municipal Building of Singapore) marked the end of Japanese Occupation in Southeast Asia. Singapore embarked on a road of recovery from the war.
 
@@ -230,7 +196,7 @@ Check out these resources to relive moments during the Japanese surrender.
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/YioTxyg70zg" class="responsive-iframe">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/YioTxyg70zg">
 </iframe>
 </div>
 </div>
@@ -245,7 +211,7 @@ Japan surrendered following the dropping of atomic bombs on Hiroshima and Nagasa
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/7eHhLI-hRO4" class="responsive-iframe">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/7eHhLI-hRO4">
 </iframe>
 </div>
 </div>
@@ -260,7 +226,7 @@ Recounts the Civilian War Memorial project, a monument dedicated to civilians wh
 
 
 <h3><b>Learning Package</b></h3>
-<h5 class="margin--bottom--lg" id="lp-green-econ" ><b>The Many Names of Singapore </b></h5>
+<h5 id="lp-green-econ" class="margin--bottom--lg"><b>The Many Names of Singapore </b></h5>
 <p>We probably are familiar with the variant names of Singapore such as Temasek and Singapura today. Back in the 17<sup>th</sup> to early 19<sup>th</sup> century, Singapore was identified as a promontory, a strait, a ridge, an island, as well as a settlement, based on naming conventions on cartographical references that have been documented.<sup><a href="#footnote-five">1</a></sup> For Singaporeans, this is a nation we associate with, and a place we call home. This learning package offers some trivia to the variant names of Singapore from early records.</p>
 
 <table border="1">
@@ -287,21 +253,21 @@ Recounts the Civilian War Memorial project, a monument dedicated to civilians wh
 
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IX7xg-h1CKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IX7xg-h1CKA" height="315" width="560"></iframe>
 </div>
-Source: <a href="https://www.youtube.com/watch?v=IX7xg-h1CKA" target="_blank">Malaca, l'Inde Méridionale et le Cathay</a> (2019). <i>National Library Singapore.</i>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=IX7xg-h1CKA">Malaca, l'Inde Méridionale et le Cathay</a> (2019). <i>National Library Singapore.</i>
 
 <h4>References</h4>
 <ol>
-    <li><small><span id="footnote-one ">Kwa, C. G. et. al (2019). </span> <i>Seven hundred years: a history of Singapore</i>. Singapore: Marshall Cavendish Editions and National Library Board. eBook available via NLB Mobile. Call no. 959.57 KWA </small></li>
-     <li><small><span id="footnote-one ">National Library Board (2015). </span> <i>Visualising space: maps of Singapore and the region</i>. Available on BookSG  <a href="https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx" target="_blank">https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx</a></small></li>
+    <li><small><span id="footnote-one">Kwa, C. G. et. al (2019). </span> <i>Seven hundred years: a history of Singapore</i>. Singapore: Marshall Cavendish Editions and National Library Board. eBook available via NLB Mobile. Call no. 959.57 KWA </small></li>
+     <li><small><span id="footnote-one">National Library Board (2015). </span> <i>Visualising space: maps of Singapore and the region</i>. Available on BookSG  <a target="_blank" href="https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx">https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx</a></small></li>
 </ol>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
-<h5 class="margin--bottom--lg" id="lp-green-econ">
-<h4 id="lp-Japanese Occupation"><b> Japanese Occupation: Gibraltar of the East </b></h4>
+<h5 id="lp-green-econ" class="margin--bottom--lg">
+</h5><h4 id="lp-Japanese Occupation"><b> Japanese Occupation: Gibraltar of the East </b></h4>
 <p> From 8 December 1941 till 31 January 1942, a military campaign known as Malayan campaign was fought by the Allied (mainly the British Commonwealth) and Axis (primarily the Japanese) forces in Malaya.</p>
 <b></b>
 <p>The invading Japanese 25th Army troops under Lieutenant General Tomoyuki Yamashita fought the British, Indian and Australian troops. Multiple factors led to the ultimate defeat and fall of Singapore.</p>
@@ -312,13 +278,19 @@ Source: <a href="https://www.youtube.com/watch?v=IX7xg-h1CKA" target="_blank">Ma
 <li>These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.</li>
 
 <h4>Articles</h4>
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html" target="_blank"> Malayan Campaign by Ho, Stephanie</a></h5>
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html"> Malayan Campaign by Ho, Stephanie</a></h5>
 <p>“The Malayan Campaign consisted of a series of battles fought in Malaya between Allied (mainly British Commonwealth) and Axis (primarily Japanese) forces. The campaign began on 8 December 1941 when Japanese forces landed in Singora and Patani in southern Thailand, and Kota Bharu in northern Malaya. The campaign ended on 31 January 1942 with the Japanese forces gaining control of the Malay Peninsula.”</p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html" target="_blank">Malayan Campaign</a>(2013, Jul 19).<i> Singapore Infopedia.</i>Retrieved 2021, January 19.
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html">Malayan Campaign </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2021, January 19.
 
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-10-23.html" target="_blank"> Singapore Volunteer Corps by Soong, Alec and Goh, Lee Kim</a></h5>
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-10-23.html"> Singapore Volunteer Corps by Soong, Alec and Goh, Lee Kim</a></h5>
 <p>Learn about the formation of such a group and how the Straits Settlements Volunteer Force defended Singapore.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-10-23.html " target="_blank">Singapore Volunteer Corps </a>(2021, Oct).<i> Singapore Infopedia.</i>Retrieved 2021, January 19.
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-10-23.html">Singapore Volunteer Corps </a>(2021, Oct).<i> Singapore Infopedia.</i> Retrieved 2021, January 19.
 
-
-
+<h4>eBooks</h4>
+<h5><a target="_blank" href="https://nlb.overdrive.com/media/3101716">The defence and fall of Singapore 1940-1942</a></h5>
+Farrell, Brian P. (2017). <i> The defence and fall of Singapore 1940-1942.</i> Lanham: Monsoon Books Pte. Ltd.
+<br>
+<a target="_blank" href="https://nlb.overdrive.com/media/3101716&quot;"><img style="width:300px;" src="/images/Singapore-Japanese-Occupation/The-Defence-and-Fall-of-Singapore.png"></a>
+<p>A study on how and why Singapore fell, and its significance in the British military history, based on primary documents in Britain, Australia and Singapore.
+	</p><p><a target="_blank" href="https://nlb.overdrive.com/media/3101716">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</ul>
