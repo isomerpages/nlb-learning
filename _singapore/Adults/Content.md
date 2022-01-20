@@ -327,15 +327,15 @@ Farrell, Brian P. (2017). <i> The defence and fall of Singapore 1940-1942.</i> L
 	</p><p><a href="https://nlb.overdrive.com/media/3101716" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 
-<h5> Bicycle blitzkrieg: The Malayan Campaign And The Fall Of Singapore</h5>
+<h5>Bicycle blitzkrieg: The Malayan Campaign And The Fall Of Singapore</h5>
 Headrick, LCDR Alan C. (2014). <i> Bicycle blitzkrieg: The Malayan Campaign And The Fall Of Singapore.</i> San Francisco: Pickle Partners Publishing.
 <br>
 <a target=”_blank”
-href=https://nlb.overdrive.com/media/2024222">
-<img style=”width:200px;”
+href="https://nlb.overdrive.com/media/2024222">
+<img style="width:200px;"
 src="/images/singapore-japanese-occupation/Bicycle-Blitzkrieg.png"></a>
-<p> Written as a paper for the Faculty of the Naval War College in 1994, the author discusses the operational strategies deployed by the Japanese and British which led to different consequences and the lessons learnt.
-</p><p><a href= https://nlb.overdrive.com/media/2024222
+<p>Written as a paper for the Faculty of the Naval War College in 1994, the author discusses the operational strategies deployed by the Japanese and British which led to different consequences and the lessons learnt.
+</p><p><a href= https://nlb.overdrive.com/media/2024222"
 target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a 
-href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
