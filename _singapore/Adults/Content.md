@@ -339,3 +339,16 @@ src="/images/singapore-japanese-occupation/Bicycle-Blitzkrieg.png"></a>
 target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a 
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
+	
+<h5> Operation Matador: World War II: Britain's attempt to foil the Japanese invasion of Malaya and Singapore</h5>
+Ong, Chit Chung. (2013). <i> Operation Matador: World War II: Britain's attempt to foil the Japanese invasion of Malaya and Singapore.</i> Singapore: Marshall Cavendish Editions.
+<br>
+<a target=”_blank”
+href=”https://nlb.overdrive.com/media/1239958">
+<img style=”width:200px;”
+src="/images/singapore-japanese-occupation/Operation-Matador.png"></a>
+<p> The author provides an extensive coverage of the British military planners' plans to counter the Japanese threat and discusses the reasons for their ineffectiveness.
+</p><p><a href= https://nlb.overdrive.com/media/1239958”
+target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
