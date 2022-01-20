@@ -296,7 +296,7 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 <h5>Bicycle blitzkrieg: The Malayan Campaign And The Fall Of Singapore</h5>
 Headrick, LCDR Alan C. (2014). <i> Bicycle blitzkrieg: The Malayan Campaign And The Fall Of Singapore.</i> San Francisco: Pickle Partners Publishing.
 <br>
-<a href="https://nlb.overdrive.com/media/2024222" target="”_blank”">
+<a href="https://nlb.overdrive.com/media/2024222" target="_blank">
 <img src="/images/singapore-japanese-occupation/Bicycle-Blitzkrieg.png" style="width:200px;"></a>
 <p>Written as a paper for the Faculty of the Naval War College in 1994, the author discusses the operational strategies deployed by the Japanese and British which led to different consequences and the lessons learnt.
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/2024222&quot;">Borrow the eBook here.</a></p>
@@ -305,9 +305,9 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 <h5> Operation Matador: World War II: Britain's attempt to foil the Japanese invasion of Malaya and Singapore</h5>
 Ong, Chit Chung. (2013). <i> Operation Matador: World War II: Britain's attempt to foil the Japanese invasion of Malaya and Singapore.</i> Singapore: Marshall Cavendish Editions.
 <br>
-<a href="”https://nlb.overdrive.com/media/1239958&quot;" target="”_blank”">
+<a href="https://nlb.overdrive.com/media/1239958&quot;" target="_blank">
 <img src="/images/singapore-japanese-occupation/Operation-Matador.png" style="width:200px;"></a>
 <p> The author provides an extensive coverage of the British military planners' plans to counter the Japanese threat and discusses the reasons for their ineffectiveness.
-</p><p><a href="https://nlb.overdrive.com/media/1239958”
-target=">Borrow the eBook here.</a></p>
+</p><p><a href="https://nlb.overdrive.com/media/1239958"
+target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</ul>
