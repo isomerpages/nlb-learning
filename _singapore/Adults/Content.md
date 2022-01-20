@@ -25,7 +25,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   </div>
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
-<a href="#japanese-occupation">
+<a href="#lp-japanese-occupation">
 <span>Learning Package:<br>Japanese Occupation</span>
 </a>
 </div>
