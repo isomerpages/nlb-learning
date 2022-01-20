@@ -290,7 +290,7 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-
 <h5><a>The defence and fall of Singapore 1940-1942</a></h5>
 Farrell, Brian P. (2017). <i> The defence and fall of Singapore 1940-1942.</i> Lanham: Monsoon Books Pte. Ltd.
 <br>
-<a target="_blank" href="https://nlb.overdrive.com/media/3101716"><img style="width:300px;" src="/images/Singapore-Japanese-Occupation/The-Defence-and-Fall-of-Singapore.png"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/3101716"><img style="width:300px;" src="/images/singapore-japanese-occupation/The-Defence-and-Fall-of-Singapore.png"></a>
 <p>A study on how and why Singapore fell, and its significance in the British military history, based on primary documents in Britain, Australia and Singapore.
 	</p><p><a href="https://nlb.overdrive.com/media/3101716" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).</ul>
