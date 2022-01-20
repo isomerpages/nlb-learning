@@ -23,8 +23,6 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
-</div>	
-
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#japanese-occupation">
@@ -32,6 +30,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </a>
 </div>
 </div>
+</div>	
 
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
@@ -266,8 +265,7 @@ Source: <a href="https://www.youtube.com/watch?v=IX7xg-h1CKA" target="_blank">Ma
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
-<h5 class="margin--bottom--lg" id="lp-green-econ">
-</h5><h4 id="lp-Japanese Occupation"><b> Japanese Occupation: Gibraltar of the East </b></h4>
+<h5 class="margin--bottom--lg" id="lp-japanese-occupation"><b> Japanese Occupation: Gibraltar of the East </b></h5>
 <p> From 8 December 1941 till 31 January 1942, a military campaign known as Malayan campaign was fought by the Allied (mainly the British Commonwealth) and Axis (primarily the Japanese) forces in Malaya.</p>
 <b></b>
 <p>The invading Japanese 25th Army troops under Lieutenant General Tomoyuki Yamashita fought the British, Indian and Australian troops. Multiple factors led to the ultimate defeat and fall of Singapore.</p>
