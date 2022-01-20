@@ -59,6 +59,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   </div>
 </div>	
 
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#japanese-occupation">
+<span>Learning Package:<br>Japanese Occupation</span>
+</a>
+</div>
+</div>
+
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
@@ -290,3 +298,27 @@ Source: <a href="https://www.youtube.com/watch?v=IX7xg-h1CKA" target="_blank">Ma
 </ol>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b>Learning Package</b></h3>
+<h5 class="margin--bottom--lg" id="lp-green-econ">
+<h4 id="lp-Japanese Occupation"><b> Japanese Occupation: Gibraltar of the East </b></h4>
+<p> From 8 December 1941 till 31 January 1942, a military campaign known as Malayan campaign was fought by the Allied (mainly the British Commonwealth) and Axis (primarily the Japanese) forces in Malaya.</p>
+<b></b>
+<p>The invading Japanese 25th Army troops under Lieutenant General Tomoyuki Yamashita fought the British, Indian and Australian troops. Multiple factors led to the ultimate defeat and fall of Singapore.</p>
+<h4>Did you know...</h4>
+<ul>
+<li> There was also a volunteer force who helped defend Singapore. They were made up of Europeans, Chinese and Eurasians from all walks of life.</li>
+<b></b>
+<li>These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.</li>
+
+<h4>Articles</h4>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html" target="_blank"> Malayan Campaign by Ho, Stephanie</a></h5>
+<p>“The Malayan Campaign consisted of a series of battles fought in Malaya between Allied (mainly British Commonwealth) and Axis (primarily Japanese) forces. The campaign began on 8 December 1941 when Japanese forces landed in Singora and Patani in southern Thailand, and Kota Bharu in northern Malaya. The campaign ended on 31 January 1942 with the Japanese forces gaining control of the Malay Peninsula.”</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html" target="_blank">Malayan Campaign</a>(2013, Jul 19).<i> Singapore Infopedia.</i>Retrieved 2021, January 19.
+
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-10-23.html" target="_blank"> Singapore Volunteer Corps by Soong, Alec and Goh, Lee Kim</a></h5>
+<p>Learn about the formation of such a group and how the Straits Settlements Volunteer Force defended Singapore.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-10-23.html " target="_blank">Singapore Volunteer Corps </a>(2021, Oct).<i> Singapore Infopedia.</i>Retrieved 2021, January 19.
+
+
+
