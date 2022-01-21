@@ -103,7 +103,7 @@ In fact, they will soon realise computational thinking exists in all aspects of 
 <td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Little Bits Creation I DiscoverTech</b></a></td>
         <td>Little Bits are fun swappable, magnetically – connected electronic building blocks that allow you to easily add lights and movement to any crafts project.  Children and parents will learn how littleBits work and create and decorate a character using cardboard in this activity.</td>
         <td>20 Mar 2022 <br>2.00pm – 3.00pm</td>
-        <td>Woodlands Regional Library</td>
+        <td>Pasir Ris Public Library</td>
       </tr>
     </tbody>
   </table>
