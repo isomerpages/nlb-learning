@@ -81,9 +81,7 @@ Topics covered:
 - Identifying Information Needs
 - Business Information Resources used for Market Intelligence
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"}
-
- for the latest programme listings.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
 ## **Research for Starting, Managing and Growing your Business**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-Placeholder-05.png)
@@ -96,8 +94,6 @@ Topics covered:
 
 - Library databases and web resources used in Business Research
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"}
-
- for the latest programme listings.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

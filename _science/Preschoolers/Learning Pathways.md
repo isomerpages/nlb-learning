@@ -40,9 +40,7 @@ A child's discovery of the world happens in their everyday life – in their int
       <tr>
         <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/budding-scientists/permalink" target="_blank"><b> ABC's of Applied Physics for Kids:
 It's Time to Learn about Time!</b></a></td>
-        <td style="width: 40%;"> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</td>
-        <td style="width: 20%;"> </td>
-        <td style="width: 20%;"> </td>
+        <td style="width: 80%;"> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</td>
       </tr>
       <tr>
         <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/budding-scientists/permalink" target="_blank"><b> ABC's of Applied Chemistry for Kids: Let’s Learn About Density </b></a></td>
@@ -51,11 +49,18 @@ It's Time to Learn about Time!</b></a></td>
         <td> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/budding-scientists/permalink#lp-marineanimals" target="_blank"><b> All About Animals – Let’s Learn about Marine Animals
+        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists/permalink#lp-marineanimals" target="_blank"><b> All About Animals – Let’s Learn about Marine Animals
  </b></a></td>
-        <td> The ocean is home to thousands of different marine animals, such as clownfishes, sharks, whales, dolphins and many more.<br>
+        <td> The ocean is home to thousands of different marine animals, such as clownfishes, sharks, whales, dolphins and many more.
 In addition, they come in all shapes and sizes, and have developed special features that enable them to survive underwater. Ever wondered what is the living habitat like for these marine animals? Let’s read on to find out more!
  </td>
+        <td></td>
+        <td> </td>
+      </tr>
+		 <tr>
+        <td><a href="https://learning.nlb.gov.sg/science/preschoolers/content#playlist-biotech" target="_blank"><b>Microscopic World: Protecting the Body! Science Behind Medical Biotechnology</b></a></td>
+        <td>Discover with your child how our bodies keep us safe from germs with antibodies. Learn how scientists invented vaccines and antibiotics over the years to help boost our immune systems to ward off serious illnesses.
+</td>
         <td></td>
         <td> </td>
       </tr>
@@ -72,14 +77,6 @@ In addition, they come in all shapes and sizes, and have developed special featu
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/c/early-read-science-programmes-ccbkrwzp--iE1UQaAYdl04/" target="_blank"><b> [Budding Scientists] It's Time to Learn About Time! </b></a></td>
-        <td style="width: 40%;"> Time may feel too abstract a concept to teach our little ones. Never fear! In this simple yet interactive and fun programme, your child will be introduced to the world of seconds, minutes, hours and routines as they create their very own time-teller. 
-From clocks to calendars, sundials to hourglasses, have your child become happy horologists as they journey through Time. 
-</td>
-        <td style="width: 20%;">15 Jan 2022<br>2.00pm – 3.00pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-<tr>
 <td><a href="https://www.eventbrite.com/c/early-read-science-programmes-ccbkrwzp--iE1UQaAYdl04/" target="_blank"><b> [Budding Engineers] Blast Off with Magnetic Rockets! </b></a></td>
         <td> “Shoot for the moon. Even if you miss, you’ll land among the stars.”
 Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children.
@@ -111,33 +108,29 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/c/early-read-sustainability-programmes-ccbkrxbd--MGq5L6nabutK/" target="_blank"><b>CCKPL: The Feelings Forest 
-</b></a></td>
-        <td style="width: 40%;">Join Mr Mole on his journey through the Feelings Forest, where he chats with nature and wildlife while learning about emotions and feelings. </td>
-        <td style="width: 20%;">16 Jan 2022<br>11.00am - 12.00pm</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library</td>
-      </tr>
-<tr>
-<td><a href="https://www.eventbrite.com/c/early-read-digital-programmes-ccbkrwyy--HoLyq4w9zQdc/" target="_blank"><b>Storytelling Session- My Favourite Days I DiscoverTech
-</b></a></td>
-        <td>The story conveys a heart-warming interaction between a little girl and her grandpa through a journey of self-discovery. Join us in the storytelling session and together let’s discover where this grandpa-granddaughter duo heads to. </td>
-        <td>16 Jan 2022<br>11.00am – 12.00pm</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
-<td><a href="https://www.eventbrite.com/c/early-read-digital-programmes-ccbkrwyy--HoLyq4w9zQdc/
-" target="_blank"><b>Think Like a coder: Session 1 [Amazing Algos] I DiscoverTech
-</b></a></td>
-        <td>Children are introduced to algorithms and how they can make algorithms for day to day activities.</td>
-        <td>22 Jan 2022 <br>2.00pm – 3.00pm</td>
-        <td>Zoom</td>
-      </tr>
 			<tr>
 <td><a href="https://www.eventbrite.com/c/early-read-sustainability-programmes-ccbkrxbd--MGq5L6nabutK/" target="_blank"><b>Birds in Singapore! (Animal Conservation Series)</b></a></td>
         <td>Join us in this special storytelling and craft session where you will learn about feathered friends in Singapore!</td>
         <td>29 Jan 2022<br>11.00am – 12.00pm</td>
         <td>Central Public Library</td>
+      </tr>
+			  <tr>
+        <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
+        <td> Sea turtles are a bastion of the ocean ecology. Learn all about the amazing sea turtle in this special storytelling and craft session.</td>
+				<td>5 Feb 2022<br>11.00am – 12.00pm</td>
+				<td>Choa Chu Kang Public Library</td>
+     </tr>
+			<tr>				
+				<td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Coding Unplugged: Let’s Get Looping!</b></a></td>
+        <td style="width: 40%;">Join us in this basic introductory precoding programme about the use of loops in coding through storytelling and game.</td>
+        <td style="width: 20%;">26 Feb 2022<br>11.00am – 12.00pm</td>
+        <td style="width: 20%;">Bedok Public Library</td>
+      </tr>
+			<tr>
+<td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Little Bits Creation I DiscoverTech</b></a></td>
+        <td>Little Bits are fun swappable, magnetically – connected electronic building blocks that allow you to easily add lights and movement to any crafts project.  Children and parents will learn how littleBits work and create and decorate a character using cardboard in this activity.</td>
+        <td>20 Mar 2022 <br>2.00pm – 3.00pm</td>
+        <td>Pasir Ris Public Library</td>
       </tr>
     </tbody>
   </table>

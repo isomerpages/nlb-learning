@@ -51,7 +51,7 @@ Check out our **learning packages**, complete with activities and tips, on STEAM
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="#playlists">
+      <a href="#playlist-biotech">
         <span>Playlists</span>
       </a>
     </div>
@@ -66,7 +66,7 @@ Check out our **learning packages**, complete with activities and tips, on STEAM
   </div>
 
 
-<h3 id="playlists" class="margin--bottom--lg"><b>Playlists
+<h3 id="playlist-biotech" class="margin--bottom--lg"><b>Playlists
 </b></h3>
 **Microscopic World: Protecting the Body! Science Behind Medical Biotechnology**
 
