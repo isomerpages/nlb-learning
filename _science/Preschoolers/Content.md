@@ -114,14 +114,14 @@ Our body's immune system keeps us strong by producing antibodies to attack germs
 	
 Explore our learning packages for useful tips on selecting age-appropriate books and fun experiments that can be done at home. 
 
-<h4 id="lp-time"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/budding-scientists/permalink#lp-time"><b>ABC's of Applied Physics for Kids: <br>It's Time to Learn About Time! ( for 4-6 years old)</b></a></h4>
+<h4 id="lp-time"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-time"><b>ABC's of Applied Physics for Kids: <br>It's Time to Learn About Time! ( for 4-6 years old)</b></a></h4>
 <p> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!  </p>
 
-<h4 id="lp-density"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/budding-scientists/permalink#lp-density"><b>ABC's of Applied Chemistry for Kids:<br> Let’s Learn About Density! (for 4-6 years old)</b></a></h4>
+<h4 id="lp-density"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-density"><b>ABC's of Applied Chemistry for Kids:<br> Let’s Learn About Density! (for 4-6 years old)</b></a></h4>
 <p> Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together! </p>
  
 	
-<h4 id="lp-ocean"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/budding-scientists/permalink#lp-marineanimals"><b>All About Animals: <br> Let's Learn about the Ocean and Marine Animals! (for 3-6 years old)</b></a></h4>
+<h4 id="lp-ocean"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-marineanimals"><b>All About Animals: <br> Let's Learn about the Ocean and Marine Animals! (for 3-6 years old)</b></a></h4>
 <p>The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. What is the living habitat like for these marine animals? What special features have they developed to enable them to survive underwater? Let's find out! </p>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
