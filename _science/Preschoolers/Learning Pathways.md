@@ -38,18 +38,18 @@ A child's discovery of the world happens in their everyday life – in their int
     </thead>
    <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/budding-scientists/permalink" target="_blank"><b> ABC's of Applied Physics for Kids:
+        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-time" target="_blank"><b> ABC's of Applied Physics for Kids:
 It's Time to Learn about Time!</b></a></td>
         <td style="width: 80%;"> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/budding-scientists/permalink" target="_blank"><b> ABC's of Applied Chemistry for Kids: Let’s Learn About Density </b></a></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-density" target="_blank"><b> ABC's of Applied Chemistry for Kids: Let’s Learn About Density </b></a></td>
         <td> Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Read on to introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together! </td>
         <td></td>
         <td> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists/permalink#lp-marineanimals" target="_blank"><b> All About Animals – Let’s Learn about Marine Animals
+        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-marineanimals" target="_blank"><b> All About Animals – Let’s Learn about Marine Animals
  </b></a></td>
         <td> The ocean is home to thousands of different marine animals, such as clownfishes, sharks, whales, dolphins and many more.
 In addition, they come in all shapes and sizes, and have developed special features that enable them to survive underwater. Ever wondered what is the living habitat like for these marine animals? Let’s read on to find out more!
