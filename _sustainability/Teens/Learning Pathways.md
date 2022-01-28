@@ -87,7 +87,7 @@ From 19 to 20 Mar 2022, Green Market: The Conscious Consumer offers over 8 inter
         <td style="width: 20%;">Choa Chu Kang Public Library</td>
       </tr>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/discover-discord-workshop-digilit-teens-takeover-registration-223173837957?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>Fusion 360 for Beginners</b></a></td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Fusion 360 for Beginners</b></a></td>
         <td style="width: 40%;">Join 8059 Blank as they conduct an online hands-on workshop aimed at introducing children and teenagers to the basic concepts of computer-aided 3D design.<br><br>Participants will be required to download free trial softwares for the workshop.</td>
         <td style="width: 20%;">12 Mar 2022,<br>10am-12pm</td>
         <td style="width: 20%;">Zoom</td>
