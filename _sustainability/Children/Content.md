@@ -114,8 +114,6 @@ Articles that show us interesting ways to live sustainably.
 
 <h5 class="margin--bottom--lg" id="lp-gardening"><b>Leaps and Bounds | Science Centre Singapore</b></h5>
 
-Journey to the year 2050 and save the planet from climate change in this web game!
-
-[Leaps and Bounds](www.science.edu.sg/game/index.html){:target="_blank"}
+Journey to the year 2050 and save the planet from climate change in [this web game](www.science.edu.sg/game/index.html)!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
