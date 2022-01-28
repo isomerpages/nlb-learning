@@ -54,7 +54,7 @@ Check out our **learning packages** to learn how marine biodiversity is intimate
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-gogreen">
+      <a href="#lp-biodiversity">
         <span>Learning Packages: Marine Biodiversity and Us</span>
       </a>
     </div>
@@ -123,7 +123,7 @@ Source: The Most Eco-Friendly Schools | Green Schools Around the World – YouTu
 <h3 class="margin--bottom--lg" id="lp-gogreen"><b>Learning Packages</b></h3>
 Articles that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-gardening"><b>Deep Dive Into Marine Biodiversity | Teen.Things</b></h5>
+<h5 class="margin--bottom--lg" id="lp-biodiversity"><b>Deep Dive Into Marine Biodiversity | Teen.Things</b></h5>
 
 Learn how biodiversity is intimately related to our daily lives and how we can continue to care for the world around us [here](https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id2)!
 
