@@ -59,7 +59,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#japanese-liberation">
-        <span>Playlist:<br>Fall of the Gilbraltar of the East</span>
+        <span>Playlist:<br>Liberation and Aftermath of War</span>
       </a>
     </div>
   </div>  
