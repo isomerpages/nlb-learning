@@ -112,10 +112,10 @@ Max is a cute and furry green monster, but an environmental nightmare! Follow Ma
 <h3><b>Learning Package</b></h3>
 Articles that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-gardening"><b>Gardening for Kids | Stay Curious with Your Child</b></h5>
+<h5 class="margin--bottom--lg" id="lp-gardening"><b>Leaps and Bounds | Science Centre Singapore</b></h5>
 
-Children and parents can bond over this Stay Curious with Your Child activity on gardening, accompanied by recommended reads.
+Journey to the year 2050 and save the planet from climate change in this web game!
 
-[Stay Curious with Your Child](https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child#home-gardening-for-kids){:target="_blank"}
+[Leaps and Bounds](www.science.edu.sg/game/index.html){:target="_blank"}
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
