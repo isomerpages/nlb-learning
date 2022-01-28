@@ -83,7 +83,7 @@ From 19 to 20 Mar 2022, Green Market: The Conscious Consumer offers over 8 inter
       <tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/cckpl" target="_blank"><b>CCKPL: Unplugged</b></a></td>
         <td style="width: 40%;">Want to take a break and unwind over some tabletop games? During Unplugged, set aside your digital devices, and be introduced to a variety of games for you to kick back and have a good time!</td>
-        <td style="width: 20%;">4 Mar 2022<br>&<br>18 Mar 2022,<br><br>3-5pm</td>
+        <td style="width: 20%;">4 Mar 2022<br>&<br>18 Mar 2022,<br>3-5pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library</td>
       </tr>
 			<tr>
