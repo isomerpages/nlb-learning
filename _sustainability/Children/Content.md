@@ -46,7 +46,7 @@ Learn the importance of caring for our planet and how children can play their pa
 
 Check out our **playlist** for a collection of short videos/podcasts highlighting the importance of sustainability. 
 
-Check out our **learning package** for gardening-related activities with some parent-children bonding time.
+Check out our **learning package** for a fun web game that teaches you about climate change.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
@@ -58,8 +58,8 @@ Check out our **learning package** for gardening-related activities with some pa
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-gardening">
-        <span>Learning Package: Gardening for Kids</span>
+      <a href="#lp-leaps">
+        <span>Learning Package: Leaps and Bounds</span>
       </a>
     </div>
   </div>
@@ -112,7 +112,7 @@ Max is a cute and furry green monster, but an environmental nightmare! Follow Ma
 <h3><b>Learning Packages</b></h3>
 Articles that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-gardening"><b>Leaps and Bounds | Science Centre Singapore</b></h5>
+<h5 class="margin--bottom--lg" id="lp-leaps"><b>Leaps and Bounds | Science Centre Singapore</b></h5>
 
 Journey to the year 2050 and save the planet from climate change in [this web game](www.science.edu.sg/game/index.html)!
 
