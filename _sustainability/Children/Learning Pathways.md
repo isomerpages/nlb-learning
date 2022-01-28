@@ -43,8 +43,8 @@ Go green with your child to build an eco-friendly future together.
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b> Learning Package<br>Home Gardening for Kids</b></a></td>
-        <td> Children and parents can bond over this Stay Curious with Your Child activity on gardening, accompanied by recommended reads.</td>
+        <td><a href="https://www.science.edu.sg/game/index.html" target="_blank"><b> Learning Package<br>Leaps and Bounds | Science Centre Singapore</b></a></td>
+        <td>Journey to the year 2050 and save the planet from climate change in this web game!</td>
         <td></td>
         <td> </td>
       </tr>
