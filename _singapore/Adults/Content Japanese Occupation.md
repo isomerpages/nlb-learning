@@ -45,14 +45,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#japanese-occupation">
-        <span>Playlist:<br>Japanese Occupation</span>
+        <span>Playlist:<br>Fall of the Gilbraltar of the East</span>
       </a>
     </div>
-  </div>
+  </div>	
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#lp-japanese-occupation">
-<span>Learning Package:<br>Japanese Occupation</span>
+<span>Learning Package:<br>Gibraltar of the East</span>
 </a>
 </div>
 </div>
