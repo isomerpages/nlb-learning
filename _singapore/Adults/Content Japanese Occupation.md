@@ -49,7 +49,23 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>	
-<div class="col is-one-third">
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#japanese-rule">
+        <span>Playlist:<br>Under the Japanese Rule</span>
+      </a>
+    </div>
+  </div>  
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#japanese-liberation">
+        <span>Playlist:<br>Fall of the Gilbraltar of the East</span>
+      </a>
+    </div>
+  </div>  
+	<div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#lp-japanese-occupation">
 <span>Learning Package:<br>Gibraltar of the East</span>
@@ -57,7 +73,8 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 </div>
 </div>	
-<h5 class="margin--bottom--lg" id="japanese-occupation"><b>Playlist: Japanese Occupation - Fall of the Gibraltar of the East</b></h5>
+</div>	
+<h5 class="margin--bottom--lg" id="japanese-rule"><b>Playlist: Japanese Occupation - Under the rule of the Japanese and </b></h5>
 
 Singapore used to be the British stronghold and nicknamed the "Gibraltar of the East". It was captured by the Japanese after fierce fighting that lasted between 8-15 February 1942.
 
@@ -92,7 +109,8 @@ Civilians started preparations for defence while the Japanese began their invasi
 </div>
 </div>
 
-<h5 class="margin--bottom--lg" id="japanese occupation"><b>Playlist: Japanese Occupation - Under the Japanese Rule and Memories of War</b></h5>
+<h5 class="margin--bottom--lg" id="japanese-rule">
+	<b>Playlist: Japanese Occupation - Under the Japanese Rule and Memories of War</b></h5>
 
 The swift success of the Japanese invasion of Malaya and Singapore turned Singapore into Syonan-to. Life under the Japanese occupied “Light of the South Island” was hard and it was all about survival.
 
@@ -160,7 +178,7 @@ Professor Kevin Blackburn discusses the comfort women of Singapore from memories
 </div>
 </div>
 
-<h5 class="margin--bottom--lg" id="japanese occupation"><b>Playlist: Japanese Occupation - Liberation and Aftermath of War</b></h5>
+<h5 class="margin--bottom--lg" id="japanese-liberation"><b>Playlist: Japanese Occupation - Liberation and Aftermath of War</b></h5>
 
 Japanese surrender ceremony on 12 September 1945 at City Hall (then known as Municipal Building of Singapore) marked the end of Japanese Occupation in Southeast Asia. Singapore embarked on a road of recovery from the war.
 
