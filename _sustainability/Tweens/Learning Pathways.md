@@ -80,11 +80,16 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/secondary-main#learn-about-steam" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
-        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
-Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank">Public Libraries Singapore’s Facebook page</a> to be notified when the videos go live.</td>
-        <td style="width: 20%;">Jan 2022</td>
-        <td style="width: 20%;"></td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Book Orators</b></a></td>
+        <td style="width: 40%;">Learn about some amazing inventions and how they influenced our world today and the technology we use in our everyday lives.<br><br>
+        <td style="width: 20%;">13 Mar 2022,<br>10am-12pm</td>
+        <td style="width: 20%;">Zoom</td>
+      </tr>
+      <tr>
+        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Unicorn Adventures: The Dark Forest</b></a></td>
+        <td style="width: 40%;">Join Shriya Sharma, the young author of the book <i>Unicorn Adventures: The Dark Forest</i>, at this exciting event. In this session, Shriya will talk about her book, her motivation, and challenges she overcame to write her debut book.<br><br>
+        <td style="width: 20%;">19 Mar 2022,<br>11am-12pm</td>
+        <td style="width: 20%;">library@harbourfront</td>
       </tr>
     </tbody>
   </table>
