@@ -81,7 +81,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
   </div>
   <div class="col is-three-fifths">
     <p><b>Raffles Place's New Image</b><br>
-    Raffles Place in 1965 featured modern attractions such as an underground carpark, a rooftop garden, and a clock donated by a Japanese watchmaker. Experience Singapore’s commercial centre in the first year of Independence. For more archival materials from the National Archives of Singapore, please visit [Archives Online](www.nas.gov.sg/archivesonline).<br><br>
+    Raffles Place in 1965 featured modern attractions such as an underground carpark, a rooftop garden, and a clock donated by a Japanese watchmaker. Experience Singapore’s commercial centre in the first year of Independence. For more archival materials from the National Archives of Singapore, please <a target="_blank" href="https://www.nas.gov.sg/archivesonline">Archives Online</a>.<br><br>
 		<small>Source: Berita Singapura. Courtesy of National Archives of Singapore </small></p>
  </div>
 </div>
@@ -94,7 +94,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
   </div>
   <div class="col is-three-fifths">
   <p><b>Celebration Of New Housing</b><br>
-    The Housing and Development Board (HDB) drew up its first five-year plan when it was established in 1960. By 1965, HDB exceeded the target on new housing units, rehousing the population at a rate that was considered remarkable worldwide. For more archival materials from the National Archives of Singapore, please visit [Archives Online](https://www.nas.gov.sg/archivesonline) <br><br>
+    The Housing and Development Board (HDB) drew up its first five-year plan when it was established in 1960. By 1965, HDB exceeded the target on new housing units, rehousing the population at a rate that was considered remarkable worldwide. For more archival materials from the National Archives of Singapore, please visit <a target="_blank" href="https://www.nas.gov.sg/archivesonline">Archives Online</a>.<br><br>
 <small>Source: Berita Singapura. Courtesy of National Archives of Singapore </small></p>
   </div>
 </div>
