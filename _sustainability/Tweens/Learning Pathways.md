@@ -40,14 +40,14 @@ Taking care of the environment starts with YOU!
       <tr>
         <td style="width: 20%;"><a href="/sustainability/tweens/content" target="_blank"><b> Playlist<br>D.I.Y. Recycling</b></a></td>
         <td style="width: 40%;"> Get inspired to recycle and repurpose trash into treasure!</td>
-        <td style="width: 20%;"> </td>
-        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
       </tr>
       <tr>
         <td><a href="https://www.nationalgeographic.com/pdf/kids/photos/articles/Nature/H-P/KidsVsPlastic/plastic-free-party.PDF" target="_blank"><b> Learning Package<br>Kids vs Plastic: Tips for Plastic-Free Snacking | National Geographic Kids</b></a></td>
         <td>Feeling peckish? Take a bite on the green side!</td>
         <td></td>
-        <td> </td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -70,7 +70,6 @@ Taking care of the environment starts with YOU!
     </tbody>
   </table>
 </div>
-			
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
