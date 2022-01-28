@@ -43,8 +43,15 @@ Singapore history and heritage are steeped in our everyday lives without us bein
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade ">
-      <a href="/singapore/adults/content ">
-        <span>Content </span>
+      <a href="/singapore/adults/content-japanese-occupation">
+        <span>Content - Japanese Occupation </span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade ">
+      <a href="/singapore/adults/content-place-history">
+        <span>Content - Place History </span>
       </a>
     </div>
   </div>
