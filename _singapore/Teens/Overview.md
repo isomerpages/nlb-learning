@@ -38,7 +38,7 @@ third_nav_title: Teens
 .clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; } 
 </style>
 
-Learning history and understanding heritage do not have to be boring. Take a step into each content package containing bitesize information on a slice of history and heritage.  
+Learning history and understanding heritage can be simple and interesting. Take a step into each content package containing bitesize information on a slice of history and heritage.  
 
 <div class="row is-multiline">
   <div class="col is-one-third">
