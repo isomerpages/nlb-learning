@@ -71,4 +71,28 @@ Taking care of the environment starts with YOU!
   </table>
 </div>
 
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Areas</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Book Orators</b></a></td>
+        <td style="width: 40%;">Learn about some amazing inventions and how they influenced our world today and the technology we use in our everyday lives.<br><br>
+        <td style="width: 20%;">13 Mar 2022,<br>10am-12pm</td>
+        <td style="width: 20%;">Zoom</td>
+      </tr>
+      <tr>
+        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Unicorn Adventures: The Dark Forest</b></a></td>
+        <td style="width: 40%;">Join Shriya Sharma, the young author of the book <i>Unicorn Adventures: The Dark Forest</i>, at this exciting event. In this session, Shriya will talk about her book, her motivation, and challenges she overcame to write her debut book.<br><br>
+        <td style="width: 20%;">19 Mar 2022,<br>11am-12pm</td>
+        <td style="width: 20%;">library@harbourfront</td>
+      </tr>
+  </tbody>
+  </table>
+</div>
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
