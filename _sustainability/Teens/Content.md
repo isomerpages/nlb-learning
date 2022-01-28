@@ -42,7 +42,7 @@ Sustainability will be a breeze once you’re done with these learning packages 
 
 Check out our **playlist** for insights into the intricacies of environmental issues and be inspired to live more sustainably..
 
-Check out our **learning packages** to learn useful terminologies, and how you can live more sustainably.
+Check out our **learning packages** to learn how marine biodiversity is intimately related to our daily lives.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
@@ -55,7 +55,7 @@ Check out our **learning packages** to learn useful terminologies, and how you c
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
       <a href="#lp-gogreen">
-        <span>Learning Packages</span>
+        <span>Learning Packages: Marine Biodiversity and Us</span>
       </a>
     </div>
   </div>
