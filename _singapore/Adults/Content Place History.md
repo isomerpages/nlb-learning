@@ -58,7 +58,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
     </div>
   </div>
 
-
+</div>
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
@@ -108,6 +108,13 @@ Singapore has undergone massive developments in the decades past. Take a look at
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="place history"><b>Playlist: Curiocity</b></h5>
+
+Singapore has undergone massive developments in the decades past. Take a look at how your neighbourhood has evolved through the Curiocity [website](https://curiocity.nlb.gov.sg).
+
+Curiocity leverages story maps, or place-based digital storytelling, to provide users an interactive and immersive way to uncover and rediscover the history of Singapore through a curated selection of heritage materials from the collections of the National Library (NL) and the National Archives of Singapore (NAS). 
+
 
 
 <h3><b>Learning Package</b></h3>
