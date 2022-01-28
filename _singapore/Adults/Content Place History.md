@@ -62,7 +62,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<h5 class="margin--bottom--lg" id="place history"><b>Playlist: Place History</b></h5>
+<h5 class="margin--bottom--lg" id="place-history"><b>Playlist: Place History</b></h5>
 
 Singapore has undergone massive developments in the decades past. Take a look at how select places and spaces were like prior to redevelopment.
 
@@ -109,7 +109,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id="place history"><b>Playlist: Curiocity</b></h5>
+<h5 class="margin--bottom--lg" id="Curiocity"><b>Playlist: Curiocity</b></h5>
 
 Singapore has undergone massive developments in the decades past. Take a look at how your neighbourhood has evolved through the Curiocity [website](https://curiocity.nlb.gov.sg).
 
