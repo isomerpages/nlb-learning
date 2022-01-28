@@ -68,3 +68,29 @@ There are many stories to our places and spaces in Singapore. Through this pathw
     </tbody>
   </table>
 </div>
+<h3><b>Japanese Occupation</b></h3>
+Dive deep into the stories from the Japanese Occupation. 
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/singapore/adults/content-japanese-occupation" target="_blank"><b>Japanese Occupation Learning Package</b></a></td>
+        <td style="width: 40%;">Here are some great resources to start with.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="/singapore/adults/content-content-japanese-occupation" target="_blank"><b>Japanese Occupation Playlist</b></a></td>
+       <td style="width: 40%;">Check out these resources to help you gain some understanding of the events which led to the fall of Singapore, Japanese Occupation, and post-war Singapore.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+			</tr>
+    </tbody>
+  </table>
+</div>
