@@ -121,6 +121,7 @@ Source: The Most Eco-Friendly Schools | Green Schools Around the World – YouTu
 <br>
 
 <h3 class="margin--bottom--lg" id="lp-gogreen"><b>Learning Packages</b></h3>
+Articles that show us interesting ways to live sustainably.
 
 <h5 class="margin--bottom--lg" id="lp-gardening"><b>Deep Dive Into Marine Biodiversity | Teen.Things</b></h5>
 
