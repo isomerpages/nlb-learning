@@ -43,12 +43,36 @@ Learn on the go.
 Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
 
 
+<br>
 
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#place-history">
+        <span>Playlist:<br>Place History</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#Curiocity">
+        <span>Playlist:<br>Curiocity</span>
+      </a>
+    </div>
+  </div>
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-singapore-names">
+<span>Learning Package:<br>Many Names of Singapore</span>
+</a>
+</div>
+</div>
+</div>
 
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<h5 class="margin--bottom--lg" id="place history"><b>Playlist: Place History</b></h5>
+<h5 class="margin--bottom--lg" id="place-history"><b>Playlist: Place History</b></h5>
 
 Singapore has undergone massive developments in the decades past. Take a look at how select places and spaces were like prior to redevelopment.
 <br>
@@ -94,7 +118,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id="place history"><b>Playlist: Curiocity</b></h5>
+<h5 class="margin--bottom--lg" id="Curiocity"><b>Playlist: Curiocity</b></h5>
 
 Singapore has undergone massive developments in the decades past. Take a look at how your neighbourhood has evolved through the Curiocity [website](https://curiocity.nlb.gov.sg).
 
