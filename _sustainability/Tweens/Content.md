@@ -115,7 +115,7 @@ Did you know you can convert newspaper into decorative containers and bowls? Her
 <h3><b>Learning Package</b></h3>
 Articles that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-endangered"><b>Don't Say Goodbye: Endangered Species | Tweenkerama Tinker Sheet</b></h5>
-[Try your hand at this Tinker Sheet](/files/sus_tweens_lp-endangered.pdf){:target="_blank"} on endangered animal species and common threats to wildlife, complete with related activities and recommended reads!
+<h5 class="margin--bottom--lg" id="lp-endangered"><b>Kids vs Plastic: Tips for Plastic-Free Snacking | National Geographic Kids</b></h5>
+Feeling peckish? [Take a bite on the green side!](https://www.nationalgeographic.com/pdf/kids/photos/articles/Nature/H-P/KidsVsPlastic/plastic-free-party.PDF)
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
