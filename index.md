@@ -48,6 +48,13 @@ sections:
       url: /science/overview
       image: /images/home/home-science-kv.png
       alt: Image alt text
+  - infopic:
+      description: Learn about the history and stories in this place we call home.
+        Discover interesting trivia that you may not know.
+      button: start learning
+      url: /singapore/overview/
+      image: /images/home/home-sg-kv.png
+      alt: Image alt text
   - infobar:
       title: Find a group of like-minded people to learn with.
       button: Explore Communities

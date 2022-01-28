@@ -18,7 +18,7 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://nlb-learning-staging.netlify.app/careers/teens/content"><b>Teen.Things: Emailing 101</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/careers/teens/content"><b>Teen.Things: Emailing 101</b></a></td>
         <td style="width: 40%;">We’ve all sent emails out to friends and teachers before, but crafting a professional email is a whole different ball game. If you aren’t sure what should go into formal emails, here are some tips and tricks that are sure to impress any recipient!</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>

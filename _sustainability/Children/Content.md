@@ -46,7 +46,7 @@ Learn the importance of caring for our planet and how children can play their pa
 
 Check out our **playlist** for a collection of short videos/podcasts highlighting the importance of sustainability. 
 
-Check out our **learning package** for gardening-related activities with some parent-children bonding time.
+Check out our **learning package** for a fun web game that teaches you about climate change.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
@@ -58,8 +58,8 @@ Check out our **learning package** for gardening-related activities with some pa
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-gardening">
-        <span>Learning Package: Gardening for Kids</span>
+      <a href="#lp-leaps">
+        <span>Learning Package: Leaps and Bounds</span>
       </a>
     </div>
   </div>
@@ -71,54 +71,49 @@ Check out our **learning package** for gardening-related activities with some pa
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/c7cdKwaSyIA" class="responsive-iframe"></iframe>
+      <iframe src="https://www.youtube.com/embed/belXC_IoW4o" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> Bringing Water to Terry - The Adventures of Water Wally &amp; Sally (5 min)</b><br>
-Join Public Utilities Board’s Water Wally and Sally, as they help their friend Terry the Terrapin, after he finds his pond all dried up. Brought to life by imaginative illustrations and effects, children will enjoy this storytelling video presented by Zemily Leow.  </p>
-
-   <small>Source: Bringing Water to Terry - The Adventures of Water Wally &amp; Sally - YouTube (2021, January 29). sgPUB. Retrieved 2021, October 22. </small>
+    <p><b class="has-text-indigo"> How to Take Care of the Environment (Learning Videos for Kids) (5 min)</b><br>
+Pollution destroys our beautiful planet. Learn how you can contribute to the care of our planet starting from very simple actions!</p>
+   <small>Source: How to Take Care of the Environment (Learning Videos For Kids) - YouTube (2021, July 30). Fun World For Kids. Retrieved 2022, January 12.</small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/6yCAPAqXodc" class="responsive-iframe"></iframe>
+      <iframe src="https://www.youtube.com/embed/VlRVPum9cp4" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo"> How to Save Water (and Help the Earth!) (5 min)</b><br>
-Squeaks and Mister Brown, from the SciShowKids channel, teach children why it’s necessary to save water for ourselves and our planet earth. </p>
-
-    <small> Source: How to Save Water (and Help the Earth!) - YouTube (2021, April 12). SciShow Kids. Retrieved 2021, October 22. </small>
+<p><b class="has-text-indigo"> How Recycling Works! (4 min)</b><br>
+There is so much we can do to reduce the garbage produced and keep the Earth healthy! Learn how new life can be given to old waste.</p>
+    <small>Source: How Recycling Works! - YouTube (2016, March 24). SciShow Kids. Retrieved 2022, January 12.</small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/tp-RR1_LDn8" class="responsive-iframe"></iframe>
+      <iframe src="https://www.youtube.com/embed/2Mkwhe6LOBo" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> Me… Jane | Storytime (9 min)</b><br>
-Listen to Dr Jane Goodall as she inspires children to love and protect nature. This lovely, illustrated story, takes readers alongside her childhood adventures in discovering nature with Jubilee, her stuffed toy chimpanzee. </p>
-
-    <small>Source: Me… Jane | Storytime - Facebook (2021, September 11). Public Libraries Singapore. Retrieved 2021, October 22.</small>
+    <p><b class="has-text-indigo"> I CAN SAVE THE EARTH by Alison Inches and Viviana Garofoli - Children's Book - Read aloud (5 min)</b><br>
+Max is a cute and furry green monster, but an environmental nightmare! Follow Max’s journey toward environmental awareness and making a difference for the planet!</p>
+    <small>Source: I CAN SAVE THE EARTH by Alison Inches and Viviana Garofoli - Children's Book - Read aloud - YouTube (2018, April 19). PV Storytime. Retrieved 2022, January 12.</small>
   </div>
 </div>
 <br>
 
 
-<h3><b>Learning Package</b></h3>
+<h3><b>Learning Packages</b></h3>
 Articles that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-gardening"><b>Gardening for Kids | Stay Curious with Your Child</b></h5>
+<h5 class="margin--bottom--lg" id="lp-leaps"><b>Leaps and Bounds | Science Centre Singapore</b></h5>
 
-Children and parents can bond over this Stay Curious with Your Child activity on gardening, accompanied by recommended reads.
-
-[Stay Curious with Your Child](https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child#home-gardening-for-kids){:target="_blank"}
+Journey to the year 2050 and save the planet from climate change in <a target="_blank" href="https://www.science.edu.sg/game/index.html">this web game</a>!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

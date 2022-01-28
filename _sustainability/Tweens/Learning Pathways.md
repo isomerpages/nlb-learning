@@ -40,14 +40,14 @@ Taking care of the environment starts with YOU!
       <tr>
         <td style="width: 20%;"><a href="/sustainability/tweens/content" target="_blank"><b> Playlist<br>D.I.Y. Recycling</b></a></td>
         <td style="width: 40%;"> Get inspired to recycle and repurpose trash into treasure!</td>
-        <td style="width: 20%;"> </td>
-        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/EndangeredSpecies_Preview_FA.PDF" target="_blank"><b> Learning Package<br>Endangered Species</b></a></td>
-        <td> Try your hand at this Tinker Sheet on endangered animal species and common threats to wildlife, complete with related activities and recommended reads!</td>
+        <td><a href="https://www.nationalgeographic.com/pdf/kids/photos/articles/Nature/H-P/KidsVsPlastic/plastic-free-party.PDF" target="_blank"><b> Learning Package<br>Kids vs Plastic: Tips for Plastic-Free Snacking | National Geographic Kids</b></a></td>
+        <td>Feeling peckish? Take a bite on the green side!</td>
         <td></td>
-        <td> </td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -62,30 +62,36 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><b>TinkerWorks | Sustainability</b></td>
-        <td style="width: 40%;"> A series of tinkering sessions to learn and explore topics on sustainability through a variety of hands-on and experiential learning activities.<br>Stay tuned for more updates!</td>
-				 <td></td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>TinkerWorks: Explore Nature</b></a></td>
+        <td style="width: 40%;">Get inspired to learn more about the environment around us through a book discussion and tinkering activities in our libraries!<br><br>This programme is part of a series of sustainability themed events for tweens.</td>
+        <td style="width: 20%;">17 Mar 2022, <br>1-2.15pm</td>
+        <td style="width: 20%;">Queenstown Public Library</td>
 			</tr>
     </tbody>
   </table>
 </div>
-			
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Areas</th>
+        <th colspan="4" class="is-uppercase has-weight-normal ">Discover other learning focus areas</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/secondary-main#learn-about-steam" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
-        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
-Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank">Public Libraries Singapore’s Facebook page</a> to be notified when the videos go live.</td>
-        <td style="width: 20%;">Jan 2022</td>
-        <td style="width: 20%;"></td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Book Orators</b></a></td>
+        <td style="width: 40%;">Learn about some amazing inventions and how they influenced our world today and the technology we use in our everyday lives.</td>
+        <td style="width: 20%;">13 Mar 2022,<br>10am-12pm</td>
+        <td style="width: 20%;">Zoom</td>
       </tr>
-    </tbody>
+			<tr>
+        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Unicorn Adventures: The Dark Forest</b></a></td>
+        <td style="width: 40%;">Join Shriya Sharma, the young author of the book <i>Unicorn Adventures: The Dark Forest</i>, at this exciting event. In this session, Shriya will talk about her book, her motivation, and challenges she overcame to write her debut book.</td>
+        <td style="width: 20%;">19 Mar 2022,<br>11am-12pm</td>
+        <td style="width: 20%;">library@harbourfront</td>
+      </tr>
+  </tbody>
   </table>
 </div>
 

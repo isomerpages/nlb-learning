@@ -1,6 +1,6 @@
 ---
-title: Content
-permalink: /singapore/Adults/content
+title: Content Japanese Occupation
+permalink: /singapore/Adults/content-japanese-occupation
 description: ""
 third_nav_title: Adults
 ---
@@ -41,26 +41,32 @@ third_nav_title: Adults
 Learn on the go. Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
 
 <br>
-
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#place-history">
-        <span>Playlist:<br>Place History</span>
+      <a href="#japanese-occupation">
+        <span>Playlist:<br>Fall of the Gilbraltar of the East</span>
       </a>
     </div>
-  </div>
+  </div>	
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#japanese-occupation">
-        <span>Playlist:<br>Japanese Occupation</span>
+      <a href="#japanese-rule">
+        <span>Playlist:<br>Under the Japanese Rule</span>
       </a>
     </div>
-  </div>
-<div class="col is-one-third">
+  </div>  
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#japanese-liberation">
+        <span>Playlist:<br>Liberation and Aftermath of War</span>
+      </a>
+    </div>
+  </div>  
+	<div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#lp-japanese-occupation">
-<span>Learning Package:<br>Japanese Occupation</span>
+<span>Learning Package:<br>Gibraltar of the East</span>
 </a>
 </div>
 </div>
@@ -69,54 +75,8 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<h5 class="margin--bottom--lg" id="place history"><b>Playlist: Place History</b></h5>
 
-Singapore has undergone massive developments in the decades past. Take a look at how select places and spaces were like prior to redevelopment.
-
-<br>
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/QvejDgHtmjw"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b>Raffles Place's New Image</b><br>
-    Raffles Place in 1965 featured modern attractions such as an underground carpark, a rooftop garden, and a clock donated by a Japanese watchmaker. Experience Singapore’s commercial centre in the first year of Independence. For more archival materials from the National Archives of Singapore, please visit [Archives Online](www.nas.gov.sg/archivesonline).<br><br>
-		<small>Source: Berita Singapura. Courtesy of National Archives of Singapore </small></p>
- </div>
-</div>
-
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/cHh9x5qhOnM"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-  <p><b>Celebration Of New Housing</b><br>
-    The Housing and Development Board (HDB) drew up its first five-year plan when it was established in 1960. By 1965, HDB exceeded the target on new housing units, rehousing the population at a rate that was considered remarkable worldwide. For more archival materials from the National Archives of Singapore, please visit [Archives Online](https://www.nas.gov.sg/archivesonline) <br><br>
-<small>Source: Berita Singapura. Courtesy of National Archives of Singapore </small></p>
-  </div>
-</div>
-
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/VHyKaSWeVJU"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-  <p><b>Ceremony of Laying the Foundation Stone of the Clyde Terrace Market</b><br>
-    Discover the history behind one of Singapore’s earliest markets, the Clyde Terrace Market, with Associate Librarian Zoe Yeo. The market later became known as “tie pasar” in Chinese, “thih pa sat” in Hokkien, or “pasar besi” in Malay, which all translate into “iron market”, as it was mainly made up of iron. Catch other episodes at NLB Youtube channel.<br><br>
-<small>Source: National Library, Singapore. </small></p>
-  </div>
-</div>
-
-
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
-<h5 class="margin--bottom--lg" id="japanese-occupation"><b>Playlist: Japanese Occupation - Fall of the Gibraltar of the East</b></h5>
+<h5 class="margin--bottom--lg" id="japanese-rule"><b>Playlist: Japanese Occupation - Under the rule of the Japanese and </b></h5>
 
 Singapore used to be the British stronghold and nicknamed the "Gibraltar of the East". It was captured by the Japanese after fierce fighting that lasted between 8-15 February 1942.
 
@@ -151,7 +111,10 @@ Civilians started preparations for defence while the Japanese began their invasi
 </div>
 </div>
 
-<h5 class="margin--bottom--lg" id="japanese occupation"><b>Playlist: Japanese Occupation - Under the Japanese Rule and Memories of War</b></h5>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
+<h5 class="margin--bottom--lg" id="japanese-rule">
+	<b>Playlist: Japanese Occupation - Under the Japanese Rule and Memories of War</b></h5>
 
 The swift success of the Japanese invasion of Malaya and Singapore turned Singapore into Syonan-to. Life under the Japanese occupied “Light of the South Island” was hard and it was all about survival.
 
@@ -219,7 +182,9 @@ Professor Kevin Blackburn discusses the comfort women of Singapore from memories
 </div>
 </div>
 
-<h5 class="margin--bottom--lg" id="japanese occupation"><b>Playlist: Japanese Occupation - Liberation and Aftermath of War</b></h5>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
+<h5 class="margin--bottom--lg" id="japanese-liberation"><b>Playlist: Japanese Occupation - Liberation and Aftermath of War</b></h5>
 
 Japanese surrender ceremony on 12 September 1945 at City Hall (then known as Municipal Building of Singapore) marked the end of Japanese Occupation in Southeast Asia. Singapore embarked on a road of recovery from the war.
 
@@ -257,46 +222,6 @@ Recounts the Civilian War Memorial project, a monument dedicated to civilians wh
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-
-<h3><b>Learning Package</b></h3>
-<h5 id="lp-green-econ" class="margin--bottom--lg"><b>The Many Names of Singapore </b></h5>
-<p>We probably are familiar with the variant names of Singapore such as Temasek and Singapura today. Back in the 17<sup>th</sup> to early 19<sup>th</sup> century, Singapore was identified as a promontory, a strait, a ridge, an island, as well as a settlement, based on naming conventions on cartographical references that have been documented.<sup><a href="#footnote-five">1</a></sup> For Singaporeans, this is a nation we associate with, and a place we call home. This learning package offers some trivia to the variant names of Singapore from early records.</p>
-
-<table border="1">
-	<tbody><tr>
-		<td>
-			<h2>Did you know...</h2>
-			<p>Long before the British arrived and made Singapore a colonial port city, Singapore was already a port as part of the early maritime trade route. <sup><a href="#footnote-five">1</a></sup> In early maritime charts and maps (17<sup>th</sup> to early 19<sup>th</sup> century), we learn that Singapore was known by many names.
-		</p>
-			<p>Some names that Singapore was known by include<sup><a href="#footnote-eight">2</a></sup>.</p>
-			<ul>
-				<li>Temasek or Temasik 淡马锡</li>
-				<li>Pulo ou Isle Panjang or Paulau Panjang [Long Island]</li>
-				<li>Ujong Tanah [Land's End]</li>
-				<li>Sincapour</li>
-				<li> Governor's Island</li>
-			</ul>
-			<p></p>
-		</td>
-	</tr>
-	</tbody></table>
-
-<h4>Videos</h4>
-<h5>Malaca, l'Inde Méridionale et le Cathay | From the Stacks S1</h5>
-
-
-<div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IX7xg-h1CKA" height="315" width="560"></iframe>
-</div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=IX7xg-h1CKA">Malaca, l'Inde Méridionale et le Cathay</a> (2019). <i>National Library Singapore.</i>
-
-<h4>References</h4>
-<ol>
-    <li><small><span id="footnote-one">Kwa, C. G. et. al (2019). </span> <i>Seven hundred years: a history of Singapore</i>. Singapore: Marshall Cavendish Editions and National Library Board. eBook available via NLB Mobile. Call no. 959.57 KWA </small></li>
-     <li><small><span id="footnote-one">National Library Board (2015). </span> <i>Visualising space: maps of Singapore and the region</i>. Available on BookSG  <a target="_blank" href="https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx">https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx</a></small></li>
-</ol>
-
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-japanese-occupation" class="margin--bottom--lg"><b> Japanese Occupation: Gibraltar of the East </b></h5>
@@ -345,3 +270,5 @@ Ong, Chit Chung. (2013). <i> Operation Matador: World War II: Britain's attempt 
 </p><p><a href="https://nlb.overdrive.com/media/1239958"
 target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</ul>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

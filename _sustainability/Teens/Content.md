@@ -42,7 +42,7 @@ Sustainability will be a breeze once you’re done with these learning packages 
 
 Check out our **playlist** for insights into the intricacies of environmental issues and be inspired to live more sustainably..
 
-Check out our **learning packages** to learn useful terminologies, and how you can live more sustainably.
+Check out our **learning packages** to learn how marine biodiversity is intimately related to our daily lives.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
@@ -54,8 +54,8 @@ Check out our **learning packages** to learn useful terminologies, and how you c
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-gogreen">
-        <span>Learning Packages</span>
+      <a href="#lp-biodiversity">
+        <span>Learning Packages: Marine Biodiversity and Us</span>
       </a>
     </div>
   </div>
@@ -78,149 +78,55 @@ Gain insights into the intricacies of environmental issues and be inspired to li
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/LLJlRA51vak"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/JYZpxRy5Mfg"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> Dot and the Green Pea | Episode 1: Green is the New Black (5 min)</b><br>
-Follow Dorothy Chiang’s journey as an eco-influencer, where she learns how going green is not as easy as it seems. Dot and the Green Pea is a short series that touches on re-examining our convictions about sustainability. </p>
+    <p><b class="has-text-indigo">Underwater Farms vs. Climate Change – Ayana Elizabeth Johnson and Megan Davis (5 min)</b><br>
+What does a sustainable way to farm seafood really look like? This video examines the aquaculture industry and the unintended problems it creates for the natural ocean ecosystems.</p>
 
-   <small>Source: Dot and the Green Pea | Episode 1: Green is the New Black - YouTube (2018, April 2). Ministry of Sustainability and the Environment. Retrieved 2021, October 22.</small>
+   <small>Source: Underwater farms vs Climate Change – Ayana Elizabeth Johnson and Megan Davis – YouTube (2019, June 13). TED-Ed. Retrieved 2022, January 11.</small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/VnXviCxC_Fs"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/z-Ng5ZvrDm4"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo"> Dear Earth (2 min)</b><br>
-How much thought have you given to how you can better relate to the earth and the natural environment you live in? Don’t hesitate and start thinking now!</p>
-
-    <small> Source: Dear Earth - YouTube (2019, April 20). Ministry of Sustainability and the Environment. Retrieved 2021, October 22.</small>
+<p><b class="has-text-indigo"> Dear Alice (2 min)</b><br>
+What will an optimistic vision of the future of farming look like? Dear Alice is an animated short about green agriculture told through a love letter from a grandmother to a granddaughter.</p>
+    <small>Source: Dear Alice – YouTube (2021, July 13). THE LINE. Retrieved 2021, January 11.</small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/yiw6_JakZFc"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/HEiMWxVEAxE"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> Can YOU Fix Climate Change? (15 min)</b><br>
-    Are you aware of the different interlinked issues behind our pursuit of sustainability? This video will challenge you to understand the bigger picture before considering what you can do to raise awareness and truly make a difference. </p>
-    <small>Source: Can YOU Fix Climate Change? - YouTube (2021, September 22). Kurzgesagt – In a Nutshell. Retrieved 2021, October 22.</small>
+    <p><b class="has-text-indigo">The Most Eco-Friendly Schools | Green Schools Around the World (6 min)</b><br>
+    From sustainable architecture to environmental education, these schools promote an understanding of how to be more eco-friendly. This video features the Green School in Bali, the Copenhagen International School and the Punahou School Hawaii.</p>
+    <small>	The Most Eco-Friendly Schools | Green Schools Around the World (6 min)
+ 
+From sustainable architecture to environmental education, these schools promote an understanding of how to be more eco-friendly. This video features the Green School in Bali, the Copenhagen International School and the Punahou School Hawaii.
+ 
+Source: The Most Eco-Friendly Schools | Green Schools Around the World – YouTube (2021, April 4). Going Green. Retrieved 2022, January 11.</small>
   </div>
 </div>
 <br>
 
 <h3 class="margin--bottom--lg" id="lp-gogreen"><b>Learning Packages</b></h3>
+Articles that show us interesting ways to live sustainably.
 
-**Part 1: Reconnect with Nature - Forest Bathing**<br>
-Known as shinrin-yoku, forest bathing does not actually involve any bathing. Instead, it is an opportunity for you to leave your tech behind, and spend some quiet time immersed in nature. Learn more about forest bathing and its benefits through this video below:
+<h5 class="margin--bottom--lg" id="lp-biodiversity"><b>Deep Dive Into Marine Biodiversity | Teen.Things</b></h5>
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/12CCjoixpkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+Learn how biodiversity is intimately related to our daily lives and how we can continue to care for the world around us <a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id2">here</a>!
 
-Source: [The Art and Science of Forest Bathing with Dr Qing Li, Penguin Books UK](https://www.youtube.com/watch?v=12CCjoixpkA&ab_channel=PenguinBooksUK){:target="_blank"}.
-
-Here are some simple steps to forest bathe in urban Singapore, so you can take a short breather from your hectic schedules and connect with the world around you:
-
-* Choose a park with some trees near your home. Remember to pack water and food, and inform your parents/guardian on your whereabouts before leaving home.
-* Immerse yourself in your surroundings as you wander around the park for at least 15 minutes.
-* Listen to the sounds around you, look at the shapes of the leaves on the trees, and feel the sensation of the ground beneath your feet.
-* If you are with someone, resist talking until the end of the walk.
-* Self-reflect after your walk. How did you feel? What did you experience?
-
-Adapted from "[5 Simple Steps to Practising Shinrin-Yoku (Forest Bathing).](https://growwilduk.com/blog/5-simple-steps-practising-shinrin-yoku-forest-bathing/){:target="_blank"}" Grow Wild UK.
-
-
-**Part 2: Reduce Your Carbon Footprint - Upcycle a T-shirt**<br>
-Have you ever thought about where most of your clothes come from? Where do these fast fashion pieces go after you are done with them? 
-
-Watch this TED-Ed video below to learn more about the life cycle of a T-shirt:
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/BiSYoeqb_VY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-Source: [The Life Cycle of a T-shirt by Angel Chang, TED-Ed](https://www.youtube.com/watch?v=BiSYoeqb_VY&ab_channel=TED-Ed){:target="_blank"}.
-
-Extend the life cycle of your clothes and upgrade your existing wardrobe by creatively upcycling them. Before you throw that old T-shirt away, think twice! Turn it into a functional tote bag in just a few simple steps. 
-
-You’ll need:
-* T-Shirt
-* Fabric Scissors
-* Embellishments/Decorative elements
-
-Try this out and tag us at @publiclibrarysg with #librarysg.
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zgpaM3u2zng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-Source: [DIY NO Sew T-Shirt Bag (SO Easy!!), WhatsUpMoms](https://www.youtube.com/watch?v=zgpaM3u2zng&ab_channel=WhatsUpMoms){:target="_blank"}
-
-**Useful terms**<br>
-<img src="/images/sustainability/teens/tt-g-fast-fashion.png" alt="Fast fashion refers to the trendy and inexpensive clothing that is manufactured and sold on a mass scale. This practice may be harmful to the environment at many stages." style="width: 70%;">
-
-Adapted from “[What Is Fast Fashion, Anyway?](https://www.todayonline.com/commentary/why-we-need-curb-wastefulness-fast-fashion.){:target="_blank"}” Today Online, 29 January 2019.
-
-<img src="/images/sustainability/teens/tt-g-upcycling.png" alt="Upcycling refers to the process of recycling something into a product of a higher value than the original item." style="width: 70%;">
-
-Adapted from: "[Upcycle.](https://www.merriam-webster.com/dictionary/upcycle){:target="_blank"}" Merriam-Webster.com Dictionary, Merriam-Webster.
-
-
-**Part 3: Stay Informed - Engage with Other Youths**<br>
-Want to further engage with the topics of environmental sustainability? The UNICEF organisation Voices of Youth is a global digital community of young people speaking up about and taking on climate change. Read opinion pieces and poems written by other young people from around the world [here](https://www.voicesofyouth.org/topic/environment){:target="_blank"}.
-
-<a href="https://www.voicesofyouth.org/topic/environment" target="_blank"><img src="/images/sustainability/teens/tt-g-voices.png" alt="Voices of Youth screengrab" style="width: 70%;"></a>
-<p style="text-align: center;"><sup>Image credit: Screengrab from the official site of <a href="https://www.voicesofyouth.org/topic/environment" target="_blank">Voices of Youth</a>.</sup></p>
-
-Source: [Voices of Youth](https://www.voicesofyouth.org/topic/environment){:target="_blank"}
-
-(All websites were last accessed on 18 December 2020.)
-
-
-##### **Be inspired!**
-Check out these related reads for more.
-
-<a href="https://nlb.overdrive.com/media/4116763" target="_blank"><img src="/images/sustainability/teens/TheJoyofForestBathing.jpg" alt="Joy of Forest Bathing cover" style="width: 40%;"></a><br>
-
-**The Joy of Forest Bathing: Reconnect with Wild Places & Rejuvenate Your Life**<br>
-By Melanie Choukas-Bradley, illustrated by Lieke van der Vorst<br>
-Publisher: Rock Point, 2018<br>
-This eBook is available on [OverDrive](https://nlb.overdrive.com/media/4116763){:target="_blank"}.
-
-A simple antidote to our nature-starved lives, The Joy of Forest Bathing is an enticing and comprehensive introduction to forest bathing–or Shinrin-yoku, in Japan–the meditative practice of connecting with nature and disconnecting from the distractions of daily life.
-
-Synopsis from [Quarto Knows](https://www.quartoknows.com){:target="_blank"}.
-
-
-<a href="https://nlb.overdrive.com/media/5155080" target="_blank"><img src="/images/sustainability/teens/WearRepairRepurpose.jpg" alt="Wear Repair Repurpose book cover" style="width: 40%;"></a><br>
-
-**Wear, Repair, Repurpose: A Maker’s Guide To Mending and Upcycling Clothes**<br>
-By Lily Fulop<br>
-Publisher: Countryman Press, 2020<br>
-This eBook is available on [OverDrive](https://nlb.overdrive.com/media/5155080){:target="_blank"}.
-
-Repair your favorite socks with style, add flair with personalized patches, and turn ripped jeans into an embroidered masterpiece. For beginner and experienced makers, Lily Fulop's guide to mending and upcycling is your colorful companion to ditching fast fashion and extending the lifecycle of all your favorite clothes. Say hello to sustainable inspiration.
-
-Synopsis from [W. W. Norton](https://www.wwnorton.co.uk/){:target="_blank"}.
-
-
-<a href="https://nlb.overdrive.com/media/2397149" target="_blank"><img src="/images/sustainability/teens/TheBeastofCretacea.jpg" alt="The Beast of Cretacea book cover" style="width: 40%;"></a><br>
-
-**The Beast of Cretacea**<br>
-By Todd Strasser<br>
-Publisher: Candlewick, 2015<br>
-This eBook is available on [OverDrive](https://nlb.overdrive.com/media/2397149){:target="_blank"}.
-
-Master storyteller Todd Strasser reimagines the classic tale of Moby Dick as set in the future - and takes readers on an epic sci-fi adventure.
-When seventeen-year-old Ishmael wakes up from stasis aboard the Pequod, he is amazed by how different this planet is from the dirty, dying, Shroud-covered Earth he left behind. But Ishmael isn’t on Cretacea to marvel at the fresh air, sunshine, and endless blue ocean. He’s here to work, risking his life to hunt down great ocean-dwelling beasts to harvest and send back to the resource-depleted Earth.
-
-Synopsis from [Candlewick](https://candlewick.com){:target="_blank"}. 
-
-
-The book covers and synopses are the copyright of the respective publishing companies.
 
 
 
