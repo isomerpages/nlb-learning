@@ -70,6 +70,7 @@ Taking care of the environment starts with YOU!
     </tbody>
   </table>
 </div>
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
