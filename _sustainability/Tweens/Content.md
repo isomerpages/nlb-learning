@@ -114,6 +114,6 @@ How does the Earth stay warm enough for us to live in? Check out this video by N
 Articles that show us interesting ways to live sustainably.
 
 <h5 class="margin--bottom--lg" id="lp-endangered"><b>Kids vs Plastic: Tips for Plastic-Free Snacking | National Geographic Kids</b></h5>
-Feeling peckish? <a target="_blank" href="https://www.nationalgeographic.com/pdf/kids/photos/articles/Nature/H-P/KidsVsPlastic/plastic-free-party.PDF">Take a bite on the green side!</a>!
+Feeling peckish? <a target="_blank" href="https://www.nationalgeographic.com/pdf/kids/photos/articles/Nature/H-P/KidsVsPlastic/plastic-free-party.pdf">Take a bite on the green side!</a>!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
