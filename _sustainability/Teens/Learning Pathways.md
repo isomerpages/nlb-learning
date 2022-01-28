@@ -43,8 +43,8 @@ Be informed and make an impact to the environment.
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things" target="_blank"><b> Learning Package<br>Think Green, Go Green!</b></a></td>
-        <td> Be inspired by this Teen.Things article on environmental mindfulness and green habits, accompanied by videos and recommended reads.</td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id2" target="_blank"><b> Learning Package<br>Deep Dive Into Marine Biodiversity</b></a></td>
+        <td>Learn how biodiversity is intimately related to our daily lives and how we can continue to care for the world around us.</td>
         <td></td>
         <td></td>
       </tr>
