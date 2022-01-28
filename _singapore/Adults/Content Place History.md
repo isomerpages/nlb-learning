@@ -115,7 +115,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 
 Curiocity leverages story maps, or place-based digital storytelling, to provide users an interactive and immersive way to uncover and rediscover the history of Singapore through a curated selection of heritage materials from the collections of the National Library (NL) and the National Archives of Singapore (NAS). 
 
-
+![Alt text for image on Isomer site](/images/singapore/singapore/curiocity.jpg)
 
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-green-econ" class="margin--bottom--lg"><b>The Many Names of Singapore </b></h5>
