@@ -61,10 +61,12 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/what-is-the-environmental-cost-of-building-your-wardrobe-wwf-explains-registration-202049925767?aff=ebdssbdestsearch" target="_blank"><b> WWF Explains: City in Nature</b></a></td>
-      <td style="width: 40%;">Join environmental conservationists as they evaluate the concept of City in Nature, how far we have come, and how much there is to go.</td>
-        <td style="width: 20%;">24 Feb 2022,<br>7pm – 8.30pm</td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/green-market-the-conscious-consumer-registration-220385588227?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>CCKPL: Green Market</b></a></td>
+      <td style="width: 40%;">The Green Market is a bi-annual event celebrating sustainable living as a community and connects us with green groups and initiatives that you can support.<br>
+<br>
+From 19 to 20 Mar 2022, Green Market: The Conscious Consumer offers over 8 interactive events and activities that you can access online and onsite at Choa Chu Kang Public Library.</td>
+        <td style="width: 20%;">19-20 Mar 2022<br></td>
+        <td style="width: 20%;">Choa Chu Kang Public Library & Zoom</td>
       </tr>
     </tbody>
   </table>
@@ -79,9 +81,15 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/discover-discord-workshop-digilit-teens-takeover-registration-223173837957?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>[Teens Takeover | digi.lit] Discover Discord Workshop</b></a></td>
-        <td style="width: 40%;">Learn how to use Discord to connect with global communities, join interest-based servers, and pick up tips to start your own server!</td>
-        <td style="width: 20%;">15 Jan 2021,<br>2pm - 3.30pm</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/cckpl" target="_blank"><b>CCKPL: Unplugged</b></a></td>
+        <td style="width: 40%;">Want to take a break and unwind over some tabletop games? During Unplugged, set aside your digital devices, and be introduced to a variety of games for you to kick back and have a good time!</td>
+        <td style="width: 20%;">4 Mar 2022<br>&<br>18 Mar 2022,<br><br>3-5pm</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library</td>
+      </tr>
+			<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/discover-discord-workshop-digilit-teens-takeover-registration-223173837957?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>Fusion 360 for Beginners</b></a></td>
+        <td style="width: 40%;">Join 8059 Blank as they conduct an online hands-on workshop aimed at introducing children and teenagers to the basic concepts of computer-aided 3D design.<br><br>Participants will be required to download free trial softwares for the workshop.</td>
+        <td style="width: 20%;">12 Mar 2022,<br>10am-12pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 			      <tr>
