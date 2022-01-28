@@ -46,7 +46,7 @@ Use these resources to introduce your child to sustainability and caring for the
 
 Check out our **playlist** for a collection of short videos/podcasts for tips on recycling. 
 
-Check out our **learning package** for insights into endangered species.
+Check out our **learning package** for tips on plastic-free snacking.
 
 
 <div class="row is-multiline">
@@ -60,7 +60,7 @@ Check out our **learning package** for insights into endangered species.
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
       <a href="#lp-endangered">
-        <span>Learning Package: Endangered Species</span>
+        <span>Learning Package: Snack Plastic-Free</span>
       </a>
     </div>
   </div>
