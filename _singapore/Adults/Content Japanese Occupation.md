@@ -71,7 +71,6 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 </div>
 </div>	
-</div>	
 <h5 class="margin--bottom--lg" id="japanese-rule"><b>Playlist: Japanese Occupation - Under the rule of the Japanese and </b></h5>
 
 Singapore used to be the British stronghold and nicknamed the "Gibraltar of the East". It was captured by the Japanese after fierce fighting that lasted between 8-15 February 1942.
