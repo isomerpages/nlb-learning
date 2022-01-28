@@ -72,47 +72,45 @@ Check out our **learning package** for insights into endangered species.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/2gt-czT-YaU"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/xx36XIu2hNA"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> School Holiday Specials with Librarians: Reuse and Recycle (12 min) </b><br>
-Join librarians, Jodi and Shi Cheng, as they share about the need to recycle, and learn a fun activity on how to reuse an item instead, if you can’t recycle. </p>
-   <small>Source: School Holiday Specials with Librarians: Reuse and Recycle - Facebook (2021, June 25). Public Libraries Singapore. Retrieved 2021, October 22.</small>
+    <p><b class="has-text-indigo">Getting Grandma To Go Zero-Waste and Plastic-Free (6 min)</b><br>
+How do we convince our grandparents to pick up recycling habits? Follow Emma and her grandma, Mildred, as they embark on a 7-day zero-waste challenge.</p>
+   <small>Source: Getting Grandma To Go Zero-Waste And Plastic-Free | On The Red Dot | CNA Insider – YouTube (2018, July 7). CNA Insider. Retrieved 2022, January 11.</small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/pDQMzJoNcS0"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/VUUUxOl715s"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo"> Workshop: Upcycled newspaper bowl (By Green Sproutz Singapore) (6 min)</b><br>
-Did you know you can convert newspaper into decorative containers and bowls? Here’s how you can turn old unused items into something valuable. </p>
-
-    <small> Source: Workshop: Upcycled newspaper bowl (By Green Sproutz Singapore) - YouTube (2020, November 29). GREEN SPROUTZ SINGAPORE. Retrieved 2021, October 22. </small>
+<p><b class="has-text-indigo">How Plastic Hurts the World (5 min)</b><br>
+Why are we so concerned about recycling plastic? Learn more about plastic and its effect on the world with Jessi from SciShow Kids.</p>
+    <small>Source: How Plastic Hurts the World – YouTube (2018, May 2). SciShow Kids. Retrieved 2022, January 11.</small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7dT6-mWYMnk"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/SN5-DnOHQmE"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> Recycling Right - In 30 Seconds (1 min)</b><br>
-#TowardsZeroWaste ambassador, Ms Denise Keller, presents a quick outline of what can be recycled and what steps to take when recycling. </p>
-
-    <small>Source: Recycling Right - In 30 Seconds - YouTube (2019, February 20). Ministry of Sustainability and the Environment. Retrieved 2021, October 22.</small>
+    <p><b class="has-text-indigo">What Is The Greenhouse Effect? (3 min)</b><br>
+How does the Earth stay warm enough for us to live in? Check out this video by National Aeronautics and Space Administration (NASA), where the phenomenon known as the “greenhouse effect” is explained.</p>
+    <small>Source: What Is The Greenhouse Effect? – YouTube (2020, June 12). NASA Space Place. Retrieved 2022, January 11.</small>
   </div>
 </div>
 <br>
 
 
-<h3><b>Learning Package</b></h3>
+<h3><b>Learning Packages</b></h3>
 Articles that show us interesting ways to live sustainably.
 
 <h5 class="margin--bottom--lg" id="lp-endangered"><b>Kids vs Plastic: Tips for Plastic-Free Snacking | National Geographic Kids</b></h5>
