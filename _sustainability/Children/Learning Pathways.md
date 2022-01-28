@@ -61,10 +61,15 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://www.eventbrite.sg/e/cckpl-tinkerworks-saving-planet-earth-earth-heroes-registration-221849446667?aff=erelexpmlt" target="_blank"><b>CCKPL: TinkerWorks - Saving Planet Earth | Earth Heroes</b></a></td>
-        <td>Get inspired to save planet Earth by engaging in a book discussion and tinkering activity!</td>
-        <td>22 Jan 2022, <br> 1pm-1.45pm</td>
-        <td>Choa Chu Kang Public Library </td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/cckpl" target="_blank"><b>CCKPL: Urban Farming Hydroponics Workshop</b></a></td>
+        <td style="width: 40%;">Join VertiVegies as they take you on a journey into the dynamic world of modern agriculture.</td>
+        <td style="width: 20%;">11 Mar 2022, <br>3.30-5.30pm</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library </td>
+			</tr>      <tr>
+                <td style="width: 20%;"><a href="https://go.gov.sg/cckpl" target="_blank"><b>CCKPL: Youth Corp</b></a></td>
+        <td style="width: 40%;">Come learn about conservation and climate change through a trash to treasure workshop.</td>
+        <td style="width: 20%;">12 Mar 2022, <br> 11am-12.30pm</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library </td>
 			</tr>
     </tbody>
   </table>
@@ -83,6 +88,36 @@ Go green with your child to build an eco-friendly future together.
         <td style="width: 40%;"> A bug-themed collectible card game reading promotion targeted at children to encourage reading in both English and Mother Tongue Languages.</td>
         <td style="width: 20%;">Jan-Sep 2022</td>
         <td style="width: 20%;"></td>
+      </tr>
+			<tr>
+        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>MiniYOGI</b></a></td>
+        <td style="width: 40%;">Have a fun and relaxing morning with your little ones through the story of Yoga. Breathe, stretch and do some yoga poses with the beautiful MiniYOGI cards.</td>
+        <td style="width: 20%;">14 Mar 2022, <br>11-11.45am</td>
+        <td style="width: 20%;">Zoom</td>
+      </tr>
+			<tr>
+        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>My Art Buddy</b></a></td>
+        <td style="width: 40%;">Use your creativity to make engineered works of art.</td>
+        <td style="width: 20%;">16 Mar 2022, 10-12.30pm</td>
+        <td style="width: 20%;">Bishan Public Library</td>
+      </tr>
+			<tr>
+        <td style="width: 20%;"></td>
+        <td style="width: 40%;"></td>
+        <td style="width: 20%;">17 Mar 2022, 10am-1pm</td>
+        <td style="width: 20%;">Toa Payoh Public Library</td>
+      </tr>
+			<tr>
+        <td style="width: 20%;"></td>
+        <td style="width: 40%;"></td>
+        <td style="width: 20%;">18 Mar 2022, 10am-12pm</td>
+        <td style="width: 20%;">Toa Payoh Public Library</td>
+      </tr>
+			<tr>
+        <td style="width: 20%;"></td>
+        <td style="width: 40%;"></td>
+        <td style="width: 20%;">17 Mar 2022, 1pm-3pm</td>
+        <td style="width: 20%;">Toa Payoh Public Library</td>
       </tr>
      </tbody>
   </table>
