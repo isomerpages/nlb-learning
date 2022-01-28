@@ -125,7 +125,7 @@ Articles that show us interesting ways to live sustainably.
 
 <h5 class="margin--bottom--lg" id="lp-biodiversity"><b>Deep Dive Into Marine Biodiversity | Teen.Things</b></h5>
 
-Learn how biodiversity is intimately related to our daily lives and how we can continue to care for the world around us [here](https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id2)!
+Learn how biodiversity is intimately related to our daily lives and how we can continue to care for the world around us <a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id2">here</a>!
 
 
 
