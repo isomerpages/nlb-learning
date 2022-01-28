@@ -91,7 +91,7 @@ Taking care of the environment starts with YOU!
         <td style="width: 20%;">19 Mar 2022,<br>11am-12pm</td>
         <td style="width: 20%;">library@harbourfront</td>
       </tr>
-    </tbody>
+   </tbody>
   </table>
 </div>
 
