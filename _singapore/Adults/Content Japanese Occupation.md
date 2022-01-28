@@ -109,6 +109,8 @@ Civilians started preparations for defence while the Japanese began their invasi
 </div>
 </div>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
 <h5 class="margin--bottom--lg" id="japanese-rule">
 	<b>Playlist: Japanese Occupation - Under the Japanese Rule and Memories of War</b></h5>
 
@@ -178,6 +180,8 @@ Professor Kevin Blackburn discusses the comfort women of Singapore from memories
 </div>
 </div>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
 <h5 class="margin--bottom--lg" id="japanese-liberation"><b>Playlist: Japanese Occupation - Liberation and Aftermath of War</b></h5>
 
 Japanese surrender ceremony on 12 September 1945 at City Hall (then known as Municipal Building of Singapore) marked the end of Japanese Occupation in Southeast Asia. Singapore embarked on a road of recovery from the war.
@@ -215,6 +219,7 @@ Recounts the Civilian War Memorial project, a monument dedicated to civilians wh
 </div>
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-japanese-occupation" class="margin--bottom--lg"><b> Japanese Occupation: Gibraltar of the East </b></h5>
@@ -263,3 +268,5 @@ Ong, Chit Chung. (2013). <i> Operation Matador: World War II: Britain's attempt 
 </p><p><a href="https://nlb.overdrive.com/media/1239958"
 target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</ul>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
