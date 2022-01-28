@@ -44,8 +44,8 @@ Taking care of the environment starts with YOU!
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/EndangeredSpecies_Preview_FA.PDF" target="_blank"><b> Learning Package<br>Endangered Species</b></a></td>
-        <td> Try your hand at this Tinker Sheet on endangered animal species and common threats to wildlife, complete with related activities and recommended reads!</td>
+        <td><a href="https://www.nationalgeographic.com/pdf/kids/photos/articles/Nature/H-P/KidsVsPlastic/plastic-free-party.PDF" target="_blank"><b> Learning Package<br>Kids vs Plastic: Tips for Plastic-Free Snacking | National Geographic Kids</b></a></td>
+        <td>Feeling peckish? Take a bite on the green side!</td>
         <td></td>
         <td> </td>
       </tr>
@@ -62,9 +62,10 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><b>TinkerWorks | Sustainability</b></td>
-        <td style="width: 40%;"> A series of tinkering sessions to learn and explore topics on sustainability through a variety of hands-on and experiential learning activities.<br>Stay tuned for more updates!</td>
-				 <td></td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>TinkerWorks: Explore Nature</b></a></td>
+        <td style="width: 40%;">Get inspired to learn more about the environment around us through a book discussion and tinkering activities in our libraries!<br><br>This programme is part of a series of sustainability themed events for tweens.</td>
+        <td style="width: 20%;">17 Mar 2022, <br>1-2.15pm</td>
+        <td style="width: 20%;">Queenstown Public Library</td>
 			</tr>
     </tbody>
   </table>
