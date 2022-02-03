@@ -113,10 +113,10 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td style="width: 20%;">Pasir Ris Public Library</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Think like a Coder Session 1- Amazing Algos: Think Like a Coder
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>The Amazing Body!
 </b></a></td>
-        <td>In this screen free coding workshop, children are introduced to algorithms and how they can make their own algorithm from day to day activities. </td>
-        <td>22 Jan 2022<br>2.00pm – 2.30pm</td>
+        <td>Let's learn to identify the various body parts and how they are important to us! </td>
+        <td>12 Mar 2022<br>2.00pm – 3.00pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
