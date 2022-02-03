@@ -69,9 +69,9 @@ Read with your child to explore new topics and discover new experience.
       </tr>
 <tr>
 <td><a href=" http://go.gov.sg/BookBugs " target="_blank"><b> Book Bugs: Rescuers of Stories Lost</b></a></td>
-        <td>A bug-themed collectible card game reading promotion targeted at children to encourage reading in both English and Mother Tongue Languages.</td>
-        <td>Jan to Sept 2022</td>
-        <td>Ang Mo Kio Public Library</td>
+        <td>A bug-themed collectible card game reading promotion targeted at children to encourage reading in both English and Mother Tongue Languages. Visit go.gov.sg/bookbugs for updates.</td>
+        <td>Mar to Dec 2022</td>
+        <td> </td>
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.sg/e/thinker-play-unscramble-the-word-sustainability-time-of-your-life-tickets-217851408427?aff=ebdssbonlinesearch" target="_blank"><b>TinkerWorks – Transform Me | Tweenkerama | Reading</b></a></td>
