@@ -106,11 +106,11 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Travelling with Bee Bot! 
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Little Bits Creation 
 </b></a></td>
-        <td style="width: 40%;">Join Bee-Bot on an adventure around Singapore! Visit sites such as Esplanade and the Merlion, all while learning computational thinking!</td>
-        <td style="width: 20%;">12 Mar 2022<br>11.00am - 12.00pm</td>
-        <td style="width: 20%;">Bedok Public Library</td>
+        <td style="width: 40%;">Have fun learning with littleBits in this creative hands-on workshop!</td>
+        <td style="width: 20%;">20 Mar 2022<br>2.00pm - 3.00pm</td>
+        <td style="width: 20%;">Pasir Ris Public Library</td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Think like a Coder Session 1- Amazing Algos: Think Like a Coder
