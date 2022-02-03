@@ -75,9 +75,9 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/tsr-progs" target="_blank"><b> Toddler Songs & Rhymes [Theme: Numbers & Counting] </b></a></td>
-        <td style="width: 40%;"> Learn all about numeracy through this fun session of Toddler Songs & Rhymes with our librarians! </td>
-        <td style="width: 20%;">18 Jan 2022<br>4.00pm – 4.20pm</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/tsr-progs" target="_blank"><b> Baby Songs & Rhymes </b></a></td>
+        <td style="width: 40%;"> Join other parents with young children and support your child's early development through an enjoyable virtual session with songs and rhymes.</td>
+        <td style="width: 20%;">5 Mar 2022<br>11.00am – 11.20am</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
