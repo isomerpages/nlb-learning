@@ -111,11 +111,7 @@ What will an optimistic vision of the future of farming look like? Dear Alice is
   <div class="col is-three-fifths">
     <p><b class="has-text-indigo">The Most Eco-Friendly Schools | Green Schools Around the World (6 min)</b><br>
     From sustainable architecture to environmental education, these schools promote an understanding of how to be more eco-friendly. This video features the Green School in Bali, the Copenhagen International School and the Punahou School Hawaii.</p>
-    <small>	The Most Eco-Friendly Schools | Green Schools Around the World (6 min)
- 
-From sustainable architecture to environmental education, these schools promote an understanding of how to be more eco-friendly. This video features the Green School in Bali, the Copenhagen International School and the Punahou School Hawaii.
- 
-Source: The Most Eco-Friendly Schools | Green Schools Around the World – YouTube (2021, April 4). Going Green. Retrieved 2022, January 11.</small>
+    <small>Source: The Most Eco-Friendly Schools | Green Schools Around the World – YouTube (2021, April 4). Going Green. Retrieved 2022, January 11.</small>
   </div>
 </div>
 <br>
