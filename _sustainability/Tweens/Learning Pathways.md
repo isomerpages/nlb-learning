@@ -44,7 +44,7 @@ Taking care of the environment starts with YOU!
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="https://www.nationalgeographic.com/pdf/kids/photos/articles/Nature/H-P/KidsVsPlastic/plastic-free-party.PDF" target="_blank"><b> Learning Package<br>Kids vs Plastic: Tips for Plastic-Free Snacking | National Geographic Kids</b></a></td>
+        <td><a href="https://www.nationalgeographic.com/pdf/kids/photos/articles/Nature/H-P/KidsVsPlastic/plastic-free-party.pdf" target="_blank"><b> Learning Package<br>Kids vs Plastic: Tips for Plastic-Free Snacking | National Geographic Kids</b></a></td>
         <td>Feeling peckish? Take a bite on the green side!</td>
         <td></td>
         <td></td>
