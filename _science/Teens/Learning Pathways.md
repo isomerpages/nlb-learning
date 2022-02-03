@@ -66,13 +66,13 @@ Immerse yourself in the possibilities of science!
         <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.
 Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
 </td>
-        <td style="width: 40%;"> Jan’22 – Feb’22</td>
+        <td style="width: 40%;"> Feb’22 – Mar’22</td>
         <td> </td>
       </tr>
 <tr>
 <td><a href="http://go.gov.sg/get-professional-series" target="_blank"><b> [Get Professional series] Interview Skills</b></a></td>
         <td> Be equipped with the skills to perform well at job interviews.</td>
-        <td>7, 17 Jan and 4 Feb 2022, <br>7pm – 9pm </td>
+        <td>4 Feb 2022, <br>7pm – 9pm </td>
         <td>Zoom</td>
       </tr>
 <tr>
