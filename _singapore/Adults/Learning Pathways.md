@@ -60,7 +60,7 @@ There are many stories to our places and spaces in Singapore. Through this pathw
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/adults/content-place-history"><b>Place History Playlist</b></a></td>
+        <td><a href="/singapore/adults/content-place-history"><b>Place History Playlist</b></a></td>
         <td>Be curious about our place history. Learn it the easy way with Curiocity</td>
         <td></td>
         <td> </td>
