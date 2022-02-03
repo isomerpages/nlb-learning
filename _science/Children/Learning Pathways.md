@@ -44,7 +44,7 @@ Spark your child’s curiosity in science literacy through engaging programmes!
         <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. <br><br>
 Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
 </td>
-        <td style="width: 20%;"> Jan’22 – Feb’22</td>
+        <td style="width: 20%;"> Feb’22 – Mar’22</td>
 				<td></td>
       </tr>
 <tr>
@@ -62,12 +62,6 @@ Stay tuned for more updates.</td>
 	<td></td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/code-with-your-child-libraryharbourfront-registration-208429537357?aff=ebdsoporgprofile"><b> Code With Your Child!</b></a></td>
-        <td> Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. <br><br>Through hands-on coding gameplays, kids can learn coding concepts without a screen or keyboard and develop problem solving skills, critical thinking, creativity and collaboration. </td>
-        <td>15 Jan 2022, <br>2:30pm – 4pm<br><br>
-29 Jan 2022, <br>2:30pm – 4pm </td>
-        <td>Bishan Public Library<br><br>Toa Payoh Public Library</td>
-      </tr>
 <tr>
 <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primar
 
