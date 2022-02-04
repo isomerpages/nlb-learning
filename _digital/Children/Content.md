@@ -62,18 +62,53 @@ Check out our learning package for more insights into digital concepts.
 			<br>Learn more about the different ways technology can be used in your everyday life. Become even more digitally savvy through our curated resources for you below.
     </div>
   </div>
-
-	
-
-
-
-
-
 <p>
 Check out our learning package for more insights into digital concepts.
+<h5 id="green-economy" class="margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/zCRKvDyyHmI" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Explaining the Circular Economy: Rethink Progress</b><br>
+    A key principle of the green economy is circulatory, which is about keeping products and materials in continued use. This video explains how circulatory works and highlights how it can be implemented. 
+<small>Source: Explaining the Circular Economy: Rethink Progress (2011, August 29). Ted. Retrieved 2021, October 16.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/XmN_DpN9CNs" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b> Working Together to Grow a Green Economy</b><br>
+    Another principle of the green economy is collaboration. This video showcases ways of working together by highlighting initiatives from Ethiopia. <br><br>
+<small>Source: Working Together to Grow a Green Economy (2016, November 9). World Bank. Retrieved 2021, October 13.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/A3jb2k93tZM" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Forests: The Heart of the Green Economy</b><br>
+    Nature and the economy are interconnected with protection of nature vital to enable the transition to a green economy. <br><br>
+<small>Source: Forests: The Heart of the Green Economy (2013, June 18). UN Enrichment Programme. Retrieved 2021, October 12.</small></p>
+  </div>
+</div>
 <h3><b>LEARNING PACKAGE</b></h3>
 Spark your child’s curiosity in digital literacy through engaging activities and articles.
 <table style="border-collapse: collapse; width: 35%;" border="1"><tbody><tr><td width="150" height="150"><img src="/images/digital/children/SCWYC.jpg"></td></tr></tbody></table>
-<p><strong>Stay Curious with Your Child: Make a Stop Motion Masterpiece!</strong></p>
-<p>With mobile phone camera technology becoming increasingly robust, why not take advantage of our digital devices to bring the family together. Learn how to film a simple short motion video with your child using their favourite toys as subjects!</p>
-<p><br />Source:<a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child">https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child</a> (,). <em>National Library Board</em>. Retrieved 2022, January 26</p>
+<p><b>Say Curious with Your Child: Make a Stop Motion Masterpiece!</b></p>
+With mobile phone camera technology becoming increasingly robust, why not take advantage of our digital devices to bring the family together. Learn how to film a simple short motion video with your child using their favourite toys as subjects!
+	
+<small>Source:Source:  https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child (,). National Library Board. Retrieved 2022, January 26</small>
