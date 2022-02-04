@@ -82,7 +82,7 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/cswo_6kj0Ug"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/142TGhaTMtI"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -95,13 +95,13 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/kQzLiygnSWY"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Ta6qq7wnpcA"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Lets Talk Cyber: How to be cyber safe? (16min)</b><br>
- Do you know how to be safe online? Navigate through the various threats found online with Cyber Sandra, as she discusses the interconnected nature of our devices, and how we can protect ourselves from these threats and keep our information safe.</p>
-    <small>Digital Defence: How to be cyber safe? - YouTube (2021, June 14). Cyber Security Agency of Singapore. Retrieved 2021, October 22.</small>
+    <p><b> Cyber Sandra's Hacks - Social Media Impersonation (1:35)</b><br>
+ <p>Can you tell a legit friend request apart from an impersonation scam? Keep yourself safe online by learning the tricks cyber criminals use to get your personal information. </p>
+    <small>Source: Cyber Sandra's Hacks - Social Media Impersonation (2021, June, 4). Cyber Security Agency of Singapore. Retrieved 2022, January 26.</small>
   </div>
 </div>
 
