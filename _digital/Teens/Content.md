@@ -67,7 +67,7 @@ Check out our **learning package** for free online graphic design resources.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/P2BzN1h1nkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <iframe class="responsive-iframe" src="https://www.youtube.com/embed/P2BzN1h1nkI"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -80,8 +80,9 @@ You wouldn't share your personal and financial information with everyone. So why
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/5ShTwrd-tDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <iframe class="responsive-iframe" src="https://www.youtube.com/embed/5ShTwrd-tDc"></iframe>
     </div>
+		</div>
   </div>
   <div class="col is-three-fifths">
 <p><b class="has-text-indigo">What is 5G And What Can It Do? | Karan Chahal | TEDxDesignTechHighSchool (10:24)</b><br>
@@ -93,11 +94,11 @@ Karan Chahal is a sophomore at Evergreen Valley High School with a strong passio
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/shSXIPbVhoE"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/ClPHcBjrz3c"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Digital Footprints (2:46)</b><br>
+    <p><b class="has-text-indigo">Cybersecurity: A Growing Sector with Good Jobs - Singapore Cybersecurity Education Symposium (39:19)</b><br>
     Ever stopped to think if you should really be posting that online? Watch this video to learn more about the digital footprints you leave behind with each online post, and why it matters now and even in the future.</p>
 <small>Source: Digital Footprints -Youtube (2019, Apr 17). <i>NgeeAnnPoly Library</i>. Retrieved 2021, October 22.</small>
   </div>
