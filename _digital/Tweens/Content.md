@@ -82,13 +82,13 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7ya1t51lIcQ"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/cswo_6kj0Ug"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Learn cyber tips from our very own Cyber Sandra! Episode 1: Strong Passwords (2min) </b><br>
-Learn how you can keep your online accounts more secure with Cyber Sandra, from the Cyber Security Agency of Singapore. Try out some of these fast and effective password security tips!</p>
-    <small>Source: Cyber Sandra's Hacks - Strong Passwords - YouTube (2021, May 7). Cyber Security Agency of Singapore. Retrieved 2021, October 22. </small>
+    <p><b>How QR codes were invented!” (1:30)</b><br>
+<p>Do you know how the QR code was invented? With them being everywhere now, find out how a Japanese engineer came up with the inspiration behind its invention. </p>
+    <small>How QR codes were invented! (2020, September 26). Government Technology Agency of Singapore. Retrieved 2022, January 26. </small>
   </div>
 </div>
 
