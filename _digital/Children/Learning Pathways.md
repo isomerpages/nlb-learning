@@ -89,5 +89,27 @@ Go digital with your child and discover a world of technology and innovation tog
       </tr>
     </thead>
   </table>
+<table style="border-collapse: collapse; width: 100%; height: 194px;" border="1">
+<tbody>
+<tr style="height: 166px;">
+<td style="width: 25%; height: 166px;"><a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama%20" target="_blank"><span style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="color: #000000;">S.T.E.A.M. Lab Mini</span></span></a></td>
+<td style="width: 25%; height: 166px;"><span style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="font-size: 12pt; font-family: Calibri;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.</span></span>  <span style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="font-size: 12pt; font-family: Calibri;">Follow Public Libraries Singapore&rsquo;s Facebook page (https://www.facebook.com/publiclibrarysg) to be notified when the videos go live.</span></span></td>
+<td style="width: 25%; height: 166px;">Mar&rsquo;22</td>
+<td style="width: 25%; height: 166px;">Online</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 25%; height: 18px;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank">MiniYOGI</a></td>
+<td style="width: 25%; height: 18px;">Have a fun and relaxing morning with your little ones through the story of Yoga. Breathe, stretch and do some yoga poses with the beautiful MiniYOGI cards.</td>
+<td style="width: 25%; height: 18px;">14 March 2022, 11:00-11:45am</td>
+<td style="width: 25%; height: 18px;">Zoom</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 25%; height: 10px;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank">CCKPL: Urban Farming Hydroponics Workshop </a></td>
+<td style="width: 25%; height: 10px;">Join VertiVegies as they take you on a journey into the dynamic world of modern agriculture.</td>
+<td style="width: 25%; height: 10px;">11 March 2022, 3:30-5:30pm</td>
+<td style="width: 25%; height: 10px;">Choa Chu Kang Public Library</td>
+</tr>
+</tbody>
+</table>	
 </div>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
