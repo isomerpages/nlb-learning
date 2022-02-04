@@ -83,9 +83,9 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
 <tr>
-<td style="width: 20%;"><a href="http://go.gov.sg/nlb-teensprogs”>
+<td style="width: 20%;"><a  target="_blank" href="http://go.gov.sg/nlb-teensprogs">
 	<b> Deep Sea Horror Workshop | scienti-f(x) | Teens Takeover </b></a></td>
-        <td style=" target="_blank"> Dive into the depths with experts from the Lee Kong Chian Natural History Museum to explore the uncharted waters of the deep sea.</a></td>
+        <td style="width: 40%;"> Dive into the depths with experts from the Lee Kong Chian Natural History Museum to explore the uncharted waters of the deep sea.</a></td>
         <td style="width: 20%;"> 5 Feb 2022,<br>2pm – 3.30pm</td>
         <td style="width: 20%;"> Zoom</td>
       </tr>
