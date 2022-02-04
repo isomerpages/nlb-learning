@@ -39,7 +39,7 @@ Discover and explore the ever-changing world of technology together with your ch
 <img height="30" width="30" src="/images/digital/Digital-Prog-Children-01b.png">
 <p>Children will learn coding concepts through hands-on gameplay and develop problem-solving skills, critical thinking, creativity and more.</p><p>Click <u>here</u> for the latest programme listings.</p>
 <ul><li><strong>S.T.E.A.M. LAB</strong></li></ul>
-<img height="30" width="30" src="images/digital/steamlab.jpg">
+<table style="border-collapse: collapse; width: 45%;" border="1"><tbody><tr><td width="150" height="150">&nbsp;<img src="images/digital/steamlab.jpg"></td></tr></tbody></table>
 <p>An annual event for children, tweens and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.</p>
 <p>Click <u>here</u> for the latest programme listings.</p>
 <p><strong><u>LEARNING PATHWAYS</u></strong></p>
@@ -92,5 +92,5 @@ Discover and explore the ever-changing world of technology together with your ch
 </table>
 <p>Check out our learning package for more insights into digital concepts.</p><ul><li><strong>LEARNING PACKAGE </strong><br>Spark your child’s curiosity in digital literacy through engaging activities and articles.</li></ul>
 <table style="border-collapse: collapse; width: 100%;" border="1"><tbody><tr>
-<table style="border-collapse: collapse; width: 45%;" border="1"><tbody><tr><td style=width="150" height="150">&nbsp;<img src="/images/digital/children/SCWYC.jpg"></td></tr></tbody></table>																	 
+<table style="border-collapse: collapse; width: 45%;" border="1"><tbody><tr><td width="150" height="150">&nbsp;<img src="/images/digital/children/SCWYC.jpg"></td></tr></tbody></table>																	 
 <p><strong>Stay Curious with Your Child: Make a Stop Motion Masterpiece!</strong></p><p>With mobile phone camera technology becoming increasingly robust, why not take advantage of our digital devices to bring the family together. Learn how to film a simple short motion video with your child using their favourite toys as subjects!</p><p><br>Source: &nbsp;<a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child">https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child</a> (,). <em>National Library Board</em>. Retrieved 2022, January 26</p>
