@@ -85,6 +85,15 @@ Check out these resources to help you navigate the digital world, from keeping y
         <td>17 March 2022,<br>10am - 1pm</td>
         <td>Toa Payoh Public Library</td>
       </tr>
+			<tr>
+        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>[Tweenkerama | Sustainability
+]<br>TinkerWorks: Explore Nature 
+</b></a></td>
+        <td>Get inspired to learn more about the environment around us through a book discussion and tinkering activities in our libraries!This programme is part of a series of sustainability themed events for tweens. 
+</td>
+        <td>17 March 2022,<br>1pm - 2:15pm</td>
+        <td>Queenstown Public Library</td>
+      </tr>
 		</tbody>
   </table>
 </div>
