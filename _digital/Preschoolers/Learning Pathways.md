@@ -112,13 +112,13 @@ In fact, they will soon realise computational thinking exists in all aspects of 
     </thead>
     <tbody>
 <tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Engineers: Blast Off with Magnetic Rockets!</b></a></td>
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>[Budding Engineers] Blast Off with Magnetic Rockets!</b></a></td>
         <td>Children will learn about how magnets work in this fun and exciting screen-free activity. </td>
         <td>26 Feb 2022<br>2.00pm - 3.00pm</td>
         <td>Zoom</td>
 			</tr>
 <tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists: Let’s Learn about Ocean and Marine Animals!</b></a></td>
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>[Budding Scientists] Let’s Learn about Ocean and Marine Animals!</b></a></td>
         <td>Descend through the ocean and discover about the mesmerising life that lies beneath.  In this activity, you and your child will be introduced to the wonders of the ocean and learn fun facts about marine animals!</td>
         <td>18 Mar 2022 <br>3.00pm – 4.00pm</td>
         <td>Zoom</td>
