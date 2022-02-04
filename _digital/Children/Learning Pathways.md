@@ -36,14 +36,17 @@ Go digital with your child and discover a world of technology and innovation tog
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/children/content" target="_blank"><b>Playlist: Safer Internet</b></a></td>
-        <td style="width: 40%;">Learn how to keep yourself safe online and become digitally savvy through these series of videos.</td>
+        <td style="width: 20%;"><a href="/digital/children/content" target="_blank"><b>Playlist :Wonders of Tech!</b></a></td>
+        <td style="width: 40%;">Learn more about the different ways technology can be used in your everyday life.
+</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b>Stay Curious with Your Child: Unplugged Coding Ideas for Kids</b></a></td>
-        <td>Basic elements which you can introduce during playtime to help them get comfortable with coding concepts without even using any digital devices!</td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b>Learning Package: Stay Curious With Your Child: Make a Stop Motion Masterpiece!
+</b></a></td>
+        <td>With mobile phone camera technology becoming increasingly robust, why not take advantage of our digital devices to bring the family together. Learn how to film a simple short motion video with your child using their favourite toys as subjects! 
+</td>
         <td> </td>
         <td> </td>
       </tr>
