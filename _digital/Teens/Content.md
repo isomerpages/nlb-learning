@@ -83,10 +83,8 @@ You wouldn't share your personal and financial information with everyone. So why
        <iframe class="responsive-iframe" src="https://www.youtube.com/embed/5ShTwrd-tDc"></iframe>
     </div>
 		</div>
-  </div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo">What is 5G And What Can It Do? | Karan Chahal | TEDxDesignTechHighSchool (10:24)</b><br>
-Karan Chahal is a sophomore at Evergreen Valley High School with a strong passion for business and technology. Learn more about 5G as he speaks about its emerging technology, as well as its powerful applications into today's society.</p>
+<p><b class="has-text-indigo">What is 5G And What Can It Do? | Karan Chahal | TEDxDesignTechHighSchool (10:24)</b><br>Karan Chahal is a sophomore at Evergreen Valley High School with a strong passion for business and technology. Learn more about 5G as he speaks about its emerging technology, as well as its powerful applications into today's society.</p>
     <small>Source: What is 5G And What Can It Do? | Karan Chahal | TEDxDesignTechHighSchool (2019, June 21). <i>TedX Talks.</i>. Retrieved 2022, January 26.</small>
   </div>
 </div>
