@@ -106,7 +106,17 @@ You wouldn't share your personal and financial information with everyone. So why
 <a name="lp-design">![MusicxTechnology header](images/digital/teens/tt_MusicxTech.png)</a>
 <h5 class="margin--bottom--lg" id="lp-graphic"><b>Music X Technology</b></h5>
 
-Check out these online resources to explore how the music industry consistently reinvents itself to keep up with the ever-evolving advances of technology.
+Technology permeates every part of the music industry. The advent of modern technology has completely transformed how we produce, perform, and even consume music today. 
+
+Check out these online resources to explore how the music industry consistently reinvents itself to keep up with the ever-evolving advances of technology. 
+
+**A Brief Music History**<br>
+"Survival of the fittest" also applies to music—it must reinvent itself with technology in order to match up to modern tastes and preferences.
+
+This video is a crash course on the history of the music industry and its relationship with technology, dating back to the 1870s when the phonograph record player was invented. 
+
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-bVketPj5to" height="315" width="560"></iframe></center>
+<p style="text-align: center;"><sup>Source: <a href="https://youtu.be/-bVketPj5to">From Phonographs to Spotify: A Brief History of the Music Industry, Wall Street Journal</a>.</sup></p>
 
 Source:  https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id5(https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id5) (,). National Library Board. Retrieved 2022, January 26.
 
