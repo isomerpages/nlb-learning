@@ -118,7 +118,7 @@ This video is a crash course on the history of the music industry and its relati
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-bVketPj5to" height="315" width="560"></iframe></center>
 <p style="text-align: center;"><sup>Source: <a href="https://youtu.be/-bVketPj5to">From Phonographs to Spotify: A Brief History of the Music Industry, Wall Street Journal</a>.</sup></p>
 
-Source:  https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id5(https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id5) (,). National Library Board. Retrieved 2022, January 26.
+Source:  [https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id5](https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id5) (,). National Library Board. Retrieved 2022, January 26.
 
 
 
