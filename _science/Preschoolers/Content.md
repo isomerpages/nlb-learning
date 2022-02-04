@@ -126,7 +126,8 @@ Explore our learning packages for useful tips on selecting age-appropriate books
 
 <h4 id="lp-ocean"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-engineers#lp-magneticrockets"><b>We're Engineers! Blast Off with  Magnetic Rockets (for 4-6 years old)</b></a></h4>
 <p>“Shoot for the moon. Even if you miss, you’ll land among the stars.” <br>
-Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children.
+Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children. <br>
+	*STEAM - Science, Technology, Engineering, Arts and Mathematics
 </p>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
