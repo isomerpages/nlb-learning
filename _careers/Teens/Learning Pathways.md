@@ -68,7 +68,7 @@ Clueless about which career is suitable for you? Discover and explore various ca
       <tr>
         <td style="width: 20%;"><a target="_blank" href="http://go.gov.sg/get-professional-series"><b>[Get Professional series] Interview Skills</b></a></td>
         <td style="width: 40%;">Get equipped with the skills required to ace job interviews and leave a lasting impression on your interviewer.</td>
-        <td style="width: 20%;">Jan 17 2022, 7pm - 9pm<br>Feb 4 2022, 7pm - 9pm</td>
+        <td style="width: 20%;">4 Feb 2022,<br>7pm - 9pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
     </tbody>
@@ -83,16 +83,17 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
 <tr>
-<td target="_blank" style="width: 20%;><a href="><b> Discover Discord Workshop | digi.lit | Teens Takeover</b></td>
-        <td style="width: 40%;"> Learn how to use Discord to connect with global communities, join interest-based servers, and pick up tips to start your own server!</td>
-        <td style="width: 20%;"> 15 Jan 2022,<br>2pm – 3.30pm</td>
+<td style="width: 20%;"><a  target="_blank" href="http://go.gov.sg/nlb-teensprogs">
+	<b> Deep Sea Horror Workshop | scienti-f(x) | Teens Takeover </b></a></td>
+        <td style="width: 40%;"> Dive into the depths with experts from the Lee Kong Chian Natural History Museum to explore the uncharted waters of the deep sea.</a></td>
+        <td style="width: 20%;"> 5 Feb 2022,<br>2pm – 3.30pm</td>
         <td style="width: 20%;"> Zoom</td>
       </tr>
       <tr>
-        <td><a target="_blank" href="https://www.eventbrite.sg/e/cckpl-tweenkerama-urban-farming-workshop-sustainability-registration-200716306877?aff=ebdsoporgprofile"><b> CCKPL: Tweenkerama - Urban Farming Workshop | Sustainability</b></a></td>
-        <td> Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. For children and teens aged 10-13. </td>
-        <td> 24 Jan 2022,<br>4pm – 5pm</td>
-        <td> Choa Chu Kang Public Library</td>
+        <td><a target="_blank" href="http://go.gov.sg/nlb-teensprogs"><b> Build a LEGO Factory Workshop | scienti-f(x) | Teens Takeover </b></a></td>
+        <td> Experience building your own automated robotics – using LEGO! In this workshop, you will be introduced to factory manufacturing concepts through hands-on building, coding, and experimentation with LEGO SpikePrime.</td>
+        <td> 18 Mar 2022,<br>3pm – 6pm</td>
+        <td> Jurong Regional Library</td>
       </tr>
     </tbody>
   </table>

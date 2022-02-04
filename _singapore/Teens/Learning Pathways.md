@@ -40,7 +40,7 @@ third_nav_title: Teens
 
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-Begin with Place history Singapore and Japanese Occupation. </a>
+Begin with Place history Singapore and Japanese Occupation. 
 
 <h3><b>Place history Singapore</b></h3>
 There are many stories to our places and spaces in Singapore. Through this pathway you can explore different resources to discover the history behind places in Singapore. 
@@ -54,13 +54,13 @@ There are many stories to our places and spaces in Singapore. Through this pathw
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://learning.nlb.gov.sg/singapore/teens/content" target="_blank"><b>Place History Learning Package</b></a></td>
+        <td style="width: 20%;"><a href="/singapore/teens/content" target="_blank"><b>Place History Learning Package</b></a></td>
         <td style="width: 40%;">Here are some great resources to start with.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://learning.nlb.gov.sg/singapore/teens/content" target="_blank"><b>Place History Playlist</b></a></td>
+        <td><a href="/singapore/teens/content" target="_blank"><b>Place History Playlist</b></a></td>
         <td>Be curious about our place history. Learn it the easy way with Curiocity</td>
         <td></td>
         <td> </td>

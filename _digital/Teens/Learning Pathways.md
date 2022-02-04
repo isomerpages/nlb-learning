@@ -24,7 +24,7 @@ third_nav_title: Teens
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
-Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
+Think of learning pathways as appetizers. <br>Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3><b>#Tech4U</b></h3>
 Immerse yourself in the possibilities of digital and tech!
@@ -37,30 +37,69 @@ Immerse yourself in the possibilities of digital and tech!
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/teens/content"><b>Playlist: Stay safe, Stay informed</b></a></td>
-        <td style="width: 40%;"><b>Stay safe, Stay informed</b><br>
-Check out these resources that highlight tips on keeping your online information protected, while exploring new digital advancements and opportunities. </td>
+        <td style="width: 20%;"><a href="/digital/teens/content"><b>Playlist: CyberSecurity and Emerging Tech!</b></a></td>
+        <td style="width: 40%;"><b>CyberSecurity and Emerging Tech!</b><br>
+Check out these resources that highlight new digital advancements and opportunities and learn tips on being cyber safe.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="/digital/teens/content"><b> Teen.Things: Graphic Design is My Passion </b></a></td>
-        <td> Need something more than MS Paint for your projects? Here’s a list of five free and easy-to-use online resources for you to experiment with graphic design and web-page building. </td>
+        <td><a href="/digital/teens/content"><b> Teen.Things: Music X Technology </b></a></td>
+        <td> Check out these online resources to explore how the music industry consistently reinvents itself to keep up with the ever-evolving advances of technology. </td>
         <td></td>
         <td></td>
       </tr>
     </tbody>
   </table>
 </div>
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Explore Experiences</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
       </tr>
-		</thead>	
+    </thead>
+    <tbody>
+      <tr>
+			<td style="width: 20%;"><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>CCKPL: Unplugged</b></a></td>
+        <td style="width: 40%;">Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!
+</td>
+        <td style="width: 20%;">1st & 3rd Fridays, <br>3pm - 5pm
+				</td>
+				 <td style="width: 20%;">Choa Chu Kang Public Library</td></tr>
+			<tr>
+			<td style="width: 20%;"><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>Medical Myths Debunked Workshop</b></a></td>
+        <td style="width: 40%;">Drama, tears, and high stress medical emergencies. These are daily occurrences in a hospital – or are they?
+					<br><br>Featuring a professional nurse, this online programme will uncover the realities of working in the field. Learn about the science used in hospitals, the challenges that nurses face day-to-day, and get ready to debunk myths from your favourite medical shows. 
+					<br><br>This session is in collaboration with MOH Holdings (MOHH).
+</td>
+        <td style="width: 20%;">9 March 2022, <br>3pm - 4pm
+				</td>
+				 <td style="width: 20%;">Zoom</td></tr>
+			<tr>
+        <td style="width: 20%;"><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank">
+				<b>Fusion 360 for Beginners</b></a></td>
+        <td style="width: 40%;">Join 8059 Blank. as they conduct a hands-on workshop aimed at introducing children and teenagers to the basic concepts of computer-aided 3D design. Participants will get to try their hand at creating their very own 3D keychain model, embossed with their own name. 
+</td>
+        <td style="width: 20%;">12 March 2022, <br>10am - 12pm</td>
+				 <td style="width: 20%;">Zoom</td>
+				</tr>
+			<tr>
+        <td style="width: 20%;"><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank">
+				<b>Build a LEGO Factory Workshop</b></a></td>
+        <td style="width: 40%;">Experience building your own automated robotics – using LEGO!
+					<br><br>In this workshop, you will be introduced to factory manufacturing concepts through hands-on building, coding, and experimentation with LEGO SpikePrime. 
+					<br><br>From smart sorting to autonomous transportation, learn how to construct various elements in a car production line.
+					<br><br>Gain knowledge from engineering experts, and get ready to share your own creations!
+</td>
+        <td style="width: 20%;">18 March 2022, <br>3pm - 6pm</td>
+				 <td style="width: 20%;">Jurong Regional Library</td>
+				</tr>
+						</tbody>
   </table>
-	</div>
+</div> 
+	
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -73,7 +112,8 @@ Check out these resources that highlight tips on keeping your online information
         <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
         <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
 Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank">Public Libraries Singapore’s Facebook page</a> to be notified when the videos go live.</td>
-        <td style="width: 20%;">Jan 2022</td>
+        <td style="width: 20%;">Mar 2022</td>
+				<td style="width: 20%;">Facebook</td>
 			</tr>
     </tbody>
   </table>

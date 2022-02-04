@@ -62,9 +62,8 @@ Be informed and make an impact to the environment.
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.com/e/green-market-the-conscious-consumer-registration-220385588227?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>CCKPL: Green Market</b></a></td>
-      <td style="width: 40%;">The Green Market is a bi-annual event celebrating sustainable living as a community and connects us with green groups and initiatives that you can support.<br>
-<br>
-From 19 to 20 Mar 2022, Green Market: The Conscious Consumer offers over 8 interactive events and activities that you can access online and onsite at Choa Chu Kang Public Library.</td>
+				<td style="width: 40%;">The <b>Green Market 2022</b> is a bi-annual sustainability event that promotes sustainable living and introduces ways to practice it. It is a platform to connect people to green communities and organisations to nurture and support a green eco-system.<br>
+</td>
         <td style="width: 20%;">19-20 Mar 2022<br></td>
         <td style="width: 20%;">Choa Chu Kang Public Library & Zoom</td>
       </tr>
@@ -91,12 +90,6 @@ From 19 to 20 Mar 2022, Green Market: The Conscious Consumer offers over 8 inter
         <td style="width: 40%;">Join 8059 Blank as they conduct an online hands-on workshop aimed at introducing children and teenagers to the basic concepts of computer-aided 3D design.<br><br>Participants will be required to download free trial softwares for the workshop.</td>
         <td style="width: 20%;">12 Mar 2022,<br>10am-12pm</td>
         <td style="width: 20%;">Zoom</td>
-      </tr>
-			      <tr>
-        <td style="width: 20%;"><a href="https://codesg.imda.gov.sg/in-community/makeit-at-libraries/" target="_blank"><b>LearnX Digital</b><br>MakeIT</a></td>
-        <td style="width: 40%;">MakeIT aims to introduce Making and Innovation to the general public by way of areas, including Making with upcycling in mind. Topics available include repair and home-hacks and lofi prototyping<br></td>
-        <td style="width: 20%;"></td>
-        <td style="width: 20%;"></td>
       </tr>
   </tbody>
   </table>

@@ -110,7 +110,7 @@ Max is a cute and furry green monster, but an environmental nightmare! Follow Ma
 
 
 <h3><b>Learning Packages</b></h3>
-Articles that show us interesting ways to live sustainably.
+Articles/resources that show us interesting ways to live sustainably.
 
 <h5 class="margin--bottom--lg" id="lp-leaps"><b>Leaps and Bounds | Science Centre Singapore</b></h5>
 

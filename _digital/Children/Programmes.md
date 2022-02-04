@@ -24,7 +24,14 @@ third_nav_title: Children
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
-Introduce your child to future-ready concepts such as coding, robotics, AR and more through interactive, hands-on programmes.
+Introduce your child to future-ready concepts such as coding, robotics, Augmented Reality (AR) and more through interactive, hands-on programmes.
+
+## **S.U.R.E.VIVOR**
+![Alt text for image on Isomer site](/images/digital/SUREvivor.jpg)
+Our S.U.R.Evivor series promotes the importance of fact-checking. The acronym stands for Source, Understand, Research, Evaluate—four concepts for children to keep in mind when assessing the reliability of information. 
+
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
+
 
 ## **Budding Coders**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-Children-01b.png)
@@ -34,10 +41,9 @@ Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singap
 
 
 ## **S.T.E.A.M Lab** 
+![Alt text for image on Isomer site](/images/digital/steamlab.jpg)
+Children will learn coding concepts through hands-on gameplay and develop problem-solving skills, critical thinking, creativity and more.
 
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-Children-03.png)
-An annual event that engages children and tweens aged 7 to 17 years old, in an all-round tinkering experience on S.T.E.A.M topics through hands-on activity booths and exhibits. 
-
-Click [here](https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

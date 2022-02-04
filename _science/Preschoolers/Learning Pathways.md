@@ -64,9 +64,22 @@ In addition, they come in all shapes and sizes, and have developed special featu
         <td></td>
         <td> </td>
       </tr>
+		    <tr>
+        <td><a href="https://childrenandteens.nlb.gov.sg/budding-engineers#lp-magneticrockets" target="_blank"><b> We're Engineers! Blast Off with  Magnetic Rockets
+ </b></a></td>
+        <td> “Shoot for the moon. Even if you miss, you’ll land among the stars.” <br><br>
+Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children. 
+					<br><br>
+	*STEAM - Science, Technology, Engineering, Arts and Mathematics
+
+ </td>
+        <td></td>
+        <td> </td>
+      </tr>
        </tbody>
   </table>
 </div>
+
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -108,22 +121,16 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
       </tr>
     </thead>
     <tbody>
-			<tr>
-<td><a href="https://www.eventbrite.com/c/early-read-sustainability-programmes-ccbkrxbd--MGq5L6nabutK/" target="_blank"><b>Birds in Singapore! (Animal Conservation Series)</b></a></td>
-        <td>Join us in this special storytelling and craft session where you will learn about feathered friends in Singapore!</td>
-        <td>29 Jan 2022<br>11.00am – 12.00pm</td>
-        <td>Central Public Library</td>
-      </tr>
-			  <tr>
-        <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
-        <td> Sea turtles are a bastion of the ocean ecology. Learn all about the amazing sea turtle in this special storytelling and craft session.</td>
-				<td>5 Feb 2022<br>11.00am – 12.00pm</td>
-				<td>Choa Chu Kang Public Library</td>
-     </tr>
 			<tr>				
 				<td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Coding Unplugged: Let’s Get Looping!</b></a></td>
         <td style="width: 40%;">Join us in this basic introductory precoding programme about the use of loops in coding through storytelling and game.</td>
         <td style="width: 20%;">26 Feb 2022<br>11.00am – 12.00pm</td>
+        <td style="width: 20%;">Bedok Public Library</td>
+      </tr>
+			<tr>				
+				<td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Travelling with Bee Bot I DiscoverTech</b></a></td>
+        <td style="width: 40%;">Come program Bee-Bot to go on an adventure around Singapore! Visit sites such as Esplanade and the Merlion, all while learning computational thinking! </td>
+        <td style="width: 20%;"> 12 March 2022<br>11.00am – 12.00pm</td>
         <td style="width: 20%;">Bedok Public Library</td>
       </tr>
 			<tr>

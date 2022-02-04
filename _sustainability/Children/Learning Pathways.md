@@ -83,12 +83,6 @@ Go green with your child to build an eco-friendly future together.
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="http://go.gov.sg/BookBugs" target="_blank"><b>Book Bugs: Rescuers of Stories Lost</b></a></td>
-        <td style="width: 40%;"> A bug-themed collectible card game reading promotion targeted at children to encourage reading in both English and Mother Tongue Languages.</td>
-        <td style="width: 20%;">Jan-Sep 2022</td>
-        <td style="width: 20%;"></td>
-      </tr>
 			<tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>MiniYOGI</b></a></td>
         <td style="width: 40%;">Have a fun and relaxing morning with your little ones through the story of Yoga. Breathe, stretch and do some yoga poses with the beautiful MiniYOGI cards.</td>
@@ -98,7 +92,7 @@ Go green with your child to build an eco-friendly future together.
 			<tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>My Art Buddy</b></a></td>
         <td style="width: 40%;">Use your creativity to make engineered works of art.</td>
-        <td style="width: 20%;">16 Mar 2022, 10-12.30pm</td>
+        <td style="width: 20%;">16 Mar 2022, 10am-12.30pm</td>
         <td style="width: 20%;">Bishan Public Library</td>
       </tr>
 			<tr>

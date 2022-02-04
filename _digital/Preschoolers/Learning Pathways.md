@@ -82,22 +82,16 @@ In fact, they will soon realise computational thinking exists in all aspects of 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b> Think like a coder Session 1- Amazing Algos: Think Like a coder</b></a></td>
-        <td style="width: 40%;"> In this screen-free coding workshop, children are introduced to algorithms and how they can make their own from day-to-day activities.</td>
-        <td style="width: 20%;">22 Jan 2022,<br>2.00pm – 2.30pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-      <tr>
-        <td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b> Travelling with Bee Bot</b></a></td>
-        <td> Come programme Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking. Screens are not needed for this activity!</td>
-        <td>19 Feb 2022<br>11.00am – 12.00pm</td>
-        <td>Zoom</td>
-      </tr>
-      <tr>
         <td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Think Like A Coder: Session 1: Amazing Algos I DiscoverTech</b></a></td>
         <td> In this screen-free coding workshop, children are introduced to sequences and loops, and learn how they can experience them in day-to-day activities.</td>
         <td>19 February 2022 <br>11.00am – 12.00pm</td>
         <td>Woodlands Regional Library</td>
+      </tr>
+			<tr>				
+				<td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Coding Unplugged: Let’s Get Looping!</b></a></td>
+        <td style="width: 40%;">Join us in this basic introductory precoding programme about the use of loops in coding through storytelling and game.</td>
+        <td style="width: 20%;">26 Feb 2022<br>11.00am – 12.00pm</td>
+        <td style="width: 20%;">Bedok Public Library</td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Little Bits Creation I DiscoverTech</b></a></td>
@@ -117,26 +111,14 @@ In fact, they will soon realise computational thinking exists in all aspects of 
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists: It’s Time To Learn About Time</b></a></td>
-        <td style="width: 40%;">Time may feel too abstract a concept to teach our little ones. Never fear! In this simple yet interactive and fun programme, your child will be introduced to the world of seconds, minutes, hours and routines as they create their very own time-teller. From clocks to calendars, sundials to hourglasses, have your child become happy horologists as they journey through Time. </td>
-        <td style="width: 20%;">15 Jan 2022 <br>2.00pm – 3.00pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Engineers: Blast Off with Magnetic Rockets!</b></a></td>
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>[Budding Engineers] Blast Off with Magnetic Rockets!</b></a></td>
         <td>Children will learn about how magnets work in this fun and exciting screen-free activity. </td>
         <td>26 Feb 2022<br>2.00pm - 3.00pm</td>
         <td>Zoom</td>
-      </tr>
+			</tr>
 <tr>
-<td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Sea Turtle Rescue (Animal Conservation Series)</b></a></td>
-        <td>Sea turtles are a bastion of the ocean ecology.  Learn all about amazing sea turtle in this special storytelling and craft session.</td>
-        <td>5 Feb 2022 <br>11.00am – 12.00pm</td>
-        <td>Choa Chu Kang Public Library</td>
-      </tr>
-<tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists: Let’s Learn about Ocean and Marine Animals!</b></a></td>
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>[Budding Scientists] Let’s Learn about Ocean and Marine Animals!</b></a></td>
         <td>Descend through the ocean and discover about the mesmerising life that lies beneath.  In this activity, you and your child will be introduced to the wonders of the ocean and learn fun facts about marine animals!</td>
         <td>18 Mar 2022 <br>3.00pm – 4.00pm</td>
         <td>Zoom</td>

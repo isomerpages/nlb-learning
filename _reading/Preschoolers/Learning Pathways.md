@@ -75,9 +75,9 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/tsr-progs" target="_blank"><b> Toddler Songs & Rhymes [Theme: Numbers & Counting] </b></a></td>
-        <td style="width: 40%;"> Learn all about numeracy through this fun session of Toddler Songs & Rhymes with our librarians! </td>
-        <td style="width: 20%;">18 Jan 2022<br>4.00pm – 4.20pm</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/bsr-progs" target="_blank"><b> Baby Songs & Rhymes </b></a></td>
+        <td style="width: 40%;"> Join other parents with young children and support your child's early development through an enjoyable virtual session with songs and rhymes.</td>
+        <td style="width: 20%;">5 Mar 2022<br>11.00am – 11.20am</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
@@ -106,32 +106,32 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Birds In Singapore! 
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Little Bits Creation 
 </b></a></td>
-        <td style="width: 40%;">Join us in this special storytelling and craft session where you will learn about our feathered friends in Singapore! </td>
-        <td style="width: 20%;">29 Jan 2022<br>11.00am - 12.00pm</td>
-        <td style="width: 20%;">Central Public Library</td>
+        <td style="width: 40%;">Have fun learning with littleBits in this creative hands-on workshop!</td>
+        <td style="width: 20%;">20 Mar 2022<br>2.00pm - 3.00pm</td>
+        <td style="width: 20%;">Pasir Ris Public Library</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Think like a Coder Session 1- Amazing Algos: Think Like a Coder
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>The Amazing Body!
 </b></a></td>
-        <td>In this screen free coding workshop, children are introduced to algorithms and how they can make their own algorithm from day to day activities. </td>
-        <td>22 Jan 2022<br>2.00pm – 2.30pm</td>
+        <td>Let's learn to identify the various body parts and how they are important to us! </td>
+        <td>12 Mar 2022<br>2.00pm – 3.00pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-digital-progs
-" target="_blank"><b>Precoding for Preschoolers: Story Sequence and Algorithms
+" target="_blank"><b>Think Like a Coder: Session 1: Amazing Algos
 </b></a></td>
-        <td>In this screen-free coding workshop, children are introduced to sequences and loops, and learn how they can experience them in day-to-day activities.</td>
+        <td>In this screen-free coding workshop, children are introduced to algorithms, and learn how they can experience them in day-to-day activities.</td>
         <td>19  Feb 2022 <br>11.00am -12.00pm</td>
         <td>Woodlands Regional Library</td>
       </tr>
 			<tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Marine Animals</b></a></td>
-        <td>Descend through the ocean to discover its mesmerizing ocean life. The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. Did you know that clownfish are actually omnivores, which mean they eat both meat and plants? What is the living habitat like for these marine animals? In this session, you will be introduced to the wonders of the oceans and learnt about the fun facts of the marine animals.</td>
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Ocean and Marine Animals!</b></a></td>
+        <td>Find out more about the wonders of the ocean and get to know the many marine animals!</td>
         <td>18 Mar 2022<br>3.00pm - 4.00pm</td>
-        <td>Zoom <br>TBC</td>
+        <td>Zoom <br></td>
       </tr>
   </tbody>
   </table>

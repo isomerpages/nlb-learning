@@ -46,7 +46,7 @@ Explore the wonders of Science!
         <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.
 Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
 </td>
-        <td style="width: 40%;"> Jan’22 – Feb’22</td>
+        <td style="width: 40%;"> Feb’22 – Mar’22</td>
 <td> </td>
 <td> </td>
       </tr>

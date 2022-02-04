@@ -120,7 +120,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 
 <h5 class="margin--bottom--lg" id="Curiocity"><b>Playlist: Curiocity</b></h5>
 
-Singapore has undergone massive developments in the decades past. Take a look at how your neighbourhood has evolved through the Curiocity [website](https://curiocity.nlb.gov.sg).
+Singapore has undergone massive developments in the decades past. Take a look at how your neighbourhood has evolved through the Curiocity [website](https://curiocity.nlb.gov.sg){:target="_blank"}.
 
 Curiocity leverages story maps, or place-based digital storytelling, to provide users an interactive and immersive way to uncover and rediscover the history of Singapore through a curated selection of heritage materials from the collections of the National Library (NL) and the National Archives of Singapore (NAS). 
 
@@ -131,15 +131,15 @@ Curiocity leverages story maps, or place-based digital storytelling, to provide 
 
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-singapore-names" class="margin--bottom--lg"><b>The Many Names of Singapore </b></h5>
-<p>We probably are familiar with the variant names of Singapore such as Temasek and Singapura today. Back in the 17<sup>th</sup> to early 19<sup>th</sup> century, Singapore was identified as a promontory, a strait, a ridge, an island, as well as a settlement, based on naming conventions on cartographical references that have been documented.<sup><a href="#footnote-five">1</a></sup> For Singaporeans, this is a nation we associate with, and a place we call home. This learning package offers some trivia to the variant names of Singapore from early records.</p>
+<p>We probably are familiar with the variant names of Singapore such as Temasek and Singapura today. Back in the 17<sup>th</sup> to early 19<sup>th</sup> century, Singapore was identified as a promontory, a strait, a ridge, an island, as well as a settlement, based on naming conventions on cartographical references that have been documented.<sup><a href="#footnote-one">1</a></sup> For Singaporeans, this is a nation we associate with, and a place we call home. This learning package offers some trivia to the variant names of Singapore from early records.</p>
 
 <table border="1">
 	<tbody><tr>
 		<td>
 			<h2>Did you know...</h2>
-			<p>Long before the British arrived and made Singapore a colonial port city, Singapore was already a port as part of the early maritime trade route. <sup><a href="#footnote-five">1</a></sup> In early maritime charts and maps (17<sup>th</sup> to early 19<sup>th</sup> century), we learn that Singapore was known by many names.
+			<p>Long before the British arrived and made Singapore a colonial port city, Singapore was already a port as part of the early maritime trade route. <sup><a href="#footnote-one">1</a></sup> In early maritime charts and maps (17<sup>th</sup> to early 19<sup>th</sup> century), we learn that Singapore was known by many names.
 		</p>
-			<p>Some names that Singapore was known by include<sup><a href="#footnote-eight">2</a></sup>.</p>
+			<p>Some names that Singapore was known by include<sup><a href="#footnote-twot">2</a></sup>.</p>
 			<ul>
 				<li>Temasek or Temasik 淡马锡</li>
 				<li>Pulo ou Isle Panjang or Paulau Panjang [Long Island]</li>
@@ -164,7 +164,7 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=IX7xg-h1CKA">Ma
 <h4>References</h4>
 <ol>
     <li><small><span id="footnote-one">Kwa, C. G. et. al (2019). </span> <i>Seven hundred years: a history of Singapore</i>. Singapore: Marshall Cavendish Editions and National Library Board. eBook available via NLB Mobile. Call no. 959.57 KWA </small></li>
-     <li><small><span id="footnote-one">National Library Board (2015). </span> <i>Visualising space: maps of Singapore and the region</i>. Available on BookSG  <a target="_blank" href="https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx">https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx</a></small></li>
+     <li><small><span id="footnote-two">National Library Board (2015). </span> <i>Visualising space: maps of Singapore and the region</i>. Available on BookSG  <a target="_blank" href="https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx">https://eresources.nlb.gov.sg/printheritage/detail/a538a838-7557-46fa-836a-7ff48718ae82.aspx</a></small></li>
 </ol>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p><h3>
