@@ -142,4 +142,9 @@ Set your child up for success in the ever-changing world of technology with prog
 <p>Source: <a href="https://youtu.be/Ta6qq7wnpcA">Cyber Sandra's Hacks - Social Media Impersonation</a> (2021, June, 4). <em>Cyber Security Agency of Singapore</em>. <em>Retrieved 2022, January 26.</em></p>
 </td>
 </tr>
-</tbody>
+</tbody>	
+</table>
+<ul>
+<li><strong>LEARNING PACKAGE </strong><br />Spark your tween&rsquo;s curiosity in digital literacy through engaging activities and articles.</li>
+</ul>
+<p><br /><strong>Tweenkerama: Robotics and Coding </strong>[Lab Mag #1 pages 6 &ndash; 9]<strong><br /></strong>Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out! <br /><br />Source: <a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama">https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama</a> (,). <em>National Library Board</em>. Retrieved 2022, January 26</p>
