@@ -74,12 +74,11 @@ Check out our learning package for more insights into digital concepts.
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>Explaining the Circular Economy: Rethink Progress</b><br>
-    A key principle of the green economy is circulatory, which is about keeping products and materials in continued use. This video explains how circulatory works and highlights how it can be implemented. 
-<small>Source: Explaining the Circular Economy: Rethink Progress (2011, August 29). Ted. Retrieved 2021, October 16.</small></p>
+    <p><b>My Favourite Days | Storytime (12:54)</b><br>
+Drones! Robots! And more! Be enchanted by how augmented reality enhances this charming story. Try it yourself and see the pages come alive with your smartphone.
+<small>Source: My Favourite Days | Storytime (2021, December 25). National Library Board, Singapore. Retrieved 2022, January 26.</small></p>
   </div>
 </div>
-
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
