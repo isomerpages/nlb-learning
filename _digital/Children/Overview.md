@@ -41,7 +41,7 @@ Discover and explore the ever-changing world of technology together with your ch
 <ul><li><strong>S.T.E.A.M. LAB</strong></li></ul>
 <table style="border-collapse: collapse; width: 35%;" border="0"><tbody><tr><td width="150" height="150"><img src="images/digital/steamlab.jpg"></td></tr></tbody></table>
 <p>An annual event for children, tweens and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.</p>
-<p>Click <u><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849">here</a></u> for the latest programme listings.</p>
+<p>Click <u><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank">here</a></u> for the latest programme listings.</p>
 <p><strong><u>LEARNING PATHWAYS</u></strong></p>
 <p>Think of learning pathways as appetizers. <br>Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.</p>
 <ul><li><strong>Let’s Go Digital</strong></li></ul>
