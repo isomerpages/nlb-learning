@@ -68,8 +68,7 @@ Check out these resources to help you navigate the digital world, from keeping y
         <td>Zoom</td>
       </tr>
 			<tr>
-        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>[Tweenkerama | Tech
-]<br>My Art Buddy | Dancing Orchids
+        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>My Art Buddy | Dancing Orchids
 </b></a></td>
         <td>Experimenting with new prototyping tools and processes, including using recyclable materials and coding kit – children will learn to use connectors and straws to build a pyramid vase and a flower with movement and lights.
 </td>
@@ -77,8 +76,7 @@ Check out these resources to help you navigate the digital world, from keeping y
         <td>Bishan Public Library</td>
       </tr>
 			<tr>
-        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>[Tweenkerama | Tech
-]<br>My Art Buddy | Singapore Flyer
+        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>My Art Buddy | Singapore Flyer
 </b></a></td>
         <td>Experimenting with new prototyping tools and processes, including using recyclable materials and coding kit – children will learn to build a small Singapore Flyer-esque structure with rotating wheels.
 </td>
@@ -86,13 +84,20 @@ Check out these resources to help you navigate the digital world, from keeping y
         <td>Toa Payoh Public Library</td>
       </tr>
 			<tr>
-        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>[Tweenkerama | Sustainability
-]<br>TinkerWorks: Explore Nature 
+        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>TinkerWorks: Explore Nature 
 </b></a></td>
         <td>Get inspired to learn more about the environment around us through a book discussion and tinkering activities in our libraries!This programme is part of a series of sustainability themed events for tweens. 
 </td>
         <td>17 March 2022,<br>1pm - 2:15pm</td>
         <td>Queenstown Public Library</td>
+      </tr>
+			<tr>
+        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>Unicorn Adventures: The Dark Forest
+</b></a></td>
+        <td>Join Shriya Sharma, the young author of the book “Unicorn Adventures: The Dark Forest”, at this exciting event. In this session, Shriya will talk about her book, her motivation, and challenges she overcame to write her debut book.
+</td>
+        <td>19 March 2022,<br>11am - 12pm</td>
+        <td>library@harbourfront</td>
       </tr>
 		</tbody>
   </table>
@@ -110,7 +115,7 @@ Check out these resources to help you navigate the digital world, from keeping y
         <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
         <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
 Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank">Public Libraries Singapore’s Facebook page</a> to be notified when the videos go live.</td>
-        <td style="width: 20%;">Jan 2022</td>
+        <td style="width: 20%;">Mar 2022</td>
         <td style="width: 20%;">Facebook</td>
       </tr>
     </tbody>
