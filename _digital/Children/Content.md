@@ -48,4 +48,4 @@ Check out our learning package for more insights into digital concepts.
 <h3><b>Playlist </b></h3>
 Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.
 <h3><b>Wonders of Tech!</b></h3>
-Learn more about the different ways technology can be used in your everyday life. Become even more digitally savvy through our curated resources for you below.	
+Learn more about the different ways technology can be used in your everyday life. Become even more digitally savvy through our curated resources for you below.
