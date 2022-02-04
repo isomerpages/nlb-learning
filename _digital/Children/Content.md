@@ -71,5 +71,5 @@ Spark your child’s curiosity in digital literacy through engaging activities a
 <table border="1" style="border-collapse: collapse; width: 35%;"><tbody><tr><td height="150" width="150"><img src="/images/digital/children/SCWYC.jpg"></td></tr></tbody></table>
 <p><b>Say Curious with Your Child: Make a Stop Motion Masterpiece!</b></p>
 With mobile phone camera technology becoming increasingly robust, why not take advantage of our digital devices to bring the family together. Learn how to film a simple short motion video with your child using their favourite toys as subjects!
-	
-<small>Source:Source:  https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child (,). National Library Board. Retrieved 2022, January 26</small></div>
+<p>
+<small>Source:  https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child (,). National Library Board. Retrieved 2022, January 26</small>
