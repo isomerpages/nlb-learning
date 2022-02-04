@@ -48,14 +48,14 @@ Check out our **learning package** for some D.I.Y coding fun.
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
-      <a href="#playlist-informed">
+      <a href="#Playlist">
         <span>Playlist:<br>A collection of short videos exploring topics around digital concepts.</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
-      <a href="#lp-tinker">
+      <a href="#How Tech Works">
         <span>How Tech Works!<br>Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</span>
       </a>
     </div>
