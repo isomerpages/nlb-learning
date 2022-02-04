@@ -51,7 +51,7 @@ Drones! Robots! And more! Be enchanted by how augmented reality enhances this ch
   <div class="col is-three-fifths">
   <p><b> How 3D Printers Work | How Things Work with Kamri Noel (2:43)</b><br>
 Do you know how 3D printers work? Join Kamri Noel, as she goes on a quest to understand her 3D printer with the help of a Nat Geo expert. <br><br>
-<small>Source: Working Together to Grow a Green Economy (2016, November 9). World Bank. Retrieved 2021, October 13.</small></p>
+<small>Source: How 3D Printers Work | How Things Work with Kamri Noel (2018, November 6). Nat Geo Kids. Retrieved 2022, January 26.</small></p>
   </div>
 </div>
 <div class="row is-multiline margin--bottom--lg">
