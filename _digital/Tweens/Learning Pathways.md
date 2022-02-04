@@ -64,7 +64,7 @@ Check out these resources to help you navigate the digital world, from keeping y
       <tr>
         <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>Book Orators</b></a></td>
         <td>Learn about some amazing inventions and how they influenced our world today and the technology we use in our everyday lives.u!</td>
-        <td>13 March 2022<br>10am - 11am</td>
+        <td>13 March 2022,<br>10am - 11am</td>
         <td>Zoom</td>
       </tr>
 			<tr>
@@ -72,7 +72,7 @@ Check out these resources to help you navigate the digital world, from keeping y
 </b></a></td>
         <td>Experimenting with new prototyping tools and processes, including using recyclable materials and coding kit – children will learn to use connectors and straws to build a pyramid vase and a flower with movement and lights.
 </td>
-        <td>16 March 2022<br>10am - 12:30pm</td>
+        <td>16 March 2022,<br>10am - 12:30pm</td>
         <td>Zoom</td>
       </tr>
 		</tbody>
