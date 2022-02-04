@@ -36,7 +36,7 @@ Click [here](https://go.gov.sg/nlb-teensprogs){:target="_blank"} for the latest 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 ## **S.T.E.A.M. Lab**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-Teens-01.jpg)
+![Alt text for image on Isomer site](/images/digital/teens/STEAM_Lab.jpg)
 
 An annual event for children, tweens and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.
 
