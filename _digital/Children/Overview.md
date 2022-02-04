@@ -32,11 +32,12 @@ Discover and explore the ever-changing world of technology together with your ch
 <p><strong><u>PROGRAMMES</u></strong></p>
 <p>Introduce your child to future-ready concepts such as coding, robotics, Augmented Reality (AR) and more through interactive, hands-on programmes.</p>
 <ul><li><strong>S.U.R.E.VIVOR</strong></li></ul>
-<img height="30" width="30" src="/images/digital/SUREvivor.jpg">
+<table style="border-collapse: collapse; width: 45%;" border="1"><tbody><tr><td width="150" height="150">&nbsp;<img src="/images/digital/SUREvivor.jpg"></td></tr></tbody></table>
 <p>Our S.U.R.E.vivor series promotes the importance of fact-checking. The acronym stands for Source, Understand, Research, Evaluate—four concepts for children to keep in mind when assessing the reliability of information.&nbsp;</p>
 <p>Click <u>here</u> for the latest programme listings.<br><br></p>
 <ul><li><strong>BUDDING CODERS</strong></li></ul>
-<img height="30" width="30" src="/images/digital/Digital-Prog-Children-01b.png">
+<table style="border-collapse: collapse; width: 45%;" border="1"><tbody><tr><td width="150" height="150">&nbsp;
+<img src="/images/digital/Digital-Prog-Children-01b.png"></td></tr></tbody></table>	
 <p>Children will learn coding concepts through hands-on gameplay and develop problem-solving skills, critical thinking, creativity and more.</p><p>Click <u>here</u> for the latest programme listings.</p>
 <ul><li><strong>S.T.E.A.M. LAB</strong></li></ul>
 <table style="border-collapse: collapse; width: 45%;" border="1"><tbody><tr><td width="150" height="150">&nbsp;<img src="images/digital/steamlab.jpg"></td></tr></tbody></table>
