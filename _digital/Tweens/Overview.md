@@ -29,7 +29,6 @@ Set your child up for success in the ever-changing world of technology with prog
     </div>
   </div>
 </div>
-
 <p><strong><u>PROGRAMMES</u></strong></p>
 <p>Introduce your child to future-ready concepts such as coding, robotics, Augmented Reality (AR) and more through interactive, hands-on programmes.</p>
 <ul>
