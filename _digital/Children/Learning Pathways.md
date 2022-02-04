@@ -61,7 +61,7 @@ Go digital with your child and discover a world of technology and innovation tog
       </tr>
 		</thead>
 	</table>
-<table style="border-collapse: collapse; width: 100%; height: 454px;" border="1">
+<table style="border-collapse: collapse; width: 100%; height: 454px;" border="0">
 <tbody>
 <tr style="height: 395px;">
 <td style="width: 25%; height: 395px;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><span style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="font-size: 12pt; font-family: Calibri;">Code With Your Child</span></span></a></td>
@@ -92,7 +92,7 @@ Go digital with your child and discover a world of technology and innovation tog
       </tr>
     </thead>
   </table>
-<table style="border-collapse: collapse; width: 100%; height: 194px;" border="1">
+<table style="border-collapse: collapse; width: 100%; height: 194px;" border="0">
 <tbody>
 <tr style="height: 166px;">
 <td style="width: 25%; height: 166px;"><a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama%20" target="_blank"><span style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="color: #000000;">S.T.E.A.M. Lab Mini</span></span></a></td>
