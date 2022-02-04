@@ -24,12 +24,21 @@ third_nav_title: Teens
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
-Discover exciting programmes in the digital world such as coding, robotics and more. 
+Learn more about the digital world through exciting programmes on robotics, digital media, computational thinking, and more. This section is suitable for teens aged 13- to 17- years-old. 
 
 ## **Teens Takeover | Digi.Lit**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-Teens-01.jpg)
 
-Programmes for teens aged 13 to 17 years old to gain new learning experiences and skills related to the tech field. 
+Perfect for teens who are interested in acquiring knowledge and skills in the field of technology and innovation. 
+
+Click [here](https://go.gov.sg/nlb-teensprogs){:target="_blank"} for the latest programme listings.
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+## **S.T.E.A.M. Lab**
+![Alt text for image on Isomer site](/images/digital/Digital-Prog-Teens-01.jpg)
+
+An annual event for children, tweens and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.
 
 Click [here](https://go.gov.sg/nlb-teensprogs){:target="_blank"} for the latest programme listings.
 
