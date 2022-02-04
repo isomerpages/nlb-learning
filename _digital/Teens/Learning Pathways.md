@@ -62,7 +62,7 @@ Check out these resources that highlight new digital advancements and opportunit
     </thead>
     <tbody>
       <tr>
-			<td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>CCKPL: Unplugged</b></a></td>
+			<td style="width: 20%;"><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>CCKPL: Unplugged</b></a></td>
         <td style="width: 40%;">Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!
 </td>
         <td style="width: 20%;">1st & 3rd Fridays, 3pm - 5pm
