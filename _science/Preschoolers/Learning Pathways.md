@@ -68,9 +68,10 @@ In addition, they come in all shapes and sizes, and have developed special featu
         <td><a href="https://childrenandteens.nlb.gov.sg/budding-engineers#lp-magneticrockets" target="_blank"><b> We're Engineers! Blast Off with  Magnetic Rockets
  </b></a></td>
         <td> “Shoot for the moon. Even if you miss, you’ll land among the stars.” <br><br>
-Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children.
-					<br>
+Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children. 
+					<br><br>
 	*STEAM - Science, Technology, Engineering, Arts and Mathematics
+
  </td>
         <td></td>
         <td> </td>
