@@ -42,8 +42,8 @@ Give your teenager a head start in a digital career with programmes and content 
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
-      <a href="/digital/teens/content">
-        <span>Content</span>
+      <a href="/digital/teens/learning-pathway">
+        <span>Learning<br>Pathways</span>
       </a>
     </div>
   </div>
@@ -56,8 +56,8 @@ Give your teenager a head start in a digital career with programmes and content 
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-sky-indigo">
-      <a href="/digital/teens/learning-pathways">
-        <span>Learning<br>Pathways</span>
+      <a href="/digital/teens/content">
+        <span>Content</span>
       </a>
     </div>
   </div>
