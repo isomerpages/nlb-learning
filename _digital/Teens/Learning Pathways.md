@@ -24,7 +24,7 @@ third_nav_title: Teens
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
-Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
+Think of learning pathways as appetizers. <br>Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3><b>#Tech4U</b></h3>
 Immerse yourself in the possibilities of digital and tech!
