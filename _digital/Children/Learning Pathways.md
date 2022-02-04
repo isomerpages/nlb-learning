@@ -56,35 +56,7 @@ Go digital with your child and discover a world of technology and innovation tog
       <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Programme</th>
       </tr>
-    </thead>
-		<tbody>
-<tr>
-<td style="width: 33.125%;" width="410">
-<p>Code With Your Child</p>
-</td>
-<td style="width: 33.3333%;" width="868">
-<p><strong>12 Mar 2022, </strong><strong>2.30pm &ndash; 4pm, CCKP</strong><strong>L</strong></p>
-<p>Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. Through hands-on coding gameplays, kids can learn coding concepts without a screen or keyboard and develop problem solving skills, critical thinking, creativity and collaboration.</p>
-</td>
-<td style="width: 33.3333%;" width="235">
-<p><strong>Budding Coders</strong></p>
-</td>
-</tr>
-<tr>
-<td style="width: 33.125%;" width="410">
-<p>Code With Your Child</p>
-</td>
-<td style="width: 33.3333%;" width="868">
-<p><strong>19 Mar 2022, </strong><strong>2.30pm &ndash; 4pm, SKP</strong><strong>L</strong></p>
-<p>Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. Through hands-on coding gameplays, kids can learn coding concepts without a screen or keyboard and develop problem solving skills, critical thinking, creativity and collaboration.</p>
-</td>
-<td style="width: 33.3333%;" width="235">
-<p><strong>Budding Coders</strong></p>
-</td>
-</tr>
-
-</tbody>
-
+		</thead>
 	</table>
 		</div>
 <div class="horizontal-scroll margin--bottom--lg">
