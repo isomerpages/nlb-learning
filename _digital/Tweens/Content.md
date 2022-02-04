@@ -64,7 +64,7 @@ Check out our **learning package** for some D.I.Y coding fun.
   </div>
   </div>
 
-<h5 id=playlist class="margin--bottom--lg" id="playlist-informed"><b>Playlists
+<h5 id=playlist class="margin--bottom--lg" id="playlist-informed"><b>Playlists:
 A collection of short videos exploring topics around digital concepts.
  </b></h5>
 
