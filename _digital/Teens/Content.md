@@ -99,8 +99,8 @@ Karan Chahal is a sophomore at Evergreen Valley High School with a strong passio
   </div>
   <div class="col is-three-fifths">
     <p><b class="has-text-indigo">Cybersecurity: A Growing Sector with Good Jobs - Singapore Cybersecurity Education Symposium (39:19)</b><br>
-    Ever stopped to think if you should really be posting that online? Watch this video to learn more about the digital footprints you leave behind with each online post, and why it matters now and even in the future.</p>
-<small>Source: Digital Footprints -Youtube (2019, Apr 17). <i>NgeeAnnPoly Library</i>. Retrieved 2021, October 22.</small>
+    Considering a career in cybersecurity? Here are 8 reasons why you should! </p>
+<small>Source: Cybersecurity: A Growing Sector with Good Jobs - Singapore Cybersecurity Education Symposium(2021, Jan 22). <i>Cyber Security Agency of Singapore.</i> Retrieved 2022, January 26.</small>
   </div>
 </div>
 
