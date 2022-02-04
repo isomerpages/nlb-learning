@@ -62,9 +62,17 @@ Check out these resources to help you navigate the digital world, from keeping y
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/secondary-main" target="_blank"><b>Digipanion: Managing Screen Time in a Fun Way for Parents of 7 to 15 year olds</b></a></td>
-        <td>Are digital devices impacting your child’s physical & mental wellbeing? Are you tired of constantly reminding your child to get off the phone? Do you wish your child to make smart choices online even when you aren’t present? This workshop is for you!</td>
-        <td>14 Jan 2021<br>11am – 12pm</td>
+        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>Book Orators</b></a></td>
+        <td>Learn about some amazing inventions and how they influenced our world today and the technology we use in our everyday lives.u!</td>
+        <td>13 March 2022<br>10am - 11am</td>
+        <td>Zoom</td>
+      </tr>
+			<tr>
+        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>My Art Buddy | Dancing Orchids
+</b></a></td>
+        <td>Experimenting with new prototyping tools and processes, including using recyclable materials and coding kit – children will learn to use connectors and straws to build a pyramid vase and a flower with movement and lights.
+</td>
+        <td>16 March 2022<br>10am - 12:30pm</td>
         <td>Zoom</td>
       </tr>
 		</tbody>
