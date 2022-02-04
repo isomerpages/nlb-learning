@@ -65,3 +65,5 @@ Stay tuned for more updates.</td>
     </tbody>
   </table>
 </div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
