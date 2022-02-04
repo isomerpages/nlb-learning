@@ -38,7 +38,7 @@ Immerse yourself in the possibilities of digital and tech!
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/digital/teens/content"><b>Playlist: CyberSecurity and Emerging Tech!</b></a></td>
-        <td style="width: 40%;"><b>CyberSecurity and Emergig Tech!</b><br>
+        <td style="width: 40%;"><b>CyberSecurity and Emerging Tech!</b><br>
 Check out these resources that highlight new digital advancements and opportunities and learn tips on being cyber safe.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
