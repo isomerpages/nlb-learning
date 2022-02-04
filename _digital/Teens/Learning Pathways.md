@@ -65,11 +65,7 @@ Check out these resources that highlight new digital advancements and opportunit
 			<td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>CCKPL: Unplugged</b></a></td>
         <td style="width: 40%;">Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!
 </td>
-        <td style="width: 20%;">4 February 2022
-					<br>8 February 2022
-					<br>4 March 2022
-					<br>18 March 2022
-					<br><br> All sessions from 3pm to 5pm
+        <td style="width: 20%;">1st & 3rd Fridays, 3pm - 5pm
 				</td>
 				 <td style="width: 20%;">Choa Chu Kang Public Library</td></tr>
 			<tr>
