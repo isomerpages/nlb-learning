@@ -67,11 +67,11 @@ Check out our **learning package** for free online graphic design resources.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=P2BzN1h1nkI"></iframe>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/P2BzN1h1nkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> How to Spot Signs of Phishing - 2</b><br>
+    <p><b class="has-text-indigo"> How to Spot Signs of Phishing - 2 (4:52)</b><br>
 You wouldn't share your personal and financial information with everyone. So why give away your information to cyber criminals? Learn how to spot signs of phishing with Naomi Yeo and avoid falling victim to phishing scams! </p>
     <small>Source: How to Spot Signs of Phishing - 2(2021, Aug 26).  <i>Cyber Security Agency of Singapore.</i> Retrieved 2022, January 26.</small>
   </div>
@@ -80,13 +80,13 @@ You wouldn't share your personal and financial information with everyone. So why
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/wBxHqkrMMFI"></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/5ShTwrd-tDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo">Let's Talk Cyber - Password Dos and Don'ts (0:36)</b><br>
-Are you very sure that your data and accounts are secured and have not been compromised? Here are some quick tips on what you can do to strengthen your passwords.</p>
-    <small>Source: Let's Talk Cyber - Password Dos and Don'ts - Youtube (2021, Jan 19). <i>Go Safe Online</i>. Retrieved 2021, October 22.</small>
+<p><b class="has-text-indigo">What is 5G And What Can It Do? | Karan Chahal | TEDxDesignTechHighSchool (10:24)</b><br>
+Karan Chahal is a sophomore at Evergreen Valley High School with a strong passion for business and technology. Learn more about 5G as he speaks about its emerging technology, as well as its powerful applications into today's society.</p>
+    <small>Source: What is 5G And What Can It Do? | Karan Chahal | TEDxDesignTechHighSchool (2019, June 21). <i>TedX Talks.</i>. Retrieved 2022, January 26.</small>
   </div>
 </div>
 
