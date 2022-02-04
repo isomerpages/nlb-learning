@@ -121,18 +121,6 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
       </tr>
     </thead>
     <tbody>
-			<tr>
-<td><a href="https://www.eventbrite.com/c/early-read-sustainability-programmes-ccbkrxbd--MGq5L6nabutK/" target="_blank"><b>Birds in Singapore! (Animal Conservation Series)</b></a></td>
-        <td>Join us in this special storytelling and craft session where you will learn about feathered friends in Singapore!</td>
-        <td>29 Jan 2022<br>11.00am – 12.00pm</td>
-        <td>Central Public Library</td>
-      </tr>
-			  <tr>
-        <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
-        <td> Sea turtles are a bastion of the ocean ecology. Learn all about the amazing sea turtle in this special storytelling and craft session.</td>
-				<td>5 Feb 2022<br>11.00am – 12.00pm</td>
-				<td>Choa Chu Kang Public Library</td>
-     </tr>
 			<tr>				
 				<td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Coding Unplugged: Let’s Get Looping!</b></a></td>
         <td style="width: 40%;">Join us in this basic introductory precoding programme about the use of loops in coding through storytelling and game.</td>
