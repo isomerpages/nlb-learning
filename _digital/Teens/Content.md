@@ -41,7 +41,7 @@ third_nav_title: Teens
 
 Check out our **playlist** for a collection of short videos/podcasts for tips in ensuring safe internet usage. 
 
-Check out our **learning package** for free online graphic design resources.
+Check out our **learning package** for insights into digital concepts.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
