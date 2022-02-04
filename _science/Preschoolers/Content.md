@@ -125,7 +125,7 @@ Explore our learning packages for useful tips on selecting age-appropriate books
 <p>The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. What is the living habitat like for these marine animals? What special features have they developed to enable them to survive underwater? Let's find out! </p>
 
 <h4 id="lp-ocean"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-engineers#lp-magneticrockets"><b>We're Engineers! Blast Off with  Magnetic Rockets (for 4-6 years old)</b></a></h4>
-<p>“Shoot for the moon. Even if you miss, you’ll land among the stars.” <br>
+<p>“Shoot for the moon. Even if you miss, you’ll land among the stars.” <br><br>
 Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children. <br>
 	*STEAM - Science, Technology, Engineering, Arts and Mathematics
 </p>
