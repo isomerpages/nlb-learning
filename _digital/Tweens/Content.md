@@ -39,30 +39,32 @@ third_nav_title: Tweens
 </style>
 
 <h3><b>Playlist </b></h3>
-Check out these resources to help you navigate the digital world, from keeping your information protected to ensuring that you are equipped to analyse and debunk fake news!
+Check out these resources to help you navigate the digital world, from keeping your information protected to learning more about how technology works!
 
-Check out our **playlist** for a collection of short videos/podcasts for introductory videos on cyber safety 
+Check out our **playlist** for a collection of short videos/podcasts on keeping your information safe, and how technology can improve your daily life. 
 
-Check out our **learning package** for some D.I.Y cryptography fun.
+Check out our **learning package** for some D.I.Y coding fun.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
       <a href="#playlist-informed">
-        <span>Playlist:<br>Be Informed, Be Safe</span>
+        <span>Playlist:<br>A collection of short videos exploring topics around digital concepts.</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
       <a href="#lp-tinker">
-        <span>Learning Package: D.I.Y Secret Message</span>
+        <span>How Tech Works!</span>
       </a>
     </div>
   </div>
   </div>
 
-<h5 class="margin--bottom--lg" id="playlist-informed"><b>Playlist: Be Informed, Be Safe </b></h5>
+<h5 class="margin--bottom--lg" id="playlist-informed"><b>Playlists
+A collection of short videos exploring topics around digital concepts.
+ </b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
