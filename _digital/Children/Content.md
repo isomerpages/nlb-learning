@@ -28,7 +28,8 @@ Check out our learning package for more insights into digital concepts.
   </div>
 <p>
 Check out our learning package for more insights into digital concepts.
-</p><h5 id="playlist"><b>Playlist: Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</b></h5>
+</p>
+<h5 id="playlist"><b>Playlist: Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</b></h5>
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
