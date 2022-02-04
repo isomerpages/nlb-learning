@@ -48,7 +48,7 @@ Check out our **learning package** for some D.I.Y coding fun.
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
-      <a href="#Playlist:A collection of short videos exploring topics around digital concepts.">
+      <a href="#playlist">
         <span>Playlist:<br>A collection of short videos exploring topics around digital concepts.</span>
       </a>
     </div>
@@ -62,7 +62,7 @@ Check out our **learning package** for some D.I.Y coding fun.
   </div>
   </div>
 
-<h5 class="margin--bottom--lg" id="playlist-informed"><b>Playlists
+<h5 id=playlists class="margin--bottom--lg" id="playlist-informed"><b>Playlists
 A collection of short videos exploring topics around digital concepts.
  </b></h5>
 
