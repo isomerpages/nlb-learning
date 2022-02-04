@@ -90,6 +90,18 @@ Check out these resources that highlight new digital advancements and opportunit
         <td style="width: 20%;">12 March 2022, 10am - 12pm</td>
 				 <td style="width: 20%;">Zoom</td>
 				</tr>
+			<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank">
+				<b>[Teens Takeover] | scienti-f(x) 
+					<br>Build a LEGO Factory Workshop</b></a></td>
+        <td style="width: 40%;">Experience building your own automated robotics – using LEGO!
+					<br><br>In this workshop, you will be introduced to factory manufacturing concepts through hands-on building, coding, and experimentation with LEGO SpikePrime. 
+					<br><br>From smart sorting to autonomous transportation, learn how to construct various elements in a car production line.
+					<br><br>Gain knowledge from engineering experts, and get ready to share your own creations!
+</td>
+        <td style="width: 20%;">18 March 2022, 3pm - 6pm</td>
+				 <td style="width: 20%;">Jurong Regional Library</td>
+				</tr>
 						</tbody>
   </table>
 </div> 
