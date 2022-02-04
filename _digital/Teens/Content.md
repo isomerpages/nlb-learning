@@ -108,7 +108,7 @@ You wouldn't share your personal and financial information with everyone. So why
 
 Check out these online resources to explore how the music industry consistently reinvents itself to keep up with the ever-evolving advances of technology.
 
-Source:  https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id5 (,). National Library Board. Retrieved 2022, January 26.
+Source:  https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id5(https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id5) (,). National Library Board. Retrieved 2022, January 26.
 
 
 
