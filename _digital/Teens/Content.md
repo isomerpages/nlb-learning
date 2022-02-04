@@ -39,9 +39,6 @@ third_nav_title: Teens
 </style>
 <p>Explore resources and content on topics that reveal the possibilities of technology.</p>
 
-<h3 class="margin--bottom--lg"><b>Playlist</b></h3>
-<p>Check out these resources that highlight tips on keeping your online information protected, while exploring new digital advancements and opportunities.</p>
-
 Check out our **playlist** for a collection of short videos/podcasts for tips in ensuring safe internet usage. 
 
 Check out our **learning package** for free online graphic design resources.
@@ -62,7 +59,9 @@ Check out our **learning package** for free online graphic design resources.
     </div>
   </div>
   </div>
-
+	
+<h3 class="margin--bottom--lg"><b>Playlist</b></h3>
+<p>A collection of short videos/podcasts to spark your interests in digital and tech concepts.</p>
 <h3 class="margin--bottom--lg" id="playlist-safe"><b>Playlist: Stay Safe, Stay Informed</b></h3>
 
 <div class="row is-multiline margin--bottom--lg">
