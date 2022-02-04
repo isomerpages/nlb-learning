@@ -91,5 +91,5 @@ Discover and explore the ever-changing world of technology together with your ch
 </tbody>
 </table>
 <p>Check out our learning package for more insights into digital concepts.</p><ul><li><strong>LEARNING PACKAGE </strong><br>Spark your child’s curiosity in digital literacy through engaging activities and articles.</li></ul>
-<img src="/images/digital/children/SCWYC.jpg">
+<img src="/images/digital/children/SCWYC.jpg" width="30" height="30">
 <p><strong>Stay Curious with Your Child: Make a Stop Motion Masterpiece!</strong></p><p>With mobile phone camera technology becoming increasingly robust, why not take advantage of our digital devices to bring the family together. Learn how to film a simple short motion video with your child using their favourite toys as subjects!</p><p><br>Source: &nbsp;<a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child">https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child</a> (,). <em>National Library Board</em>. Retrieved 2022, January 26</p>
