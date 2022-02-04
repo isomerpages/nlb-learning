@@ -71,9 +71,10 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 </div>
 </div>	
+
 <div class= "col is-one-third">
 <div class="clickbox is-mint-jade">
-<a href="#lp-japanese-occupation">
+<a href="#lp-fall-of-singapore">
 <span>Learning Package:<br>Fall of Singapore</span>
 </a>
 </div>
@@ -282,7 +283,7 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="lp-japanese-occupation" class="margin--bottom--lg"><b> Japanese Occupation: Fall of Singapore </b></h5>
+<h5 id="lp-fall-of-singapore"> class="margin--bottom--lg"><b> Japanese Occupation: Fall of Singapore </b></h5>
 <p> The fall of Singapore on 15 February 1942 in the Second World War is, as Winston Churchill put it, ‘the worst disaster and largest capitulation in British history’. </p>
 <b></b>
 <p> Since 1942, there has been a steady flow of books and articles on this subject. Earlier works focused on the conduct of the military campaign, but as the archives started opening their records, the focus has shifted to the broader issues of strategy and international relations.</p>
@@ -340,5 +341,3 @@ Retrieved from OverDrive (a <a
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
-
