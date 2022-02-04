@@ -95,17 +95,25 @@ What can we do to protect the environment around us? Do you know the different t
         <td style="width: 20%;">26 Feb 2022<br>11.00am – 12.00pm</td>
         <td style="width: 20%;">Bedok Public Library</td>
       </tr>
-<tr>
-<td><a href="#" target="_blank"><b>Travelling with Bee Bot</b></a></td>
-        <td>Come programme Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking. Screens are not needed for this activity! </td>
-        <td>19 Feb 2022<br>11.00am – 12.00pm</td>
-        <td>Geylang Public Library</td>
-      </tr>
+			   <tr>
+<td><a href="https://www.eventbrite.com/c/early-read-science-programmes-ccbkrwzp--iE1UQaAYdl04/" target="_blank"><b> [Budding Engineers] Blast Off with Magnetic Rockets! </b></a></td>
+        <td> “Shoot for the moon. Even if you miss, you’ll land among the stars.”
+Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children.
+*STEAM - Science, Technology, Engineering, Arts and Mathematics </td>
+        <td>26 Feb 2022<br>2.00pm – 3.00pm<br></td>
+        <td>Zoom</td>
+			</tr>
 			<tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>[Budding Scientists] Let’s Learn about Ocean and Marine Animals!</b></a></td>
         <td>Descend through the ocean to discover its mesmerizing ocean life. The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. Did you know that clownfish are actually omnivores, which mean they eat both meat and plants? What is the living habitat like for these marine animals? In this session, you will be introduced to the wonders of the oceans and learnt about the fun facts of the marine animals.</td>
         <td>18 Mar 2022<br>3.00pm – 4.00pm</td>
         <td>Zoom</td>
+      </tr>
+			<tr>
+<td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Little Bits Creation I DiscoverTech</b></a></td>
+        <td>Little Bits are fun swappable, magnetically – connected electronic building blocks that allow you to easily add lights and movement to any crafts project.  Children and parents will learn how littleBits work and create and decorate a character using cardboard in this activity.</td>
+        <td>20 Mar 2022 <br>2.00pm – 3.00pm</td>
+        <td>Pasir Ris Public Library</td>
       </tr>
   </tbody>
   </table>
