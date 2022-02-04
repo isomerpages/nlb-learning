@@ -100,3 +100,46 @@ Set your child up for success in the ever-changing world of technology with prog
 <ul>
 <li><strong>Playlists<br /></strong>A collection of short videos exploring topics around digital concepts.<br /><br /><strong>How Tech Works!<br /></strong>Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</li>
 </ul>
+<table width="602">
+<tbody>
+<tr>
+<td width="35">
+<p>1</p>
+</td>
+<td width="148">
+<p><iframe width="150" height="150" src="https://www.youtube.com/embed/H_rlit9yV4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</td>
+<td width="419">
+<p><strong>&ldquo;Mythbusting Microwaves | December School Holidays Special&rdquo; </strong>(9:40)</p>
+<p>Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah, as she debunks common myths about this everyday appliance and shares a simple cheesy potato recipe you can try at home!</p>
+<p>Source: <a href="https://youtu.be/H_rlit9yV4A">Mythbusting Microwaves | December School Holidays Special</a> (2021, December 18). <em>National Library Board, Singapore. Retrieved 2022, January 26.</em></p>
+</td>
+</tr>
+<tr>
+<td width="35">
+<p>2</p>
+</td>
+<td width="148">
+<p><iframe width="150" height="150" src="https://www.youtube.com/embed/cswo_6kj0Ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</td>
+<td width="419">
+<p><strong>&ldquo;How QR codes were invented!&rdquo; </strong>()</p>
+<p>Do you know how the QR code was invented? With them being everywhere now, find out how a Japanese engineer came up with the inspiration behind its invention.</p>
+<p>Source: <a href="https://youtu.be/cswo_6kj0Ug">How QR codes were invented!</a> (2020, September 26). <em>Government Technology Agency of Singapore. Retrieved 2022, January 26.</em></p>
+</td>
+</tr>
+<tr>
+<td width="35">
+<p>3</p>
+</td>
+<td width="148">
+<p><iframe width="150" height="150" src="https://www.youtube.com/embed/Ta6qq7wnpcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</td>
+<td width="419">
+<p><strong>Cyber Sandra's Hacks - Social Media Impersonation </strong>(1:35)</p>
+<p>&nbsp;</p>
+<p>Can you tell a legit friend request apart from an impersonation scam? Keep yourself safe online by learning the tricks cyber criminals use to get your personal information.</p>
+<p>Source: <a href="https://youtu.be/Ta6qq7wnpcA">Cyber Sandra's Hacks - Social Media Impersonation</a> (2021, June, 4). <em>Cyber Security Agency of Singapore</em>. <em>Retrieved 2022, January 26.</em></p>
+</td>
+</tr>
+</tbody>
