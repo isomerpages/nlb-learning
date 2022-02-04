@@ -47,7 +47,7 @@ Check out our **learning package** for free online graphic design resources.
   <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
       <a href="#playlist-safe">
-        <span>Playlist:<br>CyberSecurity and Emerging Tech</span>
+        <span>Playlist:<br>CyberSecurity and Emerging Tech!</span>
       </a>
     </div>
   </div>
@@ -62,7 +62,7 @@ Check out our **learning package** for free online graphic design resources.
 	
 <h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>A collection of short videos/podcasts to spark your interests in digital and tech concepts.</p>
-<h3 class="margin--bottom--lg" id="playlist-safe"><b>Playlist: CyberSecurity and Emerging Tech</b></h3>
+<h3 class="margin--bottom--lg" id="playlist-safe"><b>Playlist: CyberSecurity and Emerging Tech!</b></h3>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
