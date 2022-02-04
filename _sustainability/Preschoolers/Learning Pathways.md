@@ -96,19 +96,13 @@ What can we do to protect the environment around us? Do you know the different t
         <td style="width: 20%;">Bedok Public Library</td>
       </tr>
 <tr>
-	<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>The Amazing Body!</b></a></td>
-        <td>As your children grow, they will start to recognise the different parts of their amazing bodies. In this programme, we will identify the various body parts, learn more about each of their important functions, and make our own little body puppet!</td>
-        <td>12 Mar 2022 2.00pm-3.00pm</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
 <td><a href="#" target="_blank"><b>Travelling with Bee Bot</b></a></td>
         <td>Come programme Bee Bot to go on an adventure around Singapore. Visit sites such as the Esplanade and the Merlion, all while learning computational thinking. Screens are not needed for this activity! </td>
         <td>19 Feb 2022<br>11.00am – 12.00pm</td>
         <td>Geylang Public Library</td>
       </tr>
 			<tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Marine Animals</b></a></td>
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>[Budding Scientists] Let’s Learn about Ocean and Marine Animals!</b></a></td>
         <td>Descend through the ocean to discover its mesmerizing ocean life. The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. Did you know that clownfish are actually omnivores, which mean they eat both meat and plants? What is the living habitat like for these marine animals? In this session, you will be introduced to the wonders of the oceans and learnt about the fun facts of the marine animals.</td>
         <td>18 Mar 2022<br>3.00pm – 4.00pm</td>
         <td>Zoom</td>
