@@ -76,3 +76,11 @@ Source: <a href="https://youtu.be/HlvK6DLwCz4">How 3D Printers Work | How Things
 </tr>
 </tbody>
 </table>
+<p>
+Check out our learning package for more insights into digital concepts.
+<h3><b>LEARNING PACKAGE</b></h3>
+Spark your child’s curiosity in digital literacy through engaging activities and articles.
+<table style="border-collapse: collapse; width: 35%;" border="1"><tbody><tr><td width="150" height="150"><img src="/images/digital/children/SCWYC.jpg"></td></tr></tbody></table>
+<p><strong>Stay Curious with Your Child: Make a Stop Motion Masterpiece!</strong></p>
+<p>With mobile phone camera technology becoming increasingly robust, why not take advantage of our digital devices to bring the family together. Learn how to film a simple short motion video with your child using their favourite toys as subjects!</p>
+<p><br />Source:<a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child">https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child</a> (,). <em>National Library Board</em>. Retrieved 2022, January 26</p>
