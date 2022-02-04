@@ -104,10 +104,10 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
     <small>Source: Cyber Sandra's Hacks - Social Media Impersonation (2021, June, 4). Cyber Security Agency of Singapore. Retrieved 2022, January 26.</small>
   </div>
 </div>
-
-Use these resources to introduce your child to digital concepts and technology.
 <h3><b>Learning Package</b></h3>
-Articles that will give you an insight into digital concepts.
+Spark your tween’s curiosity in digital literacy through engaging activities and articles.
+<h3><b>Tweenkerama: Robotics and Coding</b></h3> [Lab Mag #1 pages 6 &ndash; 9]<br>
+Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out!</p>
 
 <h5 class="margin--bottom--lg" id="lp-tinker"><b>DIY Tinker Package: Secret Message </b></h5>
 Problem-solve through a do-it-yourself activity, [Secret Messages](/files/Tweenssecretmessages.pdf){:target="_blank"} based on codes and cryptography. Just follow the instructions and have fun!
