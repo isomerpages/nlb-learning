@@ -98,7 +98,7 @@ Go digital with your child and discover a world of technology and innovation tog
 <td style="width: 25%; height: 166px;"><a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama%20" target="_blank"><span style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="color: #000000;">S.T.E.A.M. Lab Mini</span></span></a></td>
 <td style="width: 25%; height: 166px;"><span style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="font-size: 12pt; font-family: Calibri;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.</span></span>  <span style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="font-size: 12pt; font-family: Calibri;">Follow Public Libraries Singapore&rsquo;s Facebook page (https://www.facebook.com/publiclibrarysg) to be notified when the videos go live.</span></span></td>
 <td style="width: 25%; height: 166px;">Mar&rsquo;22</td>
-<td style="width: 25%; height: 166px;">Online</td>
+<td style="width: 25%; height: 166px;">Facebook</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 25%; height: 18px;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank">MiniYOGI</a></td>
