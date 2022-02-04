@@ -67,7 +67,7 @@ Go digital with your child and discover a world of technology and innovation tog
 <td style="width: 25%; height: 395px;">Choa Chu Kang Public Library</td>
 </tr>
 <tr style="height: 41px;">
-<td style="width: 25%; height: 41px;"><a href="%20&lt;a href=&quot;https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849&quot;&gt;here&lt;/a&gt;" target="_blank"><span style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="font-size: 12pt; font-family: Calibri;">Code With Your Child</span></span></a></td>
+<td style="width: 25%; height: 41px;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><span style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="font-size: 12pt; font-family: Calibri;">Code With Your Child</span></span></a></td>
 <td style="width: 25%; height: 41px;"><span style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="font-size: 12pt; font-family: Calibri;">Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. Through hands-on coding gameplays, kids can learn coding concepts without a screen or keyboard and develop problem solving skills, critical thinking, creativity and collaboration.</span></span></td>
 <td style="width: 25%; height: 41px;"><span style="font-size: 12pt; font-family: Calibri;">19 Mar 2022, </span><span style="font-size: 12pt; font-family: Calibri;">2.30pm-4pm&nbsp;</span></td>
 <td style="width: 25%; height: 41px;">Sengkang Public LIbrary</td>
