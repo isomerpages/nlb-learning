@@ -52,15 +52,26 @@ Check out these resources that highlight new digital advancements and opportunit
     </tbody>
   </table>
 </div>
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
       <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
       </tr>
-		</thead>	
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849#events" target="_blank"><b>Fusion 360 for Beginners</b></a></td>
+        <td style="width: 40%;">Join 8059 Blank as they conduct a hands-on workshop aimed at introducing children and teenagers to the basic concepts of computer-aided 3D design. Participants will get to try their hand at creating their very own 3D keychain model, embossed with their own name. 
+</td>
+        <td style="width: 20%;">12 March 2022, 10am - 12pm</td>
+				 <td style="width: 20%;">Zoom</td>
+			</tr>
+    </tbody>
   </table>
-	</div>
+</div> 
+	
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
