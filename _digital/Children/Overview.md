@@ -69,8 +69,10 @@ Discover and explore the ever-changing world of technology together with your ch
 <p>Our S.U.R.E.vivor series promotes the importance of fact-checking. The acronym stands for Source, Understand, Research, Evaluate&mdash;four concepts for children to keep in mind when assessing the reliability of information.&nbsp;</p>
 <p>Click <u>here</u> for the latest programme listings.<br /><br /></p>
 <ul><li><strong>BUDDING CODERS</strong></li></ul>
+<img src="/images/digital/Digital-Prog-Children-01b.png">
 <p>Children will learn coding concepts through hands-on gameplay and develop problem-solving skills, critical thinking, creativity and more.</p><p>Click <u>here</u> for the latest programme listings.</p>
 <ul><li><strong>S.T.E.A.M. LAB</strong></li></ul>
+<img src="images/digital/steamlab.jpg">
 <p>An annual event for children, tweens and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.</p>
 <p>Click <u>here</u> for the latest programme listings.</p>
 <p><strong><u>LEARNING PATHWAYS</u></strong></p>
