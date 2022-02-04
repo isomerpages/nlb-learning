@@ -54,7 +54,6 @@ Set your child up for success in the ever-changing world of technology with prog
 <p><strong>Tech and You!</strong></p>
 <p>Spark your tween’s curiosity in digital literacy through engaging activities and articles.</p>
 <p><u>DISCOVER RECOMMENDED RESOURCES</u></p>
-<p><strong>Playlist:</strong> XXX</p>
 <p><strong>Learning Package: </strong></p>
 <p><strong>Tweenkerama: Robotics and Coding </strong>[Lab Mag #1 pages 6 – 9]<strong><br></strong>Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out!</p>
 <p><u>EXPLORE PROGRAMMES</u></p>
