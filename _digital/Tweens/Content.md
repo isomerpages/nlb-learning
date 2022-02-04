@@ -56,7 +56,7 @@ Check out our **learning package** for some D.I.Y coding fun.
   <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
       <a href="#lp-tinker">
-        <span>How Tech Works!</span>
+        <span>How Tech Works!<br>Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</span>
       </a>
     </div>
   </div>
@@ -69,13 +69,13 @@ A collection of short videos exploring topics around digital concepts.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/B5AuU4PUlIQ"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/H_rlit9yV4A"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Better Internet Campaign 2020 – Check Before You Click (30s) </b><br>
-Is this offer too good to be true? How do you know if you're sharing too much personal information online? Check out this video to learn how to protect yourself from e-commerce scams and to manage your own digital footprint. </p>
-    <small>Source: Better Internet Campaign 2020 – Check Before You Click - YouTube (2020, Aug 21). Media Literacy Council Singapore. Retrieved 2021, December 1. </small>
+    <p><b>“Mythbusting Microwaves | December School Holidays Special” (9:40)</b><br>
+Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah, as she debunks common myths about this everyday appliance and shares a simple cheesy potato recipe you can try at home! </p>
+    <small>Mythbusting Microwaves | December School Holidays Special (2021, December 18). National Library Board, Singapore. Retrieved 2022, January 26.</small>
   </div>
 </div>
 
