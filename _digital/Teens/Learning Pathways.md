@@ -65,37 +65,35 @@ Check out these resources that highlight new digital advancements and opportunit
 			<td style="width: 20%;"><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>CCKPL: Unplugged</b></a></td>
         <td style="width: 40%;">Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!
 </td>
-        <td style="width: 20%;">1st & 3rd Fridays, 3pm - 5pm
+        <td style="width: 20%;">1st & 3rd Fridays, <br>3pm - 5pm
 				</td>
 				 <td style="width: 20%;">Choa Chu Kang Public Library</td></tr>
 			<tr>
-			<td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>[Teens Takeover] | scienti-f(x)
-				<br>Medical Myths Debunked Workshop</b></a></td>
+			<td style="width: 20%;"><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>Medical Myths Debunked Workshop</b></a></td>
         <td style="width: 40%;">Drama, tears, and high stress medical emergencies. These are daily occurrences in a hospital – or are they?
 					<br><br>Featuring a professional nurse, this online programme will uncover the realities of working in the field. Learn about the science used in hospitals, the challenges that nurses face day-to-day, and get ready to debunk myths from your favourite medical shows. 
 					<br><br>This session is in collaboration with MOH Holdings (MOHH).
 </td>
-        <td style="width: 20%;">9 March 2022, 3pm - 4pm
+        <td style="width: 20%;">9 March 2022, <br>3pm - 4pm
 				</td>
 				 <td style="width: 20%;">Zoom</td></tr>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank">
+        <td style="width: 20%;"><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank">
 				<b>Fusion 360 for Beginners</b></a></td>
         <td style="width: 40%;">Join 8059 Blank as they conduct a hands-on workshop aimed at introducing children and teenagers to the basic concepts of computer-aided 3D design. Participants will get to try their hand at creating their very own 3D keychain model, embossed with their own name. 
 </td>
-        <td style="width: 20%;">12 March 2022, 10am - 12pm</td>
+        <td style="width: 20%;">12 March 2022, <br>10am - 12pm</td>
 				 <td style="width: 20%;">Zoom</td>
 				</tr>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank">
-				<b>[Teens Takeover] | scienti-f(x) 
-					<br>Build a LEGO Factory Workshop</b></a></td>
+        <td style="width: 20%;"><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank">
+				<b>Build a LEGO Factory Workshop</b></a></td>
         <td style="width: 40%;">Experience building your own automated robotics – using LEGO!
 					<br><br>In this workshop, you will be introduced to factory manufacturing concepts through hands-on building, coding, and experimentation with LEGO SpikePrime. 
 					<br><br>From smart sorting to autonomous transportation, learn how to construct various elements in a car production line.
 					<br><br>Gain knowledge from engineering experts, and get ready to share your own creations!
 </td>
-        <td style="width: 20%;">18 March 2022, 3pm - 6pm</td>
+        <td style="width: 20%;">18 March 2022, <br>3pm - 6pm</td>
 				 <td style="width: 20%;">Jurong Regional Library</td>
 				</tr>
 						</tbody>
