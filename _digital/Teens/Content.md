@@ -47,14 +47,14 @@ Check out our **learning package** for free online graphic design resources.
   <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
       <a href="#playlist-safe">
-        <span>Playlist:<br>Stay Safe, Stay Informed</span>
+        <span>Playlist:<br>CyberSecurity and Emerging Tech</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
       <a href="#lp-graphic">
-        <span>Learning Package: Graphic Design</span>
+        <span>Learning Package: Music X Technology</span>
       </a>
     </div>
   </div>
@@ -62,18 +62,18 @@ Check out our **learning package** for free online graphic design resources.
 	
 <h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>A collection of short videos/podcasts to spark your interests in digital and tech concepts.</p>
-<h3 class="margin--bottom--lg" id="playlist-safe"><b>Playlist: Stay Safe, Stay Informed</b></h3>
+<h3 class="margin--bottom--lg" id="playlist-safe"><b>Playlist: CyberSecurity and Emerging Tech</b></h3>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/0_IgCwE2f00"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=P2BzN1h1nkI"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> Raffles Institution - Prove It! Contest 2021 Champion (1:01)</b><br>
-This winning entry for National Library Board’s Prove It! Contest 2021 shows how to apply your S.U.R.E. skills in combatting fake news. Work alongside the fact checking heroes as they show you just how they figured it all out.</p>
-    <small>Source: Raffles Institution - Prove It! Contest 2021 Champion - Youtube (2021, Sep 2). <i>National Library Board, Singapore.</i> Retrieved 2021, October 25.</small>
+    <p><b class="has-text-indigo"> How to Spot Signs of Phishing - 2</b><br>
+You wouldn't share your personal and financial information with everyone. So why give away your information to cyber criminals? Learn how to spot signs of phishing with Naomi Yeo and avoid falling victim to phishing scams! </p>
+    <small>Source: How to Spot Signs of Phishing - 2(2021, Aug 26).  <i>Cyber Security Agency of Singapore.</i> Retrieved 2022, January 26.</small>
   </div>
 </div>
 
