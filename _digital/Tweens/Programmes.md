@@ -30,7 +30,7 @@ Introduce your child to future-ready concepts such as coding, robotics, AR and m
 ![Alt text for image on Isomer site](/images/digital/SUREvivor.jpg)
 Our S.U.R.Evivor series promotes the importance of fact-checking. The acronym stands for Source, Understand, Research, Evaluate—four concepts for children to keep in mind when assessing the reliability of information. 
 
-Click here for the latest programme listings.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
 ## **Tweenkerama | TECH**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-Children-02b.png)
@@ -39,12 +39,12 @@ Is your child interested in learning about topics such as coding, robotics, or o
 Tweenkerama gives tweens aged 10-13 years the opportunity to learn and explore topics on S.T.E.A.M. (Science, Technology, Engineering, Art, and Mathematics) through a variety of hands-on and experiential learning activities
 
 
-Click [here](https://go.gov.sg/Tweenkerama){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
 ## **S.T.E.A.M Lab** 
 ![Alt text for image on Isomer site](/images/digital/steamlab.jpg)
 An annual event for children, tweens and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.
 
-Click [here](https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
