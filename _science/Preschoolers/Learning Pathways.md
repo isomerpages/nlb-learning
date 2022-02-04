@@ -127,6 +127,12 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
         <td style="width: 20%;">26 Feb 2022<br>11.00am – 12.00pm</td>
         <td style="width: 20%;">Bedok Public Library</td>
       </tr>
+			<tr>				
+				<td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Travelling with Bee Bot I DiscoverTech</b></a></td>
+        <td style="width: 40%;">Come program Bee-Bot to go on an adventure around Singapore! Visit sites such as Esplanade and the Merlion, all while learning computational thinking! </td>
+        <td style="width: 20%;"> 12 March 2022<br>11.00am – 12.00pm</td>
+        <td style="width: 20%;">Bedok Public Library</td>
+      </tr>
 			<tr>
 <td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Little Bits Creation I DiscoverTech</b></a></td>
         <td>Little Bits are fun swappable, magnetically – connected electronic building blocks that allow you to easily add lights and movement to any crafts project.  Children and parents will learn how littleBits work and create and decorate a character using cardboard in this activity.</td>
