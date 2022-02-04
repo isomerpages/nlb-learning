@@ -75,23 +75,22 @@ Check out our learning package for more insights into digital concepts.
   </div>
   <div class="col is-three-fifths">
     <p><b>My Favourite Days | Storytime (12:54)</b><br>
-Drones! Robots! And more! Be enchanted by how augmented reality enhances this charming story. Try it yourself and see the pages come alive with your smartphone.
+Drones! Robots! And more! Be enchanted by how augmented reality enhances this charming story. Try it yourself and see the pages come alive with your smartphone.<br><br>
 <small>Source: My Favourite Days | Storytime (2021, December 25). National Library Board, Singapore. Retrieved 2022, January 26.</small></p>
   </div>
 </div>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/XmN_DpN9CNs" class="responsive-iframe"></iframe>
+     <iframe src=" https://www.youtube.com/embed/HlvK6DLwCz4" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b> Working Together to Grow a Green Economy</b><br>
-    Another principle of the green economy is collaboration. This video showcases ways of working together by highlighting initiatives from Ethiopia. <br><br>
+  <p><b> How 3D Printers Work | How Things Work with Kamri Noel (2:43)</b><br>
+Do you know how 3D printers work? Join Kamri Noel, as she goes on a quest to understand her 3D printer with the help of a Nat Geo expert. <br><br>
 <small>Source: Working Together to Grow a Green Economy (2016, November 9). World Bank. Retrieved 2021, October 13.</small></p>
   </div>
 </div>
-
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -99,9 +98,9 @@ Drones! Robots! And more! Be enchanted by how augmented reality enhances this ch
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b>Forests: The Heart of the Green Economy</b><br>
-    Nature and the economy are interconnected with protection of nature vital to enable the transition to a green economy. <br><br>
-<small>Source: Forests: The Heart of the Green Economy (2013, June 18). UN Enrichment Programme. Retrieved 2021, October 12.</small></p>
+  <p><b>Learning from Scratch - EP1 (6:30)</b><br>
+ Create your very own maze game using Scratch! Learn what programming is and get started on Scratch. <br><br>
+<small>Source: Learning From Scratch - EP1 (2020, December 23). Government Technology Agency of Singapore. Retrieved 2022, January 26.</small></p>
   </div>
 </div>
 <h3><b>LEARNING PACKAGE</b></h3>
