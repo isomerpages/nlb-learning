@@ -67,7 +67,7 @@ Set your child up for success in the ever-changing world of technology with prog
 <ul>
 <li><strong>S.U.R.E.VIVOR</strong></li>
 </ul>
-<p>Our S.U.R.Evivor series promotes the importance of fact-checking. The acronym stands for Source, Understand, Research, Evaluate&mdash;four concepts for children to keep in mind when assessing the reliability of information.&nbsp;</p>
+<table style="border-collapse: collapse; width: 45%;" border="1"><tbody><tr><td width="150" height="150"><img src="/images/digital/SUREvivor.jpg"></td></tr></tbody></table>																																																	<p>Our S.U.R.Evivor series promotes the importance of fact-checking. The acronym stands for Source, Understand, Research, Evaluate&mdash;four concepts for children to keep in mind when assessing the reliability of information.&nbsp;</p>
 <p>Click <u>here</u> for the latest programme listings.<br /><br /></p>
 <ul>
 <li><strong>TWEENKERAMA | TECH</strong></li>
