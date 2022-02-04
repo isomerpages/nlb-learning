@@ -61,3 +61,44 @@ Set your child up for success in the ever-changing world of technology with prog
     </div>
   </div>
 </div>
+
+<p><strong><u>PROGRAMMES</u></strong></p>
+<p>Introduce your child to future-ready concepts such as coding, robotics, Augmented Reality (AR) and more through interactive, hands-on programmes.</p>
+<ul>
+<li><strong>S.U.R.E.VIVOR</strong></li>
+</ul>
+<p>Our S.U.R.Evivor series promotes the importance of fact-checking. The acronym stands for Source, Understand, Research, Evaluate&mdash;four concepts for children to keep in mind when assessing the reliability of information.&nbsp;</p>
+<p>Click <u>here</u> for the latest programme listings.<br /><br /></p>
+<ul>
+<li><strong>TWEENKERAMA | TECH</strong></li>
+</ul>
+<p>Is your child interested in learning about topics such as coding, robotics, or other tech trends?&nbsp;</p>
+<p>Tweenkerama gives tweens aged 10-13 years the opportunity to learn and explore topics on S.T.E.A.M. (Science, Technology, Engineering, Art, and Mathematics) through a variety of hands-on and experiential learning activities.</p>
+<p><br />Click <u>here</u> for the latest programme listings.</p>
+<ul>
+<li><strong>S.T.E.A.M. LAB</strong></li>
+</ul>
+<p>An annual event for children, tweens and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.</p>
+<p>Click <u>here</u> for the latest programme listings.</p>
+<p><strong><u>LEARNING PATHWAYS</u></strong></p>
+<p>Think of learning pathways as appetizers. <br />Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.</p>
+<p><strong>Tech and You!</strong></p>
+<p>Spark your tween&rsquo;s curiosity in digital literacy through engaging activities and articles.</p>
+<p><u>DISCOVER RECOMMENDED RESOURCES</u></p>
+<p><strong>Playlist:</strong> XXX</p>
+<p><strong>Learning Package: </strong></p>
+<p><strong>Tweenkerama: Robotics and Coding </strong>[Lab Mag #1 pages 6 &ndash; 9]<strong><br /></strong>Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out!</p>
+<p><u>EXPLORE PROGRAMMES</u></p>
+<p><u>DISCOVER OTHER LEARNING FOCUS AREAS</u></p>
+<p><strong>S.T.E.A.M. Lab Mini</strong></p>
+<p>Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.</p>
+<p>Follow Public Libraries Singapore&rsquo;s Facebook page to be notified when the videos go live. Mar 2022</p>
+<p><strong><u>CONTENT</u></strong></p>
+<p>Check out these resources to help you navigate the digital world, from keeping your information protected to learning more about how technology works!</p>
+<p>&nbsp;</p>
+<p>Check out our playlist for a collection of short videos/podcasts on keeping your information safe, and how technology can improve your daily life.</p>
+<p>&nbsp;</p>
+<p>Check out our learning package for some D.I.Y coding fun.</p>
+<ul>
+<li><strong>Playlists<br /></strong>A collection of short videos exploring topics around digital concepts.<br /><br /><strong>How Tech Works!<br /></strong>Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</li>
+</ul>
