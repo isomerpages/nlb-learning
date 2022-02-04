@@ -73,7 +73,7 @@ Go digital with your child and discover a world of technology and innovation tog
 <td style="width: 25%; height: 41px;">Sengkang Public LIbrary</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 25%; height: 18px;"><a href="%20&lt;a href=&quot;https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849&quot;&gt;here&lt;/a&gt;" target="_blank"><span style="line-height: 107%; margin-top: 0pt; margin-bottom: 8pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="font-size: 11pt; font-family: Calibri;">My Art Buddy | Hot Air Balloon</span></span></a></td>
+<td style="width: 25%; height: 18px;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><span style="line-height: 107%; margin-top: 0pt; margin-bottom: 8pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="font-size: 11pt; font-family: Calibri;">My Art Buddy | Hot Air Balloon</span></span></a></td>
 <td style="width: 25%; height: 18px;"><span style="line-height: 107%; margin: 0pt 0in 8pt; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;"><span style="font-size: 11pt; font-family: Calibri;">Experimenting with new prototyping tools and processes, including using recyclable materials and coding kit &ndash; children will learn to build a small hot air balloon.</span></span></td>
 <td style="width: 25%; height: 18px;">18 Mar 2022, <br />10:00am-12:00pm</td>
 <td style="width: 25%; height: 18px;">Toa Payoh public Library</td>
