@@ -111,12 +111,6 @@ In fact, they will soon realise computational thinking exists in all aspects of 
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Scientists: It’s Time To Learn About Time</b></a></td>
-        <td style="width: 40%;">Time may feel too abstract a concept to teach our little ones. Never fear! In this simple yet interactive and fun programme, your child will be introduced to the world of seconds, minutes, hours and routines as they create their very own time-teller. From clocks to calendars, sundials to hourglasses, have your child become happy horologists as they journey through Time. </td>
-        <td style="width: 20%;">15 Jan 2022 <br>2.00pm – 3.00pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Budding Engineers: Blast Off with Magnetic Rockets!</b></a></td>
         <td>Children will learn about how magnets work in this fun and exciting screen-free activity. </td>
