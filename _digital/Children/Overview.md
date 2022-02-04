@@ -37,7 +37,7 @@ Discover and explore the ever-changing world of technology together with your ch
 <p>Click <u><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank">here</a></u> for the latest programme listings.<br><br></p>
 <ul><li><strong>BUDDING CODERS</strong></li></ul>
 <table style="border-collapse: collapse; width: 35%;" border="0"><tbody><tr><td width="150" height="150"><img src="/images/digital/Digital-Prog-Children-01b.png"></td></tr></tbody></table>	
-<p>Children will learn coding concepts through hands-on gameplay and develop problem-solving skills, critical thinking, creativity and more.</p><p>Click <u><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849">here</a></u> for the latest programme listings.</p>
+<p>Children will learn coding concepts through hands-on gameplay and develop problem-solving skills, critical thinking, creativity and more.</p><p>Click <u><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank">here</a></u> for the latest programme listings.</p>
 <ul><li><strong>S.T.E.A.M. LAB</strong></li></ul>
 <table style="border-collapse: collapse; width: 35%;" border="0"><tbody><tr><td width="150" height="150"><img src="images/digital/steamlab.jpg"></td></tr></tbody></table>
 <p>An annual event for children, tweens and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.</p>
