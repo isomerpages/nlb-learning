@@ -95,9 +95,7 @@ Set your child up for success in the ever-changing world of technology with prog
 <p>Follow Public Libraries Singapore&rsquo;s Facebook page to be notified when the videos go live. Mar 2022</p>
 <p><strong><u>CONTENT</u></strong></p>
 <p>Check out these resources to help you navigate the digital world, from keeping your information protected to learning more about how technology works!</p>
-<p>&nbsp;</p>
 <p>Check out our playlist for a collection of short videos/podcasts on keeping your information safe, and how technology can improve your daily life.</p>
-<p>&nbsp;</p>
 <p>Check out our learning package for some D.I.Y coding fun.</p>
 <ul>
 <li><strong>Playlists<br /></strong>A collection of short videos exploring topics around digital concepts.<br /><br /><strong>How Tech Works!<br /></strong>Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</li>
