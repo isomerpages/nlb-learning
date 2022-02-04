@@ -64,7 +64,9 @@ Discover and explore the ever-changing world of technology together with your ch
 </div>
 <p><strong><u>PROGRAMMES</u></strong></p>
 <p>Introduce your child to future-ready concepts such as coding, robotics, Augmented Reality (AR) and more through interactive, hands-on programmes.</p>
-<ul><li><strong>S.U.R.E.VIVOR</strong></li></ul><p>Our S.U.R.E.vivor series promotes the importance of fact-checking. The acronym stands for Source, Understand, Research, Evaluate&mdash;four concepts for children to keep in mind when assessing the reliability of information.&nbsp;</p>
+<ul><li><strong>S.U.R.E.VIVOR</strong></li></ul>
+<img src=”S.U.R.E.vivor.png”>
+<p>Our S.U.R.E.vivor series promotes the importance of fact-checking. The acronym stands for Source, Understand, Research, Evaluate&mdash;four concepts for children to keep in mind when assessing the reliability of information.&nbsp;</p>
 <p>Click <u>here</u> for the latest programme listings.<br /><br /></p>
 <ul><li><strong>BUDDING CODERS</strong></li></ul>
 <p>Children will learn coding concepts through hands-on gameplay and develop problem-solving skills, critical thinking, creativity and more.</p><p>Click <u>here</u> for the latest programme listings.</p>
