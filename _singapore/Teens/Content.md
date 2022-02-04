@@ -120,7 +120,7 @@ Singapore has undergone massive developments in the decades past. Take a look at
 
 <h5 class="margin--bottom--lg" id="Curiocity"><b>Playlist: Curiocity</b></h5>
 
-Singapore has undergone massive developments in the decades past. Take a look at how your neighbourhood has evolved through the Curiocity [website](https://curiocity.nlb.gov.sg){target="_blank"}.
+Singapore has undergone massive developments in the decades past. Take a look at how your neighbourhood has evolved through the Curiocity [website](https://curiocity.nlb.gov.sg){:target="_blank"}.
 
 Curiocity leverages story maps, or place-based digital storytelling, to provide users an interactive and immersive way to uncover and rediscover the history of Singapore through a curated selection of heritage materials from the collections of the National Library (NL) and the National Archives of Singapore (NAS). 
 
