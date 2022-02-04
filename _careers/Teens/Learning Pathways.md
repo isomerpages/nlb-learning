@@ -13,18 +13,18 @@ Clueless about which career is suitable for you? Discover and explore various ca
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+        <th class="is-uppercase has-weight-normal" colspan="4">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/careers/teens/content" target="_blank"><b>Teen.Things: Emailing 101</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/careers/teens/content"><b>Teen.Things: Emailing 101</b></a></td>
         <td style="width: 40%;">We’ve all sent emails out to friends and teachers before, but crafting a professional email is a whole different ball game. If you aren’t sure what should go into formal emails, here are some tips and tricks that are sure to impress any recipient!</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="/careers/teens/content" target="_blank"><b>A Day in the Life of: Healthcare Professionals</b></a></td>
+        <td><a target="_blank" href="/careers/teens/content"><b>A Day in the Life of: Healthcare Professionals</b></a></td>
         <td>Considering a career in healthcare? Then you won’t want to miss getting an intimate look into the daily lives of different healthcare professionals and hearing their inspiring stories.</td>
         <td></td>
         <td></td>
@@ -37,12 +37,12 @@ Clueless about which career is suitable for you? Discover and explore various ca
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Explore With Industry Speakers And Trainers</th>
+        <th class="is-uppercase has-weight-normal" colspan="4">Explore With Industry Speakers And Trainers</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="http://go.gov.sg/nlb-teensprogs" target="_blank"><b> A Day In The Life Of A Digital Forensic Specialist| portfolio | Teens Takeover </b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="http://go.gov.sg/nlb-teensprogs"><b> A Day In The Life Of A Digital Forensic Specialist| portfolio | Teens Takeover </b></a></td>
         <td style="width: 40%;">Get an intimate look into the daily lives of different professionals in this  series for teens aged 13-17, and get inspired to explore possible careers of your future. In collaboration with Nanyang Polytechnic. </td>
         <td style="width: 20%;">12 Mar 2022,<br>11am - 12.30pm</td>
         <td style="width: 20%;">Zoom</td>
@@ -61,12 +61,12 @@ Clueless about which career is suitable for you? Discover and explore various ca
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Use And Apply Skills</th>
+        <th class="is-uppercase has-weight-normal" colspan="4">Use And Apply Skills</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="http://go.gov.sg/get-professional-series" target="_blank"><b>[Get Professional series] Interview Skills</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="http://go.gov.sg/get-professional-series"><b>[Get Professional series] Interview Skills</b></a></td>
         <td style="width: 40%;">Get equipped with the skills required to ace job interviews and leave a lasting impression on your interviewer.</td>
         <td style="width: 20%;">4 Feb 2022,<br>7pm - 9pm</td>
         <td style="width: 20%;">Zoom</td>
@@ -78,18 +78,19 @@ Clueless about which career is suitable for you? Discover and explore various ca
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Areas</th>
+        <th class="is-uppercase has-weight-normal" colspan="4">Discover Other Learning Focus Areas</th>
       </tr>
     </thead>
     <tbody>
 <tr>
-<td href="http://go.gov.sg/nlb-teensprogs”><b>Deep Sea Horror Workshop | scienti-f(x) | Teens Takeover</b></a></td>
-        <td style=" style="width: 20%;><a target="> Dive into the depths with experts from the Lee Kong Chian Natural History Museum to explore the uncharted waters of the deep sea.</td>
+<td style="width: 20%;"><a href="http://go.gov.sg/nlb-teensprogs”>
+	<b> Deep Sea Horror Workshop | scienti-f(x) | Teens Takeover </b></a></td>
+        <td style=" target="_blank"> Dive into the depths with experts from the Lee Kong Chian Natural History Museum to explore the uncharted waters of the deep sea.</a></td>
         <td style="width: 20%;"> 5 Feb 2022,<br>2pm – 3.30pm</td>
         <td style="width: 20%;"> Zoom</td>
       </tr>
       <tr>
-        <td><a href="http://go.gov.sg/nlb-teensprogs" target="_blank"><b> Build a LEGO Factory Workshop | scienti-f(x) | Teens Takeover </b></a></td>
+        <td><a target="_blank" href="http://go.gov.sg/nlb-teensprogs"><b> Build a LEGO Factory Workshop | scienti-f(x) | Teens Takeover </b></a></td>
         <td> Experience building your own automated robotics – using LEGO! In this workshop, you will be introduced to factory manufacturing concepts through hands-on building, coding, and experimentation with LEGO SpikePrime.</td>
         <td> 18 Mar 2022,<br>3pm – 6pm</td>
         <td> Jurong Regional Library</td>
