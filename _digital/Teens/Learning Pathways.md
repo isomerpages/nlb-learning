@@ -44,8 +44,8 @@ Check out these resources that highlight tips on keeping your online information
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="/digital/teens/content"><b> Teen.Things: Graphic Design is My Passion </b></a></td>
-        <td> Need something more than MS Paint for your projects? Here’s a list of five free and easy-to-use online resources for you to experiment with graphic design and web-page building. </td>
+        <td><a href="/digital/teens/content"><b> Teen.Things: Music X Technology </b></a></td>
+        <td> Check out these online resources to explore how the music industry consistently reinvents itself to keep up with the ever-evolving advances of technology. </td>
         <td></td>
         <td></td>
       </tr>
@@ -56,7 +56,7 @@ Check out these resources that highlight tips on keeping your online information
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Explore Experiences</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
       </tr>
 		</thead>	
   </table>
