@@ -48,7 +48,7 @@ Check out our **learning package** for some D.I.Y coding fun.
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-sky-indigo">
-      <a href="#Playlist">
+      <a href="#Playlist:A collection of short videos exploring topics around digital concepts.">
         <span>Playlist:<br>A collection of short videos exploring topics around digital concepts.</span>
       </a>
     </div>
