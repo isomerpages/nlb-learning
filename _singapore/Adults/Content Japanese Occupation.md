@@ -283,7 +283,7 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="lp-fall-of-singapore"> class="margin--bottom--lg"><b> Japanese Occupation: Fall of Singapore </b></h5>
+<h5 id="lp-fall-of-singapore"> <b> Japanese Occupation: Fall of Singapore </b></h5>
 <p> The fall of Singapore on 15 February 1942 in the Second World War is, as Winston Churchill put it, ‘the worst disaster and largest capitulation in British history’. </p>
 <b></b>
 <p> Since 1942, there has been a steady flow of books and articles on this subject. Earlier works focused on the conduct of the military campaign, but as the archives started opening their records, the focus has shifted to the broader issues of strategy and international relations.</p>
