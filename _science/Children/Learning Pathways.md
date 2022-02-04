@@ -61,11 +61,7 @@ Stay tuned for more updates.</td>
 	<td></td>
 	<td></td>
       </tr>
-<td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primar
-
-<div class=">
-  <table class="generic-table">
-    <thead>
-      <tr>
- 
-</tr></thead></table></a></td></tr></tbody></table></div>
+      </tr>
+    </tbody>
+  </table>
+</div>
