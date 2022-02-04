@@ -75,7 +75,7 @@ A collection of short videos exploring topics around digital concepts.
   <div class="col is-three-fifths">
     <p><b>“Mythbusting Microwaves | December School Holidays Special” (9:40)</b><br>
 Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah, as she debunks common myths about this everyday appliance and shares a simple cheesy potato recipe you can try at home! </p>
-    <small>Mythbusting Microwaves | December School Holidays Special (2021, December 18). National Library Board, Singapore. Retrieved 2022, January 26.</small>
+    <small>Source: Mythbusting Microwaves | December School Holidays Special (2021, December 18). National Library Board, Singapore. Retrieved 2022, January 26.</small>
   </div>
 </div>
 
@@ -88,7 +88,7 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
   <div class="col is-three-fifths">
     <p><b>How QR codes were invented!” (1:30)</b><br>
 <p>Do you know how the QR code was invented? With them being everywhere now, find out how a Japanese engineer came up with the inspiration behind its invention. </p>
-    <small>How QR codes were invented! (2020, September 26). Government Technology Agency of Singapore. Retrieved 2022, January 26. </small>
+    <small>Source:How QR codes were invented! (2020, September 26). Government Technology Agency of Singapore. Retrieved 2022, January 26. </small>
   </div>
 </div>
 
@@ -105,11 +105,10 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
   </div>
 </div>
 <h3><b>Learning Package</b></h3>
-Spark your tween’s curiosity in digital literacy through engaging activities and articles.
+<p>Spark your tween’s curiosity in digital literacy through engaging activities and articles.</p>
 <h3><b>Tweenkerama: Robotics and Coding</b></h3> [Lab Mag #1 pages 6 &ndash; 9]<br>
-Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out!</p>
+<p>Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out!</p>
+<small>Source: https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama (,). National Library Board. Retrieved 2022, January 26</small>
 
-<h5 class="margin--bottom--lg" id="lp-tinker"><b>DIY Tinker Package: Secret Message </b></h5>
-Problem-solve through a do-it-yourself activity, [Secret Messages](/files/Tweenssecretmessages.pdf){:target="_blank"} based on codes and cryptography. Just follow the instructions and have fun!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
