@@ -68,12 +68,22 @@ Check out these resources to help you navigate the digital world, from keeping y
         <td>Zoom</td>
       </tr>
 			<tr>
-        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>My Art Buddy | Dancing Orchids
+        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>[Tweenkerama | Tech
+]<br>My Art Buddy | Dancing Orchids
 </b></a></td>
         <td>Experimenting with new prototyping tools and processes, including using recyclable materials and coding kit – children will learn to use connectors and straws to build a pyramid vase and a flower with movement and lights.
 </td>
         <td>16 March 2022,<br>10am - 12:30pm</td>
-        <td>Zoom</td>
+        <td>Bishan Public Library</td>
+      </tr>
+			<tr>
+        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>[Tweenkerama | Tech
+]<br>My Art Buddy | Singapore Flyer
+</b></a></td>
+        <td>Experimenting with new prototyping tools and processes, including using recyclable materials and coding kit – children will learn to build a small Singapore Flyer-esque structure with rotating wheels.
+</td>
+        <td>17 March 2022,<br>10am - 1pm</td>
+        <td>Toa Payoh Public Library</td>
       </tr>
 		</tbody>
   </table>
