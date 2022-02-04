@@ -80,7 +80,7 @@ Check out these resources that highlight new digital advancements and opportunit
 			<tr>
         <td style="width: 20%;"><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank">
 				<b>Fusion 360 for Beginners</b></a></td>
-        <td style="width: 40%;">Join 8059 Blank as they conduct a hands-on workshop aimed at introducing children and teenagers to the basic concepts of computer-aided 3D design. Participants will get to try their hand at creating their very own 3D keychain model, embossed with their own name. 
+        <td style="width: 40%;">Join 8059 Blank. as they conduct a hands-on workshop aimed at introducing children and teenagers to the basic concepts of computer-aided 3D design. Participants will get to try their hand at creating their very own 3D keychain model, embossed with their own name. 
 </td>
         <td style="width: 20%;">12 March 2022, <br>10am - 12pm</td>
 				 <td style="width: 20%;">Zoom</td>
