@@ -105,7 +105,7 @@ Karan Chahal is a sophomore at Evergreen Valley High School with a strong passio
 </div>
 
 <h3><b>Learning Package</b></h3>
-<a name="lp-design">![Graphic Design is My Passion header](images/digital/teens/tt21-header-gd.png)</a>
+<a name="lp-design">![MusicxTechnology header](images/digital/teens/tt_MusicxTech.png)</a>
 <h5 class="margin--bottom--lg" id="lp-graphic"><b>Graphic Design is My Passion</b></h5>
 Need something more than MS Paint for your projects? Get creative with five free and easy-to-use online resources for you to experiment with graphic design and web-page building. 
 
