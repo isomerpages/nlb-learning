@@ -38,7 +38,7 @@ third_nav_title: Tweens
 .clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
 </style>
 
-<p>Check out these resources to help you navigate the digital world, from keeping your information protected to learning more about how technology works!</P>
+<p>Check out these resources to help you navigate the digital world, from keeping your information protected to learning more about how technology works!</p>
 
 Check out our **playlist** for a collection of short videos/podcasts on keeping your information safe, and how technology can improve your daily life. 
 
