@@ -15,7 +15,7 @@ Check out our learning package for more insights into digital concepts.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank"><b>Playlist</b></a></td>
+        <td style="width: 20%;"><a href="#playlist" target="_blank"><b>Playlist</b></a></td>
         <td style="width: 40%;">Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
