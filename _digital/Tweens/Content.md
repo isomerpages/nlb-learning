@@ -49,8 +49,6 @@ Check out our **learning package** for some D.I.Y coding fun.
       <tr>
         <td style="width: 20%;"><a href="#playlist"><b>Playlists</b></a></td>
         <td style="width: 40%;">A collection of short videos exploring topics around digital concepts.</td>
-        <td style="width: 20%;"> </td>
-        <td style="width: 20%;"> </td>
       </tr>
       <tr>
         <td><a href=""><b>How Tech Works!</b></a></td>
