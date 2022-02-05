@@ -80,8 +80,8 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
   <div class="col is-three-fifths">
     <p><b>How QR codes were invented!” (1:30)</b><br>
 Do you know how the QR code was invented? With them being everywhere now, find out how a Japanese engineer came up with the inspiration behind its invention. </p>
-    <small>Source:How QR codes were invented! (2020, September 26). Government Technology Agency of Singapore. Retrieved 2022, January 26. </small>
-  </div>
+<small>Source:How QR codes were invented! (2020, September 26). Government Technology Agency of Singapore. Retrieved 2022, January 26. </small>
+</div>
 </div>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -92,8 +92,8 @@ Do you know how the QR code was invented? With them being everywhere now, find o
   <div class="col is-three-fifths">
     <p><b> Cyber Sandra's Hacks - Social Media Impersonation (1:35)</b><br>
 Can you tell a legit friend request apart from an impersonation scam? Keep yourself safe online by learning the tricks cyber criminals use to get your personal information. </p>
-    <small>Source: Cyber Sandra's Hacks - Social Media Impersonation (2021, June, 4). Cyber Security Agency of Singapore. Retrieved 2022, January 26.</small>
-  </div>
+<small>Source: Cyber Sandra's Hacks - Social Media Impersonation (2021, June, 4). Cyber Security Agency of Singapore. Retrieved 2022, January 26.</small>
+</div>
 </div>
 <h3><b>Learning Package</b></h3>
 <p>Spark your tween’s curiosity in digital literacy through engaging activities and articles.</p>
