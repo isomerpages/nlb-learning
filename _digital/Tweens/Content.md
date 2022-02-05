@@ -38,32 +38,33 @@ third_nav_title: Tweens
 .clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
 </style>
 
-<h3><b>Playlist </b></h3>
-Check out these resources to help you navigate the digital world, from keeping your information protected to learning more about how technology works!
+<p>Check out these resources to help you navigate the digital world, from keeping your information protected to learning more about how technology works!</P>
 
 Check out our **playlist** for a collection of short videos/podcasts on keeping your information safe, and how technology can improve your daily life. 
 
 Check out our **learning package** for some D.I.Y coding fun.
 
-<div class="row is-multiline">
-  <div class="col is-one-half">
-    <div class="clickbox is-sky-indigo">
-      <a href="#playlist">
-        <span>Playlist:</span>
-      </a>
-			<br>A collection of short videos exploring topics around digital concepts.
-    </div>
-  </div>
-  <div class="col is-one-half">
-    <div class="clickbox is-sky-indigo">
-      <a href="#Howtechworks">
-				<span>How Tech Works!</span>
-      </a>
-			<br>Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.
-    </div>
-  </div>
-  </div>
-
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="#playlist"><b>Playlists</b></a></td>
+        <td style="width: 40%;">A collection of short videos exploring topics around digital concepts.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href=""><b>How Tech Works!</b></a></td>
+        <td>Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</td>
+        <td></td>
+        <td> </td>
+      </tr>
+<tr>
+</tbody>
+</table>
+</div>
 <h5 id=playlist class="margin--bottom--lg" id="playlist-informed"><b>Playlists:
 A collection of short videos exploring topics around digital concepts.
  </b></h5>
