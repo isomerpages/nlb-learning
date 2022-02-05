@@ -37,7 +37,7 @@ Spark your child’s curiosity in digital literacy through engaging activities a
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/Tweens-Secret Messages.pdf" target="_blank"><b>Learning Package: 
-Tweenkerama: Robotics and Coding [Lab Mag #1 pages 6 – 9]
+					Tweenkerama: Robotics and Coding [Lab Mag #1 pages 6 – 9]
 </b></a></td>
         <td style="width: 40%;">Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out!
 </td>
