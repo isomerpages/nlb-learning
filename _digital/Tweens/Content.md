@@ -77,7 +77,6 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
     <small>Source: Mythbusting Microwaves | December School Holidays Special (2021, December 18). National Library Board, Singapore. Retrieved 2022, January 26.</small>
   </div>
 </div>
-
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -107,6 +106,4 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
 <h3><b>Tweenkerama: Robotics and Coding</b></h3> [Lab Mag #1 pages 6 &ndash; 9]<br>
 <p>Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out!</p>
 <small>Source: https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama (,). National Library Board. Retrieved 2022, January 26</small>
-
-
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
