@@ -36,7 +36,7 @@ Spark your child’s curiosity in digital literacy through engaging activities a
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/Tweens-Secret Messages.pdf" target="_blank"><b>Learning Package: 
+        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/images/diyresources/secondary/FA_Tweenkerama-Issue-1.pdf" target="_blank"><b>Learning Package: 
 <br>Tweenkerama: Robotics and Coding 
 					<br><small>[Lab Mag #1 pages 6 – 9]</small>
 </b></a></td>
