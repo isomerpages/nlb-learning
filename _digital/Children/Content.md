@@ -67,8 +67,8 @@ Do you know how 3D printers work? Join Kamri Noel, as she goes on a quest to und
 </div>
 <h3><b>LEARNING PACKAGE</b></h3>
 Spark your child’s curiosity in digital literacy through engaging activities and articles.
-<img src="/images/digital/children/SCWYC.jpg">														
+<img src="/images/digital/children/SCWYC.jpg" alt="SCWYC" style="width:40%;">														
 <p><b>Say Curious with Your Child: Make a Stop Motion Masterpiece!</b></p>
 With mobile phone camera technology becoming increasingly robust, why not take advantage of our digital devices to bring the family together. Learn how to film a simple short motion video with your child using their favourite toys as subjects!
-<p>
-<small>Source:  https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child (,). National Library Board. Retrieved 2022, January 26</small>
+<p></p>
+<small> Source:https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child (,). National Library Board. Retrieved 2022, January 26</small>
