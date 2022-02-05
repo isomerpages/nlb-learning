@@ -63,10 +63,8 @@ Check out our **learning package** for some D.I.Y coding fun.
 </tbody>
 </table>
 </div>
-<h5 id=playlist class="margin--bottom--lg" id="playlist-informed"><b>Playlists:
-A collection of short videos exploring topics around digital concepts.
+<h5 id=playlist class="margin--bottom--lg" id="playlist-informed"><b>Playlists: A collection of short videos exploring topics around digital concepts.
  </b></h5>
-
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
