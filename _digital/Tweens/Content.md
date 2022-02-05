@@ -94,7 +94,6 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
     <small>Source:How QR codes were invented! (2020, September 26). Government Technology Agency of Singapore. Retrieved 2022, January 26. </small>
   </div>
 </div>
-
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
