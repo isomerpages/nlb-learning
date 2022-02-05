@@ -36,20 +36,15 @@ Spark your child’s curiosity in digital literacy through engaging activities a
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/Tweens-Secret Messages.pdf" target="_blank"><b>Learning Package: Secret Message</b></a></td>
-        <td style="width: 40%;">Problem-solve through a do-it-yourself activities based on codes and cryptography. Just follow the instructions and have fun!
+        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/Tweens-Secret Messages.pdf" target="_blank"><b>Learning Package: 
+Tweenkerama: Robotics and Coding [Lab Mag #1 pages 6 – 9]
+</b></a></td>
+        <td style="width: 40%;">Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out!
 </td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
-      <tr>
-        <td><a href="/digital/tweens/content" target="_blank"><b>Playlist: Be Informed, Be Safe</b></a></td>
-        <td> Be Informed, Be Safe<br>
-Check out these resources to help you navigate the digital world, from keeping your information protected to ensuring that you are equipped to analyse and debunk fake news!</td>
-        <td> </td>
-        <td> </td>
-      </tr>
-    </tbody>
+</tbody>
   </table>
 </div>
 
