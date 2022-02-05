@@ -20,7 +20,7 @@ Check out our learning package for more insights into digital concepts.
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/sustainability/adults-seniors/content"><b>Wonders of Tech!</b></a></td>
+        <td><a href=""><b>Wonders of Tech!</b></a></td>
         <td>Learn more about the different ways technology can be used in your everyday life. Become even more digitally savvy through our curated resources for you below.</td>
         <td></td>
         <td> </td>
