@@ -43,7 +43,6 @@ third_nav_title: Tweens
 Check out our **playlist** for a collection of short videos/podcasts on keeping your information safe, and how technology can improve your daily life. 
 
 Check out our **learning package** for some D.I.Y coding fun.
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <tbody>
@@ -56,10 +55,7 @@ Check out our **learning package** for some D.I.Y coding fun.
       <tr>
         <td><a href=""><b>How Tech Works!</b></a></td>
         <td>Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</td>
-        <td></td>
-        <td> </td>
       </tr>
-<tr>
 </tbody>
 </table>
 </div>
