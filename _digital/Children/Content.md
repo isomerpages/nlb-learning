@@ -9,26 +9,25 @@ Use these resources to introduce your child to digital concepts and technology.
 Check out our playlist for a collection of short videos/podcasts on technology.
 
 Check out our learning package for more insights into digital concepts.
-<div class="row is-multiline">
-  <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="#playlist">
-        <span>Playlist</span>
-      </a>
-			<br>Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.
-    </div>
-  </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="#Wonders-of-tech!">
-        <span>Wonders of Tech!</span>
-      </a>
-			<br>Learn more about the different ways technology can be used in your everyday life. Become even more digitally savvy through our curated resources for you below.
-    </div>
-  </div>
-<p>
-Check out our learning package for more insights into digital concepts.
-</p>
+
+<table class="generic-table">
+    <thead>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank"><b>Playlist</b></a></td>
+        <td style="width: 40%;">Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="/sustainability/adults-seniors/content"><b>Wonders of Tech!</b></a></td>
+        <td>Learn more about the different ways technology can be used in your everyday life. Become even more digitally savvy through our curated resources for you below.</td>
+        <td></td>
+        <td> </td>
+      </tr>
+    </tbody>
+  </table>
 <h5 id="playlist"><b>Playlist: Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</b></h5>
 <br>
 <div class="row is-multiline margin--bottom--lg">
