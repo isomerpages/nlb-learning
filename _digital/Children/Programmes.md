@@ -42,7 +42,7 @@ Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singap
 
 ## **S.T.E.A.M Lab** 
 ![Alt text for image on Isomer site](/images/digital/steamlab.jpg)
-Children will learn coding concepts through hands-on gameplay and develop problem-solving skills, critical thinking, creativity and more.
+An annual event for children, tweens and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.
 
 Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
