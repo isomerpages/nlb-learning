@@ -46,8 +46,6 @@ Check out our **learning package** for some D.I.Y coding fun.
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
-    <thead>
-    </thead>
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="#playlist"><b>Playlists</b></a></td>
