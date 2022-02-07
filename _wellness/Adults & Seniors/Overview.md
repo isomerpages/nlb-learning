@@ -50,3 +50,18 @@ Through expert talks, workshops, curated learning packages and more, delve into 
       </a>
     </div>
   </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="/wellness/adults-seniors/programmes">
+        <span>Programmes</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="/wellness/adults-seniors/learning-pathways">
+        <span>Learning<br>Pathways</span>
+      </a>
+    </div>
+  </div>
+</div>
