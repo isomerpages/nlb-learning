@@ -301,6 +301,7 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 			</td>
 	</tr>
 	</tbody></table>
+	
 <b></b>
 <li> These curated set of articles and books shed lights on the historic event.</li>
 
