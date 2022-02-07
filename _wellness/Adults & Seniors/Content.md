@@ -126,6 +126,6 @@ A key pillar of physical wellness is a healthy, balanced diet. However, when it 
 <a href="https://www.healthxchange.sg/food-nutrition/weight-management/eating-right-healthy-plate-understanding-food-labels" target="_blank"><img src="/images/wellness/adults-and-seniors/wellness-article2.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
 </p><p> Pick up tips on reading food labels and learn how you can adopt healthier eating habits with Health Promotion Board’s My Healthy Plate.
 </p>
-<p><a href="=" target="_blank"> Read the article here</a>. </p>
-<small>Source: 7 Signs That Show You Are Not Getting Enough Nutrients. Active Health. Retrieved 2021, December 20. Photo by Foodie Factor from Pexels.</small>
+<p><a href="https://www.healthxchange.sg/food-nutrition/weight-management/eating-right-healthy-plate-understanding-food-labels" target="_blank"> Read the article here</a>. </p>
+<small>Source: Source: Eating Right: Healthy Plate and Understanding Food Labels. HealthXchange.sg Retrieved 2021, December 20. Photo by Foodie Factor from Pexels.</small>
 </p>
