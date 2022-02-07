@@ -43,11 +43,10 @@ Wellness, A catch-all term that encompasses health, well-being and contentment, 
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="/wellness/adults-seniors/content">
-        <span>Content</span>
+      <a href="/wellness/adults-seniors/overview">
+        <span>Adults & Seniors</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
-      
