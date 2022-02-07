@@ -140,11 +140,21 @@ A key pillar of physical wellness is a healthy, balanced diet. However, when it 
 </p>
 
 <h4>eBooks & Audiobooks</h4>
-<h5>The Blue Zone Solution </h5>
+<h5>1. The Blue Zone Solution </h5>
 Dan Buettner, (2015), The Blue Zones Solution: Eating and Living Like the World's Healthiest People.<br>
 Washington, D.C.: National Geographic.
 <p>
 <a href="https://share.libbyapp.com/title/1927185" target="_blank"><img src="/images/wellness/adults-and-seniors/bluezones-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> What are the diets, eating habits, and lifestyle practices of the world’s longest-lived communities? Based on longevity research of what Dan Buettner has identified as "Blue Zones", take inspiration from these communities on how you can lead a healthier and longer life.</p>
+<p><a href="https://share.libbyapp.com/title/1927185" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/1927185. Retrieved from Libby. </small>
+</p>
+
+<h5>2. Food Rules </h5>
+Michael Pollan, (2021), Food Rules:  An Eater's Manual.<br>
+London: Penguin Books.
+<p>
+<a href=https://share.libbyapp.com/title/292644" target="_blank"><img src="/images/wellness/adults-and-seniors/bluezones-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
 </p><p> What are the diets, eating habits, and lifestyle practices of the world’s longest-lived communities? Based on longevity research of what Dan Buettner has identified as "Blue Zones", take inspiration from these communities on how you can lead a healthier and longer life.</p>
 <p><a href="https://share.libbyapp.com/title/1927185" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
 <small>https://share.libbyapp.com/title/1927185. Retrieved from Libby. </small>
