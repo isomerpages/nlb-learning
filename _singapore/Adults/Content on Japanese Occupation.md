@@ -243,7 +243,7 @@ Recounts the Civilian War Memorial project, a monument dedicated to civilians wh
 <ul>
 <li> There was also a volunteer force who helped defend Singapore. They were made up of Europeans, Chinese and Eurasians from all walks of life.</li>
 <b></b>
-<li>These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.</li></p>
+<li>These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.</li></ul>
 	</td>
 	</tr>
 	</tbody></table>
