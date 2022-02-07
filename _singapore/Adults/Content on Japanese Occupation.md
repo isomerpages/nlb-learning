@@ -236,12 +236,18 @@ Recounts the Civilian War Memorial project, a monument dedicated to civilians wh
 <p> From 8 December 1941 till 31 January 1942, a military campaign known as Malayan campaign was fought by the Allied (mainly the British Commonwealth) and Axis (primarily the Japanese) forces in Malaya.</p>
 <b></b>
 <p>The invading Japanese 25th Army troops under Lieutenant General Tomoyuki Yamashita fought the British, Indian and Australian troops. Multiple factors led to the ultimate defeat and fall of Singapore.</p>
-<h4>Did you know...</h4>
+<table border="1">
+	<tbody><tr>
+		<td>
+			<h4>Did you know...</h4>
 <ul>
 <li> There was also a volunteer force who helped defend Singapore. They were made up of Europeans, Chinese and Eurasians from all walks of life.</li>
 <b></b>
 <li>These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.</li>
-
+	</td>
+	</tr>
+	</tbody></table>
+	
 <h4>Articles</h4>
 <h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html"> Malayan Campaign by Ho, Stephanie</a></h5>
 <p>“The Malayan Campaign consisted of a series of battles fought in Malaya between Allied (mainly British Commonwealth) and Axis (primarily Japanese) forces. The campaign began on 8 December 1941 when Japanese forces landed in Singora and Patani in southern Thailand, and Kota Bharu in northern Malaya. The campaign ended on 31 January 1942 with the Japanese forces gaining control of the Malay Peninsula.”</p>
