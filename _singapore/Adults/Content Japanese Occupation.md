@@ -72,6 +72,16 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 </div>	
 
+<div class= "col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-fall-of-singapore">
+<span>Learning Package:<br>Fall of Singapore</span>
+</a>
+</div>
+</div>
+</div>
+
+
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
@@ -270,5 +280,64 @@ Ong, Chit Chung. (2013). <i> Operation Matador: World War II: Britain's attempt 
 </p><p><a href="https://nlb.overdrive.com/media/1239958"
 target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</ul>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="lp-fall-of-singapore"> <b> Japanese Occupation: Fall of Singapore </b></h5>
+<p> The fall of Singapore on 15 February 1942 in the Second World War is, as Winston Churchill put it, ‘the worst disaster and largest capitulation in British history’. </p>
+<b></b>
+<p> Since 1942, there has been a steady flow of books and articles on this subject. Earlier works focused on the conduct of the military campaign, but as the archives started opening their records, the focus has shifted to the broader issues of strategy and international relations.</p>
+<h4>Did you know...</h4>
+<ul>
+<li> Total Defence Day was launched in 1984 and commemorated on 15th February every year. It marks the fall of Singapore to the Japanese in 1942 and serves as a reminder for every Singapore to play a part in building a strong, secure and cohesive nation.</li>
+<b></b>
+<li> These curated set of articles and books shed lights on the historic event.</li>
+
+<h4>Articles</h4>
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_113523.html" target="_blank"> Battle of Singapore by Ho, Stephanie</a></h5>
+<p>The Battle of Singapore, which took place from 8 to 15 February 1942, saw the capture of Singapore by the Japanese and the largest British surrender in history.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_113523.html" target="_blank"> Battle of Singapore </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2022, February 4.
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_7_2005-01-25.html" target="_blank"> First air raid on Singapore by Chua, Alvin</a></h5>
+<p> The first air raid on Singapore occurs during the early morning of 8 December 1941. Seventeen Japanese planes from the Imperial Japanese Navy Air Force struck many targets including Chinatown, Raffles Place and Keppel Harbour, resulting in 61 casualties and 133 injuries.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_7_2005-01-25.html" target="_blank"> First air raid on Singapore </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2022, February 4.
+	
+<h4>eBooks</h4>
+
+<h5> The fall of Malaya and Singapore: rare photographs from wartime archives</h5>
+Diamond, J. (2015). <i> The fall of Malaya and Singapore: rare photographs from wartime archives.</i> Barnsley, S. Yorkshire: Pen & Sword Military. <br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/2203335">
+<img style=”width:200px;”
+src="/images/singapore-japanese-occupation/Fall-of-Malaya.png"></a>
+<p> Captivating images that illustrate the defeat of British forces in Malaya and Singapore.</p><p><a href="https://nlb.overdrive.com/media/2203335"
+target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
+<h5> Singapore's dunkirk</h5>
+Brooke, G. (2014). <i> Singapore's dunkirk.</i> Havertown: Pen and Sword Military. <br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/1778789">
+<img style=”width:200px;”
+src="/images/singapore-japanese-occupation/Singapore-Dunkirk.png"></a>
+<p> Narrates the ordeals of those who sought to escape by whatever means they could find after the fall of Singapore.
+</p><p><a href="https://nlb.overdrive.com/media/1778789"
+target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
+<h5> A great betrayal?: the fall of Singapore revisited</h5>
+Farrell, B. & Hunter, S. (Eds.). (2013). <i> A great betrayal?: the fall of Singapore revisited.</i> Singapore: Marshall Cavendish Editions. <br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/1239932">
+<img style=”width:200px;”
+src="/images/singapore-japanese-occupation/Great-Betrayal.png"></a>
+<p> A collection of essays by history professors and military history experts on their analyses and impressions about the Fall of Singapore in 1942.
+</p><p><a href="https://nlb.overdrive.com/media/1239932"
+target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
