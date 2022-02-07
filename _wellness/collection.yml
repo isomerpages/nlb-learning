@@ -2,5 +2,5 @@ collections:
   wellness:
     output: true
     order:
-      - Adults Seniors/.keep
       - LearnX Wellness.md
+      - Adults Seniors/.keep
