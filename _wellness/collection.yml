@@ -1,0 +1,4 @@
+collections:
+  wellness:
+    output: true
+    order: []
