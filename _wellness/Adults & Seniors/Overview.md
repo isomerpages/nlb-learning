@@ -4,7 +4,6 @@ permalink: /wellness/adults-seniors/overview
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -50,6 +49,4 @@ Delve into the realm of wellness today!
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-thoughtful-tangerine">
-
+ 
