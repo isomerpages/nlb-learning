@@ -138,3 +138,14 @@ A key pillar of physical wellness is a healthy, balanced diet. However, when it 
 <p><a href="https://www.ktph.com.sg/services/clinical-support/nutrition-and-dietetics" target="_blank"> Visit the resource page here</a>. </p>
 <small>Source: Nutrition and Dietetics. Khoo Teck Puat Hospital. Retrieved 2021, December 20. Photo by Ella Olsson from Pexels</small>
 </p>
+
+<h4>eBooks & Audiobooks</h4>
+<h5>The Blue Zone Solution </h5>
+Dan Buettner, (2015), The Blue Zones Solution: Eating and Living Like the World's Healthiest People.<br>
+Washington, D.C.: National Geographic.
+<p>
+<a href="https://share.libbyapp.com/title/1927185" target="_blank"><img src="/images/wellness/adults-and-seniors/bluezones-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> What are the diets, eating habits, and lifestyle practices of the world’s longest-lived communities? Based on longevity research of what Dan Buettner has identified as "Blue Zones", take inspiration from these communities on how you can lead a healthier and longer life.</p>
+<p><a href="https://share.libbyapp.com/title/1927185" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/1927185. Retrieved from Libby. </small>
+</p>
