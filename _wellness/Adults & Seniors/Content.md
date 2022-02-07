@@ -119,7 +119,7 @@ A key pillar of physical wellness is a healthy, balanced diet. However, when it 
 </p><p> Managing our nutritional intake is an important, yet understated, aspect of our eating habits. This article lists the signs of a nutrition-sparse diet (which may be more common than you think) and provides tips on getting you to incorporate nutrient-rich food into your daily meals.</p>
 <p><a href="https://www.activehealth.sg/read/nutrition/7-signs-that-show-you-are-not-getting-enough-nutrients" target="_blank"> Read the article here</a>. </p>
 <small>Source: 7 Signs That Show You Are Not Getting Enough Nutrients. Active Health. Retrieved 2021, December 20. Photo by Foodie Factor from Pexels.</small>
-</p>
+
 
 <h5>2. Eating Right: Healthy Plate and Understanding Food Labels</h5>
 <p>
@@ -128,7 +128,7 @@ A key pillar of physical wellness is a healthy, balanced diet. However, when it 
 </p>
 <p><a href="https://www.healthxchange.sg/food-nutrition/weight-management/eating-right-healthy-plate-understanding-food-labels" target="_blank"> Read the article here</a>. </p>
 <small>Source: Source: Eating Right: Healthy Plate and Understanding Food Labels. HealthXchange.sg Retrieved 2021, December 20. Photo by Ella Olsson from Pexels.</small>
-</p>
+
 
 <h4>Resource Page</h4>
 <h5>KTPH Nutrition and Dietetics Resource Page </h5>
@@ -137,7 +137,7 @@ A key pillar of physical wellness is a healthy, balanced diet. However, when it 
 </p><p> Explore cookbooks, recipes and nutrition information written by dietitians.</p>
 <p><a href="https://www.ktph.com.sg/services/clinical-support/nutrition-and-dietetics" target="_blank"> Visit the resource page here</a>. </p>
 <small>Source: Nutrition and Dietetics. Khoo Teck Puat Hospital. Retrieved 2021, December 20. Photo by Ella Olsson from Pexels</small>
-</p>
+
 
 <h4>eBooks & Audiobooks</h4>
 <h5>1. The Blue Zone Solution </h5>
@@ -148,7 +148,7 @@ Washington, D.C.: National Geographic.
 </p><p> What are the diets, eating habits, and lifestyle practices of the world’s longest-lived communities? Based on longevity research of what Dan Buettner has identified as "Blue Zones", take inspiration from these communities on how you can lead a healthier and longer life.</p>
 <p><a href="https://share.libbyapp.com/title/1927185" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
 <small>https://share.libbyapp.com/title/1927185. Retrieved from Libby. </small>
-</p>
+
 
 <h5>2. Food Rules </h5>
 Michael Pollan, (2021), Food Rules:  An Eater's Manual.<br>
@@ -158,7 +158,7 @@ London: Penguin Books.
 </p><p> In the sea of seemingly contradictory information surrounding the question of what we should eat, Michael Pollan offers a simple manifesto and handbook to eating well.</p>
 <p><a href="https://share.libbyapp.com/title/292644" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
 <small>https://share.libbyapp.com/title/292644. Retrieved from Libby. </small>
-</p>
+
 
 <h5>3. Good Calories, Bad Calories </h5>
 Gary Taubes, (2008), Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health. <br>
@@ -168,4 +168,3 @@ New York : Anchor Books, 2008.
 </p><p> Not all calories are created equal. In this book, Gary Taubes argues that the key to good health is the kind of calories we take in, not the number.</p>
 <p><a href="https://share.libbyapp.com/title/5921840" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
 <small>https://share.libbyapp.com/title/5921840. Retrieved from Libby. </small>
-</p>
