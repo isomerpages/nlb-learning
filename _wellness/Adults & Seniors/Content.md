@@ -65,11 +65,12 @@ A collection of short videos or selected podcasts, exploring topics around menta
 What does it mean to eat well and how do you go about achieving it?
 
 From cracking the food label code to understanding the larger implications of eating right, here’re some tips to get you started.
-<br><br>
+
+<br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=xyQY8a-ng6g"></iframe>
+     <iframe src="https://www.youtube.com/embed/xyQY8a-ng6g" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -81,7 +82,7 @@ Our food choices have a much larger implication than we think. <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=LqnIrpORAGU"></iframe>
+     <iframe src=" https://www.youtube.com/embed/LqnIrpORAGU" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -94,7 +95,7 @@ Hint: it is. Learn how to crack the food label code with Biogirl MJ as she heads
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=fqhYBTg73fw"></iframe>
+     <iframe src=" https://www.youtube.com/embed/fqhYBTg73fw" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -103,6 +104,7 @@ It seems simple enough, but healthy eating is more complex than it looks. This v
 <small> Source: What's the Best Diet? Healthy Eating 101 (2015, Sep 25). DocMikeEvans. Retrieved 2021, December 20. </small></p>
   </div>
 </div> 
+
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-nourish"><b>Learning Package: Nourish Your Body</b></h5>
