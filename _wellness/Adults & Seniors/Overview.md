@@ -39,7 +39,8 @@ third_nav_title: Adults & Seniors
 
 </style>
 
-Delve into the realm of wellness today!
+Through expert talks, workshops, curated learning packages and more, delve into the world of wellness and pick up strategies and skills to feel your best from the inside out.
+
 
 <div class="row is-multiline">
   <div class="col is-one-third">
@@ -49,4 +50,3 @@ Delve into the realm of wellness today!
       </a>
     </div>
   </div>
- 
