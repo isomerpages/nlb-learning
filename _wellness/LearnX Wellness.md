@@ -41,7 +41,7 @@ description: ""
 
 Wellness, a catch-all term that encompasses health, well-being and contentment, wellness is a state many of us aspire toward. So, how do we get there? Moreover, how do we find what works for us in a sea of information? Explore wellness from different angles and gain clarity on how to make the best decisions for your mental, physical and financial health. 
 <div class="row is-multiline">
-  <div class="col is-one-half">
+  <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
       <a href="/wellness/adults-seniors/overview">
         <span>Adults & Seniors</span>
