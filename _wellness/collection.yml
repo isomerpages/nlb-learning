@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - LearnX Wellness.md
+      - Adults & Seniors/Programmes.md
       - Adults & Seniors/.keep
       - Adults & Seniors/Overview.md
       - Adults & Seniors/Content.md
