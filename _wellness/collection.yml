@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - LearnX Wellness.md
+      - Adults Seniors/Overview.md
       - Adults Seniors/.keep
