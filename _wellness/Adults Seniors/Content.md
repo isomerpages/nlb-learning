@@ -82,4 +82,3 @@ A key pillar of physical wellness is a healthy, balanced diet. However, when it 
 </p><p> Managing our nutritional intake is an important, yet understated, aspect of our eating habits. This article lists the signs of a nutrition-sparse diet (which may be more common than you think) and provides tips on getting you to incorporate nutrient-rich food into your daily meals.</p>
 <p><a href="=" target="_blank"> Read the article here</a>. </p>
 <small>Source: 7 Signs That Show You Are Not Getting Enough Nutrients. Active Health. Retrieved 2021, December 20.</small>
-
