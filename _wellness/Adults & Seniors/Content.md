@@ -159,3 +159,13 @@ London: Penguin Books.
 <p><a href="https://share.libbyapp.com/title/292644" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
 <small>https://share.libbyapp.com/title/292644. Retrieved from Libby. </small>
 </p>
+
+<h5>3. Good Calories, Bad Calories </h5>
+Michael Pollan, (2021), Food Rules:  An Eater's Manual.<br>
+London: Penguin Books.
+<p>
+<a href="https://share.libbyapp.com/title/292644" target="_blank"><img src="/images/wellness/adults-and-seniors/foodrules-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> In the sea of seemingly contradictory information surrounding the question of what we should eat, Michael Pollan offers a simple manifesto and handbook to eating well.</p>
+<p><a href="https://share.libbyapp.com/title/292644" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/292644. Retrieved from Libby. </small>
+</p>
