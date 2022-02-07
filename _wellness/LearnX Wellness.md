@@ -48,4 +48,3 @@ Wellness, A catch-all term that encompasses health, well-being and contentment, 
       </a>
     </div>
   </div>
-  
