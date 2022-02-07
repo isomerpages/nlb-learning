@@ -165,7 +165,7 @@ Gary Taubes, (2008), Good Calories, Bad Calories: Fats, Carbs, and the Controver
 New York : Anchor Books, 2008.
 <p>
 <a href="https://share.libbyapp.com/title/5921840" target="_blank"><img src="/images/wellness/adults-and-seniors/foodrules-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
-</p><p> In the sea of seemingly contradictory information surrounding the question of what we should eat, Michael Pollan offers a simple manifesto and handbook to eating well.</p>
+</p><p> Not all calories are created equal. In this book, Gary Taubes argues that the key to good health is the kind of calories we take in, not the number.</p>
 <p><a href="https://share.libbyapp.com/title/5921840" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
 <small>https://share.libbyapp.com/title/5921840. Retrieved from Libby. </small>
 </p>
