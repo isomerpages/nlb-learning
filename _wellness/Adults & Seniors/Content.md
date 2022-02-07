@@ -135,6 +135,6 @@ A key pillar of physical wellness is a healthy, balanced diet. However, when it 
 <p>
 <a href="https://www.ktph.com.sg/services/clinical-support/nutrition-and-dietetics" target="_blank"><img src="/images/wellness/adults-and-seniors/wellness-resourcepage1.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
 </p><p> Explore cookbooks, recipes and nutrition information written by dietitians.</p>
-<p><a href="https://www.ktph.com.sg/services/clinical-support/nutrition-and-dietetics" target="_blank"> Read the article here</a>. </p>
+<p><a href="https://www.ktph.com.sg/services/clinical-support/nutrition-and-dietetics" target="_blank"> Visit the resource page here</a>. </p>
 <small>Source: Nutrition and Dietetics. Khoo Teck Puat Hospital. Retrieved 2021, December 20. Photo by Ella Olsson from Pexels</small>
 </p>
