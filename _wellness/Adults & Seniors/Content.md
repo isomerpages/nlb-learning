@@ -114,7 +114,7 @@ A key pillar of physical wellness is a healthy, balanced diet. However, when it 
 <h4>Articles</h4>
 <h5>1. 7 Signs That Show You Are Not Getting Enough Nutrients </h5>
 <p>
-<a href="https://www.activehealth.sg/read/nutrition/7-signs-that-show-you-are-not-getting-enough-nutrients" target="_blank"><img src="/images/wellness/adults-and-seniors/article1.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+<a href="https://www.activehealth.sg/read/nutrition/7-signs-that-show-you-are-not-getting-enough-nutrients" target="_blank"><img src="/images/wellness/adults-and-seniors/wellness-article1.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
 </p><p> Managing our nutritional intake is an important, yet understated, aspect of our eating habits. This article lists the signs of a nutrition-sparse diet (which may be more common than you think) and provides tips on getting you to incorporate nutrient-rich food into your daily meals.</p>
 <p><a href="=" target="_blank"> Read the article here</a>. </p>
 <small>Source: 7 Signs That Show You Are Not Getting Enough Nutrients. Active Health. Retrieved 2021, December 20. Photo by Foodie Factor from Pexels.</small>
