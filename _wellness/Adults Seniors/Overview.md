@@ -38,3 +38,17 @@ third_nav_title: Adults Seniors
 .clickbox.is-thoughtful-tangerine a:hover { background-color: #FE5828; color: #ffc9ad; }
 
 </style>
+
+Delve into the realm of wellness today!
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="/wellness/adults-seniors/content">
+        <span>Content</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+
