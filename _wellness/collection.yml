@@ -1,4 +1,5 @@
 collections:
   wellness:
     output: true
-    order: []
+    order:
+      - LearnX Wellness.md
