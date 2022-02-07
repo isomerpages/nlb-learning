@@ -48,5 +48,4 @@ Wellness, A catch-all term that encompasses health, well-being and contentment, 
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-thoughtful-tangerine">
+  
