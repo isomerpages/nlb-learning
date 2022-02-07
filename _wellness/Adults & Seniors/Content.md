@@ -127,5 +127,5 @@ A key pillar of physical wellness is a healthy, balanced diet. However, when it 
 </p><p> Pick up tips on reading food labels and learn how you can adopt healthier eating habits with Health Promotion Board’s My Healthy Plate.
 </p>
 <p><a href="https://www.healthxchange.sg/food-nutrition/weight-management/eating-right-healthy-plate-understanding-food-labels" target="_blank"> Read the article here</a>. </p>
-<small>Source: Source: Eating Right: Healthy Plate and Understanding Food Labels. HealthXchange.sg Retrieved 2021, December 20. Photo by Foodie Factor from Pexels.</small>
+<small>Source: Source: Eating Right: Healthy Plate and Understanding Food Labels. HealthXchange.sg Retrieved 2021, December 20. Photo by Ella Olsson from Pexels.</small>
 </p>
