@@ -44,7 +44,7 @@ Sharing knowledge and exchanging ideas with people who have similar interests as
 These communities cover a wide range of topics and can be found in libraries all over the island.
 
 <!-- <p><div class="responsive-iframe-container ratio-16by9">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uOfQMXQ4lL8"></iframe> -->
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uOfQMXQ4lL8"></iframe>-->
 
 <div class="row is-multiline">
   <div class="col is-half">
