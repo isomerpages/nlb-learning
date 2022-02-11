@@ -1,5 +1,5 @@
 ---
-title: Content Japanese Occupation
+title: Content on Japanese Occupation
 permalink: /singapore/Adults/content-japanese-occupation
 description: ""
 third_nav_title: Adults
@@ -70,8 +70,6 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </a>
 </div>
 </div>
-</div>	
-
 <div class= "col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#lp-fall-of-singapore">
@@ -86,7 +84,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
 
-<h5 class="margin--bottom--lg" id="japanese-rule"><b>Playlist: Japanese Occupation - Under the rule of the Japanese and </b></h5>
+<h5 class="margin--bottom--lg" id="japanese-rule"><b>Playlist: Japanese Occupation - Under the rule of the Japanese</b></h5>
 
 Singapore used to be the British stronghold and nicknamed the "Gibraltar of the East". It was captured by the Japanese after fierce fighting that lasted between 8-15 February 1942.
 
@@ -238,12 +236,18 @@ Recounts the Civilian War Memorial project, a monument dedicated to civilians wh
 <p> From 8 December 1941 till 31 January 1942, a military campaign known as Malayan campaign was fought by the Allied (mainly the British Commonwealth) and Axis (primarily the Japanese) forces in Malaya.</p>
 <b></b>
 <p>The invading Japanese 25th Army troops under Lieutenant General Tomoyuki Yamashita fought the British, Indian and Australian troops. Multiple factors led to the ultimate defeat and fall of Singapore.</p>
-<h4>Did you know...</h4>
+<table border="1">
+	<tbody><tr>
+		<td>
+			<h4>Did you know...</h4>
 <ul>
 <li> There was also a volunteer force who helped defend Singapore. They were made up of Europeans, Chinese and Eurasians from all walks of life.</li>
 <b></b>
-<li>These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.</li>
-
+<li>These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.</li></ul>
+	</td>
+	</tr>
+	</tbody></table>
+	
 <h4>Articles</h4>
 <h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html"> Malayan Campaign by Ho, Stephanie</a></h5>
 <p>“The Malayan Campaign consisted of a series of battles fought in Malaya between Allied (mainly British Commonwealth) and Axis (primarily Japanese) forces. The campaign began on 8 December 1941 when Japanese forces landed in Singora and Patani in southern Thailand, and Kota Bharu in northern Malaya. The campaign ended on 31 January 1942 with the Japanese forces gaining control of the Malay Peninsula.”</p>
@@ -287,9 +291,17 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 <p> The fall of Singapore on 15 February 1942 in the Second World War is, as Winston Churchill put it, ‘the worst disaster and largest capitulation in British history’. </p>
 <b></b>
 <p> Since 1942, there has been a steady flow of books and articles on this subject. Earlier works focused on the conduct of the military campaign, but as the archives started opening their records, the focus has shifted to the broader issues of strategy and international relations.</p>
-<h4>Did you know...</h4>
+<table border="1">
+	<tbody><tr>
+		<td>
+			<h4>Did you know...</h4>
 <ul>
 <li> Total Defence Day was launched in 1984 and commemorated on 15th February every year. It marks the fall of Singapore to the Japanese in 1942 and serves as a reminder for every Singapore to play a part in building a strong, secure and cohesive nation.</li>
+			</ul>
+			</td>
+	</tr>
+	</tbody></table>
+	
 <b></b>
 <li> These curated set of articles and books shed lights on the historic event.</li>
 

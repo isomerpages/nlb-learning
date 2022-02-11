@@ -78,10 +78,10 @@ For Adults, conducted monthly in English and Malay at library@harbourfront.</p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
-    <img src="/images/learning-communities/arts/LC-Arts-StockImage-06.jpg" alt=" Origami Workshop">
+    <img src="/images/learning-communities/arts/Origami%20Club-01.png">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Origami Workshop </b></h5>
-      <p class="margin--top--sm margin--bottom--sm"> Learn how to fold an origami model in just 10 minutes and bring it home. Be impressed by your handiwork! <br><br>
+      <p class="margin--top--sm margin--bottom--sm"> Learn how to fold an origami model in just 10 minutes and bring it home. Be impressed by your handiwork! <br>
 
 For Adults and Families with Children (aged 4 and above), conducted monthly in English at Toa Payoh Public Library and Bishan Public Library. Materials are provided. </p>
       <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank"> Click here for upcoming sessions</a></p>

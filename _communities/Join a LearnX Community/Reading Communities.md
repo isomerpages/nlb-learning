@@ -257,7 +257,7 @@ For Adults, conducted monthly in English at Central Public Library.</p>
     </div>
   </div>
    <div class="col is-half-tablet padding--bottom--lg">
-        <img alt="Taxi Shifu and Friends Reading Club 德士师傅与好友读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-13.jpg">
+        <img alt="Taxi Shifu and Friends Reading Club 德士师傅与好友读书会" src="/images/learning-communities/reading/Taxi%20Shifu-01.png">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Taxi Shifu and Friends Reading Club 德士师傅与好友读书会</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Come join us and share your passion for reading with like-minded readers of Taxi Shifu and Friends Reading Club. Every book discussion is an enriching experience for all as the participants establish friendships and leave with valuable insights and knowledge that help them better appreciate the book.<br><br>

@@ -1,9 +1,10 @@
 ---
-title: Content Place History
+title: Content on Place History
 permalink: /singapore/Adults/content-place-history
 description: ""
 third_nav_title: Adults
 ---
+
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }

@@ -65,8 +65,8 @@ These communities cover a wide range of topics and can be found in libraries all
 </div>
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4pPHEqIXFQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h3 class="margin--top--none margin--bottom--lg"><b>Featured LearnX Communities</b></h3>
-
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
     <img src="/images/learning-communities/communities-comics-nature-1.jpg" alt="Comics x Nature">
