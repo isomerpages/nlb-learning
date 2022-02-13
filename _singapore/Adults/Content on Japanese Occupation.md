@@ -330,10 +330,10 @@ href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">
 
 <h5> Singapore's dunkirk</h5>
 Brooke, G. (2014). <i> Singapore's dunkirk.</i> Havertown: Pen and Sword Military. <br>
-<a target="_blank"
-href="https://nlb.overdrive.com/media/1778789">
-<img style=”width:200px;”
-src="/images/singapore-japanese-occupation/Singapore-Dunkirk.png"></a>
+<a 
+href="https://nlb.overdrive.com/media/1778789"
+target="_blank">
+<img src="/images/singapore-japanese-occupation/Singapore-Dunkirk.png" style="width:200px;"></a>
 <p> Narrates the ordeals of those who sought to escape by whatever means they could find after the fall of Singapore.
 </p><p><a href="https://nlb.overdrive.com/media/1778789"
 target="_blank">Borrow the eBook here.</a></p>
@@ -342,10 +342,10 @@ href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">
 
 <h5> A great betrayal?: the fall of Singapore revisited</h5>
 Farrell, B. & Hunter, S. (Eds.). (2013). <i> A great betrayal?: the fall of Singapore revisited.</i> Singapore: Marshall Cavendish Editions. <br>
-<a target="_blank"
-href="https://nlb.overdrive.com/media/1239932">
-<img style=”width:200px;”
-src="/images/singapore-japanese-occupation/Great-Betrayal.png"></a>
+<a 
+href="https://nlb.overdrive.com/media/1239932"
+target="_blank">
+<img src="/images/singapore-japanese-occupation/Great-Betrayal.png" style="width:200px;"></a>
 <p> A collection of essays by history professors and military history experts on their analyses and impressions about the Fall of Singapore in 1942.
 </p><p><a href="https://nlb.overdrive.com/media/1239932"
 target="_blank">Borrow the eBook here.</a></p>
