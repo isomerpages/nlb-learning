@@ -298,13 +298,13 @@ Retrieved from OverDrive ( a <a target="_blank" href="https://mobileapp.nlb.gov.
 			<h4>Did you know...</h4>
 <ul>
 <li> Total Defence Day was launched in 1984 and commemorated on 15th February every year. It marks the fall of Singapore to the Japanese in 1942 and serves as a reminder for every Singapore to play a part in building a strong, secure and cohesive nation.</li>
+<li> These curated set of articles and books shed lights on the historic event.</li>
 			</ul>
 			</td>
 	</tr>
 	</tbody></table>
-	
-<b></b>
-<li> These curated set of articles and books shed lights on the historic event.</li>
+
+
 
 <h4>Articles</h4>
 
