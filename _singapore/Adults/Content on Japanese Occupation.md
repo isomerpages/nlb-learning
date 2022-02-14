@@ -247,7 +247,7 @@ Recounts the Civilian War Memorial project, a monument dedicated to civilians wh
 		</tr>
 	</tbody></table>
 
-<b>These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.</b>
+These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.
 
 <h4>Articles</h4>
 <h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html"> Malayan Campaign by Ho, Stephanie</a></h5>
@@ -303,7 +303,7 @@ Retrieved from OverDrive ( a <a target="_blank" href="https://mobileapp.nlb.gov.
 	</tr>
 	</tbody></table>
 
-<b>These curated set of articles and books shed lights on the historic event.</b>
+These curated set of articles and books shed lights on the historic event.
 
 <h4>Articles</h4>
 
