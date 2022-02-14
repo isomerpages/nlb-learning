@@ -320,14 +320,9 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_7_2005-01
 <h5> The fall of Malaya and Singapore: rare photographs from wartime archives</h5>
 Diamond, J. (2015). <i> The fall of Malaya and Singapore: rare photographs from wartime archives.</i> Barnsley, S. Yorkshire: Pen & Sword Military. 
 <br>
-<a 
-href="https://nlb.overdrive.com/media/2203335"
-target="_blank">
-<img src="/images/singapore-japanese-occupation/Fall-of-Malaya.png" style="width:200px;"></a>
-<p> Captivating images that illustrate the defeat of British forces in Malaya and Singapore.</p><p><a href="https://nlb.overdrive.com/media/2203335"
-target="_blank">Borrow the eBook here.</a></p>
-Retrieved from OverDrive (a <a 
-href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+<a href="https://nlb.overdrive.com/media/2203335" target="_blank"><img src="/images/singapore-japanese-occupation/Fall-of-Malaya.png" style="width:200px;"></a>
+<p> Captivating images that illustrate the defeat of British forces in Malaya and Singapore.</p><p><a href="https://nlb.overdrive.com/media/2203335" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
 
 <h5> Singapore's dunkirk</h5>
 Brooke, G. (2014). <i> Singapore's dunkirk.</i> Havertown: Pen and Sword Military. 
