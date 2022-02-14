@@ -66,8 +66,8 @@ Click [here](https://www.eventbrite.com/cc/learnx-singapore-67809){:target="_bla
 This year marks the 80th anniversary of the Fall of Singapore. Visit this special exhibition, New Light on an Old Tale, that runs from 15 February to 30 Jun 2022 at the National Archives of Singapore, Level 3 
 Atrium.
 
-Learn more: https://go.gov.sg/nlot
+Learn more:[ https://go.gov.sg/nlot]( https://go.gov.sg/nlot)
 
-Register now: https://go.gov.sg/nlot-prog
+Register now: [https://go.gov.sg/nlot-prog](https://go.gov.sg/nlot-prog)
 
 ![](/images/singapore-japanese-occupation/NAS%20New%20light%20on%20an%20old%20tale%20exhibition.jpg)
