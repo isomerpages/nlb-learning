@@ -40,7 +40,7 @@ third_nav_title: Adults
 
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-Begin with Place history Singapore and Japanese Occupation. </a>
+Begin with Place history Singapore and Japanese Occupation. 
 
 <h3><b>Place history Singapore</b></h3>
 There are many stories to our places and spaces in Singapore. Through this pathway you can explore different resources to discover the history behind places in Singapore. 
