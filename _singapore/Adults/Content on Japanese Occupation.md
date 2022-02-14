@@ -283,7 +283,7 @@ Ong, Chit Chung. (2013). <i> Operation Matador: World War II: Britain's attempt 
 <p> The author provides an extensive coverage of the British military planners' plans to counter the Japanese threat and discusses the reasons for their ineffectiveness.
 </p><p><a href="https://nlb.overdrive.com/media/1239958"
 target="_blank">Borrow the eBook here.</a></p>
-Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).</ul>
+Retrieved from OverDrive ( a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
