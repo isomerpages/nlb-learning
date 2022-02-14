@@ -242,12 +242,12 @@ Recounts the Civilian War Memorial project, a monument dedicated to civilians wh
 			<h4>Did you know...</h4>
 <ul>
 <li> There was also a volunteer force who helped defend Singapore. They were made up of Europeans, Chinese and Eurasians from all walks of life.</li>
-	<li>These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.</li>
 			</ul>
 		</td>
 		</tr>
 	</tbody></table>
 
+<b>These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.</b>
 
 <h4>Articles</h4>
 <h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html"> Malayan Campaign by Ho, Stephanie</a></h5>
@@ -298,13 +298,12 @@ Retrieved from OverDrive ( a <a target="_blank" href="https://mobileapp.nlb.gov.
 			<h4>Did you know...</h4>
 <ul>
 <li> Total Defence Day was launched in 1984 and commemorated on 15th February every year. It marks the fall of Singapore to the Japanese in 1942 and serves as a reminder for every Singapore to play a part in building a strong, secure and cohesive nation.</li>
-<li> These curated set of articles and books shed lights on the historic event.</li>
 			</ul>
 			</td>
 	</tr>
 	</tbody></table>
 
-
+<b>These curated set of articles and books shed lights on the historic event.</b>
 
 <h4>Articles</h4>
 
