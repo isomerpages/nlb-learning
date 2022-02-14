@@ -242,12 +242,13 @@ Recounts the Civilian War Memorial project, a monument dedicated to civilians wh
 			<h4>Did you know...</h4>
 <ul>
 <li> There was also a volunteer force who helped defend Singapore. They were made up of Europeans, Chinese and Eurasians from all walks of life.</li>
-<b></b>
-<li>These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.</li></ul>
-	</td>
-	</tr>
+			</ul>
+		</td>
+		</tr>
 	</tbody></table>
-	
+<b></b>
+<li>These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.</li>
+
 <h4>Articles</h4>
 <h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html"> Malayan Campaign by Ho, Stephanie</a></h5>
 <p>“The Malayan Campaign consisted of a series of battles fought in Malaya between Allied (mainly British Commonwealth) and Axis (primarily Japanese) forces. The campaign began on 8 December 1941 when Japanese forces landed in Singora and Patani in southern Thailand, and Kota Bharu in northern Malaya. The campaign ended on 31 January 1942 with the Japanese forces gaining control of the Malay Peninsula.”</p>
@@ -318,14 +319,14 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_7_2005-01
 <h4>eBooks</h4>
 
 <h5> The fall of Malaya and Singapore: rare photographs from wartime archives</h5>
-Diamond, J. (2015). <i> The fall of Malaya and Singapore: rare photographs from wartime archives.</i> Barnsley, S. Yorkshire: Pen & Sword Military. 
+Diamond, Jon. (2015). <i> The fall of Malaya and Singapore: rare photographs from wartime archives.</i> Barnsley, S. Yorkshire: Pen & Sword Military. 
 <br>
 <a href="https://nlb.overdrive.com/media/2203335" target="_blank"><img src="/images/singapore-japanese-occupation/Fall-of-Malaya.png" style="width:200px;"></a>
 <p> Captivating images that illustrate the defeat of British forces in Malaya and Singapore.</p><p><a href="https://nlb.overdrive.com/media/2203335" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
 
 <h5> Singapore's dunkirk</h5>
-Brooke, G. (2014). <i> Singapore's dunkirk.</i> Havertown: Pen and Sword Military. 
+Brooke, Geoffrey. (2014). <i> Singapore's dunkirk.</i> Havertown: Pen and Sword Military. 
 <br>
 <a 
 href="https://nlb.overdrive.com/media/1778789"
@@ -338,7 +339,7 @@ Retrieved from OverDrive (a <a
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
 
 <h5> A great betrayal?: the fall of Singapore revisited</h5>
-Farrell, B. & Hunter, S. (Eds.). (2013). <i> A great betrayal?: the fall of Singapore revisited.</i> Singapore: Marshall Cavendish Editions. 
+Farrell, Brian Padair & Hunter, Sandy (Eds.). (2013). <i> A great betrayal?: the fall of Singapore revisited.</i> Singapore: Marshall Cavendish Editions. 
 <br>
 <a 
 href="https://nlb.overdrive.com/media/1239932"
