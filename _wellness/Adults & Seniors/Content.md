@@ -3,7 +3,6 @@ title: Content
 permalink: /wellness/adults-seniors/content
 description: ""
 third_nav_title: Adults & Seniors
-
 ---
 <style type="text/css">
 /* Links */
@@ -42,17 +41,24 @@ third_nav_title: Adults & Seniors
 Check out our playlists and learning packages for recommended books, collection of short videos, selected podcasts and articles exploring topics around health and wellness.  
 
 <div class="row is-multiline">
-  <div class="col is-one-half">
+  <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
       <a href="#playlist-nourish">
         <span>Playlist: Nourish Your Body</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-half">
+  <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
       <a href="#lp-nourish">
         <span>Learning Package: Nourish Your Body</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#lp-nourish">
+        <span>Evergreen Resources: Gratitude Journals</span>
       </a>
     </div>
   </div>
