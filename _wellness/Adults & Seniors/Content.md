@@ -177,6 +177,6 @@ New York : Anchor Books, 2008.
 <small>https://share.libbyapp.com/title/5921840. Retrieved from Libby. </small>
 
 <h3><b>Evergreen Resources</b></h3>
-Record and treasure your life experiences with the help of gratitude journals!
+Record and treasure your life experiences with the help of gratitude journals! These downloadable PDFs can be printed out or accessed digitally.
 
 <h5 class="margin--bottom--lg" id="gratitude-journals"><b> Gratitude Journals</b></h5>
