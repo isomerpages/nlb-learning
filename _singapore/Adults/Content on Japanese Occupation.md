@@ -78,6 +78,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 </div>
 </div>
+<div class= "col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-under-the-japanese">
+<span>Learning Package:<br>Under the Japanese</span>
+</a>
+</div>
+</div>
+</div>
 
 
 <h3><b>Playlist</b></h3>
