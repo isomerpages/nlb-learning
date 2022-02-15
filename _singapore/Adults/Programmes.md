@@ -61,3 +61,13 @@ Click [here](https://www.eventbrite.com/cc/learnx-singapore-67809){:target="_bla
 For 2022, we are placing the focus on Transforming Places in Singapore, and examine how they have impacted communities and lives.
 
 Click [here](https://www.eventbrite.com/cc/learnx-singapore-67809){:target="_blank"} for the latest programme listings.
+
+## **New Light on an Old Tale**
+This year marks the 80th anniversary of the Fall of Singapore. Visit this special exhibition, New Light on an Old Tale, that runs from 15 February to 30 Jun 2022 at the National Archives of Singapore, Level 3 
+Atrium.
+
+Learn more:[ https://go.gov.sg/nlot]( https://go.gov.sg/nlot)
+
+Register now: [https://go.gov.sg/nlot-prog](https://go.gov.sg/nlot-prog)
+
+![](/images/singapore-japanese-occupation/NAS%20New%20light%20on%20an%20old%20tale%20exhibition.jpg)

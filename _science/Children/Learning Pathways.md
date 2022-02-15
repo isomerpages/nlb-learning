@@ -61,7 +61,6 @@ Stay tuned for more updates.</td>
 	<td></td>
 	<td></td>
       </tr>
-      </tr>
     </tbody>
   </table>
 </div>

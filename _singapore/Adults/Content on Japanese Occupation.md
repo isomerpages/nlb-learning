@@ -70,21 +70,29 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </a>
 </div>
 </div>
-<div class= "col is-one-third">
+<div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#lp-fall-of-singapore">
 <span>Learning Package:<br>Fall of Singapore</span>
 </a>
 </div>
 </div>
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-under-the-japanese">
+<span>Learning Package:<br>Under the Japanese</span>
+</a>
 </div>
+</div>
+</div>	
+
 
 
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
 
-<h5 class="margin--bottom--lg" id="japanese-rule"><b>Playlist: Japanese Occupation - Under the rule of the Japanese</b></h5>
+<h5 id="japanese-rule" class="margin--bottom--lg"><b>Playlist: Japanese Occupation - Under the rule of the Japanese</b></h5>
 
 Singapore used to be the British stronghold and nicknamed the "Gibraltar of the East". It was captured by the Japanese after fierce fighting that lasted between 8-15 February 1942.
 
@@ -94,7 +102,7 @@ Check out these resources to help you gain some understanding of the events whic
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
    <div class="responsive-iframe-container ratio-16by9">
-    <iframe class="responsive-iframe" src="https://www.youtube.com/embed/BktyGG36viE"></iframe>
+    <iframe src="https://www.youtube.com/embed/BktyGG36viE" class="responsive-iframe"></iframe>
     </div>
  </div>
 <div class="col is-three-fifths">
@@ -108,7 +116,7 @@ Check out these resources to help you gain some understanding of the events whic
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/WZ8Q07WfoD0">
+<iframe src="https://www.youtube.com/embed/WZ8Q07WfoD0" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -121,7 +129,7 @@ Civilians started preparations for defence while the Japanese began their invasi
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
-<h5 class="margin--bottom--lg" id="japanese-rule">
+<h5 id="japanese-rule" class="margin--bottom--lg">
 	<b>Playlist: Japanese Occupation - Under the Japanese Rule and Memories of War</b></h5>
 
 The swift success of the Japanese invasion of Malaya and Singapore turned Singapore into Syonan-to. Life under the Japanese occupied “Light of the South Island” was hard and it was all about survival.
@@ -132,7 +140,7 @@ Check out these resources to help you gain some understanding of life under Japa
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/XQSYCSVMJKE">
+<iframe src="https://www.youtube.com/embed/XQSYCSVMJKE" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -147,7 +155,7 @@ British surrender marks the beginning of the Japanese Occupation. Hear the World
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/LYAtMLLmIAw">
+<iframe src="https://www.youtube.com/embed/LYAtMLLmIAw" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -162,7 +170,7 @@ Librarian Lee Meiyu and archivist Fiona Tan present "The Syonan Shimbun", an Eng
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Mmhf9Q83C_Q">
+<iframe src="https://www.youtube.com/embed/Mmhf9Q83C_Q" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -178,7 +186,7 @@ Senior librarian Gracie Lee and Japanese Occupation survivor Raymon Huang talk a
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/BEIWWwn1Nuk">
+<iframe src="https://www.youtube.com/embed/BEIWWwn1Nuk" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -192,7 +200,7 @@ Professor Kevin Blackburn discusses the comfort women of Singapore from memories
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
-<h5 class="margin--bottom--lg" id="japanese-liberation"><b>Playlist: Japanese Occupation - Liberation and Aftermath of War</b></h5>
+<h5 id="japanese-liberation" class="margin--bottom--lg"><b>Playlist: Japanese Occupation - Liberation and Aftermath of War</b></h5>
 
 Japanese surrender ceremony on 12 September 1945 at City Hall (then known as Municipal Building of Singapore) marked the end of Japanese Occupation in Southeast Asia. Singapore embarked on a road of recovery from the war.
 
@@ -202,7 +210,7 @@ Check out these resources to relive moments during the Japanese surrender.
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/YioTxyg70zg">
+<iframe src="https://www.youtube.com/embed/YioTxyg70zg" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -217,7 +225,7 @@ Japan surrendered following the dropping of atomic bombs on Hiroshima and Nagasa
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/7eHhLI-hRO4">
+<iframe src="https://www.youtube.com/embed/7eHhLI-hRO4" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -232,7 +240,7 @@ Recounts the Civilian War Memorial project, a monument dedicated to civilians wh
 
 
 <h3><b>Learning Package</b></h3>
-<h5 id="lp-japanese-occupation" class="margin--bottom--lg"><b> Japanese Occupation: Gibraltar of the East </b></h5>
+<h5 class="margin--bottom--lg" id="lp-japanese-occupation"><b> Japanese Occupation: Gibraltar of the East </b></h5>
 <p> From 8 December 1941 till 31 January 1942, a military campaign known as Malayan campaign was fought by the Allied (mainly the British Commonwealth) and Axis (primarily the Japanese) forces in Malaya.</p>
 <b></b>
 <p>The invading Japanese 25th Army troops under Lieutenant General Tomoyuki Yamashita fought the British, Indian and Australian troops. Multiple factors led to the ultimate defeat and fall of Singapore.</p>
@@ -250,41 +258,40 @@ Recounts the Civilian War Memorial project, a monument dedicated to civilians wh
 These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.
 
 <h4>Articles</h4>
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html"> Malayan Campaign by Ho, Stephanie</a></h5>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html" target="_blank"> Malayan Campaign by Ho, Stephanie</a></h5>
 <p>“The Malayan Campaign consisted of a series of battles fought in Malaya between Allied (mainly British Commonwealth) and Axis (primarily Japanese) forces. The campaign began on 8 December 1941 when Japanese forces landed in Singora and Patani in southern Thailand, and Kota Bharu in northern Malaya. The campaign ended on 31 January 1942 with the Japanese forces gaining control of the Malay Peninsula.”</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html">Malayan Campaign </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2021, January 19.
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html" target="_blank">Malayan Campaign </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2021, January 19.
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-10-23.html"> Singapore Volunteer Corps by Soong, Alec and Goh, Lee Kim</a></h5>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-10-23.html" target="_blank"> Singapore Volunteer Corps by Soong, Alec and Goh, Lee Kim</a></h5>
 <p>Learn about the formation of such a group and how the Straits Settlements Volunteer Force defended Singapore.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-10-23.html">Singapore Volunteer Corps </a>(2021, Oct).<i> Singapore Infopedia.</i> Retrieved 2021, January 19.
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-10-23.html" target="_blank">Singapore Volunteer Corps </a>(2021, Oct).<i> Singapore Infopedia.</i> Retrieved 2021, January 19.
 
 <h4>eBooks</h4>
 <h5>The defence and fall of Singapore 1940-1942</h5>
 Farrell, Brian P. (2017). <i> The defence and fall of Singapore 1940-1942.</i> Lanham: Monsoon Books Pte. Ltd.
 <br>
-<a href="https://nlb.overdrive.com/media/3101716" target="_blank"><img src="/images/singapore-japanese-occupation/The-Defence-and-Fall-of-Singapore.png" style="width:200px;"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/3101716"><img style="width:200px;" src="/images/singapore-japanese-occupation/The-Defence-and-Fall-of-Singapore.png"></a>
 <p>A study on how and why Singapore fell, and its significance in the British military history, based on primary documents in Britain, Australia and Singapore.
-	</p><p><a target="_blank" href="https://nlb.overdrive.com/media/3101716">Borrow the eBook here.</a></p>
-Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
+	</p><p><a href="https://nlb.overdrive.com/media/3101716" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 
 <h5>Bicycle blitzkrieg: The Malayan Campaign And The Fall Of Singapore</h5>
 Headrick, LCDR Alan C. (2014). <i> Bicycle blitzkrieg: The Malayan Campaign And The Fall Of Singapore.</i> San Francisco: Pickle Partners Publishing.
 <br>
-<a href="https://nlb.overdrive.com/media/2024222" target="_blank">
-<img src="/images/singapore-japanese-occupation/Bicycle-Blitzkrieg.png" style="width:200px;"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/2024222">
+<img style="width:200px;" src="/images/singapore-japanese-occupation/Bicycle-Blitzkrieg.png"></a>
 <p>Written as a paper for the Faculty of the Naval War College in 1994, the author discusses the operational strategies deployed by the Japanese and British which led to different consequences and the lessons learnt.
-</p><p><a target="_blank" href="https://nlb.overdrive.com/media/2024222&quot;">Borrow the eBook here.</a></p>
-Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
+</p><p><a href="https://nlb.overdrive.com/media/2024222&quot;" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 	
 <h5> Operation Matador: World War II: Britain's attempt to foil the Japanese invasion of Malaya and Singapore</h5>
 Ong, Chit Chung. (2013). <i> Operation Matador: World War II: Britain's attempt to foil the Japanese invasion of Malaya and Singapore.</i> Singapore: Marshall Cavendish Editions.
 <br>
-<a href="https://nlb.overdrive.com/media/1239958&quot;" target="_blank">
-<img src="/images/singapore-japanese-occupation/Operation-Matador.png" style="width:200px;"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/1239958&quot;">
+<img style="width:200px;" src="/images/singapore-japanese-occupation/Operation-Matador.png"></a>
 <p> The author provides an extensive coverage of the British military planners' plans to counter the Japanese threat and discusses the reasons for their ineffectiveness.
-</p><p><a href="https://nlb.overdrive.com/media/1239958"
-target="_blank">Borrow the eBook here.</a></p>
-Retrieved from OverDrive ( a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
+</p><p><a target="_blank" href="https://nlb.overdrive.com/media/1239958">Borrow the eBook here.</a></p>
+Retrieved from OverDrive ( a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
@@ -307,47 +314,100 @@ These curated set of articles and books shed lights on the historic event.
 
 <h4>Articles</h4>
 
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_113523.html" target="_blank"> Battle of Singapore by Ho, Stephanie</a></h5>
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_113523.html"> Battle of Singapore by Ho, Stephanie</a></h5>
 <p>The Battle of Singapore, which took place from 8 to 15 February 1942, saw the capture of Singapore by the Japanese and the largest British surrender in history.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_113523.html" target="_blank"> Battle of Singapore </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2022, February 4.
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_113523.html"> Battle of Singapore </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2022, February 4.
 
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_7_2005-01-25.html" target="_blank"> First air raid on Singapore by Chua, Alvin</a></h5>
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_7_2005-01-25.html"> First air raid on Singapore by Chua, Alvin</a></h5>
 <p> The first air raid on Singapore occurs during the early morning of 8 December 1941. Seventeen Japanese planes from the Imperial Japanese Navy Air Force struck many targets including Chinatown, Raffles Place and Keppel Harbour, resulting in 61 casualties and 133 injuries.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_7_2005-01-25.html" target="_blank"> First air raid on Singapore </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2022, February 4.
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_7_2005-01-25.html"> First air raid on Singapore </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2022, February 4.
 	
 <h4>eBooks</h4>
 
 <h5> The fall of Malaya and Singapore: rare photographs from wartime archives</h5>
-Diamond, Jon. (2015). <i> The fall of Malaya and Singapore: rare photographs from wartime archives.</i> Barnsley, S. Yorkshire: Pen & Sword Military. 
+Diamond, Jon. (2015). <i> The fall of Malaya and Singapore: rare photographs from wartime archives.</i> Barnsley, S. Yorkshire: Pen &amp; Sword Military. 
 <br>
-<a href="https://nlb.overdrive.com/media/2203335" target="_blank"><img src="/images/singapore-japanese-occupation/Fall-of-Malaya.png" style="width:200px;"></a>
-<p> Captivating images that illustrate the defeat of British forces in Malaya and Singapore.</p><p><a href="https://nlb.overdrive.com/media/2203335" target="_blank">Borrow the eBook here.</a></p>
-Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+<a target="_blank" href="https://nlb.overdrive.com/media/2203335"><img style="width:200px;" src="/images/singapore-japanese-occupation/Fall-of-Malaya.png"></a>
+<p> Captivating images that illustrate the defeat of British forces in Malaya and Singapore.</p><p><a target="_blank" href="https://nlb.overdrive.com/media/2203335">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook). 
 
 <h5> Singapore's dunkirk</h5>
 Brooke, Geoffrey. (2014). <i> Singapore's dunkirk.</i> Havertown: Pen and Sword Military. 
 <br>
-<a 
-href="https://nlb.overdrive.com/media/1778789"
-target="_blank">
-<img src="/images/singapore-japanese-occupation/Singapore-Dunkirk.png" style="width:200px;"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/1778789">
+<img style="width:200px;" src="/images/singapore-japanese-occupation/Singapore-Dunkirk.png"></a>
 <p> Narrates the ordeals of those who sought to escape by whatever means they could find after the fall of Singapore.
-</p><p><a href="https://nlb.overdrive.com/media/1778789"
-target="_blank">Borrow the eBook here.</a></p>
-Retrieved from OverDrive (a <a 
-href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+</p><p><a target="_blank" href="https://nlb.overdrive.com/media/1778789">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook). 
 
 <h5> A great betrayal?: the fall of Singapore revisited</h5>
-Farrell, Brian Padair & Hunter, Sandy (Eds.). (2013). <i> A great betrayal?: the fall of Singapore revisited.</i> Singapore: Marshall Cavendish Editions. 
+Farrell, Brian Padair &amp; Hunter, Sandy (Eds.). (2013). <i> A great betrayal?: the fall of Singapore revisited.</i> Singapore: Marshall Cavendish Editions. 
 <br>
-<a 
-href="https://nlb.overdrive.com/media/1239932"
-target="_blank">
-<img src="/images/singapore-japanese-occupation/Great-Betrayal.png" style="width:200px;"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/1239932">
+<img style="width:200px;" src="/images/singapore-japanese-occupation/Great-Betrayal.png"></a>
 <p> A collection of essays by history professors and military history experts on their analyses and impressions about the Fall of Singapore in 1942.
-</p><p><a href="https://nlb.overdrive.com/media/1239932"
-target="_blank">Borrow the eBook here.</a></p>
-Retrieved from OverDrive (a <a 
-href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+</p><p><a target="_blank" href="https://nlb.overdrive.com/media/1239932">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook). 
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="lp-japanese-occupation"><b> Japanese Occupation: Under the Japanese Rule </b></h5>
+
+<p> The invading Japanese 25th Army troops led by Lieutenant General Tomoyuki Yamashita fought the British, Indian and Australian troops. Unfortunately, multiple factors led to the ultimate defeat and fall of Singapore. </p>
+<b></b>
+<p> Syonan-to became Singapore's official name when it was occupied and ruled by the Japanese military forces. Meaning "Light of the South Island", it was part of Japan's Greater East Asia Co-Prosperity Sphere, a concept which Japan intended to create a self-sufficient bloc of Asian nations led by them and be freed from Western rule.</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Endau settlement in the Malayan state of Johor and Bahau settlement in the Malayan state of Negeri Sembilan were set up to address shortage in food supplies. Voluntary migration was encouraged to populate these new agricultural settlements to grow their own food and become self-sufficient.</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+These curated set of articles and books will help you understand life under Japanese rule.
+
+<h4>Articles</h4>
+
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1220_2006-12-29.html"> Bahau settlement by Chia, Joshua Yeong Jia and Tan, Florence </a></h5>
+<p> The Bahau settlement was set up for Eurasians and Chinese Roman Catholics in November 1943, to migrate there and be self-sufficient in growing their own food. It was also known as Fuji-Go in Japanese to mean "beautiful village”.</p>
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1220_2006-12-29.html"> Bahau settlement </a>(2020, May).<i> Singapore Infopedia.</i> Retrieved 2022, February 10.
+
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1221_2006-12-29.html"> Endau settlement by Chia, Joshua Yeong Jia </a></h5>
+<p> Endau settlement was considered one of the most successful settlement for Chinese settlers, where they could farm and live off the land. It was also known as New Syonan Model Farm.</p>
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1221_2006-12-29.html"> Endau settlement</a>(2019, Aug).<i> Singapore Infopedia.</i> Retrieved 2022, February 10.
+
+<h4>eBook</h4>
+
+<h5> The surrender of Singapore: three years of hell 1942-45
+</h5>
+Wynn, S. (2017). <i> The surrender of Singapore: three years of hell 1942-45.</i> Havertown: Pen and Sword Military. <br>
+<a href="https://nlb.overdrive.com/media/3158910" target="_blank">
+<img src="/images/singapore-japanese-occupation/Three-Years-Hell.png" style="”width:200px;”"></a>
+<p> Written by a retired police officer, he tells of the story of the three years of life under Japanese Occupation where Chinese civilians and Commonwealth soldiers faced incidents such as the Sook Ching massacre and the Burma Railway death march.
+</p><p><a target="_blank" href="https://nlb.overdrive.com/media/3158910">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook). 
+
+<h4>Books</h4>
+
+<h5> The Japanese occupation of Malaya and Singapore, 1941-45: a social and economic history </h5>
+Kratoska, P. H. (2018). <i> The Japanese occupation of Malaya and Singapore, 1941-45: a social and economic history. </i> Singapore: NUS Press. (Call no.: RSING 959.5103 KRA) 
+<br>
+<a target="_blank" href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 203024618">
+<img style="width:200px;" src="/images/singapore-japanese-occupation/JOMS.png"></a>
+<p> First published in 1998, Kratoska presents a picture of life under Japanese Occupation in Malaya and Singapore. </p>
+
+<h5> Syonan: Singapore under the Japanese 1942-1945</h5>
+Lee, G. B. (2017). <i> Syonan: Singapore under the Japanese 1942-1945. </i> Singapore: Singapore Heritage Society and Landmark Books. (Call no.: RSING 940.535957 LEE) 
+<br>
+<a target="_blank" href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 202733922">
+<img style="width:200px;" src="/images/singapore-japanese-occupation/Syonan.png"></a>
+<p> This revised edition frames the social memories of Singapore residents who lived through the Japanese military administration. </p>
+
+<h5> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945</h5>
+Akashi, Y.  &amp; Yoshimura, M. (Eds.) (2008). <i> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945. </i> Singapore: NUS Press. (Call no.: RSING 940.5337 NEW) 
+
+<img style="width:200px;" src="/images/singapore-japanese-occupation/NPJO.png">
+<p> A collection of articles that cover various topics on Japanese Occupation of Malaya and Singapore, based on Japanese primary sources, and sources from the archives and libraries in Britain, Malaysia, Singapore, United States, Australia and India. </p>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
