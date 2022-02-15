@@ -359,3 +359,73 @@ Retrieved from OverDrive (a <a
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="lp-japanese-occupation" class="margin--bottom--lg"><b> Japanese Occupation: Under the Japanese Rule </b></h5>
+
+<p> The invading Japanese 25th Army troops led by Lieutenant General Tomoyuki Yamashita fought the British, Indian and Australian troops. Unfortunately, multiple factors led to the ultimate defeat and fall of Singapore. </p>
+<b></b>
+<p> Syonan-to became Singapore's official name when it was occupied and ruled by the Japanese military forces. Meaning "Light of the South Island", it was part of Japan's Greater East Asia Co-Prosperity Sphere, a concept which Japan intended to create a self-sufficient bloc of Asian nations led by them and be freed from Western rule.</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Endau settlement in the Malayan state of Johor and Bahau settlement in the Malayan state of Negeri Sembilan were set up to address shortage in food supplies. Voluntary migration was encouraged to populate these new agricultural settlements to grow their own food and become self-sufficient.</li>
+</ul>
+</td>
+</tr</tbody></table>
+
+These curated set of articles and books will help you understand life under Japanese rule.
+
+<h4>Articles</h4>
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1220_2006-12-29.html" target="_blank"> Bahau settlement by Chia, Joshua Yeong Jia and Tan, Florence </a></h5>
+<p> The Bahau settlement was set up for Eurasians and Chinese Roman Catholics in November 1943, to migrate there and be self-sufficient in growing their own food. It was also known as Fuji-Go in Japanese to mean "beautiful village”.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1220_2006-12-29.html" target="_blank"> Bahau settlement </a>(2020, May).<i> Singapore Infopedia.</i> Retrieved 2022, February 10.
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1221_2006-12-29.html" target="_blank"> Endau settlement by Chia, Joshua Yeong Jia </a></h5>
+<p> Endau settlement was considered one of the most successful settlement for Chinese settlers, where they could farm and live off the land. It was also known as New Syonan Model Farm.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1221_2006-12-29.html" target="_blank"> Endau settlement</a>(2019, Aug).<i> Singapore Infopedia.</i> Retrieved 2022, February 10.
+
+<h4>eBook</h4>
+
+<h5> The surrender of Singapore: three years of hell 1942-45
+</h5>
+Wynn, S. (2017). <i> The surrender of Singapore: three years of hell 1942-45.</i> Havertown: Pen and Sword Military. <br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/3158910">
+<img style=”width:200px;”
+src="/images/singapore-japanese-occupation/Three-Years-Hell.png"></a>
+<p> Written by a retired police officer, he tells of the story of the three years of life under Japanese Occupation where Chinese civilians and Commonwealth soldiers faced incidents such as the Sook Ching massacre and the Burma Railway death march.
+</p><p><a href="https://nlb.overdrive.com/media/3158910"
+target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
+<h4>Books</h4>
+
+<h5> The Japanese occupation of Malaya and Singapore, 1941-45: a social and economic history </h5>
+Kratoska, P. H. (2018). <i> The Japanese occupation of Malaya and Singapore, 1941-45: a social and economic history. </i> Singapore: NUS Press. (Call no.: RSING 959.5103 KRA) 
+<br>
+<a 
+href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 203024618"
+target="_blank">
+<img src="/images/singapore-japanese-occupation/JOMS.png" style="width:200px;"></a>
+<p> First published in 1998, Kratoska presents a picture of life under Japanese Occupation in Malaya and Singapore. </p>
+
+<h5> Syonan: Singapore under the Japanese 1942-1945</h5>
+Lee, G. B. (2017). <i> Syonan: Singapore under the Japanese 1942-1945. </i> Singapore: Singapore Heritage Society and Landmark Books. (Call no.: RSING 940.535957 LEE) 
+<br>
+<a 
+href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 202733922"
+target="_blank">
+<img src="/images/singapore-japanese-occupation/Syonan.png" style="width:200px;"></a>
+<p> This revised edition frames the social memories of Singapore residents who lived through the Japanese military administration. </p>
+
+<h5> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945</h5>
+Akashi, Y.  & Yoshimura, M. (Eds.) (2008). <i> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945. </i> Singapore: NUS Press. (Call no.: RSING 940.5337 NEW) 
+href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 12849736"
+target="_blank">
+<img src="/images/singapore-japanese-occupation/NPJO.png" style="width:200px;"></a>
+<p> A collection of articles that cover various topics on Japanese Occupation of Malaya and Singapore, from Japanese primary sources, and sources from the archives and libraries in Britain, Malaysia, Singapore, United States, Australia and India. </p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
