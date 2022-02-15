@@ -57,7 +57,7 @@ Check out our playlists and learning packages for recommended books, collection 
   </div>
 	<div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="#lp-nourish">
+      <a href="#gratitude-journals">
         <span>Evergreen Resources: Gratitude Journals</span>
       </a>
     </div>
