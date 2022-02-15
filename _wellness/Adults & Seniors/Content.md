@@ -175,3 +175,8 @@ New York : Anchor Books, 2008.
 </p><p> Not all calories are created equal. In this book, Gary Taubes argues that the key to good health is the kind of calories we take in, not the number.</p>
 <p><a href="https://share.libbyapp.com/title/5921840" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
 <small>https://share.libbyapp.com/title/5921840. Retrieved from Libby. </small>
+
+<h3><b>Evergreen Resources</b></h3>
+Record and treasure your life experiences with the help of gratitude journals!
+
+<h5 class="margin--bottom--lg" id="gratitude-journals"><b> Gratitude Journals</b></h5>
