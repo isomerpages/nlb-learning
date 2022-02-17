@@ -71,3 +71,11 @@ Learn more:[ https://go.gov.sg/nlot]( https://go.gov.sg/nlot)
 Register now: [https://go.gov.sg/nlot-prog](https://go.gov.sg/nlot-prog)
 
 ![](/images/singapore-japanese-occupation/NAS%20New%20light%20on%20an%20old%20tale%20exhibition.jpg)
+
+## **Sport in Syonan: Triumph Over Despair**
+This year marks the 80th anniversary of the Fall of Singapore. Visit this online exhibition, Sport in Syonan: 
+Triumph Over Despair, by SportSG.
+
+Visit: [https://go.gov.sg/sport-in-syonan](https://go.gov.sg/sport-in-syonan) to view
+
+![](/images/singapore-japanese-occupation/Sport%20in%20Syonan%20poster.png)
