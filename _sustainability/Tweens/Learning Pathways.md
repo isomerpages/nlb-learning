@@ -61,6 +61,12 @@ Taking care of the environment starts with YOU!
       </tr>
     </thead>
     <tbody>
+				<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/tweenkerama-upcycled-carton-pouch-workshop-sustainability-registration-270829968727?aff=ebdsoporgprofile" target="_blank"><b>Tweenkerama – Upcycled Carton Pouch Workshop | Sustainability</b></a></td>
+        <td style="width: 40%;">Beverage cartons can be useful too. Learn to create your upcycled pouch so you can save the Earth while keeping your knick-knacks safe! This is a physical programme held at Pasir Ris Public Library! Recommended for children and tweens.</td>
+				<td style="width: 20%;">26 Feb 2022, <br>2-3pm</td>
+        <td style="width: 20%;">Pasir Ris Public Library</td>
+			</tr>
 			<tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>TinkerWorks: Explore Nature</b></a></td>
         <td style="width: 40%;">Get inspired to learn more about the environment around us through a book discussion and tinkering activities in our libraries!<br><br>This programme is part of a series of sustainability themed events for tweens.</td>
