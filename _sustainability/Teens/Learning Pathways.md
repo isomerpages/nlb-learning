@@ -64,7 +64,7 @@ Be informed and make an impact to the environment.
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/teens-takeover-upcycled-fabric-cup-holder-workshop-greenhouse-registration-269507884337?aff=ebdsoporgprofile" target="_blank"><b>Teens Takeover – Upcycled Fabric Cup Holder Workshop | GREENHOUSE</b></a></td>
 				<td style="width: 40%;">Make your own fabric cup holder so you can carry your next bubble tea purchase in sustainable style! This simple 1.5h workshop will require hand-sewing.<br>
 </td>
-        <td style="width: 20%;">25 Feb 2022<br></td>
+        <td style="width: 20%;">25 Feb 2022,<br>2-3.30pm</td>
         <td style="width: 20%;">Jurong Regional Library</td>
       </tr>      <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.com/e/green-market-the-conscious-consumer-registration-220385588227?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>CCKPL: Green Market</b></a></td>
