@@ -82,7 +82,7 @@ Visit: [https://go.gov.sg/sport-in-syonan](https://go.gov.sg/sport-in-syonan) to
 
 # **Heritage Exhibition Chat - ‘Sport in Syonan: Triumph Over Despair’**
 
-In commemoration of the 80th Anniversary of the Fall of Singapore (1942-2022)
+In commemoration of the 80th Anniversary of the Fall of Singapore (1942-2022).
 
 How did sport sustain the sporting community in the harsh conditions of WWII? Contrary to common belief that fun and games had no place during the war years, there were times when sport remained a buoyant attraction. Not only was there an astonishing amount of sport taking place, but sport also played a significant role in improving the lives of athletes, young people and even POWs during the Japanese Occupation. 
 
