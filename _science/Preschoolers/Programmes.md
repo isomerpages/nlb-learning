@@ -31,12 +31,12 @@ Join us in exploring the wondrous world of Science as we get involved in experim
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science/preschoolers/Budding%20Scientists_ER%20Logo.png" style="width:300px; text-align:left;">
+       <img src="/images/science/preschoolers/Budding%20Scientists_ER%20Logo.png" style="width:400px; text-align:left;">
      </div>
     </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science/preschoolers/Budding%20Engineers_ER%20Logo.png" style="width:300px; text-align:left;">
+       <img src="/images/science/preschoolers/Budding%20Engineers_ER%20Logo.png" style="width:400px; text-align:left;">
     </div>
   </div>
  </div>
