@@ -27,8 +27,19 @@ third_nav_title: Preschoolers
 Join us in exploring the wondrous world of Science as we get involved in experiments and crafts. 
 
 ### Budding Scientists & Engineers 
-![Banner with outline of orange circle in the centre. Inside the circle, there is an image of an astronaut in front of a moon, with the words Budding Scientists: Explore. Discover. Various scientific elements are placed in hexagons outside the circle, such as gears, magnifying glass, test tubes and microscopes. The Early Read logo is on the top left hand corner of the banner. ](/images/science/preschoolers/Budding%20Scientists_ER%20Logo.png)<br>
-![Banner with outline of blue circle in the middle. Inside the circle, there is an image of a rocket blasting off, sandwiched between the words Budding and Engineers. Beneath the word Engineers are the words Explore. Experiment. Discover. Various scientific elements are placed in hexagons outside the circle, such as gears, magnifying glass, test tubes and microscopes. The Early Read logo is on the top left hand corner of the banner.](/images/science/preschoolers/Budding%20Engineers_ER%20Logo.png)
+
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/science/preschoolers/Budding%20Scientists_ER%20Logo.png" style="width:400px; text-align:left;">
+     </div>
+    </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/science/preschoolers/Budding%20Engineers_ER%20Logo.png" style="width:400px; text-align:left;">
+    </div>
+  </div>
+ </div>
 
 Science is all around us and learning opportunities are abundant. Through our curated list of Science programmes, have a meaningful time with your child as we learn and have fun together. Pick up tips on how learning can be done at home through simple set-ups and activities! 
 
