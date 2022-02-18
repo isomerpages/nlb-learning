@@ -86,7 +86,7 @@ Do you want to know how much time your kids should spend using devices? Here is 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/9-u9vGafcFs" class="responsive-iframe"></iframe>
+     <iframe src=" https://www.youtube.com/embed/9-u9vGafcFs&t=7s" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
