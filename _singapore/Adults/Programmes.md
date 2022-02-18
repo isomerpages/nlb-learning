@@ -73,9 +73,20 @@ Register now: [https://go.gov.sg/nlot-prog](https://go.gov.sg/nlot-prog)
 ![](/images/singapore-japanese-occupation/NAS%20New%20light%20on%20an%20old%20tale%20exhibition.jpg)
 
 ## **Sport in Syonan: Triumph Over Despair**
-This year marks the 80th anniversary of the Fall of Singapore. Visit this online exhibition, Sport in Syonan: 
-Triumph Over Despair, by SportSG.
+To mark the 80th anniversary of the Fall of Singapore, SportSG put up an online exhibition, Sport in Syonan: 
+Triumph Over Despair. 
 
-Visit: [https://go.gov.sg/sport-in-syonan](https://go.gov.sg/sport-in-syonan) to view
+Visit: [https://go.gov.sg/sport-in-syonan](https://go.gov.sg/sport-in-syonan) to view the digital exhibition.
 
 ![](/images/singapore-japanese-occupation/Sport%20in%20Syonan%20poster.png)
+
+# **Heritage Exhibition Chat - ‘Sport in Syonan: Triumph Over Despair’**
+
+In commemoration of the 80th Anniversary of the Fall of Singapore (1942-2022)
+
+How did sport sustain the sporting community in the harsh conditions of WWII? Contrary to common belief that fun and games had no place during the war years, there were times when sport remained a buoyant attraction. Not only was there an astonishing amount of sport taking place, but sport also played a significant role in improving the lives of athletes, young people and even POWs during the Japanese Occupation. 
+
+Join this slide presentation and chat session to gain interesting insights into the impact of war on sport (and into the impact of sport on war). Find out about the Syonan Sports Association, whose headquarters was located at Jalan Besar Stadium. Discover how a future football Olympian, Chia Boon Leong, emerged from the depths of war to thrill newly revitalised Singaporeans.
+
+
+![](/images/singapore-japanese-occupation/Sport%20in%20Syonan%20talk%20poster.jpg)
