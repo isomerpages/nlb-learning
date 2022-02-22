@@ -66,9 +66,9 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="http://go.gov.sg/get-professional-series"><b>[Get Professional series] Interview Skills</b></a></td>
-        <td style="width: 40%;">Get equipped with the skills required to ace job interviews and leave a lasting impression on your interviewer.</td>
-        <td style="width: 20%;">4 Feb 2022,<br>7pm - 9pm</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.com/e/introduction-to-user-experience-future-of-work-registration-269328527877?aff=odcleoeventsincollection&keep_tld=1"><b>Introduction to User Experience | Future of Work</b></a></td>
+        <td style="width: 40%;">Understand the role user experience has in digital media and marketing. </td>
+        <td style="width: 20%;">11 Mar 2022,<br>7pm – 8.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
     </tbody>
@@ -84,9 +84,10 @@ Clueless about which career is suitable for you? Discover and explore various ca
     <tbody>
 <tr>
 <td style="width: 20%;"><a  target="_blank" href="http://go.gov.sg/nlb-teensprogs">
-	<b> Deep Sea Horror Workshop | scienti-f(x) | Teens Takeover </b></a></td>
-        <td style="width: 40%;"> Dive into the depths with experts from the Lee Kong Chian Natural History Museum to explore the uncharted waters of the deep sea.</a></td>
-        <td style="width: 20%;"> 5 Feb 2022,<br>2pm – 3.30pm</td>
+	<b> Medical Myths Debunked Workshop | scienti-f(x) | Teens Takeover </b></a></td>
+        <td style="width: 40%;"> Learn about the science used in hospitals, the challenges that nurses face day-to-day, and get ready to debunk myths from your favourite medical shows. 
+This session is in collaboration with MOH Holdings (MOHH).</a></td>
+        <td style="width: 20%;"> 9 Mar 2022,<br>3pm – 4pm</td>
         <td style="width: 20%;"> Zoom</td>
       </tr>
       <tr>
