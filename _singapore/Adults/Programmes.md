@@ -52,15 +52,21 @@ Join archivists from the National Archives of Singapore as they speak on topics 
 
 Click [here](https://www.eventbrite.com/cc/learnx-singapore-67809){:target="_blank"} for the latest programme listings.
 
-## **Archives Invite**
+## **Archives Invites**
 Community histories unfold in this series that traces Singapore's social past with help from the archives.
 
 Click [here](https://www.eventbrite.com/cc/learnx-singapore-67809){:target="_blank"} for the latest programme listings.
 
 ## **Histories**
-For 2022, we are placing the focus on Transforming Places in Singapore, and examine how they have impacted communities and lives.
+For 2022, we are placing the focus on places, food, developments and trades in Singapore, and examine how they have impacted communities and lives.
 
 Click [here](https://www.eventbrite.com/cc/learnx-singapore-67809){:target="_blank"} for the latest programme listings.
+
+## **Languages of Singapore**
+A moderated series driven by an intent to bridge the distance between academic research and communities, on topics related to languages as living and evolving aspects of our society.
+
+Join the first discussion titled "Singlish - A Badge of Singaporean Identity or an Enduring Virus?" on 2 March 2022, 6:30pm. Register [here](https://safe.menlosecurity.com/https://www.eventbrite.sg/e/languages-of-singapore-singlish-tickets-269407955447?aff=ebdsoporgprofile).
+
 
 ## **New Light on an Old Tale**
 This year marks the 80th anniversary of the Fall of Singapore. Visit this special exhibition, New Light on an Old Tale, that runs from 15 February to 30 Jun 2022 at the National Archives of Singapore, Level 3 
