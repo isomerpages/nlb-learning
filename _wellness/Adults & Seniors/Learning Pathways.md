@@ -60,7 +60,13 @@ Kick start your journey to better health!
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.sg/e/what-will-damage-your-kidneys-mind-your-body-registration-251700501977?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Cooking Oils 101 | Mind Your Body</b></a></td>
-        <td> How well do you know your cooking oils? In this talk, you’ll learn from industry’s experts on the 101s of cooking oils</td>
+        <td> How well do you know your cooking oils? In this talk, you’ll learn from industry’s experts on the 101s of cooking oils.</td>
+        <td>16 March 2022, <br>7pm – 8pm  </td>
+        <td>Zoom</td>
+      </tr>
+<tr>
+<td><a href="https://www.eventbrite.sg/e/what-will-damage-your-kidneys-mind-your-body-registration-251700501977?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Keep Salt Away! | Mind Your Body </b></a></td>
+        <td> Learn the differences between salt and sodium, understand the effects of excessive sodium intake and identify hidden sodium in food.</td>
         <td>16 March 2022, <br>7pm – 8pm  </td>
         <td>Zoom</td>
       </tr>
