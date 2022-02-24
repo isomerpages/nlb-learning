@@ -79,12 +79,9 @@ test1
         <td> Understand the importance of fat to your body and learn about the different types of fats and their effects to kidney health.</td>
         <td style="width: 20%;"> 20 April 2022, <br> 7pm – 8pm  </td>
         <td style="width: 20%;"> Zoom</td>
-      
-</tr>
-
-  </tbody>
+	    </tr>
+    </tbody>
   </table>
 </div>
-
+   
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
