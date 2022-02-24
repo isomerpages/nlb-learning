@@ -70,6 +70,12 @@ Kick start your journey to better health!
         <td>6 April 2022, <br> 7pm – 8pm  </td>
         <td>Zoom</td>
       </tr>
+<tr>
+<td><a href="https://www.eventbrite.sg/e/keep-salt-away-mind-your-body-registration-251703892117?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Why Fat Matters? | Mind Your Body </b></a></td>
+        <td> Learn the differences between salt and sodium, understand the effects of excessive sodium intake and identify hidden sodium in food.</td>
+        <td>6 April 2022, <br> 7pm – 8pm  </td>
+        <td>Zoom</td>
+      </tr>
 
   </tbody>
   </table>
