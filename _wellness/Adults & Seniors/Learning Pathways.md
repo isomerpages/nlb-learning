@@ -44,10 +44,10 @@ Kick start your journey to better health!
         <td style="width: 40%;">This talk presents an overview of the nutrition-related health concern of Singaporeans, and how a healthy diet can help overcome these issues. 
 </td>
         <td style="width: 40%;"> 9 March 2022, <br>7pm – 8.30pm</td>
-        <td> </td>
+        <td> Zoom </td>
       </tr>
 <tr>
-<td><a href="http://go.gov.sg/get-professional-series" target="_blank"><b> What Will Damage Your Kidneys? | Mind Your Body</b></a></td>
+<td><a href="https://www.eventbrite.sg/e/what-will-damage-your-kidneys-mind-your-body-registration-251700501977?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> What Will Damage Your Kidneys? | Mind Your Body</b></a></td>
         <td> With kidney failure showing no early warning signs and symptoms, how will you know whether your kidneys are damaged?</td>
         <td>16 March 2022, <br>7pm – 8pm  </td>
         <td>Zoom</td>
