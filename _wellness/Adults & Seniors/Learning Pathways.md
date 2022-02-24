@@ -75,7 +75,8 @@ Kick start your journey to better health with a series of exciting talks and pro
         <td> Understand the importance of fat to your body and learn about the different types of fats and their effects to kidney health.</td>
         <td>20 April 2022, <br> 7pm – 8pm  </td>
         <td>Zoom</td>
-      </tr>
+      
+</tr>
 
   </tbody>
   </table>
