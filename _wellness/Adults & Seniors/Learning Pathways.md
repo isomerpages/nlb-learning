@@ -4,9 +4,6 @@ permalink: /wellness/adults-seniors/learning-pathways
 description: ""
 third_nav_title: Adults & Seniors
 ---
-CURRENTLY THIS
-
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -42,7 +39,7 @@ test2
       </tr>
     </thead>
     <tbody>
-<tr>
+     <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/eat-well-live-well-mind-your-body-registration-267309870017?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb 
 " target="_blank"><b>Eat Well, Live Well | Mind Your Body </b></a></td>
         <td style="width: 40%;">This talk presents an overview of the nutrition-related health concern of Singaporeans, and how a healthy diet can help overcome these issues. 
@@ -50,7 +47,7 @@ test2
         <td style="width: 20%;"> 9 March 2022, <br>7pm – 8.30pm</td>
          <td style="width: 20%;">Zoom </td>
       </tr>
-<tr>
+     <tr>
 <td><a href="https://www.eventbrite.sg/e/what-will-damage-your-kidneys-mind-your-body-registration-251700501977?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> What Will Damage Your Kidneys? | Mind Your Body</b></a></td>
         <td> With kidney failure showing no early warning signs and symptoms, how will you know whether your kidneys are damaged?</td>
         <td style="width: 20%;"> 16 March 2022, <br>7pm – 8pm  </td>
@@ -79,8 +76,8 @@ test2
         <td> Understand the importance of fat to your body and learn about the different types of fats and their effects to kidney health.</td>
         <td style="width: 20%;"> 20 April 2022, <br> 7pm – 8pm  </td>
         <td style="width: 20%;"> Zoom</td>
-	    </tr>
-    </tbody>
+	   </tr>
+  </tbody>
   </table>
 </div>
    
