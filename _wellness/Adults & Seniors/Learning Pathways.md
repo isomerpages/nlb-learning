@@ -60,9 +60,9 @@ test1
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
-<td><a href=https://www.eventbrite.sg/e/cooking-oils-101-mind-your-body-registration-255044824937?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Cooking Oils 101 | Mind Your Body</b></a></td>
+<td><a href=https://www.eventbrite.sg/e/cooking-oils-101-mind-your-body-registration-255044824937?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Cooking Oils 101 | Mind Your Body</b></td>
         <td> How well do you know your cooking oils? In this talk, you’ll learn from industry’s experts on the 101s of cooking oils.</td>
-        <td style="width: 20%;">30 March 2022, <br>7pm – 8.30pm  </td>
+        <td style="width: 20%;">30 March 2022, <br>7pm – 8.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
