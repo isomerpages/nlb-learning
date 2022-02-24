@@ -44,8 +44,8 @@ test1
 " target="_blank"><b>Eat Well, Live Well | Mind Your Body </b></a></td>
         <td style="width: 40%;">This talk presents an overview of the nutrition-related health concern of Singaporeans, and how a healthy diet can help overcome these issues. 
 </td>
-        <td style="width: 30%;"> 9 March 2022, <br>7pm – 8.30pm</td>
-         <td style="width: 10%;"> Zoom </td>
+        <td style="width: 40%;"> 9 March 2022, <br>7pm – 8.30pm</td>
+         <td> Zoom </td>
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.sg/e/what-will-damage-your-kidneys-mind-your-body-registration-251700501977?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> What Will Damage Your Kidneys? | Mind Your Body</b></a></td>
