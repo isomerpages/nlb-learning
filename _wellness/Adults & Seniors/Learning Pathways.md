@@ -29,7 +29,7 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 
 Kick start your journey to better health with a series of exciting talks and programmes! 
 
-test6
+test6.1
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -54,7 +54,7 @@ test6
         <td style="width: 20%;"> Zoom</td>
       </tr>
       <tr>
-      <td><a href=" https://www.eventbrite.sg/e/say-no-to-sugar-mind-your-body-registration-251702307377?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Say No to Sugar! | Mind Your Body</b></td>
+      <td><a href=" https://www.eventbrite.sg/e/say-no-to-sugar-mind-your-body-registration-251702307377?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Say No to Sugar! | Mind Your Body</b></a></td>
       <td style="width: 40%;"> Join us as we reveal the truth of how excessive sugar intake may affect kidney health and debunk common sugar myths.</td>
         <td style="width: 20%;"> 23 March 2022, <br>7pm – 8pm</td>
         <td style="width: 20%;"> Zoom</td>
