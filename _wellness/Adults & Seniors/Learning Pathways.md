@@ -35,7 +35,7 @@ test4
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal ">Explore Programmes</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
       </tr>
     </thead>
     <tbody>
