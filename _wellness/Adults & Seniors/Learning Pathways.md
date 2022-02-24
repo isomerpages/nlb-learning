@@ -53,7 +53,7 @@ Kick start your journey to better health!
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/e/what-will-damage-your-kidneys-mind-your-body-registration-251700501977?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Say No to Sugar! | Mind Your Body</b></td>
+<td><a href=" https://www.eventbrite.sg/e/say-no-to-sugar-mind-your-body-registration-251702307377?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Say No to Sugar! | Mind Your Body</b></td>
         <td> Join us as we reveal the truth of how excessive sugar intake may affect kidney health and debunk common sugar myths.</td>
         <td>23 March 2022, <br>7pm – 8pm </td>
         <td>Zoom</td>
