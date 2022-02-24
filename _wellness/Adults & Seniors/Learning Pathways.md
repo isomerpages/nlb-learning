@@ -4,6 +4,9 @@ permalink: /wellness/adults-seniors/learning-pathways
 description: ""
 third_nav_title: Adults & Seniors
 ---
+CURRENTLY THIS
+
+
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -45,37 +48,37 @@ test1
         <td style="width: 40%;">This talk presents an overview of the nutrition-related health concern of Singaporeans, and how a healthy diet can help overcome these issues. 
 </td>
         <td style="width: 20%;"> 9 March 2022, <br>7pm – 8.30pm</td>
-         <td style="width: 20%;"> Zoom </td>
+         <td style="width: 20%;">Zoom </td>
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.sg/e/what-will-damage-your-kidneys-mind-your-body-registration-251700501977?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> What Will Damage Your Kidneys? | Mind Your Body</b></a></td>
         <td> With kidney failure showing no early warning signs and symptoms, how will you know whether your kidneys are damaged?</td>
-        <td style="width: 20%;">16 March 2022, <br>7pm – 8pm  </td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;"> 16 March 2022, <br>7pm – 8pm  </td>
+        <td style="width: 20%;"> Zoom</td>
       </tr>
 <tr>
 <td><a href=" https://www.eventbrite.sg/e/say-no-to-sugar-mind-your-body-registration-251702307377?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Say No to Sugar! | Mind Your Body</b></td>
         <td> Join us as we reveal the truth of how excessive sugar intake may affect kidney health and debunk common sugar myths.</td>
-        <td style="width: 20%;">23 March 2022, <br>7pm – 8pm </td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;"> 23 March 2022, <br>7pm – 8pm </td>
+        <td style="width: 20%;"> Zoom</td>
       </tr>
 <tr>
-<td><a href=https://www.eventbrite.sg/e/cooking-oils-101-mind-your-body-registration-255044824937?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Cooking Oils 101 | Mind Your Body</b></td>
+<td><a href="https://www.eventbrite.sg/e/cooking-oils-101-mind-your-body-registration-255044824937?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Cooking Oils 101 | Mind Your Body</b></a></td>
         <td> How well do you know your cooking oils? In this talk, you’ll learn from industry’s experts on the 101s of cooking oils.</td>
-        <td style="width: 20%;">30 March 2022, <br>7pm – 8.30pm</td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;"> 30 March 2022, <br>7pm – 8.30pm  </td>
+        <td style="width: 20%;"> Zoom</td>
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.sg/e/keep-salt-away-mind-your-body-registration-251703892117?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Keep Salt Away! | Mind Your Body </b></a></td>
         <td> Learn the differences between salt and sodium, understand the effects of excessive sodium intake and identify hidden sodium in food.</td>
-        <td>6 April 2022, <br> 7pm – 8pm  </td>
-        <td>Zoom</td>
+        <td style="width: 20%;"> 6 April 2022, <br> 7pm – 8pm  </td>
+        <td style="width: 20%;"> Zoom</td>
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.sg/e/why-fat-matters-mind-your-body-registration-251705847967?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Why Fat Matters? | Mind Your Body </b></a></td>
         <td> Understand the importance of fat to your body and learn about the different types of fats and their effects to kidney health.</td>
-        <td>20 April 2022, <br> 7pm – 8pm  </td>
-        <td>Zoom</td>
+        <td style="width: 20%;"> 20 April 2022, <br> 7pm – 8pm  </td>
+        <td style="width: 20%;"> Zoom</td>
       
 </tr>
 
@@ -84,3 +87,4 @@ test1
 </div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
