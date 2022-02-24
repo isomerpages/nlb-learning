@@ -29,7 +29,6 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 
 Kick start your journey to better health with a series of exciting talks and programmes! 
 
-test6.1
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
