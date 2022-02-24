@@ -27,7 +27,7 @@ third_nav_title: Adults & Seniors
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 <h3><b> Nourish </b></h3>
 
-Kick start your journey to better health with a series of exciting programmes! 
+Kick start your journey to better health with a series of exciting talks and programmes! 
 
 
 <div class="horizontal-scroll margin--bottom--lg">
