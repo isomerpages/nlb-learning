@@ -58,6 +58,12 @@ Kick start your journey to better health!
         <td>23 March 2022, <br>7pm – 8pm </td>
         <td>Zoom</td>
       </tr>
+<tr>
+<td><a href="https://www.eventbrite.sg/e/what-will-damage-your-kidneys-mind-your-body-registration-251700501977?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Cooking Oils 101 | Mind Your Body</b></a></td>
+        <td> With kidney failure showing no early warning signs and symptoms, how will you know whether your kidneys are damaged?</td>
+        <td>16 March 2022, <br>7pm – 8pm  </td>
+        <td>Zoom</td>
+      </tr>
 
   </tbody>
   </table>
