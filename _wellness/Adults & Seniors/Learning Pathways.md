@@ -28,29 +28,7 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 <h3><b> Nourish </b></h3>
 
 Kick start your journey to better health! 
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal ">Discover Recommended Resources</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="/science/teens/content  " target="_blank"><b>Playlist: Science Beyond School, Really?</b></a></td>
-        <td style="width: 40%;"> Check out this playlist for fun applications of science concepts outside of the classroom.</td>
-        <td style="width: 20%;"> </td>
-        <td style="width: 20%;"> </td>
-      </tr>
-      <tr>
-        <td><a href="/science/teens/content"><b>Learning Package: Teen.Things: Fermentation Station: Food All Around Us</b></a></td>
-        <td><b> Fermentation Station: Food All Around Us</b> Mould, yeast, and bacteria. These are three ingredients which create a delicious meal. <br><br>Whether it’s that fragrant egg and onion thosai (savoury thin pancake) you had for supper, or a mouth-watering bowl of suan cai yu (pickled fish stew) from your favourite stall, many things we consume daily are made with the help of microorganisms. </td>
-        <td></td>
-        <td> </td>
-      </tr>
-</tbody>
-  </table>
-</div>
+
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
