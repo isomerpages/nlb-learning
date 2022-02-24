@@ -77,7 +77,6 @@ test4
         <td style="width: 20%;"> 20 April 2022, <br> 7pm – 8pm  </td>
         <td style="width: 20%;"> Zoom</td>
 	  </tr>
-  </tbody>
+   </tbody>
   </table>
 </div>
-	 
