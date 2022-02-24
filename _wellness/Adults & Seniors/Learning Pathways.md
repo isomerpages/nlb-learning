@@ -62,7 +62,7 @@ test1
 <tr>
 <td><a href="https://www.eventbrite.sg/e/what-will-damage-your-kidneys-mind-your-body-registration-251700501977?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Cooking Oils 101 | Mind Your Body</b></a></td>
         <td> How well do you know your cooking oils? In this talk, you’ll learn from industry’s experts on the 101s of cooking oils.</td>
-        <td style="width: 20%;">16 March 2022, <br>7pm – 8pm  </td>
+        <td style="width: 20%;">30 March 2022, <br>7pm – 8.30pm  </td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
