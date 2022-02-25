@@ -2,7 +2,6 @@
 title: LearnX Wellness
 permalink: /wellness/overview
 description: ""
-published: false
 ---
 <style type="text/css">
 /* Links */
