@@ -121,7 +121,9 @@ Explore our learning packages for useful tips on selecting age-appropriate books
 <p> Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together! </p>
  
  <h4 id="lp-ocean"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-marineanimals"><b>All About Animals: <br> Let's Learn about the Ocean and Marine Animals! (for 3-6 years old)</b></a></h4>
-    <img src="/images/science/preschoolers/Misc%20-%20Ocean%20and%20Marine%20Animals.png" style="width:400px; text-align:center;">
+ 
+<img src="/images/science/preschoolers/Misc%20-%20Ocean%20and%20Marine%20Animals.png" style="width:400px; text-align:centre;">
+
 <p>The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. What is the living habitat like for these marine animals? What special features have they developed to enable them to survive underwater? Let's find out! </p>
 
 <h4 id="lp-magneticrockets"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-engineers#lp-magneticrockets"><b>We're Engineers! Blast Off with  Magnetic Rockets (for 4-6 years old)</b></a></h4>
