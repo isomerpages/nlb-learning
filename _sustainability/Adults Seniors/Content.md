@@ -93,6 +93,13 @@ Check our **learning packages** for articles that will give you insights into li
       </a>
     </div>
   </div>
+ <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-CityinNature">
+        <span>Learning Package:<br>City In Nature</span>
+      </a>
+    </div>
+  </div>
 
 </div>
 
@@ -612,4 +619,3 @@ Kelly Brenner (2020), <i> Nature Obscura : A city's hidden natural world </i>, S
 	<li><span id="footnote-two"> Can Singapore, the city in a garden, grow into a city in nature?  (2018, Sept 19). <i> Eco-Business </i>. Retrieved 2021, November 24 from <a target="_blank" href="https://www/eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature"> https://www/eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature /</a> </span></li>
 
 </ol>
-
