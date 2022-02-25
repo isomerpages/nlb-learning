@@ -93,6 +93,13 @@ Check our **learning packages** for articles that will give you insights into li
       </a>
     </div>
   </div>
+ <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-CityinNature">
+        <span>Learning Package:<br>City In Nature</span>
+      </a>
+    </div>
+  </div>
 
 </div>
 
@@ -551,7 +558,7 @@ Lily Fulop (2020), <i>Wear, Repair, Repurpose : A Maker’s Guide to Mending and
 			<h2>Did you know...</h2>
 			<p> Generally, humans spend 93 percent of our time indoors separated from natural elements.<sup><a href="#footnote-one">1</a></sup>.</p>
 			<p> Rapid urbanization and the urban heat island effect, exacerbated by climate change, have meant that the temperature in Singapore is rising at twice the global rate. Average temperatures of 25-31 degrees Celsius now could rise to 29-36 degrees Celsius by 2100. <sup><a href="#footnote-two">2</a></sup>.</p>
-			
+</td></tr></tbody></table>			
 	
 <h4>Videos</h4>
 <h5>1.The Urban Green</h5>
@@ -572,7 +579,7 @@ Source: <a target="_blank" href="https://www.youtube.com/embed/QCZ8jInO7UY"> Wor
 
 Find out what is biophilic design and the science behind this design, and how such designs can improve the quality of life for humans.<p></p>
 
-Source <a target="_blank" href="http://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227">  What is biophilic design? Stuff You Should Know </a> (2019, October 7). <i> iHeartMedia, Inc <i> Retrieved 2021, December 11.
+Source <a target="_blank" href="http://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227">  What is biophilic design? Stuff You Should Know </a> (2019, October 7). <i> iHeartMedia, Inc </i> Retrieved 2021, December 11.
 
 <p></p><h4>eBooks</h4>
 	
@@ -612,5 +619,3 @@ Kelly Brenner (2020), <i> Nature Obscura : A city's hidden natural world </i>, S
 	<li><span id="footnote-two"> Can Singapore, the city in a garden, grow into a city in nature?  (2018, Sept 19). <i> Eco-Business </i>. Retrieved 2021, November 24 from <a target="_blank" href="https://www/eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature"> https://www/eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature /</a> </span></li>
 
 </ol>
-
-</i></i></td></tr></tbody></table>

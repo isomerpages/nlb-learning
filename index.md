@@ -55,6 +55,13 @@ sections:
       url: /singapore/overview/
       image: /images/home/home-sg-kv.png
       alt: Image alt text
+  - infopic:
+      description: Explore wellness from different angles and gain clarity on how to
+        make the best decisions for your mental, physical and financial health.
+      button: start learning
+      url: /wellness/overview
+      image: /images/wellness/home-wellness.png
+      alt: wellness-home
   - infobar:
       title: Find a group of like-minded people to learn with.
       button: Explore Communities
