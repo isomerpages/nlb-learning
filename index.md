@@ -61,6 +61,7 @@ sections:
       button: start learning
       url: /wellness/overview
       image: /images/wellness/home-wellness.png
+      alt: wellness-home
   - infobar:
       title: Find a group of like-minded people to learn with.
       button: Explore Communities
