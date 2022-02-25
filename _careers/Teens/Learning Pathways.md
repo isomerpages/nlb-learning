@@ -86,7 +86,7 @@ Clueless about which career is suitable for you? Discover and explore various ca
 <td style="width: 20%;"><a  target="_blank" href="http://go.gov.sg/nlb-teensprogs">
 	<b> Medical Myths Debunked Workshop | scienti-f(x) | Teens Takeover </b></a></td>
         <td style="width: 40%;"> Learn about the science used in hospitals, the challenges that nurses face day-to-day, and get ready to debunk myths from your favourite medical shows. 
-This session is in collaboration with MOH Holdings (MOHH).</a></td>
+This session is in collaboration with MOH Holdings (MOHH).</td>
         <td style="width: 20%;"> 9 Mar 2022,<br>3pm – 4pm</td>
         <td style="width: 20%;"> Zoom</td>
       </tr>
