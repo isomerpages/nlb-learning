@@ -123,12 +123,12 @@ Explore our learning packages for useful tips on selecting age-appropriate books
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science/preschoolers/ocean%20and%20marine%20animals%201.png" style="width:400px; text-align:left;">
+       <img src="/images/science/preschoolers/ocean%20and%20marine%20animals%201.png" style="width:250px; text-align:left;">
      </div>
     </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science/preschoolers/ocean%20and%20marine%20animals%202.png" style="width:400px; text-align:left;">
+       <img src="/images/science/preschoolers/ocean%20and%20marine%20animals%202.png" style="width:250px; text-align:left;">
     </div>
   </div>
  </div>
