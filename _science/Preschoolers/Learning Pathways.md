@@ -50,7 +50,7 @@ It's Time to Learn about Time!</b></a></td>
       </tr>
       <tr>
         <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-marineanimals" target="_blank"><b> All About Animals – Let’s Learn about Marine Animals
- </b></a></td>
+ </b></a><img src="/images/science/preschoolers/ocean%20and%20marine%20animals.png" style="width:400px; text-align:left;"></td>
         <td> The ocean is home to thousands of different marine animals, such as clownfishes, sharks, whales, dolphins and many more.
 In addition, they come in all shapes and sizes, and have developed special features that enable them to survive underwater. Ever wondered what is the living habitat like for these marine animals? Let’s read on to find out more!
  </td>
