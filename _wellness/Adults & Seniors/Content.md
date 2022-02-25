@@ -185,6 +185,6 @@ Gratitude encourages the treasuring of positive life experiences, paving a way t
 
 <img src="/images/wellness/adults-and-seniors/gj-issue3.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
 
-<p><a href="/files/Wellness/Gratitude%20Journal%20Issue%201.pdf" target="_blank"> Gratitude Journal Issue 1</a></p>
+<p><a href="/files/Wellness/Gratitude-Journal-Issue-1.pdf" target="_blank"> Gratitude Journal Issue 1</a></p>
 <p><a href="https://share.libbyapp.com/title/5921840" target="_blank"> Gratitude Journal Issue 2</a></p>
 <p><a href="https://share.libbyapp.com/title/5921840" target="_blank"> Gratitude Journal Issue 3</a></p>
