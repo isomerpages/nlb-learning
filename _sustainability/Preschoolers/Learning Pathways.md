@@ -94,7 +94,7 @@ What can we do to protect the environment around us? Do you know the different t
 			  <td><a href="https://www.eventbrite.sg/e/green-market-say-no-to-food-waste-registration-274575933007?aff=odcleoeventsincollection" target="_blank"><b>[Green Market] Say No to Food Waste</b></a></td>
         <td>‘Say No to Food Waste’ is a brand-new educational programme for children presented by CapitaLand volunteers. Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. Suitable for children 5-9 years. <br><br>
 Choose between the 2 sessions: <br>
-1. Sat, 19 Mar 2022 | 11 am – 12 pm | Zoom<br>
+1. Sat, 19 Mar 2022 | 11 am – 12 pm | Zoom<br><br>
 2. Sun, 20 Mar 2022 | 11 am – 12 pm | Choa Chu Kang Public Library</td>
 				<td>19 or 20 Mar 2022<br>11.00am – 12.00pm</td>
 				<td>Zoom</td>
@@ -131,10 +131,16 @@ Choose between the 2 sessions: <br>
 			  <td><a href="https://www.eventbrite.sg/e/green-market-jane-goodall-institutes-storytelling-registration-272542631347?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Jane Goodall Institute’s Storytelling</b></a></td>
         <td>Join exciting storytellers as they bring you on an adventure through various stories such as 'Kompheak the Medicine Boy with No Legs' and ‘A Crab, a Shell, and a Little Help'. Suitable for children 5-9 years.<br><br>
 Choose from the 2 sessions below:<br><br>
-1. Sat, 19 Mar 2022 | 7 pm – 8 pm | Choa Chu Kang Public Library | This will be a night-time session so come along in your comfy pajamas and your favourite soft toy. <br>
+1. Sat, 19 Mar 2022 | 7 pm – 8 pm | Choa Chu Kang Public Library | This will be a night-time session so come along in your comfy pajamas and your favourite soft toy. <br><br>
 2. Sun, 20 Mar 2022 | 12.30 – 1.30 pm | Choa Chu Kang Public Library</td>
 				<td>19 or 20 Mar 2022</td>
 				<td>Choa Chu Kang Public Library</td>
+     </tr>
+			<tr>
+			  <td><a href="https://www.eventbrite.sg/e/green-market-under-the-sea-photography-registration-274537367657?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Under the Sea Photography</b></a></td>
+        <td>Have you always been intrigued by the underwater world and wanted to learn more about it? <br>Come join us at this exciting virtual sharing session with Coastal Natives’ own award-winning underwater photographer, Shinto K Anto. Learn about what draws him to scuba diving, the stories behind his photographs, and why he’s motivated to act for the big blue</td>
+				<td>20 Mar 2022<br>1.00pm – 2.00pm</td>
+				<td>Zoom</td>
      </tr>
     </tbody>
   </table>
