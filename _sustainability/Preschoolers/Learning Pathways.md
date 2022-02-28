@@ -73,10 +73,37 @@ What can we do to protect the environment around us? Do you know the different t
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://go.gov.sg/er-sustainability-progs" target="_blank"><b>Animal Conservation Series: Sea Turtle Rescue</b></a></td>
-        <td> Sea turtles are a bastion of the ocean ecology. Learn all about the amazing sea turtle in this special storytelling and craft session.</td>
-				<td>5 Feb 2022<br>11.00am – 12.00pm</td>
+        <td><a href="https://www.eventbrite.sg/e/green-market-showcase-world-water-day-registration-220385588227?aff=odcleoeventsincollection" target="_blank"><b>Green Market Showcase: World Water Day</b></a></td>
+        <td>Get up close to communities and organisations such as Jane Goodall Institute, Food Citizen, SG Beach Warriors, The Plastic Project that will be showcasing exciting initiatives that address various environmental causes.</td>
+				<td>19 and 20 Mar 2022<br>11.00am – 7.00pm</td>
 				<td>Choa Chu Kang Public Library</td>
+     </tr>
+			   <tr>
+        <td><a href="https://www.eventbrite.sg/e/all-about-urban-farming-early-read-registration-252909778957?aff=odcleoeventsincollection" target="_blank"><b>All about Urban Farming! | Early Read</b></a></td>
+        <td>Find out more about where food comes from and the small steps we can take to grow our own food in this storytelling and activity session.</td>
+				<td>19 Mar 2022<br>11.00am – 12.00pm</td>
+				<td>Woodlands Regional Library</td>
+     </tr>
+			<tr>
+        <td><a href="https://www.eventbrite.sg/e/green-market-the-wonderful-world-of-plankton-registration-274536113907?aff=odcleoeventsincollection" target="_blank"><b>Green Market: The Wonderful World of Plankton</b></a></td>
+        <td>Learn about the wonderful world of plankton through the view of a microscope and never look at a pond, lake, or beach the same way again!</td>
+				<td>19 Mar 2022<br>11.00am – 12.00pm</td>
+				<td>Zoom</td>
+     </tr>
+			<tr>
+			  <td><a href="https://www.eventbrite.sg/e/green-market-say-no-to-food-waste-registration-274575933007?aff=odcleoeventsincollection" target="_blank"><b>[Green Market] Say No to Food Waste</b></a></td>
+        <td>‘Say No to Food Waste’ is a brand-new educational programme for children presented by CapitaLand volunteers. Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. Suitable for children 5-9 years. <br><br>
+Choose between the 2 sessions: <br>
+Sat, 19 Mar 2022 | 11 am – 12 pm | Zoom
+Sun, 20 Mar 2022 | 11 am – 12 pm | Choa Chu Kang Public Library</td>
+				<td>19 or 20 Mar 2022<br>11.00am – 12.00pm</td>
+				<td>Zoom</td>
+     </tr>
+		<tr>
+			  <td><a href="https://www.eventbrite.sg/e/green-market-water-behind-the-veil-registration-274536625437?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Water Behind the Veil</b></a></td>
+        <td>Hidden behind the waters we see and use daily, are enigmatic and beautifully complex freshwater ecosystems. These lakes, rivers, and wetlands remain crucial to support our world and well-being. Let’s try to peer across this veil and catch a glimpse of these fascinating and dynamic ecosystems near and far from our home in Singapore. Presented by Dr Kashif Shaad, Director of Hydroinformatics, Conservation International.</td>
+				<td>19 Mar 2022<br>1.00pm – 2.00pm</td>
+				<td>Zoom</td>
      </tr>
     </tbody>
   </table>
