@@ -126,6 +126,12 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
         <td style="width: 20%;">19 Mar 2022<br>11.00am – 12.00pm</td>
         <td style="width: 20%;">Toa Payoh Public Library</td>
       </tr>
+			   <tr>
+        <td><a href="https://www.eventbrite.sg/e/all-about-urban-farming-early-read-registration-252909778957?aff=odcleoeventsincollection" target="_blank"><b>All about Urban Farming! | Early Read</b></a></td>
+        <td>Find out more about where food comes from and the small steps we can take to grow our own food in this storytelling and activity session.</td>
+				<td>19 Mar 2022<br>11.00am – 12.00pm</td>
+				<td>Woodlands Regional Library</td>
+     </tr>
 						<tr>
 <td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Little Bits Creation I DiscoverTech</b></a></td>
         <td>Little Bits are fun swappable, magnetically – connected electronic building blocks that allow you to easily add lights and movement to any crafts project.  Children and parents will learn how littleBits work and create and decorate a character using cardboard in this activity.</td>
