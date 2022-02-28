@@ -105,6 +105,28 @@ Sun, 20 Mar 2022 | 11 am – 12 pm | Choa Chu Kang Public Library</td>
 				<td>19 Mar 2022<br>1.00pm – 2.00pm</td>
 				<td>Zoom</td>
      </tr>
+					<tr>
+			  <td><a href="https://www.eventbrite.sg/e/green-market-ocean-crafts-registration-272534787887?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Ocean Crafts</b></a></td>
+        <td>Ocean Crafts is an interactive arts and crafts workshop aimed at instilling love for the ocean at a young age. Through hands-on activities recommended for ages 5 to 9, learn about the amazing marine creatures that live below the waves, and what we can do to protect them.</td>
+				<td>19 Mar 2022<br>2.00pm – 3.00pm</td>
+				<td>Choa Chu Kang Public Library</td>
+     </tr>
+					<tr>
+			  <td><a href="https://www.eventbrite.sg/e/green-market-creating-your-wave-of-change-registration-274644277427?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Creating Your Wave of Change!</b></a></td>
+        <td>Ocean Crafts is an interactive arts and crafts workshop aimed at instilling love for the ocean at a young age. Through hands-on activities recommended for ages 5 to 9, learn about the amazing marine creatures that live below the waves, and what we can do to protect them.</td>
+				<td>19 Mar 2022<br>3.30pm – 4.30pm</td>
+				<td>Choa Chu Kang Public Library</td>
+     </tr>
+						<tr>
+			  <td><a href="https://www.eventbrite.sg/e/green-market-protecting-singapores-amazing-marine-life-registration-272539471897?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Protecting Singapore’s Amazing Marine Life</b></a></td>
+        <td>Singapore is a global centre of biodiversity with a wealth of tropical habitats, and a wide variety of marine life. Listen to intriguing and inspiring stories from a panel of passionate protectors of Singapore’s marine natural heritage. This talk will showcase presentations by representatives below.<br><br> 
+					<b>Advocating for Marine Life Protection on Social Media.</b> Presented by BiogirlMJ, Just Keep Thinking.<br>
+					<b>Fighters Against Marine Trash.</b> Presented by Faith Tan, SG Beach Warriors.<br>
+					<b>What Lies Underneath Singapore's Murky Water? The Good, the Bad and the Ugly.</b> Presented by Sam Shu Qin, Our Singapore Reefs.
+</td>
+				<td>19 Mar 2022<br>5.00pm – 6.30pm</td>
+				<td>Choa Chu Kang Public Library</td>
+     </tr>
     </tbody>
   </table>
 </div>
