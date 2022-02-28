@@ -93,7 +93,7 @@ What can we do to protect the environment around us? Do you know the different t
 			<tr>
 			  <td><a href="https://www.eventbrite.sg/e/green-market-say-no-to-food-waste-registration-274575933007?aff=odcleoeventsincollection" target="_blank"><b>[Green Market] Say No to Food Waste</b></a></td>
         <td>‘Say No to Food Waste’ is a brand-new educational programme for children presented by CapitaLand volunteers. Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. Suitable for children 5-9 years. <br><br>
-Choose between the 2 sessions: <br>
+Choose between the 2 sessions: <br><br>
 1. Sat, 19 Mar 2022 | 11 am – 12 pm | Zoom<br><br>
 2. Sun, 20 Mar 2022 | 11 am – 12 pm | Choa Chu Kang Public Library</td>
 				<td>19 or 20 Mar 2022<br>11.00am – 12.00pm</td>
@@ -138,8 +138,28 @@ Choose from the 2 sessions below:<br><br>
      </tr>
 			<tr>
 			  <td><a href="https://www.eventbrite.sg/e/green-market-under-the-sea-photography-registration-274537367657?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Under the Sea Photography</b></a></td>
-        <td>Have you always been intrigued by the underwater world and wanted to learn more about it? <br>Come join us at this exciting virtual sharing session with Coastal Natives’ own award-winning underwater photographer, Shinto K Anto. Learn about what draws him to scuba diving, the stories behind his photographs, and why he’s motivated to act for the big blue</td>
+        <td>Have you always been intrigued by the underwater world and wanted to learn more about it? <br><br>Come join us at this exciting virtual sharing session with Coastal Natives’ own award-winning underwater photographer, Shinto K Anto. Learn about what draws him to scuba diving, the stories behind his photographs, and why he’s motivated to act for the big blue</td>
 				<td>20 Mar 2022<br>1.00pm – 2.00pm</td>
+				<td>Zoom</td>
+     </tr>
+			<tr>
+			  <td><a href="https://www.eventbrite.sg/e/green-market-return-life-to-earth-by-making-living-compost-registration-272535951367?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Return Life to Earth by Making Living Compost</b></a></td>
+        <td>Discover what living compost is, and how you can make your own using plant-based materials like vegetable scraps, dried leaves, and sawdust of Singapore street trees!<br><br>
+Watch live demonstrations on how lifeless soil repels water, and how living compost acts like a super sponge that prevents ponding and reduce the need for watering, all while ensuring that soil remains fertile. Bring a bag of vegetable scraps and fruit peels for the compost making activity!</td>
+				<td>20 Mar 2022<br>2.00pm – 4.00pm</td>
+				<td>Choa Chu Kang Public Library</td>
+     </tr>
+			<tr>
+			  <td><a href="https://www.eventbrite.sg/e/green-market-climate-change-water-shortage-and-ways-to-save-water-registration-274539935337?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Climate Change, Water Shortage and Ways to Save Water</b></a></td>
+        <td>Be introduced to the concept of "Water Footprint”, determining the amount of water used to produce different types of products (e.g. food/ clothes). Participants will also get a glimpse on how to use a Water Foot Print Calculator.</td>
+				<td>20 Mar 2022<br>3.00pm – 4.00pm</td>
+				<td>Zoom</td>
+     </tr>
+			<tr>
+			  <td><a href="https://www.eventbrite.sg/e/green-market-conserving-our-coral-reefs-in-singapore-registration-272543393627?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Conserving Our Coral Reefs in Singapore</b></a></td>
+        <td>Coral reefs provide benefits such as coastal protection and resources for fisheries, but are threatened by climate change and habitat loss. However, reefs in our backyard remain strong despite the loss of about 60% due to coastal development.<br><br>
+What are some of the ongoing conservation efforts and how can we balance urban development and nature? Join us to learn more about coral reefs in Singapore and what you can do to protect our natural heritage!</td>
+				<td>20 Mar 2022<br>5.00pm – 6.00pm</td>
 				<td>Zoom</td>
      </tr>
     </tbody>
