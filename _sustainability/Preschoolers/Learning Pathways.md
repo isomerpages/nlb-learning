@@ -94,8 +94,8 @@ What can we do to protect the environment around us? Do you know the different t
 			  <td><a href="https://www.eventbrite.sg/e/green-market-say-no-to-food-waste-registration-274575933007?aff=odcleoeventsincollection" target="_blank"><b>[Green Market] Say No to Food Waste</b></a></td>
         <td>‘Say No to Food Waste’ is a brand-new educational programme for children presented by CapitaLand volunteers. Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. Suitable for children 5-9 years. <br><br>
 Choose between the 2 sessions: <br>
-Sat, 19 Mar 2022 | 11 am – 12 pm | Zoom
-Sun, 20 Mar 2022 | 11 am – 12 pm | Choa Chu Kang Public Library</td>
+1. Sat, 19 Mar 2022 | 11 am – 12 pm | Zoom<br>
+2. Sun, 20 Mar 2022 | 11 am – 12 pm | Choa Chu Kang Public Library</td>
 				<td>19 or 20 Mar 2022<br>11.00am – 12.00pm</td>
 				<td>Zoom</td>
      </tr>
@@ -120,11 +120,20 @@ Sun, 20 Mar 2022 | 11 am – 12 pm | Choa Chu Kang Public Library</td>
 						<tr>
 			  <td><a href="https://www.eventbrite.sg/e/green-market-protecting-singapores-amazing-marine-life-registration-272539471897?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Protecting Singapore’s Amazing Marine Life</b></a></td>
         <td>Singapore is a global centre of biodiversity with a wealth of tropical habitats, and a wide variety of marine life. Listen to intriguing and inspiring stories from a panel of passionate protectors of Singapore’s marine natural heritage. This talk will showcase presentations by representatives below.<br><br> 
-					<b>Advocating for Marine Life Protection on Social Media.</b> Presented by BiogirlMJ, Just Keep Thinking.<br>
-					<b>Fighters Against Marine Trash.</b> Presented by Faith Tan, SG Beach Warriors.<br>
-					<b>What Lies Underneath Singapore's Murky Water? The Good, the Bad and the Ugly.</b> Presented by Sam Shu Qin, Our Singapore Reefs.
+					<b>1. Advocating for Marine Life Protection on Social Media.</b> Presented by BiogirlMJ, Just Keep Thinking.<br>
+					<b>2. Fighters Against Marine Trash.</b> Presented by Faith Tan, SG Beach Warriors.<br>
+					<b>3. What Lies Underneath Singapore's Murky Water? The Good, the Bad and the Ugly.</b> Presented by Sam Shu Qin, Our Singapore Reefs.
 </td>
 				<td>19 Mar 2022<br>5.00pm – 6.30pm</td>
+				<td>Choa Chu Kang Public Library</td>
+     </tr>
+						<tr>
+			  <td><a href="https://www.eventbrite.sg/e/green-market-jane-goodall-institutes-storytelling-registration-272542631347?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Jane Goodall Institute’s Storytelling</b></a></td>
+        <td>Join exciting storytellers as they bring you on an adventure through various stories such as 'Kompheak the Medicine Boy with No Legs' and ‘A Crab, a Shell, and a Little Help'. Suitable for children 5-9 years.<br><br>
+Choose from the 2 sessions below:<br><br>
+1. Sat, 19 Mar 2022 | 7 pm – 8 pm | Choa Chu Kang Public Library | This will be a night-time session so come along in your comfy pajamas and your favourite soft toy. <br>
+2. Sun, 20 Mar 2022 | 12.30 – 1.30 pm | Choa Chu Kang Public Library</td>
+				<td>19 or 20 Mar 2022</td>
 				<td>Choa Chu Kang Public Library</td>
      </tr>
     </tbody>
