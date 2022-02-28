@@ -88,16 +88,17 @@ In fact, they will soon realise computational thinking exists in all aspects of 
         <td>Woodlands Regional Library</td>
       </tr>
 			<tr>				
-				<td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Coding Unplugged : Sound Shakers | DiscoverTech</b></a></td>
+				<td style="width: 20%;"><a href="https://www.eventbrite.com/myevent?eid=254306185647" target="_blank"><b>Coding Unplugged : Sound Shakers | DiscoverTech</b></a></td>
         <td style="width: 40%;">Sing songs, make a sound shaker while all learning about pre-coding concepts like decomposition and debugging!</td>
         <td style="width: 20%;">19 Mar 2022<br>11.00am – 12.00pm</td>
         <td style="width: 20%;">Toa Payoh Public Library</td>
       </tr>
-<tr>
-<td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>How to Be a Good Digital Role Model? | DiscoverTech</b></a></td>
+			  <tr>
+        <td><a href="https://www.eventbrite.com/myevent?eid=253535520567" target="_blank"><b>How to Be a Good Digital Role Model? | DiscoverTech</b></a></td>
         <td>Help your child shape their best digital lives by being a top-notch digital role model.</td>
-        <td>24 Mar 2022 <br>11.00am-12.00pm </td>
-        <td>Zoom</td></tr>
+        <td>24 Mar 2022  <br>11.00am – 12.00pm</td>
+        <td>Zoom</td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -110,14 +111,7 @@ In fact, they will soon realise computational thinking exists in all aspects of 
       </tr>
     </thead>
     <tbody>
-
-<tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>[Budding Scientists] Let’s Learn about Ocean and Marine Animals!</b></a></td>
-        <td>Descend through the ocean and discover about the mesmerising life that lies beneath.  In this activity, you and your child will be introduced to the wonders of the ocean and learn fun facts about marine animals!</td>
-        <td>18 Mar 2022 <br>3.00pm – 4.00pm</td>
-        <td>Zoom</td>
-      </tr>
-	  <td style="width: 20%;"><a href="https://go.gov.sg/bsr-progs" target="_blank"><b> Baby Songs & Rhymes </b></a></td>
+	 <tr> <td style="width: 20%;"><a href="https://go.gov.sg/bsr-progs" target="_blank"><b> Baby Songs & Rhymes </b></a></td>
         <td style="width: 40%;"> Join other parents with young children and support your child's early development through an enjoyable virtual session with songs and rhymes.</td>
         <td style="width: 20%;">5 Mar 2022<br>11.00am – 11.20am</td>
         <td style="width: 20%;">Zoom</td>
@@ -126,6 +120,12 @@ In fact, they will soon realise computational thinking exists in all aspects of 
         <td><a href="https://go.gov.sg/tsr-progs" target="_blank"><b> Toddler Songs & Rhymes [Theme: Colours & Shapes] </b></a></td>
         <td> Have fun learning about colours and shapes with your child in this interactive session of Toddler Songs & Rhymes.  Get your child grooving to the different rhymes and action songs in this session. Teaching your toddler the movements and act out a rhyme will show your child that learning and fun can happen at the same time. </td>
         <td>15 Mar 2022<br>4.00pm-4.20pm<br></td>
+        <td>Zoom</td>
+      </tr>
+			<tr>
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>[Budding Scientists] Let’s Learn about Ocean and Marine Animals!</b></a></td>
+        <td>Descend through the ocean and discover about the mesmerising life that lies beneath.  In this activity, you and your child will be introduced to the wonders of the ocean and learn fun facts about marine animals!</td>
+        <td>18 Mar 2022 <br>3.00pm – 4.00pm</td>
         <td>Zoom</td>
       </tr>
     </tbody>
