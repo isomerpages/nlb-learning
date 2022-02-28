@@ -121,11 +121,11 @@ Make reading a fun activity while fostering that special bond between you and yo
       </tr>
 <tr>
 <td><a href="https://go.gov.sg/er-digital-progs
-" target="_blank"><b>Think Like a Coder: Session 1: Amazing Algos
+" target="_blank"><b>Coding Unplugged : Sound Shakers | DiscoverTech
 </b></a></td>
-        <td>In this screen-free coding workshop, children are introduced to algorithms, and learn how they can experience them in day-to-day activities.</td>
-        <td>19  Feb 2022 <br>11.00am -12.00pm</td>
-        <td>Woodlands Regional Library</td>
+        <td>Sing songs, make a sound shaker while all learning about pre-coding concepts like decomposition and debugging!</td>
+        <td>19  Mar 2022 <br>11.00am -12.00pm</td>
+        <td>Toa Payoh Public Library</td>
       </tr>
 			<tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Ocean and Marine Animals!</b></a></td>
