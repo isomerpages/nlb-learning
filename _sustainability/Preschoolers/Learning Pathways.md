@@ -83,13 +83,7 @@ What can we do to protect the environment around us? Do you know the different t
         <td>Get up close to communities and organisations such as Jane Goodall Institute, Food Citizen, SG Beach Warriors, The Plastic Project that will be showcasing exciting initiatives that address various environmental causes.</td>
 				<td>19 and 20 Mar 2022<br>11.00am – 7.00pm</td>
 				<td>Choa Chu Kang Public Library</td>
-     </tr>
-			<tr>
-        <td><a href="https://www.eventbrite.sg/e/green-market-the-wonderful-world-of-plankton-registration-274536113907?aff=odcleoeventsincollection" target="_blank"><b>Green Market: The Wonderful World of Plankton</b></a></td>
-        <td>Learn about the wonderful world of plankton through the view of a microscope and never look at a pond, lake, or beach the same way again!</td>
-				<td>19 Mar 2022<br>11.00am – 12.00pm</td>
-				<td>Zoom</td>
-     </tr>
+			</tr>
 			<tr>
 			  <td><a href="https://www.eventbrite.sg/e/green-market-say-no-to-food-waste-registration-274575933007?aff=odcleoeventsincollection" target="_blank"><b>[Green Market] Say No to Food Waste</b></a></td>
         <td>‘Say No to Food Waste’ is a brand-new educational programme for children presented by CapitaLand volunteers. Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. Suitable for children 5-9 years. <br><br>
@@ -99,32 +93,10 @@ Choose between the 2 sessions: <br><br>
 				<td>19 or 20 Mar 2022<br>11.00am – 12.00pm</td>
 				<td>Zoom</td>
      </tr>
-		<tr>
-			  <td><a href="https://www.eventbrite.sg/e/green-market-water-behind-the-veil-registration-274536625437?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Water Behind the Veil</b></a></td>
-        <td>Hidden behind the waters we see and use daily, are enigmatic and beautifully complex freshwater ecosystems. These lakes, rivers, and wetlands remain crucial to support our world and well-being. Let’s try to peer across this veil and catch a glimpse of these fascinating and dynamic ecosystems near and far from our home in Singapore. Presented by Dr Kashif Shaad, Director of Hydroinformatics, Conservation International.</td>
-				<td>19 Mar 2022<br>1.00pm – 2.00pm</td>
-				<td>Zoom</td>
-     </tr>
 					<tr>
 			  <td><a href="https://www.eventbrite.sg/e/green-market-ocean-crafts-registration-272534787887?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Ocean Crafts</b></a></td>
         <td>Ocean Crafts is an interactive arts and crafts workshop aimed at instilling love for the ocean at a young age. Through hands-on activities recommended for ages 5 to 9, learn about the amazing marine creatures that live below the waves, and what we can do to protect them.</td>
 				<td>19 Mar 2022<br>2.00pm – 3.00pm</td>
-				<td>Choa Chu Kang Public Library</td>
-     </tr>
-					<tr>
-			  <td><a href="https://www.eventbrite.sg/e/green-market-creating-your-wave-of-change-registration-274644277427?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Creating Your Wave of Change!</b></a></td>
-        <td>Ocean Crafts is an interactive arts and crafts workshop aimed at instilling love for the ocean at a young age. Through hands-on activities recommended for ages 5 to 9, learn about the amazing marine creatures that live below the waves, and what we can do to protect them.</td>
-				<td>19 Mar 2022<br>3.30pm – 4.30pm</td>
-				<td>Choa Chu Kang Public Library</td>
-     </tr>
-						<tr>
-			  <td><a href="https://www.eventbrite.sg/e/green-market-protecting-singapores-amazing-marine-life-registration-272539471897?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Protecting Singapore’s Amazing Marine Life</b></a></td>
-        <td>Singapore is a global centre of biodiversity with a wealth of tropical habitats, and a wide variety of marine life. Listen to intriguing and inspiring stories from a panel of passionate protectors of Singapore’s marine natural heritage. This talk will showcase presentations by representatives below.<br><br> 
-					<b>1. Advocating for Marine Life Protection on Social Media.</b> Presented by BiogirlMJ, Just Keep Thinking.<br>
-					<b>2. Fighters Against Marine Trash.</b> Presented by Faith Tan, SG Beach Warriors.<br>
-					<b>3. What Lies Underneath Singapore's Murky Water? The Good, the Bad and the Ugly.</b> Presented by Sam Shu Qin, Our Singapore Reefs.
-</td>
-				<td>19 Mar 2022<br>5.00pm – 6.30pm</td>
 				<td>Choa Chu Kang Public Library</td>
      </tr>
 						<tr>
@@ -135,32 +107,6 @@ Choose from the 2 sessions below:<br><br>
 2. Sun, 20 Mar 2022 | 12.30 – 1.30 pm | Choa Chu Kang Public Library</td>
 				<td>19 or 20 Mar 2022</td>
 				<td>Choa Chu Kang Public Library</td>
-     </tr>
-			<tr>
-			  <td><a href="https://www.eventbrite.sg/e/green-market-under-the-sea-photography-registration-274537367657?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Under the Sea Photography</b></a></td>
-        <td>Have you always been intrigued by the underwater world and wanted to learn more about it? <br><br>Come join us at this exciting virtual sharing session with Coastal Natives’ own award-winning underwater photographer, Shinto K Anto. Learn about what draws him to scuba diving, the stories behind his photographs, and why he’s motivated to act for the big blue</td>
-				<td>20 Mar 2022<br>1.00pm – 2.00pm</td>
-				<td>Zoom</td>
-     </tr>
-			<tr>
-			  <td><a href="https://www.eventbrite.sg/e/green-market-return-life-to-earth-by-making-living-compost-registration-272535951367?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Return Life to Earth by Making Living Compost</b></a></td>
-        <td>Discover what living compost is, and how you can make your own using plant-based materials like vegetable scraps, dried leaves, and sawdust of Singapore street trees!<br><br>
-Watch live demonstrations on how lifeless soil repels water, and how living compost acts like a super sponge that prevents ponding and reduce the need for watering, all while ensuring that soil remains fertile. Bring a bag of vegetable scraps and fruit peels for the compost making activity!</td>
-				<td>20 Mar 2022<br>2.00pm – 4.00pm</td>
-				<td>Choa Chu Kang Public Library</td>
-     </tr>
-			<tr>
-			  <td><a href="https://www.eventbrite.sg/e/green-market-climate-change-water-shortage-and-ways-to-save-water-registration-274539935337?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Climate Change, Water Shortage and Ways to Save Water</b></a></td>
-        <td>Be introduced to the concept of "Water Footprint”, determining the amount of water used to produce different types of products (e.g. food/ clothes). Participants will also get a glimpse on how to use a Water Foot Print Calculator.</td>
-				<td>20 Mar 2022<br>3.00pm – 4.00pm</td>
-				<td>Zoom</td>
-     </tr>
-			<tr>
-			  <td><a href="https://www.eventbrite.sg/e/green-market-conserving-our-coral-reefs-in-singapore-registration-272543393627?aff=odcleoeventsincollection" target="_blank"><b>Green Market: Conserving Our Coral Reefs in Singapore</b></a></td>
-        <td>Coral reefs provide benefits such as coastal protection and resources for fisheries, but are threatened by climate change and habitat loss. However, reefs in our backyard remain strong despite the loss of about 60% due to coastal development.<br><br>
-What are some of the ongoing conservation efforts and how can we balance urban development and nature? Join us to learn more about coral reefs in Singapore and what you can do to protect our natural heritage!</td>
-				<td>20 Mar 2022<br>5.00pm – 6.00pm</td>
-				<td>Zoom</td>
      </tr>
     </tbody>
   </table>
