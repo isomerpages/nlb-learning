@@ -128,6 +128,12 @@ In fact, they will soon realise computational thinking exists in all aspects of 
         <td>18 Mar 2022 <br>3.00pm – 4.00pm</td>
         <td>Zoom</td>
       </tr>
+			   <tr>
+        <td><a href="https://www.eventbrite.sg/e/all-about-urban-farming-early-read-registration-252909778957?aff=odcleoeventsincollection" target="_blank"><b>All about Urban Farming! | Early Read</b></a></td>
+        <td>Find out more about where food comes from and the small steps we can take to grow our own food in this storytelling and activity session.</td>
+				<td>19 Mar 2022<br>11.00am – 12.00pm</td>
+				<td>Woodlands Regional Library</td>
+     </tr>
     </tbody>
   </table>
 </div>
