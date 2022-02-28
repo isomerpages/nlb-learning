@@ -128,6 +128,14 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Toa Payoh Public Library</td>
       </tr>
 			<tr>
+<td><a href="https://go.gov.sg/er-digital-progs
+" target="_blank"><b>Coding Unplugged : Who's Afraid of the Big Bad Wolf | DiscoverTech
+</b></a></td>
+        <td>Help your child become a better computational thinker by joining this fun and interesting pre-coding programme while solving challenges for the three little pigs!</td>
+        <td>12  Mar 2022 <br>11.00am -12.00pm</td>
+        <td>Woodlands Regional Library</td>
+      </tr>
+			<tr>
 <td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Ocean and Marine Animals!</b></a></td>
         <td>Find out more about the wonders of the ocean and get to know the many marine animals!</td>
         <td>18 Mar 2022<br>3.00pm - 4.00pm</td>
