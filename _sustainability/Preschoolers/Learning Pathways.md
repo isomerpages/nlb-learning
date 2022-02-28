@@ -89,17 +89,17 @@ What can we do to protect the environment around us? Do you know the different t
       </tr>
     </thead>
     <tbody>
-			<tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>[Budding Scientists] Let’s Learn about Ocean and Marine Animals!</b></a></td>
-        <td>Descend through the ocean to discover its mesmerizing ocean life. The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. Did you know that clownfish are actually omnivores, which mean they eat both meat and plants? What is the living habitat like for these marine animals? In this session, you will be introduced to the wonders of the oceans and learnt about the fun facts of the marine animals.</td>
-        <td>18 Mar 2022<br>3.00pm – 4.00pm</td>
-        <td>Zoom</td>
-      </tr>
 			  <tr>
         <td><a href="https://www.eventbrite.com/myevent?eid=254305122467" target="_blank"><b>Coding Unplugged : Who’s Afraid of the Big Bad Wolf? | DiscoverTech</b></a></td>
         <td>Help your child become a better computational thinker by joining this fun and interesting pre-coding programme while solving challenges for the three little pigs!</td>
         <td>12 Mar 2022  <br>11.00am – 12.00pm</td>
         <td>Woodlands Regional Library</td>
+      </tr>
+				<tr>
+<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>[Budding Scientists] Let’s Learn about Ocean and Marine Animals!</b></a></td>
+        <td>Descend through the ocean to discover its mesmerizing ocean life. The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. Did you know that clownfish are actually omnivores, which mean they eat both meat and plants? What is the living habitat like for these marine animals? In this session, you will be introduced to the wonders of the oceans and learnt about the fun facts of the marine animals.</td>
+        <td>18 Mar 2022<br>3.00pm – 4.00pm</td>
+        <td>Zoom</td>
       </tr>
 			<tr>				
 				<td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Coding Unplugged : Sound Shakers | DiscoverTech</b></a></td>
