@@ -98,7 +98,7 @@ In fact, they will soon realise computational thinking exists in all aspects of 
         <td>Help your child shape their best digital lives by being a top-notch digital role model.</td>
         <td>24 Mar 2022 <br>11.00am-12.00pm </td>
         <td>Zoom</td>
-      </tr>
+			</tr>
     </tbody>
   </table>
 </div>
