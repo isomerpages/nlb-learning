@@ -87,11 +87,11 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-progs" target="_blank"><b>Sensory Storytime!</b></a></td>
-        <td> Join us for a special story time tailored to support children with additional needs. Families with typically developing children aged 4-6 years old are also welcome.  Limited to 15 parent-child pairs.
+<td><a href="https://go.gov.sg/bsr-progs" target="_blank"><b>Baby Songs & Rhymes</b></a></td>
+        <td> Join other parents with young children and support your child's early development through an enjoyable virtual session with songs and rhymes.
 </td>
-        <td>12 Feb 2022 <br>3.00pm-3.30pm</td>
-        <td>Bedok Public Library</td>
+        <td>19 Mar 2022 <br>11.00am-11.20am</td>
+        <td>Zoom</td>
       </tr>
 
     </tbody>
