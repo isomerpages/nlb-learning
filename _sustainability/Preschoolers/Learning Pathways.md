@@ -72,17 +72,17 @@ What can we do to protect the environment around us? Do you know the different t
       </tr>
     </thead>
     <tbody>
+			  <tr>
+        <td><a href="https://www.eventbrite.sg/e/all-about-urban-farming-early-read-registration-252909778957?aff=odcleoeventsincollection" target="_blank"><b>All about Urban Farming! | Early Read</b></a></td>
+        <td>Find out more about where food comes from and the small steps we can take to grow our own food in this storytelling and activity session.</td>
+				<td>19 Mar 2022<br>11.00am – 12.00pm</td>
+				<td>Woodlands Regional Library</td>
+     </tr>
       <tr>
         <td><a href="https://www.eventbrite.sg/e/green-market-showcase-world-water-day-registration-220385588227?aff=odcleoeventsincollection" target="_blank"><b>Green Market Showcase: World Water Day</b></a></td>
         <td>Get up close to communities and organisations such as Jane Goodall Institute, Food Citizen, SG Beach Warriors, The Plastic Project that will be showcasing exciting initiatives that address various environmental causes.</td>
 				<td>19 and 20 Mar 2022<br>11.00am – 7.00pm</td>
 				<td>Choa Chu Kang Public Library</td>
-     </tr>
-			   <tr>
-        <td><a href="https://www.eventbrite.sg/e/all-about-urban-farming-early-read-registration-252909778957?aff=odcleoeventsincollection" target="_blank"><b>All about Urban Farming! | Early Read</b></a></td>
-        <td>Find out more about where food comes from and the small steps we can take to grow our own food in this storytelling and activity session.</td>
-				<td>19 Mar 2022<br>11.00am – 12.00pm</td>
-				<td>Woodlands Regional Library</td>
      </tr>
 			<tr>
         <td><a href="https://www.eventbrite.sg/e/green-market-the-wonderful-world-of-plankton-registration-274536113907?aff=odcleoeventsincollection" target="_blank"><b>Green Market: The Wonderful World of Plankton</b></a></td>
