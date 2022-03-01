@@ -90,14 +90,6 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
       </tr>
     </thead>
     <tbody>
-      <tr>
-<td><a href="https://www.eventbrite.com/c/early-read-science-programmes-ccbkrwzp--iE1UQaAYdl04/" target="_blank"><b> [Budding Engineers] Blast Off with Magnetic Rockets! </b></a></td>
-        <td> “Shoot for the moon. Even if you miss, you’ll land among the stars.”
-Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children.
-*STEAM - Science, Technology, Engineering, Arts and Mathematics </td>
-        <td>26 Feb 2022<br>2.00pm – 3.00pm<br></td>
-        <td>Zoom</td>
-      </tr>
 <tr>
 <td><a href="https://www.eventbrite.com/c/early-read-science-programmes-ccbkrwzp--iE1UQaAYdl04/" target="_blank"><b>[Budding Scientists] The Amazing Body!</b></a></td>
         <td> As your children grow, they will start to recognise the different parts of their amazing bodies. In this programme, we will identify the various body parts, learn more about each of their important functions, and make our own little body puppet!</td>
@@ -122,24 +114,36 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
       </tr>
     </thead>
     <tbody>
-			<tr>				
-				<td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Coding Unplugged: Let’s Get Looping!</b></a></td>
-        <td style="width: 40%;">Join us in this basic introductory precoding programme about the use of loops in coding through storytelling and game.</td>
-        <td style="width: 20%;">26 Feb 2022<br>11.00am – 12.00pm</td>
-        <td style="width: 20%;">Bedok Public Library</td>
+				  <tr>
+        <td><a href="https://www.eventbrite.com/myevent?eid=254305122467" target="_blank"><b>Coding Unplugged : Who’s Afraid of the Big Bad Wolf? | DiscoverTech</b></a></td>
+        <td>Help your child become a better computational thinker by joining this fun and interesting pre-coding programme while solving challenges for the three little pigs!</td>
+        <td>12 Mar 2022  <br>11.00am – 12.00pm</td>
+        <td>Woodlands Regional Library</td>
       </tr>
 			<tr>				
-				<td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Travelling with Bee Bot I DiscoverTech</b></a></td>
-        <td style="width: 40%;">Come program Bee-Bot to go on an adventure around Singapore! Visit sites such as Esplanade and the Merlion, all while learning computational thinking! </td>
-        <td style="width: 20%;"> 12 March 2022<br>11.00am – 12.00pm</td>
-        <td style="width: 20%;">Bedok Public Library</td>
+				<td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Coding Unplugged : Sound Shakers | DiscoverTech</b></a></td>
+        <td style="width: 40%;">Sing songs, make a sound shaker while all learning about pre-coding concepts like decomposition and debugging!</td>
+        <td style="width: 20%;">19 Mar 2022<br>11.00am – 12.00pm</td>
+        <td style="width: 20%;">Toa Payoh Public Library</td>
       </tr>
-			<tr>
+			   <tr>
+        <td><a href="https://www.eventbrite.sg/e/all-about-urban-farming-early-read-registration-252909778957?aff=odcleoeventsincollection" target="_blank"><b>All about Urban Farming! | Early Read</b></a></td>
+        <td>Find out more about where food comes from and the small steps we can take to grow our own food in this storytelling and activity session.</td>
+				<td>19 Mar 2022<br>11.00am – 12.00pm</td>
+				<td>Woodlands Regional Library</td>
+     </tr>
+						<tr>
 <td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Little Bits Creation I DiscoverTech</b></a></td>
         <td>Little Bits are fun swappable, magnetically – connected electronic building blocks that allow you to easily add lights and movement to any crafts project.  Children and parents will learn how littleBits work and create and decorate a character using cardboard in this activity.</td>
         <td>20 Mar 2022 <br>2.00pm – 3.00pm</td>
         <td>Pasir Ris Public Library</td>
       </tr>
+<tr>
+<td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>How to Be a Good Digital Role Model? | DiscoverTech</b></a></td>
+        <td>Help your child shape their best digital lives by being a top-notch digital role model.</td>
+        <td>24 Mar 2022 <br>11.00am-12.00pm </td>
+        <td>Zoom</td>
+			</tr>
     </tbody>
   </table>
 </div>
