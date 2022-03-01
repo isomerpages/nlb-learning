@@ -53,7 +53,11 @@ Click <strong>[here](https://www.eventbrite.com/cc/learnx-wellness-financial-lit
 
 ## **Caregiving**
 
-We have specially curated programme series to suit your learning style and pace. The following programmes are recommended for the 50+.
+![](/images/wellness/Wellness-Prog-Banner-4.jpg)
+
+These programmes focus on equipping participants with coping strategies and resources to provide better care for individuals receiving care and their caregivers.
+
+Click <strong>[here](https://www.eventbrite.com/cc/programmes-on-wellness-66209){:target="_blank"}</strong> for the latest programme listings.
 
 ## **Ahead Of Your Time**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Seniors_SDO.jpg)
