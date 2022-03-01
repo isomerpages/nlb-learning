@@ -48,7 +48,7 @@ Click <strong>[here](https://go.gov.sg/nlbmdl){:target="_blank"}</strong> for th
 
 The truth about money matters is that money matters. Being financially literate is an important step in preparing ourselves for both short-term and long-term needs. Come equip yourself with financial knowledge through our series of talks on topics like investment, insurance, and retirement planning.
 
-Click <strong>[here](https://go.gov.sg/nlb-makeit-events){:target="_blank"}</strong> for the latest programme listings.
+Click <strong>[here](https://www.eventbrite.com/cc/learnx-wellness-financial-literacy-177959){:target="_blank"}</strong> for the latest programme listings.
 
 
 ## **Caregiving**
