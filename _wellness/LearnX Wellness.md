@@ -53,8 +53,8 @@ A catch-all term that encompasses health, well-being and contentment, wellness i
     </div>
   </div>
 	<div class="col is-one-third">
-    </div>
   </div>
+</div>
 	
 <br>
 
