@@ -49,9 +49,24 @@ A catch-all term that encompasses health, well-being and contentment, wellness i
       </a>
     </div>
   </div>
+	<div class="col is-one-third">
+    <div class="">
+      <a href="">
+        <span></span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="">
+      <a href="">
+        <span></span>
+      </a>
+    </div>
+  </div>
 	
----
+<br>
+--- 
 <h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>
-![](/images/wellness/wellness-lc-display.png)
+![Explore Communities](/images/wellness/wellness-lc-display.png)
 
 <a href="/communities/join/wellness-communities" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>
