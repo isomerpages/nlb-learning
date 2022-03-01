@@ -65,8 +65,8 @@ A catch-all term that encompasses health, well-being and contentment, wellness i
   </div>
 	
 <br>
---- 
-<h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>
-![Explore Communities](/images/wellness/wellness-lc-display.png)
 
-<a href="/communities/join/wellness-communities" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>
+<h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>
+![Explore Communities](/images/digital/learnx-digital-landing-overview-1.jpg)
+
+<a href="/communities/join/digital-communities" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>
