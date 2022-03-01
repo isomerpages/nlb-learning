@@ -37,11 +37,9 @@ Click <strong>[here](https://www.eventbrite.com/cc/programmes-on-wellness-66209)
 ## **Mind Your Head**
 ![](/images/wellness/Wellness-Prog-Banner-2.jpg)
 
-A new series on how technology impacts our daily lives. Dive into topics such as artificial intelligence, 5G, online privacy, media literacy, and cyber-wellness through free-for-public workshops and sessions. 
+A penny for your thoughts? This series invites you to slow down and pay attention to your mental and emotional health in the midst of fast-paced modern life. From strategies on coping with life’s stressors to cultivating self-compassion, find out what it means to take care of yourself from the inside out. 
 
-This series is organised in collaboration with NLB’s S.U.R.E programme, partners and community advocates. 
-
-Click <strong>[here](https://go.gov.sg/nlbmdl){:target="_blank"}</strong> for the latest programme listings.
+Click <strong>[here](https://www.eventbrite.com/cc/programmes-on-wellness-66209){:target="_blank"}</strong> for the latest programme listings.
 
 ## **Financial Wellness** 
 ![](/images/wellness/Wellness-Prog-Banner-3.jpg)
