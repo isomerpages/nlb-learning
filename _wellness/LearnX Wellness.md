@@ -62,4 +62,4 @@ A catch-all term that encompasses health, well-being and contentment, wellness i
 
 ![](/images/wellness/wellness-lc-display.png)
 
-<a href="/communities/join/digital-communities" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>
+<a href="/communities/join/wellness-communities" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>
