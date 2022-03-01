@@ -70,8 +70,11 @@ Bringing together experts from various fields, this series serves as an introduc
 Click <strong>[here](https://www.eventbrite.com/c/ahead-of-your-time-ccbrwkwx--WOwPirbc7GOg/){:target="_blank"}</strong> for the latest programme listings.
 
 ## **Thinker + Play**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-05a.png)
 
-Designed and curated by NLB, these monthly sessions help seniors understand how to use NLB’s digital services and resources. While tech-savvy participants are welcome, this programme largely explores the basics such as WIFI, QR codes and the NLB mobile app. 
+![](/images/wellness/Thinkerplus.png)
 
-Click <strong>[here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys){:target="_blank"}</strong> to register.
+A series of activities for seniors to come together regularly to create, play and share their knowledge with their peers. These sessions aim to keep the seniors mentally stimulated and socially connected to help in better mental health.
+
+These sessions are suitable for seniors aged 50 and over.
+
+Click <strong>[here](https://www.eventbrite.com/cc/programmes-on-wellness-66209/){:target="_blank"}</strong> for the latest programme listings.
