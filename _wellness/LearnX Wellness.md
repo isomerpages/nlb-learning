@@ -49,4 +49,3 @@ A catch-all term that encompasses health, well-being and contentment, wellness i
       </a>
     </div>
   </div>
-	
