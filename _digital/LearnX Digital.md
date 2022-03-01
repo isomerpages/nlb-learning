@@ -96,4 +96,4 @@ This digital area of learning is accessible and easy to understand, even for non
 <h3 class="margin--top--none margin--bottom--lg"><b>Learn and grow with people who are interested in the same topics as you.</b></h3>
 ![Explore Communities](/images/digital/learnx-digital-landing-overview-1.jpg)
 
-<a href="/communities/join/wellness-communities" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>
+<a href="/communities/join/digital-communities" class="bp-button is-primary-outline is-uppercase">Explore Communities</a>
