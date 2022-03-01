@@ -60,9 +60,13 @@ These programmes focus on equipping participants with coping strategies and reso
 Click <strong>[here](https://www.eventbrite.com/cc/programmes-on-wellness-66209){:target="_blank"}</strong> for the latest programme listings.
 
 ## **Ahead Of Your Time**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Seniors_SDO.jpg)
 
-Started in September 2020, Digital Ambassadors at select libraries are available to provide one-on-one guidance to seniors to equip them with the skills to use technology in their daily life. 
+![](/images/wellness/Ahead%20Of%20Your%20Time.png)
+
+Thinking and planning for end-of-life decisions can be difficult and uncomfortable. These hypothetical questions often remain unanswered until it’s too late.
+
+Bringing together experts from various fields, this series serves as an introduction to the various facets of end-of-life matters, and aims to get you started in thinking and talking about such matters Ahead of Your Time.
+
 
 Click [here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs){:target="_blank"} for more info.
 
