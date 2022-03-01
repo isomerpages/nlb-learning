@@ -25,6 +25,9 @@ third_nav_title: Adults & Seniors
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
 
+### **Programmes**
+
+Through expert talks, workshops, curated learning packages and more, delve into the world of wellness and pick up strategies and skills to feel your best from the inside out.
 
 ## **Mind Your Body**
 
