@@ -34,8 +34,8 @@ What does a healthy lifestyle mean to you? Unpack the different aspects of physi
 
 Click <strong>[here](https://www.eventbrite.com/cc/programmes-on-wellness-66209){:target="_blank"}</strong> for the latest programme listings.
 
-## Mind Your Head**
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-02.jpg)
+## **Mind Your Head**
+![](/images/wellness/Wellness-Prog-Banner-2.jpg)
 
 A new series on how technology impacts our daily lives. Dive into topics such as artificial intelligence, 5G, online privacy, media literacy, and cyber-wellness through free-for-public workshops and sessions. 
 
@@ -43,7 +43,7 @@ This series is organised in collaboration with NLB’s S.U.R.E programme, partne
 
 Click <strong>[here](https://go.gov.sg/nlbmdl){:target="_blank"}</strong> for the latest programme listings.
 
-## Financial Wellness** 
+## **Financial Wellness** 
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-MakeIT-at-Libraries.png)
 
 NLB’s free-for-public makerspace introduces the wonder of digital and technology-based creativity to all library members. Try your hand at emerging technology like 3D printing, robotics, and other forms of tech-based tinkering. The best part? No prior experience needed! All equipment and consumables are provided. Suitable for all ages.
@@ -51,21 +51,20 @@ NLB’s free-for-public makerspace introduces the wonder of digital and technolo
 Click <strong>[here](https://go.gov.sg/nlb-makeit-events){:target="_blank"}</strong> for the latest programme listings.
 
 
-# Caregiving**
+## **Caregiving**
 
 We have specially curated programme series to suit your learning style and pace. The following programmes are recommended for the 50+.
 
-## Ahead Of Your Time**
+## **Ahead Of Your Time**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Seniors_SDO.jpg)
 
 Started in September 2020, Digital Ambassadors at select libraries are available to provide one-on-one guidance to seniors to equip them with the skills to use technology in their daily life. 
 
 Click [here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs){:target="_blank"} for more info.
 
-## Thinker + Play**
+## **Thinker + Play**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-05a.png)
 
 Designed and curated by NLB, these monthly sessions help seniors understand how to use NLB’s digital services and resources. While tech-savvy participants are welcome, this programme largely explores the basics such as WIFI, QR codes and the NLB mobile app. 
 
 Click <strong>[here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys){:target="_blank"}</strong> to register.
-
