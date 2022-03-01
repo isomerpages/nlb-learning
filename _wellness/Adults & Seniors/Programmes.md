@@ -44,7 +44,7 @@ Click <strong>[here](https://www.eventbrite.com/cc/programmes-on-wellness-66209)
 ## **Financial Wellness** 
 ![](/images/wellness/Wellness-Prog-Banner-3.jpg)
 
-The truth about money matters is that money matters. Being financially literate is an important step in preparing ourselves for both short-term and long-term needs. Come equip yourself with financial knowledge through our series of talks on topics like investment, insurance, and retirement planning.
+The truth about money matters is that money <i>matters</i>. Being financially literate is an important step in preparing ourselves for both short-term and long-term needs. Come equip yourself with financial knowledge through our series of talks on topics like investment, insurance, and retirement planning.
 
 Click <strong>[here](https://www.eventbrite.com/cc/learnx-wellness-financial-literacy-177959){:target="_blank"}</strong> for the latest programme listings.
 
