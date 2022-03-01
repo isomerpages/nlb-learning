@@ -67,8 +67,7 @@ Thinking and planning for end-of-life decisions can be difficult and uncomfortab
 
 Bringing together experts from various fields, this series serves as an introduction to the various facets of end-of-life matters, and aims to get you started in thinking and talking about such matters Ahead of Your Time.
 
-
-Click [here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs){:target="_blank"} for more info.
+Click <strong>[here](https://www.eventbrite.com/c/ahead-of-your-time-ccbrwkwx--WOwPirbc7GOg/){:target="_blank"}</strong> for the latest programme listings.
 
 ## **Thinker + Play**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-Placeholder-05a.png)
