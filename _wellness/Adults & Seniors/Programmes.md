@@ -44,9 +44,9 @@ This series is organised in collaboration with NLB’s S.U.R.E programme, partne
 Click <strong>[here](https://go.gov.sg/nlbmdl){:target="_blank"}</strong> for the latest programme listings.
 
 ## **Financial Wellness** 
-![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-MakeIT-at-Libraries.png)
+![](/images/wellness/Wellness-Prog-Banner-3.jpg)
 
-NLB’s free-for-public makerspace introduces the wonder of digital and technology-based creativity to all library members. Try your hand at emerging technology like 3D printing, robotics, and other forms of tech-based tinkering. The best part? No prior experience needed! All equipment and consumables are provided. Suitable for all ages.
+The truth about money matters is that money matters. Being financially literate is an important step in preparing ourselves for both short-term and long-term needs. Come equip yourself with financial knowledge through our series of talks on topics like investment, insurance, and retirement planning.
 
 Click <strong>[here](https://go.gov.sg/nlb-makeit-events){:target="_blank"}</strong> for the latest programme listings.
 
