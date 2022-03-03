@@ -85,6 +85,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 </div>
 </div>	
+<div class= "col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-under-the-japanese">
+<span>Learning Package:<br>Memories of Japanese Occupation</span>
+</a>
+</div>
+</div>
+</div>
 
 
 
@@ -410,4 +418,73 @@ Akashi, Yōji  &amp; Yoshimura, Mako (Eds.). (2008). <i> New perspectives on th
 
 <img style="width:200px;" src="/images/singapore-japanese-occupation/NPJO.png">
 <p> A collection of articles that cover various topics on Japanese Occupation of Malaya and Singapore, based on Japanese primary sources, and sources from the archives and libraries in Britain, Malaysia, Singapore, United States, Australia and India. </p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="lp-japanese-occupation" class="margin--bottom--lg"><b> Japanese Occupation: Memories of Japanese Occupation </b></h5>
+
+<p> The collective and personal memories of survivors of the Japanese Occupation document the daily lives of those who had lived through this period, including the victors and the vanquished who fought in the war. </p>
+<b></b>
+<p> As time passes, the war legacy lives on through these memoirs, autobiographies and biographies, as reminders and lessons for future generations.</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Operation Sook Ching robbed many lives and left an indelible mark on families who had to cope with the loss of loved ones who never returned during those fateful days. Many recalled the lost lives and recounted their lucky escape from death.</li>
+</ul>
+</td>
+</tr</tbody></table>
+
+These selected articles and books present a snapshot of people’s experiences during the Japanese Occupation.
+
+<h4>Articles</h4>
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html" target="_blank"> Operation Sook Ching by Ho, Stephanie</a></h5>
+<p> Operation Sook Ching was a military operation carried out by the Japanese in Singapore from 21 February to 4 March 1942. Chinese men between the ages of 18 and 50 under suspicion of being anti-Japanese would be detained at various mass screening centres and executed.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html " target="_blank"> Operation Sook Ching </a>(2013, Jun 17).<i> Singapore Infopedia.</i> Retrieved 2022, March 3.
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_79_2005-02-02.html" target="_blank"> Kempeitai by Wong, Heng
+</a></h5>
+<p> Many died under the torture of Kempeitai, the Japanese military police force, whose main task was to crush all resistance to the Japanese military rule. They had a main jail in Outram and several branches in Chinatown, Oxley Road and the Central Police Station.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_79_2005-02-02.html" target="_blank"> Kempeitai </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2022, March 3.
+
+<h4>eBooks</h4>
+
+<h5> Sayonara Singapura</h5>
+Joseph John, Parapuram. (2016). <i> Sayonara Singapura.</i> [Leics, United Kingdom]: Monsoon Books. <br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/2974479">
+<img style="width:200px;"
+src="/images/singapore-japanese-occupation/Sayonara.png"></a>
+<p> An eyewitness account of the Japanese occupation of Singapore and Malaya by a career journalist who worked with The Malaya Tribune before and after the war.</p>
+<p><a href="https://nlb.overdrive.com/media/2974479 "
+target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
+<h5> Within Changi's walls: a record of civilian internment in World War II</h5>
+Peet, George L. (2015). <i> Within Changi's walls: a record of civilian internment in World War II.</i> Singapore: Marshall Cavendish Editions. <br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/2194387">
+<img style="width:200px;"
+src="/images/singapore-japanese-occupation/Changi.png"></a>
+<p> The former internee's diaries and records preserved the story of life at Changi Goal and Sime Road Camp, where the human spirit triumph over adversity.</p>
+<p><a href="https://nlb.overdrive.com/media/2194387"
+target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
+<h5> A Baba boyhood: growing up during World War 2
+</h5>
+Gwee, Thian Hock. (2013). <i> A Baba boyhood: growing up during World War 2.</i> Singapore: Marshall Cavendish. <br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/1270588">
+<img style="width:200px;"
+src="/images/singapore-japanese-occupation/Baba.png"></a>
+<p> Author shares his experiences growing up during the Japanese occupation among the Peranakan community.</p>
+<p><a href="https://nlb.overdrive.com/media/1270588"
+target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
