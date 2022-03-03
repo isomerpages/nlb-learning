@@ -36,7 +36,7 @@ description: ""
 .clickbox.is-pink-ruby a:focus,
 .clickbox.is-pink-ruby a:hover { background-color: #a60517; color: #ffbac7; }
 </style>
-![LearnX Careers](/images/career/learnx-careers-landing-kv-1.jpg)
+![LearnX Arts](/images/Arts/lfa-arts.png)
 
 Insert copy here*
 
