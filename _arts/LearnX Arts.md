@@ -45,7 +45,7 @@ Insert copy here*
 </div></p> -->
 
 <div class="row is-multiline">
-  <div class="col is-one-half">
+  <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
       <a href="/arts/adults-and-seniors/overview">
         <span>Adults & Seniors</span>
