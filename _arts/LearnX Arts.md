@@ -38,7 +38,7 @@ description: ""
 </style>
 ![LearnX Arts](/images/Arts/lfa-arts.png)
 
-Insert copy here*
+You may not know it, but the arts is all around us and integral to our daily lives. From design to our hobbies, what catches our eye, and even work, the principles and application of art is everywhere. These activities and content will bolster your creativity and appreciation of the arts, making you a more well-rounded person for it.
 
 <!-- <p><div class="responsive-iframe-container ratio-16by9">
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uOfQMXQ4lL8"></iframe>
