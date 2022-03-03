@@ -47,6 +47,6 @@ For Teens and Adults, conducted monthly in English at library@orchard and online
 
 For those aged 50 years and above. These sessions will be conducted in English and will alternate between online or onsite sessions.
 				<br><br></p>
-      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://www.eventbrite.com/cc/programmes-on-wellness-66209" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>
