@@ -2,6 +2,6 @@ collections:
   arts:
     output: true
     order:
-      - Adults & Seniors/Overview.md
-      - Adults & Seniors/.keep
       - LearnX Arts.md
+      - Adults & Seniors/.keep
+      - Adults & Seniors/Overview.md
