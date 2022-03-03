@@ -4,7 +4,6 @@ permalink: /arts/Adults-Seniors/overview
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -44,21 +43,21 @@ Insert copy here*
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="/arts/adults-seniors/content">
+      <a href="/arts/Adults-Seniors/content">
         <span>Content</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="/arts/adults-seniors/programmes">
+      <a href="/arts/Adults-Seniors/programmes">
         <span>Programmes</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="/arts/adults-seniors/learning-pathways">
+      <a href="/arts/Adults-Seniors/learning-pathways">
         <span>Learning<br>Pathways</span>
       </a>
     </div>
