@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - LearnX Arts.md
+      - Adults & Seniors/Content.md
       - Adults & Seniors/Programmes.md
       - Adults & Seniors/Learning Pathways.md
       - Adults & Seniors/.keep
