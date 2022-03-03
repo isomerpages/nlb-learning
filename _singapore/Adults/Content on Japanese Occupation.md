@@ -430,7 +430,7 @@ Akashi, Yōji  &amp; Yoshimura, Mako (Eds.). (2008). <i> New perspectives on th
 		<td>
 <h4>Did you know...</h4>
 <ul>
-<li> Operation Sook Ching robbed many lives and left an indelible mark on families who had to cope with the loss of loved ones who never returned during those fateful days. Many recalled the lost lives and recounted their lucky escape from death.</li>
+<li> Operation Sook Ching robbed many lives and left an indelible mark on families who had to cope with the loss of loved ones who never returned home during those fateful days. Many recalled the lost lives and recounted their lucky escape from death.</li>
 </ul>
 </td>
 </tr</tbody></table>
@@ -455,7 +455,7 @@ Joseph John, Parapuram. (2016). <i> Sayonara Singapura.</i> [Leics, United Kingd
 <a target="_blank"
 href="https://nlb.overdrive.com/media/2974479">
 <img style="width:200px;"
-src="/images/singapore-japanese-occupation/Sayonara.png"></a>
+src="/images/singapore-japanese-occupation/Syonara.png"></a>
 <p> An eyewitness account of the Japanese occupation of Singapore and Malaya by a career journalist who worked with The Malaya Tribune before and after the war.</p>
 <p><a href="https://nlb.overdrive.com/media/2974479 "
 target="_blank">Borrow the eBook here.</a></p>
