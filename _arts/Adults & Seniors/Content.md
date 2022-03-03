@@ -38,3 +38,17 @@ third_nav_title: Adults & Seniors
 .clickbox.is-pink-ruby a:hover { background-color: #a60517; color: #ffbac7; }
 </style>
 
+Check out our **playlists** for collections of short videos or selected podcasts, exploring topics around environment and sustainability.
+
+Check our **learning packages** for articles that will give you insights into living more sustainably.
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-pink-ruby">
+      <a href="#playlist-artseen">
+        <span>Playlist:<br>Artseen</span>
+      </a>
+    </div>
+  </div>
+	
+  </div>
