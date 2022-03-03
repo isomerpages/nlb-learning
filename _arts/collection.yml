@@ -1,4 +1,5 @@
 collections:
   arts:
     output: true
-    order: []
+    order:
+      - LearnX Arts.md
