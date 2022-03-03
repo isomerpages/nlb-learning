@@ -384,7 +384,7 @@ Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/article
 </h5>
 Wynn, S. (2017). <i> The surrender of Singapore: three years of hell 1942-45.</i> Havertown: Pen and Sword Military. <br>
 <a href="https://nlb.overdrive.com/media/3158910" target="_blank">
-<img src="/images/singapore-japanese-occupation/Three-Years-Hell.png" style="”width:200px;”"></a>
+<img src="/images/singapore-japanese-occupation/Three-Years-Hell.png" style="width:200px;"></a>
 <p> Written by a retired police officer, he tells of the story of the three years of life under Japanese Occupation where Chinese civilians and Commonwealth soldiers faced incidents such as the Sook Ching massacre and the Burma Railway death march.
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/3158910">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook). 
@@ -392,21 +392,21 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 <h4>Books</h4>
 
 <h5> The Japanese occupation of Malaya and Singapore, 1941-45: a social and economic history </h5>
-Kratoska, P. H. (2018). <i> The Japanese occupation of Malaya and Singapore, 1941-45: a social and economic history. </i> Singapore: NUS Press. (Call no.: RSING 959.5103 KRA) 
+Kratoska, Paul H. (2018). <i> The Japanese occupation of Malaya and Singapore, 1941-45: a social and economic history. </i> Singapore: NUS Press. (Call no.: RSING 959.5103 KRA) 
 <br>
 <a target="_blank" href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 203024618">
 <img style="width:200px;" src="/images/singapore-japanese-occupation/JOMS.png"></a>
 <p> First published in 1998, Kratoska presents a picture of life under Japanese Occupation in Malaya and Singapore. </p>
 
 <h5> Syonan: Singapore under the Japanese 1942-1945</h5>
-Lee, G. B. (2017). <i> Syonan: Singapore under the Japanese 1942-1945. </i> Singapore: Singapore Heritage Society and Landmark Books. (Call no.: RSING 940.535957 LEE) 
+Lee, Geok Boi. (2017). <i> Syonan: Singapore under the Japanese 1942-1945. </i> Singapore: Singapore Heritage Society and Landmark Books. (Call no.: RSING 940.535957 LEE) 
 <br>
 <a target="_blank" href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 202733922">
 <img style="width:200px;" src="/images/singapore-japanese-occupation/Syonan.png"></a>
 <p> This revised edition frames the social memories of Singapore residents who lived through the Japanese military administration. </p>
 
 <h5> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945</h5>
-Akashi, Y.  &amp; Yoshimura, M. (Eds.) (2008). <i> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945. </i> Singapore: NUS Press. (Call no.: RSING 940.5337 NEW) 
+Akashi, Yōji  &amp; Yoshimura, Mako (Eds.). (2008). <i> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945. </i> Singapore: NUS Press. (Call no.: RSING 940.5337 NEW) 
 
 <img style="width:200px;" src="/images/singapore-japanese-occupation/NPJO.png">
 <p> A collection of articles that cover various topics on Japanese Occupation of Malaya and Singapore, based on Japanese primary sources, and sources from the archives and libraries in Britain, Malaysia, Singapore, United States, Australia and India. </p>
