@@ -4,7 +4,6 @@ permalink: /arts/Adults-Seniors/content
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -39,14 +38,17 @@ third_nav_title: Adults & Seniors
 .clickbox.is-pink-ruby a:hover { background-color: #a60517; color: #ffbac7; }
 </style>
 
-Check out our **playlists** for collections of short videos or selected podcasts, exploring topics around environment and sustainability.
+Want to sink your teeth into the art world? Start off with a titbit from our collection of videos, podcasts, and learning packages, for a taste of more to come!
 
-Check our **learning packages** for articles that will give you insights into living more sustainably.
+Check out our **playlists** for a curated collection of short videos or selected podcasts, for an easy introduction to various art topics.
+
+Check our **learning packages** for a more in-depth resource list, to expand your understanding of art concepts.
+
 
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="#playlist-artseen">
+      <a href="#playlist-How to View Art">
         <span>Playlist:<br>Artseen</span>
       </a>
     </div>
