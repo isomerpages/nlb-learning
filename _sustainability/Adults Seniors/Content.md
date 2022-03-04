@@ -577,11 +577,11 @@ Source: <a target="_blank" href="https://www.youtube.com/embed/QCZ8jInO7UY"> Wor
 <h4>Podcast</h4>
 <h5>1.<a target="_blank" href="https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227/?embed=true"> iHeartMedia, Inc</a></h5>
 
-Find out what is biophilic design and the science behind this design, and how such designs can improve the quality of life for humans.<p></p>
+<p>Find out what is biophilic design and the science behind this design, and how such designs can improve the quality of life for humans.</p>
 
 Source <a target="_blank" href="http://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227">  What is biophilic design? Stuff You Should Know </a> (2019, October 7). <i> iHeartMedia, Inc </i> Retrieved 2021, December 11.
 
-<p></p><h4>eBooks</h4>
+<h4>eBooks</h4>
 	
 <h5>1. Nature of the City: Green Infrastructure from the Ground Up </h5>
 Andrew Tempany and Tom Armour (2020), <i> Nature of the City: Green Infrastructure from the Ground Up </i>, Abingdon : RIBA Publishing.
