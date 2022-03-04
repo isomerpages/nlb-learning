@@ -49,7 +49,7 @@ Check our **learning packages** for a more in-depth resource list, to expand you
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
       <a href="#playlist-How to View Art">
-        <span>Playlist:<br>Artseen</span>
+        <span>Playlist:<br>How to View Art</span>
       </a>
     </div>
   </div>
