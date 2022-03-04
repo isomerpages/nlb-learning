@@ -38,7 +38,7 @@ third_nav_title: Adults & Seniors
 .clickbox.is-pink-ruby a:hover { background-color: #a60517; color: #ffbac7; }
 </style>
 
-Want to sink your teeth into the art world? Start off with a titbit from our collection of videos, podcasts, and learning packages, for a taste of more to come!
+Whether you're seeking to just dip your toes in or to fully immerse yourself in the art world, we have resources to cater to your art needs, every step of the way.
 
 <div class="row is-multiline">
   <div class="col is-one-third">
