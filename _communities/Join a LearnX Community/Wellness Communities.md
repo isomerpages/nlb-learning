@@ -39,3 +39,14 @@ For Teens and Adults, conducted monthly in English at library@orchard and online
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
     </div>
   </div>
+ <div class="col is-half-tablet padding--bottom--lg">
+    <img src="/images/learning-communities/wellness/Flourish-Wellness-LC.png" alt="Flourish!">
+    <div class="margin--top--lg">
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Flourish!</b></h5>
+      <p class="margin--top--sm margin--bottom--sm">The journey to understand and manage our health, as well as the health of our loved ones, never ends. Stay up-to-date and active with our subject matter experts from Sengkang General Hospital and our community partners as we cover a broad range of topics and share useful resources during our session.
+<br><br>
+For those aged 50 years and above. These sessions will be conducted in English and will alternate between online or onsite sessions.
+				<br><br></p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://www.eventbrite.com/cc/programmes-on-wellness-66209" target="_blank">Click here for upcoming session</a></p>
+    </div>
+  </div>

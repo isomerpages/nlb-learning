@@ -75,19 +75,19 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/bsr-progs" target="_blank"><b> Baby Songs & Rhymes </b></a></td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-progs" target="_blank"><b> Baby Songs & Rhymes </b></a></td>
         <td style="width: 40%;"> Join other parents with young children and support your child's early development through an enjoyable virtual session with songs and rhymes.</td>
         <td style="width: 20%;">5 Mar 2022<br>11.00am – 11.20am</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><a href="https://go.gov.sg/tsr-progs" target="_blank"><b> Toddler Songs & Rhymes [Theme: Colours & Shapes] </b></a></td>
+        <td><a href="https://go.gov.sg/er-progs" target="_blank"><b> Toddler Songs & Rhymes [Theme: Colours & Shapes] </b></a></td>
         <td> Have fun learning about colours and shapes with your child in this interactive session of Toddler Songs & Rhymes.  Get your child grooving to the different rhymes and action songs in this session. Teaching your toddler the movements and act out a rhyme will show your child that learning and fun can happen at the same time. </td>
         <td>15 Mar 2022<br>4.00pm-4.20pm<br></td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/bsr-progs" target="_blank"><b>Baby Songs & Rhymes</b></a></td>
+<td><a href="https://go.gov.sg/er-progs" target="_blank"><b>Baby Songs & Rhymes</b></a></td>
         <td> Join other parents with young children and support your child's early development through an enjoyable virtual session with songs and rhymes.
 </td>
         <td>19 Mar 2022 <br>11.00am-11.20am</td>
@@ -106,37 +106,35 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Little Bits Creation 
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/little-bits-creation-i-discovertech-registration-231331918997?aff=ebdsoporgprofile" target="_blank"><b>Little Bits Creation 
 </b></a></td>
         <td style="width: 40%;">Have fun learning with littleBits in this creative hands-on workshop!</td>
         <td style="width: 20%;">20 Mar 2022<br>2.00pm - 3.00pm</td>
         <td style="width: 20%;">Pasir Ris Public Library</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>The Amazing Body!
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-the-amazing-body-registration-205715830587?aff=ebdsoporgprofile" target="_blank"><b>The Amazing Body!
 </b></a></td>
         <td>Let's learn to identify the various body parts and how they are important to us! </td>
         <td>12 Mar 2022<br>2.00pm – 3.00pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/er-digital-progs
-" target="_blank"><b>Coding Unplugged : Sound Shakers | DiscoverTech
+<td><a href="https://www.eventbrite.sg/e/coding-unplugged-sound-shakers-discovertech-registration-254306185647?aff=ebdsoporgprofile" target="_blank"><b>Coding Unplugged : Sound Shakers | DiscoverTech
 </b></a></td>
         <td>Sing songs, make a sound shaker while all learning about pre-coding concepts like decomposition and debugging!</td>
         <td>19  Mar 2022 <br>11.00am -12.00pm</td>
         <td>Toa Payoh Public Library</td>
       </tr>
 			<tr>
-<td><a href="https://go.gov.sg/er-digital-progs
-" target="_blank"><b>Coding Unplugged : Who's Afraid of the Big Bad Wolf | DiscoverTech
+<td><a href="https://www.eventbrite.sg/e/coding-unplugged-whos-afraid-of-the-big-bad-wolf-discovertech-registration-254305122467?aff=ebdsoporgprofile" target="_blank"><b>Coding Unplugged : Who's Afraid of the Big Bad Wolf | DiscoverTech
 </b></a></td>
         <td>Help your child become a better computational thinker by joining this fun and interesting pre-coding programme while solving challenges for the three little pigs!</td>
         <td>12  Mar 2022 <br>11.00am -12.00pm</td>
         <td>Woodlands Regional Library</td>
       </tr>
 			<tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Ocean and Marine Animals!</b></a></td>
+<td><a href="https://www.eventbrite.com/e/budding-scientists-lets-learn-about-ocean-and-marine-animals-registration-205720705167?aff=ebcollection&keep_tld=1" target="_blank"><b>Let's Learn about Ocean and Marine Animals!</b></a></td>
         <td>Find out more about the wonders of the ocean and get to know the many marine animals!</td>
         <td>18 Mar 2022<br>3.00pm - 4.00pm</td>
         <td>Zoom <br></td>
