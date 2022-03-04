@@ -83,7 +83,6 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <span>Learning Package:<br>Under the Japanese</span>
 </a>
 </div>
-</div>
 </div>	
 <div class= "col is-one-third">
 <div class="clickbox is-mint-jade">
