@@ -134,7 +134,7 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Woodlands Regional Library</td>
       </tr>
 			<tr>
-<td><a href="https://go.gov.sg/er-science-progs" target="_blank"><b>Let's Learn about Ocean and Marine Animals!</b></a></td>
+<td><a href="https://www.eventbrite.com/e/budding-scientists-lets-learn-about-ocean-and-marine-animals-registration-205720705167?aff=ebcollection&keep_tld=1" target="_blank"><b>Let's Learn about Ocean and Marine Animals!</b></a></td>
         <td>Find out more about the wonders of the ocean and get to know the many marine animals!</td>
         <td>18 Mar 2022<br>3.00pm - 4.00pm</td>
         <td>Zoom <br></td>
