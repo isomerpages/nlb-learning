@@ -65,11 +65,18 @@ Go green with your child to build an eco-friendly future together.
         <td style="width: 40%;">Join VertiVegies as they take you on a journey into the dynamic world of modern agriculture.</td>
         <td style="width: 20%;">11 Mar 2022, <br>3.30-5.30pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library </td>
-			</tr>      <tr>
+			</tr>
+			<tr>
                 <td style="width: 20%;"><a href="https://go.gov.sg/cckpl" target="_blank"><b>CCKPL: Youth Corp</b></a></td>
         <td style="width: 40%;">Come learn about conservation and climate change through a trash to treasure workshop.</td>
         <td style="width: 20%;">12 Mar 2022, <br> 11am-12.30pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library </td>
+			</tr>
+			<tr>
+                <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/grow-your-own-microgreens-workshop-earth-heroes-registration-291156305347?aff=ebdsoporgprofile" target="_blank"><b>Grow Your Own Microgreens Workshop</b></a></td>
+        <td style="width: 40%;">Join us in celebrating Earth Day by learning how to grow and care for your own edible microgreens!</td>
+        <td style="width: 20%;">26 Mar 2022, <br> 10.30-11.30am</td>
+        <td style="width: 20%;">Tampines Regional Library </td>
 			</tr>
     </tbody>
   </table>
