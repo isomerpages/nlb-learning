@@ -72,11 +72,11 @@ Go green with your child to build an eco-friendly future together.
         <td style="width: 20%;">12 Mar 2022, <br> 11am-12.30pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library </td>
 			</tr>
-			<tr>
-                <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/grow-your-own-microgreens-workshop-tweenkerama-sustainability-registration-291156927207?aff=ebdsoporgprofile" target="_blank"><b>Grow Your Own Microgreens Workshop</b></a></td>
+      <tr>
+                <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/grow-your-own-microgreens-workshop-earth-heroes-registration-291156305347?aff=ebdsoporgprofile" target="_blank"><b>Grow Your Own Microgreens Workshop</b></a></td>
         <td style="width: 40%;">Join us in celebrating Earth Day by learning how to grow and care for your own edible microgreens!</td>
-        <td style="width: 20%;">27 Mar 2022, <br> 2-3pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library </td>
+        <td style="width: 20%;">26 Mar 2022, <br> 10.30-11.30am</td>
+        <td style="width: 20%;">Tampines Regional Library </td>
 			</tr>
     </tbody>
   </table>
