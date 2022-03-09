@@ -79,8 +79,8 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 <h5>1. Ways of Seeing, Episode 1 (1972)</h5>
 <p> A BAFTA award-winning BBC series with John Berger, which rapidly became regarded as one of the most influential art programs ever made. In the first program, Berger examines the impact of photography on our appreciation of art from the past.</p>
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=0pDE4VX_9Kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-Source : <a href=" https://www.youtube.com/watch?v=0pDE4VX_9Kk" target="_blank"> John Berger / Ways of Seeing, Episode 1 (1972)</a> (2012, October 8). <i>tw19751.</i> Retrieved 2022, February 15
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=b5y7QRt2bws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source : <a href="https://www.youtube.com/watch?v=0pDE4VX_9Kk" target="_blank"> John Berger / Ways of Seeing, Episode 1 (1972)</a> (2012, October 8). <i>tw19751.</i> Retrieved 2022, February 15
 
 <h5>2. Ways of Seeing, Episode 2 (1972)</h5> 
 <p> This second program deals with the portrayal of the female nude, an important part of the tradition of European art. Berger examines these paintings and asks whether they celebrate women as they really are or only as men would like them to be. </p>
