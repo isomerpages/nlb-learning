@@ -64,7 +64,7 @@ Eye on Asia is a collaborative effort by the National Library with partners from
 
 Focusing on ASEAN, China and India, as well as emerging cities, you will discover a broad overview of useful resources to create more awareness of developments in these countries. In addition, regular programmes are organised to gain insights from entrepreneurs and people who have lived and worked abroad in these cities and countries.
 
-Click [here](http://www.eyeonasia.gov.sg/){:target="_blank"} to visit the website. 
+Coming soon.
 
 
 # **Business Information Literacy**
