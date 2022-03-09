@@ -85,17 +85,17 @@ Source : <a href="https://www.youtube.com/watch?v=0pDE4VX_9Kk" target="_blank"> 
 <h5>2. Ways of Seeing, Episode 2 (1972)</h5> 
 <p> This second program deals with the portrayal of the female nude, an important part of the tradition of European art. Berger examines these paintings and asks whether they celebrate women as they really are or only as men would like them to be. </p>
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=m1GI8mNU5Sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1GI8mNU5Sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=m1GI8mNU5Sg " target="_blank"> John Berger / Ways of Seeing, Episode 2</a> (2019, December 21). <i>tw19751.</i> Retrieved 2022, February 15
 
 <h5>3. Ways of Seeing, Episode 3 (1972)</h5> 
 <p> With the invention of oil paint around 1400, painters were able to portray people and objects with an unprecedented degree of realism, and painting became the ideal way to celebrate private possessions. In this programme, John Berger questions the value we place on that tradition. </p>
 <div class="bp-youtube">
-<iframe width="560" height="315" src=" https://www.youtube.com/watch?v=Z7wi8jd7aC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<iframe width="560" height="315" src=" https://www.youtube.com/embed/Z7wi8jd7aC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=Z7wi8jd7aC4" target="_blank"> John Berger / Ways of Seeing, Episode 3</a> (2019, December 21). <i>tw19751.</i> Retrieved 2022, February 15
 
 <h5>4. Walter Benjamin: The Work of Art in the Age of Mechanical Reproduction</h5> 
 <p> An introduction to the art critic Walter Benjamin and his most influential essay, the Work of Art in the Age of Mechanical Reproduction. Including David Douglas's the Work of Art in the Age of Digital Reproduction. </p>
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=blq9sCIyXgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/blq9sCIyXgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href=" https://www.youtube.com/watch?v=blq9sCIyXgA" target="_blank"> Walter Benjamin: The Work of Art in the Age of Mechanical Reproduction</a> (2019, March 9). <i>tw19751.</i> Retrieved 2022, February 15
