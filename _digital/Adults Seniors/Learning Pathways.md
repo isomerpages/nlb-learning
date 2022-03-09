@@ -64,13 +64,13 @@ The story of technology is the history of people solving problems, overcoming ad
         <td style="width: 20%;">Zoom</td>
       </tr>
      <tr>
-<td><a href="https://www.eventbrite.sg/e/who-needs-assistance-with-assistive-technologies-future-of-work-registration-225074131787?aff=ebcollection" target="_blank"><b>[Future of Work]</b><br>Who needs assistance with Assistive Technologies?</a></td>
+<td><a href="https://go.gov.sg/nlbfow" target="_blank"><b>[Future of Work]</b><br>Who needs assistance with Assistive Technologies?</a></td>
         <td>In this workshop, learn about the role that assistive technologies play in the lives of people with disabilities and their caregivers</td>
         <td>20 Jan 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.com/e/design-thinking-my-digital-life-registration-228060283447?aff=ebcollection&keep_tld=1" target="_blank"><b>[My Digital Life]</b><br>Design Thinking</a></td>
+<td><a href="https://go.gov.sg/nlbmdl" target="_blank"><b>[My Digital Life]</b><br>Design Thinking</a></td>
         <td>In this programme, learn about design thinking principles, methodology and framework, while taking a look at examples of how design thinking is implemented.
 </td>
         <td>25 Jan 2022, <br>7pm - 8.30pm</td>
