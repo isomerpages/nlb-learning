@@ -70,8 +70,7 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 	<tbody><tr>
 		<td>
 			<h2>Did you know...</h2>
-			<p> The camera’s history can be traced back to the Middle Ages with the first pinhole camera. A physicist by the name of Alhazen discovered the idea of Camera Obscura, which led him to the creation of the first pinhole camera. Camera Obscura, in short, is reproducing an image with colour and perspective preserved. <sup><small><a href="#lp-how-to-view-art">1</a></ small></sup>.</p>
-</p>
+			<p> The camera’s history can be traced back to the Middle Ages with the first pinhole camera. A physicist by the name of Alhazen discovered the idea of Camera Obscura, which led him to the creation of the first pinhole camera. Camera Obscura, in short, is reproducing an image with colour and perspective preserved. <sup><small><a href="#lp-how-to-view-art">1</a></small></sup>.</p>
 		</td>
 	</tr>
 	</tbody></table>
