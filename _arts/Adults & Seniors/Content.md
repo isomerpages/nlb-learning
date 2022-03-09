@@ -48,10 +48,15 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="#playlist-How to View Art">
-        <span>Playlist:<br>How to View Art</span>
+      <a href=" #Learning Package-How to View Art">
+        <span>Learning Package:<br>How to View Art </span>
       </a>
     </div>
   </div>
-	
+  <div class="col is-one-third"> 
+    <div class="clickbox is- pink-ruby">
+      <a href="#Playlist-Art History">
+        <span>Playlist:<br>Art History</span>
+      </a>
+    </div>
   </div>
