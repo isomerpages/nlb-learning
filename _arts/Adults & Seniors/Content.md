@@ -60,9 +60,9 @@ Check our **learning packages** for a more in-depth resource list, to expand you
       </a>
     </div>
   </div>
+	</div>
 	
-	
-	<h3><b>Learning Package</b></h3>
+<h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-how-to-view-art" ><b>How To View Art</b></h5>
 <p> The way we view art has changed with the proliferation of cameras, digital screens, duplicates and photo manipulation. The invention of the camera completely changed our sense of perspective because now we can see things in places our eyes have never travelled to. It has changed the context with which we view art because we can now see a painting or work in a different setting from what the artist intended, thus giving us a different perspective of the art.
 </p>
