@@ -54,7 +54,7 @@ Check our **learning packages** for a more in-depth resource list, to expand you
     </div>
   </div>
   <div class="col is-one-third"> 
-    <div class="clickbox is- pink-ruby">
+    <div class="clickbox is-pink-ruby">
       <a href="#Playlist-Art History">
         <span>Playlist:<br>Art History</span>
       </a>
