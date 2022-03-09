@@ -113,7 +113,7 @@ For Seniors, conducted monthly in English at Central Public Library.</p>
       <p class="margin--top--sm margin--bottom--sm"> Through sharing books on education, psychology and self-development, the club hopes to inspire members, broaden their horizons and promote parent-child relations.<br><br>
 “有成长的家长，就有成长的孩子。”性情家长读书会希望通过分享教育、心理、自我成长等内容的书籍，给成员启发，开拓其视野，并促进亲子关系。<br><br>
 For Parents and Educators, conducted monthly in Chinese online via Zoom. Physical programme at library@harbourfront is suspended until further notice.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="www.go.gov.sg/growing-parents"> Click here for upcoming sessions</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/growing-parents"> Click here for upcoming sessions</a></p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
