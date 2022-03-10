@@ -152,8 +152,6 @@ Why Do Apples Turn Brown?</b></a></h4>
     </div>
   </div>
  </div>
- <p>“Shoot for the moon. Even if you miss, you’ll land among the stars.” <br><br>
-Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children. <br>
-	*STEAM - Science, Technology, Engineering, Arts and Mathematics</p>	
+ <p>Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it?</p>	
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
