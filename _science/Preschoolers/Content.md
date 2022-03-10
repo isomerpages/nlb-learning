@@ -117,6 +117,8 @@ Explore our learning packages for useful tips on selecting age-appropriate books
 <h4 id="lp-time"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-time"><b>ABC's of Applied Physics for Kids: <br>It's Time to Learn About Time! ( for 4-6 years old)</b></a></h4>
 <p> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!  </p>
 
+<img src="/images/Time%20to%20Learn%20About%20Time%20Thumbnail.png" style="width:400px; text-align:centre;">
+
 <h4 id="lp-density"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-density"><b>ABC's of Applied Chemistry for Kids:<br> Let’s Learn About Density! (for 4-6 years old)</b></a></h4>
 <p> Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together! </p>
  
