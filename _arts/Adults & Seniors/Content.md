@@ -82,20 +82,34 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0pDE4VX_9Kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source : <a href="https://www.youtube.com/watch?v=0pDE4VX_9Kk" target="_blank"> John Berger / Ways of Seeing, Episode 1 (1972)</a> (2012, October 8). <i>tw19751.</i> Retrieved 2022, February 15
 
-<h5>2. Ways of Seeing, Episode 2 (1972)</h5> 
-<p> This second program deals with the portrayal of the female nude, an important part of the tradition of European art. Berger examines these paintings and asks whether they celebrate women as they really are or only as men would like them to be. </p>
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m1GI8mNU5Sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=m1GI8mNU5Sg " target="_blank"> John Berger / Ways of Seeing, Episode 2</a> (2019, December 21). <i>tw19751.</i> Retrieved 2022, February 15
-
-<h5>3. Ways of Seeing, Episode 3 (1972)</h5> 
+<h5>2. Ways of Seeing, Episode 3 (1972)</h5> 
 <p> With the invention of oil paint around 1400, painters were able to portray people and objects with an unprecedented degree of realism, and painting became the ideal way to celebrate private possessions. In this programme, John Berger questions the value we place on that tradition. </p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src=" https://www.youtube.com/embed/Z7wi8jd7aC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=Z7wi8jd7aC4" target="_blank"> John Berger / Ways of Seeing, Episode 3</a> (2019, December 21). <i>tw19751.</i> Retrieved 2022, February 15
 
-<h5>4. Walter Benjamin: The Work of Art in the Age of Mechanical Reproduction</h5> 
+<h5>3. Walter Benjamin: The Work of Art in the Age of Mechanical Reproduction</h5> 
 <p> An introduction to the art critic Walter Benjamin and his most influential essay, the Work of Art in the Age of Mechanical Reproduction. Including David Douglas's the Work of Art in the Age of Digital Reproduction. </p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/blq9sCIyXgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-Source: <a href=" https://www.youtube.com/watch?v=blq9sCIyXgA" target="_blank"> Walter Benjamin: The Work of Art in the Age of Mechanical Reproduction</a> (2019, March 9). <i>tw19751.</i> Retrieved 2022, February 15
+Source: <a href="https://www.youtube.com/watch?v=blq9sCIyXgA" target="_blank"> Walter Benjamin: The Work of Art in the Age of Mechanical Reproduction</a> (2019, March 9). <i>Then & Now.</i> Retrieved 2022, February 15
+
+<h5>4. How to Sound like you Understand Art</h5> 
+<p> Do you question your ability to talk about art in a coherent way? Here are tips for how to sound like you understand art, even if you've never taken a class or set foot in a museum. </p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OzMVvLKnJxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=OzMVvLKnJxs" target="_blank"> How to Sound like you Understand Art</a> (2019, March 9). <i>The Art Assignment..</i> Retrieved 2022, March 10
+
+
+<h5>5. Art and Empathy </h5> 
+<p> Empathy is a term we hear a lot, but what does it mean and how does it work? Looking back through art history, we find many moments when art has allowed us to share in the feelings of others, from Maya Lin's Vietnam Veterans Memorial, to representations of the Buddhist deity Jizō Bosatsu, the ink drawings of Chittaprosad and Zainul Abedin, the work of Ghana Think Tank, and more. </p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zOW4YVEaTKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=zOW4YVEaTKI" target="_blank"> Art and Empathy</a> (2019, March 9). <i>The Art Assignment.</i> Retrieved 2022, March 10
+
+
+<h5>6. Art Explainer 1: The Power to Look</h5> 
+<p> How does what you see in an artwork tell you how to look? Using three artworks from the Art Institute's collection, this video unpacks a central theme and uses innovative visual storytelling to highlight the choices artists made to shape form and meaning in their works. </p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SqeY2ZYh3t0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=SqeY2ZYh3t0" target="_blank"> Art Explainer 1: The Power to Look </a> (2019, March 9). <i>The Art Institute of Chicago.</i> Retrieved 2022, March 10
