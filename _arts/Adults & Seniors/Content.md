@@ -126,4 +126,3 @@ Steve Edwards (2017), <i> Photography, A Very Short Introduction </i>, OUP Oxfor
 <p> In this thought-provoking exploration of the subject, Edwards interrogates the way we look and think about photographs, and considers such issues as truth and recording, objectivity and fine art, identity and memory.</p>
 <p><a href="https://nlb.overdrive.com/media/3714803" target="_blank">Borrow the eBook here</a>. </p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
-
