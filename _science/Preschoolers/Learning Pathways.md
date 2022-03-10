@@ -72,11 +72,17 @@ In addition, they come in all shapes and sizes, and have developed special featu
 Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children. 
 					<br><br>
 	*STEAM - Science, Technology, Engineering, Arts and Mathematics
-
- </td>
-        <td></td>
+					 <td></td>
         <td> </td>
       </tr>
+					 <tr>
+        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-apple" target="_blank"><b>ABC's of Applied Chemistry for Kids:
+Why Do Apples Turn Brown?</b></a></td>
+        <td>Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it?
+</td>
+        <td></td>
+        <td> </td>
+		 </tr>
        </tbody>
   </table>
 </div>
@@ -114,11 +120,23 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
       </tr>
     </thead>
     <tbody>
+			 <tr>
+        <td style="width: 20%;"><a href="https://go.gov.sg/er-progs" target="_blank"><b> Baby Songs & Rhymes </b></a></td>
+        <td style="width: 40%;"> Join other parents with young children and support your child's early development through an enjoyable virtual session with songs and rhymes.</td>
+        <td style="width: 20%;">5 Mar 2022<br>11.00am – 11.20am</td>
+        <td style="width: 20%;">Zoom</td>
+      </tr>
 				  <tr>
         <td><a href="https://www.eventbrite.com/myevent?eid=254305122467" target="_blank"><b>Coding Unplugged : Who’s Afraid of the Big Bad Wolf? | DiscoverTech</b></a></td>
         <td>Help your child become a better computational thinker by joining this fun and interesting pre-coding programme while solving challenges for the three little pigs!</td>
         <td>12 Mar 2022  <br>11.00am – 12.00pm</td>
         <td>Woodlands Regional Library</td>
+      </tr>
+			    <tr>
+        <td><a href="https://go.gov.sg/er-progs" target="_blank"><b> Toddler Songs & Rhymes [Theme: Colours & Shapes] </b></a></td>
+        <td> Have fun learning about colours and shapes with your child in this interactive session of Toddler Songs & Rhymes.  Get your child grooving to the different rhymes and action songs in this session. Teaching your toddler the movements and act out a rhyme will show your child that learning and fun can happen at the same time. </td>
+        <td>15 Mar 2022<br>4.00pm-4.20pm<br></td>
+        <td>Zoom</td>
       </tr>
 			<tr>				
 				<td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Coding Unplugged : Sound Shakers | DiscoverTech</b></a></td>
@@ -132,6 +150,13 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
 				<td>19 Mar 2022<br>11.00am – 12.00pm</td>
 				<td>Woodlands Regional Library</td>
      </tr>
+			<tr>
+<td><a href="https://go.gov.sg/er-progs" target="_blank"><b>Baby Songs & Rhymes</b></a></td>
+        <td> Join other parents with young children and support your child's early development through an enjoyable virtual session with songs and rhymes.
+</td>
+        <td>19 Mar 2022 <br>11.00am-11.20am</td>
+        <td>Zoom</td>
+      </tr>
 						<tr>
 <td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Little Bits Creation I DiscoverTech</b></a></td>
         <td>Little Bits are fun swappable, magnetically – connected electronic building blocks that allow you to easily add lights and movement to any crafts project.  Children and parents will learn how littleBits work and create and decorate a character using cardboard in this activity.</td>
