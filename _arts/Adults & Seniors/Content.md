@@ -126,3 +126,11 @@ Steve Edwards (2017), <i> Photography, A Very Short Introduction </i>, OUP Oxfor
 <p> In this thought-provoking exploration of the subject, Edwards interrogates the way we look and think about photographs, and considers such issues as truth and recording, objectivity and fine art, identity and memory.</p>
 <p><a href="https://nlb.overdrive.com/media/3714803" target="_blank">Borrow the eBook here</a>. </p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
+
+<h5>2. How to See</h5>
+David Salle (2016), <i> How to See</i>, W. W. Norton & Company.
+<p>
+<a href="https://nlb.overdrive.com/media/2717158" target="_blank"><img src="/images/arts/AS/book-2.jpeg" style="width:300px; text-align:left;" alt="Book cover for How to See"></a>
+</p><p> How does art work? How does it move us, inform us, challenge us? Renowned painter David Salle's incisive essay collection illuminates these questions by exploring the work of influential twentieth-century artists.</p>
+<p><a href="https://nlb.overdrive.com/media/2717158" target="_blank">Borrow the eBook here</a>. </p>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
