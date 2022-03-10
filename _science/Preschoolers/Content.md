@@ -143,5 +143,17 @@ Explore our learning packages for useful tips on selecting age-appropriate books
 Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children. <br>
 	*STEAM - Science, Technology, Engineering, Arts and Mathematics</p>
 	
+<h4 id="lp-apple"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-apple"><b>ABC's of Applied Chemistry for Kids:
+Why Do Apples Turn Brown?</b></a></h4>
+<div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+   <img src="/images/science/preschoolers/Why%20do%20apple%20turn%20brown.jpeg" style="width:400px; text-align:centre;">
+    </div>
+  </div>
+ </div>
+ <p>“Shoot for the moon. Even if you miss, you’ll land among the stars.” <br><br>
+Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children. <br>
+	*STEAM - Science, Technology, Engineering, Arts and Mathematics</p>	
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
