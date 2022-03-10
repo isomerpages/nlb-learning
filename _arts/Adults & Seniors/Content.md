@@ -123,7 +123,7 @@ Source: <a href="https://www.youtube.com/watch?v=SqeY2ZYh3t0" target="_blank"> A
 <h5>1. Photography, A Very Short Introduction</h5>
 Steve Edwards (2017), <i> Photography, A Very Short Introduction </i>, OUP Oxford.
 <p>
-<a href="https://nlb.overdrive.com/media/3714803" target="_blank"><img src="/images/arts/adults-and-seniors/book-1.jpeg" style="width:300px; text-align:left;" alt="you're not listening"></a>
+<a href="https://nlb.overdrive.com/media/3714803" target="_blank"><img src="/images/arts/adults-and-seniors/book-1.jpeg" style="width:300px; text-align:left;" alt="Photography, A Short Introduction"></a>
 <p> In this thought-provoking exploration of the subject, Edwards interrogates the way we look and think about photographs, and considers such issues as truth and recording, objectivity and fine art, identity and memory.</p>
 <p><a href="https://nlb.overdrive.com/media/3714803" target="_blank">Borrow the eBook here</a>. </p>
 <body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
