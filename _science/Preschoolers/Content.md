@@ -152,6 +152,6 @@ Why Do Apples Turn Brown?</b></a></h4>
     </div>
   </div>
  </div>
- <p>Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it?</p>	
+ <p>Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it? Let’s find out with a simple experiment that you can do at home.</p>	
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
