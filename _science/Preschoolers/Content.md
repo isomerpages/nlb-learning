@@ -147,8 +147,7 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
 Why Do Apples Turn Brown?</b></a></h4>
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-<img src="/images/science/preschoolers/Why%20do%20apple%20turn%20brown.jpeg" style="width:500px; text-align:center;">
+<img src="/images/science/preschoolers/Why%20do%20apple%20turn%20brown.jpeg" style="width:500px; text-align:centre;">
     </div>
   </div>
  </div>
