@@ -72,17 +72,11 @@ In addition, they come in all shapes and sizes, and have developed special featu
 Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children. 
 					<br><br>
 	*STEAM - Science, Technology, Engineering, Arts and Mathematics
-					 <td></td>
-        <td> </td>
-      </tr>
-					 <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-apple" target="_blank"><b>ABC's of Applied Chemistry for Kids:
-Why Do Apples Turn Brown?</b></a></td>
-        <td>Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it?
-</td>
+
+ </td>
         <td></td>
         <td> </td>
-		 </tr>
+      </tr>
        </tbody>
   </table>
 </div>
