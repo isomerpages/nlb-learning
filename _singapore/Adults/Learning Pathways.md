@@ -54,13 +54,13 @@ There are many stories to our places and spaces in Singapore. Through this pathw
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/singapore/adults/content-place-history"><b>Place History Learning Package</b></a></td>
+        <td style="width: 20%;"><a href="/singapore/adults/content-place-history" target="_blank"><b>Place History Learning Package</b></a></td>
         <td style="width: 40%;">Here are some great resources to start with.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/singapore/adults/content-place-history"><b>Place History Playlist</b></a></td>
+        <td><a href="/singapore/adults/content-place-history" target="_blank"><b>Place History Playlist</b></a></td>
         <td>Be curious about our place history. Learn it the easy way with Curiocity</td>
         <td></td>
         <td> </td>
@@ -80,13 +80,13 @@ Dive deep into the stories from the Japanese Occupation.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/singapore/adults/content-japanese-occupation"><b>Japanese Occupation Learning Package</b></a></td>
+        <td style="width: 20%;"><a href="/singapore/adults/content-japanese-occupation" target="_blank"><b>Japanese Occupation Learning Package</b></a></td>
         <td style="width: 40%;">Here are some great resources to start with.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/singapore/adults/content-japanese-occupation"><b>Japanese Occupation Playlist</b></a></td>
+        <td><a href="/singapore/adults/content-japanese-occupation" target="_blank"><b>Japanese Occupation Playlist</b></a></td>
        <td style="width: 40%;">Check out these resources to help you gain some understanding of the events which led to the fall of Singapore, Japanese Occupation, and post-war Singapore.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
