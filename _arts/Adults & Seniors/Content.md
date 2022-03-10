@@ -130,7 +130,7 @@ Cynthia Freeland (2017), <i>Art Theory, A Very Short Introduction</i>, OUP Oxfor
 
 <h5>6. The Art of Looking at Art</h5>
 Gene Wisniewski (2020), <i>The Art of Looking at Art</i>, Bloomsbury Publishing.
-<br>
+<p>
 <a href="https://nlb.overdrive.com/media/5664175"><img alt="Book Cover for The Art of Looking at Art" style="width:300px; text-align:left;" src="images/arts/AS/book-6.jpeg"></a>
 <p> There's an art to viewing art. Most people aren't sure what to do when standing before a work of art, besides gaze at it for what they hope is an acceptable amount of time. This book will help remedy that situation and answer many of the most frequently asked questions pertaining to the ma¬tter of art in general.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/ 5664175">Borrow the eBook here</a>.</p>
