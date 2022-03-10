@@ -252,9 +252,9 @@ Here are some great resources to help make this journey as painless as possible.
 <p> What is the ballpark figure you should be expecting for your salary? Consult <a href="https://blog.seedly.sg/salary-guide-singapore/" target="_blank">Seedly’s guide</a>, which covers a variety of positions in different industries.</p>
 Source: <a href="https://blog.seedly.sg/salary-guide-singapore/#median-wage" target="_blank">The Ultimate Salary Guide For Singaporeans</a> (2021, Jun 2). <i>Seedly</i>. Retrieved 2021, October 21
 
-<h5><a href="https:/www.resumewriter.sg/blog/how-to-write-a-winning-resume-your-ultimate-cv-guide/" target="_blank">How to Write a Winning CV in 2021</a></h5>
-<p><a href="https:/www.resumewriter.sg/blog/how-to-write-a-winning-resume-your-ultimate-cv-guide/" target="_blank">This detailed article from a local professional resume writing company</a> teaches expert tips, like how to phrase your accomplishments for maximum impact.</p>
-Source: <a href="https:/www.resumewriter.sg/blog/how-to-write-a-winning-resume-your-ultimate-cv-guide/" target="_blank">How to Write a Winning CV in 2021</a> (2021, Sep 2). <i>ResumeWriter.SG</i>. Retrieved 2021, October 21
+<h5><a href="https://www.resumewriter.sg/blog/how-to-write-a-winning-resume-your-ultimate-cv-guide/" target="_blank">How to Write a Winning CV in 2021</a></h5>
+<p><a href="https://www.resumewriter.sg/blog/how-to-write-a-winning-resume-your-ultimate-cv-guide/" target="_blank">This detailed article from a local professional resume writing company</a> teaches expert tips, like how to phrase your accomplishments for maximum impact.</p>
+Source: <a href="https://www.resumewriter.sg/blog/how-to-write-a-winning-resume-your-ultimate-cv-guide/" target="_blank">How to Write a Winning CV in 2021</a> (2021, Sep 2). <i>ResumeWriter.SG</i>. Retrieved 2021, October 21
 
 <h4>eBooks</h4>
 <h5><a href="https://eresources.nlb.gov.sg/ereads/proxy?id=F5270C12-3FAD-4999-B319-2CAD0AF4BAB7&amp;l=JHT1" target="_blank">Get Hired Now! How to Accelerate Your Job Search, Stand Out, and Land Your Next Great Opportunity</a></h5>
