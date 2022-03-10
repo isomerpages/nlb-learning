@@ -86,7 +86,7 @@ Dive deep into the stories from the Japanese Occupation.
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/singapore/adults/content-content-japanese-occupation"><b>Japanese Occupation Playlist</b></a></td>
+        <td><a href="/singapore/adults/content-japanese-occupation"><b>Japanese Occupation Playlist</b></a></td>
        <td style="width: 40%;">Check out these resources to help you gain some understanding of the events which led to the fall of Singapore, Japanese Occupation, and post-war Singapore.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
