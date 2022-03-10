@@ -113,3 +113,17 @@ Source: <a href="https://www.youtube.com/watch?v=zOW4YVEaTKI" target="_blank"> A
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SqeY2ZYh3t0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=SqeY2ZYh3t0" target="_blank"> Art Explainer 1: The Power to Look </a> (2019, March 9). <i>The Art Institute of Chicago.</i> Retrieved 2022, March 10
+
+<h4>Website</h4>
+
+<h5><a href="https://www.unep.org/explore-topics/green-economy?__cf_chl_managed_tk__=pmd_3uVt5NT5vJszILkDQcVVe9Mo8Y_Mcem8z3ZkMMqxUG4-1632874402-0-gqNtZGzNAxCjcnBszQjl" target="_blank">UN Environment Programme</a></h5>
+<p>Explore the site to read about the green economy on a global scale and the transition to economies that are low carbon, resource efficient and socially inclusive.</p>
+
+<h4>eBooks</h4>
+<h5>1. Photography, A Very Short Introduction</h5>
+Steve Edwards (2017), <i> Photography, A Very Short Introduction </i>, OUP Oxford.
+<p>
+<a href="https://nlb.overdrive.com/media/3714803" target="_blank"><img src="/images/arts/adults-and-seniors/book-1.jpg" style="width:300px; text-align:left;" alt="you're not listening"></a>
+<p> In this thought-provoking exploration of the subject, Edwards interrogates the way we look and think about photographs, and considers such issues as truth and recording, objectivity and fine art, identity and memory.</p>
+<p><a href="https://nlb.overdrive.com/media/3714803" target="_blank">Borrow the eBook here</a>. </p>
+<body>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</body>
