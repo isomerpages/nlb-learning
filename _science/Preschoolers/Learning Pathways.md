@@ -83,7 +83,7 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
  </td>
         <td></td>
         <td> </td>
-      
+      <br><br>
 
 
 <div class="horizontal-scroll margin--bottom--lg">
