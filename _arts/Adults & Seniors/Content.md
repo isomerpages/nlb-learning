@@ -97,7 +97,8 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 David Salle (2016), <i> How to See</i>, W. W. Norton &amp; Company.
 <p>
 <a target="_blank" href="https://nlb.overdrive.com/media/2717158"><img alt="Book cover for How to See" style="width:300px; text-align:left;" src="/images/arts/AS/book-2.jpeg"></a>
-</p><p> How does art work? How does it move us, inform us, challenge us? Renowned painter David Salle's incisive essay collection illuminates these questions by exploring the work of influential twentieth-century artists.</p>
+<p> How does art work? How does it move us, inform us, challenge us? Renowned painter David Salle's incisive essay collection illuminates these questions by exploring the work of influential twentieth-century artists.</p>
+
 <p><a target="_blank" href="https://nlb.overdrive.com/media/2717158">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 	
@@ -114,7 +115,7 @@ John Berger (2015), <i>About Looking</i>, Bloomsbury Publishing.
 Susan Sontag (2014), <i>On Photography</i>, Penguin Books Ltd.
 <br>
 <a href="https://nlb.overdrive.com/media/2018494"><img alt="Book Cover for On Photography" style="width:300px; text-align:left;" src="images/arts/AS/book-4.jpeg"></a>
-<p>Susan Sontag's ground-breaking critique of photography asks forceful questions about the moral and aesthetic issues surrounding this art form. She examines the ways in which we use these omnipresent images to manufacture a sense of reality and authority in our lives.</p>
+<p> Susan Sontag's ground-breaking critique of photography asks forceful questions about the moral and aesthetic issues surrounding this art form. She examines the ways in which we use these omnipresent images to manufacture a sense of reality and authority in our lives.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/2018494">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
 
@@ -133,4 +134,3 @@ Gene Wisniewski (2020), <i>The Art of Looking at Art</i>, Bloomsbury Publishing.
 <p> There's an art to viewing art. Most people aren't sure what to do when standing before a work of art, besides gaze at it for what they hope is an acceptable amount of time. This book will help remedy that situation and answer many of the most frequently asked questions pertaining to the ma¬tter of art in general.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/ 5664175">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
- 
