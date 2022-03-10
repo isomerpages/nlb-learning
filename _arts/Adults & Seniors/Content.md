@@ -107,6 +107,7 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 John Berger (2015), <i>About Looking</i>, Bloomsbury Publishing.
 <br>
 <a href="https://nlb.overdrive.com/media/2504704"><img alt="Book Cover for About Looking" style="width:300px; text-align:left;" src="images/arts/AS/book-3.jpeg"></a>
+<p></p>
 <p> In About Looking, John Berger explores our role as observers to reveal new layers of meaning in what we see.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/2504704">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
