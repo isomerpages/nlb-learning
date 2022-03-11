@@ -122,7 +122,7 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=SqeY2ZYh3t0"> A
 <h4>eBooks</h4>
 <h5>1. Photography, A Very Short Introduction</h5>
 Steve Edwards (2017), <i> Photography, A Very Short Introduction </i>, OUP Oxford.
-<p>
+
 <a target="_blank" href="https://nlb.overdrive.com/media/3714803"><img alt="Photography, A Short Introduction" style="width:300px; text-align:left;" src="/images/Arts/AS/Book-1.jpeg"></a>
 <p> In this thought-provoking exploration of the subject, Edwards interrogates the way we look and think about photographs, and considers such issues as truth and recording, objectivity and fine art, identity and memory.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/3714803">Borrow the eBook here</a>. </p>
@@ -130,8 +130,8 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>2. How to See</h5>
 David Salle (2016), <i> How to See</i>, W. W. Norton &amp; Company.
-<p>
-<a target="_blank" href="https://nlb.overdrive.com/media/2717158"><img alt="Book cover for How to See" style="width:300px; text-align:left;" src="/images/arts/AS/book-2.jpeg"></a>
+
+<a target="_blank" href="https://nlb.overdrive.com/media/2717158"><img alt="Book cover for How to See" style="width:300px; text-align:left;" src="/images/Arts/AS/book-2.jpeg"></a>
 <p> How does art work? How does it move us, inform us, challenge us? Renowned painter David Salle's incisive essay collection illuminates these questions by exploring the work of influential twentieth-century artists.</p>
 
 <p><a target="_blank" href="https://nlb.overdrive.com/media/2717158">Borrow the eBook here</a>. </p>
@@ -140,7 +140,7 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>3. About Looking</h5>
 John Berger (2015), <i>About Looking</i>, Bloomsbury Publishing.
-<p>
+
 <a href="https://nlb.overdrive.com/media/2504704"><img alt="Book Cover for About Looking" style="width:300px; text-align:left;" src="/images/arts/AS/book-3.jpeg"></a>
 <p> In About Looking, John Berger explores our role as observers to reveal new layers of meaning in what we see.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/2504704">Borrow the eBook here</a>.</p>
@@ -148,7 +148,7 @@ John Berger (2015), <i>About Looking</i>, Bloomsbury Publishing.
 
 <h5>4. On Photography</h5>
 Susan Sontag (2014), <i>On Photography</i>, Penguin Books Ltd.
-<p>
+
 <a href="https://nlb.overdrive.com/media/2018494"><img alt="Book Cover for On Photography" style="width:300px; text-align:left;" src="/images/arts/AS/book-4.jpeg"></a>
 <p> Susan Sontag's ground-breaking critique of photography asks forceful questions about the moral and aesthetic issues surrounding this art form. She examines the ways in which we use these omnipresent images to manufacture a sense of reality and authority in our lives.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/2018494">Borrow the eBook here</a>.</p>
@@ -156,7 +156,7 @@ Susan Sontag (2014), <i>On Photography</i>, Penguin Books Ltd.
 
 <h5>5. Art Theory, A Very Short Introduction </h5>
 Cynthia Freeland (2017), <i>Art Theory, A Very Short Introduction</i>, OUP Oxford.
-<p>
+
 <a href="https://nlb.overdrive.com/media/3714539"><img alt="Book Cover for Art Theory" style="width:300px; text-align:left;" src="/images/arts/AS/book-5.jpeg"></a>
 <p> In this Very Short Introduction, Cynthia Freeland explains why innovation and controversy are valued in the arts, weaving together philosophy and art theory with many fascinating examples.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/3714539">Borrow the eBook here</a>.</p>
@@ -164,7 +164,7 @@ Cynthia Freeland (2017), <i>Art Theory, A Very Short Introduction</i>, OUP Oxfor
 
 <h5>6. The Art of Looking at Art</h5>
 Gene Wisniewski (2020), <i>The Art of Looking at Art</i>, Bloomsbury Publishing.
-<p>
+
 <a href="https://nlb.overdrive.com/media/5664175"><img alt="Book Cover for The Art of Looking at Art" style="width:300px; text-align:left;" src="/images/arts/AS/book-6.jpeg"></a>
 <p> There's an art to viewing art. Most people aren't sure what to do when standing before a work of art, besides gaze at it for what they hope is an acceptable amount of time. This book will help remedy that situation and answer many of the most frequently asked questions pertaining to the ma¬tter of art in general.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/ 5664175">Borrow the eBook here</a>.</p>
