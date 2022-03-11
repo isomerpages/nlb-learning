@@ -136,7 +136,7 @@ Botanical Beauty: 80 Essential Recipes for Natural Space Products by Aubre Andru
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://codesg.imda.gov.sg/in-community/makeit-at-libraries/" target="_blank"><b>LearnX Digital</b><br>MakeIT</a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.com/cc/makeit-at-libraries-programmes-104559" target="_blank"><b>LearnX Digital</b><br>MakeIT</a></td>
         <td style="width: 40%;">MakeIT aims to introduce Making and Innovation to the general public by way of areas, including Making with upcycling in mind. Topics available include repair and home-hacks and lofi prototyping<br></td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>

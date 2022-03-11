@@ -117,6 +117,8 @@ Explore our learning packages for useful tips on selecting age-appropriate books
 <h4 id="lp-time"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-time"><b>ABC's of Applied Physics for Kids: <br>It's Time to Learn About Time! ( for 4-6 years old)</b></a></h4>
 <p> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!  </p>
 
+<img src="/images/Time%20to%20Learn%20About%20Time%20Thumbnail.png" style="width:400px; text-align:centre;">
+
 <h4 id="lp-density"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-density"><b>ABC's of Applied Chemistry for Kids:<br> Let’s Learn About Density! (for 4-6 years old)</b></a></h4>
 <p> Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together! </p>
  
@@ -143,5 +145,11 @@ Explore our learning packages for useful tips on selecting age-appropriate books
 Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children. <br>
 	*STEAM - Science, Technology, Engineering, Arts and Mathematics</p>
 	
+<h4 id="lp-apple"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-apple"><b>ABC's of Applied Chemistry for Kids:
+Why Do Apples Turn Brown?</b></a></h4>
+		 
+<img src="/images/science/preschoolers/Why%20do%20apple%20turn%20brown.jpeg" style="width:400px; text-align:centre;">
+ 
+ <p>Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it? Let’s find out with a simple experiment that you can do at home.</p>	
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

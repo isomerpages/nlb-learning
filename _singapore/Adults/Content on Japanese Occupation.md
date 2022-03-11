@@ -432,7 +432,7 @@ Akashi, Yōji  &amp; Yoshimura, Mako (Eds.). (2008). <i> New perspectives on th
 <li> Operation Sook Ching robbed many lives and left an indelible mark on families who had to cope with the loss of loved ones who never returned home during those fateful days. Many recalled the lost lives and recounted their lucky escape from death.</li>
 </ul>
 </td>
-</tr</tbody></table>
+		</tr></tbody></table>
 
 These selected articles and books present a snapshot of people’s experiences during the Japanese Occupation.
 

@@ -119,7 +119,7 @@ Blackout poetry is a form of poetry where an author picks an existing piece of w
 
 **Click on to find out how you can create your own blackout poems and discover other poetry-related resources:**
 	
-<a href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things-archive#id13"><img src="/images/reading/teens/DIYblackoutpoetrybutton.jpg" alt="Teen Things: D.I.Y. Blackout Poetry" style="width: 30%;"></a>
+<a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things-archive#id13"><img src="/images/reading/teens/DIYblackoutpoetrybutton.jpg" alt="Teen Things: D.I.Y. Blackout Poetry" style="width: 30%;"></a>
 
 
 

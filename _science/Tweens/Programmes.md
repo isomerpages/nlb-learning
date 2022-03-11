@@ -27,14 +27,17 @@ third_nav_title: Tweens
 ## **Budding Scientists**
 ![Budding Scientists](/images/science-lfa-updates/Budding-Scientists.png)
 A series of workshops for children to learn about plants, animals, the human body and more.
+
 Click [here](https://go.gov.sg/nlb-events){:target="_blank"} for the latest programme listings. Stay tuned for more updates.
 
 ## **Budding Engineers**
 ![Budding Engineers](/images/science-lfa-updates/Budding-Engineers.png)
 A series of workshops for children to learn about engineering, physics and more.
+
 Click [here](https://go.gov.sg/nlb-events){:target="_blank"} for the latest programme listings. Stay tuned for more updates.
 
 ## **S.T.E.A.M. Lab**
 ![STEAM Lab](/images/science-lfa-updates/STEAM-Lab.png)
 An annual event for children and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.
+
 Click [here](https://go.gov.sg/nlb-events){:target="_blank"} for the latest programme listings. Stay tuned for more updates.

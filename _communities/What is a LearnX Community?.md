@@ -80,7 +80,7 @@ These communities cover a wide range of topics and can be found in libraries all
   <div class="col is-half-tablet padding--bottom--lg">
     <img src="/images/learning-communities/communities-zine-lc-1.jpg" alt="Zine LC">
     <div class="margin--top--lg">
-      <h5 class="margin--top--sm margin--bottom--sm"><b>Zine LC</b></h5>
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Communities: Zzzink! </b></h5>
       <p class="margin--top--sm margin--bottom--sm">This community is made up of creators who produce Zines. Pronounced “zeens”, these are self-published magazines produced in small batches. There are no rules as to what makes a zine, and that is possibly their biggest charm.</p>
       <p class="">Check out some of the Zines created by this community:</p>
       <ol>
