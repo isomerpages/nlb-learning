@@ -117,10 +117,6 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=zOW4YVEaTKI"> A
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SqeY2ZYh3t0" height="315" width="560"></iframe></div>
 
-<div class="image">
-      <a target="_blank" href="https://www.youtube.com/watch?v=SqeY2ZYh3t0"><img src="/images/Arts/AS/Video-2.png" style="height:315ox; width:560px; text-align:centre;"></a>
-    </div>
-
 Source: <a target="_blank" href="https://www.youtube.com/watch?v=SqeY2ZYh3t0"> Art Explainer 1: The Power to Look </a> (2019, March 9). <i>The Art Institute of Chicago.</i> Retrieved 2022, March 10
 
 <h4>Website</h4>
