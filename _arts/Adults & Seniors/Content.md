@@ -187,3 +187,118 @@ Gene Wisniewski (2020), <i>The Art of Looking at Art</i>, Bloomsbury Publishing.
 </ol>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+
+<h3><b>Playlist</b></h3>
+A collection of short videos or selected podcasts, exploring topics around personal and professional development.
+
+<h5 id="Art History" class="margin--bottom--lg"><b>Playlist: Art History & the Chronology of Western Art Periods </b></h5> 
+
+Art History & the Chronology of Western Art Periods examine the broader aspects of visual culture, including the various visual and conceptual outcomes related to an ever-evolving definition of art. Art history encompasses the study of objects created by different cultures around the world and throughout history that convey meaning, importance or serve usefulness primarily through visual representations.<br>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/SeyrLIViIYA" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths"> 
+    <p><b>Why You Don't Like Art History</b><br>
+Was your Art History class an endless succession of names and dates and movements? Art History doesn't have to be that way. The video discusses new and compelling approaches to the study of art. <br><br>
+<small>Source: Why You Don't Like Art History (2018, May 18). The Art Assignment. Retrieved 2022, February 16.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/bkWHrWw5yTg" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>The Evolution of Art (and how it Shaped the Modern World)</b><br>
+    This video is a comprehensive overview of the evolution of art and its influence on societies and civilisations throughout history, across the globe. <br><br>
+<small>Source: The Evolution of Art (2017, July 14). La Volpe. Retrieved 2022, February 16.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/CUOMENNS0EI" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Baroque - Overview - Goodbye-Art Academy</b><br>
+    This series of videos gives a detailed overview of the different Western Art Periods.<br><br>
+<small>Source: Baroque – Overview (2014, March 17). Philinthecircle. Retrieved 2022, February 16.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/_tw51Eh9vcw" class="responsive-iframe"></iframe> 
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>The Case for Impressionism</b><br>
+    Impressionism is one of the best known and loved movements in Art History, but why? The video presents a case for why Impressionism is interesting and worth your attention and admiration.<br><br>
+<small>Source: The Case for Impressionism (2018, October 18). The Art Assignment. Retrieved 2022, February 16.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/Os6i6fneV-E" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>The Case for Realism</b><br> 
+What's the point of making realistic paintings when photography can do the trick? The video looks at the history of artists recreating the world as we see it and ponder why it's still happening.<br><br>
+<small>Source: The Case for Realism (2018, September 21). The Art Assignment. Retrieved 2022, February 16.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/wtPBOwE0Qn0" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>The Case for Surrealism</b><br> 
+"Surrealism" has become shorthand for the bizarre, the irrational, the hallucinatory. But what is it? The video delves into the history of Surrealism, as it formed in post-World War I Europe and as it has infiltrated our wider culture up to today.<br><br>
+<small>Source: The Case for Surrealism (2017, March 17). The Art Assignment. Retrieved 2022, February 16.</small></p>
+  </div>
+</div>
+
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/96hl5J47c3k" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>The Case for Abstraction</b><br> 
+For much of human history, people made art by trying to represent the world as it appeared around them. Until about 100 years ago, when a bunch of artists stopped trying to do that. How are we supposed to deal with art completely removed from recognizable objects? And why should we?<br><br>
+<small>Source: The Case for Abstraction (2016, July 29). The Art Assignment. Retrieved 2022, February 16.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/XEi0Ib-nNGo" class="responsive-iframe"></iframe> 
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b> The Case for Minimalism</b><br> 
+You've probably seen a few cubes sitting in an art gallery and questioned why they were there. How could cubes be important? How did we get here? This video tries to explain that.<br><br>
+<small>Source: The Case for Minimalism (2015, March 26). The Art Assignment. Retrieved 2022, February 16.</small></p>
+  </div>
+</div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
