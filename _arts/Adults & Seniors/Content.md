@@ -174,3 +174,15 @@ Gene Wisniewski (2020), <i>The Art of Looking at Art</i>, Bloomsbury Publishing.
 <p> There's an art to viewing art. Most people aren't sure what to do when standing before a work of art, besides gaze at it for what they hope is an acceptable amount of time. This book will help remedy that situation and answer many of the most frequently asked questions pertaining to the ma¬tter of art in general.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/ 5664175">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
+
+
+<h4>Art Programmes in NLB</h4>
+<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a href="https://go.gov.sg/learnxartsfb" target="_blank"> go.gov.sg/learnxartsfb</a> to find the right one for you!
+</p>
+			
+<small>References</small>
+<ol>
+    <li><span id="footnote-one">Jade. (2021, November 8). The History of the Camera</span> <i>History Things</i>. Retrieved 2022, February 15 from <a href=" https://historythings.com/the-history-of-the-camera/" target="_blank"> https
+</ol>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
