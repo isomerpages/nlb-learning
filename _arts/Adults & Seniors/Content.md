@@ -114,6 +114,9 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=zOW4YVEaTKI"> A
 <h5>6. Art Explainer 1: The Power to Look</h5> 
 <p> How does what you see in an artwork tell you how to look? Using three artworks from the Art Institute's collection, this video unpacks a central theme and uses innovative visual storytelling to highlight the choices artists made to shape form and meaning in their works. </p>
 
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SqeY2ZYh3t0" height="315" width="560"></iframe></div>
+
 <div class="image">
       <a target="_blank" href="https://www.youtube.com/watch?v=SqeY2ZYh3t0"><img src="/images/Arts/AS/Video-2.png" style="height:315ox; width:560px; text-align:centre;"></a>
     </div>
