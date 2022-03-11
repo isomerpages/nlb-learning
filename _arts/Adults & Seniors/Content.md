@@ -80,7 +80,7 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 <p> A BAFTA award-winning BBC series with John Berger, which rapidly became regarded as one of the most influential art programs ever made. In the first program, Berger examines the impact of photography on our appreciation of art from the past.</p>
 
    <div class="image">
-      <a target="_blank" href="https://youtu.be/0pDE4VX_9Kk"><img src="/images/Arts/AS/Video-1.png"></a>
+      <a target="_blank" href="https://youtu.be/0pDE4VX_9Kk"><img src="/images/Arts/AS/Video-1.png" style="height:315px width:560px; text-align:centre;"></a>
     </div>
 
 Source : <a target="_blank" href="https://www.youtube.com/watch?v=0pDE4VX_9Kk"> John Berger / Ways of Seeing, Episode 1 (1972)</a> (2012, October 8). <i>tw19751.</i> Retrieved 2022, February 15
