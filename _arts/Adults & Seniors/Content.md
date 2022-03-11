@@ -48,14 +48,14 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="#Learning Package-How to View Art">
+      <a href="#lp-how-to-view-art">
         <span>Learning Package:<br>How to View Art </span>
       </a>
     </div>
   </div>
   <div class="col is-one-third"> 
     <div class="clickbox is-pink-ruby">
-      <a href="#Playlist-Art History">
+      <a href="#Playlist-art-history">
         <span>Playlist:<br>Art History</span>
       </a>
     </div>
@@ -80,6 +80,7 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 <p> A BAFTA award-winning BBC series with John Berger, which rapidly became regarded as one of the most influential art programs ever made. In the first program, Berger examines the impact of photography on our appreciation of art from the past.</p>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0pDE4VX_9Kk" height="315" width="560"></iframe></div>
+
 Source : <a target="_blank" href="https://www.youtube.com/watch?v=0pDE4VX_9Kk"> John Berger / Ways of Seeing, Episode 1 (1972)</a> (2012, October 8). <i>tw19751.</i> Retrieved 2022, February 15
 
 <h5>2. Ways of Seeing, Episode 3 (1972)</h5> 
