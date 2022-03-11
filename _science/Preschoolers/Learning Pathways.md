@@ -29,6 +29,7 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 
 <h3><b>Growing with Science Anytime, Anywhere!</b></h3>
 A child's discovery of the world happens in their everyday life – in their interactions with the people around them, their local environment, the community, and the world beyond. <br><br>Through our suite of programmes and resources, children will be given opportunities to explore the world around them through experiential learning. They will learn to apply inquiry or process skills such as observation, prediction, investigation and drawing conclusions through these experiences.<br><br>And while these activities will help children better understand scientific concepts, our resources also seek to equip parents to be part of their child’s journey with Science. Science is everywhere and learning can happen anytime, even at home! Find out tips on how you can be part of your child’s exploration in the complex and diverse nature of the world.<br><br> 
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -41,6 +42,8 @@ A child's discovery of the world happens in their everyday life – in their int
         <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-time" target="_blank"><b> ABC's of Applied Physics for Kids:
 It's Time to Learn about Time!</b></a></td>
         <td style="width: 80%;"> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</td>
+				<td></td>
+        <td> </td>
       </tr>
       <tr>
         <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-density" target="_blank"><b> ABC's of Applied Chemistry for Kids: Let’s Learn About Density </b></a></td>
@@ -78,7 +81,7 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
         <td> </td>
       </tr>
   <tr>
-<td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-apple" target="_blank"><b> ABC's of Applied Chemistry for Kids: Why Do Apples Turn Brown?</b>
+<td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-apple" target="_blank"><b> ABC's of Applied Chemistry for Kids: Why Do Apples Turn Brown?</b></td>
         <td> Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it? <br><br>Let’s find out with a simple experiment that you can do at home.
  </td>
         <td></td>
@@ -140,10 +143,10 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
         <td>Zoom</td>
       </tr>
 			<tr>				
-				<td style="width: 20%;"><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Coding Unplugged : Sound Shakers | DiscoverTech</b></a></td>
-        <td style="width: 40%;">Sing songs, make a sound shaker while all learning about pre-coding concepts like decomposition and debugging!</td>
-        <td style="width: 20%;">19 Mar 2022<br>11.00am – 12.00pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library</td>
+				<td><a href="https://go.gov.sg/er-digital-progs" target="_blank"><b>Coding Unplugged : Sound Shakers | DiscoverTech</b></a></td>
+        <td>Sing songs, make a sound shaker while all learning about pre-coding concepts like decomposition and debugging!</td>
+        <td>19 Mar 2022<br>11.00am – 12.00pm</td>
+        <td>Toa Payoh Public Library</td>
       </tr>
 			   <tr>
         <td><a href="https://www.eventbrite.sg/e/all-about-urban-farming-early-read-registration-252909778957?aff=odcleoeventsincollection" target="_blank"><b>All about Urban Farming! | Early Read</b></a></td>
