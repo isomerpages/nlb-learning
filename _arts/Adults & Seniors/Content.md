@@ -183,7 +183,6 @@ Gene Wisniewski (2020), <i>The Art of Looking at Art</i>, Bloomsbury Publishing.
 
 <small>References</small>
 <ol>
-    <li><span id="footnote-one">Jade. (2021, November 8). The History of the Camera</span> <i>History Things</i>. Retrieved 2022, February 15 from <a href=" https://historythings.com/the-history-of-the-camera/" target="_blank"> History Things.
-</ol>
+    <li><span id="footnote-one">Jade. (2021, November 8). The History of the Camera</span> <i>History Things</i>. Retrieved 2022, February 15 from <a href=" https://historythings.com/the-history-of-the-camera/" target="_blank"> History Things.</ol>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
