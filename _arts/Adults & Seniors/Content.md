@@ -115,7 +115,7 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=zOW4YVEaTKI"> A
 <p> How does what you see in an artwork tell you how to look? Using three artworks from the Art Institute's collection, this video unpacks a central theme and uses innovative visual storytelling to highlight the choices artists made to shape form and meaning in their works. </p>
 
 <div class="image">
-      <a target="_blank" href="https://www.youtube.com/watch?v=SqeY2ZYh3t0"><img src="/images/Arts/AS/Video-2.png" style="width:560px; text-align:centre;"></a>
+      <a target="_blank" href="https://www.youtube.com/watch?v=SqeY2ZYh3t0"><img src="/images/Arts/AS/Video-2.png" style="height:315ox; width:560px; text-align:centre;"></a>
     </div>
 
 Source: <a target="_blank" href="https://www.youtube.com/watch?v=SqeY2ZYh3t0"> Art Explainer 1: The Power to Look </a> (2019, March 9). <i>The Art Institute of Chicago.</i> Retrieved 2022, March 10
