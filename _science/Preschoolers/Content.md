@@ -119,7 +119,7 @@ Explore our learning packages for useful tips on selecting age-appropriate books
 <p> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!  </p>
 
 <h4 id="lp-density"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-density"><b>ABC's of Applied Chemistry for Kids:<br> Let’s Learn About Density! (for 4-6 years old)</b></a></h4>
-<img src="/images/science/preschoolers/Science%20LearnX%20Banner.png" style="width:800px; text-align:centre;">
+<img src="/images/science/preschoolers/Science%20LearnX%20Banner%20(1).png" style="width:800px; text-align:centre;">
 <p> Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together! </p>
  
  <h4 id="lp-ocean"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-marineanimals"><b>All About Animals: <br> Let's Learn about the Ocean and Marine Animals! (for 3-6 years old)</b></a></h4>
