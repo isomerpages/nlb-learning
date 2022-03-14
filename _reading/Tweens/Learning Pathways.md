@@ -76,8 +76,8 @@ Read with your child to explore new topics and discover new experience.
              <td style="width: 20%;"> 12 May 2022, 8pm - 10pm </td>
 <br><br> </td>
         <td style="width: 20%;">Zoom</td>
-        <td> </td>
-      </tr>
+        
+      
 <tr>
 <td><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849 " target="_blank"><b>My Island City: What Makes a Place Feel Like Home?</b></a></td>
         <td>This is an intergeneration online workshop for children to brainstorm and design their own home with their parents and grandparents.  There will be visual and written media on the built and natural environment of Singapore to inspire them.
@@ -108,7 +108,7 @@ Read with your child to explore new topics and discover new experience.
         <td> The Sphero BOLT is an app-enabled robotic ball that provides endless opportunities to have fun while learning. In this workshop, participants will learn to handle, navigate, and program Sphero using a block-based programming language on phones or tablets. Come explore the animated 8×8 LED Matrix and advanced sensors like the gyroscope and accelerometer as you program Sphero! </td>
         <td> June Holidays</td>
         <td> Various Public Libraries</td>
-<br><br> </td>
+<br><br> 
       </tr>
   </tbody>
   </table>
