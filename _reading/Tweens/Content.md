@@ -105,7 +105,7 @@ Interested in Science Fiction but don’t know where to start? Find out about Sc
 	
 D.I.Y activities to engage your child in different topics.	
 	
-<h4 id="lp-hai-there-haiku"><a href="/files/Reading_Tweens_Hai%20There%20Haiku.pdf " target="_blank"><b> Hai There, Haiku </b></a></h4>
+<h4 id="lp-hai-there-haiku"><a href="/files/Reading_Tweens_Hai_There_Haiku.pdf " target="_blank"><b> Hai There, Haiku </b></a></h4>
 <p>The haiku is a type of short poem usually composed of three lines. Take up this challenge and pen your own haiku today!</p>
 
 [Back to top](#main-content)
