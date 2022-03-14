@@ -28,14 +28,14 @@ third_nav_title: Adults & Seniors
 Be a part of the arts with LearnXArts, your portal into the realm of everything art. With exhibitions, workshops and talks, learning communities, and curated content packages, there is something for everyone, wherever you are in your personal art journey.
 
 ## **CANVAS/S**
-![](/images/learning-communities/arts/LC-Arts-StockImage-02.jpg)
+![](/images/arts/programmes/poster_1.jpg)
 
 CANVAS/S puts the spotlight on an artform through an exhibition, talks, workshops and tours conducted by a local artist who specializes in it. Take your time to view the artworks on display or improve your craft at the intermediate level programmes. There’s something for everyone here. 
 
 Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
 ## **Get Started In**
-![](/images/learning-communities/arts/LC-Arts-StockImage-02.jpg)
+![](/images/arts/programmes/poster_2.jpg)
 
 A beginner series of workshops, talks and tutorial videos for those who want to get started in an art form but do not know how to. Each session is conducted by a professional artist and is perfect for anyone who may find the world of art intimidating. The Get Started In series includes photography, fine art appreciation, and a variety of craft.
 
