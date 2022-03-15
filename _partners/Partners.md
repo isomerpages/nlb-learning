@@ -141,8 +141,6 @@ In this session, join Mr Aaron Lim, Lecturer from Nanyang Polytechnic’s School
 	
 <!-- End your code here -->
   
-
-
 <br><br>
 
 <table>
@@ -158,8 +156,7 @@ In this session, join Mr Aaron Lim, Lecturer from Nanyang Polytechnic’s School
 <strong><h5 id="sustainability">Sustainability</h5></strong>
 <hr>
 
-<tbody><tr>
-	
+<tbody>
 <tr>
 <td><strong><a href="https://www.eventbrite.com/c/learnx-sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank">Home farming with DIY hydroponic kit</a></strong></td>
 <td>Learn the basics of hydroponic and how you can build one at home.<br><br>
@@ -168,6 +165,6 @@ Registration opens one month before the session.</td>
 <td>26 Mar 2022, 2pm - 4pm</td>
 <td>Jurong Regional Library</td>
 </tr>
-	</table>
+	
 <!-- End your code here -->
-  
+</tbody></table>
