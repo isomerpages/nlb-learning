@@ -43,10 +43,10 @@ Read with your child to explore new topics and discover new experience.
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/reading/tweens/content"><b>Learning Package Hai There, Haiku</b></a></td>
-        <td>The haiku is a type of short poem usually composed of three lines. Take up this challenge and pen your own haiku today!</td>
-        <td></td>
-        <td></td>
+        <td style="width: 20%;"><a href="/reading/tweens/content"><b>Learning Package Hai There, Haiku</b></a></td>
+         <td style="width: 40%;">The haiku is a type of short poem usually composed of three lines. Take up this challenge and pen your own haiku today!</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
       </tr>
     </tbody>
   </table>
