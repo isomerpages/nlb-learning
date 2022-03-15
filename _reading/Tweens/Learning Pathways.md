@@ -70,7 +70,7 @@ Read with your child to explore new topics and discover new experience.
       <tr>
 <td><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b> 线上导读绘本《找到了》</b></a></td>
         <td>恬恬和阿德跟着婆婆和妈妈一起去看街戏。但在街戏开演前，婆婆和妈妈却发现他们两人不见了！婆婆和妈妈找遍了整个戏台，就是找不到他们。结果街戏开演了……</td>
-             <td style="width: 20%;"> 12 May 2022, 8pm - 10pm </td>
+             <td style="width: 20%;"> 12 May 2022, 8pm – 10pm </td>
         <td style="width: 20%;">Zoom</td>
         <tr>
 <td><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849 " target="_blank"><b>My Island City: What Makes a Place Feel Like Home?</b></a></td>
