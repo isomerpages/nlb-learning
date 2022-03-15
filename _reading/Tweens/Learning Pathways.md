@@ -38,7 +38,7 @@ Read with your child to explore new topics and discover new experience.
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/reading/tweens/content" target="_blank"><b>Playlist Reading Takes Me Places</b></a></td>
-        <td style="width: 40%;"> Explore different topics with these resources for your child to expand reading diets.1  </td>
+        <td style="width: 40%;"> Explore different topics with these resources for your child to expand reading diets. </td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
