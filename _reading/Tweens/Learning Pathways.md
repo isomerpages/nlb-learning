@@ -32,7 +32,7 @@ Read with your child to explore new topics and discover new experience.
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal ">Discover Recommended Resources</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
