@@ -127,7 +127,6 @@ This programme is suitable for Adults. <br>
 <strong><h5 id="Careers">Careers</h5></strong>
 <hr>
 
-</tr>
 	</table>
 	
 <!-- End your code here -->
