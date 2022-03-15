@@ -98,7 +98,7 @@ Read with your child to explore new topics and discover new experience.
         <td style="width: 20%;"></td>
       </tr>
 			<tr>
-<td style="width: 20%;"><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b> Tweenkerama | Sphero Party </b></a></td>
+      <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b> Tweenkerama | Sphero Party </b></a></td>
         <td> The Sphero BOLT is an app-enabled robotic ball that provides endless opportunities to have fun while learning. In this workshop, participants will learn to handle, navigate, and program Sphero using a block-based programming language on phones or tablets. Come explore the animated 8×8 LED Matrix and advanced sensors like the gyroscope and accelerometer as you program Sphero! </td>
         <td> June Holidays</td>
         <td> Various Public Libraries</td>
