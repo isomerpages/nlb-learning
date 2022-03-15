@@ -89,13 +89,20 @@ Check out the schedule below, and look out for more programmes to be introduced 
 <strong><h5 id="Digital">Digital</h5></strong>
 <hr>
 
-  <tbody><tr><td><strong><a href="https://www.eventbrite.sg/e/why-seo-is-vital-for-your-business-growth-future-of-work-registration-206950272837?aff=ebdssbonlinesearch" target="_blank">Why SEO is vital for your business growth | Future of Work</a></strong></td>
-  <td>It is not surprising that the use of the internet has increased exponentially during this period. It is estimated Google processes approximately 63,000 search queries every second, translating to 5.6 billion searches per day and approximately 2 trillion global searches per year. The average person conducts between three and four searches each day. (Hubspot), search engine optimisation (SEO) is more important than ever for businesses, especially for our local SMEs.
-In this webinar, you will learn how to discover the number of potential customers that are searching for your products and services on Google and is it worth the effort or money to get your website rank on the top 5 of Google Search?
-<br><br>
+  <tbody><tr><td><strong><a href="https://www.eventbrite.com/e/visualising-data-future-of-work-registration-240784933217?aff=ebcollection&keep_tld=1" target="_blank">Visualizing Data | Future of Work</a></strong></td>
+  <td>Ever wondered how to present complex data in a simple manner? Join us to learn how you can present your data effectively using various visual techniques through data visualisation and make data-driven decisions at work.
+<br>
+<br>
+Speaker: Lim Ai Huey, Nanyang Polytechnic / Manager (Data Analytics)
+<br>
+<br>
+Ai Huey is a manager in Nanyang Polytechnic leading the Data Analytics team in the School of Information Technology. She is the course manager of the Specialist Diploma in Business & Big Data Analytics and handles various customised data analytics courses for companies. Both an Educator as well as developer, she has over 5 years of experience in conducting training in the area of data visualisation, machine learning and text analytics.
+
+<br>
+<br>
 This programme is suitable for Adults. <br>
 </td>
-  <td>15 Dec, 7pm - 8pm </td>
+  <td>21 Mar 2022, 7pm - 8pm </td>
   <td>Zoom</td>
   
 
