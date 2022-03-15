@@ -64,14 +64,15 @@ Read with your child to explore new topics and discover new experience.
         <td style="width: 20%;"><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849 " target="_blank"><b> #TellStory7 Award Edition </b></a></td>
         <td style="width: 40%;">Season 7 of #TellStory is back! Students from various groups will represent their schools and compete for several drama/acting awards! Travel with our youths through their dramatic interpretations of both classic and (some tummy tickling) original scripts devised and written by the students! 
 <br><br> Registration will open closer to the date.</td>
-<td style="width: 20%;"> 2 & 9 April 2022, 1pm – 5pm</td>
+        <td style="width: 20%;"> 2 & 9 April 2022, 1pm – 5pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-<td><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b> 线上导读绘本《找到了》</b></a></td>
-        <td>恬恬和阿德跟着婆婆和妈妈一起去看街戏。但在街戏开演前，婆婆和妈妈却发现他们两人不见了！婆婆和妈妈找遍了整个戏台，就是找不到他们。结果街戏开演了……</td>
-             <td style="width: 20%;"> 12 May 2022, 8pm – 10pm </td>
+ <td style="width: 20%;"><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b> 线上导读绘本《找到了》</b></a></td>
+         <td style="width: 40%;">恬恬和阿德跟着婆婆和妈妈一起去看街戏。但在街戏开演前，婆婆和妈妈却发现他们两人不见了！婆婆和妈妈找遍了整个戏台，就是找不到他们。结果街戏开演了……</td>
+         <td style="width: 20%;"> 12 May 2022, 8pm – 10pm </td>
         <td style="width: 20%;">Zoom</td>
+			</tr>
         <tr>
 <td><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849 " target="_blank"><b>My Island City: What Makes a Place Feel Like Home?</b></a></td>
         <td>This is an intergeneration online workshop for children to brainstorm and design their own home with their parents and grandparents.  There will be visual and written media on the built and natural environment of Singapore to inspire them.
