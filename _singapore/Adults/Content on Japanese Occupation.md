@@ -93,7 +93,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 </div>
 
-
+<div class= "col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-under-the-japanese">
+<span>Learning Package:<br> Liberation and Aftermath of War </span>
+</a>
+</div>
+</div>
+</div>
 
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
@@ -487,3 +494,34 @@ Retrieved from OverDrive (a <a
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="lp-japanese-occupation" class="margin--bottom--lg"><b> Japanese Occupation: Liberation and Aftermath of War </b></h5>
+
+<p> Japanese surrender in 1945 led to widespread jubilation. British military administration was soon set up to restore law and order during the immediate post-war period. Singapore faced severe food shortages, unemployment, overcrowded living conditions and insufficient healthcare. 
+</p>
+<b></b>
+<p> Dissatisfaction with the British government and a series of factors led to the political awakening amongst emerging young leaders with rising anti-colonial and nationalist sentiments. Violent unrests with labour and student riots, communal tensions and inter-ethnic conflicts marked the next two decades after the war.</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> The discovery of human remains at an area off Siglap Road in 1962 led to investigations and discovery of over 40 mass graves. The remains were later exhumed, cremated and reburied at the Civilian War Memorial monument.
+</li>
+</ul>
+</td>
+</tr</tbody></table>
+
+These curated set of articles and books are just the tip of a plethora of resources on the aftermath of war.
+
+<h4>Articles</h4>
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_874_2004-12-30.html" target="_blank"> Double Tenth trial by Wong, Heng</a></h5>
+<p> In a war crime trial between 18 March to 15 April 1946, 21 of the Kempeitai, military police arm of the Imperial Japanese Army, involved in the Double Tenth incident were charged for the atrocities they committed against 57 civilians whom they suspected were involved in a raid at Singapore Harbour. The raid had been carried out by Anglo-Australian commandos under codename Operation Jaywick.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_874_2004-12-30.html " target="_blank"> Double Tenth trial by Wong, Heng </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2022, March 16.
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_516_2004-12-23.html" target="_blank"> Civilian War Memorial by Cornelius-Takahama, Vernon</a></h5>
+
+<p> Located on a parkland along Beach Road and opposite Raffles City, the Civilian War Memorial is a gazetted national monument dedicated to civilians who perished during the Japanese Occupation of Singapore. The memorial was built on a burial chamber containing 606 urns of the remains of unknown civilians exhumed from more than 40 mass graves.
+</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_516_2004-12-23.html " target="_blank"> Civilian War Memorial by Cornelius-Takahama, Vernon </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2022, March 16.
