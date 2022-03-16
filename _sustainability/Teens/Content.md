@@ -55,7 +55,7 @@ Check out our **learning packages** to pick up tips and be prepared for future e
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
       <a href="#lp-stopdisasters">
-        <span>Learning Packages: Stop Disasters Game</span>
+        <span>Learning Packages:<br>Stop Disasters Game</span>
       </a>
     </div>
   </div>
