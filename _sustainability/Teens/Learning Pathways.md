@@ -26,7 +26,7 @@ third_nav_title: Teens
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3><b>Earthy Pursuits</b></h3>
+<h3><b>Among S(us)</b></h3>
 Be informed and make an impact to the environment.
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
