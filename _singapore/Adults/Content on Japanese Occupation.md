@@ -525,3 +525,48 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_874_2004-
 <p> Located on a parkland along Beach Road and opposite Raffles City, the Civilian War Memorial is a gazetted national monument dedicated to civilians who perished during the Japanese Occupation of Singapore. The memorial was built on a burial chamber containing 606 urns of the remains of unknown civilians exhumed from more than 40 mass graves.
 </p>
 Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_516_2004-12-23.html " target="_blank"> Civilian War Memorial by Cornelius-Takahama, Vernon </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2022, March 16.
+	
+<h4>eBook</h4>
+
+<h5> Conflict and violence in Singapore and Malaysia, 1945-1983 </h5>
+Clutterbuck, Richard. (2019). <i> Conflict and violence in Singapore and Malaysia, 1945-1983.</i> Abingdon: Routledge. <br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/4781842">
+<img style="width:200px;"
+src="/images/singapore-japanese-occupation/Clutterbuck.png"></a>
+<p> Originally published in 1984. Covers mainly the historical aspects of the revolutionary attempts in Singapore and Malaysia from 1940s to the 1960s.</p>
+<p><a href=" https://nlb.overdrive.com/media/4781842"
+target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
+<h4>Books</h4>
+
+<h5> With freedom to Singapore: a social & administrative assessment of post-war Singapore 1945-1950</h5>
+Gilmour, Oswald Wellington. (2020). <i> With freedom to Singapore: a social & administrative assessment of post-war Singapore 1945-1950. </i> [Place of publication not identified]: [Patrick Gilmour]. (Call no.: RSING 959.57023 GIL) 
+<br>
+<a 
+href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 205311719"
+target="_blank">
+<img src="/images/singapore-japanese-occupation/Oswald.png" style="width:200px;"></a>
+<p> An in-depth study of Singapore during the immediate post-war years between 1945-1950, covering the civil, political, and social aspects. First published in 1950. </p>
+
+<h5> My role in the rehabilitation of Singapore: 1946-1953</h5>
+Gilmour, Andrew. (1973). <i> My role in the rehabilitation of Singapore: 1946-1953. </i> Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.57024 GIL) 
+<br>
+<a 
+href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 4081677"
+target="_blank">
+<img src="/images/singapore-japanese-occupation/Gilmour.png" style="width:200px;"></a>
+<p> One of the oral history pilot studies by ISEAS. Focuses on Andrew Gilmour, "who was one of the chief architects of the reconstruction of Singapore's war-torn economy", with his recollections of the initial post-war years in Singapore. </p>
+
+<h5> Political development in Singapore, 1945-55 </h5>
+Yeo, Kim Wah. (1973). <i> Political development in Singapore, 1945-55. </i> Singapore: Singapore University Press. (Call no.: RSING 320.95957 YEO) 
+<br>
+<a 
+href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 433473"
+target="_blank">
+<img src="/images/singapore-japanese-occupation/Yeo.png" style="width:200px;"></a>
+<p> Originally presented as the author's thesis (M.A.), University of Singapore. Throws light on the origins of Singapore's independence movement. </p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
