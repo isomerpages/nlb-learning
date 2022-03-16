@@ -74,7 +74,7 @@ A collection of short videos and podcasts to inspire you as you make that all-im
   <div class="col is-three-fifths">
     <p><b>From 'Fun Holiday Job' to Zookeeper: Why This Young Woman Chose to Chase Her Passion (5 mins)</b><br>
     While looking for a fun holiday job, Delvinder Kaur never expected that it would turn out to be the career for her. Watch this video to see what she does as a zookeeper, and why she decided to make it her full-time job.</p>
-    <small>Source: https://www.youtube.com/watch?v=FNqYxS4SB7A (2020, Jan 12). Channel News Asia. Retrieved 2022, January 14<small>
+    <small>Source: https://www.youtube.com/watch?v=FNqYxS4SB7A (2020, Jan 12). Channel News Asia. Retrieved 2022, January 14</small>
   </div>
 </div>
 
