@@ -220,7 +220,7 @@ Every wondered how we got a picture of the Milky Way? Or how know it is spiral? 
 ![Beyond Our Planet Earth](/images/science-lfa-updates/beyond-our-planet-earth.jpg)
 <h5 class="margin--bottom--lg" id="lp-beyond-our-planet-earth"><b>Beyond Our Planet Earth</b></h5>
 <p> Explore how stories related to space and the solar system through a series of engaging discussions and activities. </p>
-<h4 id="Science-Tweens-Cakes-in-Space"><a href="/media/files/mediaDirectory/files/Science-Tweens-Cakes-in-Space.pdf" target="_blank"><b>Learn More</b></a></h4>
+<h4 id="Science-Tweens-Cakes-in-Space"><a href="https://childrenandteens.nlb.gov.sg/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Science-Fiction_Cakes-in-Space.PDF" target="_blank"><b>Learn More</b></a></h4>
 
 
 
