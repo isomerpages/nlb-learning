@@ -72,7 +72,7 @@ Check out our **learning package** for more on sustainable fishing.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="image-container" style="margin: auto;">
-			<a href="https://www.mewatch.sg/watch/Mind-Blown-E15-Clean-Singapore-253590"><img src="/images/sustainability/tweens/sus-tweens22q2-mindblown.png" alt="Mind Blown! S1 Clean Singapore" style="width: 30%;"></a>
+			<a href="https://www.mewatch.sg/watch/Mind-Blown-E15-Clean-Singapore-253590"><img src="/images/sustainability/tweens/sus-tweens22q2-mindblown.png" alt="Mind Blown! S1 Clean Singapore" style="width: 100%;"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
