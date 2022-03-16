@@ -47,14 +47,14 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
       <a href="#playlist-health">
-        <span>Playlist:<br>Healthcare</span>
+        <span>Playlist:<br>Future Planning</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
       <a href="#lp-email">
-        <span>Learning Package: Teen Things: Emailing 101</span>
+        <span>Learning Package: Time to Get Started!</span>
       </a>
     </div>
   </div>
@@ -63,18 +63,18 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
 <h3><b>Playlist</b></h3>
 A collection of short videos and podcasts to inspire you as you make that all-important decision on what career path to take.
 
-<h5 class="margin--bottom--lg" id="playlist-health"><b>Playlist: A Day in the Life of: Healthcare Professionals</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-health"><b>Playlist: A Day in the Life of: Dream Chasers</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/HsrG3INWx_g"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/FNqYxS4SB7A"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>On My Way!: A Day in the Life of a Surgeon (5 min)</b><br>
-    Join Dr Hamid Razak as he gives us a peek into the true life of a surgeon.</p>
-    <small>Source: On My Way!: A Day in the Life of a Surgeon - YouTube (2020, Dec 14). NYCSingapore. Retrieved 2021, October 22.</small>
+    <p><b>From 'Fun Holiday Job' to Zookeeper: Why This Young Woman Chose to Chase Her Passion (5 mins)</b><br>
+    While looking for a fun holiday job, Delvinder Kaur never expected that it would turn out to be the career for her. Watch this video to see what she does as a zookeeper, and why she decided to make it her full-time job.</p>
+    <small>Source: https://www.youtube.com/watch?v=FNqYxS4SB7A (2020, Jan 12). Channel News Asia. Retrieved 2022, January 14<small>
   </div>
 </div>
 
