@@ -97,8 +97,8 @@ This programme will be conducted in Malay.
 This programme will be conducted in Chinese.
 				 </td>
         <td>24 Apr 2022, <br> 5.30 - 7.30pm</td>
-        <td>Zoom</td>
-      </tr>
+				 <td>Zoom</td>
+			</tr>
 
 <tr>
 <td><a href=" https://www.eventbrite.com/e/in-award-winning-style-with-sivanantham-neelakandan-tickets-219127043887?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>In Award Winning Style </b></a></td>
@@ -106,7 +106,7 @@ This programme will be conducted in Chinese.
 	</td>
       <td>12 Jun 2022, <br>3 – 4.30pm</td>
         <td>Zoom</td> 
-					</tr>
+			</tr>
     </tbody>
   </table>
 </div>
