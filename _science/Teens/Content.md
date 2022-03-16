@@ -129,7 +129,7 @@ Going for a run, journaling, having a skincare routine – these are some of the
   <div class="col is-three-fifths">
     <p><b> The Science of Bath Bombs | Lab Muffin Beauty Science (4:15) </b><br>
 There’s more to a bath bomb than its multicoloured, fragrant exterior. 
-Learn about the acid-base chemistry that takes place right in your bathtub.  
+Learn about the acid-base chemistry that takes place right in your bathtub.  <br>
 <small> Source: The Science of Bath Bombs | Lab Muffin Beauty Science (2019, August 31). Lab Muffin Beauty Science. </small></p>
   </div>
 </div>
