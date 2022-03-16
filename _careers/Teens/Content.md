@@ -47,7 +47,7 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
       <a href="#playlist-health">
-        <span>Playlist:<br>Future Planning</span>
+        <span>Playlist:<br>A Day in the Life of: Dream Chasers</span>
       </a>
     </div>
   </div>
