@@ -37,14 +37,14 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/children/content" target="_blank"><b> Playlist<br>Save Our Earth</b></a></td>
-        <td style="width: 40%;"> Learn the importance of caring for our planet and how children can play their part.</td>
+        <td style="width: 20%;"><a href="/sustainability/children/content" target="_blank"><b> Playlist:<br>Wonderful Wildlife</b></a></td>
+        <td style="width: 40%;"> Find out more about the wonderful wildlife all around us, and what we can do to protect them.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://www.science.edu.sg/game/index.html" target="_blank"><b> Learning Package<br>Leaps and Bounds | Science Centre Singapore</b></a></td>
-        <td>Journey to the year 2050 and save the planet from climate change in this web game!</td>
+        <td><a href="https://abcya.com/games/recycling_game" target="_blank"><b> Learning Package:<br>Litter Critters | ABCya</b></a></td>
+        <td>Learn the basics of recycling with the Litter Critters! Sort trash into four different categories: recyclables, compost, electronic waste, and landfill waste. </td>
         <td></td>
         <td> </td>
       </tr>
