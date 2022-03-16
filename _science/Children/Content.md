@@ -55,10 +55,25 @@ Use these resources to introduce your child to science concepts!
       </a>
     </div>
   </div>
+	  <div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine ">
+      <a href="#inventions">
+        <span>Playlist:<br> Inventions </span>
+      </a>
+  </div>
+  </div>
+
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine ">
       <a href="#baking-chemistry">
         <span>Learning Package:<br>Baking Chemistry</span>
+      </a>
+    </div>
+  </div>
+	  <div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine ">
+      <a href="#diy-parachute-at-home">
+        <span>Learning Package:<br>Bring out the Inventor in You: D.I.Y. Parachute at Home! </span>
       </a>
     </div>
   </div>
@@ -149,6 +164,52 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
 <small>Source: Mythbusting Microwaves | December School Holidays Special (2021, December 18). Public Libraries Singapore. </small></p>
   </div>
 </div>
+
+<h5 id="inventions" class="margin--bottom--lg"><b>Playlist: Inventions </b></h5>
+Ever wondered who invented erasers, bridges, and the game chess? Find out the history behind useful and fun inventions and seek inspiration to become an inventor of your own through the videos below. 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/M9Pf1CBDmqQ " class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Invention of Eraser | Peekaboo Kidz (5:47) </b><br>
+Who invented erasers and how were they first used? Learn the facts with Dr. Binocs.
+ 
+<br>
+<small>Source: Invention of Eraser | Peekaboo Kidz (2022, February 18). Rajshri Entertainment Private Limited </small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/Jy_BYYma-CA " class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Science WHAAAAT? | Leonardo da Vinci Self-Supporting Bridge (4:17) </b><br>
+You might have heard of Da Vinci as the painter of Mona Lisa. He also invented bridges! Find out more from this video by Singapore Science Centre. 
+Create your own supporting bridge too!  <br>
+<small> Source: Science WHAAAAT? | Leonardo da Vinci Self-Supporting Bridge (2021, August 18). Singapore Science Centre </small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/YeB-1F-UKO0 " class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> A brief history of Chess - Alex Gendler | TED-Ed (5:39) </b><br>
+Did you know that chess was invented in India? Watch this video to find out the brief history of the game chess. <br> 
+<small> Source: A brief history of Chess - Alex Gendler | TED-Ed (2019, September 12) TED-Ed</small></p>
+  </div>
+</div>
+
+
 <h3><b>Learning Package</b></h3>
 Spark your child’s curiosity in science literacy through engaging activities and articles.
 
