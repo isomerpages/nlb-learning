@@ -69,17 +69,17 @@ Explore new experiences through the written word.
       </tr>
 
 <tr>
-<td><a href=" https://www.eventbrite.sg/e/one-story-21-tickets-198075528237" target="_blank"><b>[ONE STORY 21] Online sharing and discussion for secondary school students | உயர்நிலைப் பள்ளி மாணவர்களுக்கான கதை கலந்துரையாடல் </b></a></td>
-        <td>A book discussion of the story, Razi by Dr Sa’edah Buang, for secondary school students. This discussion will be conducted in Tamil and facilitated by an invited author. Borrow the eBook (available in 4 languages – English, Malay, Tamil & Chinese) at https://go.gov.sg/onestoryebook. </td>
-      <td>16 Jan 2022, <br>11am – 12.30pm</td>
+<td><a href=" https://www.eventbrite.sg/e/henry-david-thoreaus-walden-how-to-fall-in-love-with-classics-registration-207873534337?aff=ebdsoporgprofile" target="_blank"><b>Henry David Thoreau’s Walden | How to Fall in Love with Classics </b></a></td>
+        <td>Gwee Li Sui will look into Thoreau’s guiding philosophy and the continuing charm this work presents to our technological society.</td>
+      <td>28 Apr 2022, <br>7 – 8.30pm</td>
         <td>Zoom</td>
       </tr>
 
 <tr>
-<td><a href="https://www.eventbrite.sg/e/storytelling-today-the-masterstroke-of-horror-storytelling-registration-210935954117?aff=ebdsoporgprofile" target="_blank"><b>Storytelling Today | The Masterstroke of Horror Storytelling</b></a></td>
-        <td>There is a good reason horror stories are so popular, with adults and children alike - they help us escape to another world with hearts pounding and blood rushes. Learn about horror tropes and nuances of fear that authors Suffian Hakim & Tunku Halim deploy in their creations. </td>
-        <td>28 Feb 2022, <br>8pm – 9pm</td>
-        <td>Zoom</td>
+<td><a href="https://www.eventbrite.sg/e/curators-tour-mapping-the-world-exhibition-tickets-225987252957?aff=ebdsoporgprofile" target="_blank"><b>Curator's Tour | Mapping the World Exhibition</b></a></td>
+        <td>Join the curators of the exhibition Mapping the World, Chung Sang Hong and Chia Jie Lin, on a special tour. </td>
+        <td>5 May 2022, <br>7pm – 8pm</td>
+        <td>National Library</td>
 			</tr>
     </tbody>
   </table>
