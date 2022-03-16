@@ -60,7 +60,7 @@ Check out our **learning package** for tips on plastic-free snacking.
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
       <a href="#lp-endangered">
-        <span>Learning Package: Snack Plastic-Free</span>
+        <span>Learning Package: The Fish Game</span>
       </a>
     </div>
   </div>
@@ -113,7 +113,7 @@ How does the Earth stay warm enough for us to live in? Check out this video by N
 <h3><b>Learning Packages</b></h3>
 Articles that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-endangered"><b>Kids vs Plastic: Tips for Plastic-Free Snacking | National Geographic Kids</b></h5>
-Feeling peckish? <a target="_blank" href="https://www.nationalgeographic.com/pdf/kids/photos/articles/Nature/H-P/KidsVsPlastic/plastic-free-party.pdf">Take a bite on the green side</a>!
+<h5 class="margin--bottom--lg" id="lp-endangered"><b>The Fish Game | The Cloud Institute for Sustainable Education</b></h5>
+Are you a sustainable fisherman? Find out if the fish in the ocean will run out before you finish <a target="_blank" href="https://fishgame.cloudinstitute.org">this game</a>!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
