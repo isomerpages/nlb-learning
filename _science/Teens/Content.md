@@ -41,28 +41,28 @@ third_nav_title: Teens
 Revel in the possibilities of science through resources and content.
 
 <div class="row is-multiline">
-  <div class="col is-one-half">
+  <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine ">
       <a href="#science-beyond-school">
         <span>Playlist:<br>Science Beyond School, Really?</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-half">
+  <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine ">
       <a href="#fermentation-station">
         <span>Learning Package:<br>Teen.Things: Fermentation Station: Food All Around Us</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-half">
+  <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine ">
       <a href="#self-care-science">
         <span>Playlist:<br>Self-Care Science</span>
       </a>
     </div>
 	</div>
-	  <div class="col is-one-half">
+	  <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine ">
       <a href="#video-game-science">
         <span>Learning Package:<br>Video Game Science: A Portal to Physics</span>
