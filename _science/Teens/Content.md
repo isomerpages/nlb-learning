@@ -116,6 +116,53 @@ Discover the adaptations that allow cacti to not only survive, but thrive, in so
 <small> Source: Nature's fortress: How cacti keep water in and predators out - Lucas C. Majure - YouTube (2021, November 19). TED-Ed. Retrieved 2021, December 24.</small></p>
   </div>
 </div>
+<h5 id=" self-care-science " class="margin--bottom--lg"><b>Playlist: Self-Care Science</b></h5>
+Going for a run, journaling, having a skincare routine – these are some of the things we do to care for ourselves. What’s the science behind our favourite techniques?  
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/UT1qWPeY5mA " class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> The Science of Bath Bombs | Lab Muffin Beauty Science (4:15) </b><br>
+There’s more to a bath bomb than its multicoloured, fragrant exterior. 
+Learn about the acid-base chemistry that takes place right in your bathtub.  
+<small> Source: The Science of Bath Bombs | Lab Muffin Beauty Science (2019, August 31). Lab Muffin Beauty Science. </small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/JMd1CcGZYwU " class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> The Science of Gratitude (2:07) </b><br>
+When was the last time you thought about what you were grateful for? 
+Watch this video to discover how tapping into thankfulness can rewire your mind, resulting in a boost of happiness and health! <br>
+<small> Source: The Science of Gratitude (2016, October 7). Tremendousness. </small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/BHY0FxzoKZE " class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Wendy Suzuki: The brain-changing benefits of exercise | TED (13:02) </b><br>
+Sweaty, exhausting, and… life-changing?
+Join neuroscientist Wendy Suzuki as she dives deep into the positive, permanent effects exercise has on your brain. <br>
+<small> Source: Wendy Suzuki: The brain-changing benefits of exercise | TED (2018, March 21). TED. </small></p>
+  </div>
+</div>
+
+
+
 
 <h3><b>Learning Package</b></h3>
 <p>Articles that will give you an insight into various concepts.</p>
