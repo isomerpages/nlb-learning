@@ -61,15 +61,6 @@ Check out our **learning packages** to pick up tips and be prepared for future e
   </div>
   </div>
 
-<a name="id9">![Think Green, Go Green header](/images/sustainability/teens/tt-header-green.png){:target="_blank"}</a>
-#### **Think Green, Go Green!**
-
-Engage with the world around you and pick up eco-friendly habits by repurposing the things you already have. Become part of a global initiative to combat climate change by making small lifestyle changes and adopting greener practices.
-
-It’s often difficult to know where to begin, and you may feel like a small seed whose efforts make little difference. Don’t be discouraged! There are many things you can do, and most importantly, it is to get started.
-
-Here are some resources to help you develop environmental mindfulness ☺️
-
 <h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.</p>
 
