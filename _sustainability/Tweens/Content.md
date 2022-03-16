@@ -111,7 +111,7 @@ How does the Earth stay warm enough for us to live in? Check out this video by N
 
 
 <h3><b>Learning Packages</b></h3>
-Articles that show us interesting ways to live sustainably.
+Articles/resources that show us interesting ways to live sustainably.
 
 <h5 class="margin--bottom--lg" id="lp-endangered"><b>The Fish Game | The Cloud Institute for Sustainable Education</b></h5>
 Are you a sustainable fisherman? Find out if the fish in the ocean will run out before you finish <a target="_blank" href="https://fishgame.cloudinstitute.org">this game</a>!
