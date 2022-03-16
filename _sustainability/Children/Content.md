@@ -109,10 +109,10 @@ Follow Robert Irwin on a tour of the wildlife hospital at the Australia Zoo!</p>
 <br>
 
 
-<h3><b>Learning Packages</b></h3>
+<h3 class="margin--bottom--lg" id="lp-littercritters"><b>Learning Packages</b></h3>
 Articles/resources that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-littercritters"><b>Litter Critters | ABCya</b></h5>
+<h5><b>Litter Critters | ABCya</b></h5>
 
 Learn the basics of recycling with the Litter Critters! Sort trash into four different categories: recyclables, compost, electronic waste, and landfill waste. <a target="_blank" href="https://abcya.com/games/recycling_game">Play the game here!</a>
 
