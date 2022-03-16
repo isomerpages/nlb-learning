@@ -76,7 +76,7 @@ Check out our **learning package** for more on sustainable fishing.
   </div>
   <div class="col is-three-fifths">
     <p><b class="has-text-indigo">Mind Blown! S1 Clean Singapore (23 min)</b><br>
-Singapore is known to be a clean city. But are we hiding an ugly secret? Check out this episode of Mind Blown! to find out about Singapore’s littering problem. </p>
+Singapore is known to be a clean city but not without its littering problems. Check out this episode of <i>Mind Blown!</i> to find out more about how Singapore manages its plastic waste.</p>
    <small>Source: Mind Blown! S1 Clean Singapore – MeWatch (date unknown). MeWatch. Retrieved 2022, March 15.</small>
   </div>
 </div>
