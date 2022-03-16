@@ -51,14 +51,14 @@ Check out our **learning package** for more on sustainable fishing.
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#playlist-recycling">
+      <a href="#playlist-pollutionsolution">
         <span>Playlist:<br>Pollution Solution</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-endangered">
+      <a href="#lp-fishgame">
         <span>Learning Package: The Fish Game</span>
       </a>
     </div>
@@ -66,7 +66,7 @@ Check out our **learning package** for more on sustainable fishing.
   </div>
 
 
-<h5 class="margin--bottom--lg" id="playlist-recycling"><b>Playlist: Pollution Solution</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-pollutionsolution"><b>Playlist: Pollution Solution</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -112,7 +112,7 @@ Have you ever been shocked awake by the sound of a car horn? Check out this vide
 <h3><b>Learning Packages</b></h3>
 Articles/resources that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-endangered"><b>The Fish Game | The Cloud Institute for Sustainable Education</b></h5>
+<h5 class="margin--bottom--lg" id="lp-fishgame"><b>The Fish Game | The Cloud Institute for Sustainable Education</b></h5>
 Are you a sustainable fisherman? Find out if the fish in the ocean will run out before you finish <a target="_blank" href="https://fishgame.cloudinstitute.org">this game</a>!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
