@@ -139,8 +139,8 @@ Publisher: New Harbinger Publications, 2017<br>
 
 Do you procrastinate? And if so, what's your procrastination type? In this fun and illustrated guide, author Jennifer Shannon blends acceptance and commitment therapy (ACT) and cognitive behavioral strategies to help you recognize your procrastination habits, discover the strengths of your unique procrastination type, and find the motivation you need to meet important deadlines and reach your highest goals.
 
-Synopsis from [Harper Collins](https://www.harpercollins.com/){:target="_blank" }.
+Synopsis from [New Harbinger](https://www.newharbinger.com/9781626255876/a-teens-guide-to-getting-stuff-done/)
 
-The book covers and synopses are the copyright of the respective publishing companies. (All websites were last accessed on 8 October 2021.)
+The book covers and synopses are the copyright of the respective publishing companies. (All websites were last accessed on 16 March 2022.)
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
