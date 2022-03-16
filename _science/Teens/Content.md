@@ -172,5 +172,9 @@ Join neuroscientist Wendy Suzuki as she dives deep into the positive, permanent 
 <p> Mould, yeast, and bacteria. These are three ingredients which create a delicious meal. 
 Whether it’s that fragrant egg and onion thosai (savoury thin pancake) you had for supper, or a mouth-watering bowl of suan cai yu (pickled fish stew) from your favourite stall, many things we consume daily are made with the help of microorganisms. </p>
 <h4 id="fermentation-station"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things" target="_blank"><b>Learn More</b></a><h4>
+	
+![Video Game Science](/images/science-lfa-updates/video-game-science.png)
+<h5 class="margin--bottom--lg" id=" video-game-science "><b> Video Game Science: A Portal to Physics </b></h5>
+
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
