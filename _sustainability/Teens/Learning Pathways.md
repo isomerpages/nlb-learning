@@ -37,14 +37,14 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/teens/content" target="_blank"><b> Playlist<br>Think Green, Go Green</b></a></td>
-        <td style="width: 40%;"> Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.</td>
+        <td style="width: 20%;"><a href="/sustainability/teens/content" target="_blank"><b> Playlist:<br>Clean & Green</b></a></td>
+        <td style="width: 40%;">Explore the impact of waste on the planet and ways we can keep our environment clean.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id2" target="_blank"><b> Learning Package<br>Deep Dive Into Marine Biodiversity</b></a></td>
-        <td>Learn how biodiversity is intimately related to our daily lives and how we can continue to care for the world around us.</td>
+        <td><a href="https://www.stopdisastersgame.org/stop_disasters" target="_blank"><b> Learning Package:<br>Stop Disasters Game | UN Office for Disaster Risk Reduction</b></a></td>
+        <td>A sustainable future will require us to plan for future environmental crises, whether they are floods, hurricanes, wildfires, tsunamis, or earthquakes! Are you prepared?</td>
         <td></td>
         <td></td>
       </tr>
