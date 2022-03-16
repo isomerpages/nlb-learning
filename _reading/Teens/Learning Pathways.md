@@ -105,8 +105,7 @@ This programme will be conducted in Malay.
         <td>Teens will learn more about award winning authors (local and overseas), their distinctive styles and how they captivate readers and have established themselves as one of the best Tamil fiction writers in current times. This programme will be conducted in Tamil.
 	</td>
       <td>12 Jun 2022, <br>3 – 4.30pm</td>
-        <td>Zoom</td>
-      </tr>
+        <td>Zoom</td> 
 		
     </tbody>
   </table>
