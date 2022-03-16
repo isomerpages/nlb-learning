@@ -74,54 +74,53 @@ Here are some resources to help you develop environmental mindfulness ☺️
 <p>Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.</p>
 
 <h5 class="margin--bottom--lg" id="playlist-gogreen"><b>Playlist: Think Green, Go Green</b></h5>
-Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/JYZpxRy5Mfg"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/p7LDk4D3Q3U"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Underwater Farms vs. Climate Change – Ayana Elizabeth Johnson and Megan Davis (5 min)</b><br>
-What does a sustainable way to farm seafood really look like? This video examines the aquaculture industry and the unintended problems it creates for the natural ocean ecosystems.</p>
+    <p><b class="has-text-indigo">The Turning Point (4 min)</b><br>
+What if humans and animals swapped places? “The Turning Point” is an animated short that explores the harmful effect of waste on our environment, climate change, and species extinction, from a different perspective.</p>
 
-   <small>Source: Underwater farms vs Climate Change – Ayana Elizabeth Johnson and Megan Davis – YouTube (2019, June 13). TED-Ed. Retrieved 2022, January 11.</small>
+   <small>Source: The Turning Point – YouTube (2020, Jan 20). Steve Cutts. Retrieved 2022, 11 March.</small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/z-Ng5ZvrDm4"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/b9XiobGsWvY"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo"> Dear Alice (2 min)</b><br>
-What will an optimistic vision of the future of farming look like? Dear Alice is an animated short about green agriculture told through a love letter from a grandmother to a granddaughter.</p>
-    <small>Source: Dear Alice – YouTube (2021, July 13). THE LINE. Retrieved 2021, January 11.</small>
+<p><b class="has-text-indigo">He Made A Floating Hotel from Trash (5 min)</b><br>
+Off the Ivory Coast in Africa is a floating island resort being held up just by plastic waste. Find out how an ugly eyesore of plastic bottles got transformed into an eco-friendly hotel resort in this video. </p>
+    <small>Source: He Made A Floating Hotel from Trash – YouTube (2021, Jul 5). Nas Daily. Retrieved 2022, 11 March.</small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/HEiMWxVEAxE"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/UoH2-TlcDrU"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">The Most Eco-Friendly Schools | Green Schools Around the World (6 min)</b><br>
-    From sustainable architecture to environmental education, these schools promote an understanding of how to be more eco-friendly. This video features the Green School in Bali, the Copenhagen International School and the Punahou School Hawaii.</p>
-    <small>Source: The Most Eco-Friendly Schools | Green Schools Around the World – YouTube (2021, April 4). Going Green. Retrieved 2022, January 11.</small>
+    <p><b class="has-text-indigo">What’s the best fuel for your car? (5 min)</b><br>
+What are the differences between gasoline, electric, biofuels, and electrofuels, and which is the most sustainable to power our transportation? This video examines clean energy options that are both affordable and environmentally friendly.</p>
+		<small>Source: What's the best fuel for your car? – YouTube (2021, Mar 22). TED-Ed. Retrieved 2022, 11 March.</small>
   </div>
 </div>
 <br>
 
 <h3 class="margin--bottom--lg" id="lp-gogreen"><b>Learning Packages</b></h3>
-Articles that show us interesting ways to live sustainably.
+Articles/resources that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-biodiversity"><b>Deep Dive Into Marine Biodiversity | Teen.Things</b></h5>
+<h5 class="margin--bottom--lg" id="lp-biodiversity"><b>Stop Disasters Game | UN Office for Disaster Risk Reduction</b></h5>
 
-Learn how biodiversity is intimately related to our daily lives and how we can continue to care for the world around us <a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id2">here</a>!
+A sustainable future will require us to plan for future environmental crises, whether they are floods, hurricanes, wildfires, tsunamis, or earthquakes!  <a target="_blank" href="https://www.stopdisastersgame.org/stop_disasters">Are you prepared?</a>
 
 
 
