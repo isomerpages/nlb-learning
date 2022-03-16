@@ -59,7 +59,7 @@ Check out our **learning package** for a fun web game that teaches you about cli
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
       <a href="#lp-leaps">
-        <span>Learning Package: Leaps and Bounds</span>
+        <span>Learning Package: Litter Critters</span>
       </a>
     </div>
   </div>
