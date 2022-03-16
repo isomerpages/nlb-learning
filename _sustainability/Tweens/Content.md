@@ -48,7 +48,6 @@ Check out our **playlist** to find out how we can make a better Earth together.
 
 Check out our **learning package** for more on sustainable fishing.
 
-
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
