@@ -55,10 +55,24 @@ Use these resources to introduce your child to science concepts!
       </a>
     </div>
   </div>
+	  <div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine ">
+      <a href="#playlist-beyond-our-planet-earth">
+        <span>Playlist:<br> Beyond Our Planet Earth </span>
+      </a>
+   </div>
+  </div>
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine ">
       <a href="#baking-chemistry">
         <span>Learning Package:<br>Baking Chemistry</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine ">
+      <a href="#lp-beyond-our-planet-earth">
+        <span>Learning Package:<br>Beyond Our Planet Eath</span>
       </a>
     </div>
   </div>
@@ -149,6 +163,52 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
 <small>Source: Mythbusting Microwaves | December School Holidays Special (2021, December 18). Public Libraries Singapore. </small></p>
   </div>
 </div>
+<h5 id="playlist-beyond-our-planet-earth" class="margin--bottom--lg"><b>Playlist: Beyond Our Planet Earth </b></h5>
+Feed your curiosity and learn about the solar system and beyond in this out of the world playlist! 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/E6qqF5PKInw" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Planets of Our Solar System | Planets for Kids | Learn interesting facts about the planets (18:33) </b><br>
+Learn more about the enormous planets orbiting around the sun, their size, orbit times, and other interesting facts in this video!
+ 
+<small> Source: Planets of Our Solar System | Planets for Kids | Learn interesting facts about the planets (2021,3 September). Learn Bright. </small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/ErUZVWUP0c4 " class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Everything About Solar System | Solar System Explained | The Dr Binocs Show
+(2852) </b><br>
+Join Dr Binocs as we take a closer look at our solar system and galaxy. Learn more about the fallen planet and why we don’t feel when the earth is revolving. 
+<small> Source: Everything About Solar System | Solar System Explained | The Dr Binocs Show | Peekaboo Kidz (2021, 28 September). Peekaboo Kidz. </small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/w5LEtILN8vI " class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> The Milky way Galaxy Facts | How do we know our Galaxy is spiral? (9:31) </b><br>
+Every wondered how we got a picture of the Milky Way? Or how know it is spiral? Learn more as they dive into the wonderful facts of the Milky Way. 
+
+<small>Source: The Milky way Galaxy Facts | How do we know our Galaxy is spiral? (2021, 7 September). Think Tank. </small></p>
+  </div>
+</div>
+
+
+
 <h3><b>Learning Package</b></h3>
 <p>Spark your child’s curiosity in science literacy through engaging activities and articles.</p>
 
