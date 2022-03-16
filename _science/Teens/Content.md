@@ -116,7 +116,7 @@ Discover the adaptations that allow cacti to not only survive, but thrive, in so
 <small> Source: Nature's fortress: How cacti keep water in and predators out - Lucas C. Majure - YouTube (2021, November 19). TED-Ed. Retrieved 2021, December 24.</small></p>
   </div>
 </div>
-<h5 id="self-care-science" class="margin--bottom--lg">Playlist: Self-Care Science</h5>
+<h5 id="self-care-science" class="margin--bottom--lg"><b>Playlist: Self-Care Science</b></h5>
 Going for a run, journaling, having a skincare routine – these are some of the things we do to care for ourselves. What’s the science behind our favourite techniques?  
 
 <br>
