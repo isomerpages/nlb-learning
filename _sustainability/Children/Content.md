@@ -46,7 +46,7 @@ Learn the importance of caring for our planet and how children can play their pa
 
 Check out our **playlist** for a collection of short videos/podcasts highlighting the importance of sustainability. 
 
-Check out our **learning package** for a fun web game that teaches you about climate change.
+Check out our **learning package** for a fun web game that teaches you about recycling.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
