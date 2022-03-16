@@ -215,5 +215,14 @@ Every wondered how we got a picture of the Milky Way? Or how know it is spiral? 
 <h5 class="margin--bottom--lg" id="baking-chemistry" ><b> Stay Curious with Your Child: Baking Chemistry!</b></h5>
 <p> Make chemistry come alive at home by trying out this hands-on baking experiment with your child! </p>
 <h4 id="scwyc-baking-chemistry"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b>Learn More</b></a></h4>
+<br>
+
+![Beyond Our Planet Earth](/images/science-lfa-updates/beyond-our-planet-earth.jpg)
+<h5 class="margin--bottom--lg" id="lp-beyond-our-planet-earth"><b>Beyond Our Planet Earth</b></h5>
+<p> Explore how stories related to space and the solar system through a series of engaging discussions and activities. </p>
+<h4 id="Science-Tweens-Cakes-in-Space"><a href="/media/files/mediaDirectory/files/Science-Tweens-Cakes-in-Space.pdf" target="_blank"><b>Learn More</a></h4>
+
+
+
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
