@@ -49,19 +49,19 @@ Revel in the possibilities of science through resources and content.
     </div>
   </div>
   <div class="col is-one-third">
+		<div class="clickbox is-thoughtful-tangerine ">
+      <a href="#self-care-science">
+        <span>Playlist:<br>Self-Care Science</span>
+				    </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine ">
       <a href="#fermentation-station">
         <span>Learning Package:<br>Teen.Things: Fermentation Station: Food All Around Us</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-thoughtful-tangerine ">
-      <a href="#self-care-science">
-        <span>Playlist:<br>Self-Care Science</span>
-      </a>
-    </div>
-	</div>
 	  <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine ">
       <a href="#video-game-science">
