@@ -182,7 +182,8 @@ Whether it’s that fragrant egg and onion thosai (savoury thin pancake) you had
 <p>According to players, this crossbreeding algorithm mimics Mendelian inheritance (Source: [Discover Magazine](https://www.discovermagazine.com/technology/the-hidden-science-behind-2020s-biggest-video-games), 2020), whereby various traits such as a flower’s colour are a result of a mix of dominant and recessive alleles. (Source: [I Saw the Science](https://blog.science.edu.sg/2020/07/23/animal-crossing/), 2020)</p>
 
 <p>Even Pokémon’s creators were inspired by theories of evolution and parasitism. Check out this video on how science makes an appearance in this beloved game:
-     <iframe src=" https://www.youtube.com/embed/xGvvulC1EDk " class="responsive-iframe"></iframe>
+<div class="bp-youtube">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/xGvvulC1EDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Source: [Pokemon & Science, Did You Know Gaming?](https://www.youtube.com/embed/xGvvulC1EDk)
 	
@@ -200,15 +201,18 @@ Using these laws, various differential equations determined by forces and geomet
 
 Take a look at this video to see how physics is utilised when building a racing game:
 
-     <iframe src=" https://www.youtube.com/embed/Xz8RRxYwrhg " class="responsive-iframe"></iframe>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xz8RRxYwrhg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 	
 Source: [The Physics of Racing Games, Real Engineering](https://www.youtube.com/embed/Xz8RRxYwrhg)
 
 So, why isn’t physics always realistic in gameplay? First, it’s impossible to perfectly simulate real-world physics — there are just too many factors that can’t be accounted for. Second, a physics-defying game makes for more exciting gameplay.
 
 In the game Portal, you’re able to use a gun to create portals which you or objects can travel through. Over the years, questions from players have been emerging on how the laws of physics would fare through teleportation. Can you solve one of these paradoxes?
-
-     <iframe src=" https://www.youtube.com/embed/B19nlhbA7-E " class="responsive-iframe"></iframe>
+	
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B19nlhbA7-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+	
 Source: [The Portal Paradox, Minute Physics](https://www.youtube.com/embed/B19nlhbA7-E)
 If you’d like to try your hand at a physics simulator, head to [My Physics Lab](https://www.myphysicslab.com/). This site offers 50 different simulations, where you’ll be able to edit the variables of the objects to get different results. 
 
