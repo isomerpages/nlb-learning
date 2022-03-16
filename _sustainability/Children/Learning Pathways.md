@@ -26,7 +26,7 @@ third_nav_title: Children
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3><b>Save Our Earth</b></h3>
+<h3><b>Protect Wildlife, Protect Earth</b></h3>
 Go green with your child to build an eco-friendly future together.
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
