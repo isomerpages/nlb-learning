@@ -109,30 +109,37 @@ Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br>
 <h3><b>Learning Package</b></h3>
 Get a glimpse of what it takes to achieve your aspirations with these articles and activities.
 
-<h5 class="margin--bottom--lg" id="lp-email"><b>Teen Things: Emailing 101</b></h5>
-So you’ve just been assigned to email an organisation for a school project or a Values in Action (VIA) programme, or maybe you have to apply for an internship.
+<h5 class="margin--bottom--lg" id="lp-email"><b>Time to Get Started!</b></h5>
 
-If you aren’t quite sure what goes into formal emails, we’re here to help you out! [Check out](/files/TeenThings-Email101.pdf){:target="_blank" } some tips and tricks on writing emails that are sure to impress.
+It’s a brand new year – and the perfect time to begin planning out activities that can help forge your future path. Whether it’s during term time or during the holidays, here’s how you can get started on your future aspirations. 
 
-**Here are a few more resources from the library to help you write better:**
+Part 1: Discover Yourself and Explore What’s Out There!
+Unsure of where to start? Getting to know yourself a little bit better is a great first step, like knowing what you excel in, or knowing what sort of lifestyle you would like to live.
 
-<h5 class="margin--bottom--lg"><b>100 Ways to Improve Your Writing</b></h5>
+Take the time to do quizzes like these: [Know Yourself ](https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment.html). Just log in (based on which school you are in) and get started to find out about your interests, skills, values and learning styles. 
+
+Take a look at what is available from platforms such as these: [Singapore Industry Landscape](https://www.myskillsfuture.gov.sg/content/student/en/preu/world-of-work/industry-landscape.html) for a better idea of what future roles and responsibilities might suit you. Knowing where you could be headed is a great starting point to planning the steps you will need to take to get there.
+
+Remember that all these tools are here to guide you along and not to instruct you, so answer honestly and don’t feel pressured. Some jobs in the future might not even currently be available yet as the world is always changing! 
+
+**Check out this book for more ideas on how to get started: **
+
+<h5 class="margin--bottom--lg"><b>A Teen's Guide to Getting Stuff Done: Discover Your Procrastination Type, Stop Putting Things Off, And Reach Your Goals</b></h5>
 
 <div class="row is-multiline">
   <div class="col is-half">
-    <img src="/images/career/teens/cover-teen-things-1.jpg" alt="100 Ways to Improve Your Writing">
+    <img src="/images/" alt="A Teen's Guide to Getting Stuff Done">
   </div>
 </div>
 
-Author: Gary Provost<br>
-Publisher: Berkley Books, 2019<br>
-Only available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/4264951){:target="_blank" }.
 
-This is the one guide that anyone who writes—whether student, businessperson, or professional writer—should keep on his or her desk. Filled with professional tips and a wealth of instructive examples, 100 Ways to Improve Your Writing can help solve any writing problem.
 
-In this compact, easy-to-use volume you’ll find the eternal building blocks of good writing—from grammar and punctuation to topic sentences—as well as advice on challenges such as writer’s block and creating a strong title. It is a must-have resource—perfect for reading cover to cover, or just for keeping on hand for instant reference—now updated and refreshed for the first time.
+Author: Jennifer Shannon<br>
+Publisher: New Harbinger Publications, 2017<br>
 
-Synopsis from [Penguin](https://www.penguin.com.au/){:target="_blank" }.
+Do you procrastinate? And if so, what's your procrastination type? In this fun and illustrated guide, author Jennifer Shannon blends acceptance and commitment therapy (ACT) and cognitive behavioral strategies to help you recognize your procrastination habits, discover the strengths of your unique procrastination type, and find the motivation you need to meet important deadlines and reach your highest goals.
+
+Synopsis from 
 
 <h5 class="margin--bottom--lg"><b>Eliza and Her Monsters</b></h5>
 
