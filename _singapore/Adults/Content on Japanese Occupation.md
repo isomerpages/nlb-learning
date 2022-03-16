@@ -546,7 +546,7 @@ href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">
 Gilmour, Oswald Wellington. (2020). <i> With freedom to Singapore: a social & administrative assessment of post-war Singapore 1945-1950. </i> [Place of publication not identified]: [Patrick Gilmour]. (Call no.: RSING 959.57023 GIL) 
 <br>
 <a 
-href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 205311719"
+href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205311719"
 target="_blank">
 <img src="/images/singapore-japanese-occupation/Oswald.png" style="width:200px;"></a>
 <p> An in-depth study of Singapore during the immediate post-war years between 1945-1950, covering the civil, political, and social aspects. First published in 1950. </p>
@@ -555,7 +555,7 @@ target="_blank">
 Gilmour, Andrew. (1973). <i> My role in the rehabilitation of Singapore: 1946-1953. </i> Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.57024 GIL) 
 <br>
 <a 
-href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 4081677"
+href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081677"
 target="_blank">
 <img src="/images/singapore-japanese-occupation/Gilmour.png" style="width:200px;"></a>
 <p> One of the oral history pilot studies by ISEAS. Focuses on Andrew Gilmour, "who was one of the chief architects of the reconstruction of Singapore's war-torn economy", with his recollections of the initial post-war years in Singapore. </p>
@@ -564,7 +564,7 @@ target="_blank">
 Yeo, Kim Wah. (1973). <i> Political development in Singapore, 1945-55. </i> Singapore: Singapore University Press. (Call no.: RSING 320.95957 YEO) 
 <br>
 <a 
-href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 433473"
+href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=433473"
 target="_blank">
 <img src="/images/singapore-japanese-occupation/Yeo.png" style="width:200px;"></a>
 <p> Originally presented as the author's thesis (M.A.), University of Singapore. Throws light on the origins of Singapore's independence movement. </p>
