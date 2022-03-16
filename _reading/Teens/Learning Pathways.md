@@ -81,6 +81,13 @@ Explore new experiences through the written word.
         <td>5 May 2022, <br>7pm – 8pm</td>
         <td>National Library</td>
 			</tr>
+			 <tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/di-sebalik-tabir-insan-istimewa-di-kaca-televisyen-one-story-project-registration-292248080877?aff=ebdsoporgprofile" target="_blank"><b> Di Sebalik Tabir: Insan Istimewa di Kaca Televisyen | One Story Project</b></a></td>
+        <td> Join the writers as they discuss the writing processes through emotional memory and ruminations in observing the world.</td>
+        <td>19 Apr 2022, <br> 7pm - 8pm</td>
+        <td>Zoom</td>
+      </tr>
+			
     </tbody>
   </table>
 </div>
