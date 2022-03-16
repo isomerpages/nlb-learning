@@ -18,7 +18,7 @@ Revel in the possibilities of science through resources and content.
 		<div class="clickbox is-thoughtful-tangerine">
       <a href="#self-care-science">
         <span>Playlist:<br>Self-Care Science</span>
-				    </a>
+		  </a>
     </div>
   </div>
 	<div class="col is-one-third">
@@ -137,11 +137,12 @@ Join neuroscientist Wendy Suzuki as she dives deep into the positive, permanent 
 <h5 id="fermentation-station" class="margin--bottom--lg"><b> Teen.Things: Fermentation Station: Food All Around Us </b></h5>
 <p> Mould, yeast, and bacteria. These are three ingredients which create a delicious meal. 
 Whether it’s that fragrant egg and onion thosai (savoury thin pancake) you had for supper, or a mouth-watering bowl of suan cai yu (pickled fish stew) from your favourite stall, many things we consume daily are made with the help of microorganisms. </p>
-<h4 id="fermentation-station"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things"><b>Learn More</b></a></h4><h4>
-
+<h4 id="fermentation-station"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things"><b>Learn More</b></a></h4>
+<br>
+<br>
 <img alt="Video Game Science" src="/images/science-lfa-updates/video-game-science.png">
 	
-</h4><h5 id="video-game-science" class="margin--bottom--lg"><b> Video Game Science: A Portal to Physics </b></h5>
+<h5 id="video-game-science" class="margin--bottom--lg"><b> Video Game Science: A Portal to Physics </b></h5>
 
 <p> When we think of everyday science, we might picture the obvious — electricity which keeps appliances running, potted plants which undergo photosynthesis, and so on. But what about video games? </p>
 
