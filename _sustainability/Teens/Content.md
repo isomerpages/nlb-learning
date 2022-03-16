@@ -40,22 +40,22 @@ third_nav_title: Teens
 
 Sustainability will be a breeze once you’re done with these learning packages and playlists.
 
-Check out our **playlist** for insights into the intricacies of environmental issues and be inspired to live more sustainably..
+Check out our **playlist** to explore the impact of waste on the planet and ways we can keep our environment clean.
 
-Check out our **learning packages** to learn how marine biodiversity is intimately related to our daily lives.
+Check out our **learning packages** to pick up tips and be prepared for future environmental crises.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
       <a href="#playlist-gogreen">
-        <span>Playlist:<br>Think Green, Go Green</span>
+        <span>Playlist:<br>Clean & Green</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
       <a href="#lp-biodiversity">
-        <span>Learning Packages: Marine Biodiversity and Us</span>
+        <span>Learning Packages: Stop Disasters Game</span>
       </a>
     </div>
   </div>
