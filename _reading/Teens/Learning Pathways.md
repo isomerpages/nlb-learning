@@ -94,7 +94,7 @@ This programme will be conducted in Malay.
         <td style="width: 20%;"><a href="https://go.gov.sg/sgwritings " target="_blank"><b> 随笔南洋读书会导读本地校园小说《中四》</b></a></td>
         <td>校园小说《中四》的主人公是家中独子，追求独立自由，一边又渴望被了解、被接受。爸妈什么都给他最好的，却不是他想要的。他和父母开始疏离，在学校混到中四，成绩差得可以。爸妈要他重读，他却想走自己的路……
 				 
-				 This programme will be conducted in Chinese.
+This programme will be conducted in Chinese.
 				 </td>
         <td>24 Apr 2022, <br> 5.30 - 7.30pm</td>
         <td>Zoom</td>
@@ -106,6 +106,7 @@ This programme will be conducted in Malay.
 	</td>
       <td>12 Jun 2022, <br>3 – 4.30pm</td>
         <td>Zoom</td> 
+</tr>
 		
     </tbody>
   </table>
