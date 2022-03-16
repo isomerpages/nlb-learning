@@ -109,11 +109,9 @@ What are the differences between gasoline, electric, biofuels, and electrofuels,
 <h3 class="margin--bottom--lg" id="lp-stopdisasters"><b>Learning Packages</b></h3>
 Articles/resources that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-stopdisasters"><b>Stop Disasters Game | UN Office for Disaster Risk Reduction</b></h5>
+<h5><b>Stop Disasters Game | UN Office for Disaster Risk Reduction</b></h5>
 
 A sustainable future will require us to plan for future environmental crises, whether they are floods, hurricanes, wildfires, tsunamis, or earthquakes!  <a target="_blank" href="https://www.stopdisastersgame.org/stop_disasters">Are you prepared?</a>
-
-
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
