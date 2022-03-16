@@ -128,7 +128,7 @@ Remember that all these tools are here to guide you along and not to instruct yo
 
 <div class="row is-multiline">
   <div class="col is-half">
-    <img src="/images/" alt="A Teen's Guide to Getting Stuff Done">
+    <img src="/images/Career/Teens/teens-guide.png" alt="A Teen's Guide to Getting Stuff Done">
   </div>
 </div>
 
