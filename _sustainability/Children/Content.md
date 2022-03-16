@@ -52,7 +52,7 @@ Check out our **learning package** for a fun web game that teaches you about rec
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
       <a href="#playlist-wonderfulwildlife">
-        <span>Playlist:<br>Wondeful Wildlife</span>
+        <span>Playlist:<br>Wonderful Wildlife</span>
       </a>
     </div>
   </div>
