@@ -47,14 +47,14 @@ Check out our **learning packages** to pick up tips and be prepared for future e
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#playlist-gogreen">
+      <a href="#playlist-cleangreen">
         <span>Playlist:<br>Clean & Green</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-biodiversity">
+      <a href="#lp-stopdisasters">
         <span>Learning Packages: Stop Disasters Game</span>
       </a>
     </div>
@@ -64,7 +64,7 @@ Check out our **learning packages** to pick up tips and be prepared for future e
 <h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.</p>
 
-<h5 class="margin--bottom--lg" id="playlist-gogreen"><b>Playlist: Think Green, Go Green</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-cleangreen"><b>Playlist: Clean & Green</b></h5>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -106,10 +106,10 @@ What are the differences between gasoline, electric, biofuels, and electrofuels,
 </div>
 <br>
 
-<h3 class="margin--bottom--lg" id="lp-gogreen"><b>Learning Packages</b></h3>
+<h3 class="margin--bottom--lg" id="lp-stopdisasters"><b>Learning Packages</b></h3>
 Articles/resources that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-biodiversity"><b>Stop Disasters Game | UN Office for Disaster Risk Reduction</b></h5>
+<h5 class="margin--bottom--lg" id="lp-stopdisasters"><b>Stop Disasters Game | UN Office for Disaster Risk Reduction</b></h5>
 
 A sustainable future will require us to plan for future environmental crises, whether they are floods, hurricanes, wildfires, tsunamis, or earthquakes!  <a target="_blank" href="https://www.stopdisastersgame.org/stop_disasters">Are you prepared?</a>
 
