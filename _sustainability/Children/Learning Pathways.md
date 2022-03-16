@@ -79,33 +79,16 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>MiniYOGI</b></a></td>
-        <td style="width: 40%;">Have a fun and relaxing morning with your little ones through the story of Yoga. Breathe, stretch and do some yoga poses with the beautiful MiniYOGI cards.</td>
-        <td style="width: 20%;">14 Mar 2022, <br>11-11.45am</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-			<tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>My Art Buddy</b></a></td>
-        <td style="width: 40%;">Use your creativity to make engineered works of art.</td>
-        <td style="width: 20%;">16 Mar 2022, 10am-12.30pm</td>
-        <td style="width: 20%;">Bishan Public Library</td>
-      </tr>
-			<tr>
-        <td style="width: 20%;"></td>
-        <td style="width: 40%;"></td>
-        <td style="width: 20%;">17 Mar 2022, 10am-1pm</td>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/build-a-hot-air-balloon-toa-payoh-public-library-registration-274029298007?aff=ebdssbdestsearch" target="_blank"><b>Build a Hot Air Balloon!</b></a></td>
+        <td style="width: 40%;">In this hands-on workshop by My Art Buddy, participants will learn to build a prototype of a hot air balloon.</td>
+        <td style="width: 20%;">18 Mar 2022, 10.30am-12.30pm</td>
         <td style="width: 20%;">Toa Payoh Public Library</td>
       </tr>
 			<tr>
-        <td style="width: 20%;"></td>
-        <td style="width: 40%;"></td>
-        <td style="width: 20%;">18 Mar 2022, 10am-12pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library</td>
-      </tr>
-			<tr>
-        <td style="width: 20%;"></td>
-        <td style="width: 40%;"></td>
-        <td style="width: 20%;">17 Mar 2022, 1pm-3pm</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/build-a-playground-with-recyclables-toa-payoh-public-library-registration-274031283947?aff=ebdssbdestsearch" target="_blank"><b>Build a Playground with Recyclables!</b></a></td>
+        <td style="width: 40%;">In this hands-on workshop by My Art Buddy, participants will learn to build a prototype of a playground structure.
+</td>
+        <td style="width: 20%;">18 Mar 2022, 1.30pm-3.30pm</td>
         <td style="width: 20%;">Toa Payoh Public Library</td>
       </tr>
      </tbody>
