@@ -88,14 +88,8 @@ Be informed and make an impact to the environment.
       <tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/cckpl" target="_blank"><b>CCKPL: Unplugged</b></a></td>
         <td style="width: 40%;">Want to take a break and unwind over some tabletop games? During Unplugged, set aside your digital devices, and be introduced to a variety of games for you to kick back and have a good time!</td>
-        <td style="width: 20%;">4 Mar 2022<br>&<br>18 Mar 2022,<br>3-5pm</td>
+        <td style="width: 20%;">18 Mar 2022,<br>3-5pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library</td>
-      </tr>
-			<tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Fusion 360 for Beginners</b></a></td>
-        <td style="width: 40%;">Join 8059 Blank as they conduct an online hands-on workshop aimed at introducing children and teenagers to the basic concepts of computer-aided 3D design.<br><br>Participants will be required to download free trial softwares for the workshop.</td>
-        <td style="width: 20%;">12 Mar 2022,<br>10am-12pm</td>
-        <td style="width: 20%;">Zoom</td>
       </tr>
   </tbody>
   </table>
