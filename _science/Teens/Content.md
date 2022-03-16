@@ -176,5 +176,44 @@ Whether it’s that fragrant egg and onion thosai (savoury thin pancake) you had
 ![Video Game Science](/images/science-lfa-updates/video-game-science.png)
 <h5 class="margin--bottom--lg" id=" video-game-science "><b> Video Game Science: A Portal to Physics </b></h5>
 
+<p> When we think of everyday science, we might picture the obvious — electricity which keeps appliances running, potted plants which undergo photosynthesis, and so on. But what about video games? </p>
+
+<p> Many video games are full of scientific elements. Take the popular game Animal Crossing: New Horizons, for example. In this game, you can fill your day-to-day activities with crafting, trading, and even crossbreeding flowers!</p>
+<p>According to players, this crossbreeding algorithm mimics Mendelian inheritance (Source: [Discover Magazine](https://www.discovermagazine.com/technology/the-hidden-science-behind-2020s-biggest-video-games), 2020), whereby various traits such as a flower’s colour are a result of a mix of dominant and recessive alleles. (Source: [I Saw the Science](https://blog.science.edu.sg/2020/07/23/animal-crossing/), 2020)</p>
+
+<p>Even Pokémon’s creators were inspired by theories of evolution and parasitism. Check out this video on how science makes an appearance in this beloved game:
+     <iframe src=" https://www.youtube.com/embed/xGvvulC1EDk " class="responsive-iframe"></iframe>
+
+Source: [Pokemon & Science, Did You Know Gaming?](https://www.youtube.com/embed/xGvvulC1EDk)
+	
+But there’s a bigger way science is present in almost all games. It forms one of the foundational elements a game is built on — its physics.
+	
+While gaming, if you’ve ever thrown an object or flown through the air, you might have experienced a game’s physics engine in play. This engine is a programme which creates a simulation of how objects move based on the laws of physics.
+	
+One of the more popular effects that game engines simulate is something called rigid body dynamics. According to [Brown University]( https://www.brown.edu/Departments/Engineering/Courses/En4/notes_old/RigidKinematics/rigkin.htm), rigid body dynamics is “an idealisation of a body that does not deform or change shape.”
+
+Simply put, it is the way in which solid and inflexible objects move. Humans, pets, buses, and trains are all examples of rigid bodies. 
+
+Rigid body dynamics can be simulated using the basis of Newton’s laws of motion: the law of inertia, the law of mass and acceleration, and the law of motion. (Source: [Toptal]( https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics), 2015)
+
+Using these laws, various differential equations determined by forces and geometry can be created (Source: [My Physics Lab](https://www.myphysicslab.com/)). The physics engine then uses these equations to generate iterations of object movement, such as a car moving or a cat walking. 
+
+Take a look at this video to see how physics is utilised when building a racing game:
+
+     <iframe src=" https://www.youtube.com/embed/Xz8RRxYwrhg " class="responsive-iframe"></iframe>
+	
+Source: [The Physics of Racing Games, Real Engineering](https://www.youtube.com/embed/Xz8RRxYwrhg)
+
+So, why isn’t physics always realistic in gameplay? First, it’s impossible to perfectly simulate real-world physics — there are just too many factors that can’t be accounted for. Second, a physics-defying game makes for more exciting gameplay.
+
+In the game Portal, you’re able to use a gun to create portals which you or objects can travel through. Over the years, questions from players have been emerging on how the laws of physics would fare through teleportation. Can you solve one of these paradoxes?
+
+     <iframe src=" https://www.youtube.com/embed/B19nlhbA7-E " class="responsive-iframe"></iframe>
+Source: [The Portal Paradox, Minute Physics](https://www.youtube.com/embed/B19nlhbA7-E)
+If you’d like to try your hand at a physics simulator, head to [My Physics Lab](https://www.myphysicslab.com/). This site offers 50 different simulations, where you’ll be able to edit the variables of the objects to get different results. 
+
+You can also download [Steampunk Puzzle](https://apps.apple.com/us/app/steampunk-puzzle-physics-game/id1211978586) [Physics Game]( https://play.google.com/store/apps/details?id=com.Revampsoft.Steampunk_Puzzle&hl=en_SG&gl=US), a free-to-play app where you aim to get a ball to its container using realistic physics laws. 
+
+While taking a break from your console, why not get up to speed with these books on physics?
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
