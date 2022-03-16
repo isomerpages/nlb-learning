@@ -59,7 +59,7 @@ Check out our **learning package** for more on sustainable fishing.
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
       <a href="#lp-fishgame">
-        <span>Learning Package: The Fish Game</span>
+        <span>Learning Package:<br>The Fish Game</span>
       </a>
     </div>
   </div>
