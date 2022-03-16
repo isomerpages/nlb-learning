@@ -139,24 +139,6 @@ Publisher: New Harbinger Publications, 2017<br>
 
 Do you procrastinate? And if so, what's your procrastination type? In this fun and illustrated guide, author Jennifer Shannon blends acceptance and commitment therapy (ACT) and cognitive behavioral strategies to help you recognize your procrastination habits, discover the strengths of your unique procrastination type, and find the motivation you need to meet important deadlines and reach your highest goals.
 
-Synopsis from 
-
-<h5 class="margin--bottom--lg"><b>Eliza and Her Monsters</b></h5>
-
-<div class="row is-multiline">
-  <div class="col is-half">
-    <img src="/images/career/teens/cover-eliza-and-her-monster-1.jpg" alt="Eliza and Her Monsters">
-  </div>
-</div>
-
-Call No.: Y ZAP<br>
-Publisher: Greenwillow Books, 2017<br>
-Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/library/teens/media/2948046){:target="_blank" }.
-
-In the real world, Eliza Mirk is shy, weird, and friendless. Online, Eliza is LadyConstellation, anonymous creator of a popular webcomic called Monstrous Sea. With millions of followers and fans throughout the world, Eliza’s persona is popular. Eliza can’t imagine enjoying the real world as much as she loves her digital community.
-
-Then Wallace Warland transfers to her school and Eliza begins to wonder if a life offline might be worthwhile. But when Eliza’s secret is accidentally shared with the world, everything she’s built—her story, her relationship with Wallace, and even her sanity—begins to fall apart.
-
 Synopsis from [Harper Collins](https://www.harpercollins.com/){:target="_blank" }.
 
 The book covers and synopses are the copyright of the respective publishing companies. (All websites were last accessed on 8 October 2021.)
