@@ -122,35 +122,26 @@ This programme will be conducted in Malay.
     <tbody>
       <tr>
       <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/videography-starter-session-woodlands-regional-library-makeit-registration-272474557737?aff=ebdsoporgprofile" target="_blank"><b> Videography Starter Session @ Woodlands Regional Library | MakeIT</b></a></td>
-        <td style="width: 40%;"> Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.</td>
+        <td style="width: 40%;"> Want to make a video to share online but don't know where to start? Join this videographer starter session to find out more!</td>
+				 <td> 10 Apr 2022,<br>4 – 7pm</td>
+        <td> Woodlands Regional Library</td>
       <td style="width: 20%;"> </td>
      <td style="width: 20%;"> </td>
       </tr>
 <tr>
-<td><a href=" https://www.eventbrite.sg/e/cckpl-unplugged-registration-230187495997?aff=ebdsoporgprofile" target="_blank"><b> CCKPL: Unplugged</b></a></td>
-        <td>Want to take a break and unwind over some tabletop games? During Unplugged, set aside your digital devices and have fun with a variety of games. For children and teens to attend with friends and family.</td>
-        <td> 14 Jan 2022,<br>3pm – 5pm</td>
-        <td> Choa Chu Kang Public Library</td>
-      </tr>
-
-<tr>
-<td><a href=" https://www.eventbrite.sg/e/discover-discord-workshop-digilit-teens-takeover-registration-223173837957?aff=odcleoeventsincollection" target="_blank"><b> Discover Discord Workshop | digi.lit | Teens Takeover</b></a></td>
-        <td> Learn how to use Discord to connect with global communities, join interest-based servers, and pick up tips to start your own server!</td>
-        <td> 15 Jan 2022,<br>2pm – 3.30pm</td>
-        <td> Zoom</td>
-      </tr>
-<tr>
-<td><a href=" https://www.eventbrite.sg/e/resume-writing-skills-part-1-get-professional-registration-221273353557?aff=ebdsoporgprofile" target="_blank"><b> Resume Writing Skills (Part 1) | Get Professional</b></a></td>
-        <td> Discover resume-writing skills that are relevant for today's job applications and how recruiters review resumes. </td>
-        <td> 18 Jan 2022,<br>7pm – 9pm</td>
+<td><a href=" https://www.eventbrite.sg/e/archives-invites-dr-marcus-tan-and-lim-ting-li-the-sounds-of-singapore-tickets-292312874677?aff=ebdsoporgprofile" target="_blank"><b> Archives Invites: Dr Marcus Tan and Lim Ting Li – The Sounds of Singapore</b></a></td>
+        <td>Dr Marcus Tan and Lim Ting Li will explore soundscapes as a way of understanding Singapore’s culture and everyday life.</td>
+        <td> 19 Apr 2022,<br>6 – 7pm</td>
         <td> Zoom</td>
       </tr>
 
 <tr>
-<td><a href=" https://www.eventbrite.sg/e/cckpl-tweenkerama-urban-farming-workshop-sustainability-registration-200716306877?aff=ebdsoporgprofile" target="_blank"><b> CCKPL: Tweenkerama - Urban Farming Workshop | Sustainability</b></a></td>
-        <td> Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. For children and teens aged 10-13. </td>
-        <td> 24 Jan 2022,<br>4pm – 5pm</td>
-        <td> Choa Chu Kang Public Library</td>
+<td><a href=" https://www.eventbrite.sg/e/forests-and-mammals-that-return-in-singapore-tickets-289017006647?aff=ebdsoporgprofile" target="_blank"><b> Forests and Mammals that Return in Singapore</b></a></td>
+        <td> Learn how we can facilitate the recovery of forests and wildlife in Singapore.</td>
+        <td> 26 Apr 2022,<br>7.30 – 8.30pm</td>
+        <td> Zoom</td>
+      </tr>
+
       </tr>
   </tbody>
   </table>
