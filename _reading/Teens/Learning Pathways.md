@@ -106,7 +106,7 @@ This programme will be conducted in Chinese.
 	</td>
       <td>12 Jun 2022, <br>3 – 4.30pm</td>
         <td>Zoom</td> 
-		
+					</tr>
     </tbody>
   </table>
 </div>
