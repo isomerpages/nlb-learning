@@ -109,10 +109,10 @@ Have you ever been shocked awake by the sound of a car horn? Check out this vide
 <br>
 
 
-<h3><b>Learning Packages</b></h3>
+<h3 class="margin--bottom--lg" id="lp-fishgame"><b>Learning Packages</b></h3>
 Articles/resources that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-fishgame"><b>The Fish Game | The Cloud Institute for Sustainable Education</b></h5>
+<h5><b>The Fish Game | The Cloud Institute for Sustainable Education</b></h5>
 Are you a sustainable fisherman? Find out if the fish in the ocean will run out before you finish <a target="_blank" href="https://fishgame.cloudinstitute.org">this game</a>!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
