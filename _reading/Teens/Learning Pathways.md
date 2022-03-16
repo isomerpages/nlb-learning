@@ -62,10 +62,10 @@ Explore new experiences through the written word.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/writing-the-city-crafting-short-fiction-with-crispin-rodrigues-registration-220538746327?aff=ebdsoporgprofile " target="_blank"><b> Writing the City: Crafting Short Fiction with Crispin Rodrigues</b></a></td>
-        <td> A good short story can still pack a pretty good punch, despite its brief form. Explore the intricacies of crafting a short story in this workshop with author and poet, Crispin Rodrigues. </td>
-        <td>15 Jan 2022, <br> 2pm - 4pm</td>
-        <td>Toa Payoh Public Library</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/head2head-stories-through-memories-imagination-registration-207899812937?aff=ebdsoporgprofile " target="_blank"><b> Head2Head | Stories Through Memories & Imagination</b></a></td>
+        <td> Join the writers as they discuss the writing processes through emotional memory and ruminations in observing the world.</td>
+        <td>19 Apr 2022, <br> 7pm - 8pm</td>
+        <td>Zoom</td>
       </tr>
 
 <tr>
