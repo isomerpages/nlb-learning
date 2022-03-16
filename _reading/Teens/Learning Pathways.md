@@ -83,11 +83,31 @@ Explore new experiences through the written word.
 			</tr>
 			 <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/di-sebalik-tabir-insan-istimewa-di-kaca-televisyen-one-story-project-registration-292248080877?aff=ebdsoporgprofile" target="_blank"><b> Di Sebalik Tabir: Insan Istimewa di Kaca Televisyen | One Story Project</b></a></td>
-        <td> Join the writers as they discuss the writing processes through emotional memory and ruminations in observing the world.</td>
-        <td>19 Apr 2022, <br> 7pm - 8pm</td>
+        <td> Apakah peranan yang dimainkan media dan pelakon dalam mewakili suara para individu istimewa ? Sesi ini akan mengetengahkan seorang penulis skrip dan seorang pelakon.
+
+This programme will be conducted in Malay.
+</td>
+        <td>16 Apr 2022, <br> 2 - 4pm</td>
         <td>Zoom</td>
       </tr>
-			
+			 <tr>
+        <td style="width: 20%;"><a href="https://go.gov.sg/sgwritings " target="_blank"><b> 随笔南洋读书会导读本地校园小说《中四》</b></a></td>
+        <td>校园小说《中四》的主人公是家中独子，追求独立自由，一边又渴望被了解、被接受。爸妈什么都给他最好的，却不是他想要的。他和父母开始疏离，在学校混到中四，成绩差得可以。爸妈要他重读，他却想走自己的路……
+				 
+				 This programme will be conducted in Chinese.
+				 </td>
+        <td>24 Apr 2022, <br> 5.30 - 7.30pm</td>
+        <td>Zoom</td>
+      </tr>
+
+<tr>
+<td><a href=" https://www.eventbrite.com/e/in-award-winning-style-with-sivanantham-neelakandan-tickets-219127043887?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>In Award Winning Style </b></a></td>
+        <td>Teens will learn more about award winning authors (local and overseas), their distinctive styles and how they captivate readers and have established themselves as one of the best Tamil fiction writers in current times. This programme will be conducted in Tamil.
+	</td>
+      <td>12 Jun 2022, <br>3 – 4.30pm</td>
+        <td>Zoom</td>
+      </tr>
+		
     </tbody>
   </table>
 </div>
@@ -101,7 +121,7 @@ Explore new experiences through the written word.
     </thead>
     <tbody>
       <tr>
-      <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank"><b> S.T.E.A.M. Lab Mini</b></a></td>
+      <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/videography-starter-session-woodlands-regional-library-makeit-registration-272474557737?aff=ebdsoporgprofile" target="_blank"><b> Videography Starter Session @ Woodlands Regional Library | MakeIT</b></a></td>
         <td style="width: 40%;"> Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.</td>
       <td style="width: 20%;"> </td>
      <td style="width: 20%;"> </td>
