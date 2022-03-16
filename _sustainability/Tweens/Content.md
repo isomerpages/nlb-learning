@@ -46,7 +46,7 @@ Use these resources to introduce your child to sustainability and caring for the
 
 Check out our **playlist** for a collection of short videos/podcasts for tips on recycling. 
 
-Check out our **learning package** for tips on plastic-free snacking.
+Check out our **learning package** for more on sustainable fishing.
 
 
 <div class="row is-multiline">
