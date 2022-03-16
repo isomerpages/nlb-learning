@@ -86,7 +86,7 @@ A collection of short videos and podcasts to inspire you as you make that all-im
   </div>
   <div class="col is-three-fifths">
     <p><b>
-2.	Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br>
+Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br>
     From chasing her passions to opening up her own family bakery, this owner of local bakery, Puffs and Peaks, shares the choices she made that shaped her path into the food industry.</p>
     <small>Source: https://www.youtube.com/watch?v=kqqm8j_p2w0  (2021, May 21). Youthtopia SG. Retrieved 2022, January 14</small>
   </div>
