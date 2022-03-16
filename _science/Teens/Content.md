@@ -55,7 +55,22 @@ Revel in the possibilities of science through resources and content.
       </a>
     </div>
   </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-thoughtful-tangerine ">
+      <a href="#self-care-science">
+        <span>Playlist:<br>Self-Care Science</span>
+      </a>
+    </div>
+	</div>
+	  <div class="col is-one-half">
+    <div class="clickbox is-thoughtful-tangerine ">
+      <a href="#video-game-science">
+        <span>Learning Package:<br>Video Game Science: A Portal to Physics</span>
+      </a>
+    </div>
+  </div>
 </div>
+
 
 <h3><b>Playlist</b></h3>
 <p>A collection of short videos/podcasts to spark your interests in science concepts.</p>
