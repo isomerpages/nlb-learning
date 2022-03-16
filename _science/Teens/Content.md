@@ -174,7 +174,8 @@ Whether it’s that fragrant egg and onion thosai (savoury thin pancake) you had
 <h4 id="fermentation-station"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things" target="_blank"><b>Learn More</b></a><h4>
 	
 ![Video Game Science](/images/science-lfa-updates/video-game-science.png)
-<h5 class="margin--bottom--lg" id=" video-game-science "><b> Video Game Science: A Portal to Physics </b></h5>
+	
+<h5 class="margin--bottom--lg" id="video-game-science"><b> Video Game Science: A Portal to Physics </b></h5>
 
 <p> When we think of everyday science, we might picture the obvious — electricity which keeps appliances running, potted plants which undergo photosynthesis, and so on. But what about video games? </p>
 
@@ -187,15 +188,16 @@ Whether it’s that fragrant egg and onion thosai (savoury thin pancake) you had
 
 Source: [Pokemon & Science, Did You Know Gaming?](https://www.youtube.com/embed/xGvvulC1EDk)
 	
-But there’s a bigger way science is present in almost all games. It forms one of the foundational elements a game is built on — its physics.
+<p>But there’s a bigger way science is present in almost all games. It forms one of the foundational elements a game is built on — its physics.</p>
 	
-While gaming, if you’ve ever thrown an object or flown through the air, you might have experienced a game’s physics engine in play. This engine is a programme which creates a simulation of how objects move based on the laws of physics.
-	
-One of the more popular effects that game engines simulate is something called rigid body dynamics. According to [Brown University]( https://www.brown.edu/Departments/Engineering/Courses/En4/notes_old/RigidKinematics/rigkin.htm), rigid body dynamics is “an idealisation of a body that does not deform or change shape.”
+<p>While gaming, if you’ve ever thrown an object or flown through the air, you might have experienced a game’s physics engine in play. This engine is a programme which creates a simulation of how objects move based on the laws of physics.</p>
 
-Simply put, it is the way in which solid and inflexible objects move. Humans, pets, buses, and trains are all examples of rigid bodies. 
+One of the more popular effects that game engines simulate is something called rigid body dynamics. According to [Brown University]( https://www.brown.edu/Departments/Engineering/Courses/En4/notes_old/RigidKinematics/rigkin.htm), rigid body dynamics is “an idealisation of a body that does not deform or change shape.” 
+
+<p>Simply put, it is the way in which solid and inflexible objects move. Humans, pets, buses, and trains are all examples of rigid bodies. </p>
 
 Rigid body dynamics can be simulated using the basis of Newton’s laws of motion: the law of inertia, the law of mass and acceleration, and the law of motion. (Source: [Toptal]( https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics), 2015)
+
 
 Using these laws, various differential equations determined by forces and geometry can be created (Source: [My Physics Lab](https://www.myphysicslab.com/)). The physics engine then uses these equations to generate iterations of object movement, such as a car moving or a cat walking. 
 
@@ -206,14 +208,15 @@ Take a look at this video to see how physics is utilised when building a racing 
 	
 Source: [The Physics of Racing Games, Real Engineering](https://www.youtube.com/embed/Xz8RRxYwrhg)
 
-So, why isn’t physics always realistic in gameplay? First, it’s impossible to perfectly simulate real-world physics — there are just too many factors that can’t be accounted for. Second, a physics-defying game makes for more exciting gameplay.
+<p>So, why isn’t physics always realistic in gameplay? First, it’s impossible to perfectly simulate real-world physics — there are just too many factors that can’t be accounted for. Second, a physics-defying game makes for more exciting gameplay.</p>
 
-In the game Portal, you’re able to use a gun to create portals which you or objects can travel through. Over the years, questions from players have been emerging on how the laws of physics would fare through teleportation. Can you solve one of these paradoxes?
+<p>In the game Portal, you’re able to use a gun to create portals which you or objects can travel through. Over the years, questions from players have been emerging on how the laws of physics would fare through teleportation. Can you solve one of these paradoxes?</p>
 	
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B19nlhbA7-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 	
 Source: [The Portal Paradox, Minute Physics](https://www.youtube.com/embed/B19nlhbA7-E)
+
 If you’d like to try your hand at a physics simulator, head to [My Physics Lab](https://www.myphysicslab.com/). This site offers 50 different simulations, where you’ll be able to edit the variables of the objects to get different results. 
 
 You can also download [Steampunk Puzzle](https://apps.apple.com/us/app/steampunk-puzzle-physics-game/id1211978586) [Physics Game]( https://play.google.com/store/apps/details?id=com.Revampsoft.Steampunk_Puzzle&hl=en_SG&gl=US), a free-to-play app where you aim to get a ball to its container using realistic physics laws. 
