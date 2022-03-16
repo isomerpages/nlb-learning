@@ -51,14 +51,14 @@ Check out our **learning package** for a fun web game that teaches you about rec
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#playlist-earth">
+      <a href="#playlist-wonderfulwildlife">
         <span>Playlist:<br>Wondeful Wildlife</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-leaps">
+      <a href="#lp-littercritters">
         <span>Learning Package: Litter Critters</span>
       </a>
     </div>
@@ -66,7 +66,7 @@ Check out our **learning package** for a fun web game that teaches you about rec
   </div>
 
 
-<h5 class="margin--bottom--lg" id="playlist-earth"><b>Playlist: Wonderful Wildlife</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-wonderfulwildlife"><b>Playlist: Wonderful Wildlife</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -112,7 +112,7 @@ Follow Robert Irwin on a tour of the wildlife hospital at the Australia Zoo!</p>
 <h3><b>Learning Packages</b></h3>
 Articles/resources that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-leaps"><b>Litter Critters | ABCya</b></h5>
+<h5 class="margin--bottom--lg" id="lp-littercritters"><b>Litter Critters | ABCya</b></h5>
 
 Learn the basics of recycling with the Litter Critters! Sort trash into four different categories: recyclables, compost, electronic waste, and landfill waste. <a target="_blank" href="https://abcya.com/games/recycling_game">Play the game here!</a>
 
