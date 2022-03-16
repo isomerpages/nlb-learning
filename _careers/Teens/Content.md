@@ -122,7 +122,7 @@ Take a look at what is available from platforms such as these: [Singapore Indust
 
 Remember that all these tools are here to guide you along and not to instruct you, so answer honestly and don’t feel pressured. Some jobs in the future might not even currently be available yet as the world is always changing! 
 
-**Check out this book for more ideas on how to get started: **
+**Check out this book for more ideas on how to get started:**
 
 <h5 class="margin--bottom--lg"><b>A Teen's Guide to Getting Stuff Done: Discover Your Procrastination Type, Stop Putting Things Off, And Reach Your Goals</b></h5>
 
