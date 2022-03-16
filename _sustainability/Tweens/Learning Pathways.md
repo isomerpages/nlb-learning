@@ -38,13 +38,13 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/tweens/content" target="_blank"><b> Playlist<br>Pollution Solution</b></a></td>
+        <td style="width: 20%;"><a href="/sustainability/tweens/content" target="_blank"><b> Playlist:<br>Pollution Solution</b></a></td>
         <td style="width: 40%;">Pollution seems inevitable in our modern cities – find out some things we can do as a solution!</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="https://fishgame.cloudinstitute.org" target="_blank"><b> Learning Package<br>The Fish Game | The Cloud Institute for Sustainable Education</b></a></td>
+        <td><a href="https://fishgame.cloudinstitute.org" target="_blank"><b> Learning Package:<br>The Fish Game | The Cloud Institute for Sustainable Education</b></a></td>
         <td>Are you a sustainable fisherman? Find out if the fish in the ocean will run out before you finish this game!</td>
         <td></td>
         <td></td>
