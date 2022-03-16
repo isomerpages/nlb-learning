@@ -42,9 +42,9 @@ third_nav_title: Tweens
 Use these resources to introduce your child to sustainability and caring for the environment.
 
 <h3 class="margin--bottom--lg"><b>Playlist</b></h3>
-<p>Get inspired to recycle and repurpose trash into treasure!</p>
+<p>Pollution seems inevitable in our modern cities – but did you know there are solutions?</p>
 
-Check out our **playlist** for a collection of short videos/podcasts for tips on recycling. 
+Check out our **playlist** to find out how we can make a better Earth together. 
 
 Check out our **learning package** for more on sustainable fishing.
 
@@ -53,7 +53,7 @@ Check out our **learning package** for more on sustainable fishing.
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
       <a href="#playlist-recycling">
-        <span>Playlist:<br>D.I.Y Recycling</span>
+        <span>Playlist:<br>Pollution Solution</span>
       </a>
     </div>
   </div>
@@ -67,18 +67,18 @@ Check out our **learning package** for more on sustainable fishing.
   </div>
 
 
-<h5 class="margin--bottom--lg" id="playlist-recycling"><b>Playlist: D.I.Y. Recycling</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-recycling"><b>Playlist: Pollution Solution</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/xx36XIu2hNA"></iframe>
+    <div class="image-container" style="margin: auto;">
+			<a href="https://www.mewatch.sg/watch/Mind-Blown-E15-Clean-Singapore-253590"><img src="/images/sustainability/tweens/sus-tweens22q2-mindblown.png" alt="Mind Blown! S1 Clean Singapore" style="width: 30%;"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Getting Grandma To Go Zero-Waste and Plastic-Free (6 min)</b><br>
-How do we convince our grandparents to pick up recycling habits? Follow Emma and her grandma, Mildred, as they embark on a 7-day zero-waste challenge.</p>
-   <small>Source: Getting Grandma To Go Zero-Waste And Plastic-Free | On The Red Dot | CNA Insider – YouTube (2018, July 7). CNA Insider. Retrieved 2022, January 11.</small>
+    <p><b class="has-text-indigo">Mind Blown! S1 Clean Singapore (23 min)</b><br>
+Singapore is known to be a clean city. But are we hiding an ugly secret? Check out this episode of Mind Blown! to find out about Singapore’s littering problem. </p>
+   <small>Source: Mind Blown! S1 Clean Singapore – MeWatch (date unknown). MeWatch. Retrieved 2022, March 15.</small>
   </div>
 </div>
 
@@ -89,22 +89,22 @@ How do we convince our grandparents to pick up recycling habits? Follow Emma and
     </div>
   </div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo">How Plastic Hurts the World (5 min)</b><br>
-Why are we so concerned about recycling plastic? Learn more about plastic and its effect on the world with Jessi from SciShow Kids.</p>
-    <small>Source: How Plastic Hurts the World – YouTube (2018, May 2). SciShow Kids. Retrieved 2022, January 11.</small>
+<p><b class="has-text-indigo">Mind Blown! S1 Plastic (23 min)</b><br>
+Ever wonder how we can use plastic in more sustainable way? This video explores the different ways in which plastic waste damages our planet.</p>
+    <small>Source: Mind Blown! S1 Plastic – MeWatch (date unknown). MeWatch. Retrieved 2022, March 15.</small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/SN5-DnOHQmE"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/i9qMbTba6qk"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">What Is The Greenhouse Effect? (3 min)</b><br>
-How does the Earth stay warm enough for us to live in? Check out this video by National Aeronautics and Space Administration (NASA), where the phenomenon known as the “greenhouse effect” is explained.</p>
-    <small>Source: What Is The Greenhouse Effect? – YouTube (2020, June 12). NASA Space Place. Retrieved 2022, January 11.</small>
+    <p><b class="has-text-indigo">Noise Pollution Is a Bigger Deal Than You’d Think (10 min)</b><br>
+Have you ever been shocked awake by the sound of a car horn? Check out this video by SciShow to learn more about the effects of noise pollution on animals and the strides towards a quieter world.</p>
+    <small>Source: Noise Pollution Is a Bigger Deal Than You’d Think – YouTube (2020, February 6). SciShow. Retrieved 2022, March 9.</small>
   </div>
 </div>
 <br>
