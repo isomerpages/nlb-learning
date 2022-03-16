@@ -59,7 +59,7 @@ Check out our **learning package** for a fun web game that teaches you about rec
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
       <a href="#lp-littercritters">
-        <span>Learning Package: Litter Critters</span>
+        <span>Learning Package:<br>Litter Critters</span>
       </a>
     </div>
   </div>
