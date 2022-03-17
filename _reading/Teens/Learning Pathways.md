@@ -65,7 +65,7 @@ Explore new experiences through the written word.
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/head2head-stories-through-memories-imagination-registration-207899812937?aff=ebdsoporgprofile " target="_blank"><b> Head2Head | Stories Through Memories & Imagination</b></a></td>
         <td style="width: 40%;"> 
 	Join the writers as they discuss the writing processes through emotional memory and ruminations in observing the world.</td>
-        <td>19 Apr 2022, <br> 7pm - 8pm</td>
+        <td>19 Apr 2022, <br> 7 – 8pm</td>
         <td>Zoom</td>
       </tr>
 
@@ -79,7 +79,7 @@ Explore new experiences through the written word.
 <tr>
 <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/curators-tour-mapping-the-world-exhibition-tickets-225987252957?aff=ebdsoporgprofile" target="_blank"><b>Curator's Tour | Mapping the World Exhibition</b></a></td>
         <td style="width: 40%;">Join the curators of the exhibition Mapping the World, Chung Sang Hong and Chia Jie Lin, on a special tour. </td>
-        <td>5 May 2022, <br>7pm – 8pm</td>
+        <td>5 May 2022, <br>7 – 8pm</td>
         <td>National Library</td>
 			</tr>
 			 <tr>
@@ -88,7 +88,7 @@ Explore new experiences through the written word.
 
 This programme will be conducted in Malay.
 </td>
-        <td>16 Apr 2022, <br> 2 - 4pm</td>
+        <td>16 Apr 2022, <br> 2 – 4pm</td>
         <td>Zoom</td>
       </tr>
 			 <tr>
@@ -97,7 +97,7 @@ This programme will be conducted in Malay.
 				 
 This programme will be conducted in Chinese.
 				 </td>
-        <td>24 Apr 2022, <br> 5.30 - 7.30pm</td>
+        <td>24 Apr 2022, <br> 5.30 – 7.30pm</td>
 				 <td>Zoom</td>
 			</tr>
 
