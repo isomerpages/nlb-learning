@@ -100,7 +100,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 
 <div class="horizontal-scroll margin--bottom--lg">
   
-idth: 20%;"&gt;<a target="_blank" href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849#search"><b>Code With Your Child | Budding Coders</b></a><table class="generic-table">
+<table class="generic-table">
     <thead>
       <tr>
         <th class="is-uppercase has-weight-normal" colspan="4">Discover Other Learning Focus Areas</th>
