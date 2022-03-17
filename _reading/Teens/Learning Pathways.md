@@ -46,8 +46,8 @@ Explore new experiences through the written word.
       <tr>
         <td><a href="/reading/teens/content"><b>Learning Package: D.I.Y. Blackout Poetry</b></a></td>
         <td> Find out what exactly is blackout poetry and how you can easily craft your own. </td>
-        <td></td>
-        <td> </td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
       </tr>
 		</tbody>
   </table>
@@ -139,6 +139,6 @@ This programme will be conducted in Chinese.
         <td> Zoom</td>
       </tr>
 </tbody>
-
+</div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
