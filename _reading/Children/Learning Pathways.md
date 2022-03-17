@@ -86,7 +86,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
         <td> Sebuah kelab membaca interaktif untuk kanak-kanak berumur 7-9 tahun yang diisikan dengan sesi bercerita, kegiatan kebahasaan dan menghasilkan kraf tangan. 
 <br><br> Sila buat pendaftaran apabila program ini diumumkan nanti.</td>
 
-                <td> Every 4th Saturday of the month
+<td> Every 4th Saturday of the month
 <br><br>23 April 2022,
 <br>28 May 2022,
 <br>25 June 2022, 
