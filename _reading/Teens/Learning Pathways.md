@@ -70,15 +70,15 @@ Explore new experiences through the written word.
       </tr>
 
 <tr>
-<td><a href=" https://www.eventbrite.sg/e/henry-david-thoreaus-walden-how-to-fall-in-love-with-classics-registration-207873534337?aff=ebdsoporgprofile" target="_blank"><b>Henry David Thoreau’s Walden | How to Fall in Love with Classics </b></a></td>
-        <td>Gwee Li Sui will look into Thoreau’s guiding philosophy and the continuing charm this work presents to our technological society.</td>
+<td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/henry-david-thoreaus-walden-how-to-fall-in-love-with-classics-registration-207873534337?aff=ebdsoporgprofile" target="_blank"><b>Henry David Thoreau’s Walden | How to Fall in Love with Classics </b></a></td>
+        <td style="width: 40%;">Gwee Li Sui will look into Thoreau’s guiding philosophy and the continuing charm this work presents to our technological society.</td>
       <td>28 Apr 2022, <br>7 – 8.30pm</td>
         <td>Zoom</td>
 			</tr>
 
 <tr>
-<td><a href="https://www.eventbrite.sg/e/curators-tour-mapping-the-world-exhibition-tickets-225987252957?aff=ebdsoporgprofile" target="_blank"><b>Curator's Tour | Mapping the World Exhibition</b></a></td>
-        <td>Join the curators of the exhibition Mapping the World, Chung Sang Hong and Chia Jie Lin, on a special tour. </td>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/curators-tour-mapping-the-world-exhibition-tickets-225987252957?aff=ebdsoporgprofile" target="_blank"><b>Curator's Tour | Mapping the World Exhibition</b></a></td>
+        <td style="width: 40%;">Join the curators of the exhibition Mapping the World, Chung Sang Hong and Chia Jie Lin, on a special tour. </td>
         <td>5 May 2022, <br>7pm – 8pm</td>
         <td>National Library</td>
 			</tr>
@@ -102,7 +102,7 @@ This programme will be conducted in Chinese.
 			</tr>
 
 <tr>
-<td><a href=" https://www.eventbrite.com/e/in-award-winning-style-with-sivanantham-neelakandan-tickets-219127043887?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>In Award Winning Style </b></a></td>
+<td style="width: 20%;"><a href=" https://www.eventbrite.com/e/in-award-winning-style-with-sivanantham-neelakandan-tickets-219127043887?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>In Award Winning Style </b></a></td>
         <td style="width: 40%;">Teens will learn more about award winning authors (local and overseas), their distinctive styles and how they captivate readers and have established themselves as one of the best Tamil fiction writers in current times. This programme will be conducted in Tamil.
 	</td>
       <td>12 Jun 2022, <br>3 – 4.30pm</td>
