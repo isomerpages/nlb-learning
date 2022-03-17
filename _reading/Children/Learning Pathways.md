@@ -99,8 +99,22 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 25 June 2022: 
 <br>Yishun Public Library
 </td>
-
       </tr>
+	<tr>
+<td><a href="https://go.gov.sg/chinese-folktales" target="_blank"><b>【线上亲子故事会】
+ </b></a></td>
+        <td> 民间故事流传久远，引人入胜，蕴含丰富的历史文化和生活智慧。新加坡说故事人瑞燕老师将带来精彩的民间故事，欢迎家长陪同4至8岁的小朋友参加线上故事会，与孩子共享欢乐的周末时光！家长报名即可，无需同时也为孩子报名。
+<br><br> Registration will open closer to the date.</td>
+        <td> Every 3rd Sat of the month 
+<br><br>16 April 2022,
+<br>18 Jun 2022, 
+<br><br> 4pm - 4:30pm
+
+</td>
+        <td>Zoom</td>
+      </tr>
+
+	
     </tbody>
   </table>
 </div>
@@ -114,11 +128,14 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     </thead>
     <tbody>
 <tr>
-      <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/cckpl-tinkerworks-saving-planet-earth-earth-heroes-registration-221849446667?aff=ebdssbdestsearch" target="_blank"><b>TinkerWorks - Saving Planet Earth | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Get inspired to save planet Earth through engaging book discussion and tinkering activity! This programme is part of a series of sustainability themed events for children.</td>
-        <td style="width: 20%;"> 22 Jan 2022,<br>1:00pm – 1.45pm</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library</td>
-      </tr>
+      <td style="width: 20%;"><b>Code With Your Child! | Jurong Regional Library</b></a></td>
+        <td style="width: 40%;">Come learn coding in a fun and interactive manner using a screen-less coding robot set. Kids can learn coding concepts and develop problem solving skills. 
+					<br><br>This programme is suitable for parents and children aged 7 to 9.
+<br><br>Registration will open closer to the date.
+</td>
+<td style="width: 20%;"> 18 Jun 2022, <br>2:30pm - 4pm</td>
+        <td style="width: 20%;">Jurong Regional Library </td>
+
 <tr>
 <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849#search" target="_blank"><b>Code With Your Child | Budding Coders</b></a></td>
         <td style="width: 40%;">Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. Through hands-on coding gameplay, children can learn coding concepts without a screen or keyboard and develop problem-solving skills, critical thinking, creativity and more<br><br> Registration will open closer to the date.</td>
