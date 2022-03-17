@@ -109,6 +109,7 @@ This programme will be conducted in Chinese.
         <td>Zoom</td> 
 			</tr>
     </tbody>
+	</table>
 </div>
 
 <div class="horizontal-scroll margin--bottom--lg">
@@ -139,5 +140,7 @@ This programme will be conducted in Chinese.
         <td> Zoom</td>
       </tr>
 </tbody>
+	</table>
+	</div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
