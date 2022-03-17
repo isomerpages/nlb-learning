@@ -29,8 +29,6 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
         <td>Help your child relate to a book through a short read and a story-based craft. </td>
         <td></td>
         <td> </td>
-      </tr>
-    </tbody>
   </table>
 </div>
 
