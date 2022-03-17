@@ -139,7 +139,6 @@ This programme will be conducted in Chinese.
         <td> 26 Apr 2022,<br>7.30 – 8.30pm</td>
         <td> Zoom</td>
       </tr>
-</tbody>
 
 
 
