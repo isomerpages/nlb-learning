@@ -103,8 +103,8 @@ Explore new experiences through the written word.
 	</td>
       <td>12 Jun 2022, <br>3 – 4.30pm</td>
         <td>Zoom</td> 
-			</tr>
-    </tbody>
+</tr>
+		</tbody>
 	</table>
 </div>
 
@@ -135,8 +135,8 @@ Explore new experiences through the written word.
         <td> 26 Apr 2022,<br>7.30 – 8.30pm</td>
         <td> Zoom</td>
       </tr>
-</tbody>
+		</tbody>
 	</table>
-	</div>
+</div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
