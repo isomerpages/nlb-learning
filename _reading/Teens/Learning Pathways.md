@@ -84,9 +84,7 @@ Explore new experiences through the written word.
 			</tr>
 			 <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/di-sebalik-tabir-insan-istimewa-di-kaca-televisyen-one-story-project-registration-292248080877?aff=ebdsoporgprofile" target="_blank"><b> Di Sebalik Tabir: Insan Istimewa di Kaca Televisyen | One Story Project</b></a></td>
-        <td style="width: 40%;"> Apakah peranan yang dimainkan media dan pelakon dalam mewakili suara para individu istimewa ? Sesi ini akan mengetengahkan seorang penulis skrip dan seorang pelakon.
-
-This programme will be conducted in Malay.
+        <td style="width: 40%;"> Apakah peranan yang dimainkan media dan pelakon dalam mewakili suara para individu istimewa ? Sesi ini akan mengetengahkan seorang penulis skrip dan seorang pelakon. This programme will be conducted in Malay.
 </td>
         <td>16 Apr 2022, <br> 2 – 4pm</td>
         <td>Zoom</td>
