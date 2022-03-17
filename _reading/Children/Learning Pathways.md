@@ -40,13 +40,13 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     </thead>
     <tbody>
 <tr>
-        <td style="width: 20%;"><a href="/reading/children/content" target="_blank"><b>Playlist Reading Fun at Home</b></a></td>
+        <td style="width: 20%;"><a href="/reading/children/content" target="_blank"><b>Playlist: Reading Fun!</b></a></td>
         <td style="width: 40%;">Create fun reading experiences at home with these bite-sized resources for your child to discover the joy of reading.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>      
 <tr>
-        <td><a href="/reading/children/content"><b>Learning Package Flying Fun</b></a></td>
+        <td><a href="/reading/children/content"><b>Learning Package: Draw and Tell!</b></a></td>
         <td>Help your child relate to a book through a short read and a story-based craft. </td>
         <td></td>
         <td> </td>
@@ -64,18 +64,22 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://linktr.ee/NTUCS_LIB_TOUR" target="_blank"><b> Online Dramatisation by NTU Chinese Society</b></a></td>
-        <td style="width: 40%;"> Join us for an interactive session of storytelling by students from NTU Chinese Society. Enjoy the accompanying activities which not only make learning Chinese fun but connect you to the Chinese culture. 
-<br><br>This programme is suitable for parents and children from 7 to 12 years of age. Registration is free. <br><br>Please visit https://linktr.ee/NTUCS_LIB_TOUR for programme details and registration. </td>
-        <td style="width: 20%;"> 15 & 16 Jan 2022,<br>2.00pm – 5.00pm</td>
+        <td style="width: 20%;"><b>#TellStory7 Award Edition</b></a></td>
+        <td style="width: 40%;"> Season 7 of #TellStory is back! Students from various groups will represent their schools and compete for several drama/acting awards! Travel with our youths through their dramatic interpretations of both classic and (some tummy tickling) original scripts devised and written by the students! 
+<br><br> This programme is suitable for parents, children and teens aged 7 to 17. 
+<br><br>Registration is required.
+</td>
+        <td style="width: 20%;">2 & 9 April 2022,<br>1:00pm – 5:00pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849#search" target="_blank"><b> Super Storytastics | Reading Comes Alive</b></a></td>
-        <td> Join our storytellers as they bring you into a world of fascinating stories and tales. Fun and excitement awaits you! 
-					<br><br> Registration will open closer to the date.</td>
-        <td>18 Feb 2022, <br>7:30pm – 8:00pm</td>
-        <td>Ang Mo Kio Public Library</td>
+<td><b> Sensory Storytastic </b></td>
+        <td>Join our librarians for a fun and exciting parent-child multi-sensory storytelling session as they bring you into a world of fascinating stories and interesting facts.<br><br>This programme is suitable for parents and children aged 7 to 10.
+<br><br> Registration will open closer to the date.
+</td>
+      <td>18 May 2022, <br>5:00pm – 5:30pm</td>
+        <td>Choa Chu Kang Public Library</td>
+
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849#search" target="_blank"><b>TinkerWorks – Fight like a Knight | Reading Comes Alive</b></a></td>
