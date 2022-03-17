@@ -110,8 +110,10 @@ Check out our **learning packages** for D.I.Y activities to engage your child in
 	
 <p>D.I.Y activities to engage your child in reading fun.</p>
 
-<h4 id="lp-flying-high"><a href="/files/Reading_Children_Flying%20High.pdf" target="_blank"><b>Flying High</b></a></h4>
-<p> Discover good reads and try your hand at making your own airplane!</p>
+<h4 id="lp-draw-and-tell"><a href="https://www.scholastic.com/parents/kids-activities-and-printables/printables/writing-worksheets/coloring-quote-printables-to-spark-your-childs.html" target="_blank"><b>Draw and Tell</b></a></h4>
+<p>Does your child like to draw and colour? Drawing can be a form of storytelling where your feelings, ideas and perspectives can be expressed in creative ways. With this learning package, have your child react to the prompt and design away!
+<br><br><small>Source: Coloring Quote Printables to Spark Your Child's Creativity (2017, July 5). Scholastic. Retrieved 2022, February 23.</small>
+</p>
 
 
 	
