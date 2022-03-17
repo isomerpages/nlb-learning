@@ -125,18 +125,15 @@ This programme will be conducted in Chinese.
         <td style="width: 40%;"> Want to make a video to share online but don't know where to start? Join this videographer starter session to find out more!</td>
 				 <td> 10 Apr 2022,<br>4 – 7pm</td>
         <td> Woodlands Regional Library</td>
-      <td style="width: 20%;"> </td>
-     <td style="width: 20%;"> </td>
-      </tr>
 <tr>
-<td><a href=" https://www.eventbrite.sg/e/archives-invites-dr-marcus-tan-and-lim-ting-li-the-sounds-of-singapore-tickets-292312874677?aff=ebdsoporgprofile" target="_blank"><b> Archives Invites: Dr Marcus Tan and Lim Ting Li – The Sounds of Singapore</b></a></td>
+<td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/archives-invites-dr-marcus-tan-and-lim-ting-li-the-sounds-of-singapore-tickets-292312874677?aff=ebdsoporgprofile" target="_blank"><b> Archives Invites: Dr Marcus Tan and Lim Ting Li – The Sounds of Singapore</b></a></td>
         <td style="width: 40%;">Dr Marcus Tan and Lim Ting Li will explore soundscapes as a way of understanding Singapore’s culture and everyday life.</td>
         <td> 19 Apr 2022,<br>6 – 7pm</td>
         <td> Zoom</td>
       </tr>
 
 <tr>
-<td><a href=" https://www.eventbrite.sg/e/forests-and-mammals-that-return-in-singapore-tickets-289017006647?aff=ebdsoporgprofile" target="_blank"><b> Forests and Mammals that Return in Singapore</b></a></td>
+<td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/forests-and-mammals-that-return-in-singapore-tickets-289017006647?aff=ebdsoporgprofile" target="_blank"><b> Forests and Mammals that Return in Singapore</b></a></td>
         <td style="width: 40%;"> Learn how we can facilitate the recovery of forests and wildlife in Singapore.</td>
         <td> 26 Apr 2022,<br>7.30 – 8.30pm</td>
         <td> Zoom</td>
