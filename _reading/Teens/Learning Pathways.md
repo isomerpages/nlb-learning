@@ -119,7 +119,8 @@ This programme will be conducted in Chinese.
         <th colspan="4" class="is-uppercase has-weight-normal ">Discover Other Learning Focus Areas</th>
       </tr>
     </thead>
-    <tbody>
+		
+<tbody>
       <tr>
       <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/videography-starter-session-woodlands-regional-library-makeit-registration-272474557737?aff=ebdsoporgprofile" target="_blank"><b> Videography Starter Session @ Woodlands Regional Library | MakeIT</b></a></td>
         <td style="width: 40%;"> Want to make a video to share online but don't know where to start? Join this videographer starter session to find out more!</td>
@@ -138,10 +139,8 @@ This programme will be conducted in Chinese.
         <td> 26 Apr 2022,<br>7.30 – 8.30pm</td>
         <td> Zoom</td>
       </tr>
+</tbody>
 
-  </tbody>
-  </table>
-</div>
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
