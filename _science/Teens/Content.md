@@ -188,7 +188,6 @@ Whether it’s that fragrant egg and onion thosai (savoury thin pancake) you had
 
 <div class="bp-youtube">
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xGvvulC1EDk" height="315" width="560"></iframe></div>
-
 Source: <a href="https://www.youtube.com/embed/xGvvulC1EDk">Pokemon &amp; Science, Did You Know Gaming?</a>
 	
 <p>But there’s a bigger way science is present in almost all games. It forms one of the foundational elements a game is built on — its physics.</p>
@@ -207,7 +206,6 @@ Source: <a href="https://www.youtube.com/embed/xGvvulC1EDk">Pokemon &amp; Scienc
 	
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Xz8RRxYwrhg" height="315" width="560"></iframe></div>
-
 Source: <a href="https://www.youtube.com/embed/Xz8RRxYwrhg">The Physics of Racing Games, Real Engineering</a> 
 
 <p>So, why isn’t physics always realistic in gameplay? First, it’s impossible to perfectly simulate real-world physics — there are just too many factors that can’t be accounted for. Second, a physics-defying game makes for more exciting gameplay.</p>
@@ -216,7 +214,6 @@ Source: <a href="https://www.youtube.com/embed/Xz8RRxYwrhg">The Physics of Racin
 	
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/B19nlhbA7-E" height="315" width="560"></iframe></div>
-	
 Source: <a href="https://www.youtube.com/embed/B19nlhbA7-E">The Portal Paradox, Minute Physics</a> 
 	
 <p>If you’d like to try your hand at a physics simulator, head to <a href="https://www.myphysicslab.com/">My Physics Lab</a>. This site offers 50 different simulations, where you’ll be able to edit the variables of the objects to get different results. </p>
@@ -224,5 +221,25 @@ Source: <a href="https://www.youtube.com/embed/B19nlhbA7-E">The Portal Paradox, 
 <p>You can also download <a href="https://apps.apple.com/us/app/steampunk-puzzle-physics-game/id1211978586">Steampunk Puzzle</a> <a href="https://play.google.com/store/apps/details?id=com.Revampsoft.Steampunk_Puzzle&amp;hl=en_SG&amp;gl=US">Physics Game</a>, a free-to-play app where you aim to get a ball to its container using realistic physics laws. </p>
 
 <p>While taking a break from your console, why not get up to speed with these books on physics?</p>
+
+<b>The Physics of Everyday Things: The Extraordinary Science Behind an Ordinary Day</b><br>
+Author: James Kakalios<br>
+Call No.: English 530 KAK<br>
+Publisher: Crown Publishing, 2017<br>
+Also available as an eBook on <a href="https://nlb.overdrive.com/media/3044218">NLB OverDrive </a>
+<p>Physics professor, bestselling author, and dynamic storyteller James Kakalios reveals the mind-bending science behind the seemingly basic things that keep our daily lives running, from our smart phones and digital “clouds” to x-ray machines and hybrid vehicles. </p>
+<p>Most of us are clueless when it comes to the physics that makes our modern world so convenient. What’s the simple science behind motion sensors, touch screens, and toasters? How do we glide through tolls using an E-Z Pass, or find our way to new places using GPS?  In The Physics of Everyday Things, James Kakalios takes us on an amazing journey into the subatomic marvels that underlie so much of what we use and take for granted. </p>
+<p>Synopsis from <a href="https://www.penguinrandomhouse.com/books/221729/the-physics-of-everyday-things-by-james-kakalios/">Penguin Random House</a></p>
+
+
+<b>Fairground Physics: Motion, Momentum, and Magnets with Hands-On Science Activities</b><br>
+Author: Angie Smibert<br>
+Publisher: Nomad Press, 2020<br>
+Only available as an eBook on <a href="https://nlb.overdrive.com/library/kids/media/5342466">NLB OverDrive</a>
+<p> Where can you experience the laws of motion, the fun of physics, and the chemistry of cotton candy? The fair! In Fairground Physics: Motion, Momentum, and Magnets with Hands-On Science Activities, readers learn about the forces that rule our world and everything in it by examining the rides, games, and even food you might find at a county fair. Ride the carousel and discover centripetal force. Listen to the music and learn how sound waves travel through the air. Hop on a roller coaster and name the types of energy involved in whizzing you around the track and upside down!</p>
+<p>Synopsis from <a href="https://nomadpress.net/nomadpress-books/fairground-physics//">Nomad Press</a></p>
+<p>The book covers and synopses are the copyright of the respective publishing companies.
+(All websites were last accessed on 15 March 2022.)</p>
+
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
