@@ -37,7 +37,7 @@ Explore new experiences through the written word.
       </tr>
     </thead>
     <tbody>
- <tr>
+			<tr>
         <td style="width: 20%;"><a href="/reading/teens/content" target="_blank"><b>Playlist: More than Words – Poetry </b></a></td>
         <td style="width: 40%;"> Go on a literary journey through this collection of short videos, and be inspired to find your own voice through poetry.	 </td>
         <td style="width: 20%;"> </td>
@@ -73,7 +73,7 @@ Explore new experiences through the written word.
         <td>Gwee Li Sui will look into Thoreau’s guiding philosophy and the continuing charm this work presents to our technological society.</td>
       <td>28 Apr 2022, <br>7 – 8.30pm</td>
         <td>Zoom</td>
-      </tr>
+			</tr>
 
 <tr>
 <td><a href="https://www.eventbrite.sg/e/curators-tour-mapping-the-world-exhibition-tickets-225987252957?aff=ebdsoporgprofile" target="_blank"><b>Curator's Tour | Mapping the World Exhibition</b></a></td>
@@ -141,7 +141,6 @@ This programme will be conducted in Chinese.
         <td> Zoom</td>
       </tr>
 
-      </tr>
   </tbody>
   </table>
 </div>
