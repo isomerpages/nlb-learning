@@ -220,13 +220,20 @@ Spark your child’s curiosity in science literacy through engaging activities a
 <h4 id="scwyc-baking-chemistry"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b>Learn More</b></a></h4>
 
 ![World of Inventions](/images/science-lfa-updates/World-of-Inventions.png)
-<h5 class="margin--bottom--lg" id=" diy-parachute-at-home "><b>Bring out the Inventor in You: D.I.Y. Parachute at Home! </b></h5>
+<h5 class="margin--bottom--lg" id="diy-parachute-at-home"><b>Bring out the Inventor in You: D.I.Y. Parachute at Home! </b></h5>
 <p> Be an inventor like Da Vinci. Follow the steps shared by librarian Faye and create your own D.I.Y. parachute at home!</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vUXWrQMa8QY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Source: <a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/shs-videos">School Holiday Special Videos</a>  National Library Board, 2021
+<small>Source: <a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/shs-videos">School Holiday Special Videos</a>  National Library Board, 2021</small>
+
 <p> Read more on inventions and science from the selected books below: </p>
 
+<div class="row is-multiline">
+  <div class="col is-half">
+		
 ![Lets Fly A Plane](/images/science-lfa-updates/Lets-Fly-A-Plane-Book-Cover.png)
+		  </div>
+</div>
+
 <b>Let's Fly a Plane!: Launching into the Science of Flight with Aerospace Engineering</b><br>
 Author: Chris Ferrie<br>
 Call No.: J 629.132 FER<br>
@@ -235,7 +242,13 @@ Also available as an eBook on <a href="https://nlb.overdrive.com/media/5528926">
 <p>How do airplanes stay up in the sky? That’s the question Red Kangaroo needs answered, and she knows exactly who can help her—Dr. Chris! Explore the four forces of flight—drag, lift, thrust, and weight—and get ready to take off with this introduction to aerospace engineering.</p>
 <p>Synopsis from <a href="https://read.sourcebooks.com/for-children/lets-fly-a-plane-hc.html/">Sourcebooks</a> </p>
 
+<div class="row is-multiline">
+  <div class="col is-half">
+		
 ![Kate the Chemist](/images/science-lfa-updates/Kate-the-Chemist-Book-Cover.jpg)
+		  </div>
+</div>
+		
 <b>The STEM Night Disaster (Kate the Chemist)</b><br>
 Author: Kate Biberdorf<br>
 Call No.: J BIB<br>
