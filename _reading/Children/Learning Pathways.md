@@ -82,11 +82,24 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849#search" target="_blank"><b>TinkerWorks – Fight like a Knight | Reading Comes Alive</b></a></td>
-        <td>Join Camy in exploring the wonderful world of fantasy titles! Animate your very own knight in shining armour. 
-					<br><br> Registration will open closer to the date.</td>
-        <td>19 Mar 2022, <br>2pm – 2:45pm</td>
-        <td>library@harbourfront</td>
+<td><a href="https://go.gov.sg/lcsessions" target="_blank"><b>Kelab Membaca Wira Pintar</b></a></td>
+        <td> Sebuah kelab membaca interaktif untuk kanak-kanak berumur 7-9 tahun yang diisikan dengan sesi bercerita, kegiatan kebahasaan dan menghasilkan kraf tangan. 
+<br><br> Sila buat pendaftaran apabila program ini diumumkan nanti.</td>
+
+                <td> Every 4th Saturday of the month
+<br><br>23 April 2022,
+<br>28 May 2022,
+<br>25 June 2022, 
+<br><br>11.30am – 12.30pm</td>
+        <td>23 April 2022: <br>Zoom
+<br><br>
+28 May 2022: 
+<br>Yishun Public Library
+<br><br>
+25 June 2022: 
+<br>Yishun Public Library
+</td>
+
       </tr>
     </tbody>
   </table>
