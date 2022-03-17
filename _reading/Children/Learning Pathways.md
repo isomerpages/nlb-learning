@@ -120,10 +120,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 <td style="w<td style="><b> Easy Coffee Art | library@harbourfront</b></td>
         <td style="width: 40%;"> Join our Easy Coffee Art workshop at library@harbourfront and have an aromatic day doing coffee painting! Enjoy family bonding and fun while painting.<br><br> This programme is suitable for parents and children aged 7 to 12.<br><br> Registration will open closer to the date.</td>
         <td style="width: 20%;"> 4 &amp; 25 Jun 2022,<br>2:30pm – 3:30pm</td>
-        <td style="width: 20%;"> library@harbourfront</td>
-        <td style="width: 40%;">Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. Through hands-on coding gameplay, children can learn coding concepts without a screen or keyboard and develop problem-solving skills, critical thinking, creativity and more<br><br> Registration will open closer to the date.</td>
-        <td style="width: 20%;"> 15 Jan 2022,<br>2:30pm – 4.00pm</td>
-        <td style="width: 20%;"> library@harbourfront</td>
+			<td style="width: 20%;"> library@harbourfront</td>
       </tr>
   </tbody>
   </table>
