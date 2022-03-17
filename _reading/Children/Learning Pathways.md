@@ -125,4 +125,4 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
   </tbody>
   </table>
 </div>
-	<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
