@@ -137,5 +137,6 @@ Explore new experiences through the written word.
       </tr>
 		</tbody>
 	</table>
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 </div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
