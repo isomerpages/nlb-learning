@@ -219,4 +219,6 @@ Spark your child’s curiosity in science literacy through engaging activities a
 <p> Make chemistry come alive at home by trying out this hands-on baking experiment with your child! </p>
 <h4 id="scwyc-baking-chemistry"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b>Learn More</b></a></h4>
 
+![World of Inventions](/images/science-lfa-updates/World-of-Inventions.png)
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top
