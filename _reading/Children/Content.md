@@ -48,15 +48,15 @@ Check out our **learning packages** for D.I.Y activities to engage your child in
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#reading-fun-at-home">
-        <span>Playlist:<br>Reading Fun at Home</span>
+      <a href="#reading-fun">
+        <span>Playlist:<br>Reading Fun!</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#lp-flying-high">
-        <span>Learning Package:<br>Flying Fun</span>
+      <a href="#lp-draw-and-tell">
+        <span>Learning Package:<br>Draw and Tell!</span>
       </a>
     </div>
   </div>
@@ -64,12 +64,12 @@ Check out our **learning packages** for D.I.Y activities to engage your child in
 	
 
 
-<h5 id="reading-fun-at-home" class="margin--bottom--lg"><b>Playlist: Reading Fun at Home</b></h5>
+<h5 id="reading-fun" class="margin--bottom--lg"><b>Playlist: Reading Fun!</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/pe58gTDQJmg" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/watch?v=xoiS5ZFtqVg" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
