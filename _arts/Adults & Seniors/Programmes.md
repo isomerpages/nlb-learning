@@ -51,21 +51,21 @@ film industry, who will be sharing their experiences and advice to the budding a
 Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
 ## **Pro Series**
-![](/images/learning-communities/arts/LC-Arts-StockImage-02.jpg)
+![](/images/arts/programmes/poster_4.png)
 
 Pro Series is a suite of talks curated by library@orchard that gives insight into the craftsmanship of various design disciplines. library@orchard Pro Series topics include zines, concept design, and jewellery design.
 
 Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
 ## **Communities**
-![](/images/learning-communities/arts/LC-Arts-StockImage-02.jpg)
+![](/images/arts/programmes/poster_3.png)
 
 Communities is an alternative learning environment where you can pick up a plethora of skills by sharing and experimenting with others. This monthly series lead by our community is built on the belief that teaching and learning can happen without a teacher.
 
 Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
 ## **Resident**
-![](/images/learning-communities/arts/LC-Arts-StockImage-02.jpg)
+![](/images/arts/programmes/poster_5.png)
 
 Resident is library@orchard’s artist-in-residence programme where a practicing artist or designer to transforms the library space into their studio. Look out for Open Studio sessions where you may visit the studio to take a peek into the works and processes of these artists and designers.
 
