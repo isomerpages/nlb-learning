@@ -109,7 +109,6 @@ This programme will be conducted in Chinese.
         <td>Zoom</td> 
 			</tr>
     </tbody>
-  </table>
 </div>
 
 <div class="horizontal-scroll margin--bottom--lg">
@@ -139,7 +138,7 @@ This programme will be conducted in Chinese.
         <td> 26 Apr 2022,<br>7.30 – 8.30pm</td>
         <td> Zoom</td>
       </tr>
-
+</tbody>
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
