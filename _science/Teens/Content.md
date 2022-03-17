@@ -222,6 +222,7 @@ Source: <a href="https://www.youtube.com/embed/B19nlhbA7-E">The Portal Paradox, 
 
 <p>While taking a break from your console, why not get up to speed with these books on physics?</p>
 
+![physics of everyday things](/images/science-lfa-updates/the-physics-of-everyday-things.png)
 <b>The Physics of Everyday Things: The Extraordinary Science Behind an Ordinary Day</b><br>
 Author: James Kakalios<br>
 Call No.: English 530 KAK<br>
@@ -231,7 +232,7 @@ Also available as an eBook on <a href="https://nlb.overdrive.com/media/3044218">
 <p>Most of us are clueless when it comes to the physics that makes our modern world so convenient. What’s the simple science behind motion sensors, touch screens, and toasters? How do we glide through tolls using an E-Z Pass, or find our way to new places using GPS?  In The Physics of Everyday Things, James Kakalios takes us on an amazing journey into the subatomic marvels that underlie so much of what we use and take for granted. </p>
 <p>Synopsis from <a href="https://www.penguinrandomhouse.com/books/221729/the-physics-of-everyday-things-by-james-kakalios/">Penguin Random House</a></p>
 
-
+![fairground-physics](/images/science-lfa-updates/fairground-physics.jpg)
 <b>Fairground Physics: Motion, Momentum, and Magnets with Hands-On Science Activities</b><br>
 Author: Angie Smibert<br>
 Publisher: Nomad Press, 2020<br>
