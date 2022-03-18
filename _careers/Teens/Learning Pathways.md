@@ -42,15 +42,15 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="http://go.gov.sg/nlb-teensprogs"><b> A Day In The Life Of A Digital Forensic Specialist| portfolio | Teens Takeover </b></a></td>
-        <td style="width: 40%;">Get an intimate look into the daily lives of different professionals in this  series for teens aged 13-17, and get inspired to explore possible careers of your future. In collaboration with Nanyang Polytechnic. </td>
-        <td style="width: 20%;">12 Mar 2022,<br>11am - 12.30pm</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/how-to-start-a-career-in-green-energy-industry-insights-registration-277268947887?aff=ebdsoporgprofile"><b>How to Start a Career In Green Energy | Industry Insights</b></a></td>
+        <td style="width: 40%;">Find out about what a career in green energy entails from an industry expert. </td>
+        <td style="width: 20%;">31 Mar 2022,<br>7pm –  8.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><b>[Industry Insights series] A Career in Fintech</b></td>
-        <td> What is it like having a career in this industry? How does one get a foot in the door? Find out in this talk by an expert from Nanyang Polytechnic.</td>
-        <td>TBC<br> </td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/personality-awareness-communication-the-llibrary-lunchtime-talk-registration-293578550347?aff=ebdsoporgprofile"><b>[Industry Insights series] A Career in Fintech</b></td>
+        <td> Discover how an awareness of personality diversity can help you work better with others by improving your communication skills.</td>
+        <td>31 Mar 2022<br>12.30 pm – 2pm</td>
         <td>Zoom</td>
       </tr>
     </tbody>
