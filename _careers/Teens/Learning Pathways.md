@@ -33,29 +33,6 @@ Clueless about which career is suitable for you? Discover and explore various ca
   </table>
 </div>
 
-
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Discover Recommended Resources</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a target="_blank" href="/careers/teens/content"><b>Learning Package: Time To Get Started (Part 1)</b></a></td>
-        <td style="width: 40%;">It’s a brand new year – and the perfect time to begin planning out activities that can help forge your future path. Here’s how you can get started on your future aspirations.</td>
-        <td style="width: 20%;"></td>
-        <td style="width: 20%;"></td>
-      </tr><tr>
-        <td><a target="_blank" href="/careers/teens/content"><b>A Day in the Life of Dream Chasers</b></a></td>
-        <td>Considering work in a field that may seem too daunting? Be inspired by a zookeeper, a bakery owner, and a singer as they demystify their forays onto paths less taken!</td>
-        <td></td>
-        <td></td>
-    </tbody>
-  </table>
-</div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -71,7 +48,8 @@ Clueless about which career is suitable for you? Discover and explore various ca
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/personality-awareness-communication-the-llibrary-lunchtime-talk-registration-293578550347?aff=ebdsoporgprofile"><b>Communication | The LLiBrary Lunchtime Talk</b></td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/personality-awareness-communication-the-llibrary-lunchtime-talk-registration-293578550347?aff=ebdsoporgprofile"><b>Communication | The LLiBrary Lunchtime Talk</b>
+					</td>
         <td> Discover how an awareness of personality diversity can help you work better with others by improving your communication skills.</td>
         <td>31 Mar 2022<br>12.30 pm – 2pm</td>
         <td>Zoom</td>
