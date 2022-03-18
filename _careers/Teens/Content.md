@@ -47,15 +47,16 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
       <a href="#playlist-dream">
-        <span>Playlist: A Day in the <br>Life of Dream Chasers</span>
+        <span>Playlist: A Day in the Life of Dream Chasers</span>
       </a>
     </div>
 	</div>
+
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
       <a href="#playlist-health">
-        <span>Playlist:<br>Healthcare</span>
+        <span>Playlist: Healthcare</span>
       </a>
     </div>
   </div>
@@ -64,7 +65,7 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
       <a href="#lp-started1">
-        <span>Learning Package: <br>Time to Get Started! Part 1</span>
+        <span>Learning Package: Time to Get Started! Part 1</span>
       </a>
     </div>
   </div>
