@@ -66,9 +66,9 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.com/e/introduction-to-user-experience-future-of-work-registration-269328527877?aff=odcleoeventsincollection&keep_tld=1"><b>Introduction to User Experience | Future of Work</b></a></td>
-        <td style="width: 40%;">Understand the role user experience has in digital media and marketing. </td>
-        <td style="width: 20%;">11 Mar 2022,<br>7pm – 8.30pm</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/reducing-your-workload-through-rpa-the-llibrary-lunchtime-talk-registration-264000341127?aff=odcleoeventsincollection"><b>Reducing Your Workload Through RPA | The LLiBrary Lunchtime Talk</b></a></td>
+        <td style="width: 40%;">This talk explores popular RPA software and shows through examples how they can be used by laypersons to improve their productivity.</td>
+        <td style="width: 20%;">31 Mar 2022,<br>10.30am – 12.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
     </tbody>
