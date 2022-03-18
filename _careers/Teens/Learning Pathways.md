@@ -25,7 +25,7 @@ Clueless about which career is suitable for you? Discover and explore various ca
       </tr>
       <tr>
         <td><a target="_blank" href="/careers/teens/content"><b>A Day in the Life of Dream Chasers</b></a></td>
-        <td>Considering work in a field that may seem too daunting? Be inspired by a zookeeper, a bakery owner, and a singer as they demystify their forays into paths less taken!</td>
+        <td>Considering work in a field that may seem too daunting? Be inspired by a zookeeper, a bakery owner, and a singer as they demystify their forays onto paths less taken!</td>
         <td></td>
         <td></td>
       </tr>
