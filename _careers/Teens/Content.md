@@ -126,6 +126,8 @@ Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br>
   </div>
 </div>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h5 class="margin--bottom--lg" id="playlist-health"><b>Playlist: A Day in the Life of: Healthcare Professionals</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
@@ -167,7 +169,7 @@ Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br>
   </div>
 </div>
 
-
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
 Get a glimpse of what it takes to achieve your aspirations with these articles and activities.
