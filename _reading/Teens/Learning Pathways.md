@@ -57,7 +57,7 @@ Explore new experiences through the written word.
 <td><a target="_blank" href="https://www.eventbrite.sg/e/curators-tour-mapping-the-world-exhibition-tickets-225987252957?aff=ebdsoporgprofile"><b>Curator's Tour | Mapping the World Exhibition</b></a></td>
         <td> Join the curators of the exhibition Mapping the World, Chung Sang Hong and Chia Jie Lin, on a special tour.
         </td><td>5 Mar 2022, <br>7 – 8pm</td>
-        <td>Zoom</td>
+        <td>National Library</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/di-sebalik-tabir-insan-istimewa-di-kaca-televisyen-one-story-project-registration-292248080877?aff=ebdsoporgprofile"><b>Di Sebalik Tabir: Insan Istimewa di Kaca Televisyen | One Story Projec</b></a></td>
@@ -94,7 +94,7 @@ Explore new experiences through the written word.
         <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/videography-starter-session-woodlands-regional-library-makeit-registration-272474557737?aff=ebdsoporgprofile"><b>Videography Starter Session @ Woodlands Regional Library | MakeIT</b></a></td>
         <td style="width: 40%;"> Want to make a video to share online but don't know where to start? Join this videographer starter session to find out more!</td>
         <td style="width: 20%;">10 Apr 2022, <br>4 – 7pm</td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;">Woodlands Regional Library</td>
       </tr>
 <tr>
         <td><a target="_blank" href="https://www.eventbrite.sg/e/archives-invites-dr-marcus-tan-and-lim-ting-li-the-sounds-of-singapore-tickets-292312874677?aff=ebdsoporgprofile"><b>Archives Invites: Dr Marcus Tan and Lim Ting Li – The Sounds of Singapore</b></a></td>
