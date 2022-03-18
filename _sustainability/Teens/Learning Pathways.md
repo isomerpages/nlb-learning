@@ -73,6 +73,13 @@ Be informed and make an impact to the environment.
         <td style="width: 20%;">26 Mar 2022, <br> 2.30-3.30pm</td>
         <td style="width: 20%;">Toa Payoh Public Library </td>
 			</tr>
+			<tr>
+         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Teens Takeover| Greenhouse
+</b></a></td>
+        <td style="width: 40%;">A series of talks and workshops for teens to explore various green topics and projects. <br><br>Stay tuned for more updates.</td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
+			</tr>
     </tbody>
   </table>
 </div>
@@ -85,11 +92,12 @@ Be informed and make an impact to the environment.
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/cckpl" target="_blank"><b>CCKPL: Unplugged</b></a></td>
-        <td style="width: 40%;">Want to take a break and unwind over some tabletop games? During Unplugged, set aside your digital devices, and be introduced to a variety of games for you to kick back and have a good time!</td>
-        <td style="width: 20%;">18 Mar 2022,<br>3-5pm</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library</td>
+			<tr>
+        <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
+        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
+</td>
+        <td style="width: 20%;">Apr-Jun 2022</td>
+        <td style="width: 20%;">Public Libraries Singapore’s Facebook</td>
       </tr>
   </tbody>
   </table>
