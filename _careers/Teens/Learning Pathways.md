@@ -28,11 +28,10 @@ Clueless about which career is suitable for you? Discover and explore various ca
         <td>Considering work in a field that may seem too daunting? Be inspired by a zookeeper, a bakery owner, and a singer as they demystify their forays onto paths less taken!</td>
         <td></td>
         <td></td>
-			</tr>
-		</tbody>
-	</table>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -56,7 +55,6 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </tbody>
   </table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
