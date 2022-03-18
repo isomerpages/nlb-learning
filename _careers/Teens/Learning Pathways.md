@@ -27,7 +27,6 @@ Clueless about which career is suitable for you? Discover and explore various ca
         <td>Considering work in a field that may seem too daunting? Be inspired by a zookeeper, a bakery owner, and a singer as they demystify their forays onto paths less taken!</td>
         <td></td>
         <td></td>
-      </tr>
     </tbody>
   </table>
 </div>
