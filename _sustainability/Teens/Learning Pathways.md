@@ -74,7 +74,7 @@ Be informed and make an impact to the environment.
         <td style="width: 20%;">Toa Payoh Public Library </td>
 			</tr>
 			<tr>
-         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Teens Takeover| Greenhouse
+         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Teens Takeover| GREENHOUSE
 </b></a></td>
         <td style="width: 40%;">A series of talks and workshops for teens to explore various green topics and projects. <br><br>Stay tuned for more updates.</td>
         <td style="width: 20%;"></td>
