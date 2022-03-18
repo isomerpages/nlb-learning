@@ -18,14 +18,14 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="/careers/teens/content"><b>Teen.Things: Emailing 101</b></a></td>
-        <td style="width: 40%;">We’ve all sent emails out to friends and teachers before, but crafting a professional email is a whole different ball game. If you aren’t sure what should go into formal emails, here are some tips and tricks that are sure to impress any recipient!</td>
+        <td style="width: 20%;"><a target="_blank" href="/careers/teens/content"><b>Learning Package: Time To Get Started (Part 1)</b></a></td>
+        <td style="width: 40%;">It’s a brand new year – and the perfect time to begin planning out activities that can help forge your future path. Here’s how you can get started on your future aspirations.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a target="_blank" href="/careers/teens/content"><b>A Day in the Life of: Healthcare Professionals</b></a></td>
-        <td>Considering a career in healthcare? Then you won’t want to miss getting an intimate look into the daily lives of different healthcare professionals and hearing their inspiring stories.</td>
+        <td><a target="_blank" href="/careers/teens/content"><b>A Day in the Life of Dream Chasers</b></a></td>
+        <td>Considering work in a field that may seem too daunting? Be inspired by a zookeeper, a bakery owner, and a singer as they demystify their forays into paths less taken!</td>
         <td></td>
         <td></td>
       </tr>
