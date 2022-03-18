@@ -46,7 +46,7 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
-      <a href="#playlist-health">
+      <a href="#playlist-dream">
         <span>Playlist:<br>A Day in the Life of Dream Chasers</span>
       </a>
     </div>
@@ -63,8 +63,8 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
 	
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
-      <a href="#lp-email">
-        <span>Learning Package: Time to Get Started!</span>
+      <a href="#lp-started1">
+        <span>Learning Package: Time to Get Started! Part 1</span>
       </a>
     </div>
   </div>
@@ -83,7 +83,7 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
 <h3><b>Playlist</b></h3>
 A collection of short videos and podcasts to inspire you as you make that all-important decision on what career path to take.
 
-<h5 class="margin--bottom--lg" id="playlist-health"><b>Playlist: A Day in the Life of Dream Chasers</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-dream"><b>Playlist: A Day in the Life of Dream Chasers</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -172,7 +172,7 @@ Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br>
 <h3><b>Learning Package</b></h3>
 Get a glimpse of what it takes to achieve your aspirations with these articles and activities.
 
-<h5 class="margin--bottom--lg" id="lp-email"><b>Time to Get Started!</b></h5>
+<h5 class="margin--bottom--lg" id="lp-started1"><b>Time to Get Started! Part 1</b></h5>
 
 It’s a brand new year – and the perfect time to begin planning out activities that can help forge your future path. Whether it’s during term time or during the holidays, here’s how you can get started on your future aspirations. 
 
@@ -196,8 +196,6 @@ Remember that all these tools are here to guide you along and not to instruct yo
   </div>
 </div>
 
-
-
 Author: Jennifer Shannon<br>
 Publisher: New Harbinger Publications, 2017<br>
 
@@ -206,6 +204,8 @@ Do you procrastinate? And if so, what's your procrastination type? In this fun a
 Synopsis from [New Harbinger](https://www.newharbinger.com/9781626255876/a-teens-guide-to-getting-stuff-done/)
 
 The book covers and synopses are the copyright of the respective publishing companies. (All websites were last accessed on 16 March 2022.)
+
+**Come back next week for Part 2 of Time to Get Started!**
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
