@@ -67,7 +67,7 @@ Go green with your child to build an eco-friendly future together.
         <td style="width: 20%;">Tampines Regional Library </td>
 			</tr>
 			<tr>
-                <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
+				<td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
         <td style="width: 40%;">Join NParks for our Living with Nature sharing series, starting with a storytelling on how some commonly found reptiles and amphibians (or herps) in Singapore come together to solve a mystery! <br><br>Following the storytelling segment, there will be a craft activity for both parent and child to make their favourite herp!</td>
 				<td style="width: 20%;">30 April 2022, 2-3pm<br><br>28 May 2022, 12.30-1.30pm<br><br>25 June 2022, 11-11.45am</td>
         <td style="width: 20%;">Choa Chu Kang Public Library<br><br>Tampines Regional Library<br><br>Woodlands Regional Library</td>
