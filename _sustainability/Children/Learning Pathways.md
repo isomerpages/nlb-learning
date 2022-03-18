@@ -81,8 +81,7 @@ Go green with your child to build an eco-friendly future together.
 			</tr>
 			<tr>
          <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>CHF: Lesson 1: Say No to Food Waste</b></a></td>
-        <td style="width: 40%;">"Say No to Food Waste" is a brand new educational programme for children presented by CapitaLand volunteers. <br><br>Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste.<br><br>
-For children 5-9 years. Limited slots available.
+        <td style="width: 40%;">"Say No to Food Waste" is a brand new educational programme for children presented by CapitaLand volunteers. <br><br>Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste.
 </td>
         <td style="width: 20%;">25 Jun 2022, <br> 2-3pm</td>
         <td style="width: 20%;">Zoom</td>
