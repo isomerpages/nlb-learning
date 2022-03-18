@@ -18,18 +18,17 @@ Explore new experiences through the written word.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href=/reading/teens/content><b>Playlist: More than Words – Poetry</b></a></td>
+        <td style="width: 20%;"><a href=/reading/teens/content><b>Playlist: More than Words – Poetry</b></a></td>
         <td style="width: 40%;">Go on a literary journey through this collection of short videos, and be inspired to find your own voice through poetry.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href=/reading/teens/content><b>Learning Package: D.I.Y. Blackout Poetry</b></a></td>
+        <td style="width: 20%;"><a href=/reading/teens/content><b>Learning Package: D.I.Y. Blackout Poetry</b></a></td>
         <td>Find out what exactly is blackout poetry and how you can easily craft your own.</td>
         <td></td>
-        <td> </td>
-			</tr>
-			
+        <td></td>
+      </tr>
     </tbody>
   </table>
 </div>
