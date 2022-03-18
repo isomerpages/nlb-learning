@@ -94,7 +94,7 @@ A collection of short videos and podcasts to inspire you as you make that all-im
   <div class="col is-three-fifths">
     <p><b>From 'Fun Holiday Job' to Zookeeper: Why This Young Woman Chose to Chase Her Passion (5 mins)</b><br>
     While looking for a fun holiday job, Delvinder Kaur never expected that it would turn out to be the career for her. Watch this video to see what she does as a zookeeper, and why she decided to make it her full-time job.</p>
-    <small>Source: https://www.youtube.com/watch?v=FNqYxS4SB7A (2020, Jan 12). Channel News Asia. Retrieved 2022, January 14</small>
+    <small>Source: From 'Fun Holiday Job' to Zookeeper: Why This Young Woman Chose to Chase Her Passion (2020, Jan 12). Channel News Asia. Retrieved 2022, January 14</small>
   </div>
 </div>
 
@@ -108,7 +108,7 @@ A collection of short videos and podcasts to inspire you as you make that all-im
     <p><b>
 Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br>
     From chasing her passions to opening up her own family bakery, this owner of local bakery, Puffs and Peaks, shares the choices she made that shaped her path into the food industry.</p>
-    <small>Source: https://www.youtube.com/watch?v=kqqm8j_p2w0  (2021, May 21). Youthtopia SG. Retrieved 2022, January 14</small>
+    <small>Source: Working with My Mother: Puffs and Peaks Bakery (2021, May 21). Youthtopia SG. Retrieved 2022, January 14</small>
   </div>
 </div>
 
@@ -122,7 +122,7 @@ Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br>
     <p><b>Pursuing a Career in Music with Estelle Fly - Ask Me Anything Ep 1 (13 mins)</b><br>
    How can you prepare yourself for a career in music, who can you approach and what platforms are suitable? Is it as daunting as it seems, and what does it take to get there? Learn all this and more from singer, dancer and musician, Estelle Fly, as she shares her personal experiences in pursuing her dreams.</p>
     <small>Source:
-			https://www.youtube.com/watch?v=xPKk2cFUDRk   (2021, Oct 25). NXT. Retrieved 2022, January 14</small>
+			Pursuing a Career in Music with Estelle Fly - Ask Me Anything Ep 1 (2021, Oct 25). NXT. Retrieved 2022, January 14</small>
   </div>
 </div>
 
