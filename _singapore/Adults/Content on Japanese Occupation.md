@@ -508,7 +508,7 @@ href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">
 </li>
 </ul>
 </td>
-</tr</tbody></table>
+		</tr></tbody></table>
 
 These curated set of articles and books are just the tip of a plethora of resources on the aftermath of war.
 
