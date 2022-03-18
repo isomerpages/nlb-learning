@@ -28,8 +28,9 @@ Explore new experiences through the written word.
         <td>Find out what exactly is blackout poetry and how you can easily craft your own.</td>
         <td></td>
         <td> </td>
-      </tr>
-		</tbody>
+			</tr>
+			
+    </tbody>
   </table>
 </div>
 
