@@ -29,7 +29,8 @@ Explore new experiences through the written word.
         <td></td>
         <td></td>
       </tr>
-    </tbody>
+    </tr>
+ </tbody>
   </table>
 </div>
 
