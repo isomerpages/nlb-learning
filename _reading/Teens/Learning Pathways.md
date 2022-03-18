@@ -56,7 +56,7 @@ Explore new experiences through the written word.
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/curators-tour-mapping-the-world-exhibition-tickets-225987252957?aff=ebdsoporgprofile"><b>Curator's Tour | Mapping the World Exhibition</b></a></td>
         <td> Join the curators of the exhibition Mapping the World, Chung Sang Hong and Chia Jie Lin, on a special tour.
-        </td><td>5 Mar 2022, <br>7 – 8pm</td>
+        </td><td>5 May 2022, <br>7 – 8pm</td>
         <td>National Library</td>
       </tr>
 <tr>
