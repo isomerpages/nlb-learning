@@ -100,10 +100,10 @@ For children 5-9 years. Limited slots available.
     </thead>
     <tbody>
 			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/build-a-hot-air-balloon-toa-payoh-public-library-registration-274029298007?aff=ebdssbdestsearch" target="_blank"><b>Build a Hot Air Balloon!</b></a></td>
-        <td style="width: 40%;">In this hands-on workshop by My Art Buddy, participants will learn to build a prototype of a hot air balloon.</td>
-        <td style="width: 20%;">18 Mar 2022, 10.30am-12.30pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library</td>
+         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>#TellStory 7 Award Edition</b></a></td>
+        <td style="width: 40%;">Season 7 of #TellStory is back! And this time we are back with an added healthy competitive edge! Students from various groups will represent their schools and compete for several drama/acting awards! <br><br>Travel with our youths through their stories, on a wonderful dramatic journey filled with adventures and heartfelt messages. Enjoy dramatic interpretations of both classic and (some tummy tickling) original scripts devised and written by the students! Let them Tell the Story, AS IT IS!</td>
+        <td style="width: 20%;">2 Apr & 9 Apr 2022</td>
+        <td style="width: 20%;">Zoom</td>
       </tr>
 			<tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/build-a-playground-with-recyclables-toa-payoh-public-library-registration-274031283947?aff=ebdssbdestsearch" target="_blank"><b>Build a Playground with Recyclables!</b></a></td>
