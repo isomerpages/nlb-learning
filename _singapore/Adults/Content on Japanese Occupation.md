@@ -86,14 +86,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>	
 <div class= "col is-one-third">
 <div class="clickbox is-mint-jade">
-<a href="#lp-under-the-japanese">
+<a href="#lp-memories-of-japanese">
 <span>Learning Package:<br>Memories of Japanese Occupation</span>
 </a>
 </div>
 </div>
 <div class= "col is-one-third">
 <div class="clickbox is-mint-jade">
-<a href="#lp-under-the-japanese">
+<a href="#lp-aftermath-of-war">
 <span>Learning Package:<br> Liberation and Aftermath of War </span>
 </a>
 </div>
@@ -363,7 +363,7 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id="lp-japanese-occupation"><b> Japanese Occupation: Under the Japanese Rule </b></h5>
+<h5 class="margin--bottom--lg" id="lp-under-the-japanese"><b> Japanese Occupation: Under the Japanese Rule </b></h5>
 
 <p> The invading Japanese 25th Army troops led by Lieutenant General Tomoyuki Yamashita fought the British, Indian and Australian troops. Unfortunately, multiple factors led to the ultimate defeat and fall of Singapore. </p>
 <b></b>
@@ -424,7 +424,7 @@ Akashi, Yōji  &amp; Yoshimura, Mako (Eds.). (2008). <i> New perspectives on th
 <p> A collection of articles that cover various topics on Japanese Occupation of Malaya and Singapore, based on Japanese primary sources, and sources from the archives and libraries in Britain, Malaysia, Singapore, United States, Australia and India. </p>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="lp-japanese-occupation" class="margin--bottom--lg"><b> Japanese Occupation: Memories of Japanese Occupation </b></h5>
+<h5 id="lp-memories-of-japanese" class="margin--bottom--lg"><b> Japanese Occupation: Memories of Japanese Occupation </b></h5>
 
 <p> The collective and personal memories of survivors of the Japanese Occupation document the daily lives of those who had lived through this period, including the victors and the vanquished who fought in the war. </p>
 <b></b>
@@ -493,7 +493,7 @@ href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="lp-japanese-occupation" class="margin--bottom--lg"><b> Japanese Occupation: Liberation and Aftermath of War </b></h5>
+<h5 id="lp-aftermath-of-war" class="margin--bottom--lg"><b> Japanese Occupation: Liberation and Aftermath of War </b></h5>
 
 <p> Japanese surrender in 1945 led to widespread jubilation. British military administration was soon set up to restore law and order during the immediate post-war period. Singapore faced severe food shortages, unemployment, overcrowded living conditions and insufficient healthcare. 
 </p>
