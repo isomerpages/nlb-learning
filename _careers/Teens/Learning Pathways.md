@@ -92,7 +92,8 @@ Drop in and try out a variety of short, hands-on activities that are available a
       </tr>
       <tr>
         <td><a target="_blank" href="https://www.eventbrite.sg/e/forests-and-mammals-that-return-in-singapore-tickets-289017006647?aff=ebdsoporgprofile"><b> Forests and Mammals that Return in Singapore </b></a></td>
-        <td> Experience building your own automated robotics – using LEGO! In this workshop, you will be introduced to factory manufacturing concepts through hands-on building, coding, and experimentation with LEGO SpikePrime.</td>
+        <td> Learn how we can facilitate the recovery of forests and wildlife in Singapore.
+</td>
         <td> 26 Apr 2022,<br>7.30pm – 8.30pm</td>
         <td> Zoom</td>
       </tr>
