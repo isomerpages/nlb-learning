@@ -18,17 +18,16 @@ Explore new experiences through the written word.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href= "/reading/teens/content"><b>Playlist: More than Words – Poetry</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href= "/reading/teens/content"><b>Playlist: More than Words – Poetry</b></a></td>
         <td style="width: 40%;">Go on a literary journey through this collection of short videos, and be inspired to find your own voice through poetry.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a href="/reading/teens/content"><b>Learning Package: D.I.Y. Blackout Poetry</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/reading/teens/content"><b>Learning Package: D.I.Y. Blackout Poetry</b></a></td>
         <td>Find out what exactly is blackout poetry and how you can easily craft your own.</td>
         <td></td>
-        <td></td>
-      </tr>
+        <td> </td>
     </tr>
  </tbody>
   </table>
@@ -62,20 +61,19 @@ Explore new experiences through the written word.
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/di-sebalik-tabir-insan-istimewa-di-kaca-televisyen-one-story-project-registration-292248080877?aff=ebdsoporgprofile"><b>Di Sebalik Tabir: Insan Istimewa di Kaca Televisyen | One Story Projec</b></a></td>
-        <td><b>Apakah peranan yang dimainkan media dan pelakon dalam mewakili suara para individu istimewa ? Sesi ini akan mengetengahkan seorang penulis skrip dan seorang pelakon. <br>This programme will be conducted in Malay.<br><br>
+        <td>Apakah peranan yang dimainkan media dan pelakon dalam mewakili suara para individu istimewa ? Sesi ini akan mengetengahkan seorang penulis skrip dan seorang pelakon. <br><br>This programme will be conducted in Malay.<br><br>
         </td><td>16 Apr 2022, <br>2 – 4pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://go.gov.sg/sgwritings"><b>随笔南洋读书会导读本地校园小说《中四》</b></a></td>
-	<td>校园小说《中四》的主人公是家中独子，追求独立自由，一边又渴望被了解、被接受。爸妈什么都给他最好的，却不是他想要的。他和父母开始疏离，在学校混到中四，成绩差得可以。爸妈要他重读，他却想走自己的路…… <br>
-This programme will be conducted in Chinese.<br><br>
+	<td>校园小说《中四》的主人公是家中独子，追求独立自由，一边又渴望被了解、被接受。爸妈什么都给他最好的，却不是他想要的。他和父母开始疏离，在学校混到中四，成绩差得可以。爸妈要他重读，他却想走自己的路…… <br><br>This programme will be conducted in Chinese.<br><br>
         </td><td>24 Apr 2022, <br>5.30 – 7.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/in-award-winning-style-with-sivanantham-neelakandan-tickets-219127043887?aff=odcleoeventsincollection&keep_tld=1" ><b>In Award Winning Style</b></a></td>
-	<td>Teens will learn more about award winning authors (local and overseas), their distinctive styles and how they captivate readers and have established themselves as one of the best Tamil fiction writers in current times. <br>This programme will be conducted in Tamil.<br><br>
+	<td>Teens will learn more about award winning authors (local and overseas), their distinctive styles and how they captivate readers and have established themselves as one of the best Tamil fiction writers in current times. <br><br>This programme will be conducted in Tamil.<br><br>
         </td><td>12 Apr 2022, <br>3 – 4.30pm</td>
         <td>Zoom</td>
       </tr>
