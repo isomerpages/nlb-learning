@@ -174,7 +174,8 @@ Get a glimpse of what it takes to achieve your aspirations with these articles a
 
 It’s a brand new year – and the perfect time to begin planning out activities that can help forge your future path. Whether it’s during term time or during the holidays, here’s how you can get started on your future aspirations. 
 
-Part 1: Discover Yourself and Explore What’s Out There!
+**Part 1: Discover Yourself and Explore What’s Out There!**
+
 Unsure of where to start? Getting to know yourself a little bit better is a great first step, like knowing what you excel in, or knowing what sort of lifestyle you would like to live.
 
 Take the time to do quizzes like these: [Know Yourself ](https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment.html). Just log in (based on which school you are in) and get started to find out about your interests, skills, values and learning styles. 
