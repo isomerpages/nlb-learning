@@ -102,7 +102,7 @@ Be informed and make an impact to the environment.
 			<tr>
          <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/head2head-stories-through-memories-imagination-registration-207899812937?aff=ebdsoporgprofile" target="_blank"><b>Head2Head | Stories Through Memories & Imagination</b></a></td>
         <td style="width: 40%;">Join the writers as they discuss the writing processes through emotional memory and ruminations in observing the world.</td>
-        <td style="width: 20%;">19 April 2022, 7-8pm</td>
+        <td style="width: 20%;">19 Apr 2022, 7-8pm</td>
         <td style="width: 20%;">Zoom</td>
 			</tr>
   </tbody>
