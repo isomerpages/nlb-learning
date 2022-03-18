@@ -49,7 +49,6 @@ Clueless about which career is suitable for you? Discover and explore various ca
       </tr>
       <tr>
         <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/personality-awareness-communication-the-llibrary-lunchtime-talk-registration-293578550347?aff=ebdsoporgprofile"><b>Communication | The LLiBrary Lunchtime Talk</b>
-					</td>
         <td> Discover how an awareness of personality diversity can help you work better with others by improving your communication skills.</td>
         <td>31 Mar 2022<br>12.30 pm – 2pm</td>
         <td>Zoom</td>
