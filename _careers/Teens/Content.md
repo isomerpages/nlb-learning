@@ -53,7 +53,7 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
-      <a href="#lp-health">
+      <a href="#playlist-health">
         <span>Playlist:<br>Healthcare</span>
       </a>
     </div>
@@ -63,7 +63,7 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
-      <a href="#playlist-started1">
+      <a href="#lp-started1">
         <span>Learning Package:<br> Time to Get Started! Part 1</span>
       </a>
     </div>
