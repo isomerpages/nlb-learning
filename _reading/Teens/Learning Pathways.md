@@ -60,7 +60,7 @@ Explore new experiences through the written word.
         <td>National Library</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/di-sebalik-tabir-insan-istimewa-di-kaca-televisyen-one-story-project-registration-292248080877?aff=ebdsoporgprofile"><b>Di Sebalik Tabir: Insan Istimewa di Kaca Televisyen | One Story Projec</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/di-sebalik-tabir-insan-istimewa-di-kaca-televisyen-one-story-project-registration-292248080877?aff=ebdsoporgprofile"><b>Di Sebalik Tabir: Insan Istimewa di Kaca Televisyen | One Story Project</b></a></td>
         <td>Apakah peranan yang dimainkan media dan pelakon dalam mewakili suara para individu istimewa? Sesi ini akan mengetengahkan seorang penulis skrip dan seorang pelakon. <br><br>This programme will be conducted in Malay.<br><br>
         </td><td>16 Apr 2022, <br>2 – 4pm</td>
         <td>Zoom</td>
