@@ -46,7 +46,7 @@ Go green with your child to build an eco-friendly future together.
         <td><a href="https://abcya.com/games/recycling_game" target="_blank"><b> Learning Package:<br>Litter Critters | ABCya</b></a></td>
         <td>Learn the basics of recycling with the Litter Critters! Sort trash into four different categories: recyclables, compost, electronic waste, and landfill waste. </td>
         <td></td>
-        <td> </td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -65,6 +65,27 @@ Go green with your child to build an eco-friendly future together.
         <td style="width: 40%;">Join us in celebrating Earth Day by learning how to grow and care for your own edible microgreens!</td>
         <td style="width: 20%;">26 Mar 2022, <br> 10.30-11.30am</td>
         <td style="width: 20%;">Tampines Regional Library </td>
+			</tr>
+			<tr>
+                <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Join NParks for our Living with Nature sharing series, starting with a storytelling on how some commonly found reptiles and amphibians (or herps) in Singapore come together to solve a mystery! <br><br>Following the storytelling segment, there will be a craft activity for both parent and child to make their favourite herp!</td>
+				<td style="width: 20%;">30 April 2022, 2-3pm<br><br>28 May 2022, 12.30-1.30pm<br><br>25 June 2022, 11-11.45am</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library<br><br>Tampines Regional Library<br><br>Woodlands Regional Library</td>
+			</tr>
+			<tr>
+         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>TinkerWorks – Saving Planet Earth</b></a></td>
+        <td style="width: 40%;">Get inspired to save planet Earth through engaging book discussion and tinkering activity! This programme is part of a series of sustainability themed events for children.
+</td>
+        <td style="width: 20%;">21 Jun 2022, <br> 4-5pm</td>
+        <td style="width: 20%;">Bishan Public Library </td>
+			</tr>
+			<tr>
+         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>CHF: Lesson 1: Say No to Food Waste</b></a></td>
+        <td style="width: 40%;">"Say No to Food Waste" is a brand new educational programme for children presented by CapitaLand volunteers. <br><br>Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste.<br><br>
+For children 5-9 years. Limited slots available.
+</td>
+        <td style="width: 20%;">21 Jun 2022, <br> 4-5pm</td>
+        <td style="width: 20%;">Bishan Public Library </td>
 			</tr>
     </tbody>
   </table>
