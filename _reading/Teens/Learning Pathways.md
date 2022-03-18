@@ -104,7 +104,7 @@ Explore new experiences through the written word.
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/forests-and-mammals-that-return-in-singapore-tickets-289017006647?aff=ebdsoporgprofile" ><b>Forests and Mammals that Return in Singapore</b></a></td>
-	<td>Learn how we can facilitate the recovery of forests and wildlife in Singapore.br><br>
+	<td>Learn how we can facilitate the recovery of forests and wildlife in Singapore.<br><br>
         </td><td>26 Apr 2022, <br>7.30 – 8.30pm</td>
         <td>Zoom</td>
       </tr>
