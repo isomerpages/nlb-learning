@@ -86,14 +86,19 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>	
 <div class= "col is-one-third">
 <div class="clickbox is-mint-jade">
-<a href="#lp-under-the-japanese">
+<a href="#lp-memories-of-japanese">
 <span>Learning Package:<br>Memories of Japanese Occupation</span>
 </a>
 </div>
 </div>
+<div class= "col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-aftermath-of-war">
+<span>Learning Package:<br> Liberation and Aftermath of War </span>
+</a>
 </div>
-
-
+</div>
+</div>
 
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
@@ -358,7 +363,7 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id="lp-japanese-occupation"><b> Japanese Occupation: Under the Japanese Rule </b></h5>
+<h5 class="margin--bottom--lg" id="lp-under-the-japanese"><b> Japanese Occupation: Under the Japanese Rule </b></h5>
 
 <p> The invading Japanese 25th Army troops led by Lieutenant General Tomoyuki Yamashita fought the British, Indian and Australian troops. Unfortunately, multiple factors led to the ultimate defeat and fall of Singapore. </p>
 <b></b>
@@ -419,7 +424,7 @@ Akashi, Yōji  &amp; Yoshimura, Mako (Eds.). (2008). <i> New perspectives on th
 <p> A collection of articles that cover various topics on Japanese Occupation of Malaya and Singapore, based on Japanese primary sources, and sources from the archives and libraries in Britain, Malaysia, Singapore, United States, Australia and India. </p>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="lp-japanese-occupation" class="margin--bottom--lg"><b> Japanese Occupation: Memories of Japanese Occupation </b></h5>
+<h5 id="lp-memories-of-japanese" class="margin--bottom--lg"><b> Japanese Occupation: Memories of Japanese Occupation </b></h5>
 
 <p> The collective and personal memories of survivors of the Japanese Occupation document the daily lives of those who had lived through this period, including the victors and the vanquished who fought in the war. </p>
 <b></b>
@@ -485,5 +490,81 @@ src="/images/singapore-japanese-occupation/Baba.png"></a>
 target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a 
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="lp-aftermath-of-war" class="margin--bottom--lg"><b> Japanese Occupation: Liberation and Aftermath of War </b></h5>
+
+<p> Japanese surrender in 1945 led to widespread jubilation. British military administration was soon set up to restore law and order during the immediate post-war period. Singapore faced severe food shortages, unemployment, overcrowded living conditions and insufficient healthcare. 
+</p>
+<b></b>
+<p> Dissatisfaction with the British government and a series of factors led to the political awakening amongst emerging young leaders with rising anti-colonial and nationalist sentiments. Violent unrests with labour and student riots, communal tensions and inter-ethnic conflicts marked the next two decades after the war.</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> The discovery of human remains at an area off Siglap Road in 1962 led to investigations and discovery of over 40 mass graves. The remains were later exhumed, cremated and reburied at the Civilian War Memorial monument.
+</li>
+</ul>
+</td>
+		</tr></tbody></table>
+
+These curated set of articles and books are just the tip of a plethora of resources on the aftermath of war.
+
+<h4>Articles</h4>
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_874_2004-12-30.html" target="_blank"> Double Tenth trial by Wong, Heng</a></h5>
+<p> In a war crime trial between 18 March to 15 April 1946, 21 of the Kempeitai, military police arm of the Imperial Japanese Army, involved in the Double Tenth incident were charged for the atrocities they committed against 57 civilians whom they suspected were involved in a raid at Singapore Harbour. The raid had been carried out by Anglo-Australian commandos under codename Operation Jaywick.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_874_2004-12-30.html " target="_blank"> Double Tenth trial by Wong, Heng </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2022, March 16.
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_516_2004-12-23.html" target="_blank"> Civilian War Memorial by Cornelius-Takahama, Vernon</a></h5>
+
+<p> Located on a parkland along Beach Road and opposite Raffles City, the Civilian War Memorial is a gazetted national monument dedicated to civilians who perished during the Japanese Occupation of Singapore. The memorial was built on a burial chamber containing 606 urns of the remains of unknown civilians exhumed from more than 40 mass graves.
+</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_516_2004-12-23.html " target="_blank"> Civilian War Memorial by Cornelius-Takahama, Vernon </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2022, March 16.
+	
+<h4>eBook</h4>
+
+<h5> Conflict and violence in Singapore and Malaysia, 1945-1983 </h5>
+Clutterbuck, Richard. (2019). <i> Conflict and violence in Singapore and Malaysia, 1945-1983.</i> Abingdon: Routledge. <br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/4781842">
+<img style="width:200px;"
+src="/images/singapore-japanese-occupation/Clutterbuck.png"></a>
+<p> Originally published in 1984. Covers mainly the historical aspects of the revolutionary attempts in Singapore and Malaysia from 1940s to the 1960s.</p>
+<p><a href=" https://nlb.overdrive.com/media/4781842"
+target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
+<h4>Books</h4>
+
+<h5> With freedom to Singapore: a social & administrative assessment of post-war Singapore 1945-1950</h5>
+Gilmour, Oswald Wellington. (2020). <i> With freedom to Singapore: a social & administrative assessment of post-war Singapore 1945-1950. </i> [Place of publication not identified]: [Patrick Gilmour]. (Call no.: RSING 959.57023 GIL) 
+<br>
+<a 
+href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205311719"
+target="_blank">
+<img src="/images/singapore-japanese-occupation/Oswald.png" style="width:200px;"></a>
+<p> An in-depth study of Singapore during the immediate post-war years between 1945-1950, covering the civil, political, and social aspects. First published in 1950. </p>
+
+<h5> My role in the rehabilitation of Singapore: 1946-1953</h5>
+Gilmour, Andrew. (1973). <i> My role in the rehabilitation of Singapore: 1946-1953. </i> Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.57024 GIL) 
+<br>
+<a 
+href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081677"
+target="_blank">
+<img src="/images/singapore-japanese-occupation/Gilmour.png" style="width:200px;"></a>
+<p> One of the oral history pilot studies by ISEAS. Focuses on Andrew Gilmour, "who was one of the chief architects of the reconstruction of Singapore's war-torn economy", with his recollections of the initial post-war years in Singapore. </p>
+
+<h5> Political development in Singapore, 1945-55 </h5>
+Yeo, Kim Wah. (1973). <i> Political development in Singapore, 1945-55. </i> Singapore: Singapore University Press. (Call no.: RSING 320.95957 YEO) 
+<br>
+<a 
+href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=433473"
+target="_blank">
+<img src="/images/singapore-japanese-occupation/Yeo.png" style="width:200px;"></a>
+<p> Originally presented as the author's thesis (M.A.), University of Singapore. Throws light on the origins of Singapore's independence movement. </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

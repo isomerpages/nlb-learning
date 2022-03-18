@@ -46,74 +46,74 @@ Learn the importance of caring for our planet and how children can play their pa
 
 Check out our **playlist** for a collection of short videos/podcasts highlighting the importance of sustainability. 
 
-Check out our **learning package** for a fun web game that teaches you about climate change.
+Check out our **learning package** for a fun web game that teaches you about recycling.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#playlist-earth">
-        <span>Playlist:<br>Save Our Earth</span>
+      <a href="#playlist-wonderfulwildlife">
+        <span>Playlist:<br>Wonderful Wildlife</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-leaps">
-        <span>Learning Package: Leaps and Bounds</span>
+      <a href="#lp-littercritters">
+        <span>Learning Package:<br>Litter Critters</span>
       </a>
     </div>
   </div>
   </div>
 
 
-<h5 class="margin--bottom--lg" id="playlist-earth"><b>Playlist: Save Our Earth</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-wonderfulwildlife"><b>Playlist: Wonderful Wildlife</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/belXC_IoW4o" class="responsive-iframe"></iframe>
+      <iframe src="https://www.youtube.com/embed/SHWTXxh1HVM" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> How to Take Care of the Environment (Learning Videos for Kids) (5 min)</b><br>
-Pollution destroys our beautiful planet. Learn how you can contribute to the care of our planet starting from very simple actions!</p>
-   <small>Source: How to Take Care of the Environment (Learning Videos For Kids) - YouTube (2021, July 30). Fun World For Kids. Retrieved 2022, January 12.</small>
+    <p><b class="has-text-indigo"> DIY Photography Tricks | School Holidays Specials with Librarians (6 min) </b><br>
+Learn DIY photography tricks to create compelling stories about the wonderful wildlife around you.</p>
+   <small>Source: DIY Photography Tricks | School Holidays Specials with Librarians - Youtube (2022, Mar 8). NLB Singapore. Retrieved 2022, March 11.</small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/VlRVPum9cp4" class="responsive-iframe"></iframe>
+      <iframe src="https://www.youtube.com/embed/0jmXcfRXjDI" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo"> How Recycling Works! (4 min)</b><br>
-There is so much we can do to reduce the garbage produced and keep the Earth healthy! Learn how new life can be given to old waste.</p>
-    <small>Source: How Recycling Works! - YouTube (2016, March 24). SciShow Kids. Retrieved 2022, January 12.</small>
+<p><b class="has-text-indigo">Discovering Dolphins | What Sam Sees (9 min)</b><br>
+Delve into the world of dolphins, super smart acrobats of the ocean! </p>
+    <small>Source: Discovering Dolphins | What Sam Sees - Youtube (2018, June 14). Nat Geo Kids. Retrieved 2022, March 11. </small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/2Mkwhe6LOBo" class="responsive-iframe"></iframe>
+      <iframe src="https://www.youtube.com/embed/FWW647CrtoA" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo"> I CAN SAVE THE EARTH by Alison Inches and Viviana Garofoli - Children's Book - Read aloud (5 min)</b><br>
-Max is a cute and furry green monster, but an environmental nightmare! Follow Max’s journey toward environmental awareness and making a difference for the planet!</p>
-    <small>Source: I CAN SAVE THE EARTH by Alison Inches and Viviana Garofoli - Children's Book - Read aloud - YouTube (2018, April 19). PV Storytime. Retrieved 2022, January 12.</small>
+    <p><b class="has-text-indigo">Robert's Wildlife Hospital Tour | Irwin Family Adventures (7 min)</b><br>
+Follow Robert Irwin on a tour of the wildlife hospital at the Australia Zoo!</p>
+    <small>Source: Robert's Wildlife Hospital Tour | Irwin Family Adventures - YouTube (2021, July 10). Australia Zoo. Retrieved 2022, March 11.</small>
   </div>
 </div>
 <br>
 
 
-<h3><b>Learning Packages</b></h3>
+<h3 class="margin--bottom--lg" id="lp-littercritters"><b>Learning Packages</b></h3>
 Articles/resources that show us interesting ways to live sustainably.
 
-<h5 class="margin--bottom--lg" id="lp-leaps"><b>Leaps and Bounds | Science Centre Singapore</b></h5>
+<h5><b>Litter Critters | ABCya</b></h5>
 
-Journey to the year 2050 and save the planet from climate change in <a target="_blank" href="https://www.science.edu.sg/game/index.html">this web game</a>!
+Learn the basics of recycling with the Litter Critters! Sort trash into four different categories: recyclables, compost, electronic waste, and landfill waste. <a target="_blank" href="https://abcya.com/games/recycling_game">Play the game here!</a>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

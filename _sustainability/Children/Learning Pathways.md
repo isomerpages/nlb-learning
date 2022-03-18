@@ -26,7 +26,7 @@ third_nav_title: Children
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3><b>Save Our Earth</b></h3>
+<h3><b>Protect Wildlife, Protect Earth</b></h3>
 Go green with your child to build an eco-friendly future together.
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -37,16 +37,16 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/children/content" target="_blank"><b> Playlist<br>Save Our Earth</b></a></td>
-        <td style="width: 40%;"> Learn the importance of caring for our planet and how children can play their part.</td>
+        <td style="width: 20%;"><a href="/sustainability/children/content" target="_blank"><b> Playlist:<br>Wonderful Wildlife</b></a></td>
+        <td style="width: 40%;"> Find out more about the wonderful wildlife all around us, and what we can do to protect them.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://www.science.edu.sg/game/index.html" target="_blank"><b> Learning Package<br>Leaps and Bounds | Science Centre Singapore</b></a></td>
-        <td>Journey to the year 2050 and save the planet from climate change in this web game!</td>
+        <td><a href="https://abcya.com/games/recycling_game" target="_blank"><b> Learning Package:<br>Litter Critters | ABCya</b></a></td>
+        <td>Learn the basics of recycling with the Litter Critters! Sort trash into four different categories: recyclables, compost, electronic waste, and landfill waste. </td>
         <td></td>
-        <td> </td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -61,22 +61,30 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/cckpl" target="_blank"><b>CCKPL: Urban Farming Hydroponics Workshop</b></a></td>
-        <td style="width: 40%;">Join VertiVegies as they take you on a journey into the dynamic world of modern agriculture.</td>
-        <td style="width: 20%;">11 Mar 2022, <br>3.30-5.30pm</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library </td>
-			</tr>
-			<tr>
-                <td style="width: 20%;"><a href="https://go.gov.sg/cckpl" target="_blank"><b>CCKPL: Youth Corp</b></a></td>
-        <td style="width: 40%;">Come learn about conservation and climate change through a trash to treasure workshop.</td>
-        <td style="width: 20%;">12 Mar 2022, <br> 11am-12.30pm</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library </td>
-			</tr>
-      <tr>
                 <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/grow-your-own-microgreens-workshop-earth-heroes-registration-291156305347?aff=ebdsoporgprofile" target="_blank"><b>Grow Your Own Microgreens Workshop</b></a></td>
         <td style="width: 40%;">Join us in celebrating Earth Day by learning how to grow and care for your own edible microgreens!</td>
         <td style="width: 20%;">26 Mar 2022, <br> 10.30-11.30am</td>
         <td style="width: 20%;">Tampines Regional Library </td>
+			</tr>
+			<tr>
+				<td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Join NParks for our Living with Nature sharing series, starting with a storytelling on how some commonly found reptiles and amphibians (or herps) in Singapore come together to solve a mystery! <br><br>Following the storytelling segment, there will be a craft activity for both parent and child to make their favourite herp!</td>
+				<td style="width: 20%;">30 Apr 2022, 2-3pm<br><br>28 May 2022, 12.30-1.30pm<br><br>25 Jun 2022, 11-11.45am</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library<br><br>Tampines Regional Library<br><br>Woodlands Regional Library</td>
+			</tr>
+			<tr>
+         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>TinkerWorks – Saving Planet Earth</b></a></td>
+        <td style="width: 40%;">Get inspired to save planet Earth through engaging book discussion and tinkering activity! This programme is part of a series of sustainability themed events for children.
+</td>
+        <td style="width: 20%;">21 Jun 2022, <br> 4-5pm</td>
+        <td style="width: 20%;">Bishan Public Library </td>
+			</tr>
+			<tr>
+         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>CHF: Lesson 1: Say No to Food Waste</b></a></td>
+        <td style="width: 40%;">"Say No to Food Waste" is a brand new educational programme for children presented by CapitaLand volunteers. <br><br>Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste.
+</td>
+        <td style="width: 20%;">25 Jun 2022, <br> 2-3pm</td>
+        <td style="width: 20%;">Zoom</td>
 			</tr>
     </tbody>
   </table>
@@ -91,34 +99,17 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>MiniYOGI</b></a></td>
-        <td style="width: 40%;">Have a fun and relaxing morning with your little ones through the story of Yoga. Breathe, stretch and do some yoga poses with the beautiful MiniYOGI cards.</td>
-        <td style="width: 20%;">14 Mar 2022, <br>11-11.45am</td>
+         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>#TellStory 7 Award Edition</b></a></td>
+        <td style="width: 40%;">Season 7 of #TellStory is back! And this time we are back with an added healthy competitive edge! Students from various groups will represent their schools and compete for several drama/acting awards! <br><br>Travel with our youths through their stories, on a wonderful dramatic journey filled with adventures and heartfelt messages. Enjoy dramatic interpretations of both classic and (some tummy tickling) original scripts devised and written by the students! Let them Tell the Story, AS IT IS!</td>
+        <td style="width: 20%;">2 Apr & 9 Apr 2022</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 			<tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>My Art Buddy</b></a></td>
-        <td style="width: 40%;">Use your creativity to make engineered works of art.</td>
-        <td style="width: 20%;">16 Mar 2022, 10am-12.30pm</td>
-        <td style="width: 20%;">Bishan Public Library</td>
-      </tr>
-			<tr>
-        <td style="width: 20%;"></td>
-        <td style="width: 40%;"></td>
-        <td style="width: 20%;">17 Mar 2022, 10am-1pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library</td>
-      </tr>
-			<tr>
-        <td style="width: 20%;"></td>
-        <td style="width: 40%;"></td>
-        <td style="width: 20%;">18 Mar 2022, 10am-12pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library</td>
-      </tr>
-			<tr>
-        <td style="width: 20%;"></td>
-        <td style="width: 40%;"></td>
-        <td style="width: 20%;">17 Mar 2022, 1pm-3pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library</td>
+        <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
+        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
+</td>
+        <td style="width: 20%;">Apr-Jun 2022</td>
+        <td style="width: 20%;">Public Libraries Singapore’s Facebook</td>
       </tr>
      </tbody>
   </table>

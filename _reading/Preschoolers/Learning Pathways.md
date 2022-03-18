@@ -93,7 +93,13 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>19 Mar 2022 <br>11.00am-11.20am</td>
         <td>Zoom</td>
       </tr>
-
+<tr>
+<td><a href="https://ihis.zoom.us/webinar/register/WN_mMus6QRMSQSZ04T8pfESJw" target="_blank"><b>Parenthood- An amazing journey Public Webinar</b></a></td>
+        <td> Join us and get advice and techniques on parenting from KKH healthcare experts. In this series, you will learn how to develop the right sleeping routine for your child, draw boundaries on digital use and nurture a love for reading in children!
+</td>
+        <td>26 Mar 2022 <br>1.00pm to 2.30pm</td>
+        <td>Zoom</td>
+      </tr>
     </tbody>
   </table>
 </div>

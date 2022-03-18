@@ -26,7 +26,7 @@ third_nav_title: Tweens
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3><b>Eco Champs</b></h3>
+<h3><b>Green and You</b></h3>
 Taking care of the environment starts with YOU!
 
 <div class="horizontal-scroll margin--bottom--lg">
@@ -38,14 +38,14 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/tweens/content" target="_blank"><b> Playlist<br>D.I.Y. Recycling</b></a></td>
-        <td style="width: 40%;"> Get inspired to recycle and repurpose trash into treasure!</td>
+        <td style="width: 20%;"><a href="/sustainability/tweens/content" target="_blank"><b> Playlist:<br>Pollution Solution</b></a></td>
+        <td style="width: 40%;">Pollution seems inevitable in our modern cities – find out some things we can do as a solution!</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="https://www.nationalgeographic.com/pdf/kids/photos/articles/Nature/H-P/KidsVsPlastic/plastic-free-party.pdf" target="_blank"><b> Learning Package<br>Kids vs Plastic: Tips for Plastic-Free Snacking | National Geographic Kids</b></a></td>
-        <td>Feeling peckish? Take a bite on the green side!</td>
+        <td><a href="https://fishgame.cloudinstitute.org" target="_blank"><b> Learning Package:<br>The Fish Game | The Cloud Institute for Sustainable Education</b></a></td>
+        <td>Are you a sustainable fisherman? Find out if the fish in the ocean will run out before you finish this game!</td>
         <td></td>
         <td></td>
       </tr>
@@ -62,16 +62,16 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/tinkerworks-explore-nature-tweenkerama-sustainability-registration-261643050407?aff=odcleoeventsincollection" target="_blank"><b>TinkerWorks: Explore Nature</b></a></td>
-        <td style="width: 40%;">Get inspired to learn more about the environment around us through a book discussion and tinkering activities in our libraries!<br><br>This programme is part of a series of sustainability themed events for tweens.</td>
-        <td style="width: 20%;">17 Mar 2022, <br>1-2.15pm</td>
-        <td style="width: 20%;">Queenstown Public Library</td>
-			</tr>
-						<tr>
-              <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/grow-your-own-microgreens-workshop-tweenkerama-sustainability-registration-291156927207?aff=ebdsoporgprofile" target="_blank"><b>Grow Your Own Microgreens Workshop</b></a></td>
+				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/grow-your-own-microgreens-workshop-tweenkerama-sustainability-registration-291156927207?aff=ebdsoporgprofile" target="_blank"><b>Grow Your Own Microgreens Workshop</b></a></td>
         <td style="width: 40%;">Join us in celebrating Earth Day by learning how to grow and care for your own edible microgreens!</td>
         <td style="width: 20%;">27 Mar 2022, <br> 2-3pm</td>
         <td style="width: 20%;">Toa Payoh Public Library </td>
+			</tr>
+			<tr>
+				<td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Join NParks for our Living with Nature sharing series, starting with a storytelling on how some commonly found reptiles and amphibians (or herps) in Singapore come together to solve a mystery! <br><br>Following the storytelling segment, there will be a craft activity for both parent and child to make their favourite herp!</td>
+				<td style="width: 20%;">30 Apr 2022, 2-3pm<br><br><br>28 May 2022, 12.30-1.30pm<br><br>25 June 2022, 11-11.45am</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library<br><br>Tampines Regional Library<br><br>Woodlands Regional Library</td>
 			</tr>
     </tbody>
   </table>
@@ -85,17 +85,18 @@ Taking care of the environment starts with YOU!
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Book Orators</b></a></td>
-        <td style="width: 40%;">Learn about some amazing inventions and how they influenced our world today and the technology we use in our everyday lives.</td>
-        <td style="width: 20%;">13 Mar 2022,<br>10am-12pm</td>
+			<tr>
+        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>How to Go Safe Online</b></a></td>
+        <td style="width: 40%;">This programme is suitable for children aged 7 to 12 years old, and parents are welcome to attend with their children. Join us for this online session to learn about the types of cyber threats to look out for and learn how you can Go Safe Online by practising good cyber hygiene habits.</td>
+        <td style="width: 20%;">28 May 2022,<br>10am-11am</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 			<tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Unicorn Adventures: The Dark Forest</b></a></td>
-        <td style="width: 40%;">Join Shriya Sharma, the young author of the book <i>Unicorn Adventures: The Dark Forest</i>, at this exciting event. In this session, Shriya will talk about her book, her motivation, and challenges she overcame to write her debut book.</td>
-        <td style="width: 20%;">19 Mar 2022,<br>11am-12pm</td>
-        <td style="width: 20%;">library@harbourfront</td>
+        <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
+        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
+</td>
+        <td style="width: 20%;">Apr-Jun 2022</td>
+        <td style="width: 20%;">Public Libraries Singapore’s Facebook</td>
       </tr>
   </tbody>
   </table>

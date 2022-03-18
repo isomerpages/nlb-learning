@@ -26,7 +26,7 @@ third_nav_title: Teens
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3><b>Earthy Pursuits</b></h3>
+<h3><b>Among S(us)</b></h3>
 Be informed and make an impact to the environment.
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -37,14 +37,14 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/teens/content" target="_blank"><b> Playlist<br>Think Green, Go Green</b></a></td>
-        <td style="width: 40%;"> Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.</td>
+        <td style="width: 20%;"><a href="/sustainability/teens/content" target="_blank"><b> Playlist:<br>Clean & Green</b></a></td>
+        <td style="width: 40%;">Explore the impact of waste on the planet and ways we can keep our environment clean.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id2" target="_blank"><b> Learning Package<br>Deep Dive Into Marine Biodiversity</b></a></td>
-        <td>Learn how biodiversity is intimately related to our daily lives and how we can continue to care for the world around us.</td>
+        <td><a href="https://www.stopdisastersgame.org/stop_disasters" target="_blank"><b> Learning Package:<br>Stop Disasters Game | UN Office for Disaster Risk Reduction</b></a></td>
+        <td>A sustainable future will require us to plan for future environmental crises, whether they are floods, hurricanes, wildfires, tsunamis, or earthquakes! Are you prepared?</td>
         <td></td>
         <td></td>
       </tr>
@@ -73,6 +73,13 @@ Be informed and make an impact to the environment.
         <td style="width: 20%;">26 Mar 2022, <br> 2.30-3.30pm</td>
         <td style="width: 20%;">Toa Payoh Public Library </td>
 			</tr>
+			<tr>
+         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Teens Takeover | GREENHOUSE
+</b></a></td>
+        <td style="width: 40%;">A series of talks and workshops for teens to explore various green topics and projects. <br><br>Stay tuned for more updates.</td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
+			</tr>
     </tbody>
   </table>
 </div>
@@ -85,18 +92,19 @@ Be informed and make an impact to the environment.
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/cckpl" target="_blank"><b>CCKPL: Unplugged</b></a></td>
-        <td style="width: 40%;">Want to take a break and unwind over some tabletop games? During Unplugged, set aside your digital devices, and be introduced to a variety of games for you to kick back and have a good time!</td>
-        <td style="width: 20%;">4 Mar 2022<br>&<br>18 Mar 2022,<br>3-5pm</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library</td>
+			<tr>
+        <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
+        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
+</td>
+        <td style="width: 20%;">Apr-Jun 2022</td>
+        <td style="width: 20%;">Public Libraries Singapore’s Facebook</td>
       </tr>
 			<tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Fusion 360 for Beginners</b></a></td>
-        <td style="width: 40%;">Join 8059 Blank as they conduct an online hands-on workshop aimed at introducing children and teenagers to the basic concepts of computer-aided 3D design.<br><br>Participants will be required to download free trial softwares for the workshop.</td>
-        <td style="width: 20%;">12 Mar 2022,<br>10am-12pm</td>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/head2head-stories-through-memories-imagination-registration-207899812937?aff=ebdsoporgprofile" target="_blank"><b>Head2Head | Stories Through Memories & Imagination</b></a></td>
+        <td style="width: 40%;">Join the writers as they discuss the writing processes through emotional memory and ruminations in observing the world.</td>
+        <td style="width: 20%;">19 Apr 2022, 7-8pm</td>
         <td style="width: 20%;">Zoom</td>
-      </tr>
+			</tr>
   </tbody>
   </table>
 </div>

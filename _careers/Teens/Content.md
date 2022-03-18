@@ -46,8 +46,25 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
+      <a href="#playlist-dream">
+        <span>Playlist:<br>Day in the Life of Dream Chasers</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-pink-ruby">
       <a href="#playlist-health">
         <span>Playlist:<br>Healthcare</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-pink-ruby">
+      <a href="#lp-started1">
+        <span>Learning Package:<br> Time to Get Started! Part 1</span>
       </a>
     </div>
   </div>
@@ -60,8 +77,54 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
   </div>
   </div>
 
+
 <h3><b>Playlist</b></h3>
 A collection of short videos and podcasts to inspire you as you make that all-important decision on what career path to take.
+
+<h5 class="margin--bottom--lg" id="playlist-dream"><b>Playlist: A Day in the Life of Dream Chasers</b></h5>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/FNqYxS4SB7A"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>From 'Fun Holiday Job' to Zookeeper: Why This Young Woman Chose to Chase Her Passion (5 mins)</b><br><br>
+    While looking for a fun holiday job, Delvinder Kaur never expected that it would turn out to be the career for her. Watch this video to see what she does as a zookeeper, and why she decided to make it her full-time job.</p>
+    <small>Source: From 'Fun Holiday Job' to Zookeeper: Why This Young Woman Chose to Chase Her Passion (2020, Jan 12). Channel News Asia. Retrieved 2022, January 14</small>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/kqqm8j_p2w0"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>
+Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br><br>
+    From chasing her passions to opening up her own family bakery, this owner of local bakery, Puffs and Peaks, shares the choices she made that shaped her path into the food industry.</p>
+    <small>Source: Working with My Mother: Puffs and Peaks Bakery (2021, May 21). Youthtopia SG. Retrieved 2022, January 14</small>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/xPKk2cFUDRk"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Pursuing a Career in Music with Estelle Fly - Ask Me Anything Ep 1 (13 mins)</b><br><br>
+   How can you prepare yourself for a career in music, who can you approach and what platforms are suitable? Is it as daunting as it seems, and what does it take to get there? Learn all this and more from singer, dancer and musician, Estelle Fly, as she shares her personal experiences in pursuing her dreams.</p>
+    <small>Source:
+			Pursuing a Career in Music with Estelle Fly - Ask Me Anything Ep 1 (2021, Oct 25). NXT. Retrieved 2022, January 14</small>
+  </div>
+</div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h5 class="margin--bottom--lg" id="playlist-health"><b>Playlist: A Day in the Life of: Healthcare Professionals</b></h5>
 
@@ -72,7 +135,7 @@ A collection of short videos and podcasts to inspire you as you make that all-im
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>On My Way!: A Day in the Life of a Surgeon (5 min)</b><br>
+    <p><b>On My Way!: A Day in the Life of a Surgeon (5 min)</b><br><br>
     Join Dr Hamid Razak as he gives us a peek into the true life of a surgeon.</p>
     <small>Source: On My Way!: A Day in the Life of a Surgeon - YouTube (2020, Dec 14). NYCSingapore. Retrieved 2021, October 22.</small>
   </div>
@@ -85,7 +148,7 @@ A collection of short videos and podcasts to inspire you as you make that all-im
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>Nursing for Life Episode 1: Growing Up Years (3 min)</b><br>
+    <p><b>Nursing for Life Episode 1: Growing Up Years (3 min)</b><br><br>
     Follow the journey of five nurses as they see patients through every life stage.</p>
     <small>Source: Nursing for Life Episode 1: Growing Up Years - YouTube (2016, Dec 27). Care to Go Beyond. Retrieved 2021, October 22.</small>
   </div>
@@ -98,19 +161,59 @@ A collection of short videos and podcasts to inspire you as you make that all-im
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>What It’s Like Being A Medical Social Worker In Singapore (4 min)</b><br>
+    <p><b>What It’s Like Being A Medical Social Worker In Singapore (4 min)</b><br><br>
     A medical social worker from Jamiyah Nursing Home explains how his role is different from social workers and touches on some of the challenges he faces at work.</p>
     <small>Source: What it’s like being a Medical Social Worker in Singapore - YouTube (2020, Dec 24). Agency for Integrated Care (AIC) Singapore. Retrieved 2021, October 22.</small>
   </div>
 </div>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3><b>Learning Package</b></h3>
 Get a glimpse of what it takes to achieve your aspirations with these articles and activities.
 
+<h5 class="margin--bottom--lg" id="lp-started1"><b>Time to Get Started! Part 1</b></h5>
+
+It’s a brand new year – and the perfect time to begin planning out activities that can help forge your future path. Whether it’s during term time or during the holidays, here’s how you can get started on your future aspirations. 
+
+**Part 1: Discover Yourself and Explore What’s Out There!**
+
+Unsure of where to start? Getting to know yourself a little bit better is a great first step, like knowing what you excel in, or knowing what sort of lifestyle you would like to live.
+
+Take the time to do quizzes like these: [Know Yourself ](https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment.html). Just log in (based on which school you are in) and get started to find out about your interests, skills, values and learning styles. 
+
+Take a look at what is available from platforms such as these: [Singapore Industry Landscape](https://www.myskillsfuture.gov.sg/content/student/en/preu/world-of-work/industry-landscape.html) for a better idea of what future roles and responsibilities might suit you. Knowing where you could be headed is a great starting point to planning the steps you will need to take to get there.
+
+Remember that all these tools are here to guide you along and not to instruct you, so answer honestly and don’t feel pressured. Some jobs in the future might not even currently be available yet as the world is always changing! 
+
+**Check out this book for more ideas on how to get started:**
+
+<h5 class="margin--bottom--lg"><b>A Teen's Guide to Getting Stuff Done: Discover Your Procrastination Type, Stop Putting Things Off, And Reach Your Goals</b></h5>
+
+<div class="row is-multiline">
+  <div class="col is-half">
+    <img src="/images/career/teens/teens-guide.png" alt="A Teen's Guide to Getting Stuff Done">
+  </div>
+</div>
+
+Author: Jennifer Shannon<br>
+Publisher: New Harbinger Publications, 2017<br>
+
+Do you procrastinate? And if so, what's your procrastination type? In this fun and illustrated guide, author Jennifer Shannon blends acceptance and commitment therapy (ACT) and cognitive behavioral strategies to help you recognize your procrastination habits, discover the strengths of your unique procrastination type, and find the motivation you need to meet important deadlines and reach your highest goals.
+
+Synopsis from [New Harbinger](https://www.newharbinger.com/9781626255876/a-teens-guide-to-getting-stuff-done/)
+
+The book covers and synopses are the copyright of the respective publishing companies. (All websites were last accessed on 16 March 2022.)
+
+**Come back next week for Part 2 of Time to Get Started!**
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h5 class="margin--bottom--lg" id="lp-email"><b>Teen Things: Emailing 101</b></h5>
+
 So you’ve just been assigned to email an organisation for a school project or a Values in Action (VIA) programme, or maybe you have to apply for an internship.
 
-If you aren’t quite sure what goes into formal emails, we’re here to help you out! [Check out](/files/TeenThings-Email101.pdf){:target="_blank" } some tips and tricks on writing emails that are sure to impress.
+If you aren’t quite sure what goes into formal emails, we’re here to help you out! [Check out](/files/TeenThings-Email101.pdf) some tips and tricks on writing emails that are sure to impress.
 
 **Here are a few more resources from the library to help you write better:**
 
@@ -124,13 +227,13 @@ If you aren’t quite sure what goes into formal emails, we’re here to help yo
 
 Author: Gary Provost<br>
 Publisher: Berkley Books, 2019<br>
-Only available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/4264951){:target="_blank" }.
+Only available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/4264951)
 
 This is the one guide that anyone who writes—whether student, businessperson, or professional writer—should keep on his or her desk. Filled with professional tips and a wealth of instructive examples, 100 Ways to Improve Your Writing can help solve any writing problem.
 
 In this compact, easy-to-use volume you’ll find the eternal building blocks of good writing—from grammar and punctuation to topic sentences—as well as advice on challenges such as writer’s block and creating a strong title. It is a must-have resource—perfect for reading cover to cover, or just for keeping on hand for instant reference—now updated and refreshed for the first time.
 
-Synopsis from [Penguin](https://www.penguin.com.au/){:target="_blank" }.
+Synopsis from [Penguin](https://www.penguin.com.au/)
 
 <h5 class="margin--bottom--lg"><b>Eliza and Her Monsters</b></h5>
 
@@ -142,13 +245,13 @@ Synopsis from [Penguin](https://www.penguin.com.au/){:target="_blank" }.
 
 Call No.: Y ZAP<br>
 Publisher: Greenwillow Books, 2017<br>
-Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/library/teens/media/2948046){:target="_blank" }.
+Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/library/teens/media/2948046)
 
 In the real world, Eliza Mirk is shy, weird, and friendless. Online, Eliza is LadyConstellation, anonymous creator of a popular webcomic called Monstrous Sea. With millions of followers and fans throughout the world, Eliza’s persona is popular. Eliza can’t imagine enjoying the real world as much as she loves her digital community.
 
 Then Wallace Warland transfers to her school and Eliza begins to wonder if a life offline might be worthwhile. But when Eliza’s secret is accidentally shared with the world, everything she’s built—her story, her relationship with Wallace, and even her sanity—begins to fall apart.
 
-Synopsis from [Harper Collins](https://www.harpercollins.com/){:target="_blank" }.
+Synopsis from [Harper Collins](https://www.harpercollins.com/)
 
 The book covers and synopses are the copyright of the respective publishing companies. (All websites were last accessed on 8 October 2021.)
 

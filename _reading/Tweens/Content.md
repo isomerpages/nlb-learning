@@ -55,8 +55,8 @@ Check out our **learning packages** for D.I.Y to engage your child in different 
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#lp-reach-out-for-the-skies">
-        <span>Learning Package:<br> Reach out for the skies</span>
+      <a href="#lp-hai-there-haiku">
+        <span>Learning Package:<br> Hai There, Haiku</span>
       </a>
     </div>
   </div>
@@ -72,40 +72,41 @@ A collection of short videos and podcasts to expand reading interests.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/RDTiF3h5LyY" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/1UFWg3RITII" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b> Choose Your Library Adventure </b><br>
-    The fate of the library is in your hands! Follow our mysterious and magical Guide as you embark on a quest to save the library from being closed... FOREVER! <br><br>
-<small>Source: Choose Your Library Adventure (2021, October 11). Public Libraries Singapore. Retrieved 2021, December 15.</small></p>
+  <p><b> Ask Authors Anything Episode 3: A.J. Low (with Sherlock Sam and Watson) (13 min) </b><br>
+    How much food does Sherlock Sam eat every day? Find out the answers to your questions in Ask Authors Anything with the writers of the Sherlock Sam series, A.J. Low!
+<br><br>
+<small>Source: Ask Authors Anything Episode 3: A.J. Low (with Sherlock Sam and Watson) (2020, June 13). Epigram Books. Retrieved 2022, February 16.</small></p>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/pMdJxVjZMRI" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/T4j5tGNms14" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b> The Myth of Pandora’s box - Iseult Gillespie </b><br>
-    This short clip tells the myth of the first human woman, Pandora. Watch on to find out and follow this Ted-Ed series if you want to learn more about various myths and legends. <br><br>
-<small>Source: The Myth of Pandora’s box - Iseult Gillespie (2019, January 15). Ted-Ed. Retrieved 2021, December 15.</small></p>
+  <p><b> The Evolution of Science Fiction (Feat. Lindsay Ellis) | It's Lit (6 min) </b><br>
+Interested in Science Fiction but don’t know where to start? Find out about Sci Fi classics and what makes them so special in this video! <br><br>
+<small>Source: The Evolution of Science Fiction | It’s Lit! (2018, July 18) PBS Voices. Retrieved 2022, March 9.</small></p>
   </div>
 </div>
 
-<h5><a href="https://www.bookclubforkids.org/new-blog/2019/9/9/episode-95-the-parker-inheritance-varian-johnson" target="_blank">Episode 95 – The Parker Inheritance – Varian Johnson</a></h5>
+<h5><a href="https://www.bookclubforkids.org/new-blog/2015/12/15/episode-13-the-strange-case-of-origami-yoda-b225k" target="_blank">Podcast: May the Fourth Be With You – The Strange Case of Origami Yoda by Tom Angleberger with Lalo Alcaraz (21 min) </a></h5>
 
-<p>Here’s a podcast for you where kids actively participate in discussions with the author and the podcast host, with a snippet of the book being read by a celebrity reader. The book of this episode is all about mysteries, with the main storyline involving a treasure hunt passed down from generations.<br><br>
-<small>Source: Episode 95 – The Parker Inheritance – Varian Johnson (2019, September 9). Book Club for Kids. Retrieved 2021, December 15.</small></p>
+<p>Here’s a podcast for you where kids actively participate in discussions with the author and the podcast host, with a snippet of the book being read by a celebrity reader. The book of this episode is a lighthearted read about an all-knowing Origami Yoda.<br><br>
+<small>May the Fourth Be With You – The Strange Case of Origami Yoda by Tom Angleberger with Lalo Alcaraz (2021, May 4). Book Club for Kids. Retrieved 2022, February 16.</small></p>
 
 <h3><b>Learning Package</b></h3>
 	
 D.I.Y activities to engage your child in different topics.	
-	
-<h4 id="lp-reach-out-for-the-skies"><a href="/files/Reading_Tweens_Reach%20Out%20for%20the%20Skies.pdf " target="_blank"><b> Reach Out for the Skies </b></a></h4>
-<p>Discover good reads and try your hand at the book-related craft activity!</p>
+
+<h4 id="lp-hai-there-haiku"><a href="/files/Reading_Tweens_Hai-There-Haiku.pdf" target="_blank"><b> Hai There, Haiku </b></a></h4>
+<p>The haiku is a type of short poem usually composed of three lines. Take up this challenge and pen your own haiku today!</p>
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}

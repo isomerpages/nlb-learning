@@ -32,21 +32,21 @@ Read with your child to explore new topics and discover new experience.
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal ">Discover Recommended Resources</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/reading/tweens/content" target="_blank"><b>Playlist Reading Takes Me Places</b></a></td>
-        <td style="width: 40%;"> Explore different topics with these resources for your child to expand reading diets.  </td>
+        <td style="width: 40%;"> Explore different topics with these resources for your child to expand reading diets. </td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/reading/tweens/content"><b>Learning Package Reach Out for the Skies</b></a></td>
-        <td>Help your child relate to a book through a short read and a story-based craft. </td>
-        <td></td>
-        <td> </td>
+        <td style="width: 20%;"><a href="/reading/tweens/content"><b>Learning Package Hai There, Haiku</b></a></td>
+         <td style="width: 40%;">The haiku is a type of short poem usually composed of three lines. Take up this challenge and pen your own haiku today!</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
       </tr>
     </tbody>
   </table>
@@ -56,29 +56,29 @@ Read with your child to explore new topics and discover new experience.
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal ">Explore Programmes</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/213485630267" target="_blank"><b> Connecting with our History – The 3 Kingdoms </b></a></td>
-        <td style="width: 40%;">A workshop for children from 10 to 12 years on the dynasties that ruled Tamil Nadu — namely, the Chera, Chola and Pandya dynasties. The workshop conducted in Tamil will provide a brief into the kingdoms, coupled with quizzes and activities to follow.
-					<br><br> Registration will open closer to the date.</td>
-        <td style="width: 20%;"> 30 Jan 2022, 3:00pm-4:30pm</td>
+        <td style="width: 20%;"><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849 " target="_blank"><b> #TellStory7 Award Edition </b></a></td>
+        <td style="width: 40%;">Season 7 of #TellStory is back! Students from various groups will represent their schools and compete for several drama/acting awards! Travel with our youths through their dramatic interpretations of both classic and (some tummy tickling) original scripts devised and written by the students! 
+<br><br> Registration will open closer to the date.</td>
+        <td style="width: 20%;"> 2 & 9 April 2022, 1pm – 5pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
-<tr>
-<td><a href=" http://go.gov.sg/BookBugs " target="_blank"><b> Book Bugs: Rescuers of Stories Lost</b></a></td>
-        <td>A bug-themed collectible card game reading promotion targeted at children to encourage reading in both English and Mother Tongue Languages. Visit go.gov.sg/bookbugs for updates.</td>
-        <td>Mar to Dec 2022</td>
-        <td> </td>
-      </tr>
-<tr>
-<td><a href="https://www.eventbrite.sg/e/thinker-play-unscramble-the-word-sustainability-time-of-your-life-tickets-217851408427?aff=ebdssbonlinesearch" target="_blank"><b>TinkerWorks – Transform Me | Tweenkerama | Reading</b></a></td>
-        <td>Get inspired to think out of the box through an engaging book discussion and a tinkering activity!
+      <tr>
+ <td style="width: 20%;"><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b> 线上导读绘本《找到了》</b></a></td>
+         <td style="width: 40%;">恬恬和阿德跟着婆婆和妈妈一起去看街戏。但在街戏开演前，婆婆和妈妈却发现他们两人不见了！婆婆和妈妈找遍了整个戏台，就是找不到他们。结果街戏开演了……</td>
+         <td style="width: 20%;"> 12 May 2022, 8pm – 10pm </td>
+        <td style="width: 20%;">Zoom</td>
+			</tr>
+        <tr>
+<td><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849 " target="_blank"><b>My Island City: What Makes a Place Feel Like Home?</b></a></td>
+        <td>This is an intergeneration online workshop for children to brainstorm and design their own home with their parents and grandparents.  There will be visual and written media on the built and natural environment of Singapore to inspire them.
 					<br><br> Registration will open closer to the date.</td>
-        <td>12 Mar 2022, <br>2:30pm – 3:15pm</td>
-        <td>Jurong Regional Library</td>
+        <td>11 Jun 2022, <br>11am-12pm </td>
+        <td>Zoom</td>
       </tr>
     </tbody>
   </table>
@@ -88,7 +88,7 @@ Read with your child to explore new topics and discover new experience.
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal ">Discover Other Learning Focus Areas</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Areas</th>
       </tr>
     </thead>
     <tbody>
@@ -98,13 +98,14 @@ Read with your child to explore new topics and discover new experience.
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
+
 <tr>
-<td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/easy-coffee-art-libraryharbourfront-registration-221844301277?aff=ebdssbdestsearch" target="_blank"><b> Easy Coffee Art</b></a></td>
-        <td> Join our Easy Coffee Art workshop at library@harbourfront and have an aromatic day doing coffee painting!</td>
-        <td> 22 Jan 2022,<br>2:30pm – 3.30pm</td>
-        <td> library@harbourfront</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b> Tweenkerama | Sphero Party </b></a></td>
+        <td> The Sphero BOLT is an app-enabled robotic ball that provides endless opportunities to have fun while learning. In this workshop, participants will learn to handle, navigate, and program Sphero using a block-based programming language on phones or tablets. Come explore the animated 8×8 LED Matrix and advanced sensors like the gyroscope and accelerometer as you program Sphero! </td>
+        <td> June Holidays</td>
+        <td> Various Public Libraries</td>
       </tr>
-  </tbody>
+    </tbody>
   </table>
 </div>
 
