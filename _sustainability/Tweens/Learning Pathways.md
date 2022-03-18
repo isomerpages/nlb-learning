@@ -91,6 +91,13 @@ Taking care of the environment starts with YOU!
         <td style="width: 20%;">28 May 2022,<br>10am-11am</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
+			<tr>
+        <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
+        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
+</td>
+        <td style="width: 20%;">Apr-Jun 2022</td>
+        <td style="width: 20%;">Public Libraries Singapore’s Facebook</td>
+      </tr>
   </tbody>
   </table>
 </div>
