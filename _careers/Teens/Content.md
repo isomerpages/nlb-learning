@@ -90,7 +90,7 @@ A collection of short videos and podcasts to inspire you as you make that all-im
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>From 'Fun Holiday Job' to Zookeeper: Why This Young Woman Chose to Chase Her Passion (5 mins)</b><br>
+    <p><b>From 'Fun Holiday Job' to Zookeeper: Why This Young Woman Chose to Chase Her Passion (5 mins)</b><br><br>
     While looking for a fun holiday job, Delvinder Kaur never expected that it would turn out to be the career for her. Watch this video to see what she does as a zookeeper, and why she decided to make it her full-time job.</p>
     <small>Source: From 'Fun Holiday Job' to Zookeeper: Why This Young Woman Chose to Chase Her Passion (2020, Jan 12). Channel News Asia. Retrieved 2022, January 14</small>
   </div>
@@ -104,7 +104,7 @@ A collection of short videos and podcasts to inspire you as you make that all-im
   </div>
   <div class="col is-three-fifths">
     <p><b>
-Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br>
+Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br><br>
     From chasing her passions to opening up her own family bakery, this owner of local bakery, Puffs and Peaks, shares the choices she made that shaped her path into the food industry.</p>
     <small>Source: Working with My Mother: Puffs and Peaks Bakery (2021, May 21). Youthtopia SG. Retrieved 2022, January 14</small>
   </div>
@@ -117,7 +117,7 @@ Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>Pursuing a Career in Music with Estelle Fly - Ask Me Anything Ep 1 (13 mins)</b><br>
+    <p><b>Pursuing a Career in Music with Estelle Fly - Ask Me Anything Ep 1 (13 mins)</b><br><br>
    How can you prepare yourself for a career in music, who can you approach and what platforms are suitable? Is it as daunting as it seems, and what does it take to get there? Learn all this and more from singer, dancer and musician, Estelle Fly, as she shares her personal experiences in pursuing her dreams.</p>
     <small>Source:
 			Pursuing a Career in Music with Estelle Fly - Ask Me Anything Ep 1 (2021, Oct 25). NXT. Retrieved 2022, January 14</small>
@@ -135,7 +135,7 @@ Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>On My Way!: A Day in the Life of a Surgeon (5 min)</b><br>
+    <p><b>On My Way!: A Day in the Life of a Surgeon (5 min)</b><br><br>
     Join Dr Hamid Razak as he gives us a peek into the true life of a surgeon.</p>
     <small>Source: On My Way!: A Day in the Life of a Surgeon - YouTube (2020, Dec 14). NYCSingapore. Retrieved 2021, October 22.</small>
   </div>
@@ -148,7 +148,7 @@ Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>Nursing for Life Episode 1: Growing Up Years (3 min)</b><br>
+    <p><b>Nursing for Life Episode 1: Growing Up Years (3 min)</b><br><br>
     Follow the journey of five nurses as they see patients through every life stage.</p>
     <small>Source: Nursing for Life Episode 1: Growing Up Years - YouTube (2016, Dec 27). Care to Go Beyond. Retrieved 2021, October 22.</small>
   </div>
@@ -161,7 +161,7 @@ Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>What It’s Like Being A Medical Social Worker In Singapore (4 min)</b><br>
+    <p><b>What It’s Like Being A Medical Social Worker In Singapore (4 min)</b><br><br>
     A medical social worker from Jamiyah Nursing Home explains how his role is different from social workers and touches on some of the challenges he faces at work.</p>
     <small>Source: What it’s like being a Medical Social Worker in Singapore - YouTube (2020, Dec 24). Agency for Integrated Care (AIC) Singapore. Retrieved 2021, October 22.</small>
   </div>
