@@ -83,18 +83,18 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
 <tr>
-<td style="width: 20%;"><a  target="_blank" href="http://go.gov.sg/nlb-teensprogs">
-	<b> Medical Myths Debunked Workshop | scienti-f(x) | Teens Takeover </b></a></td>
-        <td style="width: 40%;"> Learn about the science used in hospitals, the challenges that nurses face day-to-day, and get ready to debunk myths from your favourite medical shows. 
-This session is in collaboration with MOH Holdings (MOHH).</td>
-        <td style="width: 20%;"> 9 Mar 2022,<br>3pm – 4pm</td>
-        <td style="width: 20%;"> Zoom</td>
+<td style="width: 20%;"><a  target="_blank" href="https://www.eventbrite.sg/e/makeit-day-session-01-tampines-regional-library-registration-272528418837?aff=ebdsoporgprofile">
+	<b> MakeIT Day - Session 01 @ Tampines Regional Library </b></a></td>
+        <td style="width: 40%;"> 
+Drop in and try out a variety of short, hands-on activities that are available at our MakeIT Makerspaces.</td>
+        <td style="width: 20%;"> 24 Apr 2022,<br>4pm – 5pm</td>
+        <td style="width: 20%;"> Tampines Regional Library (MakeIT, Level 4)</td>
       </tr>
       <tr>
-        <td><a target="_blank" href="http://go.gov.sg/nlb-teensprogs"><b> Build a LEGO Factory Workshop | scienti-f(x) | Teens Takeover </b></a></td>
+        <td><a target="_blank" href="https://www.eventbrite.sg/e/forests-and-mammals-that-return-in-singapore-tickets-289017006647?aff=ebdsoporgprofile"><b> Forests and Mammals that Return in Singapore </b></a></td>
         <td> Experience building your own automated robotics – using LEGO! In this workshop, you will be introduced to factory manufacturing concepts through hands-on building, coding, and experimentation with LEGO SpikePrime.</td>
-        <td> 18 Mar 2022,<br>3pm – 6pm</td>
-        <td> Jurong Regional Library</td>
+        <td> 26 Apr 2022,<br>7.30pm – 8.30pm</td>
+        <td> Zoom</td>
       </tr>
     </tbody>
   </table>
