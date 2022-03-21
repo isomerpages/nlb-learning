@@ -119,10 +119,6 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=zOW4YVEaTKI"> A
 
 Source: <a target="_blank" href="https://www.youtube.com/watch?v=SqeY2ZYh3t0"> Art Explainer 1: The Power to Look </a> (2019, March 9). <i>The Art Institute of Chicago.</i> Retrieved 2022, March 10
 
-<h4>Website</h4>
-
-<h5><a target="_blank" href="https://www.unep.org/explore-topics/green-economy?__cf_chl_managed_tk__=pmd_3uVt5NT5vJszILkDQcVVe9Mo8Y_Mcem8z3ZkMMqxUG4-1632874402-0-gqNtZGzNAxCjcnBszQjl">UN Environment Programme</a></h5>
-<p>Explore the site to read about the green economy on a global scale and the transition to economies that are low carbon, resource efficient and socially inclusive.</p>
 
 <h4>eBooks</h4>
 <h5>1. Photography, A Very Short Introduction</h5>
