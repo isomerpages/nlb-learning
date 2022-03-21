@@ -2,7 +2,6 @@ collections:
   sustainability:
     output: true
     order:
-      - Event Highlights.md
       - LearnX Sustainability.md
       - Preschoolers/.keep
       - Preschoolers/Overview.md
@@ -29,3 +28,4 @@ collections:
       - Adults Seniors/Content.md
       - Adults Seniors/Programmes.md
       - Adults Seniors/Learning Pathways.md
+      - Event Highlights.md
