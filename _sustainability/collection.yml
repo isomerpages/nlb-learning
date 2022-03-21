@@ -2,6 +2,7 @@ collections:
   sustainability:
     output: true
     order:
+      - Event Highlights.md
       - LearnX Sustainability.md
       - Preschoolers/.keep
       - Preschoolers/Overview.md
