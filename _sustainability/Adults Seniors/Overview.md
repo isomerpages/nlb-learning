@@ -61,4 +61,11 @@ It’s never too late to make a lifestyle change, but there’s no better time t
       </a>
     </div>
   </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/sustainability/adults-seniors/eventhighlights">
+        <span>Event<br>Highlights</span>
+				</a>
+    </div>
+  </div>
 </div>
