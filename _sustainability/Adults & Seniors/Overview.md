@@ -4,7 +4,6 @@ permalink: /sustainability/adults-seniors/overview
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -64,7 +63,7 @@ It’s never too late to make a lifestyle change, but there’s no better time t
   </div>
 	<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="/sustainability/adults-seniors/eventhighlights">
+      <a href="/sustainability/adults-seniors/event-highlights">
         <span>Event<br>Highlights</span>
 				</a>
     </div>
