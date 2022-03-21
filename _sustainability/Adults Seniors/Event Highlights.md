@@ -31,10 +31,14 @@ third_nav_title: Adults Seniors
 The Great Make-Over Project is an annual project that brings together everyday people to co-solution, reinvent, and reimagine spaces to promote sustainable living. 
 Over the course of six weeks, 25 individuals, from different walks of life such as homemakers, artists and entrepreneurs, were divided into five teams and explored the question – “What would Choa Chu Kang look like when our community spaces are reimagined for sustainability?”
 
-<b><u>Re:Imagine CCK Town</b></u>
+<b><u>Re:Imagine CCK Town </b></u>
 
-![](/images/sustainability/adults-and-seniors/Screenshot2.png)![](/images/sustainability/adults-and-seniors/IMG_6144.jpg)
+<div class="row">
+  <div class="column">
+    <img src="/images/sustainability/adults-and-seniors/Screenshot2.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/sustainability/adults-and-seniors/IMG_6144.jpg"  style="width:100%">
+ </div>
 
-Participants attended workshops that closely guided them in their design-thinking and placemaking process. Industry practitioners and sustainability enthusiasts conducted fireside chats and sharing sessions, lending the teams greater insights and knowledge to further refine their green solutions. 
-
-
+Participants attended workshops that closely guided them in their design-thinking and placemaking process. Industry practitioners and sustainability enthusiasts conducted fireside chats and sharing sessions, lending the teams greater insights and knowledge to further refine their green solutions.
