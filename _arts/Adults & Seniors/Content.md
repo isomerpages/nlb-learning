@@ -61,6 +61,15 @@ Check our **learning packages** for a more in-depth resource list, to expand you
     </div>
   </div>
 	</div>
+	 <div class="col is-one-third"> 
+    <div class="clickbox is-pink-ruby">
+      <a href="#lp-fabulously-felted">
+        <span>Learning Package:<b>Fabulously Felted</span>
+      </a>
+    </div>
+  </div>
+	</div>
+	
 	
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-how-to-view-art" class="margin--bottom--lg"><b>How To View Art</b></h5>
@@ -181,6 +190,64 @@ Gene Wisniewski (2020), <i>The Art of Looking at Art</i>, Bloomsbury Publishing.
 <ol>
     <li><span id="footnote-one">Jade. (2021, November 8). The History of the Camera</span> <i>History Things</i>. Retrieved 2022, February 15 from <a href=" https://historythings.com/the-history-of-the-camera/" target="_blank"> History Things</a>.</li>
 </ol>
+
+<h3 class="margin--bottom--lg" id="lp-fabulously-felted"><b>Learning Package</b></h3>
+
+<b>Fabulously Felted</b></h5>
+	
+Create your own Fabulously Felted world by following alongside our demonstration videos and patterns! Each Package has its own theme, ranging from sea creatures to holidays to cute mascots, so there is something that will tickle everyone’s fancy, with extra book resources for further reading on the topics. Projects range from beginner to intermediate. 
+
+<h4><a href="https://go.gov.sg/ffocean" target="_blank"><b>Deep Sea Critters!</b></a></h4>
+<p> Explore the depths of the ocean—but cuter. Follow the demonstration clips provided and the pattern templates and make your own cute and cuddly versions of deep sea creatures! </p>
+ 
+<h4><a href="https://go.gov.sg/ffz2022" target="_blank"><b>Zodiac Race!</b></a></h4>
+<p>In a whimsical twist on the traditional tale, follow the demonstration clips provided and the pattern templates to create the race-car versions of the Chinese zodiac animals! </p>
+	
+<h4><a href="https://go.gov.sg/ff12doc" target="_blank"><b>12 Days of Christmas!</b></a></h4>
+<p>Four calling birds, three French hens, two turtledoves, and a (felted) partridge in a (felted) pear tree! (P.S. Felted things make very good Christmas tree decorations.)</p>
+
+ <h4><a href="https://go.gov.sg/fficeage" target="_blank"><b>Ice Age!</b></a></h4>
+<p>Go back in time, all the way to the Ice Age, to revive these long-extinct creatures in their miniature fuzzy forms. </p>
+
+<h4><a href="https://go.gov.sg/ffffruits" target="_blank"><b>Freaky Fruits!</b></a></h4>
+<p>Taking fruits going bad to a whole new level, create these creepy-cute freaky fruits for your next Halloween party. </p>
+
+<h4><a href="https://go.gov.sg/ffheroes" target="_blank"><b>Heroes!</b></a></h4>
+<p>Can’t get enough of superhero movies? Assemble your own team of tiny heroes to fight crime against all of felt-kind. </p>
+
+<h4><a href="https://go.gov.sg/fffingerfood" target="_blank"><b>Local Finger Food!</b></a></h4>
+<p>Sew up your own buffet of your favourite local finger foods and pile them up on your plate! Warning: this project might make you hungry. </p>
+
+<h4><a href="https://go.gov.sg/ffdino" target="_blank"><b>Dinosaurs!</b></a></h4>
+<p>Go back to a land before time, and sew up some tiny felt dinosaurs for your own tiny Jurassic Park.</p>
+
+<h4><a href="https://go.gov.sg/ffqb" target="_blank"><b>Quiet Book</b></a></h4>
+<p>A quiet book is a felt or fabric book with interactive elements meant to provide sensory stimulation for young children to play with. This kitchen-themed quiet book introduces children to the concept of cutting, mixing, baking, and frying, all in a soft and fuzzy felt package. </p>
+
+<h4><a href="https://go.gov.sg/ffqb2" target="_blank"><b>Quiet Book 2</b></a></h4>
+<p> A quiet book is a felt or fabric book with interactive elements meant to provide sensory stimulation for young children to play with. This clothing-themed quiet book introduces children to the concept of folding, buttoning, zipping and tying, all in a soft and fuzzy felt package. </p>
+
+<h4><a href="https://go.gov.sg/ffhca" target="_blank"><b>Christian Andersen</b></a></h4>
+<p>Bring the classic characters from Hans Christian Andersen’s timeless fairy-tales to life, in adorable felt doll form—they make excellent storytelling props too!</p>
+
+<h4><a href="https://go.gov.sg/ffmasterpiece" target="_blank"><b>Masterpieces!</b></a></h4>
+<p>Can fine art be Fabulously Felted? The answer is a resounding yes! Re-create these art masterpieces in felt form, and become an artist yourself! </p>
+
+<h4><a href="https://go.gov.sg/ffflowers202102" target="_blank"><b>Flowers</b></a></h4>
+<p>Real flowers may wilt and die, but felt flowers last forever. Bloom your own felt garden with this intermediate-level project. </p>
+
+<h4><a href="https://go.gov.sg/ffmixtape" target="_blank"><b>PRESSPLAY Special Mixtape</b></a></h4>
+<p>Proudly wear your favourite tunes on your sleeve with this felt cassette tape cardholder, in collaboration with PRESSPLAY. </p>
+
+<h4><a href="https://go.gov.sg/ffchristmas2020" target="_blank"><b>Christmas!</b></a></h4>
+<p>We wish you a felty Christmas and a fabulous New Year with these festive felt mascots. </p>
+
+<h4><a href="https://go.gov.sg/ffdessert" target="_blank"><b>Dessert</b></a></h4>
+<p>Satisfy your sweet tooth without the calories in this craft project.</p>
+
+<h4><a href="https://go.gov.sg/ffshakespeare01" target="_blank"><b>Shakespeare!</b></a></h4>
+<p>“To felt, or not to felt, that is the question?” Re-enact Shakespeare’s comedies and tragedies with his iconic characters in felt form.</p>
+
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
