@@ -63,7 +63,7 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 	<div class="col is-one-third"> 
     <div class="clickbox is-pink-ruby">
       <a href="#lp-fabulously-felted">
-				<span>Learning Package:<b>Fabulously Felted</b></span>
+				<span>Learning Package: <br>Fabulously Felted</span>
       </a>
     </div>
   </div>
