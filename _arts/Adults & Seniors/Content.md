@@ -60,11 +60,10 @@ Check our **learning packages** for a more in-depth resource list, to expand you
       </a>
     </div>
   </div>
-	</div>
-	 <div class="col is-one-third"> 
+	<div class="col is-one-third"> 
     <div class="clickbox is-pink-ruby">
       <a href="#lp-fabulously-felted">
-        <span>Learning Package:<b>Fabulously Felted</span>
+				<span>Learning Package:<b>Fabulously Felted</b></span>
       </a>
     </div>
   </div>
@@ -193,7 +192,7 @@ Gene Wisniewski (2020), <i>The Art of Looking at Art</i>, Bloomsbury Publishing.
 
 <h3 class="margin--bottom--lg" id="lp-fabulously-felted"><b>Learning Package</b></h3>
 
-<b>Fabulously Felted</b></h5>
+<h5><b>Fabulously Felted</b></h5>
 	
 Create your own Fabulously Felted world by following alongside our demonstration videos and patterns! Each Package has its own theme, ranging from sea creatures to holidays to cute mascots, so there is something that will tickle everyone’s fancy, with extra book resources for further reading on the topics. Projects range from beginner to intermediate. 
 
