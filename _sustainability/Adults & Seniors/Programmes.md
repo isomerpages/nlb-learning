@@ -4,6 +4,7 @@ permalink: /sustainability/adults-seniors/programmes
 description: ""
 third_nav_title: Adults & Seniors
 ---
+
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -42,7 +43,7 @@ Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v0
 
 A signature series with WWF Singapore that features conservation experts discussing the unexpected links between our daily concerns and the environment. Held on a quarterly basis.
 
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/)for the latest programme listings.
 
 ## **Garden Talks by Nparks**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-01.jpg)
@@ -90,6 +91,18 @@ Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v0
 Be prepared to be inspired. Practitioners, innovators, grandfluencers, ordinary adults and seniors will share how they adopt and practise natural or sustainable living together with our librarian. 
 
 This series is specially targeted at seniors who want to more ideas on how they can practise sustainable living by learning through the experience of others. 
+
+Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+
+## **The Great Make-Over Project**
+![](/images/sustainability/adults-and-seniors/GMO_eDM_600x300_1.jpg)
+
+What would Singapore look like when our community spaces are reimagined for sustainability? 
+
+The Great Make-Over Project is an annual project that brings together everyday people to co-solution, reinvent, and reimagine spaces to promote sustainable living. Over the course of six weeks, participants will be equipped with the necessary tools and knowledge to bring their green ideas to life.
+
+Starting at Choa Chu Kang Town, this project will continue to reimagine sustainability in spaces all over Singapore in future iterations. 
+
 
 Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
 
