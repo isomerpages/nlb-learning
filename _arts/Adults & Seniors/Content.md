@@ -254,7 +254,7 @@ Create your own Fabulously Felted world by following alongside our demonstration
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<h5 id="#playlist-art-history" class="margin--bottom--lg"><b>Playlist: Art History & the Chronology of Western Art Periods </b></h5> 
+<h5 id="playlist-art-history" class="margin--bottom--lg"><b>Playlist: Art History & the Chronology of Western Art Periods </b></h5> 
 
 Art History & the Chronology of Western Art Periods examine the broader aspects of visual culture, including the various visual and conceptual outcomes related to an ever-evolving definition of art. Art history encompasses the study of objects created by different cultures around the world and throughout history that convey meaning, importance or serve usefulness primarily through visual representations.<br>
 
