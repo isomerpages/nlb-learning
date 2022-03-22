@@ -41,7 +41,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b>#TellStory7 Award Edition</b></td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/d/online/%23tellstory7/"><b>#TellStory7 Award Edition</b></a></td>
         <td style="width: 40%;"> Season 7 of #TellStory is back! Students from various groups will represent their schools and compete for several drama/acting awards! Travel with our youths through their dramatic interpretations of both classic and (some tummy tickling) original scripts devised and written by the students! 
 <br><br> This programme is suitable for parents, children and teens aged 7 to 17. 
 <br><br>Registration is required.
