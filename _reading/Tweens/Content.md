@@ -99,7 +99,12 @@ Interested in Science Fiction but don’t know where to start? Find out about Sc
 <h5><a href="https://www.bookclubforkids.org/new-blog/2015/12/15/episode-13-the-strange-case-of-origami-yoda-b225k" target="_blank">Podcast: May the Fourth Be With You – The Strange Case of Origami Yoda by Tom Angleberger with Lalo Alcaraz (21 min) </a></h5>
 
 <p>Here’s a podcast for you where kids actively participate in discussions with the author and the podcast host, with a snippet of the book being read by a celebrity reader. The book of this episode is a lighthearted read about an all-knowing Origami Yoda.<br><br>
-<small>May the Fourth Be With You – The Strange Case of Origami Yoda by Tom Angleberger with Lalo Alcaraz (2021, May 4). Book Club for Kids. Retrieved 2022, February 16.</small></p>
+<small>Source: May the Fourth Be With You – The Strange Case of Origami Yoda by Tom Angleberger with Lalo Alcaraz (2021, May 4). Book Club for Kids. Retrieved 2022, February 16.</small></p>
+
+<h5><a href="https://www.mewatch.sg/watch/Mind-Blown-E10-King-1-248336" target="_blank">Mind Blown! Kings 1 (20 min) </a></h5>
+
+<p>Singapore used to be part of Malaya and the British empire. Both have royal families. So why don’t we have kings and queens anymore? Is our history really that boring? Mindblown goes back to the 14th Century to find out what happened to our Malay Kings.<br><br>
+<small> Source: Mind Blown - King 1 (2020) Mediacorp. Retrieved 2022, March 22.</small></p>
 
 <h3><b>Learning Package</b></h3>
 	

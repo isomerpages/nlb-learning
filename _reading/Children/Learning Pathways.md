@@ -50,7 +50,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
-<td><b> Sensory Storytastic </b></td>
+<td><a target="_blank" href="https://www.eventbrite.com/d/singapore--singapore/%23storytastic/"><b> Sensory Storytastic </b></a></td>
         <td>Join our librarians for a fun and exciting parent-child multi-sensory storytelling session as they bring you into a world of fascinating stories and interesting facts.<br><br>This programme is suitable for parents and children aged 7 to 10.
 <br><br> Registration will open closer to the date.
 </td>
@@ -106,7 +106,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     </thead>
     <tbody>
 <tr>
-      <td style="width: 20%;"><b>Code With Your Child! | Jurong Regional Library</b></td>
+      <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/cc/programmes-for-children-66139?aff=odclrlmctfte"><b>Code With Your Child! | Jurong Regional Library</b></a></td>
         <td style="width: 40%;">Come learn coding in a fun and interactive manner using a screen-less coding robot set. Kids can learn coding concepts and develop problem solving skills. 
 					<br><br>This programme is suitable for parents and children aged 7 to 9.
 <br><br>Registration will open closer to the date.
@@ -115,7 +115,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
         <td style="width: 20%;">Jurong Regional Library </td>
 
 </tr><tr>
-<td style="w<td style="><b> Easy Coffee Art | library@harbourfront</b></td>
+<td style="w<td style="><a target="_blank" href="https://www.eventbrite.sg/cc/programmes-for-children-66139?aff=odclrlmctfte"><b> Easy Coffee Art | library@harbourfront</b></a></td>
         <td style="width: 40%;"> Join our Easy Coffee Art workshop at library@harbourfront and have an aromatic day doing coffee painting! Enjoy family bonding and fun while painting.<br><br> This programme is suitable for parents and children aged 7 to 12.<br><br> Registration will open closer to the date.</td>
         <td style="width: 20%;"> 4 &amp; 25 Jun 2022,<br>2:30pm – 3:30pm</td>
 			<td style="width: 20%;"> library@harbourfront</td>
