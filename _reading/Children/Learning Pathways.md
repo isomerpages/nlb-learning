@@ -50,7 +50,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/cc/programmes-on-storytelling-127929?aff=odclrlmctfte"><b> Sensory Storytastic </b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.com/d/singapore--singapore/%23storytastic/"><b> Sensory Storytastic </b></a></td>
         <td>Join our librarians for a fun and exciting parent-child multi-sensory storytelling session as they bring you into a world of fascinating stories and interesting facts.<br><br>This programme is suitable for parents and children aged 7 to 10.
 <br><br> Registration will open closer to the date.
 </td>
