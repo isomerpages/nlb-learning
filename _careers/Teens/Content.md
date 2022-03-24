@@ -249,7 +249,7 @@ The Academic Hustle gives a personal accounting of strategies uncovered while co
 •	Master time and manage money
 •	Develop an impressive résumé
 
-Synopsis from []()
+Synopsis from [Mango Publishing](https://mango.bz/books/the-academic-hustle-by-matthew-pigatt-461-b)
 
 This book can be found on Overdrive at https://nlb.overdrive.com/media/4300493. 
 
