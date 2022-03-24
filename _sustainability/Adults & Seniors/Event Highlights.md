@@ -15,9 +15,9 @@ Over the course of six weeks, 25 individuals, from different walks of life such 
 Check out the posters of the teams' finalized ideas HERE!
 
 
-<img src="images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:400px;height:600px;">
+<img src="/images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:400px;height:600px;">
 
-Share Your Feedback!
+<b>Share Your Feedback!</b>
 <br>You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborate with them on their projects [HERE!](https://go.gov.sg/gmocommunity) 
 
 <b><u> Exhibition details</u></b>
@@ -33,7 +33,7 @@ Visit the booths of all the teams!
 <br>30 April 2022 2pm-4pm  @ Zoom, Sharing by Group 2 (Stay Sustainable), Group 4 (Sunshine) & Group 5 (Social Tech Farmers)
 <br> Register [HERE!](https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-1-3-registration-296489477007?aff=ebdssbdestsearch)
 
-Check out the highlights of The Great Make-Over Project below!
+<b>Check out the highlights of The Great Make-Over Project below!</b>
 
  <p style="font-size:160%;"><b><u> Re:Imagine CCK Town </u></b></p>
 
