@@ -83,7 +83,6 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
       </a>
     </div>
   </div>
-  </div>
 
 
 <h3><b>Playlist</b></h3>
