@@ -4,7 +4,6 @@ permalink: /sustainability/adults-seniors/programmes
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -99,11 +98,17 @@ Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v0
 
 What would Singapore look like when our community spaces are reimagined for sustainability? 
 
-The Great Make-Over Project is an annual project that brings together everyday people to co-solution, reinvent, and reimagine spaces to promote sustainable living. Over the course of six weeks, participants will be equipped with the necessary tools and knowledge to bring their green ideas to life.
+Starting at Choa Chu Kang Town, participants of the first run of the Great Make-Over Project reimagined various community spaces for sustainability. 
 
-Starting at Choa Chu Kang Town, this project will continue to reimagine sustainability in spaces all over Singapore in future iterations. 
+<b>View their Projects</b>
+<br>Take a sneak peek at their proposed ideas for a sustainable Choa Chu Kang HERE.
+
+<b>Share your Feedback</b>
+<br>You can also be a part of the Great Make-Over Project by leaving the teams your feedback or collaborating with them on their projects [HERE](https://go.gov.sg/gmocommunity)
+
+<b> Meet the Teams in Person</b>
 
 
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
