@@ -252,14 +252,14 @@ The Academic Hustle gives a personal accounting of strategies uncovered while co
 
 Synopsis from [Mango Publishing](https://mango.bz/books/the-academic-hustle-by-matthew-pigatt-461-b)
 
-This book can be found on Overdrive at https://nlb.overdrive.com/media/4300493. 
+This book can be found on Overdrive at [https://nlb.overdrive.com/media/4300493. ](https://nlb.overdrive.com/media/4300493. )
 
 Other suggestions:
--	You Are an Artist: https://nlb.overdrive.com/media/4942740 
--	How to Draw Without Talent: https://nlb.overdrive.com/media/5037149
--	A Teen’s Guide to Getting Stuff Done: https://nlb.overdrive.com/media/3605281 
+-	You Are an Artist: [https://nlb.overdrive.com/media/4942740 ](https://nlb.overdrive.com/media/4942740 )
+-	How to Draw Without Talent: [https://nlb.overdrive.com/media/5037149](https://nlb.overdrive.com/media/5037149)
+-	A Teen’s Guide to Getting Stuff Done: [https://nlb.overdrive.com/media/3605281 ](https://nlb.overdrive.com/media/3605281 )
 
-**Check out Part 3: Work, Volunteer, Intern next month!**
+**Check out Part 3: Work, Volunteer, Intern next week!**
 	
 <h5 class="margin--bottom--lg" id="lp-email"><b>Teen Things: Emailing 101</b></h5>
 
