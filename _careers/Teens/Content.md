@@ -261,6 +261,8 @@ Other suggestions:
 
 **Check out Part 3: Work, Volunteer, Intern next week!**
 	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h5 class="margin--bottom--lg" id="lp-email"><b>Teen Things: Emailing 101</b></h5>
 
 So you’ve just been assigned to email an organisation for a school project or a Values in Action (VIA) programme, or maybe you have to apply for an internship.
