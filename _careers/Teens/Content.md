@@ -218,7 +218,7 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id="#lp-started2"><b>Time to Get Started! Part 2</b></h5>
+<h5 class="margin--bottom--lg" id="lp-started2"><b>Time to Get Started! Part 2</b></h5>
 	
 Part 2: Hone Your Craft!
 Aside from being a great way to de-stress and have fun, extra-curricular activities and hobbies are often where our passions lie. From sports to arts and music, the pursuit of these interests could even form the backbone of your future career. 
