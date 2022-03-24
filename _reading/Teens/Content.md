@@ -55,6 +55,13 @@ Check out our **learning packages** to explore ways of expressing yourself throu
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
+      <a href="#lp-manga">
+        <span>Learning Package:<br>Marvellous Manga</span>
+      </a>
+    </div>
+  </div>
+	  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
       <a href="#lp-poetry">
         <span>Learning Package:<br>Teen Things: D.I.Y. Black Out Poetry</span>
       </a>
@@ -112,6 +119,28 @@ Edgar Allen Poe’s The Raven has long been considered the quintessential Gothic
 
 <h3><b>Learning Package</b></h3>
 Get insights on reading and written-word expressions with these articles and activities.
+
+<h5 id="lp-manga" class="margin--bottom--lg"><b>Marvellous Manga</b></h5>
+
+Naruto, One Piece, My Hero Academia, Jujutsu Kaisen – these are just some of the more popular anime series out there. While these series are available in anime or animated format, the basis for their stories were developed from their original manga. “Manga” refers to Japanese comics or graphic novels.  
+
+**What is manga? **
+
+![manga](/images/reading/teens/teensreading_manga1.png)
+
+Manga is an art form that tells a story through the greater usage of pictures over words. However, it doesn’t mean that text is entirely overlooked. In fact, text in the form of narration, dialogue, or sound effects all serve to enhance the reader's experience of the story.   
+
+Unlike the full-coloured pages of most comics we see today, manga is often presented in black and white. It is typically published in manga-based magazines by the different publishers on a weekly or monthly basis. Creators of manga are known as “mangaka” and they often both write and illustrate their own works. 
+
+![manga2](/images/reading/teens/teensreading_manga2.png)
+
+If a series becomes popular, its chapters then later get combined into what is called a “tankobon” that is, an edition or volume with several chapters in it. 
+
+![manga3](/images/reading/teens/teensreading_manga3.png)
+
+**Welcome to the wide, wonderful world of manga! **
+
+This is part one of a three-part series on manga. For more resources on this topic, check out NLB’s collection of eBooks [here](https://nlb.overdrive.com/library/teens/search?subject=127&subject=12&sortBy=newlyadded)!
 
 <h5 id="lp-poetry" class="margin--bottom--lg"><b>Teen Things: D.I.Y. Blackout Poetry</b></h5>
 
