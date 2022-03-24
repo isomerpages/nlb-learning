@@ -15,10 +15,10 @@ Over the course of six weeks, 25 individuals, from different walks of life such 
 Check out the posters of the teams' finalized ideas HERE!
 
 
-The teams will be presenting their ideas to members of the public through exhibitions at the Choa Chu Kang Public Library as well as physical and virtual sharing sessions. We hope to gather feedback as well as recruit volunteers for the various project ideas.
-
 <img src="images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:400px;height:600px;">
 
+Share Your Feedback!
+<br>You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborate with them on their projects [HERE!](https://go.gov.sg/gmocommunity) 
 
 <b><u> Exhibition details</u></b>
 <br>30 March 2022 to 30 April 2022  @ Choa Chu Kang Public Library
