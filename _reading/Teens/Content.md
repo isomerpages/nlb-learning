@@ -134,7 +134,7 @@ Unlike the full-coloured pages of most comics we see today, manga is often prese
 
 ![manga2](/images/reading/teens/teensreading_manga2.png)
 
-If a series becomes popular, its chapters then later get combined into what is called a “tankobon” that is, an edition or volume with several chapters in it. 
+If a series becomes popular, its chapters then later get combined into what is called a “tankōbon” - that is, an edition or volume with several chapters in it. 
 
 ![manga3](/images/reading/teens/teensreading_manga3.png)
 
