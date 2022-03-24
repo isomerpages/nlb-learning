@@ -124,7 +124,7 @@ Get insights on reading and written-word expressions with these articles and act
 
 Naruto, One Piece, My Hero Academia, Jujutsu Kaisen – these are just some of the more popular anime series out there. While these series are available in anime or animated format, the basis for their stories were developed from their original manga. “Manga” refers to Japanese comics or graphic novels.  
 
-**What is manga? **
+<h5 ><b>What is manga?</b></h5>
 
 ![manga](/images/reading/teens/teensreading_manga1.png)
 
@@ -138,7 +138,7 @@ If a series becomes popular, its chapters then later get combined into what is c
 
 ![manga3](/images/reading/teens/teensreading_manga3.png)
 
-**Welcome to the wide, wonderful world of manga! **
+<h5 ><b>Welcome to the wide, wonderful world of manga!</b></h5>
 
 This is part one of a three-part series on manga. For more resources on this topic, check out NLB’s collection of eBooks [here](https://nlb.overdrive.com/library/teens/search?subject=127&subject=12&sortBy=newlyadded)!
 
