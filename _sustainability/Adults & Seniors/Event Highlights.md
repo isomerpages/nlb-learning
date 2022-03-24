@@ -18,7 +18,7 @@ Check out the posters of the teams' finalized ideas HERE!
 <img src="/images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:400px;height:600px;">
 
 <b>Share Your Feedback!</b>
-<br>You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborate with them on their projects [HERE!](https://go.gov.sg/gmocommunity) 
+<br>You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborate with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a> 
 
 <b><u> Exhibition details</u></b>
 <br>30 March 2022 to 30 April 2022  @ Choa Chu Kang Public Library
@@ -27,11 +27,12 @@ Check out the posters of the teams' finalized ideas HERE!
 <b><u>Sharing sessions</u></b>
 <br>23 April 2022 2pm-4pm  @ Choa Chu Kang Public Library
 Visit the booths of all the teams!
-<br>Register [HERE!](https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-physical-registration-296489095867?aff=ebdssbdestsearch) <br>
+<br>Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-physical-registration-296489095867?aff=ebdssbdestsearch/" target="_blank"> HERE!</a> <br>
 <br> 30 April 2022 12pm-1.30pm @ Zoom, Sharing by Group 1 (Sprout Up!) and Group 3 (Park Kaki) 
-<br> Register [HERE!](https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-1-3-registration-296489477007?aff=ebdssbdestsearch)<br>
+<br> Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-1-3-registration-296489477007?aff=ebdssbdestsearch/" target="_blank"> HERE!</a>
+
 <br>30 April 2022 2pm-4pm  @ Zoom, Sharing by Group 2 (Stay Sustainable), Group 4 (Sunshine) & Group 5 (Social Tech Farmers)
-<br> Register [HERE!](https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-1-3-registration-296489477007?aff=ebdssbdestsearch)
+<br> Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-2-4-5-registration-297497572247?aff=ebdssbdestsearch" target="_blank"> HERE!</a>
 
 <b>Check out the highlights of The Great Make-Over Project below!</b>
 
