@@ -190,6 +190,8 @@ Gene Wisniewski (2020), <i>The Art of Looking at Art</i>, Bloomsbury Publishing.
     <li><span id="footnote-one">Jade. (2021, November 8). The History of the Camera</span> <i>History Things</i>. Retrieved 2022, February 15 from <a href=" https://historythings.com/the-history-of-the-camera/" target="_blank"> History Things</a>.</li>
 </ol>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3 class="margin--bottom--lg" id="lp-fabulously-felted"><b>Learning Package</b></h3>
 
 <h5><b>Fabulously Felted</b></h5>
