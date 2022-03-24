@@ -30,7 +30,7 @@ Visit the booths of all the teams!
 <br>Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-physical-registration-296489095867?aff=ebdssbdestsearch/" target="_blank"> HERE!</a> <br>
 <br> 30 April 2022 12pm-1.30pm @ Zoom, Sharing by Group 1 (Sprout Up!) and Group 3 (Park Kaki) 
 <br> Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-1-3-registration-296489477007?aff=ebdssbdestsearch/" target="_blank"> HERE!</a>
-
+<br>
 <br>30 April 2022 2pm-4pm  @ Zoom, Sharing by Group 2 (Stay Sustainable), Group 4 (Sunshine) & Group 5 (Social Tech Farmers)
 <br> Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-2-4-5-registration-297497572247?aff=ebdssbdestsearch" target="_blank"> HERE!</a>
 
