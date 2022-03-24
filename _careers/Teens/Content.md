@@ -258,6 +258,7 @@ Other suggestions:
 -	How to Draw Without Talent: https://nlb.overdrive.com/media/5037149
 -	A Teen’s Guide to Getting Stuff Done: https://nlb.overdrive.com/media/3605281 
 
+**Check out Part 3: Work, Volunteer, Intern next month!**
 	
 <h5 class="margin--bottom--lg" id="lp-email"><b>Teen Things: Emailing 101</b></h5>
 
