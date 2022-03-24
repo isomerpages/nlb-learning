@@ -234,7 +234,7 @@ Some of these passion projects can be turned into temporary or permanent busines
 
 <div class="row is-multiline">
   <div class="col is-half">
-    <img src="/images/career/teens/teens-guide.png" alt="A Teen's Guide to Getting Stuff Done">
+    <img src="/images/career/teens/Academic Hustle.png" alt="Academic Hustle">
   </div>
 </div>
 
