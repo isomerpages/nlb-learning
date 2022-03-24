@@ -50,5 +50,4 @@ The teams also conducted ground-up research to value-add to their projects. From
 <img src="images/sustainability/adults-and-seniors/IMG_6441.jpg" style="width:400px;height:300px;">
 <img src="images/sustainability/adults-and-seniors/IMG_6639.jpg" style ="width:400px;height:300px;">
 
-On 13th March 2022, participants presented the reimagined spaces and creative green solutions to a panel of judges consisting of representatives from the Choa Chu Kang Town Council, the National Environment Agency, and the National Library Board. 
-
+On 13th March 2022, participants presented the reimagined spaces and creative green solutions to a panel of judges consisting of representatives from the Choa Chu Kang Town Council, the National Environment Agency, and the National Library Board.
