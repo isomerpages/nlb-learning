@@ -68,7 +68,6 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
       </a>
     </div>
   </div>
-	<div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
       <a href="#lp-started2">
@@ -76,6 +75,8 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
       </a>
     </div>
   </div>
+
+<div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
       <a href="#lp-email">
@@ -83,7 +84,7 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
       </a>
     </div>
   </div>
-
+	</div>
 
 <h3><b>Playlist</b></h3>
 A collection of short videos and podcasts to inspire you as you make that all-important decision on what career path to take.
