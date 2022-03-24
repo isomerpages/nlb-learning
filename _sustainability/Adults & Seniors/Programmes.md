@@ -104,7 +104,7 @@ Starting at Choa Chu Kang Town, participants of the first run of the Great Make-
 <br>Take a sneak peek at their proposed ideas for a sustainable Choa Chu Kang HERE.
 
 <b>Share your Feedback</b>
-<br>You can also be a part of the Great Make-Over Project by leaving the teams your feedback or collaborating with them on their projects [HERE](https://go.gov.sg/gmocommunity)
+<br>You can also be a part of the Great Make-Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a>
 
 <b> Meet the Teams in Person</b>
 
