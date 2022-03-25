@@ -38,14 +38,13 @@ Make reading a fun activity while fostering that special bond between you and yo
         <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
-    <tbody>
-      <tr>
-				<td style="width: 20%;">
-					<a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk" target="_blank"><b> Early Literacy Practice: Talk (Ages 0 to 3)</b></a></td>
+   <tbody>
+      <tr><td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk" target="_blank"><b> Early Literacy Practice: Talk (Ages 0 to 3)</b></a></td>
         <td style="width: 40%;"> How to nurture your babbling baby into a talkative toddler? Learn some tips and activities you can do to shape your child into a confident speaker!</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
+		 <tr>
         <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-1-to-3-years" target="_blank"><b> Developing Early Literacy Skills at Home (1-3 years old) </b></a></td>
         <td>Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help them build their letter knowledge and vocabulary. </td>
         <td></td>
