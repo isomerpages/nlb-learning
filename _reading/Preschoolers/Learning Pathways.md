@@ -39,13 +39,13 @@ Make reading a fun activity while fostering that special bond between you and yo
       </tr>
     </thead>
     <tbody>
-      <tr><td style="width: 20%;"> New**<br><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk" target="_blank"><b> Early Literacy Practice: Talk (Ages 0 to 3)</b></a></td>
+			<tr><td style="width: 20%;"> <b>New**</b><br><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk" target="_blank"><b> Early Literacy Practice: Talk (Ages 0 to 3)</b></a></td>
         <td style="width: 40%;"> How to nurture your babbling baby into a talkative toddler? Learn some tips and activities you can do to shape your child into a confident speaker!</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
 			 <tr>
-        <td>New**<br><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-sing" target="_blank"><b> Early Literacy Practice: Sing (Ages 0 to 3) </b></a></td>
+				 <td><b>New**</b><br><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-sing" target="_blank"><b> Early Literacy Practice: Sing (Ages 0 to 3) </b></a></td>
         <td>Singing is more than nursery rhymes! Learn how to nurture your child's musicality through books, actions and observing what's around them.</td>
         <td></td>
         <td> </td>
