@@ -123,6 +123,8 @@ Join our librarian, Maliah, as she shares with us how contemporary realistic fic
  
 <h3 class="margin--bottom--lg" id="learning-packages-i-can-read"><b>Learning Packages</b></h3>
 	
+<img src="/images/reading/preschool/Picture3.jpg" style="width:50%">
+
 Useful tips and activities that can help you develop your child to become a fluent reader.
 
 <h4 id="lp-baby">New** <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk" target="_blank"><b>Early Literacy Practice: Talk (Ages 0 to 3)</b></a></h4>
