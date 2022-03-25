@@ -87,7 +87,7 @@ Reading stories together promotes bonding and helps you build a special relation
     
 Folk tales and fables never lose their wonder. 
 		
-Join our librarian Nathaniel Chew, as he tells you about the origins of these stories and some book recommendations!</p>
+Join our librarian, Nathaniel Chew, as he tells you about the origins of these stories and some book recommendations!</p>
 
   </div>
 </div>
