@@ -57,7 +57,7 @@ Explore our **learning packages** for useful tips on selecting age-appropriate b
   <div class="col is-one-half">
     <div class="clickbox is-indigo-sky">
       <a href="#learning-packages-i-can-read">
-        <span>Learning Packages: <br> Developing Early Literacy Skills</span>
+        <span>Learning Packages: <br> Early Literacy Skills & Practices</span>
       </a>
     </div>
   </div>
@@ -65,6 +65,8 @@ Explore our **learning packages** for useful tips on selecting age-appropriate b
 
 
 <h3 class="margin--bottom--lg" id="playlist-the-world-of-picture-books"><b>Playlist: The World of Picture Books</b></h3>
+
+<img src="/images/reading/preschool/Picture2.jpg" style="width:70%">
 
 Picture books can be enjoyed at any age and they are powerful tools in fostering the love of reading in young children. It is never too early to start reading with your child. Reading a variety of picture books with your child can:
 
@@ -74,20 +76,20 @@ Picture books can be enjoyed at any age and they are powerful tools in fostering
 •	build their empathy and self-awareness
 
 
-Learn more about the world of picture books through these videos. <br><br>
+Reading stories together promotes bonding and helps you build a special relationship with your child. <br><br>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/ZLuBblMvIMU"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/w6SBuIsQuCo"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Choosing Suitable Picture Books (8 min 44 sec) </b><br>
+    <p><b> Folktales and Fables (5 min 58 sec) </b><br>
     
-What’s so great about picture books? Do you know the differences between linear and cumulative stories? 
+Folk tales and fables never lose their wonder. 
 		
-Join our librarian Nathaniel Chew, as he shares ways on choosing great picture books, and storytelling techniques.</p>
+Join our librarian, Nathaniel Chew, as he tells you about the origins of these stories and some book recommendations!</p>
 
   </div>
 </div>
@@ -95,12 +97,12 @@ Join our librarian Nathaniel Chew, as he shares ways on choosing great picture b
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Jy-vn8nGJFc"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/qpDUmRmYZRg"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Pourquoi Tales (6 min 52 sec) </b><br>
-Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means ‘why’ in French.  Learn about the different ‘pourquoi’ stories that you can share with your child to spur their innate curiosity about the world and why certain events happened.  </p>
+    <p><b> Fractured Fairy Tales (5 min 9 sec) </b><br>
+How can fairy tales be fractured? Our librarian, Kah Heng, shares with us how these stories are different from conventional ones, and how they can ignite the imagination of children. </p>
  
   </div>
 </div>
@@ -108,22 +110,28 @@ Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means ‘why’ in Fre
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/W9m6tn7_t9E"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/_CJmgBXm1o8"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> SING-LIT (4 min)</b><br>
-Discover the array of Sing-Lit stories to share with your little ones. Find out the history behind Jurong Island and Singapore’s National Flower (Vanda Miss Joaquim) in this video.
-			
-
-You can even take your child on a literary trail based on the stories that were featured.</p> 
+    <p><b> Contemporary Realistic Fiction (6 min 13 sec)</b><br>
+Join our librarian, Maliah, as she shares with us how contemporary realistic fiction can teach children to navigate life, including the good days and bad days.
+			</p> 
   </div>
 </div>
 
  
 <h3 class="margin--bottom--lg" id="learning-packages-i-can-read"><b>Learning Packages</b></h3>
 	
+<img src="/images/reading/preschool/Picture3.jpg" style="width:70%">
+
 Useful tips and activities that can help you develop your child to become a fluent reader.
+
+<h4 id="lp-baby"><font color=black>New**</font> <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk" target="_blank"><b>Early Literacy Practice: Talk (Ages 0 to 3)</b></a></h4>
+<p> How to nurture your babbling baby into a talkative toddler? Learn some tips and activities you can do to shape your child into a confident speaker! </p>
+
+<h4 id="lp-baby"><font color=black>New**</font> <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-sing" target="_blank"><b>Early Literacy Practice: Sing (Ages 0 to 3)</b></a></h4>
+<p> Singing is more than nursery rhymes! Learn how to nurture your child's musicality through books, actions and observing what's around them.</p>
 
 <h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b>Developing Early Literacy Skills at Home (0-12 months)</b></a></h4>
 <p> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make! </p>

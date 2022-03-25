@@ -60,11 +60,10 @@ Check our **learning packages** for a more in-depth resource list, to expand you
       </a>
     </div>
   </div>
-	</div>
-	 <div class="col is-one-third"> 
+	<div class="col is-one-third"> 
     <div class="clickbox is-pink-ruby">
       <a href="#lp-fabulously-felted">
-        <span>Learning Package:<b>Fabulously Felted</span>
+				<span>Learning Package: <br>Fabulously Felted</span>
       </a>
     </div>
   </div>
@@ -191,9 +190,11 @@ Gene Wisniewski (2020), <i>The Art of Looking at Art</i>, Bloomsbury Publishing.
     <li><span id="footnote-one">Jade. (2021, November 8). The History of the Camera</span> <i>History Things</i>. Retrieved 2022, February 15 from <a href=" https://historythings.com/the-history-of-the-camera/" target="_blank"> History Things</a>.</li>
 </ol>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3 class="margin--bottom--lg" id="lp-fabulously-felted"><b>Learning Package</b></h3>
 
-<b>Fabulously Felted</b></h5>
+<h5><b>Fabulously Felted</b></h5>
 	
 Create your own Fabulously Felted world by following alongside our demonstration videos and patterns! Each Package has its own theme, ranging from sea creatures to holidays to cute mascots, so there is something that will tickle everyone’s fancy, with extra book resources for further reading on the topics. Projects range from beginner to intermediate. 
 
@@ -255,7 +256,7 @@ Create your own Fabulously Felted world by following alongside our demonstration
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<h5 id="#playlist-art-history" class="margin--bottom--lg"><b>Playlist: Art History & the Chronology of Western Art Periods </b></h5> 
+<h5 id="playlist-art-history" class="margin--bottom--lg"><b>Playlist: Art History & the Chronology of Western Art Periods </b></h5> 
 
 Art History & the Chronology of Western Art Periods examine the broader aspects of visual culture, including the various visual and conceptual outcomes related to an ever-evolving definition of art. Art history encompasses the study of objects created by different cultures around the world and throughout history that convey meaning, importance or serve usefulness primarily through visual representations.<br>
 

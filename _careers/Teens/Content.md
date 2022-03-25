@@ -70,13 +70,22 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
+      <a href="#lp-started2">
+        <span>Learning Package:<br> Time to Get Started! Part 2</span>
+      </a>
+    </div>
+  </div>
+ </div>
+	
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-pink-ruby">
       <a href="#lp-email">
         <span>Learning Package: Teen Things: Emailing 101</span>
       </a>
     </div>
   </div>
-  </div>
-
+</div>
 
 <h3><b>Playlist</b></h3>
 A collection of short videos and podcasts to inspire you as you make that all-important decision on what career path to take.
@@ -207,6 +216,51 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 **Come back next week for Part 2 of Time to Get Started!**
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="lp-started2"><b>Time to Get Started! Part 2</b></h5>
+	
+Part 2: Hone Your Craft!
+Aside from being a great way to de-stress and have fun, extra-curricular activities and hobbies are often where our passions lie. From sports to arts and music, the pursuit of these interests could even form the backbone of your future career. 
+
+Use the time you currently have to start creating or working on projects – this can help build up your portfolio and develop your own style which you can use to track your growth and showcase your repertoire of talents. Discover which online or offline platforms suit you best and start learning about them. For example, if you have a passion for animation, you may work on a short animated clip of your choice which you can post on your blog or Instagram reel as a way to showcase and get feedback on your work.
+
+Use the opportunities you have to get experiences and get in hours of practice. Find like-minded communities and immerse yourself in a wide variety of projects and activities that will expand your range and exposure. For example, if you enjoy designing and knowing how things work, you can join NLB’s MakeIT community on Facebook where you can find like-minded tinkerers as well as programmes you can attend. 
+
+Some of these passion projects can be turned into temporary or permanent businesses along your career path. You will need to be very self-motivated and consistently work on your skills, but there is no time like the present to try out these ideas if you have the capacity, resources and have done the due research.
+
+**Check out this book for more ideas on how to get started: **
+
+<h5 class="margin--bottom--lg"><b>The Academic Hustle: The Ultimate Game Plan for Scholarships, Internships and Job Offers</b></h5>
+
+<div class="row is-multiline">
+  <div class="col is-half">
+    <img src="/images/career/teens/Academic Hustle.png" alt="Academic Hustle">
+  </div>
+</div>
+
+Author: Matthew Pigatt<br>
+Publisher: Mango Media, 2021 <br>
+
+The Academic Hustle gives a personal accounting of strategies uncovered while conducting research on high achievers. Through experience and research, Pigatt has refined a system that has been replicated by hundreds of other students to secure scholarships, grants, internships, and jobs—amounting to millions in funding for their career development. Learn how to:
+•	Develop a plan for your career
+•	Find and apply for scholarships
+•	Win awards and be recognized
+•	Cultivate a network for success
+•	Master time and manage money
+•	Develop an impressive résumé
+
+Synopsis from [Mango Publishing](https://mango.bz/books/the-academic-hustle-by-matthew-pigatt-461-b)
+
+This book can be found on Overdrive at [https://nlb.overdrive.com/media/4300493. ](https://nlb.overdrive.com/media/4300493. )
+
+Other suggestions:
+-	You Are an Artist: [https://nlb.overdrive.com/media/4942740 ](https://nlb.overdrive.com/media/4942740 )
+-	How to Draw Without Talent: [https://nlb.overdrive.com/media/5037149](https://nlb.overdrive.com/media/5037149)
+-	A Teen’s Guide to Getting Stuff Done: [https://nlb.overdrive.com/media/3605281 ](https://nlb.overdrive.com/media/3605281 )
+
+**Check out Part 3: Work, Volunteer, Intern next week!**
+	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h5 class="margin--bottom--lg" id="lp-email"><b>Teen Things: Emailing 101</b></h5>

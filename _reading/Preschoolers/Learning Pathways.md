@@ -26,10 +26,13 @@ third_nav_title: Preschoolers
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3><b>Ignite a lifelong love of reading in your children!</b></h3>
+<h3><b>Ignite a lifelong love of reading in your children!</b></h3><br>
+<img src="/images/reading/preschool/Picture1.png" style="width:60%">
+
 Reading is a fundamental life skill in children and is significant in their development of literacy skills. Learning to read starts long before a child enters school and parents play an important role in nurturing children’s passion for reading and life-long learning.
 Make reading a fun activity while fostering that special bond between you and your little one, through this suite of reading programmes offered by the public libraries. 
-<br><br>Learn how you can develop the 6 pre-reading skills through the simple 5 Early Practices of Reading, Singing, Playing, Talking and Writing via programmes at the libraries. 
+<br><br>Learn how you can develop the 6 pre-reading skills through the simple 5 Early Practices of Reading, Singing, Playing, Talking and Writing via programmes at the libraries.
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -38,15 +41,26 @@ Make reading a fun activity while fostering that special bond between you and yo
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b> Developing Early Literacy Skills at Home (0-12 months)</b></a></td>
-        <td style="width: 40%;"> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make!</td>
+			<tr><td style="width: 20%;"> <b>New**</b><br><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk" target="_blank"><b> Early Literacy Practice: Talk (Ages 0 to 3)</b></a></td>
+        <td style="width: 40%;"> How to nurture your babbling baby into a talkative toddler? Learn some tips and activities you can do to shape your child into a confident speaker!</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
-      <tr>
+			 <tr>
+				 <td><b>New**</b><br><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-sing" target="_blank"><b> Early Literacy Practice: Sing (Ages 0 to 3) </b></a></td>
+        <td>Singing is more than nursery rhymes! Learn how to nurture your child's musicality through books, actions and observing what's around them.</td>
+        <td></td>
+        <td> </td>
+      </tr>
+			 <tr>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b> Developing Early Literacy Skills at Home (0-12 months) </b></a></td>
+        <td>It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make! </td>
+        <td></td>
+        <td> </td>
+      </tr>
+		 <tr>
         <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-1-to-3-years" target="_blank"><b> Developing Early Literacy Skills at Home (1-3 years old) </b></a></td>
-        <td> Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help them build their letter knowledge and vocabulary. </td>
+        <td>Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help them build their letter knowledge and vocabulary. </td>
         <td></td>
         <td> </td>
       </tr>
