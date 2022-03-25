@@ -101,7 +101,7 @@ What would Singapore look like when our community spaces are reimagined for sust
 Starting at Choa Chu Kang Town, participants of the first run of the Great Make-Over Project reimagined various community spaces for sustainability. 
 
 <b>View their Projects</b>
-<br>Take a sneak peek at their proposed ideas for a sustainable Choa Chu Kang HERE.
+<br>Take a sneak peek at their proposed ideas for a sustainable Choa Chu Kang <a href="https://go.gov.sg/gmoprojects" target="_blank">HERE!</a>.
 
 <b>Share your Feedback</b>
 <br>You can also be a part of the Great Make-Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a>
