@@ -38,7 +38,7 @@ Make reading a fun activity while fostering that special bond between you and yo
         <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
-   <tbody>
+    <tbody>
       <tr><td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk" target="_blank"><b> Early Literacy Practice: Talk (Ages 0 to 3)</b></a></td>
         <td style="width: 40%;"> How to nurture your babbling baby into a talkative toddler? Learn some tips and activities you can do to shape your child into a confident speaker!</td>
         <td style="width: 20%;"> </td>
