@@ -100,7 +100,7 @@ Join our librarian, Nathaniel Chew, as he tells you about the origins of these s
   </div>
   <div class="col is-three-fifths">
     <p><b> Fractured Fairy Tales (5 min 9 sec) </b><br>
-How can fairy tales be fractured? Our librarian, Kah Heng, shares with us how these stories are different from conventional ones, and how they can ignite the imagination of children </p>
+How can fairy tales be fractured? Our librarian, Kah Heng, shares with us how these stories are different from conventional ones, and how they can ignite the imagination of children. </p>
  
   </div>
 </div>
