@@ -74,20 +74,20 @@ Picture books can be enjoyed at any age and they are powerful tools in fostering
 •	build their empathy and self-awareness
 
 
-Learn more about the world of picture books through these videos. <br><br>
+Reading stories together promotes bonding and helps you build a special relationship with your child. <br><br>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/ZLuBblMvIMU"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/w6SBuIsQuCo"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Choosing Suitable Picture Books (8 min 44 sec) </b><br>
+    <p><b> Folktales and Fables (5 min 58 sec) </b><br>
     
-What’s so great about picture books? Do you know the differences between linear and cumulative stories? 
+Folk tales and fables never lose their wonder. 
 		
-Join our librarian Nathaniel Chew, as he shares ways on choosing great picture books, and storytelling techniques.</p>
+Join our librarian Nathaniel Chew, as he tells you about the origins of these stories and some book recommendations!</p>
 
   </div>
 </div>
@@ -95,12 +95,12 @@ Join our librarian Nathaniel Chew, as he shares ways on choosing great picture b
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Jy-vn8nGJFc"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/qpDUmRmYZRg"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Pourquoi Tales (6 min 52 sec) </b><br>
-Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means ‘why’ in French.  Learn about the different ‘pourquoi’ stories that you can share with your child to spur their innate curiosity about the world and why certain events happened.  </p>
+    <p><b> Fractured Fairy Tales (5 min 9 sec) </b><br>
+How can fairy tales be fractured? Our librarian, Kah Heng, shares with us how these stories are different from conventional ones, and how they can ignite the imagination of children </p>
  
   </div>
 </div>
@@ -112,11 +112,9 @@ Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means ‘why’ in Fre
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> SING-LIT (4 min)</b><br>
-Discover the array of Sing-Lit stories to share with your little ones. Find out the history behind Jurong Island and Singapore’s National Flower (Vanda Miss Joaquim) in this video.
-			
-
-You can even take your child on a literary trail based on the stories that were featured.</p> 
+    <p><b> Contemporary Realistic Fiction (6 min 13 sec)</b><br>
+Joing our librarian, Maliah, as she shares with us how contemporary realistic fiction can teach children to navigate life, including the good days and bad days.
+			</p> 
   </div>
 </div>
 
