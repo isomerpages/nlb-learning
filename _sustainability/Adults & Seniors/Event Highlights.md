@@ -12,10 +12,14 @@ Over the course of six weeks, 25 individuals, from different walks of life such 
 
 <p style="font-size:160%;"><b><u> Painting CCK Green: Meet-up with the Ideators! </u></b></p>
 
-Check out the posters of the teams' finalized ideas <a href="https://go.gov.sg/gmoprojects/" target="_blank">HERE!</a>
-
-
 <img src="/images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:400px;height:600px;">
+
+Check out the posters of the teams' finalized ideas here:
+<a href="https://go.gov.sg/team1sproutup/" target="_blank">Team 1 Sprout Up!</a>
+<br><a href="https://go.gov.sg/team2staysustainable/" target="_blank">Team 2 Stay Sustainable</a>
+<br><a href="https://go.gov.sg/team3parkkaki/" target="_blank">Team 3 Park Kaki</a>
+<br><a href="https://go.gov.sg/team4sunshine/" target="_blank">Team 4 Sunshine</a>
+<br><a href="https://go.gov.sg/team5socialtechfarmer/" target="_blank">Team 5 Social Tech Farmers</a>
 
 <b>Share Your Feedback and Collaborate with us!</b>
 <br>You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a> 
