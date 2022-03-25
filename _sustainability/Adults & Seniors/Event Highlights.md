@@ -12,13 +12,13 @@ Over the course of six weeks, 25 individuals, from different walks of life such 
 
 <p style="font-size:160%;"><b><u> Painting CCK Green: Meet-up with the Ideators! </u></b></p>
 
-Check out the posters of the teams' finalized ideas HERE!
+Check out the posters of the teams' finalized ideas <a href="https://go.gov.sg/gmoprojects/" target="_blank">HERE!</a>
 
 
 <img src="/images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:400px;height:600px;">
 
-<b>Share Your Feedback!</b>
-<br>You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborate with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a> 
+<b>Share Your Feedback and Collaborate with us!</b>
+<br>You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a> 
 
 <b><u> Exhibition details</u></b>
 <br>30 March 2022 to 30 April 2022  @ Choa Chu Kang Public Library
