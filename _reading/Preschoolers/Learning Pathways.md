@@ -44,7 +44,6 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
-      <tr>
 		 <tr>
         <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-1-to-3-years" target="_blank"><b> Developing Early Literacy Skills at Home (1-3 years old) </b></a></td>
         <td>Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help them build their letter knowledge and vocabulary. </td>
