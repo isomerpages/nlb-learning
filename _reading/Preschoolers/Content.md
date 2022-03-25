@@ -126,6 +126,9 @@ Useful tips and activities that can help you develop your child to become a flue
 <h4 id="lp-baby">New** <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk" target="_blank"><b>Early Literacy Practice: Talk (Ages 0 to 3)</b></a></h4>
 <p> How to nurture your babbling baby into a talkative toddler? Learn some tips and activities you can do to shape your child into a confident speaker! </p>
 
+<h4 id="lp-baby">New** <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-sing" target="_blank"><b>Early Literacy Practice: Sing (Ages 0 to 3)</b></a></h4>
+<p> Singing is more than nursery rhymes! Learn how to nurture your child's musicality through books, actions and observing what's around them.</p>
+
 <h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b>Developing Early Literacy Skills at Home (0-12 months)</b></a></h4>
 <p> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make! </p>
  
