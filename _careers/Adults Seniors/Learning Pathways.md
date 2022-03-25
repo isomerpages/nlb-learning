@@ -40,13 +40,13 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="_blank"><b>Job Hunting Toolkit Learning Package</b></a></td>
+        <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="#lp-job"><b>Job Hunting Toolkit Learning Package</b></a></td>
         <td style="width: 40%;">Here are some great resources to help make this journey as painless as possible.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/careers/adults-seniors/content" target="#lp-job"><b>Job Search Strategies Playlist</b></a></td>
+        <td><a href="/careers/adults-seniors/content" target="#playlist-job"><b>Job Search Strategies Playlist</b></a></td>
         <td>Discover the top questions that local interviewers like to ask, how to make your LinkedIn profile a honey trap, and how to get into the optimal mindset while you are on the hunt.</td>
         <td></td>
         <td> </td>
@@ -94,19 +94,19 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="http://go.gov.sg/get-professional-series" target="_blank"><b>Resume Writing Skills</b></a></td>
+        <td style="width: 20%;"><b>Resume Writing Skills</b></td>
         <td style="width: 40%;">Understand the thought process behind how recruiters review resumes so that you can create one that is truly representative of your talents, experiences, and potential.</td>
-        <td style="width: 20%;">Part 1:<br>18 Jan 2022, <br>11 Feb 2022,<br> 7pm - 9pm<br><br> Part 2:<br>25 Jan 2022,<br>25 Feb 2022,<br> 7pm - 9pm</td>
+        <td style="width: 20%;">Coming Soon</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><a href="http://go.gov.sg/get-professional-series" target="_blank"><b>Interview Skills</b></a></td>
+        <td><b>Interview Skills</b></td>
         <td>This workshop will guide you through the pre to post-interview processes, help you to understand what your interviewer is looking for, and how to ace the interview session itself.</td>
-        <td>17 Jan 2022, <br>4 Feb 2022, <br>7pm - 9pm<br></td>
+        <td>Coming Soon<br></td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>Learn how to acquire new skills with SkillsFuture credits</b></a></td>
+<td><b>Learn how to acquire new skills with SkillsFuture credits</b></td>
         <td></td>
         <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank">Refer to SkillsFuture website</a></td>
         <td>Online</td>
@@ -124,9 +124,9 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank"><b>LearnX Digital</b><br>Future of Work</a></td>
+        <td><a href="https://go.gov.sg/nlbdigitalprgms" target="_blank"><b>LearnX Digital</b><br>Future of Work</a></td>
         <td>Learn more about current and upcoming changing needs at work, to get working adults better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites.</td>
-        <td><a href="https://www.eventbrite.com/c/future-of-work-ccbgxhmw--3bPFMPjm5WbA/" target="_blank">Various dates</a></td>
+        <td>Various dates</td>
         <td>Zoom</td>
       </tr>
     </tbody>
@@ -146,7 +146,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="_blank"><b>How To Start Your Own Business</b></a></td>
+        <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="#lp-biz"><b>How To Start Your Own Business</b></a></td>
         <td style="width: 40%;">Having a great idea is the first step to starting a business of your own.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
