@@ -51,6 +51,12 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td></td>
         <td> </td>
       </tr>
+					 <tr>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b>Developing Early Literacy Skills at Home (0-12 months) </b></a></td>
+        <td> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make!</td>
+        <td></td>
+        <td> </td>
+      </tr>
       <tr>
         <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-1-to-3-years" target="_blank"><b> Developing Early Literacy Skills at Home (1-3 years old) </b></a></td>
         <td> Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help them build their letter knowledge and vocabulary. </td>
