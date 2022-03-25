@@ -46,7 +46,7 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td style="width: 20%;"> </td>
       </tr>
 			 <tr>
-        <td>New** <br><a href=https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-sing" target="_blank"><b> Early Literacy Practice: Sing (Ages 0 to 3) </b></a></td>
+        <td><a href=https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-sing" target="_blank"><b> Early Literacy Practice: Sing (Ages 0 to 3) </b></a></td>
         <td> Singing is more than nursery rhymes! Learn how to nurture your child's musicality through books, actions and observing what's around them. </td>
         <td></td>
         <td> </td>
