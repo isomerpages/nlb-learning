@@ -57,7 +57,7 @@ Explore our **learning packages** for useful tips on selecting age-appropriate b
   <div class="col is-one-half">
     <div class="clickbox is-indigo-sky">
       <a href="#learning-packages-i-can-read">
-        <span>Learning Packages: <br> Developing Early Literacy Skills</span>
+        <span>Learning Packages: <br> Developing Early Literacy Skills & Practices</span>
       </a>
     </div>
   </div>
@@ -122,6 +122,9 @@ Joing our librarian, Maliah, as she shares with us how contemporary realistic fi
 <h3 class="margin--bottom--lg" id="learning-packages-i-can-read"><b>Learning Packages</b></h3>
 	
 Useful tips and activities that can help you develop your child to become a fluent reader.
+
+<h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk" target="_blank"><b>Early Literacy Practice: Talk (Ages 0 to 3)</b></a></h4>
+<p> How to nurture your babbling baby into a talkative toddler? Learn some tips and activities you can do to shape your child into a confident speaker! </p>
 
 <h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b>Developing Early Literacy Skills at Home (0-12 months)</b></a></h4>
 <p> It’s never too early to start reading to your newborn! Learn some tips on how to choose books for your little ones. Try a simple activity to introduce your baby to the different types of animals and the sounds they make! </p>
