@@ -113,7 +113,7 @@ How can fairy tales be fractured? Our librarian, Kah Heng, shares with us how th
   </div>
   <div class="col is-three-fifths">
     <p><b> Contemporary Realistic Fiction (6 min 13 sec)</b><br>
-Joing our librarian, Maliah, as she shares with us how contemporary realistic fiction can teach children to navigate life, including the good days and bad days.
+Join our librarian, Maliah, as she shares with us how contemporary realistic fiction can teach children to navigate life, including the good days and bad days.
 			</p> 
   </div>
 </div>
