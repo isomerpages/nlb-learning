@@ -46,7 +46,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/careers/adults-seniors/content" target="_blank"><b>Job Search Strategies Playlist</b></a></td>
+        <td><a href="/careers/adults-seniors/content" target="#lp-job"><b>Job Search Strategies Playlist</b></a></td>
         <td>Discover the top questions that local interviewers like to ask, how to make your LinkedIn profile a honey trap, and how to get into the optimal mindset while you are on the hunt.</td>
         <td></td>
         <td> </td>
