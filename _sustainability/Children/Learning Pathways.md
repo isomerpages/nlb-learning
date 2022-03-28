@@ -60,12 +60,6 @@ Go green with your child to build an eco-friendly future together.
       </tr>
     </thead>
     <tbody>
-      <tr>
-                <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/grow-your-own-microgreens-workshop-earth-heroes-registration-291156305347?aff=ebdsoporgprofile" target="_blank"><b>Grow Your Own Microgreens Workshop</b></a></td>
-        <td style="width: 40%;">Join us in celebrating Earth Day by learning how to grow and care for your own edible microgreens!</td>
-        <td style="width: 20%;">26 Mar 2022, <br> 10.30-11.30am</td>
-        <td style="width: 20%;">Tampines Regional Library </td>
-			</tr>
 			<tr>
 				<td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
         <td style="width: 40%;">Join NParks for our Living with Nature sharing series, starting with a storytelling on how some commonly found reptiles and amphibians (or herps) in Singapore come together to solve a mystery! <br><br>Following the storytelling segment, there will be a craft activity for both parent and child to make their favourite herp!</td>
