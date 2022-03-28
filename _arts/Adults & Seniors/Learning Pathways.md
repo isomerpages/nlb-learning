@@ -70,6 +70,7 @@ Through this pathway you can explore different resources and learn ways to culti
         <td style="width: 40%;"> Join our Talking Art guest lecturer, Gilles Massot, as he goes in-depth about cameras and photography, and its profound effect on visual perception and culture. This lecture is part of a year-long reading program, Get Started In: Reading Art, a series of foundational art-centric newsletters and talks covering art literacy, history and analysis.</td>
         <td style="width: 20%;">26 March 2022,<br> 4pm - 5.30pm </td>
         <td style="width: 20%;">Zoom </td>
+			</tr>
     </tbody>
   </table>
 </div>
