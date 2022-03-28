@@ -75,7 +75,6 @@ What can we do to protect the environment around us? Do you know the different t
 			  <tr>
         <td> More programmes coming soon!</td>
      </tr>
-     </tr>
     </tbody>
   </table>
 </div>
