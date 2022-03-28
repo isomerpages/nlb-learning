@@ -72,7 +72,7 @@ Resident is library@orchard’s artist-in-residence programme where a practicing
 Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
 ## **Arts Trail**
-![](/images/learning-communities/arts/LC-Arts-StockImage-02.jpg)
+![](/images/arts/programmes/poster_7.jpg)
 
 A curated display of artworks in the Lee Kong Chian Reference Library providing an interdisciplinary approach to the arts. These artworks are complemented by selections of books, heritage materials, and audiovisual resources, as well as programmes such as talks, workshops, and tours.
 
