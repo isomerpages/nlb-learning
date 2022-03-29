@@ -180,8 +180,6 @@ This is a parent-child programme and is suitable for children aged 3 to 6 years 
        <td>28 April 20222<br>1.30pm – 2.00pm<br></td>
         <td>Jurong Regional Library</td>
       </tr>
-</td>
-     </tr>
     </tbody>
   </table>
 </div>
