@@ -90,7 +90,6 @@ What can we do to protect the environment around us? Do you know the different t
       </tr>
     </thead>
   <tbody>
-			  <tr>
        <tr>			
 <td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-302537466707?aff=ebdsoporgprofile" target="_blank"><b> Jiggle, Read & Rhyme | Early READ </b></a></td>
         <td>Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! </td>
