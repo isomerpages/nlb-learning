@@ -62,23 +62,25 @@ What can we do to protect the environment around us? Do you know the different t
   </table>
 </div>
 
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
       <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
-       </tr>
+      </tr>
     </thead>
     <tbody>
-      <tr>			
+     <tr>			
 <td><a href="https://www.eventbrite.sg/e/upcycling-trash-to-treasure-registration-303275764977?aff=ebdsoporgprofile" target="_blank"><b> Upcycling Trash to Treasure! </b></a></td>
         <td> Come join us for an interactive programme on upcycling! In this session, children will get to repurpose common household objects to create beautiful artwork. The workshop will encourage children to practice upcycling and gain a deeper understanding that everything can have a new lease of life--- it is up to their imagination and creativity to breathe new life into discarded objects.</td>
         <td>16 April 2022<br>11.00am – 12.00pm<br></td>
         <td>Central Public Library </td>
 			</tr>
- </tbody>
+    </tbody>
   </table>
 </div>
+	
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
