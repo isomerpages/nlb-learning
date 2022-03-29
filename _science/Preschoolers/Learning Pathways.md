@@ -114,6 +114,12 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
       </tr>
     </thead>
     <tbody>
+					<tr>			
+<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-302537466707?aff=ebdsoporgprofile" target="_blank"><b> Jiggle, Read & Rhyme | Early READ </b></a></td>
+        <td>Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! </td>
+       <td>2 April 20222<br>10.30am –11.00am<br></td>
+        <td>Jurong Regional Library</td>
+      </tr>
 			  <tr>	
 <td><a href="https://www.eventbrite.sg/e/coding-unplugged-lets-get-looping-registration-276318725747?aff=ebdsoporgprofile" target="_blank"><b> Coding Unplugged: Let’s Get Looping!</b></a></td>
         <td> Join us in this basic introductory precoding programme where preschoolers will learn about the use of loops in coding through storytelling and games. In this session, participants will also get to apply what they have learnt through a hands-on activity and bring home their own “loopy” creation. <br><br>This parent-child session is suitable for preschoolers aged 5 to 6 years old.*Do note that this is a screen free way of teaching precoding concepts.</td>
