@@ -62,6 +62,12 @@ sections:
       url: /wellness/overview
       image: /images/wellness/home-wellness.png
       alt: wellness-home
+  - infopic:
+      description: "Embrace the Arts! "
+      button: Start Learning
+      url: /arts/overview
+      image: /images/home/home-arts-kv.png
+      alt: Image alt text
   - infobar:
       title: Find a group of like-minded people to learn with.
       button: Explore Communities
