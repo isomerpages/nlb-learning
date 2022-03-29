@@ -114,8 +114,28 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
       </tr>
     </thead>
     <tbody>
-			  <tr>
-        <td> More programmes coming soon!</td>
+			  <tr>	
+<td><a href="https://www.eventbrite.sg/e/coding-unplugged-lets-get-looping-registration-276318725747?aff=ebdsoporgprofile" target="_blank"><b> Coding Unplugged: Let’s Get Looping!</b></a></td>
+        <td> Join us in this basic introductory precoding programme where preschoolers will learn about the use of loops in coding through storytelling and games. In this session, participants will also get to apply what they have learnt through a hands-on activity and bring home their own “loopy” creation. <br><br>This parent-child session is suitable for preschoolers aged 5 to 6 years old.*Do note that this is a screen free way of teaching precoding concepts.</td>
+        <td>2 April 2022<br>11.00am – 12.00pm<br></td>
+        <td>Bedok Public Library</td>
+      </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-277292979767?aff=ebdsoporgprofile" target="_blank"><b> Baby Songs & Rhymes </b></a></td>
+        <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. <br><br>This programme is intended for parents with babies up to 12 months. </td>
+        <td>6 April 2022<br>2.30pm – 3.00pm<br></td>
+        <td>Zoom</td>
+      </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/think-like-a-coder-session-1-amazing-algos-i-discovertech-registration-275520086997?aff=ebdsoporgprofile" target="_blank"><b> Think Like a Coder: Session 1: Amazing Algos I DiscoverTech </b></a></td>
+        <td> 'Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children (age 3-6). These are for absolute beginners.<br><br>
+Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.
+<br><br>
+This is a parent-child programme and is suitable for children aged 3 to 6 years old.   </td>
+        <td>, 9 April 2022<br>11.00am – 12.00pm<br></td>
+        <td>Zoom</td>
+      </tr>
+</td>
      </tr>
     </tbody>
   </table>
