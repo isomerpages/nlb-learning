@@ -143,7 +143,7 @@ This is a parent-child programme and is suitable for children aged 3 to 6 years 
       </tr>
 			<tr>			
 <td><a href="https://www.eventbrite.sg/e/baby-lapsit-early-read-registration-291100347977?aff=ebdsoporgprofile" target="_blank"><b> Baby Lapsit | Early READ </b></a></td>
-        <td>Bond with your baby through songs, rhymes and finger plays in this meaningful play session!In this session, you will be introduced to simple stories, songs, action rhymes and finger plays that you can use to interact and bond with your baby at home.This programme is for parents with babies up to 12 months old.</td>
+        <td>Bond with your baby through songs, rhymes and finger plays in this meaningful play session! In this session, you will be introduced to simple stories, songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. This programme is for parents with babies up to 12 months old.</td>
        <td>9 April 2022<br>11.30am – 12.00pm<br></td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
@@ -176,7 +176,7 @@ This is a parent-child programme and is suitable for children aged 3 to 6 years 
       </tr>
 			<tr>			
 <td><a href="https://www.eventbrite.sg/e/baby-lapsit-early-read-registration-291109816297?aff=ebdsoporgprofile" target="_blank"><b> Baby Lapsit | Early READ </b></a></td>
-        <td>Bond with your baby through songs, rhymes and finger plays in this meaningful play session!In this session, you will be introduced to simple stories, songs, action rhymes and finger plays that you can use to interact and bond with your baby at home.This programme is for parents with babies up to 12 months old.</td>
+        <td>Bond with your baby through songs, rhymes and finger plays in this meaningful play session! In this session, you will be introduced to simple stories, songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. This programme is for parents with babies up to 12 months old.</td>
        <td>28 April 20222<br>1.30pm – 2.00pm<br></td>
         <td>Jurong Regional Library</td>
       </tr>
