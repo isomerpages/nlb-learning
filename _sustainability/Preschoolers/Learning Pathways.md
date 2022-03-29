@@ -58,11 +58,7 @@ What can we do to protect the environment around us? Do you know the different t
         <td><a href="/sustainability/preschoolers/content" target="_blank"><b> 3 Rs for Children</b></a></td>
         <td>Video resources to help children understand more about the 3Rs and how to take care of the environment.</td>
         <td></td>
-        <td> </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+        
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
