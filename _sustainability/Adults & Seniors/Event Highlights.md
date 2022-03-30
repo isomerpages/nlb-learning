@@ -36,8 +36,8 @@ third_nav_title: Adults & Seniors
 .clickbox.is-mint-jade a { color: #00b794; }
 .clickbox.is-mint-jade a:focus,
 .clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }
-	
-.content p { color: green; font-size: 16px; }
+
+.green-text { color: #32CD32; font-size: 16px; }
 	
 </style>
 
@@ -66,8 +66,9 @@ Visit the booths of all the teams!
 
 <b>Check out the posters of the teams' finalized ideas:</b>
 <br><a href="https://go.gov.sg/team1sproutup/" target="_blank">Team 1 Sprout Up!</a>
-<br><p>Sprout Up! has re:imagined Lot One Mall Rooftop. The teams’ short-term goals include creating green space for ethical and social marketplaces to thrive. This includes organizing eco-practice interactive workshops and games, setting up vertical gardens and recycling collection points. 
-In the long term, the team envisions Level 5 of Lot One Mall to be a space where the community comes together to grow food, a more robust green infrastructure and even a nature-based playground to get the young involved in sustainability. </p>
+<br><div class="green-text">
+Sprout Up! has re:imagined Lot One Mall Rooftop. The teams’ short-term goals include creating green space for ethical and social marketplaces to thrive. This includes organizing eco-practice interactive workshops and games, setting up vertical gardens and recycling collection points. 
+In the long term, the team envisions Level 5 of Lot One Mall to be a space where the community comes together to grow food, a more robust green infrastructure and even a nature-based playground to get the young involved in sustainability. </div>
 
 <br><a href="https://go.gov.sg/team2staysustainable/" target="_blank">Team 2 Stay Sustainable</a>
 <br><p style="color:green;font-size:16px;">Stay Sustainable has re:imagined CCK Community Centre. The teams’ short-term goals include knowledge-sharing through workshops and digital content on topics such as upcycling and composting. Stay Sustainable would also like to set up community compost bins and self-deposit corners for clothes and books to encourage more sustainable practices among the community. 
