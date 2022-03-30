@@ -4,6 +4,44 @@ permalink: /sustainability/adults-seniors/event-highlights
 description: ""
 third_nav_title: Adults & Seniors
 ---
+<style type="text/css">
+/* Links */
+.content a { color: #322987; }
+.content a:focus,
+.content a:hover { color: #28216c; }
+
+/* Button Outline */
+.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
+.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
+.bp-button.is-primary-outline:focus,
+.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
+
+/* Responsive Iframe */
+.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
+.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
+.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
+.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
+.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
+.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Mint Jade */
+.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
+.clickbox.is-mint-jade a { color: #00b794; }
+.clickbox.is-mint-jade a:focus,
+.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }
+	
+.p {color: green; font-size:16px; }
+	
+</style>
+
+
 ## The Great Make-Over Project
 <img src="/images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:300px;height:500px;">
 
@@ -37,7 +75,7 @@ The teams’ long-term plans are to revitalize the CCK Community Centre with gre
  </p>
  
 <br><a href="https://go.gov.sg/team3parkkaki/" target="_blank">Team 3 Park Kaki</a>
-<br><p style="color:green;font-size:16px;">Park Kaki has re:imagined Choa Chu Kang Park. In the short run, team Park Kaki hopes to organize various community initiatives from guided educational tours, eco wellness walks, farmers’ markets and even eco-themed storytelling and craft workshops. They also hope to mobilise the community to do park clean ups. 
+<br><p>Park Kaki has re:imagined Choa Chu Kang Park. In the short run, team Park Kaki hopes to organize various community initiatives from guided educational tours, eco wellness walks, farmers’ markets and even eco-themed storytelling and craft workshops. They also hope to mobilise the community to do park clean ups. 
 In the long run, the team envisions Cho Chu Kang Park as a place for not only appreciation, but also to serve as a sustainability landmark in Choa Chu Kang where the community can appreciate the natural and historical heritage of the park. </p>
  
 <br><a href="https://go.gov.sg/team4sunshine/" target="_blank">Team 4 Sunshine</a>
@@ -72,4 +110,6 @@ The teams also conducted ground-up research to value-add to their projects. From
 
 On 13th March 2022, participants presented the reimagined spaces and creative green solutions to a panel of judges consisting of representatives from the Choa Chu Kang Town Council, the National Environment Agency, and the National Library Board.
 
-Highlights video: <iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Highlights video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
