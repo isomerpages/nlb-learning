@@ -114,7 +114,7 @@ Through this pathway you can explore different resources and learn or hone new s
         <td style="width: 20%;">Zoom </td>
       </tr>
 <tr>
-<td><a href="go.gov.sg/diyart-floralsinjars" target="_blank"><b> Florals in Jars | Get Started In: DIY Art</b></a></td>
+<td><a href="https://www.eventbrite.sg/e/get-started-in-diy-art-florals-in-jars-intermed-watercolour-workshop-registration-264969780747" target="_blank"><b> Florals in Jars | Get Started In: DIY Art</b></a></td>
         <td> Learn more watercolour techniques, wet on wet and wet on dry techniques to paint transparent jars with 2-3 types of loose florals in the jars. Students can bring home a card with at least 2 jars with florals with the instructor’s guidance.  </td>
         <td>26 March 2022, 2pm – 4pm </td>
         <td> Tampines Regional Library, Programme Zone </td>
