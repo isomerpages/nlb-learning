@@ -72,4 +72,4 @@ The teams also conducted ground-up research to value-add to their projects. From
 
 On 13th March 2022, participants presented the reimagined spaces and creative green solutions to a panel of judges consisting of representatives from the Choa Chu Kang Town Council, the National Environment Agency, and the National Library Board.
 
-Highlights video:
+Highlights video: <iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
