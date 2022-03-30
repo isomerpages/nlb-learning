@@ -47,7 +47,7 @@ You may not know it, but the arts is all around us and integral to our daily liv
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="/arts/adults-and-seniors/overview">
+      <a href="/arts/adults-seniors/overview">
         <span>Adults & Seniors</span>
       </a>
     </div>
