@@ -63,8 +63,8 @@ sections:
       image: /images/wellness/home-wellness.png
       alt: wellness-home
   - infopic:
-      description: "Bolster your creativity and appreciation of the arts, and train
-        your eye to recognise the art around us in our daily lives. "
+      description: "Boost creativity and appreciation of the arts, and train your eye
+        to recognise the art around us in our daily lives. "
       button: Start Learning
       url: /arts/overview
       image: /images/home/home-arts-kv.png
