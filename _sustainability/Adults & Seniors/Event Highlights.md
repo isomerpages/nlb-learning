@@ -66,7 +66,7 @@ Visit the booths of all the teams!
 
 <b>Check out the posters of the teams' finalized ideas:</b>
 <br><a href="https://go.gov.sg/team1sproutup/" target="_blank">Team 1 Sprout Up!</a>
-<br><p style="color:green;font-size:16px;">Sprout Up! has re:imagined Lot One Mall Rooftop. The teams’ short-term goals include creating green space for ethical and social marketplaces to thrive. This includes organizing eco-practice interactive workshops and games, setting up vertical gardens and recycling collection points. 
+<br><p>Sprout Up! has re:imagined Lot One Mall Rooftop. The teams’ short-term goals include creating green space for ethical and social marketplaces to thrive. This includes organizing eco-practice interactive workshops and games, setting up vertical gardens and recycling collection points. 
 In the long term, the team envisions Level 5 of Lot One Mall to be a space where the community comes together to grow food, a more robust green infrastructure and even a nature-based playground to get the young involved in sustainability. </p>
 
 <br><a href="https://go.gov.sg/team2staysustainable/" target="_blank">Team 2 Stay Sustainable</a>
@@ -75,7 +75,7 @@ The teams’ long-term plans are to revitalize the CCK Community Centre with gre
  </p>
  
 <br><a href="https://go.gov.sg/team3parkkaki/" target="_blank">Team 3 Park Kaki</a>
-<br><p>Park Kaki has re:imagined Choa Chu Kang Park. In the short run, team Park Kaki hopes to organize various community initiatives from guided educational tours, eco wellness walks, farmers’ markets and even eco-themed storytelling and craft workshops. They also hope to mobilise the community to do park clean ups. 
+<br><p style="color:green;font-size:16px;">Park Kaki has re:imagined Choa Chu Kang Park. In the short run, team Park Kaki hopes to organize various community initiatives from guided educational tours, eco wellness walks, farmers’ markets and even eco-themed storytelling and craft workshops. They also hope to mobilise the community to do park clean ups. 
 In the long run, the team envisions Cho Chu Kang Park as a place for not only appreciation, but also to serve as a sustainability landmark in Choa Chu Kang where the community can appreciate the natural and historical heritage of the park. </p>
  
 <br><a href="https://go.gov.sg/team4sunshine/" target="_blank">Team 4 Sunshine</a>
