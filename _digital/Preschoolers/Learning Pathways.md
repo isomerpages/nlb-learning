@@ -159,6 +159,13 @@ This is a parent-child programme and is suitable for children aged 3 to 6 years 
         <td>16 April 2022<br>11.00am – 12.00pm<br></td>
         <td>Central Public Library </td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/you-are-the-best-parent-for-your-children-registration-275487690097?aff=ebdsoporgprofile" target="_blank"><b> You are the Best Parent for your children</b></a></td>
+        <td> Parents dread tantrums especially in public and often unknowingly encourage this behavior. Learn from Ms Gerardine Pang, author of Parenting Is Not a Democracy, on the following parenting techniques:<br><br>1. How a child’s brain develops and what they are capable of understanding at different stages of development<br><br> 2. How to recognise triggers and calmly lead your child away from the meltdown 
+<br><br> 3. How to explain clearly and patiently to your children three “zones” of self-control <br><br> 4. How to teach your child to recognise the triggers themselves and what they can do to bring themselves back under a clear and peaceful mindset again<br><br> 5. How to guide your children to return to “Safe” or “Peaceful” zone by themselves and help them practise this through role-play and discussions<br><br> 6. Tips on handling tantrums</td>
+        <td>23 April 2022<br>2.00pm – 3.00pm<br></td>
+        <td>Woodlands Regional Library</td>
+      </tr>
 		<tr>			
 <td><a href="https://www.eventbrite.sg/e/baby-lapsit-early-read-registration-291109816297?aff=ebdsoporgprofile" target="_blank"><b> Baby Lapsit | Early READ </b></a></td>
         <td>Bond with your baby through songs, rhymes and finger plays in this meaningful play session! In this session, you will be introduced to simple stories, songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. This programme is for parents with babies up to 12 months old.</td>
