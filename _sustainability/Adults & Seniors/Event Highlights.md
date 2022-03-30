@@ -37,7 +37,7 @@ third_nav_title: Adults & Seniors
 .clickbox.is-mint-jade a:focus,
 .clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }
 
-.green-text { color: #32CD32; font-size: 16px; }
+.green-text { color: #2E8B57; font-size: 16px; }
 	
 </style>
 
@@ -115,7 +115,4 @@ On 13th March 2022, participants presented the reimagined spaces and creative gr
 
 Highlights video: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
