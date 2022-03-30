@@ -55,7 +55,7 @@ Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singap
 
 Pro Series is a suite of talks curated by library@orchard that gives insight into the craftsmanship of various design disciplines. library@orchard Pro Series topics include zines, concept design, and jewellery design.
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-arts-66189){:target="_blank"} for the latest programme listings.
 
 ## **Communities**
 ![](/images/arts/programmes/poster_3.png)
@@ -69,7 +69,7 @@ Click [here](https://www.eventbrite.sg/cc/libraryorchard-programmes-138109){:tar
 
 Resident is library@orchard’s artist-in-residence programme where a practicing artist or designer to transforms the library space into their studio. Look out for Open Studio sessions where you may visit the studio to take a peek into the works and processes of these artists and designers.
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-arts-66189){:target="_blank"} for the latest programme listings.
 
 ## **Arts Trail**
 ![](/images/arts/programmes/poster_7.jpg)
