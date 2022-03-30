@@ -116,3 +116,6 @@ On 13th March 2022, participants presented the reimagined spaces and creative gr
 Highlights video: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
