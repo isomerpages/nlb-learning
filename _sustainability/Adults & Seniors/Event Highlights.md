@@ -5,17 +5,32 @@ description: ""
 third_nav_title: Adults & Seniors
 ---
 ## The Great Make-Over Project
-<img src="/images/sustainability/adults-and-seniors/GMO_eDM_600x300_1.jpg" style="width:300px;height:200px;">
+<img src="/images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:300px;height:500px;">
 
-The Great Make-Over Project is an annual project that brings together everyday people to co-solution, reinvent, and reimagine spaces to promote sustainable living. 
+The Great Make-Over Project, a commual project that brings together everyday people to co-solution, reinvent, and reimagine spaces to promote sustainable living. 
 Over the course of six weeks, 25 individuals, from different walks of life such as homemakers, artists and entrepreneurs, were divided into five teams and explored the question – “What would Choa Chu Kang look like when our community spaces are reimagined for sustainability?”
 
-<p style="font-size:160%;"><b><u> Painting CCK Green: Meet-up with the Ideators! </u></b></p>
+JOIN US AT OUR EXHIBITIONS AND SHARING SESSIONS TO LEARN ABOUT THEIR PROJECTS! 
 
-<img src="/images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:400px;height:600px;">
 
-Check out the posters of the teams' finalized ideas here:
+
+<b><u> Exhibition details</u></b>
+<br>30 March 2022 to 30 April 2022  @ Choa Chu Kang Public Library
+<br>01 May 2022 to 30 June 2022  @ Jurong Regional Library 
+
+<b><u>Sharing sessions- Painting CCK Green: Meet-up with the Ideators</u></b>
+<br>23 April 2022 2pm-4pm  @ Choa Chu Kang Public Library
+Visit the booths of all the teams!
+<br>Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-physical-registration-296489095867?aff=ebdssbdestsearch/" target="_blank"> HERE!</a> <br>
+<br> 30 April 2022 12pm-1.30pm @ Zoom, Sharing by Group 1 (Sprout Up!) and Group 3 (Park Kaki) 
+<br> Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-1-3-registration-296489477007?aff=ebdssbdestsearch/" target="_blank"> HERE!</a>
+<br>Team Sprout Up has devised plans to enhance awareness and responsible community practices for food sustainability as well as integrate more green spaces in the urban environment of the Lot One Rooftop. They hope to create a lovable space for all age groups that patronise the mall, from young children to adults and the elderly.
+<br>30 April 2022 2pm-4pm  @ Zoom, Sharing by Group 2 (Stay Sustainable), Group 4 (Sunshine) & Group 5 (Social Tech Farmers)
+<br> Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-2-4-5-registration-297497572247?aff=ebdssbdestsearch" target="_blank"> HERE!</a>
+
+<b>Check out the posters of the teams' finalized ideas:</b>
 <br><a href="https://go.gov.sg/team1sproutup/" target="_blank">Team 1 Sprout Up!</a>
+<br>
 <br><a href="https://go.gov.sg/team2staysustainable/" target="_blank">Team 2 Stay Sustainable</a>
 <br><a href="https://go.gov.sg/team3parkkaki/" target="_blank">Team 3 Park Kaki</a>
 <br><a href="https://go.gov.sg/team4sunshine/" target="_blank">Team 4 Sunshine</a>
@@ -24,19 +39,7 @@ Check out the posters of the teams' finalized ideas here:
 <b>Share Your Feedback and Collaborate with us!</b>
 <br>You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a> 
 
-<b><u> Exhibition details</u></b>
-<br>30 March 2022 to 30 April 2022  @ Choa Chu Kang Public Library
-<br>01 May 2022 to 30 June 2022  @ Jurong Regional Library 
 
-<b><u>Sharing sessions</u></b>
-<br>23 April 2022 2pm-4pm  @ Choa Chu Kang Public Library
-Visit the booths of all the teams!
-<br>Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-physical-registration-296489095867?aff=ebdssbdestsearch/" target="_blank"> HERE!</a> <br>
-<br> 30 April 2022 12pm-1.30pm @ Zoom, Sharing by Group 1 (Sprout Up!) and Group 3 (Park Kaki) 
-<br> Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-1-3-registration-296489477007?aff=ebdssbdestsearch/" target="_blank"> HERE!</a>
-<br>
-<br>30 April 2022 2pm-4pm  @ Zoom, Sharing by Group 2 (Stay Sustainable), Group 4 (Sunshine) & Group 5 (Social Tech Farmers)
-<br> Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-2-4-5-registration-297497572247?aff=ebdssbdestsearch" target="_blank"> HERE!</a>
 
 <b>Check out the highlights of The Great Make-Over Project below!</b>
 
