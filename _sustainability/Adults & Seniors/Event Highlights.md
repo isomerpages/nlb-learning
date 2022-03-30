@@ -37,7 +37,7 @@ third_nav_title: Adults & Seniors
 .clickbox.is-mint-jade a:focus,
 .clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; }
 	
-.p { color: green; font-size:16px; }
+.content p { color: green; font-size: 16px; }
 	
 </style>
 
