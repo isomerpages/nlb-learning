@@ -64,50 +64,52 @@ Explore our **learning packages** for fun facts and activities that show our lit
   </div>
 
 
-<h3 class="margin--bottom--lg" id="playlist-3r"><b>Playlist: 3 Rs for young children</b></h3>
+<h3 class="margin--bottom--lg" id="playlist-3r"><b>Playlist: Seas & Oceans</b></h3>
 
-It is never too early to teach children about sustainability and the importance of caring for our environment. Although this might be a broad topic, there are plenty of ways to teach young children about sustainability in a way that they can understand. 
+Dolphins, blue whales, sea lions, jellyfishes, and ocean sunfish, are some of our favourite beautiful sea creatures that live in the oceans. 
 
-As a start, we can tell them ways to protect the environment by practising the three Rs: reduce, reuse and recycle.
+Not only do oceans  house these marine lives, but these bodies of water also help in maintaining the Earth’s oxygen level, making it easier for us to breathe. 
 
-Check out the video resources below to help your child understand more about the three Rs and how to take care of the environment.
+Check out the video resources below to help your child understand the roles of the oceans and seas in our ecosystem!
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/8DJ45Yc3urg"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/GgCwRA1L9uo"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>Going Green! | Earth Day song for kids about the three Rs: Reduce, Reuse and Recycle! (2 mins 39 sec)</b><br>
-    A catchy song about how to take care of the Earth! In this song, children will learn about the three Rs—Reduce, Reuse, and Recycle. They will learn simple, practical things that they can do to reduce waste and consumption, reuse old items and recycle appropriate materials.</p>
-    <small>Source: Harry Kindergarten Music. Going Green! - Earth Day song for kids about the three Rs - Reduce, Reuse, and Recycle! - Youtube (2013, Aug 18). Retrieved 2021, October 20.</small>
+    <p><b>What If The OCEAN Disappears? | Ocean Water EVAPORATES | Dr Binocs Show | Peekaboo Kidz (5 mins 40 secs) </b><br>
+    Join Dr Bionics in a journey deep into the oceans, as he explains the importance of oceans– which is more than what we see.</p>
+    <small>Source: Walrus | Amazing Animals. YouTube. (2016, August 1). Retrieved March 15, 2022.</small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/6jQ7y_qQYUA"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/RE2_LH2wo5s"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>Recycling for Kids | Recycling Plastic, Glass and Paper | Recycle Symbol | Kids Academy (4 mins 42 sec)</b><br>
-    Join two children as they learn about the process of recycling including how to recycle, what can be recycled and what will happen to the recycled items.  Children can also try sorting items into the correct bins.</p>
-    <small>Source: Kids Academy: Recycling for Kids: Recycling Plastic, Glass and Paper- Youtube (2018, Dec 22). Retrieved 2021, October 20.</small>
+    <p><b>Save the Sharks Children's Animated Audiobook by Bethany Stahl (4 mins 23 secs) </b><br>
+    In this story, young children get to understand how human activities such as fishing and littering has affected the habitats of marine life. </p>
+    <small>Source: Save the Sharks Children's Animated Audiobook by Bethany Stahl. YouTube (2021, Mar 9). Retrieved March 21, 2022.</small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/XKGsaziqRE4"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/ogtvFbBfPEA"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>What is recycling? | Recycling for Children | Learn to Recycle | Polly Olly (3 mins 33)</b><br>
-    In this engaging video, Polly explains to kids what recycling is and why it is important to recycle paper and plastic.</p>
-    <small>Source: Polly Olly - Kids Videos and Nursery Rhymes: What is recycling? Recycling for children-Youtube (2019, Aug 25). Retrieved 2021, October 20.</small>
+    <p><b>Save the Sea Animals | Shark Week with Baby Shark | Pinkfong Songs for Children 
+(1 min 39 secs) </b><br>
+    With its catchy tune, young children will be motivated to learn how they can save their favourite marine animals. </p>
+    <small>Source: Save the Sea Animals | Shark Week with Baby Shark | Pinkfong Songs for Children. YouTube (2020, Aug 15) 
+Retrieved March 21, 2022.</small>
   </div>
 </div>
 
