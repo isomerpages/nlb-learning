@@ -50,7 +50,7 @@ Explore our **learning packages** for fun facts and activities that show our lit
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
       <a href="#playlist-3r">
-        <span>Playlist:<br>The 3 Rs</span>
+        <span>Playlist:<br>Seas & Oceans</span>
       </a>
     </div>
   </div>
