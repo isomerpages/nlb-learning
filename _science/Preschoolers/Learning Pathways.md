@@ -46,7 +46,7 @@ It's Time to Learn about Time!</b></a></td>
         <td style="width: 0%;"></td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-density" target="_blank"><b> ABC's of Applied Chemistry for Kids: Let’s Learn About Density </b></a></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-density" target="_blank"><b> ABC's of Applied Chemistry for Kids: Let’s Learn About Density </b></a><img src="/images/Science%20LearnX%20Learning%20Pathways%20-%20Density.png" style="width:400px; text-align:left;"></td>
         <td> Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Read on to introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together! </td>
         <td></td>
         <td> </td>
