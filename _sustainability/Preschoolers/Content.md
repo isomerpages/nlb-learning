@@ -74,7 +74,7 @@ Check out the video resources below to help your child understand the roles of t
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-		<div class="image"><a href="https://www.youtube.com/embed/GgCwRA1L9uo" target="_blank">
+		<div class="image"><a href="https://www.youtube.com/watch?v=GgCwRA1L9uo" target="_blank">
        <img src="/images/sustainability/Preschoolers/What%20If%20The%20OCEAN%20Disappears.jpeg" style="width:500px; text-align:left;"></a>
     </div>
   </div>
