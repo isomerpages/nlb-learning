@@ -81,7 +81,8 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
       </tr>
   <tr>
 <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-apple" target="_blank"><b> ABC's of Applied Chemistry for Kids: Why Do Apples Turn Brown?
-		</b></a><img src="/images/science/preschoolers/Lx_Why%20Do%20Apples%20Turn%20Brown.jpg" style="width:600px; text-align:left;"></td>
+		</b></a><img 
+src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-align:left;"></td>
         <td> Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it? <br><br>Let’s find out with a simple experiment that you can do at home.
  </td>
         <td></td>
