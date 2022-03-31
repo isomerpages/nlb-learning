@@ -85,8 +85,8 @@ Do you want to know how much time your kids should spend using devices? Here is 
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/9-u9vGafcFs" class="responsive-iframe"></iframe>
+		<div class="image"><a href="http://www.youtube.com/watch?v=9-u9vGafcFs" target="_blank">
+       <img src="/images/digital/Preschoolers/Limiting%20Screen%20Time.jpeg" style="width:500px; text-align:left;"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
