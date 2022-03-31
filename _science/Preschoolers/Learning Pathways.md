@@ -27,6 +27,8 @@ third_nav_title: Preschoolers
 
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
+![](/images/Time%20to%20Learn%20About%20Time%20Thumbnail.png)
+
 <h3><b>Growing with Science Anytime, Anywhere!</b></h3>
 A child's discovery of the world happens in their everyday life – in their interactions with the people around them, their local environment, the community, and the world beyond. <br><br>Through our suite of programmes and resources, children will be given opportunities to explore the world around them through experiential learning. They will learn to apply inquiry or process skills such as observation, prediction, investigation and drawing conclusions through these experiences.<br><br>And while these activities will help children better understand scientific concepts, our resources also seek to equip parents to be part of their child’s journey with Science. Science is everywhere and learning can happen anytime, even at home! Find out tips on how you can be part of your child’s exploration in the complex and diverse nature of the world.<br><br> 
 
@@ -40,7 +42,7 @@ A child's discovery of the world happens in their everyday life – in their int
    <tbody>
       <tr>
         <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-time" target="_blank"><b> ABC's of Applied Physics for Kids:
-It's Time to Learn about Time!</b></a></td>
+It's Time to Learn about Time!</b></a><img src="/images/Time%20to%20Learn%20About%20Time%20Thumbnail.png" style="width:400px; text-align:left;"></td>
         <td style="width: 80%;"> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</td>
 				<td style="width: 0%;"></td>
         <td style="width: 0%;"></td>
