@@ -46,7 +46,7 @@ It's Time to Learn about Time!</b></a></td>
         <td style="width: 0%;"></td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-density" target="_blank"><b> ABC's of Applied Chemistry for Kids: Let’s Learn About Density </b></a><img src="/images/Science%20LearnX%20Learning%20Pathways%20-%20Density.png" style="width:400px; text-align:left;"></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-density" target="_blank"><b> ABC's of Applied Chemistry for Kids: Let’s Learn About Density </b></a><img src="/images/science/preschoolers/Fireworks%20in%20a%20Bottle%20icon.png" style="width:400px; text-align:left;"></td>
         <td> Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Read on to introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together! </td>
         <td></td>
         <td> </td>
@@ -61,7 +61,7 @@ In addition, they come in all shapes and sizes, and have developed special featu
         <td> </td>
       </tr>
 		 <tr>
-        <td><a href="https://learning.nlb.gov.sg/science/preschoolers/content#playlist-biotech" target="_blank"><b>Microscopic World: Protecting the Body! Science Behind Medical Biotechnology</b></a></td>
+        <td><a href="https://learning.nlb.gov.sg/science/preschoolers/content#playlist-biotech" target="_blank"><b>Microscopic World: Protecting the Body! Science Behind Medical Biotechnology</b></a><img src="/images/science/preschoolers/Microscopic%20World.png" style="width:400px; text-align:left;"></td>
         <td>Discover with your child how our bodies keep us safe from germs with antibodies. Learn how scientists invented vaccines and antibiotics over the years to help boost our immune systems to ward off serious illnesses.
 </td>
         <td></td>
