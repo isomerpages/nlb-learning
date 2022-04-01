@@ -37,13 +37,6 @@ All talks are listed on Eventbrite and suitable for adults and seniors.
 
 Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
 
-## **WWF Explains**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-WWFExplains.jpg)
-
-A signature series with WWF Singapore that features conservation experts discussing the unexpected links between our daily concerns and the environment. Held on a quarterly basis.
-
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/)for the latest programme listings.
-
 ## **Garden Talks by Nparks**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-01.jpg)
 
