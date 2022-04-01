@@ -32,14 +32,14 @@ Be a part of the arts with LearnXArts, your portal into the realm of everything 
 
 CANVAS/S puts the spotlight on an artform through an exhibition, talks, workshops and tours conducted by a local artist who specializes in it. Take your time to view the artworks on display or improve your craft at the intermediate level programmes. There’s something for everyone here. 
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-arts-66189){:target="_blank"} for the latest programme listings.
 
 ## **Get Started In**
 ![](/images/arts/programmes/poster_2.png)
 
 A beginner series of workshops, talks and tutorial videos for those who want to get started in an art form but do not know how to. Each session is conducted by a professional artist and is perfect for anyone who may find the world of art intimidating. The Get Started In series includes photography, fine art appreciation, and a variety of craft.
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849/){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-arts-66189){:target="_blank"} for the latest programme listings.
 
 ## **Insider Series**
 ![](/images/arts/programmes/poster_6.jpg)
@@ -55,24 +55,24 @@ Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singap
 
 Pro Series is a suite of talks curated by library@orchard that gives insight into the craftsmanship of various design disciplines. library@orchard Pro Series topics include zines, concept design, and jewellery design.
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-arts-66189){:target="_blank"} for the latest programme listings.
 
 ## **Communities**
 ![](/images/arts/programmes/poster_3.png)
 
 Communities is an alternative learning environment where you can pick up a plethora of skills by sharing and experimenting with others. This monthly series lead by our community is built on the belief that teaching and learning can happen without a teacher.
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/libraryorchard-programmes-138109){:target="_blank"} for the latest programme listings.
 
 ## **Resident**
 ![](/images/arts/programmes/poster_5.png)
 
 Resident is library@orchard’s artist-in-residence programme where a practicing artist or designer to transforms the library space into their studio. Look out for Open Studio sessions where you may visit the studio to take a peek into the works and processes of these artists and designers.
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-arts-66189){:target="_blank"} for the latest programme listings.
 
 ## **Arts Trail**
-![](/images/learning-communities/arts/LC-Arts-StockImage-02.jpg)
+![](/images/arts/programmes/poster_7.jpg)
 
 A curated display of artworks in the Lee Kong Chian Reference Library providing an interdisciplinary approach to the arts. These artworks are complemented by selections of books, heritage materials, and audiovisual resources, as well as programmes such as talks, workshops, and tours.
 

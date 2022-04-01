@@ -61,19 +61,6 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/green-market-the-conscious-consumer-registration-220385588227?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>CCKPL: Green Market</b></a></td>
-				<td style="width: 40%;">The <b>Green Market 2022</b> is a bi-annual sustainability event that promotes sustainable living and introduces ways to practice it. It is a platform to connect people to green communities and organisations to nurture and support a green eco-system.<br>
-</td>
-        <td style="width: 20%;">19-20 Mar 2022<br></td>
-        <td style="width: 20%;">Choa Chu Kang Public Library & Zoom</td>
-      </tr>
-			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/grow-your-own-microgreens-workshop-teens-takeover-greenhouse-registration-291158602217?aff=ebdsoporgprofile" target="_blank"><b>Grow Your Own Microgreens Workshop</b></a></td>
-        <td style="width: 40%;">Join us in celebrating Earth Day by learning how to grow and care for your own edible microgreens!</td>
-        <td style="width: 20%;">26 Mar 2022, <br> 2.30-3.30pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library </td>
-			</tr>
-			<tr>
          <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Teens Takeover | GREENHOUSE
 </b></a></td>
         <td style="width: 40%;">A series of talks and workshops for teens to explore various green topics and projects. <br><br>Stay tuned for more updates.</td>
