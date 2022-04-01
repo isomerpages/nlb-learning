@@ -377,7 +377,6 @@ You've probably seen a few cubes sitting in an art gallery and questioned why th
    
 This is a year-long college-level survey course in art history. It covers art history from the European Renaissance around 1300 A.D. until the mid-20th century as well as the language used to discuss art.  <br><br>
 		<small>Source: Art History Renaissance to 20th Century (2020, August). Kenney Mencher, Udemy. Retrieved 2022, March 31.</small></p>
-  </div>
 
   </div>
 </div>
