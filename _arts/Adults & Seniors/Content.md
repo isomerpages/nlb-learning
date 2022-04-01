@@ -365,4 +365,20 @@ You've probably seen a few cubes sitting in an art gallery and questioned why th
   </div>
 </div>
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://nlbsg.udemy.com/course/art-history-survey-1300-to-contemporary/learn/lecture/867540#overview"><img src="/images/Arts/Content/content_1.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Art History: Renaissance to 20th Century</b><br>
+   
+This is a year-long college-level survey course in art history. It covers art history from the European Renaissance around 1300 A.D. until the mid-20th century as well as the language used to discuss art.  </p>
+  </div>
+</div>
+
+
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
