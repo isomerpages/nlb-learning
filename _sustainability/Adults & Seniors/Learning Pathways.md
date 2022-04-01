@@ -67,7 +67,7 @@ Some of us love them and then there are those who fear them; what is vital to kn
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/289017006647" target="_blank"><b>Forests and Mammals that Return in Singapore </b></a></td>
         <td style="width: 40%;">The deforestation of Singapore has led to the extinction of several mammal species here. But not all is lost. Owing to conservation efforts and land use decisions, some mammals such as the greater mouse-deer have returned, while others like the leopard cat have made a recovery from near extinction. How can we facilitate the recovery of forests and wildlife? Is time running out! </td>
         <td style="width: 20%;"> 26 Apr 2022,<br>7.30pm – 8.30pm</td>
-        <td style="width: 20%;">Zoom<br>OTH</td>
+        <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
 <td><a href="https://https://www.eventbrite.sg/e/31101673843" target="_blank"><b>When Animals are not so cuddly</b></a></td>
