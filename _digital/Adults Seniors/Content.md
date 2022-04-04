@@ -633,7 +633,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <h4>Programmes</h4>
 <p>We’ve got more in store for you! Check out the programmes under our My Digital Life series to learn more about how technology affects your daily life and unpack trending topics.</p>
-<p>Sign up here: <a href="go.gov.sg/nlbmdl" target="_blank">go.gov.sg/nlbmdl</a></p>			
+<p>Sign up here: <a href="https://go.gov.sg/nlbmdl" target="_blank">go.gov.sg/nlbmdl</a></p>			
 
 
 <h4>References</h4>
