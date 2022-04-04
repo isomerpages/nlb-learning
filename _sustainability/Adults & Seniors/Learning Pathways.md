@@ -44,7 +44,7 @@ Some of us love them and then there are those who fear them; what is vital to kn
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
-<tr>
+      <tr>
         <td><a href="/sustainability/adults-seniors/content" target="_blank"><b>City in Nature</b></a></td>
         <td>We explore what is a City in Nature and how you can participate in it in through the resources presented here. </td>
         <td></td>
@@ -74,13 +74,12 @@ Some of us love them and then there are those who fear them; what is vital to kn
         <td>31 May 22, <br>7.30pm -8.30pm</td>
         <td>Zoom</td>
       </tr>
-<tr>
+      <tr>
 <td><a href="https://www.eventbrite.com/cc/programmes-on-sustainability-66229" target="_blank"><b>Our Wild Neighbours!</b></a></td>
         <td> Join us for a panel discussion featuring representatives from various environmental groups who will explore our relationship with wildlife.</td>
         <td>29 May 2022, <br>2.00pm -3.30pm</td>
         <td>Choa Chu Kang Public Library</td>
-      </tr>
-   </tr>
+			</tr>
     </tbody>
   </table>
 </div>
@@ -100,7 +99,6 @@ Please be prepared to actively participate in these book discussions. You can re
         <td>30 Apr 2022, <br>8.00pm</td>
         <td>Zoom</td>
       </tr>
-	</tr> 
     </tbody>
   </table>
 </div>
