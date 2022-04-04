@@ -11,8 +11,7 @@ Get to know your books, writers and listen to experts on current issues as we di
 
 How to Fall in Love with Classics is a lecture series that introduces canonical and beloved works of literature to a wide audience. This series will equip attendees with the relevant literary and historical contexts and inspire reflections on the title’s relevance to our lives today. 
 
-Click [here](https://go.gov.sg/nlblitarts)
-{:target="_blank"} for the latest programme listings.
+Click [here](https://go.gov.sg/nlblitarts){:target="_blank"} for the latest programme listings.
 
 Click [here](https://www.facebook.com/howtofallinlovewithclassics/){:target="_blank"} for past lectures.
 
@@ -36,8 +35,7 @@ Click [here](https://readingnation.nlb.gov.sg/initiatives/one-story-events/){:ta
 
 Think Lit is a literary arts series that addresses contemporary topics in reading, literacy and literature for adults. It aims to promote critical thinking and encourages discussion on trending issues facing the literary world. The series will be conducted by educators, teachers, academics, or industry experts.
 
-Click [here](https://go.gov.sg/nlblitarts)
-{:target="_blank"} for the latest programme listings.
+Click [here](https://go.gov.sg/nlblitarts){:target="_blank"} for the latest programme listings.
 
 ## **Head2Head** 
 
