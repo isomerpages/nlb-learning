@@ -4,7 +4,6 @@ permalink: /sustainability/adults-seniors/learning-pathways
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -81,8 +80,7 @@ Some of us love them and then there are those who fear them; what is vital to kn
         <td>29 May 2022, <br>2.00pm -3.30pm</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
-<tr>
-      </tr>
+   </tr>
     </tbody>
   </table>
 </div>
