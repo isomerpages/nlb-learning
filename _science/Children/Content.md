@@ -172,7 +172,7 @@ Ever wondered who invented erasers, bridges, and the game chess? Find out the hi
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="image">
-      <a target="_blank" href=" https://www.youtube.com/watch?v=M9Pf1CBDmqQ "><img src="/images/science/children/ learnx_children_who_invented_erasers.jpg
+      <a target="_blank" href=" https://www.youtube.com/watch?v=M9Pf1CBDmqQ "><img src="/images/science/Children/ learnxchildrenwhoinventederasers.jpg
  "></a>
     </div>
   </div>
