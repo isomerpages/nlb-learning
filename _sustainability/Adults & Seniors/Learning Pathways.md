@@ -4,7 +4,6 @@ permalink: /sustainability/adults-seniors/learning-pathways
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -27,10 +26,10 @@ third_nav_title: Adults & Seniors
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-We start with renewing our appreciation of a <a href="#city-in-nature">City In Nature</a>.
+We start with rexamining our relationship with <a href="#wildlife">in Wild About Wildlife</a>.
  
-<h3 id="city-in-nature" class="margin--bottom--lg"><b>City in Nature</b></h3>
-City in nature is one of the five key pillars in Singapore’s Green Plan. We explore the importance of green spaces in the city, efforts taken by Singapore to go low carbon and how to incorporate nature and reduce emissions in your life. 
+<h3 id="Wild About Wildlife" class="margin--bottom--lg"><b>Wild About Wildlife</b></h3>
+Some of us love them and then there are those who fear them; what is vital to know is that wildlife is a crucial part of the Earth's ecosystem.Discover how to deepen your appreciation of wildlife in Singapore by exploring ways to co-exist along with efforts to conserve them.
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -45,7 +44,7 @@ City in nature is one of the five key pillars in Singapore’s Green Plan. We ex
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
-<tr>
+      <tr>
         <td><a href="/sustainability/adults-seniors/content" target="_blank"><b>City in Nature</b></a></td>
         <td>We explore what is a City in Nature and how you can participate in it in through the resources presented here. </td>
         <td></td>
@@ -59,45 +58,28 @@ City in nature is one of the five key pillars in Singapore’s Green Plan. We ex
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal ">Learn With Expert Speakers or Explore Through Art</th>
+        <th colspan="4" class="is-uppercase has-weight-normal ">Learn With Expert Speakers</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/go-green-grow-a-sustainability-learning-journey-tickets-224433736347" target="_blank"><b>Go Green & Grow: A Sustainability Learning Journey</b></a></td>
-        <td style="width: 40%;">You may have heard about the global movement of sustaining the environment to meet the needs of the present and future generations. Want to know more about the sustainability-related happenings right in your neighbourhood and get introduced to practical tips on how to lead a more sustainable lifestyle? Register now for this two-day learning journey jointly organised by Our Tampines Hub and Tampines Regional Library.</td>
-        <td style="width: 20%;"> 11 & 18 Jan 2022,<br>10.30am – 1.00pm</td>
-        <td style="width: 20%;">Tampines Regional Library<br>OTH</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/289017006647" target="_blank"><b>Forests and Mammals that Return in Singapore </b></a></td>
+        <td style="width: 40%;">The deforestation of Singapore has led to the extinction of several mammal species here. But not all is lost. Owing to conservation efforts and land use decisions, some mammals such as the greater mouse-deer have returned, while others like the leopard cat have made a recovery from near extinction. How can we facilitate the recovery of forests and wildlife? Is time running out! </td>
+        <td style="width: 20%;"> 26 Apr 2022,<br>7.30pm – 8.30pm</td>
+        <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Enroute to Zero-Waste</b></a></td>
-        <td>Discover how Singapore will be working towards a zero-waste and low emissions future.</td>
-        <td>18 Jan 202, <br>7.30pm -8.30pm</td>
+<td><a href="https://https://www.eventbrite.sg/e/31101673843" target="_blank"><b>When Animals are not so cuddly</b></a></td>
+        <td>Reptiles and amphibians get a bad reputation. They are often feared and detested without cause. But if we take a closer look, we discover that reptiles and amphibians are harmless, important to the environment and even beautiful! Come learn more about these spectacular creatures today with the Herpetological Society of Singapore!</td>
+        <td>31 May 22, <br>7.30pm -8.30pm</td>
+        <td>Zoom</td>
+      </tr>
+      <tr>
+<td><a href="https://www.eventbrite.com/cc/programmes-on-sustainability-66229" target="_blank"><b>Our Wild Neighbours!</b></a></td>
+        <td> Join us for a panel discussion featuring representatives from various environmental groups who will explore our relationship with wildlife.</td>
+        <td>29 May 2022, <br>2.00pm -3.30pm</td>
         <td>Choa Chu Kang Public Library</td>
-      </tr>
-<tr>
-<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Paint the Town Green</b></a></td>
-        <td>Find out why we need to conserve and create green spaces not just for ourselves but to promote biodiversity.</td>
-        <td>15 Feb 2021, <br>7.30pm -8.30pm</td>
-        <td>Choa Chu Kang Public Library</td>
-      </tr>
-<tr>
-<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Restoring Nature & Its Assets</b></a></td>
-        <td>How far could tree planting efforts and urban greenscape create a living space that rebalances nature and human needs? Join this talk to learn more on your role in restoring nature and its assets in the sustainability story.</td>
-        <td>22 Mar 2021, <br>7.00pm - 8.30pm</td>
-        <td> Choa Chu Kang Public Library</td>
-      </tr>
-<tr>
-<td><a href="https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"><b>Green Market: Conscious Consumer</b></a></td>
-        <td>The Green Market is a bi-annual event celebrating sustainable living as a community and connects us with green groups and initiatives that you can support.
-The theme for this weekend event, The Conscious Consumer, is an invitation for us to be more reflective of our lifestyle and act for the environment. 
-From 19 to 20 Mar 2022, Green Market: The Conscious Consumer offers over 8 interactive events and activities that you can access online and onsite at Choa Chu Kang Public Library. 
-You will also meet community organizations and groups that are championing green who will be setting up booths at the event.
-For all age groups. 
-</td>
-        <td>19-20 Mar 2021, <br>11.00am - 8.00pm</td>
-        <td>Choa Chu Kang Public Library</td>
-      </tr>
+			</tr>
     </tbody>
   </table>
 </div>
@@ -111,18 +93,11 @@ For all age groups.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/214978475407" target="_blank"><b>Beauty Fixes from Nature</b></a></td>
-        <td style="width: 40%;">In this workshop, we demonstrate how you can make beauty products using ingredients derived from nature which are featured in these books: <br><br>
-The Big Book of Homemade Products For Your Skin, Health & Home by Jan Berry<br>
-Botanical Beauty: 80 Essential Recipes for Natural Space Products by Aubre Andrus.</td>
-        <td style="width: 20%;">18 Feb 2022,  <br>7.00pm - 8.30pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-			    <tr>
-        <td><a href="https://www.eventbrite.sg/e/thinker-play-did-someone-say-bingo-sustainability-time-of-your-life-tickets-224430907887" target="_blank"><b>Thinker + Play: Did Someone Say Bingo ( Sustainability) | Time of Your Life</b></a></td>
-        <td>Get ready for some light-hearted fun at this sustainability-themed Bingo session. Win by making horizontal, vertical or diagonal lines. Invite your friends along for double the fun!This programme is suitable for those aged 50 and above. Materials will be provided.</td>
-        <td>11 Jan 2022, <br>3.00pm - 4.00pm</td>
-        <td>Bedok Public Library, <br>Programme Room Level 3</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/306258075147" target="_blank"><b>The Nature Book Club: The Mushrooms at the End of the World</b></a></td>
+        <td> What do we make of the ruins we have made? 'The Mushrooms at the End of the World' eases us into the networks and encounters of the Matsutake mushrooms, and have us learn from their shared struggles in times of crisis.We invite you to imagine the possibilities with us, unpacking stories not of progress or ruin, but of collaborative survival - a commitment to living and dying in company with the critters around us.
+Please be prepared to actively participate in these book discussions. You can read the book ahead of the session, or just come with a curious mind to share your thoughts on this topic! </td>
+        <td>30 Apr 2022, <br>8.00pm</td>
+        <td>Zoom</td>
       </tr>
     </tbody>
   </table>

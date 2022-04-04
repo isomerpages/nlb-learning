@@ -252,7 +252,7 @@ The Academic Hustle gives a personal accounting of strategies uncovered while co
 
 Synopsis from [Mango Publishing](https://mango.bz/books/the-academic-hustle-by-matthew-pigatt-461-b)
 
-This book can be found on Overdrive at [https://nlb.overdrive.com/media/4300493. ](https://nlb.overdrive.com/media/4300493. )
+This book can be found on Overdrive at [https://nlb.overdrive.com/media/4300493 ](https://nlb.overdrive.com/media/4300493 )
 
 Other suggestions:
 -	You Are an Artist: [https://nlb.overdrive.com/media/4942740 ](https://nlb.overdrive.com/media/4942740 )

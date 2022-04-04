@@ -293,13 +293,13 @@ Headrick, LCDR Alan C. (2014). <i> Bicycle blitzkrieg: The Malayan Campaign And 
 <a target="_blank" href="https://nlb.overdrive.com/media/2024222">
 <img style="width:200px;" src="/images/singapore-japanese-occupation/Bicycle-Blitzkrieg.png"></a>
 <p>Written as a paper for the Faculty of the Naval War College in 1994, the author discusses the operational strategies deployed by the Japanese and British which led to different consequences and the lessons learnt.
-</p><p><a href="https://nlb.overdrive.com/media/2024222&quot;" target="_blank">Borrow the eBook here.</a></p>
+</p><p><a href="https://nlb.overdrive.com/media/2024222" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 	
 <h5> Operation Matador: World War II: Britain's attempt to foil the Japanese invasion of Malaya and Singapore</h5>
 Ong, Chit Chung. (2013). <i> Operation Matador: World War II: Britain's attempt to foil the Japanese invasion of Malaya and Singapore.</i> Singapore: Marshall Cavendish Editions.
 <br>
-<a target="_blank" href="https://nlb.overdrive.com/media/1239958&quot;">
+<a target="_blank" href="https://nlb.overdrive.com/media/1239958">
 <img style="width:200px;" src="/images/singapore-japanese-occupation/Operation-Matador.png"></a>
 <p> The author provides an extensive coverage of the British military planners' plans to counter the Japanese threat and discusses the reasons for their ineffectiveness.
 </p><p><a target="_blank" href="https://nlb.overdrive.com/media/1239958">Borrow the eBook here.</a></p>
@@ -406,21 +406,22 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 <h5> The Japanese occupation of Malaya and Singapore, 1941-45: a social and economic history </h5>
 Kratoska, Paul H. (2018). <i> The Japanese occupation of Malaya and Singapore, 1941-45: a social and economic history. </i> Singapore: NUS Press. (Call no.: RSING 959.5103 KRA) 
 <br>
-<a target="_blank" href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 203024618">
+<a target="_blank" href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203024618">
 <img style="width:200px;" src="/images/singapore-japanese-occupation/JOMS.png"></a>
 <p> First published in 1998, Kratoska presents a picture of life under Japanese Occupation in Malaya and Singapore. </p>
 
 <h5> Syonan: Singapore under the Japanese 1942-1945</h5>
 Lee, Geok Boi. (2017). <i> Syonan: Singapore under the Japanese 1942-1945. </i> Singapore: Singapore Heritage Society and Landmark Books. (Call no.: RSING 940.535957 LEE) 
 <br>
-<a target="_blank" href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 202733922">
+<a target="_blank" href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202733922">
 <img style="width:200px;" src="/images/singapore-japanese-occupation/Syonan.png"></a>
 <p> This revised edition frames the social memories of Singapore residents who lived through the Japanese military administration. </p>
 
 <h5> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945</h5>
 Akashi, Yōji  &amp; Yoshimura, Mako (Eds.). (2008). <i> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945. </i> Singapore: NUS Press. (Call no.: RSING 940.5337 NEW) 
-
-<img style="width:200px;" src="/images/singapore-japanese-occupation/NPJO.png">
+<br>
+<a target="_blank" href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12849736">
+<img style="width:200px;" src="/images/singapore-japanese-occupation/NPJO.png"></a>
 <p> A collection of articles that cover various topics on Japanese Occupation of Malaya and Singapore, based on Japanese primary sources, and sources from the archives and libraries in Britain, Malaysia, Singapore, United States, Australia and India. </p>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
@@ -543,27 +544,21 @@ href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">
 <h5> With freedom to Singapore: a social & administrative assessment of post-war Singapore 1945-1950</h5>
 Gilmour, Oswald Wellington. (2020). <i> With freedom to Singapore: a social & administrative assessment of post-war Singapore 1945-1950. </i> [Place of publication not identified]: [Patrick Gilmour]. (Call no.: RSING 959.57023 GIL) 
 <br>
-<a 
-href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205311719"
-target="_blank">
+<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=205311719" target="_blank">
 <img src="/images/singapore-japanese-occupation/Oswald.png" style="width:200px;"></a>
 <p> An in-depth study of Singapore during the immediate post-war years between 1945-1950, covering the civil, political, and social aspects. First published in 1950. </p>
 
 <h5> My role in the rehabilitation of Singapore: 1946-1953</h5>
 Gilmour, Andrew. (1973). <i> My role in the rehabilitation of Singapore: 1946-1953. </i> Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.57024 GIL) 
 <br>
-<a 
-href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081677"
-target="_blank">
+<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081677" target="_blank">
 <img src="/images/singapore-japanese-occupation/Gilmour.png" style="width:200px;"></a>
 <p> One of the oral history pilot studies by ISEAS. Focuses on Andrew Gilmour, "who was one of the chief architects of the reconstruction of Singapore's war-torn economy", with his recollections of the initial post-war years in Singapore. </p>
 
 <h5> Political development in Singapore, 1945-55 </h5>
 Yeo, Kim Wah. (1973). <i> Political development in Singapore, 1945-55. </i> Singapore: Singapore University Press. (Call no.: RSING 320.95957 YEO) 
 <br>
-<a 
-href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=433473"
-target="_blank">
+<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200087304" target="_blank">
 <img src="/images/singapore-japanese-occupation/Yeo.png" style="width:200px;"></a>
 <p> Originally presented as the author's thesis (M.A.), University of Singapore. Throws light on the origins of Singapore's independence movement. </p>
 

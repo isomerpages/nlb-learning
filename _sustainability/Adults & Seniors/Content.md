@@ -4,7 +4,6 @@ permalink: /sustainability/adults-seniors/content
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -468,7 +467,7 @@ Dieter Helm (2020), <i> Net Zero: How We Stop Causing Climate Change </i>, Harpe
 <ol>
   <li><span id="footnote-one">Singapore’s Approach to Alternative Energy</span>. (2021, August 13).<i> National Climate Change Secretariat</i>. Retrieved 2021, September 15 from <a target="_blank" href="https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/">https://www.nccs.gov.sg/singapores-climate-action/singapore-approach-to-alternative-energy/</a></li>
 	<li><span id="footnote-two"> Singapore’s largest solar farm can power up 16,000 four room HBD flats for one year</span>. (2021, May 18). <i>The Straits Times</i>. Retrieved 2021, September 15 from <a target="_blank" href="https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year">https://www.straitstimes.com/singapore/largest-solar-farm-here-can-power-up-about-16000-four-room-hdb-flats-for-one-year</a></li>
-	<li><span id="footnote-three">Facts and Trivia</span>. (2021, October 20). <i>Maritime and Port Authority of Singapore</i>. Retrieved 2021, October 22 from <a target="_blank" href="https://www.greenplan.gov.sg/key-focus-areas/green-economy/">https://www.mpa.gov.sg/web/portal/home/maritime-singapore/introduction-to-maritime-singapore/facts-and-trivia</a></li>
+	<li><span id="footnote-three">Facts and Trivia</span>. (2021, October 20). <i>Maritime and Port Authority of Singapore</i>. Retrieved 2021, October 22 from <a target="_blank" href="https://www.mpa.gov.sg/web/portal/home/maritime-singapore/introduction-to-maritime-singapore/facts-and-trivia/">https://www.mpa.gov.sg/web/portal/home/maritime-singapore/introduction-to-maritime-singapore/facts-and-trivia</a></li>
 </ol>
 
 <img alt="cover image" src="/images/sustainability/sustainable-fashion-learning-package.jpg">
@@ -617,6 +616,6 @@ Kelly Brenner (2020), <i> Nature Obscura : A city's hidden natural world </i>, S
 <small>References</small>
 <ol>
     <li><span id="footnote-one"> Biophilic design: What is it? Why it matters? And how do we use it. (2021, November 24). Building Design + Construction.</span> <i>Bain</i>. Retrieved 2021, November 25 from <a target="_blank" href="https://www.bdcnetwork.com/blog/biophilic-design-why-it-matters-and-how-do-we-use-it/">https://www.bdcnetwork.com/blog/biophilic-design-why-it-matters-and-how-do-we-use-it/</a></li>
-	<li><span id="footnote-two"> Can Singapore, the city in a garden, grow into a city in nature?  (2018, Sept 19). <i> Eco-Business </i>. Retrieved 2021, November 24 from <a target="_blank" href="https://www/eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature"> https://www/eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature /</a> </span></li>
+	<li><span id="footnote-two"> Can Singapore, the city in a garden, grow into a city in nature?  (2018, Sept 19). <i> Eco-Business </i>. Retrieved 2021, November 24 from <a target="_blank" href="https://www.eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature"> https://www.eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature /</a> </span></li>
 
 </ol>

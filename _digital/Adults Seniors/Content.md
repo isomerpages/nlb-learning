@@ -473,7 +473,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 <h4>Programmes</h4>
 
 <p>We’ve got more in store for you! Check out the programmes under our My Digital Life series to learn more about how technology affects your daily life and unpack trending topics.</p>
-<p>Sign up here: <a href="https://go.gov.sg/nlbmdl">go.gov.sg/nlbmdl</a></p>
+<p>Sign up here: <a href="https://go.gov.sg/nlbmdl" target="_blank">go.gov.sg/nlbmdl</a></p>
 			
 <h4>References</h4>
 <ol>
@@ -556,12 +556,12 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <h4>Programmes</h4>
 <p>We’ve got more in store for you! Check out the programmes under our My Digital Life series to learn more about how technology affects your daily life and unpack trending topics.</p>
-<p>Sign up here: <a href="go.gov.sg/nlbmdl" target="_blank">go.gov.sg/nlbmdl</a></p>			
+<p>Sign up here: <a href="https://go.gov.sg/nlbmdl" target="_blank">go.gov.sg/nlbmdl</a></p>			
 
 
 <h4>References</h4>
 <ol>
-<li><span id="footnote-one"> Cybercrime made up 43% of overall crime in 2020; more online threats linked to COVID-19 (2021, July 8). CNA.</span>. Retrieved 2021, October 19 from <a href="https://www.channelnewsasia.com/singapore/cybercrime-hacking-phishing-online-crimes-covid-19-1984866." target="_blank">https://www.channelnewsasia.com/singapore/cybercrime-hacking-phishing-online-crimes-covid-19-1984866.</a></li>
+<li><span id="footnote-one"> Cybercrime made up 43% of overall crime in 2020; more online threats linked to COVID-19 (2021, July 8). CNA.</span>. Retrieved 2021, October 19 from <a href="https://www.channelnewsasia.com/singapore/cybercrime-hacking-phishing-online-crimes-covid-19-1984866" target="_blank">https://www.channelnewsasia.com/singapore/cybercrime-hacking-phishing-online-crimes-covid-19-1984866.</a></li>
 <li><span id="footnote-two"> Cybercrime To Cost The World $10.5 Trillion Annually By 2025 (2020, November 13).  Cybercrime Magazine.</span>. Retrieved 2021, October 19 from <a href="https://cybersecurityventures.com/cybercrime-damage-costs-10-trillion-by-2025/" target="_blank">https://cybersecurityventures.com/cybercrime-damage-costs-10-trillion-by-2025/</a></li>
 </ol>
 
@@ -633,7 +633,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <h4>Programmes</h4>
 <p>We’ve got more in store for you! Check out the programmes under our My Digital Life series to learn more about how technology affects your daily life and unpack trending topics.</p>
-<p>Sign up here: <a href="go.gov.sg/nlbmdl" target="_blank">go.gov.sg/nlbmdl</a></p>			
+<p>Sign up here: <a href="https://go.gov.sg/nlbmdl" target="_blank">go.gov.sg/nlbmdl</a></p>			
 
 
 <h4>References</h4>

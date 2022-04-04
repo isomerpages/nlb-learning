@@ -48,7 +48,7 @@ Delve into the world of science with programmes, workshops and content served in
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="/science/children/programmes">
+      <a href="/science/children/programme">
         <span>Programmes</span>
       </a>
     </div>
