@@ -616,6 +616,6 @@ Kelly Brenner (2020), <i> Nature Obscura : A city's hidden natural world </i>, S
 <small>References</small>
 <ol>
     <li><span id="footnote-one"> Biophilic design: What is it? Why it matters? And how do we use it. (2021, November 24). Building Design + Construction.</span> <i>Bain</i>. Retrieved 2021, November 25 from <a target="_blank" href="https://www.bdcnetwork.com/blog/biophilic-design-why-it-matters-and-how-do-we-use-it/">https://www.bdcnetwork.com/blog/biophilic-design-why-it-matters-and-how-do-we-use-it/</a></li>
-	<li><span id="footnote-two"> Can Singapore, the city in a garden, grow into a city in nature?  (2018, Sept 19). <i> Eco-Business </i>. Retrieved 2021, November 24 from <a target="_blank" href="https://www/eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature"> https://www/eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature /</a> </span></li>
+	<li><span id="footnote-two"> Can Singapore, the city in a garden, grow into a city in nature?  (2018, Sept 19). <i> Eco-Business </i>. Retrieved 2021, November 24 from <a target="_blank" href="https://www.eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature"> https://www.eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature /</a> </span></li>
 
 </ol>
