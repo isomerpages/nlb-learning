@@ -406,21 +406,22 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 <h5> The Japanese occupation of Malaya and Singapore, 1941-45: a social and economic history </h5>
 Kratoska, Paul H. (2018). <i> The Japanese occupation of Malaya and Singapore, 1941-45: a social and economic history. </i> Singapore: NUS Press. (Call no.: RSING 959.5103 KRA) 
 <br>
-<a target="_blank" href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 203024618">
+<a target="_blank" href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203024618">
 <img style="width:200px;" src="/images/singapore-japanese-occupation/JOMS.png"></a>
 <p> First published in 1998, Kratoska presents a picture of life under Japanese Occupation in Malaya and Singapore. </p>
 
 <h5> Syonan: Singapore under the Japanese 1942-1945</h5>
 Lee, Geok Boi. (2017). <i> Syonan: Singapore under the Japanese 1942-1945. </i> Singapore: Singapore Heritage Society and Landmark Books. (Call no.: RSING 940.535957 LEE) 
 <br>
-<a target="_blank" href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 202733922">
+<a target="_blank" href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202733922">
 <img style="width:200px;" src="/images/singapore-japanese-occupation/Syonan.png"></a>
 <p> This revised edition frames the social memories of Singapore residents who lived through the Japanese military administration. </p>
 
 <h5> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945</h5>
 Akashi, Yōji  &amp; Yoshimura, Mako (Eds.). (2008). <i> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945. </i> Singapore: NUS Press. (Call no.: RSING 940.5337 NEW) 
-
-<img style="width:200px;" src="/images/singapore-japanese-occupation/NPJO.png">
+<br>
+<a target="_blank" href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12849736">
+<img style="width:200px;" src="/images/singapore-japanese-occupation/NPJO.png"></a>
 <p> A collection of articles that cover various topics on Japanese Occupation of Malaya and Singapore, based on Japanese primary sources, and sources from the archives and libraries in Britain, Malaysia, Singapore, United States, Australia and India. </p>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
