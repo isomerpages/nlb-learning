@@ -178,10 +178,11 @@ Learn more about the enormous planets orbiting around the sun, their size, orbit
 <small> Source: Planets of Our Solar System | Planets for Kids | Learn interesting facts about the planets (2021,3 September). Learn Bright. </small></p>
   </div>
 </div>
+<br><br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/ErUZVWUP0c4 " class="responsive-iframe"></iframe>
+    <div class="image">
+      <a target="_blank" href=" https://www.youtube.com/watch?v=ErUZVWUP0c4"><img src="/images/science/tweens/everythingaboutss.jpeg"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
