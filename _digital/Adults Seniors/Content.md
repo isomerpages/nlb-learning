@@ -561,7 +561,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
 <h4>References</h4>
 <ol>
-<li><span id="footnote-one"> Cybercrime made up 43% of overall crime in 2020; more online threats linked to COVID-19 (2021, July 8). CNA.</span>. Retrieved 2021, October 19 from <a href="https://www.channelnewsasia.com/singapore/cybercrime-hacking-phishing-online-crimes-covid-19-1984866." target="_blank">https://www.channelnewsasia.com/singapore/cybercrime-hacking-phishing-online-crimes-covid-19-1984866.</a></li>
+<li><span id="footnote-one"> Cybercrime made up 43% of overall crime in 2020; more online threats linked to COVID-19 (2021, July 8). CNA.</span>. Retrieved 2021, October 19 from <a href="https://www.channelnewsasia.com/singapore/cybercrime-hacking-phishing-online-crimes-covid-19-1984866" target="_blank">https://www.channelnewsasia.com/singapore/cybercrime-hacking-phishing-online-crimes-covid-19-1984866.</a></li>
 <li><span id="footnote-two"> Cybercrime To Cost The World $10.5 Trillion Annually By 2025 (2020, November 13).  Cybercrime Magazine.</span>. Retrieved 2021, October 19 from <a href="https://cybersecurityventures.com/cybercrime-damage-costs-10-trillion-by-2025/" target="_blank">https://cybersecurityventures.com/cybercrime-damage-costs-10-trillion-by-2025/</a></li>
 </ol>
 
