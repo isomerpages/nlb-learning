@@ -168,20 +168,24 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
 <h5 id="inventions" class="margin--bottom--lg"><b>Playlist: Inventions </b></h5>
 Ever wondered who invented erasers, bridges, and the game chess? Find out the history behind useful and fun inventions and seek inspiration to become an inventor of your own through the videos below. 
 <br>
+<br><br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/M9Pf1CBDmqQ " class="responsive-iframe"></iframe>
+    <div class="image">
+      <a target="_blank" href=" https://www.youtube.com/watch?v=M9Pf1CBDmqQ "><img src="/images/science/children/ learnx_children_who_invented_erasers.jpg
+ "></a>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>Invention of Eraser | Peekaboo Kidz (5:47) </b><br>
+<p><b>Invention of Eraser | Peekaboo Kidz (5:47) </b><br>
 Who invented erasers and how were they first used? Learn the facts with Dr. Binocs.
  
 <br>
 <small>Source: Invention of Eraser | Peekaboo Kidz (2022, February 18). Rajshri Entertainment Private Limited </small></p>
   </div>
 </div>
+
+
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
