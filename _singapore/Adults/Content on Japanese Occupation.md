@@ -558,7 +558,7 @@ Gilmour, Andrew. (1973). <i> My role in the rehabilitation of Singapore: 1946-19
 <h5> Political development in Singapore, 1945-55 </h5>
 Yeo, Kim Wah. (1973). <i> Political development in Singapore, 1945-55. </i> Singapore: Singapore University Press. (Call no.: RSING 320.95957 YEO) 
 <br>
-<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=433473" target="_blank">
+<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200087304" target="_blank">
 <img src="/images/singapore-japanese-occupation/Yeo.png" style="width:200px;"></a>
 <p> Originally presented as the author's thesis (M.A.), University of Singapore. Throws light on the origins of Singapore's independence movement. </p>
 
