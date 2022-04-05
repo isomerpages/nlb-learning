@@ -97,7 +97,7 @@ Manga plays a large part in the Japanese publishing industry and isn’t showing
   </div>
 </div>
 
-<br>
+
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -111,7 +111,7 @@ Curator Nicole Rousmaniere speaks about manga, and shares highlights of her favo
 <small> Welcome to the World of Manga! #MangaMonth (2019, July 4). The British Museum. Retrieved 2022, March 10.  </small></p>
   </div>
 </div>
-<br>
+
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
