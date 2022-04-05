@@ -48,6 +48,15 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
+      <a href="#playlist-manga">
+        <span>Playlist:<br>Marvellous Manga</span>
+      </a>
+    </div>
+  </div>
+	</div>
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
       <a href="#playlist-poetry">
         <span>Playlist:<br>More than Words - Poetry</span>
       </a>
