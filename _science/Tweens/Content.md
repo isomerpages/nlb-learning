@@ -178,15 +178,16 @@ Learn more about the enormous planets orbiting around the sun, their size, orbit
 <small> Source: Planets of Our Solar System | Planets for Kids | Learn interesting facts about the planets (2021,3 September). Learn Bright. </small></p>
   </div>
 </div>
+<br><br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/ErUZVWUP0c4 " class="responsive-iframe"></iframe>
+    <div class="image">
+      <a target="_blank" href=" https://www.youtube.com/watch?v=ErUZVWUP0c4"><img src="/images/science/tweens/everythingaboutss.jpeg"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
     <p><b> Everything About Solar System | Solar System Explained | The Dr Binocs Show
-(2852) </b><br>
+(28:52) </b><br>
 Join Dr Binocs as we take a closer look at our solar system and galaxy. Learn more about the fallen planet and why we don’t feel when the earth is revolving. <br>
 <small> Source: Everything About Solar System | Solar System Explained | The Dr Binocs Show | Peekaboo Kidz (2021, 28 September). Peekaboo Kidz. </small></p>
   </div>

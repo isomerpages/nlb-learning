@@ -105,7 +105,7 @@ Check out our **playlists** and **learning packages** for recommended books, col
 </p><div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/lIW5jBrrsS0" class="responsive-iframe"></iframe>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/lIW5jBrrsS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">

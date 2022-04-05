@@ -48,6 +48,13 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
+      <a href="#playlist-manga">
+        <span>Playlist:<br>Marvellous Manga</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
       <a href="#playlist-poetry">
         <span>Playlist:<br>More than Words - Poetry</span>
       </a>
@@ -72,6 +79,52 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 
 <h3><b>Playlist</b></h3>
 A collection of short videos and podcasts to expand your reading and writing interests.
+
+<h5 class="margin--bottom--lg" id="playlist-manga"><b>Playlist: Marvellous Manga</b></h5>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/nKChIXR9d40"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> The History Of Japanese Manga by Wonderbot Discovery (8 min)</b><br>
+Manga plays a large part in the Japanese publishing industry and isn’t showing any signs of slowing down. What is the history of manga in Japan? How did manga start? And how did it evolve to achieve the global influence it has today?
+<br><br>
+<small> Source: The History of Japanese Manga by Wonderbot Discovery (2021, May 12). Wonderbot Discovery. Retrieved 2022, March 10. </small></p>
+  </div>
+</div>
+
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/OnU8T_0hbi4"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Welcome to the World of Manga! #MangaMonth by The British Museum (6 min) </b><br>
+Curator Nicole Rousmaniere speaks about manga, and shares highlights of her favourite pieces of the serial visual storytelling format.
+<br><br>
+<small> Welcome to the World of Manga! #MangaMonth (2019, July 4). The British Museum. Retrieved 2022, March 10.  </small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/2efCPVqkL9Q"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> One-Punch Man - Official Anime Behind The Scenes by vizmedia (6 min) </b><br>
+In this clip, we take a look at the process of turning the One-Punch Man manga into the anime.
+<br><br>
+<small> One-Punch Man – Official Anime Behind The Scenes (2015, October 2). VIZmedia. Retrieved 2022, March 10.  </small></p>
+  </div>
+</div>
 
 <h5 class="margin--bottom--lg" id="playlist-poetry"><b>Playlist: More than Words - Poetry</b></h5>
 

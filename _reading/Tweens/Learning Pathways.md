@@ -61,11 +61,11 @@ Read with your child to explore new topics and discover new experience.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849 " target="_blank"><b> #TellStory7 Award Edition </b></a></td>
+        <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/tellstory7-award-edition-2-online-tickets-302092495787?aff=ebdssbeac " target="_blank"><b> #TellStory7 Award Edition </b></a></td>
         <td style="width: 40%;">Season 7 of #TellStory is back! Students from various groups will represent their schools and compete for several drama/acting awards! Travel with our youths through their dramatic interpretations of both classic and (some tummy tickling) original scripts devised and written by the students! 
-<br><br> Registration will open closer to the date.</td>
+					</td><br><br>
         <td style="width: 20%;"> 2 & 9 April 2022, 1pm – 5pm</td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;">Zoom </td>
       </tr>
       <tr>
  <td style="width: 20%;"><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b> 线上导读绘本《找到了》</b></a></td>
