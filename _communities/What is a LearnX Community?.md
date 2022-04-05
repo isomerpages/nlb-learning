@@ -84,12 +84,10 @@ These communities cover a wide range of topics and can be found in libraries all
       <p class="margin--top--sm margin--bottom--sm">This community is made up of creators who produce Zines. Pronounced “zeens”, these are self-published magazines produced in small batches. There are no rules as to what makes a zine, and that is possibly their biggest charm.</p>
       <p class="">Check out some of the Zines created by this community:</p>
       <ol>
-        <li><a href="/files/A-Walk-in-the-Park-by-Fanny-Ozda.pdf" target="_blank">A Walk in the Park by Fanny Ozda</a></li>
-        <li><a href="/files/An-Ode-to-the-Toilet-Cubicle-by-Ei-Xue-Han.pdf" target="_blank">An Ode to the Toilet Cubicle by Ei Xui Han</a></li>
-        <li><a href="/files/Differences-by-Su.pdf" target="_blank">Differences by Su</a></li>
-        <li><a href="/files/Extraction-by-T-Shuxia.pdf" target="_blank">Extraction by T Shuzia</a></li>
-        <li><a href="/files/Now-I-Lay-Me-Down-to-Rest-at-Home-by-Anna-Onni.pdf" target="_blank">Now I Lay me Down to Rest at Home by Anna Onni</a></li>
-      </ol>
-    </div>
+        <li><a href="https://www.facebook.com/groups/learnxarts.sg/posts/493646165594995/" target="_blank">Differences by Su</a></li>
+        <li><a href="https://www.facebook.com/groups/learnxarts.sg/posts/493688102257468/" target="_blank">Now I Lay Me Down to Rest at Home by Anna Onni</a></li>
+        <li><a href="https://www.facebook.com/groups/learnxarts.sg/posts/493692058923739/" target="_blank">An Ode to the Toilet Cubicle by Ei Xue Han</a></li>
+        <li><a href="https://www.facebook.com/groups/learnxarts.sg/posts/493692532257025/" target="_blank">A Walk in the Park by Fanny Ozda</a></li>
+
   </div>
 </div>
