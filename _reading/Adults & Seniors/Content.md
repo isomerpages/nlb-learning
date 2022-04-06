@@ -102,10 +102,10 @@ Check out our **playlists** and **learning packages** for recommended books, col
 <p>So many books, so little time. How has the reading brain evolved with the advent of the digital age? These resources will give you short explainers on how our reading has changed with our devices, and how to cultivate the reading habit in a distracted age. 
 <br>
 	
-</p><div class="row is-multiline margin--bottom--lg">
+<div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/lIW5jBrrsS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="image">
+      <a target="_blank" href="https://youtu.be/lIW5jBrrsS0"><img src="/images/science/preschoolers/howvaccineswork.jpeg"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
