@@ -105,7 +105,7 @@ Check out our **playlists** and **learning packages** for recommended books, col
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="image">
-      <a target="_blank" href="https://youtu.be/lIW5jBrrsS0"><img src="/images/reading/adults-seniors/bookstores.jpeg"></a>
+      <a target="_blank" href="https://youtu.be/lIW5jBrrsS0"><img src="/images/reading/adults-seniors/bookstore.jpeg"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
