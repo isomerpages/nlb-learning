@@ -61,25 +61,31 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.com/e/223848355457"><b>Picturebooks to Develop Ethical Thinking</b></a></td>
-        <td style="width: 40%;">Join this talk to learn how picturebooks can develop ethical reasoning skills and activate philosophical inquiry.</td>
-        <td style="width: 20%;"> 15 Jan 2022,<br>3pm - 4pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-					<tr>
-<td><a target="_blank" href="https://www.eventbrite.com/e/207871207377"><b>Sei Shōnagon’s The Pillow Book | How to Fall in Love with Classics</b></a></td>
-        <td><b>Sei Shōnagon’s<em>The Pillow Book</em></b> is a collection of reflective and creative writings by a tenth-century Japanese courtier. Its secretive short entries were inspired by moments in her daily life and served as private pleasure as she examined her station in life. Gwee Li Sui will talk about Shōnagon’s self-fashioning, her unique place in literature, and the importance of writing.<br><br>
-        </td><td>24 Feb 2022, <br>7pm - 8.30pm</td>
+<tr>
+<td><a target="_blank" href="https://www.eventbrite.com/e/comics-and-the-power-of-suggestion-think-lit-registration-292173026387?aff=ebcollection&keep_tld=1"><b>Comics and the Power of Suggestion | Think Lit</b></a></td>
+        <td>Come discover how comics draw us into their amazing fantasies using a unique visual grammar that relies on placing images together in suggestive ways that make them seem to move in our heads. This talk will draw on examples from many different genres of comics – memoirs, children’s adventure stories, superhero epics, and more – to describe how this form of picture-writing creates miniature worlds on paper that allow us to reimagine the world around us.<br><br>
+        </td><td>9 Apr 2022, <br>3pm - 4pm</td>
         <td>Zoom</td>
       </tr>
-<tr>
-<td><a target="_blank" href="https://www.eventbrite.com/e/207872511277"><b>Niccolò Machiavelli’s The Prince | How to Fall in Love with Classics</b></a></td>
-        <td><b>Niccolò Machiavelli’s<em>The Prince</em></b> is a manual written to win the favour of sixteenth-century Florence’s ruling House of Medici.&nbsp;It controversially promises to teach the art of effective governance through the cultivation of self as a figure of power. Gwee Li Sui will talk about how this book paved the way to modern political thought and secures its relevance in today’s world.<br><br>
-        </td><td>24 Mar 2022, <br>7pm - 8.30pm</td>
+			<tr>
+<td><a target="_blank" href="https://www.eventbrite.com/e/head2head-singpowrimo-showcase-a-prompt-a-day-registration-207899491977?aff=ebcollection&keep_tld=1"><b>Head2Head | SingPoWriMo Showcase: A Prompt A Day</b></a></td>
+        <td>Poets will share their thinking process, why they participate in SingPoWriMo and interesting poetic forms derived from communal writing experiences.<br><br>
+        </td><td>12 Apr 2022, <br>7pm - 8pm</td>
         <td>Zoom</td>
       </tr>
-<tr>
+			<tr>
+<td><a target="_blank" href="https://www.eventbrite.com/e/head2head-stories-through-memories-imagination-registration-207899812937?aff=ebcollection&keep_tld=1"><b>Head2Head | Stories Through Memories & Imagination</b></a></td>
+        <td>Join the writers as they discuss the writing processes through emotional memory and ruminations in observing the world.<br><br>
+        </td><td>19 Apr 2022, <br>7pm - 8pm</td>
+        <td>Zoom</td>
+      </tr>
+			<tr>
+<td><a target="_blank" href="https://www.eventbrite.com/e/head2head-exploring-inclusivity-through-literature-registration-203657534167?aff=ebcollection&keep_tld=1"><b>Head2Head | Exploring Inclusivity Through Literature</b></a></td>
+        <td>Join the speakers as they share their discourse on inclusivity and acceptance through their works, creating literary spaces that bind the community. <br><br>
+        </td><td>26 Apr 2022, <br>7pm - 8pm</td>
+        <td>Zoom</td>
+      </tr>
+			<tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/207873534337"><b>Henry David Thoreau’s Walden | How to Fall in Love with Classics</b></a></td>
         <td><b><em>Henry David Thoreau’s<em> Walden</em></em></b> is a nineteenth-century journal following an experiment to simplify life and live deliberately in nature. The woods in Concord, Massachusetts, became the setting for a pursuit of self-reliance and a spiritual journey into the meaning of life. Gwee Li Sui will look into Thoreau’s guiding philosophy and the continuing charm this work presents to our technological society.<br><br>
         </td><td>28 Apr 2022, <br>7pm - 8.30pm</td>
@@ -103,16 +109,22 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/190827439007"><b>Around the World in 68 Days by Koh Buck Song | Sing Lit Book Club</b></a></td>
-        <td style="width: 40%;"> Join prolific author Koh Buck Song as we explore the history and culture of other countries and our shared humanity in his itinerant memoir.</td>
-        <td style="width: 20%;">20 Jan 2022, <br>8pm - 9pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
 <tr>
-        <td><a target="_blank" href="https://www.eventbrite.com/e/203655136997"><b>"Razi" by Sa'eda Buang | Sing Lit Book Club x One Story</b></a></td>
-        <td>How do Singapore literature and translated works play a part in encouraging inclusion for the Autism Spectrum Disorder (ASD) community? Join us at Singapore Literature Book Club as we discuss “Razi” written by Dr. Sa’eda Buang. This will be an interactive session, please come prepared to discuss the book and share your thoughts!</td>
-        <td>17 Feb 2022 <br>8pm – 9pm</td>
+        <td><a target="_blank" href="https://www.eventbrite.com/e/and-the-award-goes-to-sally-bong-by-sebastian-sim-sing-lit-book-club-registration-249073023117?aff=ebcollection&keep_tld=1"><b>And the Award Goes to Sally Bong! by Sebastian Sim | Sing Lit Book Club</b></a></td>
+        <td>Join us at Singapore Literature Book Club as we discuss the recently published And the Award Goes to Sally Bong! with its author Sebastian Sim. This novel was the co-winner of the 2021 Epigram Books Fiction Prize. This will be an interactive session, please come prepared to discuss the book and share your thoughts!</td>
+        <td>21 April 2022 <br>7pm – 8.30pm</td>
+        <td>Zoom</td>
+      </tr>
+			<tr>
+        <td><a target="_blank" href="https://www.eventbrite.com/e/heartlands-book-club-razi-by-dr-saeda-buang-registration-203660472957?aff=ebcollection&keep_tld=1"><b>Heartlands Book Club | "Razi" by Dr Sa'eda Buang</b></a></td>
+        <td>Meet Dr Sa’eda Buang as she discusses her short fiction, “Razi”, a story on challenges faced by caregivers in the autism community.</td>
+        <td>29 April 2022 <br>8pm – 9.30pm</td>
+        <td>Zoom</td>
+      </tr>
+				<tr>
+        <td><a target="_blank" href="https://www.eventbrite.com/e/leluhur-singapores-kampong-gelam-by-hidayah-amin-sing-lit-book-club-registration-272087550187?aff=ebcollection&keep_tld=1"><b>Leluhur: Singapore’s Kampong Gelam by Hidayah Amin | Sing Lit Book Club</b></a></td>
+        <td>Join us at Singapore Literature Book Club as we discuss the prize-winning Leluhur: Singapore’s Kampong Gelam with its author Hidayah Amin. This will be an interactive session, please come prepared to discuss the book and share your thoughts!</td>
+        <td>19 May 2022 <br>8pm – 9pm</td>
         <td>Zoom</td>
       </tr>
     </tbody>
@@ -145,51 +157,3 @@ Stories have been an intuitive form of communication for humans since ancient ti
         <td> </td>
       </tr>
 
-</tbody></table><table class="generic-table">
-    <thead>
-      <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Learn With Writers and Experts</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.com/e/226751779677"><b>[NAC- NLB Writers’ Lab] The Story Behind the Story by Gabby TYE</b></a></td>
-        <td style="width: 40%;">One of Singapore’s youngest National Bestselling Authors, Gabby Tye answer any questions you, as a reader, might have regarding writing, editing and publishing a novel.&nbsp;.</td>
-        <td style="width: 20%;"> 2 Jan 2022,<br>10.30am – 11.30am</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-					<tr>
-<td><a target="_blank" href="https://www.eventbrite.com/e/226752832827"><b>[NAC- NLB Writers’ Lab] The Readers’ Response By Gabby TYE</b></a></td>
-        <td>Gabby TYE will be giving participants a sneak peek into her most recent project with Writer’s Lab. This will be an open feedback session where participants will be able to voice out their suggestions on the manuscript and what additions they would like to see in the final product.<br><br>
-        </td><td>9 Jan 2022, <br>10.30am - 12pm</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
-<td><a target="_blank" href="https://www.eventbrite.com/e/210936365347"><b>Storytelling Today | Animated &amp; Interactive Storytelling</b></a></td>
-        <td>In this session, Neil Humphreys and Kamini Ramachandran will share on using story prompts to find your unique voice, develop ideas, and breathe life into story characters.<br><br>
-        </td><td>7 Feb 2022,<br>7pm - 8pm</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
-<td><a target="_blank" href="https://www.eventbrite.com/e/207683526017"><b>Storytelling Today | Translating Culture through Storytelling</b></a></td>
-        <td>Join Annaliza Bakri and Dr. Nazry Bahrawi as they share storytelling techniques across language and cultures.<br><br>
-        </td><td>14 Feb 2022, <br>7pm - 8pm</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
-<td><a target="_blank" href="https://www.eventbrite.com/e/203656049727"><b>Storytelling Today | Stories on Disabilities</b></a></td>
-				<td>Join Eva Wong Nava and Dr Sa’eda Buang to hear about developing communication, empathy and empowering individuals with special needs to share their stories.<br><br>
-        </td><td>21 Feb 2022, <br>7pm - 8pm</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
-<td><a target="_blank" href="https://www.eventbrite.com/e/210935954117"><b>Storytelling Today | The Masterstroke of Horror Storytelling</b></a></td>
-        <td>Learn about horror tropes and nuances of fear that Suffian Hakim &amp; Tunku Halim deploy in their creations.<br><br>
-        </td><td>28 Feb 2022, <br>7pm - 8pm</td>
-        <td>Zoom</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
