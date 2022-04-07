@@ -101,7 +101,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 
 <h3><b>Playlist</b></h3>
-A collection of short videos or selected podcasts, exploring topics around personal and professional development.
+A collection of short videos or selected podcasts, exploring topics around Japanese Occupation.
 
 
 <h5 id="japanese-rule" class="margin--bottom--lg"><b>Playlist: Japanese Occupation - Under the rule of the Japanese</b></h5>
