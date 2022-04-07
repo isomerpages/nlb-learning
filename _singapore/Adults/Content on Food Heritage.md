@@ -68,3 +68,25 @@ Join Maeve as she introduces Singaporean food through Singaporeans living in Aus
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
+<h5 id="lp-food-heritage" class="margin--bottom--lg"><b> Singapore’s Food Heritage: Overview </b></h5>
+
+<p> Singapore’s food heritage mirrors our multi-ethnic culture, characterised with a medley of ingredients and cooking techniques derived from the country’s diverse population. </p>
+<b></b>
+<p> The evolution of food in Singapore reflects the hopes, longings, and assimilation of early migrants from faraway lands who eventually became residents from our founding years, to the current enthusiastic calls for preserving Singapore’s food heritage as tastes and palates are yet again being shaped by global influences. </p>
+<h4>Did you know...</h4>
+<ul>
+<li> Affectionately referred to as the "cooking doyenne", Violet Oon started as a food critic for New Nation in 1974 and went on to become an expert on Peranakan and Singapore cuisines. </li>
+<b></b>
+<li> These curated set of articles and books give an overview of Singapore’s food heritage.</li>
+
+<h4>Articles</h4>
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-01-14.html" target="_blank"> Violet Oon by Nureza Ahmad</a></h5>
+<p> Violet Oon is one of Singapore's best known food personalities. She has influenced the Singapore food scene as author, speaker, teacher, consultant and restauranteur. </p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-01-14.html" target="_blank"> Violet Oon </a>(2019, April).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
+	
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html" target="_blank"> Fast-food chains by Marsita Omar</a></h5>
+<p> Singapore’s love for fast-food began as early as the 1970s, making it one of the popular options among Singaporeans’ dining out culture.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html" target="_blank"> Fast-food chains </a>(2019, May).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
+
+
