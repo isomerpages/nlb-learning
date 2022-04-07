@@ -89,3 +89,18 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-
 <p> Singapore’s love for fast-food began as early as the 1970s, making it one of the popular options among Singaporeans’ dining out culture.</p>
 Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html" target="_blank"> Fast-food chains </a>(2019, May).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
 	
+<h4>eBook</h4>
+
+<h5> Singapore cooking: fabulous recipes from Asia's food capital
+</h5>
+Tan, Terry, and Tan, Christopher. (2009). <i> Singapore cooking: fabulous recipes from Asia's food capital.</i> Hong Kong: Tuttle Publishing an imprint of Periplus Edition (HK) Ltd. <br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/887826">
+<img style="width:200px;"
+src="/images/singapore-food-heritage/Terry.png"></a>
+<p> A compendium of popular and less common local classics. With images of common Singapore ingredients and their descriptions.
+</p><p><a href="https://nlb.overdrive.com/media/887826"
+target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
