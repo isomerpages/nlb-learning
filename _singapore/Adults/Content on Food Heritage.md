@@ -15,8 +15,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
+</div>
 
-	
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-japanese-occupation">
+<span>Learning Package:<br>Singapore’s Food Heritage: Overview</span>
+</a>
+</div>
 </div>
 
 
@@ -59,3 +65,9 @@ Join Maeve as she introduces Singaporean food through Singaporeans living in Aus
 <small> Source: Singaporean food safari - Singaporean Cuisine (2019, Nov 15). SBS Australia. Retrieved 2022, April 7.</small></b></p><b>
 </b></div><b>
 </b></div><b>
+	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
+	
+	
+	
