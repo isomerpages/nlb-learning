@@ -68,6 +68,3 @@ Join Maeve as she introduces Singaporean food through Singaporeans living in Aus
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
-	
-	
-	
