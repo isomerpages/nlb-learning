@@ -73,11 +73,20 @@ Join Maeve as she introduces Singaporean food through Singaporeans living in Aus
 <p> Singapore’s food heritage mirrors our multi-ethnic culture, characterised with a medley of ingredients and cooking techniques derived from the country’s diverse population. </p>
 <b></b>
 <p> The evolution of food in Singapore reflects the hopes, longings, and assimilation of early migrants from faraway lands who eventually became residents from our founding years, to the current enthusiastic calls for preserving Singapore’s food heritage as tastes and palates are yet again being shaped by global influences. </p>
+
+<table border="1">
+	<tbody><tr>
+		<td>
 <h4>Did you know...</h4>
 <ul>
-<li> Affectionately referred to as the "cooking doyenne", Violet Oon started as a food critic for New Nation in 1974 and went on to become an expert on Peranakan and Singapore cuisines. </li>
-<b></b>
-<li> These curated set of articles and books give an overview of Singapore’s food heritage.</li>
+<li> Affectionately referred to as the "cooking doyenne", Violet Oon started as a food critic for New Nation in 1974 and went on to become an expert on Peranakan and Singapore cuisines.
+</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+These curated set of articles and books give an overview of Singapore’s food heritage.
+
 
 <h4>Articles</h4>
 
@@ -125,5 +134,3 @@ target="_blank">
 <p> Describes the factors and influences in the unique Singapore culinary heritage and lists the classic dishes and their recipes. </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
-
