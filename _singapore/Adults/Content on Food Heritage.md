@@ -49,10 +49,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
-	
-	
-	
-	
 
 
+<h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around Singapore’s food heritage.
