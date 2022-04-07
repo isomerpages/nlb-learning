@@ -49,7 +49,7 @@ Listen to KF Seetoh as he introduces the various common Singapore food from mult
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/ SZwcfoSa49Y">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/SZwcfoSa49Y">
 </iframe>
 </div>
 </div>
@@ -59,5 +59,3 @@ Join Maeve as she introduces Singaporean food through Singaporeans living in Aus
 <small> Source: Singaporean food safari - Singaporean Cuisine (2019, Nov 15). SBS Australia. Retrieved 2022, April 7.</small></b></p><b>
 </b></div><b>
 </b></div><b>
-
-	</b>
