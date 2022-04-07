@@ -88,5 +88,4 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-
 <h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html" target="_blank"> Fast-food chains by Marsita Omar</a></h5>
 <p> Singapore’s love for fast-food began as early as the 1970s, making it one of the popular options among Singaporeans’ dining out culture.</p>
 Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html" target="_blank"> Fast-food chains </a>(2019, May).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
-
-
+	
