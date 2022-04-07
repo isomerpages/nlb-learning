@@ -135,14 +135,13 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008
 	
 <h4>eBook</h4>
 
-
 <h5> Singapore cooking: fabulous recipes from Asia's food capital
 </h5>
 Tan, Terry, and Tan, Christopher. (2009). <i> Singapore cooking: fabulous recipes from Asia's food capital.</i> Hong Kong: Tuttle Publishing an imprint of Periplus Edition (HK) Ltd. <br>
 <a target="_blank"
 href="https://nlb.overdrive.com/media/887826">
 <img style="width:200px;"
-src="/images/singapore-food-heritage/Terry.png"></a>
+src="/images/Singapore%20Food%20Heritage/Terry.png"></a>
 <p> A compendium of popular and less common local classics. With images of common Singapore ingredients and their descriptions.
 </p><p><a href="https://nlb.overdrive.com/media/887826"
 target="_blank">Borrow the eBook here.</a></p>
@@ -157,7 +156,7 @@ Hutton, Wendy. (2018). <i> Singapore food: a treasury of more than 200 time-test
 <a 
 href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315763265/237207705,1"
 target="_blank">
-<img src="/images/singapore-food-heritage/Wendy.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/Wendy.png" style="width:200px;"></a>
 <p> First published in 1979, this updated edition includes 219 best-loved recipes, “new classics” and additional recipes. Also provides an overview of the various multi-ethnic cooking styles. </p>
 	
 <h5> Singapore heritage food: yesterday's recipes for today's cook </h5>
@@ -166,7 +165,7 @@ Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today'
 <a 
 href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315765352/75987384,1"
 target="_blank">
-<img src="/images/singapore-food-heritage/Sylvia.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/Sylvia.png" style="width:200px;"></a>
 <p> Describes the factors and influences in the unique Singapore culinary heritage and lists the classic dishes and their recipes. </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
