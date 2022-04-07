@@ -106,7 +106,7 @@ Join Maeve as she introduces Singaporean food through Singaporeans living in Aus
 <h5 id="lp-food-heritage" class="margin--bottom--lg"><b> Singapore’s Food Heritage: Overview </b></h5>
 
 <p> Singapore’s food heritage mirrors our multi-ethnic culture, characterised with a medley of ingredients and cooking techniques derived from the country’s diverse population. </p>
-<b></b>
+
 <p> The evolution of food in Singapore reflects the hopes, longings, and assimilation of early migrants from faraway lands who eventually became residents from our founding years, to the current enthusiastic calls for preserving Singapore’s food heritage as tastes and palates are yet again being shaped by global influences. </p>
 
 <table border="1">
