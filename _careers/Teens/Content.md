@@ -84,18 +84,21 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
  </div>
 	
 <div class="row is-multiline">
-  <div class="col is-one-half">
+    <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
+      <a href="#lp-started3">
+        <span>Learning Package:<br> Time to Get Started! Part 3</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-half">
+    <div class="clickbox is-pink-ruby">
+			    <div class="col is-one-half">
       <a href="#lp-email">
         <span>Learning Package: Teen Things: Emailing 101</span>
       </a>
     </div>
-</div>
-
-  <div class="col is-one-half">
-		    <div class="clickbox is-placeholder-white">
-				</div>
-  </div>
+		</div>
 </div>
 </div>
 
@@ -274,6 +277,34 @@ Other suggestions:
 **Check out Part 3: Work, Volunteer, Intern next week!**
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="lp-started3"><b>Time to Get Started! Part 3</b></h5>
+
+Real life experiences are important and valuable – it will help you stand out from the crowd. Apply for a temporary or part-time position related to your interests. This short stint can help you identify whether you are suited for this industry and show future employees that you are ready!
+
+**Be proactive**. Do you know anyone in the industry you are interested in? Ask them more about it and if they have any advice or positions available. Write in to organisations to apply as an intern or volunteer – don’t give up your search even if you get some rejection letters, as there will be some companies who will give you the chance to learn on the job or shadow their professionals even if you do not have the relevant experience. While you might not get as much pay, this is still a great way to experience a job first hand and build up your resume. 
+
+**Be resourceful**. Even if you take on an unrelated volunteer role to give back to society, or a part-time job to earn a little extra income, make sure to keep a record of what you have done. There are many applicable skills you could list on your resume from these experiences such as leadership and teamwork skills, event planning and facilitation skills etc. For example, if you worked part-time as a waiter, you could list skills such as being able to work in a team, show good customer service as well as adapt to a fast-paced environment. 
+
+It’s never too early to figure out what you might want to do in the future and how you can get there. Remember that at the end of the day, there’s really no rush. Take a deep breath and take your time to explore. Every career path is crafted according to the opportunities you take and the effort you put in, while taking the rest you need to recharge. So be brave and step out!
+
+**Check out this book for more ideas on how to get started:**
+
+<h5 class="margin--bottom--lg"><b>Successful Applications</b></h5>
+
+<div class="row is-multiline">
+  <div class="col is-half">
+    <img src="/images/career/teens/" alt="">
+  </div>
+</div>
+
+Author: Bruce Woodcock and Jenny Keaveney<br>
+Publisher: Macmillan Education UK, 2019<br>
+Only available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/4598279)
+
+Packed with top tips and helpful examples, this concise book takes students through the process of preparing and making successful applications for work placements, internships and graduate jobs. It encourages students to think about what they want from their career and to identify roles which match with their personality, strengths and experiences. Chapters provide practical guidance on researching opportunities, crafting CVs and cover letters and preparing for interviews and assessment centres.
+
+Synopsis from [Bloombury](https://www.bloomsbury.com/ca/successful-applications-9781352004892/)
 
 <h5 class="margin--bottom--lg" id="lp-email"><b>Teen Things: Emailing 101</b></h5>
 
