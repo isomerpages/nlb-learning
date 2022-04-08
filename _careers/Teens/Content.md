@@ -90,7 +90,6 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
         <span>Learning Package: Teen Things: Emailing 101</span>
       </a>
     </div>
-  </div>
 </div>
 
 <div class="row is-multiline">
@@ -99,6 +98,7 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
 					        <span>testing</span>
 				</div>
   </div>
+</div>
 </div>
 
 <h3><b>Playlist</b></h3>
