@@ -36,6 +36,12 @@ third_nav_title: Teens
 .clickbox.is-pink-ruby a { color: #a60517; }
 .clickbox.is-pink-ruby a:focus,
 .clickbox.is-pink-ruby a:hover { background-color: #a60517; color: #ffbac7; }
+	
+/* Placeholder White */
+.clickbox.is-placeholder-white { background-color: #FFFFFF color: #FFFFFF; }
+.clickbox.is-placeholder-white a { color: #a60517; }
+.clickbox.is-placeholder-white a:focus,
+.clickbox.is-placeholder-white a:hover { background-color: #FFFFFF; color: #FFFFFF; }
 </style>
 Busy chasing dreams? These resources will help you get there faster.
 
@@ -84,6 +90,13 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
         <span>Learning Package: Teen Things: Emailing 101</span>
       </a>
     </div>
+  </div>
+</div>
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+		    <div class="clickbox is-placeholder-white">
+					  </div>
   </div>
 </div>
 
