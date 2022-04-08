@@ -39,7 +39,7 @@ third_nav_title: Teens
 	
 /* Placeholder White */
 .clickbox.is-placeholder-white { background-color: #FFFFFF color: #FFFFFF; }
-.clickbox.is-placeholder-white a { color: #a60517; }
+.clickbox.is-placeholder-white a { color: #FFFFFF; }
 .clickbox.is-placeholder-white a:focus,
 .clickbox.is-placeholder-white a:hover { background-color: #FFFFFF; color: #FFFFFF; }
 </style>
