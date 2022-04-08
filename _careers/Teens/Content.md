@@ -93,14 +93,15 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
   </div>
 	<div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
-			    <div class="col is-one-half">
-      <a href="#lp-email">
+			 <div class="col is-one-half">
+					<a href="#lp-email">
         <span>Learning Package: Teen Things: Emailing 101</span>
-      </a>
+						</a>
     </div>
-		</div>
+  </div>
+ </div>
 </div>
-</div>
+
 
 <h3><b>Playlist</b></h3>
 A collection of short videos and podcasts to inspire you as you make that all-important decision on what career path to take.
