@@ -92,10 +92,8 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
     </div>
 </div>
 
-<div class="row is-multiline">
   <div class="col is-one-half">
 		    <div class="clickbox is-placeholder-white">
-					        <span>testing</span>
 				</div>
   </div>
 </div>
