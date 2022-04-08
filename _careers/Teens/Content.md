@@ -295,7 +295,7 @@ It’s never too early to figure out what you might want to do in the future and
 
 <div class="row is-multiline">
   <div class="col is-half">
-    <img src="/images/career/teens/" alt="">
+    <img src="/images/career/teens/succapp.png" alt="successful applications">
   </div>
 </div>
 
