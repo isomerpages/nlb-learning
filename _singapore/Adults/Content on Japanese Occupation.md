@@ -100,8 +100,8 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 </div>
 
-<h3><b>Playlist</b></h3>
-A collection of short videos or selected podcasts, exploring topics around personal and professional development.
+<h3><b>Playlists</b></h3>
+A collection of short videos or selected podcasts, exploring topics around Japanese Occupation.
 
 
 <h5 id="japanese-rule" class="margin--bottom--lg"><b>Playlist: Japanese Occupation - Under the rule of the Japanese</b></h5>
@@ -251,7 +251,7 @@ Recounts the Civilian War Memorial project, a monument dedicated to civilians wh
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 
-<h3><b>Learning Package</b></h3>
+<h3><b>Learning Packages</b></h3>
 <h5 class="margin--bottom--lg" id="lp-japanese-occupation"><b> Japanese Occupation: Gibraltar of the East </b></h5>
 <p> From 8 December 1941 till 31 January 1942, a military campaign known as Malayan campaign was fought by the Allied (mainly the British Commonwealth) and Axis (primarily the Japanese) forces in Malaya.</p>
 <b></b>

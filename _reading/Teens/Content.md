@@ -53,17 +53,17 @@ Check out our **learning packages** to explore ways of expressing yourself throu
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-indigo-sky">
-      <a href="#playlist-poetry">
-        <span>Playlist:<br>More than Words - Poetry</span>
-      </a>
-    </div>
-  </div>
-  <div class="col is-one-third">
+<div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#lp-manga">
         <span>Learning Package:<br>Marvellous Manga</span>
+      </a>
+    </div>
+  </div>
+	  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#playlist-poetry">
+        <span>Playlist:<br>More than Words - Poetry</span>
       </a>
     </div>
   </div>

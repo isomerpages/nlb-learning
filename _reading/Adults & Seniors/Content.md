@@ -102,10 +102,10 @@ Check out our **playlists** and **learning packages** for recommended books, col
 <p>So many books, so little time. How has the reading brain evolved with the advent of the digital age? These resources will give you short explainers on how our reading has changed with our devices, and how to cultivate the reading habit in a distracted age. 
 <br>
 	
-</p><div class="row is-multiline margin--bottom--lg">
+<div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/lIW5jBrrsS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="image">
+      <a target="_blank" href="https://youtu.be/lIW5jBrrsS0"><img src="/images/reading/adults-seniors/bookstores.png"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -140,8 +140,8 @@ This video has Max Joseph interview influential writers, avid readers and bookst
 		<small>Falling Walls Foundation (2019, Nov 14). <em>Neuroscience of Reading | Maryanne Wolf</em>. Retrieved 2021, December 9.</small></p>
   </div>
  	</div>
-[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 class="margin--bottom--lg" id="tldr-short-reads"><b>TLDR: Short Reads</b></h3>
 Get back into reading with these short reads. Or pull these out to tide you over that commute or long wait.  From short stories, comics to poetry, we’ve got you covered.
@@ -205,8 +205,7 @@ Retrieved from NLB Overdrive (myLibraryID is required to access the eBook).
 Retrieved from NLB Overdrive (myLibraryID is required to access the eBook).
 <br>
 
-[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 id="playlist-stories-for-adults" class="margin--bottom--lg"><b>Playlist: Stories for Adults</b></h3>
 	
@@ -227,8 +226,7 @@ Retrieved from NLB Overdrive (myLibraryID is required to access the eBook).
 <small>Retrieved 2021, 9 December</small>
 <br>
 
-[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 class="margin--bottom--lg" id="playlist-intro-literature"><b>Playlist: Introduction to Literature</b></h3>
 <p>Literature examines human communication and facilitates critical thinking. Check out this playlist to kickstart your journey in discovering literature.</p>
@@ -271,8 +269,7 @@ Literature facilitates critical thinking, and human communication. Check out thi
 	</div>
 </div>
 	
-[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 class="margin--bottom--lg" id="sing-lit"><b>Get To Know: Singapore Literature</b></h3>
 <p>In this package, Singapore Literature, or Sing Lit, refers to books written by Singaporean or Singapore-based writers, in the four national languages namely English, Chinese, Malay and Tamil. Genres include fiction, poetry, creative non-fiction and plays.</p>
@@ -405,8 +402,7 @@ Retrieved 2021, December 20 from <a href="https://www.constellations.sg/2020/06/
     <li><span id="footnote-eight">Tee, Karen.</span> (2016, September 2018) <em>Singapore Literature is Having Its Moment in the International Spotlight.</em> Retrieved 2021, December 20 from <a href="https://www.thepeakmagazine.com.sg/lifestyle/singapore-literature-is-having-its-moment-in-the-international-spotlight/" target="_blank">https://www.thepeakmagazine.com.sg/lifestyle/singapore-literature-is-having-its-moment-in-the-international-spotlight/.</a></li>
 </ol>
 
-[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 class="margin--bottom--lg" id="lp-storytelling"><b>Learning Package: Storytelling</b></h3>
 <p>Humans are biologically wired for stories. Research has shown that the exchange of stories ignites understanding between sharer and listener, and is one of the means which develops empathy between us. There is however, an art to storytelling! Explore this learning package to find out more.</p>
@@ -485,8 +481,7 @@ Neuroscientist, Uri Hasson, shows how our brain synchronizes when we listen to t
 <body>Retrieved from NLB Overdrive (myLibraryID is required to access the eBook).</body>
 
 	
-[Back to top](#main-content)
-{: .has-text-right .margin—top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 id="lp-writing-stories" class="margin--bottom--lg"><b>Playlist: Writing Stories</b></h3>
 	
@@ -531,5 +526,5 @@ Check out this video for practical tips to improve your writing.<br><br>
 		<small>TEDx Talks (2019, Nov 14). <em>How To Write A Book In A Weekend: Serve Humanity By Writing A Book | Chandler Bolt | TEDxYoungstown</em>. Retrieved 2019, October 25.</small></p>
   </div>
  	</div>
-[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
