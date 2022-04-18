@@ -93,12 +93,6 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>#TellStory 7 Award Edition</b></a></td>
-        <td style="width: 40%;">Season 7 of #TellStory is back! And this time we are back with an added healthy competitive edge! Students from various groups will represent their schools and compete for several drama/acting awards! <br><br>Travel with our youths through their stories, on a wonderful dramatic journey filled with adventures and heartfelt messages. Enjoy dramatic interpretations of both classic and (some tummy tickling) original scripts devised and written by the students! Let them Tell the Story, AS IT IS!</td>
-        <td style="width: 20%;">2 Apr & 9 Apr 2022</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-			<tr>
         <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
         <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
 </td>
