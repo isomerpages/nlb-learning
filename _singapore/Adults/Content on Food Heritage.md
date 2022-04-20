@@ -40,30 +40,28 @@ third_nav_title: Adults
 
 Learn on the go. Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
 
-<br>
 <div class="row is-multiline">
   <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
+    <div class="clickbox is-mint-jade ">
       <a href="#food-heritage">
-        <span>Playlist: Singapore’s Food Heritage: Overview</span>
+        <span>Playlist: Singapore's Food Heritage: Overview</span>
       </a>
     </div>
   </div>
 	<div class="col is-one-third">
-		<div class="clickbox is-mint-jade ">
-			<a href="#Peranakan-Cuisine">
-				<span>Playlist:<br>Peranakan Cuisine</span>
-			</a>
-		</div>
-	</div>
-<div class="col is-one-third">
-<div class="clickbox is-mint-jade">
-<a href="#lp-food-heritage">
-<span>Learning Package: Singapore’s Food Heritage: Overview</span>
-</a>
-</div>
-</div>
-</div>
+    <div class="clickbox is-mint-jade ">
+      <a href="#Peranakan-Cuisine">
+        <span>Playlist: Peranakan Cuisine</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-food-heritage">
+        <span>Learning Package: Singapore's Food Heritage: Overview</span>
+      </a>
+    </div>
+  </div>
 
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around Singapore’s food heritage.
