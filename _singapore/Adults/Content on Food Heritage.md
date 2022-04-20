@@ -101,6 +101,62 @@ Join Maeve as she introduces Singaporean food through Singaporeans living in Aus
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<h5 id="Singapore’s Food Heritage" class="margin--bottom--lg"><b>Playlist: Singapore’s Food Heritage – Peranakan Cuisine </b></h5>
+
+The term “Peranakan” means “locally born” and is used primarily in insular Southeast Asia to refer to assimilated diasporic groups and hybrid community groups such as the Peranakan Chinese (Baba and Nyonya, or Straits Chinese). Their cuisine may use Malay/Indonesian spices and mainly Chinese cooking techniques. 
+
+Check out these resources to help you gain some understanding of Peranakan cuisine in Singapore.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/iq-OLS8yl40" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> The History of Peranakan Cuisine | VisitSingapore | FT Partner Content (3 mins)
+</b>
+<br> An introductory video to Peranakan cuisine. “This is the origin story of Singapore’s Peranakan cuisine which came into being over centuries as Chinese migrants to the Malay Archipelago (present-day Malaysia, Singapore and Indonesia) intermarried with locals.”<br><br>
+<small> Source: The History of Peranakan Cuisine (2019, Nov 6). VisitSingapore | FT Partner Content. Retrieved 2022, April 20.</small></p>
+</div>
+</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/Zs1XdmtWae8" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Heart of Peranakan cooking with Chef Philip Chia, the Peranakan Chef | ShatecSG Official (3 mins) 
+</b>
+<br> Chef Philip Chia shares he passion for cooking Peranakan food and possible future for the Peranakan cuisine. <br><br>
+<small> Source: Heart of Peranakan cooking with Chef Philip Chia, the Peranakan Chef (2020, Mar 9). ShatecSG Official. Retrieved 2022, April 20.
+</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/DymO6Fy4O6s" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Incredible Peranakan food in Singapore | Mark Wiens (13 mins)</b><br>
+Follow famous food blogger Mark Wiens as he samples several popular peranakan dishes at a restaurant.<br><br>
+<small> Source: Incredible Peranakan food in Singapore (2016, Mar 6). Mark Wiens. Retrieved 2022, April 20.</small></p>
+</div>
+</div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+
 	
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-food-heritage" class="margin--bottom--lg"><b> Singapore’s Food Heritage: Overview </b></h5>
