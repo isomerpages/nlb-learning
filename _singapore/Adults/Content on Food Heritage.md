@@ -4,40 +4,6 @@ permalink: /singapore/Adults/Food-Heritage
 description: ""
 third_nav_title: Adults
 ---
-<style type="text/css">
-/* Links */
-.content a { color: #322987; }
-.content a:focus,
-.content a:hover { color: #28216c; }
-
-/* Button Outline */
-.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
-.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
-.bp-button.is-primary-outline:focus,
-.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
-
-/* Responsive Iframe */
-.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
-.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
-.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
-.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
-.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
-.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
-
-/* Click Box */
-.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
-.clickbox span { padding: .5rem; }
-.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
-.clickbox a:focus,
-.clickbox a:hover { text-decoration: none; }
-
-/* Mint Jade */
-.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
-.clickbox.is-mint-jade a { color: #00b794; }
-.clickbox.is-mint-jade a:focus,
-.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; } 
-</style>
-
 Learn on the go. Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
 
 <br>
@@ -50,6 +16,15 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
     </div>
   </div>
 
+<div class="row is-multiline">
+	<div class="col is-one-third">
+		<div>
+			<a href="#food-heritage">
+				<span>Playlist:<br>Peranakan Cuisine</span>
+			</a>
+		</div>
+	</div>
+	
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#lp-food-heritage">
@@ -62,7 +37,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around Singapore’s food heritage.
 
-<h5 class="margin--bottom--lg" id="Singapore’s Food Heritage"><b>Playlist: Singapore’s Food Heritage: Overview</b></h5>
+<h5 id="Singapore’s Food Heritage" class="margin--bottom--lg"><b>Playlist: Singapore’s Food Heritage: Overview</b></h5>
 
 Singapore food continues to evolve over time, enriched by the experiences of our multi-ethnic communities and global food trends.
 
@@ -72,7 +47,7 @@ Check out these resources to find out how others introduce or view Singapore cui
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/81bB4fD-UhI">
+<iframe src="https://www.youtube.com/embed/81bB4fD-UhI" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -88,7 +63,7 @@ Listen to KF Seetoh as he introduces the various common Singapore food from mult
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/SZwcfoSa49Y">
+<iframe src="https://www.youtube.com/embed/SZwcfoSa49Y" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -101,7 +76,7 @@ Join Maeve as she introduces Singaporean food through Singaporeans living in Aus
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="Singapore’s Food Heritage" class="margin--bottom--lg"><b>Playlist: Singapore’s Food Heritage – Peranakan Cuisine </b></h5>
+<h5 class="margin--bottom--lg" id="Singapore’s Food Heritage"><b>Playlist: Peranakan Cuisine </b></h5>
 
 The term “Peranakan” means “locally born” and is used primarily in insular Southeast Asia to refer to assimilated diasporic groups and hybrid community groups such as the Peranakan Chinese (Baba and Nyonya, or Straits Chinese). Their cuisine may use Malay/Indonesian spices and mainly Chinese cooking techniques. 
 
@@ -111,7 +86,7 @@ Check out these resources to help you gain some understanding of Peranakan cuisi
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/iq-OLS8yl40" class="responsive-iframe">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/iq-OLS8yl40">
 </iframe>
 </div>
 </div>
@@ -126,7 +101,7 @@ Check out these resources to help you gain some understanding of Peranakan cuisi
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/Zs1XdmtWae8" class="responsive-iframe">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Zs1XdmtWae8">
 </iframe>
 </div>
 </div>
@@ -143,7 +118,7 @@ Check out these resources to help you gain some understanding of Peranakan cuisi
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/DymO6Fy4O6s" class="responsive-iframe">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/DymO6Fy4O6s">
 </iframe>
 </div>
 </div>
@@ -159,7 +134,7 @@ Follow famous food blogger Mark Wiens as he samples several popular peranakan di
 
 	
 <h3><b>Learning Package</b></h3>
-<h5 id="lp-food-heritage" class="margin--bottom--lg"><b> Singapore’s Food Heritage: Overview </b></h5>
+<h5 class="margin--bottom--lg" id="lp-food-heritage"><b> Singapore’s Food Heritage: Overview </b></h5>
 
 <p> Singapore’s food heritage mirrors our multi-ethnic culture, characterised with a medley of ingredients and cooking techniques derived from the country’s diverse population. </p>
 
@@ -181,48 +156,39 @@ These curated set of articles and books give an overview of Singapore’s food h
 
 <h4>Articles</h4>
 
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-01-14.html" target="_blank"> Violet Oon by Nureza Ahmad</a></h5>
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-01-14.html"> Violet Oon by Nureza Ahmad</a></h5>
 <p> Violet Oon is one of Singapore's best known food personalities. She has influenced the Singapore food scene as author, speaker, teacher, consultant and restauranteur. </p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-01-14.html" target="_blank"> Violet Oon </a>(2019, April).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-01-14.html"> Violet Oon </a>(2019, April).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
 	
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html" target="_blank"> Fast-food chains by Marsita Omar</a></h5>
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html"> Fast-food chains by Marsita Omar</a></h5>
 <p> Singapore’s love for fast-food began as early as the 1970s, making it one of the popular options among Singaporeans’ dining out culture.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html" target="_blank"> Fast-food chains </a>(2019, May).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html"> Fast-food chains </a>(2019, May).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
 	
 <h4>eBook</h4>
 
 <h5> Singapore cooking: fabulous recipes from Asia's food capital
 </h5>
 Tan, Terry, and Tan, Christopher. (2009). <i> Singapore cooking: fabulous recipes from Asia's food capital.</i> Hong Kong: Tuttle Publishing an imprint of Periplus Edition (HK) Ltd. <br>
-<a target="_blank"
-href="https://nlb.overdrive.com/media/887826">
-<img style="width:200px;"
-src="/images/Singapore%20Food%20Heritage/Terry.png"></a>
+<a href="https://nlb.overdrive.com/media/887826" target="_blank">
+<img src="/images/Singapore%20Food%20Heritage/Terry.png" style="width:200px;"></a>
 <p> A compendium of popular and less common local classics. With images of common Singapore ingredients and their descriptions.
-</p><p><a href="https://nlb.overdrive.com/media/887826"
-target="_blank">Borrow the eBook here.</a></p>
-Retrieved from OverDrive (a <a 
-href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
+</p><p><a target="_blank" href="https://nlb.overdrive.com/media/887826">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 	
 <h4>Books</h4>
 
 <h5> Singapore food: a treasury of more than 200 time-tested recipes</h5>
 Hutton, Wendy. (2018). <i> Singapore food: a treasury of more than 200 time-tested recipes. </i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 HUT) 
 <br>
-<a 
-href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315763265/237207705,1"
-target="_blank">
-<img src="/images/Singapore%20Food%20Heritage/Wendy.png" style="width:200px;"></a>
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315763265/237207705,1">
+<img style="width:200px;" src="/images/Singapore%20Food%20Heritage/Wendy.png"></a>
 <p> First published in 1979, this updated edition includes 219 best-loved recipes, “new classics” and additional recipes. Also provides an overview of the various multi-ethnic cooking styles. </p>
 	
 <h5> Singapore heritage food: yesterday's recipes for today's cook </h5>
 Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today's cook. </i> Singapore: Landmark Books Pte Ltd. (Call no.: RSING 641.595957 TAN) 
 <br>
-<a 
-href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315765352/75987384,1"
-target="_blank">
-<img src="/images/Singapore%20Food%20Heritage/Sylvia.png" style="width:200px;"></a>
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315765352/75987384,1">
+<img style="width:200px;" src="/images/Singapore%20Food%20Heritage/Sylvia.png"></a>
 <p> Describes the factors and influences in the unique Singapore culinary heritage and lists the classic dishes and their recipes. </p>
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p></div>
