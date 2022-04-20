@@ -52,7 +52,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
-<a href="#lp-japanese-occupation">
+<a href="#lp-food-heritage">
 <span>Learning Package:<br>Singapore’s Food Heritage: Overview</span>
 </a>
 </div>
