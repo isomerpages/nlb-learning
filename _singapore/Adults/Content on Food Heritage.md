@@ -10,7 +10,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#food-heritage">
+      <a href="#Ip-food-heritage">
         <span>Playlist:<br>Singapore’s Food Heritage: Overview</span>
       </a>
     </div>
@@ -19,7 +19,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <div class="row is-multiline">
 	<div class="col is-one-third">
 		<div>
-			<a href="#food-heritage">
+			<a href="#lp-Peranakan-Cuisine">
 				<span>Playlist:<br>Peranakan Cuisine</span>
 			</a>
 		</div>
