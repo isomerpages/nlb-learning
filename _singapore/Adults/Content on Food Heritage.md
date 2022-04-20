@@ -10,7 +10,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#Ip-food-heritage">
+      <a href="#food-heritage">
         <span>Playlist:<br>Singapore’s Food Heritage: Overview</span>
       </a>
     </div>
@@ -19,7 +19,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <div class="row is-multiline">
 	<div class="col is-one-third">
 		<div>
-			<a href="#lp-Peranakan-Cuisine">
+			<a href="#Peranakan-Cuisine">
 				<span>Playlist:<br>Peranakan Cuisine</span>
 			</a>
 		</div>
@@ -75,7 +75,7 @@ Join Maeve as she introduces Singaporean food through Singaporeans living in Aus
 </div>
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
+<div>
 <h5 class="margin--bottom--lg" id="Singapore’s Food Heritage"><b>Playlist: Peranakan Cuisine </b></h5>
 
 The term “Peranakan” means “locally born” and is used primarily in insular Southeast Asia to refer to assimilated diasporic groups and hybrid community groups such as the Peranakan Chinese (Baba and Nyonya, or Straits Chinese). Their cuisine may use Malay/Indonesian spices and mainly Chinese cooking techniques. 
@@ -131,8 +131,7 @@ Follow famous food blogger Mark Wiens as he samples several popular peranakan di
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-
-	
+<div>
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-food-heritage"><b> Singapore’s Food Heritage: Overview </b></h5>
 
@@ -153,9 +152,8 @@ Follow famous food blogger Mark Wiens as he samples several popular peranakan di
 
 These curated set of articles and books give an overview of Singapore’s food heritage.
 
-
 <h4>Articles</h4>
-
+<div>
 <h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-01-14.html"> Violet Oon by Nureza Ahmad</a></h5>
 <p> Violet Oon is one of Singapore's best known food personalities. She has influenced the Singapore food scene as author, speaker, teacher, consultant and restauranteur. </p>
 Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-01-14.html"> Violet Oon </a>(2019, April).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
@@ -165,7 +163,7 @@ Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/article
 Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html"> Fast-food chains </a>(2019, May).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
 	
 <h4>eBook</h4>
-
+<div>
 <h5> Singapore cooking: fabulous recipes from Asia's food capital
 </h5>
 Tan, Terry, and Tan, Christopher. (2009). <i> Singapore cooking: fabulous recipes from Asia's food capital.</i> Hong Kong: Tuttle Publishing an imprint of Periplus Edition (HK) Ltd. <br>
@@ -176,7 +174,7 @@ Tan, Terry, and Tan, Christopher. (2009). <i> Singapore cooking: fabulous recipe
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 	
 <h4>Books</h4>
-
+<div>
 <h5> Singapore food: a treasury of more than 200 time-tested recipes</h5>
 Hutton, Wendy. (2018). <i> Singapore food: a treasury of more than 200 time-tested recipes. </i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 HUT) 
 <br>
