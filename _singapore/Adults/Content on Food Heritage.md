@@ -250,4 +250,18 @@ Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today'
 <p>Source: Lee, Geok Boi, <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine" target="_blank"> The Evolution of Straits-born Cuisine </a>(2021, July-September).<i> BiblioAsia</i> 17(2). Retrieved 2022, April 20.</p>
 <h5><a href=" https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/forgottenfoodmemories" target="_blank"> Forgotten Foods & Mealtime Memories by Tan, Sylvia </a></h5>
 <p> It is important to remember that food and tastes change over time. In this article, food writer Sylvia Tan “remembers the foods and flavours she grew up with and the less than sanitary practices made for the stomachs cast in iron.” The article has a section that discusses how Peranakan Chinese dishes that had perut kambing (goat’s stomach) and a Eurasian dish called feng (pig’s lung) that disappeared as the ingredients were no longer sold in wet markets.</p>
-Source: Tan, Sylvia, <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/forgottenfoodmemories" target="_blank">Forgotten Foods & Mealtime Memories</a>(2016, July-September).<i>BiblioAsia</i> 12(2). Retrieved 2022, April 20.
+Source: Tan, Sylvia, <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/forgottenfoodmemories" target="_blank">Forgotten Foods & Mealtime Memories</a>(2016, July-September). <i>BiblioAsia</i> 12(2). Retrieved 2022, April 20.
+
+<h4>eBook</h4>
+<h5> In A Straits-Born Kitchen</h5>
+Lee, Geok Boi. (2021). <i>In a Straits-Born Kitchen<br>
+<a target="_blank"
+href=" https://nlb.overdrive.com/media/6393798">
+<img 
+src="/images/Singapore%20Food%20Heritage/LeeGB.png" style="width:200px;"></a>
+<p> Lee uses the wider definition of Peranakan to mean Straits born in her introductory chapter, including not only the Straits Chinese, but also Eurasian, Chetti Melakan, Indonesian Chinese, Malay and Indonesian recipes. The book is organized according to the basics; kerabu, acar, and vegetables; seafood; meats; light bites and sweet treats. It also has a select glossary of ingredients, a short bibliography, as well as weights and measurements.
+</p><p><a href=" https://nlb.overdrive.com/media/6393798"
+target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
