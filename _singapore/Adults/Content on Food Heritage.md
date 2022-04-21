@@ -229,4 +229,25 @@ Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today'
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p></div>
 	
-<h5 id=" lp-food-heritage" class="margin--bottom--lg"><b>Learning Package: Peranakan Cuisine</b></h5>
+<h5 id=" lp-food-heritage" class="margin--bottom--lg"><b>Singapore's Food Heritage: Peranakan Cuisine</b></h5>
+	
+<p> Ayam Buah Keluak, Babi Pong Teh, Ngoh Hiang, Kueh Pie Tee, and Laksa are just some of the beloved dishes that come into mind when one thinks about Peranakan Chinese food. These dishes, which were created in insular Southeast Asia and uses local ingredients, may incorporate Chinese cooking techniques, for example. Some Peranakan dishes were also inspired by trade goods available from the Portuguese, British, and Dutch, such as kueh lapis legit and pineapple tarts. </p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Peranakan restaurants began appearing in Singapore in the 1970s? The Kolek restaurant at Shenton Way and the Guan Hoe Soon restaurant at Joo Chiat Road in Katong were some of the early pioneers.</li>
+</ul>
+</td>
+</tr</tbody></table>
+<p>These curated set of articles and books will give you a better understanding of Peranakan food in Singapore.</p>
+
+<h4>Articles</h4>
+
+<h5><a href=" https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine" target="_blank"> The Evolution of Straits-born Cuisine by Lee Geok Boi </a></h5>
+<p> Lee Geok Boi looks at what makes Peranakan cuisine unique and delves into old cookbooks to see how Straits-born cuisine came to be. She discusses how although the Y.W.C.A. of Malaya Cookery Book (1931) -- one of the earliest local cookbooks -- had Straits Chinese recipes, the first local cookbook that identified itself as being a Peranakan cookbook was Mrs Lee’s Cookbook (1974) by Mrs Lee Chin Koon.</p>
+<p>Source: Lee, Geok Boi, <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine" target="_blank"> The Evolution of Straits-born Cuisine </a>(2021, July-September).<i> BiblioAsia</i> 17(2). Retrieved 2022, April 20.</p>
+<h5><a href=" https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/forgottenfoodmemories" target="_blank"> Forgotten Foods & Mealtime Memories by Tan, Sylvia </a></h5>
+<p> It is important to remember that food and tastes change over time. In this article, food writer Sylvia Tan “remembers the foods and flavours she grew up with and the less than sanitary practices made for the stomachs cast in iron.” The article has a section that discusses how Peranakan Chinese dishes that had perut kambing (goat’s stomach) and a Eurasian dish called feng (pig’s lung) that disappeared as the ingredients were no longer sold in wet markets.</p>
+Source: Tan, Sylvia, <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/forgottenfoodmemories" target="_blank">Forgotten Foods & Mealtime Memories</a>(2016, July-September).<i>BiblioAsia</i> 12(2). Retrieved 2022, April 20.
