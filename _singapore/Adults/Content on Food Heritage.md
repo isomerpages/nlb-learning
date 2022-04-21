@@ -63,6 +63,15 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
     </div>
   </div>
 
+<div class= "col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-peranakan-cuisine">
+<span>Learning Package:<br>Peranakan Cuisine</span>
+</a>
+</div>
+</div>
+</div>
+	
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around Singapore’s food heritage.
 
@@ -219,3 +228,5 @@ Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today'
 <p> Describes the factors and influences in the unique Singapore culinary heritage and lists the classic dishes and their recipes. </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p></div>
+	
+<h5 id=" lp-food-heritage" class="margin--bottom--lg"><b>Learning Package: Peranakan Cuisine</b></h5>
