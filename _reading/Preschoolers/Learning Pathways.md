@@ -97,7 +97,7 @@ Make reading a fun activity while fostering that special bond between you and yo
 <tr>			
 <td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-277292979767?aff=ebdsoporgprofile" target="_blank"><b> Baby Songs & Rhymes </b></a></td>
         <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. <br><br>This programme is intended for parents with babies up to 12 months. </td>
-        <td>6 April 2022<br>2.30pm – 3.00pm<br></td>
+        <td>4 May 2022<br>2.30pm – 3.00pm<br></td>
         <td>Zoom</td>
       </tr>
 <tr>			
