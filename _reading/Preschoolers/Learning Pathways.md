@@ -166,7 +166,6 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>28 May 2022<br>11.00am– 12.00pm<br></td>
         <td>Sengkang Public Library </td>
       </tr>
-      </tr>
   </tbody>
   </table>
 </div>
