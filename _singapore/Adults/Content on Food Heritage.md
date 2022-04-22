@@ -50,7 +50,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   </div>
 	<div class="col is-one-third">
     <div class="clickbox is-mint-jade ">
-      <a href="#Peranakan-Cuisine">
+      <a href="#peranakan-cuisine">
         <span>Playlist: Peranakan Cuisine</span>
       </a>
     </div>
@@ -75,7 +75,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around Singapore’s food heritage.
 
-<h5 id="Singapore’s Food Heritage" class="margin--bottom--lg"><b>Playlist: Singapore’s Food Heritage: Overview</b></h5>
+<h5 id="food-heritage" class="margin--bottom--lg"><b>Playlist: Singapore’s Food Heritage: Overview</b></h5>
 
 Singapore food continues to evolve over time, enriched by the experiences of our multi-ethnic communities and global food trends.
 
@@ -114,7 +114,7 @@ Join Maeve as she introduces Singaporean food through Singaporeans living in Aus
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 <div>
-<h5 class="margin--bottom--lg" id="Singapore’s Food Heritage"><b>Playlist: Peranakan Cuisine </b></h5>
+<h5 class="margin--bottom--lg" id="peranakan-cuisine"><b>Playlist: Peranakan Cuisine </b></h5>
 
 The term “Peranakan” means “locally born” and is used primarily in insular Southeast Asia to refer to assimilated diasporic groups and hybrid community groups such as the Peranakan Chinese (Baba and Nyonya, or Straits Chinese). Their cuisine may use Malay/Indonesian spices and mainly Chinese cooking techniques. 
 
