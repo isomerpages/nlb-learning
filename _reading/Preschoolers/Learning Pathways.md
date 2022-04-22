@@ -95,7 +95,7 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Zoom</td>
       </tr>
 <tr>			
-<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-277293380967?aff=ebdsoporgprofile" target="_blank"><b> Baby Songs & Rhymes </b></a></td>
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-308441927107?aff=ebdsoporgprofile" target="_blank"><b> Baby Songs & Rhymes </b></a></td>
         <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. <br><br>This programme is intended for parents with babies up to 12 months. </td>
         <td>7 May 2022<br>11.00am– 11.30am<br></td>
         <td>Zoom</td>
@@ -166,7 +166,6 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>28 May 2022<br>11.00am– 12.00pm<br></td>
         <td>Sengkang Public Library </td>
       </tr>
-			 <tr>
       </tr>
   </tbody>
   </table>
