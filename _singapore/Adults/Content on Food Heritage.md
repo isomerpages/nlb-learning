@@ -229,7 +229,7 @@ Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today'
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p></div>
 	
-<h5 id=" lp-food-heritage" class="margin--bottom--lg"><b>Singapore's Food Heritage: Peranakan Cuisine</b></h5>
+<h5 id="lp-peranakan-cuisine" class="margin--bottom--lg"><b>Singapore's Food Heritage: Peranakan Cuisine</b></h5>
 	
 <p> Ayam Buah Keluak, Babi Pong Teh, Ngoh Hiang, Kueh Pie Tee, and Laksa are just some of the beloved dishes that come into mind when one thinks about Peranakan Chinese food. These dishes, which were created in insular Southeast Asia and uses local ingredients, may incorporate Chinese cooking techniques, for example. Some Peranakan dishes were also inspired by trade goods available from the Portuguese, British, and Dutch, such as kueh lapis legit and pineapple tarts. </p>
 <table border="1">
