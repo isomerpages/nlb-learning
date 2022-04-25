@@ -55,8 +55,12 @@ What can we do to protect the environment around us? Do you know the different t
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/preschoolers/content" target="_blank"><b> 3 Rs for Children</b></a></td>
-        <td>Video resources to help children understand more about the 3Rs and how to take care of the environment.</td>
+        <td><a href="/sustainability/preschoolers/content" target="_blank"><b> Seas & Oceans</b></a></td>
+        <td>Dolphins, blue whales, sea lions, jellyfishes, and ocean sunfish, are some of our favourite beautiful sea creatures that live in the oceans.
+<br><br>
+Not only do oceans house these marine lives, but these bodies of water also help in maintaining the Earth’s oxygen level, making it easier for us to breathe.
+<br><br>
+Check out the video resources below to help your child understand the roles of the oceans and seas in our ecosystem!.</td>
       </tr>
     </tbody>
   </table>
