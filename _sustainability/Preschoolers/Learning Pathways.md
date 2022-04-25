@@ -37,25 +37,25 @@ What can we do to protect the environment around us? Do you know the different t
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/connecting-with-nature#lp-protectbirds" target="_blank"><b> Animal Conservation Series: Protecting birds in Singapore</b></a></td>
+        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/connecting-with-nature#lp-protectbirds" target="_blank"><b>[Connecting with Nature] Animal Conservation Series: Protecting birds in Singapore</b></a></td>
         <td style="width: 40%;"> Understand more about the different types of birds in Singapore, why they are important and how to protect them. There are also fun activities and related book recommendations.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/connecting-with-nature#lp-seaturtles" target="_blank"><b> Animal Conservation Series: Sea Turtle Rescue</b></a></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/connecting-with-nature#lp-seaturtles" target="_blank"><b>[Connecting with Nature] Animal Conservation Series: Sea Turtle Rescue</b></a></td>
         <td>Understand more about sea turtles and the dangers they are facing and how to protect them. There are also fun activities and related book recommendations.</td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment#lp-urbanfarm" target="_blank"><b> Urban Farming</b></a></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment#lp-urbanfarm" target="_blank"><b>[Caring for the Environment] Urban Farming</b></a></td>
         <td>Understand more about what is urban farming and its benefits. There are also fun activities and related book recommendations.</td>
         <td></td>
         <td> </td>
       </tr>
 <tr>
-        <td><a href="/sustainability/preschoolers/content" target="_blank"><b> Seas & Oceans</b></a></td>
+        <td><a href="/sustainability/preschoolers/content" target="_blank"><b> Seas & Oceans playlist</b></a></td>
         <td>Dolphins, blue whales, sea lions, jellyfishes, and ocean sunfish, are some of our favourite beautiful sea creatures that live in the oceans.
 <br><br>
 Not only do oceans house these marine lives, but these bodies of water also help in maintaining the Earth’s oxygen level, making it easier for us to breathe.
