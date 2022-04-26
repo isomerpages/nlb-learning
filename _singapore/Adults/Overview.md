@@ -77,5 +77,4 @@ Singapore history and heritage are steeped in our everyday lives without us bein
       </a>
     </div>
   </div>
-	
 </div>
