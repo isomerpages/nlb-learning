@@ -94,6 +94,14 @@ Make reading a fun activity while fostering that special bond between you and yo
        <td>4 May 2022<br>2.30pm –3.00pm<br></td>
         <td>Zoom</td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/life-in-pictures-with-peter-h-reynolds-tickets-326195287887?aff=ebdsoporgprofile" target="_blank"><b>Life in Pictures with Peter H. Reynolds
+ </b></a></td>
+        <td> Come and join us for an exclusive event with Peter H. Reynolds, where he will read aloud his book and answer some of your questions for parents with children aged 3 to 8!
+"Stories for All Ages" author Peter Reynolds, who has been widely praised around the world for his work, will be making an appearance online! </td>
+        <td>7 May 2022<br>10.00am-11.00am<br></td>
+        <td>Zoom</td>
+      </tr>		
 <tr>			
 <td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-308441927107?aff=ebdsoporgprofile" target="_blank"><b> Baby Songs & Rhymes </b></a></td>
         <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. <br><br>This programme is intended for parents with babies up to 12 months. </td>
@@ -160,12 +168,6 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>7 May 2022<br>3.00pm-3.30pm<br></td>
         <td>Woodlands Regional Library </td>
       </tr>
-	<tr>			
-<td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-303309305297?aff=ebdsoporgprofile" target="_blank"><b>Introduction to Scratch Junior Coding </b></a></td>
-        <td>ScratchJr is a programming language for children aged 4-6. Children can create their own interactive stories, animations and games.  </td>
-        <td>28 May 2022<br>11.00am– 12.00pm<br></td>
-        <td>Sengkang Public Library </td>
-      </tr>
 						<tr>			
 <td><a href="https://www.eventbrite.sg/e/nature-portraits-animals-that-fly-singapore-botanic-gardens-tickets-315184273647?aff=ebdsoporgprofile" target="_blank"><b>Nature Portraits: Animals that Fly | Singapore Botanic Gardens </b></a></td>
         <td> Take a short walk with us in the neighbourhood outdoors and spot as many flying animals as you can! From insects to birds, these creatures take flight in different ways and also have their own life cycles. Join us and find about more about these magnificent creatures!</td>
@@ -185,6 +187,12 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Everything in the universe is made up of matter. That includes the water we drink, the air we breathe, and us! Yes, we are made up of matter, too! On Earth, all matter exists as one of three main states: solid, liquid or gas. In our workshop, you can learn about the atomic structure of each state and how they change. We'll have an enriching storytelling and activity session for preschoolers just like you!</td>
         <td>14 May 2022<br>2.00pm-3.00pm<br></td>
         <td>Jurong Regional Library</td>
+      </tr>
+				<tr>			
+<td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-303309305297?aff=ebdsoporgprofile" target="_blank"><b>Introduction to Scratch Junior Coding </b></a></td>
+        <td>ScratchJr is a programming language for children aged 4-6. Children can create their own interactive stories, animations and games.  </td>
+        <td>28 May 2022<br>11.00am– 12.00pm<br></td>
+        <td>Sengkang Public Library </td>
       </tr>
   </tbody>
   </table>
