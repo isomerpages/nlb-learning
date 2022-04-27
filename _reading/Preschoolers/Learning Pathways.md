@@ -129,7 +129,7 @@ Make reading a fun activity while fostering that special bond between you and yo
 <tr>			
 <td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-317947638947?aff=ebdsoporgprofile-registration-277286921647?aff=ebdsoporgprofile" target="_blank"><b>Jiggle Read & Rhyme | Early READ </b></a></td>
         <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! For toddlers aged 1-3.</td>
-        <td>19 May 2022<br>11.00am– 11.20am<br></td>
+        <td>19 May 2022<br>4.00pm– 4.30pm<br></td>
         <td>Geylang East Public Library</td>
       </tr>
 <tr>			
