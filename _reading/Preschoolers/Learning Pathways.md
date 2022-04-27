@@ -200,6 +200,12 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>28 May 2022<br>11.00am– 12.00pm<br></td>
         <td>Sengkang Public Library </td>
       </tr>
+						<tr>			
+<td><a href="https://www.eventbrite.sg/e/marvellous-trees-singapore-botanic-gardens-tickets-315201384827?aff=ebdsoporgprofile" target="_blank"><b>Marvellous Trees | Singapore Botanic Gardens </b></a></td>
+        <td>Trees are all around us in our little green city. Do you know that other than providing us with shade, trees also play an important role in keeping our air fresh? Come join us in this enriching session to learn more about trees and their life cycle!  </td>
+        <td>28 May 2022<br>11.15am– 12.00pm<br></td>
+        <td>library@harbourfront</td>
+      </tr>
   </tbody>
   </table>
 </div>
