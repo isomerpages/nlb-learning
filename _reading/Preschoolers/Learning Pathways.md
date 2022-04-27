@@ -188,6 +188,12 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>14 May 2022<br>2.00pm-3.00pm<br></td>
         <td>Jurong Regional Library</td>
       </tr>
+					<tr>			
+<td><a href="https://www.eventbrite.sg/e/think-like-a-coder-session-1-amazing-algos-i-discovertech-tickets-303279415897?aff=ebdsoporgprofile" target="_blank"><b>Think Like a Coder: Session 1: Amazing Algos I DiscoverTech </b></a></td>
+        <td>Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children (age 3-6). These are for absolute beginners.Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators. </td>
+        <td>14 May 2022<br>2.00pm-2.30pm<br></td>
+        <td>Zoom </td>
+      </tr>
 				<tr>			
 <td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-303309305297?aff=ebdsoporgprofile" target="_blank"><b>Introduction to Scratch Junior Coding </b></a></td>
         <td>ScratchJr is a programming language for children aged 4-6. Children can create their own interactive stories, animations and games.  </td>
