@@ -151,5 +151,11 @@ Why Do Apples Turn Brown?</b></a></h4>
 <img src="/images/science/preschoolers/Why%20do%20apple%20turn%20brown.jpeg" style="width:400px; text-align:centre;">
  
  <p>Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it? Let’s find out with a simple experiment that you can do at home.</p>	
+ 
+ <h4 id="lp-inflator"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator
+</b></a></h4>
+		
+ 
+ <p>Do you know what happens when you mix baking soda and vinegar? Let’s learn about chemical reactions and the gas they produce when they are mixed. <br><br>Chemical reaction: A process that involves the arrangement of molecules or structure of a substance, as opposed to a change in physical form (as from a solid to a gas).<br><br> Observe how a balloon can be inflated through this simple experiment.</p>	
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
