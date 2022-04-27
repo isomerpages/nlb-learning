@@ -130,6 +130,13 @@ Make reading a fun activity while fostering that special bond between you and yo
        <td>21 May 20222<br>11.00am-11.20am<br></td>
         <td>Zoom</td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-313237450647?aff=ebdsoporgprofile" target="_blank"><b>Children's Puppet Castle </b></a></td>
+        <td> Join us for a puppet show performed by Puppet Master Arii Azharii. He will be performing two stories, The Boy Who Cried Wolf and Doctor Tortoise. Learn more about performance techniques through this exciting performance</td>
+        <td>22 May 2022<br>3.00pm-4.00pm<br></td>
+        <td>Ang Mo Kio Public Library</td>
+      </tr>
+			
     </tbody>
   </table>
 </div>
@@ -153,12 +160,6 @@ Make reading a fun activity while fostering that special bond between you and yo
   </td>
         <td>7 May 2022<br>3.00pm-3.30pm<br></td>
         <td>Woodlands Regional Library </td>
-      </tr>
-<tr>			
-<td><a href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-313237450647?aff=ebdsoporgprofile" target="_blank"><b> Children's Puppet Castle </b></a></td>
-        <td> Join us for a puppet show performed by Puppet Master Arii Azharii. He will be performing two stories, The Boy Who Cried Wolf and Doctor Tortoise. Learn more about performance techniques through this exciting performance.</td>
-        <td>22 May 2022<br>3.00pm-4.00pm<br></td>
-        <td> Ang Mo Kio Public Library </td>
       </tr>
 	<tr>			
 <td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-303309305297?aff=ebdsoporgprofile" target="_blank"><b>Introduction to Scratch Junior Coding </b></a></td>
