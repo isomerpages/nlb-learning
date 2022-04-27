@@ -76,9 +76,22 @@ Check out the video resources below to help your child understand the roles of t
     </thead>
     <tbody>
      <tr>			
-<td><a href="https://www.eventbrite.sg/e/upcycling-trash-to-treasure-registration-303275764977?aff=ebdsoporgprofile" target="_blank"><b> Upcycling Trash to Treasure! </b></a></td>
-        <td> Come join us for an interactive programme on upcycling! In this session, children will get to repurpose common household objects to create beautiful artwork. The workshop will encourage children to practice upcycling and gain a deeper understanding that everything can have a new lease of life--- it is up to their imagination and creativity to breathe new life into discarded objects.</td>
-        <td>16 April 2022<br>11.00am – 12.00pm<br></td>
+<td><a href="https://www.eventbrite.sg/e/309164678877?aff=ebdsoporgprofile" target="_blank"><b> 《儿童拯救地球行动》 讲故事会：拯救海洋！ </b></a></td>
+        <td> 《儿童拯救地球行动》是一个基督教学前联盟组织的社区项目。目的是致力于激励、鼓励和帮助幼稚园儿童关心创造物和环境. 欢迎大家参与儿童故事会和观赏孩子们的美术展览。</td>
+        <td>30 April 2022<br>11.00am – 11.30am<br></td>
+        <td>Central Public Library </td>
+			 <tr>
+			 <td><a href="https://www.eventbrite.sg/e/creation-care-storytelling-session-save-the-ocean-registration-309168741027?aff=ebdsoporgprofile" target="_blank"><b>Creation C.A.R.E Storytelling Session: Save The Ocean! </b></a></td>
+        <td> Creation C.A.R.E (Children’s Action to Rescue Earth) is a community project that endeavours to inspire, encourage and empower children to care for creation and the environment. Creation C.A.R.E is an initiative by Christian Preschool Alliance, as organised by Presbyterian Preschool Services.   <br><br> In conjunction with Creation C.A.R.E, we invite you to join us for the two storytelling sessions, as well as a public art showcase that will run from 25 April 2022 (Monday) to 1 May 2022 (Sunday) during library opening hours. Step into the wonderful world of ocean life and sea creatures through exciting stories and captivating artworks created by children that remind us of the precious ocean animals and habitats that we need to protect! Creation C.A.R.E stickers will also be given out to children who want to pledge to C.A.R.E for the environment. 
+</td>
+        <td>30 April 2022<br>2.30pm – 3.00pm<br></td>
+        <td>Central Public Library </td>
+			</tr>
+				 <tr>
+			 <td><a href="https://www.eventbrite.sg/e/storytelling-the-river-that-brings-us-life-tickets-325375586137" target="_blank"><b>Storytelling: The River That Brings Us Life </b></a></td>
+        <td> Come and join an afternoon of fun, with a dramatized storytelling about the Singapore Rivers' past, song and upcycling craft session. Children will learn the importance of keeping our rivers clean and how we can reuse our household waste through upcycling. This programme is for children aged 3 to 8 years old.
+</td>
+        <td>29 May 2022<br>2.00pm – 3.00pm<br></td>
         <td>Central Public Library </td>
 			</tr>
     </tbody>
@@ -95,7 +108,7 @@ Check out the video resources below to help your child understand the roles of t
     </thead>
   <tbody>
        <tr>			
-<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-302537466707?aff=ebdsoporgprofile" target="_blank"><b> Jiggle, Read & Rhyme | Early READ </b></a></td>
+<td><a href="" target="_blank"><b> Jiggle, Read & Rhyme | Early READ </b></a></td>
         <td>Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! </td>
        <td>2 April 20222<br>10.30am –11.00am<br></td>
         <td>Jurong Regional Library</td>
