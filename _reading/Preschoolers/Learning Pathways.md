@@ -27,7 +27,7 @@ third_nav_title: Preschoolers
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3><b>Ignite a lifelong love of reading in your children!</b></h3><br>
-<img src="/images/reading/preschool/Picture1.png" style="width:60%">
+<img src="/images/reading/preschool/Picture1.png" style="width:50%">
 
 Reading is a fundamental life skill in children and is significant in their development of literacy skills. Learning to read starts long before a child enters school and parents play an important role in nurturing children’s passion for reading and life-long learning.
 Make reading a fun activity while fostering that special bond between you and your little one, through this suite of reading programmes offered by the public libraries. 
