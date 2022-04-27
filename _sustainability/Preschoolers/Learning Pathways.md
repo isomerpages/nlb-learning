@@ -80,6 +80,7 @@ Check out the video resources below to help your child understand the roles of t
         <td> 《儿童拯救地球行动》是一个基督教学前联盟组织的社区项目。目的是致力于激励、鼓励和帮助幼稚园儿童关心创造物和环境. 欢迎大家参与儿童故事会和观赏孩子们的美术展览。</td>
         <td>30 April 2022<br>11.00am – 11.30am<br></td>
         <td>Central Public Library </td>
+			</tr>
 			 <tr>
 			 <td><a href="https://www.eventbrite.sg/e/creation-care-storytelling-session-save-the-ocean-registration-309168741027?aff=ebdsoporgprofile" target="_blank"><b>Creation C.A.R.E Storytelling Session: Save The Ocean! </b></a></td>
         <td> Creation C.A.R.E (Children’s Action to Rescue Earth) is a community project that endeavours to inspire, encourage and empower children to care for creation and the environment. Creation C.A.R.E is an initiative by Christian Preschool Alliance, as organised by Presbyterian Preschool Services.   <br><br> In conjunction with Creation C.A.R.E, we invite you to join us for the two storytelling sessions, as well as a public art showcase that will run from 25 April 2022 (Monday) to 1 May 2022 (Sunday) during library opening hours. Step into the wonderful world of ocean life and sea creatures through exciting stories and captivating artworks created by children that remind us of the precious ocean animals and habitats that we need to protect! Creation C.A.R.E stickers will also be given out to children who want to pledge to C.A.R.E for the environment. 
