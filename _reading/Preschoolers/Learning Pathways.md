@@ -136,7 +136,6 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>22 May 2022<br>3.00pm-4.00pm<br></td>
         <td>Ang Mo Kio Public Library</td>
       </tr>
-			
     </tbody>
   </table>
 </div>
@@ -166,6 +165,26 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>ScratchJr is a programming language for children aged 4-6. Children can create their own interactive stories, animations and games.  </td>
         <td>28 May 2022<br>11.00am– 12.00pm<br></td>
         <td>Sengkang Public Library </td>
+      </tr>
+						<tr>			
+<td><a href="https://www.eventbrite.sg/e/nature-portraits-animals-that-fly-singapore-botanic-gardens-tickets-315184273647?aff=ebdsoporgprofile" target="_blank"><b>Nature Portraits: Animals that Fly | Singapore Botanic Gardens </b></a></td>
+        <td> Take a short walk with us in the neighbourhood outdoors and spot as many flying animals as you can! From insects to birds, these creatures take flight in different ways and also have their own life cycles. Join us and find about more about these magnificent creatures!</td>
+        <td>7 May 2022<br>11.00am-11.45am<br></td>
+        <td>Queenstown Public Library</td>
+      </tr>
+						<tr>			
+<td><a href="https://www.eventbrite.sg/e/marshmallow-shooter-registration-316636296687?aff=ebdsoporgprofile" target="_blank"><b>Marshmallow Shooter! </b></a></td>
+        <td> Have you wondered why a ball rolls away from you when you kick it? That’s because you are applying a force on the ball. Scientific concepts such as forces, which belong to the field of physics, can be found all around you, even if you don’t realise it! Let’s learn more about forces in this interactive programme! Find out more about forces (with marshmallows!) and bring home activity sheets that will help you practise the concepts you have learnt. Let us all explore science in a fun and exciting way!</td>
+        <td>8 May 2022<br>5.00pm-5.45pm<br></td>
+        <td>Marine Parade Public Library</td>
+      </tr>
+						<tr>			
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-solid-liquid-and-gas-tickets-319342551167?aff=ebdsoporgprofile
+ " target="_blank"><b>[Budding Scientists] Solid, Liquid and Gas
+ </b></a></td>
+        <td>Everything in the universe is made up of matter. That includes the water we drink, the air we breathe, and us! Yes, we are made up of matter, too! On Earth, all matter exists as one of three main states: solid, liquid or gas. In our workshop, you can learn about the atomic structure of each state and how they change. We'll have an enriching storytelling and activity session for preschoolers just like you!</td>
+        <td>14 May 2022<br>2.00pm-3.00pm<br></td>
+        <td>Jurong Regional Library</td>
       </tr>
   </tbody>
   </table>
