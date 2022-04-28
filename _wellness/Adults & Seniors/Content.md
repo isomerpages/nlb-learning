@@ -122,7 +122,7 @@ It seems simple enough, but healthy eating is more complex than it looks. This v
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> 6 Tips for Better Sleep (5 mins)</b><br>
+    <p><b> 6 Tips for Better Sleep (5:00)</b><br>
 Want to improve the quantity and quality of your sleep? Sleep Scientist Matt Walker offers six scientifically grounded tips for better sleep.<br>
 <small> Source: 6 Tips For Better Sleep (2020, Sep 22). TED. Retrieved 2022, April 18. </small></p>
   </div>
@@ -134,7 +134,7 @@ Want to improve the quantity and quality of your sleep? Sleep Scientist Matt Wal
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> How Long Should Your Naps Be? - Sara C. Mednick (5 mins)</b><br>
+    <p><b> How Long Should Your Naps Be? - Sara C. Mednick (5:00)</b><br>
 Not all naps are created equal. For a start, consider the time of the day and the length of your naps to optimise your mid-day snooze. <br>
 <small> Source: How long should your naps be? - Sara C. Mednick (2021, Apr 29). TED-Ed. Retrieved 2022, April 18.</small></p>
   </div>
