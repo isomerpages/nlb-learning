@@ -130,11 +130,11 @@ Want to improve the quantity and quality of your sleep? Sleep Scientist Matt Wal
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/LqnIrpORAGU" class="responsive-iframe"></iframe>
+     <iframe src=" https://www.youtube.com/embed/BN9yqF6Um98" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> Are Food Labels Actually Important? (6:00) </b><br>
+    <p><b> How Long Should Your Naps Be? - Sara C. Mednick (5 mins)</b><br>
 Hint: it is. Learn how to crack the food label code with Biogirl MJ as she heads to NTUC FairPrice. <br>
 <small> Source: Are food labels actually important? (2021, Mar 17). SGFoodAgency. Retrieved 2021, December 20.</small></p>
   </div>
