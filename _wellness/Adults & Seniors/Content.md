@@ -128,7 +128,6 @@ It seems simple enough, but healthy eating is more complex than it looks. This v
 
 <h5 class="margin--bottom--lg" id="playlist-sleep"><b> Playlist: Sleep</b></h5>
 
-<br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
