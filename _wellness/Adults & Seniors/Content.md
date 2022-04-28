@@ -262,7 +262,7 @@ W. Chris Winter, M.D., (2017), The Sleep Solution: Why Your Sleep is Broken and 
 <small>https://share.libbyapp.com/title/2926257. Retrieved from Libby. </small>
 
 
-<h5>3. Good Calories, Bad Calories </h5>
+<h5>3. The Sleep Fix  </h5>
 Gary Taubes, (2008), Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health. <br>
 New York : Anchor Books, 2008.
 <p>
