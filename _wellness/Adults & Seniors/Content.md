@@ -123,8 +123,8 @@ It seems simple enough, but healthy eating is more complex than it looks. This v
   </div>
   <div class="col is-three-fifths">
     <p><b> 6 Tips for Better Sleep (5 mins)</b><br>
-Want to improve the quantity and quality of your sleep? Sleep Scientist Matt Walker offers six scientifically grounded tips for better sleep. <br>
-<small> Source: How the food you eat affects your brain (2016, Jun 21). TED-Ed. Retrieved 2021, December 20. </small></p>
+Want to improve the quantity and quality of your sleep? Sleep Scientist Matt Walker offers six scientifically grounded tips for better sleep.<br>
+<small> Source: 6 Tips For Better Sleep (2020, Sep 22). TED. Retrieved 2022, April 18. </small></p>
   </div>
 </div>
 <div class="row is-multiline margin--bottom--lg">
