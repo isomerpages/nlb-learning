@@ -222,7 +222,15 @@ New York : Anchor Books, 2008.
 Sleep is an underrated and increasingly neglected aspect of our health. In fact, Singaporeans are amongst the most sleep-deprived people in the world! So, why do we sleep? And what benefits do we get out of this seemingly passive activity? Dive into the wonderful world of sleep with these resources.
 
 <h4>Resource Page</h4>
+
 <h5>1. Caring For Ourselves – Sleeping Well </h5>
+
+From sleep deprivation to revenge bedtime procrastination, this resource page offers answers to most important questions about sleep.
+<p><a href="https://www.healthhub.sg/programmes/186/MindSG/Caring-For-Ourselves/Sleeping-Well-Adults#home" target="_blank"> Visit the resource page here</a>. </p>
+<small>Source: Caring For Ourselves – Sleeping Well. HealthHub. Retrieved 2022, April 19</small>
+<br>
+
+<h5>2. How to Sleep Better </h5>
 
 From sleep deprivation to revenge bedtime procrastination, this resource page offers answers to most important questions about sleep.
 
