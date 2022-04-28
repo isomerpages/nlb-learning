@@ -240,7 +240,7 @@ Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today'
 <li> Peranakan restaurants began appearing in Singapore in the 1970s? The Kolek restaurant at Shenton Way and the Guan Hoe Soon restaurant at Joo Chiat Road in Katong were some of the early pioneers.</li>
 </ul>
 </td>
-</tr</tbody></table>
+		</tr></tbody></table>
 <p>These curated set of articles and books will give you a better understanding of Peranakan food in Singapore.</p>
 
 <h4>Articles</h4>
