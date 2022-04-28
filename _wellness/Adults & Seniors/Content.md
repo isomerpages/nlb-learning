@@ -225,14 +225,14 @@ Sleep is an underrated and increasingly neglected aspect of our health. In fact,
 
 <h5>1. Caring For Ourselves – Sleeping Well </h5>
 
-From sleep deprivation to revenge bedtime procrastination, this resource page offers answers to most important questions about sleep.
+<p>From sleep deprivation to revenge bedtime procrastination, this resource page offers answers to most important questions about sleep.</p>
 <p><a href="https://www.healthhub.sg/programmes/186/MindSG/Caring-For-Ourselves/Sleeping-Well-Adults#home" target="_blank"> Visit the resource page here</a>. </p>
 <small>Source: Caring For Ourselves – Sleeping Well. HealthHub. Retrieved 2022, April 19.</small>
 <br>
 
 <h5>2. How to Sleep Better </h5>
 
-Struggling to fall asleep? Here’re 15 science-backed tips to get some good quality sleep.
+<p>Struggling to fall asleep? Here’re 15 science-backed tips to get some good quality sleep.</p>
 <p><a href="https://www.headspace.com/sleep/how-to-sleep-better" target="_blank"> Visit the resource page here</a>. </p>
 <small>Source: How to Sleep Better. Headspace. Retrieved 2022, April 19.</small>
 <br>
@@ -243,9 +243,9 @@ Struggling to fall asleep? Here’re 15 science-backed tips to get some good qua
 <p> Your sleeping postures have a surprising effect on your health and the quality of your sleep. This article details the 8 most common sleeping positions how it may benefit you.</p>
 <p><a href="https://www.healthhub.sg/live-healthy/1925/8-Sleeping-Positions-To-Improve-Your-Health" target="_blank"> Read the article here</a>. </p>
 <small>Source: 8 Sleeping Positions to Improve Your Health. HealthHub. Retrieved 2021, December 20.</small>
+<br>
 
 <h3><b>Evergreen Resources</b></h3>
-
 
 <h5 class="margin--bottom--lg" id="gratitude-journals"><b> Gratitude Journals</b></h5>
 Gratitude encourages the treasuring of positive life experiences, paving a way to a healthier life. With this in mind, we have created a series of gratitude journals to be shared with you! Record and treasure your life experiences with the help of gratitude journals. These downloadable PDFs can be printed out or accessed digitally.
