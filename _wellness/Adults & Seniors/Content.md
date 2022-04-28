@@ -233,9 +233,7 @@ From sleep deprivation to revenge bedtime procrastination, this resource page of
 <h5>2. How to Sleep Better </h5>
 
 Struggling to fall asleep? Here’re 15 science-backed tips to get some good quality sleep.
-
-<p><a href="https://www.healthhub.sg/programmes/186/MindSG/Caring-For-Ourselves/Sleeping-Well-Adults#home" target="_blank"> Visit the resource page here</a>. </p>
-
+<p><a href="https://www.headspace.com/sleep/how-to-sleep-better" target="_blank"> Visit the resource page here</a>. </p>
 <small>Source: How to Sleep Better. Headspace. Retrieved 2022, April 19.</small>
 
 <h3><b>Evergreen Resources</b></h3>
