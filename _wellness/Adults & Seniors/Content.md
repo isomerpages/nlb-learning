@@ -284,7 +284,7 @@ HarperCollins.
 <p><a href="https://share.libbyapp.com/title/5921840" target="_blank"><img src="/images/wellness/adults-and-seniors/sleepfix-book-cover.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
 <p> Drawing from her own experiences of dealing with insomnia, renowned ABC News anchor/correspondent Diane Macedo offers an accessible guide to getting better sleep.</p>
 <p><a href="https://share.libbyapp.com/title/6158921" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.)</p>
-<small>https://share.libbyapp.com/title/6158921. Retrieved from Libby. </s
+<small>https://share.libbyapp.com/title/6158921. Retrieved from Libby. </small>
 
 <h3><b>Evergreen Resources</b></h3>
 
