@@ -236,6 +236,13 @@ Struggling to fall asleep? Here’re 15 science-backed tips to get some good qua
 <p><a href="https://www.headspace.com/sleep/how-to-sleep-better" target="_blank"> Visit the resource page here</a>. </p>
 <small>Source: How to Sleep Better. Headspace. Retrieved 2022, April 19.</small>
 
+<h4>Articles</h4>
+
+<h5>8 Sleeping Positions to Improve Your Health </h5>
+<p> Your sleeping postures have a surprising effect on your health and the quality of your sleep. This article details the 8 most common sleeping positions how it may benefit you.</p>
+<p><a href="https://www.healthhub.sg/live-healthy/1925/8-Sleeping-Positions-To-Improve-Your-Health" target="_blank"> Read the article here</a>. </p>
+<small>Source: 8 Sleeping Positions to Improve Your Health. HealthHub. Retrieved 2021, December 20.</small>
+
 <h3><b>Evergreen Resources</b></h3>
 
 
