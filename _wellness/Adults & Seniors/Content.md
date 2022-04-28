@@ -227,7 +227,7 @@ Sleep is an underrated and increasingly neglected aspect of our health. In fact,
 
 From sleep deprivation to revenge bedtime procrastination, this resource page offers answers to most important questions about sleep.
 <p><a href="https://www.healthhub.sg/programmes/186/MindSG/Caring-For-Ourselves/Sleeping-Well-Adults#home" target="_blank"> Visit the resource page here</a>. </p>
-<small>Source: Caring For Ourselves – Sleeping Well. HealthHub. Retrieved 2022, April 19</small>
+<small>Source: Caring For Ourselves – Sleeping Well. HealthHub. Retrieved 2022, April 19.</small>
 <br>
 
 <h5>2. How to Sleep Better </h5>
@@ -236,7 +236,7 @@ Struggling to fall asleep? Here’re 15 science-backed tips to get some good qua
 
 <p><a href="https://www.healthhub.sg/programmes/186/MindSG/Caring-For-Ourselves/Sleeping-Well-Adults#home" target="_blank"> Visit the resource page here</a>. </p>
 
-<small>Source: Caring For Ourselves – Sleeping Well. HealthHub. Retrieved 2022, April 19</small>
+<small>Source: How to Sleep Better. Headspace. Retrieved 2022, April 19.</small>
 
 <h3><b>Evergreen Resources</b></h3>
 
