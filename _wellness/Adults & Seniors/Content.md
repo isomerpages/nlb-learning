@@ -135,11 +135,10 @@ Want to improve the quantity and quality of your sleep? Sleep Scientist Matt Wal
   </div>
   <div class="col is-three-fifths">
     <p><b> How Long Should Your Naps Be? - Sara C. Mednick (5 mins)</b><br>
-Hint: it is. Learn how to crack the food label code with Biogirl MJ as she heads to NTUC FairPrice. <br>
-<small> Source: Are food labels actually important? (2021, Mar 17). SGFoodAgency. Retrieved 2021, December 20.</small></p>
+Not all naps are created equal. For a start, consider the time of the day and the length of your naps to optimise your mid-day snooze. <br>
+<small> Source: How long should your naps be? - Sara C. Mednick (2021, Apr 29). TED-Ed. Retrieved 2022, April 18.</small></p>
   </div>
 </div>
-
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
