@@ -254,11 +254,9 @@ Matthew Walker, (2017), Why We Sleep: The New Science of Sleep and Dreams, Pengu
 <small>https://share.libbyapp.com/title/3576801. Retrieved from Libby. </small>
 
 
-<h5>2. Food Rules </h5>
-Michael Pollan, (2021), Food Rules:  An Eater's Manual.<br>
-London: Penguin Books.
-<p>
-<a href="https://share.libbyapp.com/title/292644" target="_blank"><img src="/images/wellness/adults-and-seniors/foodrules-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+<h5>2. The Sleep Solution </h5>
+W. Chris Winter, M.D., (2017), The Sleep Solution: Why Your Sleep is Broken and How to Fix It, Penguin Publishing Group.
+<p><a href="https://share.libbyapp.com/title/292644" target="_blank"><img src="/images/wellness/adults-and-seniors/foodrules-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
 </p><p> In the sea of seemingly contradictory information surrounding the question of what we should eat, Michael Pollan offers a simple manifesto and handbook to eating well.</p>
 <p><a href="https://share.libbyapp.com/title/292644" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
 <small>https://share.libbyapp.com/title/292644. Retrieved from Libby. </small>
