@@ -216,6 +216,8 @@ New York : Anchor Books, 2008.
 <p><a href="https://share.libbyapp.com/title/5921840" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
 <small>https://share.libbyapp.com/title/5921840. Retrieved from Libby. </small>
 
+<h5 class="margin--bottom--lg" id="lp-sleep"><b>Learning Package: Sleep</b></h5>
+
 <h3><b>Evergreen Resources</b></h3>
 
 
