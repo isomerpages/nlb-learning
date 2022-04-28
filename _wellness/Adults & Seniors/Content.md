@@ -258,7 +258,7 @@ Penguin Books Ltd.
 <h5>2. The Sleep Solution </h5>
 W. Chris Winter, M.D., (2017), The Sleep Solution: Why Your Sleep is Broken and How to Fix It. <br>
 Penguin Publishing Group.
-<p><a href="https://share.libbyapp.com/title/2926257" target="_blank"><img src="/images/wellness/adults-and-seniors/foodrules-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p><a href="https://share.libbyapp.com/title/2926257" target="_blank"><img src="/images/wellness/adults-and-seniors/sleepsolution-book-cover.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
 <p> Do you have trouble falling asleep? Or do you feel fatigued upon waking up? In the world of seemingly contradictory tips and advice, this book offers a way for you to customise specific interventions to fit your lifestyle and your sleep.</p>
 <p><a href="https://share.libbyapp.com/title/2926257" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
 <small>https://share.libbyapp.com/title/2926257. Retrieved from Libby. </small>
