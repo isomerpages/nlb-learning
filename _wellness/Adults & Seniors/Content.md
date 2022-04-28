@@ -50,8 +50,22 @@ Check out our playlists and learning packages for recommended books, collection 
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
+      <a href="#playlist-sleep">
+        <span>Playlist: Sleep</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
       <a href="#lp-nourish">
         <span>Learning Package: Nourish Your Body</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#lp-sleep">
+        <span>Learning Package: Sleep</span>
       </a>
     </div>
   </div>
