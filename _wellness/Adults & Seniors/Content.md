@@ -148,7 +148,7 @@ Not all naps are created equal. For a start, consider the time of the day and th
   <div class="col is-three-fifths">
     <p><b> Sleep Experts Debunk 15 Sleep Myths (14:00) </b><br>
 We may think we are the experts of sleep – after all, it’s something we do every night! However, there remains countless misinformation relating to the science of sleep. This video puts the 15 most common sleep myths to rest. <br>
-<small> Source: What's the Best Diet? Healthy Eating 101 (2015, Sep 25). DocMikeEvans. Retrieved 2021, December 20. </small></p>
+<small> Source: Sleep Experts Debunk 15 Sleep Myths. (2019, Nov 3). Science Insider. Retrieved 2022, April 18. </small></p>
   </div>
 </div> 
 
