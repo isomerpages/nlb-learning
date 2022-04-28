@@ -232,7 +232,7 @@ From sleep deprivation to revenge bedtime procrastination, this resource page of
 
 <h5>2. How to Sleep Better </h5>
 
-From sleep deprivation to revenge bedtime procrastination, this resource page offers answers to most important questions about sleep.
+Struggling to fall asleep? Here’re 15 science-backed tips to get some good quality sleep.
 
 <p><a href="https://www.healthhub.sg/programmes/186/MindSG/Caring-For-Ourselves/Sleeping-Well-Adults#home" target="_blank"> Visit the resource page here</a>. </p>
 
