@@ -112,6 +112,47 @@ It seems simple enough, but healthy eating is more complex than it looks. This v
   </div>
 </div> 
 
+<h5 class="margin--bottom--lg" id="playlist-nourish"><b> Playlist: Sleep</b></h5>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/v=t0kACis_dJE" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> 6 Tips for Better Sleep (5 mins)</b><br>
+Want to improve the quantity and quality of your sleep? Sleep Scientist Matt Walker offers six scientifically grounded tips for better sleep. <br>
+<small> Source: How the food you eat affects your brain (2016, Jun 21). TED-Ed. Retrieved 2021, December 20. </small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/LqnIrpORAGU" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Are Food Labels Actually Important? (6:00) </b><br>
+Hint: it is. Learn how to crack the food label code with Biogirl MJ as she heads to NTUC FairPrice. <br>
+<small> Source: Are food labels actually important? (2021, Mar 17). SGFoodAgency. Retrieved 2021, December 20.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/fqhYBTg73fw" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> What’s The Best Diet? Healthy Eating 101 (15:00) </b><br>
+It seems simple enough, but healthy eating is more complex than it looks. This video breaks down the various strategies of healthy eating into easy-to-understand snippets to get you started. <br>
+<small> Source: What's the Best Diet? Healthy Eating 101 (2015, Sep 25). DocMikeEvans. Retrieved 2021, December 20. </small></p>
+  </div>
+</div> 
+
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-nourish"><b>Learning Package: Nourish Your Body</b></h5>
