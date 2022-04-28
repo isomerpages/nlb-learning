@@ -267,9 +267,9 @@ Penguin Publishing Group.
 <h5>3. The Sleep Fix  </h5>
 Diane Macedo, (2021), The Sleep Fix: Practical, Proven, and Surprising Solutions for Insomnia, Snoring, Shift Work, and More.<br>
 HarperCollins.
-<p><a href="https://share.libbyapp.com/title/5921840" target="_blank"><img src="/images/wellness/adults-and-seniors/goodbadcalories-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
-</p><p> Not all calories are created equal. In this book, Gary Taubes argues that the key to good health is the kind of calories we take in, not the number.</p>
-<p><a href="https://share.libbyapp.com/title/5921840" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<p><a href="https://share.libbyapp.com/title/5921840" target="_blank"><img src="/images/wellness/adults-and-seniors/goodbadcalories-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Drawing from her own experiences of dealing with insomnia, renowned ABC News anchor/correspondent Diane Macedo offers an accessible guide to getting better sleep.</p>
+<p><a href="https://share.libbyapp.com/title/6158921" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
 <small>https://share.libbyapp.com/title/5921840. Retrieved from Libby. </s
 
 <h3><b>Evergreen Resources</b></h3>
