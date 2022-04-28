@@ -245,6 +245,35 @@ Sleep is an underrated and increasingly neglected aspect of our health. In fact,
 <small>Source: 8 Sleeping Positions to Improve Your Health. HealthHub. Retrieved 2021, December 20.</small>
 <br>
 
+<h4>eBooks</h4>
+<h5>1. Why We Sleep </h5>
+Matthew Walker, (2017), Why We Sleep: The New Science of Sleep and Dreams, Penguin Books Ltd.
+<p>
+<a href="https://share.libbyapp.com/title/1927185" target="_blank"><img src="/images/wellness/adults-and-seniors/bluezones-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> What are the diets, eating habits, and lifestyle practices of the world’s longest-lived communities? Based on longevity research of what Dan Buettner has identified as "Blue Zones", take inspiration from these communities on how you can lead a healthier and longer life.</p>
+<p><a href="https://share.libbyapp.com/title/1927185" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/1927185. Retrieved from Libby. </small>
+
+
+<h5>2. Food Rules </h5>
+Michael Pollan, (2021), Food Rules:  An Eater's Manual.<br>
+London: Penguin Books.
+<p>
+<a href="https://share.libbyapp.com/title/292644" target="_blank"><img src="/images/wellness/adults-and-seniors/foodrules-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> In the sea of seemingly contradictory information surrounding the question of what we should eat, Michael Pollan offers a simple manifesto and handbook to eating well.</p>
+<p><a href="https://share.libbyapp.com/title/292644" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/292644. Retrieved from Libby. </small>
+
+
+<h5>3. Good Calories, Bad Calories </h5>
+Gary Taubes, (2008), Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health. <br>
+New York : Anchor Books, 2008.
+<p>
+<a href="https://share.libbyapp.com/title/5921840" target="_blank"><img src="/images/wellness/adults-and-seniors/goodbadcalories-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> Not all calories are created equal. In this book, Gary Taubes argues that the key to good health is the kind of calories we take in, not the number.</p>
+<p><a href="https://share.libbyapp.com/title/5921840" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/5921840. Retrieved from Libby. </s
+
 <h3><b>Evergreen Resources</b></h3>
 
 <h5 class="margin--bottom--lg" id="gratitude-journals"><b> Gratitude Journals</b></h5>
