@@ -118,7 +118,7 @@ It seems simple enough, but healthy eating is more complex than it looks. This v
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/v=t0kACis_dJE" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/t0kACis_dJE" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
