@@ -247,7 +247,8 @@ Sleep is an underrated and increasingly neglected aspect of our health. In fact,
 
 <h4>eBooks</h4>
 <h5>1. Why We Sleep </h5>
-Matthew Walker, (2017), Why We Sleep: The New Science of Sleep and Dreams, Penguin Books Ltd.
+Matthew Walker, (2017), Why We Sleep: The New Science of Sleep and Dreams. <br>
+Penguin Books Ltd.
 <p><a href="https://share.libbyapp.com/title/1927185" target="_blank"><img src="/images/wellness/adults-and-seniors/bluezones-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
 <p> Neuroscientist and sleep expert Matthew Walker takes you on a fascinating journey in exploring the mysteries of sleep, and why it matters.</p>
 <p><a href="https://share.libbyapp.com/title/3576801" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
@@ -255,7 +256,8 @@ Matthew Walker, (2017), Why We Sleep: The New Science of Sleep and Dreams, Pengu
 
 
 <h5>2. The Sleep Solution </h5>
-W. Chris Winter, M.D., (2017), The Sleep Solution: Why Your Sleep is Broken and How to Fix It, Penguin Publishing Group.
+W. Chris Winter, M.D., (2017), The Sleep Solution: Why Your Sleep is Broken and How to Fix It. <br>
+Penguin Publishing Group.
 <p><a href="https://share.libbyapp.com/title/292644" target="_blank"><img src="/images/wellness/adults-and-seniors/foodrules-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
 <p> Do you have trouble falling asleep? Or do you feel fatigued upon waking up? In the world of seemingly contradictory tips and advice, this book offers a way for you to customise specific interventions to fit your lifestyle and your sleep.</p>
 <p><a href="https://share.libbyapp.com/title/2926257" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
@@ -263,10 +265,9 @@ W. Chris Winter, M.D., (2017), The Sleep Solution: Why Your Sleep is Broken and 
 
 
 <h5>3. The Sleep Fix  </h5>
-Gary Taubes, (2008), Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health. <br>
-New York : Anchor Books, 2008.
-<p>
-<a href="https://share.libbyapp.com/title/5921840" target="_blank"><img src="/images/wellness/adults-and-seniors/goodbadcalories-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+Diane Macedo, (2021), The Sleep Fix: Practical, Proven, and Surprising Solutions for Insomnia, Snoring, Shift Work, and More.<br>
+HarperCollins.
+<p><a href="https://share.libbyapp.com/title/5921840" target="_blank"><img src="/images/wellness/adults-and-seniors/goodbadcalories-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
 </p><p> Not all calories are created equal. In this book, Gary Taubes argues that the key to good health is the kind of calories we take in, not the number.</p>
 <p><a href="https://share.libbyapp.com/title/5921840" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
 <small>https://share.libbyapp.com/title/5921840. Retrieved from Libby. </s
