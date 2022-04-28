@@ -216,7 +216,13 @@ New York : Anchor Books, 2008.
 <p><a href="https://share.libbyapp.com/title/5921840" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
 <small>https://share.libbyapp.com/title/5921840. Retrieved from Libby. </small>
 
+
 <h5 class="margin--bottom--lg" id="lp-sleep"><b>Learning Package: Sleep</b></h5>
+
+Sleep is an underrated and increasingly neglected aspect of our health. In fact, Singaporeans are amongst the most sleep-deprived people in the world! So, why do we sleep? And what benefits do we get out of this seemingly passive activity? Dive into the wonderful world of sleep with these resources.
+
+<h4>Resource Page</h4>
+
 
 <h3><b>Evergreen Resources</b></h3>
 
