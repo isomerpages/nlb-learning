@@ -197,15 +197,46 @@ This is part one of a three-part series on manga. For more resources on this top
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="lp-poetry" class="margin--bottom--lg"><b>Teen Things: D.I.Y. Blackout Poetry</b></h5>
+<h5 id="manga2" class="margin--bottom--lg"><b>Marvellous Manga (part two)</b></h5>
 
-Blackout poetry is a form of poetry where an author picks an existing piece of written text and repurposes it into a new poem. This is done by keeping a selection of words, and then *blacking out* the remaining words that’s not needed, giving the written text a different meaning than it had before.
+In part one of our three-part series on the marvellous world of manga, we introduced you to its history and its writers. In part two, we’ll delve into how manga is read and what to read next. 
 
-**Click on to find out how you can create your own blackout poems and discover other poetry-related resources:**
-	
-<a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things-archive#id13"><img src="/images/reading/teens/DIYblackoutpoetrybutton.jpg" alt="Teen Things: D.I.Y. Blackout Poetry" style="width: 30%;"></a>
+<h5 ><b>How to read manga? </b></h5>
+
+Unlike books in English that are traditionally read from left to right, manga panels and speech bubbles should be read from right to left. Although the sequence can be confusing when you first start reading manga, you will soon get used to it!  
+
+<h5 ><b>What genres are there? </b></h5>
+
+The main genres in manga may not be the ones that you’re familiar with. The usual literary genres, like action, comedy, and science-fiction, are known in the manga world as sub-genres, but not the main genres.  
+
+Instead, manga is typically sorted by how it is marketed to different demographics or age groups.  
 
 
+Here are some popular genres to note:
+
+<h5 ><b>1. Shojo</b></h5>
+
+Targeted at girls aged 12 to 18, manga of this genre usually centre around the topics of friendship, slice-of-life, and even romance. 
+
+<h5 ><b>2.  Shōnen</b></h5>
+
+Targeted at boys aged 12 to 18, manga of this genre usually have themes of action and adventure. Shōnen is the best-selling genre, with many popular series gaining international fame. 
+
+<h5 ><b>3. Kodomo </b></h5>
+
+Targeted at children under 12, manga of this genre tend to be episodic, have child-friendly themes, and tell stories that teach readers about the world around them.
+
+<h5 ><b>Welcome to the wide, wonderful world of manga! </b></h5>
+
+As of April 2022, the following public libraries each have a manga collection for you to peruse: 
+* Central Public Library – temporarily closed from 13 Jun 2022.
+* Choa Chu Kang Public Library 
+* Jurong Regional Library 
+* Jurong West Public Library 
+* Marine Parade Public Library – temporarily closed from 9 May 2022.
+* Woodlands Regional Library
+
+If you prefer eBooks, check out NLB's eCollection of manga titles here! Browse the “Best of Comics & Graphic Novels” collection, or access titles by publishers such as VIZ Media and Seven Seas Entertainment. 
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
