@@ -6,8 +6,8 @@ third_nav_title: Teens
 ---
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3><b>Write On!</b></h3>
-Explore new experiences through the written word.
+<h3><b>Fall Into Reading!</b></h3>
+Take the plunge into a deeper love for the literary.
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -18,14 +18,14 @@ Explore new experiences through the written word.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href= "/reading/teens/content"><b>Playlist: More than Words – Poetry</b></a></td>
-        <td style="width: 40%;">Go on a literary journey through this collection of short videos, and be inspired to find your own voice through poetry.</td>
+        <td style="width: 20%;"><a target="_blank" href= "/reading/teens/content"><b>Playlist: Marvellous Manga</b></a></td>
+        <td style="width: 40%;">Check out this collection of short videos, and learn more about the origins of manga.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="/reading/teens/content"><b>Learning Package: D.I.Y. Blackout Poetry</b></a></td>
-        <td>Find out what exactly is blackout poetry and how you can easily craft your own.</td>
+        <td style="width: 20%;"><a target="_blank" href="/reading/teens/content"><b>Learning Package: Marvellous Manga</b></a></td>
+        <td>Learn about the history, the subgenres and the craft that goes into making this eminent japanese artform.</td>
         <td></td>
         <td> </td>
     </tr>

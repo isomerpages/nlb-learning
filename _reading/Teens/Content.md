@@ -56,28 +56,21 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#lp-manga">
-        <span>Learning Package:<br>Marvellous Manga</span>
+        <span>Learning Package:<br>Marvellous Manga (Part 1)</span>
       </a>
     </div>
   </div>
 	  <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#playlist-poetry">
-        <span>Playlist:<br>More than Words - Poetry</span>
-      </a>
-    </div>
-  </div>
-	  <div class="col is-one-third">
-    <div class="clickbox is-indigo-sky">
-      <a href="#lp-poetry">
-        <span>Learning Package:<br>Teen Things: D.I.Y. Black Out Poetry</span>
+      <a href="#manga2">
+        <span>Learning Package:<br>Marvellous Manga (part 2)</span>
       </a>
     </div>
   </div>
 	</div>
 
-
 <h3><b>Playlist</b></h3>
+	
 A collection of short videos and podcasts to expand your reading and writing interests.
 
 <h5 class="margin--bottom--lg" id="playlist-manga"><b>Playlist: Marvellous Manga</b></h5>
@@ -126,70 +119,26 @@ In this clip, we take a look at the process of turning the One-Punch Man manga i
   </div>
 </div>
 
-<h5 class="margin--bottom--lg" id="playlist-poetry"><b>Playlist: More than Words - Poetry</b></h5>
-
-<br>
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/JwhouCNq-Fc"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b> What Makes a Poem … a Poem? - Melissa Kovacs (5 min) </b><br>
-    What exactly makes a poem … a poem? This intriguing short animation highlights three key features of what makes a poem, based on a sharing by Melissa Kovacs. <br><br>
-<small> Source: What makes a poem … a poem? - Melissa Kovacs - YouTube (2017, Mar 20). TED-Ed. Retrieved 2021, December 29.</small></p>
-  </div>
-</div>
-
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/XOieGJl6g4s"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-  <p><b> Amanda Gorman reads her poem, ‘The Miracle of Morning’ (2 min) </b><br>
-    Watch Amanda Gorman, the youngest inaugural poet in U.S. history and first African American Youth Laureate, as she recites her poem of hope amidst the pandemic, ‘The Miracle of Morning’. <br><br>
-<small>Source: WATCH: Amanda Gorman reads her poem, ‘The Miracle of Morning’ - YouTube (2021, Jan 16). PBS NewsHour. Retrieved 2021, December 29. </small></p>
-  </div>
-</div>
-
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/nCjMj5ke5iM"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-  <p><b> A Tribute to Madness, Edgar Allen Poe’s The Raven | How to Fall In Love With Classics (3 min) </b><br>
-Edgar Allen Poe’s The Raven has long been considered the quintessential Gothic horror poem. Join Gwee Li Sui as he unpacks the technical mastery behind this poem and how it continues to remain relevant to this day. <br><br>
-<small>Source: A Tribute to Madness, Edgar Allen Poe’s The Raven | How to Fall In Love With Classics - YouTube (2021, Sep 17). NLB Singapore. Retrieved 2021, December 29. </small></p>
-  </div>
-</div>
-
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
 <h3><b>Learning Package</b></h3>
+
 Get insights on reading and written-word expressions with these articles and activities.
 
-<h5 id="lp-manga" class="margin--bottom--lg"><b>Marvellous Manga</b></h5>
+<h5 id="lp-manga" class="margin--bottom--lg"><b>Marvellous Manga (Part 1)</b></h5>
 
 Naruto, One Piece, My Hero Academia, Jujutsu Kaisen – these are just some of the more popular anime series out there. While these series are available in anime or animated format, the basis for their stories were developed from their original manga. “Manga” refers to Japanese comics or graphic novels.  
-
+	
 <h5 ><b>What is manga?</b></h5>
 
 ![manga](/images/reading/teens/teensreading_manga1.png)
 
-Manga is an art form that tells a story by using more pictures than words. However, it doesn't mean that texts are entirely overlooked. In fact, texts in the form of narration, dialogue, or sound effect all serve to enhance the reader's experience of the story.   
+Manga is an art form that tells a story through the greater usage of pictures over words. However, it doesn’t mean that text is entirely overlooked. In fact, text in the form of narration, dialogue, or sound effects all serve to enhance the reader's experience of the story.   
 
-Unlike the full-coloured pages of most comics we see today, manga is often presented in black and white. It is typically published in manga-based magazines by the different publishers on a weekly or monthly basis. 
+Unlike the full-coloured pages of most comics we see today, manga is often presented in black and white. It is typically published in manga-based magazines by the different publishers on a weekly or monthly basis. Creators of manga are known as “mangaka” and they often both write and illustrate their own works. 
 
-Creators of manga are known as “mangaka” and they often both write and illustrate their own works. 
 
 ![manga2](/images/reading/teens/teensreading_manga2.png)
 
-If a series becomes popular, its chapters then later get combined into what is called a “tankōbon” - that is, an edition or volume with several chapters in it. 
+If a series becomes popular, its chapters then later get combined into what is called a “tankōbon”  that is, an edition or volume with several chapters in it. 
 
 ![manga3](/images/reading/teens/teensreading_manga3.png)
 
@@ -199,15 +148,54 @@ This is part one of a three-part series on manga. For more resources on this top
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="lp-poetry" class="margin--bottom--lg"><b>Teen Things: D.I.Y. Blackout Poetry</b></h5>
+<h5 id="manga2" class="margin--bottom--lg"><b>Marvellous Manga (Part 2)</b></h5>
 
-Blackout poetry is a form of poetry where an author picks an existing piece of written text and repurposes it into a new poem. This is done by keeping a selection of words, and then *blacking out* the remaining words that’s not needed, giving the written text a different meaning than it had before.
+In part one of our three-part series on the marvellous world of manga, we introduced you to [its history and its writers](https://learning.nlb.gov.sg/reading/teens/content#lp-manga). In part two, we’ll delve into how manga is read and what to read next. 
 
-**Click on to find out how you can create your own blackout poems and discover other poetry-related resources:**
+<h5 ><b>How to read manga? </b></h5>
+
+Unlike books in English that are traditionally read from left to right, manga panels and speech bubbles should be read from right to left. Although the sequence can be confusing when you first start reading manga, you will soon get used to it!  
 	
-<a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things-archive#id13"><img src="/images/reading/teens/DIYblackoutpoetrybutton.jpg" alt="Teen Things: D.I.Y. Blackout Poetry" style="width: 30%;"></a>
+![righttoleft](/images/reading/teens/righttoleft.png)
+
+<h5 ><b>What genres are there? </b></h5>
+
+The main genres in manga may not be the ones that you’re familiar with. The usual literary genres, like action, comedy, and science-fiction, are known in the manga world as sub-genres, but not the main genres.  
+
+Instead, manga is typically sorted by how it is marketed to different demographics or age groups.  
 
 
+Here are some popular genres to note:
+
+<h5 ><b>1. Shōjo</b></h5>
+
+Targeted at girls aged 12 to 18, manga of this genre usually centre around the topics of friendship, slice-of-life, and even romance. 
+	
+![shojo](/images/reading/teens/teensreading_manga-shojo.png)
+	
+<h5 ><b>2.  Shōnen</b></h5>
+
+Targeted at boys aged 12 to 18, manga of this genre usually have themes of action and adventure. Shōnen is the best-selling genre, with many popular series gaining international fame. 
+	
+![shonen](/images/reading/teens/teensreading_manga-shonen.png)
+
+<h5 ><b>3. Kodomo </b></h5>
+
+Targeted at children under 12, manga of this genre tend to be episodic, have child-friendly themes, and tell stories that teach readers about the world around them.
+
+![kodomo](/images/reading/teens/teensreading_manga-kodomo.png)
+	
+<h5 ><b>Welcome to the wide, wonderful world of manga! </b></h5>
+
+As of April 2022, the following public libraries each have a manga collection for you to peruse: 
+* Central Public Library – temporarily closed from 13 Jun 2022.
+* Choa Chu Kang Public Library 
+* Jurong Regional Library 
+* Jurong West Public Library 
+* Marine Parade Public Library – temporarily closed from 9 May 2022.
+* Woodlands Regional Library
+
+If you prefer eBooks, check out NLB's eCollection of manga titles [here](https://nlb.overdrive.com/library/teens/search?subject=127&subject=12&sortBy=newlyadded)! Browse the “Best of Comics & Graphic Novels” collection, or access titles by publishers such as [VIZ Media](https://nlb.overdrive.com/search/publisherId?query=101442&sortBy=newlyadded) and [Seven Seas Entertainment](http://nlb.overdrive.com/search/publisherId?query=206746&sortBy=newlyadded). 
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

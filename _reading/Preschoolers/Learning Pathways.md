@@ -27,7 +27,7 @@ third_nav_title: Preschoolers
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3><b>Ignite a lifelong love of reading in your children!</b></h3><br>
-<img src="/images/reading/preschool/Picture1.png" style="width:60%">
+<img src="/images/reading/preschool/Picture1.png" style="width:50%">
 
 Reading is a fundamental life skill in children and is significant in their development of literacy skills. Learning to read starts long before a child enters school and parents play an important role in nurturing children’s passion for reading and life-long learning.
 Make reading a fun activity while fostering that special bond between you and your little one, through this suite of reading programmes offered by the public libraries. 
@@ -94,6 +94,14 @@ Make reading a fun activity while fostering that special bond between you and yo
        <td>4 May 2022<br>2.30pm –3.00pm<br></td>
         <td>Zoom</td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/life-in-pictures-with-peter-h-reynolds-tickets-326195287887?aff=ebdsoporgprofile" target="_blank"><b>Life in Pictures with Peter H. Reynolds
+ </b></a></td>
+        <td> Come and join us for an exclusive event with Peter H. Reynolds, where he will read aloud his book and answer some of your questions for parents with children aged 3 to 8!
+"Stories for All Ages" author Peter Reynolds, who has been widely praised around the world for his work, will be making an appearance online! </td>
+        <td>7 May 2022<br>10.00am-11.00am<br></td>
+        <td>Zoom</td>
+      </tr>		
 <tr>			
 <td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-308441927107?aff=ebdsoporgprofile" target="_blank"><b> Baby Songs & Rhymes </b></a></td>
         <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. <br><br>This programme is intended for parents with babies up to 12 months. </td>
@@ -121,7 +129,7 @@ Make reading a fun activity while fostering that special bond between you and yo
 <tr>			
 <td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-317947638947?aff=ebdsoporgprofile-registration-277286921647?aff=ebdsoporgprofile" target="_blank"><b>Jiggle Read & Rhyme | Early READ </b></a></td>
         <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! For toddlers aged 1-3.</td>
-        <td>19 May 2022<br>11.00am– 11.20am<br></td>
+        <td>19 May 2022<br>4.00pm– 4.30pm<br></td>
         <td>Geylang East Public Library</td>
       </tr>
 <tr>			
@@ -129,6 +137,12 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
        <td>21 May 20222<br>11.00am-11.20am<br></td>
         <td>Zoom</td>
+      </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-313237450647?aff=ebdsoporgprofile" target="_blank"><b>Children's Puppet Castle </b></a></td>
+        <td> Join us for a puppet show performed by Puppet Master Arii Azharii. He will be performing two stories, The Boy Who Cried Wolf and Doctor Tortoise. Learn more about performance techniques through this exciting performance</td>
+        <td>22 May 2022<br>3.00pm-4.00pm<br></td>
+        <td>Ang Mo Kio Public Library</td>
       </tr>
     </tbody>
   </table>
@@ -154,17 +168,43 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>7 May 2022<br>3.00pm-3.30pm<br></td>
         <td>Woodlands Regional Library </td>
       </tr>
-<tr>			
-<td><a href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-313237450647?aff=ebdsoporgprofile" target="_blank"><b> Children's Puppet Castle </b></a></td>
-        <td> Join us for a puppet show performed by Puppet Master Arii Azharii. He will be performing two stories, The Boy Who Cried Wolf and Doctor Tortoise. Learn more about performance techniques through this exciting performance.</td>
-        <td>22 May 2022<br>3.00pm-4.00pm<br></td>
-        <td> Ang Mo Kio Public Library </td>
+						<tr>			
+<td><a href="https://www.eventbrite.sg/e/nature-portraits-animals-that-fly-singapore-botanic-gardens-tickets-315184273647?aff=ebdsoporgprofile" target="_blank"><b>Nature Portraits: Animals that Fly | Singapore Botanic Gardens </b></a></td>
+        <td> Take a short walk with us in the neighbourhood outdoors and spot as many flying animals as you can! From insects to birds, these creatures take flight in different ways and also have their own life cycles. Join us and find about more about these magnificent creatures!</td>
+        <td>7 May 2022<br>11.00am-11.45am<br></td>
+        <td>Queenstown Public Library</td>
       </tr>
-	<tr>			
+						<tr>			
+<td><a href="https://www.eventbrite.sg/e/marshmallow-shooter-registration-316636296687?aff=ebdsoporgprofile" target="_blank"><b>Marshmallow Shooter! </b></a></td>
+        <td> Have you wondered why a ball rolls away from you when you kick it? That’s because you are applying a force on the ball. Scientific concepts such as forces, which belong to the field of physics, can be found all around you, even if you don’t realise it! Let’s learn more about forces in this interactive programme! Find out more about forces (with marshmallows!) and bring home activity sheets that will help you practise the concepts you have learnt. Let us all explore science in a fun and exciting way!</td>
+        <td>8 May 2022<br>5.00pm-5.45pm<br></td>
+        <td>Marine Parade Public Library</td>
+      </tr>
+						<tr>			
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-solid-liquid-and-gas-tickets-319342551167?aff=ebdsoporgprofile
+ " target="_blank"><b>[Budding Scientists] Solid, Liquid and Gas
+ </b></a></td>
+        <td>Everything in the universe is made up of matter. That includes the water we drink, the air we breathe, and us! Yes, we are made up of matter, too! On Earth, all matter exists as one of three main states: solid, liquid or gas. In our workshop, you can learn about the atomic structure of each state and how they change. We'll have an enriching storytelling and activity session for preschoolers just like you!</td>
+        <td>14 May 2022<br>2.00pm-3.00pm<br></td>
+        <td>Jurong Regional Library</td>
+      </tr>
+					<tr>			
+<td><a href="https://www.eventbrite.sg/e/think-like-a-coder-session-1-amazing-algos-i-discovertech-tickets-303279415897?aff=ebdsoporgprofile" target="_blank"><b>Think Like a Coder: Session 1: Amazing Algos I DiscoverTech </b></a></td>
+        <td>Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children (age 3-6). These are for absolute beginners.Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators. </td>
+        <td>14 May 2022<br>2.00pm-2.30pm<br></td>
+        <td>Zoom </td>
+      </tr>
+				<tr>			
 <td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-303309305297?aff=ebdsoporgprofile" target="_blank"><b>Introduction to Scratch Junior Coding </b></a></td>
         <td>ScratchJr is a programming language for children aged 4-6. Children can create their own interactive stories, animations and games.  </td>
         <td>28 May 2022<br>11.00am– 12.00pm<br></td>
         <td>Sengkang Public Library </td>
+      </tr>
+						<tr>			
+<td><a href="https://www.eventbrite.sg/e/marvellous-trees-singapore-botanic-gardens-tickets-315201384827?aff=ebdsoporgprofile" target="_blank"><b>Marvellous Trees | Singapore Botanic Gardens </b></a></td>
+        <td>Trees are all around us in our little green city. Do you know that other than providing us with shade, trees also play an important role in keeping our air fresh? Come join us in this enriching session to learn more about trees and their life cycle!  </td>
+        <td>28 May 2022<br>11.15am– 12.00pm<br></td>
+        <td>library@harbourfront</td>
       </tr>
   </tbody>
   </table>

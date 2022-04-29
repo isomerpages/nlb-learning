@@ -50,8 +50,22 @@ Check out our playlists and learning packages for recommended books, collection 
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
+      <a href="#playlist-sleep">
+        <span>Playlist: Sleep</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
       <a href="#lp-nourish">
         <span>Learning Package: Nourish Your Body</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#lp-sleep">
+        <span>Learning Package: Sleep</span>
       </a>
     </div>
   </div>
@@ -109,6 +123,45 @@ Hint: it is. Learn how to crack the food label code with Biogirl MJ as she heads
     <p><b> What’s The Best Diet? Healthy Eating 101 (15:00) </b><br>
 It seems simple enough, but healthy eating is more complex than it looks. This video breaks down the various strategies of healthy eating into easy-to-understand snippets to get you started. <br>
 <small> Source: What's the Best Diet? Healthy Eating 101 (2015, Sep 25). DocMikeEvans. Retrieved 2021, December 20. </small></p>
+  </div>
+</div> 
+
+<h5 class="margin--bottom--lg" id="playlist-sleep"><b> Playlist: Sleep</b></h5>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/t0kACis_dJE" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> 6 Tips for Better Sleep (5:00)</b><br>
+Want to improve the quantity and quality of your sleep? Sleep Scientist Matt Walker offers six scientifically grounded tips for better sleep.<br>
+<small> Source: 6 Tips For Better Sleep (2020, Sep 22). TED. Retrieved 2022, April 18. </small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/BN9yqF6Um98" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> How Long Should Your Naps Be? - Sara C. Mednick (5:00)</b><br>
+Not all naps are created equal. For a start, consider the time of the day and the length of your naps to optimise your mid-day snooze. <br>
+<small> Source: How long should your naps be? - Sara C. Mednick (2021, Apr 29). TED-Ed. Retrieved 2022, April 18.</small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/owMlmhvik_0" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Sleep Experts Debunk 15 Sleep Myths (14:00) </b><br>
+We may think we are the experts of sleep – after all, it’s something we do every night! However, there remains countless misinformation relating to the science of sleep. This video puts the 15 most common sleep myths to rest. <br>
+<small> Source: Sleep Experts Debunk 15 Sleep Myths. (2019, Nov 3). Science Insider. Retrieved 2022, April 18. </small></p>
   </div>
 </div> 
 
@@ -175,9 +228,64 @@ New York : Anchor Books, 2008.
 </p><p> Not all calories are created equal. In this book, Gary Taubes argues that the key to good health is the kind of calories we take in, not the number.</p>
 <p><a href="https://share.libbyapp.com/title/5921840" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
 <small>https://share.libbyapp.com/title/5921840. Retrieved from Libby. </small>
+<br>
+
+<h5 class="margin--bottom--lg" id="lp-sleep"><b>Learning Package: Sleep</b></h5>
+
+Sleep is an underrated and increasingly neglected aspect of our health. In fact, Singaporeans are amongst the most sleep-deprived people in the world! So, why do we sleep? And what benefits do we get out of this seemingly passive activity? Dive into the wonderful world of sleep with these resources.
+
+<h4>Resource Page</h4>
+
+<h5>1. Caring For Ourselves – Sleeping Well </h5>
+
+<p>From sleep deprivation to revenge bedtime procrastination, this resource page offers answers to most important questions about sleep.</p>
+<p><a href="https://www.healthhub.sg/programmes/186/MindSG/Caring-For-Ourselves/Sleeping-Well-Adults#home" target="_blank"> Visit the resource page here</a>. </p>
+<small>Source: Caring For Ourselves – Sleeping Well. HealthHub. Retrieved 2022, April 19.</small>
+<br>
+
+<h5>2. How to Sleep Better </h5>
+
+<p>Struggling to fall asleep? Here’re 15 science-backed tips to get some good quality sleep.</p>
+<p><a href="https://www.headspace.com/sleep/how-to-sleep-better" target="_blank"> Visit the resource page here</a>. </p>
+<small>Source: How to Sleep Better. Headspace. Retrieved 2022, April 19.</small>
+<br>
+
+<h4>Articles</h4>
+
+<h5>1. 8 Sleeping Positions to Improve Your Health </h5>
+<p> Your sleeping postures have a surprising effect on your health and the quality of your sleep. This article details the 8 most common sleeping positions how it may benefit you.</p>
+<p><a href="https://www.healthhub.sg/live-healthy/1925/8-Sleeping-Positions-To-Improve-Your-Health" target="_blank"> Read the article here</a>. </p>
+<small>Source: 8 Sleeping Positions to Improve Your Health. HealthHub. Retrieved 2021, December 20.</small>
+<br>
+
+<h4>eBooks</h4>
+<h5>1. Why We Sleep </h5>
+Matthew Walker, (2017), Why We Sleep: The New Science of Sleep and Dreams. <br>
+Penguin Books Ltd.
+<p><a href="https://share.libbyapp.com/title/3576801" target="_blank"><img src="/images/wellness/adults-and-seniors/whywesleep-book-cover.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Neuroscientist and sleep expert Matthew Walker takes you on a fascinating journey in exploring the mysteries of sleep, and why it matters.</p>
+<p><a href="https://share.libbyapp.com/title/3576801" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/3576801. Retrieved from Libby. </small>
+
+
+<h5>2. The Sleep Solution </h5>
+W. Chris Winter, M.D., (2017), The Sleep Solution: Why Your Sleep is Broken and How to Fix It. <br>
+Penguin Publishing Group.
+<p><a href="https://share.libbyapp.com/title/2926257" target="_blank"><img src="/images/wellness/adults-and-seniors/sleepsolution-book-cover.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Do you have trouble falling asleep? Or do you feel fatigued upon waking up? In the world of seemingly contradictory tips and advice, this book offers a way for you to customise specific interventions to fit your lifestyle and your sleep.</p>
+<p><a href="https://share.libbyapp.com/title/2926257" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/2926257. Retrieved from Libby. </small>
+
+
+<h5>3. The Sleep Fix  </h5>
+Diane Macedo, (2021), The Sleep Fix: Practical, Proven, and Surprising Solutions for Insomnia, Snoring, Shift Work, and More.<br>
+HarperCollins.
+<p><a href="https://share.libbyapp.com/title/6158921" target="_blank"><img src="/images/wellness/adults-and-seniors/sleepfix-book-cover.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Drawing from her own experiences of dealing with insomnia, renowned ABC News anchor/correspondent Diane Macedo offers an accessible guide to getting better sleep.</p>
+<p><a href="https://share.libbyapp.com/title/6158921" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.)</p>
+<small>https://share.libbyapp.com/title/6158921. Retrieved from Libby. </small>
 
 <h3><b>Evergreen Resources</b></h3>
-
 
 <h5 class="margin--bottom--lg" id="gratitude-journals"><b> Gratitude Journals</b></h5>
 Gratitude encourages the treasuring of positive life experiences, paving a way to a healthier life. With this in mind, we have created a series of gratitude journals to be shared with you! Record and treasure your life experiences with the help of gratitude journals. These downloadable PDFs can be printed out or accessed digitally.
