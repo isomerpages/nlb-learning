@@ -62,20 +62,11 @@ Check out our **learning packages** to explore ways of expressing yourself throu
   </div>
 	  <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#playlist-poetry">
-        <span>Playlist:<br>More than Words - Poetry</span>
+      <a href="#manga2">
+        <span>Learning Package:<br>Marvellous Manga (part 2)</span>
       </a>
     </div>
   </div>
-	  <div class="col is-one-third">
-    <div class="clickbox is-indigo-sky">
-      <a href="#lp-poetry">
-        <span>Learning Package:<br>Teen Things: D.I.Y. Black Out Poetry</span>
-      </a>
-    </div>
-  </div>
-	</div>
-
 
 <h3><b>Playlist</b></h3>
 A collection of short videos and podcasts to expand your reading and writing interests.
@@ -126,50 +117,6 @@ In this clip, we take a look at the process of turning the One-Punch Man manga i
   </div>
 </div>
 
-<h5 class="margin--bottom--lg" id="playlist-poetry"><b>Playlist: More than Words - Poetry</b></h5>
-
-<br>
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/JwhouCNq-Fc"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b> What Makes a Poem … a Poem? - Melissa Kovacs (5 min) </b><br>
-    What exactly makes a poem … a poem? This intriguing short animation highlights three key features of what makes a poem, based on a sharing by Melissa Kovacs. <br><br>
-<small> Source: What makes a poem … a poem? - Melissa Kovacs - YouTube (2017, Mar 20). TED-Ed. Retrieved 2021, December 29.</small></p>
-  </div>
-</div>
-
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/XOieGJl6g4s"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-  <p><b> Amanda Gorman reads her poem, ‘The Miracle of Morning’ (2 min) </b><br>
-    Watch Amanda Gorman, the youngest inaugural poet in U.S. history and first African American Youth Laureate, as she recites her poem of hope amidst the pandemic, ‘The Miracle of Morning’. <br><br>
-<small>Source: WATCH: Amanda Gorman reads her poem, ‘The Miracle of Morning’ - YouTube (2021, Jan 16). PBS NewsHour. Retrieved 2021, December 29. </small></p>
-  </div>
-</div>
-
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/nCjMj5ke5iM"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-  <p><b> A Tribute to Madness, Edgar Allen Poe’s The Raven | How to Fall In Love With Classics (3 min) </b><br>
-Edgar Allen Poe’s The Raven has long been considered the quintessential Gothic horror poem. Join Gwee Li Sui as he unpacks the technical mastery behind this poem and how it continues to remain relevant to this day. <br><br>
-<small>Source: A Tribute to Madness, Edgar Allen Poe’s The Raven | How to Fall In Love With Classics - YouTube (2021, Sep 17). NLB Singapore. Retrieved 2021, December 29. </small></p>
-  </div>
-</div>
-
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
 <h3><b>Learning Package</b></h3>
 Get insights on reading and written-word expressions with these articles and activities.
 
@@ -204,6 +151,8 @@ In part one of our three-part series on the marvellous world of manga, we introd
 <h5 ><b>How to read manga? </b></h5>
 
 Unlike books in English that are traditionally read from left to right, manga panels and speech bubbles should be read from right to left. Although the sequence can be confusing when you first start reading manga, you will soon get used to it!  
+	
+![righttoleft](/images/reading/teens/teensreading_manga-righttoleft.png)
 
 <h5 ><b>What genres are there? </b></h5>
 
@@ -217,15 +166,21 @@ Here are some popular genres to note:
 <h5 ><b>1. Shojo</b></h5>
 
 Targeted at girls aged 12 to 18, manga of this genre usually centre around the topics of friendship, slice-of-life, and even romance. 
-
+	
+![shojo](/images/reading/teens/teensreading_manga-shojo.png)
+	
 <h5 ><b>2.  Shōnen</b></h5>
 
 Targeted at boys aged 12 to 18, manga of this genre usually have themes of action and adventure. Shōnen is the best-selling genre, with many popular series gaining international fame. 
+	
+![shonen](/images/reading/teens/teensreading_manga-shonen.png)
 
 <h5 ><b>3. Kodomo </b></h5>
 
 Targeted at children under 12, manga of this genre tend to be episodic, have child-friendly themes, and tell stories that teach readers about the world around them.
 
+![kodomo](/images/reading/teens/teensreading_manga-kodomo.png)
+	
 <h5 ><b>Welcome to the wide, wonderful world of manga! </b></h5>
 
 As of April 2022, the following public libraries each have a manga collection for you to peruse: 
