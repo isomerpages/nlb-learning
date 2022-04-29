@@ -69,6 +69,7 @@ Check out our **learning packages** to explore ways of expressing yourself throu
   </div>
 
 <h3><b>Playlist</b></h3>
+	
 A collection of short videos and podcasts to expand your reading and writing interests.
 
 <h5 class="margin--bottom--lg" id="playlist-manga"><b>Playlist: Marvellous Manga</b></h5>
