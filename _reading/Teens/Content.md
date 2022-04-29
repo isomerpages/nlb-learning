@@ -67,6 +67,7 @@ Check out our **learning packages** to explore ways of expressing yourself throu
       </a>
     </div>
   </div>
+	</div>
 
 <h3><b>Playlist</b></h3>
 	
