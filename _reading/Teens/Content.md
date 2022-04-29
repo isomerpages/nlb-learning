@@ -118,11 +118,13 @@ In this clip, we take a look at the process of turning the One-Punch Man manga i
 </div>
 
 <h3><b>Learning Package</b></h3>
+
 Get insights on reading and written-word expressions with these articles and activities.
 
 <h5 id="lp-manga" class="margin--bottom--lg"><b>Marvellous Manga</b></h5>
 
 Naruto, One Piece, My Hero Academia, Jujutsu Kaisen – these are just some of the more popular anime series out there. While these series are available in anime or animated format, the basis for their stories were developed from their original manga. “Manga” refers to Japanese comics or graphic novels.  
+	
 <h5 ><b>What is manga?</b></h5>
 
 ![manga](/images/reading/teens/teensreading_manga1.png)
@@ -191,7 +193,7 @@ As of April 2022, the following public libraries each have a manga collection fo
 * Marine Parade Public Library – temporarily closed from 9 May 2022.
 * Woodlands Regional Library
 
-If you prefer eBooks, check out NLB's eCollection of manga titles here! Browse the “Best of Comics & Graphic Novels” collection, or access titles by publishers such as VIZ Media and Seven Seas Entertainment. 
+If you prefer eBooks, check out NLB's eCollection of manga titles [here](https://nlb.overdrive.com/library/teens/search?subject=127&subject=12&sortBy=newlyadded)! Browse the “Best of Comics & Graphic Novels” collection, or access titles by publishers such as [VIZ Media](https://nlb.overdrive.com/search/publisherId?query=101442&sortBy=newlyadded) and [Seven Seas Entertainment](http://nlb.overdrive.com/search/publisherId?query=206746&sortBy=newlyadded). 
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
