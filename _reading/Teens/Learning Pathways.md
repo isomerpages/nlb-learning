@@ -24,7 +24,7 @@ Take the plunge into a deeper love for the literary.
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="/reading/teens/content"><b>Learning Package: D.I.Y. Blackout Poetry</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/reading/teens/content"><b>Learning Package: Marvellous Manga</b></a></td>
         <td>Find out what exactly is blackout poetry and how you can easily craft your own.</td>
         <td></td>
         <td> </td>
