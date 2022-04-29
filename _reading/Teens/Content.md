@@ -167,7 +167,7 @@ Instead, manga is typically sorted by how it is marketed to different demographi
 
 Here are some popular genres to note:
 
-<h5 ><b>1. Shojo</b></h5>
+<h5 ><b>1. Shōjo</b></h5>
 
 Targeted at girls aged 12 to 18, manga of this genre usually centre around the topics of friendship, slice-of-life, and even romance. 
 	
