@@ -148,7 +148,7 @@ This is part one of a three-part series on manga. For more resources on this top
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="manga2" class="margin--bottom--lg"><b>Marvellous Manga (part two)</b></h5>
+<h5 id="manga2" class="margin--bottom--lg"><b>Marvellous Manga (Part 2)</b></h5>
 
 In part one of our three-part series on the marvellous world of manga, we introduced you to its history and its writers. In part two, we’ll delve into how manga is read and what to read next. 
 
