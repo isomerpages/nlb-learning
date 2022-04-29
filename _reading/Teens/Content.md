@@ -56,7 +56,7 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#lp-manga">
-        <span>Learning Package:<br>Marvellous Manga</span>
+        <span>Learning Package:<br>Marvellous Manga (Part 1)</span>
       </a>
     </div>
   </div>
@@ -123,7 +123,7 @@ In this clip, we take a look at the process of turning the One-Punch Man manga i
 
 Get insights on reading and written-word expressions with these articles and activities.
 
-<h5 id="lp-manga" class="margin--bottom--lg"><b>Marvellous Manga</b></h5>
+<h5 id="lp-manga" class="margin--bottom--lg"><b>Marvellous Manga (Part 1)</b></h5>
 
 Naruto, One Piece, My Hero Academia, Jujutsu Kaisen – these are just some of the more popular anime series out there. While these series are available in anime or animated format, the basis for their stories were developed from their original manga. “Manga” refers to Japanese comics or graphic novels.  
 	
@@ -150,7 +150,7 @@ This is part one of a three-part series on manga. For more resources on this top
 
 <h5 id="manga2" class="margin--bottom--lg"><b>Marvellous Manga (Part 2)</b></h5>
 
-In part one of our three-part series on the marvellous world of manga, we introduced you to its history and its writers. In part two, we’ll delve into how manga is read and what to read next. 
+In part one of our three-part series on the marvellous world of manga, we introduced you to [its history and its writers](https://learning.nlb.gov.sg/reading/teens/content#lp-manga). In part two, we’ll delve into how manga is read and what to read next. 
 
 <h5 ><b>How to read manga? </b></h5>
 
