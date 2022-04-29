@@ -152,7 +152,7 @@ In part one of our three-part series on the marvellous world of manga, we introd
 
 Unlike books in English that are traditionally read from left to right, manga panels and speech bubbles should be read from right to left. Although the sequence can be confusing when you first start reading manga, you will soon get used to it!  
 	
-![righttoleft](/images/reading/teens/teensreading_manga-righttoleft.png)
+![righttoleft](/images/reading/teens/righttoleft.png)
 
 <h5 ><b>What genres are there? </b></h5>
 
