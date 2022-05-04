@@ -234,16 +234,16 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/get-professional-series" target="_blank"><b>EQ at Work</b></a></td>
+        <td style="width: 20%;"><b>EQ at Work</b></td>
         <td style="width: 40%;">In this group coaching session, exchange tips and strategies with the trainer and your fellow attendees to get out of sticky situations at work – with finesse.</td>
-        <td style="width: 20%;">14 Jan 2022,<br>7.00pm – 8.30pm</td>
+        <td style="width: 20%;">Coming Soon</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
         <td><b>How To Learn Like A Pro</b></td>
        <td>Recordings from the Future of Learning 2021 event, featuring prominent local experts and TED/TEDx speakers</td>
         <td>Coming soon</td>
-        <td>Online</td>
+        <td>Panopto</td>
       </tr>
     </tbody>
   </table>
@@ -277,9 +277,9 @@ SkillsFuture credits</b></a></td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>LearnX Wellness</b><br>Financial Literacy: Adulting 101 and Adulting 102</a></td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/learnxwellness-financialliteracy" target="_blank"><b>LearnX Wellness</b><br>Financial Literacy: Adulting 101 and Adulting 102</a></td>
         <td style="width: 40%;">Learn about buying property, insurance and investments.</td>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank">Various dates</a></td>
+        <td style="width: 20%;">Various dates</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
     </tbody>
