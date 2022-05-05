@@ -48,21 +48,12 @@ third_nav_title: Adults & Seniors
 The Great Make-Over Project, a community co-solutioning initiative by NLB and supported by CapitaLand Hope Foundation, brings together everyday people to co-solution, reinvent, and reimagine spaces to promote sustainable living. 
 Over the course of six weeks, 25 individuals, from different walks of life such as homemakers, artists and entrepreneurs, were divided into five teams and explored the question – “What would Choa Chu Kang look like when our community spaces are reimagined for sustainability?”
 
-JOIN US AT OUR EXHIBITIONS AND SHARING SESSIONS TO LEARN ABOUT THEIR PROJECTS! 
+JOIN US AT OUR EXHIBITIONS TO LEARN ABOUT THEIR PROJECTS! 
 
 <b><u> Exhibition details</u></b>
-<br>30 March 2022 to 30 April 2022  @ Choa Chu Kang Public Library
-<br>01 May 2022 to 30 June 2022  @ Jurong Regional Library 
-
-<b><u>Sharing sessions- Painting CCK Green: Meet-up with the Ideators</u></b>
-<br>23 April 2022 2pm-4pm  @ Choa Chu Kang Public Library
-Visit the booths of all the teams!
-<br>Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-physical-registration-296489095867?aff=ebdssbdestsearch/" target="_blank"> HERE!</a> <br>
-<br> 30 April 2022 12pm-1.30pm @ Zoom, Sharing by Group 1 (Sprout Up!) and Group 3 (Park Kaki) 
-<br> Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-1-3-registration-296489477007?aff=ebdssbdestsearch/" target="_blank"> HERE!</a>
-<br>
-<br>30 April 2022 2pm-4pm  @ Zoom, Sharing by Group 2 (Stay Sustainable), Group 4 (Sunshine) & Group 5 (Social Tech Farmers)
-<br> Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-2-4-5-registration-297497572247?aff=ebdssbdestsearch" target="_blank"> HERE!</a>
+<br>1 May to 30 Jun @ Jurong Regional Library 
+<br>1 Jul to 31 Aug @ Bukit Batok Public Library
+<br>1 Sep to 31 Oct @ Queenstwon Public Library
 
 <b>Check out the posters of the teams' finalized ideas:</b>
 <br><a href="https://go.gov.sg/team1sproutup/" target="_blank">Team 1 Sprout Up!</a>
@@ -122,6 +113,16 @@ The teams also conducted ground-up research to value-add to their projects. From
 
 On 13th March 2022, participants presented the reimagined spaces and creative green solutions to a panel of judges consisting of representatives from the Choa Chu Kang Town Council, the National Environment Agency, and the National Library Board.
 
-Highlights video: 
+<img src="images/sustainability/adults-and-seniors/DSC_1123.jpg" style="width:400px;height:300px;">
+<img src="images/sustainability/adults-and-seniors/DSC_0914.jpg" style="width:400px;height:300px;">
+
+On 23rd April 2022, the participants presented their ideas in a pop-up booth style at CCKPL. Each team was given a space in the programme zone to engage with visitors on their project ideas. CCK MP Zhulkarnain and MP Don Wee attended the session along other partners from People’s Association (PA), CCK Town Council, NEA and NParks.
+
+<img src="images/sustainability/adults-and-seniors/Jpg1.jpg" style="width:400px;height:300px;">
+<img src="images/sustainability/adults-and-seniors/jpg2.jpg" style="width:400px;height:300px;">
+
+On 30th April, the teams presented their ideas to an online audience, collected feedback and engaged in a Q&A session. These community engagement sessions not only allow the teams to share their ideas to the public, but also to rope in other like-minded individuals into their projects and network with potential partners to actualise their projects.
+
+<b>Highlights video: </b>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
