@@ -40,7 +40,7 @@ The story of technology is the history of people solving problems, overcoming ad
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/digital/adults-seniors/content" target="_blank"><b>Design Thinking</b></a></td>
+        <td style="width: 20%;"><a href="/digital/adults-seniors/content" target="_blank"><b>Digital Trends and Technology Learning Packages</b></a></td>
         <td style="width: 40%;">Explore the latest innovation and emerging tech trends with our Learning Packages and Playlists</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
@@ -58,50 +58,36 @@ The story of technology is the history of people solving problems, overcoming ad
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/nlbmdl" target="_blank"><b>[My Digital Life]</b><br> Introduction to Future of Learning</a></td>
-        <td style="width: 40%;">Collaborative eLearning involves online social interaction with peers, instructors, and experts. In this programme, take the opportunity to view and understand things from different perspectives while problem-solving in groups!</td>
-        <td style="width: 20%;"> 10 Jan 2022,<br>7pm – 8.30pm</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/cybersecurity-from-scratch-future-of-work-registration-322550636637?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Cybersecurity from Scratch</a></td>
+        <td style="width: 40%;">This talk covers the latest cybersecurity trends and the importance of cybersecurity. Participants will also learn the basics of being safe online.</td>
+        <td style="width: 20%;"> 12 May 2022,<br>6:30pm–8.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
      <tr>
-<td><a href="https://go.gov.sg/nlbfow" target="_blank"><b>[Future of Work]</b><br>Who needs assistance with Assistive Technologies?</a></td>
-        <td>In this workshop, learn about the role that assistive technologies play in the lives of people with disabilities and their caregivers</td>
-        <td>20 Jan 2022, <br>7pm - 8.30pm</td>
+<td><a href="https://www.eventbrite.sg/e/introduction-to-website-security-future-of-work-registration-304462514577" target="_blank"><b>[Future of Work]</b><br>Introduction to Website Security</a></td>
+        <td>In this workshop, learn about the security measures and approaches related to website security and protection as well as how to implement them.</td>
+        <td>12 May 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://go.gov.sg/nlbmdl" target="_blank"><b>[My Digital Life]</b><br>Design Thinking</a></td>
-        <td>In this programme, learn about design thinking principles, methodology and framework, while taking a look at examples of how design thinking is implemented.
+<td><a href="https://www.eventbrite.com/e/information-security-201-future-of-work-registration-304547859847" target="_blank"><b>[Future of Work]</b><br>Information Security 201</a></td>
+        <td>Learn about the more complex approaches to information security and acquire greater knowledge about it.
 </td>
-        <td>25 Jan 2022, <br>7pm - 8.30pm</td>
+        <td>19 May 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 			<tr>
-<td><a href="https://go.gov.sg/nlbmdl" target="_blank"><b>[My Digital Life]</b><br>Introduction to Gamification</a></td>
-        <td>Figure out how you can harness the potential of gamification and use it effectively. 
+<td><a href="https://www.eventbrite.com/e/website-security-201-future-of-work-registration-304551691307" target="_blank"><b>[Future of Work]</b><br>Website Security 201</a></td>
+        <td>Gain a deeper understanding of the security measures that websites employ and the various developments in this field.
 </td>
-        <td>7 Feb 2022, <br>7pm - 8.30pm</td>
+        <td>26 May 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 			<tr>
-<td><a href="https://go.gov.sg/nlbmdl" target="_blank"><b>[My Digital Life]</b><br>Introduction to VR</a></td>
-        <td>Figure out how you can harness the potential of gamification and use it effectively. 
+<td><a href="https://www.eventbrite.com/e/block-chain-future-of-work-registration-322550937537" target="_blank"><b>[My Digital Life]</b><br>Blockchain</a></td>
+        <td>The talk will start with an overview of a brief history of Blockchain, followed by the structure, implementation and applications of Blockchain. 
 </td>
-        <td>9 Feb 2022, <br>7pm - 8.30pm</td>
-        <td>Zoom</td>
-      </tr>
-			<tr>
-<td><a href="https://go.gov.sg/nlbfow" target="_blank"><b>[Future of Work]</b><br>Introduction to Owned Media Marketing</a></td>
-        <td>Learn useful skills and ideas about owned media marketing to enhance your brand.
-</td>
-        <td>11 Feb 2022, <br>7pm - 8.30pm</td>
-        <td>Zoom</td>
-      </tr>
-				<tr>
-<td><a href="https://go.gov.sg/nlbfow" target="_blank"><b>[Future of Work]</b><br>Introduction to User Experience</a></td>
-        <td>Explore the concept of user experience and find out how its principles can be applied in digital marketing. 
-</td>
-        <td>15 Mar 2022, <br>7pm - 8.30pm</td>
+        <td>27 May 2022, <br>6:30pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 			    </tbody>
@@ -135,12 +121,10 @@ The story of technology is the history of people solving problems, overcoming ad
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="#" target="_blank"><b>LearnX Careers</b><br>An Artificially Intelligent Business</a></td>
+        <td style="width: 20%;"><a href="https://learning.nlb.gov.sg/careers/adults-seniors/learning-pathways" target="_blank"><b>LearnX Careers</b><br></a></td>
         <td style="width: 40%;">Series: Breakthrough<br>
 With guest speakers:<br>
-•	Sinuhe Arroyo, Founder of Taiger, <br>
-•	Asheeh Mehra, Co-Founder of AntWorks <br>
-•	Joel Bar-El, Founder of Trax Re<br></td>
+•	TBC<br></td>
         <td style="width: 20%;">TBC</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
