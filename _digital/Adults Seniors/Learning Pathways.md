@@ -84,10 +84,17 @@ The story of technology is the history of people solving problems, overcoming ad
         <td>Zoom</td>
       </tr>
 			<tr>
-<td><a href="https://www.eventbrite.com/e/block-chain-future-of-work-registration-322550937537" target="_blank"><b>[My Digital Life]</b><br>Blockchain</a></td>
+<td><a href="https://www.eventbrite.com/e/block-chain-future-of-work-registration-322550937537" target="_blank"><b>[Future of Work]</b><br>Blockchain</a></td>
         <td>The talk will start with an overview of a brief history of Blockchain, followed by the structure, implementation and applications of Blockchain. 
 </td>
         <td>27 May 2022, <br>6:30pm - 8.30pm</td>
+        <td>Zoom</td>
+      </tr>
+			<tr>
+<td><a href="https://www.eventbrite.sg/e/build-your-own-2d-game-my-digital-life-registration-308525727757" target="_blank"><b>[My Digital Life]</b><br>Build Your Own 2D Game</a></td>
+        <td>Learn how to build your very own 2D Game in this workshop!
+</td>
+        <td>24 May 2022, <br>6:30pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 			    </tbody>
