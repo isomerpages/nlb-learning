@@ -39,7 +39,7 @@ Click [here](http://go.gov.sg/get-professional-series){:target="_blank"} for the
 
 Always been curious about new industries that seem to have taken the world by storm such as FinTech, gaming and user experience? Through this series of talks you can explore the ins and outs of a particular industry—the joys, the challenges and the forces that drive it.
 
-Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings. 
+Click [here](https://go.gov.sg/industryinsights/){:target="_blank"} for the latest programme listings. 
 
 ## **Breakthrough**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-02.png)

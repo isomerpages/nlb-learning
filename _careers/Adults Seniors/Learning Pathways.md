@@ -64,9 +64,9 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b>A Career in Fintech</b></td>
-        <td style="width: 40%;">What is it like having a career in this industry? How does one get a foot in the door? Find out in this talk by an expert from Nanyang Polytechnic.</td>
-        <td style="width: 20%;">TBC</td>
+        <td style="width: 20%;"><b>Industry Insights</b></td>
+        <td style="width: 40%;">What is it like having a career in rising, up-and-coming industries? How does one get a foot in the door? Find out through this series of talks.</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/industryinsights">Various Dates</a></td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 							      <tr>
@@ -155,23 +155,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
   </table>
 </div>
 
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Explore with Industry Speakers and Trainers</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><b>An Artificially Intelligent Business</b></td>
-        <td style="width: 40%;">Breakthrough Series with <br>Sinuhe Arroyo, Founder of Taiger <br>Asheeh Mehra, Co-founder of AntWorks<br> Joel Bar-El, Founder of Trax Retail<br><br>Registration opens two weeks before the programme.</td>
-        <td style="width: 20%;"> 20 Jan 2022<br>7pm - 8pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -234,15 +218,15 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/get-professional-series" target="_blank"><b>EQ at Work</b></a></td>
+        <td style="width: 20%;"><b>EQ at Work</b></td>
         <td style="width: 40%;">In this group coaching session, exchange tips and strategies with the trainer and your fellow attendees to get out of sticky situations at work – with finesse.</td>
-        <td style="width: 20%;">14 Jan 2022,<br>7.00pm – 8.30pm</td>
+        <td style="width: 20%;">Coming Soon</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
         <td><b>How To Learn Like A Pro</b></td>
        <td>Recordings from the Future of Learning 2021 event, featuring prominent local experts and TED/TEDx speakers</td>
-        <td>Coming soon</td>
+				<td><a href="https://go.gov.sg/futureoflearning-videos" target="_blank">Panopto</a></td>
         <td>Online</td>
       </tr>
     </tbody>
@@ -277,9 +261,9 @@ SkillsFuture credits</b></a></td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>LearnX Wellness</b><br>Financial Literacy: Adulting 101 and Adulting 102</a></td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/learnxwellness-financialliteracy" target="_blank"><b>LearnX Wellness</b><br>Financial Literacy: Adulting 101 and Adulting 102</a></td>
         <td style="width: 40%;">Learn about buying property, insurance and investments.</td>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank">Various dates</a></td>
+        <td style="width: 20%;">Various dates</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
     </tbody>
