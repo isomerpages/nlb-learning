@@ -292,6 +292,13 @@ Learn to use ScratchJr to create motion and animationsUse blocks and open-ended 
         <td>28 May 2022<br>11.00am – 12.00pm<br></td>
         <td>Sengkang Public Library</td>
 		</tr>
+			 <tr>
+			 <td><a href="https://linktr.ee/earlyreadsustainabilityprogs" target="_blank"><b>Caring for the Environment l Food & Me!</b></a></td>
+        <td> Join us for an interactive programme to learn about food technology! In this session, children will learn about alternative ways to grow food through interactive and hands-on activities. This programme is suitable for children 4-6 years old.
+</td>
+        <td>28 May 2022<br>11.00am - 12.00pm<br></td>
+        <td>Ang Mo Kio Public Library, Programme Zone</td>
+			</tr>
 					 <tr>
 			 <td><a href="https://www.eventbrite.sg/e/storytelling-the-river-that-brings-us-life-tickets-325375586137" target="_blank"><b>Storytelling: The River That Brings Us Life </b></a></td>
         <td> Come and join an afternoon of fun, with a dramatized storytelling about the Singapore Rivers' past, song and upcycling craft session. Children will learn the importance of keeping our rivers clean and how we can reuse our household waste through upcycling. This programme is for children aged 3 to 8 years old.
