@@ -206,6 +206,13 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>28 May 2022<br>11.15am– 12.00pm<br></td>
         <td>library@harbourfront</td>
       </tr>
+			 <tr>
+			 <td><a href="https://linktr.ee/earlyreadsustainabilityprogs" target="_blank"><b>Caring for the Environment l Food & Me!</b></a></td>
+        <td> Join us for an interactive programme to learn about food technology! In this session, children will learn about alternative ways to grow food through interactive and hands-on activities. This programme is suitable for children 4-6 years old.
+</td>
+        <td>28 May 2022<br>11.00am - 12.00pm<br></td>
+        <td>Ang Mo Kio Public Library, Programme Zone</td>
+			</tr>
   </tbody>
   </table>
 </div>
