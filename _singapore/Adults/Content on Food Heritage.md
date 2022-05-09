@@ -292,14 +292,12 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 <h5> Singapore food: a treasury of more than 200 time-tested recipes</h5>
 Hutton, Wendy. (2018). <i> Singapore food: a treasury of more than 200 time-tested recipes. </i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 HUT) 
 <br>
-<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315763265/237207705,1">
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/Wendy.png"></a>
 <p> First published in 1979, this updated edition includes 219 best-loved recipes, “new classics” and additional recipes. Also provides an overview of the various multi-ethnic cooking styles. </p>
 	
 <h5> Singapore heritage food: yesterday's recipes for today's cook </h5>
 Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today's cook. </i> Singapore: Landmark Books Pte Ltd. (Call no.: RSING 641.595957 TAN) 
 <br>
-<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315765352/75987384,1">
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/Sylvia.png"></a>
 <p> Describes the factors and influences in the unique Singapore culinary heritage and lists the classic dishes and their recipes. </p>
 
@@ -345,27 +343,18 @@ href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">
 <h5> Food and Foodways in Asia: Resource, Tradition and Cooking</h5>
 Cheung, Sidney C. H. and Tan Chee-Beng (eds.) (2007). <i> Food and Foodways in Asia: Resource, Tradition and Cooking.</i> London: Routledge, 2007. (Call no.: RSEA 394.12095 FOO) 
 <br>
-<a 
-href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12827884"
-target="_blank">
 <img src="/images/Singapore%20Food%20Heritage/CheungS.png" style="width:200px;"></a>
 <p> Food and Foodways in Asia provides rich ethnographic description and analysis of food production as it interacts with social and political complexities in Asia’s diverse cultures. The book has two relevant chapters on the Peranakan: Tan Chee-Beng’s “Nyonya cuisine: Chinese, non-Chinese and the making of a famous cuisine in Southeast Asia” and Wong Hong Suen’s “Historically themed restaurants and social memory in Singapore.”</p>
 
 <h5>Changing Chinese Foodways in Asia</h5>
 Wu, David Y. H. and Tan Chee Beng (eds.) (2001). <i>Changing Chinese Foodways in Asia</i> Hong Kong: The Chinese United Nations Press. (Call no.: RSING 641.300951 CHA) 
 <br>
-<a 
-href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/320652675/3694461,1"
-target="_blank">
 <img src="/images/Singapore%20Food%20Heritage/TanCB.png" style="width:200px;"></a>
 <p> This book has two relevant contributions for Peranakan food, one by Tan Chee Beng entitled, “Food and Ethnicity with Reference to the Chinese in Malaysia” and another by Chua Beng Huat and Ananda Rajah entitled, “Hybridity, Ethnicity and Food in Singapore.”</p>
 
 <h5>The New Mrs Lee’s Cookbook Volume 1: Peranakan Cuisine</h5>
 Lee, Chin Koon and Shermay Lee (2019). <i> The New Mrs Lee’s Cookbook Volume 1: Peranakan Cuisine.</i> Singapore: World Scientific Lifestyle. (Call no.: RSING 641.595957 LEE) 
 <br>
-<a 
-href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/320654050/302356998,1"
-target="_blank">
 <img src="/images/Singapore%20Food%20Heritage/LeeCK.png" style="width:200px;"></a>
 <p> This cookbook was originally published in 1974 as Mrs Lee’s Cookbook by Mrs. Lee Chin Koon, who was Prime Minister’s Lee Kuan Yew’s mother. This was the first self-identified Peranakan cookbook published in Singapore. As the originals became out of print, the cookbooks were updated by her granddaughter, Ms. Shermay Lee, and this revised volume won the prestigious Gourmand World Cookbook Awards in 2003. This book has a foreword by former president Wee Kim Wee. It includes a collection of “classic” Nyonya recipes taught by Mrs. Lee Chin Koon’s mother in preparation for marriage (eg: Ayam Buah Keluak, Garam Masam, and Mee Siam); a list of key peranakan ingredients to start a peranakan kitchen; tips on how to entertain the peranakan way; tips on healthier versions of Peranakan dishes; and a comprehensive glossary of ingredients and basic kitchen equipment required.</p>
 
