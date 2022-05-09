@@ -81,6 +81,15 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 </div>
 	
+<div class= "col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-eurasian-cuisine">
+<span>Learning Package:<br>Eurasian Cuisine</span>
+</a>
+</div>
+</div>
+</div>
+	
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around Singapore’s food heritage.
 
@@ -196,7 +205,7 @@ Check out these resources to learn more about Eurasian culinary heritage and tra
 <div class="col is-three-fifths">
 <p><b> Where Did Eurasian Food Come From? | Our Grandfather Story (3 mins)
 </b>
-<br> Chef and cookbook author, Mary Gomez, talks about the cultures that influence Eurasian cuisine.<br><br>
+<br> Chef and cookbook author, Mary Gomes, talks about the cultures that influence Eurasian cuisine.<br><br>
 <small> Source: Where Did Eurasian Food Come From? (2019, Dec 18). Our Grandfather Story. Retrieved 2022, May 9. </small></p>
 </div>
 </div>
