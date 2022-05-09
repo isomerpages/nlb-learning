@@ -52,7 +52,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 	
 	<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#food-heritage">
+      <a href="#peranakan-cuisine">
         <span>Playlist: Peranakan Cuisine</span>
       </a>
     </div>
@@ -60,7 +60,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 	
 	<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#food-heritage">
+      <a href="#eurasian-cuisine">
         <span>Playlist: Eurasian Cuisine</span>
       </a>
 		</div>
@@ -125,6 +125,7 @@ Join Maeve as she introduces Singaporean food through Singaporeans living in Aus
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 <div>
+	
 <h5 class="margin--bottom--lg" id="peranakan-cuisine"><b>Playlist: Peranakan Cuisine </b></h5>
 
 The term “Peranakan” means “locally born” and is used primarily in insular Southeast Asia to refer to assimilated diasporic groups and hybrid community groups such as the Peranakan Chinese (Baba and Nyonya, or Straits Chinese). Their cuisine may use Malay/Indonesian spices and mainly Chinese cooking techniques. 
@@ -180,6 +181,63 @@ Follow famous food blogger Mark Wiens as he samples several popular peranakan di
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<h5 class="margin--bottom--lg" id=”Eurasian-cuisine”><b>Playlist: Eurasian Cuisine </b></h5>
+
+Today, the term ‘Eurasian’ refers to a person with mixed European and Asian lineage. The Eurasians have been present in Singapore since the early 19th century. Most Eurasians in Singapore can trace their European ancestry to the Portuguese, Dutch or British. Their mixed cultural heritage is also reflected in their cuisine which blends European and Asian ingredients and cooking styles. 
+
+Check out these resources to learn more about Eurasian culinary heritage and traditions.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/-5m1HnbjI3g" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Where Did Eurasian Food Come From? | Our Grandfather Story (3 mins)
+</b>
+<br> Chef and cookbook author, Mary Gomez, talks about the cultures that influence Eurasian cuisine.<br><br>
+<small> Source: Where Did Eurasian Food Come From? (2019, Dec 18). Our Grandfather Story. Retrieved 2022, May 9. </small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/qbnGoMB5gB4" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>Eurasian Sugee Cake & Devil Curry | Christmas Recipes With the Drysdales | Our Grandfather Story (8 mins)
+</b><br>
+Mother and son, Carol and Kurt Drysdale, share their family recipes for Eurasian sugee cake and curry debal which are traditionally served at festive occasions like Christmas. 
+<br><br>
+<small>Source: Eurasian Sugee Cake & Devil Curry | Christmas Recipes With the Drysdales (2020, Dec 25). Our Grandfather Story. Retrieved 2022, May 9.
+</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src=" https://www.youtube.com/embed/ElRIfhKFLzw" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Eurasian Putugal | Vanishing Home Recipes | CNA Insider (2 mins)
+</b><br>
+A group of young Eurasians makes a lesser-known Eurasian dish called putugal (steamed tapioca with coconut and banana). 
+<br><br>
+<small> Source: Eurasian Putugal | Vanishing Home Recipes | CNA Insider (2017, June 13). CNA Insider. Retrieved 2022, May 9.
+</small></p>
+</div>
+</div>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
 <div>
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-food-heritage"><b> Singapore’s Food Heritage: Overview </b></h5>
