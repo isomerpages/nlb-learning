@@ -341,7 +341,7 @@ href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">
 	
 <h4>Books</h4>
 <h5> Food and Foodways in Asia: Resource, Tradition and Cooking</h5>
-Cheung, Sidney C. H. and Tan Chee-Beng (eds.) (2007). <i> Food and Foodways in Asia: Resource, Tradition and Cooking.</i> London: Routledge, 2007. (Call no.: RSEA 394.12095 FOO) 
+Cheung, Sidney C. H. and Tan Chee-Beng (eds.) (2007). <i> Food and Foodways in Asia: Resource, Tradition and Cooking.</i> London: Routledge. (Call no.: RSEA 394.12095 FOO) 
 <br>
 <img src="/images/Singapore%20Food%20Heritage/CheungS.png" style="width:200px;"></a>
 <p> Food and Foodways in Asia provides rich ethnographic description and analysis of food production as it interacts with social and political complexities in Asia’s diverse cultures. The book has two relevant chapters on the Peranakan: Tan Chee-Beng’s “Nyonya cuisine: Chinese, non-Chinese and the making of a famous cuisine in Southeast Asia” and Wong Hong Suen’s “Historically themed restaurants and social memory in Singapore.”</p>
