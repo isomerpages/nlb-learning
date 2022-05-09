@@ -406,21 +406,18 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 <h5> The Japanese occupation of Malaya and Singapore, 1941-45: a social and economic history </h5>
 Kratoska, Paul H. (2018). <i> The Japanese occupation of Malaya and Singapore, 1941-45: a social and economic history. </i> Singapore: NUS Press. (Call no.: RSING 959.5103 KRA) 
 <br>
-<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315030169/226566945,1">
 <img style="width:200px;" src="/images/singapore-japanese-occupation/JOMS.png"></a>
 <p> First published in 1998, Kratoska presents a picture of life under Japanese Occupation in Malaya and Singapore. </p>
 
 <h5> Syonan: Singapore under the Japanese 1942-1945</h5>
 Lee, Geok Boi. (2017). <i> Syonan: Singapore under the Japanese 1942-1945. </i> Singapore: Singapore Heritage Society and Landmark Books. (Call no.: RSING 940.535957 LEE) 
 <br>
-<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315030253/192434139,1">
 <img style="width:200px;" src="/images/singapore-japanese-occupation/Syonan.png"></a>
 <p> This revised edition frames the social memories of Singapore residents who lived through the Japanese military administration. </p>
 
 <h5> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945</h5>
 Akashi, Yōji  &amp; Yoshimura, Mako (Eds.). (2008). <i> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945. </i> Singapore: NUS Press. (Call no.: RSING 940.5337 NEW) 
 <br>
-<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315030328/1666228,1">
 <img style="width:200px;" src="/images/singapore-japanese-occupation/NPJO.png"></a>
 <p> A collection of articles that cover various topics on Japanese Occupation of Malaya and Singapore, based on Japanese primary sources, and sources from the archives and libraries in Britain, Malaysia, Singapore, United States, Australia and India. </p>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
@@ -544,21 +541,18 @@ href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">
 <h5> With freedom to Singapore: a social & administrative assessment of post-war Singapore 1945-1950</h5>
 Gilmour, Oswald Wellington. (2020). <i> With freedom to Singapore: a social & administrative assessment of post-war Singapore 1945-1950. </i> [Place of publication not identified]: [Patrick Gilmour]. (Call no.: RSING 959.57023 GIL) 
 <br>
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315030681/334860678,1" target="_blank">
 <img src="/images/singapore-japanese-occupation/Oswald.png" style="width:200px;"></a>
 <p> An in-depth study of Singapore during the immediate post-war years between 1945-1950, covering the civil, political, and social aspects. First published in 1950. </p>
 
 <h5> My role in the rehabilitation of Singapore: 1946-1953</h5>
 Gilmour, Andrew. (1973). <i> My role in the rehabilitation of Singapore: 1946-1953. </i> Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.57024 GIL) 
 <br>
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315030613/2561839,1" target="_blank">
 <img src="/images/singapore-japanese-occupation/Gilmour.png" style="width:200px;"></a>
 <p> One of the oral history pilot studies by ISEAS. Focuses on Andrew Gilmour, "who was one of the chief architects of the reconstruction of Singapore's war-torn economy", with his recollections of the initial post-war years in Singapore. </p>
 
 <h5> Political development in Singapore, 1945-55 </h5>
 Yeo, Kim Wah. (1973). <i> Political development in Singapore, 1945-55. </i> Singapore: Singapore University Press. (Call no.: RSING 320.95957 YEO) 
 <br>
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315031264/10072349,1" target="_blank">
 <img src="/images/singapore-japanese-occupation/Yeo.png" style="width:200px;"></a>
 <p> Originally presented as the author's thesis (M.A.), University of Singapore. Throws light on the origins of Singapore's independence movement. </p>
 
