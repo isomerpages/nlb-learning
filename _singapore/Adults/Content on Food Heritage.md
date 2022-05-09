@@ -41,6 +41,7 @@ third_nav_title: Adults
 Learn on the go. Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
 
 <div class="row is-multiline">
+	
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade ">
       <a href="#food-heritage">
@@ -50,8 +51,8 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   </div>
 	
 	<div class="col is-one-third">
-    <div class="clickbox is-mint-jade ">
-      <a href="#peranakan-cuisine">
+    <div class="clickbox is-mint-jade">
+      <a href="#food-heritage">
         <span>Playlist: Peranakan Cuisine</span>
       </a>
     </div>
@@ -59,7 +60,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 	
 	<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#Eurasian-cuisine">
+      <a href="#food-heritage">
         <span>Playlist: Eurasian Cuisine</span>
       </a>
 		</div>
