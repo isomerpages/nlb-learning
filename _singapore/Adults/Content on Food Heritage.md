@@ -49,16 +49,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
-	
-	<div class="col is-one-third">
+		<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#peranakan-cuisine">
         <span>Playlist: Peranakan Cuisine</span>
       </a>
     </div>
   </div>
-	
-	<div class="col is-one-third">
+		<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#eurasian-cuisine">
         <span>Playlist: Eurasian Cuisine</span>
