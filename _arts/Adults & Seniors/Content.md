@@ -384,3 +384,89 @@ This is a year-long college-level survey course in art history. It covers art hi
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b>Learning Package</b></h3>
+<h5 id="lp-performing-arts" class="margin--bottom--lg"><b>Performing Arts</b></h5>
+<p> Our curated book and video resources from the library@esplanade collections introduce the fundamentals of performing arts and support the patron’s learning and experience.  
+</p>
+
+<h4><a href="https://go.gov.sg/thepeopleresourcelist" target="_blank"><b> The People</b></a></h4>
+<p> Learn more about the roles and responsibilities of industry professionals who bring the performing arts to life! </p>
+ 
+<h4><a href="https://go.gov.sg/themastersresourcelist" target="_blank"><b> The Masters</b></a></h4>
+<p> Discover some of the greatest performing arts visionaries, their artistic excellence, and how they have changed the performing arts landscape. </p>
+<br> 	
+<h4>Videos</h4> 
+<h5>1. Keyboard Chords | Book It Out #08</h5>
+<p> Learning to play a musical instrument can be expensive. Library officer Kurniawan Amir takes us along on his journey to learn how to play and compose music on a keyboard with just a book—How to Write Songs on Keyboards by Rikky Rooksby.</p>
+   <div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/R876SIS6ubk" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=R876SIS6ubk"> Keyboard Chords | Book It Out #08</a> (2022, March 15). <i>NLB Singapore .</i> Retrieved 2022, April 27.
+
+<h5>2. Street Dance Exercises | Book It Out #06</h5> 
+<p> Looking for a fun sweat-it-out activity to do at home? Join library officer Nur Arjuna Karim as she picks up street dance moves and gets fit with the book Street Dance: The Best Moves by D. J. Hooch.</p>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1CxlWUXGF7M" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=1CxlWUXGF7M"> Street Dance Exercises | Book It Out #06</a> (2021, November 18). <i>NLB Singapore.</i> Retrieved 2022, April 27.
+
+<h5>3. Hungry for Horror: Why Do We Crave What We Fear? | The Library Report #11</h5> 
+<p> Why are we drawn to horror stories? What are the unique characteristics of reading a horror novel compared to watching a horror movie? Join Librarian Meryl Chin and local filmmaker Kelvin Tong as they discuss the ways horror stories continue to appeal and tantalise generations of us. </p>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src=" https://www.youtube.com/watch?v=V-LRwGNsP60" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=V-LRwGNsP60"> Hungry for Horror: Why Do We Crave What We Fear? | The Library Report #11</a> (2019, March 9). <i> NLB Singapore</i> Retrieved 2022, April 27.
+
+<h4>Articles</h4>
+
+<h5>1. Finding Courage with Film Music</h5>
+<p>
+<a href="https://medium.com/publiclibrarysg/finding-courage-with-film-music-ef5980b76cfa" target="_blank"><img src="/images/arts/AS/arts-article1.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> Film music plays the indispensable function of accentuating emotions and moods in a film. This article lists some signature pieces by iconic film composers that you can listen for free from our online music resource, NAXOS Music Library.</p>
+<p><a href="https://medium.com/publiclibrarysg/finding-courage-with-film-music-ef5980b76cfa" target="_blank"> Read the article here</a>. </p>
+<small>Source: Finding Courage with Film Music (2020, May 19). Public Libraries Singapore. Retrieved 2022, April 27.</small> 
+
+<h5>2. 4 Easy Musical Instruments for Beginners </h5>
+<p>
+<a href="https://medium.com/publiclibrarysg/4-easy-musical-instruments-for-beginners-c524ea24e611" target="_blank"><img src="/images/arts/AS/arts-article2.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> Want to pick up a new skill and hobby?  Why not learn to play a musical instrument? This article lists instruments that are relatively easy to pick up, affordable and allow you to enjoy playing music on your own without the need of joining an ensemble.
+</p>
+<p><a href="https://medium.com/publiclibrarysg/4-easy-musical-instruments-for-beginners-c524ea24e611" target="_blank"> Read the article here</a>. </p>
+<small>Source: 4 Easy Musical Instruments for Beginners. (2020, Dec 24). Public Libraries Singapore. Retrieved 2022, April 27.</small>
+
+
+<h5>3. From Stage to Screen: 3 Hit TV Series That Were Plays First</h5>
+<p>
+<a href="https://medium.com/publiclibrarysg/from-stage-to-screen-3-hit-tv-series-that-were-plays-first-f2a111e08a7c" target="_blank"><img src="/images/arts/AS/arts-article3.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> The amphitheatre of the Greeks, the proscenium stage on West End, the wayang platform in Singapore — these venues of entertainment where live performances took place were locations that first kept people glued to their seats. With the arrival of cinema and television, producers and screenwriters began turning to the theatre for inspiration, adapting stage plays and musicals for film and TV. This article lists three hit screenplays and TV shows that first graced the stage.
+</p>
+<p><a href="https://medium.com/publiclibrarysg/from-stage-to-screen-3-hit-tv-series-that-were-plays-first-f2a111e08a7c" target="_blank"> Read the article here</a>. </p>
+<small>Source: From Stage to Screen: 3 Hit TV Series That Were Plays First. (2021, Jan 21). Public Libraries Singapore. Retrieved 2022, April 27.</small>
+
+<h5>4. Popular Disney Songs for Instrumentalists</h5>
+<p>
+<a href="https://medium.com/publiclibrarysg/popular-disney-songs-for-instrumentalists-1e75a71b1a1c" target="_blank"><img src="/images/arts/AS/arts-article4.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> Instrumental musicians often face the challenge of covering popular songs in the absence of lyrics — a struggle that vocalists may not be conscious of. Lyrics and lyrical variations help to break the monotony of repeated notes or melodic lines common in pop melodies, otherwise, such songs can end up sounding dull and monotonous when performed solely with instruments. This problem is exacerbated for instruments that are not truly polyphonic like the flute or violin. This article lists noteworthy musical pieces from Disney movies that can be added to an instrumentalist’s repertoire.
+</p>
+<p><a href="https://medium.com/publiclibrarysg/popular-disney-songs-for-instrumentalists-1e75a71b1a1c" target="_blank"> Read the article here</a>. </p>
+<small>Source: Popular Disney Songs for Instrumentalists. (2021, March 23). Public Libraries Singapore. Retrieved 2022, April 27.</small> 
+
+<h5>5. Book It Out: Reviving Your Enjoyment of Music</h5>
+<p>
+<a href="https://medium.com/publiclibrarysg/book-it-out-reviving-your-enjoyment-of-music-83673bcad705" target="_blank"><img src="/images/arts/AS/arts-article5.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> Ever felt that you aren’t enjoying music as much as you used to? Perhaps you’ve exhausted your playlists, or repeated them too many times. Perhaps your taste in music has changed or matured, and it’s time to explore other genres. Whatever the reason, this article lists three ways to revive your enjoyment of music!
+</p>
+<p><a href="https://medium.com/publiclibrarysg/book-it-out-reviving-your-enjoyment-of-music-83673bcad705" target="_blank"> Read the article here</a>. </p>
+<small>Source Book It Out: Reviving Your Enjoyment of Music. (2022, March 17). Public Libraries Singapore. Retrieved 2022, April 27.</small>
+
+<h5>6. Book It Out: Ways to Dance Yourself to Fitness</h5>
+<p>
+<a href="https://medium.com/publiclibrarysg/book-it-out-ways-to-dance-yourself-to-fitness-a4383fd3ab34" target="_blank"><img src="/images/arts/AS/arts-article6.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> Do you like to start the day by doing something active and fun? If that tickles your fancy, here are some dance genres you can take inspiration from and incorporate into your fitness routine.
+</p>
+<p><a href="https://medium.com/publiclibrarysg/book-it-out-ways-to-dance-yourself-to-fitness-a4383fd3ab34" target="_blank"> Read the article here</a>. </p>
+<small>Source: Book It Out: Ways to Dance Yourself to Fitness (2021, November 18). Public Libraries Singapore. Retrieved 2022, April 27.</small>
+ 
+<h4>Art Programmes in NLB</h4>
+<p> There’s more to explore! Get real time notifications of the different Performing Arts programs and initiatives organised by us through this link: <a href="https://go.gov.sg/learnxartsfb" target="_blank"> go.gov.sg/learnxartsfb</a> to find the right one for you!
+</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
