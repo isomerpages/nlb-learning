@@ -394,3 +394,9 @@ Gomes, Mary. (2001). <i>The Eurasian cookbook.</i> Singapore: Horizon Books. (Ca
 <br>
 <img src="/images/Singapore%20Food%20Heritage/Gomes.png" style="width:200px;"></a>
 <p>Mary Gomes shares recipes from her family and friends. This collection of recipes represents the rich heritage of Eurasian cuisine which has been influenced by various cultures like those of the Portuguese, Dutch, English, Chinese, Malay, Indian and Peranakan.</p>
+
+<h5>Eurasian favourites</h5>
+Hutton, Wendy. (2003). <i>Eurasian favourites.</i> Hong Kong: Periplus Editions. (Call no.: RSING 641.5 HUT) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/Hutton.png" style="width:200px;"></a>
+<p>Wendy Hutton presents a selection of recipes that reflects the blending of East and West which is integral to Eurasian cuisine.</p>
