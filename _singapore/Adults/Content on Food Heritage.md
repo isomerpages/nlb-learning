@@ -361,3 +361,6 @@ Lee, Chin Koon and Shermay Lee (2019). <i> The New Mrs Lee’s Cookbook Volume 1
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h5 id="lp-eurasian-cuisine" class="margin--bottom--lg"><b>Eurasian Cuisine</b></h5>
+<p> Eurasian food has a history that goes back to the 16th century. Eurasian families emerged from various trading ports in the region, such as Malacca, Penang, Goa, Macau, Ceylon and Bencoolen, where Europeans settled and had children with local women. Many of these Eurasians would later settle in Singapore at different times. Their cuisine blends European and Asian ingredients and techniques.
+
+Learn more about the rich heritage of Eurasian food from these books below.</p>
