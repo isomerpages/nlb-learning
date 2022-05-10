@@ -400,3 +400,9 @@ Hutton, Wendy. (2003). <i>Eurasian favourites.</i> Hong Kong: Periplus Editions.
 <br>
 <img src="/images/Singapore%20Food%20Heritage/Hutton.png" style="width:200px;"></a>
 <p>Wendy Hutton presents a selection of recipes that reflects the blending of East and West which is integral to Eurasian cuisine.</p>
+
+<h5>The Eurasian table</h5>
+Noronha, Theresa and Cheryl Noronha. (2015). <i>The Eurasian table.</i> Singapore: Blurb. (Call no.: RSING 641.595957 NOR) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/Noronha.png" style="width:200px;"></a>
+<p>Third-generation Eurasian, Cheryl Noronha, wrote this book to gather and share her grandmother’s recipes of Eurasian dishes. This book features twenty-four traditional Eurasian recipes that are rooted in Portuguese, Indian and Malay cuisines.</p>
