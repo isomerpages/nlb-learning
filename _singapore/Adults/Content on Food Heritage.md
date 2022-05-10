@@ -359,3 +359,5 @@ Lee, Chin Koon and Shermay Lee (2019). <i> The New Mrs Lee’s Cookbook Volume 1
 <p> This cookbook was originally published in 1974 as Mrs Lee’s Cookbook by Mrs. Lee Chin Koon, who was Prime Minister’s Lee Kuan Yew’s mother. This was the first self-identified Peranakan cookbook published in Singapore. As the originals became out of print, the cookbooks were updated by her granddaughter, Ms. Shermay Lee, and this revised volume won the prestigious Gourmand World Cookbook Awards in 2003. This book has a foreword by former president Wee Kim Wee. It includes a collection of “classic” Nyonya recipes taught by Mrs. Lee Chin Koon’s mother in preparation for marriage (eg: Ayam Buah Keluak, Garam Masam, and Mee Siam); a list of key peranakan ingredients to start a peranakan kitchen; tips on how to entertain the peranakan way; tips on healthier versions of Peranakan dishes; and a comprehensive glossary of ingredients and basic kitchen equipment required.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="lp-eurasian-cuisine" class="margin--bottom--lg"><b>Eurasian Cuisine</b></h5>
