@@ -376,3 +376,14 @@ href=" https://nlb.overdrive.com/media/3300296">
 Retrieved from OverDrive (a <a 
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 
+<h5>Eurasian heritage cooking</h5>
+Pereira, Quentin. (2012). <i>Eurasian heritage cooking.</i><br> 
+<a target="_blank"
+href="https://nlb.overdrive.com/media/1270603">
+<img src="/images/Singapore%20Food%20Heritage/EHC.png" style="width:200px;"></a>
+<p> Chef Quentin Pereira is a leading name in Eurasian cuisine in Singapore. He has put together this book to preserve the Eurasian heritage, culture, and recipes for future generations.
+</p><p><a href="https://nlb.overdrive.com/media/1270603"
+target="_blank">Borrow the eBook here. </a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/"
+target="_blank">myLibrary username</a> is required to access the eBook.)
