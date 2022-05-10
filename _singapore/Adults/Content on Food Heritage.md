@@ -406,3 +406,5 @@ Noronha, Theresa and Cheryl Noronha. (2015). <i>The Eurasian table.</i> Singapor
 <br>
 <img src="/images/Singapore%20Food%20Heritage/Noronha.png" style="width:200px;"></a>
 <p>Third-generation Eurasian, Cheryl Noronha, wrote this book to gather and share her grandmother’s recipes of Eurasian dishes. This book features twenty-four traditional Eurasian recipes that are rooted in Portuguese, Indian and Malay cuisines.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
