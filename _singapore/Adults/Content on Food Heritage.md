@@ -364,3 +364,15 @@ Lee, Chin Koon and Shermay Lee (2019). <i> The New Mrs Lee’s Cookbook Volume 1
 <p> Eurasian food has a history that goes back to the 16th century. Eurasian families emerged from various trading ports in the region, such as Malacca, Penang, Goa, Macau, Ceylon and Bencoolen, where Europeans settled and had children with local women. Many of these Eurasians would later settle in Singapore at different times. Their cuisine blends European and Asian ingredients and techniques.
 
 Learn more about the rich heritage of Eurasian food from these books below.</p>
+
+<h4>eBooks</h4>
+<h5>Robin’s Eurasian recipes</h5>
+Pereira, Robin and Quentin Pereira. (2009). <i>Robin’s Eurasian recipes.</i><br>
+<a target="_blank"
+href=" https://nlb.overdrive.com/media/3300296">
+<img src="/images/Singapore%20Food%20Heritage/Robin.png" style="width:200px;"></a>
+<p> Chef Quentin Pereira shares his father’s well-guarded family recipes. These recipes were passed down from his grandmother, who together with her sisters, used to cook for Eurasian weddings. 
+</p><p><a href="https://nlb.overdrive.com/media/3300296" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
+
