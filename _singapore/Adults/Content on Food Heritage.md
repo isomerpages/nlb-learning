@@ -389,3 +389,8 @@ href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/"
 target="_blank">myLibrary username</a> is required to access the eBook.)
 
 <h4>Books</h4>
+<h5>The Eurasian cookbook</h5>
+Gomes, Mary. (2001). <i>The Eurasian cookbook.</i> Singapore: Horizon Books. (Call no.: RSING q641.5 GOM) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/Gomes.png" style="width:200px;"></a>
+<p>Mary Gomes shares recipes from her family and friends. This collection of recipes represents the rich heritage of Eurasian cuisine which has been influenced by various cultures like those of the Portuguese, Dutch, English, Chinese, Malay, Indian and Peranakan.</p>
