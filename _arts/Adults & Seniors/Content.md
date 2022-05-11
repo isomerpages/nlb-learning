@@ -412,7 +412,7 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=1CxlWUXGF7M"> S
 <h5>3. Hungry for Horror: Why Do We Crave What We Fear? | The Library Report #11</h5> 
 <p> Why are we drawn to horror stories? What are the unique characteristics of reading a horror novel compared to watching a horror movie? Join Librarian Meryl Chin and local filmmaker Kelvin Tong as they discuss the ways horror stories continue to appeal and tantalise generations of us. </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src=" https://www.youtube.com/watch?v=V-LRwGNsP60" height="315" width="560"></iframe></div>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src=" https://www.youtube.com/embed/V-LRwGNsP60" height="315" width="560"></iframe></div>
 Source: <a target="_blank" href="https://www.youtube.com/watch?v=V-LRwGNsP60"> Hungry for Horror: Why Do We Crave What We Fear? | The Library Report #11</a> (2019, March 9). <i> NLB Singapore</i> Retrieved 2022, April 27.
 
 <h4>Articles</h4>
