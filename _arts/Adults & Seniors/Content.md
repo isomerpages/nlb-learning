@@ -66,6 +66,13 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 				<span>Learning Package: <br>Fabulously Felted</span>
       </a>
     </div>
+		<div class="col is-one-third"> 
+    <div class="clickbox is-pink-ruby">
+      <a href="#lp-performing-arts">
+        <span>Learning Package:<br>Performing Arts</span>
+      </a>
+    </div>
+  </div>
   </div>
 	</div>
 	
