@@ -124,7 +124,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://go.gov.sg/nlbdigitalprgms" target="blank"><b>LearnX Digital</b><br>Future of Work</a></td>
+        <td><a href="https://go.gov.sg/nlbfow" target="blank"><b>LearnX Digital</b><br>Future of Work</a></td>
         <td>Learn more about current and upcoming changing needs at work, to get working adults better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites.</td>
         <td>Various dates</td>
         <td>Zoom</td>
