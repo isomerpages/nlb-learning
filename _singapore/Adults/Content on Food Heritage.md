@@ -130,9 +130,8 @@ Join Maeve as she introduces Singaporean food through Singaporeans living in Aus
 </div>
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-<div>
 	
-<h5 class="margin--bottom--lg" id="peranakan-cuisine"><b>Playlist: Peranakan Cuisine </b></h5>
+<h5 id="peranakan-cuisine" class="margin--bottom--lg" ><b>Playlist: Peranakan Cuisine </b></h5>
 
 The term “Peranakan” means “locally born” and is used primarily in insular Southeast Asia to refer to assimilated diasporic groups and hybrid community groups such as the Peranakan Chinese (Baba and Nyonya, or Straits Chinese). Their cuisine may use Malay/Indonesian spices and mainly Chinese cooking techniques. 
 
@@ -187,7 +186,7 @@ Follow famous food blogger Mark Wiens as he samples several popular peranakan di
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id=”eurasian-cuisine”><b>Playlist: Eurasian Cuisine </b></h5>
+<h5 class="margin--bottom--lg" id="eurasian-cuisine"><b>Playlist: Eurasian Cuisine </b></h5>
 
 Today, the term ‘Eurasian’ refers to a person with mixed European and Asian lineage. The Eurasians have been present in Singapore since the early 19th century. Most Eurasians in Singapore can trace their European ancestry to the Portuguese, Dutch or British. Their mixed cultural heritage is also reflected in their cuisine which blends European and Asian ingredients and cooking styles. 
 
