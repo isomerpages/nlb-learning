@@ -40,13 +40,13 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="#lp-job"><b>Job Hunting Toolkit Learning Package</b></a></td>
+        <td style="width: 20%;"><a href="/careers/adults-seniors/content#lp-job" target="blank"><b>Job Hunting Toolkit Learning Package</b></a></td>
         <td style="width: 40%;">Here are some great resources to help make this journey as painless as possible.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/careers/adults-seniors/content" target="#playlist-job"><b>Job Search Strategies Playlist</b></a></td>
+        <td><a href="/careers/adults-seniors/content#playlist-job" target="blank"><b>Job Search Strategies Playlist</b></a></td>
         <td>Discover the top questions that local interviewers like to ask, how to make your LinkedIn profile a honey trap, and how to get into the optimal mindset while you are on the hunt.</td>
         <td></td>
         <td> </td>
@@ -108,7 +108,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
 <tr>
 <td><b>Learn how to acquire new skills with SkillsFuture credits</b></td>
         <td></td>
-        <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank">Refer to SkillsFuture website</a></td>
+        <td><a href="https://www.skillsfuture.gov.sg/advice" target="blank">Refer to SkillsFuture website</a></td>
         <td>Online</td>
       </tr>
     </tbody>
@@ -124,7 +124,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://go.gov.sg/nlbdigitalprgms" target="_blank"><b>LearnX Digital</b><br>Future of Work</a></td>
+        <td><a href="https://go.gov.sg/nlbfow" target="blank"><b>LearnX Digital</b><br>Future of Work</a></td>
         <td>Learn more about current and upcoming changing needs at work, to get working adults better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites.</td>
         <td>Various dates</td>
         <td>Zoom</td>
@@ -146,7 +146,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="#lp-biz"><b>How To Start Your Own Business</b></a></td>
+        <td style="width: 20%;"><a href="/careers/adults-seniors/content#lp-biz" target="blank"><b>How To Start Your Own Business</b></a></td>
         <td style="width: 40%;">Having a great idea is the first step to starting a business of your own.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
@@ -194,14 +194,14 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/careers/adults-seniors/content" target="_blank"><b>Communication at Work Learning Package</b></a></td>
-        <td style="width: 40%;">Happiness at work (and life) can be simple – learn ways to stop saying “yes” on impulse, how to make your life easier, and how you can use “monk mode” regularly for uninterrupted blocks of super-productive time.</td>
+        <td style="width: 20%;"><a href="/careers/adults-seniors/content#lp-comm" target="blank"><b>Communication at Work Learning Package</b></a></td>
+        <td style="width: 40%;">With the right resources and tips, anyone can become a better communicator.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="/careers/adults-seniors/content" target="_blank"><b>How To Be Happy At Work playlist</b></a></td>
-        <td>With the right resources and tips, anyone can become a better communicator.</td>
+        <td><a href="/careers/adults-seniors/content#playlist-happy" target="_blank"><b>How To Be Happy At Work Playlist</b></a></td>
+        <td>Happiness at work (and life) can be simple – learn ways to stop saying “yes” on impulse, how to make your life easier, and how you can use “monk mode” regularly for uninterrupted blocks of super-productive time. </td>
         <td></td>
         <td></td>
       </tr>
@@ -242,10 +242,10 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
 <tr>
-        <td style="width: 20%;"><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>Learn how to acquire new skills with 
+        <td style="width: 20%;"><a href="https://www.skillsfuture.gov.sg/advice" target="blank"><b>Learn how to acquire new skills with 
 SkillsFuture credits</b></a></td>
         <td style="width: 40%;">SkillsFuture Advice webinars</td>
-        <td style="width: 20%;"><a href="https://www.skillsfuture.gov.sg/advice" target="_blank">Various dates – refer to the SkillsFuture website</a></td>
+        <td style="width: 20%;"><a href="https://www.skillsfuture.gov.sg/advice" target="blank">Various dates – refer to the SkillsFuture website</a></td>
         <td style="width: 20%;">Zoom</td>
       </tr>
     </tbody>
@@ -261,7 +261,7 @@ SkillsFuture credits</b></a></td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/learnxwellness-financialliteracy" target="_blank"><b>LearnX Wellness</b><br>Financial Literacy: Adulting 101 and Adulting 102</a></td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/learnxwellness-financialliteracy" target="blank"><b>LearnX Wellness</b><br>Financial Literacy: Adulting 101 and Adulting 102</a></td>
         <td style="width: 40%;">Learn about buying property, insurance and investments.</td>
         <td style="width: 20%;">Various dates</td>
         <td style="width: 20%;">Zoom</td>

@@ -41,6 +41,7 @@ third_nav_title: Adults
 Learn on the go. Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
 
 <div class="row is-multiline">
+	
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade ">
       <a href="#food-heritage">
@@ -48,13 +49,21 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
-	<div class="col is-one-third">
-    <div class="clickbox is-mint-jade ">
+		<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
       <a href="#peranakan-cuisine">
         <span>Playlist: Peranakan Cuisine</span>
       </a>
     </div>
   </div>
+		<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#eurasian-cuisine">
+        <span>Playlist: Eurasian Cuisine</span>
+      </a>
+		</div>
+	</div>
+		
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-food-heritage">
@@ -67,6 +76,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <div class="clickbox is-mint-jade">
 <a href="#lp-peranakan-cuisine">
 <span>Learning Package:<br>Peranakan Cuisine</span>
+</a>
+</div>
+</div>
+	
+<div class= "col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-eurasian-cuisine">
+<span>Learning Package:<br>Eurasian Cuisine</span>
 </a>
 </div>
 </div>
@@ -113,8 +130,8 @@ Join Maeve as she introduces Singaporean food through Singaporeans living in Aus
 </div>
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-<div>
-<h5 class="margin--bottom--lg" id="peranakan-cuisine"><b>Playlist: Peranakan Cuisine </b></h5>
+	
+<h5 id="peranakan-cuisine" class="margin--bottom--lg" ><b>Playlist: Peranakan Cuisine </b></h5>
 
 The term “Peranakan” means “locally born” and is used primarily in insular Southeast Asia to refer to assimilated diasporic groups and hybrid community groups such as the Peranakan Chinese (Baba and Nyonya, or Straits Chinese). Their cuisine may use Malay/Indonesian spices and mainly Chinese cooking techniques. 
 
@@ -169,6 +186,63 @@ Follow famous food blogger Mark Wiens as he samples several popular peranakan di
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<h5 class="margin--bottom--lg" id="eurasian-cuisine"><b>Playlist: Eurasian Cuisine </b></h5>
+
+Today, the term ‘Eurasian’ refers to a person with mixed European and Asian lineage. The Eurasians have been present in Singapore since the early 19th century. Most Eurasians in Singapore can trace their European ancestry to the Portuguese, Dutch or British. Their mixed cultural heritage is also reflected in their cuisine which blends European and Asian ingredients and cooking styles. 
+
+Check out these resources to learn more about Eurasian culinary heritage and traditions.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/-5m1HnbjI3g" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Where Did Eurasian Food Come From? | Our Grandfather Story (3 mins)
+</b>
+<br> Chef and cookbook author, Mary Gomes, talks about the cultures that influence Eurasian cuisine.<br><br>
+<small> Source: Where Did Eurasian Food Come From? (2019, Dec 18). Our Grandfather Story. Retrieved 2022, May 9. </small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/qbnGoMB5gB4" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>Eurasian Sugee Cake & Devil Curry | Christmas Recipes With the Drysdales | Our Grandfather Story (8 mins)
+</b><br>
+Mother and son, Carol and Kurt Drysdale, share their family recipes for Eurasian sugee cake and curry debal which are traditionally served at festive occasions like Christmas. 
+<br><br>
+<small>Source: Eurasian Sugee Cake & Devil Curry | Christmas Recipes With the Drysdales (2020, Dec 25). Our Grandfather Story. Retrieved 2022, May 9.
+</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src=" https://www.youtube.com/embed/ElRIfhKFLzw" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Eurasian Putugal | Vanishing Home Recipes | CNA Insider (2 mins)
+</b><br>
+A group of young Eurasians makes a lesser-known Eurasian dish called putugal (steamed tapioca with coconut and banana). 
+<br><br>
+<small> Source: Eurasian Putugal | Vanishing Home Recipes | CNA Insider (2017, June 13). CNA Insider. Retrieved 2022, May 9.
+</small></p>
+</div>
+</div>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
 <div>
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-food-heritage"><b> Singapore’s Food Heritage: Overview </b></h5>
@@ -216,14 +290,12 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 <h5> Singapore food: a treasury of more than 200 time-tested recipes</h5>
 Hutton, Wendy. (2018). <i> Singapore food: a treasury of more than 200 time-tested recipes. </i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 HUT) 
 <br>
-<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315763265/237207705,1">
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/Wendy.png"></a>
 <p> First published in 1979, this updated edition includes 219 best-loved recipes, “new classics” and additional recipes. Also provides an overview of the various multi-ethnic cooking styles. </p>
 	
 <h5> Singapore heritage food: yesterday's recipes for today's cook </h5>
 Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today's cook. </i> Singapore: Landmark Books Pte Ltd. (Call no.: RSING 641.595957 TAN) 
 <br>
-<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/315765352/75987384,1">
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/Sylvia.png"></a>
 <p> Describes the factors and influences in the unique Singapore culinary heritage and lists the classic dishes and their recipes. </p>
 
@@ -267,30 +339,70 @@ href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">
 	
 <h4>Books</h4>
 <h5> Food and Foodways in Asia: Resource, Tradition and Cooking</h5>
-Cheung, Sidney C. H. and Tan Chee-Beng (eds.) (2007). <i> Food and Foodways in Asia: Resource, Tradition and Cooking.</i> London: Routledge, 2007. (Call no.: RSEA 394.12095 FOO) 
+Cheung, Sidney C. H. and Tan Chee-Beng (eds.) (2007). <i> Food and Foodways in Asia: Resource, Tradition and Cooking.</i> London: Routledge. (Call no.: RSEA 394.12095 FOO) 
 <br>
-<a 
-href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12827884"
-target="_blank">
 <img src="/images/Singapore%20Food%20Heritage/CheungS.png" style="width:200px;"></a>
 <p> Food and Foodways in Asia provides rich ethnographic description and analysis of food production as it interacts with social and political complexities in Asia’s diverse cultures. The book has two relevant chapters on the Peranakan: Tan Chee-Beng’s “Nyonya cuisine: Chinese, non-Chinese and the making of a famous cuisine in Southeast Asia” and Wong Hong Suen’s “Historically themed restaurants and social memory in Singapore.”</p>
 
 <h5>Changing Chinese Foodways in Asia</h5>
 Wu, David Y. H. and Tan Chee Beng (eds.) (2001). <i>Changing Chinese Foodways in Asia</i> Hong Kong: The Chinese United Nations Press. (Call no.: RSING 641.300951 CHA) 
 <br>
-<a 
-href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/320652675/3694461,1"
-target="_blank">
 <img src="/images/Singapore%20Food%20Heritage/TanCB.png" style="width:200px;"></a>
 <p> This book has two relevant contributions for Peranakan food, one by Tan Chee Beng entitled, “Food and Ethnicity with Reference to the Chinese in Malaysia” and another by Chua Beng Huat and Ananda Rajah entitled, “Hybridity, Ethnicity and Food in Singapore.”</p>
 
 <h5>The New Mrs Lee’s Cookbook Volume 1: Peranakan Cuisine</h5>
 Lee, Chin Koon and Shermay Lee (2019). <i> The New Mrs Lee’s Cookbook Volume 1: Peranakan Cuisine.</i> Singapore: World Scientific Lifestyle. (Call no.: RSING 641.595957 LEE) 
 <br>
-<a 
-href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/320654050/302356998,1"
-target="_blank">
 <img src="/images/Singapore%20Food%20Heritage/LeeCK.png" style="width:200px;"></a>
 <p> This cookbook was originally published in 1974 as Mrs Lee’s Cookbook by Mrs. Lee Chin Koon, who was Prime Minister’s Lee Kuan Yew’s mother. This was the first self-identified Peranakan cookbook published in Singapore. As the originals became out of print, the cookbooks were updated by her granddaughter, Ms. Shermay Lee, and this revised volume won the prestigious Gourmand World Cookbook Awards in 2003. This book has a foreword by former president Wee Kim Wee. It includes a collection of “classic” Nyonya recipes taught by Mrs. Lee Chin Koon’s mother in preparation for marriage (eg: Ayam Buah Keluak, Garam Masam, and Mee Siam); a list of key peranakan ingredients to start a peranakan kitchen; tips on how to entertain the peranakan way; tips on healthier versions of Peranakan dishes; and a comprehensive glossary of ingredients and basic kitchen equipment required.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="lp-eurasian-cuisine" class="margin--bottom--lg"><b>Eurasian Cuisine</b></h5>
+<p> Eurasian food has a history that goes back to the 16th century. Eurasian families emerged from various trading ports in the region, such as Malacca, Penang, Goa, Macau, Ceylon and Bencoolen, where Europeans settled and had children with local women. Many of these Eurasians would later settle in Singapore at different times. Their cuisine blends European and Asian ingredients and techniques.
+
+Learn more about the rich heritage of Eurasian food from these books below.</p>
+
+<h4>eBooks</h4>
+<h5>Robin’s Eurasian recipes</h5>
+Pereira, Robin and Quentin Pereira. (2009). <i>Robin’s Eurasian recipes.</i><br>
+<a target="_blank"
+href=" https://nlb.overdrive.com/media/3300296">
+<img src="/images/Singapore%20Food%20Heritage/Robin.png" style="width:200px;"></a>
+<p> Chef Quentin Pereira shares his father’s well-guarded family recipes. These recipes were passed down from his grandmother, who together with her sisters, used to cook for Eurasian weddings. 
+</p><p><a href="https://nlb.overdrive.com/media/3300296" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
+
+<h5>Eurasian heritage cooking</h5>
+Pereira, Quentin. (2012). <i>Eurasian heritage cooking.</i><br> 
+<a target="_blank"
+href="https://nlb.overdrive.com/media/1270603">
+<img src="/images/Singapore%20Food%20Heritage/EHC.png" style="width:200px;"></a>
+<p> Chef Quentin Pereira is a leading name in Eurasian cuisine in Singapore. He has put together this book to preserve the Eurasian heritage, culture, and recipes for future generations.
+</p><p><a href="https://nlb.overdrive.com/media/1270603"
+target="_blank">Borrow the eBook here. </a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/"
+target="_blank">myLibrary username</a> is required to access the eBook.)
+
+<h4>Books</h4>
+<h5>The Eurasian cookbook</h5>
+Gomes, Mary. (2001). <i>The Eurasian cookbook.</i> Singapore: Horizon Books. (Call no.: RSING q641.5 GOM) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/Gomes.png" style="width:200px;"></a>
+<p>Mary Gomes shares recipes from her family and friends. This collection of recipes represents the rich heritage of Eurasian cuisine which has been influenced by various cultures like those of the Portuguese, Dutch, English, Chinese, Malay, Indian and Peranakan.</p>
+
+<h5>Eurasian favourites</h5>
+Hutton, Wendy. (2003). <i>Eurasian favourites.</i> Hong Kong: Periplus Editions. (Call no.: RSING 641.5 HUT) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/Hutton.png" style="width:200px;"></a>
+<p>Wendy Hutton presents a selection of recipes that reflects the blending of East and West which is integral to Eurasian cuisine.</p>
+
+<h5>The Eurasian table</h5>
+Noronha, Theresa and Cheryl Noronha. (2015). <i>The Eurasian table.</i> Singapore: Blurb. (Call no.: RSING 641.595957 NOR) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/Noronha.png" style="width:200px;"></a>
+<p>Third-generation Eurasian, Cheryl Noronha, wrote this book to gather and share her grandmother’s recipes of Eurasian dishes. This book features twenty-four traditional Eurasian recipes that are rooted in Portuguese, Indian and Malay cuisines.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
