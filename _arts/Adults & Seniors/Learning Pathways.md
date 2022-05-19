@@ -27,9 +27,9 @@ third_nav_title: Adults & Seniors
 
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-We start with Cultivating Appreciation for the Arts. Following that, we will proceed to <a href="#learn-skills"> Learning Skills and Supporting the Creation of Artworks </a>. 
+We start with <a href="#cultivating-appreciation"> Cultivating Appreciation for the Arts</a>. Following that, we will proceed to <a href="#learn-skills"> Learning Skills and Supporting the Creation of Artworks</a> and finally, we end with <a href="#participating-art"> Participating in the Art Community</a>.
 
-<h3><b> Cultivating Appreciation for the Arts </b></h3>
+<h3 id="cultivating-appreciation" class="margin--bottom--lg"><b> Cultivating Appreciation for the Arts </b></h3>
 When it comes to discovering and cultivating appreciation for the Arts, there are so many entry points to do so and yet too many that we might be confused on where to start. But why develop an appreciation for the Arts? Firstly, it helps us to develop our eyes and minds as we encounter what we see in it. It also helps open our mindset by listening to different perspectives and views as well as interpretations. It encourages thoughtful conversation and the understanding that there is more than one approach to everything. 
 Through this pathway you can explore different resources and learn ways to cultivate aesthetic appreciation.
 
@@ -137,7 +137,7 @@ Through this pathway you can explore different resources and learn or hone new s
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h3 id="learn-skills" class="margin--bottom--lg"><b> Participating in the Art Community </b></h3>
+<h3 id="participating-art" class="margin--bottom--lg"><b> Participating in the Art Community </b></h3>
 A big part of art is active participation in the larger community: seeing others’ works and being seen for yourself. Through this pathway, you can explore our myriad of established programme series and Learning Communities, and participate in them to continue your own curated learning journeys. 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
