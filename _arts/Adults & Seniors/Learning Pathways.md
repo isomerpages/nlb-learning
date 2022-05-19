@@ -61,7 +61,7 @@ Through this pathway you can explore different resources and learn ways to culti
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal "> Learn more with the Professionals and Academics of the field </th>
+        <th colspan="4" class="is-uppercase has-weight-normal "> Learn more with the Professionals and Academics in the field </th>
       </tr>
     </thead>
     <tbody>
@@ -95,6 +95,12 @@ Through this pathway you can explore different resources and learn or hone new s
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
+			 <tr>
+        <td style="width: 20%;"><a href="/arts/adults-seniors/content#lp-performing-arts" target="_blank"><b>Learning Package: Performing Arts</b></a></td>
+        <td style="width: 40%;"> Get started in the performing arts by taking a leaf out of our recommended resources. Tailored to facilitate self-learning, the articles and videos will support your journey of discovery and exploration of the various performing arts.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -103,7 +109,7 @@ Through this pathway you can explore different resources and learn or hone new s
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal "> Learn more with the Professionals and Academics of the field </th>
+        <th colspan="4" class="is-uppercase has-weight-normal "> Learn more with the Professionals and Academics in the field </th>
       </tr>
     </thead>
     <tbody>
@@ -124,6 +130,26 @@ Through this pathway you can explore different resources and learn or hone new s
         <td> Join the Fabulously Felted program and sew projects from felt based on book characters and the things around us!</td>
         <td>Monthly</td>
         <td>Zoom</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3 id="learn-skills" class="margin--bottom--lg"><b> Participating in the Art Community </b></h3>
+A big part of art is active participation in the larger community: seeing others’ works and being seen for yourself. Through this pathway, you can explore our myriad of established programme series and Learning Communities, and participate in them to continue your own curated learning journeys. 
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal "> Learn More With Fellow Peers and Professionals in the Field </th>
+      </tr>
+    </thead>
+    <tbody>    
+ <tr>
+  <td><a href="https://www.facebook.com/groups/learnxarts.sg/posts/434239158202363/" target="_blank"><b>Young Musicians Festival</b></a></td>
+        <td> Young music students of private music teachers and schools take to the library@esplanade Open Stage for recitals to members of the public in this showcase of talents in the June and December holidays. This biannual event aims to provide a performance platform for children to develop and hone their craft in front of a live audience.</td>
+        <td>Biannually</td>
+        <td>library@esplanade Open Stage</td>
       </tr>
     </tbody>
   </table>
