@@ -135,6 +135,8 @@ Through this pathway you can explore different resources and learn or hone new s
   </table>
 </div>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3 id="learn-skills" class="margin--bottom--lg"><b> Participating in the Art Community </b></h3>
 A big part of art is active participation in the larger community: seeing others’ works and being seen for yourself. Through this pathway, you can explore our myriad of established programme series and Learning Communities, and participate in them to continue your own curated learning journeys. 
 <div class="horizontal-scroll margin--bottom--lg">
@@ -147,7 +149,13 @@ A big part of art is active participation in the larger community: seeing others
     <tbody>    
  <tr>
   <td><a href="https://www.facebook.com/groups/learnxarts.sg/posts/434239158202363/" target="_blank"><b>Young Musicians Festival</b></a></td>
-        <td> Young music students of private music teachers and schools take to the library@esplanade Open Stage for recitals to members of the public in this showcase of talents in the June and December holidays. This biannual event aims to provide a performance platform for children to develop and hone their craft in front of a live audience.</td>
+        <td> Young music students of private music teachers and schools take to the library@esplanade Open Stage for recitals to members of the public in this showcase of talents in the June and December holidays. This biannual event aims to provide a performance platform for children to develop and hone their craft in front of a live audience. <br><br> Check out some of the performances here: 
+<br><br><a href="https://www.facebook.com/groups/learnxarts.sg/posts/438171194475826" target="_blank">Young Musicians Festival Dec 2021 | Artists Music Studio</a>
+<br><br><a href="https://www.facebook.com/groups/learnxarts.sg/posts/437809027845376" target="_blank">Young Musicians Festival Dec 2021 | Music Across Ages Presented by Piano Students of Teachers: Karina, Gail and Jing Xian</a>
+<br><br><a href="https://www.facebook.com/groups/learnxarts.sg/posts/436372934655652" target="_blank">Young Musicians Festival Dec 2021 | Mdm Chong Studio</a>
+<br><br><a href="https://www.facebook.com/groups/learnxarts.sg/posts/436368204656125" target="_blank">Young Musicians Festival Dec 2021 | YangMusic Concert</a>
+<br><br><a href="https://www.facebook.com/groups/learnxarts.sg/posts/436219678004311" target="_blank">Young Musicians Festival Dec 2021 | Cantabile Keys</a>
+	 </td>
         <td>Biannually</td>
         <td>library@esplanade Open Stage</td>
       </tr>
