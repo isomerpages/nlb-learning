@@ -290,13 +290,13 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 <h5> Singapore food: a treasury of more than 200 time-tested recipes</h5>
 Hutton, Wendy. (2018). <i> Singapore food: a treasury of more than 200 time-tested recipes. </i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 HUT) 
 <br>
-<img style="width:200px;" src="/images/Singapore%20Food%20Heritage/Wendy.png"></a>
+<img style="width:200px;" src="/images/Singapore%20Food%20Heritage/Wendy.png">
 <p> First published in 1979, this updated edition includes 219 best-loved recipes, “new classics” and additional recipes. Also provides an overview of the various multi-ethnic cooking styles. </p>
 	
 <h5> Singapore heritage food: yesterday's recipes for today's cook </h5>
 Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today's cook. </i> Singapore: Landmark Books Pte Ltd. (Call no.: RSING 641.595957 TAN) 
 <br>
-<img style="width:200px;" src="/images/Singapore%20Food%20Heritage/Sylvia.png"></a>
+<img style="width:200px;" src="/images/Singapore%20Food%20Heritage/Sylvia.png">
 <p> Describes the factors and influences in the unique Singapore culinary heritage and lists the classic dishes and their recipes. </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p></div>
