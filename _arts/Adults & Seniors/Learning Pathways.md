@@ -114,9 +114,9 @@ Through this pathway you can explore different resources and learn or hone new s
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/drawing-room-artseen-registration-271798184687?aff=ebdsoporgprofile" target="_blank"><b> Drawing Room | artseen</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/drawing-room-artseen-registration-334434501597" target="_blank"><b> Drawing Room | artseen</b></a></td>
         <td style="width: 40%;"> Join the Drawing Room and create a collective art piece together with all the participants! Project theme and medium changes on a monthly basis.  </td>
-        <td style="width: 20%;"> 24 March 2022<br> 3pm – 4pm </td>
+        <td style="width: 20%;"> 16 June 2022<br> 3pm – 4pm </td>
         <td style="width: 20%;">Zoom </td>
       </tr>
 <tr>
@@ -126,7 +126,7 @@ Through this pathway you can explore different resources and learn or hone new s
         <td> Tampines Regional Library, Programme Zone </td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/e/fabulously-felted-deep-sea-critters-artseen-registration-264987132647?aff=odcleoeventsincollection" target="_blank"><b>Fabulously Felted | artseen</b></a></td>
+<td><a href="https://www.eventbrite.sg/e/fabulously-felted-villains-evil-fairy-artseen-registration-335684329867?aff=ebdsoporgprofile" target="_blank"><b>Fabulously Felted | artseen</b></a></td>
         <td> Join the Fabulously Felted program and sew projects from felt based on book characters and the things around us!</td>
         <td>Monthly</td>
         <td>Zoom</td>
