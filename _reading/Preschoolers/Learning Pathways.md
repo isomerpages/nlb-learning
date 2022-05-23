@@ -89,10 +89,10 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
      <tr>			
-<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-277293380967?aff=ebdsoporgprofile" target="_blank"><b> Baby Songs & Rhymes </b></a></td>
-        <td>Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. <br><br>This programme is intended for parents with babies up to 12 months! </td>
-       <td>4 May 2022<br>2.30pm –3.00pm<br></td>
-        <td>Zoom</td>
+<td><a href="https://www.eventbrite.sg/e/adventure-with-smiley-tickets-328526530697?aff=ebdsoporgprofile" target="_blank"><b> Adventure with Smiley!</b></a></td>
+        <td>An interactive and engaging financial literacy program curated specially for children aged 4-7! Smiley will introduce kids to value of money, savings, banking and how they can take little steps towards sustainability through short animated scenes. Printable worksheet and currencies will be available for them to continue their learnings with parents at home. </td>
+       <td>June 1 2022<br>11.00am –12.00pm<br></td>
+        <td>Woodlands Regional Library </td>
       </tr>
 			<tr>			
 <td><a href="https://www.eventbrite.sg/e/life-in-pictures-with-peter-h-reynolds-tickets-326195287887?aff=ebdsoporgprofile" target="_blank"><b>Life in Pictures with Peter H. Reynolds
