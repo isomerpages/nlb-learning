@@ -192,6 +192,12 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>June 4 2022<br>2.00pm – 2.30pm<br></td>
         <td>Zoom  </td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/little-but-loud-goes-to-the-library-tickets-328636268927?aff=ebdsoporgprofile" target="_blank"> <b> "Little But Loud" goes to the Library! </b></a></td>
+        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
+       <td>June 4 2022<br>3.00pm-3.30pm<br></td>
+        <td>Bedok Public Library</td>
+      </tr>
 			  <tr>
 			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-323607467647?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Water Conservation</b></a></td>
         <td> This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. <br><br>This programme is for children aged 4 to 6 years old. Registration is required for this programme.
