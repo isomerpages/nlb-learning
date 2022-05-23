@@ -128,10 +128,12 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>Jurong Regional Library</td>
       </tr>
 <tr>			
-<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-308440452697?aff=ebdsoporgprofile" target="_blank"><b>Jiggle Read & Rhyme | Early READ</b></a></td>
-        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! For toddlers aged 1-3.</td>
-        <td>14 May 2022<br>10.30am– 11.00am<br></td>
-        <td>Queenstown Public Library</td>
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-331035625467?aff=ebdsoporgprofile" target="_blank"><b>Baby Songs & Rhymes | Early READ</b></a></td>
+        <td> Songs and rhymes play an important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. 
+<br>
+This programme is intended for parents with babies up to 12 months.</td>
+        <td>June 9 2022<br>3.00pm-3.30pm<br></td>
+        <td>Zoom</td>
       </tr>
 <tr>			
 <td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-317947638947?aff=ebdsoporgprofile-registration-277286921647?aff=ebdsoporgprofile" target="_blank"><b>Jiggle Read & Rhyme | Early READ </b></a></td>
