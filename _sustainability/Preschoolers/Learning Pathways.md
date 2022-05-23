@@ -160,6 +160,14 @@ This programme is intended for parents with babies up to 12 months.</td>
        <td>June 5 2022<br>2.00pm-2.30pm<br></td>
         <td>Jurong Regional Library</td>
       </tr>
+		<tr>			
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-331035625467?aff=ebdsoporgprofile" target="_blank"><b>Baby Songs & Rhymes | Early READ</b></a></td>
+        <td> Songs and rhymes play an important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. 
+<br>
+This programme is intended for parents with babies up to 12 months.</td>
+        <td>June 9 2022<br>3.00pm-3.30pm<br></td>
+        <td>Zoom</td>
+      </tr>
 				<tr>			
 <td><a href="https://www.eventbrite.sg/e/budding-scientists-how-do-animals-grow-tickets-337747761647?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] How Do Animals Grow? </b></a></td>
         <td> Every living things goes through a life cycle and your child may start understanding that as they grow! From cats to butterflies, horses to frogs, this programme aims to bring your child on an investigative journey of the growth, development and needs of familiar and even unfamiliar animals. Come join us in this interactive session as we look at how animals evolve from one stage of life to another, and what they need to survive and grow. Bring home your very own butterfly life cycle craft too!
