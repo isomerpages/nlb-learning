@@ -202,6 +202,12 @@ Authors: Daniel J. Siegel, Tina Payne Bryson</td>
         <td>June 11 2022<br>11.00am– 12.30pm<br></td>
         <td>Sengkang Public Library</td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/sensory-story-time-tickets-322959820517?aff=ebdssbdestsearch" target="_blank"><b>Sensory Story Time </b></a></td>
+        <td>Join us for a special storytime tailored to engage the different senses. This programme is designed to support children with special needs. Families with typically developing children are also welcome. This is a parent-child programme and each registration is for one participant. Please register one ticket each for you and your child.  If you are a caregiver of a child with special needs, please email to accessible@nlb.gov.sg with the information below.</td>
+       <td>June 11 2022<br>12.30pm-1.00pm<br></td>
+        <td>Jurong Regional Library</td>
+      </tr>
 			     <tr>
 			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-323607467647?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Water Conservation</b></a></td>
         <td> This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. <br><br>This programme is for children aged 4 to 6 years old. Registration is required for this programme.
