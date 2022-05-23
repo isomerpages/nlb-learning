@@ -125,6 +125,12 @@ This program aims to let the children and parents understand what computational 
     </thead>
     <tbody>
 			 <tr>			
+<td><a href="https://www.eventbrite.sg/e/adventure-with-smiley-tickets-328526530697?aff=ebdsoporgprofile" target="_blank"><b> Adventure with Smiley!</b></a></td>
+        <td>An interactive and engaging financial literacy program curated specially for children aged 4-7! Smiley will introduce kids to value of money, savings, banking and how they can take little steps towards sustainability through short animated scenes. Printable worksheet and currencies will be available for them to continue their learnings with parents at home. </td>
+       <td>June 1 2022<br>11.00am –12.00pm<br></td>
+        <td>Woodlands Regional Library </td>
+      </tr>
+			 <tr>			
 <td><a href="https://www.eventbrite.sg/e/budding-scientists-what-glows-in-the-deep-dark-sea-registration-337112230757?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] What Glows in the Deep Dark Sea?</b></a></td>
         <td>Are you ready to meet some strange but fascinating deep-sea creatures? Join us as we learn about the different creatures that exist in deep oceans today. Discover why and how these animals glow in the deep sea through interactive activities and hands-on learning. Let's uncover the science behind bioluminescence together! This is a parent-child programme and is suitable for children aged 4-6 years old.</td>
        <td>June 1 2022<br>3.00pm –4.00pm<br></td>
