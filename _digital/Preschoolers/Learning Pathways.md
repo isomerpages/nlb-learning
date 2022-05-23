@@ -216,6 +216,12 @@ This programme is for children aged 4 to 6. It is also designed to support child
         <td>June 11 2022<br>2.00pm-3.00pm<br></td>
         <td>Zoom </td>
       </tr>
+				<tr>			
+<td><a href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-early-read-registration-276288485297?aff=ebdsoporgprofile" target="_blank"><b>Toddler Songs and Rhymes | Early READ</b></a></td>
+        <td> Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
+        <td>June 14 2022<br>4.00pm-4.20pm<br></td>
+        <td>Zoom </td>
+      </tr>
 			     <tr>
 			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-323607467647?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Water Conservation</b></a></td>
         <td> This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. <br><br>This programme is for children aged 4 to 6 years old. Registration is required for this programme.
