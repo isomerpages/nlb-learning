@@ -260,6 +260,14 @@ This programme is for children aged 4 to 6. It is also designed to support child
         <td>June 23 2022<br>4.00pm-4.20pm<br></td>
         <td>Zoom </td>
       </tr>
+				<tr>			
+<td><a href="https://www.eventbrite.sg/e/parents-learning-community-play-learn-through-music-early-read-tickets-346611102137?aff=ebdsoporgprofile" target="_blank"><b>Parents' Learning Community: Play & Learn Through Music! | Early READ</b></a></td>
+        <td> For our first session, we have Yi Lin - a storybook enthusiast and parent to 3 children, who will take you on a humorous musical journey with I Know a Shy Fellow Who Swallowed a Cello, together with the help of a, well, cello! Get ready for an hour of storytelling and enjoyable activities, while learning more about early literacy. Stay tuned for the next session in the series coming to you soon!</td>
+        <td>June 25  2022<br>10.30am-11.30am<br></td>
+        <td>
+Jurong Regional Library
+ </td>
+      </tr>
 			<tr>			
 <td><a href="https://www.eventbrite.sg/e/budding-engineers-balloon-powered-car-registration-337126613777?aff=ebdsoporgprofile" target="_blank"><b>[Budding Engineers] Balloon-Powered Car</b></a></td>
         <td> Energy conversion exists all around us. How does this work and how does energy make things move? Let's find out in this session as we create our own balloon-powered cars that zoom around the library! With everyday items, we will delve into learning about potential and kinetic energy, while making the fastest car possible! This is a parent-child programme and is suitable for children aged 4-6 years old.  </td>
