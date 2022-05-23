@@ -95,11 +95,12 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Woodlands Regional Library </td>
       </tr>
 			<tr>			
-<td><a href="https://www.eventbrite.sg/e/life-in-pictures-with-peter-h-reynolds-tickets-326195287887?aff=ebdsoporgprofile" target="_blank"><b>Life in Pictures with Peter H. Reynolds
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-329420474507?aff=ebdsoporgprofile" target="_blank"><b>Baby Songs & Rhymes | Early READ
  </b></a></td>
-        <td> Come and join us for an exclusive event with Peter H. Reynolds, where he will read aloud his book and answer some of your questions for parents with children aged 3 to 8!
-"Stories for All Ages" author Peter Reynolds, who has been widely praised around the world for his work, will be making an appearance online! </td>
-        <td>7 May 2022<br>10.00am-11.00am<br></td>
+        <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home.
+<br>
+This programme is intended for parents with babies up to 12 months.</td>
+        <td>June 1 2022<br>2.30pm-3.00pm<br></td>
         <td>Zoom</td>
       </tr>		
 <tr>			
