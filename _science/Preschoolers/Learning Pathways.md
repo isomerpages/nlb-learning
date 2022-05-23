@@ -134,6 +134,12 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
         <td>June 17 2022<br>3.30pm – 4.30pm<br></td>
         <td>Zoom </td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/budding-engineers-balloon-powered-car-registration-337126613777?aff=ebdsoporgprofile" target="_blank"><b>[Budding Engineers] Balloon-Powered Car</b></a></td>
+        <td> Energy conversion exists all around us. How does this work and how does energy make things move? Let's find out in this session as we create our own balloon-powered cars that zoom around the library! With everyday items, we will delve into learning about potential and kinetic energy, while making the fastest car possible! This is a parent-child programme and is suitable for children aged 4-6 years old.  </td>
+        <td>June 25 2022<br>10.30am – 11.30am<br></td>
+        <td>Jurong West Public Library </td>
+      </tr>
    </tbody>
  </table>
 </div>
