@@ -279,6 +279,12 @@ Learn to use ScratchJr to create motion and animationsUse blocks and open-ended 
         <td>June 19 2022<br>2.00pm – 3.00pm<br></td>
         <td>Jurong Regional Library </td>
 			</tr>
+				<tr>			
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-276302778047?aff=ebdsoporgprofile" target="_blank"><b>Baby Songs & Rhymes | Early READ</b></a></td>
+        <td> Songs and rhymes are important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. This programme is intended for parents with babies up to 12 months.</td>
+        <td>June 23 2022<br>4.00pm-4.20pm<br></td>
+        <td>Zoom </td>
+      </tr>
 			<tr>			
 <td><a href="https://www.eventbrite.sg/e/how-to-build-a-computational-mind-through-play-tickets-328524745357?aff=ebdsoporgprofile" target="_blank"><b>How to Build a "Computational Mind" Through "PLAY"</b></a></td>
         <td> The world is becoming increasingly digital; children come into contact with digital media at an increasingly early age and this presents them with new challenges. They may grow up as "digital natives", but many of them lack the basic understanding and knowledge of how computers work.
