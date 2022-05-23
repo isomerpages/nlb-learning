@@ -121,6 +121,13 @@ Check out the video resources below to help your child understand the roles of t
         <td>June 4 2022<br>2.00pm – 2.30pm<br></td>
         <td>Zoom  </td>
       </tr>
+				<tr>			
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-how-do-animals-grow-tickets-337747761647?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] How Do Animals Grow? </b></a></td>
+        <td> Every living things goes through a life cycle and your child may start understanding that as they grow! From cats to butterflies, horses to frogs, this programme aims to bring your child on an investigative journey of the growth, development and needs of familiar and even unfamiliar animals. Come join us in this interactive session as we look at how animals evolve from one stage of life to another, and what they need to survive and grow. Bring home your very own butterfly life cycle craft too!
+</td>
+        <td>June 10 2022<br>11.00am – 12.00pm<br></td>
+        <td>Woodlands Regional Library</td>
+      </tr>
      	<tr>			
 <td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-323603224957?aff=ebdsoporgprofile" target="_blank"><b> Introduction to Scratch Junior Coding
 </b></a></td>
