@@ -84,7 +84,7 @@ Check out the video resources below to help your child understand the roles of t
 			</tr>
 			<tr>
 			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-seas-and-oceans-tickets-323601620157?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Seas and Oceans </b></a></td>
-        <td> Come and join an afternoon of fun, with a dramatized storytelling about the Singapore Rivers' past, song and upcycling craft session. Children will learn the importance of keeping our rivers clean and how we can reuse our household waste through upcycling. This programme is for children aged 3 to 8 years old.
+        <td> Find out more about the importance of Seas and Oceans and how we can play a part in protecting them in this storytelling and activity session for children aged 4-6. This is a parent-accompanied programme. Registration is required for this programme.
 </td>
         <td>June 19 2022<br>2.00pm – 3.00pm<br></td>
         <td>Jurong Regional Library </td>
