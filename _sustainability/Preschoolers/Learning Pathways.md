@@ -187,6 +187,12 @@ Authors: Daniel J. Siegel, Tina Payne Bryson</td>
         <td>Sengkang Public Library</td>
       </tr>
 		<tr>			
+<td><a href="https://www.eventbrite.sg/e/sensory-story-time-tickets-322959820517?aff=ebdssbdestsearch" target="_blank"><b>Sensory Story Time </b></a></td>
+        <td>Join us for a special storytime tailored to engage the different senses. This programme is designed to support children with special needs. Families with typically developing children are also welcome. This is a parent-child programme and each registration is for one participant. Please register one ticket each for you and your child.  If you are a caregiver of a child with special needs, please email to accessible@nlb.gov.sg with the information below.</td>
+       <td>June 11 2022<br>12.30pm-1.00pm<br></td>
+        <td>Jurong Regional Library</td>
+      </tr>
+		<tr>			
 <td><a href="https://www.eventbrite.sg/e/budding-scientists-let-there-be-light-tickets-328631775487?aff=ebdsoporgprofile" target="_blank"><b>[Budding Scientists] Let There Be Light!</b></a></td>
         <td> What is light made off? Why does light go through some things and not others? Let's learn more about light and how it travels through this super fun and simple session! We will be doing an experiment and a DIY shadow puppet theatre together!  </td>
         <td>June 17 2022<br>3.30pm – 4.30pm<br></td>
