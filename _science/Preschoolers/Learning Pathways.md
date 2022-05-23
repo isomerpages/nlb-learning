@@ -173,6 +173,13 @@ Learn to use ScratchJr to create motion and animationsUse blocks and open-ended 
         <td>June 18 2022<br>11.00am-12.00pm<br></td>
         <td>Bedok Public Library </td>
       </tr>
+			<tr>
+			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-seas-and-oceans-tickets-323601620157?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Seas and Oceans </b></a></td>
+        <td> Come and join an afternoon of fun, with a dramatized storytelling about the Singapore Rivers' past, song and upcycling craft session. Children will learn the importance of keeping our rivers clean and how we can reuse our household waste through upcycling. This programme is for children aged 3 to 8 years old.
+</td>
+        <td>June 19 2022<br>2.00pm – 3.00pm<br></td>
+        <td>Jurong Regional Library </td>
+			</tr>
 			<tr>			
 <td><a href="https://www.eventbrite.sg/e/how-to-build-a-computational-mind-through-play-tickets-328524745357?aff=ebdsoporgprofile" target="_blank"><b>How to Build a "Computational Mind" Through "PLAY"</b></a></td>
         <td> The world is becoming increasingly digital; children come into contact with digital media at an increasingly early age and this presents them with new challenges. They may grow up as "digital natives", but many of them lack the basic understanding and knowledge of how computers work.
