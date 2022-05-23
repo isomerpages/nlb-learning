@@ -266,6 +266,12 @@ Learn to use ScratchJr to create motion and animationsUse blocks and open-ended 
         <td>June 18 2022<br>11.00am-12.00pm<br></td>
         <td>Bedok Public Library </td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/storytelling-with-evelyn-the-noisiest-tree-tickets-323605240987?aff=ebdsoporgprofile" target="_blank"><b>Storytelling with Evelyn | The Noisiest Tree</b></a></td>
+        <td> Evelyn is a children's book author who writes stories for curious young readers to explore new words and worlds. They have been performed in children's theatre, festivals and schools.  The Just a Little Mynah picture book series are fun read-aloud stories with colourful characters and multilingual dialogue. </td>
+        <td>June 18 2022<br>2.00pm-2.30pm<br></td>
+        <td>Sengkang Public Library </td>
+      </tr>
 			<tr>
 			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-seas-and-oceans-tickets-323601620157?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Seas and Oceans </b></a></td>
         <td> Find out more about the importance of Seas and Oceans and how we can play a part in protecting them in this storytelling and activity session for children aged 4-6. This is a parent-accompanied programme. Registration is required for this programme.
