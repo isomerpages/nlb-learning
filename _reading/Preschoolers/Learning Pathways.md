@@ -166,6 +166,12 @@ This programme is for children aged 4 to 6. It is also designed to support child
         <td>June 14 2022<br>4.00pm-4.20pm<br></td>
         <td>Zoom </td>
       </tr>
+				<tr>			
+<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-tickets-325391995217?aff=ebdsoporgprofile" target="_blank"><b>Jiggle, Read & Rhyme | Early READ</b></a></td>
+        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! For toddlers aged 1-3.</td>
+        <td>June 18 2022<br>11.00am-11.30am<br></td>
+        <td>Toa Payoh Public Library </td>
+      </tr>
     </tbody>
   </table>
 </div>
