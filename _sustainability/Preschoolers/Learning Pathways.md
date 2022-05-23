@@ -193,6 +193,20 @@ Authors: Daniel J. Siegel, Tina Payne Bryson</td>
         <td>Jurong Regional Library</td>
       </tr>
 		<tr>			
+<td><a href="https://www.eventbrite.sg/e/a-book-a-day-holiday-specials-enchanting-wonderland-tickets-328632948997?aff=ebdsoporgprofile" target="_blank"><b>A Book A Day Holiday Specials: Enchanting Wonderland </b></a></td>
+        <td> Join us on a journey to an enchanting wonderland through songs and poems; and create your very own Paper Cup Fairy House!
+<br><Br>
+This programme is for children aged 4 to 6. It is also designed to support children with special needs. Parents are encouraged to attend the session with their child/children</td>
+        <td>June 11 2022<br>2.00pm-3.00pm<br></td>
+        <td>Zoom </td>
+      </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-early-read-registration-276288485297?aff=ebdsoporgprofile" target="_blank"><b>Toddler Songs and Rhymes | Early READ</b></a></td>
+        <td> Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
+        <td>June 14 2022<br>4.00pm-4.20pm<br></td>
+        <td>Zoom </td>
+      </tr>
+		<tr>			
 <td><a href="https://www.eventbrite.sg/e/budding-scientists-let-there-be-light-tickets-328631775487?aff=ebdsoporgprofile" target="_blank"><b>[Budding Scientists] Let There Be Light!</b></a></td>
         <td> What is light made off? Why does light go through some things and not others? Let's learn more about light and how it travels through this super fun and simple session! We will be doing an experiment and a DIY shadow puppet theatre together!  </td>
         <td>June 17 2022<br>3.30pm – 4.30pm<br></td>
