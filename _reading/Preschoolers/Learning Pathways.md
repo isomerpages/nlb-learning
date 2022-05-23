@@ -116,10 +116,10 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>Queenstown Public Library </td>
       </tr>
 			<tr>			
-<td><a href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-early-read-registration-276287953707?aff=ebdsoporgprofile" target="_blank"> <b> Toddler Songs & Rhymes </b></a></td>
+<td><a href="https://www.eventbrite.sg/e/little-but-loud-goes-to-the-library-tickets-328636268927?aff=ebdsoporgprofile" target="_blank"> <b> "Little But Loud" goes to the Library! </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
-       <td>10 May 2022<br>4.00pm-4.20pm<br></td>
-        <td>Zoom</td>
+       <td>June 4 2022<br>3.00pm-3.30pm<br></td>
+        <td>Bedok Public Library</td>
       </tr>
 <tr>			
 <td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-308440452697?aff=ebdsoporgprofile" target="_blank"><b>Jiggle Read & Rhyme | Early READ</b></a></td>
