@@ -152,6 +152,12 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>June 2 2022<br>11.00am – 12.30pm<br></td>
         <td>Jurong Regional Library</td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-334371513197?aff=ebdsoporgprofile" target="_blank"><b> Jiggle Read & Rhyme | Early READ</b></a></td>
+        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! For toddlers aged 1-3.</td>
+        <td>June 2 2022<br>4.00pm– 4.30am<br></td>
+        <td>Bedok Public Library</td>
+      </tr>
 					<tr>			
 <td><a href="https://www.eventbrite.sg/e/budding-scientists-how-do-animals-grow-tickets-337747761647?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] How Do Animals Grow? </b></a></td>
         <td> Every living things goes through a life cycle and your child may start understanding that as they grow! From cats to butterflies, horses to frogs, this programme aims to bring your child on an investigative journey of the growth, development and needs of familiar and even unfamiliar animals. Come join us in this interactive session as we look at how animals evolve from one stage of life to another, and what they need to survive and grow. Bring home your very own butterfly life cycle craft too!
