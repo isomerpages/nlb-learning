@@ -160,6 +160,12 @@ This programme is for children aged 4 to 6. It is also designed to support child
         <td>June 11 2022<br>2.00pm-3.00pm<br></td>
         <td>Zoom </td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-early-read-registration-276288485297?aff=ebdsoporgprofile" target="_blank"><b>Toddler Songs and Rhymes | Early READ</b></a></td>
+        <td> Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
+        <td>June 14 2022<br>4.00pm-4.20pm<br></td>
+        <td>Zoom </td>
+      </tr>
     </tbody>
   </table>
 </div>
