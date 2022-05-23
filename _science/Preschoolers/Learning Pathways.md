@@ -182,7 +182,7 @@ This programme is intended for parents with babies up to 12 months.</td>
       </tr>
 			<tr>			
 <td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-331034351657?aff=ebdsoporgprofile" target="_blank"><b> Jiggle Read & Rhyme | Early READ</b></a></td>
-        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! For toddlers aged 1-3. As we are celebrating World Water Day in March, you can come dressed in blue!</td>
+        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! </td>
         <td>June 4 2022<br>10.30am – 11.00am<br></td>
         <td>Queenstown Public Library </td>
       </tr>
