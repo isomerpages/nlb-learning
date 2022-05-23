@@ -108,6 +108,13 @@ Check out the video resources below to help your child understand the roles of t
        <td>June 1 2022<br>3.00pm –4.00pm<br></td>
         <td>Bedok Public Library </td>
       </tr>
+		  <tr>	
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-science-explorers-fun-with-popsicle-sticks-tickets-323677908337?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] Science Explorers! Fun with Popsicle Sticks</b></a></td>
+        <td> Potential energy is the tension created between two objects when they are compressed or stretched. Like our emotions, if we bottle them up, it can lead to a rather unfriendly explosion. Let’s learn how to handle potential energy with care so we can explode in fun at our own time as well as learn to build a robotic arm with popsicle sticks that extends to grab some little toys home! This programme is for children aged 4-6 years old.
+</td>
+        <td>June 2 2022<br>11.00am – 12.30pm<br></td>
+        <td>Jurong Regional Library</td>
+      </tr>
 	<tr>			
 <td><a href="https://www.eventbrite.sg/e/think-like-a-coder-session-2-powerful-patterns-tickets-322963270837?aff=ebdsoporgprofile" target="_blank"><b> Think Like a Coder: Session 2: Powerful Patterns </b></a></td>
         <td> Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children (age 3-6). These are for absolute beginners.Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.</td>
