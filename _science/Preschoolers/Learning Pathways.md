@@ -211,6 +211,14 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>June 16 2022<br>2.00pm - 3.00pm<br></td>
         <td>Sengkang Public Library</td>
 			</tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-331035625467?aff=ebdsoporgprofile" target="_blank"><b>Baby Songs & Rhymes | Early READ</b></a></td>
+        <td> Songs and rhymes play an important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. 
+<br>
+This programme is intended for parents with babies up to 12 months.</td>
+        <td>June 9 2022<br>3.00pm-3.30pm<br></td>
+        <td>Zoom</td>
+      </tr>
      	<tr>			
 <td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-323603224957?aff=ebdsoporgprofile" target="_blank"><b> Introduction to Scratch Junior Coding
 </b></a></td>
