@@ -178,6 +178,12 @@ This programme is for children aged 4 to 6. It is also designed to support child
         <td>June 18 2022<br>2.00pm-2.30pm<br></td>
         <td>Sengkang Public Library </td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-276302778047?aff=ebdsoporgprofile" target="_blank"><b>Baby Songs & Rhymes | Early READ</b></a></td>
+        <td> Songs and rhymes are important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. This programme is intended for parents with babies up to 12 months.</td>
+        <td>June 23 2022<br>4.00pm-4.20pm<br></td>
+        <td>Zoom </td>
+      </tr>
     </tbody>
   </table>
 </div>
