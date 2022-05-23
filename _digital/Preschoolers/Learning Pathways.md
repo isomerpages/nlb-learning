@@ -208,6 +208,14 @@ Authors: Daniel J. Siegel, Tina Payne Bryson</td>
        <td>June 11 2022<br>12.30pm-1.00pm<br></td>
         <td>Jurong Regional Library</td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/a-book-a-day-holiday-specials-enchanting-wonderland-tickets-328632948997?aff=ebdsoporgprofile" target="_blank"><b>A Book A Day Holiday Specials: Enchanting Wonderland </b></a></td>
+        <td> Join us on a journey to an enchanting wonderland through songs and poems; and create your very own Paper Cup Fairy House!
+<br><Br>
+This programme is for children aged 4 to 6. It is also designed to support children with special needs. Parents are encouraged to attend the session with their child/children</td>
+        <td>June 11 2022<br>2.00pm-3.00pm<br></td>
+        <td>Zoom </td>
+      </tr>
 			     <tr>
 			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-323607467647?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Water Conservation</b></a></td>
         <td> This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. <br><br>This programme is for children aged 4 to 6 years old. Registration is required for this programme.
