@@ -150,6 +150,13 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
         <td>June 4 2022<br>2.00pm – 2.30pm<br></td>
         <td>Zoom  </td>
       </tr>
+			  <tr>
+			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-323607467647?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Water Conservation</b></a></td>
+        <td> This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. <br><br>This programme is for children aged 4 to 6 years old. Registration is required for this programme.
+</td>
+        <td>June 16 2022<br>2.00pm - 3.00pm<br></td>
+        <td>Sengkang Public Library</td>
+			</tr>
      	<tr>			
 <td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-323603224957?aff=ebdsoporgprofile" target="_blank"><b> Introduction to Scratch Junior Coding
 </b></a></td>
