@@ -164,6 +164,12 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>June 4 2022<br>10.30am – 11.00am<br></td>
         <td>Queenstown Public Library </td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/little-but-loud-goes-to-the-library-tickets-328636268927?aff=ebdsoporgprofile" target="_blank"> <b> "Little But Loud" goes to the Library! </b></a></td>
+        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
+       <td>June 4 2022<br>3.00pm-3.30pm<br></td>
+        <td>Bedok Public Library</td>
+      </tr>
 					<tr>			
 <td><a href="https://www.eventbrite.sg/e/budding-scientists-how-do-animals-grow-tickets-337747761647?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] How Do Animals Grow? </b></a></td>
         <td> Every living things goes through a life cycle and your child may start understanding that as they grow! From cats to butterflies, horses to frogs, this programme aims to bring your child on an investigative journey of the growth, development and needs of familiar and even unfamiliar animals. Come join us in this interactive session as we look at how animals evolve from one stage of life to another, and what they need to survive and grow. Bring home your very own butterfly life cycle craft too!
