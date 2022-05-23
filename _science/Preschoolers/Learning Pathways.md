@@ -109,10 +109,10 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
     </thead>
     <tbody>
 			   <tr>			
-<td><a href="https://www.eventbrite.sg/e/nature-portraits-animals-that-fly-singapore-botanic-gardens-tickets-315184273647?aff=ebdsoporgprofile" target="_blank"><b> Nature Portraits: Animals that Fly | Singapore Botanic Gardens</b></a></td>
-        <td>Take a short walk with us in the neighbourhood outdoors and spot as many flying animals as you can! From insects to birds, these creatures take flight in different ways and also have their own life cycles. Join us and find about more about these magnificent creatures!</td>
-       <td>7 May 2022<br>11.00am –11.45am<br></td>
-        <td>Queenstown Public Library </td>
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-what-glows-in-the-deep-dark-sea-registration-337112230757?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] What Glows in the Deep Dark Sea?</b></a></td>
+        <td>Are you ready to meet some strange but fascinating deep-sea creatures? Join us as we learn about the different creatures that exist in deep oceans today. Discover why and how these animals glow in the deep sea through interactive activities and hands-on learning. Let's uncover the science behind bioluminescence together! This is a parent-child programme and is suitable for children aged 4-6 years old.</td>
+       <td>June 1 2022<br>3.00pm –4.00pm<br></td>
+        <td>Bedok Public Library </td>
       </tr>
 				  <tr>	
 <td><a href="https://www.eventbrite.sg/e/marshmallow-shooter-registration-316636296687?aff=ebdsoporgprofile" target="_blank"><b> Marshmallow Shooter!</b></a></td>
@@ -175,7 +175,7 @@ Learn to use ScratchJr to create motion and animationsUse blocks and open-ended 
       </tr>
 			<tr>
 			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-seas-and-oceans-tickets-323601620157?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Seas and Oceans </b></a></td>
-        <td> Come and join an afternoon of fun, with a dramatized storytelling about the Singapore Rivers' past, song and upcycling craft session. Children will learn the importance of keeping our rivers clean and how we can reuse our household waste through upcycling. This programme is for children aged 3 to 8 years old.
+        <td> Find out more about the importance of Seas and Oceans and how we can play a part in protecting them in this storytelling and activity session for children aged 4-6. This is a parent-accompanied programme. Registration is required for this programme.
 </td>
         <td>June 19 2022<br>2.00pm – 3.00pm<br></td>
         <td>Jurong Regional Library </td>
