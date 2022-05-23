@@ -147,10 +147,10 @@ Authors: Daniel J. Siegel, Tina Payne Bryson</td>
         <td>Sengkang Public Library</td>
       </tr>
 <tr>			
-<td><a href="https://www.eventbrite.sg/e/toddler-songs-rhymes-early-read-registration-292214249687?aff=ebdsoporgprofile" target="_blank"><b>Toddler Songs & Rhymes </b></a></td>
-        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
-       <td>21 May 20222<br>11.00am-11.20am<br></td>
-        <td>Zoom</td>
+<td><a href="https://www.eventbrite.sg/e/sensory-story-time-tickets-322959820517?aff=ebdssbdestsearch" target="_blank"><b>Sensory Story Time </b></a></td>
+        <td>Join us for a special storytime tailored to engage the different senses. This programme is designed to support children with special needs. Families with typically developing children are also welcome. This is a parent-child programme and each registration is for one participant. Please register one ticket each for you and your child.  If you are a caregiver of a child with special needs, please email to accessible@nlb.gov.sg with the information below.</td>
+       <td>June 11 2022<br>12.30pm-1.00pm<br></td>
+        <td>Jurong Regional Library</td>
       </tr>
 			<tr>			
 <td><a href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-313237450647?aff=ebdsoporgprofile" target="_blank"><b>Children's Puppet Castle </b></a></td>
