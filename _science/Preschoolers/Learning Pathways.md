@@ -129,10 +129,10 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
         <td>Woodlands Regional Library</td>
       </tr>
 	<tr>			
-<td><a href="https://www.eventbrite.sg/e/marvellous-trees-singapore-botanic-gardens-tickets-315183982777?aff=ebdsoporgprofile" target="_blank"><b> Marvellous Trees | Singapore Botanic Gardens </b></a></td>
-        <td> Trees are all around us in our little green city. Do you know that other than providing us with shade, trees also play an important role in keeping our air fresh? Come join us in this enriching session to learn more about trees and their life cycle!   </td>
-        <td>21 May 2022<br>11.00am – 11.45am<br></td>
-        <td>Tampines Regional Library  </td>
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-let-there-be-light-tickets-328631775487?aff=ebdsoporgprofile" target="_blank"><b>[Budding Scientists] Let There Be Light!</b></a></td>
+        <td> What is light made off? Why does light go through some things and not others? Let's learn more about light and how it travels through this super fun and simple session! We will be doing an experiment and a DIY shadow puppet theatre together!  </td>
+        <td>June 17 2022<br>3.30pm – 4.30pm<br></td>
+        <td>Zoom </td>
       </tr>
    </tbody>
  </table>
