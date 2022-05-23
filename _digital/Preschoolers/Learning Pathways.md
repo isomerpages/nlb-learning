@@ -221,7 +221,7 @@ This programme is for children aged 4 to 6. It is also designed to support child
         <td> Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
         <td>June 14 2022<br>4.00pm-4.20pm<br></td>
         <td>Zoom </td>
-      </tr>
+			</tr>
 			     <tr>
 			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-323607467647?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Water Conservation</b></a></td>
         <td> This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. <br><br>This programme is for children aged 4 to 6 years old. Registration is required for this programme.
@@ -234,6 +234,12 @@ This programme is for children aged 4 to 6. It is also designed to support child
         <td> What is light made off? Why does light go through some things and not others? Let's learn more about light and how it travels through this super fun and simple session! We will be doing an experiment and a DIY shadow puppet theatre together!  </td>
         <td>June 17 2022<br>3.30pm – 4.30pm<br></td>
         <td>Zoom </td>
+      </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-tickets-325391995217?aff=ebdsoporgprofile" target="_blank"><b>Jiggle, Read & Rhyme | Early READ</b></a></td>
+        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! For toddlers aged 1-3.</td>
+        <td>June 18 2022<br>11.00am-11.30am<br></td>
+        <td>Toa Payoh Public Library </td>
       </tr>
 			<tr>
 			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-seas-and-oceans-tickets-323601620157?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Seas and Oceans </b></a></td>
