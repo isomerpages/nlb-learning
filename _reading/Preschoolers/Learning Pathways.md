@@ -155,64 +155,37 @@ Make reading a fun activity while fostering that special bond between you and yo
       </tr>
     </thead>
     <tbody>
-    <tr>	
-<td><a href="https://www.eventbrite.sg/e/think-like-a-coder-session-2-powerful-patterns-tickets-303277038787?aff=ebdsoporgprofile" target="_blank"><b>Think Like a Coder: Session 2: Powerful Patterns</b></a></td>
-        <td> In this session children learn about patterns all around them and how that helps in creating loops.</td>
-        <td>7 May 2022<br>11.00am– 12.00pm<br></td>
-        <td>Jurong West Public Library</td>
-      </tr>
-	<tr>			
-<td><a href="https://www.eventbrite.sg/e/sensory-story-time-registration-313243879877?aff=ebdsoporgprofile" target="_blank"><b>Sensory Storytime</b></a></td>
-        <td>Join us for a special storytime tailored to engage the different senses. This programme is designed to support children with special needs.
-  </td>
-        <td>7 May 2022<br>3.00pm-3.30pm<br></td>
-        <td>Woodlands Regional Library </td>
-      </tr>
-						<tr>			
-<td><a href="https://www.eventbrite.sg/e/nature-portraits-animals-that-fly-singapore-botanic-gardens-tickets-315184273647?aff=ebdsoporgprofile" target="_blank"><b>Nature Portraits: Animals that Fly | Singapore Botanic Gardens </b></a></td>
-        <td> Take a short walk with us in the neighbourhood outdoors and spot as many flying animals as you can! From insects to birds, these creatures take flight in different ways and also have their own life cycles. Join us and find about more about these magnificent creatures!</td>
-        <td>7 May 2022<br>11.00am-11.45am<br></td>
-        <td>Queenstown Public Library</td>
-      </tr>
-						<tr>			
-<td><a href="https://www.eventbrite.sg/e/marshmallow-shooter-registration-316636296687?aff=ebdsoporgprofile" target="_blank"><b>Marshmallow Shooter! </b></a></td>
-        <td> Have you wondered why a ball rolls away from you when you kick it? That’s because you are applying a force on the ball. Scientific concepts such as forces, which belong to the field of physics, can be found all around you, even if you don’t realise it! Let’s learn more about forces in this interactive programme! Find out more about forces (with marshmallows!) and bring home activity sheets that will help you practise the concepts you have learnt. Let us all explore science in a fun and exciting way!</td>
-        <td>8 May 2022<br>5.00pm-5.45pm<br></td>
-        <td>Marine Parade Public Library</td>
-      </tr>
-						<tr>			
-<td><a href="https://www.eventbrite.sg/e/budding-scientists-solid-liquid-and-gas-tickets-319342551167?aff=ebdsoporgprofile
- " target="_blank"><b>[Budding Scientists] Solid, Liquid and Gas
- </b></a></td>
-        <td>Everything in the universe is made up of matter. That includes the water we drink, the air we breathe, and us! Yes, we are made up of matter, too! On Earth, all matter exists as one of three main states: solid, liquid or gas. In our workshop, you can learn about the atomic structure of each state and how they change. We'll have an enriching storytelling and activity session for preschoolers just like you!</td>
-        <td>14 May 2022<br>2.00pm-3.00pm<br></td>
-        <td>Jurong Regional Library</td>
-      </tr>
-					<tr>			
-<td><a href="https://www.eventbrite.sg/e/think-like-a-coder-session-1-amazing-algos-i-discovertech-tickets-303279415897?aff=ebdsoporgprofile" target="_blank"><b>Think Like a Coder: Session 1: Amazing Algos I DiscoverTech </b></a></td>
-        <td>Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children (age 3-6). These are for absolute beginners.Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators. </td>
-        <td>14 May 2022<br>2.00pm-2.30pm<br></td>
-        <td>Zoom </td>
-      </tr>
 				<tr>			
-<td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-303309305297?aff=ebdsoporgprofile" target="_blank"><b>Introduction to Scratch Junior Coding </b></a></td>
-        <td>ScratchJr is a programming language for children aged 4-6. Children can create their own interactive stories, animations and games.  </td>
-        <td>28 May 2022<br>11.00am– 12.00pm<br></td>
-        <td>Sengkang Public Library </td>
+<td><a href="https://www.eventbrite.sg/e/think-like-a-coder-session-2-powerful-patterns-tickets-322963270837?aff=ebdsoporgprofile" target="_blank"><b> Think Like a Coder: Session 2: Powerful Patterns </b></a></td>
+        <td> Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children (age 3-6). These are for absolute beginners.Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.</td>
+        <td>June 4 2022<br>2.00pm – 2.30pm<br></td>
+        <td>Zoom  </td>
       </tr>
-						<tr>			
-<td><a href="https://www.eventbrite.sg/e/marvellous-trees-singapore-botanic-gardens-tickets-315201384827?aff=ebdsoporgprofile" target="_blank"><b>Marvellous Trees | Singapore Botanic Gardens </b></a></td>
-        <td>Trees are all around us in our little green city. Do you know that other than providing us with shade, trees also play an important role in keeping our air fresh? Come join us in this enriching session to learn more about trees and their life cycle!  </td>
-        <td>28 May 2022<br>11.15am– 12.00pm<br></td>
-        <td>library@harbourfront</td>
-      </tr>
-			 <tr>
-			 <td><a href="https://linktr.ee/earlyreadsustainabilityprogs" target="_blank"><b>Caring for the Environment l Food & Me!</b></a></td>
-        <td> Join us for an interactive programme to learn about food technology! In this session, children will learn about alternative ways to grow food through interactive and hands-on activities. This programme is suitable for children 4-6 years old.
+     	<tr>			
+<td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-323603224957?aff=ebdsoporgprofile" target="_blank"><b> Introduction to Scratch Junior Coding
+</b></a></td>
+        <td>ScratchJr is a programming language for children aged 4-6. Using ScratchJr, children can create their own interactive stories, animations and games.
+<br><br>
+Unit 1: Introduction
+<br>
+Learn to create own interactive computational media with ScratchJrBackground and Character Creation
+<Br><br>
+Unit 2: Motion
+<br>
+Learn to use ScratchJr to create motion and animationsUse blocks and open-ended explorationsSame block sequencing and motionNumbers and repeating sequences 
 </td>
-        <td>28 May 2022<br>11.00am - 12.00pm<br></td>
-        <td>Ang Mo Kio Public Library, Programme Zone</td>
-			</tr>
+        <td>June 18 2022<br>11.00am-12.00pm<br></td>
+        <td>Bedok Public Library </td>
+      </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/how-to-build-a-computational-mind-through-play-tickets-328524745357?aff=ebdsoporgprofile" target="_blank"><b>How to Build a "Computational Mind" Through "PLAY"</b></a></td>
+        <td> The world is becoming increasingly digital; children come into contact with digital media at an increasingly early age and this presents them with new challenges. They may grow up as "digital natives", but many of them lack the basic understanding and knowledge of how computers work.
+<br><br>
+This program aims to let the children and parents understand what computational thinking is and how they can help to encourage kids to have such “thinking” in their daily life. Children are introduced step-by-step to fundamental computer processes to promote problem solving skills in the digital way.
+</td>
+        <td>June 25 2022<br>2.00pm – 3.00pm<br></td>
+        <td>Zoom</td>
+      </tr>
   </tbody>
   </table>
 </div>
