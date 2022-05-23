@@ -153,10 +153,12 @@ Authors: Daniel J. Siegel, Tina Payne Bryson</td>
         <td>Jurong Regional Library</td>
       </tr>
 			<tr>			
-<td><a href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-313237450647?aff=ebdsoporgprofile" target="_blank"><b>Children's Puppet Castle </b></a></td>
-        <td> Join us for a puppet show performed by Puppet Master Arii Azharii. He will be performing two stories, The Boy Who Cried Wolf and Doctor Tortoise. Learn more about performance techniques through this exciting performance</td>
-        <td>22 May 2022<br>3.00pm-4.00pm<br></td>
-        <td>Ang Mo Kio Public Library</td>
+<td><a href="https://www.eventbrite.sg/e/a-book-a-day-holiday-specials-enchanting-wonderland-tickets-328632948997?aff=ebdsoporgprofile" target="_blank"><b>A Book A Day Holiday Specials: Enchanting Wonderland </b></a></td>
+        <td> Join us on a journey to an enchanting wonderland through songs and poems; and create your very own Paper Cup Fairy House!
+<br><Br>
+This programme is for children aged 4 to 6. It is also designed to support children with special needs. Parents are encouraged to attend the session with their child/children</td>
+        <td>June 11 2022<br>2.00pm-3.00pm<br></td>
+        <td>Zoom </td>
       </tr>
     </tbody>
   </table>
