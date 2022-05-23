@@ -136,10 +136,15 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>Zoom</td>
       </tr>
 <tr>			
-<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-317947638947?aff=ebdsoporgprofile-registration-277286921647?aff=ebdsoporgprofile" target="_blank"><b>Jiggle Read & Rhyme | Early READ </b></a></td>
-        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! For toddlers aged 1-3.</td>
-        <td>19 May 2022<br>4.00pm– 4.30pm<br></td>
-        <td>Geylang East Public Library</td>
+<td><a href="https://www.eventbrite.sg/e/parenting-book-club-with-jenny-ng-tickets-322957483527?aff=ebdsoporgprofile
+" target="_blank"><b>Parenting Book Club with Jenny Ng </b></a></td>
+        <td> Parenting without a support network and knowledge can be exasperating and lonely. The aim of this parenting book club is to share alternative perspectives and learn up-to-date ideas in parenting our children. We will read together, have an open dialogue and take home some tips, so that we can better support our children and grow together as a strong and healthy family.
+<br><br>
+Book title: The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child
+<br><br>
+Authors: Daniel J. Siegel, Tina Payne Bryson</td>
+        <td>June 11 2022<br>11.00am– 12.30pm<br></td>
+        <td>Sengkang Public Library</td>
       </tr>
 <tr>			
 <td><a href="https://www.eventbrite.sg/e/toddler-songs-rhymes-early-read-registration-292214249687?aff=ebdsoporgprofile" target="_blank"><b>Toddler Songs & Rhymes </b></a></td>
