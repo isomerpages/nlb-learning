@@ -176,6 +176,17 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>Woodlands Regional Library</td>
       </tr>
 		<tr>			
+<td><a href="https://www.eventbrite.sg/e/parenting-book-club-with-jenny-ng-tickets-322957483527?aff=ebdsoporgprofile
+" target="_blank"><b>Parenting Book Club with Jenny Ng </b></a></td>
+        <td> Parenting without a support network and knowledge can be exasperating and lonely. The aim of this parenting book club is to share alternative perspectives and learn up-to-date ideas in parenting our children. We will read together, have an open dialogue and take home some tips, so that we can better support our children and grow together as a strong and healthy family.
+<br><br>
+Book title: The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child
+<br><br>
+Authors: Daniel J. Siegel, Tina Payne Bryson</td>
+        <td>June 11 2022<br>11.00am– 12.30pm<br></td>
+        <td>Sengkang Public Library</td>
+      </tr>
+		<tr>			
 <td><a href="https://www.eventbrite.sg/e/budding-scientists-let-there-be-light-tickets-328631775487?aff=ebdsoporgprofile" target="_blank"><b>[Budding Scientists] Let There Be Light!</b></a></td>
         <td> What is light made off? Why does light go through some things and not others? Let's learn more about light and how it travels through this super fun and simple session! We will be doing an experiment and a DIY shadow puppet theatre together!  </td>
         <td>June 17 2022<br>3.30pm – 4.30pm<br></td>
