@@ -229,6 +229,12 @@ Learn to use ScratchJr to create motion and animationsUse blocks and open-ended 
         <td>Bedok Public Library </td>
       </tr>
 		<tr>			
+<td><a href="https://www.eventbrite.sg/e/storytelling-with-evelyn-the-noisiest-tree-tickets-323605240987?aff=ebdsoporgprofile" target="_blank"><b>Storytelling with Evelyn | The Noisiest Tree</b></a></td>
+        <td> Evelyn is a children's book author who writes stories for curious young readers to explore new words and worlds. They have been performed in children's theatre, festivals and schools.  The Just a Little Mynah picture book series are fun read-aloud stories with colourful characters and multilingual dialogue. </td>
+        <td>June 18 2022<br>2.00pm-2.30pm<br></td>
+        <td>Sengkang Public Library </td>
+      </tr>
+		<tr>			
 <td><a href="https://www.eventbrite.sg/e/budding-engineers-balloon-powered-car-registration-337126613777?aff=ebdsoporgprofile" target="_blank"><b>[Budding Engineers] Balloon-Powered Car</b></a></td>
         <td> Energy conversion exists all around us. How does this work and how does energy make things move? Let's find out in this session as we create our own balloon-powered cars that zoom around the library! With everyday items, we will delve into learning about potential and kinetic energy, while making the fastest car possible! This is a parent-child programme and is suitable for children aged 4-6 years old.  </td>
         <td>June 25 2022<br>10.30am – 11.30am<br></td>
