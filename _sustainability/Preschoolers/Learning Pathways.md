@@ -75,32 +75,19 @@ Check out the video resources below to help your child understand the roles of t
       </tr>
     </thead>
     <tbody>
-     <tr>			
-<td><a href="https://www.eventbrite.sg/e/309164678877?aff=ebdsoporgprofile" target="_blank"><b> 《儿童拯救地球行动》 讲故事会：拯救海洋！ </b></a></td>
-        <td> 《儿童拯救地球行动》是一个基督教学前联盟组织的社区项目。目的是致力于激励、鼓励和帮助幼稚园儿童关心创造物和环境. 欢迎大家参与儿童故事会和观赏孩子们的美术展览。</td>
-        <td>30 April 2022<br>11.00am – 11.30am<br></td>
-        <td>Central Public Library </td>
-			</tr>
-			 <tr>
-			 <td><a href="https://www.eventbrite.sg/e/creation-care-storytelling-session-save-the-ocean-registration-309168741027?aff=ebdsoporgprofile" target="_blank"><b>Creation C.A.R.E Storytelling Session: Save The Ocean! </b></a></td>
-        <td> Creation C.A.R.E (Children’s Action to Rescue Earth) is a community project that endeavours to inspire, encourage and empower children to care for creation and the environment. Creation C.A.R.E is an initiative by Christian Preschool Alliance, as organised by Presbyterian Preschool Services.   <br><br> In conjunction with Creation C.A.R.E, we invite you to join us for the two storytelling sessions, as well as a public art showcase that will run from 25 April 2022 (Monday) to 1 May 2022 (Sunday) during library opening hours. Step into the wonderful world of ocean life and sea creatures through exciting stories and captivating artworks created by children that remind us of the precious ocean animals and habitats that we need to protect! Creation C.A.R.E stickers will also be given out to children who want to pledge to C.A.R.E for the environment. 
-</td>
-        <td>30 April 2022<br>2.30pm – 3.00pm<br></td>
-        <td>Central Public Library </td>
-			</tr>
 				  <tr>
-			 <td><a href="https://linktr.ee/earlyreadsustainabilityprogs" target="_blank"><b>Caring for the Environment l Food & Me!</b></a></td>
-        <td> Join us for an interactive programme to learn about food technology! In this session, children will learn about alternative ways to grow food through interactive and hands-on activities. This programme is suitable for children 4-6 years old.
+			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-323607467647?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Water Conservation</b></a></td>
+        <td> This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. <br><br>This programme is for children aged 4 to 6 years old. Registration is required for this programme.
 </td>
-        <td>28 May 2022<br>11.00am - 12.00pm<br></td>
-        <td>Ang Mo Kio Public Library, Programme Zone</td>
+        <td>June 16 2022<br>2.00pm - 3.00pm<br></td>
+        <td>Sengkang Public Library</td>
 			</tr>
 			<tr>
-			 <td><a href="https://www.eventbrite.sg/e/storytelling-the-river-that-brings-us-life-tickets-325375586137" target="_blank"><b>Storytelling: The River That Brings Us Life </b></a></td>
+			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-seas-and-oceans-tickets-323601620157?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Seas and Oceans </b></a></td>
         <td> Come and join an afternoon of fun, with a dramatized storytelling about the Singapore Rivers' past, song and upcycling craft session. Children will learn the importance of keeping our rivers clean and how we can reuse our household waste through upcycling. This programme is for children aged 3 to 8 years old.
 </td>
-        <td>29 May 2022<br>2.00pm – 3.00pm<br></td>
-        <td>Central Public Library </td>
+        <td>June 19 2022<br>2.00pm – 3.00pm<br></td>
+        <td>Jurong Regional Library </td>
 			</tr>
     </tbody>
   </table>
