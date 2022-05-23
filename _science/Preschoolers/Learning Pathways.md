@@ -115,10 +115,11 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
         <td>Bedok Public Library </td>
       </tr>
 				  <tr>	
-<td><a href="https://www.eventbrite.sg/e/marshmallow-shooter-registration-316636296687?aff=ebdsoporgprofile" target="_blank"><b> Marshmallow Shooter!</b></a></td>
-        <td> Have you wondered why a ball rolls away from you when you kick it? That’s because you are applying a force on the ball. Scientific concepts such as forces, which belong to the field of physics, can be found all around you, even if you don’t realise it! <br><br>Let’s learn more about forces in this interactive programme! Find out more about forces (with marshmallows!) and bring home activity sheets that will help you practise the concepts you have learnt. Let us all explore science in a fun and exciting way!</td>
-        <td>8 May 2022<br>5.00pm – 5.45pm<br></td>
-        <td>Marine Parade Public Library</td>
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-science-explorers-fun-with-popsicle-sticks-tickets-323677908337?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] Science Explorers! Fun with Popsicle Sticks</b></a></td>
+        <td> Potential energy is the tension created between two objects when they are compressed or stretched. Like our emotions, if we bottle them up, it can lead to a rather unfriendly explosion. Let’s learn how to handle potential energy with care so we can explode in fun at our own time as well as learn to build a robotic arm with popsicle sticks that extends to grab some little toys home! This programme is for children aged 4-6 years old.
+</td>
+        <td>June 2 2022<br>11.00am – 12.30pm<br></td>
+        <td>Jurong Regional Library</td>
       </tr>
 				<tr>			
 <td><a href="https://www.eventbrite.sg/e/budding-scientists-solid-liquid-and-gas-tickets-319342551167?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] Solid, Liquid and Gas </b></a></td>
