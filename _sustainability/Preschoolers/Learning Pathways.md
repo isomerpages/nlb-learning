@@ -128,6 +128,12 @@ Check out the video resources below to help your child understand the roles of t
         <td>June 10 2022<br>11.00am – 12.00pm<br></td>
         <td>Woodlands Regional Library</td>
       </tr>
+		<tr>			
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-let-there-be-light-tickets-328631775487?aff=ebdsoporgprofile" target="_blank"><b>[Budding Scientists] Let There Be Light!</b></a></td>
+        <td> What is light made off? Why does light go through some things and not others? Let's learn more about light and how it travels through this super fun and simple session! We will be doing an experiment and a DIY shadow puppet theatre together!  </td>
+        <td>June 17 2022<br>3.30pm – 4.30pm<br></td>
+        <td>Zoom </td>
+      </tr>
      	<tr>			
 <td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-323603224957?aff=ebdsoporgprofile" target="_blank"><b> Introduction to Scratch Junior Coding
 </b></a></td>
