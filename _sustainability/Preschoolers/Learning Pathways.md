@@ -150,6 +150,12 @@ Learn to use ScratchJr to create motion and animationsUse blocks and open-ended 
         <td>June 18 2022<br>11.00am-12.00pm<br></td>
         <td>Bedok Public Library </td>
       </tr>
+		<tr>			
+<td><a href="https://www.eventbrite.sg/e/budding-engineers-balloon-powered-car-registration-337126613777?aff=ebdsoporgprofile" target="_blank"><b>[Budding Engineers] Balloon-Powered Car</b></a></td>
+        <td> Energy conversion exists all around us. How does this work and how does energy make things move? Let's find out in this session as we create our own balloon-powered cars that zoom around the library! With everyday items, we will delve into learning about potential and kinetic energy, while making the fastest car possible! This is a parent-child programme and is suitable for children aged 4-6 years old.  </td>
+        <td>June 25 2022<br>10.30am – 11.30am<br></td>
+        <td>Jurong West Public Library </td>
+      </tr>
 			<tr>			
 <td><a href="https://www.eventbrite.sg/e/how-to-build-a-computational-mind-through-play-tickets-328524745357?aff=ebdsoporgprofile" target="_blank"><b>How to Build a "Computational Mind" Through "PLAY"</b></a></td>
         <td> The world is becoming increasingly digital; children come into contact with digital media at an increasingly early age and this presents them with new challenges. They may grow up as "digital natives", but many of them lack the basic understanding and knowledge of how computers work.
