@@ -204,6 +204,17 @@ This programme is intended for parents with babies up to 12 months.</td>
        <td>June 5 2022<br>2.00pm-2.30pm<br></td>
         <td>Jurong Regional Library</td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/parenting-book-club-with-jenny-ng-tickets-322957483527?aff=ebdsoporgprofile
+" target="_blank"><b>Parenting Book Club with Jenny Ng </b></a></td>
+        <td> Parenting without a support network and knowledge can be exasperating and lonely. The aim of this parenting book club is to share alternative perspectives and learn up-to-date ideas in parenting our children. We will read together, have an open dialogue and take home some tips, so that we can better support our children and grow together as a strong and healthy family.
+<br><br>
+Book title: The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child
+<br><br>
+Authors: Daniel J. Siegel, Tina Payne Bryson</td>
+        <td>June 11 2022<br>11.00am– 12.30pm<br></td>
+        <td>Sengkang Public Library</td>
+      </tr>
 			  <tr>
 			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-323607467647?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Water Conservation</b></a></td>
         <td> This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. <br><br>This programme is for children aged 4 to 6 years old. Registration is required for this programme.
