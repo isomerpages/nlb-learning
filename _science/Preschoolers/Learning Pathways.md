@@ -165,6 +165,15 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
        <td>June 1 2022<br>11.00am –12.00pm<br></td>
         <td>Woodlands Regional Library </td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-329420474507?aff=ebdsoporgprofile" target="_blank"><b>Baby Songs & Rhymes | Early READ
+ </b></a></td>
+        <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home.
+<br>
+This programme is intended for parents with babies up to 12 months.</td>
+        <td>June 1 2022<br>2.30pm-3.00pm<br></td>
+        <td>Zoom</td>
+      </tr>	
 				 <tr>			
 <td><a href="https://www.eventbrite.sg/e/think-like-a-coder-session-2-powerful-patterns-tickets-322963270837?aff=ebdsoporgprofile" target="_blank"><b> Think Like a Coder: Session 2: Powerful Patterns </b></a></td>
         <td> Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children (age 3-6). These are for absolute beginners.Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.</td>
