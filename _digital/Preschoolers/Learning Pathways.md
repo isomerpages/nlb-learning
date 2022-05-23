@@ -164,11 +164,17 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>June 4 2022<br>10.30am – 11.00am<br></td>
         <td>Queenstown Public Library </td>
       </tr>
-			<tr>			
+		<tr>			
 <td><a href="https://www.eventbrite.sg/e/little-but-loud-goes-to-the-library-tickets-328636268927?aff=ebdsoporgprofile" target="_blank"> <b> "Little But Loud" goes to the Library! </b></a></td>
-        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
+        <td>Curious about what cute bunnies and a little Troll might have in common? Join us for a “Little But Loud” fun story-telling session at the National Library this June school holiday. We will be reading “Tambar and the Bunny Rabbits”, a Norwegian children’s story. Tambar, a 5-year-ol2 troll, discovers that he has a special talent. He decides to help the bunnies who keep losing their family members to the fox. How will Tambar use his wits to outsmart the fox? There will also be songs, games and fun activities suitable for children aged 5 to 10 years old."Little But Loud" is a programme where kids read to kids.  Started by three young siblings who love reading, the programme aims to spread the joy of reading. Since 2021, "Little But Loud" has been conducting regular reading and craft sessions for social service agencies.   </td>
        <td>June 4 2022<br>3.00pm-3.30pm<br></td>
         <td>Bedok Public Library</td>
+      </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/little-but-loud-goes-to-the-library-tickets-328523712267?aff=ebdsoporgprofile" target="_blank"> <b> "Little But Loud" goes to the Library! </b></a></td>
+        <td>Curious about what cute bunnies and a little Troll might have in common? Join us for a “Little But Loud” fun story-telling session at the National Library this June school holiday. We will be reading “Tambar and the Bunny Rabbits”, a Norwegian children’s story. Tambar, a 5-year-ol2 troll, discovers that he has a special talent. He decides to help the bunnies who keep losing their family members to the fox. How will Tambar use his wits to outsmart the fox? There will also be songs, games and fun activities suitable for children aged 5 to 10 years old."Little But Loud" is a programme where kids read to kids.  Started by three young siblings who love reading, the programme aims to spread the joy of reading. Since 2021, "Little But Loud" has been conducting regular reading and craft sessions for social service agencies.   </td>
+       <td>June 5 2022<br>2.00pm-2.30pm<br></td>
+        <td>Jurong Regional Library</td>
       </tr>
 					<tr>			
 <td><a href="https://www.eventbrite.sg/e/budding-scientists-how-do-animals-grow-tickets-337747761647?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] How Do Animals Grow? </b></a></td>
