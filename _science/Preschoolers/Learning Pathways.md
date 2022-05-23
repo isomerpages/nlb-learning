@@ -122,10 +122,11 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
         <td>Jurong Regional Library</td>
       </tr>
 				<tr>			
-<td><a href="https://www.eventbrite.sg/e/budding-scientists-solid-liquid-and-gas-tickets-319342551167?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] Solid, Liquid and Gas </b></a></td>
-        <td> Everything in the universe is made up of matter. That includes the water we drink, the air we breathe, and us! Yes, we are made up of matter, too! On Earth, all matter exists as one of three main states: solid, liquid or gas. In our workshop, you can learn about the atomic structure of each state and how they change. We'll have an enriching storytelling and activity session for preschoolers just like you!</td>
-        <td>14 May 2022<br>2.00pm – 3.00pm<br></td>
-        <td>Jurong Regional Library</td>
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-how-do-animals-grow-tickets-337747761647?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] How Do Animals Grow? </b></a></td>
+        <td> Every living things goes through a life cycle and your child may start understanding that as they grow! From cats to butterflies, horses to frogs, this programme aims to bring your child on an investigative journey of the growth, development and needs of familiar and even unfamiliar animals. Come join us in this interactive session as we look at how animals evolve from one stage of life to another, and what they need to survive and grow. Bring home your very own butterfly life cycle craft too!
+</td>
+        <td>June 10 2022<br>11.00am – 12.00pm<br></td>
+        <td>Woodlands Regional Library</td>
       </tr>
 	<tr>			
 <td><a href="https://www.eventbrite.sg/e/marvellous-trees-singapore-botanic-gardens-tickets-315183982777?aff=ebdsoporgprofile" target="_blank"><b> Marvellous Trees | Singapore Botanic Gardens </b></a></td>
