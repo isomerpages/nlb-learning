@@ -130,6 +130,15 @@ This program aims to let the children and parents understand what computational 
        <td>June 1 2022<br>11.00am –12.00pm<br></td>
         <td>Woodlands Regional Library </td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-329420474507?aff=ebdsoporgprofile" target="_blank"><b>Baby Songs & Rhymes | Early READ
+ </b></a></td>
+        <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home.
+<br>
+This programme is intended for parents with babies up to 12 months.</td>
+        <td>June 1 2022<br>2.30pm-3.00pm<br></td>
+        <td>Zoom</td>
+      </tr>	
 			 <tr>			
 <td><a href="https://www.eventbrite.sg/e/budding-scientists-what-glows-in-the-deep-dark-sea-registration-337112230757?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] What Glows in the Deep Dark Sea?</b></a></td>
         <td>Are you ready to meet some strange but fascinating deep-sea creatures? Join us as we learn about the different creatures that exist in deep oceans today. Discover why and how these animals glow in the deep sea through interactive activities and hands-on learning. Let's uncover the science behind bioluminescence together! This is a parent-child programme and is suitable for children aged 4-6 years old.</td>
