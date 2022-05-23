@@ -159,6 +159,12 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
       </tr>
     </thead>
     <tbody>
+			 <tr>			
+<td><a href="https://www.eventbrite.sg/e/adventure-with-smiley-tickets-328526530697?aff=ebdsoporgprofile" target="_blank"><b> Adventure with Smiley!</b></a></td>
+        <td>An interactive and engaging financial literacy program curated specially for children aged 4-7! Smiley will introduce kids to value of money, savings, banking and how they can take little steps towards sustainability through short animated scenes. Printable worksheet and currencies will be available for them to continue their learnings with parents at home. </td>
+       <td>June 1 2022<br>11.00am –12.00pm<br></td>
+        <td>Woodlands Regional Library </td>
+      </tr>
 				 <tr>			
 <td><a href="https://www.eventbrite.sg/e/think-like-a-coder-session-2-powerful-patterns-tickets-322963270837?aff=ebdsoporgprofile" target="_blank"><b> Think Like a Coder: Session 2: Powerful Patterns </b></a></td>
         <td> Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children (age 3-6). These are for absolute beginners.Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.</td>
