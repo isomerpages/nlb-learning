@@ -170,6 +170,13 @@ This program aims to let the children and parents understand what computational 
         <td>June 25 2022<br>10.30am – 11.30am<br></td>
         <td>Jurong West Public Library </td>
       </tr>
+				<tr>			
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-science-explorers-magic-in-a-bowl-with-slime-making-tickets-323681288447?aff=ebdsoporgprofile" target="_blank"><b>[Budding Scientists] Science Explorers! Magic in a Bowl with Slime Making
+</b></a></td>
+        <td> Learn to create slime using some simple items that can be found around our home. By combining the right materials, it will perform a chemical reaction, quite similar to magic! This programme is for children aged 4-6 years old.  </td>
+        <td>June 28 2022<br>11.00am – 12.30pm<br></td>
+        <td>Jurong Regional Library </td>
+      </tr>
     </tbody>
   </table>
 </div>
