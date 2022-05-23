@@ -234,6 +234,12 @@ Learn to use ScratchJr to create motion and animationsUse blocks and open-ended 
         <td>June 18 2022<br>2.00pm-2.30pm<br></td>
         <td>Sengkang Public Library </td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-276302778047?aff=ebdsoporgprofile" target="_blank"><b>Baby Songs & Rhymes | Early READ</b></a></td>
+        <td> Songs and rhymes are important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. This programme is intended for parents with babies up to 12 months.</td>
+        <td>June 23 2022<br>4.00pm-4.20pm<br></td>
+        <td>Zoom </td>
+      </tr>
 		<tr>			
 <td><a href="https://www.eventbrite.sg/e/budding-engineers-balloon-powered-car-registration-337126613777?aff=ebdsoporgprofile" target="_blank"><b>[Budding Engineers] Balloon-Powered Car</b></a></td>
         <td> Energy conversion exists all around us. How does this work and how does energy make things move? Let's find out in this session as we create our own balloon-powered cars that zoom around the library! With everyday items, we will delve into learning about potential and kinetic energy, while making the fastest car possible! This is a parent-child programme and is suitable for children aged 4-6 years old.  </td>
