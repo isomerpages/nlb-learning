@@ -68,7 +68,7 @@ Go green with your child to build an eco-friendly future together.
 			</tr>
 			<tr>
          <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/bottle-butterfly-with-acsi-earth-heroes-libraryharbourfront-tickets-331641236867?aff=odcleoeventsincollection" target="_blank"><b>Bottle Butterfly with ACS(I) | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Upcycle a small plastic bottle and transform it into a butterfly, personalised by yourself. Join The Inventium Initiative, a group of Year 5 students from Anglo-Chinese School (Independent), for this series of fun workshops on upcycling and environmental conservation!
+        <td style="width: 40%;">Upcycle a small plastic bottle and transform it into a butterfly, personalised by yourself. Join <i>The Inventium Initiative</i>, a group of Year 5 students from Anglo-Chinese School (Independent), for this series of fun workshops on upcycling and environmental conservation!
 </td>
         <td style="width: 20%;">21 Jun 2022, <br> 7-8pm</td>
         <td style="width: 20%;">library@harbourfront</td>
