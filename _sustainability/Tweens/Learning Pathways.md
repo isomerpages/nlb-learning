@@ -80,7 +80,7 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>How to Go Safe Online</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-go-safe-online-primary-school-edition-online-tickets-311632901397?aff=odcleoeventsincollection" target="_blank"><b>How to Go Safe Online</b></a></td>
         <td style="width: 40%;">This programme is suitable for children aged 7 to 12 years old, and parents are welcome to attend with their children. Join us for this online session to learn about the types of cyber threats to look out for and learn how you can Go Safe Online by practising good cyber hygiene habits.</td>
         <td style="width: 20%;">28 May 2022,<br>10am-11am</td>
         <td style="width: 20%;">Zoom</td>
