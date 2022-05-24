@@ -61,20 +61,20 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-				<td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
+				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/living-with-nature-storytelling-by-nparks-tickets-336258697817?aff=odcleoeventsincollection" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
         <td style="width: 40%;">Join NParks for our Living with Nature sharing series, starting with a storytelling on how some commonly found reptiles and amphibians (or herps) in Singapore come together to solve a mystery! <br><br>Following the storytelling segment, there will be a craft activity for both parent and child to make their favourite herp!</td>
-				<td style="width: 20%;">30 Apr 2022, 2-3pm<br><br>28 May 2022, 12.30-1.30pm<br><br>25 Jun 2022, 11-11.45am</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library<br><br>Tampines Regional Library<br><br>Woodlands Regional Library</td>
+				<td style="width: 20%;">25 Jun 2022, 11-11.45am</td>
+        <td style="width: 20%;">Woodlands Regional Library</td>
 			</tr>
 			<tr>
-         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>TinkerWorks – Saving Planet Earth</b></a></td>
-        <td style="width: 40%;">Get inspired to save planet Earth through engaging book discussion and tinkering activity! This programme is part of a series of sustainability themed events for children.
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/bottle-butterfly-with-acsi-earth-heroes-libraryharbourfront-tickets-331641236867?aff=odcleoeventsincollection" target="_blank"><b>Bottle Butterfly with ACS(I) | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Upcycle a small plastic bottle and transform it into a butterfly, personalised by yourself. Join The Inventium Initiative, a group of Year 5 students from Anglo-Chinese School (Independent), for this series of fun workshops on upcycling and environmental conservation!
 </td>
-        <td style="width: 20%;">21 Jun 2022, <br> 4-5pm</td>
-        <td style="width: 20%;">Bishan Public Library </td>
+        <td style="width: 20%;">21 Jun 2022, <br> 7-8pm</td>
+        <td style="width: 20%;">library@harbourfront</td>
 			</tr>
 			<tr>
-         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>CHF: Lesson 1: Say No to Food Waste</b></a></td>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/say-no-to-food-waste-earth-heroes-tickets-344599906597?aff=odcleoeventsincollection" target="_blank"><b>CHF: Lesson 1: Say No to Food Waste</b></a></td>
         <td style="width: 40%;">"Say No to Food Waste" is a brand new educational programme for children presented by CapitaLand volunteers. <br><br>Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste.
 </td>
         <td style="width: 20%;">25 Jun 2022, <br> 2-3pm</td>
