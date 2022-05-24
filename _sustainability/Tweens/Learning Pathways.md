@@ -62,18 +62,18 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/living-with-nature-storytelling-by-nparks-tickets-336258697817?aff=odcleoeventsincollection" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Join NParks for our Living with Nature sharing series, starting with a storytelling on how some commonly found reptiles and amphibians (or herps) in Singapore come together to solve a mystery! <br><br>Following the storytelling segment, there will be a craft activity for both parent and child to make their favourite herp!</td>
-				<td style="width: 20%;">25 June 2022, 11-11.45am</td>
-        <td style="width: 20%;">Woodlands Regional Library</td>
-			</tr>
-						<tr>
 				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/powerful-plants-singapores-botanical-wonders-tweenkerama-tickets-337990076417?aff=odcleoeventsincollection" target="_blank"><b>Powerful Plants: Singapore’s botanical wonders | Tweenkerama</b></a></td>
         <td style="width: 40%;">Singapore is often known as the “garden city,” but do you know what our notable plants are, and the stories behind why they are so well-known? 
 <br><br>
 This is special edition in partnership with the National Library Singapore to learn more about Singapore’s botanical heritage, including our eye-catching and historically valuable plants, with materials from the library’s collections. Come and get your creative juices flowing by designing your own special plant!</td>
 				<td style="width: 20%;">18 June 2022, 11am-12pm</td>
         <td style="width: 20%;">Zoom</td>
+			</tr>
+			<tr>
+				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/living-with-nature-storytelling-by-nparks-tickets-336258697817?aff=odcleoeventsincollection" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Join NParks for our Living with Nature sharing series, starting with a storytelling on how some commonly found reptiles and amphibians (or herps) in Singapore come together to solve a mystery! <br><br>Following the storytelling segment, there will be a craft activity for both parent and child to make their favourite herp!</td>
+				<td style="width: 20%;">25 June 2022, 11-11.45am</td>
+        <td style="width: 20%;">Woodlands Regional Library</td>
 			</tr>
     </tbody>
   </table>
