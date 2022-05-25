@@ -539,4 +539,16 @@ href="https://nlb.overdrive.com/media/3300327">
 </p><p><a href="https://nlb.overdrive.com/media/3300327" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a 
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
+	
+<h5> Madam Choy's Cantonese Recipes</h5>
+Reutens, Lulin & Choy, Wai Yuen. (2012). <i> Madam Choy's Cantonese Recipes </i><br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/3300282">
+<img src="/images/Singapore%20Food%20Heritage/RLulin.png" style="width:200px;"></a>
+<p> In this third revised edition of part of Epigram Books' award-winning Heritage Cookbook series, it showcases the best of Singapore's Cantonese cuisine from an avid home cook with over 50 years of cooking experience.
+</p><p><a href="https://nlb.overdrive.com/media/3300282" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
