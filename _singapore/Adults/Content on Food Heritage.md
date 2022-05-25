@@ -465,3 +465,20 @@ Noronha, Theresa and Cheryl Noronha. (2015). <i>The Eurasian table.</i> Singapor
 <p>Third-generation Eurasian, Cheryl Noronha, wrote this book to gather and share her grandmother’s recipes of Eurasian dishes. This book features twenty-four traditional Eurasian recipes that are rooted in Portuguese, Indian and Malay cuisines.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
+<h5 id="lp-Chinese-cuisine" class="margin--bottom--lg"><b>Chinese Cuisine</b></h5>
+
+<p> In Singapore, majority of the early Chinese migrants came from the southern Chinese provinces of Guangzhou and Fujian. Guangdong cuisine like the cantonese, teochew and hakka dishes use steaming, poaching, braising, or simmering to bring out the natural flavour of each ingredient in the dish. Fujian cuisine also has several styles ranging from light, mild sweet and sour taste to more intense flavour with the use of sugar and spices. The Hainanese who arrived in Singapore much later, also brought with them their own special dishes.
+
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Singapore’s popular Hainanese chicken rice is not found in Hainan island. Adapted from the Hainanese dish Wenchang chicken, the rice dish uses Cantonese style of poaching the young and tender-fleshed chicken, and steams rice with chicken-bone stock.
+</li>
+</ul>
+</td>
+</tr></tbody></table>
+	
+These curated set of articles and books give an overview of Singapore’s Chinese food heritage.
