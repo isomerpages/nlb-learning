@@ -248,7 +248,32 @@ A group of young Eurasians makes a lesser-known Eurasian dish called putugal (st
 </small></p>
 </div>
 </div>
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a 
+href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id=”Chinese-cuisine”><b>Playlist: Chinese Cuisine </b></h5>
+
+Singapore’s early Chinese migrants arrived from the southern Chinese provinces of Guangzhou and Fujian. They brought with them two of the most well-known and popular Chinese cuisines, each with its own character, ingredients, cooking methods and tastes. 
+
+Check out these resources to learn more about them.
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/- ONdhOeUV3yg" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Singapore Local Food - Soon Soon Chinese Teochew Porridge Restaurant! | Mark Wiens (8 mins)
+</b>
+<br> Teochew porridge is a rice porridge dish that is served with various small plates of side dishes. The consistency of the rice is not as creamy and starchy in texture as the Cantonese congee in which the rice grains are broken down much further during the cooking process. Watch Mark Wiens as he sampled Teochew porridge with delectable side dishes. <br><br>
+<small> Source: Singapore Local Food - Soon Soon Chinese Teochew Porridge Restaurant! (2016, Mar 23). Mark Wiens. Retrieved 2022, May 23. </small></p>
+</div>
+</div>
+
+
+
 	
 <div>
 <h3><b>Learning Package</b></h3>
