@@ -95,6 +95,15 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 </div>
 </div>
+
+<div class= "col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-Chinese-cuisine">
+<span>Learning Package:<br>Chinese Cuisine</span>
+</a>
+</div>
+</div>
+</div>
 	
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around Singapore’s food heritage.
@@ -482,3 +491,11 @@ Noronha, Theresa and Cheryl Noronha. (2015). <i>The Eurasian table.</i> Singapor
 </tr></tbody></table>
 	
 These curated set of articles and books give an overview of Singapore’s Chinese food heritage.
+	
+<h4>Articles</h4>
+
+<h5><a href="https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore" target="_blank"> We are what we eat: the evolution of Chinese food in Singapore by Low Sze Wee </a></h5>
+<p> Author highlights the various popular Chinese dishes and argues how different cultures meet and influence each other resulting in the creation of new Chinese food in Singapore.
+</p>
+<p>Source: Low, Sze Wee. <a href=" https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore" target="_blank"> We are what we eat: the evolution of Chinese food in Singapore </a>(2022, April-June).<i> BiblioAsia</i> 17(2). Retrieved 2022, May 23.</p>
+
