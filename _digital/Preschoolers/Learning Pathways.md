@@ -170,6 +170,13 @@ This programme is intended for parents with babies up to 12 months.</td>
        <td>June 4 2022<br>3.00pm-3.30pm<br></td>
         <td>Bedok Public Library</td>
       </tr>
+			<tr>
+			 <td><a href="https://www.eventbrite.sg/e/storytime-with-the-singapore-police-force-for-4-6-years-old-tickets-331615590157?aff=ebdsoporgprofile" target="_blank"><b>Storytime with the Singapore Police Force (for 4-6 years old)</b></a></td>
+        <td>Join our Police Officers from Woodlands Division for a special storytelling session about saving the earth and achieving environmental sustainability together! All participants will receive an exclusive crime prevention collateral.
+</td>
+					<td>June 4 2022<br>3.00pm - 3.30pm<br></td>
+        <td>Woodlands Public Library</td>
+			</tr>
 			<tr>			
 <td><a href="https://www.eventbrite.sg/e/little-but-loud-goes-to-the-library-tickets-328523712267?aff=ebdsoporgprofile" target="_blank"> <b> "Little But Loud" goes to the Library! </b></a></td>
         <td>Curious about what cute bunnies and a little Troll might have in common? Join us for a “Little But Loud” fun story-telling session at the National Library this June school holiday. We will be reading “Tambar and the Bunny Rabbits”, a Norwegian children’s story. Tambar, a 5-year-ol2 troll, discovers that he has a special talent. He decides to help the bunnies who keep losing their family members to the fox. How will Tambar use his wits to outsmart the fox? There will also be songs, games and fun activities suitable for children aged 5 to 10 years old."Little But Loud" is a programme where kids read to kids.  Started by three young siblings who love reading, the programme aims to spread the joy of reading. Since 2021, "Little But Loud" has been conducting regular reading and craft sessions for social service agencies.   </td>
