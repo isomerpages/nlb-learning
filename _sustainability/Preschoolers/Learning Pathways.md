@@ -75,6 +75,13 @@ Check out the video resources below to help your child understand the roles of t
       </tr>
     </thead>
     <tbody>
+			  <tr>
+			 <td><a href="https://www.eventbrite.sg/e/storytime-with-the-singapore-police-force-for-4-6-years-old-tickets-331615590157?aff=ebdsoporgprofile" target="_blank"><b>Storytime with the Singapore Police Force (for 4-6 years old)</b></a></td>
+        <td>Join our Police Officers from Woodlands Division for a special storytelling session about saving the earth and achieving environmental sustainability together! All participants will receive an exclusive crime prevention collateral.
+</td>
+					<td>June 4 2022<br>3.00pm - 3.30pm<br></td>
+        <td>Woodlands Public Library</td>
+			</tr>
 				  <tr>
 			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-323607467647?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Water Conservation</b></a></td>
         <td> This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. <br><br>This programme is for children aged 4 to 6 years old. Registration is required for this programme.
