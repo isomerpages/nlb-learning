@@ -271,10 +271,37 @@ Check out these resources to learn more about them.
 <small> Source: Singapore Local Food - Soon Soon Chinese Teochew Porridge Restaurant! (2016, Mar 23). Mark Wiens. Retrieved 2022, May 23. </small></p>
 </div>
 </div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/mj_kERaQuu8" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>新加坡，老故事 / Singapore, Old Stories #06: 广东菜 / Cantonese Cuisine | 3Pumpkins (15 mins)
+</b><br>
+Listen to the presenter share in Teochew about the tales behind popular Cantonese and Teochew cuisines like dim sums, fried dough sticks, congee, and rice noodles. with English subtitles.
+<br><br>
+<small> Source: 新加坡，老故事 / Singapore, Old Stories #06: 广东菜 / Cantonese Cuisine (2020, Jul 24). 3Pumpkins. Retrieved 2022, May 23.
+</small></p>
+</div>
+</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/nbvUvSrUWY8" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Hokkien Braised Mee, but IN HOKKIEN | Sarah and her Mom Cook! (15 mins)</b><br>
+Watch Sarah cook Hokkien braised noodles with her mother, anthropologist Dr Vivienne Wee, as she attempts to converse in Hokkien. With English subtitles. <br><br>
+<small>Source: Hokkien Braised Mee, but IN HOKKIEN | Sarah and her Mom Cook! (2021, Feb 10). Sarah Huang Benjamin. Retrieved 2022, May 23.
+</small></p>
+</div>
+</div>
 
-
-
-	
 <div>
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-food-heritage"><b> Singapore’s Food Heritage: Overview </b></h5>
