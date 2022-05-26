@@ -63,14 +63,13 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
 		</div>
 	</div>
-	<div class="col is-one-third">
+  <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#chinese-cuisine">
         <span>Playlist:<br>Chinese Cuisine</span>
       </a>
 		</div>
 	</div>
-		
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-food-heritage">
@@ -92,7 +91,6 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <a href="#lp-eurasian-cuisine">
 <span>Learning Package:<br>Eurasian Cuisine</span>
 </a>
-</div>
 </div>
 </div>
 
@@ -551,4 +549,3 @@ Retrieved from OverDrive (a <a
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-	
