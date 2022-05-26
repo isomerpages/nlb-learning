@@ -408,24 +408,28 @@ Lloyd Webber, Andrew. (2018). <i> Unmasked: A Memoir. </i> New York: Harper, an 
 
 <h5>Psychology for Dancers: Theory and Practice to Fulfil Your Potential</h5>
 Cathy Schofield and Lucy Start. (2019). <i> Psychology for Dancers: Theory and Practice to Fulfil Your Potential. </i> New York: Routledge. (Call no.: 792.8 SCH - [ART]) 
+
 <br>
 <img src="/images/Arts/AS/Book-8.jpeg" style="width:200px;"></a>
 <p> This book explores why dance is so important in many people’s lives: as a form of fitness, a profession, or visual entertainment. Each chapter examines a different aspect of psychology related to dance in an applied context. </p>
 
 <h5>Shadow Theatre in Java: The Puppets, Performance and Repertoire</h5>
 Veldhuisen-Djajasoebrata, Alit. (1999). <i> Shadow Theatre in Java: The Puppets, Performance and Repertoire. </i> Amsterdam: The Pepin Press. (Call no.: 791.53095982 DJA -[JSB]) 
+
 <br>
 <img src="/images/Arts/AS/Book-9.jpeg" style="width:200px;"></a>
 <p> Javanese society and wayang theatre are closely connected: not only are ideas from the wayang stories deeply embedded in Javanese culture, wayang is also a means of expression. Over the centuries, the ancient wayang theatre has developed into a distinctive form of art. Foreign influences provided new stories, characters were added, new styles were reigned at the courts, and, in the twentieth century, wayang theatre even served as a vehicle for propaganda, especially during the struggle for independence from Dutch colonial rule.</p>
 
 <h5>Disability and Theatre: Practical Manual for Inclusion in the Arts</h5>
 Barton-Farcas, Stephanie. (2018). <i> Disability and Theatre: Practical Manual for Inclusion in the Arts. </i> London: Routledge, Taylor & Francis Group. (Call no.: 792.087 BAR -[ART])
+
 <br>
 <img src="/images/Arts/AS/Book-10.jpeg " style="width:200px;"></a>
 <p> This book is a step-by step manual on how to create inclusive theatre, including how intricate scenes like fights and battles, work with unions, contracts, and agents, and deal with technical issues. This practical information was born from the author’s 16 years of running the first inclusive theatre company in New York City and is applicable to any performance level: children’s theatre, community theatre, regional theatre, touring companies, Broadways, and academic theatre.</p>
 
 <h5>The Book of Broadway: The 150 Definitive Plays and Musicals</h5>
 Grode, Eric. (2015). <i> The Book of Broadway: The 150 Definitive Plays and Musicals. </i> Minneapolis, MN: Voyageur Press. (Call no.: 792.0974710904 GRO -[ART])
+
 <br>
 <img src="/images/Arts/AS/Book-11.jpeg" style="width:200px;"></a>
 <p> This compilation by author, Eric Grode, is the ultimate guide to Broadway shows. Even if you consider yourself an expert in the theatre, you will be amazed by the fantastic Broadway trivia scattered throughout this volume, as well as the palpable sense of history in this encyclopaedic treatment of one of our most beloved pastimes.</p> 
