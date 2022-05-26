@@ -402,7 +402,7 @@ This is a year-long college-level survey course in art history. It covers art hi
 Lloyd Webber, Andrew. (2018). <i> Unmasked: A Memoir. </i> New York: Harper, an imprint of HarperCollinsPublishers. (Call no.: 782.14 LLO -[ART]) 
 
 <br>
-<img src="/images/Arts/AS/Book-7.jpeg" style="width:200px;"></a>
+<img src="/images/Arts/AS/Book-7.jpeg" style="width:200px;"></br>
 
 <p> In Unmasked, the revered, award-winning composer takes stock of his achievements, the twists of fate and circumstance which brought him both success and disappointment, and the passions that inspire and sustain him. </p>
 
