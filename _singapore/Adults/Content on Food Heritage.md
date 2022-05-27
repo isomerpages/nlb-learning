@@ -63,7 +63,13 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
 		</div>
 	</div>
-		
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#chinese-cuisine">
+        <span>Playlist:<br>Chinese Cuisine</span>
+      </a>
+		</div>
+	</div>
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-food-heritage">
@@ -84,6 +90,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <div class="clickbox is-mint-jade">
 <a href="#lp-eurasian-cuisine">
 <span>Learning Package:<br>Eurasian Cuisine</span>
+</a>
+</div>
+</div>
+
+<div class= "col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-Chinese-cuisine">
+<span>Learning Package:<br>Chinese Cuisine</span>
 </a>
 </div>
 </div>
@@ -241,8 +255,60 @@ A group of young Eurasians makes a lesser-known Eurasian dish called putugal (st
 </small></p>
 </div>
 </div>
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-	
+<p class="has-text-right margin--top--xl"><a 
+href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id=”Chinese-cuisine”><b>Playlist: Chinese Cuisine </b></h5>
+
+Singapore’s early Chinese migrants arrived from the southern Chinese provinces of Guangzhou and Fujian. They brought with them two of the most well-known and popular Chinese cuisines, each with its own character, ingredients, cooking methods and tastes. 
+
+Check out these resources to learn more about them.
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/- ONdhOeUV3yg" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Singapore Local Food - Soon Soon Chinese Teochew Porridge Restaurant! | Mark Wiens (8 mins)
+</b>
+<br> Teochew porridge is a rice porridge dish that is served with various small plates of side dishes. The consistency of the rice is not as creamy and starchy in texture as the Cantonese congee in which the rice grains are broken down much further during the cooking process. Watch Mark Wiens as he sampled Teochew porridge with delectable side dishes. <br><br>
+<small> Source: Singapore Local Food - Soon Soon Chinese Teochew Porridge Restaurant! (2016, Mar 23). Mark Wiens. Retrieved 2022, May 23. </small></p>
+</div>
+</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/mj_kERaQuu8" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>新加坡，老故事 / Singapore, Old Stories #06: 广东菜 / Cantonese Cuisine | 3Pumpkins (15 mins)
+</b><br>
+Listen to the presenter share in Teochew about the tales behind popular Cantonese and Teochew cuisines like dim sums, fried dough sticks, congee, and rice noodles. with English subtitles.
+<br><br>
+<small> Source: 新加坡，老故事 / Singapore, Old Stories #06: 广东菜 / Cantonese Cuisine (2020, Jul 24). 3Pumpkins. Retrieved 2022, May 23.
+</small></p>
+</div>
+</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/nbvUvSrUWY8" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Hokkien Braised Mee, but IN HOKKIEN | Sarah and her Mom Cook! (15 mins)</b><br>
+Watch Sarah cook Hokkien braised noodles with her mother, anthropologist Dr Vivienne Wee, as she attempts to converse in Hokkien. With English subtitles. <br><br>
+<small>Source: Hokkien Braised Mee, but IN HOKKIEN | Sarah and her Mom Cook! (2021, Feb 10). Sarah Huang Benjamin. Retrieved 2022, May 23.
+</small></p>
+</div>
+</div>
+
 <div>
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-food-heritage"><b> Singapore’s Food Heritage: Overview </b></h5>
@@ -404,5 +470,82 @@ Noronha, Theresa and Cheryl Noronha. (2015). <i>The Eurasian table.</i> Singapor
 <br>
 <img src="/images/Singapore%20Food%20Heritage/Noronha.png" style="width:200px;">
 <p>Third-generation Eurasian, Cheryl Noronha, wrote this book to gather and share her grandmother’s recipes of Eurasian dishes. This book features twenty-four traditional Eurasian recipes that are rooted in Portuguese, Indian and Malay cuisines.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
+<h5 id="lp-Chinese-cuisine" class="margin--bottom--lg"><b>Chinese Cuisine</b></h5>
+
+<p> In Singapore, majority of the early Chinese migrants came from the southern Chinese provinces of Guangzhou and Fujian. Guangdong cuisine like the cantonese, teochew and hakka dishes use steaming, poaching, braising, or simmering to bring out the natural flavour of each ingredient in the dish. Fujian cuisine also has several styles ranging from light, mild sweet and sour taste to more intense flavour with the use of sugar and spices. The Hainanese who arrived in Singapore much later, also brought with them their own special dishes.
+
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Singapore’s popular Hainanese chicken rice is not found in Hainan island. Adapted from the Hainanese dish Wenchang chicken, the rice dish uses Cantonese style of poaching the young and tender-fleshed chicken, and steams rice with chicken-bone stock.
+</li>
+</ul>
+</td>
+</tr></tbody></table>
+	
+These curated set of articles and books give an overview of Singapore’s Chinese food heritage.
+	
+<h4>Articles</h4>
+
+<h5><a href="https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore" target="_blank"> We are what we eat: the evolution of Chinese food in Singapore by Low Sze Wee </a></h5>
+<p> Author highlights the various popular Chinese dishes and argues how different cultures meet and influence each other resulting in the creation of new Chinese food in Singapore.
+</p>
+<p>Source: Low, Sze Wee. <a href=" https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore" target="_blank"> We are what we eat: the evolution of Chinese food in Singapore </a>(2022, April-June).<i> BiblioAsia</i> 17(2). Retrieved 2022, May 23.</p>
+	
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_27_2_2009-01-07.html" target="_blank"> Chinese New Year delicacies
+by Bonny Tan & Vicky Gao </a></h5>
+<p> Discover the common food items found in Singapore Chinese homes during Chinese New Year.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_27_2_2009-01-07.html" target="_blank"> Chinese New Year delicacies</a>(2018, July).<i> Singapore Infopedia.</i> Retrieved 2022, May 23.
+	
+<h4>eBooks</h4>
+
+<h5> Three Dishes One Soup: Inside the Singapore Kitchen</h5>
+Zhang, Lace. (2019). <i> Three Dishes One Soup: Inside the Singapore Kitchen.</i><br> 
+<a target=”_blank”
+href=”https://nlb.overdrive.com/media/4639984”>
+<img src="/images/Singapore%20Food%20Heritage/LZhang.png" style="width:200px;"></a>
+<p> It is common to find several dishes served with a bowl of rice and soup in Singapore Chinese families. Author Lace Zhang records her family's recipes with detailed explanations and step-by-step photographs.</p>
+<p><a href=”https://nlb.overdrive.com/media/4639984”
+target="_blank">Borrow the eBook here. </a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/"
+target="_blank">myLibrary username</a> is required to access the eBook.)
+	
+<h5> Uncle Anthony's Hokkien Recipes</h5>
+Loo, Hock Chye Anthony & Lee, Samantha. (2017). <i> Uncle Anthony's Hokkien Recipes.</i><br> 
+<a target="_blank"
+href="https://nlb.overdrive.com/media/3379641">
+<img src="/images/Singapore%20Food%20Heritage/ALoo.png" style="width:200px;"></a>
+<p> Part of an award-winning Heritage Cookbook series featuring over 80 Hokkien family recipes, including the well-known bak kut teh and lesser-known dishes like the sticky mee sua soup.</p>
+<p><a href="https://nlb.overdrive.com/media/3379641"
+target="_blank">Borrow the eBook here. </a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/"
+target="_blank">myLibrary username</a> is required to access the eBook.)
+
+<h5>Uncle Lau's Teochew Recipes</h5>
+Tan, Lee Leng & Lau, Chiap Khai. (2012). <i>Uncle Lau's Teochew Recipes.</i><br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/3300327">
+<img src="/images/Singapore%20Food%20Heritage/TanLL.png" style="width:200px;"></a>
+<p> Features a collection of over 80 time-tested recipes from a Singapore Teochew family. It has common Teochew dishes like steamed fish and ngoh hiang, as well as interesting dishes like Ho Pung and Sio Bee.
+</p><p><a href="https://nlb.overdrive.com/media/3300327" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
+	
+<h5> Madam Choy's Cantonese Recipes</h5>
+Reutens, Lulin & Choy, Wai Yuen. (2012). <i> Madam Choy's Cantonese Recipes </i><br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/3300282">
+<img src="/images/Singapore%20Food%20Heritage/RLulin.png" style="width:200px;"></a>
+<p> In this third revised edition of part of Epigram Books' award-winning Heritage Cookbook series, it showcases the best of Singapore's Cantonese cuisine from an avid home cook with over 50 years of cooking experience.
+</p><p><a href="https://nlb.overdrive.com/media/3300282" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

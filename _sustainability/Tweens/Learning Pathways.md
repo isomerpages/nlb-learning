@@ -62,10 +62,18 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 			<tr>
-				<td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
+				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/powerful-plants-singapores-botanical-wonders-tweenkerama-tickets-337990076417?aff=odcleoeventsincollection" target="_blank"><b>Powerful Plants: Singapore’s botanical wonders | Tweenkerama</b></a></td>
+        <td style="width: 40%;">Singapore is often known as the “garden city,” but do you know what our notable plants are, and the stories behind why they are so well-known? 
+<br><br>
+This is special edition in partnership with the National Library Singapore to learn more about Singapore’s botanical heritage, including our eye-catching and historically valuable plants, with materials from the library’s collections. Come and get your creative juices flowing by designing your own special plant!</td>
+				<td style="width: 20%;">18 June 2022, 11am-12pm</td>
+        <td style="width: 20%;">Zoom</td>
+			</tr>
+			<tr>
+				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/living-with-nature-storytelling-by-nparks-tickets-336258697817?aff=odcleoeventsincollection" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
         <td style="width: 40%;">Join NParks for our Living with Nature sharing series, starting with a storytelling on how some commonly found reptiles and amphibians (or herps) in Singapore come together to solve a mystery! <br><br>Following the storytelling segment, there will be a craft activity for both parent and child to make their favourite herp!</td>
-				<td style="width: 20%;">30 Apr 2022, 2-3pm<br><br><br>28 May 2022, 12.30-1.30pm<br><br>25 June 2022, 11-11.45am</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library<br><br>Tampines Regional Library<br><br>Woodlands Regional Library</td>
+				<td style="width: 20%;">25 June 2022, 11-11.45am</td>
+        <td style="width: 20%;">Woodlands Regional Library</td>
 			</tr>
     </tbody>
   </table>
@@ -80,7 +88,7 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>How to Go Safe Online</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-go-safe-online-primary-school-edition-online-tickets-311632901397?aff=odcleoeventsincollection" target="_blank"><b>How to Go Safe Online</b></a></td>
         <td style="width: 40%;">This programme is suitable for children aged 7 to 12 years old, and parents are welcome to attend with their children. Join us for this online session to learn about the types of cyber threats to look out for and learn how you can Go Safe Online by practising good cyber hygiene habits.</td>
         <td style="width: 20%;">28 May 2022,<br>10am-11am</td>
         <td style="width: 20%;">Zoom</td>

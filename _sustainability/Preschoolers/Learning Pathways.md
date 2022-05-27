@@ -75,32 +75,26 @@ Check out the video resources below to help your child understand the roles of t
       </tr>
     </thead>
     <tbody>
-     <tr>			
-<td><a href="https://www.eventbrite.sg/e/309164678877?aff=ebdsoporgprofile" target="_blank"><b> 《儿童拯救地球行动》 讲故事会：拯救海洋！ </b></a></td>
-        <td> 《儿童拯救地球行动》是一个基督教学前联盟组织的社区项目。目的是致力于激励、鼓励和帮助幼稚园儿童关心创造物和环境. 欢迎大家参与儿童故事会和观赏孩子们的美术展览。</td>
-        <td>30 April 2022<br>11.00am – 11.30am<br></td>
-        <td>Central Public Library </td>
-			</tr>
-			 <tr>
-			 <td><a href="https://www.eventbrite.sg/e/creation-care-storytelling-session-save-the-ocean-registration-309168741027?aff=ebdsoporgprofile" target="_blank"><b>Creation C.A.R.E Storytelling Session: Save The Ocean! </b></a></td>
-        <td> Creation C.A.R.E (Children’s Action to Rescue Earth) is a community project that endeavours to inspire, encourage and empower children to care for creation and the environment. Creation C.A.R.E is an initiative by Christian Preschool Alliance, as organised by Presbyterian Preschool Services.   <br><br> In conjunction with Creation C.A.R.E, we invite you to join us for the two storytelling sessions, as well as a public art showcase that will run from 25 April 2022 (Monday) to 1 May 2022 (Sunday) during library opening hours. Step into the wonderful world of ocean life and sea creatures through exciting stories and captivating artworks created by children that remind us of the precious ocean animals and habitats that we need to protect! Creation C.A.R.E stickers will also be given out to children who want to pledge to C.A.R.E for the environment. 
+			  <tr>
+			 <td><a href="https://www.eventbrite.sg/e/storytime-with-the-singapore-police-force-for-4-6-years-old-tickets-331615590157?aff=ebdsoporgprofile" target="_blank"><b>Storytime with the Singapore Police Force (for 4-6 years old)</b></a></td>
+        <td>Join our Police Officers from Woodlands Division for a special storytelling session about saving the earth and achieving environmental sustainability together! All participants will receive an exclusive crime prevention collateral.
 </td>
-        <td>30 April 2022<br>2.30pm – 3.00pm<br></td>
-        <td>Central Public Library </td>
+					<td>June 4 2022<br>3.00pm - 3.30pm<br></td>
+        <td>Woodlands Public Library</td>
 			</tr>
 				  <tr>
-			 <td><a href="https://linktr.ee/earlyreadsustainabilityprogs" target="_blank"><b>Caring for the Environment l Food & Me!</b></a></td>
-        <td> Join us for an interactive programme to learn about food technology! In this session, children will learn about alternative ways to grow food through interactive and hands-on activities. This programme is suitable for children 4-6 years old.
+			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-323607467647?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Water Conservation</b></a></td>
+        <td> This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. <br><br>This programme is for children aged 4 to 6 years old. Registration is required for this programme.
 </td>
-        <td>28 May 2022<br>11.00am - 12.00pm<br></td>
-        <td>Ang Mo Kio Public Library, Programme Zone</td>
+        <td>June 16 2022<br>2.00pm - 3.00pm<br></td>
+        <td>Sengkang Public Library</td>
 			</tr>
 			<tr>
-			 <td><a href="https://www.eventbrite.sg/e/storytelling-the-river-that-brings-us-life-tickets-325375586137" target="_blank"><b>Storytelling: The River That Brings Us Life </b></a></td>
-        <td> Come and join an afternoon of fun, with a dramatized storytelling about the Singapore Rivers' past, song and upcycling craft session. Children will learn the importance of keeping our rivers clean and how we can reuse our household waste through upcycling. This programme is for children aged 3 to 8 years old.
+			 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-seas-and-oceans-tickets-323601620157?aff=ebdsoporgprofile" target="_blank"><b>[Caring for the Environment] All About Seas and Oceans </b></a></td>
+        <td> Find out more about the importance of Seas and Oceans and how we can play a part in protecting them in this storytelling and activity session for children aged 4-6. This is a parent-accompanied programme. Registration is required for this programme.
 </td>
-        <td>29 May 2022<br>2.00pm – 3.00pm<br></td>
-        <td>Central Public Library </td>
+        <td>June 19 2022<br>2.00pm – 3.00pm<br></td>
+        <td>Jurong Regional Library </td>
 			</tr>
     </tbody>
   </table>
@@ -115,153 +109,120 @@ Check out the video resources below to help your child understand the roles of t
       </tr>
     </thead>
   <tbody>
-			<tr>			
-<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-277293380967?aff=ebdsoporgprofile" target="_blank"><b> Baby Songs & Rhymes | Early READ</b></a></td>
-        <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home.
-</td>
-        <td>4 May 2022<br>2.30pm – 3.00pm<br></td>
-        <td>Zoom</td>
-      </tr>
-			<tr>			
-<td><a href="https://www.eventbrite.sg/e/life-in-pictures-with-peter-h-reynolds-tickets-326195287887?aff=ebdsoporgprofile" target="_blank"><b> Life in Pictures with Peter H. Reynolds</b></a></td>
-        <td> Come and join us for an exclusive event with Peter H. Reynolds, where he will read aloud his book and answer some of your questions for parents with children aged 3 to 8!
-<br><br>
-"Stories for All Ages" author Peter Reynolds, who has been widely praised around the world for his work, will be making an appearance online! 
-</td>
-        <td>7 May 2022<br>10.00am – 11.00am<br></td>
-        <td>Zoom</td>
-      </tr>
-		<tr>			
-<td><a href="https://www.eventbrite.sg/e/think-like-a-coder-session-2-powerful-patterns-tickets-303277038787?aff=ebdsoporgprofile" target="_blank"><b> Think Like a Coder: Session 2: Powerful Patterns </b></a></td>
-        <td> Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children (age 3-6). These are for absolute beginners.Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.</td>
-        <td>7 May 2022<br>11.00am – 12.00pm<br></td>
-        <td>Jurong West Public Library  </td>
-      </tr>
-				<tr>			
-<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-308441927107?aff=ebdsoporgprofile" target="_blank"><b> Baby Songs & Rhymes | Early READ</b></a></td>
-        <td>Songs and rhymes play an important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. 
-<br><br>
-This programme is intended for parents with babies up to 12 months.
-</td>
-        <td>7 May 2022<br>11.00am – 11.30am<br></td>
-        <td>Zoom</td>
-      </tr>
-       <tr>			
-<td><a href="https://www.eventbrite.sg/e/nature-portraits-animals-that-fly-singapore-botanic-gardens-tickets-315184273647?aff=ebdsoporgprofile" target="_blank"><b> Nature Portraits: Animals that Fly | Singapore Botanic Gardens</b></a></td>
-        <td>Take a short walk with us in the neighbourhood outdoors and spot as many flying animals as you can! From insects to birds, these creatures take flight in different ways and also have their own life cycles. Join us and find about more about these magnificent creatures!</td>
-       <td>7 May 2022<br>11.00am –11.45am<br></td>
-        <td>Queenstown Public Library </td>
-      </tr>
-			<tr>			
-<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-308441375457?aff=ebdsoporgprofile" target="_blank"><b> Jiggle, Read & Rhyme | Early READ</b></a></td>
-        <td>Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! For toddlers aged 1-3
-</td>
-        <td>7 May 2022<br>11.30am – 12.00pm<br></td>
-        <td>Choa Chu Kang Public Library</td>
-      </tr>
-		<tr>			
-<td><a href="https://www.eventbrite.sg/e/sensory-story-time-registration-313243879877?aff=ebdsoporgprofile" target="_blank"><b> Sensory Story Time</b></a></td>
-        <td>Join us for a special storytime tailored to engage the different senses. This programme is designed to support children with special needs. Families with typically developing children are also welcome. This is a parent-child programme and each registration is for one participant. Please register one ticket each for you and your child.  If you are a caregiver of a child with special needs, please email to accessible@nlb.gov.sg with the information below. A social story will be sent to the participants who have emailed us. Programme: Sensory Story Time 7 May<br><br>
-a)  Age of child<br><br>
-b) Type of disability/ additional needs required 
-</td>
-        <td>7 May 2022<br>3.00pm – 3.30pm<br></td>
+		 <tr>			
+<td><a href="https://www.eventbrite.sg/e/adventure-with-smiley-tickets-328526530697?aff=ebdsoporgprofile" target="_blank"><b> Adventure with Smiley!</b></a></td>
+        <td>An interactive and engaging financial literacy program curated specially for children aged 4-7! Smiley will introduce kids to value of money, savings, banking and how they can take little steps towards sustainability through short animated scenes. Printable worksheet and currencies will be available for them to continue their learnings with parents at home. </td>
+       <td>June 1 2022<br>11.00am –12.00pm<br></td>
         <td>Woodlands Regional Library </td>
       </tr>
-			  <tr>	
-<td><a href="https://www.eventbrite.sg/e/marshmallow-shooter-registration-316636296687?aff=ebdsoporgprofile" target="_blank"><b> Marshmallow Shooter!</b></a></td>
-        <td> Have you wondered why a ball rolls away from you when you kick it? That’s because you are applying a force on the ball. Scientific concepts such as forces, which belong to the field of physics, can be found all around you, even if you don’t realise it! <br><br>Let’s learn more about forces in this interactive programme! Find out more about forces (with marshmallows!) and bring home activity sheets that will help you practise the concepts you have learnt. Let us all explore science in a fun and exciting way!</td>
-        <td>8 May 2022<br>5.00pm – 5.45pm<br></td>
-        <td>Marine Parade Public Library</td>
-      </tr>
-			<tr>			
-<td><a href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-early-read-registration-276287953707?aff=ebdsoporgprofile" target="_blank"><b> Toddler Songs and Rhymes | Early READ
-</b></a></td>
-        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.
-</td>
-        <td>10 May 2022<br>4.00pm – 4.20pm<br></td>
+		<tr>			
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-329420474507?aff=ebdsoporgprofile" target="_blank"><b>Baby Songs & Rhymes | Early READ
+ </b></a></td>
+        <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home.
+<br>
+This programme is intended for parents with babies up to 12 months.</td>
+        <td>June 1 2022<br>2.30pm-3.00pm<br></td>
         <td>Zoom</td>
-      </tr>
-			<tr>			
-<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-308440452697?aff=ebdsoporgprofile" target="_blank"><b> Jiggle, Read & Rhyme | Early READ
-</b></a></td>
-        <td>Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! 
-</td>
-        <td>14 May 2022<br>10.30am-11.00am<br></td>
-        <td>Queenstown Public Library </td>
+      </tr>	
+		 <tr>			
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-what-glows-in-the-deep-dark-sea-registration-337112230757?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] What Glows in the Deep Dark Sea?</b></a></td>
+        <td>Are you ready to meet some strange but fascinating deep-sea creatures? Join us as we learn about the different creatures that exist in deep oceans today. Discover why and how these animals glow in the deep sea through interactive activities and hands-on learning. Let's uncover the science behind bioluminescence together! This is a parent-child programme and is suitable for children aged 4-6 years old.</td>
+       <td>June 1 2022<br>3.00pm –4.00pm<br></td>
+        <td>Bedok Public Library </td>
       </tr>
 		  <tr>	
-<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-tickets-325390861827?aff=ebdsoporgprofile" target="_blank"><b> Jiggle, Read & Rhyme | Early READ</b></a></td>
-        <td>Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! For toddlers aged 1-3.</td>
-        <td>14 May 2022<br>11.00am-11.30am<br></td>
-        <td>Central Public Library</td>
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-science-explorers-fun-with-popsicle-sticks-tickets-323677908337?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] Science Explorers! Fun with Popsicle Sticks</b></a></td>
+        <td> Potential energy is the tension created between two objects when they are compressed or stretched. Like our emotions, if we bottle them up, it can lead to a rather unfriendly explosion. Let’s learn how to handle potential energy with care so we can explode in fun at our own time as well as learn to build a robotic arm with popsicle sticks that extends to grab some little toys home! This programme is for children aged 4-6 years old.
+</td>
+        <td>June 2 2022<br>11.00am – 12.30pm<br></td>
+        <td>Jurong Regional Library</td>
       </tr>
 		<tr>			
-<td><a href="https://www.eventbrite.sg/e/think-like-a-coder-session-1-amazing-algos-i-discovertech-tickets-303279415897?aff=ebdsoporgprofile" target="_blank"><b> Think Like a Coder: Session 1: Amazing Algos I DiscoverTech
-</b></a></td>
-        <td>Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children (age 3-6). These are for absolute beginners.Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.
+<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-334371513197?aff=ebdsoporgprofile" target="_blank"><b> Jiggle Read & Rhyme | Early READ</b></a></td>
+        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! For toddlers aged 1-3.</td>
+        <td>June 2 2022<br>4.00pm– 4.30am<br></td>
+        <td>Bedok Public Library</td>
+      </tr>
+		<tr>			
+<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-331034351657?aff=ebdsoporgprofile" target="_blank"><b> Jiggle Read & Rhyme | Early READ</b></a></td>
+        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! </td>
+        <td>June 4 2022<br>10.30am – 11.00am<br></td>
+        <td>Queenstown Public Library </td>
+      </tr>
+	<tr>			
+<td><a href="https://www.eventbrite.sg/e/think-like-a-coder-session-2-powerful-patterns-tickets-322963270837?aff=ebdsoporgprofile" target="_blank"><b> Think Like a Coder: Session 2: Powerful Patterns </b></a></td>
+        <td> Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children (age 3-6). These are for absolute beginners.Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.</td>
+        <td>June 4 2022<br>2.00pm – 2.30pm<br></td>
+        <td>Zoom  </td>
+      </tr>
+		<tr>			
+<td><a href="https://www.eventbrite.sg/e/little-but-loud-goes-to-the-library-tickets-328636268927?aff=ebdsoporgprofile" target="_blank"> <b> "Little But Loud" goes to the Library! </b></a></td>
+        <td>Curious about what cute bunnies and a little Troll might have in common? Join us for a “Little But Loud” fun story-telling session at the National Library this June school holiday. We will be reading “Tambar and the Bunny Rabbits”, a Norwegian children’s story. Tambar, a 5-year-ol2 troll, discovers that he has a special talent. He decides to help the bunnies who keep losing their family members to the fox. How will Tambar use his wits to outsmart the fox? There will also be songs, games and fun activities suitable for children aged 5 to 10 years old."Little But Loud" is a programme where kids read to kids.  Started by three young siblings who love reading, the programme aims to spread the joy of reading. Since 2021, "Little But Loud" has been conducting regular reading and craft sessions for social service agencies.   </td>
+       <td>June 4 2022<br>3.00pm-3.30pm<br></td>
+        <td>Bedok Public Library</td>
+      </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/little-but-loud-goes-to-the-library-tickets-328523712267?aff=ebdsoporgprofile" target="_blank"> <b> "Little But Loud" goes to the Library! </b></a></td>
+        <td>Curious about what cute bunnies and a little Troll might have in common? Join us for a “Little But Loud” fun story-telling session at the National Library this June school holiday. We will be reading “Tambar and the Bunny Rabbits”, a Norwegian children’s story. Tambar, a 5-year-ol2 troll, discovers that he has a special talent. He decides to help the bunnies who keep losing their family members to the fox. How will Tambar use his wits to outsmart the fox? There will also be songs, games and fun activities suitable for children aged 5 to 10 years old."Little But Loud" is a programme where kids read to kids.  Started by three young siblings who love reading, the programme aims to spread the joy of reading. Since 2021, "Little But Loud" has been conducting regular reading and craft sessions for social service agencies.   </td>
+       <td>June 5 2022<br>2.00pm-2.30pm<br></td>
+        <td>Jurong Regional Library</td>
+      </tr>
+		<tr>			
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-331035625467?aff=ebdsoporgprofile" target="_blank"><b>Baby Songs & Rhymes | Early READ</b></a></td>
+        <td> Songs and rhymes play an important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. 
+<br>
+This programme is intended for parents with babies up to 12 months.</td>
+        <td>June 9 2022<br>3.00pm-3.30pm<br></td>
+        <td>Zoom</td>
+      </tr>
+				<tr>			
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-how-do-animals-grow-tickets-337747761647?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] How Do Animals Grow? </b></a></td>
+        <td> Every living things goes through a life cycle and your child may start understanding that as they grow! From cats to butterflies, horses to frogs, this programme aims to bring your child on an investigative journey of the growth, development and needs of familiar and even unfamiliar animals. Come join us in this interactive session as we look at how animals evolve from one stage of life to another, and what they need to survive and grow. Bring home your very own butterfly life cycle craft too!
 </td>
-        <td>14 May 2022<br>2.00pm-2.30pm<br></td>
+        <td>June 10 2022<br>11.00am – 12.00pm<br></td>
+        <td>Woodlands Regional Library</td>
+      </tr>
+		<tr>			
+<td><a href="https://www.eventbrite.sg/e/parenting-book-club-with-jenny-ng-tickets-322957483527?aff=ebdsoporgprofile
+" target="_blank"><b>Parenting Book Club with Jenny Ng </b></a></td>
+        <td> Parenting without a support network and knowledge can be exasperating and lonely. The aim of this parenting book club is to share alternative perspectives and learn up-to-date ideas in parenting our children. We will read together, have an open dialogue and take home some tips, so that we can better support our children and grow together as a strong and healthy family.
+<br><br>
+Book title: The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child
+<br><br>
+Authors: Daniel J. Siegel, Tina Payne Bryson</td>
+        <td>June 11 2022<br>11.00am– 12.30pm<br></td>
+        <td>Sengkang Public Library</td>
+      </tr>
+		<tr>			
+<td><a href="https://www.eventbrite.sg/e/sensory-story-time-tickets-322959820517?aff=ebdssbdestsearch" target="_blank"><b>Sensory Story Time </b></a></td>
+        <td>Join us for a special storytime tailored to engage the different senses. This programme is designed to support children with special needs. Families with typically developing children are also welcome. This is a parent-child programme and each registration is for one participant. Please register one ticket each for you and your child.  If you are a caregiver of a child with special needs, please email to accessible@nlb.gov.sg with the information below.</td>
+       <td>June 11 2022<br>12.30pm-1.00pm<br></td>
+        <td>Jurong Regional Library</td>
+      </tr>
+		<tr>			
+<td><a href="https://www.eventbrite.sg/e/a-book-a-day-holiday-specials-enchanting-wonderland-tickets-328632948997?aff=ebdsoporgprofile" target="_blank"><b>A Book A Day Holiday Specials: Enchanting Wonderland </b></a></td>
+        <td> Join us on a journey to an enchanting wonderland through songs and poems; and create your very own Paper Cup Fairy House!
+<br><Br>
+This programme is for children aged 4 to 6. It is also designed to support children with special needs. Parents are encouraged to attend the session with their child/children</td>
+        <td>June 11 2022<br>2.00pm-3.00pm<br></td>
         <td>Zoom </td>
       </tr>
 			<tr>			
-<td><a href="https://www.eventbrite.sg/e/budding-scientists-solid-liquid-and-gas-tickets-319342551167?aff=ebdsoporgprofile" target="_blank"><b> [Budding Scientists] Solid, Liquid and Gas </b></a></td>
-        <td> Everything in the universe is made up of matter. That includes the water we drink, the air we breathe, and us! Yes, we are made up of matter, too! On Earth, all matter exists as one of three main states: solid, liquid or gas. In our workshop, you can learn about the atomic structure of each state and how they change. We'll have an enriching storytelling and activity session for preschoolers just like you!</td>
-        <td>14 May 2022<br>2.00pm – 3.00pm<br></td>
-        <td>Jurong Regional Library</td>
-      </tr>
-		 <tr>	
-<td><a href="https://www.eventbrite.sg/e/sensory-storytastic-tickets-311649932337?aff=ebdsoporgprofile" target="_blank"><b> Sensory Storytastic</b></a></td>
-        <td>Join our librarians for a fun and exciting parent-child multi-sensory storytelling session as they bring you into a world of fascinating stories and interesting facts.
-<br><br>
-This inclusive parent-child programme is suitable for children aged 7 to 10 years old, and also caters for children with autism.
-</td>
-        <td>18 May 2022<br>5.00pm-5.30pm<br></td>
-        <td>Choa Chu Kang Public Library </td>
-      </tr>
-			<tr>			
-<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-317947638947?aff=ebdsoporgprofile" target="_blank"><b> Jiggle Read & Rhyme | Early READ
-</b></a></td>
-        <td>Join other parents with young children and support your child's early development through an enjoyable 30-minute session with songs & rhymes
-</td>
-        <td>19 May 2022<br>4.00pm – 4.30pm<br></td>
-        <td>Geylang East Public Library</td>
-      </tr>
-		 <tr>	
-<td><a href="https://www.eventbrite.sg/e/toddler-songs-rhymes-early-read-registration-292214249687?aff=ebdsoporgprofile" target="_blank"><b> Toddler Songs & Rhymes | Early READ</b></a></td>
-        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes.</td>
-        <td>21 May 2022<br>11.00am-11.20am<br></td>
-        <td>Zoom</td>
-      </tr>
-			<tr>			
-<td><a href="https://www.eventbrite.sg/e/marvellous-trees-singapore-botanic-gardens-tickets-315183982777?aff=ebdsoporgprofile" target="_blank"><b> Marvellous Trees | Singapore Botanic Gardens </b></a></td>
-        <td> Trees are all around us in our little green city. Do you know that other than providing us with shade, trees also play an important role in keeping our air fresh? Come join us in this enriching session to learn more about trees and their life cycle!   </td>
-        <td>21 May 2022<br>11.00am – 11.45am<br></td>
-        <td>Tampines Regional Library  </td>
-      </tr>
-		<tr>	
-<td><a href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-313237450647?aff=ebdsoporgprofile" target="_blank"><b> Children's Puppet Castle</b></a></td>
-        <td>Join us for a puppet show performed by Puppet Master Arii Azharii. He will be performing two stories, The Boy Who Cried Wolf and Doctor Tortoise. Learn more about performance techniques through this exciting performance.</td>
-        <td>22 May 2022<br>3.00pm-4.00pm<br></td>
-        <td>Ang Mo Kio Public Library </td>
-      </tr>
-		<tr>	
-<td><a href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-early-read-registration-308442458697?aff=ebdsoporgprofile" target="_blank"><b> Toddler Songs & Rhymes | Early READ</b></a></td>
-        <td>Join other parents with young children and support your child's early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
-        <td>26 May 2022<br>3.00pm-3.30pm<br></td>
-        <td>Zoom</td>
-      </tr>
-		<tr>	
-<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-318710300087?aff=ebdsoporgprofile" target="_blank"><b> Jiggle Read & Rhyme | Early READ</b></a></td>
-        <td>
-Join other parents with young children and support your child's early development through an enjoyable 30-minute session with songs & rhymes
-</td>
-        <td>26 May 2022<br>4.00pm-4.30pm<br></td>
-        <td>Geylang East Public Library</td>
+<td><a href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-early-read-registration-276288485297?aff=ebdsoporgprofile" target="_blank"><b>Toddler Songs and Rhymes | Early READ</b></a></td>
+        <td> Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
+        <td>June 14 2022<br>4.00pm-4.20pm<br></td>
+        <td>Zoom </td>
       </tr>
 		<tr>			
-<td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-303309305297?aff=ebdsoporgprofile" target="_blank"><b> Introduction to Scratch Junior Coding</b></a></td>
-        <td> ScratchJr is a programming language for children aged 4-6. Using ScratchJr, children can create their own interactive stories, animations and games.
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-let-there-be-light-tickets-328631775487?aff=ebdsoporgprofile" target="_blank"><b>[Budding Scientists] Let There Be Light!</b></a></td>
+        <td> What is light made off? Why does light go through some things and not others? Let's learn more about light and how it travels through this super fun and simple session! We will be doing an experiment and a DIY shadow puppet theatre together!  </td>
+        <td>June 17 2022<br>3.30pm – 4.30pm<br></td>
+        <td>Zoom </td>
+      </tr>
+     	<tr>			
+<td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-323603224957?aff=ebdsoporgprofile" target="_blank"><b> Introduction to Scratch Junior Coding
+</b></a></td>
+        <td>ScratchJr is a programming language for children aged 4-6. Using ScratchJr, children can create their own interactive stories, animations and games.
 <br><br>
 Unit 1: Introduction
 <br>
@@ -271,14 +232,50 @@ Unit 2: Motion
 <br>
 Learn to use ScratchJr to create motion and animationsUse blocks and open-ended explorationsSame block sequencing and motionNumbers and repeating sequences 
 </td>
-        <td>28 May 2022<br>11.00am – 12.00pm<br></td>
-        <td>Sengkang Public Library</td>
+        <td>June 18 2022<br>11.00am-12.00pm<br></td>
+        <td>Bedok Public Library </td>
+      </tr>
+		<tr>			
+<td><a href="https://www.eventbrite.sg/e/storytelling-with-evelyn-the-noisiest-tree-tickets-323605240987?aff=ebdsoporgprofile" target="_blank"><b>Storytelling with Evelyn | The Noisiest Tree</b></a></td>
+        <td> Evelyn is a children's book author who writes stories for curious young readers to explore new words and worlds. They have been performed in children's theatre, festivals and schools.  The Just a Little Mynah picture book series are fun read-aloud stories with colourful characters and multilingual dialogue. </td>
+        <td>June 18 2022<br>2.00pm-2.30pm<br></td>
+        <td>Sengkang Public Library </td>
       </tr>
 			<tr>			
-<td><a href="https://www.eventbrite.sg/e/marvellous-trees-singapore-botanic-gardens-tickets-315201384827?aff=ebdsoporgprofile" target="_blank"><b> Marvellous Trees | Singapore Botanic Gardens</b></a></td>
-        <td> Trees are all around us in our little green city. Do you know that other than providing us with shade, trees also play an important role in keeping our air fresh? Come join us in this enriching session to learn more about trees and their life cycle! </td>
-        <td>28 May 2022<br>11.15am – 12.00pm<br></td>
-        <td>library@harbourfront</td>
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-276302778047?aff=ebdsoporgprofile" target="_blank"><b>Baby Songs & Rhymes | Early READ</b></a></td>
+        <td> Songs and rhymes are important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. This programme is intended for parents with babies up to 12 months.</td>
+        <td>June 23 2022<br>4.00pm-4.20pm<br></td>
+        <td>Zoom </td>
+      </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/parents-learning-community-play-learn-through-music-early-read-tickets-346611102137?aff=ebdsoporgprofile" target="_blank"><b>Parents' Learning Community: Play & Learn Through Music! | Early READ</b></a></td>
+        <td> For our first session, we have Yi Lin - a storybook enthusiast and parent to 3 children, who will take you on a humorous musical journey with I Know a Shy Fellow Who Swallowed a Cello, together with the help of a, well, cello! Get ready for an hour of storytelling and enjoyable activities, while learning more about early literacy. Stay tuned for the next session in the series coming to you soon!</td>
+        <td>June 25  2022<br>10.30am-11.30am<br></td>
+        <td>
+Jurong Regional Library
+ </td>
+      </tr>
+		<tr>			
+<td><a href="https://www.eventbrite.sg/e/budding-engineers-balloon-powered-car-registration-337126613777?aff=ebdsoporgprofile" target="_blank"><b>[Budding Engineers] Balloon-Powered Car</b></a></td>
+        <td> Energy conversion exists all around us. How does this work and how does energy make things move? Let's find out in this session as we create our own balloon-powered cars that zoom around the library! With everyday items, we will delve into learning about potential and kinetic energy, while making the fastest car possible! This is a parent-child programme and is suitable for children aged 4-6 years old.  </td>
+        <td>June 25 2022<br>10.30am – 11.30am<br></td>
+        <td>Jurong West Public Library </td>
+      </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/how-to-build-a-computational-mind-through-play-tickets-328524745357?aff=ebdsoporgprofile" target="_blank"><b>How to Build a "Computational Mind" Through "PLAY"</b></a></td>
+        <td> The world is becoming increasingly digital; children come into contact with digital media at an increasingly early age and this presents them with new challenges. They may grow up as "digital natives", but many of them lack the basic understanding and knowledge of how computers work.
+<br><br>
+This program aims to let the children and parents understand what computational thinking is and how they can help to encourage kids to have such “thinking” in their daily life. Children are introduced step-by-step to fundamental computer processes to promote problem solving skills in the digital way.
+</td>
+        <td>June 25 2022<br>2.00pm – 3.00pm<br></td>
+        <td>Zoom</td>
+      </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-science-explorers-magic-in-a-bowl-with-slime-making-tickets-323681288447?aff=ebdsoporgprofile" target="_blank"><b>[Budding Scientists] Science Explorers! Magic in a Bowl with Slime Making
+</b></a></td>
+        <td> Learn to create slime using some simple items that can be found around our home. By combining the right materials, it will perform a chemical reaction, quite similar to magic! This programme is for children aged 4-6 years old.  </td>
+        <td>June 28 2022<br>11.00am – 12.30pm<br></td>
+        <td>Jurong Regional Library </td>
       </tr>
     </tbody>
   </table>
