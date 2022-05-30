@@ -38,7 +38,7 @@ third_nav_title: Adults & Seniors
 .clickbox.is-thoughtful-tangerine a:hover { background-color: #FE5828; color: #ffc9ad; }
 </style>
 
-Check out our playlists and learning packages for recommended books, collection of short videos, selected podcasts and articles exploring topics around health and wellness.  
+Check out our playlists and learning packages for book recommendations, collection of short videos, selected podcasts and articles exploring topics around health and wellness.  
 
 <div class="row is-multiline">
   <div class="col is-one-third">
