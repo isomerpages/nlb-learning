@@ -65,8 +65,8 @@ Facilitated by Mr Goh Soon Seng, a retired software developer who is passionate 
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Digital Café @ Harbourfront</b></h5>
       <p class="margin--top--sm margin--bottom--sm">Keeping up with the latest digital trends does not have to be daunting! Join other seniors and share your passions, experiences, and knowledge with one another. Whether you are wondering why your Wi-Fi signal is weak at home or if there's a simple solution to improve your home Wi-Fi signal, come with questions prepared! Facilitated by our volunteer, Mr Ho Hew Lee, this community is suitable for those aged 50 and above and meet regularly on these dates: <br><br>
-Onsite Sessions: Every 2nd Saturday of the month, 2pm to 4pm at library@harbourfront 
-Zoom Sessions: Every 1st Thursday of the month, 8pm to 9pm</p>
+Onsite Sessions: <br> 
+Every 2nd Saturday of the month, 2pm to 4pm at library@harbourfront </p>
       <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>
@@ -91,3 +91,4 @@ For 15 and above, conducted monthly in English at Woodlands Regional Library and
     </div>
   </div>
 </div>
+
