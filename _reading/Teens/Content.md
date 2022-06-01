@@ -214,7 +214,7 @@ If you prefer eBooks, check out NLB's eCollection of manga titles [here](https:/
 
 <h5 id="manga3" class="margin--bottom--lg"><b>Marvellous Manga (Part 3)</b></h5>
 
-In this final part of the series, we will discuss manga in its omnichannel forms.  
+In this final part of the series, we will discuss manga in its various forms.  
 
 Manga’s versatility lends itself to adaptations in a variety of multimedia formats. These different types of adaptations can appeal to different demographics.  
 
