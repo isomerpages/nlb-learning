@@ -230,42 +230,58 @@ The adaptation of manga is not always one-directional. Did you know that the ren
 
 Seeing how versatile and varied manga can be, there’s definitely something for everyone.  
 
-Welcome to the wide, wonderful world of manga!  
-For more resources on this topic, check out NLB’s collection of eBooks here!  
+<u><b>Welcome to the wide, wonderful world of manga!</b></u><br>
+Check out our [Learning Playlist](https://learning.nlb.gov.sg/reading/teens/content) on the NLB LearnX site for more manga-related resources!
 
-Here are some other titles you can check out to immerse yourself more deeply into the wide, wonderful world of manga! 
+As of April 2022, the following public libraries each have a manga collection for you to peruse: 
 
-Dr. STONE 
-Author: Inagaki Riichiro 
-Publisher: VIZ Media, 2018 
-Call No.: English 741.5952 INA -[CMX] 
-Available as a physical copy only. (Find a copy at the public libraries via the NLB catalogue!) 
+* Choa Chu Kang Public Library 
+* Jurong Regional Library 
+* Jurong West Public Library 
+* Woodlands Regional Library
+* Central Public Library – *temporarily closed from 13 Jun 2022.*
+* Marine Parade Public Library – *temporarily closed from 9 May 2022.*
+
+If you prefer eBooks, check out NLB's eCollection of manga titles [here](https://nlb.overdrive.com/library/teens/search?subject=127&subject=12&sortBy=newlyadded)! Browse the “Best of Comics & Graphic Novels” collection, or access titles by publishers such as [VIZ Media](https://nlb.overdrive.com/search/publisherId?query=101442&sortBy=newlyadded) and [Seven Seas Entertainment](http://nlb.overdrive.com/search/publisherId?query=206746&sortBy=newlyadded). 
+
+Here are some other titles you can check out to immerse yourself more deeply into the wide, wonderful world of manga! 
+
+<img src="/images/diyresources/secondary/ttj22-reading-book1.jpg" alt="Dr STONE volume 1 book cover." style="width: 30%;"><br>
+**Dr. STONE**<br>
+Author: Inagaki Riichiro<br>
+Publisher: VIZ Media, 2018 <br>
+Call No.: English 741.5952 INA -[CMX]<br>
+Available as a physical copy only. (Find a copy at the public libraries via the [NLB catalogue](https://catalogue.nlb.gov.sg/)!)
 
 One fateful day, all of humanity turned to stone. Many millennia later, Taiju frees himself from the petrification and finds himself surrounded by statues. The situation looks grim—until he runs into his science-loving friend Senku! Together they plan to restart civilisation with the power of science!
 
-Synopsis from VIZ Media.
+Synopsis from [VIZ Media](https://www.viz.com/).
 
-Spy x Family 
-Author: Endo Tatsuya  
-Publisher: VIZ Media, 2020
-Call No.: English 741.5952 END -[CMX] 
-Available as a physical copy only. (Find a copy at the public libraries via the NLB catalogue!) 
+
+<img src="/images/diyresources/secondary/ttj22-reading-book2.jpg" alt="Spy X Family volume 1 book cover." style="width: 30%;"><br>
+**Spy x Family**<br>
+Author: Endo Tatsuya<br>
+Publisher: VIZ Media, 2020<br>
+Call No.: English 741.5952 END -[CMX]<br>
+Available as a physical copy only. (Find a copy at the public libraries via the [NLB catalogue](https://catalogue.nlb.gov.sg/)!)
 
 Master spy Twilight is the best at what he does when it comes to going undercover on dangerous missions in the name of a better world. But when he receives the ultimate impossible assignment—get married and have a kid—he may finally be in over his head!
 
-Synopsis from VIZ Media.
+Synopsis from [VIZ Media](https://www.viz.com/).
 
-Ichi-F 
-Author: Kazuto Tatsuta 
-Publisher: Kodansha Comics, 2017 
-Call No.: Y 363.17990952117 TAT 
-Available as a physical copy only. (Find a copy at the public libraries via the NLB catalogue!) 
+<img src="/images/diyresources/secondary/ttj22-reading-book3.jpg" alt="Ichi-F book cover." style="width: 30%;"><br>
+**Ichi-F**<br>
+Author: Kazuto Tatsuta<br>
+Publisher: Kodansha Comics, 2017<br>
+Call No.: Y 363.17990952117 TAT<br>
+Available as a physical copy only. (Find a copy at the public libraries via the [NLB catalogue](https://catalogue.nlb.gov.sg/)!) 
 
 This is the story of a man who took a job. Kazuto Tatsuta was an amateur artist who signed onto the dangerous task of cleaning up the Fukushima Daiichi Nuclear Plant, which its workers came to call “Ichi-F.” This is the story of that challenging work, of the trials faced by the local citizens, and of the unique camaraderie that built up between the mostly blue-collar workers who had to face the devious and invisible threat of radiation on a daily basis. After six months, Tatsuta’s body had absorbed the maximum annual dose of radiation allowed by regulations, and he was forced to take a break from the work crew, giving him the time to create this unprecedented, unauthorised, award-winning view of daily life at Fukushima Daiichi.
-Synopsis from Kodansha.
+
+Synopsis from [Kodansha](https://kodansha.us/).
 
 The book covers and synopses are the copyright of the respective publishing companies.
-(All websites were last accessed on 26 May 2022.)
 
+(All websites were last accessed on 30 May 2022.)
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+<b><a href="#top">Back to top</a></b>
