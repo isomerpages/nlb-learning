@@ -209,3 +209,63 @@ If you prefer eBooks, check out NLB's eCollection of manga titles [here](https:/
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+
+
+<h5 id="manga3" class="margin--bottom--lg"><b>Marvellous Manga (Part 3)</b></h5>
+
+In this final part of the series, we will discuss manga in its omnichannel forms.  
+
+Manga’s versatility lends itself to adaptations in a variety of multimedia formats. These different types of adaptations can appeal to different demographics.  
+
+One such adaptation is anime, which is a style of animation that originates from Japan. It’s rare to discuss manga without also talking about anime, since the former is frequently adapted into the latter. As anime becomes more accessible on popular streaming platforms, it can reach massive audiences and draw new fans into the original manga.  
+
+Popular manga series are sometimes even adapted into live-action dramas and films, where characters are played by human actors instead of illustrated with 2D computer graphics.  
+
+The versatility of manga extends beyond film and television. Franchises can cover a range of products such as merchandise and games, which are developed and marketed to beloved fans. For example, popular series like Naruto and Bleach have seen developers releasing multiple spin-off video games on gaming consoles such as the Wii, Gameboy, and PlayStation. 
+
+In more recent years, manga has even become a basis for mobile games, furthering the original story and its experience in a portable format.  
+
+The adaptation of manga is not always one-directional. Did you know that the renowned Pokémon brand actually started out as a video game series? It has since been serialised as a manga given its commercial success.   
+
+Seeing how versatile and varied manga can be, there’s definitely something for everyone.  
+
+Welcome to the wide, wonderful world of manga!  
+For more resources on this topic, check out NLB’s collection of eBooks here!  
+
+Here are some other titles you can check out to immerse yourself more deeply into the wide, wonderful world of manga! 
+
+Dr. STONE 
+Author: Inagaki Riichiro 
+Publisher: VIZ Media, 2018 
+Call No.: English 741.5952 INA -[CMX] 
+Available as a physical copy only. (Find a copy at the public libraries via the NLB catalogue!) 
+
+One fateful day, all of humanity turned to stone. Many millennia later, Taiju frees himself from the petrification and finds himself surrounded by statues. The situation looks grim—until he runs into his science-loving friend Senku! Together they plan to restart civilisation with the power of science!
+
+Synopsis from VIZ Media.
+
+Spy x Family 
+Author: Endo Tatsuya  
+Publisher: VIZ Media, 2020
+Call No.: English 741.5952 END -[CMX] 
+Available as a physical copy only. (Find a copy at the public libraries via the NLB catalogue!) 
+
+Master spy Twilight is the best at what he does when it comes to going undercover on dangerous missions in the name of a better world. But when he receives the ultimate impossible assignment—get married and have a kid—he may finally be in over his head!
+
+Synopsis from VIZ Media.
+
+Ichi-F 
+Author: Kazuto Tatsuta 
+Publisher: Kodansha Comics, 2017 
+Call No.: Y 363.17990952117 TAT 
+Available as a physical copy only. (Find a copy at the public libraries via the NLB catalogue!) 
+
+This is the story of a man who took a job. Kazuto Tatsuta was an amateur artist who signed onto the dangerous task of cleaning up the Fukushima Daiichi Nuclear Plant, which its workers came to call “Ichi-F.” This is the story of that challenging work, of the trials faced by the local citizens, and of the unique camaraderie that built up between the mostly blue-collar workers who had to face the devious and invisible threat of radiation on a daily basis. After six months, Tatsuta’s body had absorbed the maximum annual dose of radiation allowed by regulations, and he was forced to take a break from the work crew, giving him the time to create this unprecedented, unauthorised, award-winning view of daily life at Fukushima Daiichi.
+Synopsis from Kodansha.
+
+The book covers and synopses are the copyright of the respective publishing companies.
+(All websites were last accessed on 26 May 2022.)
+
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
