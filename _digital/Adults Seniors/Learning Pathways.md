@@ -64,37 +64,30 @@ The story of technology is the history of people solving problems, overcoming ad
         <td style="width: 20%;">Zoom</td>
       </tr>
      <tr>
-<td><a href="https://www.eventbrite.com/cc/my-digital-life-303169" target="_blank"><b>[Future of Work]</b><br>Introduction to Website Security</a></td>
-        <td>In this workshop, learn about the security measures and approaches related to website security and protection as well as how to implement them.</td>
-        <td>12 May 2022, <br>7pm - 8.30pm</td>
-        <td>Zoom</td>
+<td><a href="https://www.eventbrite.com/cc/my-digital-life-303169" target="_blank"><b>[My Digital Life]</b><br>Leap into Livestreaming 101</a></td>
+        <td>Take a leap into livestreaming & learn about the basics of video production and get hands-on experience with setting up for a livestream!</td>
+        <td>Fridays, 6:30pm-8:30pm<br>Saturdays, 12pm-2pm</td>
+        <td>Public Libraries</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.com/e/information-security-201-future-of-work-registration-304547859847" target="_blank"><b>[Future of Work]</b><br>Information Security 201</a></td>
-        <td>Learn about the more complex approaches to information security and acquire greater knowledge about it.
+<td><a href="https://www.eventbrite.sg/e/leap-into-livestreaming-201-my-digital-life-registration-344041245627" target="_blank"><b>[My Digital Life]</b><br>Leap into Livestreaming 201</a></td>
+        <td>Take the next step in your livestreaming journey and learn how to use software tools to make your content stand out from the rest!
 </td>
-        <td>19 May 2022, <br>7pm - 8.30pm</td>
+        <td>27 July 2022, <br>6:30pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 			<tr>
-<td><a href="https://www.eventbrite.com/e/website-security-201-future-of-work-registration-304551691307" target="_blank"><b>[Future of Work]</b><br>Website Security 201</a></td>
-        <td>Gain a deeper understanding of the security measures that websites employ and the various developments in this field.
+<td><a href="https://www.eventbrite.sg/e/protecting-yourself-against-cybercrime-my-digital-life-registration-333372284477" target="_blank"><b>[My Digital Life]</b><br>Protecting Yourself Against Cybercrime</a></td>
+        <td>Learn how to protect yourself against cybercrime in this program
 </td>
-        <td>26 May 2022, <br>7pm - 8.30pm</td>
+        <td> 9 June 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 			<tr>
-<td><a href="https://www.eventbrite.com/e/block-chain-future-of-work-registration-322550937537" target="_blank"><b>[Future of Work]</b><br>Blockchain</a></td>
-        <td>The talk will start with an overview of a brief history of Blockchain, followed by the structure, implementation and applications of Blockchain. 
-</td>
-        <td>27 May 2022, <br>6:30pm - 8.30pm</td>
-        <td>Zoom</td>
-      </tr>
-			<tr>
-<td><a href="https://www.eventbrite.sg/e/build-your-own-2d-game-my-digital-life-registration-308525727757" target="_blank"><b>[My Digital Life]</b><br>Build Your Own 2D Game</a></td>
+<td><a href="https://www.eventbrite.sg/e/build-your-own-2d-game-my-digital-life-registration-337115761317" target="_blank"><b>[My Digital Life]</b><br>Build Your Own 2D Game</a></td>
         <td>Learn how to build your very own 2D Game in this workshop!
 </td>
-        <td>24 May 2022, <br>6:30pm - 8.30pm</td>
+        <td>29 June 2022, <br>6:30pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 			    </tbody>
