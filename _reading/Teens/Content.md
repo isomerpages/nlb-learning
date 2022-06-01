@@ -68,7 +68,7 @@ Check out our **learning packages** to explore ways of expressing yourself throu
     </div>
   </div>
 	</div>
-<br>
+
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
@@ -100,7 +100,6 @@ Manga plays a large part in the Japanese publishing industry and isn’t showing
 <small> Source: The History of Japanese Manga by Wonderbot Discovery (2021, May 12). Wonderbot Discovery. Retrieved 2022, March 10. </small></p>
   </div>
 </div>
-<br>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
