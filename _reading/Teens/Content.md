@@ -72,8 +72,8 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#">
-        <span>Playlist:<br>Testing</span>
+      <a href="#manga3">
+        <span>Marvellous Manga (part 3)</span>
       </a>
     </div>
   </div>
