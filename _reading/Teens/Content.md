@@ -231,18 +231,8 @@ The adaptation of manga is not always one-directional. Did you know that the ren
 Seeing how versatile and varied manga can be, there’s definitely something for everyone.  
 
 <u><b>Welcome to the wide, wonderful world of manga!</b></u><br>
-Check out our [Learning Playlist](https://learning.nlb.gov.sg/reading/teens/content) on the NLB LearnX site for more manga-related resources!
 
-As of April 2022, the following public libraries each have a manga collection for you to peruse: 
-
-* Choa Chu Kang Public Library 
-* Jurong Regional Library 
-* Jurong West Public Library 
-* Woodlands Regional Library
-* Central Public Library – *temporarily closed from 13 Jun 2022.*
-* Marine Parade Public Library – *temporarily closed from 9 May 2022.*
-
-If you prefer eBooks, check out NLB's eCollection of manga titles [here](https://nlb.overdrive.com/library/teens/search?subject=127&subject=12&sortBy=newlyadded)! Browse the “Best of Comics & Graphic Novels” collection, or access titles by publishers such as [VIZ Media](https://nlb.overdrive.com/search/publisherId?query=101442&sortBy=newlyadded) and [Seven Seas Entertainment](http://nlb.overdrive.com/search/publisherId?query=206746&sortBy=newlyadded). 
+For more resources on this topic, check out NLB’s collection of eBooks [here](https://nlb.overdrive.com/library/teens/search?subject=127&subject=12&sortBy=newlyadded)! 
 
 Here are some other titles you can check out to immerse yourself more deeply into the wide, wonderful world of manga! 
 
