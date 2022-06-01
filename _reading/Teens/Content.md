@@ -236,7 +236,7 @@ For more resources on this topic, check out NLB’s collection of eBooks [here](
 
 Here are some other titles you can check out to immerse yourself more deeply into the wide, wonderful world of manga! 
 
-<img src="/images/diyresources/secondary/ttj22-reading-book1.jpg" alt="Dr STONE volume 1 book cover." style="width: 30%;"><br>
+<img src="/images/reading/teens/teensreading_bookdrstone.jpeg" alt="Dr STONE volume 1 book cover." style="width: 30%;"><br>
 **Dr. STONE**<br>
 Author: Inagaki Riichiro<br>
 Publisher: VIZ Media, 2018 <br>
@@ -248,7 +248,8 @@ One fateful day, all of humanity turned to stone. Many millennia later, Taiju fr
 Synopsis from [VIZ Media](https://www.viz.com/).
 
 
-<img src="/images/diyresources/secondary/ttj22-reading-book2.jpg" alt="Spy X Family volume 1 book cover." style="width: 30%;"><br>
+<img src="/images/reading/teens/teensreading_bookspyxfamily.jpeg" alt="Spy X Family volume 1 book cover." style="width: 30%;"><br>
+
 **Spy x Family**<br>
 Author: Endo Tatsuya<br>
 Publisher: VIZ Media, 2020<br>
@@ -259,7 +260,8 @@ Master spy Twilight is the best at what he does when it comes to going undercove
 
 Synopsis from [VIZ Media](https://www.viz.com/).
 
-<img src="/images/diyresources/secondary/ttj22-reading-book3.jpg" alt="Ichi-F book cover." style="width: 30%;"><br>
+<img src="/images/reading/teens/teensreading_bookichif.jpeg" alt="Ichi-F book cover." style="width: 30%;"><br>
+
 **Ichi-F**<br>
 Author: Kazuto Tatsuta<br>
 Publisher: Kodansha Comics, 2017<br>
