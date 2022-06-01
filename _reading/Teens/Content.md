@@ -218,6 +218,8 @@ In this final part of the series, we will discuss manga in its omnichannel forms
 
 Manga’s versatility lends itself to adaptations in a variety of multimedia formats. These different types of adaptations can appeal to different demographics.  
 
+![examples of manga](/images/reading/teens/teensreading_mangaexamples.png)
+
 One such adaptation is anime, which is a style of animation that originates from Japan. It’s rare to discuss manga without also talking about anime, since the former is frequently adapted into the latter. As anime becomes more accessible on popular streaming platforms, it can reach massive audiences and draw new fans into the original manga.  
 
 Popular manga series are sometimes even adapted into live-action dramas and films, where characters are played by human actors instead of illustrated with 2D computer graphics.  
@@ -236,7 +238,7 @@ For more resources on this topic, check out NLB’s collection of eBooks [here](
 
 Here are some other titles you can check out to immerse yourself more deeply into the wide, wonderful world of manga! 
 
-<img src="/images/reading/teens/teensreading_bookdrstone.jpeg" alt="Dr STONE volume 1 book cover." style="width: 30%;"><br>
+<img ><br>
 **Dr. STONE**<br>
 Author: Inagaki Riichiro<br>
 Publisher: VIZ Media, 2018 <br>
