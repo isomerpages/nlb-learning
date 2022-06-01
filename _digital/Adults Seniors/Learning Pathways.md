@@ -58,13 +58,13 @@ The story of technology is the history of people solving problems, overcoming ad
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/cybersecurity-from-scratch-future-of-work-registration-322550636637?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Cybersecurity from Scratch</a></td>
-        <td style="width: 40%;">This talk covers the latest cybersecurity trends and the importance of cybersecurity. Participants will also learn the basics of being safe online.</td>
-        <td style="width: 20%;"> 12 May 2022,<br>6:30pm–8.30pm</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/reducing-your-workload-through-rpa-future-of-work-registration-333479665657" target="_blank"><b>[Future of Work]</b><br>Reducing your Workload through RPA</a></td>
+        <td style="width: 40%;">Learn about a popular robotic automation software and how it can be used to help you work more efficiently.</td>
+        <td style="width: 20%;"> 28 June 2022,<br>6:30pm–8.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
      <tr>
-<td><a href="https://www.eventbrite.sg/e/introduction-to-website-security-future-of-work-registration-304462514577" target="_blank"><b>[Future of Work]</b><br>Introduction to Website Security</a></td>
+<td><a href="https://www.eventbrite.com/cc/my-digital-life-303169" target="_blank"><b>[Future of Work]</b><br>Introduction to Website Security</a></td>
         <td>In this workshop, learn about the security measures and approaches related to website security and protection as well as how to implement them.</td>
         <td>12 May 2022, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
