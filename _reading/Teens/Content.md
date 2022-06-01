@@ -238,7 +238,7 @@ For more resources on this topic, check out NLB’s collection of eBooks [here](
 
 Here are some other titles you can check out to immerse yourself more deeply into the wide, wonderful world of manga! 
 
-<img ><br>
+<img src="/images/reading/teens/teensreading_bookdrstone.jpeg" alt="Dr STONE volume 1 book cover." style="width: 30%;"><br>
 **Dr. STONE**<br>
 Author: Inagaki Riichiro<br>
 Publisher: VIZ Media, 2018 <br>
