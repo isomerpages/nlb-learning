@@ -57,7 +57,7 @@ Take the plunge into a deeper love for the literary.
       </tr>
 					<tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/4-koma-comic-workshop-digital-extravaganza-registration-334415243997?aff=ebdsoporgprofile"><b>4 Koma Comic Workshop (Digital) | Extravaganza</b></a></td>
-        <td>Meet and learn with other art enthusiasts in this workshop about creating a 4-Koma, or a Japanese 4-panel comic. Please note that the programme will take place simultaneously with a physical session. 
+        <td>Meet and learn with other art enthusiasts in this workshop about creating a 4-Koma, or a Japanese 4-panel comic. Please note that the programme will take place simultaneously with a <a href= https://www.eventbrite.sg/e/4-koma-comic-workshop-physical-extravaganza-registration-334417560927?aff=ebdsoporgprofile> physical</a> session. 
         </td><td>12 Jun 2022, <br>2 – 4pm</td>
         <td>Zoom</td>
       </tr>
