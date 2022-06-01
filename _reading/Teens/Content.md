@@ -68,6 +68,17 @@ Check out our **learning packages** to explore ways of expressing yourself throu
     </div>
   </div>
 	</div>
+<br>
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#">
+        <span>Playlist:<br>Testing</span>
+      </a>
+    </div>
+  </div>
+</div>
+
 
 <h3><b>Playlist</b></h3>
 	
@@ -90,15 +101,6 @@ Manga plays a large part in the Japanese publishing industry and isn’t showing
   </div>
 </div>
 <br>
-<div class="row is-multiline">
-  <div class="col is-one-third">
-    <div class="clickbox is-indigo-sky">
-      <a href="#">
-        <span>Playlist:<br>Testing</span>
-      </a>
-    </div>
-  </div>
-</div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
