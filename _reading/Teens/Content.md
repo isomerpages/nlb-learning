@@ -73,7 +73,7 @@ Check out our **learning packages** to explore ways of expressing yourself throu
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#manga3">
-        <span>Marvellous Manga (part 3)</span>
+        <span>Learning Package:<br>Marvellous Manga (part 3)</span>
       </a>
     </div>
   </div>
