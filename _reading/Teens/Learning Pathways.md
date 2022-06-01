@@ -18,17 +18,25 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href= "/reading/teens/content"><b>Playlist: Marvellous Manga</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href= "/reading/teens/content"><b>Playlist: Marvellous Manga (Part 1)</b></a></td>
         <td style="width: 40%;">Check out this collection of short videos, and learn more about the origins of manga.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="/reading/teens/content"><b>Learning Package: Marvellous Manga</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/reading/teens/content"><b>Learning Package: Marvellous Manga (Part 2)</b></a></td>
         <td>Learn about the history, the subgenres and the craft that goes into making this eminent japanese artform.</td>
         <td></td>
         <td> </td>
     </tr>
+			      <tr>
+        <td style="width: 20%;"><a target="_blank" href= "/reading/teens/content"><b>Playlist: Marvellous Manga (Part 3)</b></a></td>
+        <td style="width: 40%;">Learn how manga has been adapted to different mediums, such as anime, and more!</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+			
+			
  </tbody>
   </table>
 </div>
