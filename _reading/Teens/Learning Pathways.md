@@ -43,8 +43,8 @@ Take the plunge into a deeper love for the literary.
     <tbody>
       <tr>
         <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/head2head-stories-through-memories-imagination-registration-207899812937?aff=ebdsoporgprofile "><b>Head2Head | Stories Through Memories & Imagination</b></a></td>
-        <td style="width: 40%;">Join the writers as they discuss the writing processes through emotional memory and ruminations in observing the world.</td>
-        <td style="width: 20%;"> 19 Apr 2022,<br>7 – 8pm</td>
+        <td style="width: 40%;">test</td>
+        <td style="width: 20%;">  2022,<br>7 – 8pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 					<tr>
@@ -72,10 +72,10 @@ Take the plunge into a deeper love for the literary.
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.com/e/in-award-winning-style-with-sivanantham-neelakandan-tickets-219127043887?aff=odcleoeventsincollection&keep_tld=1" ><b>In Award Winning Style</b></a></td>
-	<td>Teens will learn more about award winning authors (local and overseas), their distinctive styles and how they captivate readers and have established themselves as one of the best Tamil fiction writers in current times. <br><br>This programme will be conducted in Tamil.<br><br>
-        </td><td>12 Apr 2022, <br>3 – 4.30pm</td>
-        <td>Zoom</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/cckpl-dungeons-dragons-experience-with-the-legitimate-business-tlb-tickets-338658856757?aff=odcleoeventsincollection" ><b>CCKPL: Dungeons & Dragons Experience with The Legitimate Business (TLB)</b></a></td>
+	<td>Learn to play Dungeons and Dragons, the world’s biggest tabletop RPG. Join us for a session of storytelling, roleplaying, and dice rolling.<br><br>Participants should bring a pencil and an eraser.<br><br>
+        </td><td>25 Jun 2022, <br>1 – 5pm</td>
+        <td>Choa Chu Kang Library PZ</td>
       </tr>
 
     </tbody>
