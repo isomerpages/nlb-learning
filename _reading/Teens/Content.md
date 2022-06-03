@@ -69,6 +69,17 @@ Check out our **learning packages** to explore ways of expressing yourself throu
   </div>
 	</div>
 
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#manga3">
+        <span>Learning Package:<br>Marvellous Manga (part 3)</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+
 <h3><b>Playlist</b></h3>
 	
 A collection of short videos and podcasts to expand your reading and writing interests.
@@ -89,7 +100,6 @@ Manga plays a large part in the Japanese publishing industry and isn’t showing
 <small> Source: The History of Japanese Manga by Wonderbot Discovery (2021, May 12). Wonderbot Discovery. Retrieved 2022, March 10. </small></p>
   </div>
 </div>
-
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -199,3 +209,73 @@ If you prefer eBooks, check out NLB's eCollection of manga titles [here](https:/
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+
+
+<h5 id="manga3" class="margin--bottom--lg"><b>Marvellous Manga (Part 3)</b></h5>
+
+In this final part of the series, we will discuss manga in its various forms.  
+
+Manga’s versatility lends itself to adaptations in a variety of multimedia formats. These different types of adaptations can appeal to different demographics.  
+
+![examples of manga](/images/reading/teens/teensreading_mangaexamples.png)
+
+One such adaptation is anime, which is a style of animation that originates from Japan. It’s rare to discuss manga without also talking about anime, since the former is frequently adapted into the latter. As anime becomes more accessible on popular streaming platforms, it can reach massive audiences and draw new fans into the original manga.  
+
+Popular manga series are sometimes even adapted into live-action dramas and films, where characters are played by human actors instead of illustrated with 2D computer graphics.  
+
+The versatility of manga extends beyond film and television. Franchises can cover a range of products such as merchandise and games, which are developed and marketed to beloved fans. For example, popular series like Naruto and Bleach have seen developers releasing multiple spin-off video games on gaming consoles such as the Wii, Gameboy, and PlayStation. 
+
+In more recent years, manga has even become a basis for mobile games, furthering the original story and its experience in a portable format.  
+
+The adaptation of manga is not always one-directional. Did you know that the renowned Pokémon brand actually started out as a video game series? It has since been serialised as a manga given its commercial success.   
+
+Seeing how versatile and varied manga can be, there’s definitely something for everyone.  
+
+<u><b>Welcome to the wide, wonderful world of manga!</b></u><br>
+
+For more resources on this topic, check out NLB’s collection of eBooks [here](https://nlb.overdrive.com/library/teens/search?subject=127&subject=12&sortBy=newlyadded)! 
+
+Here are some other titles you can check out to immerse yourself more deeply into the wide, wonderful world of manga! 
+
+<img src="/images/reading/teens/teensreading_bookdrstone.jpeg" alt="Dr STONE volume 1 book cover." style="width: 30%;"><br>
+**Dr. STONE**<br>
+Author: Inagaki Riichiro<br>
+Publisher: VIZ Media, 2018 <br>
+Call No.: English 741.5952 INA -[CMX]<br>
+Available as a physical copy only. (Find a copy at the public libraries via the [NLB catalogue](https://catalogue.nlb.gov.sg/)!)
+
+One fateful day, all of humanity turned to stone. Many millennia later, Taiju frees himself from the petrification and finds himself surrounded by statues. The situation looks grim—until he runs into his science-loving friend Senku! Together they plan to restart civilisation with the power of science!
+
+Synopsis from [VIZ Media](https://www.viz.com/).
+
+
+<img src="/images/reading/teens/teensreading_bookspyxfamily.jpeg" alt="Spy X Family volume 1 book cover." style="width: 30%;"><br>
+
+**Spy x Family**<br>
+Author: Endo Tatsuya<br>
+Publisher: VIZ Media, 2020<br>
+Call No.: English 741.5952 END -[CMX]<br>
+Available as a physical copy only. (Find a copy at the public libraries via the [NLB catalogue](https://catalogue.nlb.gov.sg/)!)
+
+Master spy Twilight is the best at what he does when it comes to going undercover on dangerous missions in the name of a better world. But when he receives the ultimate impossible assignment—get married and have a kid—he may finally be in over his head!
+
+Synopsis from [VIZ Media](https://www.viz.com/).
+
+<img src="/images/reading/teens/teensreading_bookichif.jpeg" alt="Ichi-F book cover." style="width: 30%;"><br>
+
+**Ichi-F**<br>
+Author: Kazuto Tatsuta<br>
+Publisher: Kodansha Comics, 2017<br>
+Call No.: Y 363.17990952117 TAT<br>
+Available as a physical copy only. (Find a copy at the public libraries via the [NLB catalogue](https://catalogue.nlb.gov.sg/)!) 
+
+This is the story of a man who took a job. Kazuto Tatsuta was an amateur artist who signed onto the dangerous task of cleaning up the Fukushima Daiichi Nuclear Plant, which its workers came to call “Ichi-F.” This is the story of that challenging work, of the trials faced by the local citizens, and of the unique camaraderie that built up between the mostly blue-collar workers who had to face the devious and invisible threat of radiation on a daily basis. After six months, Tatsuta’s body had absorbed the maximum annual dose of radiation allowed by regulations, and he was forced to take a break from the work crew, giving him the time to create this unprecedented, unauthorised, award-winning view of daily life at Fukushima Daiichi.
+
+Synopsis from [Kodansha](https://kodansha.us/).
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+(All websites were last accessed on 30 May 2022.)
+
+<b><a href="#top">Back to top</a></b>
