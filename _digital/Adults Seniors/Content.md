@@ -880,3 +880,87 @@ Becca Caddy (2021), <i>Screen Time</i>, Blink Publishing. <br>
 <h4>References</h4>
 13) <a id="footnote-thirteen">Smartphone penetration rate as share of the population in Singapore from 2010 to 2020 and a forecast up to 2025</a>. <i>Statista.com</i>. Retrieved 2021, October 21 from <a href="https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/" target="_blank">https://www.statista.com/statistics/625441/smartphone-user-penetration-in-singapore/</a>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="lp-marketing"><b>Learning Package: Digital Marketing and Livestreaming</b></h5>
+<p> With people and businesses moving online due to the rapid digitization brought about by COVID-19, it has now become the norm to market yourself or your products on online platforms through content creation or digital marketing. Content for digital marketing can also be created in the form of livestreaming. A livestream can be defined as broadcasting the video and sound of an event as it takes place<sup><small><a href="#footnote-one">1</a></small></sup>.The recent rise in livestreaming’s popularity can be attributed to how it offers a way for individuals or businesses to build connections through real-time communication. </p>
+<p> Take your first step into the world of livestreaming and digital marketing with this learning package!
+</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+			<h2>Did you know...</h2>
+			<p> Conversations about livestreams and gamification of the online shopping experience on forums and social media increased by 1,890% since Mar 2020<sup><a href="#footnote-two">2</a></sup>.</p>
+			<p> Of the various types of digital marketing, 82% of marketers utilize content marketing to promote their brand <sup><a href="#footnote-three">3</a></sup>.</p>
+		</td>
+	</tr>
+	</tbody></table>
+	
+<h4>Videos</h4>
+<h5>Building a FULL Streaming Setup on the Cheap!</h5>
+<p> Getting started in livestreaming doesn’t have to break the bank. Learn how to build a complete livestreaming setup on a budget in this video.</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L6ZJaKqALgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+Source: <a href="https://www.youtube.com/embed/L6ZJaKqALgM"  target="_blank">Building a FULL Streaming Setup on the Cheap! </a> (2020, June 28). <i>Linus Tech Tips.</i> Retrieved 2022, June 1
+
+<h5>2. Digital Marketing in 2 Minutes</h5> 
+<p> Understand what digital marketing is and the various types of digital marketing you can use to promote your brand.</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bixR-KIJKYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+	</div>
+Source: <a href="https://www.youtube.com/embed/bixR-KIJKYM" target="_blank"> Digital Marketing In 5 Minutes | What Is Digital Marketing? | Learn Digital Marketing | Simplilearn </a> (2020, September 23). <i>Simplilearn.</i> Retrieved 2020, June 1
+
+<h4>Courses</h4>
+<h5><a href="https://nlbsg.udemy.com/course/digital-marketing-guide/" target="_blank"> 1. The Complete Digital Marketing Guide - 22 Courses in 1 </a></h5>
+<a href="https://nlbsg.udemy.com/course/digital-marketing-guide/" target="_blank"><img src="/images/digital/adults/Livestreaming/udemydigimar.jpg" style="width:1700px; text-align:left;" alt="digital marketing course"></a>
+<p> Learn how to build a digital marketing strategy, find your online audience, and create a content strategy plan with this course.</p>
+<p><a href=" https://mobileapp.nlb.gov.sg/get-started-with/learn/" target="_blank"> Start Your Learning Journey Today with Udemy Business here</a>.</p>
+<h5><a href="https://nlbsg.udemy.com/course/digital-marketing-guide/" target="_blank"> 2. Video Production Bootcamp: Videography, Cinematography+ </a></h5>
+<a href="https://nlbsg.udemy.com/course/video-production-bootcamp/" target="_blank"><img src="/images/digital/adults/Livestreaming/udemyvideo.jpg" style="width:1700px; text-align:left;" alt="video production course"></a>
+<p>You don’t need a DSLR to make professional videos. Learn how to shoot and edit professional videos with the equipment you have available.</p>
+<p><a href=" https://mobileapp.nlb.gov.sg/get-started-with/learn/" target="_blank"> Start Your Learning Journey Today with Udemy Business here</a>.</p>
+<h4>Website</h4>
+<h5><a href="https://www.forbes.com/sites/forbesbusinesscouncil/2022/02/28/livestreaming-its-not-just-for-gamers-anymore/?sh=752dde1d2402" target="_blank"> 1. Livestreaming: It’s Not Just For Gamers Anymore</a></h5>
+<p>For those who are hesitant about getting started in livestreaming, this article gives you 6 reasons to pick up your smartphone and go live.</p>
+<h5><a href="https://digitalskills.miami.edu/digital-marketing/digital-marketing-101-what-is-digital-marketing-and-why-is-it-important/" target="_blank"> 2. Digital Marketing 101: What is Digital Marketing and Why is it Important?</a></h5>
+<p> Gain a deeper understanding of what digital marketing is, the types of digital marketing, and why it plays a pivotal role in today’s digital landscape. </p>
+
+
+<h4>eBooks</h4>
+<h5>1. Digital Marketing for Dummies</h5>
+Ryan Deiss, Russ Henneberry (2020), <i>Digital Marketing for Dummies</i>, Wiley.
+<p>
+<a href="https://share.libbyapp.com/title/5225983" target="_blank"><img src="/images/Digital/adults/Livestreaming/DigitalMarketingforDummies.jpg " style="width:300px; text-align:left;" alt="Book Cover for Digital Marketing for Dummies"></a>
+<p>Equip yourself with the digital marketing skills you need to promote your brand and effectively engage with your customers.</p>
+<p><a href="https://share.libbyapp.com/title/5225983" target="_blank">Borrow the eBook here</a>. </p>
+<body>Retrieved from NLB Libby (myLibraryid is required to access the eBook).</body>
+
+<h5>2. The New Digital Storytelling </h5>
+Bryan Alexander (2021), <i>The New Digital Storytelling</i>, ABC-CLIO
+<p>
+<a href="https://share.libbyapp.com/title/3337241" target="_blank"><img src="images/Digital/adults/Livestreaming/DigitalStorytelling.jpg" style="width:300px; text-align:left;" alt="Book cover for The New Digital Storytelling"></a>
+</p><p> This book guides you through modern digital storytelling across various digital media such as podcasts, social media, and digital video. It also provides advice on creating and sharing your digital stories. </p>
+<p><a href="https://share.libbyapp.com/title/3337241" target="_blank">Borrow the eBook here</a>. </p>
+Retrieved from NLB Libby (myLibraryid is required to access the eBook).
+	
+<h5>3. Confident Digital Content</h5>
+Adam Waters (2018), <i>Confident Digital Content</i>, Kogan Page
+<br>
+<a href="https://share.libbyapp.com/title/3722344" target="_blank"><img src="images/Digital/adults/Livestreaming/ConfidentDigitalContent.jpg" style="width:300px; text-align:left;" alt="Book Cover for Confident Digital Content"></a>
+<p> Understand how to create and design digital content and hone in on your digital creativity and entrepreneurial skills.</p>
+<p><a href="https://share.libbyapp.com/title/3722344" target="_blank">Borrow the eBook here</a>.</p>
+<p>Retrieved from NLB Libby (myLibraryid is required to access the eBook).</p>
+
+<h4>Programmes</h4>
+<p>We’ve got more in store for you! Check out the programmes under our My Digital Life series to learn more about how technology affects your daily life and unpack trending topics.</p>
+<p>Sign up here: <a href="https://go.gov.sg/nlbmdl" target="_blank">go.gov.sg/nlbmdl</a>
+</p>
+			
+<small>References</small>
+<ol>
+    <li><span id="footnote-one">Cambridge Dictionary. (n.d.). Livestream.</span> <i>Cambridge Dictionary</i>. Retrieved 2022, June 1 from <a href=" https://dictionary.cambridge.org/dictionary/english/livestream" target="_blank">https://dictionary.cambridge.org/dictionary/english/livestream</a></li>
+	<li><span id="footnote-two">Janice Lim</span>. (2021). The Big Read: Live streaming, gamification spur rise of ‘retailtainment’ amid e-commerce’s pandemic boom. <i>CNA</i>Retrieved 2022, June 1 from <a href="https://www.channelnewsasia.com/singapore/big-read-live-streaming-e-commerce-retail-covid-19-online-shopping-2328556" target="_blank">https://www.channelnewsasia.com/singapore/big-read-live-streaming-e-commerce-retail-covid-19-online-shopping-2328556/</a> </li>
+	<li><span id="footnote-three">Hubspot</span>. (n.d). <i>The Ultimate List of Marketing Statistics for 2022</i>. Retrieved 2022, June 1 from <a href="https://www.hubspot.com/marketing-statistics" target="_blank">https://www.hubspot.com/marketing-statistics</a></li>
+</ol>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
