@@ -131,6 +131,13 @@ Check out our **learning packages** for articles that will give you an insight i
       </a>
     </div>
   </div>
+	 <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#lp-marketing">
+    <span>Learning Package: <br>Digital Marketing & Livestreaming</span>
+      </a>
+    </div>
+  </div>
   </div>
 
 <h2>Playlists</h2>
