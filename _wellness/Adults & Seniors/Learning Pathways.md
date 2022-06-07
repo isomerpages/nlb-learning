@@ -29,6 +29,23 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 
 Kick start your journey to better health with a series of exciting talks and programmes! 
 
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="wellness/adults-seniors/content#playlist-nourish" target="_blank"><b> Nourish Learning Package & Playlist</b></a></td>
+        <td> What does it mean to eat well and how do you go about achieving it? Here’re some tips to get you started.</td>
+        <td></td>
+        <td> </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -76,6 +93,67 @@ Kick start your journey to better health with a series of exciting talks and pro
         <td style="width: 20%;"> 20 April 2022, <br> 7pm – 8pm</td>
         <td style="width: 20%;"> Zoom</td>
 	  </tr>
+	
+   </tbody>
+  </table>
+</div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b> Sleep </b></h3>
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="wellness/adults-seniors/content#playlist-sleep" target="_blank"><b> Sleep Learning Package & Playlist</b></a></td>
+        <td> Dive into the wonderful world of sleep with these resources.</td>
+        <td></td>
+        <td> </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
+      </tr>
+    </thead>
+		<tbody>
+     <tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/understanding-sleep-and-common-sleep-disorders-mind-your-body-tickets-308475868627
+" target="_blank"><b>Understanding Sleep and Common Sleep Disorders | Mind Your Body </b></a></td>
+        <td style="width: 40%;">This talk provides a brief introduction into why we need sleep, the various sleep stages, the processes that govern our sleep, and common sleep disorders. 
+</td>
+        <td style="width: 20%;"> 4 May 2022, <br>6.30pm – 8.00pm</td>
+         <td style="width: 20%;">Zoom </td>
+      </tr>
+     <tr>
+     <td><a href="https://www.eventbrite.sg/e/improving-your-sleep-with-better-sleep-habits-mind-your-body-tickets-322527788297?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Improving your Sleep with Better Sleep Habits | Mind Your Body </b></a></td>
+       <td style="width: 40%;"> This talk will cover what factors are needed for good sleep, help you understand why certain behaviours are maintaining your sleep problems,  and provide tips on how you can improve your sleep with better sleep hygiene.</td>
+        <td style="width: 20%;"> 1 June 2022, <br>6.30pm – 8pm</td>
+        <td style="width: 20%;"> Zoom</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.eventbrite.sg/e/sleep-disorders-mind-your-body-tickets-355730789367?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escbb" target="_blank"><b> Sleep Disorders | Mind Your Body</b></a></td>
+      <td style="width: 40%;"> Join our panellists to understand more about Sleep and its related disorders.</td>
+        <td style="width: 20%;"> 6 July 2022, <br>7pm – 8pm</td>
+        <td style="width: 20%;"> Zoom</td>
+      </tr>
+      <tr>
+      <td><b> Flourish! Sleeping Well for Seniors (Zoom) | Mind Your Body x TOYL</b></td>
+       <td style="width: 40%;"> Keeping well as we age begins with a good night’s rest.</td>
+        <td style="width: 20%;"> 29 July 2022, <br>2pm – 3pm  </td>
+        <td style="width: 20%;"> Zoom</td>
+			</tr>
 	
    </tbody>
   </table>
