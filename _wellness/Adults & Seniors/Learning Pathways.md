@@ -38,7 +38,7 @@ Kick start your journey to better health with a series of exciting talks and pro
     </thead>
     <tbody>
       <tr>
-        <td><a href="wellness/adults-seniors/content#playlist-nourish" target="_blank"><b> Nourish Learning Package & Playlist</b></a></td>
+        <td><a href="content#playlist-sleep" target="_blank"><b> Nourish Learning Package & Playlist</b></a></td>
         <td> What does it mean to eat well and how do you go about achieving it? Here’re some tips to get you started.</td>
         <td></td>
         <td> </td>
