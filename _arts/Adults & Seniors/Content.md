@@ -418,7 +418,7 @@ Cathy Schofield and Lucy Start. (2019). <i> Psychology for Dancers: Theory and P
 Veldhuisen-Djajasoebrata, Alit. (1999). <i> Shadow Theatre in Java: The Puppets, Performance and Repertoire. </i> Amsterdam: The Pepin Press. (Call no.: 791.53095982 DJA -[JSB]) 
 
 <br>
-<img src="/images/Arts/AS/Book-9.jpeg" style="width:200px;"></a>
+<img src="/images/Arts/AS/Book-9.jpeg" style="width:200px;">  
 <p> Javanese society and wayang theatre are closely connected: not only are ideas from the wayang stories deeply embedded in Javanese culture, wayang is also a means of expression. Over the centuries, the ancient wayang theatre has developed into a distinctive form of art. Foreign influences provided new stories, characters were added, new styles were reigned at the courts, and, in the twentieth century, wayang theatre even served as a vehicle for propaganda, especially during the struggle for independence from Dutch colonial rule.</p>
 
 <h5>Disability and Theatre: Practical Manual for Inclusion in the Arts</h5>
