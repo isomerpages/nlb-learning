@@ -146,16 +146,17 @@ A big part of art is active participation in the larger community: seeing others
         <th colspan="4" class="is-uppercase has-weight-normal "> Learn More With Fellow Peers and Professionals in the Field </th>
       </tr>
     </thead>
-    <tbody>    
+    <tbody>    		
+<tr>
+<td><a href="https://www.eventbrite.sg/e/308035491447" target="_blank"><b>Worlds Apart  x Zzzink! (Mental Health Comic Zines) | library@orchard</b></a></td>
+        <td> Special guests will be visiting Zzzink! this June! Writer Wayne Rée and illustrator Nurjannah Suhaimi behind the newly launched zine, Worlds Apart: A Conversation About Mental Health, will be sharing their experiences in creating the story from script-writing to thumbnailing and illustration.</td>
+        <td>19 June 2022, 3pm - 5pm</td>
+        <td>library@orchard</td>
+      </tr>			
  <tr>
   <td><a href="https://www.facebook.com/groups/learnxarts.sg/posts/434239158202363/" target="_blank"><b>Young Musicians Festival</b></a></td>
         <td> Young music students of private music teachers and schools take to the library@esplanade Open Stage for recitals to members of the public in this showcase of talents in the June and December holidays. This biannual event aims to provide a performance platform for children to develop and hone their craft in front of a live audience. <br><br> Check out some of the performances here: 
-<br><br><a href="https://www.facebook.com/groups/learnxarts.sg/posts/438171194475826" target="_blank">Young Musicians Festival Dec 2021 | Artists Music Studio</a>
-<br><br><a href="https://www.facebook.com/groups/learnxarts.sg/posts/437809027845376" target="_blank">Young Musicians Festival Dec 2021 | Music Across Ages Presented by Piano Students of Teachers: Karina, Gail and Jing Xian</a>
-<br><br><a href="https://www.facebook.com/groups/learnxarts.sg/posts/436372934655652" target="_blank">Young Musicians Festival Dec 2021 | Mdm Chong Studio</a>
-<br><br><a href="https://www.facebook.com/groups/learnxarts.sg/posts/436368204656125" target="_blank">Young Musicians Festival Dec 2021 | YangMusic Concert</a>
-<br><br><a href="https://www.facebook.com/groups/learnxarts.sg/posts/436219678004311" target="_blank">Young Musicians Festival Dec 2021 | Cantabile Keys</a>
-	 </td>
+<br><br><a href="https://www.facebook.com/groups/learnxarts.sg/posts/438171194475826" target="_blank">Young Musicians Festival Dec 2021 | Artists Music Studio</a> </td>
         <td>Biannually</td>
         <td>library@esplanade Open Stage</td>
       </tr>
