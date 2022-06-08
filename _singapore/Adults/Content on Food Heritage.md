@@ -70,6 +70,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
 		</div>
 	</div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#food-heritage">
+        <span>Playlist:<br>Malay Cuisine</span>
+      </a>
+</div>
+  </div>
+
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-food-heritage">
@@ -308,6 +316,30 @@ Watch Sarah cook Hokkien braised noodles with her mother, anthropologist Dr Vivi
 </small></p>
 </div>
 </div>
+<h5 class="margin--bottom--lg" id="Malay-cuisine"><b>Playlist: Malay Cuisine </b></h5>
+
+From nasi lemak to mee rebus, Malay food in Singapore is diverse due to many cultural and culinary influences from the Malay Archipelago and the rest of the world. It incorporates ingredients and cooking methods from various ethnic communities. 
+
+Check out these resources to learn more about Malay food heritage and traditions.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/R_SgAZC3Jg4" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> The Food That Made Me: Chef Bob & The Wandering People | On The Red Dot | Full Episode (23 min)</b>
+<br>
+Chef Bob heads on a culinary journey to learn more about the history of Malay food through traditional dishes including rendang, nasi lemak and ulam.
+<br><br>
+<small> Source: The Food That Made Me: Chef Bob & The Wandering People | On The Red Dot | Full Episode (2020, Mar 3). CNA Insider. Retrieved 2022, June 8.</small></p>
+</div>
+</div>
+
+	
 
 <div>
 <h3><b>Learning Package</b></h3>
