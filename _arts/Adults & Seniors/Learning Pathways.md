@@ -148,7 +148,7 @@ A big part of art is active participation in the larger community: seeing others
     </thead>
     <tbody>    		
 <tr>
-<td><a href="https://www.eventbrite.sg/e/308035491447" target="_blank"><b>Worlds Apart  x Zzzink! (Mental Health Comic Zines) | library@orchard</b></a></td>
+<td><a href="https://www.eventbrite.sg/e/308035491447" target="_blank"><b>Worlds Apart  x Zzzink! (Mental Health Comic Zines) | library@orchard, 'Make' Program Room </b></a></td>
         <td> Special guests will be visiting Zzzink! this June! Writer Wayne Rée and illustrator Nurjannah Suhaimi behind the newly launched zine, Worlds Apart: A Conversation About Mental Health, will be sharing their experiences in creating the story from script-writing to thumbnailing and illustration.</td>
         <td>19 June 2022, 3pm - 5pm</td>
         <td>library@orchard</td>
