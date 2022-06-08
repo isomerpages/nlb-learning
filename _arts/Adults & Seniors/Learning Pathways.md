@@ -71,6 +71,12 @@ Through this pathway you can explore different resources and learn ways to culti
         <td style="width: 20%;">26 March 2022,<br> 4pm - 5.30pm </td>
         <td style="width: 20%;">Zoom </td>
 			</tr>
+			<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/324001807127" target="_blank"><b>Pro Series: Jewellery Design (Loom Woven Jewellery Talk)</b></a></td>
+        <td style="width: 40%;"> In this talk, jewellery maker and instructor June Koh introduces the different types of looms commonly used in jewellery making, as well as materials that can be used to create textures for loom woven jewellery.</td>
+        <td style="width: 20%;">18 June 2022,<br> 2.30pm - 4.30pm </td>
+        <td style="width: 20%;">Zoom </td>
+			</tr>
     </tbody>
   </table>
 </div>
@@ -118,12 +124,6 @@ Through this pathway you can explore different resources and learn or hone new s
         <td style="width: 40%;"> Join the Drawing Room and create a collective art piece together with all the participants! Project theme and medium changes on a monthly basis.  </td>
         <td style="width: 20%;"> 16 June 2022<br> 3pm – 4pm </td>
         <td style="width: 20%;">Zoom </td>
-      </tr>
-<tr>
-<td><a href="https://www.eventbrite.sg/e/get-started-in-diy-art-florals-in-jars-intermed-watercolour-workshop-registration-264969780747" target="_blank"><b> Florals in Jars | Get Started In: DIY Art</b></a></td>
-        <td> Learn more watercolour techniques, wet on wet and wet on dry techniques to paint transparent jars with 2-3 types of loose florals in the jars. Students can bring home a card with at least 2 jars with florals with the instructor’s guidance.  </td>
-        <td>26 March 2022, 2pm – 4pm </td>
-        <td> Tampines Regional Library, Programme Zone </td>
       </tr>
 <tr>
 <td><a href="https://www.eventbrite.sg/e/fabulously-felted-villains-evil-fairy-artseen-registration-335684329867?aff=ebdsoporgprofile" target="_blank"><b>Fabulously Felted | artseen</b></a></td>
