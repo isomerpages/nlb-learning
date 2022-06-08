@@ -339,6 +339,26 @@ Chef Bob heads on a culinary journey to learn more about the history of Malay fo
 </div>
 </div>
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/RhPyWAoobCU" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+
+	<p><b>Belongings & Bounty | Yale-NUS College (1 hr 32 min)</b>
+<br>
+Khir Johari, food historian and author of The Food of Singapore Malays: Gastronomic Travels through the Archipelago, explores how the Malays relate to their natural landscape through food. He talks about traditional practice and knowledge of foraging and how foraged items are used in food preparation and medicine.
+<br><br>
+<small> Source: Belongings & Bounty (2022, April 5). Yale-NUS College. Retrieved 2022, June 8.
+</small></p>
+</div>
+</div>
+
+
 	
 
 <div>
