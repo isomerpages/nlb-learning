@@ -659,3 +659,31 @@ Learn more about the multifaceted heritage of Malay food in Singapore from these
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1767_2011-02-11.html" target="_blank">Rendang by Bonny Tan</a></h5>
 <p>“Rendang is a popular dish made with meat stewed in coconut milk and spices. Commonly found in Malaysia, Singapore and Indonesia, the dish has a long history in the region with distinct versions unique to individual Malaysian states. The different versions of rendang use different ingredients for the rempah (Malay for “spice mix”), thus resulting in differing flavours to the meat.” </p>
 <p>Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1767_2011-02-11.html" target="_blank"> Rendang </a>(2010).<i> Singapore Infopedia.</i> Retrieved 2022, June 8.</p>
+	
+<h4>Books</h4>
+
+<h5> Kuih: from apam to wajik, a pictorial guide to Malay desserts</h5>
+Hidayah Amin (2020). <i> Kuih: from apam to wajik, a pictorial guide to Malay desserts.</i> Singapore: Helang Books. (Call no.: RSING 641.86 HID) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/Kuih.png" style="width:200px;"></a>
+<p> This illustrated guide of 120 Malay desserts showcases the heritage and diversity of Malay food.</p>
+
+<h5> The food of Singapore Malays: gastronomic travels through the archipelago</h5>
+Khir Johari. (2021). <i> The food of Singapore Malays: gastronomic travels through the archipelago.</i> Singapore: Marshall Cavendish Editions. (Call no.: RSING 394.120899928 KHI-[CUS]) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/KhirJohari.png" style="width:200px;"></a>
+<p> This book explores in detail the history of Malay food in Singapore, looking at how cultural beliefs and geography have shaped the way Malays eat. It also illustrates how Malay cuisine here reflects the diverse origins of its people, who came from different parts of the Malay Archipelago, and the richness of this region. Recipes are included.</p>
+
+<h5>Malay heritage cooking</h5>
+Rita Zahara. (2012). <i>Malay heritage cooking.</i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 RIT) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/RitaZahara1.png" style="width:200px;"></a>
+<p>This book provides an overview of the rich heritage of Malay cuisine and the history and culture of the Malays in Singapore. It includes recipes that have been passed down from one generation to another.</p>
+
+<h5>The many flavours of Malay cooking</h5>
+Rita Zahara (2016). <i>The many flavours of Malay cooking.</i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.59598 RIT) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/RitaZahara2.png" style="width:200px;"></a>
+<p>This book showcases the diversity of Malay cuisine in Singapore, featuring a collection of dishes by various ethnic groups that make up the Malay people here. It includes recipes for traditional favourites such as sambal udang, opor daging, and pulut serunding.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
