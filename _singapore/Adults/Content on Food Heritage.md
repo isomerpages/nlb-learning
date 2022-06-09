@@ -641,5 +641,21 @@ href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">
 </td>
 </tr></tbody></table>
 
-Learn more about the multifaceted heritage of Malay food in Singapore from these articles and books below. 
+Learn more about the multifaceted heritage of Malay food in Singapore from these articles and books below.
 	
+<h4>Articles</h4>
+
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-10-26_111827.html" target="_blank">Ketupat by Bonny Tan
+</a>
+</h5>
+<p>“Ketupat is a diamond-shaped rice cake. This Malay food staple is made of cooked rice compressed and wrapped in woven coconut leaves. Originating from Indonesia and Malaysia, ketupat is often consumed as an accompaniment to meat dishes such as satay (skewered barbecued meat) or stews, although the traditional version has become less common in Singapore. It is served during special occasions such as Hari Raya Puasa and Malay weddings, but can also be eaten during regular meals.”
+</p>
+<p>Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-10-26_111827.html" target="_blank"> Ketupat </a>(2015, October 26).<i> Singapore Infopedia.</i> Retrieved 2022, June 8
+
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1739_2010-12-13.html" target="_blank">Nasi lemak by Bonny Tan</a></h5>
+<p>“Nasi lemak is a dish made of rice cooked in coconut milk. Aromatics, such as pandan leaves, bay leaves, lemongrass, ginger, garlic and fenugreek, can be added to it. A light meal that is believed to be Malay in origin, it is traditionally accompanied by fried anchovies, sliced cucumbers, fried fish known as ikan selar, and a sweet chili sauce. Modern-day variations on the dish now offer an extensive array of other side dishes.”</p>
+<p>Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1739_2010-12-13.html" target="_blank"> Nasi lemak </a>(2010).<i> Singapore Infopedia.</i> Retrieved 2022, June 8.
+
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1767_2011-02-11.html" target="_blank">Rendang by Bonny Tan</a></h5>
+<p>“Rendang is a popular dish made with meat stewed in coconut milk and spices. Commonly found in Malaysia, Singapore and Indonesia, the dish has a long history in the region with distinct versions unique to individual Malaysian states. The different versions of rendang use different ingredients for the rempah (Malay for “spice mix”), thus resulting in differing flavours to the meat.” </p>
+<p>Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1767_2011-02-11.html" target="_blank"> Rendang </a>(2010).<i> Singapore Infopedia.</i> Retrieved 2022, June 8.</p>
