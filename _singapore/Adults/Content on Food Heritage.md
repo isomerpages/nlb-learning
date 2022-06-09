@@ -109,6 +109,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </a>
 </div>
 </div>
+
+<div class= "col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-Malay-cuisine">
+<span>Learning Package:<br>Malay Cuisine</span>
+</a>
+</div>
+</div>
 </div>
 	
 <h3><b>Playlist</b></h3>
@@ -617,3 +625,21 @@ Retrieved from OverDrive (a <a
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
+<h5 id="lp-Malay-cuisine" class="margin--bottom--lg"><b>Malay Cuisine</b></h5>
+
+<p>With many Malays being seafaring people in the past, their diet was typically pescatarian. Malay cuisine has developed to incorporate other ingredients and culinary techniques because of cultural exchanges between the Malay Archipelago and the rest of the world. 
+
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Ketupat is rice wrapped with young coconut leaves and steamed. It is often found in Singapore as a celebratory food, served with a variety of dishes. Variations of ketupat can be found in Southeast Asia.
+</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+Learn more about the multifaceted heritage of Malay food in Singapore from these articles and books below. 
+	
