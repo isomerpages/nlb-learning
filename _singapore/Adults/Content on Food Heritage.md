@@ -459,10 +459,12 @@ Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today'
 <p>These curated set of articles and books will give you a better understanding of Peranakan food in Singapore.</p>
 
 <h4>Articles</h4>
-
+<div>
 <h5><a href=" https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine" target="_blank"> The Evolution of Straits-born Cuisine by Lee Geok Boi </a></h5>
 <p> Lee Geok Boi looks at what makes Peranakan cuisine unique and delves into old cookbooks to see how Straits-born cuisine came to be. She discusses how although the Y.W.C.A. of Malaya Cookery Book (1931) -- one of the earliest local cookbooks -- had Straits Chinese recipes, the first local cookbook that identified itself as being a Peranakan cookbook was Mrs Lee’s Cookbook (1974) by Mrs Lee Chin Koon.</p>
-<p>Source: Lee, Geok Boi, <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine" target="_blank"> The Evolution of Straits-born Cuisine </a>(2021, July-September).<i> BiblioAsia</i> 17(2). Retrieved 2022, April 20.</p>
+Source: Lee, Geok Boi, <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine" target="_blank"> The Evolution of Straits-born Cuisine </a>(2021, July-September).<i> 
+	BiblioAsia</i> 17(2). Retrieved 2022, April 2.
+
 <h5><a href=" https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/forgottenfoodmemories" target="_blank"> Forgotten Foods & Mealtime Memories by Tan, Sylvia </a></h5>
 <p> It is important to remember that food and tastes change over time. In this article, food writer Sylvia Tan “remembers the foods and flavours she grew up with and the less than sanitary practices made for the stomachs cast in iron.” The article has a section that discusses how Peranakan Chinese dishes that had perut kambing (goat’s stomach) and a Eurasian dish called feng (pig’s lung) that disappeared as the ingredients were no longer sold in wet markets.</p>
 Source: Tan, Sylvia, <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/forgottenfoodmemories" target="_blank">Forgotten Foods & Mealtime Memories</a>(2016, July-September). <i>BiblioAsia</i> 12(2). Retrieved 2022, April 20.
@@ -572,7 +574,7 @@ These curated set of articles and books give an overview of Singapore’s Chines
 <h5><a href="https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore" target="_blank"> We are what we eat: the evolution of Chinese food in Singapore by Low Sze Wee </a></h5>
 <p> Author highlights the various popular Chinese dishes and argues how different cultures meet and influence each other resulting in the creation of new Chinese food in Singapore.
 </p>
-<p>Source: Low, Sze Wee. <a href=" https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore" target="_blank"> We are what we eat: the evolution of Chinese food in Singapore </a>(2022, April-June).<i> BiblioAsia</i> 17(2). Retrieved 2022, May 23.</p>
+Source: Low, Sze Wee. <a href=" https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore" target="_blank"> We are what we eat: the evolution of Chinese food in Singapore </a>(2022, April-June).<i> BiblioAsia</i> 17(2). Retrieved 2022, May 23.
 	
 <h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_27_2_2009-01-07.html" target="_blank"> Chinese New Year delicacies
 by Bonny Tan & Vicky Gao </a></h5>
@@ -647,19 +649,17 @@ Learn more about the multifaceted heritage of Malay food in Singapore from these
 <h4>Articles</h4>
 
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-10-26_111827.html" target="_blank">Ketupat by Bonny Tan
-</a>
-</h5>
-<p>“Ketupat is a diamond-shaped rice cake. This Malay food staple is made of cooked rice compressed and wrapped in woven coconut leaves. Originating from Indonesia and Malaysia, ketupat is often consumed as an accompaniment to meat dishes such as satay (skewered barbecued meat) or stews, although the traditional version has become less common in Singapore. It is served during special occasions such as Hari Raya Puasa and Malay weddings, but can also be eaten during regular meals.”
-</p>
-<p>Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-10-26_111827.html" target="_blank"> Ketupat </a>(2015, October 26).<i> Singapore Infopedia.</i> Retrieved 2022, June 8
+</a></h5>
+<p>“Ketupat is a diamond-shaped rice cake. This Malay food staple is made of cooked rice compressed and wrapped in woven coconut leaves. Originating from Indonesia and Malaysia, ketupat is often consumed as an accompaniment to meat dishes such as satay (skewered barbecued meat) or stews, although the traditional version has become less common in Singapore. It is served during special occasions such as Hari Raya Puasa and Malay weddings, but can also be eaten during regular meals.”</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-10-26_111827.html" target="_blank"> Ketupat </a>(2015, October 26).<i> Singapore Infopedia.</i> Retrieved 2022, June 8.
 
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1739_2010-12-13.html" target="_blank">Nasi lemak by Bonny Tan</a></h5>
 <p>“Nasi lemak is a dish made of rice cooked in coconut milk. Aromatics, such as pandan leaves, bay leaves, lemongrass, ginger, garlic and fenugreek, can be added to it. A light meal that is believed to be Malay in origin, it is traditionally accompanied by fried anchovies, sliced cucumbers, fried fish known as ikan selar, and a sweet chili sauce. Modern-day variations on the dish now offer an extensive array of other side dishes.”</p>
-<p>Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1739_2010-12-13.html" target="_blank"> Nasi lemak </a>(2010).<i> Singapore Infopedia.</i> Retrieved 2022, June 8.
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1739_2010-12-13.html" target="_blank"> Nasi lemak </a>(2010).<i> Singapore Infopedia.</i> Retrieved 2022, June 8.
 
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1767_2011-02-11.html" target="_blank">Rendang by Bonny Tan</a></h5>
 <p>“Rendang is a popular dish made with meat stewed in coconut milk and spices. Commonly found in Malaysia, Singapore and Indonesia, the dish has a long history in the region with distinct versions unique to individual Malaysian states. The different versions of rendang use different ingredients for the rempah (Malay for “spice mix”), thus resulting in differing flavours to the meat.” </p>
-<p>Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1767_2011-02-11.html" target="_blank"> Rendang </a>(2010).<i> Singapore Infopedia.</i> Retrieved 2022, June 8.</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1767_2011-02-11.html" target="_blank"> Rendang </a>(2010).<i> Singapore Infopedia.</i> Retrieved 2022, June 8.
 	
 <h4>Books</h4>
 
