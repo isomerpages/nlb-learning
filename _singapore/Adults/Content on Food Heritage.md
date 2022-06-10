@@ -599,7 +599,7 @@ target="_blank">myLibrary username</a> is required to access the eBook.)
 Loo, Hock Chye Anthony & Lee, Samantha. (2017). <i> Uncle Anthony's Hokkien Recipes.</i><br> 
 <a target="_blank"
 href="https://nlb.overdrive.com/media/3379641">
-<img src="/images/Singapore%20Food%20Heritage/ALoo.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/ALoo.png" style="width:200px;">
 <p> Part of an award-winning Heritage Cookbook series featuring over 80 Hokkien family recipes, including the well-known bak kut teh and lesser-known dishes like the sticky mee sua soup.</p>
 <p><a href="https://nlb.overdrive.com/media/3379641"
 target="_blank">Borrow the eBook here. </a></p>
@@ -611,7 +611,7 @@ target="_blank">myLibrary username</a> is required to access the eBook.)
 Tan, Lee Leng & Lau, Chiap Khai. (2012). <i>Uncle Lau's Teochew Recipes.</i><br>
 <a target="_blank"
 href="https://nlb.overdrive.com/media/3300327">
-<img src="/images/Singapore%20Food%20Heritage/TanLL.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/TanLL.png" style="width:200px;">
 <p> Features a collection of over 80 time-tested recipes from a Singapore Teochew family. It has common Teochew dishes like steamed fish and ngoh hiang, as well as interesting dishes like Ho Pung and Sio Bee.
 </p><p><a href="https://nlb.overdrive.com/media/3300327" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a 
@@ -621,7 +621,7 @@ href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">
 Reutens, Lulin & Choy, Wai Yuen. (2012). <i> Madam Choy's Cantonese Recipes </i><br>
 <a target="_blank"
 href="https://nlb.overdrive.com/media/3300282">
-<img src="/images/Singapore%20Food%20Heritage/RLulin.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/RLulin.png" style="width:200px;">
 <p> In this third revised edition of part of Epigram Books' award-winning Heritage Cookbook series, it showcases the best of Singapore's Cantonese cuisine from an avid home cook with over 50 years of cooking experience.
 </p><p><a href="https://nlb.overdrive.com/media/3300282" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a 
@@ -666,25 +666,25 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1767_2011-
 <h5> Kuih: from apam to wajik, a pictorial guide to Malay desserts</h5>
 Hidayah Amin (2020). <i> Kuih: from apam to wajik, a pictorial guide to Malay desserts.</i> Singapore: Helang Books. (Call no.: RSING 641.86 HID) 
 <br>
-<img src="/images/Singapore%20Food%20Heritage/Kuih.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/Kuih.png" style="width:200px;">
 <p> This illustrated guide of 120 Malay desserts showcases the heritage and diversity of Malay food.</p>
 
 <h5> The food of Singapore Malays: gastronomic travels through the archipelago</h5>
 Khir Johari. (2021). <i> The food of Singapore Malays: gastronomic travels through the archipelago.</i> Singapore: Marshall Cavendish Editions. (Call no.: RSING 394.120899928 KHI-[CUS]) 
 <br>
-<img src="/images/Singapore%20Food%20Heritage/KhirJohari.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/KhirJohari.png" style="width:200px;">
 <p> This book explores in detail the history of Malay food in Singapore, looking at how cultural beliefs and geography have shaped the way Malays eat. It also illustrates how Malay cuisine here reflects the diverse origins of its people, who came from different parts of the Malay Archipelago, and the richness of this region. Recipes are included.</p>
 
 <h5>Malay heritage cooking</h5>
 Rita Zahara. (2012). <i>Malay heritage cooking.</i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 RIT) 
 <br>
-<img src="/images/Singapore%20Food%20Heritage/RitaZahara1.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/RitaZahara1.png" style="width:200px;">
 <p>This book provides an overview of the rich heritage of Malay cuisine and the history and culture of the Malays in Singapore. It includes recipes that have been passed down from one generation to another.</p>
 
 <h5>The many flavours of Malay cooking</h5>
 Rita Zahara (2016). <i>The many flavours of Malay cooking.</i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.59598 RIT) 
 <br>
-<img src="/images/Singapore%20Food%20Heritage/RitaZahara2.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/RitaZahara2.png" style="width:200px;">
 <p>This book showcases the diversity of Malay cuisine in Singapore, featuring a collection of dishes by various ethnic groups that make up the Malay people here. It includes recipes for traditional favourites such as sambal udang, opor daging, and pulut serunding.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
