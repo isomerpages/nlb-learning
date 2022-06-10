@@ -105,7 +105,7 @@ The story of technology is the history of people solving problems, overcoming ad
       <tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/lcsessions" target="_blank"><b>Pi and Python LC</b></a></td>
         <td style="width: 40%;">The aim of this LearnX Community is to create awareness of the Raspberry Pi, learn how to programme it using the Python Language, and create interesting projects like a burglar alarm.</td>
-        <td style="width: 20%;">22 Jan 2021, <br>12pm-3pm</td>
+        <td style="width: 20%;">2 July 2022, <br>12pm-3pm</td>
         <td style="width: 20%;">MakeIT @ Tampines</td>
       </tr>
     </tbody>

@@ -70,6 +70,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
 		</div>
 	</div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#food-heritage">
+        <span>Playlist:<br>Malay Cuisine</span>
+      </a>
+</div>
+  </div>
+
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-food-heritage">
@@ -98,6 +106,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <div class="clickbox is-mint-jade">
 <a href="#lp-Chinese-cuisine">
 <span>Learning Package:<br>Chinese Cuisine</span>
+</a>
+</div>
+</div>
+
+<div class= "col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-Malay-cuisine">
+<span>Learning Package:<br>Malay Cuisine</span>
 </a>
 </div>
 </div>
@@ -137,8 +153,9 @@ Listen to KF Seetoh as he introduces the various common Singapore food from mult
 </div>
 </div>
 <div class="col is-three-fifths">
-<p><b><br>
-Join Maeve as she introduces Singaporean food through Singaporeans living in Australia. <br></b><br>
+<p><b> Singaporean food safari - Singaporean Cuisine | SBS Australia (25 mins)</b><br>
+<br>
+Join Maeve as she introduces Singaporean food through Singaporeans living in Australia. <br><br>
 <small> Source: Singaporean food safari - Singaporean Cuisine (2019, Nov 15). SBS Australia. Retrieved 2022, April 7.</small></p>
 </div>
 </div>
@@ -258,7 +275,7 @@ A group of young Eurasians makes a lesser-known Eurasian dish called putugal (st
 <p class="has-text-right margin--top--xl"><a 
 href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id=”Chinese-cuisine”><b>Playlist: Chinese Cuisine </b></h5>
+<h5 class="margin--bottom--lg" id="Chinese-cuisine"><b>Playlist: Chinese Cuisine </b></h5>
 
 Singapore’s early Chinese migrants arrived from the southern Chinese provinces of Guangzhou and Fujian. They brought with them two of the most well-known and popular Chinese cuisines, each with its own character, ingredients, cooking methods and tastes. 
 
@@ -308,6 +325,66 @@ Watch Sarah cook Hokkien braised noodles with her mother, anthropologist Dr Vivi
 </small></p>
 </div>
 </div>
+<h5 class="margin--bottom--lg" id="Malay-cuisine"><b>Playlist: Malay Cuisine </b></h5>
+
+From nasi lemak to mee rebus, Malay food in Singapore is diverse due to many cultural and culinary influences from the Malay Archipelago and the rest of the world. It incorporates ingredients and cooking methods from various ethnic communities. 
+
+Check out these resources to learn more about Malay food heritage and traditions.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/R_SgAZC3Jg4" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> The Food That Made Me: Chef Bob & The Wandering People | On The Red Dot | Full Episode (23 min)</b>
+<br>
+Chef Bob heads on a culinary journey to learn more about the history of Malay food through traditional dishes including rendang, nasi lemak and ulam.
+<br><br>
+<small> Source: The Food That Made Me: Chef Bob & The Wandering People | On The Red Dot | Full Episode (2020, Mar 3). CNA Insider. Retrieved 2022, June 8.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/RhPyWAoobCU" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+
+<p><b>Belongings & Bounty | Yale-NUS College (1 hr 32 min)</b>
+<br>
+Khir Johari, food historian and author of The Food of Singapore Malays: Gastronomic Travels through the Archipelago, explores how the Malays relate to their natural landscape through food. He talks about traditional practice and knowledge of foraging and how foraged items are used in food preparation and medicine.
+<br><br>
+<small> Source: Belongings & Bounty (2022, April 5). Yale-NUS College. Retrieved 2022, June 8.
+</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/qIaVPY4yPDU" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+
+<p><b>[SHF - Heritage Weekend @ MHC] Nasi Tumpeng to Nasi Ambeng: From the altar to the table | Malay Heritage Centre (1 hr 36 min)</b><br>
+Suryakenchana Omar examines the cultural and culinary heritage of nasi ambeng and nasi tumpeng, dishes that are rooted in traditional Javanese rituals. The Javanese are regarded as part of the larger Malay community here. With many restaurants offering different versions of it, nasi ambeng is gaining popularity in Singapore. 
+<br><br>
+<small>Source: [SHF - Heritage Weekend @ MHC] Nasi Tumpeng to Nasi Ambeng: From the altar to the table (2021, May 29). Malay Heritage Centre. Retrieved 2022, April 20.
+</small></p>
+</div>
+</div>
+
 
 <div>
 <h3><b>Learning Package</b></h3>
@@ -382,10 +459,12 @@ Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today'
 <p>These curated set of articles and books will give you a better understanding of Peranakan food in Singapore.</p>
 
 <h4>Articles</h4>
-
+<div>
 <h5><a href=" https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine" target="_blank"> The Evolution of Straits-born Cuisine by Lee Geok Boi </a></h5>
 <p> Lee Geok Boi looks at what makes Peranakan cuisine unique and delves into old cookbooks to see how Straits-born cuisine came to be. She discusses how although the Y.W.C.A. of Malaya Cookery Book (1931) -- one of the earliest local cookbooks -- had Straits Chinese recipes, the first local cookbook that identified itself as being a Peranakan cookbook was Mrs Lee’s Cookbook (1974) by Mrs Lee Chin Koon.</p>
-<p>Source: Lee, Geok Boi, <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine" target="_blank"> The Evolution of Straits-born Cuisine </a>(2021, July-September).<i> BiblioAsia</i> 17(2). Retrieved 2022, April 20.</p>
+Source: Lee, Geok Boi, <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine" target="_blank"> The Evolution of Straits-born Cuisine </a>(2021, July-September).<i> 
+	BiblioAsia</i> 17(2). Retrieved 2022, April 2.
+
 <h5><a href=" https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/forgottenfoodmemories" target="_blank"> Forgotten Foods & Mealtime Memories by Tan, Sylvia </a></h5>
 <p> It is important to remember that food and tastes change over time. In this article, food writer Sylvia Tan “remembers the foods and flavours she grew up with and the less than sanitary practices made for the stomachs cast in iron.” The article has a section that discusses how Peranakan Chinese dishes that had perut kambing (goat’s stomach) and a Eurasian dish called feng (pig’s lung) that disappeared as the ingredients were no longer sold in wet markets.</p>
 Source: Tan, Sylvia, <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/forgottenfoodmemories" target="_blank">Forgotten Foods & Mealtime Memories</a>(2016, July-September). <i>BiblioAsia</i> 12(2). Retrieved 2022, April 20.
@@ -495,7 +574,7 @@ These curated set of articles and books give an overview of Singapore’s Chines
 <h5><a href="https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore" target="_blank"> We are what we eat: the evolution of Chinese food in Singapore by Low Sze Wee </a></h5>
 <p> Author highlights the various popular Chinese dishes and argues how different cultures meet and influence each other resulting in the creation of new Chinese food in Singapore.
 </p>
-<p>Source: Low, Sze Wee. <a href=" https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore" target="_blank"> We are what we eat: the evolution of Chinese food in Singapore </a>(2022, April-June).<i> BiblioAsia</i> 17(2). Retrieved 2022, May 23.</p>
+Source: Low, Sze Wee. <a href=" https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore" target="_blank"> We are what we eat: the evolution of Chinese food in Singapore </a>(2022, April-June).<i> BiblioAsia</i> 17(2). Retrieved 2022, May 23.
 	
 <h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_27_2_2009-01-07.html" target="_blank"> Chinese New Year delicacies
 by Bonny Tan & Vicky Gao </a></h5>
@@ -506,11 +585,9 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_27_2_2009
 
 <h5> Three Dishes One Soup: Inside the Singapore Kitchen</h5>
 Zhang, Lace. (2019). <i> Three Dishes One Soup: Inside the Singapore Kitchen.</i><br> 
-<a target=”_blank”
-href=”https://nlb.overdrive.com/media/4639984”>
-<img src="/images/Singapore%20Food%20Heritage/LZhang.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/LZhang.png" style="width:200px;">
 <p> It is common to find several dishes served with a bowl of rice and soup in Singapore Chinese families. Author Lace Zhang records her family's recipes with detailed explanations and step-by-step photographs.</p>
-<p><a href=”https://nlb.overdrive.com/media/4639984”
+<p><a href="https://nlb.overdrive.com/media/4639984"
 target="_blank">Borrow the eBook here. </a></p>
 Retrieved from OverDrive (a <a 
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/"
@@ -519,8 +596,8 @@ target="_blank">myLibrary username</a> is required to access the eBook.)
 <h5> Uncle Anthony's Hokkien Recipes</h5>
 Loo, Hock Chye Anthony & Lee, Samantha. (2017). <i> Uncle Anthony's Hokkien Recipes.</i><br> 
 <a target="_blank"
-href="https://nlb.overdrive.com/media/3379641">
-<img src="/images/Singapore%20Food%20Heritage/ALoo.png" style="width:200px;"></a>
+	 href="https://nlb.overdrive.com/media/3379641"></a>
+<img src="/images/Singapore%20Food%20Heritage/ALoo.png" style="width:200px;">
 <p> Part of an award-winning Heritage Cookbook series featuring over 80 Hokkien family recipes, including the well-known bak kut teh and lesser-known dishes like the sticky mee sua soup.</p>
 <p><a href="https://nlb.overdrive.com/media/3379641"
 target="_blank">Borrow the eBook here. </a></p>
@@ -531,21 +608,83 @@ target="_blank">myLibrary username</a> is required to access the eBook.)
 <h5>Uncle Lau's Teochew Recipes</h5>
 Tan, Lee Leng & Lau, Chiap Khai. (2012). <i>Uncle Lau's Teochew Recipes.</i><br>
 <a target="_blank"
-href="https://nlb.overdrive.com/media/3300327">
-<img src="/images/Singapore%20Food%20Heritage/TanLL.png" style="width:200px;"></a>
+href="https://nlb.overdrive.com/media/3300327"></a>
+<img src="/images/Singapore%20Food%20Heritage/TanLL.png" style="width:200px;">
 <p> Features a collection of over 80 time-tested recipes from a Singapore Teochew family. It has common Teochew dishes like steamed fish and ngoh hiang, as well as interesting dishes like Ho Pung and Sio Bee.
-</p><p><a href="https://nlb.overdrive.com/media/3300327" target="_blank">Borrow the eBook here.</a></p>
+</p>
+<p><a href="https://nlb.overdrive.com/media/3300327" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a 
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 	
 <h5> Madam Choy's Cantonese Recipes</h5>
 Reutens, Lulin & Choy, Wai Yuen. (2012). <i> Madam Choy's Cantonese Recipes </i><br>
 <a target="_blank"
-href="https://nlb.overdrive.com/media/3300282">
-<img src="/images/Singapore%20Food%20Heritage/RLulin.png" style="width:200px;"></a>
+href="https://nlb.overdrive.com/media/3300282"></a>
+<img src="/images/Singapore%20Food%20Heritage/RLulin.png" style="width:200px;">
 <p> In this third revised edition of part of Epigram Books' award-winning Heritage Cookbook series, it showcases the best of Singapore's Cantonese cuisine from an avid home cook with over 50 years of cooking experience.
-</p><p><a href="https://nlb.overdrive.com/media/3300282" target="_blank">Borrow the eBook here.</a></p>
+</p>
+<p><a href="https://nlb.overdrive.com/media/3300282" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a 
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
+<h5 id="lp-Malay-cuisine" class="margin--bottom--lg"><b>Malay Cuisine</b></h5>
+
+<p>With many Malays being seafaring people in the past, their diet was typically pescatarian. Malay cuisine has developed to incorporate other ingredients and culinary techniques because of cultural exchanges between the Malay Archipelago and the rest of the world. 
+
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Ketupat is rice wrapped with young coconut leaves and steamed. It is often found in Singapore as a celebratory food, served with a variety of dishes. Variations of ketupat can be found in Southeast Asia.
+</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+Learn more about the multifaceted heritage of Malay food in Singapore from these articles and books below.
+	
+<h4>Articles</h4>
+
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-10-26_111827.html" target="_blank">Ketupat by Bonny Tan
+</a></h5>
+<p>“Ketupat is a diamond-shaped rice cake. This Malay food staple is made of cooked rice compressed and wrapped in woven coconut leaves. Originating from Indonesia and Malaysia, ketupat is often consumed as an accompaniment to meat dishes such as satay (skewered barbecued meat) or stews, although the traditional version has become less common in Singapore. It is served during special occasions such as Hari Raya Puasa and Malay weddings, but can also be eaten during regular meals.”</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-10-26_111827.html" target="_blank"> Ketupat </a>(2015, October 26).<i> Singapore Infopedia.</i> Retrieved 2022, June 8.
+
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1739_2010-12-13.html" target="_blank">Nasi lemak by Bonny Tan</a></h5>
+<p>“Nasi lemak is a dish made of rice cooked in coconut milk. Aromatics, such as pandan leaves, bay leaves, lemongrass, ginger, garlic and fenugreek, can be added to it. A light meal that is believed to be Malay in origin, it is traditionally accompanied by fried anchovies, sliced cucumbers, fried fish known as ikan selar, and a sweet chili sauce. Modern-day variations on the dish now offer an extensive array of other side dishes.”</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1739_2010-12-13.html" target="_blank"> Nasi lemak </a>(2010).<i> Singapore Infopedia.</i> Retrieved 2022, June 8.
+
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1767_2011-02-11.html" target="_blank">Rendang by Bonny Tan</a></h5>
+<p>“Rendang is a popular dish made with meat stewed in coconut milk and spices. Commonly found in Malaysia, Singapore and Indonesia, the dish has a long history in the region with distinct versions unique to individual Malaysian states. The different versions of rendang use different ingredients for the rempah (Malay for “spice mix”), thus resulting in differing flavours to the meat.” </p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1767_2011-02-11.html" target="_blank"> Rendang </a>(2010).<i> Singapore Infopedia.</i> Retrieved 2022, June 8.
+	
+<h4>Books</h4>
+
+<h5> Kuih: from apam to wajik, a pictorial guide to Malay desserts</h5>
+Hidayah Amin (2020). <i> Kuih: from apam to wajik, a pictorial guide to Malay desserts.</i> Singapore: Helang Books. (Call no.: RSING 641.86 HID) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/Kuih.png" style="width:200px;">
+<p> This illustrated guide of 120 Malay desserts showcases the heritage and diversity of Malay food.</p>
+
+<h5> The food of Singapore Malays: gastronomic travels through the archipelago</h5>
+Khir Johari. (2021). <i> The food of Singapore Malays: gastronomic travels through the archipelago.</i> Singapore: Marshall Cavendish Editions. (Call no.: RSING 394.120899928 KHI-[CUS]) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/KhirJohari.png" style="width:200px;">
+<p> This book explores in detail the history of Malay food in Singapore, looking at how cultural beliefs and geography have shaped the way Malays eat. It also illustrates how Malay cuisine here reflects the diverse origins of its people, who came from different parts of the Malay Archipelago, and the richness of this region. Recipes are included.</p>
+
+<h5>Malay heritage cooking</h5>
+Rita Zahara. (2012). <i>Malay heritage cooking.</i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 RIT) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/RitaZahara1.png" style="width:200px;">
+<p>This book provides an overview of the rich heritage of Malay cuisine and the history and culture of the Malays in Singapore. It includes recipes that have been passed down from one generation to another.</p>
+
+<h5>The many flavours of Malay cooking</h5>
+Rita Zahara (2016). <i>The many flavours of Malay cooking.</i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.59598 RIT) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/RitaZahara2.png" style="width:200px;">
+<p>This book showcases the diversity of Malay cuisine in Singapore, featuring a collection of dishes by various ethnic groups that make up the Malay people here. It includes recipes for traditional favourites such as sambal udang, opor daging, and pulut serunding.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

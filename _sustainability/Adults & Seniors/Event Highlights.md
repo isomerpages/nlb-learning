@@ -53,7 +53,8 @@ JOIN US AT OUR EXHIBITIONS TO LEARN ABOUT THEIR PROJECTS!
 <b><u> Exhibition details</u></b>
 <br>1 May to 30 Jun @ Jurong Regional Library 
 <br>1 Jul to 31 Aug @ Bukit Batok Public Library
-<br>1 Sep to 31 Oct @ Queenstwon Public Library
+<br>1 Sep to 31 Oct @ Queenstown Public Library
+<br> 1 Nov to 31 Dec @ Clementi Public Library
 
 <b>Check out the posters of the teams' finalized ideas:</b>
 <br><a href="https://go.gov.sg/team1sproutup/" target="_blank">Team 1 Sprout Up!</a>
