@@ -149,9 +149,9 @@ Kick start your journey to better health with a series of exciting talks and pro
         <td style="width: 20%;"> Zoom</td>
       </tr>
       <tr>
-      <td><b> Flourish! Sleeping Well for Seniors (Zoom) | Mind Your Body x TOYL</b></td>
+      <td><a href="https://www.eventbrite.sg/e/flourish-sleeping-well-for-seniors-zoom-mind-your-body-x-toyl-tickets-358323885387?aff=odcleoeventsincollection" target="_blank"><b> Flourish! Sleeping Well for Seniors (Zoom) | Mind Your Body x TOYL</b></a></td>
        <td style="width: 40%;"> Keeping well as we age begins with a good night’s rest.</td>
-        <td style="width: 20%;"> 29 July 2022, <br>2pm – 3pm  </td>
+        <td style="width: 20%;"> 29 July 2022, <br>2pm – 3.30pm  </td>
         <td style="width: 20%;"> Zoom</td>
 			</tr>
 	
