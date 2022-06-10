@@ -275,7 +275,7 @@ A group of young Eurasians makes a lesser-known Eurasian dish called putugal (st
 <p class="has-text-right margin--top--xl"><a 
 href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id=”Chinese-cuisine”><b>Playlist: Chinese Cuisine </b></h5>
+<h5 class="margin--bottom--lg" id="Chinese-cuisine"><b>Playlist: Chinese Cuisine </b></h5>
 
 Singapore’s early Chinese migrants arrived from the southern Chinese provinces of Guangzhou and Fujian. They brought with them two of the most well-known and popular Chinese cuisines, each with its own character, ingredients, cooking methods and tastes. 
 
@@ -596,7 +596,7 @@ target="_blank">myLibrary username</a> is required to access the eBook.)
 <h5> Uncle Anthony's Hokkien Recipes</h5>
 Loo, Hock Chye Anthony & Lee, Samantha. (2017). <i> Uncle Anthony's Hokkien Recipes.</i><br> 
 <a target="_blank"
-href="https://nlb.overdrive.com/media/3379641">
+	 href="https://nlb.overdrive.com/media/3379641"></a>
 <img src="/images/Singapore%20Food%20Heritage/ALoo.png" style="width:200px;">
 <p> Part of an award-winning Heritage Cookbook series featuring over 80 Hokkien family recipes, including the well-known bak kut teh and lesser-known dishes like the sticky mee sua soup.</p>
 <p><a href="https://nlb.overdrive.com/media/3379641"
@@ -608,20 +608,22 @@ target="_blank">myLibrary username</a> is required to access the eBook.)
 <h5>Uncle Lau's Teochew Recipes</h5>
 Tan, Lee Leng & Lau, Chiap Khai. (2012). <i>Uncle Lau's Teochew Recipes.</i><br>
 <a target="_blank"
-href="https://nlb.overdrive.com/media/3300327">
+href="https://nlb.overdrive.com/media/3300327"></a>
 <img src="/images/Singapore%20Food%20Heritage/TanLL.png" style="width:200px;">
 <p> Features a collection of over 80 time-tested recipes from a Singapore Teochew family. It has common Teochew dishes like steamed fish and ngoh hiang, as well as interesting dishes like Ho Pung and Sio Bee.
-</p><p><a href="https://nlb.overdrive.com/media/3300327" target="_blank">Borrow the eBook here.</a></p>
+</p>
+<p><a href="https://nlb.overdrive.com/media/3300327" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a 
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 	
 <h5> Madam Choy's Cantonese Recipes</h5>
 Reutens, Lulin & Choy, Wai Yuen. (2012). <i> Madam Choy's Cantonese Recipes </i><br>
 <a target="_blank"
-href="https://nlb.overdrive.com/media/3300282">
+href="https://nlb.overdrive.com/media/3300282"></a>
 <img src="/images/Singapore%20Food%20Heritage/RLulin.png" style="width:200px;">
 <p> In this third revised edition of part of Epigram Books' award-winning Heritage Cookbook series, it showcases the best of Singapore's Cantonese cuisine from an avid home cook with over 50 years of cooking experience.
-</p><p><a href="https://nlb.overdrive.com/media/3300282" target="_blank">Borrow the eBook here.</a></p>
+</p>
+<p><a href="https://nlb.overdrive.com/media/3300282" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a 
 href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 
