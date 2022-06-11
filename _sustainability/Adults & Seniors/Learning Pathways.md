@@ -82,6 +82,14 @@ This program will be conducted in a workshop style and will cover the journey of
 </td>
         <td>20 Aug 202, <br>2pm - 3pm</td>
         <td>Geylang Public Library, Merpati Hall</td>
+				</tr>
+				<td><b>Home Farming with DIY Hydroponic Kit for Seniors | Time of Your Life</td>
+        <td>Learn about the basics of hydroponics and how you can build one at home. This workshop is part of the Sustainability Series for Seniors in partnership with Nanyang Polytechnic.
+ <br><br>
+Suitable for aged 50 and above.</td>
+        <td>17 Sept 2022, <br>2pm - 4.30pm</td>
+        <td>Jurong Regional Public Library</td>
+      </tr>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
