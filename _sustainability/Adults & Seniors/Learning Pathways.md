@@ -50,9 +50,7 @@ To shed some light on this conundrum, this learning pathway will explore what dr
         <td>In mid-September, the Green Market returns to bring you a new slate of programmes and activities that promote sustainable living and showcases the ways you can act for the environment. Get inspired by the speakers and practitioners as they share their experiences and the initiatives to save the planet. Meet green groups that champion various environmental causes and discover an array of sustainable products developed and presented to you by social enterprises.  Registration details will be out by August 2022 on eventbrite. </td>
         <td>Mid September 2022, <br>11.00am- 7.00pm</td>
         <td>Chua Chu Kang Public Library and Zoom</td>
-      </tr>
- 
-
+     
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -62,14 +60,14 @@ To shed some light on this conundrum, this learning pathway will explore what dr
     </thead>
     <tbody>
       <tr> 
-				<td><b>Old Fiber, New Paper</b></a></td>
+				<td><b>Old Fiber, New Paper</b></a>
         <td> Learn how to make recompossible paper from plant waste in this workshop brought to you in partnership with Nanyang Polytechnic! Participants get to bring back the paper and craft they make. 
 	</td>
         <td>24 Jul 2022, <br>2pm-4.30pm</td>
         <td>Tampines Regional Library, Culinary Studio </td>
       </tr>
 			<tr>
-				<td><b>Urban Farming Workshop For Seniors | Time of Your Life </b></a></td>
+				<td><b>Urban Farming Workshop For Seniors | Time of Your Life </b></a>
 <td>Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. This program is intended for seniors (ages 50 and above). <br><br>
 This program will be conducted workshop style and covers the journey of food, principles of urban agriculture and science of hydroponic growing.
 </td>
