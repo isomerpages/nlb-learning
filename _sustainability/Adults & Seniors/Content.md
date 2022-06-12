@@ -245,7 +245,7 @@ We tend to take nature for granted but she does so much for us. This compilation
   </div>
   <div class="col is-three-fifths">
     <p><b> Nature Makes You Happy</b><br>
-Nature has a positive impact on our feelings. As a testament to nature’s power, this video highlights that watching documentaries on nature can confer also benefits!<br><br>
+Nature has a positive impact on our feelings. As a testament to nature’s power, this video highlights that watching documentaries on nature can confer benefits!<br><br>
 <small>Source: Nature Makes You Happy.(2017, Mar 8). BBC Earth. Retrieved 2021, Sept 15. </small></p>
   </div>
 </div>
