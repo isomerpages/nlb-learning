@@ -321,6 +321,18 @@ You love fashion and think nothing of buying the latest designs. However, have y
 
 	<h5 class="margin--bottom--lg"> id="renewable-energy" <b>Playlist:Renewable Energy </b></h5>
 	
+	<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/zCRKvDyyHmI" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Explaining the Circular Economy: Rethink Progress</b><br>
+    A key principle of the green economy is circulatory, which is about keeping products and materials in continued use. This video explains how circulatory works and highlights how it can be implemented. 
+<small>Source: Explaining the Circular Economy: Rethink Progress (2011, August 29). Ted. Retrieved 2021, October 16.</small></p>
+  </div>
+
 	
 	
 	
