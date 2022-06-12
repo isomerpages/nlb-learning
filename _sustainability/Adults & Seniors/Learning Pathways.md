@@ -22,11 +22,14 @@ To shed some light on this conundrum, this learning pathway will explore what dr
     <tbody>
       <tr>
         <td style="width: 20%;"><a target="_blank" href="/sustainability/adults-seniors/content"><b>Earth, Water, Fire, Air- The Renewable Energy Playlist</b></a></td>
-        <td style="width: 40%;">Get started with a quick overview of the various renewable energy sources we have.</td>
+        <td style="width: 40%;">Here is a quick overview of the various renewable energy sources we have.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
+				<td><a href="/sustainability/adults-seniors/content"><b> The Renewable Energy Learning Package</b></a></td>
+        <td>Dive deeper into discussions around renewable energy with our list of recommended resources.</td>
+
         <td><a href="/sustainability/adults-seniors/content"></a></td>
 				<td> </td>
 
