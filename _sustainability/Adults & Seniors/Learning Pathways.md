@@ -27,12 +27,10 @@ To shed some light on this conundrum, this learning pathway will explore what dr
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-				<td><a href="/sustainability/adults-seniors/content"><b> The Renewable Energy Learning Package</b></a></td>
+				<td><a href="/sustainability/adults-seniors/content"><b>The Renewable Energy Learning Package</b></a></td>
         <td>Dive deeper into discussions around renewable energy with our list of recommended resources.</td>
-
-        <td><a href="/sustainability/adults-seniors/content"></a></td>
-				<td> </td>
-
+        <td></td>
+        <td> </td>
 </tr></tbody></table><table class="generic-table">
     <thead>
       <tr>
