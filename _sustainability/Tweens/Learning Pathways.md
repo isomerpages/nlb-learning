@@ -38,14 +38,14 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/tweens/content" target="_blank"><b> Playlist:<br>Pollution Solution</b></a></td>
-        <td style="width: 40%;">Pollution seems inevitable in our modern cities – find out some things we can do as a solution!</td>
+        <td style="width: 20%;"><a href="/sustainability/tweens/content" target="_blank"><b> Playlist:<br>Eat, Sleep, Recycle</b></a></td>
+        <td style="width: 40%;">Check out these videos to find out how scientists and farmers have been trying to make farming more sustainable and kinder to Mother Earth.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="https://fishgame.cloudinstitute.org" target="_blank"><b> Learning Package:<br>The Fish Game | The Cloud Institute for Sustainable Education</b></a></td>
-        <td>Are you a sustainable fisherman? Find out if the fish in the ocean will run out before you finish this game!</td>
+        <td><a href="https://kids.nationalgeographic.com/games/action-adventure/article/recycle-roundup-new" target="_blank"><b> Learning Package:<br>Recycle Roundup | National Geographic Kids</b></a></td>
+        <td>Help clean up the park! Your job is to sort the stuff people throw away and put it in the proper bin. Is it recycling, compost, or trash?</td>
         <td></td>
         <td></td>
       </tr>
