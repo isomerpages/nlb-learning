@@ -89,7 +89,7 @@ How much carbon does a simple sandwich produce? You might be surprised at the an
   <div class="col is-three-fifths">
 <p><b class="has-text-indigo">Why Are We Throwing Away Perfectly Edible Food? Food, Wasted 1/3 | CNA Insider (16 min)</b><br>
 Perfectly edible food items are thrown away by the ton before they even reach supermarkets and our tables. Learn how to make better food choices today!</p>
-    <small>Source: Why Are We Throwing Away Perfectly Edible Food? Food, Wasted 1/3 | CNA Insider - Youtube (2021, March 13). CNA Insider. Retrieved 2022, June 7.</small>
+    <small>Source: Why Are We Throwing Away Perfectly Edible Food? Food, Wasted 1/3 | CNA Insider - YouTube (2021, March 13). <i>CNA Insider</i>. Retrieved 2022, June 7.</small>
   </div>
 </div>
 
@@ -102,7 +102,7 @@ Perfectly edible food items are thrown away by the ton before they even reach su
   <div class="col is-three-fifths">
     <p><b class="has-text-indigo">Food Waste Is the World’s Dumbest Problem | Vox (9 min)</b><br>
 We cut down forests, plant crops, tend them, harvest them, process them, cook them and finally transport them to our dining tables. Yet, by the time our food reaches us, we throw about a third of it into the trash! Learn how to reduce food waste, it’s the easiest way to fight climate change.</p>
-    <small>Source: Food Waste Is the World’s Dumbest Problem | Vox - YouTube (2017, May 10). Vox. Retrieved 2022, June 7.</small>
+    <small>Source: Food Waste Is the World’s Dumbest Problem | Vox - YouTube (2017, May 10). <i>Vox</i>. Retrieved 2022, June 7.</small>
   </div>
 </div>
 <br>
