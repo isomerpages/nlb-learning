@@ -154,7 +154,7 @@ This programme is suitable for Adults. <br>
 
 About the speaker: Lina Tan is a senior lecturer with School of Applied Science, Nanyang Polytechnic. She provides academic training to students majoring in Food Science & Nutrition programme. Besides teaching, she also provides technical guidance and training to clients in food industry and is a coach who prepares food science students for local and international product innovation competitions. <br><br>
 
-This programme is brought to you in collaboration with Nanyang Polytechnic.<br><br>
+This programme is brought to you in collaboration with Nanyang Polytechnic.<br><br></td>
 <td>25 Jun 2022, 2pm - 4.30pm</td>
 <td>Tampines Regional Library, Cooking Studio</td>
 </tr>
