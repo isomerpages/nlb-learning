@@ -144,12 +144,14 @@ This programme is suitable for Adults. <br>
 
 <tbody>
 <tr>
-<td><strong><a href="https://www.eventbrite.com/c/learnx-sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"></a></strong></td>
-<td>Learn the basics of hydroponic and how you can build one at home.<br><br>
-This course will teach you about hydroponics and is brought to you in partnership with Nanyang Polytechnic.<br><br>
-Registration opens one month before the session.</td>
-<td>26 Mar 2022, 2pm - 4pm</td>
-<td>Jurong Regional Library</td>
+<td><strong>Repurposing Soya Waste (Okara) into edible food  </strong></td>
+<td>This is a hands-on program designed to repurpose food waste instead of throwing them away. In this workshop, participants will learn how to make homemade soy milk from scratch. Upon making their delicious soy milk, they will learn how to transform the waste (okara) generated into nugget and cookie.  Learn techniques to transform household food waste into dishes while discovering the new taste of okara!  <br><br>
+
+About the speaker: Lina Tan is a senior lecturer with School of Applied Science, Nanyang Polytechnic. She provides academic training to students majoring in Food Science & Nutrition programme. Besides teaching, she also provides technical guidance and training to clients in food industry and is a coach who prepares food science students for local and international product innovation competitions. <br><br>
+
+This programme is brought to you in collaboration with Nanyang Polytechnic.<br><br>
+<td>25 Jun 2022, 2pm - 4.30pm</td>
+<td>Tampines Regional Library, Cooking Studio</td>
 </tr>
 </tbody></table>
 
@@ -167,18 +169,7 @@ Registration opens one month before the session.</td>
 <strong><h5 id="wellness">Wellness</h5></strong>
 <hr>
 
-<tbody>
-<tr>
-<td><strong>Virtual Tour of a Smart Home for Seniors & People with Dementia| TOYL</strong></td>
-<td>Do you often hear the terms, “smart home”, “elderly-inclusive” and “dementia-inclusive” being bandied about but are unsure what it means? Join us in this talk as we share the benefits of living in a home that meets all these criteria! We will also highlight the areas to pay attention to when setting up such a home for your household. <br><br>
-
-Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment.<br><br>
-
-This programme is suitable for caregivers and those aged 50 and above, and is organised in collaboration with Nanyang Polytechnic. .<br><br></td>
-<td>15 Jul 2022, 3pm - 4.30pm</td>
-<td>Zoom</td>
-</tr>
-	
+<tbody>	
 <tr>
 <td><strong><a href="https://www.eventbrite.sg/e/estate-planning-for-you-ahead-of-your-time-tickets-359067208687?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb/" target="_blank">Estate Planning For You | Ahead of Your Time </a></strong></td>
 <td>What is estate planning and how do you go about it? In this talk, you will learn about the objectives, importance and considerations of estate planning, as well as relevant instruments that you can put in place such as making a Will, LPA, AMD, etc.<br><br>
