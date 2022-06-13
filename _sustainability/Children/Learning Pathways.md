@@ -26,7 +26,7 @@ third_nav_title: Children
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3><b>Protect Wildlife, Protect Earth</b></h3>
+<h3><b>Earth-bundance</b></h3>
 Go green with your child to build an eco-friendly future together.
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -37,14 +37,14 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/children/content" target="_blank"><b> Playlist:<br>Wonderful Wildlife</b></a></td>
-        <td style="width: 40%;"> Find out more about the wonderful wildlife all around us, and what we can do to protect them.</td>
+        <td style="width: 20%;"><a href="/sustainability/children/content" target="_blank"><b> Playlist:<br>Food Waste</b></a></td>
+        <td style="width: 40%;"> Food waste is everywhere! Learn more about how our food produces waste, and how we can be part of the solution.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://abcya.com/games/recycling_game" target="_blank"><b> Learning Package:<br>Litter Critters | ABCya</b></a></td>
-        <td>Learn the basics of recycling with the Litter Critters! Sort trash into four different categories: recyclables, compost, electronic waste, and landfill waste. </td>
+        <td><a href="https://go.gov.sg/nlb-foodaudit" target="_blank"><b> Learning Package:<br>Litter Critters | ABCya</b></a></td>
+        <td>Each of us wastes food differently. This activity helps you figure out what type of food you waste and how to reduce it.</td>
         <td></td>
         <td></td>
       </tr>
@@ -61,17 +61,17 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/living-with-nature-storytelling-by-nparks-tickets-336258697817?aff=odcleoeventsincollection" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Join NParks for our Living with Nature sharing series, starting with a storytelling on how some commonly found reptiles and amphibians (or herps) in Singapore come together to solve a mystery! <br><br>Following the storytelling segment, there will be a craft activity for both parent and child to make their favourite herp!</td>
-				<td style="width: 20%;">25 Jun 2022, 11-11.45am</td>
-        <td style="width: 20%;">Woodlands Regional Library</td>
-			</tr>
-			<tr>
          <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/bottle-butterfly-with-acsi-earth-heroes-libraryharbourfront-tickets-331641236867?aff=odcleoeventsincollection" target="_blank"><b>Bottle Butterfly with ACS(I) | Earth Heroes</b></a></td>
         <td style="width: 40%;">Upcycle a small plastic bottle and transform it into a butterfly, personalised by yourself. Join <i>The Inventium Initiative</i>, a group of Year 5 students from Anglo-Chinese School (Independent), for this series of fun workshops on upcycling and environmental conservation!
 </td>
         <td style="width: 20%;">21 Jun 2022, <br> 7-8pm</td>
         <td style="width: 20%;">library@harbourfront</td>
+			</tr>
+			<tr>
+				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/living-with-nature-storytelling-by-nparks-tickets-336258697817?aff=odcleoeventsincollection" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Join NParks for our Living with Nature sharing series, starting with a storytelling on how some commonly found reptiles and amphibians (or herps) in Singapore come together to solve a mystery! <br><br>Following the storytelling segment, there will be a craft activity for both parent and child to make their favourite herp!</td>
+				<td style="width: 20%;">25 Jun 2022, 11-11.45am</td>
+        <td style="width: 20%;">Woodlands Regional Library</td>
 			</tr>
 			<tr>
          <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/say-no-to-food-waste-earth-heroes-tickets-344599906597?aff=odcleoeventsincollection" target="_blank"><b>CHF: Lesson 1: Say No to Food Waste</b></a></td>
