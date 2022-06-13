@@ -69,9 +69,7 @@ Explore pressing environmental issues that are transforming our planet, and stra
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
 <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=e4f8082b-1b9e-4bdc-8fe2-ae69001bd63e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-    </div>
   </div>
   <div class="col is-three-fifths">
     <p><b class="has-text-indigo">Repurposing Ugly & Unwanted Food (5 min)</b><br>
