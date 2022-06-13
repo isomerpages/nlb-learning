@@ -71,8 +71,12 @@ Check out the schedule below, and look out for more programmes to be introduced 
     </div>
   </div>
   <div class="col is-one-third">
+    <div class="clickbox is-generic">
+      <a href="#wellness">
+        <span>Wellness</span>
+      </a>
+    </div>
   </div>
-</div>
 
 <br>
 
