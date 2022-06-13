@@ -169,6 +169,17 @@ Registration opens one month before the session.</td>
 
 <tbody>
 <tr>
+<td><strong>Virtual Tour of a Smart Home for Seniors & People with Dementia| TOYL</strong></td>
+<td>Do you often hear the terms, “smart home”, “elderly-inclusive” and “dementia-inclusive” being bandied about but are unsure what it means? Join us in this talk as we share the benefits of living in a home that meets all these criteria! We will also highlight the areas to pay attention to when setting up such a home for your household. <br><br>
+
+Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment.<br><br>
+
+This programme is suitable for caregivers and those aged 50 and above, and is organised in collaboration with Nanyang Polytechnic. .<br><br></td>
+<td>15 Jul 2022, 3pm - 4.30pm</td>
+<td>Zoom</td>
+</tr>
+	
+<tr>
 <td><strong><a href="https://www.eventbrite.sg/e/estate-planning-for-you-ahead-of-your-time-tickets-359067208687?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb/" target="_blank">Estate Planning For You | Ahead of Your Time </a></strong></td>
 <td>What is estate planning and how do you go about it? In this talk, you will learn about the objectives, importance and considerations of estate planning, as well as relevant instruments that you can put in place such as making a Will, LPA, AMD, etc.<br><br>
 This programme is organised in collaboration with Nanyang Polytechnic.<br><br></td>
