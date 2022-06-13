@@ -77,6 +77,7 @@ Check out the schedule below, and look out for more programmes to be introduced 
       </a>
     </div>
   </div>
+</div>
 
 <br>
 
