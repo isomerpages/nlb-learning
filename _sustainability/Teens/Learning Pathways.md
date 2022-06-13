@@ -26,7 +26,7 @@ third_nav_title: Teens
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3><b>Among S(us)</b></h3>
+<h3><b>Enviro-Mania</b></h3>
 Be informed and make an impact to the environment.
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -37,14 +37,14 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/teens/content" target="_blank"><b> Playlist:<br>Clean & Green</b></a></td>
-        <td style="width: 40%;">Explore the impact of waste on the planet and ways we can keep our environment clean.</td>
+        <td style="width: 20%;"><a href="/sustainability/teens/content" target="_blank"><b> Playlist:<br>Climate Crash Course</b></a></td>
+        <td style="width: 40%;">Explore pressing environmental issues that are transforming our planet, and strategies in place to combat climate change.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://www.stopdisastersgame.org/stop_disasters" target="_blank"><b> Learning Package:<br>Stop Disasters Game | UN Office for Disaster Risk Reduction</b></a></td>
-        <td>A sustainable future will require us to plan for future environmental crises, whether they are floods, hurricanes, wildfires, tsunamis, or earthquakes! Are you prepared?</td>
+        <td><a href="https://nlb-dr-staging.netlify.app/diy-resources/secondary/teen-things-archive#id11" target="_blank"><b> Learning Package:<br>Urban Farming | Teen•Things</b></a></td>
+        <td>Maybe you have always aspired to be a farmer, or at the least, have green fingers. If you want to grow your own food, you can always start at home with your own spice garden! </td>
         <td></td>
         <td></td>
       </tr>
