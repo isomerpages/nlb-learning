@@ -68,12 +68,12 @@ Check out our **learning packages** to pick up tips and be prepared for future e
 Explore pressing environmental issues that are transforming our planet, and strategies in place to combat climate change.
 
 <div class="row is-multiline margin--bottom--lg">
-  <div class="col is-three-fifths">
+  <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
 <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=e4f8082b-1b9e-4bdc-8fe2-ae69001bd63e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
     </div>
   </div>
-  <div class="col is-two-fifths">
+  <div class="col is-three-fifths">
     <p><b class="has-text-indigo">Repurposing Ugly & Unwanted Food (5 min)</b><br>
 In this series by Nanyang Polytechnic, learn about food waste in Singapore and how excess food is redistributed, reduced at its source, and repurposed into new products.</p>
    <small>Source: Repurposing Ugly & Unwanted Food – Panopto (2022). Nanyang Polytechnic, Singapore. Retrieved 2022, 25 April.</small>
