@@ -88,9 +88,9 @@ This is special edition in partnership with the National Library Singapore to le
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-go-safe-online-primary-school-edition-online-tickets-311632901397?aff=odcleoeventsincollection" target="_blank"><b>How to Go Safe Online</b></a></td>
-        <td style="width: 40%;">This programme is suitable for children aged 7 to 12 years old, and parents are welcome to attend with their children. Join us for this online session to learn about the types of cyber threats to look out for and learn how you can Go Safe Online by practising good cyber hygiene habits.</td>
-        <td style="width: 20%;">28 May 2022,<br>10am-11am</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/ancient-rome-and-career-readiness-with-bookorators-online-tickets-331621888997?aff=odcleoeventsincollection" target="_blank"><b>Ancient Rome and Career Readiness with BookOrators</b></a></td>
+        <td style="width: 40%;">Learn about some of the interesting careers that existed in Ancient Rome, before comparing these careers to some of the jobs that exist today. You will also get to take a few personality and career tests that may help you identify some future careers that could be a great fit for you!</td>
+        <td style="width: 20%;">25 June 2022,<br>10am-11am</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 			<tr>
