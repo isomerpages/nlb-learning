@@ -47,15 +47,15 @@ Check out our **learning packages** to pick up tips and be prepared for future e
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#playlist-cleangreen">
-        <span>Playlist:<br>Clean & Green</span>
+      <a href="#playlist-climatecrashcourse">
+        <span>Playlist:<br>Climate Crash Course</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-stopdisasters">
-        <span>Learning Packages:<br>Stop Disasters Game</span>
+      <a href="#lp-urbanfarming">
+        <span>Learning Packages:<br>Urban Farming | Teen•Things</span>
       </a>
     </div>
   </div>
@@ -64,54 +64,55 @@ Check out our **learning packages** to pick up tips and be prepared for future e
 <h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.</p>
 
-<h5 class="margin--bottom--lg" id="playlist-cleangreen"><b>Playlist: Clean & Green</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-climatecrashcourse"><b>Playlist: Climate Crash Course</b></h5>
+Explore pressing environmental issues that are transforming our planet, and strategies in place to combat climate change.
+
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/p7LDk4D3Q3U"></iframe>
+      <iframe class="responsive-iframe" src="https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=e4f8082b-1b9e-4bdc-8fe2-ae69001bd63e"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">The Turning Point (4 min)</b><br>
-What if humans and animals swapped places? “The Turning Point” is an animated short that explores the harmful effect of waste on our environment, climate change, and species extinction, from a different perspective.</p>
-
-   <small>Source: The Turning Point – YouTube (2020, Jan 20). Steve Cutts. Retrieved 2022, 11 March.</small>
+    <p><b class="has-text-indigo">Repurposing Ugly & Unwanted Food (5 min)</b><br>
+In this series by Nanyang Polytechnic, learn about food waste in Singapore and how excess food is redistributed, reduced at its source, and repurposed into new products.</p>
+   <small>Source: Repurposing Ugly & Unwanted Food – Panopto (2022). Nanyang Polytechnic, Singapore. Retrieved 2022, 25 April.</small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/b9XiobGsWvY"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/3Ww2TP_tU7o"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo">He Made A Floating Hotel from Trash (5 min)</b><br>
-Off the Ivory Coast in Africa is a floating island resort being held up just by plastic waste. Find out how an ugly eyesore of plastic bottles got transformed into an eco-friendly hotel resort in this video. </p>
-    <small>Source: He Made A Floating Hotel from Trash – YouTube (2021, Jul 5). Nas Daily. Retrieved 2022, 11 March.</small>
+<p><b class="has-text-indigo">Next Gen Farming Without Soil and 90% Less Water (11 min)</b><br>
+Explore how aeroponics and vertical farming inspire creative ways to grow with less land and less water.</p>
+    <small>Source: Next Gen Farming Without Soil and 90% Less Water – YouTube (2019, Sep 22). <i>USA TODAY Life</i>. Retrieved 2022, 25 April.</small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/UoH2-TlcDrU"></iframe>
+<div class="image-container" style="margin: auto;">
+			<a target="_blank" href="https://open.spotify.com/episode/3m2oUafoIEO9jYbDwB8gyn?si=mIX0NCYqT7m-DwNP8zu9Iw&utm_source=copy-link"><img src="/images/sustainability/teens/sus-teens22p3-seastoday.png" alt="Seas Today Podcast cover" style="width: 100%;"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">What’s the best fuel for your car? (5 min)</b><br>
-What are the differences between gasoline, electric, biofuels, and electrofuels, and which is the most sustainable to power our transportation? This video examines clean energy options that are both affordable and environmentally friendly.</p>
-		<small>Source: What's the best fuel for your car? – YouTube (2021, Mar 22). TED-Ed. Retrieved 2022, 11 March.</small>
+    <p><b class="has-text-indigo">Seas Today: The Singapore Whale Uncovered (22 min)</b><br>
+In 2015, a sperm whale was discovered off Jurong Island. Uncover the story behind its demise, and the conservation efforts taken to prevent similar tragedies in the future.</p>
+		<small>Source: Seas Today: The Singapore Whale Uncovered – Spotify (2022, Mar 22). <i>Coastal Natives</i>. Retrieved 2022, 25 April.</small>
   </div>
 </div>
 <br>
 
-<h3 class="margin--bottom--lg" id="lp-stopdisasters"><b>Learning Packages</b></h3>
+<h3 class="margin--bottom--lg" id="lp-urbanfarming"><b>Learning Packages</b></h3>
 Articles/resources that show us interesting ways to live sustainably.
 
-<h5><b>Stop Disasters Game | UN Office for Disaster Risk Reduction</b></h5>
+<h5><b>Urban Farming | Teen•Things</b></h5>
 
-A sustainable future will require us to plan for future environmental crises, whether they are floods, hurricanes, wildfires, tsunamis, or earthquakes!  <a target="_blank" href="https://www.stopdisastersgame.org/stop_disasters">Are you prepared?</a>
+Maybe you have always aspired to be a farmer, or at the least, have green fingers. If you want to grow your own food, you can always start at home with your own spice garden! Check out more on urban farming <a target="_blank" href="https://nlb-dr-staging.netlify.app/diy-resources/secondary/teen-things-archive#id11">here</a>!
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
