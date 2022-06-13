@@ -94,8 +94,8 @@ Check out the schedule below, and look out for more programmes to be introduced 
 	
 <strong><h5 id="Digital">Digital</h5></strong>
 <hr>
-
-  <tbody><tr><td><strong><a href="https://www.eventbrite.com/e/visualising-data-future-of-work-registration-240784933217?aff=ebcollection&keep_tld=1" target="_blank">Visualizing Data | Future of Work</a></strong></td>
+<tbody>
+<tr><td><strong><a href="https://www.eventbrite.com/e/visualising-data-future-of-work-registration-240784933217?aff=ebcollection&keep_tld=1" target="_blank">Visualizing Data | Future of Work</a></strong></td>
   <td>Ever wondered how to present complex data in a simple manner? Join us to learn how you can present your data effectively using various visual techniques through data visualisation and make data-driven decisions at work.
 <br>
 <br>
