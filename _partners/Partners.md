@@ -75,7 +75,8 @@ Check out the schedule below, and look out for more programmes to be introduced 
 </div>
 
 <br>
-	
+
+<!-- Digital  -->
 <table>
 <table width="100%" cellspacing="15" cellpadding="15" border="0">
 	
@@ -107,13 +108,10 @@ This programme is suitable for Adults. <br>
   
 
 </tr>
-
-
-<!-- End your code here -->
-  
 </tbody></table>
 <br>
 
+<!-- Careers  -->
 <table>
 <table width="100%" cellspacing="15" cellpadding="15" border="0">
 	
@@ -127,12 +125,10 @@ This programme is suitable for Adults. <br>
 <strong><h5 id="Careers">Careers</h5></strong>
 <hr>
 <br>
-
-	
-<!-- End your code here -->
   
 <br><br>
 
+<!-- Sustainability  -->
 <table>
 <table width="100%" cellspacing="15" cellpadding="15" border="0">
 	
@@ -148,13 +144,35 @@ This programme is suitable for Adults. <br>
 
 <tbody>
 <tr>
-<td><strong><a href="https://www.eventbrite.com/c/learnx-sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank">Home farming with DIY hydroponic kit</a></strong></td>
+<td><strong><a href="https://www.eventbrite.com/c/learnx-sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank"></a></strong></td>
 <td>Learn the basics of hydroponic and how you can build one at home.<br><br>
 This course will teach you about hydroponics and is brought to you in partnership with Nanyang Polytechnic.<br><br>
 Registration opens one month before the session.</td>
 <td>26 Mar 2022, 2pm - 4pm</td>
 <td>Jurong Regional Library</td>
 </tr>
+</tbody></table>
+
+<!-- Wellness  -->
+<table>
+<table width="100%" cellspacing="15" cellpadding="15" border="0">
 	
-<!-- End your code here -->
+ <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 55%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 15%;">
+    </colgroup>
+	
+<strong><h5 id="wellness">Wellness</h5></strong>
+<hr>
+
+<tbody>
+<tr>
+<td><strong><a href="https://www.eventbrite.sg/e/estate-planning-for-you-ahead-of-your-time-tickets-359067208687?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb/" target="_blank">Estate Planning For You | Ahead of Your Time </a></strong></td>
+<td>What is estate planning and how do you go about it? In this talk, you will learn about the objectives, importance and considerations of estate planning, as well as relevant instruments that you can put in place such as making a Will, LPA, AMD, etc.<br><br>
+This programme is organised in collaboration with Nanyang Polytechnic.<br><br></td>
+<td>20 Jul 2022, 7pm - 8.30pm</td>
+<td>Zoom</td>
+</tr>
 </tbody></table>
