@@ -66,6 +66,8 @@ Check out our **learning package** for an activity on reducing food waste.
 
 
 <h5 class="margin--bottom--lg" id="playlist-foodwaste"><b>Playlist: Food Waste</b></h5>
+Food waste is everywhere! Learn more about how our food produces waste, and how we can be part of the solution.
+
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
