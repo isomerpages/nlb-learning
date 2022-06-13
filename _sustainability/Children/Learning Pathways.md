@@ -43,7 +43,7 @@ Go green with your child to build an eco-friendly future together.
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://go.gov.sg/nlb-foodaudit" target="_blank"><b> Learning Package:<br>Litter Critters | ABCya</b></a></td>
+        <td><a href="https://go.gov.sg/nlb-foodaudit" target="_blank"><b> Learning Package:<br>Food Audit | Communities@Libraries</b></a></td>
         <td>Each of us wastes food differently. This activity helps you figure out what type of food you waste and how to reduce it.</td>
         <td></td>
         <td></td>
