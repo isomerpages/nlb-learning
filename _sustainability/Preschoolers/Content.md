@@ -125,7 +125,7 @@ Articles and activities that will teach and inspire your child to live sustainab
 <h4 id="lp-farming"><a href="/files/Sustainability-Urban-Farming-Vertical-Farming-Early-Read.pdf" target="_blank"><b>Urban Farming</b></a></h4>
 <p>When you think of a farm, you might be picturing a big field with lots of fruits or vegetables being grown. But did you know there are also farms in our city, including one on Orchard Road? Learn more about these urban farms and why they could be Singapore’s answer to securing a stable food supply for us all.</p>
 
-<h4 id="lp-farming"><a href="/files/Sustainability-Urban-Farming-Vertical-Farming-Early-Read.pdf" target="_blank"><b>Sustainable Foods</b></a></h4>
+<h4 id="lp-sus-food"><a href="/files/Sustainability/preschoolers_Alternative%20proteins.pdf" target="_blank"><b>Sustainable Foods</b></a></h4>
 <p>Do you know that the food we eat has an impact on the environment? Find out how science and technology can help us create a planet-friendly food system! From meat grown in labs to insects that are safe for consumption, these new innovations could be the future of our food.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
