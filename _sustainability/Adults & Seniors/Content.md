@@ -674,4 +674,67 @@ Kelly Brenner (2020), <i> Nature Obscura : A city's hidden natural world </i>, S
     <li><span id="footnote-one"> Biophilic design: What is it? Why it matters? And how do we use it. (2021, November 24). Building Design + Construction.</span> <i>Bain</i>. Retrieved 2021, November 25 from <a href="https://www.bdcnetwork.com/blog/biophilic-design-why-it-matters-and-how-do-we-use-it/" target="_blank">https://www.bdcnetwork.com/blog/biophilic-design-why-it-matters-and-how-do-we-use-it/</a></li>
 	<li><span id="footnote-two"> Can Singapore, the city in a garden, grow into a city in nature?  (2018, Sept 19). <i> Eco-Business </i>. Retrieved 2021, November 24 from <a href="https://www.eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature" target="_blank"> https://www.eco-business.com/news/can-singapore-the-city-in-a-garden-grow-into-a-city-in-nature /</a> </span></li>
 
-</ol></div></b></div>
+</ol>
+
+<h3><b>Learning Package</b></h3>
+<h5 class="margin--bottom--lg" id="lp-renewable-energy"><b>Renewable Energy</b></h5>
+<p>Renewable energy is energy that is collected from renewable resources that are naturally replenished over time. Examples of renewable energy sources include solar energy from the sun, geothermal energy from heat inside the earth, wind energy and hydropower from flowing water. Renewable energy does not release pollutants into the air and does not strain our Earth’s natural resources.</p>
+<p>With the advancement of technology and modernization of cities, energy and electricity use is increasing at a rapid pace. It is pivotal that we make the switch to renewable energy. Renewable energy can be used to produce electricity with lesser environmental impact. For example, we can produce electricity from renewable energy without producing cardon dioxide.</p>
+<p>To help you learn more about renewable energy and its importance, check out the resources we have compiled here.</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+			<h2>Did you know...</h2>
+			<p>Solar power could be the world’s top power source by 2050.<sup><a href="https://www.inspirecleanenergy.com/blog/clean-energy-101/renewable-energy-facts#fn4">1</a></sup>.</p>
+			<p> One wind turbine can power up to 1,500 homes for a year. <sup><a href="https://www.rewiringamerica.org/">2</a></sup>.</p>
+</td></tr></tbody></table>			
+	
+<h4>Videos</h4>
+<h5>1.Renewable Energy 101 | National Geographic</h5>
+<p> Learn about the different types of renewable energy and how we can use it to combat climate change. </p>
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=1kUE0BZtTRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/embed/v=1kUE0BZtTRc" target="_blank">Source: Renewable Energy 101 | National Geographic (2017, Sep 22). <i>National Geographic</i>. Retrieved 2022, June 3.
+	
+<h5>2. Benefits of Renewable Energy over Fossil Fuels | Why we should Switch to Renewable Energy in 2021</h5>
+<p>Learn about the major economic, social, and environmental advantage and benefits of using renewable energy sources.</p>
+ 
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=IW1KVCcu7kM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/embed/v=IW1KVCcu7kM" target="_blank">Benefits of Renewable Energy over Fossil Fuels | Why we should switch to Renewable Energy in 2021 (2021, Apr 11). <i>Not Complicated</i>. Retrieved 2022, June 3.
+ 
+<h4>Podcast</h4>
+ 
+<h5>1. <a href="https://www.straitstimes.com/business/money-fm-podcast-swapping-not-shopping-making-fashion-sustainable" target="_blank">Money FM 89.3</a></h5>
+<p>Find out about the practice of swapping, a method that extends the lifespan of your clothes in this podcast.</p>
+Source: <a href="https://www.straitstimes.com/business/money-fm-podcast-swapping-not-shopping-making-fashion-sustainable" target="_blank">Swapping, not Shopping- Making fashion sustainable</a> (2020, Oct 5). <i>Money FM 89.3.</i> Retrieved 2021, September 15
+ 
+<h4>eBooks</h4>
+<h5>1. A Life Less Throwaway: The lost art of buying for life </h5>
+Tara Button (2018), <i>Life Less Throwaway: The lost art of buying for life</i>, New York: Ten Speed Press.
+
+<a href="https://nlb.overdrive.com/media/3341119" target="_blank"><img src="/images/sustainability/adults-and-seniors/ALifeLessThrowaway.jpg" style="width:300px; text-align:left;" alt="book cover for a life less throwaway"></a>
+<p>Overcome impulse buys by discovering what really suits you and reach out for the best, most classic and long-lasting objects. Achieve this by following the 10 steps outlined in this book.</p>
+<p><a href="https://nlb.overdrive.com/media/3341119" target="_blank">Borrow the eBook here</a>.</p>
+<p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
+ 
+<h5>2. Dress [with] Sense: The practical guide to a conscious closet </h5>
+Redress (2017), <i>Dress [with] Sense: The practical guide to a conscious closet</i>, Thomas and Hudson Ltd.
+<p><a href="https://nlb.overdrive.com/media/3164984" target="_blank"><img src="/images/sustainability/adults-and-seniors/DresswithSense.jpg" style="width:300px; text-align:left;" alt="book cover for dress with sense"></a></p>
+<p>Inch your way to a more sustainable wardrobe with this how-to book that features practical tips and case studies.</p>
+ 
+<p><a href="https://nlb.overdrive.com/media/3164984" target="_blank">Borrow the eBook here</a>.</p>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+             
+<h5>3. Wear, Repair, Repurpose : A Maker’s Guide to Mending and Upcycling Clothes</h5>
+Lily Fulop (2020), <i>Wear, Repair, Repurpose : A Maker’s Guide to Mending and Upcycling Clothes</i>, Countryman Press
+<br>
+
+<a href="https://nlb.overdrive.com/media/5155080" target="_blank"><img src="/images/sustainability/adults-and-seniors/WearRepairRepurpose.jpg" style="width:300px; text-align:left;" alt="book cover for wear, repair, repurpose"></a>
+<p>Learn how to repair, upcycle or remake your fashion pieces to reduce waste with this book.</p>
+<p><a href="https://nlb.overdrive.com/media/5155080" target="_blank">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+ 
+<h4>Sustainability Programmes in NLB</h4>
+<p>There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a href="https://go.gov.sg/sustainprog" target="_blank">go.gov.sg/sustainprog</a>
+</p>
