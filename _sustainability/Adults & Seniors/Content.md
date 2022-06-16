@@ -695,19 +695,18 @@ Kelly Brenner (2020), <i> Nature Obscura : A city's hidden natural world </i>, S
 <p> Learn about the different types of renewable energy and how we can use it to combat climate change. </p>
 
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/v=1kUE0BZtTRc" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/embed/v=1kUE0BZtTRc">Source:&nbsp;Renewable Energy 101 | National Geographic</a>&nbsp;(2017, Sep 22).&nbsp;<i>National Geographic</i>. Retrieved 2022, June 3.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1kUE0BZtTRc" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/embed/1kUE0BZtTRc">Source:&nbsp;Renewable Energy 101 | National Geographic</a>&nbsp;(2017, Sep 22).&nbsp;<i>National Geographic</i>. Retrieved 2022, June 3.
 	
 <h5>2. Benefits of Renewable Energy over Fossil Fuels | Why we should Switch to Renewable Energy in 2021</h5>
 <p>Learn about the major economic, social, and environmental advantage and benefits of using renewable energy sources.</p>
  
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/v=IW1KVCcu7kM" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/embed/v=IW1KVCcu7kM">Benefits of Renewable Energy over Fossil Fuels | Why we should switch to Renewable Energy in 2021</a> (2021, Apr 11).&nbsp;<i>Not Complicated</i>. Retrieved 2022, June 3.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IW1KVCcu7kM" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/embed/IW1KVCcu7kM">Benefits of Renewable Energy over Fossil Fuels | Why we should switch to Renewable Energy in 2021</a> (2021, Apr 11).&nbsp;<i>Not Complicated</i>. Retrieved 2022, June 3.
  
 <h4>Podcast</h4>
 
- 
 
 <h5>1. <a target="_blank" href="https:// https://www.wri.org/insights/podcast-renewables-100-clean-energy">From Renewables to 100% Clean Energy</a></h5>
 
