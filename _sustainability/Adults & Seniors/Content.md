@@ -706,7 +706,7 @@ Source: <a href="https://www.youtube.com/embed/v=IW1KVCcu7kM" target="_blank">Be
  
 <h4>Podcast</h4>
  
-<h5>1. <a href="https://www.straitstimes.com/business/money-fm-podcast-swapping-not-shopping-making-fashion-sustainable" target="_blank">Money FM 89.3</a></h5>
+<h5>1. <a href="https://www.straitstimes.com/business/money-fm-podcast-swapping-not-shopping-making-fashion-sustainable" target="_blank">**From Renewables to 100% Clean Energy**</a></h5>
 <p>Find out about the practice of swapping, a method that extends the lifespan of your clothes in this podcast.</p>
 Source: <a href="https://www.straitstimes.com/business/money-fm-podcast-swapping-not-shopping-making-fashion-sustainable" target="_blank">Swapping, not Shopping- Making fashion sustainable</a> (2020, Oct 5). <i>Money FM 89.3.</i> Retrieved 2021, September 15
  
