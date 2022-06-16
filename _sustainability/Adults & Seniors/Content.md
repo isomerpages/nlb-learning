@@ -66,7 +66,7 @@ Check our **learning packages** for articles that will give you insights into li
   </div>
 	<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="renewable-energy">
+      <a href="#renewable-energy">
         <span>Playlist:<br>Renewable Energy</span>
       </a>
     </div>
@@ -108,7 +108,7 @@ Check our **learning packages** for articles that will give you insights into li
   </div>
 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#renewable-energy">
+      <a href="#lp-renewable-energy">
         <span>Learning Package:<br>Renewable Energy</span>
 			</a>
 	</div>
