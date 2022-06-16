@@ -712,7 +712,7 @@ Source: <a href="https://www.youtube.com/embed/IW1KVCcu7kM" target="_blank">Bene
 
 <p> Find out about the most effective ways to deliver affordable clean power and why it is crucial to also look at carbon emissions and high electricity prices. </p>
 
-Source: <a href="https:// https://www.wri.org/insights/podcast-renewables-100-clean-energy" target="_blank"> From Renewables to 100% Clean Energy</a> (2019, Jul 31). <i>World Resources Institute</i>. Retrieved 2022, June 3.
+Source: <a href= "https://www.wri.org/insights/podcast-renewables-100-clean-energy" target="_blank"> From Renewables to 100% Clean Energy</a> (2019, Jul 31). <i>World Resources Institute</i>. Retrieved 2022, June 3.
 
 <h4>eBooks</h4>
 
