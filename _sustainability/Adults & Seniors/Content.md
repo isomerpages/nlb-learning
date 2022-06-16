@@ -644,6 +644,7 @@ Kelly Brenner (2020), <i> Nature Obscura : A city's hidden natural world </i>, S
 
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-renewable-energy" class="margin--bottom--lg"><b>Renewable Energy</b></h5>
+![](/images/sustainability/adults-and-seniors/renewable-energy-lp-header.png)
 <p>Renewable energy is energy that is collected from renewable resources that are naturally replenished over time. Examples of renewable energy sources include solar energy from the sun, geothermal energy from heat inside the earth, wind energy and hydropower from flowing water. Renewable energy does not release pollutants into the air and does not strain our Earth’s natural resources.</p>
 <p>With the advancement of technology and modernization of cities, energy and electricity use is increasing at a rapid pace. It is pivotal that we make the switch to renewable energy. Renewable energy can be used to produce electricity with lesser environmental impact. For example, we can produce electricity from renewable energy without producing cardon dioxide.</p>
 <p>To help you learn more about renewable energy and its importance, check out the resources we have compiled here.</p>
@@ -651,8 +652,8 @@ Kelly Brenner (2020), <i> Nature Obscura : A city's hidden natural world </i>, S
 	<tbody><tr>
 		<td>
 			<h2>Did you know...</h2>
-			<p>Solar power could be the world’s top power source by 2050.<sup><a href="#footnote-one">1</a></sup>.</p>
-			<p> One wind turbine can power up to 1,500 homes for a year. <sup><a href="#footnote-2">2</a></sup>.</p>
+			<p>- Solar power could be the world’s top power source by 2050<sup><a href="#footnote-one">1</a></sup>.</p>
+			<p>- One wind turbine can power up to 1,500 homes for a year<sup><a href="#footnote-2">2</a></sup>.</p>
 </td></tr></tbody></table>			
 	
 <h4>Videos</h4>
