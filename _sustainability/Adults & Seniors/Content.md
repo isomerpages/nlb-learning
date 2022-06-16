@@ -685,8 +685,8 @@ Kelly Brenner (2020), <i> Nature Obscura : A city's hidden natural world </i>, S
 	<tbody><tr>
 		<td>
 			<h2>Did you know...</h2>
-			<p>Solar power could be the world’s top power source by 2050.<sup><a href="https://www.inspirecleanenergy.com/blog/clean-energy-101/renewable-energy-facts#fn4">1</a></sup>.</p>
-			<p> One wind turbine can power up to 1,500 homes for a year. <sup><a href="https://www.rewiringamerica.org/">2</a></sup>.</p>
+			<p>Solar power could be the world’s top power source by 2050.<sup><a href="#footnote-one">1</a></sup>.</p>
+			<p> One wind turbine can power up to 1,500 homes for a year. <sup><a href="#footnote-2">2</a></sup>.</p>
 </td></tr></tbody></table>			
 	
 <h4>Videos</h4>
@@ -695,46 +695,73 @@ Kelly Brenner (2020), <i> Nature Obscura : A city's hidden natural world </i>, S
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v=1kUE0BZtTRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-Source: <a href="https://www.youtube.com/embed/v=1kUE0BZtTRc" target="_blank">Source: Renewable Energy 101 | National Geographic (2017, Sep 22). <i>National Geographic</i>. Retrieved 2022, June 3.
+Source: <a href="https://www.youtube.com/embed/v=1kUE0BZtTRc" target="_blank">Source: Renewable Energy 101 | National Geographic</a> (2017, Sep 22). <i>National Geographic</i>. Retrieved 2022, June 3.
 	
 <h5>2. Benefits of Renewable Energy over Fossil Fuels | Why we should Switch to Renewable Energy in 2021</h5>
 <p>Learn about the major economic, social, and environmental advantage and benefits of using renewable energy sources.</p>
  
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v=IW1KVCcu7kM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-Source: <a href="https://www.youtube.com/embed/v=IW1KVCcu7kM" target="_blank">Benefits of Renewable Energy over Fossil Fuels | Why we should switch to Renewable Energy in 2021 (2021, Apr 11). <i>Not Complicated</i>. Retrieved 2022, June 3.
+Source: <a href="https://www.youtube.com/embed/v=IW1KVCcu7kM" target="_blank">Benefits of Renewable Energy over Fossil Fuels | Why we should switch to Renewable Energy in 2021</a> (2021, Apr 11). <i>Not Complicated</i>. Retrieved 2022, June 3.
  
 <h4>Podcast</h4>
+
  
-<h5>1. <a href="https://www.straitstimes.com/business/money-fm-podcast-swapping-not-shopping-making-fashion-sustainable" target="_blank">**From Renewables to 100% Clean Energy**</a></h5>
-<p>Find out about the practice of swapping, a method that extends the lifespan of your clothes in this podcast.</p>
-Source: <a href="https://www.straitstimes.com/business/money-fm-podcast-swapping-not-shopping-making-fashion-sustainable" target="_blank">Swapping, not Shopping- Making fashion sustainable</a> (2020, Oct 5). <i>Money FM 89.3.</i> Retrieved 2021, September 15
- 
+
+<h5>1. <a href="https:// https://www.wri.org/insights/podcast-renewables-100-clean-energy" target="_blank">From Renewables to 100% Clean Energy</a></h5>
+
+<p> Find out about the most effective ways to deliver affordable clean power and why it is crucial to also look at carbon emissions and high electricity prices. </p>
+
+Source: <a href=" https:// https://www.wri.org/insights/podcast-renewables-100-clean-energy" target="_blank"> From Renewables to 100% Clean Energy</a> (2019, Jul 31). <i>World Resources Institute</i>. Retrieved 2022, June 3.
+
 <h4>eBooks</h4>
-<h5>1. A Life Less Throwaway: The lost art of buying for life </h5>
-Tara Button (2018), <i>Life Less Throwaway: The lost art of buying for life</i>, New York: Ten Speed Press.
 
-<a href="https://nlb.overdrive.com/media/3341119" target="_blank"><img src="/images/sustainability/adults-and-seniors/ALifeLessThrowaway.jpg" style="width:300px; text-align:left;" alt="book cover for a life less throwaway"></a>
-<p>Overcome impulse buys by discovering what really suits you and reach out for the best, most classic and long-lasting objects. Achieve this by following the 10 steps outlined in this book.</p>
-<p><a href="https://nlb.overdrive.com/media/3341119" target="_blank">Borrow the eBook here</a>.</p>
-<p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
- 
-<h5>2. Dress [with] Sense: The practical guide to a conscious closet </h5>
-Redress (2017), <i>Dress [with] Sense: The practical guide to a conscious closet</i>, Thomas and Hudson Ltd.
-<p><a href="https://nlb.overdrive.com/media/3164984" target="_blank"><img src="/images/sustainability/adults-and-seniors/DresswithSense.jpg" style="width:300px; text-align:left;" alt="book cover for dress with sense"></a></p>
-<p>Inch your way to a more sustainable wardrobe with this how-to book that features practical tips and case studies.</p>
- 
-<p><a href="https://nlb.overdrive.com/media/3164984" target="_blank">Borrow the eBook here</a>.</p>
-Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
-             
-<h5>3. Wear, Repair, Repurpose : A Maker’s Guide to Mending and Upcycling Clothes</h5>
-Lily Fulop (2020), <i>Wear, Repair, Repurpose : A Maker’s Guide to Mending and Upcycling Clothes</i>, Countryman Press
-<br>
+<h5>1. Community Energy </h5>
 
-<a href="https://nlb.overdrive.com/media/5155080" target="_blank"><img src="/images/sustainability/adults-and-seniors/WearRepairRepurpose.jpg" style="width:300px; text-align:left;" alt="book cover for wear, repair, repurpose"></a>
-<p>Learn how to repair, upcycle or remake your fashion pieces to reduce waste with this book.</p>
-<p><a href="https://nlb.overdrive.com/media/5155080" target="_blank">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+Gordon Cowtan (2018), <i>Community Energy</i>, Cambridge: UIT Cambridge Ltd.
+
+<a href="https://libbyapp.com/search/nlb/search/query-renewable%20energy/page-1/3295057" target="_blank"><img src="/images/sustainability/adults-and-seniors/community-energy-book-cover.png" style="width:300px; text-align:left;" alt="book cover for community energy"></a>
+
+<p> An overview of all you need to know about community energy, with examples from different countries. Learn how your community can generate its own renewable energy, reduce carbon emissions, and lower energy costs.</p>
+
+<p><a href=" https://libbyapp.com/search/nlb/search/query-renewable%20energy/page-1/3295057" target="_blank">Borrow the eBook here</a>.</p>
+
+<p>Retrieved from Libby (myLibraryid is required to access the eBook).</p>
+
  
+
+<h5>2. The Fully Charged Guide to Electric Vehicles & Clean Energy </h5>
+
+Robert Llewellyn (2020), <i> The Fully Charged Guide to Electric Vehicles & Clean Energy</i>, London: Unbound.
+
+<p><a href=" https://libbyapp.com/search/nlb/search/query-renewable%20energy/page-1/4835191" target="_blank"><img src="/images/sustainability/adults-and-seniors/fully-charged-book-cover.png" style="width:300px; text-align:left;" alt="book cover for dress with sense"></a></p>
+
+<p> This book presents the latest innovations in renewable energy and provides suggestions and solutions for how to go green with clean energy.</p>
+
+<p><a href="https://libbyapp.com/search/nlb/search/query-renewable%20energy/page-1/4835191" target="_blank">Borrow the eBook here</a>.</p>
+
+<p>Retrieved from Libby (myLibraryid is required to access the eBook).</p>
+
+            
+
+<h5>3. Renewable</h5>
+
+Jeremy Shere (2013), <i>Renewable</i>, New York: St. Martin’s Press
+
+<a href="https://libbyapp.com/search/nlb/search/query-renewable%20energy/page-1/1330960" target="_blank"><img src="/images/sustainability/adults-and-seniors/renewable-book-cover.png" style="width:300px; text-align:left;" alt="book cover for wear, repair, repurpose"></a>
+
+<p> This book tells the stories of the most interesting and promising types of renewable energy, sharing their long histories and introducing the various scientists, inventors and visionaries behind them.</p>
+
+<p><a href="https://libbyapp.com/search/nlb/search/query-renewable%20energy/page-1/1330960" target="_blank">Borrow the eBook here</a>.</p>
+
+<p>Retrieved from Libby (myLibraryid is required to access the eBook).</p>
+
+ 
+
 <h4>Sustainability Programmes in NLB</h4>
+
 <p>There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a href="https://go.gov.sg/sustainprog" target="_blank">go.gov.sg/sustainprog</a>
+
 </p>
+
+ 
