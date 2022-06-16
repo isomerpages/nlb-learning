@@ -768,7 +768,7 @@ Jeremy Shere (2013), <i>Renewable</i>, New York: St. Martin’s Press
 
 <ol>
 
-<li><small><span id="footnote-one"> Renewable energy facts.</span> Retrieved 2022, June 3 from <a href="" target="_blank"> https://www.inspirecleanenergy.com/blog/clean-energy-101/renewable-energy-facts#fn4</a></small></li>
+<li><small><span id="footnote-one"> Renewable energy facts.</span> Retrieved 2022, June 3 from <a href="https://www.inspirecleanenergy.com/blog/clean-energy-101/renewable-energy-facts#fn4" target="_blank"> https://www.inspirecleanenergy.com/blog/clean-energy-101/renewable-energy-facts#fn4</a></small></li>
 
 <li><small><span id="footnote-two"> Rewiring America.</span> Retrieved 2022, June 3 from <a href="https://www.rewiringamerica.org/" target="_blank&quot;"> https://www.rewiringamerica.org/</a></small></li>
 
