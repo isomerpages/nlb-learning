@@ -335,9 +335,36 @@ You love fashion and think nothing of buying the latest designs. However, have y
   </div>
 </div>
 
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/v=5Hb_ONJUA9I) class="></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Iceland’s Secret Power – Jean-Baptise P. Koehl</b><br>
+    Here is a quick and short explainer video about all that you need to know about Solar Energy.<br><br>
+<small>Source: Iceland's secret power - Jean-Baptiste P. Koehl (2021, Jul 29). TED-Ed. Retrieved 2022, June 3</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/v=f0p0Fria5TY) class="></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Wind Energy | Future of Renewable Energy | Full Documentary</b><br>
+    In this detailed documentary, get an overview of how wind power is harnessed using wind turbines to produce electricity.<br><br>
+<small>Wind Energy | Future of Renewable Energy | Full Documentary - THE MACHINIST TV (2015, Aug 15) Retrieved 2022, June 3</small></p>
+  </div>
+</div>
+
 	
-[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-green-econ"><b>The Green Economy</b></h5>
