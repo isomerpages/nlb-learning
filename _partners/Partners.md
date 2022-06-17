@@ -149,7 +149,7 @@ This programme is suitable for Adults. <br>
 
 <tbody>
 <tr>
-<td><strong>Repurposing Soya Waste (Okara) into edible food  </strong></td>
+<td><strong><a href="https://www.eventbrite.sg/e/repurposing-soya-waste-okara-into-edible-food-tickets-347002221987/" target="_blank">Repurposing Soya Waste (Okara) into edible food</a></strong></td>
 <td>This is a hands-on program designed to repurpose food waste instead of throwing them away. In this workshop, participants will learn how to make homemade soy milk from scratch. Upon making their delicious soy milk, they will learn how to transform the waste (okara) generated into nugget and cookie.  Learn techniques to transform household food waste into dishes while discovering the new taste of okara!  <br><br>
 
 About the speaker: Lina Tan is a senior lecturer with School of Applied Science, Nanyang Polytechnic. She provides academic training to students majoring in Food Science & Nutrition programme. Besides teaching, she also provides technical guidance and training to clients in food industry and is a coach who prepares food science students for local and international product innovation competitions. <br><br>
