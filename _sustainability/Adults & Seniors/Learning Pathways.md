@@ -15,7 +15,7 @@ To shed some light on this conundrum, this learning pathway will explore what dr
   <table class="generic-table">
     <thead>
       <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Discover Recommended Resources</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
@@ -39,7 +39,7 @@ To shed some light on this conundrum, this learning pathway will explore what dr
 	<table class="generic-table">
     <thead>
       <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Learn With Expert Speakers</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Learn With Expert Speakers</th>
       </tr>
     </thead>
     <tbody>
@@ -51,10 +51,10 @@ To shed some light on this conundrum, this learning pathway will explore what dr
         <td style="width: 20%;">Choa Chu Kang Public Library</td>
       </tr>
       <tr>
-      <td><b>Green Market</b></td>
-       <td>In mid-September, the Green Market returns to bring you a new slate of programmes and activities that promote sustainable living and showcases the ways you can act for the environment. Get inspired by the speakers and practitioners as they share their experiences and the initiatives to save the planet. Meet green groups that champion various environmental causes and discover an array of sustainable products developed and presented to you by social enterprises.  Registration details will be out by August 2022 on eventbrite. </td>
-        <td>Mid September 2022, <br>11.00am- 7.00pm</td>
-        <td>Chua Chu Kang Public Library and Zoom</td>
+      <td style="width: 20%;"><b>Green Market</b></td>
+       <td style="width: 40%;">In mid-September, the Green Market returns to bring you a new slate of programmes and activities that promote sustainable living and showcases the ways you can act for the environment. Get inspired by the speakers and practitioners as they share their experiences and the initiatives to save the planet. Meet green groups that champion various environmental causes and discover an array of sustainable products developed and presented to you by social enterprises.  Registration details will be out by August 2022 on eventbrite. </td>
+        <td style="width: 20%;">Mid September 2022, <br>11.00am- 7.00pm</td>
+        <td style="width: 20%;">Chua Chu Kang Public Library and Zoom</td>
 		  </tr>
      </tbody>
   </table>
@@ -64,44 +64,44 @@ To shed some light on this conundrum, this learning pathway will explore what dr
   <table class="generic-table">
     <thead>
       <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Use, Apply and Share Your Skills and Knowledge </th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Use, Apply and Share Your Skills and Knowledge </th>
 				</tr>
     </thead>
     <tbody>
       <tr> 
-				<td><b>Old Fiber, New Paper</b>
-        <td> Learn how to make recompossible paper from plant waste in this workshop brought to you in partnership with Nanyang Polytechnic! Participants get to bring back the paper and craft they make. </td>
-        <td>24 Jul 2022, <br>2pm-4.30pm</td>
-        <td>Tampines Regional Library, Culinary Studio </td>
+				<td style="width: 20%;"><b>Old Fiber, New Paper</b>
+        <td style="width: 40%;"> Learn how to make recompossible paper from plant waste in this workshop brought to you in partnership with Nanyang Polytechnic! Participants get to bring back the paper and craft they make. </td>
+        <td style="width: 20%;">24 Jul 2022, <br>2pm-4.30pm</td>
+        <td style="width: 20%;">Tampines Regional Library, Culinary Studio </td>
       </tr>
 			<tr>
-				<td><b>Urban Farming Workshop For Seniors | Time of Your Life </b>
-        <td>Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. This program is intended for seniors (ages 50 and above). <br><br>
-This program will be conducted workshop style and covers the journey of food, principles of urban agriculture and science of hydroponic growing.
-</td>
-        <td>12 Aug 2022, <br>4pm - 5pm</td>
-        <td>Choa Chu Kang Public Library</td>
+				<td style="width: 20%;"><b>Urban Farming Workshop For Seniors | Time of Your Life </b>
+        <td style="width: 40%;">Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. This program is intended for seniors (ages 50 and above). <br><br>
+This program will be conducted workshop style and covers the journey of food, principles of urban agriculture and science of hydroponic growing.</td>
+        <td style="width: 20%;">12 Aug 2022, <br>4pm - 5pm</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library</td>
       </tr>
       <tr>
-				<td><b>Reuse, Repurpose & Recoup!</b></td>
-        <td>Much energy is used to produce fashion wear and during incineration when they are thrown away. Learning how to upcycle your old fashion pieces can help stretch your dollar and save a ton of energy! <br> <br> Join this demo workshop led by a fashion designer to pick up ideas on fashion upcycling and learn how to identify fashion brands that are sustainable!
+				<td style="width: 20%;"><b>Reuse, Repurpose & Recoup!</b></td>
+        <td style="width: 40%;">Much energy is used to produce fashion wear and during incineration when they are thrown away. Learning how to upcycle your old fashion pieces can help stretch your dollar and save a ton of energy! <br> <br> Join this demo workshop led by a fashion designer to pick up ideas on fashion upcycling and learn how to identify fashion brands that are sustainable!
 </td>
-        <td>20 Aug 202, <br>2pm - 3pm</td>
-        <td>Geylang Public Library, Merpati Hall</td>
-				</tr>
-			<td><b>Home Farming with DIY Hydroponic Kit for Seniors | Time of Your Life</b></td>
-        <td>Learn about the basics of hydroponics and how you can build one at home. This workshop is part of the Sustainability Series for Seniors in partnership with Nanyang Polytechnic.
+        <td style="width: 20%;">20 Aug 202, <br>2pm - 3pm</td>
+        <td style="width: 20%;">Geylang Public Library, Merpati Hall</td>
+			</tr>
+			<tr>
+			<td style="width: 20%;"><b>Home Farming with DIY Hydroponic Kit for Seniors | Time of Your Life</b></td>
+        <td style="width: 40%;">Learn about the basics of hydroponics and how you can build one at home. This workshop is part of the Sustainability Series for Seniors in partnership with Nanyang Polytechnic.
  <br><br>
 Suitable for aged 50 and above.</td>
-        <td>17 Sept 2022, <br>2pm - 4.30pm</td>
-        <td>Jurong Regional Public Library</td>
+        <td style="width: 20%;">17 Sept 2022, <br>2pm - 4.30pm</td>
+        <td style="width: 20%;">Jurong Regional Public Library</td>
       </tr>
 			<tr> 
-	<td><a href="https://go.gov.sg/lcsessions" target="_blank"><b>The Nature Club</b></a></td>
-        <td>The Nature Club aspires to be an intergenerational book club (for all ages), creating a space for the discussion of ecological narratives. <br><br>
+	<td style="width: 20%;"><a href="https://go.gov.sg/lcsessions" target="_blank"><b>The Nature Club</b></a></td>
+        <td style="width: 20%;">The Nature Club aspires to be an intergenerational book club (for all ages), creating a space for the discussion of ecological narratives. <br><br>
 Collective calamities like the climate crisis - among others - often inflict wounds of ecological grief, hurt and isolation on all of us, and stories provide a language and medium of catharsis and healing for everyone who wishes to join our sessions. Register on eventbrite.</td>
-        <td>Held on the last thursday of each month, <br>7pm - 8.30pm</td>
-        <td>Zoom</td>
+        <td style="width: 20%;">Held on the last thursday of each month, <br>7pm - 8.30pm</td>
+        <td style="width: 20%;">Zoom</td>
 	   </tr>
 	 </tbody>
   </table>
@@ -111,16 +111,17 @@ Collective calamities like the climate crisis - among others - often inflict wou
   <table class="generic-table">
     <thead>
       <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Learn more about Sustainability in other aspects</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Learn more about Sustainability in other aspects</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-				<td><b>Greener Screens: Building A Sustainable Tech Toolkit </b></td>
-        <td>Greener Screens is a workshop where Ashley Hi, Tech Lead of Feelers, will share knowledge and resources on greener tech habits. The workshop will cover actionable design steps for greater energy efficiency, existing digital tools that minimise energy consumption, as well as Feelers’ own eco experiments. <br><br> Participants will be led through creative exercises to build a sustainable tech toolkit that is customised to the needs of their own business or personal practice.</td>
-        <td>3 Sept 2022, <br>1pm - 3pm</td>
-        <td>library@harbourfront</td>
+				<td style="width: 20%;"><b>Greener Screens: Building A Sustainable Tech Toolkit </b></td>
+        <td style="width: 40%;">Greener Screens is a workshop where Ashley Hi, Tech Lead of Feelers, will share knowledge and resources on greener tech habits. The workshop will cover actionable design steps for greater energy efficiency, existing digital tools that minimise energy consumption, as well as Feelers’ own eco experiments. <br><br> Participants will be led through creative exercises to build a sustainable tech toolkit that is customised to the needs of their own business or personal practice.</td>
+        <td style="width: 20%;">3 Sept 2022, <br>1pm - 3pm</td>
+        <td style="width: 20%;">library@harbourfront</td>
 </tr>
+			<tr>
         <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.com/cc/makeit-at-libraries-programmes-104559"><b>LearnX Digital</b><br>MakeIT</a></td>
         <td style="width: 40%;">MakeIT aims to introduce Making and Innovation to the general public by way of areas, including Making with upcycling in mind. Topics available include repair and home-hacks and lofi prototyping<br></td>
         <td style="width: 20%;">Details on Eventbrite</td> 
