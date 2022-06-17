@@ -6,14 +6,13 @@ third_nav_title: Adults & Seniors
 ---
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-This quarter, we turn the spotlight on our tricky relationship with energy in The Energy Conundrum.</a>
+This quarter, we turn the spotlight on our tricky relationship with energy in The Energy Conundrum.
  
 <h3 class="margin--bottom--lg" id="The Energy Conundrum"><b>The Energy Conundrum</b></h3>
 We need an energy supply that is affordable and reliable. We also require it to be low carbon, produced more efficiently and does less harm to the environment. Will we ever find a solution that can balance both?  What are the trade-offs that we need to address?<br><br>
 To shed some light on this conundrum, this learning pathway will explore what drives our energy consumption, and examine renewable and alternative energy sources. We will also teach you how to conserve energy in the conduct of your daily life that covers growing plants to digital technology usage.  
 <div class="horizontal-scroll margin--bottom--lg">
-  <div class="horizontal-scroll margin--bottom--lg">
-  </div><table class="generic-table">
+  <table class="generic-table">
     <thead>
       <tr>
         <th class="is-uppercase has-weight-normal" colspan="4">Discover Recommended Resources</th>
@@ -31,7 +30,13 @@ To shed some light on this conundrum, this learning pathway will explore what dr
         <td>Dive deeper into discussions around renewable energy with our list of recommended resources.</td>
         <td></td>
         <td> </td>
-</tr></tbody></table><table class="generic-table">
+</tr>
+</tbody>
+</table>
+</div>
+
+<div class="horizontal-scroll margin--bottom--lg">
+	<table class="generic-table">
     <thead>
       <tr>
         <th class="is-uppercase has-weight-normal" colspan="4">Learn With Expert Speakers</th>
@@ -50,13 +55,17 @@ To shed some light on this conundrum, this learning pathway will explore what dr
         <td>In mid-September, the Green Market returns to bring you a new slate of programmes and activities that promote sustainable living and showcases the ways you can act for the environment. Get inspired by the speakers and practitioners as they share their experiences and the initiatives to save the planet. Meet green groups that champion various environmental causes and discover an array of sustainable products developed and presented to you by social enterprises.  Registration details will be out by August 2022 on eventbrite. </td>
         <td>Mid September 2022, <br>11.00am- 7.00pm</td>
         <td>Chua Chu Kang Public Library and Zoom</td>
-     
+		  	</tr>
+     </tbody>
+  </table>
+</div>
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
       <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Use, Apply and Share Your Skills and Knowledge</th>
-      </tr>
+        <th class="is-uppercase has-weight-normal" colspan="4">Use, Apply and Share Your Skills and Knowledge </th>
+				</tr>
     </thead>
     <tbody>
       <tr> 
@@ -94,6 +103,10 @@ Suitable for aged 50 and above.</td>
 Collective calamities like the climate crisis - among others - often inflict wounds of ecological grief, hurt and isolation on all of us, and stories provide a language and medium of catharsis and healing for everyone who wishes to join our sessions. Register on eventbrite.</td>
         <td>Held on the last thursday of each month, <br>7pm - 8.30pm</td>
         <td>Zoom</td>
+	   </tr>
+	 </tbody>
+  </table>
+</div>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -114,7 +127,7 @@ Collective calamities like the climate crisis - among others - often inflict wou
         <td style="width: 20%;">Details on Eventbrite</td> 
         <td style="width: 20%;"></td>
       </tr>
-  </tbody>
+   </tbody>
   </table>
 </div>
 
