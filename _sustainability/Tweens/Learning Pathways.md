@@ -26,7 +26,7 @@ third_nav_title: Tweens
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3><b>Green and You</b></h3>
+<h3><b>All Things Green</b></h3>
 Taking care of the environment starts with YOU!
 
 <div class="horizontal-scroll margin--bottom--lg">
@@ -38,14 +38,14 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/tweens/content" target="_blank"><b> Playlist:<br>Pollution Solution</b></a></td>
-        <td style="width: 40%;">Pollution seems inevitable in our modern cities – find out some things we can do as a solution!</td>
+        <td style="width: 20%;"><a href="/sustainability/tweens/content" target="_blank"><b> Playlist:<br>Eat, Sleep, Recycle</b></a></td>
+        <td style="width: 40%;">Check out these videos to find out how scientists and farmers have been trying to make farming more sustainable and kinder to Mother Earth.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="https://fishgame.cloudinstitute.org" target="_blank"><b> Learning Package:<br>The Fish Game | The Cloud Institute for Sustainable Education</b></a></td>
-        <td>Are you a sustainable fisherman? Find out if the fish in the ocean will run out before you finish this game!</td>
+        <td><a href="https://kids.nationalgeographic.com/games/action-adventure/article/recycle-roundup-new" target="_blank"><b> Learning Package:<br>Recycle Roundup | National Geographic Kids</b></a></td>
+        <td>Help clean up the park! Your job is to sort the stuff people throw away and put it in the proper bin. Is it recycling, compost, or trash?</td>
         <td></td>
         <td></td>
       </tr>
@@ -88,9 +88,9 @@ This is special edition in partnership with the National Library Singapore to le
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-go-safe-online-primary-school-edition-online-tickets-311632901397?aff=odcleoeventsincollection" target="_blank"><b>How to Go Safe Online</b></a></td>
-        <td style="width: 40%;">This programme is suitable for children aged 7 to 12 years old, and parents are welcome to attend with their children. Join us for this online session to learn about the types of cyber threats to look out for and learn how you can Go Safe Online by practising good cyber hygiene habits.</td>
-        <td style="width: 20%;">28 May 2022,<br>10am-11am</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/ancient-rome-and-career-readiness-with-bookorators-online-tickets-331621888997?aff=odcleoeventsincollection" target="_blank"><b>Ancient Rome and Career Readiness with BookOrators</b></a></td>
+        <td style="width: 40%;">Learn about some of the interesting careers that existed in Ancient Rome, before comparing these careers to some of the jobs that exist today. You will also get to take a few personality and career tests that may help you identify some future careers that could be a great fit for you!</td>
+        <td style="width: 20%;">25 June 2022,<br>10am-11am</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 			<tr>

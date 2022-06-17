@@ -51,68 +51,69 @@ Check out our **learning package** for more on sustainable fishing.
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#playlist-pollutionsolution">
-        <span>Playlist:<br>Pollution Solution</span>
+      <a href="#playlist-eatsleeprecycle">
+        <span>Playlist:<br>Eat, Sleep, Recycle</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-fishgame">
-        <span>Learning Package:<br>The Fish Game</span>
+      <a href="#lp-recycleroundup">
+        <span>Learning Package:<br>Recycle Roundup | National Geographic Kids</span>
       </a>
     </div>
   </div>
   </div>
 
 
-<h5 class="margin--bottom--lg" id="playlist-pollutionsolution"><b>Playlist: Pollution Solution</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-eatsleeprecycle"><b>Playlist: Eat, Sleep, Recycle</b></h5>
+We all need to eat food to survive and food comes from farms. However, farming can be unsustainable and harmful to the environment. Check out these videos to find out how scientists and farmers have been trying to make farming more sustainable and kinder to Mother Earth.
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="image-container" style="margin: auto;">
-			<a target="_blank" href="https://www.mewatch.sg/watch/Mind-Blown-E15-Clean-Singapore-253590"><img src="/images/sustainability/tweens/sus-tweens22q2-mindblown.png" alt="Mind Blown! S1 Clean Singapore" style="width: 100%;"></a>
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/xFqecEtdGZ0"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Mind Blown! S1 Clean Singapore (23 min)</b><br>
-Singapore is known to be a clean city but not without its littering problems. Check out this episode of <i>Mind Blown!</i> to find out more about how Singapore manages its plastic waste.</p>
-   <small>Source: Mind Blown! S1 Clean Singapore – MeWatch (date unknown). MeWatch. Retrieved 2022, March 15.</small>
+    <p><b class="has-text-indigo">Can we create the “perfect” farm? (7 mins)</b><br>
+Did you spot a leafy green in your dinner last night? Farms are responsible for a huge part of our diets, but they have not always been sustainable. Watch this video to learn how scientists and farmers have been trying to improve farms for us and the future. </p>
+		<small>Source: Can we create the “perfect” farm? – YouTube (2020, October 12). <i>TED-Ed</i>. Retrieved 2022, April 19.</small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="image-container" style="margin: auto;">
-			<a target="_blank" href="https://www.mewatch.sg/watch/Mind-Blown-E14-Plastic-252536"><img src="/images/sustainability/tweens/sus-tweens22q2-mindblown.png" alt="Mind Blown! S1 Clean Singapore" style="width: 100%;"></a>
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/kal-kCcW3iI"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo">Mind Blown! S1 Plastic (23 min)</b><br>
-Ever wonder how we can use plastic in more sustainable way? This video explores the different ways in which plastic waste damages our planet.</p>
-    <small>Source: Mind Blown! S1 Plastic – MeWatch (date unknown). MeWatch. Retrieved 2022, March 15.</small>
+<p><b class="has-text-indigo">Meet a Hydroponic Farmer (5 mins)</b><br>
+Ever wondered how hydroponics works? In this video by KiwiCo, follow 11-year-old host Guari as she finds out more about hydroponics and its creative inventions. </p>
+    <small>Source: Meet a Hydroponic Farmer | Small Meets Big | KiwiCo – YouTube (2021, June 21). <i>KiwiCo</i>. Retrieved 2022, April 19.</small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/i9qMbTba6qk"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/LWQm9KXd9IY"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Noise Pollution Is a Bigger Deal Than You’d Think (10 min)</b><br>
-Have you ever been shocked awake by the sound of a car horn? Check out this video by SciShow to learn more about the effects of noise pollution on animals and the strides towards a quieter world.</p>
-    <small>Source: Noise Pollution Is a Bigger Deal Than You’d Think – YouTube (2020, February 6). SciShow. Retrieved 2022, March 9.</small>
+    <p><b class="has-text-indigo">We visit a farm in Singapore! (4 mins)</b><br>
+Have you ever been to a farm in Singapore?  Check out this video by DBS, where you can learn all about farming and where our vegetables come from!</p>
+    <small>Source: We visit a farm in Singapore! | In The Moment: Episode 13 – YouTube (2020, September 25). <i>SciShow</i>. Retrieved 2022, April 19.</small>
   </div>
 </div>
 <br>
 
 
-<h3 class="margin--bottom--lg" id="lp-fishgame"><b>Learning Packages</b></h3>
+<h3 class="margin--bottom--lg" id="lp-recycleroundup"><b>Learning Packages</b></h3>
 Articles/resources that show us interesting ways to live sustainably.
 
-<h5><b>The Fish Game | The Cloud Institute for Sustainable Education</b></h5>
-Are you a sustainable fisherman? Find out if the fish in the ocean will run out before you finish <a target="_blank" href="https://fishgame.cloudinstitute.org">this game</a>!
+<h5><b>Recycle Roundup | National Geographic Kids</b></h5>
+Help clean up the park! Your job is to sort the stuff people throw away and put it in the proper bin. Is it recycling, compost, or trash? Check out <a target="_blank" href="https://kids.nationalgeographic.com/games/action-adventure/article/recycle-roundup-new">this game</a> from National Geographic Kids!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

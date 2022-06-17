@@ -71,11 +71,17 @@ Check out the schedule below, and look out for more programmes to be introduced 
     </div>
   </div>
   <div class="col is-one-third">
+    <div class="clickbox is-generic">
+      <a href="#wellness">
+        <span>Wellness</span>
+      </a>
+    </div>
   </div>
 </div>
 
 <br>
-	
+
+<!-- Digital  -->
 <table>
 <table width="100%" cellspacing="15" cellpadding="15" border="0">
 	
@@ -88,8 +94,8 @@ Check out the schedule below, and look out for more programmes to be introduced 
 	
 <strong><h5 id="Digital">Digital</h5></strong>
 <hr>
-
-  <tbody><tr><td><strong><a href="https://www.eventbrite.com/e/visualising-data-future-of-work-registration-240784933217?aff=ebcollection&keep_tld=1" target="_blank">Visualizing Data | Future of Work</a></strong></td>
+<tbody>
+<tr><td><strong><a href="https://www.eventbrite.com/e/visualising-data-future-of-work-registration-240784933217?aff=ebcollection&keep_tld=1" target="_blank">Visualizing Data | Future of Work</a></strong></td>
   <td>Ever wondered how to present complex data in a simple manner? Join us to learn how you can present your data effectively using various visual techniques through data visualisation and make data-driven decisions at work.
 <br>
 <br>
@@ -107,13 +113,10 @@ This programme is suitable for Adults. <br>
   
 
 </tr>
-
-
-<!-- End your code here -->
-  
 </tbody></table>
 <br>
 
+<!-- Careers  -->
 <table>
 <table width="100%" cellspacing="15" cellpadding="15" border="0">
 	
@@ -127,12 +130,10 @@ This programme is suitable for Adults. <br>
 <strong><h5 id="Careers">Careers</h5></strong>
 <hr>
 <br>
-
-	
-<!-- End your code here -->
   
 <br><br>
 
+<!-- Sustainability  -->
 <table>
 <table width="100%" cellspacing="15" cellpadding="15" border="0">
 	
@@ -148,13 +149,37 @@ This programme is suitable for Adults. <br>
 
 <tbody>
 <tr>
-<td><strong><a href="https://www.eventbrite.com/c/learnx-sustainability-programmes-ccbqpkrh--v086BCMovXQG/" target="_blank">Home farming with DIY hydroponic kit</a></strong></td>
-<td>Learn the basics of hydroponic and how you can build one at home.<br><br>
-This course will teach you about hydroponics and is brought to you in partnership with Nanyang Polytechnic.<br><br>
-Registration opens one month before the session.</td>
-<td>26 Mar 2022, 2pm - 4pm</td>
-<td>Jurong Regional Library</td>
+<td><strong><a href="https://www.eventbrite.sg/e/repurposing-soya-waste-okara-into-edible-food-tickets-347002221987/" target="_blank">Repurposing Soya Waste (Okara) into edible food</a></strong></td>
+<td>This is a hands-on program designed to repurpose food waste instead of throwing them away. In this workshop, participants will learn how to make homemade soy milk from scratch. Upon making their delicious soy milk, they will learn how to transform the waste (okara) generated into nugget and cookie.  Learn techniques to transform household food waste into dishes while discovering the new taste of okara!  <br><br>
+
+About the speaker: Lina Tan is a senior lecturer with School of Applied Science, Nanyang Polytechnic. She provides academic training to students majoring in Food Science & Nutrition programme. Besides teaching, she also provides technical guidance and training to clients in food industry and is a coach who prepares food science students for local and international product innovation competitions. <br><br>
+
+This programme is brought to you in collaboration with Nanyang Polytechnic.<br><br></td>
+<td>25 Jun 2022, 2pm - 4.30pm</td>
+<td>Tampines Regional Library, Cooking Studio</td>
 </tr>
+</tbody></table>
+
+<!-- Wellness  -->
+<table>
+<table width="100%" cellspacing="15" cellpadding="15" border="0">
 	
-<!-- End your code here -->
+ <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 55%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 15%;">
+    </colgroup>
+	
+<strong><h5 id="wellness">Wellness</h5></strong>
+<hr>
+
+<tbody>	
+<tr>
+<td><strong><a href="https://www.eventbrite.sg/e/estate-planning-for-you-ahead-of-your-time-tickets-359067208687?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb/" target="_blank">Estate Planning For You | Ahead of Your Time </a></strong></td>
+<td>What is estate planning and how do you go about it? In this talk, you will learn about the objectives, importance and considerations of estate planning, as well as relevant instruments that you can put in place such as making a Will, LPA, AMD, etc.<br><br>
+This programme is organised in collaboration with Nanyang Polytechnic.<br><br></td>
+<td>20 Jul 2022, 7pm - 8.30pm</td>
+<td>Zoom</td>
+</tr>
 </tbody></table>
