@@ -29,7 +29,7 @@ To shed some light on this conundrum, this learning pathway will explore what dr
 				<td><a href="/sustainability/adults-seniors/content"><b>The Renewable Energy Learning Package</b></a></td>
         <td>Dive deeper into discussions around renewable energy with our list of recommended resources.</td>
         <td></td>
-        <td> </td>
+        <td></td>
 </tr>
 </tbody>
 </table>
@@ -50,12 +50,12 @@ To shed some light on this conundrum, this learning pathway will explore what dr
         <td style="width: 20%;"> 16 Aug 2022,<br>7.30pm – 8.30pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library</td>
       </tr>
-<tr>
-<td><b>Green Market</b></td>
-        <td>In mid-September, the Green Market returns to bring you a new slate of programmes and activities that promote sustainable living and showcases the ways you can act for the environment. Get inspired by the speakers and practitioners as they share their experiences and the initiatives to save the planet. Meet green groups that champion various environmental causes and discover an array of sustainable products developed and presented to you by social enterprises.  Registration details will be out by August 2022 on eventbrite. </td>
+      <tr>
+      <td><b>Green Market</b></td>
+       <td>In mid-September, the Green Market returns to bring you a new slate of programmes and activities that promote sustainable living and showcases the ways you can act for the environment. Get inspired by the speakers and practitioners as they share their experiences and the initiatives to save the planet. Meet green groups that champion various environmental causes and discover an array of sustainable products developed and presented to you by social enterprises.  Registration details will be out by August 2022 on eventbrite. </td>
         <td>Mid September 2022, <br>11.00am- 7.00pm</td>
         <td>Chua Chu Kang Public Library and Zoom</td>
-		  	</tr>
+		  </tr>
      </tbody>
   </table>
 </div>
@@ -69,28 +69,27 @@ To shed some light on this conundrum, this learning pathway will explore what dr
     </thead>
     <tbody>
       <tr> 
-				<td><b>Old Fiber, New Paper</b></a>
-        <td> Learn how to make recompossible paper from plant waste in this workshop brought to you in partnership with Nanyang Polytechnic! Participants get to bring back the paper and craft they make. 
-	</td>
+				<td><b>Old Fiber, New Paper</b>
+        <td> Learn how to make recompossible paper from plant waste in this workshop brought to you in partnership with Nanyang Polytechnic! Participants get to bring back the paper and craft they make. </td>
         <td>24 Jul 2022, <br>2pm-4.30pm</td>
         <td>Tampines Regional Library, Culinary Studio </td>
       </tr>
 			<tr>
-				<td><b>Urban Farming Workshop For Seniors | Time of Your Life </b></a>
-<td>Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. This program is intended for seniors (ages 50 and above). <br><br>
+				<td><b>Urban Farming Workshop For Seniors | Time of Your Life </b>
+        <td>Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. This program is intended for seniors (ages 50 and above). <br><br>
 This program will be conducted workshop style and covers the journey of food, principles of urban agriculture and science of hydroponic growing.
 </td>
         <td>12 Aug 2022, <br>4pm - 5pm</td>
         <td>Choa Chu Kang Public Library</td>
       </tr>
-<tr>
-	<td><b>Reuse, Repurpose & Recoup!</b></a></td>
+      <tr>
+				<td><b>Reuse, Repurpose & Recoup!</b></td>
         <td>Much energy is used to produce fashion wear and during incineration when they are thrown away. Learning how to upcycle your old fashion pieces can help stretch your dollar and save a ton of energy! <br> <br> Join this demo workshop led by a fashion designer to pick up ideas on fashion upcycling and learn how to identify fashion brands that are sustainable!
 </td>
         <td>20 Aug 202, <br>2pm - 3pm</td>
         <td>Geylang Public Library, Merpati Hall</td>
 				</tr>
-				<td><b>Home Farming with DIY Hydroponic Kit for Seniors | Time of Your Life</td>
+			<td><b>Home Farming with DIY Hydroponic Kit for Seniors | Time of Your Life</b></td>
         <td>Learn about the basics of hydroponics and how you can build one at home. This workshop is part of the Sustainability Series for Seniors in partnership with Nanyang Polytechnic.
  <br><br>
 Suitable for aged 50 and above.</td>
@@ -117,7 +116,7 @@ Collective calamities like the climate crisis - among others - often inflict wou
     </thead>
     <tbody>
       <tr>
-				<td><b>Greener Screens: Building A Sustainable Tech Toolkit </b></a></td>
+				<td><b>Greener Screens: Building A Sustainable Tech Toolkit </b></td>
         <td>Greener Screens is a workshop where Ashley Hi, Tech Lead of Feelers, will share knowledge and resources on greener tech habits. The workshop will cover actionable design steps for greater energy efficiency, existing digital tools that minimise energy consumption, as well as Feelers’ own eco experiments. <br><br> Participants will be led through creative exercises to build a sustainable tech toolkit that is customised to the needs of their own business or personal practice.</td>
         <td>3 Sept 2022, <br>1pm - 3pm</td>
         <td>library@harbourfront</td>
