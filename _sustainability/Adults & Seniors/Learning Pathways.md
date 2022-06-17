@@ -69,13 +69,13 @@ To shed some light on this conundrum, this learning pathway will explore what dr
     </thead>
     <tbody>
       <tr> 
-				<td style="width: 20%;"><b>Old Fiber, New Paper</b>
+				<td style="width: 20%;"><b>Old Fiber, New Paper</b></td>
         <td style="width: 40%;"> Learn how to make recompossible paper from plant waste in this workshop brought to you in partnership with Nanyang Polytechnic! Participants get to bring back the paper and craft they make. </td>
         <td style="width: 20%;">24 Jul 2022, <br>2pm-4.30pm</td>
         <td style="width: 20%;">Tampines Regional Library, Culinary Studio </td>
       </tr>
 			<tr>
-				<td style="width: 20%;"><b>Urban Farming Workshop For Seniors | Time of Your Life </b>
+				<td style="width: 20%;"><b>Urban Farming Workshop For Seniors | Time of Your Life </b></td>
         <td style="width: 40%;">Join Mark, an urban farmer from VertiVegies as he takes you on a journey into the dynamic world of modern agriculture. This program is intended for seniors (ages 50 and above). <br><br>
 This program will be conducted workshop style and covers the journey of food, principles of urban agriculture and science of hydroponic growing.</td>
         <td style="width: 20%;">12 Aug 2022, <br>4pm - 5pm</td>
