@@ -121,17 +121,23 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>Woodlands Regional Library </td>
       </tr>
 			  <tr>	
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-science-explorers-fun-with-popsicle-sticks-tickets-323677908337?aff=ebdsoporgprofile"><b> [Budding Scientists] Science Explorers! Fun with Popsicle Sticks</b></a></td>
-        <td> Potential energy is the tension created between two objects when they are compressed or stretched. Like our emotions, if we bottle them up, it can lead to a rather unfriendly explosion. Let’s learn how to handle potential energy with care so we can explode in fun at our own time as well as learn to build a robotic arm with popsicle sticks that extends to grab some little toys home! This programme is for children aged 4-6 years old.
+<td><a target="_blank" href="https://www.eventbrite.sg/e/family-fun-time-at-the-library-early-read-tickets-355021186927?aff=ebdsoporgprofile"><b> Family Fun Time at the Library | Early READ </b></a></td>
+        <td> FFT is an interactive parent-and-child programme that includes fun, educational hands-on activity and suitable for children of 3 to 6 years old.
+
+Parents are engaged with practical knowledge and tips on the importance of healthy living as a family and what they can do to raise healthy children.
+
+The session covers specific nutrition health tips, delivered via an engaging format of a storyline with a Captain Happy character facilitating the programme, accompanied with a hands-on activity kit to encourage family bonding and the adoption of healthy habits i.e. Tips for Kids to Eat Well.
+
+Each registration entitles a parent-and-a child to receive 1 hands-on activity kit from Health Promotion Board.
 </td>
-        <td>June 2 2022<br>11.00am – 12.30pm<br></td>
-        <td>Jurong Regional Library</td>
+        <td>July 16 2022<br>2.00pm – 3.30pm<br></td>
+        <td>Tampines Regional Library</td>
       </tr>
 				<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/think-like-a-coder-session-2-powerful-patterns-tickets-322963270837?aff=ebdsoporgprofile"><b> Think Like a Coder: Session 2: Powerful Patterns </b></a></td>
-        <td> Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children (age 3-6). These are for absolute beginners.Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.</td>
-        <td>June 4 2022<br>2.00pm – 2.30pm<br></td>
-        <td>Zoom  </td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-lets-explore-climate-change-early-read-tickets-355028639217?aff=ebdsoporgprofile"><b> \[Caring for the Environment\] Let's Explore Climate Change! | Early READ</b></a></td>
+        <td> This programme introduces children to the concept of climate change through interactive activities and hands-on learning. Children will learn the importance of climate change including its affects on polar bears.</td>
+        <td>July 17 2022<br>10.30am – 11.30am<br></td>
+        <td>Queenstown Public Library  </td>
       </tr>
 			<tr>
 			 <td><a target="_blank" href="https://www.eventbrite.sg/e/storytime-with-the-singapore-police-force-for-4-6-years-old-tickets-331615590157?aff=ebdsoporgprofile"><b>Storytime with the Singapore Police Force (for 4-6 years old)</b></a></td>
