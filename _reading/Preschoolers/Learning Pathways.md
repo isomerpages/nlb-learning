@@ -115,7 +115,7 @@ This programme is intended for parents with babies up to 12 months.</td>
     </thead>
     <tbody>
 			 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-defying-gravity-early-read-tickets-355027676337?aff=ebdsoporgprofile"><b>\[Budding Engineers\] Defying Gravity | Early READ</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-defying-gravity-early-read-tickets-355027676337?aff=ebdsoporgprofile"><b>[Budding Engineers] Defying Gravity | Early READ</b></a></td>
         <td>Did you know that when you jump in space, you will float away instead of landing back down on the ground? What is this force that keeps us rooted to the ground on Earth? It is gravity! Let's explore gravity and find out how important it is in our daily lives. We'll also build our own parachutes and see how gravity makes it work. Float on by and join us for some fun activities, budding scientists!</td>
        <td>July 9 2022<br>11.00am –12.00pm<br></td>
         <td>Woodlands Regional Library </td>
