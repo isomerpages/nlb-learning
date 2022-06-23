@@ -64,21 +64,34 @@ Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with par
 <tr>
 <td><b> Tamil Storytelling Sessions</b></a></td>
         <td>Immerse in fun-filled Tamil stories at the library. These 30-min storytelling sessions will feature folktales, animal stories, moral stories and much more. Choose your preferred location and engage with our lively storytellers. 
-<br><br> Sila buat pendaftaran apabila program ini diumumkan nanti.</td>
+<br><br>Registration will open closer to the date.</td>
 
-<td> Every 4th Saturday of the month
-<br><br>23 April 2022,
-<br>28 May 2022,
-<br>25 June 2022, 
-<br><br>11.30am – 12.30pm</td>
-        <td>23 April 2022: <br>Zoom
-<br><br>
-28 May 2022: 
-<br>Yishun Public Library
-<br><br>
-25 June 2022: 
-<br>Yishun Public Library
+<td>Every 4th Thursday of the month
+<br>7pm – 7:30pm
+<br><br> Every 3rd Wednesday of the month
+<br>7pm – 7:30pm
+<br><br>Every 4th Sunday of the month
+<br>3pm to 3.30pm
+<br><br>Every 2nd Sunday of the month (starts from 14 August 2022)
+<br>3pm to 3.30pm
+<br><br>Every 2nd Friday of the month
+<br>7pm to 7:30pm
 </td>
+
+<td>WRL, Children’s Section Level 4
+<br><br>
+<br><br>TRL, Programme Zone Level 6
+<br><br>
+<br><br>JRL, Programme Zone Level 1
+<br><br>
+<br><br>CCKPL, Programme Zone Level 1 & 2
+<br><br>
+<br><br>SKPL, Programme Zone Level 4
+<br><br>
+
+</td>
+
+	
       </tr>
 	<tr>
 <td><a target="_blank" href="https://go.gov.sg/chinese-folktales"><b>【线上亲子故事会】
