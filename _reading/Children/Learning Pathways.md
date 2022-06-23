@@ -91,23 +91,7 @@ Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with par
 <br><br>
 
 </td>
-
-	
       </tr>
-	<tr>
-<td><a target="_blank" href="https://go.gov.sg/chinese-folktales"><b>【线上亲子故事会】
- </b></a></td>
-        <td> 民间故事流传久远，引人入胜，蕴含丰富的历史文化和生活智慧。新加坡说故事人瑞燕老师将带来精彩的民间故事，欢迎家长陪同4至8岁的小朋友参加线上故事会，与孩子共享欢乐的周末时光！家长报名即可，无需同时也为孩子报名。
-<br><br> Registration will open closer to the date.</td>
-        <td> Every 3rd Sat of the month 
-<br><br>16 April 2022,
-<br>18 Jun 2022, 
-<br><br> 4pm - 4:30pm
-
-</td>
-        <td>Zoom</td>
-      </tr>
-
 	
     </tbody>
   </table>
@@ -123,7 +107,7 @@ Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with par
     </thead>
     <tbody>
 <tr>
-      <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/cc/programmes-for-children-66139?aff=odclrlmctfte"><b>Code With Your Child! | Jurong Regional Library</b></a></td>
+      <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/the-world-of-plants-i-budding-scientists-tickets-355028799697?aff=ebdssbdestsearch"><b>Code With Your Child! | Jurong Regional Library</b></a></td>
         <td style="width: 40%;">Come learn coding in a fun and interactive manner using a screen-less coding robot set. Kids can learn coding concepts and develop problem solving skills. 
 					<br><br>This programme is suitable for parents and children aged 7 to 9.
 <br><br>Registration will open closer to the date.
@@ -132,7 +116,7 @@ Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with par
         <td style="width: 20%;">Jurong Regional Library </td>
 
 </tr><tr>
-<td style="w<td style="><a target="_blank" href="https://www.eventbrite.sg/cc/programmes-for-children-66139?aff=odclrlmctfte"><b> Easy Coffee Art | library@harbourfront</b></a></td>
+<td style="w<td style="><a target="_blank" href="https://www.eventbrite.sg/cc/programmes-for-children-66139?aff=odclrlmctfte"><b>The World of Plants I Budding Scientists </b></a></td>
         <td style="width: 40%;"> Join our Easy Coffee Art workshop at library@harbourfront and have an aromatic day doing coffee painting! Enjoy family bonding and fun while painting.<br><br> This programme is suitable for parents and children aged 7 to 12.<br><br> Registration will open closer to the date.</td>
         <td style="width: 20%;"> 4 &amp; 25 Jun 2022,<br>2:30pm – 3:30pm</td>
 			<td style="width: 20%;"> library@harbourfront</td>
