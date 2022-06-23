@@ -89,25 +89,26 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
      <tr>			
-<td><a href="https://www.eventbrite.sg/e/adventure-with-smiley-tickets-328526530697?aff=ebdsoporgprofile" target="_blank"><b> Adventure with Smiley!</b></a></td>
-        <td>An interactive and engaging financial literacy program curated specially for children aged 4-7! Smiley will introduce kids to value of money, savings, banking and how they can take little steps towards sustainability through short animated scenes. Printable worksheet and currencies will be available for them to continue their learnings with parents at home. </td>
-       <td>June 1 2022<br>11.00am –12.00pm<br></td>
-        <td>Woodlands Regional Library </td>
+<td><a href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-tickets-323723233907?aff=ebdsoporgprofile" target="_blank"><b> Toddler Songs & Rhymes | Early READ </b></a></td>
+        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
+       <td>July 2 2022<br>11.00am –11.20am<br></td>
+        <td>Zoom </td>
       </tr>
 			<tr>			
-<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-329420474507?aff=ebdsoporgprofile" target="_blank"><b>Baby Songs & Rhymes | Early READ
+<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-355032982207?aff=ebdsoporgprofile" target="_blank"><b>Jiggle, Read & Rhyme | Early READ
  </b></a></td>
-        <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home.
+        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! For toddlers aged 1-3.
 <br>
-This programme is intended for parents with babies up to 12 months.</td>
-        <td>June 1 2022<br>2.30pm-3.00pm<br></td>
-        <td>Zoom</td>
+This programme is intended for parents with toddlers aged 1-3.</td>
+        <td>July 2 2022<br>2.30pm-2.30pm<br></td>
+        <td>Jurong West Public Library</td>
       </tr>		
 <tr>			
-<td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-334371513197?aff=ebdsoporgprofile" target="_blank"><b> Jiggle Read & Rhyme | Early READ</b></a></td>
-        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! For toddlers aged 1-3.</td>
-        <td>June 2 2022<br>4.00pm– 4.30am<br></td>
-        <td>Bedok Public Library</td>
+<td><a href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-345127986097?aff=ebdsoporgprofile" target="_blank"><b> Baby Songs & Rhymes | Early READ</b></a></td>
+        <td> Songs and rhymes play an important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. <br>
+This programme is intended for parents with babies up to 12 months.</td>
+        <td>July 6 2022<br>2.30pm– 3.00pm<br></td>
+        <td>Zoom</td>
       </tr>
 <tr>			
 <td><a href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-331034351657?aff=ebdsoporgprofile" target="_blank"><b> Jiggle Read & Rhyme | Early READ</b></a></td>
