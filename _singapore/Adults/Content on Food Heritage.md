@@ -638,8 +638,7 @@ href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">
 		<td>
 <h4>Did you know...</h4>
 <ul>
-<li> Ketupat is rice wrapped with young coconut leaves and steamed. It is often found in Singapore as a celebratory food, served with a variety of dishes. Variations of ketupat can be found in Southeast Asia.
-</li>
+<li> Ketupat is rice grains placed in a parcel made traditionally of weaved young coconut leaves and then boiled in water to cook into a compact block of rice. It is often found in Singapore as a celebratory food, served with a variety of dishes. Variations of ketupat can be found in Southeast Asia. </li>
 </ul>
 </td>
 </tr></tbody></table>
