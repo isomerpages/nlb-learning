@@ -77,7 +77,7 @@ Make reading a fun activity while fostering that special bond between you and yo
 			<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-355032982207?aff=ebdsoporgprofile"><b>Jiggle, Read & Rhyme | Early READ
  </b></a></td>
-        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE! For toddlers aged 1-3.
+        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE!
 <br>
 This programme is intended for parents with toddlers aged 1-3.</td>
         <td>July 2 2022<br>2.00pm-2.30pm<br></td>
