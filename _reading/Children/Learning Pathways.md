@@ -80,7 +80,7 @@ Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with par
 </td>
 
 <td>WRL, Children’s Section Level 4
-<br><br>
+<br>
 <br><br>TRL, Programme Zone Level 6
 <br><br>
 <br><br>JRL, Programme Zone Level 1
