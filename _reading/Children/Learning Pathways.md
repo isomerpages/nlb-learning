@@ -62,8 +62,8 @@ Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with par
 
       </tr>
 <tr>
-<td><a target="_blank" href="https://go.gov.sg/lcsessions"><b>Kelab Membaca Wira Pintar</b></a></td>
-        <td> Sebuah kelab membaca interaktif untuk kanak-kanak berumur 7-9 tahun yang diisikan dengan sesi bercerita, kegiatan kebahasaan dan menghasilkan kraf tangan. 
+<td><b> Tamil Storytelling Sessions</b></a></td>
+        <td>Immerse in fun-filled Tamil stories at the library. These 30-min storytelling sessions will feature folktales, animal stories, moral stories and much more. Choose your preferred location and engage with our lively storytellers. 
 <br><br> Sila buat pendaftaran apabila program ini diumumkan nanti.</td>
 
 <td> Every 4th Saturday of the month
