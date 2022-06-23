@@ -53,13 +53,12 @@ Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with par
 <tr>
 <td><a target="_blank" href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited"><b>Camy’s Animated Book Launch </b></a></td>
         <td>Learn how lovable Monsters United mascot Camy got her wand! Join our exclusive fantasy-themed storytelling and craft sessions happening at various public libraries in the month of September. More details will be made available
-<a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited" target="\_blank">here</a> closer to the date.
-					
+<a target="_blank" href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here</a> closer to the date.				
 					<br><br>This programme is suitable for parents and children aged 7 to 10.
 <br><br> Registration will open closer to the date.
 </td>
-      <td>18 May 2022, <br>5:00pm – 5:30pm</td>
-        <td>Choa Chu Kang Public Library</td>
+      <td>September 2022 <br></td>
+        <td>Multiple Public Libraries</td>
 
       </tr>
 <tr>
