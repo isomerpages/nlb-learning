@@ -127,7 +127,7 @@ Parents are engaged with practical knowledge and tips on the importance of healt
 The session covers specific nutrition health tips, delivered via an engaging format of a storyline with a Captain Happy character facilitating the programme, accompanied with a hands-on activity kit to encourage family bonding and the adoption of healthy habits i.e. Tips for Kids to Eat Well.
 Each registration entitles a parent-and-a child to receive 1 hands-on activity kit from Health Promotion Board.
 </td>
-        <td>July 16 2022<br>2.00pm – 3.30pm<br></td>
+        <td>July 16 2022<br>2.00pm-3.30pm<br></td>
         <td>Tampines Regional Library</td>
       </tr>
 				<tr>			
