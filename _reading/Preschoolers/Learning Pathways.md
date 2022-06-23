@@ -115,10 +115,10 @@ This programme is intended for parents with babies up to 12 months.</td>
     </thead>
     <tbody>
 			 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-what-glows-in-the-deep-dark-sea-registration-337112230757?aff=ebdsoporgprofile"><b> [Budding Scientists] What Glows in the Deep Dark Sea?</b></a></td>
-        <td>Are you ready to meet some strange but fascinating deep-sea creatures? Join us as we learn about the different creatures that exist in deep oceans today. Discover why and how these animals glow in the deep sea through interactive activities and hands-on learning. Let's uncover the science behind bioluminescence together! This is a parent-child programme and is suitable for children aged 4-6 years old.</td>
-       <td>June 1 2022<br>3.00pm –4.00pm<br></td>
-        <td>Bedok Public Library </td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-defying-gravity-early-read-tickets-355027676337?aff=ebdsoporgprofile"><b>\[Budding Engineers\] Defying Gravity | Early READ</b></a></td>
+        <td>Did you know that when you jump in space, you will float away instead of landing back down on the ground? What is this force that keeps us rooted to the ground on Earth? It is gravity! Let's explore gravity and find out how important it is in our daily lives. We'll also build our own parachutes and see how gravity makes it work. Float on by and join us for some fun activities, budding scientists!</td>
+       <td>July 9 2022<br>11.00am –12.00pm<br></td>
+        <td>Woodlands Regional Library </td>
       </tr>
 			  <tr>	
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-science-explorers-fun-with-popsicle-sticks-tickets-323677908337?aff=ebdsoporgprofile"><b> [Budding Scientists] Science Explorers! Fun with Popsicle Sticks</b></a></td>
