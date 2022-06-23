@@ -107,19 +107,16 @@ Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with par
     </thead>
     <tbody>
 <tr>
-      <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/the-world-of-plants-i-budding-scientists-tickets-355028799697?aff=ebdssbdestsearch"><b>Code With Your Child! | Jurong Regional Library</b></a></td>
-        <td style="width: 40%;">Come learn coding in a fun and interactive manner using a screen-less coding robot set. Kids can learn coding concepts and develop problem solving skills. 
-					<br><br>This programme is suitable for parents and children aged 7 to 9.
-<br><br>Registration will open closer to the date.
-</td>
-<td style="width: 20%;"> 18 Jun 2022, <br>2:30pm - 4pm</td>
-        <td style="width: 20%;">Jurong Regional Library </td>
-
-</tr><tr>
 <td style="w<td style="><a target="_blank" href="https://www.eventbrite.sg/cc/programmes-for-children-66139?aff=odclrlmctfte"><b>The World of Plants I Budding Scientists </b></a></td>
 					<td style="width: 40%;">Learn about basic plant biology, lifecycles, systems and plant diversity!<br><br> This programme is suitable for children aged 7 to 12.</td>
         <td style="width: 20%;"> 16 Jul 2022,<br>3:30pm – 4:30pm</td>
 			<td style="width: 20%;"> Bishan Public Library</td>
+
+</tr><tr>
+<td style="w<td style="><a target="_blank" href="https://www.eventbrite.sg/e/climate-change-a-special-storytelling-session-earth-heroes-tickets-352492032157"><b>Climate Change: A Special Storytelling Session | Earth Heroes</b></a></td>
+					<td style="width: 40%;">Learn about climate change through storytelling!<br><br> This programme is suitable for children aged 7 to 9.</td>
+        <td style="width: 20%;"> 17 Jul 2022,<br>12:30pm – 1:00pm</td>
+			<td style="width: 20%;"> Jurong Regional Library</td>
       </tr>
   </tbody>
   </table>
