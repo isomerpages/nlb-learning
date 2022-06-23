@@ -62,7 +62,8 @@ Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with par
 
       </tr>
 <tr>
-<td><b> Tamil Storytelling Sessions</b></a></td>
+<td><b> Tamil Storytelling Sessions</b></td>
+	
         <td>Immerse in fun-filled Tamil stories at the library. These 30-min storytelling sessions will feature folktales, animal stories, moral stories and much more. Choose your preferred location and engage with our lively storytellers. 
 <br><br>Registration will open closer to the date.</td>
 
