@@ -84,7 +84,7 @@ This programme is intended for parents with toddlers aged 1-3.</td>
         <td>Jurong West Public Library</td>
       </tr>		
 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-345127986097?aff=ebdsoporgprofile"><b> Baby Songs &amp; Rhymes | Early READ</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-345127986097?aff=ebdsoporgprofile"><b> Baby Songs & Rhymes | Early READ</b></a></td>
         <td> Songs and rhymes play an important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. <br>
 This programme is intended for parents with babies up to 12 months.</td>
         <td>July 6 2022<br>2.30pm– 3.00pm<br></td>
