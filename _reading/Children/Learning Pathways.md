@@ -19,13 +19,13 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     </thead>
     <tbody>
 <tr>
-        <td style="width: 20%;"><a target="_blank" href="/reading/children/content"><b>Playlist: Reading Fun!</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/reading/children/content"><b>Playlist: Books Galore!</b></a></td>
         <td style="width: 40%;">Create fun reading experiences at home with these bite-sized resources for your child to discover the joy of reading.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>      
 <tr>
-        <td><a href="/reading/children/content"><b>Learning Package: Draw and Tell!</b></a></td>
+        <td><a href="/reading/children/content"><b>Learning Package: How to Make a Book!</b></a></td>
         <td>Help your child relate to a book through a short read and a story-based craft. </td>
 			</tr>
 		</tbody>
@@ -41,17 +41,21 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/d/online/%23tellstory7/"><b>#TellStory7 Award Edition</b></a></td>
-        <td style="width: 40%;"> Season 7 of #TellStory is back! Students from various groups will represent their schools and compete for several drama/acting awards! Travel with our youths through their dramatic interpretations of both classic and (some tummy tickling) original scripts devised and written by the students! 
-<br><br> This programme is suitable for parents, children and teens aged 7 to 17. 
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/hooked-on-reading-tickets-355029551947?aff=ebdssbdestsearch/"><b>Hooked on Reading | Parents Reading Talk</b></a></td>
+        <td style="width: 40%;">
+Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with parents and teachers the impact reading has on children’s learning and language acquisition, the importance of fun for the engagement of children in learning, and ways to leverage on technology to enhance children’s reading experience. Jointly brought to you by the National Library Board and the Society for Reading & Literacy, this talk will also feature a panel discussion where parents and teachers can engage the speakers to delve deeper into these topics.
+<br><br> This programme is suitable for parents.
 <br><br>Registration is required.
 </td>
-        <td style="width: 20%;">2 &amp; 9 April 2022,<br>1:00pm – 5:00pm</td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;">16 July 2022,<br>10:30am – 1:00pm</td>
+        <td style="width: 20%;">The Pod, National Library Building</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.com/d/singapore--singapore/%23storytastic/"><b> Sensory Storytastic </b></a></td>
-        <td>Join our librarians for a fun and exciting parent-child multi-sensory storytelling session as they bring you into a world of fascinating stories and interesting facts.<br><br>This programme is suitable for parents and children aged 7 to 10.
+<td><a target="_blank" href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited"><b>Camy’s Animated Book Launch </b></a></td>
+        <td>Learn how lovable Monsters United mascot Camy got her wand! Join our exclusive fantasy-themed storytelling and craft sessions happening at various public libraries in the month of September. More details will be made available
+<a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited" target="\_blank">here</a> closer to the date.
+					
+					<br><br>This programme is suitable for parents and children aged 7 to 10.
 <br><br> Registration will open closer to the date.
 </td>
       <td>18 May 2022, <br>5:00pm – 5:30pm</td>
