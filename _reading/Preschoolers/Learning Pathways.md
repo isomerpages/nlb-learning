@@ -123,18 +123,15 @@ This programme is intended for parents with babies up to 12 months.</td>
 			  <tr>	
 <td><a target="_blank" href="https://www.eventbrite.sg/e/family-fun-time-at-the-library-early-read-tickets-355021186927?aff=ebdsoporgprofile"><b> Family Fun Time at the Library | Early READ </b></a></td>
         <td> FFT is an interactive parent-and-child programme that includes fun, educational hands-on activity and suitable for children of 3 to 6 years old.
-
 Parents are engaged with practical knowledge and tips on the importance of healthy living as a family and what they can do to raise healthy children.
-
 The session covers specific nutrition health tips, delivered via an engaging format of a storyline with a Captain Happy character facilitating the programme, accompanied with a hands-on activity kit to encourage family bonding and the adoption of healthy habits i.e. Tips for Kids to Eat Well.
-
 Each registration entitles a parent-and-a child to receive 1 hands-on activity kit from Health Promotion Board.
 </td>
         <td>July 16 2022<br>2.00pm – 3.30pm<br></td>
         <td>Tampines Regional Library</td>
       </tr>
 				<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-lets-explore-climate-change-early-read-tickets-355028639217?aff=ebdsoporgprofile"><b> \[Caring for the Environment\] Let's Explore Climate Change! | Early READ</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-lets-explore-climate-change-early-read-tickets-355028639217?aff=ebdsoporgprofile"><b> [Caring for the Environment] Let's Explore Climate Change! | Early READ</b></a></td>
         <td> This programme introduces children to the concept of climate change through interactive activities and hands-on learning. Children will learn the importance of climate change including its affects on polar bears.</td>
         <td>July 17 2022<br>10.30am – 11.30am<br></td>
         <td>Queenstown Public Library  </td>
@@ -150,66 +147,10 @@ Each registration entitles a parent-and-a child to receive 1 hands-on activity k
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-how-do-animals-grow-tickets-337747761647?aff=ebdsoporgprofile"><b> [Budding Scientists] How Do Animals Grow? </b></a></td>
         <td> Every living things goes through a life cycle and your child may start understanding that as they grow! From cats to butterflies, horses to frogs, this programme aims to bring your child on an investigative journey of the growth, development and needs of familiar and even unfamiliar animals. Come join us in this interactive session as we look at how animals evolve from one stage of life to another, and what they need to survive and grow. Bring home your very own butterfly life cycle craft too!
 </td>
-        <td>June 10 2022<br>11.00am – 12.00pm<br></td>
-        <td>Woodlands Regional Library</td>
-      </tr>
-			  <tr>
-			 <td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-323607467647?aff=ebdsoporgprofile"><b>[Caring for the Environment] All About Water Conservation</b></a></td>
-        <td> This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. <br><br>This programme is for children aged 4 to 6 years old. Registration is required for this programme.
-</td>
-        <td>June 16 2022<br>2.00pm - 3.00pm<br></td>
-        <td>Sengkang Public Library</td>
+    <td>June 4 2022<br>3.00pm - 3.30pm<br></td>
+        <td>Woodlands Public Library</td>
 			</tr>
-			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-let-there-be-light-tickets-328631775487?aff=ebdsoporgprofile"><b>[Budding Scientists] Let There Be Light!</b></a></td>
-        <td> What is light made off? Why does light go through some things and not others? Let's learn more about light and how it travels through this super fun and simple session! We will be doing an experiment and a DIY shadow puppet theatre together!  </td>
-        <td>June 17 2022<br>3.30pm – 4.30pm<br></td>
-        <td>Zoom </td>
-      </tr>
-     	<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-323603224957?aff=ebdsoporgprofile"><b> Introduction to Scratch Junior Coding
-</b></a></td>
-        <td>ScratchJr is a programming language for children aged 4-6. Using ScratchJr, children can create their own interactive stories, animations and games.
-<br><br>
-Unit 1: Introduction
-<br>
-Learn to create own interactive computational media with ScratchJrBackground and Character Creation
-<br><br>
-Unit 2: Motion
-<br>
-Learn to use ScratchJr to create motion and animationsUse blocks and open-ended explorationsSame block sequencing and motionNumbers and repeating sequences 
-</td>
-        <td>June 18 2022<br>11.00am-12.00pm<br></td>
-        <td>Bedok Public Library </td>
-      </tr>
-			<tr>
-			 <td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-seas-and-oceans-tickets-323601620157?aff=ebdsoporgprofile"><b>[Caring for the Environment] All About Seas and Oceans </b></a></td>
-        <td> Find out more about the importance of Seas and Oceans and how we can play a part in protecting them in this storytelling and activity session for children aged 4-6. This is a parent-accompanied programme. Registration is required for this programme.
-</td>
-        <td>June 19 2022<br>2.00pm – 3.00pm<br></td>
-        <td>Jurong Regional Library </td>
-			</tr>
-			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-balloon-powered-car-registration-337126613777?aff=ebdsoporgprofile"><b>[Budding Engineers] Balloon-Powered Car</b></a></td>
-        <td> Energy conversion exists all around us. How does this work and how does energy make things move? Let's find out in this session as we create our own balloon-powered cars that zoom around the library! With everyday items, we will delve into learning about potential and kinetic energy, while making the fastest car possible! This is a parent-child programme and is suitable for children aged 4-6 years old.  </td>
-        <td>June 25 2022<br>10.30am – 11.30am<br></td>
-        <td>Jurong West Public Library </td>
-      </tr>
-			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/how-to-build-a-computational-mind-through-play-tickets-328524745357?aff=ebdsoporgprofile"><b>How to Build a "Computational Mind" Through "PLAY"</b></a></td>
-        <td> The world is becoming increasingly digital; children come into contact with digital media at an increasingly early age and this presents them with new challenges. They may grow up as "digital natives", but many of them lack the basic understanding and knowledge of how computers work.
-<br><br>
-This program aims to let the children and parents understand what computational thinking is and how they can help to encourage kids to have such “thinking” in their daily life. Children are introduced step-by-step to fundamental computer processes to promote problem solving skills in the digital way.
-</td>
-        <td>June 25 2022<br>2.00pm – 3.00pm<br></td>
-        <td>Zoom</td>
-      </tr>
-				<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-science-explorers-magic-in-a-bowl-with-slime-making-tickets-323681288447?aff=ebdsoporgprofile"><b>[Budding Scientists] Science Explorers! Magic in a Bowl with Slime Making
-</b></a></td>
-        <td> Learn to create slime using some simple items that can be found around our home. By combining the right materials, it will perform a chemical reaction, quite similar to magic! This programme is for children aged 4-6 years old.  </td>
-        <td>June 28 2022<br>11.00am – 12.30pm<br></td>
-        <td>Jurong Regional Library </td>
+					<tr>		
       </tr>
   </tbody>
   </table>
