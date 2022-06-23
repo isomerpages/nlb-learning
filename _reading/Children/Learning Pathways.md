@@ -83,9 +83,9 @@ Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with par
 <br><br>TRL, Programme Zone Level 6
 <br><br>
 <br><br>JRL, Programme Zone Level 1
-<br><br>
+<br>
 <br><br>CCKPL, Programme Zone Level 1 & 2
-<br><br>
+<br><br><br>
 <br><br>SKPL, Programme Zone Level 4
 <br><br>
 
