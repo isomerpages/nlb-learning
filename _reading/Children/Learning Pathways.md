@@ -107,7 +107,7 @@ Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with par
     </thead>
     <tbody>
 <tr>
-<td style="w<td style="><a target="_blank" href="https://www.eventbrite.sg/cc/programmes-for-children-66139?aff=odclrlmctfte"><b>The World of Plants I Budding Scientists </b></a></td>
+<td style="w<td style="><a target="_blank" href="https://www.eventbrite.sg/e/the-world-of-plants-i-budding-scientists-tickets-355028799697?aff=ebdssbdestsearch"><b>The World of Plants I Budding Scientists </b></a></td>
 					<td style="width: 40%;">Learn about basic plant biology, lifecycles, systems and plant diversity!<br><br> This programme is suitable for children aged 7 to 12.</td>
         <td style="width: 20%;"> 16 Jul 2022,<br>3:30pm – 4:30pm</td>
 			<td style="width: 20%;"> Bishan Public Library</td>
