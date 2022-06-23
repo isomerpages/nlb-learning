@@ -117,9 +117,9 @@ Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with par
 
 </tr><tr>
 <td style="w<td style="><a target="_blank" href="https://www.eventbrite.sg/cc/programmes-for-children-66139?aff=odclrlmctfte"><b>The World of Plants I Budding Scientists </b></a></td>
-        <td style="width: 40%;"> Join our Easy Coffee Art workshop at library@harbourfront and have an aromatic day doing coffee painting! Enjoy family bonding and fun while painting.<br><br> This programme is suitable for parents and children aged 7 to 12.<br><br> Registration will open closer to the date.</td>
-        <td style="width: 20%;"> 4 &amp; 25 Jun 2022,<br>2:30pm – 3:30pm</td>
-			<td style="width: 20%;"> library@harbourfront</td>
+					<td style="width: 40%;">Learn about basic plant biology, lifecycles, systems and plant diversity!<br><br> This programme is suitable for children aged 7 to 12.</td>
+        <td style="width: 20%;"> 16 Jul 2022,<br>3:30pm – 4:30pm</td>
+			<td style="width: 20%;"> Bishan Public Library</td>
       </tr>
   </tbody>
   </table>
