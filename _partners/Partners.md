@@ -100,7 +100,7 @@ Check out the schedule below, and look out for more programmes to be introduced 
 Live broadcast sounds scary, but it is simple to apply. Everybody can be a star online and gather an audience. Just adopt the digital mindset = participate, monitor, refine, and do it again with a smile. Change of perspective changes lives.<br><br>
 Key takeaways:<br>
 • How to develop a digital mindset? <br>
-• What soft skills will make you enjoy live broadcasting? 
+• What soft skills will make you enjoy live broadcasting? <br>
 • How does live broadcasting create personal, social, and business impacts?<br></td>
   <td>5 Jul 2022, 7pm - 8pm </td>
   <td>Zoom</td>
