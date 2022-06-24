@@ -45,7 +45,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   </div>
 	<div class="col is-one-third">
 		<div class="clickbox is-mint-jade">
-			<a href="#food-heritage">
+			<a href="#indian-cuisine">
 				<span>Playlist:<br>Indian Cuisine</span>
 			</a>
 		</div>
