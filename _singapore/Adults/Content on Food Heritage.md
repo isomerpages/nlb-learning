@@ -90,7 +90,6 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </a>
 </div>
 </div>
-</div>
 	
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
@@ -745,13 +744,13 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP\_2014-12-
 <h5> Banana Leaf Temptations</h5>
 Devagi Sanmugam (1997). <i> Banana Leaf Temptations. </i> Singapore: VJ Times. (Call no.: RSING 641.5948 SAN)
 <br>
-<img src="/images/Singapore%20Food%20Heritage/BLT.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/BLT.png" style="width:200px;">
 <p> Chef Devagi Sanmugam, known as the Spice Queen in Singapore, shares mouth-watering South Indian recipes that date back to many hundreds of years. </p>
 	
 <h5> Madam Krishnan’s South Indian Recipes</h5>
 Krishnan, Ambrose and Krishnan, Padma (2011). <i> Madam Krishnan’s South Indian Recipes. </i> Singapore: Epigram Books. (Call no.: RSING 641.59548 KRI)
 <br>
-<img src="/images/Singapore%20Food%20Heritage/MKSIR.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/MKSIR.png" style="width:200px;">
 <p> This book is a compilation of the recipes passed down to Padma Krishnan, by her mother and sister-in-law. It presents South Indian recipes with the international touch of France and Mauritius and the Indian touch of Pondicherry and Kerala as well. </p>
 
 <h5> Indian Heritage Cooking</h5>
@@ -763,7 +762,7 @@ Devagi Sanmugam and Shanmugam Kasinathan (2011). <i> Indian Heritage Cooking. </
 <h5> Spice potpourri: stellar cuisine favourites</h5>
 Rajan, Uma (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singapore: E-Quill Media. (Call no.: RSING 641.595957 RAJ)
 <br>
-<img src="/images/Singapore%20Food%20Heritage/SP.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/SP.png" style="width:200px;">
 <p> The winner of the 2012 World Gourmand Best Indian cuisine book, Spice potpourri by Dr Uma Rajan, brings us through a variety of flavourful Singaporean Indian dishes. </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
