@@ -546,7 +546,7 @@ Lee, Chin Koon and Shermay Lee (2019). <i> The New Mrs Lee’s Cookbook Volume 1
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id="lp-eurasian-cuisine"><b>Eurasian Cuisine</b></h5>
+<h5 class="margin--bottom--lg" id="lp-eurasian-cuisine"><b>Singapore's Food Heritage: Eurasian Cuisine</b></h5>
 <p> Eurasian food has a history that goes back to the 16th century. Eurasian families emerged from various trading ports in the region, such as Malacca, Penang, Goa, Macau, Ceylon and Bencoolen, where Europeans settled and had children with local women. Many of these Eurasians would later settle in Singapore at different times. Their cuisine blends European and Asian ingredients and techniques.
 
 Learn more about the rich heritage of Eurasian food from these books below.</p>
@@ -589,7 +589,7 @@ Noronha, Theresa and Cheryl Noronha. (2015). <i>The Eurasian table.</i> Singapor
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
-<h5 class="margin--bottom--lg" id="lp-Chinese-cuisine"><b>Chinese Cuisine</b></h5>
+<h5 class="margin--bottom--lg" id="lp-Chinese-cuisine"><b>Singapore's Food Heritage: Chinese Cuisine</b></h5>
 
 <p> In Singapore, majority of the early Chinese migrants came from the southern Chinese provinces of Guangzhou and Fujian. Guangdong cuisine like the cantonese, teochew and hakka dishes use steaming, poaching, braising, or simmering to bring out the natural flavour of each ingredient in the dish. Fujian cuisine also has several styles ranging from light, mild sweet and sour taste to more intense flavour with the use of sugar and spices. The Hainanese who arrived in Singapore much later, also brought with them their own special dishes.
 
