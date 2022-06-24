@@ -741,5 +741,16 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1749\_20
 
 Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP\_2014-12-30\_093442.html" target="\_blank"> Vadai </a>(2014, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, June 21.
 	
+<h4>Books</h4>
+<h5> Banana Leaf Temptations</h5>
+Devagi Sanmugam (1997). <i> Banana Leaf Temptations. </i> Singapore: VJ Times. (Call no.: RSING 641.5948 SAN)
+<br>
+<img src="/images/Singapore%20Food%20Heritage/BLT.png" style="width:200px;"></a>
+<p> Chef Devagi Sanmugam, known as the Spice Queen in Singapore, shares mouth-watering South Indian recipes that date back to many hundreds of years. </p>
 	
+<h5> Madam Krishnan’s South Indian Recipes</h5>
+Krishnan, Ambrose and Krishnan, Padma (2011). <i> Madam Krishnan’s South Indian Recipes. </i> Singapore: Epigram Books. (Call no.: RSING 641.59548 KRI)
+<br>
+<img src="/images/Singapore%20Food%20Heritage/MKSIR.png" style="width:200px;"></a>
+<p> This book is a compilation of the recipes passed down to Padma Krishnan, by her mother and sister-in-law. It presents South Indian recipes with the international touch of France and Mauritius and the Indian touch of Pondicherry and Kerala as well. </p>
 	
