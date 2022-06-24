@@ -406,6 +406,7 @@ Since the commencement of Singapore's journey as a free port in the early 19th c
 Check out these resources to help you gain some understanding on both famous and the lesser-known Indian heritage dishes relished by Singaporeans.
 
 <br>
+<div class="row is-multiline margin--bottom--lg">
 
 
 <div>
