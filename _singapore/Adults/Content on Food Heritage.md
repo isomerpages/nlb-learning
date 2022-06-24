@@ -759,3 +759,9 @@ Devagi Sanmugam and Shanmugam Kasinathan (2011). <i> Indian Heritage Cooking. </
 <br>
 <img src="/images/Singapore%20Food%20Heritage/IHC.png" style="width:200px;"></a>
 <p> Chef Devagi Sanmugam presents Indian recipes that has gone through fusion amidst the multi-ethnic context of colonial Singapore. She captures the union of flavours from Chinese, Malay and Indian cuisines, which have paved the way to dishes unique to Singapore. </p>
+
+<h5> Spice potpourri: stellar cuisine favourites</h5>
+Rajan, Uma (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singapore: E-Quill Media. (Call no.: RSING 641.595957 RAJ)
+<br>
+<img src="/images/Singapore%20Food%20Heritage/SP.png" style="width:200px;"></a>
+<p> The winner of the 2012 World Gourmand Best Indian cuisine book, Spice potpourri by Dr Uma Rajan, brings us through a variety of flavourful Singaporean Indian dishes. </p>
