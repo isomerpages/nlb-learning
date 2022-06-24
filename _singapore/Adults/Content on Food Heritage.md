@@ -415,16 +415,15 @@ Check out these resources to help you gain some understanding on both famous and
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/_t3FM-r7TkA"></iframe>
-     </div>
-    </div>
+   </div>
+   </div>
 <div class="col is-three-fifths">
 <p><b> The oldest and most authentic South Indian restaurant in Singapore: Samy's Curry | SETHLUI.com (5 mins)</b><br>
-Mr M. Veerasamy was one of the first few cooks to sell fish head curry in Singapore. He started as a roadside stall at Tank Road and eventually settled at a Dempsey Hill restaurant. Listen to the second and third generation owners share their story. <br><br>
+Mr M. Veerasamy was one of the first few cooks to sell fish head curry in Singapore. He started as a roadside stall at Tank Road and eventually settled at a Dempsey Hill restaurant. Listen to the second and third generation owners share their story. <br>
 <small> Source: The oldest and most authentic South Indian Restaurant in Singapore: Samy's Curry
 | SETHLUI.com (2019, Jul 17). SETHLUI.com. Retrieved 2022, June 21.</small></p>
  </div>
 </div>
-<br>
 
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
@@ -434,11 +433,10 @@ Mr M. Veerasamy was one of the first few cooks to sell fish head curry in Singap
 </div>
 <div class="col is-three-fifths">
 <p><b> Authentic hyderabad biryani in the heart of Singapore: Mr Biryani | SETHLUI.com (4 mins) </b><br>
-Mr Govind, the owner of Mr Biryani, introduces hyderabad biryani, a recipe that originated from the central part of India and compares it with other versions of biryani found in Singapore, which highlights the rich diversity in food varieties among the Indian community on the island. <br><br>
+Mr Govind, the owner of Mr Biryani, introduces hyderabad biryani, a recipe that originated from the central part of India and compares it with other versions of biryani found in Singapore, which highlights the rich diversity in food varieties among the Indian community on the island. <br>
 	<small> Source: Authentic hyderabad biryani in the heart of Singapore: Mr Biryani | SETHLUI.com (2019, Sept 25). SETHLUI.com. Retrieved 2022, June 21. </small></p>
 	</div>
 	</div>
-	<br>
 	
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
@@ -448,11 +446,10 @@ Mr Govind, the owner of Mr Biryani, introduces hyderabad biryani, a recipe that 
 </div>
 <div class="col is-three-fifths">
 <p><b> At this buffet restaurant, you pay as you wish | Our Grandfather Story (4 mins)</b><br>
-Established since 1986, Indian vegetarian restaurant Annalakshmi has served close to 700 recipes originating from different parts of India. Listen to Harish, a third generation staff, explain the rationale behind the 'pay-as-you-wish' policy of this restaurant and the significance of hospitality in the Indian food culture.<br><br>
+Established since 1986, Indian vegetarian restaurant Annalakshmi has served close to 700 recipes originating from different parts of India. Listen to Harish, a third generation staff, explain the rationale behind the 'pay-as-you-wish' policy of this restaurant and the significance of hospitality in the Indian food culture.<br>
 <small> Source: At this buffet restaurant, you pay as you wish | Our Grandfather Story (2019, Jun 20). Our Grandfather Story. Retrieved 2022, June 21. </small></p>
 </div>
 </div>
-<br>
 
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
@@ -461,7 +458,7 @@ Established since 1986, Indian vegetarian restaurant Annalakshmi has served clos
 	</div>
 	</div>
 	<div class="col is-three-fifths">
-<p><b> Learning about Indian breads: thosai, naan, and chapati | MothershipSG (8 mins)</b><br>
+		<p><b> Learning about Indian breads: thosai, naan, and chapati | MothershipSG (8 mins)</b><br>
 Prata is not the only Indian bread available in Singapore. MothershipSG seeks the expertise of three Indian restaurants to understand some of the other varieties of Indian breads such as, thosai from south India and naan and chapati from north India. It also explore the potential origin of each of these varieties, showing how far across the world these recipes have travelled.<br><br>
 <small> Source: Learning about Indian breads: thosai, naan, and chapati | MothershipSG (2021, May 8). MothershipSG. Retrieved 2022, June 21. </small></p>
 </div>
