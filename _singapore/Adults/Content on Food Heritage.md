@@ -723,3 +723,11 @@ Rita Zahara (2016). <i>The many flavours of Malay cooking.</i> Singapore: Marsha
 		<td>
 <h4>Did you know...</h4>
 <ul>
+<li> Eating on banana leaves not only make the dishes look more colourful and appealing, it also enhances the taste of the dish. When hot rice is served on the leaf, it absorbs the healthy compounds and unique flavour of the leaf. Banana leaves are waterproof too! Indian dishes, which are mostly accompanied with gravies, chutneys and ghee, are not going to stick to the leaf. This provides us with the fullest dining experience. After the meal, closing the leaf inwards demonstrates a feeling of gratefulness towards the host, so always remember to fold correctly! </li>
+</ul>
+</td>
+</tr</tbody></table>
+These curated set of articles and books will give you a better understanding of Indian food in Singapore.
+
+	
+	
