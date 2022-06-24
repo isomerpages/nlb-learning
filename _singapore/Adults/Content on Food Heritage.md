@@ -655,7 +655,7 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
-<h5 class="margin--bottom--lg" id="lp-Malay-cuisine"><b>Malay Cuisine</b></h5>
+<h5 class="margin--bottom--lg" id="lp-Malay-cuisine"><b>Singapore's Food Heritage: Malay Cuisine</b></h5>
 
 <p>With many Malays being seafaring people in the past, their diet was typically pescatarian. Malay cuisine has developed to incorporate other ingredients and culinary techniques because of cultural exchanges between the Malay Archipelago and the rest of the world. 
 
@@ -712,4 +712,14 @@ Rita Zahara (2016). <i>The many flavours of Malay cooking.</i> Singapore: Marsha
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/RitaZahara2.png">
 <p>This book showcases the diversity of Malay cuisine in Singapore, featuring a collection of dishes by various ethnic groups that make up the Malay people here. It includes recipes for traditional favourites such as sambal udang, opor daging, and pulut serunding.</p>
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p></div></div></div></div></div></div>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
+<h5 class="margin--bottom--lg" id="lp-Indian-cuisine"><b>Singapore's Food Heritage: Indian Cuisine</b></h5>
+
+<p> The roots of Indian food heritage lead us back to centuries-old traditions and take us across different parts of the Indian sub-continent region. Just the south Indian dishes in Singapore alone can be attributed to multiple origins such as the states of Tamil Nadu, Kerala, Andhra, Telengana and Karnataka, with each region offering the promise of a different flavour. A common Indian favourite such as curry is not going to taste the same in each of these states. But when all these region-specific recipes met at colonial Singapore, it gave birth to the island’s very own uniquely Singaporean Indian cuisine. The interactions from the Chinese, Malay and European cuisines enhanced its uniqueness even further.
+
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
