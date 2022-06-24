@@ -247,7 +247,7 @@ A group of young Eurasians makes a lesser-known Eurasian dish called putugal (st
 </div>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="Chinese-cuisine" class="margin--bottom--lg"><b>Playlist: Chinese Cuisine </b></h5>
+<h5 class="margin--bottom--lg" id="chinese-cuisine"><b>Playlist: Chinese Cuisine </b></h5>
 
 Singapore’s early Chinese migrants arrived from the southern Chinese provinces of Guangzhou and Fujian. They brought with them two of the most well-known and popular Chinese cuisines, each with its own character, ingredients, cooking methods and tastes. 
 
