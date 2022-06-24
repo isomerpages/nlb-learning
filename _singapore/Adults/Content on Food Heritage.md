@@ -300,7 +300,7 @@ Watch Sarah cook Hokkien braised noodles with her mother, anthropologist Dr Vivi
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="Malay-cuisine" class="margin--bottom--lg"><b>Playlist: Malay Cuisine </b></h5>
+<h5 class="margin--bottom--lg" id="malay-cuisine"><b>Playlist: Malay Cuisine </b></h5>
 
 From nasi lemak to mee rebus, Malay food in Singapore is diverse due to many cultural and culinary influences from the Malay Archipelago and the rest of the world. It incorporates ingredients and cooking methods from various ethnic communities. 
 
