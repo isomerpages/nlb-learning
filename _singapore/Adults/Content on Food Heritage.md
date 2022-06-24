@@ -753,4 +753,9 @@ Krishnan, Ambrose and Krishnan, Padma (2011). <i> Madam Krishnan’s South India
 <br>
 <img src="/images/Singapore%20Food%20Heritage/MKSIR.png" style="width:200px;"></a>
 <p> This book is a compilation of the recipes passed down to Padma Krishnan, by her mother and sister-in-law. It presents South Indian recipes with the international touch of France and Mauritius and the Indian touch of Pondicherry and Kerala as well. </p>
-	
+
+<h5> Indian Heritage Cooking</h5>
+Devagi Sanmugam and Shanmugam Kasinathan (2011). <i> Indian Heritage Cooking. </i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
+<br>
+<img src="/images/Singapore%20Food%20Heritage/IHC.png" style="width:200px;"></a>
+<p> Chef Devagi Sanmugam presents Indian recipes that has gone through fusion amidst the multi-ethnic context of colonial Singapore. She captures the union of flavours from Chinese, Malay and Indian cuisines, which have paved the way to dishes unique to Singapore. </p>
