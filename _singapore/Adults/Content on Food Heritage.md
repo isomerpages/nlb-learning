@@ -403,7 +403,10 @@ href="#main-content">Back to top</a></p>
 
 Since the commencement of Singapore's journey as a free port in the early 19th century, the influx of traders and workers from different parts of the Indian sub-continent, brought in a variety of cooking styles and recipes to the island. Soon enough, some of these dishes adopted a uniquely Singaporean taste and style.
 
-Check out these resources to help you gain some understanding on both famous and the lesser
+Check out these resources to help you gain some understanding on both famous and the lesser-known Indian heritage dishes relished by Singaporeans.
+
+<br>
+
 
 <div>
 <h3><b>Learning Package</b></h3>
