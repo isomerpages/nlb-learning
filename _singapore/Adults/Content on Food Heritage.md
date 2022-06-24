@@ -38,7 +38,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 	</div>
 	<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#food-heritage">
+      <a href="#malay-cuisine">
         <span>Playlist:<br>Malay Cuisine</span>
       </a>
 </div>
