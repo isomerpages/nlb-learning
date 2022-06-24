@@ -404,7 +404,11 @@ Mr Govind, the owner of Mr Biryani, introduces hyderabad biryani, a recipe that 
 </div>
 </div>
 <div class="col is-three-fifths">
-	
+<p><b> At this buffet restaurant, you pay as you wish | Our Grandfather Story (4 mins)</b><br>
+Established since 1986, Indian vegetarian restaurant Annalakshmi has served close to 700 recipes originating from different parts of India. Listen to Harish, a third generation staff, explain the rationale behind the 'pay-as-you-wish' policy of this restaurant and the significance of hospitality in the Indian food culture.<br><br>
+<small> Source: At this buffet restaurant, you pay as you wish | Our Grandfather Story (2019, Jun 20). Our Grandfather Story. Retrieved 2022, June 21. </small></p>
+</div>
+</div>
 	
 
 </p><div>
