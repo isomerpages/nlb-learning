@@ -380,18 +380,18 @@ Check out these resources to help you gain some understanding on both famous and
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/_t3FM-r7TkA"></iframe>
-</div>
-</div>
+    <iframe class="responsive-iframe" src="https://www.youtube.com/embed/_t3FM-r7TkA"></iframe>
+     </div>
+    </div>
 <div class="col is-three-fifths">
-
 <p><b> The oldest and most authentic South Indian restaurant in Singapore: Samy's Curry | SETHLUI.com (5 mins)</b><br>
 Mr M. Veerasamy was one of the first few cooks to sell fish head curry in Singapore. He started as a roadside stall at Tank Road and eventually settled at a Dempsey Hill restaurant. Listen to the second and third generation owners share their story. <br><br>
 <small> Source: The oldest and most authentic South Indian Restaurant in Singapore: Samy's Curry
 | SETHLUI.com (2019, Jul 17). SETHLUI.com. Retrieved 2022, June 21.</small></p>
-</div>
+ </div>
 </div>
 <br>
+
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
@@ -405,7 +405,8 @@ Mr Govind, the owner of Mr Biryani, introduces hyderabad biryani, a recipe that 
 	</div>
 	</div>
 	<br>
-	<div class="row is-multiline margin--bottom--lg">
+	
+<div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
 	<iframe src="https://www.youtube.com/embed/ 55MBhekoicl" class="responsive-iframe"></iframe>
@@ -418,7 +419,8 @@ Established since 1986, Indian vegetarian restaurant Annalakshmi has served clos
 </div>
 </div>
 <br>
-	<div class="row is-multiline margin--bottom--lg">
+
+<div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
 	<iframe src="https://www.youtube.com/embed/ 865-a3YIhfk" class="responsive-iframe"></iframe>
