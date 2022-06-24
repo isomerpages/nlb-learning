@@ -332,6 +332,10 @@ Watch Sarah cook Hokkien braised noodles with her mother, anthropologist Dr Vivi
 </small></p>
 </div>
 </div>
+
+<p class="has-text-right margin--top--xl"><a 
+href="#main-content">Back to top</a></p>
+
 <h5 class="margin--bottom--lg" id="Malay-cuisine"><b>Playlist: Malay Cuisine </b></h5>
 
 From nasi lemak to mee rebus, Malay food in Singapore is diverse due to many cultural and culinary influences from the Malay Archipelago and the rest of the world. It incorporates ingredients and cooking methods from various ethnic communities. 
@@ -397,7 +401,7 @@ href="#main-content">Back to top</a></p>
 
 <h5 class="margin--bottom--lg" id="Indian-cuisine"><b>Playlist: Indian Cuisine </b></h5>
 
-Since the commencement of Singapore's journey as a free port in the early 19th century, the influx of traders and workers from different parts of the Indian sub-continent, brought in a variety of cooking styles and recipes to the island. Soon enough some of these dishes adopted a uniquely Singaporean taste and style.
+Since the commencement of Singapore's journey as a free port in the early 19th century, the influx of traders and workers from different parts of the Indian sub-continent, brought in a variety of cooking styles and recipes to the island. Soon enough, some of these dishes adopted a uniquely Singaporean taste and style.
 
 Check out these resources to help you gain some understanding on both famous and the lesser
 
