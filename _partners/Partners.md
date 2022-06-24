@@ -101,8 +101,7 @@ Live broadcast sounds scary, but it is simple to apply. Everybody can be a star 
 Key takeaways:<br>
 • How to develop a digital mindset? <br>
 • What soft skills will make you enjoy live broadcasting? 
-• How does live broadcasting create personal, social, and business impacts?<br>
-</td>
+• How does live broadcasting create personal, social, and business impacts?<br></td>
   <td>5 Jul 2022, 7pm - 8pm </td>
   <td>Zoom</td>
 </tr>
@@ -110,10 +109,10 @@ Key takeaways:<br>
 <tr><td><strong><a href="https://www.eventbrite.com/e/livestreaming-for-beginners-my-digital-life-registration-360265863897?aff=odcleoeventsincollection&keep_tld=1" target="_blank">Livestream for Beginners</a></strong></td>
   <td>Amid the pandemic, more companies are turning to livestreaming to reach customers remotely and this opens up more revenue making opportunities for entrepreneurs, digital marketeers and influencers to explore. <br><br>
 • Find out how you can livestream professionally<br>
-• Learn from a professional host who succeeded changing his career to livestreaming.
-</td>
+• Learn from a professional host who succeeded changing his career to livestreaming.</td>
   <td>14 Jul 2022, 7pm - 8pm </td>
   <td>Zoom</td>
+	</tr>
 </tbody></table>
 <br>
 
