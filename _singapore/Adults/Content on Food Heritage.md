@@ -410,7 +410,19 @@ Check out these resources to help you gain some understanding on both famous and
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
 <iframe src="https://www.youtube.com/embed/_t3FM-r7TkA" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
 
+<p><b> The oldest and most authentic South Indian restaurant in Singapore: Samy's Curry | SETHLUI.com (5 mins)</b><br>
+Mr M. Veerasamy was one of the first few cooks to sell fish head curry in Singapore. He started as a roadside stall at Tank Road and eventually settled at a Dempsey Hill restaurant. Listen to the second and third generation owners share their story. <br><br>
+<small> Source: The oldest and most authentic South Indian Restaurant in Singapore: Samy's Curry
+| SETHLUI.com (2019, Jul 17). SETHLUI.com. Retrieved 2022, June 21.</small></p>
+</div>
+</div>
+
+
+	
 
 <div>
 <h3><b>Learning Package</b></h3>
