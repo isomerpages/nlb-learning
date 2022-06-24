@@ -48,15 +48,15 @@ Check out our **learning packages** for D.I.Y activities to engage your child in
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#reading-fun">
-        <span>Playlist:<br>Reading Fun!</span>
+      <a href="#books-galore">
+        <span>Playlist:<br>Books Galore!</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#lp-draw-and-tell">
-        <span>Learning Package:<br>Draw and Tell!</span>
+      <a href="#how-to-make-a-book">
+        <span>Learning Package:<br>How to Make a Book!</span>
       </a>
     </div>
   </div>
@@ -64,55 +64,56 @@ Check out our **learning packages** for D.I.Y activities to engage your child in
 	
 
 
-<h5 id="reading-fun" class="margin--bottom--lg"><b>Playlist: Reading Fun!</b></h5>
+<h5 id="books-galore" class="margin--bottom--lg"><b>Playlist: Books Galore!</b></h5>
+What is in a book? Find out more about books and stories through these videos below. <br>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-          <iframe src="https://www.youtube.com/embed/xoiS5ZFtqVg" class="responsive-iframe"></iframe>
+          <iframe src="https://www.youtube.com/embed/C4hlYGjVW38" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-			    <p><b>Quackenstein Hatches a Family read by Kristen Bell (6 min)</b><br>
-    Listen to Kristen Bell (voice of Anna from the Frozen series) read the story of how one Quackenstein found a family to call his own.<br><br>
-<small>Source: Quackenstein Hatches a Family read by Kristen Bell - YouTube (2018, Mar 5). StorylineOnline. Retrieved 2022, February 21.</small></p>
+			    <p><b>How I Make a Storyboard for a 32-page Picture Book (3 min)</b><br>
+Learn the simple method of planning for your very own picture book, where each text and image should go o every page.<br><br>
+<small>How I make a storyboard for a 32 page picture book - YouTube (2021, May 30). profuselyillustrated.Retrieved 2022, June 15.</small></p>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/LqbCptWIH-M" class="responsive-iframe"></iframe>
+      <iframe src="https://www.youtube.com/embed/ae61kGNpQPs" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>HRH The Duchess of Cambridge – The Owl Who Was Afraid of the Dark (9 min)</b><br>
-    What is an owl who fears the dark to do? Journey with Plop to find out! <br><br>
-<small>Source: HRH The Duchess of Cambridge – The Owl Who Was Afraid of the Dark (2022, February 14). Random Things On the Internet. Retrieved 2022, February 21.</small></p>
+    <p><b>How to Write a Short Story | Writing a Good Short Story Step-by-Step (9 min)</b><br>
+          Learn how to write a good short story and practice your creativity!<br><br>
+<small>Source: How to Write a Short Story | Writing a Good Short Story Step-by-Step - YouTube (2019, Jul 24). Self Publishing School. Retrieved 2022, June 15.</small></p>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-         <iframe src="https://www.youtube.com/embed/rW2r5uStgG0" class="responsive-iframe"></iframe>
+         <iframe src="https://www.youtube.com/embed/cu8j7YnunzQ" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b>The Power and Importance of Reading by Luke Bakic – TEDxYouth@TBSWarsaw (3 min)</b><br>
-    Why reading is so important- a 9-year old's gives his perspective and passions about reading.
+  <p><b>How Books Are Made / Parts of a Book (4 min)</b><br>
+Explore the entire process of how a book is made, and the different components of a book.
 <br><br>
-<small>Source: The Power and Importance of Reading by Luke Bakic – TEDxYouth@TBSWarsaw (2018, November 21). TEDx Talks. Retrieved 2022, February 22.</small></p>
+<small>Source: How Books Are Made / Parts of a Book - YouTube (2016, Nov 15). The Bespectacled Librarian. Retrieved 2022, June 15.</small></p>
   </div>
  </div>
 
-<h3 class="margin--bottom--lg" id="reading-fun"><b>Learning Packages</b></h3>
+<h3 class="margin--bottom--lg" id="how-to-make-a-book"><b>Learning Packages</b></h3>
 	
 <p>D.I.Y activities to engage your child in reading fun.</p>
 
-<h4 id="lp-draw-and-tell"><a href="https://www.scholastic.com/parents/kids-activities-and-printables/printables/writing-worksheets/coloring-quote-printables-to-spark-your-childs.html" target="_blank"><b>Draw and Tell</b></a></h4>
-<p>Does your child like to draw and colour? Drawing can be a form of storytelling where your feelings, ideas and perspectives can be expressed in creative ways. With this learning package, have your child react to the prompt and design away!
-<br><br><small>Source: Coloring Quote Printables to Spark Your Child's Creativity (2017, July 5). Scholastic. Retrieved 2022, February 23.</small>
+<h4 id="how-to-make-a-book"><a href="https://www.scottishbooktrust.com/learning-resources/how-to-make-a-book" target="_blank"><b>How to Make a Book</b></a></h4>
+<p>Have you ever wanted to make your own book? Watch the video for instructions and soon you'll discover how to create a mini book from just one sheet of A4 paper!
+<br><br><small>Source: How to Make a Mini Book (n.d.). Scholastic. Retrieved 2022, May 20.</small>
 </p>
 
 
