@@ -32,21 +32,21 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#chinese-cuisine">
-        <span>Playlist:<br>Chinese Cuisine</span>
+        <span>Playlist: Chinese Cuisine</span>
       </a>
 		</div>
 	</div>
 	<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#malay-cuisine">
-        <span>Playlist:<br>Malay Cuisine</span>
+        <span>Playlist: Malay Cuisine</span>
       </a>
 </div>
   </div>
 	<div class="col is-one-third">
 		<div class="clickbox is-mint-jade">
 			<a href="#indian-cuisine">
-				<span>Playlist:<br>Indian Cuisine</span>
+				<span>Playlist: Indian Cuisine</span>
 			</a>
 		</div>
 	</div>
