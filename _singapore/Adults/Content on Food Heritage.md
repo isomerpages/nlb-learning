@@ -765,3 +765,5 @@ Rajan, Uma (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singapo
 <br>
 <img src="/images/Singapore%20Food%20Heritage/SP.png" style="width:200px;"></a>
 <p> The winner of the 2012 World Gourmand Best Indian cuisine book, Spice potpourri by Dr Uma Rajan, brings us through a variety of flavourful Singaporean Indian dishes. </p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
