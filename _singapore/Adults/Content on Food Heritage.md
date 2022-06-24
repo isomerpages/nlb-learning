@@ -420,8 +420,16 @@ Mr M. Veerasamy was one of the first few cooks to sell fish head curry in Singap
 | SETHLUI.com (2019, Jul 17). SETHLUI.com. Retrieved 2022, June 21.</small></p>
 </div>
 </div>
-
-
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="[https://www.youtube.com/embed/ egwHxcQw6Rk](https://www.youtube.com/embed/LYAtMLLmIAw)" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Authentic hyderabad biryani in the heart of Singapore: Mr Biryani | SETHLUI.com (4 mins) </b><br>
+Mr Govind, the owner of Mr Biryani, introduces hyderabad biryani, a recipe that originated from the central part of India and compares it with other versions of biryani found in Singapore, which highlights the rich diversity in food varieties among the Indian community on the island. <br><br>
 	
 
 <div>
