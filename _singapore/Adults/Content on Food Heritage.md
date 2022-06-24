@@ -92,6 +92,15 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 </div>
 	
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-Indian-cuisine">
+<span>Learning Package:<br>Indian Cuisine</span>
+</a>
+</div>
+</div>
+</div>
+	
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around Singapore’s food heritage.
 
