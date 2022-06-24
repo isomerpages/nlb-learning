@@ -789,7 +789,7 @@ Krishnan, Ambrose and Krishnan, Padma (2011). <i> Madam Krishnan’s South India
 <h5> Indian Heritage Cooking</h5>
 Devagi Sanmugam and Shanmugam Kasinathan (2011). <i> Indian Heritage Cooking. </i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
 <br>
-<img src="/images/Singapore%20Food%20Heritage/IHC.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/IHC.png" style="width:200px;">
 <p> Chef Devagi Sanmugam presents Indian recipes that has gone through fusion amidst the multi-ethnic context of colonial Singapore. She captures the union of flavours from Chinese, Malay and Indian cuisines, which have paved the way to dishes unique to Singapore. </p>
 
 <h5> Spice potpourri: stellar cuisine favourites</h5>
