@@ -362,7 +362,7 @@ Suryakenchana Omar examines the cultural and culinary heritage of nasi ambeng an
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="Indian-cuisine" class="margin--bottom--lg"><b>Playlist: Indian Cuisine </b></h5>
+<h5 class="margin--bottom--lg" id="indian-cuisine"><b>Playlist: Indian Cuisine </b></h5>
 
 Since the commencement of Singapore's journey as a free port in the early 19th century, the influx of traders and workers from different parts of the Indian sub-continent, brought in a variety of cooking styles and recipes to the island. Soon enough, some of these dishes adopted a uniquely Singaporean taste and style.
 
