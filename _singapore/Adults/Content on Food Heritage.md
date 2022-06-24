@@ -407,8 +407,8 @@ Check out these resources to help you gain some understanding on both famous and
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
-	<div class="col is-two-fifths">
-		
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
 
 
 <div>
