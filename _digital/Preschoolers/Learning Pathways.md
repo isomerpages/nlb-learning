@@ -85,37 +85,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
       </tr>
     </thead>
     <tbody>
-				<tr>			
-<td><a href="https://www.eventbrite.sg/e/think-like-a-coder-session-2-powerful-patterns-tickets-322963270837?aff=ebdsoporgprofile" target="_blank"><b> Think Like a Coder: Session 2: Powerful Patterns </b></a></td>
-        <td> Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children (age 3-6). These are for absolute beginners.Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.</td>
-        <td>June 4 2022<br>2.00pm – 2.30pm<br></td>
-        <td>Zoom  </td>
-      </tr>
-     	<tr>			
-<td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-tickets-323603224957?aff=ebdsoporgprofile" target="_blank"><b> Introduction to Scratch Junior Coding
-</b></a></td>
-        <td>ScratchJr is a programming language for children aged 4-6. Using ScratchJr, children can create their own interactive stories, animations and games.
-<br><br>
-Unit 1: Introduction
-<br>
-Learn to create own interactive computational media with ScratchJrBackground and Character Creation
-<Br><br>
-Unit 2: Motion
-<br>
-Learn to use ScratchJr to create motion and animationsUse blocks and open-ended explorationsSame block sequencing and motionNumbers and repeating sequences 
-</td>
-        <td>June 18 2022<br>11.00am-12.00pm<br></td>
-        <td>Bedok Public Library </td>
-      </tr>
-			<tr>			
-<td><a href="https://www.eventbrite.sg/e/how-to-build-a-computational-mind-through-play-tickets-328524745357?aff=ebdsoporgprofile" target="_blank"><b>How to Build a "Computational Mind" Through "PLAY"</b></a></td>
-        <td> The world is becoming increasingly digital; children come into contact with digital media at an increasingly early age and this presents them with new challenges. They may grow up as "digital natives", but many of them lack the basic understanding and knowledge of how computers work.
-<br><br>
-This program aims to let the children and parents understand what computational thinking is and how they can help to encourage kids to have such “thinking” in their daily life. Children are introduced step-by-step to fundamental computer processes to promote problem solving skills in the digital way.
-</td>
-        <td>June 25 2022<br>2.00pm – 3.00pm<br></td>
-        <td>Zoom</td>
-      </tr>
+			<tr>	More coming soon! </tr>
     </tbody>
   </table>
 </div>
