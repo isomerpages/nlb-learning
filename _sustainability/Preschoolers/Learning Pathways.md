@@ -54,6 +54,12 @@ What can we do to protect the environment around us? Do you know the different t
         <td></td>
         <td> </td>
       </tr>
+			    <tr>
+        <td><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment#lp-susfood" target="_blank"><b>[Caring for the Environment] Sustainable Foods</b></a></td>
+        <td>Do you know that the food we eat has an impact on the environment? Find out how science and technology can help us create a planet-friendly food system! From meat grown in labs to insects that are safe for consumption, these new innovations could be the future of our food.</td>
+        <td></td>
+        <td> </td>
+      </tr>
 <tr>
         <td><a href="/sustainability/preschoolers/content" target="_blank"><b> Seas & Oceans playlist</b></a></td>
         <td>Dolphins, blue whales, sea lions, jellyfishes, and ocean sunfish, are some of our favourite beautiful sea creatures that live in the oceans.
