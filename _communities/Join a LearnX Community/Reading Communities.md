@@ -59,7 +59,7 @@ For Children between 7 to 10 years old, conducted ad-hoc in Tamil online.</p>
   <div class="col is-half-tablet padding--bottom--lg">
     <img alt="Chinese Senior's Reading Club 分享读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-07.jpg">
     <div class="margin--top--lg">
-      <h5 class="margin--top--sm margin--bottom--sm"><b> Bishan Seniors reading club 碧山乐龄读书会 </b></h5>
+      <h5 class="margin--top--sm margin--bottom--sm"><b> Bishan Seniors Reading Club 碧山乐龄读书会 </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Come join a group of active senior citizens in this monthly book discussion activity! As the sessions are facilitated and conducted in Chinese, you also get to improve your Chinese conversational skills as you share your experiences in life along the book discussions.<br><br>
 想结交新朋友、促进华语会话和分享您的阅读经验吗？碧山乐龄读书会每个月都会聚集一群活跃的乐龄朋友与图书馆馆员一同讨论书籍和文章。现在就加入我们吧！<br><br>
 For Seniors, conducted monthly in Chinese at Bishan Public Library.</p>
