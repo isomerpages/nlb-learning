@@ -86,7 +86,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
     </thead>
     <tbody>
 			<tr>
-				<td> More programmes coming soon!</td>
+				<td> More programmes coming soon</td>
 			</tr>
 		</tbody>
 	</table>
