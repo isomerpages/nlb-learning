@@ -126,8 +126,28 @@ This program aims to let the children and parents understand what computational 
       <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Discover other Learning Focus Areas</th>
       </tr>
-    </thead>
-    <tbody>
+  <tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-tickets-323723233907?aff=ebdsoporgprofile"><b> Toddler Songs & Rhymes | Early READ </b></a></td>
+        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
+       <td>July 2 2022<br>11.00am –11.20am<br></td>
+        <td>Zoom </td>
+      </tr>
+    	<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-355032982207?aff=ebdsoporgprofile"><b>Jiggle, Read & Rhyme | Early READ
+ </b></a></td>
+        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE!
+<br>
+This programme is intended for parents with toddlers aged 1-3.</td>
+        <td>July 2 2022<br>2.00pm-2.30pm<br></td>
+        <td>Jurong West Public Library</td>
+      </tr>		
+<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-345127986097?aff=ebdsoporgprofile"><b> Baby Songs & Rhymes | Early READ</b></a></td>
+        <td> Songs and rhymes play an important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. <br>
+This programme is intended for parents with babies up to 12 months.</td>
+        <td>July 6 2022<br>2.30pm– 3.00pm<br></td>
+        <td>Zoom</td>
+      </tr>
 			 <tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-defying-gravity-early-read-tickets-355027676337?aff=ebdsoporgprofile"><b>[Budding Engineers] Defying Gravity | Early READ</b></a></td>
         <td>Did you know that when you jump in space, you will float away instead of landing back down on the ground? What is this force that keeps us rooted to the ground on Earth? It is gravity! Let's explore gravity and find out how important it is in our daily lives. We'll also build our own parachutes and see how gravity makes it work. Float on by and join us for some fun activities, budding scientists!</td>
@@ -150,6 +170,18 @@ Each registration entitles a parent-and-a child to receive 1 hands-on activity k
         <td>July 17 2022<br>10.30am – 11.30am<br></td>
         <td>Queenstown Public Library  </td>
       </tr>
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/interactive-online-storytelling-session-jomo-the-triceratops-early-read-tickets-355015158897?aff=ebdsoporgprofile"><b> Interactive Online Storytelling Session: Jomo the Triceratops | Early READ</b></a></td>
+        <td> Jomo the Triceratops sees something shooting through the sky one night, what could it be? He decides to go on an epic adventure to find out! During this 30 minute session, your child will be immersed in the story of Jomo the dinosaur and follow him on his journey. There will be elements of drama and imaginary play. A scavenger hunt will also be involved where parents will help to hide printables around the house and your child will find them throughout the session. What are you waiting for? See you there! </td>
+        <td>July 23 2022<br>3.30pm – 4.00pm<br></td>
+        <td>Zoom</td>
+      </tr>
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/storytelling-with-evelyn-makan-mischief-early-read-tickets-355030795667?aff=ebdsoporgprofile&quot;"> <b> Storytelling with Evelyn | Makan Mischief | Early READ </b></a></td>
+        <td>Hungry for adventure? Join Little Mynah as she tries to help her friends Jen and Jay at the hawker centre, using fun everyday words in Mandarin, Malay and Tamil. A craft session and interactive storytelling for children ages 4 to 6 years that will be deliciously delightful!</td>
+       <td>July 30 2022<br>11.00am-12.00pm<br></td>
+        <td>Queenstown Public Library</td>
+      </tr>		
     </tbody>
   </table>
 </div>
