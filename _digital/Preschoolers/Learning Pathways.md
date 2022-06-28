@@ -137,14 +137,7 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>Woodlands Regional Library </td>
       </tr>
 				<tr>			
-<td><<tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/special-play-session-early-read-tickets-355024938147?aff=ebdsoporgprofile"><b>Special Play Session! | Early READ
- </b></a></td>
-        <td> Come bond with your little ones in this play session. Let your children explore the various edu-aids that we have and get to engage your children in meaningful play! Do drop by any time between 2pm - 4pm. This programme is suitable for children between 0-6 years old.</td>
-        <td>July 15 2022<br>2.00pm-4.00pm<br></td>
-        <td>Sengkang Public Library</td>
-      </tr>
-982207?aff=ebdsoporgprofile"><b>Special Play Session! | Early READ
  </b></a></td>
         <td> Come bond with your little ones in this play session. Let your children explore the various edu-aids that we have and get to engage your children in meaningful play! Do drop by any time between 2pm - 4pm. This programme is suitable for children between 0-6 years old.</td>
         <td>July 15 2022<br>2.00pm-4.00pm<br></td>
