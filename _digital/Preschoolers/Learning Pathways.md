@@ -84,8 +84,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
       </tr>
     </thead>
-    <tbody>
-        <td> More programmes coming soon!</td>
+    <tbody><td> More programmes coming soon!</td>
    </tbody>
  </table>
 </div>
