@@ -115,10 +115,10 @@ Is your child hooked onto the screen? Get tips from expert, Dr Jared Ng, Consult
 <h3 class="margin--bottom--lg" id="lp-presch-digi"><b>Learning Packages</b></h3>
 Articles that provides more insights into media, coding and more.
 
-[Let's learn about Decomposition!](/files/Digital_Decomposition_Package_Early%20Read.pdf){:target="_blank"}
+[Let's learn about Looping!](https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discovertech#lp-looping){:target="_blank"}
 
-[Let's learn about Sequences!](/files/Digital_Sequences_Package_%20Early%20Read.pdf){:target="_blank"}
+[Let's learn about Branching!](https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discovertech#lp-branching){:target="_blank"}
 
-[Let's learn about Algorithms!](/files/DIgital_Algoritms_Package_Early%20Read.pdf){:target="_blank"}
+[Let's learn about Debugging!](https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discovertech#lp-debugging){:target="_blank"}
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
