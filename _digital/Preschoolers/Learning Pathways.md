@@ -134,6 +134,13 @@ This programme is intended for parents with babies up to 12 months.</td>
        <td>July 9 2022<br>11.00am-12.00pm<br></td>
         <td>Woodlands Regional Library </td>
       </tr>
+				<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-355032982207?aff=ebdsoporgprofile"><b>Special Play Session! | Early READ
+ </b></a></td>
+        <td> Come bond with your little ones in this play session. Let your children explore the various edu-aids that we have and get to engage your children in meaningful play! Do drop by any time between 2pm - 4pm. This programme is suitable for children between 0-6 years old.</td>
+        <td>July 15 2022<br>2.00pm-4.00pm<br></td>
+        <td>Sengkang Public Library</td>
+      </tr>		
 			  <tr>	
 <td><a target="_blank" href="https://www.eventbrite.sg/e/family-fun-time-at-the-library-early-read-tickets-355021186927?aff=ebdsoporgprofile"><b> Family Fun Time at the Library | Early READ </b></a></td>
         <td> FFT is an interactive parent-and-child programme that includes fun, educational hands-on activity and suitable for children of 3 to 6 years old.
