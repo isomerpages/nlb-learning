@@ -115,7 +115,7 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=blq9sCIyXgA"> W
 <p> Do you question your ability to talk about art in a coherent way? Here are tips for how to sound like you understand art, even if you've never taken a class or set foot in a museum. </p>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OzMVvLKnJxs" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=OzMVvLKnJxs"> How to Sound like you Understand Art</a> (2019, March 9). <i>The Art Assignment..</i> Retrieved 2022, March 10
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=OzMVvLKnJxs"> How to Sound like you Understand Art</a> (2019, March 9). <i>The Art Assignment.</i> Retrieved 2022, March 10
 
 
 <h5>5. Art and Empathy </h5> 
