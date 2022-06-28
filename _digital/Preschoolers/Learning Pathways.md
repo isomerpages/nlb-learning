@@ -77,11 +77,12 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
   </table>
 </div>
 
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
-			<tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Experiences</th>
       </tr>
     </thead>
     <tbody>
@@ -94,9 +95,10 @@ This program aims to let the children and parents understand what computational 
         <td>June 25 2022<br>2.00pm – 3.00pm<br></td>
         <td>Zoom</td>
       </tr>
-		</tbody>
-	</table>
+    </tbody>
+  </table>
 </div>
+
 
 
 			
