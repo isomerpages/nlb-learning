@@ -81,7 +81,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
-            <tr>
+       <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
       </tr>
     </thead>
@@ -93,8 +93,6 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
  </table>
 </div>
 
-
-
 			
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -102,6 +100,8 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
       <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Discover other Learning Focus Areas</th>
       </tr>
+			</thread>
+		<tbody>
   <tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-tickets-323723233907?aff=ebdsoporgprofile"><b> Toddler Songs & Rhymes | Early READ </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
