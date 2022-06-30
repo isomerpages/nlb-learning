@@ -87,13 +87,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
     </thead>
     <tbody>
 			<tr>			
-<td><a href="https://www.eventbrite.sg/e/how-to-build-a-computational-mind-through-play-tickets-328524745357?aff=ebdsoporgprofile" target="_blank"><b>How to Build a "Computational Mind" Through "PLAY"</b></a></td>
-        <td> The world is becoming increasingly digital; children come into contact with digital media at an increasingly early age and this presents them with new challenges. They may grow up as "digital natives", but many of them lack the basic understanding and knowledge of how computers work.
-<br><br>
-This program aims to let the children and parents understand what computational thinking is and how they can help to encourage kids to have such “thinking” in their daily life. Children are introduced step-by-step to fundamental computer processes to promote problem solving skills in the digital way
-</td>
-        <td>June 25 2022<br>2.00pm – 3.00pm<br></td>
-        <td>Zoom</td>
+				<td> More programmes coming soon! </td>
       </tr>
     </tbody>
   </table>
