@@ -81,12 +81,13 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
+			<tbody>
       <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Experiences</th>
-      </tr>
-			<tr>			
+      </tr>		
 				<td> More programmes coming soon </td>
-      </tr>
+		</thead> 
+		</tdbody>
 </div>
 
 
