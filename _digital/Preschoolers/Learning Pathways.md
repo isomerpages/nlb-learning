@@ -85,7 +85,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Experiences</th>
       </tr>
 			<tr>			
-				<td> More programmes coming soon! </td>
+				<td> More programmes coming soon </td>
       </tr>
 </div>
 
