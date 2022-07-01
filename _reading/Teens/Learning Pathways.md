@@ -53,7 +53,7 @@ Take the plunge into a deeper love for the literary.
         <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/read-to-focus-the-art-of-focused-reading-in-an-age-of-distraction-tickets-359124660527?aff=ebdsoporgprofile"><b>Read to Focus: The Art of Focused Reading in an Age of Distraction</b></a></td>
         <td style="width: 40%;">Join Prof Emerita Naomi Baron, Associate Prof Loh Chin Ee and moderator Ibrahim Tahir, as they discuss how we can cultivate focused reading – and focus – in the age of distraction.</td>
         <td style="width: 20%;"> 9 Jul 2022,<br>10 – 11.30am</td>
-        <td style="width: 20%;">Sengkang Public Library PZ</td>
+        <td style="width: 20%;">Zoom</td>
       </tr>
 					<tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/inkfusion-comic-workshop-tickets-352490547717?aff=ebdsoporgprofile"><b>Inkfusion Comic Workshop</b></a></td>
