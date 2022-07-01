@@ -47,31 +47,35 @@ In fact, they will soon realise computational thinking exists in all aspects of 
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discovertech#lp-looping" target="_blank"><b> Let’s Learn About Looping</b></a></td>
-        <td style="width: 40%;">When you need to repeat something in code, you can use a loop. Looping allows you to repeat an action again without having to write the same instructions over and over again.</td>
-        <td style="width: 20%;"></td>
-        <td style="width: 20%;"></td>
-      </tr>
-      <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discovertech#lp-branching" target="_blank"><b>Let’s Learn About Branching</b></a></td>
-        <td>Branching, also known as decision making, equips us with choices in the instructions. There are some conditions that dictate what happens.</td>
-        <td> </td>
-        <td> </td>
-      </tr>
+			
 <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discovertech#lp-debugging" target="_blank"><b>Let’s Learn About Debugging</b></a></td>
-        <td>Computer bugs are errors in computer programmes which can cause computers or apps to crash.
+	<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discovertech#lp-looping" target="_blank"><b> Let’s Learn About Looping</b></a></td>
+	<td style="width: 40%;">When you need to repeat something in code, you can use a loop. Looping allows you to repeat an action again without having to write the same instructions over and over again.</td>
+	<td style="width: 20%;"></td>
+	<td style="width: 20%;"></td>
+			</tr>
+
+<tr>
+	<td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discovertech#lp-branching" target="_blank"><b>Let’s Learn About Branching</b></a></td>
+	<td>Branching, also known as decision making, equips us with choices in the instructions. There are some conditions that dictate what happens.</td>
+        <td> </td>
+        <td> </td>
+      </tr>
+			
+<tr>
+	<td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discovertech#lp-debugging" target="_blank"><b>Let’s Learn About Debugging</b></a></td>
+	<td>Computer bugs are errors in computer programmes which can cause computers or apps to crash.
 <br>
 Some common computer bugs include misspellings, wrong numbers, repeated and wrongly-sequenced instructions.
 <br>
 To ensure that the programmes run correctly, programmers will fix these bugs step by step in a process called debugging.</td>
-        <td> </td>
-        <td> </td>
+	<td> </td>
+	<td> </td>
       </tr>
+			
 <tr>
-        <td><a href="/digital/preschoolers/content" target="_blank"><b>Understanding Screen Time for Young Children</b></a></td>
-        <td>Video resources to help parents understand more about screen time for children.</td>
+	<td><a href="/digital/preschoolers/content" target="_blank"><b>Understanding Screen Time for Young Children</b></a></td>
+	<td>Video resources to help parents understand more about screen time for children.</td>
         <td> </td>
         <td> </td>
       </tr>
@@ -81,13 +85,13 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 
 
 <div class="horizontal-scroll margin--bottom--lg">
-<table class="generic-table">
-<thead>
-<tr> 
-	<th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
-	</tr>
-	</thead>
-	<tbody>
+	<table class="generic-table">
+		<thead>
+			<tr> 
+				<th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
+			</tr>
+		</thead>
+		<tbody>
 <tr>
 	<td> More programmes coming soon!!!</td>
 </tr>
