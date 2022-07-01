@@ -43,4 +43,4 @@ Join us in exploring the wondrous world of Science as we get involved in experim
 
 Science is all around us and learning opportunities are abundant. Through our curated list of Science programmes, have a meaningful time with your child as we learn and have fun together. Pick up tips on how learning can be done at home through simple set-ups and activities! 
 
-Click <a href="https://go.gov.sg/er-science-progs" target="_blank">here</a> for the latest programme listings.
+Click <a href="https://go.gov.sg/lxprogs-science" target="_blank">here</a> for the latest programme listings.

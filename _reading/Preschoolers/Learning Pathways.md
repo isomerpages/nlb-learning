@@ -136,8 +136,34 @@ Each registration entitles a parent-and-a child to receive 1 hands-on activity k
         <td>July 17 2022<br>10.30am – 11.30am<br></td>
         <td>Queenstown Public Library  </td>
       </tr>
-					<tr>		
-      </tr>
+					  
+
+<tr>           
+
+<td><a target="\_blank" href="https://www.eventbrite.sg/e/from-seed-to-harvest-ii-tickets-373798861457?aff=ebdsoporgprofile"><b> Arise & Farm: Engaging Communities - From Seed to Harvest II </b></a></td>
+
+        <td> This session immerses children in the process of farming, through a guided exhibit tour and tactile hands-on activities. Participants get to learn each step of the farming process which includes seed sowing, transplant, grow-out and harvest. This programme is suitable for children aged 4-6 yrs old.</td>
+
+        <td>July 30 2022<br>2.00pm – 3.00pm<br></td>
+
+        <td>Bishan Public Library  </td>
+
+      </tr>
+
+  
+  
+
+<tr>           
+
+<td><a target="\_blank" href="https://www.eventbrite.sg/e/the-world-of-plants-ii-tickets-373799673887?aff=ebdsoporgprofile"><b> Arise & Farm: Engaging Communities - The World of Plants II </b></a></td>
+
+        <td> This session teaches young children on basic plant biology on lifecycles, systems and plant diversity, which they learn through interacting with the exhibits and handicraft. This programme is suitable for children aged 4-6 yrs old.</td>
+
+        <td>July 30 2022<br>3.30pm – 4.30pm<br></td>
+
+        <td>Bishan Public Library  </td>
+
+      </tr>
   </tbody>
   </table>
 </div>

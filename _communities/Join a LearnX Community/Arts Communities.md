@@ -130,7 +130,7 @@ For Seniors, conducted twice a month in English at Jurong Regional Library.</p>
     </div>
   </div>
 <div class="col is-half-tablet padding--bottom--lg">
-    <img alt="Gundam Building" src="/images/learning-communities/arts/Gundam-01.png">
+    <img alt="Gundam Building" src="/images/learning-communities/arts/Gundam-1.png">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Gundam Building</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Interested in building Gundams? Join our Gundam club and enjoy crafting your creation together. This programme is for adults as the usage of sharp tools is involved. Please bring your own kits and tools.<br><br>

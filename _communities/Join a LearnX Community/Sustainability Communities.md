@@ -40,10 +40,10 @@ For teens, adults and seniors, conducted in English at Queenstown Public Library
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
-    <img src="/images/communities-sustainbility-2.jpg" alt="The Nature Club">
+    <img src="/images/learning-communities/sustainability/nature-club-1.png" alt="The Nature Club">
     <div class="margin--top--lg">
-      <h5 class="margin--top--sm margin--bottom--sm"><b>The Nature Club</b></h5>
-      <p class="margin--top--sm margin--bottom--sm">The Nature Club aspires to be an intergenerational book club (for all ages), creating a space for the discussion of ecological narratives.<br>
+      <h5 class="margin--top--sm margin--bottom--sm"><b>The Nature Book Club</b></h5>
+      <p class="margin--top--sm margin--bottom--sm">The Nature Book Club aspires to be an intergenerational book club (for all ages), creating a space for the discussion of ecological narratives.<br>
 				
 Collective calamities like the climate crisis - among others - often inflict wounds of ecological grief, hurt and isolation on all of us, and stories provide a language and medium of catharsis and healing for everyone who wishes to join our sessions.  <br><br>
 For all ages, conducted monthly in English at Central Public Library.<br>
