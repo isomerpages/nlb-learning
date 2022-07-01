@@ -24,7 +24,9 @@ third_nav_title: Preschoolers
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
+
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
+
 <h3><b> Learning Computational Thinking through Unplugged Play!</b></h3>
 
 Computational thinking is a creative way of thinking that allows individuals to be systematic problem solvers.
@@ -88,6 +90,9 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
     <tbody>
 			<tr>
         <td> More programmes coming soon!!!</td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
      </tr>
    </tbody>
  </table>
