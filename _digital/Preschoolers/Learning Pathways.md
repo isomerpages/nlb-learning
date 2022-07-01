@@ -81,21 +81,21 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 
 
 <div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
-      </tr>
-    </thead>
-    <tbody>
-			<tr>
-        <td> More programmes coming soon!!!</td>
-				<td> </td>
-				<td> </td>
-				<td> </td>
-     </tr>
-   </tbody>
- </table>
+<table class="generic-table">
+<thead>
+<tr> 
+	<th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
+	</tr>
+	</thead>
+	<tbody>
+<tr>
+	<td> More programmes coming soon!!!</td
+	<td> </td>
+	<td> </td>
+	<td> </td>
+</tr>
+</tbody>
+</table>
 </div>
 
 			
