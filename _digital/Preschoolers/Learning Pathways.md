@@ -106,7 +106,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
       <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Discover other Learning Focus Areas</th>
       </tr>
-			</thread>
+			</thead>
 		<tbody>
   <tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-tickets-323723233907?aff=ebdsoporgprofile"><b> Toddler Songs & Rhymes | Early READ </b></a></td>
