@@ -50,43 +50,42 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/new-dimensions-a-zine-workshop-teens-takeover-rewrite-tickets-344637840057?aff=odcleoeventsincollection"><b>New Dimensions: a Zine Workshop | Teens Takeover | re:write</b></a></td>
-        <td style="width: 40%;">Zine-making is a great way to express yourself through simple illustrations and art. Learn various techniques and thought processes and your own A4 folded marvel.</td>
-        <td style="width: 20%;"> 5 Jun 2022,<br>2 – 4pm</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/read-to-focus-the-art-of-focused-reading-in-an-age-of-distraction-tickets-359124660527?aff=ebdsoporgprofile"><b>Read to Focus: The Art of Focused Reading in an Age of Distraction</b></a></td>
+        <td style="width: 40%;">Join Prof Emerita Naomi Baron , Associate Prof Loh Chin Ee and moderator Ibrahim Tahir, as they discuss how we can cultivate focused reading – and focus – in the age of distraction.</td>
+        <td style="width: 20%;"> 9 Jul 2022,<br>10 – 11.30am</td>
         <td style="width: 20%;">Sengkang Public Library PZ</td>
       </tr>
 					<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/4-koma-comic-workshop-digital-extravaganza-registration-334415243997?aff=ebdsoporgprofile"><b>4 Koma Comic Workshop (Digital) | Extravaganza</b></a></td>
-        <td>Meet and learn with other art enthusiasts in this workshop about creating a 4-Koma, or a Japanese 4-panel comic. Please note that the programme will take place simultaneously with a <a href= https://www.eventbrite.sg/e/4-koma-comic-workshop-physical-extravaganza-registration-334417560927?aff=ebdsoporgprofile> physical</a> session. 
-        </td><td>12 Jun 2022, <br>2 – 4pm</td>
-        <td>Zoom</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/inkfusion-comic-workshop-tickets-352490547717?aff=ebdsoporgprofile"><b>Inkfusion Comic Workshop</b></a></td>
+        <td>Join this hands-on session where you will be guided on the basics of character drawing and bring home your own masterpiece!
+        </td><td>16 Jul 2022, <br>3 – 5pm</td>
+        <td>Jurong Regional Library PZ</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/the-sally-rooney-phenomenon-worth-the-hype-tickets-321076828437?aff=ebdsoporgprofile"><b>The Sally Rooney Phenomenon | Worth the Hype?</b></a></td>
-        <td> Is Sally Rooney the great millennial novelist? Or are her characters self-absorbed and her books, overrated? Join us as we explore what her novels reflect about modern relationships, art, and social class. 
-        </td><td>14 Jun 2022, <br>8 – 9pm</td>
-        <td>Zoom</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/zine-showcase-x-communities-zzzink-libraryorchard-tickets-367318548667?aff=ebdsoporgprofile"><b>Zine Showcase x Communities: Zzzink! | library@orchard</b></a></td>
+        <td> Drop by and learn how to fold a simple 8-page zine from our zine-loving friends from Communities: Zzzink! You can also look forward to the chance to vote for your favourite zines and pick up some nifty zine reproductions!
+        </td><td>17 Jul 2022, <br>2 – 5pm</td>
+        <td>library@orchard</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/writing-the-city-the-ties-that-bind-dissecting-family-bonds-tickets-328704472927?aff=ebdsoporgprofile"><b>Writing the City - The Ties That Bind: Dissecting Family Bonds</b></a></td>
-        <td> In this workshop, participants will draw from their experiences with their families to develop characters and narratives for fictional stories.
-        </td><td>18 Jun 2022, <br>2 – 4pm</td>
-        <td>Toa Payoh Public Library PZ</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/read-to-retain-how-to-take-smart-notes-tickets-359126796917?aff=ebdsoporgprofile"><b>Read to Retain: How to Take Smart Notes</b></a></td>
+        <td> Have you spent hours poring over a book, only to forget what you read? Hear from Dr. Sönke Ahrens, author of How to Take Smart Notes as he deconstructs the strategy of reading to retain.
+        </td><td>23 Jul 2022, <br>10 – 11.30 am</td>
+        <td>Zoom</td>
       </tr>
 
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/retelling-stories-of-our-asian-childrens-literature-a-librarians-world-tickets-348341527887?aff=ebdsoporgprofile"><b>Retelling Stories of Our Asian Children’s Literature | A Librarian's World</b></a></td>
-	<td>Senior librarian Juffri will regale the audience with stories and highlights from the Asian Children’s Literature collection.<br><br>
-        </td><td>22 Jun 2022, <br>6 – 7pm</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/cckpl-dungeons-dragons-experience-with-the-legitimate-business-tlb-tickets-338658856757?aff=odcleoeventsincollection" ><b>CCKPL: Dungeons & Dragons Experience with The Legitimate Business (TLB)</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/cckpl-dungeons-dragons-experience-with-the-legitimate-business-tlb-tickets-370259234337?aff=ebdsoporgprofile" ><b>CCKPL: Dungeons & Dragons Experience with The Legitimate Business (TLB)</b></a></td>
 	<td>Learn to play Dungeons and Dragons, the world’s biggest tabletop RPG. Join us for a session of storytelling, roleplaying, and dice rolling.<br><br>Participants should bring a pencil and an eraser.<br><br>
-        </td><td>25 Jun 2022, <br>1 – 5pm</td>
+        </td><td>23 Jul 2022, <br>1 – 5pm</td>
         <td>Choa Chu Kang Library PZ</td>
       </tr>
-
+<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/the-winds-twelve-quarters-the-nature-book-club-registration-365404052357?aff=ebdsoporgprofile"><b>The Wind’s Twelve Quarters | The Nature Book Club</b></a></td>
+	<td>Senior librarian Juffri will regale the audience with stories and highlights from the Asian Children’s Literature collection.<br><br>
+        </td><td>26 Jul 2022, <br>7 – 8.30pm</td>
+        <td>National Library Imagination Room</td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -100,22 +99,22 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/spicy-science-scienti-fx-teens-takeover-tickets-331648669097?aff=odcleoeventsincollection"><b>Spicy Science! | scienti-f(x) | Teens Takeover</b></a></td>
-        <td style="width: 40%;"> Dig into this online programme where you’ll learn all about the science of spice. Our food scientists will teach you how to train your tolerance for that next spicy noodle challenge, and more!</td>
-        <td style="width: 20%;">13 Jun 2022, <br>2 – 3pm</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/live-broadcasts-the-latest-trend-in-digital-marketing-my-digital-life-tickets-366354685727?aff=ebdsoporgprofile"><b>Live Broadcasts: The Latest Trend in Digital Marketing | My Digital Life</b></a></td>
+        <td style="width: 40%;"> Learn how to adopt a digital mindset and leverage live broadcasting for personal, business, and social impact.</td>
+        <td style="width: 20%;">5 Jul 2022, <br>7.30 – 8.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
-        <td><a target="_blank" href="https://www.eventbrite.sg/e/csi-forensic-lab-scienti-fx-teens-takeover-tickets-331656472437?aff=odcleoeventsincollection"><b>CSI: Forensic Lab | scienti-f(x) | Teens Takeover</b></a></td>
-        <td>Grab your lab coat and step into the shoes of forensic scientist Crystal, as she reveals the techniques used in solving mysteries and curbing crime. </td>
-        <td>15 Jun 2022<br>2 – 3pm</td>
+        <td><a target="_blank" href="https://www.eventbrite.sg/e/developing-your-career-awareness-get-professional-tickets-360256907107?aff=ebdsoporgprofile"><b>Developing your Career-awareness | Get Professional</b></a></td>
+        <td>Learn to understand your own capabilities, and how to identify the ideal job for yourself.</td>
+        <td>7 Jul 2022<br>7 – 8.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/leap-into-livestreaming-101-my-digital-life-registration-336327052267?aff=ebdsoporgprofile" ><b>Leap into Livestreaming 101 | My Digital Life</b></a></td>
-	<td>Take a leap into livestreaming & learn about the basics of video production and get hands-on experience with setting up for a livestream!<br><br>
-        </td><td>26 Jun 2022, <br>12 – 2pm</td>
-        <td>Pasir Ris Public Library PZ</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/livestreaming-for-beginners-my-digital-life-registration-360265863897?aff=ebdsoporgprofile" ><b>Livestreaming for Beginners | My Digital Life</b></a></td>
+	<td>Take a leap into livestreaming & learn about the basics of video production with hands-on experience.<br><br>
+        </td><td>14 Jul 2022, <br>7 – 8pm</td>
+        <td>Zoom</td>
       </tr>
 
     </tbody>
