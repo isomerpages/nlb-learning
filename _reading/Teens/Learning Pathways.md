@@ -82,7 +82,7 @@ Take the plunge into a deeper love for the literary.
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/the-winds-twelve-quarters-the-nature-book-club-registration-365404052357?aff=ebdsoporgprofile"><b>The Wind’s Twelve Quarters | The Nature Book Club</b></a></td>
-	<td>Senior librarian Juffri will regale the audience with stories and highlights from the Asian Children’s Literature collection.<br><br>
+	<td>The Wind's Twelve Quarters chronologically marks the writing journey of sci-fiction author, Ursula K. Le Guin, and reflects on our relations to the far-out space and the land on which we stand.<br><br>
         </td><td>26 Jul 2022, <br>7 – 8.30pm</td>
         <td>National Library Imagination Room</td>
       </tr>
