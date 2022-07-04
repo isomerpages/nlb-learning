@@ -61,16 +61,16 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/bottle-butterfly-with-acsi-earth-heroes-libraryharbourfront-tickets-331641236867?aff=odcleoeventsincollection" target="_blank"><b>Bottle Butterfly with ACS(I) | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Upcycle a small plastic bottle and transform it into a butterfly, personalised by yourself. Join <i>The Inventium Initiative</i>, a group of Year 5 students from Anglo-Chinese School (Independent), for this series of fun workshops on upcycling and environmental conservation!
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/climate-change-a-special-storytelling-session-earth-heroes-tickets-352492032157?aff=ebdssbdestsearch" target="_blank"><b>Climate Change: A Special Storytelling Session | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Mama and baby polar bear are finding it difficult to hunt for food because of the melting ice from climate change. Through this storytelling session, we can learn about the impact on global weather patterns because of climate change and the science of why climate change happens. We end with an activity to calculate the amount of greenhouse gases we produce through some of the activities we do at home that contribute to climate change.
 </td>
-        <td style="width: 20%;">21 Jun 2022, <br> 7-8pm</td>
-        <td style="width: 20%;">library@harbourfront</td>
+        <td style="width: 20%;">17 Jul 2022, <br> 12.30pm-1pm</td>
+        <td style="width: 20%;">Jurong Regional Library</td>
 			</tr>
 			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/living-with-nature-storytelling-by-nparks-tickets-336258697817?aff=odcleoeventsincollection" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Join NParks for our Living with Nature sharing series, starting with a storytelling on how some commonly found reptiles and amphibians (or herps) in Singapore come together to solve a mystery! <br><br>Following the storytelling segment, there will be a craft activity for both parent and child to make their favourite herp!</td>
-				<td style="width: 20%;">25 Jun 2022, 11-11.45am</td>
+				<td style="width: 20%;"><a href="https://www.eventbrite.com/e/make-a-milk-carton-wallet-with-muzart-earth-heroes-tickets-355017696487?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>Make a Milk Carton Wallet with MuzArt | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Instead of tossing out your used milk or juice cartons, what if you could make them into something more fun? Join us for a fun crafting session to create your own DIY wallet using these cartons and appreciate the value of Upcycling! </td>
+				<td style="width: 20%;">17 Jul 2022, 3.30-4.30pm</td>
         <td style="width: 20%;">Woodlands Regional Library</td>
 			</tr>
 			<tr>
