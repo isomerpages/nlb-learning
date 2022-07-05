@@ -92,6 +92,11 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 			<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/inkfusion-comic-workshop-tickets-352490547717?aff=ebdssbdestsearch" target="_blank"><b>Inkfusion Comic Workshop</b></a></td>
+        <td style="width: 40%;">What do Demon slayers, ninjas, wizards and school students have in common? Answer- They are all characters that can be found in comics! Join leading media production and training studio Ink Fusion in this hands on session, where participants will be guided step by step on the basics of character drawing. Dive into the colorful world of character design, and bring home your very own comics masterpiece! </td>
+        <td style="width: 20%;">16 July 2022,<br>3pm-5pm</td>
+        <td style="width: 20%;">Jurong Regional Library</td>
+      </tr><tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/save-smart-with-smiley-8-10-years-old-tickets-352487879737?aff=ebdssbdestsearch" target="_blank"><b>Save Smart with Smiley
 </b></a></td>
         <td style="width: 40%;">In POSB’s Save Smart with Smiley programme, children will learn how to save smart, identify the difference between “Needs” and “Wants,” and spend wisely with healthy spending habits. Coupled with printable learning materials and scenario-based activities, children will learn how to create a savings plan and track their expenditure. They will also find out more about different cashless and digital payment modes in preparation for navigating the digital payment world.</td>
