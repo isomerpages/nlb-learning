@@ -62,23 +62,23 @@ Go green with your child to build an eco-friendly future together.
     <tbody>
 			<tr>
          <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/climate-change-a-special-storytelling-session-earth-heroes-tickets-352492032157?aff=ebdssbdestsearch" target="_blank"><b>Climate Change: A Special Storytelling Session | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Mama and baby polar bear are finding it difficult to hunt for food because of the melting ice from climate change. Through this storytelling session, we can learn about the impact on global weather patterns because of climate change and the science of why climate change happens. We end with an activity to calculate the amount of greenhouse gases we produce through some of the activities we do at home that contribute to climate change.
+        <td style="width: 40%;">Mama and baby polar bear are finding it difficult to hunt for food because of the melting ice from climate change. Through this storytelling session, we can learn about the impact on global weather patterns because of climate change and the science of why climate change happens.
 </td>
-        <td style="width: 20%;">17 Jul 2022, <br> 12.30pm-1pm</td>
+        <td style="width: 20%;">30 Jul 2022, <br> 3.30pm-4.30pm</td>
         <td style="width: 20%;">Jurong Regional Library</td>
 			</tr>
 			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.com/e/make-a-milk-carton-wallet-with-muzart-earth-heroes-tickets-355017696487?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>Make a Milk Carton Wallet with MuzArt | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Instead of tossing out your used milk or juice cartons, what if you could make them into something more fun? Join us for a fun crafting session to create your own DIY wallet using these cartons and appreciate the value of Upcycling! </td>
-				<td style="width: 20%;">17 Jul 2022, 3.30-4.30pm</td>
+				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/tinkerworks-saving-planet-earth-earth-heroes-tickets-355979673787?aff=ebdssbdestsearch" target="_blank"><b>TinkerWorks - Saving Planet Earth | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Get inspired to save planet Earth through an engaging book discussion and tinkering activity! </td>
+				<td style="width: 20%;">27 Jul 2022, 4pm-5pm</td>
         <td style="width: 20%;">Woodlands Regional Library</td>
 			</tr>
 			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/say-no-to-food-waste-earth-heroes-tickets-344599906597?aff=odcleoeventsincollection" target="_blank"><b>CHF: Lesson 1: Say No to Food Waste</b></a></td>
-        <td style="width: 40%;">"Say No to Food Waste" is a brand new educational programme for children presented by CapitaLand volunteers. <br><br>Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste.
+         <td style="width: 20%;"><a href="https://www.eventbrite.com/e/make-a-milk-carton-wallet-with-muzart-earth-heroes-tickets-355019923147?aff=ebdssbdestsearch&keep_tld=1" target="_blank"><b>Make a Milk Carton Wallet with MuzArt | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Instead of tossing out your used milk or juice cartons, what if you could make them into something more fun? Join us for a fun crafting session to create your own DIY wallet using these cartons and appreciate the value of Upcycling!
 </td>
-        <td style="width: 20%;">25 Jun 2022, <br> 2-3pm</td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;">30 Jul 2022, <br> 3.30pm-4.30pm</td>
+        <td style="width: 20%;">Jurong Regional Library</td>
 			</tr>
     </tbody>
   </table>
