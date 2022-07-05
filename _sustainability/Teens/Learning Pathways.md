@@ -91,7 +91,7 @@ Be informed and make an impact to the environment.
         <td style="width: 40%;">Looking for some good comic reads? Interested in the misconceptions and actual process of comics creation in Singapore? Check out Puracomixmag for Singapore produced, international award winning comic titles covering a vast range of themes and genres. Learn about the 3 essential items publishers look out for, and if you have your own works, feel free to bring them for immediate feedback & advice from a professional editor and mentor team!
 </td>
         <td style="width: 20%;">16 Jul 2022, 2pm-3pm</td>
-        <td style="width: 20%;">Public Libraries Singapore’s Facebook</td>
+        <td style="width: 20%;">Jurong Regional Library</td>
       </tr>
   </tbody>
   </table>
