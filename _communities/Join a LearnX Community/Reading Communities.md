@@ -423,7 +423,7 @@ For adults, conducted once every month in Tamil, online.</p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
-<img src="/images/learning-communities/arts/ LC-Reading-Dungeons&DragonsExperience-01.jpg" alt="Dungeons & Dragons Experience with The Legitimate Business">
+<img src="/images/learning-communities/reading/ LC-Reading-Dungeons&DragonsExperience-01.jpg" alt="Dungeons & Dragons Experience with The Legitimate Business">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Dungeons & Dragons Experience with The Legitimate Business </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> The legendary tabletop role-playing game has arrived at NLB. Learn about Dungeons & Dragons with The Legitimate Business. Step into the shoes of your very own fantasy character and enter the Forgotten Realms. <br>
