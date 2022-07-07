@@ -707,7 +707,7 @@ Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/article
 
 <h5> Three Dishes One Soup: Inside the Singapore Kitchen</h5>
 Zhang, Lace. (2019). <i> Three Dishes One Soup: Inside the Singapore Kitchen.</i><br>
-<a target="_blank" href="https://nlb.overdrive.com/media/4639984">
+	<a target="_blank" href="https://nlb.overdrive.com/media/4639984"></a>
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/LZhang.png">
 <p> It is common to find several dishes served with a bowl of rice and soup in Singapore Chinese families. Author Lace Zhang records her family's recipes with detailed explanations and step-by-step photographs.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/4639984">Borrow the eBook here. </a></p>
@@ -865,18 +865,18 @@ Rajan, Uma (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singapo
 	<li>A popular destination for hawker food among locals and tourists, <i>Lau Pa Sat</i> (former Telok Ayer Market) was one of Singapore’s oldest wet markets with a history that dates to the 1820s. The wet market was renovated and turned into a hawker centre in 1972 as its surroundings were redeveloped into a commercial and financial district.</li>
 </ul>
 </td>
-</tr</tbody></table>
+							</tr></tbody></table>
 
 Get to know the history and development of hawker centres and the array of dishes they offer through the resources here.
 
 <h4>Articles</h4>
 <div>
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_47\_2004-12-27.html" target="\_blank"> Travelling hawkers by Naidu Ratnala Thulaja </a></h5>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12-27.html" target="_blank"> Travelling hawkers by Naidu Ratnala Thulaja </a></h5>
 <p>Hawker culture in Singapore had its roots in street food sold by itinerant hawkers during the 19th to mid-20th centuries. While hawkers served the needs of the population, problems such as food contamination and traffic obstruction led to their regulation.</p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_47\_2004-12-27.html" target="\_blank"> Travelling hawkers </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12-27.html" target="_blank"> Travelling hawkers </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
 	
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1637\_2010-01-31.html" target="\_blank"> Hawker centres by Tung Ai Jui </a></h5>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1637_2010-01-31.html" target="_blank"> Hawker centres by Tung Ai Jui </a></h5>
 
 <p> In the interests of public health, the government moved to regulate food hawkers in the 1960s and relocated them from the streets to purpose-built food centres over the 1970s-80s.</p>
 
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1637\_2010-01-31.html" target="\_blank"> Hawker centres </a>(2020, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1637\_2010-01-31.html" target="_blank"> Hawker centres </a>(2020, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
