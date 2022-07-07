@@ -867,4 +867,10 @@ Rajan, Uma (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singapo
 </tr</tbody></table>
 
 Get to know the history and development of hawker centres and the array of dishes they offer through the resources here.
-	
+
+<h4>Articles</h4>
+<div>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_47\_2004-12-27.html" target="\_blank"> Travelling hawkers by Naidu Ratnala Thulaja </a></h5>
+<p>Hawker culture in Singapore had its roots in street food sold by itinerant hawkers during the 19th to mid-20th centuries. While hawkers served the needs of the population, problems such as food contamination and traffic obstruction led to their regulation.</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_47\_2004-12-27.html" target="\_blank"> Travelling hawkers</a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
+
