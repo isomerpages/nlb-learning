@@ -517,7 +517,7 @@ The second episode in a two-part series on hawker culture in Singapore, this vid
 </div>
 </div>
 
-
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-food-heritage" class="margin--bottom--lg"><b> Singapore’s Food Heritage: Overview </b></h5>
@@ -852,3 +852,7 @@ Rajan, Uma (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singapo
 <p> The winner of the 2012 World Gourmand Best Indian cuisine book, Spice potpourri by Dr Uma Rajan, brings us through a variety of flavourful Singaporean Indian dishes. </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
+<h5 class="margin--bottom--lg" id="lp-hawker-centres"><b>Singapore's Food Heritage: Hawker Centres</b></h5>
+	
+	
