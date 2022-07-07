@@ -706,7 +706,8 @@ Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/article
 <h4>eBooks</h4>
 
 <h5> Three Dishes One Soup: Inside the Singapore Kitchen</h5>
-Zhang, Lace. (2019). <i> Three Dishes One Soup: Inside the Singapore Kitchen.</i><br> 
+Zhang, Lace. (2019). <i> Three Dishes One Soup: Inside the Singapore Kitchen.</i><br>
+<a target="_blank" href="https://nlb.overdrive.com/media/4639984">
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/LZhang.png">
 <p> It is common to find several dishes served with a bowl of rice and soup in Singapore Chinese families. Author Lace Zhang records her family's recipes with detailed explanations and step-by-step photographs.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/4639984">Borrow the eBook here. </a></p>
@@ -879,3 +880,4 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_47\_2004-
 <p> In the interests of public health, the government moved to regulate food hawkers in the 1960s and relocated them from the streets to purpose-built food centres over the 1970s-80s.</p>
 
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1637\_2010-01-31.html" target="\_blank"> Hawker centres </a>(2020, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
+	
