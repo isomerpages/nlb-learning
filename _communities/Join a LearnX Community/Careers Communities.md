@@ -39,8 +39,8 @@ For more information, <a href="https://www.facebook.com/ACCA.Singapore/" target=
 		</div>
   </div>
 <div class="col is-half-tablet padding--bottom--lg">
-    <img src="/images/learning-communities/careers/Toastmasters-01.png" alt="Life Communication Skills Toastmasters Club">
-    <div class="margin--top--lg">
+	<img src="/images/learning-communities/careers/Toastmasters-01.png" alt="Life Communication Skills Toastmasters Club">
+	<div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Life Communication Skills (LCS) Toastmasters Club</b></h5>
       <p class="margin--top--sm margin--bottom--sm">We are a public club that supports the mastery of communication and leadership skills for career and personal development. We are actively expanding our community and extending our knowledge and expertise to benefit more individuals. We collaborate with agencies who have the same synergy and we welcome everyone to join us on this amazing and meaningful journey!</p>
       <p>For adults, conducted monthly in English at Toa Payoh Public Library, Bishan Public Library and online.<br><br>
@@ -48,4 +48,15 @@ For more information, <a href="https://www.facebook.com/ACCA.Singapore/" target=
       <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
     </div>
   </div>
+<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
+    <img src="/images/learning-communities/careers/LC-Career-LearningDay-01.jpg" alt="Learning Day">
+    <div class="margin--top--lg">
+			<h5 class="margin--top--sm margin--bottom--sm"><b>Learning Day</b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> Learning Day is a gathering in which folks teach and learn something, anything, from each other! No two Learning Days are the same – the topics depend on what participants share. They have ranged from cooking a steak, the psychology of learning, to the tech behind Google Docs. We love the spontaneity, and sometimes discovering “unknown unknowns” from other folks.<br><br>
+Open to all, conducted monthly in English at Serangoon Public Library or Bishan Public Library.<br><br>
+For more information, <a href="https://www.facebook.com/groups/praxiumlearning" target="\_blank">visit their page</a>.</p><br>
+     <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="\_blank">Click here for upcoming sessions</a></p>
+    </div>
+  </div>
 </div>
