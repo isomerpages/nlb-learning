@@ -861,9 +861,10 @@ Rajan, Uma (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singapo
                         <td>
 <h4>Did you know...</h4>
 <ul>
-<li>A popular destination for hawker food among locals and tourists, _Lau Pa Sat_ (former Telok Ayer Market) was one of Singapore’s oldest wet markets with a history that dates to the 1820s. The wet market was renovated and turned into a hawker centre in 1972 as its surroundings were redeveloped into a commercial and financial district.</li>
+	<li>A popular destination for hawker food among locals and tourists, <i>Lau Pa Sat</i> (former Telok Ayer Market) was one of Singapore’s oldest wet markets with a history that dates to the 1820s. The wet market was renovated and turned into a hawker centre in 1972 as its surroundings were redeveloped into a commercial and financial district.</li>
 </ul>
 </td>
 </tr</tbody></table>
 
 Get to know the history and development of hawker centres and the array of dishes they offer through the resources here.
+	
