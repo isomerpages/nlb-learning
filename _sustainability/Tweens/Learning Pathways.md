@@ -61,17 +61,12 @@ Taking care of the environment starts with YOU!
       </tr>
     </thead>
     <tbody>
-			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/from-seed-to-harvest-i-earth-heroes-tickets-355028258077?aff=ebdssbdestsearch" target="_blank"><b>From Seed to Harvest I Earth Heroes</b></a></td>
-        <td style="width: 40%;">This session immerses children in the process of farming, through a guided exhibit tour and tactile hands-on activities. Participants get to learn each step of the farming process which includes seed sowing, transplant, grow-out and harvest.</td>
-				<td style="width: 20%;">16 Jul 2022, 2pm-3pm</td>
-        <td style="width: 20%;">Bishan Public Library</td>
-			</tr>
-			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/the-world-of-plants-i-budding-scientists-tickets-355028799697?aff=ebdssbdestsearch" target="_blank"><b>The World of Plants | Earth Heroes</b></a></td>
-        <td style="width: 40%;">This session teaches young children on basic plant biology on  lifecycles, systems and plant diversity, which they learn through interacting with the exhibits and handicraft.</td>
-				<td style="width: 20%;">16 Jul 2022, 3.30pm-4.30pm</td>
-        <td style="width: 20%;">Bishan Public Library</td>
+				<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/climate-change-a-special-storytelling-session-earth-heroes-tickets-352492032157?aff=ebdssbdestsearch" target="_blank"><b>Climate Change: A Special Storytelling Session | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Mama and baby polar bear are finding it difficult to hunt for food because of the melting ice from climate change. Through this storytelling session, we can learn about the impact on global weather patterns because of climate change and the science of why climate change happens.
+</td>
+        <td style="width: 20%;">30 Jul 2022, <br> 3.30pm-4.30pm</td>
+        <td style="width: 20%;">Jurong Regional Library</td>
 			</tr>
 			<tr>
 				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/be-an-eco-hero-storytelling-by-commonwealth-secondary-tickets-368068431587?aff=ebdssbdestsearch" target="_blank"><b>Be an Eco Hero! Storytelling by Commonwealth Secondary</b></a></td>
