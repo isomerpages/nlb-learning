@@ -64,7 +64,7 @@ Go green with your child to build an eco-friendly future together.
          <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/climate-change-a-special-storytelling-session-earth-heroes-tickets-352492032157?aff=ebdssbdestsearch" target="_blank"><b>Climate Change: A Special Storytelling Session | Earth Heroes</b></a></td>
         <td style="width: 40%;">Mama and baby polar bear are finding it difficult to hunt for food because of the melting ice from climate change. Through this storytelling session, we can learn about the impact on global weather patterns because of climate change and the science of why climate change happens.
 </td>
-        <td style="width: 20%;">30 Jul 2022, <br> 3.30pm-4.30pm</td>
+        <td style="width: 20%;">17 Jul 2022, <br>12.30pm-1pm</td>
         <td style="width: 20%;">Jurong Regional Library</td>
 			</tr>
 			<tr>
