@@ -882,3 +882,7 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1637\_2010-01-31.html" target="_blank"> Hawker centres </a>(2020, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
 
 <h4>eBooks</h4>
+
+<h5> Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore</h5>
+
+Kong, Lily and Vineeta Sinha (2015).<i> Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore.</i><br>
