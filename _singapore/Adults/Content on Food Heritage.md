@@ -486,6 +486,23 @@ Hawker culture is an integral part of everyday life in Singapore where people of
 
 Check out these resources about the evolution of hawker culture and hawker centres in Singapore.
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/pw1oLexEGzo" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+
+<p><b>
+A History Of Singapore Hawker Culture: From Food To Architecture | Hawkers In Our Centre | Part 1/2 | CNA Insider (48 mins)
+	</b><br>The first episode in a two-part series on hawker culture in Singapore, this video traces the beginnings, growth, and transformation of the hawker trade against the backdrop of Singapore’s development. It also covers the establishment of hawker centres in the 1970s.<br><br>
+<small>Source: A History Of Singapore Hawker Culture: From Food To Architecture | Hawkers In Our Centre | Part 1/2 | CNA Insider (2020, Dec 17). CNA. Retrieved 2022, February 14.</small></p>
+</div>
+</div>
+
+
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-food-heritage" class="margin--bottom--lg"><b> Singapore’s Food Heritage: Overview </b></h5>
 
