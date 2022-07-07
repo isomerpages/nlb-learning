@@ -886,3 +886,15 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1637\_201
 <h5> Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore</h5>
 
 Kong, Lily and Vineeta Sinha (2015).<i> Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore.</i><br>
+
+<a href="https://nlb.overdrive.com/media/3715193" target="_blank"></a>
+
+<img src="/images/Singapore%20Food%20Heritage/FoodFoodwaysAndFoodscapes.png" style="width:200px;">
+
+<p>This volume provides multidisciplinary perspectives on the study of food as a window to the social and cultural history and geography of Singapore. Chapter 1, “Taking the Street out of Street Food”, by sociologist Chua Beng Huat offers a biographical account of street food consumption and how it has changed based on life in the neighbourhood of Bukit Ho Swee. </p>
+
+<p><a target="_blank" href="https://nlb.overdrive.com/media/3715193">
+
+Borrow the eBook here.</a></p>
+
+Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook.)
