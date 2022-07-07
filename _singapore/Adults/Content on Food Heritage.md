@@ -913,13 +913,13 @@ Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-wi
 <h5> Singapore hawker centres: people, places, food</h5>
 Kong, Lily (2007). <i>Singapore hawker centres: people, places, food</i>. Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON) 
 <br>
-<img src="/images/Singapore%20Food%20Heritage/SingaporeHawkerCentres.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/SingaporeHawkerCentres.png" style="width:200px;">
 <p>This book chronicles the beginnings and development of hawker centres in Singapore, with a focus on planning and design, and the different stakeholders involved. It also highlights the significance of hawker centres and hawker food to Singaporean life and culture. </p>
 
 <h5> Hawker centre food: ambrosia for the people</h5>
 Lai, Chee Kien & Koh, Hon Teng (2021). <i>Hawker centre food: ambrosia for the people</i>. Singapore: Achates 360 Pte Ltd. (Call no.: RSING 641.595957 LAI) 
 <br>
-<img src="/images/Singapore%20Food%20Heritage/HawkerCentreFood.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Food%20Heritage/HawkerCentreFood.png" style="width:200px;">
 <p>On 16 December 2020, hawker culture in Singapore was officially inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity. Published in 2021 with support from the National Heritage Board, this book, which features illustrations and stories of 129 food stalls from 111 hawker centres across the island, contributes to the documentation of Singapore’s evolving hawker culture and food heritage. </p>
 
 
