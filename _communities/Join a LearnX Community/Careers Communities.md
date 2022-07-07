@@ -55,8 +55,8 @@ For more information, <a href="https://www.facebook.com/ACCA.Singapore/" target=
 			<h5 class="margin--top--sm margin--bottom--sm"><b>Learning Day</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Learning Day is a gathering in which folks teach and learn something, anything, from each other! No two Learning Days are the same – the topics depend on what participants share. They have ranged from cooking a steak, the psychology of learning, to the tech behind Google Docs. We love the spontaneity, and sometimes discovering “unknown unknowns” from other folks.<br><br>
 Open to all, conducted monthly in English at Serangoon Public Library or Bishan Public Library.<br><br>
-For more information, <a href="https://www.facebook.com/groups/praxiumlearning" target="\_blank">visit their page</a>.</p><br>
-     <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="\_blank">Click here for upcoming sessions</a></p>
+For more information, <a href="https://www.facebook.com/groups/praxiumlearning" target="_blank">visit their page</a>.</p><br>
+     <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming sessions</a></p>
     </div>
   </div>
 </div>
