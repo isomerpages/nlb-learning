@@ -480,6 +480,12 @@ Prata is not the only Indian bread available in Singapore. MothershipSG seeks th
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<h5 class="margin--bottom--lg" id="hawker-centres"><b>Playlist: Hawker Centres</b></h5>
+
+Hawker culture is an integral part of everyday life in Singapore where people of diverse backgrounds gather, mingle, and bond over meals prepared by stall owners at hawker centres. Bringing together the favourite dishes of different ethnic communities, hawker centres and hawker food reflect the multicultural identity of Singapore.
+
+Check out these resources about the evolution of hawker culture and hawker centres in Singapore.
+
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-food-heritage" class="margin--bottom--lg"><b> Singapore’s Food Heritage: Overview </b></h5>
 
