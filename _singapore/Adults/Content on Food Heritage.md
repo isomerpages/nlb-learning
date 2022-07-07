@@ -906,4 +906,5 @@ Temasek Polytechnic (2015).<i> Singapore hawker classics unveiled: Decoding 25 f
 <p>This book covers 25 of Singapore’s favourite hawker dishes, in extensive detail, including information on its heritage, its aroma, taste and texture, its nutritional value, as well as clear step-by-step cooking instructions with photographs. </p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/2472122">
 Borrow the eBook here.</a></p>
-Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
+	
