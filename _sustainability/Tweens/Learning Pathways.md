@@ -70,7 +70,7 @@ Taking care of the environment starts with YOU!
 			</tr>
 			<tr>
 				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/be-an-eco-hero-storytelling-by-commonwealth-secondary-tickets-368068431587?aff=ebdssbdestsearch" target="_blank"><b>Be an Eco Hero! Storytelling by Commonwealth Secondary</b></a></td>
-        <td style="width: 40%;">Join students from Commonwealth Secondary School's Drama Club as they perform a dramatized storytelling piece and learn about how deforestation affects wildlife!There will be a craft activity following the storytelling.</td>
+        <td style="width: 40%;">Join students from Commonwealth Secondary School's Drama Club as they perform a dramatized storytelling piece and learn about how deforestation affects wildlife! There will be a craft activity following the storytelling.</td>
 				<td style="width: 20%;">20 Jul 2022, 5pm-6pm</td>
         <td style="width: 20%;">Jurong Regional Library</td>
 			</tr>
