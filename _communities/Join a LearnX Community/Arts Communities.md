@@ -142,7 +142,8 @@ For Teens and Adults, conducted monthly in English at Woodlands Regional Library
 	<img src="/images/learning-communities/arts/LC-Arts-WoodlandsUkuleleJammingClub-01.jpg" alt="Woodlands Ukulele Jamming Club">
 	<div class="margin--top--lg">
 		<h5 class="margin--top--sm margin--bottom--sm"><b> Woodlands Ukulele Jamming Club </b></h5>
-		<p class="margin--top--sm margin--bottom--sm"> Strum and sing along to oldies. Woodlands Ukulele Jamming Club, a community of ukulele enthusiasts, invites you to join them once a month, either on the first or second Tuesday, at Woodlands Regional Library. This club is suitable for those who have a basic knowledge of the ukulele chords and simple strumming skills. Get your ukulele and tuner ready and jam along.<br><br>
+		<p class="margin--top--sm margin--bottom--sm"> Strum and sing along to oldies. Woodlands Ukulele Jamming Club, a community of ukulele enthusiasts, invites you to join them once a month, either on the first or second Tuesday, at Woodlands Regional Library. This club is suitable for those who have a basic knowledge of the ukulele chords and simple strumming skills. Get your ukulele and tuner ready and jam along.
+<br><br>
 For those aged 50 years and above. These sessions will be conducted in English at Woodlands Regional Library.</p>
 		<p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank"> Click here for upcoming sessions</a></p>
   </div>
