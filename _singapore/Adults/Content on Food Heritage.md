@@ -501,6 +501,22 @@ A History Of Singapore Hawker Culture: From Food To Architecture | Hawkers In Ou
 <small>Source: A History Of Singapore Hawker Culture: From Food To Architecture | Hawkers In Our Centre | Part 1/2 | CNA Insider (2020, Dec 17). CNA. Retrieved 2022, February 14.</small></p>
 </div>
 </div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/9zTa3cAuKLo" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Preserving Singapore's Ageing Hawker Culture: The New Wave | Hawkers In Our Centre | Part 2/2 | CNA Insider (48 mins)</b><br>
+
+The second episode in a two-part series on hawker culture in Singapore, this video looks at the challenges confronting the survival of hawker food heritage and how it continues to evolve with a younger generation at the helm today.<br><br>
+
+<small>Source: Preserving Singapore's Ageing Hawker Culture: The New Wave | Hawkers In Our Centre | Part 2/2 | CNA Insider (2020, Dec 17). CNA. Retrieved 2022, February 14.</small></p>
+</div>
+</div>
+
 
 
 <h3><b>Learning Package</b></h3>
