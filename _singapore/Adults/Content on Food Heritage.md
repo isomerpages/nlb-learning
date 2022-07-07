@@ -86,7 +86,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 	</div>
 <div class="col is-one-third">
 		<div class="clickbox is-mint-jade">
-			<a href="#indian-cuisine">
+			<a href="#hawker-centres">
 				<span>Playlist: Hawker Centres</span>
 			</a>
 		</div>
@@ -142,7 +142,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
-<a href="#lp-Indian-cuisine">
+<a href="#lp-hawker-centres">
 <span>Learning Package:<br>Hawker Centres</span>
 </a>
 </div>
