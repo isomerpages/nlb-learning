@@ -67,6 +67,6 @@ For Seniors, conducted monthly at Bishan Public Library.<br><br></p>
       <h5 class="margin--top--sm margin--bottom--sm"><b> Let’s Dance </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Let’s Dance is a self-run Learning Community by seniors who meet regularly to engage in learning basic dance moves. The type of dance style varies depending on what is taught by the instructor. So if you don’t know how to dance, here’s your opportunity to learn how to do so! And if you already know how to, just come and dance with everyone else! Participants are required to commit to 4 sessions per registration for each Dance Form.<br>
 For Seniors, conducted twice a month at Geylang East Public Library.<br><br></p>
-      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="\_blank"> Click here for upcoming sessions</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank"> Click here for upcoming sessions</a></p>
     </div>
   </div>
