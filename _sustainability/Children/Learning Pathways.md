@@ -61,24 +61,24 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/bottle-butterfly-with-acsi-earth-heroes-libraryharbourfront-tickets-331641236867?aff=odcleoeventsincollection" target="_blank"><b>Bottle Butterfly with ACS(I) | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Upcycle a small plastic bottle and transform it into a butterfly, personalised by yourself. Join <i>The Inventium Initiative</i>, a group of Year 5 students from Anglo-Chinese School (Independent), for this series of fun workshops on upcycling and environmental conservation!
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/climate-change-a-special-storytelling-session-earth-heroes-tickets-352492032157?aff=ebdssbdestsearch" target="_blank"><b>Climate Change: A Special Storytelling Session | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Mama and baby polar bear are finding it difficult to hunt for food because of the melting ice from climate change. Through this storytelling session, we can learn about the impact on global weather patterns because of climate change and the science of why climate change happens.
 </td>
-        <td style="width: 20%;">21 Jun 2022, <br> 7-8pm</td>
-        <td style="width: 20%;">library@harbourfront</td>
+        <td style="width: 20%;">17 Jul 2022, <br>12.30pm-1pm</td>
+        <td style="width: 20%;">Jurong Regional Library</td>
 			</tr>
 			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/living-with-nature-storytelling-by-nparks-tickets-336258697817?aff=odcleoeventsincollection" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Join NParks for our Living with Nature sharing series, starting with a storytelling on how some commonly found reptiles and amphibians (or herps) in Singapore come together to solve a mystery! <br><br>Following the storytelling segment, there will be a craft activity for both parent and child to make their favourite herp!</td>
-				<td style="width: 20%;">25 Jun 2022, 11-11.45am</td>
+				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/tinkerworks-saving-planet-earth-earth-heroes-tickets-355979673787?aff=ebdssbdestsearch" target="_blank"><b>TinkerWorks - Saving Planet Earth | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Get inspired to save planet Earth through an engaging book discussion and tinkering activity! </td>
+				<td style="width: 20%;">27 Jul 2022, 4pm-5pm</td>
         <td style="width: 20%;">Woodlands Regional Library</td>
 			</tr>
 			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/say-no-to-food-waste-earth-heroes-tickets-344599906597?aff=odcleoeventsincollection" target="_blank"><b>CHF: Lesson 1: Say No to Food Waste</b></a></td>
-        <td style="width: 40%;">"Say No to Food Waste" is a brand new educational programme for children presented by CapitaLand volunteers. <br><br>Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste.
+         <td style="width: 20%;"><a href="https://www.eventbrite.com/e/make-a-milk-carton-wallet-with-muzart-earth-heroes-tickets-355019923147?aff=ebdssbdestsearch&keep_tld=1" target="_blank"><b>Make a Milk Carton Wallet with MuzArt | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Instead of tossing out your used milk or juice cartons, what if you could make them into something more fun? Join us for a fun crafting session to create your own DIY wallet using these cartons and appreciate the value of Upcycling!
 </td>
-        <td style="width: 20%;">25 Jun 2022, <br> 2-3pm</td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;">30 Jul 2022, <br> 3.30pm-4.30pm</td>
+        <td style="width: 20%;">Jurong Regional Library</td>
 			</tr>
     </tbody>
   </table>
@@ -93,11 +93,16 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
-        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
-</td>
-        <td style="width: 20%;">Apr-Jun 2022</td>
-        <td style="width: 20%;">Public Libraries Singapore’s Facebook</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/inkfusion-comic-workshop-tickets-352490547717?aff=ebdssbdestsearch" target="_blank"><b>Inkfusion Comic Workshop</b></a></td>
+        <td style="width: 40%;">What do Demon slayers, ninjas, wizards and school students have in common? Answer- They are all characters that can be found in comics! Join leading media production and training studio Ink Fusion in this hands on session, where participants will be guided step by step on the basics of character drawing. Dive into the colorful world of character design, and bring home your very own comics masterpiece! </td>
+        <td style="width: 20%;">16 July 2022,<br>3pm-5pm</td>
+        <td style="width: 20%;">Jurong Regional Library</td>
+      </tr><tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/save-smart-with-smiley-8-10-years-old-tickets-352487879737?aff=ebdssbdestsearch" target="_blank"><b>Save Smart with Smiley
+</b></a></td>
+        <td style="width: 40%;">In POSB’s Save Smart with Smiley programme, children will learn how to save smart, identify the difference between “Needs” and “Wants,” and spend wisely with healthy spending habits. Coupled with printable learning materials and scenario-based activities, children will learn how to create a savings plan and track their expenditure. They will also find out more about different cashless and digital payment modes in preparation for navigating the digital payment world.</td>
+        <td style="width: 20%;">30 July 2022,<br>11am-12pm</td>
+        <td style="width: 20%;">Woodlands Regional Library</td>
       </tr>
      </tbody>
   </table>

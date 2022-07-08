@@ -42,7 +42,7 @@ For Adults, conducted once every two months in English at Central Public Library
     <img alt="Book Ninjas" src="/images/learning-communities/reading/LC-Reading-StockImage-02.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Book Ninjas </b></h5>
-      <p class="margin--top--sm margin--bottom--sm"> A digital book club for 12 weeks suitable for Tamil children from 3 to 6 years. Club includes storytelling and a play-based activities, conducted over Zoom.<br><br>
+      <p class="margin--top--sm margin--bottom--sm"> A digital book club for 12 weeks suitable for Tamil-speaking children from 3 to 6 years. Club includes storytelling and a play-based activities, conducted over Zoom.<br><br>
 For Children between 3 to 6 years old, conducted ad-hoc in Tamil online.</p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
     </div>
@@ -422,3 +422,13 @@ For adults, conducted once every month in Tamil, online.</p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions">Click here for upcoming session</a></p>
     </div>
   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+<img src="/images/learning-communities/reading/LC-Reading-Dungeons&DragonsExperience-01.jpg" alt="Dungeons & Dragons Experience with The Legitimate Business">
+		<div class="margin--top--lg">
+			<h5 class="margin--top--sm margin--bottom--sm"><b> Dungeons & Dragons Experience with The Legitimate Business </b></h5>
+			<p class="margin--top--sm margin--bottom--sm"> The legendary tabletop role-playing game has arrived at NLB. Learn about Dungeons & Dragons with The Legitimate Business. Step into the shoes of your very own fantasy character and enter the Forgotten Realms. <br>
+All are welcome to these sessions. Newcomers and casual players can register their interest through Eventbrite and be led through D&D campaigns by our friendly Dungeon Masters. Veteran players can sign up directly via Warhorn. <br><br>
+For teens and older, conducted on the 4th Saturday of each month at Choa Chu Kang Public Library.</p>
+			<p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/cckpl-dnd " target="_blank"> Click here for upcoming sessions</a></p>
+    </div>
+  </div>

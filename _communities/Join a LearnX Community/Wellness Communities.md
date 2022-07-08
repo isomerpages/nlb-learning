@@ -40,8 +40,8 @@ For Teens and Adults, conducted monthly in English at library@orchard and online
     </div>
   </div>
  <div class="col is-half-tablet padding--bottom--lg">
-    <img src="/images/learning-communities/wellness/Flourish-Wellness-LC.png" alt="Flourish!">
-    <div class="margin--top--lg">
+    <img src="/images/learning-communities/wellness/Flourish-Wellness-LC.png" alt="Flourish!"> 
+	 <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Flourish!</b></h5>
       <p class="margin--top--sm margin--bottom--sm">The journey to understand and manage our health, as well as the health of our loved ones, never ends. Stay up-to-date and active with our subject matter experts from Sengkang General Hospital and our community partners as we cover a broad range of topics and share useful resources during our session.
 <br><br>
@@ -49,4 +49,24 @@ For those aged 50 years and above. These sessions will be conducted in English a
 				<br><br></p>
       <p class="margin--top--sm margin--bottom--sm"><a href="https://www.eventbrite.com/cc/programmes-on-wellness-66209" target="_blank">Click here for upcoming session</a></p>
     </div>
-  </div>
+  </div>    
+<div class="row is-multiline">
+	<div class="col is-half-tablet padding--bottom--lg">
+    <img src="/images/learning-communities/wellness/LC-Wellness-SMSknowledgecafe-01.jpg" alt="SMS Knowledge Café">
+		<div class="margin--top--lg">
+			<h5 class="margin--top--sm margin--bottom--sm"><b>SMS Knowledge Café </b></h5>
+			<p class="margin--top--sm margin--bottom--sm"> SMS Knowledge Café is a platform where seniors have fun and productive conversations with each other in a safe and conducive environment. It is a peer-led sharing of life experiences and wisdom to make meaning of living in a complex world. Participants will learn to disagree constructively and that differences of opinion are opportunities to learn.<br><br> 
+				
+For Seniors, conducted monthly at Bishan Public Library.</p>
+			<p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank"> Click here for upcoming sessions</a></p>
+    </div>
+  </div>
+ <div class="col is-half-tablet padding--bottom--lg">
+    <img src="/images/learning-communities/wellness/LC-Wellness-LetsDance-01.jpg" alt="Let’s Dance">
+	 <div class="margin--top--lg">
+		 <h5 class="margin--top--sm margin--bottom--sm"><b> Let’s Dance </b></h5>
+			<p class="margin--top--sm margin--bottom--sm"> Let’s Dance is a self-run Learning Community by seniors who meet regularly to engage in learning basic dance moves. The type of dance style varies depending on what is taught by the instructor. So if you don’t know how to dance, here’s your opportunity to learn how to do so! And if you already know how to, just come and dance with everyone else! Participants are required to commit to 4 sessions per registration for each Dance Form.<br><br>
+For Seniors, conducted twice a month at Geylang East Public Library.</p>
+		 <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank"> Click here for upcoming sessions</a></p>
+    </div>
+  </div>

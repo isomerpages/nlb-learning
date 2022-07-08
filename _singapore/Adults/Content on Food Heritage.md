@@ -84,7 +84,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 			</a>
 		</div>
 	</div>
-
+<div class="col is-one-third">
+		<div class="clickbox is-mint-jade">
+			<a href="#hawker-centres">
+				<span>Playlist: Hawker Centres</span>
+			</a>
+		</div>
+	</div>
+	
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-food-heritage">
@@ -132,8 +139,15 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </a>
 </div>
 </div>
+
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-hawker-centres">
+<span>Learning Package:<br>Hawker Centres</span>
+</a>
 </div>
-	
+</div>
+</div>	
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around Singapore’s food heritage.
 
@@ -466,6 +480,45 @@ Prata is not the only Indian bread available in Singapore. MothershipSG seeks th
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<h5 class="margin--bottom--lg" id="hawker-centres"><b>Playlist: Hawker Centres</b></h5>
+
+Hawker culture is an integral part of everyday life in Singapore where people of diverse backgrounds gather, mingle, and bond over meals prepared by stall owners at hawker centres. Bringing together the favourite dishes of different ethnic communities, hawker centres and hawker food reflect the multicultural identity of Singapore.
+
+Check out these resources about the evolution of hawker culture and hawker centres in Singapore.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/pw1oLexEGzo" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+
+<p><b>
+A History Of Singapore Hawker Culture: From Food To Architecture | Hawkers In Our Centre | Part 1/2 | CNA Insider (48 mins)
+	</b><br>The first episode in a two-part series on hawker culture in Singapore, this video traces the beginnings, growth, and transformation of the hawker trade against the backdrop of Singapore’s development. It also covers the establishment of hawker centres in the 1970s.<br><br>
+<small>Source: A History Of Singapore Hawker Culture: From Food To Architecture | Hawkers In Our Centre | Part 1/2 | CNA Insider (2020, Dec 17). CNA. Retrieved 2022, February 14.</small></p>
+</div>
+</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/9zTa3cAuKLo" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Preserving Singapore's Ageing Hawker Culture: The New Wave | Hawkers In Our Centre | Part 2/2 | CNA Insider (48 mins)</b><br>
+
+The second episode in a two-part series on hawker culture in Singapore, this video looks at the challenges confronting the survival of hawker food heritage and how it continues to evolve with a younger generation at the helm today.<br><br>
+
+<small>Source: Preserving Singapore's Ageing Hawker Culture: The New Wave | Hawkers In Our Centre | Part 2/2 | CNA Insider (2020, Dec 17). CNA. Retrieved 2022, February 14.</small></p>
+</div>
+</div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-food-heritage" class="margin--bottom--lg"><b> Singapore’s Food Heritage: Overview </b></h5>
 
@@ -653,7 +706,8 @@ Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/article
 <h4>eBooks</h4>
 
 <h5> Three Dishes One Soup: Inside the Singapore Kitchen</h5>
-Zhang, Lace. (2019). <i> Three Dishes One Soup: Inside the Singapore Kitchen.</i><br> 
+Zhang, Lace. (2019). <i> Three Dishes One Soup: Inside the Singapore Kitchen.</i><br>
+	<a target="_blank" href="https://nlb.overdrive.com/media/4639984"></a>
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/LZhang.png">
 <p> It is common to find several dishes served with a bowl of rice and soup in Singapore Chinese families. Author Lace Zhang records her family's recipes with detailed explanations and step-by-step photographs.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/4639984">Borrow the eBook here. </a></p>
@@ -797,5 +851,76 @@ Rajan, Uma (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singapo
 <br>
 <img src="/images/Singapore%20Food%20Heritage/SP.png" style="width:200px;">
 <p> The winner of the 2012 World Gourmand Best Indian cuisine book, Spice potpourri by Dr Uma Rajan, brings us through a variety of flavourful Singaporean Indian dishes. </p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
+<h5 class="margin--bottom--lg" id="lp-hawker-centres"><b>Singapore's Food Heritage: Hawker Centres</b></h5>
+
+<p>From chicken rice and prata, to nasi lemak and laksa, hawker centres offer a dazzling array of dishes that reflect the multicultural identity and heritage of Singapore. More than just eating places, hawker centres are a unique aspect of Singapore culture and everyday life.
+<table border="1">
+            <tbody><tr>
+                        <td>
+<h4>Did you know...</h4>
+<ul>
+	<li>A popular destination for hawker food among locals and tourists, <i>Lau Pa Sat</i> (former Telok Ayer Market) was one of Singapore’s oldest wet markets with a history that dates to the 1820s. The wet market was renovated and turned into a hawker centre in 1972 as its surroundings were redeveloped into a commercial and financial district.</li>
+</ul>
+</td>
+							</tr></tbody></table>
+
+Get to know the history and development of hawker centres and the array of dishes they offer through the resources here.
+
+<h4>Articles</h4>
+<div>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12-27.html" target="_blank"> Travelling hawkers by Naidu Ratnala Thulaja </a></h5>
+<p>Hawker culture in Singapore had its roots in street food sold by itinerant hawkers during the 19th to mid-20th centuries. While hawkers served the needs of the population, problems such as food contamination and traffic obstruction led to their regulation.</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12-27.html" target="_blank"> Travelling hawkers </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
+	
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1637_2010-01-31.html" target="_blank"> Hawker centres by Tung Ai Jui </a></h5>
+
+<p> In the interests of public health, the government moved to regulate food hawkers in the 1960s and relocated them from the streets to purpose-built food centres over the 1970s-80s.</p>
+
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1637\_2010-01-31.html" target="_blank"> Hawker centres </a>(2020, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
+
+<h4>eBooks</h4>
+
+<h5> Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore</h5>
+
+Kong, Lily and Vineeta Sinha (2015).<i> Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore.</i><br>
+
+<a href="https://nlb.overdrive.com/media/3715193" target="_blank"></a>
+
+<img src="/images/Singapore%20Food%20Heritage/FoodFoodwaysAndFoodscapes.png" style="width:200px;">
+
+<p>This volume provides multidisciplinary perspectives on the study of food as a window to the social and cultural history and geography of Singapore. Chapter 1, “Taking the Street out of Street Food”, by sociologist Chua Beng Huat offers a biographical account of street food consumption and how it has changed based on life in the neighbourhood of Bukit Ho Swee. </p>
+
+<p><a target="_blank" href="https://nlb.overdrive.com/media/3715193">
+
+Borrow the eBook here.</a></p>
+
+Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook.)
+	
+<h5> Singapore hawker classics unveiled: Decoding 25 favourite dishes</h5>
+Temasek Polytechnic (2015).<i> Singapore hawker classics unveiled: Decoding 25 favourite dishes.</i><br>
+<a href="https://nlb.overdrive.com/media/2472122" target="_blank"></a>
+<img src="/images/Singapore%20Food%20Heritage/SingaporeHawkerClassics.png" style="width:200px;">
+<p>This book covers 25 of Singapore’s favourite hawker dishes, in extensive detail, including information on its heritage, its aroma, taste and texture, its nutritional value, as well as clear step-by-step cooking instructions with photographs. </p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/2472122">
+Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
+	
+<h4>Books</h4>
+
+<h5> Singapore hawker centres: people, places, food</h5>
+Kong, Lily (2007). <i>Singapore hawker centres: people, places, food</i>. Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/SingaporeHawkerCentres.png" style="width:200px;">
+<p>This book chronicles the beginnings and development of hawker centres in Singapore, with a focus on planning and design, and the different stakeholders involved. It also highlights the significance of hawker centres and hawker food to Singaporean life and culture. </p>
+
+<h5> Hawker centre food: ambrosia for the people</h5>
+Lai, Chee Kien & Koh, Hon Teng (2021). <i>Hawker centre food: ambrosia for the people</i>. Singapore: Achates 360 Pte Ltd. (Call no.: RSING 641.595957 LAI) 
+<br>
+<img src="/images/Singapore%20Food%20Heritage/HawkerCentreFood.png" style="width:200px;">
+<p>On 16 December 2020, hawker culture in Singapore was officially inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity. Published in 2021 with support from the National Heritage Board, this book, which features illustrations and stories of 129 food stalls from 111 hawker centres across the island, contributes to the documentation of Singapore’s evolving hawker culture and food heritage. </p>
+
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

@@ -61,19 +61,18 @@ Taking care of the environment starts with YOU!
       </tr>
     </thead>
     <tbody>
-			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/powerful-plants-singapores-botanical-wonders-tweenkerama-tickets-337990076417?aff=odcleoeventsincollection" target="_blank"><b>Powerful Plants: Singapore’s botanical wonders | Tweenkerama</b></a></td>
-        <td style="width: 40%;">Singapore is often known as the “garden city,” but do you know what our notable plants are, and the stories behind why they are so well-known? 
-<br><br>
-This is special edition in partnership with the National Library Singapore to learn more about Singapore’s botanical heritage, including our eye-catching and historically valuable plants, with materials from the library’s collections. Come and get your creative juices flowing by designing your own special plant!</td>
-				<td style="width: 20%;">18 June 2022, 11am-12pm</td>
-        <td style="width: 20%;">Zoom</td>
+				<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/climate-change-a-special-storytelling-session-earth-heroes-tickets-352492032157?aff=ebdssbdestsearch" target="_blank"><b>Climate Change: A Special Storytelling Session | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Mama and baby polar bear are finding it difficult to hunt for food because of the melting ice from climate change. Through this storytelling session, we can learn about the impact on global weather patterns because of climate change and the science of why climate change happens.
+</td>
+        <td style="width: 20%;">17 Jul 2022, <br>12.30pm-1pm</td>
+        <td style="width: 20%;">Jurong Regional Library</td>
 			</tr>
 			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/living-with-nature-storytelling-by-nparks-tickets-336258697817?aff=odcleoeventsincollection" target="_blank"><b>Living With Nature - Storytelling by NParks | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Join NParks for our Living with Nature sharing series, starting with a storytelling on how some commonly found reptiles and amphibians (or herps) in Singapore come together to solve a mystery! <br><br>Following the storytelling segment, there will be a craft activity for both parent and child to make their favourite herp!</td>
-				<td style="width: 20%;">25 June 2022, 11-11.45am</td>
-        <td style="width: 20%;">Woodlands Regional Library</td>
+				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/be-an-eco-hero-storytelling-by-commonwealth-secondary-tickets-368068431587?aff=ebdssbdestsearch" target="_blank"><b>Be an Eco Hero! Storytelling by Commonwealth Secondary</b></a></td>
+        <td style="width: 40%;">Join students from Commonwealth Secondary School's Drama Club as they perform a dramatized storytelling piece and learn about how deforestation affects wildlife! There will be a craft activity following the storytelling.</td>
+				<td style="width: 20%;">20 Jul 2022, 5pm-6pm</td>
+        <td style="width: 20%;">Jurong Regional Library</td>
 			</tr>
     </tbody>
   </table>
@@ -88,19 +87,17 @@ This is special edition in partnership with the National Library Singapore to le
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/ancient-rome-and-career-readiness-with-bookorators-online-tickets-331621888997?aff=odcleoeventsincollection" target="_blank"><b>Ancient Rome and Career Readiness with BookOrators</b></a></td>
-        <td style="width: 40%;">Learn about some of the interesting careers that existed in Ancient Rome, before comparing these careers to some of the jobs that exist today. You will also get to take a few personality and career tests that may help you identify some future careers that could be a great fit for you!</td>
-        <td style="width: 20%;">25 June 2022,<br>10am-11am</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-			<tr>
-        <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
-        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
-</td>
-        <td style="width: 20%;">Apr-Jun 2022</td>
-        <td style="width: 20%;">Public Libraries Singapore’s Facebook</td>
-      </tr>
-  </tbody>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/inkfusion-comic-workshop-tickets-352490547717?aff=ebdssbdestsearch" target="_blank"><b>Inkfusion Comic Workshop</b></a></td>
+        <td style="width: 40%;">What do Demon slayers, ninjas, wizards and school students have in common? Answer- They are all characters that can be found in comics! Join leading media production and training studio Ink Fusion in this hands on session, where participants will be guided step by step on the basics of character drawing. Dive into the colorful world of character design, and bring home your very own comics masterpiece! </td>
+        <td style="width: 20%;">16 July 2022,<br>3pm-5pm</td>
+        <td style="width: 20%;">Jurong Regional Library</td>
+      </tr><tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/save-smart-with-smiley-8-10-years-old-tickets-352487879737?aff=ebdssbdestsearch" target="_blank"><b>Save Smart with Smiley
+</b></a></td>
+        <td style="width: 40%;">In POSB’s Save Smart with Smiley programme, children will learn how to save smart, identify the difference between “Needs” and “Wants,” and spend wisely with healthy spending habits. Coupled with printable learning materials and scenario-based activities, children will learn how to create a savings plan and track their expenditure. They will also find out more about different cashless and digital payment modes in preparation for navigating the digital payment world.</td>
+        <td style="width: 20%;">30 July 2022,<br>11am-12pm</td>
+        <td style="width: 20%;">Woodlands Regional Library</td>
+      </tr></tbody>
   </table>
 </div>
 
