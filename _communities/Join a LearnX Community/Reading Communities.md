@@ -42,7 +42,7 @@ For Adults, conducted once every two months in English at Central Public Library
     <img alt="Book Ninjas" src="/images/learning-communities/reading/LC-Reading-StockImage-02.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Book Ninjas </b></h5>
-      <p class="margin--top--sm margin--bottom--sm"> A digital book club for 12 weeks suitable for Tamil children from 3 to 6 years. Club includes storytelling and a play-based activities, conducted over Zoom.<br><br>
+      <p class="margin--top--sm margin--bottom--sm"> A digital book club for 12 weeks suitable for Tamil-speaking children from 3 to 6 years. Club includes storytelling and a play-based activities, conducted over Zoom.<br><br>
 For Children between 3 to 6 years old, conducted ad-hoc in Tamil online.</p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
     </div>
