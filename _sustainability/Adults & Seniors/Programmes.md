@@ -37,7 +37,7 @@ All talks are listed on Eventbrite and suitable for adults and seniors.
 
 Click [here] (https://www.eventbrite.sg/cc/programmes-on-sustainability-66229) {:target="_blank"} for the latest programme listings.
 
-## **Garden Talks by Nparks**
+## **Garden Talks by NParks**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-01.jpg)
 
 Started at Queenstown Public Library, this series of garden talks is a collaboration with National Parks Board (NParks) in promoting green living in the city and sharing of knowledge on home gardening. 
@@ -77,9 +77,9 @@ If you are an outdoorsy person, then this will be right up your alley.
 
 Nothing beats getting up close to learn how Singapore and various organisations have implemented sustainable solutions. Here you can expect visits to places such as Semakau Island, tree-planting at our parks and even beach clean ups to experience Sustainability in action. 
 
-These journeys are open to both adults and seniors and held on a quarterly basis. 
+These journeys are open to both adults and seniors. 
 
-Click [here] (https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **Sustainable Chapter**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-06.jpg)
@@ -102,17 +102,5 @@ Starting at Choa Chu Kang Town, participants of the first run of the Great Make-
 
 <b>Share your Feedback</b>
 <br>You can also be a part of the Great Make-Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a>
-
-<b> Meet the Teams in Person</b>
-<br>23 April 2022 2pm-4pm  @ Choa Chu Kang Public Library
-Visit the booths of all the teams!
-<br>Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-physical-registration-296489095867?aff=ebdssbdestsearch/" target="_blank"> HERE!</a> <br>
-<br> 30 April 2022 12pm-1.30pm @ Zoom, Sharing by Group 1 (Sprout Up!) and Group 3 (Park Kaki) 
-<br> Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-1-3-registration-296489477007?aff=ebdssbdestsearch/" target="_blank"> HERE!</a>
-<br>
-<br>30 April 2022 2pm-4pm  @ Zoom, Sharing by Group 2 (Stay Sustainable), Group 4 (Sunshine) & Group 5 (Social Tech Farmers)
-<br> Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-2-4-5-registration-297497572247?aff=ebdssbdestsearch" target="_blank"> HERE!</a>
-
-
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
