@@ -35,7 +35,7 @@ Held on a bi-monthly basis, these talks seek to better your knowledge about Sust
 
 All talks are listed on Eventbrite and suitable for adults and seniors.    
 
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229)){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **Garden Talks by Nparks**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-01.jpg)
@@ -44,7 +44,7 @@ Started at Queenstown Public Library, this series of garden talks is a collabora
 
 Held on a quarterly basis, this programme is specially targeted at seniors who would like to find out more on a variety of gardening topics, such as composting and optimising the environment for plant growth, and more from the passionate Community in Bloom ambassadors. 
 
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229)]{:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **Build Your Own Workshop**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-02.jpg)
@@ -58,15 +58,17 @@ Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:t
 ## **Green Market**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-GreenMarket.jpg)
 
-Happening from 17-18 September 2022! Mark your calendars for our signature event that presents a range of fun activities and programmes from talks, workshops to activity booths that will engage you in sustainable practices and green groups to support. Look forward to different concepts from farmer’s markets, swaps to service-learning experiences. 
+**Happening from 17-18 September 2022! @Choa Chu Kang Public Library and Online**
+
+Mark your calendars for our signature event that presents a range of fun activities and programmes from talks, workshops to activity booths that will engage you in sustainable practices and green groups to support. Look forward to different concepts from farmer’s markets, swaps to service-learning experiences. 
 
 If you have been wondering how to start or ways to contribute further in your sustainability journey, look no further than the Green Market. 
 
 Suitable for the whole family. 
 
-Programme details will be up by August 2022.
+Programme details will be up by August 2022. 
 
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229) {:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **Learning Journeys**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-05.jpg)
@@ -77,7 +79,7 @@ Nothing beats getting up close to learn how Singapore and various organisations 
 
 These journeys are open to both adults and seniors and held on a quarterly basis. 
 
-Click [here] (https://www.eventbrite.sg/cc/programmes-on-sustainability-66229)]{:target="_blank"} for the latest programme listings.
+Click [here] (https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **Sustainable Chapter**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-06.jpg)
