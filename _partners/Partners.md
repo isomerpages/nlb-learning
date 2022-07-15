@@ -202,4 +202,44 @@ This programme is organised in collaboration with Nanyang Polytechnic.<br><br></
 <td>20 Jul 2022, 7pm - 8.30pm</td>
 <td>Zoom</td>
 </tr>
+
+<tr>
+<td><strong><a href="https://www.eventbrite.sg/e/living-with-diabetes-mind-your-body-x-time-of-your-life-tickets-373281002527?aff=odcleoeventsincollection" target="_blank">Ageing Gracefully with Proper Diet | Mind Your Body x TOYL</a></strong></td>
+<td>Our body’s nutritional needs changes as we age. To supplement the growing need for a better diet, the range of food we consume needs to be more balanced than ever. Join us as we discover the purposes of different nutrients, their effects on us as we age, and how we can make our quality of life more robust in our golden years.<br><br>
+
+Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. <br><br>
+
+This programme is suitable for those aged 50 and above, and is organised in collaboration with Nanyang Polytechnic.<br><br></td>
+<td>4 Aug 2022, 2.30pm - 4pm</td>
+<td>Clementi Public Library</td>
+</tr>
+	
+<tr>
+<td><strong><a href="https://www.eventbrite.sg/e/living-with-diabetes-mind-your-body-x-time-of-your-life-tickets-373281002527?aff=odcleoeventsincollection" target="_blank">Living with Diabetes: Lifestyle & Nutrition Management | Mind Your Body x TOYL</a></strong></td>
+<td>What is it like to live with diabetes? Can you still enjoy your favourite food and activities? What are the adjustments that you should make to take care of yourself or your loved ones living with diabetes? <br><br>
+
+This workshop aims to teach participants about the basics of how to manage their diabetes condition in many areas – from managing their symptoms, to nutritional guides and even foot care.<br><br>
+
+Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment.<br><br>
+
+This programme is suitable for those aged 50 and above, and is organised in collaboration with Nanyang Polytechnic.
+<br><br></td>
+<td>11 Aug 2022, 2.30pm - 4pm</td>
+<td>Clementi Public Library</td>
+</tr>
+
+<tr>
+<td><strong><a href="https://www.eventbrite.sg/e/making-wise-choices-at-the-supermarket-mind-your-body-x-time-of-your-life-tickets-373283028587?aff=odcleoeventsincollection" target="_blank">Making Wise Choices at the Supermarket | Mind Your Body x TOYL</a></strong></td>
+<td>Healthy living starts with making healthy choices but how is that possible when nutrition labels can be so confusing? With information such as serving size and different nutritional values, it may be difficult to decide which food product is healthier than others. <br><br>
+
+Learn how to make sense of these labels and start on your journey to making more informed food choices at the supermarket. <br><br>
+
+Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. <br><br>
+
+This programme is suitable for those aged 50 and above, and is organised in collaboration with Nanyang Polytechnic.
+<br><br></td>
+<td>18 Aug 2022, 2.30pm - 4pm</td>
+<td>Clementi Public Library</td>
+</tr>
+	
 </tbody></table>
