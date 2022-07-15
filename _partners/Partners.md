@@ -204,7 +204,7 @@ This programme is organised in collaboration with Nanyang Polytechnic.<br><br></
 </tr>
 
 <tr>
-<td><strong><a href="https://www.eventbrite.sg/e/living-with-diabetes-mind-your-body-x-time-of-your-life-tickets-373281002527?aff=odcleoeventsincollection" target="_blank">Ageing Gracefully with Proper Diet | Mind Your Body x TOYL</a></strong></td>
+<td><strong><a href="https://www.eventbrite.sg/e/ageing-gracefully-with-proper-diet-mind-your-body-x-time-of-your-life-tickets-373277311487?aff=odcleoeventsincollection" target="_blank">Ageing Gracefully with Proper Diet | Mind Your Body x TOYL</a></strong></td>
 <td>Our body’s nutritional needs changes as we age. To supplement the growing need for a better diet, the range of food we consume needs to be more balanced than ever. Join us as we discover the purposes of different nutrients, their effects on us as we age, and how we can make our quality of life more robust in our golden years.<br><br>
 
 Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. <br><br>
