@@ -113,8 +113,19 @@ Key takeaways:<br>
   <td>14 Jul 2022, 7pm - 8pm </td>
   <td>Zoom</td>
 	</tr>
+	
+<tr><td><strong><a href="https://www.eventbrite.sg/e/introduction-to-digital-workplace-future-of-work-tickets-384455445587?aff=odcleoeventsincollection" target="_blank">Introduction to Digital Workplace | Future of Work</a></strong></td>
+  <td>Emerging technologies are changing our workplace. Join us for insights into Singapore’s Smart Nation Initiatives and learn about valuable skills required in the future digital workplace. <br><br>
+Appreciate the benefits of data analytics at work and learn to identify prevalent cyber-security threats and preventions in both work and personal life. Sign up and see how innovations and technologies are solving real-world problems.
+The advancement in technology are creating both opportunities and challenges. <br><br>
+Singapore’s Smart Nation initiatives aim to harness technology and improve how people and business live, work and play. In this 1-hour sharing, you will see examples of projects leveraging on data, sensors, and even robotics in areas such as estate maintenance and healthcare. <br><br>
+We also will discuss the disruptions arising from the emergence of new technologies such as Artificial Intelligence (AI) and ride-hiring apps, and understand how these challenges are generating new jobs and innovations.<br><br>
+Speaker: Mr Teh Ah Hock<br>
+Mr Teh Ah Hock, Specialist (Internet of Things) and Senior Lecturer at Nanyang Polytechnic, is an experienced educator of 20 years. He brings with him a wealth of experience in leading, designing and developing of software systems, and is involved in numerous industrial collaborations and projects in Internet of Things (IoT).</td>
+  <td>17 Aug 2022, 7pm - 8pm </td>
+  <td>Zoom</td>
+</tr>
 </tbody></table>
-<br>
 
 <!-- Careers  -->
 <table>
