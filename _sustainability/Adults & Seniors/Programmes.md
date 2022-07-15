@@ -35,7 +35,7 @@ Held on a bi-monthly basis, these talks seek to better your knowledge about Sust
 
 All talks are listed on Eventbrite and suitable for adults and seniors.    
 
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229)){:target="_blank"} for the latest programme listings.
 
 ## **Garden Talks by Nparks**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-01.jpg)
@@ -44,27 +44,29 @@ Started at Queenstown Public Library, this series of garden talks is a collabora
 
 Held on a quarterly basis, this programme is specially targeted at seniors who would like to find out more on a variety of gardening topics, such as composting and optimising the environment for plant growth, and more from the passionate Community in Bloom ambassadors. 
 
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229)]{:target="_blank"} for the latest programme listings.
 
 ## **Build Your Own Workshop**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-02.jpg)
 
 Get ready to get your hands dirty as you learn how to make lifestyle products such as beauty scrubs and items for home use using discardables and décor items with elements from nature. 
 
-Pitched at beginners, these workshops held monthly for seniors and quarterly for adults. 
+Pitched at beginners. 
 
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **Green Market**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-GreenMarket.jpg)
 
-A signature event that presents a range of fun activities and programmes from talks, workshops to activity booths that will engage you in sustainable practices and green groups to support. Look forward to different concepts from farmer’s markets, swaps to service-learning experiences. The Biodiversity Festival is a form of the Green Market.
+Happening from 17-18 September 2022! Mark your calendars for our signature event that presents a range of fun activities and programmes from talks, workshops to activity booths that will engage you in sustainable practices and green groups to support. Look forward to different concepts from farmer’s markets, swaps to service-learning experiences. 
 
 If you have been wondering how to start or ways to contribute further in your sustainability journey, look no further than the Green Market. 
 
-Conducted over 2-3 days, the Green Market is suitable for the whole family.
+Suitable for the whole family. 
 
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+Programme details will be up by August 2022.
+
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229) {:target="_blank"} for the latest programme listings.
 
 ## **Learning Journeys**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-05.jpg)
@@ -75,7 +77,7 @@ Nothing beats getting up close to learn how Singapore and various organisations 
 
 These journeys are open to both adults and seniors and held on a quarterly basis. 
 
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+Click [here] (https://www.eventbrite.sg/cc/programmes-on-sustainability-66229)]{:target="_blank"} for the latest programme listings.
 
 ## **Sustainable Chapter**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-06.jpg)
@@ -84,7 +86,7 @@ Be prepared to be inspired. Practitioners, innovators, grandfluencers, ordinary 
 
 This series is specially targeted at seniors who want to more ideas on how they can practise sustainable living by learning through the experience of others. 
 
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **The Great Make-Over Project**
 ![](/images/sustainability/adults-and-seniors/GMO_eDM_600x300_1.jpg)
