@@ -113,8 +113,19 @@ Key takeaways:<br>
   <td>14 Jul 2022, 7pm - 8pm </td>
   <td>Zoom</td>
 	</tr>
+	
+<tr><td><strong><a href="https://www.eventbrite.sg/e/introduction-to-digital-workplace-future-of-work-tickets-384455445587?aff=odcleoeventsincollection" target="_blank">Introduction to Digital Workplace | Future of Work</a></strong></td>
+  <td>Emerging technologies are changing our workplace. Join us for insights into Singapore’s Smart Nation Initiatives and learn about valuable skills required in the future digital workplace. <br><br>
+Appreciate the benefits of data analytics at work and learn to identify prevalent cyber-security threats and preventions in both work and personal life. Sign up and see how innovations and technologies are solving real-world problems.
+The advancement in technology are creating both opportunities and challenges. <br><br>
+Singapore’s Smart Nation initiatives aim to harness technology and improve how people and business live, work and play. In this 1-hour sharing, you will see examples of projects leveraging on data, sensors, and even robotics in areas such as estate maintenance and healthcare. <br><br>
+We also will discuss the disruptions arising from the emergence of new technologies such as Artificial Intelligence (AI) and ride-hiring apps, and understand how these challenges are generating new jobs and innovations.<br><br>
+Speaker: Mr Teh Ah Hock<br>
+Mr Teh Ah Hock, Specialist (Internet of Things) and Senior Lecturer at Nanyang Polytechnic, is an experienced educator of 20 years. He brings with him a wealth of experience in leading, designing and developing of software systems, and is involved in numerous industrial collaborations and projects in Internet of Things (IoT).</td>
+  <td>17 Aug 2022, 7pm - 8pm </td>
+  <td>Zoom</td>
+</tr>
 </tbody></table>
-<br>
 
 <!-- Careers  -->
 <table>
@@ -191,4 +202,44 @@ This programme is organised in collaboration with Nanyang Polytechnic.<br><br></
 <td>20 Jul 2022, 7pm - 8.30pm</td>
 <td>Zoom</td>
 </tr>
+
+<tr>
+<td><strong><a href="https://www.eventbrite.sg/e/ageing-gracefully-with-proper-diet-mind-your-body-x-time-of-your-life-tickets-373277311487?aff=odcleoeventsincollection" target="_blank">Ageing Gracefully with Proper Diet | Mind Your Body x TOYL</a></strong></td>
+<td>Our body’s nutritional needs changes as we age. To supplement the growing need for a better diet, the range of food we consume needs to be more balanced than ever. Join us as we discover the purposes of different nutrients, their effects on us as we age, and how we can make our quality of life more robust in our golden years.<br><br>
+
+Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. <br><br>
+
+This programme is suitable for those aged 50 and above, and is organised in collaboration with Nanyang Polytechnic.<br><br></td>
+<td>4 Aug 2022, 2.30pm - 4pm</td>
+<td>Clementi Public Library</td>
+</tr>
+	
+<tr>
+<td><strong><a href="https://www.eventbrite.sg/e/living-with-diabetes-mind-your-body-x-time-of-your-life-tickets-373281002527?aff=odcleoeventsincollection" target="_blank">Living with Diabetes: Lifestyle & Nutrition Management | Mind Your Body x TOYL</a></strong></td>
+<td>What is it like to live with diabetes? Can you still enjoy your favourite food and activities? What are the adjustments that you should make to take care of yourself or your loved ones living with diabetes? <br><br>
+
+This workshop aims to teach participants about the basics of how to manage their diabetes condition in many areas – from managing their symptoms, to nutritional guides and even foot care.<br><br>
+
+Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment.<br><br>
+
+This programme is suitable for those aged 50 and above, and is organised in collaboration with Nanyang Polytechnic.
+<br><br></td>
+<td>11 Aug 2022, 2.30pm - 4pm</td>
+<td>Clementi Public Library</td>
+</tr>
+
+<tr>
+<td><strong><a href="https://www.eventbrite.sg/e/making-wise-choices-at-the-supermarket-mind-your-body-x-time-of-your-life-tickets-373283028587?aff=odcleoeventsincollection" target="_blank">Making Wise Choices at the Supermarket | Mind Your Body x TOYL</a></strong></td>
+<td>Healthy living starts with making healthy choices but how is that possible when nutrition labels can be so confusing? With information such as serving size and different nutritional values, it may be difficult to decide which food product is healthier than others. <br><br>
+
+Learn how to make sense of these labels and start on your journey to making more informed food choices at the supermarket. <br><br>
+
+Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. <br><br>
+
+This programme is suitable for those aged 50 and above, and is organised in collaboration with Nanyang Polytechnic.
+<br><br></td>
+<td>18 Aug 2022, 2.30pm - 4pm</td>
+<td>Clementi Public Library</td>
+</tr>
+	
 </tbody></table>

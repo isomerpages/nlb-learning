@@ -35,36 +35,40 @@ Held on a bi-monthly basis, these talks seek to better your knowledge about Sust
 
 All talks are listed on Eventbrite and suitable for adults and seniors.    
 
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+Click [here] (https://www.eventbrite.sg/cc/programmes-on-sustainability-66229) {:target="_blank"} for the latest programme listings.
 
-## **Garden Talks by Nparks**
+## **Garden Talks by NParks**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-01.jpg)
 
 Started at Queenstown Public Library, this series of garden talks is a collaboration with National Parks Board (NParks) in promoting green living in the city and sharing of knowledge on home gardening. 
 
 Held on a quarterly basis, this programme is specially targeted at seniors who would like to find out more on a variety of gardening topics, such as composting and optimising the environment for plant growth, and more from the passionate Community in Bloom ambassadors. 
 
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **Build Your Own Workshop**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-02.jpg)
 
 Get ready to get your hands dirty as you learn how to make lifestyle products such as beauty scrubs and items for home use using discardables and décor items with elements from nature. 
 
-Pitched at beginners, these workshops held monthly for seniors and quarterly for adults. 
+Pitched at beginners. 
 
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **Green Market**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-GreenMarket.jpg)
 
-A signature event that presents a range of fun activities and programmes from talks, workshops to activity booths that will engage you in sustainable practices and green groups to support. Look forward to different concepts from farmer’s markets, swaps to service-learning experiences. The Biodiversity Festival is a form of the Green Market.
+**Happening from 17-18 September 2022! @Choa Chu Kang Public Library and Online**
+
+Mark your calendars for our signature event that presents a range of fun activities and programmes from talks, workshops to activity booths that will engage you in sustainable practices and green groups to support. Look forward to different concepts from farmer’s markets, swaps to service-learning experiences. 
 
 If you have been wondering how to start or ways to contribute further in your sustainability journey, look no further than the Green Market. 
 
-Conducted over 2-3 days, the Green Market is suitable for the whole family.
+Suitable for the whole family. 
 
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+Programme details will be up by August 2022. 
+
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **Learning Journeys**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-05.jpg)
@@ -73,9 +77,9 @@ If you are an outdoorsy person, then this will be right up your alley.
 
 Nothing beats getting up close to learn how Singapore and various organisations have implemented sustainable solutions. Here you can expect visits to places such as Semakau Island, tree-planting at our parks and even beach clean ups to experience Sustainability in action. 
 
-These journeys are open to both adults and seniors and held on a quarterly basis. 
+These journeys are open to both adults and seniors. 
 
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **Sustainable Chapter**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-06.jpg)
@@ -84,7 +88,7 @@ Be prepared to be inspired. Practitioners, innovators, grandfluencers, ordinary 
 
 This series is specially targeted at seniors who want to more ideas on how they can practise sustainable living by learning through the experience of others. 
 
-Click [here](https://www.eventbrite.com/c/sustainability-programmes-ccbqpkrh--v086BCMovXQG/){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **The Great Make-Over Project**
 ![](/images/sustainability/adults-and-seniors/GMO_eDM_600x300_1.jpg)
@@ -98,17 +102,5 @@ Starting at Choa Chu Kang Town, participants of the first run of the Great Make-
 
 <b>Share your Feedback</b>
 <br>You can also be a part of the Great Make-Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a>
-
-<b> Meet the Teams in Person</b>
-<br>23 April 2022 2pm-4pm  @ Choa Chu Kang Public Library
-Visit the booths of all the teams!
-<br>Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-physical-registration-296489095867?aff=ebdssbdestsearch/" target="_blank"> HERE!</a> <br>
-<br> 30 April 2022 12pm-1.30pm @ Zoom, Sharing by Group 1 (Sprout Up!) and Group 3 (Park Kaki) 
-<br> Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-1-3-registration-296489477007?aff=ebdssbdestsearch/" target="_blank"> HERE!</a>
-<br>
-<br>30 April 2022 2pm-4pm  @ Zoom, Sharing by Group 2 (Stay Sustainable), Group 4 (Sunshine) & Group 5 (Social Tech Farmers)
-<br> Register <a href="https://www.eventbrite.sg/e/painting-cck-green-meet-up-with-the-ideators-virtual-groups-2-4-5-registration-297497572247?aff=ebdssbdestsearch" target="_blank"> HERE!</a>
-
-
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
