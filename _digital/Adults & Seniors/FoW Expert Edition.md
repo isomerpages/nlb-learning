@@ -42,29 +42,28 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
     </thead>
     <tbody>
 			<tr>
-<td><a href="https://www.eventbrite.com/cc/my-digital-life-303169" target="_blank"><b>[My Digital Life]</b><br>Leap into Livestreaming 101</a></td>
-        <td>Take a leap into livestreaming & learn about the basics of video production and get hands-on experience with setting up for a livestream!</td>
-        <td>Fridays, 6:30pm-8:30pm<br>Saturdays, 12pm-2pm</td>
-        <td>Public Libraries</td>
+<td><a href="https://www.eventbrite.sg/e/python-x-excel-future-of-work-expert-edition-registration-384454302167?aff=odcleoeventsincollection" target="_blank"><b>Python x Excel</b></a></td>
+        <td>Learn about how you can use Python together with Excel to automate repetitive work, analyse and visualize data. </td>
+        <td>30 Aug Tuesday 6:30pm-8:30pm</td>
+        <td>Zoom</td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/reducing-your-workload-through-rpa-future-of-work-registration-333479665657" target="_blank"><b>[Future of Work]</b><br>Reducing your Workload through RPA</a></td>
-        <td style="width: 40%;">Learn about a popular robotic automation software and how it can be used to help you work more efficiently.</td>
-        <td style="width: 20%;"> 28 June 2022,<br>6:30pm–8.30pm</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/leap-into-livestreaming-with-obs-future-of-work-expert-edition-registration-373092849757?aff=odcleoeventsincollection" target="_blank"><b>Leap into Livestreaming with OBS</b></a></td>
+        <td style="width: 40%;">Learn the software and tools on how to livestream effectively.</td>
+        <td style="width: 20%;"> 31 Aug Wednesday<br>6:30pm–8.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 			<tr>
-<td><a href="https://www.eventbrite.sg/e/build-your-own-2d-game-my-digital-life-registration-337115761317" target="_blank"><b>[My Digital Life]</b><br>Build Your Own 2D Game</a></td>
-        <td>Learn how to build your very own 2D Game in this workshop!
-</td>
-        <td>29 June 2022, <br>6:30pm - 8.30pm</td>
+<td><a href="https://www.eventbrite.sg/e/heartbeat-to-thrive-in-a-bani-world-industry-insights-x-fow-expert-edition-tickets-384443810787?aff=odcleoeventsincollection" target="_blank"><b>Heartbeat to thrive in a BANI world</b><br></a></td>
+        <td>Learn about the power of caring, connecting and co-creating to thrive in today’s world.</td>
+				<td>1 Sep Thursday<br>7pm-8pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/e/cybersecurity-from-scratch-future-of-work-registration-333482323607" target="_blank"><b>[Future of Work]</b><br>Cybersecurity from Scratch</a></td>
-        <td>This talk covers the latest cybersecurity trends and the importance of cybersecurity.
+<td><a href="https://www.eventbrite.com/e/block-chain-future-of-work-expert-edition-tickets-384427421767?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>Block-Chain<b><br></a></td>
+        <td>Learn how Blockchain drives Bitcoin and other cryptocurrencies.
 </td>
-        <td>5 July 2022, <br>6:30pm - 8.30pm</td>
+	<td>2 Sep Friday<br> 6.30pm-8.30pm</td>
         <td>Zoom</td>
       </tr>
 			<tr>
