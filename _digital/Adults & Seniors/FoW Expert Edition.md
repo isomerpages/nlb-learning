@@ -26,7 +26,6 @@ third_nav_title: Adults & Seniors
 </style>
 
 ![](/images/digital/Fowbanner.jpg)
-
 <h4><b>Join us for an exciting line-up of programmes by expert speakers to learn about trending technology & career skills to help you navigate the future workplace!</b></h4>
 Back for the 2nd year running, the Future of Work Expert Edition is a curated series that explores a range of Digital & Career themed programmes, conducted by experts and professionals.
 In this year's lineup, gain in-depth first hand knowledge and skills on a buffet of topics, from technical topics such as Python, UX & Machine Learning, to key career skills such as equitable decision making, positivity and performance.
