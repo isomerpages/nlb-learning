@@ -4,9 +4,6 @@ permalink: /digital/adults-seniors/overview
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
-
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -66,4 +63,8 @@ We understand that learning about new technology can be an unfamiliar adventure.
       </a>
     </div>
   </div>
+	  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="/digital/adults-seniors/FoW-Expert-Edition">
+        <span>FoW<br>Expert<br>Edition</span>
 </div>
