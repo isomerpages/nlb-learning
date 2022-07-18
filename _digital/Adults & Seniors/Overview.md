@@ -63,8 +63,4 @@ We understand that learning about new technology can be an unfamiliar adventure.
       </a>
     </div>
   </div>
-	  <div class="col is-one-third">
-    <div class="clickbox is-sky-indigo">
-      <a href="/digital/adults-seniors/FoW-Expert-Edition">
-        <span>FoW<br>Expert<br>Edition</span>
 </div>
