@@ -67,121 +67,51 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
         <td>Zoom</td>
       </tr>
 			<tr>
-<td><a href="https://www.eventbrite.sg/e/live-broadcasts-the-latest-trend-in-digital-marketing-my-digital-life-tickets-366354685727" target="_blank"><b>(Online)>Live Broadcasts: The Latest Trend in Digital Marketing
+<td><a href="https://www.eventbrite.com/e/physical-another-world-is-possible-future-of-work-expert-edition-tickets-384437100717?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>(Physical) Another World is Possible</b>
 </a></td>
-        <td>In this talk, learn how to adopt a digital mindset and leverage live broadcasting for personal, business, and social impact.
+        <td>A panel discussion about the role of design and technology in building a more ethical and equitable world.
 </td>
-        <td> 5 July 2022, <br>7:30pm - 8.30pm</td>
+        <td> 3 Sep Saturday <br>4pm - 5.30pm</td>
+        <td>library@harbourfront</td>
+      </tr>
+			<tr>
+<td><a href="https://www.eventbrite.com/e/virtual-another-world-is-possible-future-of-work-expert-edition-tickets-384437672427?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>(Virtual) Another World is Possible</b></a></td>
+        <td>A panel discussion about the role of design and technology in building a more ethical and equitable world.
+</td>
+        <td>3 Sep Saturday <br>4pm - 5.30pm</td>
         <td>Zoom</td>
       </tr>
 			<tr>
-<td><a href="https://www.eventbrite.sg/e/livestreaming-for-beginners-my-digital-life-registration-360265863897" target="_blank"><b>[My Digital Life]</b><br>Livestreaming for Beginners</a></td>
-        <td>In this talk, find out how you can livestream professionally.
+<td><a href="https://www.eventbrite.com/e/intro-to-machine-learning-and-ai-future-of-work-expert-edition-tickets-384448133717?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>Intro to Machine Learning and AI</b></a></td>
+        <td>Learn about machine learning and its applications.
 </td>
-        <td>14 July 2022, <br>7:00pm - 8.00pm</td>
+        <td>6 Sep Tuesday <br>6:30pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
-			<tr>
-<td><a href="https://www.eventbrite.sg/e/build-your-own-2d-game-my-digital-life-registration-359139745647" target="_blank"><b>[My Digital Life]</b><br>Build Your Own 2D Game</a></td>
-        <td>Learn how to build your very own 2D Game in this workshop!
+		<tr>
+<td><a href="https://www.eventbrite.com/e/physical-evolving-ux-industry-insights-x-future-of-work-expert-edition-tickets-384424813967?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>(Physical) Evolving UX</b></a></td>
+        <td>Learn about User Experience and how it has evolved over the years.
 </td>
-        <td>26 July 2022, <br>6:30pm - 8.30pm</td>
+        <td>7 Sep Wednesday <br>7pm - 8pm</td>
+        <td>library@harbourfront</td>
+      </tr>
+	<tr>
+<td><a href="https://www.eventbrite.com/e/virtual-evolving-ux-industry-insights-x-future-of-work-expert-edition-tickets-384425205137?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>(Virtual) Evolving UX</b></a></td>
+        <td>Learn about User Experience and how it has evolved over the years.
+</td>
+        <td>7 Sep Wednesday <br>7pm - 8pm</td>
+        <td>Zoom</td>
+      </tr>
+		<tr>
+<td><a href="https://www.eventbrite.com/e/cybersecurity-from-scratch-future-of-work-expert-edition-tickets-384432125837?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>Cybersecurity from Scratch</b></a></td>
+        <td>This talk covers the latest cybersecurity trends and the importance of cybersecurity.
+</td>
+        <td>8 Sep Thursday <br>6.30pm-8.30pm</td>
         <td>Zoom</td>
       </tr>
 			    </tbody>
   </table>
 </div>
 
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Use and Apply Skills</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/lcsessions" target="_blank"><b>Pi and Python LC</b></a></td>
-        <td style="width: 40%;">The aim of this LearnX Community is to create awareness of the Raspberry Pi, learn how to programme it using the Python Language, and create interesting projects like a burglar alarm.</td>
-        <td style="width: 20%;">2 July 2022, <br>12pm-3pm</td>
-        <td style="width: 20%;">MakeIT @ Tampines</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Learn More About Digital and Tech In Other Aspects</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://learning.nlb.gov.sg/careers/adults-seniors/learning-pathways" target="_blank"><b>LearnX Careers</b><br></a></td>
-        <td style="width: 40%;">Series: Breakthrough<br>
-With guest speakers:<br>
-•	TBC<br></td>
-        <td style="width: 20%;">TBC</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-  </tbody>
-  </table>
-</div>
-
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-
-<h3 id="effectively-use-smartphones" class="margin--bottom--lg"><b>Learning To Effectively Use Smartphones to Make Life Better!</b></h3>
-Learn to use your smartphone effectively and safely to have knowledge at your fingertips and bring more convenience to your life!
-
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="/digital/adults-seniors/content" target="_blank"><b>Using Your Smartphone Learning Package and Playlist</b></a></td>
-        <td style="width: 40%;">Learn to use your smartphones effectively!</td>
-        <td style="width: 20%;"></td>
-        <td style="width: 20%;"></td>
-      </tr>
-       </tbody>
-  </table>
-</div>
-
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Explore with Industry Speakers and Trainers</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs" target="_blank"><b>[Basic Digital Skills]</b><br>SG Digital Office</a></td>
-        <td style="width: 40%;"> Manned by “Digital Ambassadors”, these provide one-on-one personalised guidance on digital queries daily. Scope of service include 3 tiers of digital skills<br>
-•	Basic communication<br>
-•	Digital Government Services<br>
-•	E-payment</td>
-        <td style="width: 20%;">Available for daily walk-ins at selected public libraries</td>
-        <td style="width: 20%;">Ang Mo Kio Public Library<br>
-Sembawang Public Library<br>
-Woodlands Regional Library<br>
-Yishun Public Library<br></td>
-      </tr>
-      <tr>
-        <td><a href="https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys" target="_blank"><b>[Basic Digital Skills]</b><br>Library Learning Journey</a></td>
-        <td>LLJ equips participants with basic introductory knowledge on the library’s digital services e.g. eNewspapers, Wireless@SG, and NLB Mobile App.</td>
-        <td>Available for daily walk-ins at selected public libraries.</td>
-        <td>List of selected libraries available <a href="https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Learning-Journeys" target="_blank">here</a>.</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
