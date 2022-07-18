@@ -67,7 +67,7 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
         <td>Zoom</td>
       </tr>
 			<tr>
-<td><a href="https://www.eventbrite.sg/e/live-broadcasts-the-latest-trend-in-digital-marketing-my-digital-life-tickets-366354685727" target="_blank"><b>[My Digital Life]</b><br>Live Broadcasts: The Latest Trend in Digital Marketing
+<td><a href="https://www.eventbrite.sg/e/live-broadcasts-the-latest-trend-in-digital-marketing-my-digital-life-tickets-366354685727" target="_blank"><b>(Online)>Live Broadcasts: The Latest Trend in Digital Marketing
 </a></td>
         <td>In this talk, learn how to adopt a digital mindset and leverage live broadcasting for personal, business, and social impact.
 </td>
