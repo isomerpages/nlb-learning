@@ -60,7 +60,7 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.com/e/block-chain-future-of-work-expert-edition-tickets-384427421767?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>Block-Chain<b><br></a></td>
+<td><a href="https://www.eventbrite.com/e/block-chain-future-of-work-expert-edition-tickets-384427421767?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>Block-Chain</b><br></a></td>
         <td>Everyone has heard about Bitcoin but interested to find out what is it exactly? <br>Learn how Blockchain drives Bitcoin and other cryptocurrencies.
 </td>
 	<td>2 Sep Friday<br> 6.30pm-8.30pm</td>
