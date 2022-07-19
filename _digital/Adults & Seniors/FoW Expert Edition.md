@@ -114,8 +114,8 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h4> Audio Books &amp; E-books</h4>
-<h5>5. The Cyber Effect</h5>
+<h4> Book recommendations to enhance your learning</h4>
+<h5>User Experience Design</h5>
 Mary Aiken (2016), <i>The Cyber Effect</i>, Random House Publishing Group.
 <br>
 <a href="https://share.libbyapp.com/title/2621145" target="_blank"><img src="images/digital/adults/cyberwellness/TheCyberEffect.jpg" style="width:300px; text-align:left;" alt="book cover for The Cyber Effect"></a>
