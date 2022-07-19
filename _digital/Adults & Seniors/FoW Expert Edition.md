@@ -118,7 +118,7 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
 <h5>User Experience Design</h5>
 Mary Aiken (2016), <i>The Cyber Effect</i>, Random House Publishing Group.
 <br>
-<a href="https://share.libbyapp.com/title/2621145" target="_blank"><img src="images/digital/adults/cyberwellness/TheCyberEffect.jpg" style="width:300px; text-align:left;" alt="book cover for The Cyber Effect"></a>
-<p>Unpack how cyberspace is shaping society by diving into research and case studies that uncover how the internet is affecting and altering various facets of our lives.</p>
-<p><a href="https://share.libbyapp.com/title/2621145" target="_blank">Borrow the eBook here</a>.</p>
+<a href="https://share.libbyapp.com/title/8983446" target="_blank"><img src="/images/digital/adults/User%20Experience%20Design.jpg" style="width:300px; text-align:left;" alt="book cover for User Experience Design"></a>
+<p>A comprehensive guide on how to elevate user experience and design to fuel business growth in today's highly competitive digital economy.</p>
+<p><a href="https://share.libbyapp.com/title/8983446" target="_blank">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
