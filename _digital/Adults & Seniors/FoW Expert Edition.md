@@ -134,7 +134,7 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 <h5>Programming Machine Learning</h5>
 Paolo Perrotta (2020), <i>Programming Machine Learning</i>, Pragmatic Bookshelf.
 <br>
-<a href="https://share.libbyapp.com/title/5492248" target="_blank"><img src="/images/digital/adults/Crypto.jpg" style="width:300px; text-align:left;" alt="book cover for User Experience Design"></a>
-<p>This book demystifies what cryptocurrency is, defining what it is, how it works and the global impact of this currency phenomena</p>
+<a href="https://share.libbyapp.com/title/5492248" target="_blank"><img src="/images/digital/adults/Programming.jpg" style="width:300px; text-align:left;" alt="book cover for User Experience Design"></a>
+<p>This book breaks down hard topics to guide you in Python coding and machine learning. Start from the beginning and code your way to machine learning mastery</p>
 <p><a href="https://share.libbyapp.com/title/5492248" target="_blank">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
