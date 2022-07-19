@@ -139,4 +139,8 @@ Paolo Perrotta (2020), <i>Programming Machine Learning</i>, Pragmatic Bookshelf.
 <p><a href="https://share.libbyapp.com/title/5492248" target="_blank">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
+<h5> Want to learn more? Check out our learning packages here:
+<br>	<a href="https://learning.nlb.gov.sg/digital/adults-seniors/content"> LearnX Digital Learning Packages</a>
+<br> <a href="https://learning.nlb.gov.sg/careers/adults-seniors/content"> LearnX Career Learning Packages</a>
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
