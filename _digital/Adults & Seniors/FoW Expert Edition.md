@@ -127,6 +127,6 @@ Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 Sarah Swammy, Richard Thompson, Marvin Loh (2019), <i>Crypto Uncovered</i>, Springer International Publishing.
 <br>
 <a href="https://share.libbyapp.com/title/4270447" target="_blank"><img src="/images/digital/adults/Crypto.jpg" style="width:300px; text-align:left;" alt="book cover for User Experience Design"></a>
-<p>A comprehensive guide on how to elevate user experience and design to fuel business growth in today's highly competitive digital economy.</p>
-<p><a href="https://share.libbyapp.com/title/8983446" target="_blank">Borrow the eBook here</a>.</p>
+<p>This book demystifies what cryptocurrency is, defining what it is, how it works and the global impact of this currency phenomena</p>
+<p><a href="https://share.libbyapp.com/title/4270447" target="_blank">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
