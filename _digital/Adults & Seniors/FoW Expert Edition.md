@@ -113,3 +113,12 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
 </div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h4> Audio Books &amp; E-books</h4>
+<h5>5. The Cyber Effect</h5>
+Mary Aiken (2016), <i>The Cyber Effect</i>, Random House Publishing Group.
+<br>
+<a href="https://share.libbyapp.com/title/2621145" target="_blank"><img src="images/digital/adults/cyberwellness/TheCyberEffect.jpg" style="width:300px; text-align:left;" alt="book cover for The Cyber Effect"></a>
+<p>Unpack how cyberspace is shaping society by diving into research and case studies that uncover how the internet is affecting and altering various facets of our lives.</p>
+<p><a href="https://share.libbyapp.com/title/2621145" target="_blank">Borrow the eBook here</a>.</p>
+Retrieved from NLB Libby (myLibraryid is required to access the eBook).
