@@ -138,3 +138,5 @@ Paolo Perrotta (2020), <i>Programming Machine Learning</i>, Pragmatic Bookshelf.
 <p>This book breaks down hard topics to guide you in Python coding and machine learning. Start from the beginning and code your way to machine learning mastery</p>
 <p><a href="https://share.libbyapp.com/title/5492248" target="_blank">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
