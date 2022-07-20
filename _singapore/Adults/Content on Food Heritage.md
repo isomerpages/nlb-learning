@@ -530,6 +530,7 @@ The second episode in a two-part series on hawker culture in Singapore, this vid
 
 Despite the diverse cultural roots and the multiplicity of food varieties available in Singapore, its people are always brought together through its common food culture, shaped by reputable local food and beverage brands. These brands have found a place in the history of the island, by building a legacy for themselves.
 
+Check out these resources to help you gain some understanding on some of the famous food brands in Singapore.
 
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-food-heritage" class="margin--bottom--lg"><b> Singapore’s Food Heritage: Overview </b></h5>
