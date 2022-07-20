@@ -574,6 +574,22 @@ This video traces the story of how a small soya sauce factory in China found its
 </div>
 </div>
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/7Aw2xMXO4cA" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Thye Moh Chan: The Legacy Lives On | MICHELIN Guide Asia (4 mins)</b><br>
+Veteran chef and consultant for Thye Moh Chan, Mr Chua Cha Lai shares how the traditions of making their popular Tau Sar Piah and Teochew mooncakes is kept alive till today.<br><br>
+<small> Source: Thye Moh Chan: The Legacy Lives On | MICHELIN Guide Asia (2018, Aug 9). MICHELIN Guide Asia. Retrieved 2022, July 19.</small></p>
+</div>
+</div>
+
+
+
 
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-food-heritage" class="margin--bottom--lg"><b> Singapore’s Food Heritage: Overview </b></h5>
