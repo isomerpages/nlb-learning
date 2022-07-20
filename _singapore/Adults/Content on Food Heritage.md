@@ -1020,4 +1020,12 @@ Lai, Chee Kien & Koh, Hon Teng (2021). <i>Hawker centre food: ambrosia for the p
 <h5 class="margin--bottom--lg" id="lp-Singapore-food-brands"><b>Singapore's Food Heritage: Food Brands</b></h5>
 
 <p> Whichever part of the world Singaporeans travel to, the sight of spotting one or two of Singapore’s very own food and beverage brands in a supermart overseas never fail to bring back memories of home. Such heritage food brands have stood the test of time and have also become an integral part of growing up in Singapore. Today, quality products by some of these local brands can be found worldwide. </p>
-	
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+	<ul>
+		<li>According to recent studies, consumer demand for ready-to-eat (RTE) food will be seeing a significant rise in Singapore in the next five years. As Singaporeans are allocating less time to cooking food at home and seeking out health-conscious meals, the growing demand for quick food that is fresh and nutritious has seen the emergence of many local food brands providing pre-cleaned, pre-cooked, and ready for consumption packaged food. Prima Taste is one such local brand which has emerged among top five RTE brands in Singapore, competing with well-known international names such as Nestle and Kellogg’s.</li>
+		</ul>
+		</td>
+		</tr></tbody></table>
