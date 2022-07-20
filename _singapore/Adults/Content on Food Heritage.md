@@ -1041,6 +1041,11 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-05-11
 <p> This article presents Khong Guan, a biscuit company with over 70 years of history that grew from a factory into a multinational business.
 </p>
 Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1670_2010-06-16.html" target="_blank"> Khong Guan Biscuit Company </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 19.
+	
+<h4>Books</h4>
+<h5> 1883-1983, the great years </h5>
+Fraser & Neave Ltd. (1983). <i> 1883-1983, the great years. </i> Singapore: Fraser & Neave Ltd. (Call no.: RSING 338.7663 EIG)
+<br>
+<img src="/images/Singapore%20Food%20Heritage/FnN.png" style="width:200px;">
+<p> Published to mark the 100th anniversary of Fraser and Neave. This book recounts the history of F&N from the early days in 1883 when it had only a modest operation, to one of the most well-known brand names of the 20th century in Singapore. </p>
 
-	
-	
