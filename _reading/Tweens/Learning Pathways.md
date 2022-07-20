@@ -79,7 +79,7 @@ Read with your child to explore new topics and discover new experience.
 					<br><br> 
         <td>30 July 2022, <br>11am-12pm </td>
         <td>Woodlands Regional Library, Programme Zone</td>
-      </tr>
+       </tr>
     </tbody>
   </table>
 </div>
@@ -104,9 +104,5 @@ Read with your child to explore new topics and discover new experience.
         <td> Have you ever wondered where your waste goes beyond the rubbish chute? What about the materials you discard into those familiar blue recycling bins? This workshop hopes to shed light on waste management in the Singaporean context. Join us in discovering the many ways around waste in our daily lives! Please bring a favorite old t-shirt with you to this workshop to turn it into a t-shirt. <br><br> 
         <td> 24 July 2022, 3pm-4pm</td>
         <td> Choa Chu Kang Public Library, Programme Room 2</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
+ 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
