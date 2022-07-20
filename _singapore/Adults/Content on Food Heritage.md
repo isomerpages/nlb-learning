@@ -602,6 +602,7 @@ Ms Anastasia Liew who grew up in Indonesia and emigrated to Singapore in the 70s
 </div>
 </div>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-food-heritage" class="margin--bottom--lg"><b> Singapore’s Food Heritage: Overview </b></h5>
