@@ -542,7 +542,9 @@ Check out these resources to help you gain some understanding on some of the fam
 <div class="col is-three-fifths">
 <p><b> The People Behind Singapore’s Iconic Soybean Brand | Mr Bean | Our Grandfather Story (5 mins)</b><br>
 Our Grandfather Story explores how Mr Bean transforms 40 000kg of soybeans a month into sweet treats of happiness through its humble recipes.<br><br>
-
+<small> Source: The People Behind Singapore’s Iconic Soybean Brand | Mr Bean | Our Grandfather Story (2021, Dec 9). Our Grandfather Story. Retrieved 2022, July 19.</small></p>
+</div>
+</div>
 
 
 <h3><b>Learning Package</b></h3>
