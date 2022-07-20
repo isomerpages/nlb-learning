@@ -157,7 +157,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 	
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
-<a href="#lp-hawker-centres">
+<a href="#lp-singapore-food-brands">
 <span>Learning Package:<br>Singapore Food Brands</span>
 </a>
 </div>
@@ -1016,6 +1016,3 @@ Lai, Chee Kien & Koh, Hon Teng (2021). <i>Hawker centre food: ambrosia for the p
 <p>On 16 December 2020, hawker culture in Singapore was officially inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity. Published in 2021 with support from the National Heritage Board, this book, which features illustrations and stories of 129 food stalls from 111 hawker centres across the island, contributes to the documentation of Singapore’s evolving hawker culture and food heritage. </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-	
-
-	
