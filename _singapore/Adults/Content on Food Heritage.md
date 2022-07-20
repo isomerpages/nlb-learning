@@ -526,6 +526,10 @@ The second episode in a two-part series on hawker culture in Singapore, this vid
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<h5 class="margin--bottom--lg" id="singapore-food-brands"><b>Playlist: Singapore Food Brands</b></h5>
+
+
+
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-food-heritage" class="margin--bottom--lg"><b> Singapore’s Food Heritage: Overview </b></h5>
 
