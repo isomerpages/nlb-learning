@@ -532,6 +532,19 @@ Despite the diverse cultural roots and the multiplicity of food varieties availa
 
 Check out these resources to help you gain some understanding on some of the famous food brands in Singapore.
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/ pRAeBNuH3U8" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> The People Behind Singapore’s Iconic Soybean Brand | Mr Bean | Our Grandfather Story (5 mins)</b><br>
+Our Grandfather Story explores how Mr Bean transforms 40 000kg of soybeans a month into sweet treats of happiness through its humble recipes.<br><br>
+
+
+
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-food-heritage" class="margin--bottom--lg"><b> Singapore’s Food Heritage: Overview </b></h5>
 
