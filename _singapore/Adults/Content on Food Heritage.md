@@ -1060,3 +1060,5 @@ Koh, William (2015). <i> The top toast: Ya Kun and the Singapore breakfast tradi
 <br>
 <img src="/images/Singapore%20Food%20Heritage/YaKun.png" style="width:200px;">
 <p> This book traces the humble beginnings of Ya Kun, its reputation for quality toast and coffee, and how it has shaped the breakfast culture of Singaporeans over time. </p>
+	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
