@@ -536,7 +536,7 @@ Check out these resources to help you gain some understanding on some of the fam
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/ pRAeBNuH3U8" class="responsive-iframe"></iframe>
+<iframe src="https://www.youtube.com/embed/pRAeBNuH3U8" class="responsive-iframe"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
@@ -545,6 +545,22 @@ Our Grandfather Story explores how Mr Bean transforms 40 000kg of soybeans a mon
 <small> Source: The People Behind Singapore’s Iconic Soybean Brand | Mr Bean | Our Grandfather Story (2021, Dec 9). Our Grandfather Story. Retrieved 2022, July 19.</small></p>
 </div>
 </div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/WWbDSr-RrXQ" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Old Chang Kee: A Taste of Home, Overseas | Enterprise Singapore (2 mins)</b><br>
+Mr Han Keen Juan, the chairman and founder of Old Chang Kee, shares the secret to developing this Singapore’s favourite brand to one that is recognised beyond the borders of the island.<br><br>
+<small> Source: Old Chang Kee: A Taste of Home, Overseas | Enterprise Singapore (2020, May 29). Enterprise Singapore. Retrieved 2022, July 19.</small></p>
+</div>
+</div>
+
+
 
 
 <h3><b>Learning Package</b></h3>
