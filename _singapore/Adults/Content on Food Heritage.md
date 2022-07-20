@@ -1049,3 +1049,14 @@ Fraser & Neave Ltd. (1983). <i> 1883-1983, the great years. </i> Singapore: Fras
 <img src="/images/Singapore%20Food%20Heritage/FnN.png" style="width:200px;">
 <p> Published to mark the 100th anniversary of Fraser and Neave. This book recounts the history of F&N from the early days in 1883 when it had only a modest operation, to one of the most well-known brand names of the 20th century in Singapore. </p>
 
+<h5> Tiger Beer: distinctly Asian, unmistakably world classic</h5>
+Tai, Jacky (2008). <i> Tiger Beer: distinctly Asian, unmistakably world classic. </i> Singapore: Marshall Cavendish Business. (Call no.: RSING 658.827095957 TAI)
+<br>
+<img src="/images/Singapore%20Food%20Heritage/TigerB.png" style="width:200px;">
+<p> Since its birth in 1932, Tiger Beer is one of a handful of Singapore brands that have made waves internationally. In this book, Jacky Tai explores how this Singapore beer has managed to do so well internationally despite being an Asian brew, as he reveals the secrets of building a strong and consistent brand. </p>
+	
+<h5> The top toast: Ya Kun and the Singapore breakfast tradition </h5>
+Koh, William (2015). <i> The top toast: Ya Kun and the Singapore breakfast tradition. </i> Second edition. Singapore: Cengage Learning. (Call no.: RSING 338.76164795 KOH)
+<br>
+<img src="/images/Singapore%20Food%20Heritage/YaKun.png" style="width:200px;">
+<p> This book traces the humble beginnings of Ya Kun, its reputation for quality toast and coffee, and how it has shaped the breakfast culture of Singaporeans over time. </p>
