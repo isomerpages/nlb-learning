@@ -47,7 +47,7 @@ Read with your child to explore new topics and discover new experience.
          <td style="width: 40%;">Myths are traditional tales usually told about the early history of a culture or society. Try creating a myth of your own in this activity!</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
-      </tr>
+    </tr>
     </tbody>
   </table>
 </div>
@@ -79,10 +79,7 @@ Read with your child to explore new topics and discover new experience.
 					<br><br> 
         <td>30 July 2022, <br>11am-12pm </td>
         <td>Woodlands Regional Library, Programme Zone</td>
-       </tr>
-    </tbody>
-  </table>
-</div>
+     
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
