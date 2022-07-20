@@ -1029,3 +1029,4 @@ Lai, Chee Kien & Koh, Hon Teng (2021). <i>Hawker centre food: ambrosia for the p
 		</ul>
 		</td>
 		</tr></tbody></table>
+	These curated set of articles and books will give you a better understanding of heritage food brands in Singapore.
