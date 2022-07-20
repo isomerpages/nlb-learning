@@ -1030,3 +1030,17 @@ Lai, Chee Kien & Koh, Hon Teng (2021). <i>Hawker centre food: ambrosia for the p
 		</td>
 		</tr></tbody></table>
 	These curated set of articles and books will give you a better understanding of heritage food brands in Singapore.
+	
+<h4>Articles</h4>
+<div>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-05-11_100628.html" target="_blank"> Bee Cheng Hiang by Hwa Chong Institution </a></h5>
+<p> Most notably known for its signature bakkwa (barbequed pork slices), Bee Cheng Hiang started off its journey on a pushcart in Chinatown in 1933. This article gives an insight into its success story.</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-05-11_100628.html" target="_blank"> Bee Cheng Hiang </a>(2015, May).<i> Singapore Infopedia.</i> Retrieved 2022, July 19.
+	
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1670_2010-06-16.html" target="_blank"> Khong Guan Biscuit Company by Chua, Alvin </a></h5>
+<p> This article presents Khong Guan, a biscuit company with over 70 years of history that grew from a factory into a multinational business.
+</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1670_2010-06-16.html" target="_blank"> Khong Guan Biscuit Company </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 19.
+
+	
+	
