@@ -588,7 +588,19 @@ Veteran chef and consultant for Thye Moh Chan, Mr Chua Cha Lai shares how the tr
 </div>
 </div>
 
-
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/sjmIsDjLQKo" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> How Singapore's Bengawan Solo conquered Southeast Asia | South China Morning Post (5 mins)</b><br>
+Ms Anastasia Liew who grew up in Indonesia and emigrated to Singapore in the 70s, shares on how her passion for baking, paved way for one of Southeast Asia’s most loved brands, Bengawan Solo.<br><br>
+<small> Source: How Singapore's Bengawan Solo conquered Southeast Asia | South China Morning Post | South China Morning Post (2019, Jun 30). South China Morning Post. Retrieved 2022, July 19.</small></p>
+</div>
+</div>
 
 
 <h3><b>Learning Package</b></h3>
