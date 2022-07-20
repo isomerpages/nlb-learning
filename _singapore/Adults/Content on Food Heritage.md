@@ -528,7 +528,7 @@ The second episode in a two-part series on hawker culture in Singapore, this vid
 
 <h5 class="margin--bottom--lg" id="singapore-food-brands"><b>Playlist: Singapore Food Brands</b></h5>
 
-Despite the diverse cultural roots and the multiplicity of food varieties available in Singapore, its people are always brought together through its common food culture, shaped by reputable local food and beverage brands.
+Despite the diverse cultural roots and the multiplicity of food varieties available in Singapore, its people are always brought together through its common food culture, shaped by reputable local food and beverage brands. These brands have found a place in the history of the island, by building a legacy for themselves.
 
 
 <h3><b>Learning Package</b></h3>
