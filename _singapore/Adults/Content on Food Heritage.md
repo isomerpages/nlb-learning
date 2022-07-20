@@ -560,7 +560,19 @@ Mr Han Keen Juan, the chairman and founder of Old Chang Kee, shares the secret t
 </div>
 </div>
 
-
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/hngfAC-9zQA" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Singapore Pride - Yeo Hiap Seng | MustShareNews (3 mins)</b><br>
+This video traces the story of how a small soya sauce factory in China found its way into Singapore in September 1938, starting off as Yeo Hiap Seng Sauce factory, pushing through war circumstances, developing as a favourite Singapore household beverage brand and establishing itself into an international brand.<br><br>
+<small> Source: Singapore Pride - Yeo Hiap Seng | MustShareNews (2019, Apr 7). MustShareNews. Retrieved 2022, July 19.</small></p>
+</div>
+</div>
 
 
 <h3><b>Learning Package</b></h3>
