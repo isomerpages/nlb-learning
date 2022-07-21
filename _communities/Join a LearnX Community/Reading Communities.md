@@ -92,7 +92,7 @@ For Adults, conducted monthly in English at library@orchard.</p>
       <h5 class="margin--top--sm margin--bottom--sm"><b> Fan Shu Reading Club 翻书读书会</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Fan Shu Reading Club engages in book discussion through face-to-face discussion as well as online platforms. The genres covered varies from biography, art appreciation and many others. The book club is lead by Channel 8 newscaster Zhao Quan Yin and targets at readers aged 20-30 years old. <br><br>
 翻书读书会是一支专注于阅读体验，结合线上线下交流的读书会。阅读书籍类型广泛，包括人物传记、东西方美学等。读书会导读人赵全胤（8频道新闻主播）将导读好书，陪你一起把书读薄，让生命有深度! 读书会针对20-30岁热爱阅读的书友，欢饮参与！<br><br>
-For Adults, conducted quarterly in Chinese at Bukit Panjang Public Library. Programmes are suspended until further notice.
+For Adults, conducted quarterly in Chinese at Bukit Panjang Public Library. Programmes are suspended until further notice.</p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> </a></p>
     </div>
   </div>
