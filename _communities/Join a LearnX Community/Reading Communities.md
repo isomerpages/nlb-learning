@@ -103,7 +103,6 @@ For Adults, conducted quarterly in Chinese at Bukit Panjang Public Library. Prog
       <p class="margin--top--sm margin--bottom--sm"> This monthly book club was set up by a group of long-time friends who first got to know each as library volunteers, or Friends of the Library (FOLs). We started discussing Read! Singapore short stories since 2010 and have ventured into other short stories, both by local and other prominent writers. Members take turns to facilitate. Authors are also invited to join in our sessions, bringing much value to the discussion. <br>
 We hope to be a welcoming platform for Arts &amp; Craft loving seniors and adults to meet and learn together. <br><br>
 For Seniors, conducted monthly in English at Central Public Library.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
