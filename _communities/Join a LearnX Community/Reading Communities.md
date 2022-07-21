@@ -89,11 +89,11 @@ For Adults, conducted monthly in English at library@orchard.</p>
   <div class="col is-half-tablet padding--bottom--lg">
     <img alt="Flip-a-book Reading Club 翻书读书会" src="/images/learning-communities/reading/LC-Reading-StockImage-12.jpg">
     <div class="margin--top--lg">
-      <h5 class="margin--top--sm margin--bottom--sm"><b> Flip-a-book Reading Club 翻书读书会</b></h5>
-      <p class="margin--top--sm margin--bottom--sm"> Flip-a-book reading club engages in book discussion through face-to-face discussion as well as online platforms. The genres covered varies from biography, art appreciation and many others. The book club is lead by Channel 8 newscaster Zhao Quan Yin and targets at readers aged 20-30 years old. <br><br>
+      <h5 class="margin--top--sm margin--bottom--sm"><b> Fan Shu Reading Club 翻书读书会</b></h5>
+      <p class="margin--top--sm margin--bottom--sm"> Fan Shu Reading Club engages in book discussion through face-to-face discussion as well as online platforms. The genres covered varies from biography, art appreciation and many others. The book club is lead by Channel 8 newscaster Zhao Quan Yin and targets at readers aged 20-30 years old. <br><br>
 翻书读书会是一支专注于阅读体验，结合线上线下交流的读书会。阅读书籍类型广泛，包括人物传记、东西方美学等。读书会导读人赵全胤（8频道新闻主播）将导读好书，陪你一起把书读薄，让生命有深度! 读书会针对20-30岁热爱阅读的书友，欢饮参与！<br><br>
-For Adults, conducted quarterly in Chinese at Bukit Panjang Public Library.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+For Adults, conducted quarterly in Chinese at Bukit Panjang Public Library. Programmes are suspended until further notice.
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> </a></p>
     </div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
@@ -240,7 +240,7 @@ For adults, conducted in Chinese online via Zoom. Physical programme at library@
    <div class="col is-half-tablet padding--bottom--lg">
     <img alt="Shape your life bookclub 趁早读书会" src="/images/learning-communities/reading/LC-Reading-ShapeYourLife-01.jpg">
     <div class="margin--top--lg">
-      <h5 class="margin--top--sm margin--bottom--sm"><b> Shape your life bookclub 趁早读书会 </b></h5>
+      <h5 class="margin--top--sm margin--bottom--sm"><b> Chen Zao bookclub 趁早读书会 </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Chen Zao reading focuses on self-development books. The reading club explores ways to read efficiently and believes that reading can help us to improve ourselves. <br><br>
 我们读书会立志成为新加坡最有活力的读书会，培养全民阅读和推广阅读，也希望能成为成就他人的平台。我们的理念是互助成长，帮助周围的每一位小伙伴成为内心幸福和富足的人。我们的读书会成员大部分来自新移民群体，年龄段在20-40岁不等。<br><br>
 For Adults, conducted monthly in Chinese at library@harbourfront and Sengkang Public Library.</p>
