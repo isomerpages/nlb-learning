@@ -170,8 +170,8 @@ For adults and seniors, conducted in Chinese online via Zoom. Physical programme
       <h5 class="margin--top--sm margin--bottom--sm"><b> Junior Avid Readers 小书迷读书会 [Chinese Reading Clubs for Children 7 to 9 years old] </b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Immerse in an hour of storytelling and activities with Junior Avid Readers, a Chinese Reading Club for children aged 7 to 9!<br><br>
 每个月一次的读书会活动，通过有趣的故事以及活动，培养7至9岁的小朋友对华文书籍的兴趣，开启他们的阅读旅程。<br><br>
-No registration needed.<br><br>
-For Children (aged 7 to 9), conducted monthly in Chinese at Bishan Public Library, Jurong Regional Library, Pasir Ris Public Library and Tampines Regional Library.</p>
+Registration is required.<br><br>
+For Children (aged 7 to 9), conducted monthly in Chinese at Jurong Regional Library and Tampines Regional Library.</p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/avidreaders"> Click here for upcoming sessions</a></p>
     </div>
   </div>
@@ -201,8 +201,8 @@ For Children (aged 7 to 9), conducted monthly in Malay at Sengkang Public Librar
       <h5 class="margin--top--sm margin--bottom--sm"><b> Little Avid Readers 小小书迷读书会 [Chinese Reading Clubs for Children 4 to 6 years old]</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Immerse in an hour of storytelling and fun activities during Little Avid Readers, a Chinese Reading Club for children aged 4 to 6 and their parents! <br><br>
 每个月一次的读书会活动，通过有趣的故事以及活动，培养4至6岁的小朋友对华文书籍的兴趣，开启他们的阅读旅程。<br><br>
-No registration needed.<br><br>
-For Children (aged 4 to 6), conducted monthly in Chinese at Bishan Public Library, Jurong Regional Library, Woodlands Regional Library, Pasir Ris Public Library and Tampines Regional Library.</p>
+Registration is required. <br><br>
+For Children (aged 4 to 6), conducted monthly in Chinese at Jurong Regional Library, Woodlands Regional Library, and Tampines Regional Library.</p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/avidreaders"> Click here for upcoming sessions</a></p>
     </div>
   </div>
@@ -241,10 +241,10 @@ For adults, conducted in Chinese online via Zoom. Physical programme at library@
     <img alt="Shape your life bookclub 趁早读书会" src="/images/learning-communities/reading/LC-Reading-ShapeYourLife-01.jpg">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b> Chen Zao bookclub 趁早读书会 </b></h5>
-      <p class="margin--top--sm margin--bottom--sm"> Chen Zao reading focuses on self-development books. The reading club explores ways to read efficiently and believes that reading can help us to improve ourselves. <br><br>
+      <p class="margin--top--sm margin--bottom--sm"> Chen Zao Reading Club focuses on self-development books. The reading club explores ways to read efficiently and believes that reading can help us to improve ourselves. <br><br>
 我们读书会立志成为新加坡最有活力的读书会，培养全民阅读和推广阅读，也希望能成为成就他人的平台。我们的理念是互助成长，帮助周围的每一位小伙伴成为内心幸福和富足的人。我们的读书会成员大部分来自新移民群体，年龄段在20-40岁不等。<br><br>
-For Adults, conducted monthly in Chinese at library@harbourfront and Sengkang Public Library.</p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+For Adults, conducted monthly in Chinese at library@harbourfront and Sengkang Public Library. Programme is suspended until further notice.</p>
+      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> </a></p>
     </div>
   </div>
    <div class="col is-half-tablet padding--bottom--lg">
