@@ -176,9 +176,4 @@ Why Do Apples Turn Brown?</b></a></h4>
 
 <p>Light is made up of waves. These waves travel from light sources, bounce off objects and come to our eyes, allowing us to see things. Light sources come in many forms. Lamp posts help light up streets. Stadium lights help us watch a late sports match. Computer monitors and television screens emit light to display images. Light can also come from flames, not just electricity, like from the bonfire during camping. And of course, the biggest main source of light for us: the Sun!</p>
 
- <h4 id="lp-ocean"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-marineanimals"><b>All About Animals: <br> Let's Learn about the Ocean and Marine Animals! (for 3-6 years old)</b></a></h4>
- 
-<img src="/images/science/preschoolers/Misc%20-%20Ocean%20and%20Marine%20Animals.png" style="width:400px; text-align:centre;">
-
-<p>The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. What is the living habitat like for these marine animals? What special features have they developed to enable them to survive underwater? Let's find out! </p>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
