@@ -48,15 +48,15 @@ Check out our **learning packages** for D.I.Y to engage your child in different 
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#reading-takes-me-places">
-        <span>Playlist:<br>Reading Takes Me Places</span>
+      <a href="#blast-from-the-past">
+        <span>Playlist:<br>Blast from the Past</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#lp-hai-there-haiku">
-        <span>Learning Package:<br> Hai There, Haiku</span>
+      <a href="#lp-myths-come-alive">
+        <span>Learning Package:<br> Myths Come Alive</span>
       </a>
     </div>
   </div>
@@ -64,7 +64,7 @@ Check out our **learning packages** for D.I.Y to engage your child in different 
 	
 A collection of short videos and podcasts to expand reading interests.
 
-<h5 id="reading-takes-me-places" class="margin--bottom--lg"><b>Playlist: Reading Takes Me Places</b></h5>
+<h5 id="blast-from-the-past" class="margin--bottom--lg"><b>Playlist: Blast from the Past</b></h5>
 
 <br>
 
@@ -72,46 +72,63 @@ A collection of short videos and podcasts to expand reading interests.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/1UFWg3RITII" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/s7l4h1QhSbY" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b> Ask Authors Anything Episode 3: A.J. Low (with Sherlock Sam and Watson) (13 min) </b><br>
-    How much food does Sherlock Sam eat every day? Find out the answers to your questions in Ask Authors Anything with the writers of the Sherlock Sam series, A.J. Low!
+  <p><b> Emily Dickinson: Meet the Influential and Groundbreaking Poet | BrainPOP (8 min) </b><br>
+    The celebrated American poet, Emily Dickinson, was known for her beautiful verses and reclusion. Sample some of her poetry and learn more about Dickinson's life in this video!
 <br><br>
-<small>Source: Ask Authors Anything Episode 3: A.J. Low (with Sherlock Sam and Watson) (2020, June 13). Epigram Books. Retrieved 2022, February 16.</small></p>
+<small>Meet the Influential and Groundbreaking Poet | BrainPOP (2021, February 23). BrainPOP. Retrieved 2022, June 14.</small></p>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/T4j5tGNms14" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/LaLvVc1sS20" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b> The Evolution of Science Fiction (Feat. Lindsay Ellis) | It's Lit (6 min) </b><br>
-Interested in Science Fiction but don’t know where to start? Find out about Sci Fi classics and what makes them so special in this video! <br><br>
-<small>Source: The Evolution of Science Fiction | It’s Lit! (2018, July 18) PBS Voices. Retrieved 2022, March 9.</small></p>
+  <p><b> The history of tea - Shunan Teng (5 min) </b><br>
+Tea is the second most consumed beverage in the world after water. If you want to find out how this beverage came about, this video might be just your cup of tea. <br><br>
+<small>Source: The history of tea - Shunan Teng. (2017, 16 May). TED-Ed. Retrieved 2022, June 14.</small></p>
   </div>
 </div>
 
-<h5><a href="https://www.bookclubforkids.org/new-blog/2015/12/15/episode-13-the-strange-case-of-origami-yoda-b225k" target="_blank">Podcast: May the Fourth Be With You – The Strange Case of Origami Yoda by Tom Angleberger with Lalo Alcaraz (21 min) </a></h5>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/nesTk_6j-0c" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b> What is Impressionism? | Tate Kids (2 min) </b><br>
+Impressionism was an art movement recognized for changing the history of art. Who were the artists behind the bright colours and bold brushstrokes in impressionist paintings? <br><br>
+<small>Source: What is Impressionism? | Tate Kids (2020, 8 April). Tate Kids. Retrieved 2022, June 14.</small></p>
+  </div>
+</div>
 
-<p>Here’s a podcast for you where kids actively participate in discussions with the author and the podcast host, with a snippet of the book being read by a celebrity reader. The book of this episode is a lighthearted read about an all-knowing Origami Yoda.<br><br>
-<small>Source: May the Fourth Be With You – The Strange Case of Origami Yoda by Tom Angleberger with Lalo Alcaraz (2021, May 4). Book Club for Kids. Retrieved 2022, February 16.</small></p>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/GHO3-rf3hm0" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b> Back to School, Back in Time | The Time Travelling Trio #02 (13 min) </b><br>
+Chalk and blackboards? Wooden furniture? Brushing your teeth by the drain? Visit a classroom from the past with The Time Travelling Trio—Sarah, Rina, and Rokawa—to see what life in school used to be like. <br><br>
+<small>Source: Back to School, Back in Time | The Time Travelling Trio #02 (2022, 7 June). NLB Singapore. Retrieved 2022, June 14.</small></p>
+  </div>
+</div>
 
-<h5><a href="https://www.mewatch.sg/watch/Mind-Blown-E10-King-1-248336" target="_blank">Mind Blown! Kings 1 (20 min) </a></h5>
-
-<p>Singapore used to be part of Malaya and the British empire. Both have royal families. So why don’t we have kings and queens anymore? Is our history really that boring? Mindblown goes back to the 14th Century to find out what happened to our Malay Kings.<br><br>
-<small> Source: Mind Blown - King 1 (2020) Mediacorp. Retrieved 2022, March 22.</small></p>
 
 <h3><b>Learning Package</b></h3>
 	
 D.I.Y activities to engage your child in different topics.	
 
-<h4 id="lp-hai-there-haiku"><a href="/files/Reading_Tweens_Hai-There-Haiku.pdf" target="_blank"><b> Hai There, Haiku </b></a></h4>
-<p>The haiku is a type of short poem usually composed of three lines. Take up this challenge and pen your own haiku today!</p>
+<h4 id="lp-myths-come-alive"><a href="https://childrenandteens.nlb.gov.sg/images/diyresources/secondary/NLB_Popreads21_Sec_MythsComeAlive.PDF" target="_blank"><b> Myths Come Alive </b></a></h4>
+<p>Myths are traditional tales usually told about the early history of a culture or society. Try creating a myth of your own in this activity!</p>
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}

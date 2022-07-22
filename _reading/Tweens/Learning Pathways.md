@@ -37,17 +37,17 @@ Read with your child to explore new topics and discover new experience.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/reading/tweens/content" target="_blank"><b>Playlist Reading Takes Me Places</b></a></td>
+        <td style="width: 20%;"><a href="/reading/tweens/content" target="_blank"><b>Playlist: Blast from the Past</b></a></td>
         <td style="width: 40%;"> Explore different topics with these resources for your child to expand reading diets. </td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a href="/reading/tweens/content"><b>Learning Package Hai There, Haiku</b></a></td>
-         <td style="width: 40%;">The haiku is a type of short poem usually composed of three lines. Take up this challenge and pen your own haiku today!</td>
+        <td style="width: 20%;"><a href="/reading/tweens/content"><b>Learning Package: Myths Come Alive</b></a></td>
+         <td style="width: 40%;">Myths are traditional tales usually told about the early history of a culture or society. Try creating a myth of your own in this activity!</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
-      </tr>
+    </tr>
     </tbody>
   </table>
 </div>
@@ -61,28 +61,25 @@ Read with your child to explore new topics and discover new experience.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/tellstory7-award-edition-2-online-tickets-302092495787?aff=ebdssbeac " target="_blank"><b> #TellStory7 Award Edition </b></a></td>
-        <td style="width: 40%;">Season 7 of #TellStory is back! Students from various groups will represent their schools and compete for several drama/acting awards! Travel with our youths through their dramatic interpretations of both classic and (some tummy tickling) original scripts devised and written by the students! 
+        <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/hooked-on-reading-tickets-355029551947?aff=ebdssbdestsearch" target="_blank"><b> Hooked on Reading </b></a></td>
+        <td style="width: 40%;">Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with parents and teachers the impact reading has on children’s learning and language acquisition, the importance of fun for the engagement of children in learning, and ways to leverage on technology to enhance children’s reading experience. 
 					</td><br><br>
-        <td style="width: 20%;"> 2 & 9 April 2022, 1pm – 5pm</td>
-        <td style="width: 20%;">Zoom </td>
+        <td style="width: 20%;"> 16 July 2022, 10.20am – 1pm</td>
+        <td style="width: 20%;">National Library, The Pod </td>
       </tr>
       <tr>
- <td style="width: 20%;"><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b> 线上导读绘本《找到了》</b></a></td>
-         <td style="width: 40%;">恬恬和阿德跟着婆婆和妈妈一起去看街戏。但在街戏开演前，婆婆和妈妈却发现他们两人不见了！婆婆和妈妈找遍了整个戏台，就是找不到他们。结果街戏开演了……</td>
-         <td style="width: 20%;"> 12 May 2022, 8pm – 10pm </td>
-        <td style="width: 20%;">Zoom</td>
+ <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/comic-character-design-workshop-registration-365418375197?aff=ebdsoporgprofile" target="_blank"><b> Comic Character Design Workshop </b></a></td> 
+         <td style="width: 40%;">Comic Character Design WorkshopJoin this hands-on session, where participants will be guided step-by-step on the basics of character drawing. Dive into the colourful world of character design and bring home your very own comics masterpiece! Participants aged 7 and up, teen and adults are welcome. No drawing experience required.</td>
+         <td style="width: 20%;"> 23 July 2022, 3pm – 4pm </td>
+        <td style="width: 20%;">library@harbourfront, Programme 2</td>
 			</tr>
         <tr>
-<td><a href=" https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849 " target="_blank"><b>My Island City: What Makes a Place Feel Like Home?</b></a></td>
-        <td>This is an intergeneration online workshop for children to brainstorm and design their own home with their parents and grandparents.  There will be visual and written media on the built and natural environment of Singapore to inspire them.
-					<br><br> Registration will open closer to the date.</td>
-        <td>11 Jun 2022, <br>11am-12pm </td>
-        <td>Zoom</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<td><a href=" https://www.eventbrite.sg/e/save-smart-with-smiley-8-10-years-old-tickets-352487879737?aff=ebdsoporgprofile" target="_blank"><b>Save Smart with Smiley (8-10 years old)</b></a></td>
+        <td>Learn how to save smart, identify the difference between “Needs” and “Wants,” and develop healthy spending habits. Coupled with printable learning materials and scenario-based activities, learn how to create a savings plan and track your expenditure. Find out more about different cashless and digital payment modes in preparation for navigating the digital payment world.
+					<br><br> 
+        <td>30 July 2022, <br>11am-12pm </td>
+        <td>Woodlands Regional Library, Programme Zone</td>
+     
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -100,13 +97,9 @@ Read with your child to explore new topics and discover new experience.
       </tr>
 
 <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b> Tweenkerama | Sphero Party </b></a></td>
-        <td> The Sphero BOLT is an app-enabled robotic ball that provides endless opportunities to have fun while learning. In this workshop, participants will learn to handle, navigate, and program Sphero using a block-based programming language on phones or tablets. Come explore the animated 8×8 LED Matrix and advanced sensors like the gyroscope and accelerometer as you program Sphero! <br><br> Registration will open closer to the date.</td>
-        <td> June Holidays</td>
-        <td> Various Public Libraries</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/cckpl-ways-around-waste-greenhouse-tickets-355026703427?aff=ebdssbdestsearch" target="_blank"><b> CCKPL: Ways Around Waste | Greenhouse </b></a></td>
+        <td> Have you ever wondered where your waste goes beyond the rubbish chute? What about the materials you discard into those familiar blue recycling bins? This workshop hopes to shed light on waste management in the Singaporean context. Join us in discovering the many ways around waste in our daily lives! Please bring a favorite old t-shirt with you to this workshop to turn it into a t-shirt. <br><br> 
+        <td> 24 July 2022, 3pm-4pm</td>
+        <td> Choa Chu Kang Public Library, Programme Room 2</td>
+ 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

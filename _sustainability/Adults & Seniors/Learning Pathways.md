@@ -85,7 +85,7 @@ This program will be conducted workshop style and covers the journey of food, pr
 				<td style="width: 20%;"><b>Reuse, Repurpose & Recoup!</b></td>
         <td style="width: 40%;">Much energy is used to produce fashion wear and during incineration when they are thrown away. Learning how to upcycle your old fashion pieces can help stretch your dollar and save a ton of energy! <br> <br> Join this demo workshop led by a fashion designer to pick up ideas on fashion upcycling and learn how to identify fashion brands that are sustainable!
 </td>
-        <td style="width: 20%;">20 Aug 202, <br>2pm - 3pm</td>
+        <td style="width: 20%;">20 Aug 2022, <br>2pm - 3pm</td>
         <td style="width: 20%;">Geylang Public Library, Merpati Hall</td>
 			</tr>
 			<tr>

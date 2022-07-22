@@ -89,9 +89,34 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
         <td> </td>
 			</tr>
 		  <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-inflator" target="_blank"><b>ABC's of Applied Chemistry for Kids: <br><br>Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></a></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-inflator" target="_blank"><b> Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator
+ </b></a><img src="/images/science/preschoolers/Up%20Up%20and%20Away%20with%20Fizzy%20Inflator.jpg" style="width:400px; text-align:left;"></td>
         <td>Do you know what happens when you mix baking soda and vinegar? Let’s learn about chemical reactions and the gas they produce when they are mixed. <br><br>Chemical reaction: A process that involves the arrangement of molecules or structure of a substance, as opposed to a change in physical form (as from a solid to a gas).<br><br> Observe how a balloon can be inflated through this simple experiment.
-</td>
+ </td>
+        <td></td>
+        <td> </td>
+      </tr>
+		  <tr>
+        <td><a href="https://nlb-dr-staging.netlify.app/budding-scientists#lp-amazingbody" target="_blank"><b> The Amazing Body: Let’s Explore My Body!
+ </b></a><img src="/images/science/preschoolers/amazingbody1.png" style="width:400px; text-align:left;"></td>
+        <td>The human body is a complex machine. The different parts of our body work together to do many amazing things. Let’s have some fun learning about the human body and how it functions!
+ </td>
+        <td></td>
+        <td> </td>
+      </tr>
+		  <tr>
+        <td><a href="https://nlb-dr-staging.netlify.app/budding-scientists#lp-animals" target="_blank"><b>All About Animal Life Cycles
+ </b></a><img src="/images/science/preschoolers/animals%20grow.jpg" style="width:400px; text-align:left;"></td>
+        <td> Every living thing goes through a life cycle and your child may start understanding that as they grow! Go on an investigative journey with them to learn about the growth, and development of both familiar and even unfamiliar animals!
+ </td>
+        <td></td>
+        <td> </td>
+      </tr>
+		  <tr>
+        <td><a href="https://nlb-dr-staging.netlify.app/budding-scientists#lp-light" target="_blank"><b> Let There Be Light!
+ </b></a><img src="/images/science/preschoolers/light.jpg" style="width:400px; text-align:left;"></td>
+        <td> Light is made up of waves. These waves travel from light sources, bounce off objects and come to our eyes, allowing us to see things. Light sources come in many forms. Lamp posts help light up streets. Stadium lights help us watch a late sports match. Computer monitors and television screens emit light to display images. Light can also come from flames, not just electricity, like from the bonfire during camping. And of course, the biggest main source of light for us: the Sun!
+ </td>
         <td></td>
         <td> </td>
       </tr>

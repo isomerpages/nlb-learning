@@ -91,7 +91,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 			</a>
 		</div>
 	</div>
-	
+	<div class="col is-one-third">
+		<div class="clickbox is-mint-jade">
+			<a href="#singapore-food-brands">
+				<span>Playlist: Singapore Food Brands</span>
+			</a>
+		</div>
+	</div>
+
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-food-heritage">
@@ -144,6 +151,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <div class="clickbox is-mint-jade">
 <a href="#lp-hawker-centres">
 <span>Learning Package:<br>Hawker Centres</span>
+</a>
+</div>
+</div>
+	
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-singapore-food-brands">
+<span>Learning Package:<br>Singapore Food Brands</span>
 </a>
 </div>
 </div>
@@ -514,6 +529,84 @@ A History Of Singapore Hawker Culture: From Food To Architecture | Hawkers In Ou
 The second episode in a two-part series on hawker culture in Singapore, this video looks at the challenges confronting the survival of hawker food heritage and how it continues to evolve with a younger generation at the helm today.<br><br>
 
 <small>Source: Preserving Singapore's Ageing Hawker Culture: The New Wave | Hawkers In Our Centre | Part 2/2 | CNA Insider (2020, Dec 17). CNA. Retrieved 2022, February 14.</small></p>
+</div>
+</div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="singapore-food-brands"><b>Playlist: Singapore Food Brands</b></h5>
+
+Despite the diverse cultural roots and the multiplicity of food varieties available in Singapore, its people are always brought together through its common food culture, shaped by reputable local food and beverage brands. These brands have found a place in the history of the island, by building a legacy for themselves.
+
+Check out these resources to help you gain some understanding on some of the famous food brands in Singapore.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/pRAeBNuH3U8" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> The People Behind Singapore’s Iconic Soybean Brand | Mr Bean | Our Grandfather Story (5 mins)</b><br>
+Our Grandfather Story explores how Mr Bean transforms 40 000kg of soybeans a month into sweet treats of happiness through its humble recipes.<br><br>
+<small> Source: The People Behind Singapore’s Iconic Soybean Brand | Mr Bean | Our Grandfather Story (2021, Dec 9). Our Grandfather Story. Retrieved 2022, July 19.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/WWbDSr-RrXQ" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Old Chang Kee: A Taste of Home, Overseas | Enterprise Singapore (2 mins)</b><br>
+Mr Han Keen Juan, the chairman and founder of Old Chang Kee, shares the secret to developing this Singapore’s favourite brand to one that is recognised beyond the borders of the island.<br><br>
+<small> Source: Old Chang Kee: A Taste of Home, Overseas | Enterprise Singapore (2020, May 29). Enterprise Singapore. Retrieved 2022, July 19.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/hngfAC-9zQA" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Singapore Pride - Yeo Hiap Seng | MustShareNews (3 mins)</b><br>
+This video traces the story of how a small soya sauce factory in China found its way into Singapore in September 1938, starting off as Yeo Hiap Seng Sauce factory, pushing through war circumstances, developing as a favourite Singapore household beverage brand and establishing itself into an international brand.<br><br>
+<small> Source: Singapore Pride - Yeo Hiap Seng | MustShareNews (2019, Apr 7). MustShareNews. Retrieved 2022, July 19.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/7Aw2xMXO4cA" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Thye Moh Chan: The Legacy Lives On | MICHELIN Guide Asia (4 mins)</b><br>
+Veteran chef and consultant for Thye Moh Chan, Mr Chua Cha Lai shares how the traditions of making their popular Tau Sar Piah and Teochew mooncakes is kept alive till today.<br><br>
+<small> Source: Thye Moh Chan: The Legacy Lives On | MICHELIN Guide Asia (2018, Aug 9). MICHELIN Guide Asia. Retrieved 2022, July 19.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/sjmIsDjLQKo" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> How Singapore's Bengawan Solo conquered Southeast Asia | South China Morning Post (5 mins)</b><br>
+Ms Anastasia Liew who grew up in Indonesia and emigrated to Singapore in the 70s, shares on how her passion for baking, paved way for one of Southeast Asia’s most loved brands, Bengawan Solo.<br><br>
+<small> Source: How Singapore's Bengawan Solo conquered Southeast Asia | South China Morning Post | South China Morning Post (2019, Jun 30). South China Morning Post. Retrieved 2022, July 19.</small></p>
 </div>
 </div>
 
@@ -922,5 +1015,50 @@ Lai, Chee Kien & Koh, Hon Teng (2021). <i>Hawker centre food: ambrosia for the p
 <img src="/images/Singapore%20Food%20Heritage/HawkerCentreFood.png" style="width:200px;">
 <p>On 16 December 2020, hawker culture in Singapore was officially inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity. Published in 2021 with support from the National Heritage Board, this book, which features illustrations and stories of 129 food stalls from 111 hawker centres across the island, contributes to the documentation of Singapore’s evolving hawker culture and food heritage. </p>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<h5 class="margin--bottom--lg" id="lp-Singapore-food-brands"><b>Singapore's Food Heritage: Food Brands</b></h5>
+
+<p> Whichever part of the world Singaporeans travel to, the sight of spotting one or two of Singapore’s very own food and beverage brands in a supermart overseas never fail to bring back memories of home. Such heritage food brands have stood the test of time and have also become an integral part of growing up in Singapore. Today, quality products by some of these local brands can be found worldwide. </p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+	<ul>
+		<li>According to recent studies, consumer demand for ready-to-eat (RTE) food will be seeing a significant rise in Singapore in the next five years. As Singaporeans are allocating less time to cooking food at home and seeking out health-conscious meals, the growing demand for quick food that is fresh and nutritious has seen the emergence of many local food brands providing pre-cleaned, pre-cooked, and ready for consumption packaged food. Prima Taste is one such local brand which has emerged among top five RTE brands in Singapore, competing with well-known international names such as Nestle and Kellogg’s.</li>
+		</ul>
+		</td>
+		</tr></tbody></table>
+	These curated set of articles and books will give you a better understanding of heritage food brands in Singapore.
+	
+<h4>Articles</h4>
+<div>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-05-11_100628.html" target="_blank"> Bee Cheng Hiang by Hwa Chong Institution </a></h5>
+<p> Most notably known for its signature bakkwa (barbequed pork slices), Bee Cheng Hiang started off its journey on a pushcart in Chinatown in 1933. This article gives an insight into its success story.</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-05-11_100628.html" target="_blank"> Bee Cheng Hiang </a>(2015, May).<i> Singapore Infopedia.</i> Retrieved 2022, July 19.
+	
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1670_2010-06-16.html" target="_blank"> Khong Guan Biscuit Company by Chua, Alvin </a></h5>
+<p> This article presents Khong Guan, a biscuit company with over 70 years of history that grew from a factory into a multinational business.
+</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1670_2010-06-16.html" target="_blank"> Khong Guan Biscuit Company </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 19.
+	
+<h4>Books</h4>
+<h5> 1883-1983, the great years </h5>
+Fraser & Neave Ltd. (1983). <i> 1883-1983, the great years. </i> Singapore: Fraser & Neave Ltd. (Call no.: RSING 338.7663 EIG)
+<br>
+<img src="/images/Singapore%20Food%20Heritage/FnN.png" style="width:200px;">
+<p> Published to mark the 100th anniversary of Fraser and Neave. This book recounts the history of F&N from the early days in 1883 when it had only a modest operation, to one of the most well-known brand names of the 20th century in Singapore. </p>
+
+<h5> Tiger Beer: distinctly Asian, unmistakably world classic</h5>
+Tai, Jacky (2008). <i> Tiger Beer: distinctly Asian, unmistakably world classic. </i> Singapore: Marshall Cavendish Business. (Call no.: RSING 658.827095957 TAI)
+<br>
+<img src="/images/Singapore%20Food%20Heritage/TigerB.png" style="width:200px;">
+<p> Since its birth in 1932, Tiger Beer is one of a handful of Singapore brands that have made waves internationally. In this book, Jacky Tai explores how this Singapore beer has managed to do so well internationally despite being an Asian brew, as he reveals the secrets of building a strong and consistent brand. </p>
+	
+<h5> The top toast: Ya Kun and the Singapore breakfast tradition </h5>
+Koh, William (2015). <i> The top toast: Ya Kun and the Singapore breakfast tradition. </i> Second edition. Singapore: Cengage Learning. (Call no.: RSING 338.76164795 KOH)
+<br>
+<img src="/images/Singapore%20Food%20Heritage/YaKun.png" style="width:200px;">
+<p> This book traces the humble beginnings of Ya Kun, its reputation for quality toast and coffee, and how it has shaped the breakfast culture of Singaporeans over time. </p>
+	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
