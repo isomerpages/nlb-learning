@@ -154,8 +154,31 @@ Why Do Apples Turn Brown?</b></a></h4>
  
  <h4 id="lp-inflator"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator
 </b></a></h4>
-		
+		<img src="/images/science/preschoolers/Up%20Up%20and%20Away%20with%20Fizzy%20Inflator.jpg" style="width:400px; text-align:centre;">
  
  <p>Do you know what happens when you mix baking soda and vinegar? Let’s learn about chemical reactions and the gas they produce when they are mixed. <br><br>Chemical reaction: A process that involves the arrangement of molecules or structure of a substance, as opposed to a change in physical form (as from a solid to a gas).<br><br> Observe how a balloon can be inflated through this simple experiment.</p>	
 
+ <h4 id="lp-amazingbody"><a target="_blank" href="https://nlb\-dr\-staging.netlify.app/budding-scientists#lp\-amazingbody"><b>The Amazing Body: Let’s Explore My Body!</b></a></h4>
+ 
+<img src="/images/science/preschoolers/amazingbody1.png" style="width:400px; text-align:centre;">
+
+<p>The human body is a complex machine. The different parts of our body work together to do many amazing things. Let’s have some fun learning about the human body and how it functions! </p>
+
+ <h4 id="lp-animals"><a target="_blank" href="https://nlb-dr-staging.netlify.app/budding-scientists#lp-animals"><b>All About Animal Life Cycles</b></a></h4>
+ 
+<img src="/images/science/preschoolers/animals%20grow.jpg" style="width:400px; text-align:centre;">
+
+<p>Every living thing goes through a life cycle and your child may start understanding that as they grow! Go on an investigative journey with them to learn about the growth, and development of both familiar and even unfamiliar animals! </p>
+
+ <h4 id="lp-light"><a target="_blank" href="https://nlb-dr-staging.netlify.app/budding-scientists#lp-light"><b>Let There Be Light!</b></a></h4>
+ 
+<img src="/images/science/preschoolers/light.jpg" style="width:400px; text-align:centre;">
+
+<p>Light is made up of waves. These waves travel from light sources, bounce off objects and come to our eyes, allowing us to see things. Light sources come in many forms. Lamp posts help light up streets. Stadium lights help us watch a late sports match. Computer monitors and television screens emit light to display images. Light can also come from flames, not just electricity, like from the bonfire during camping. And of course, the biggest main source of light for us: the Sun!</p>
+
+ <h4 id="lp-ocean"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-marineanimals"><b>All About Animals: <br> Let's Learn about the Ocean and Marine Animals! (for 3-6 years old)</b></a></h4>
+ 
+<img src="/images/science/preschoolers/Misc%20-%20Ocean%20and%20Marine%20Animals.png" style="width:400px; text-align:centre;">
+
+<p>The ocean is home to thousands of different marine animals, such as the clownfish, sharks, whales, dolphins and many more. What is the living habitat like for these marine animals? What special features have they developed to enable them to survive underwater? Let's find out! </p>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
