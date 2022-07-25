@@ -133,7 +133,6 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
 Explore Programmes</th>
 		
 
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
