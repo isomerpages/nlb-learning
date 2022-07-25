@@ -131,10 +131,10 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
 			<tr>
         <th colspan="4" class="is-uppercase has-weight-normal">
 Explore Programmes</th>
-                                           </tr>
-                             </thead>
-                             <tbody>
-		<td> More programmes coming soon!</td>
+			</tr>
+		</thead>
+		<tbody>
+		<td> More programmes coming soon!!</td>
    </tbody>
  </table>
 </div>
