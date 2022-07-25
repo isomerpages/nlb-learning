@@ -134,9 +134,7 @@ Explore Programmes</th>
                                            </tr>
                              </thead>
                              <tbody>
-	<tr>
 		<td> More programmes coming soon!!!</td>
-	</tr>
    </tbody>
  </table>
 </div>
