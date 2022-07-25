@@ -131,20 +131,7 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
 			<tr>
         <th colspan="4" class="is-uppercase has-weight-normal">
 Explore Programmes</th>
-			</tr>
-		</thead>
-		<tbody>
-	  <tr>
-<td><a target="\_blank" href="https://www.eventbrite.sg/e/family-fun-time-at-the-library-early-read-tickets-355021186927?aff=ebdsoporgprofile"><b> Family Fun Time at the Library | Early READ </b></a></td>
-        <td> FFT is an interactive parent-and-child programme that includes fun, educational hands-on activity and suitable for children of 3 to 6 years old.
-Parents are engaged with practical knowledge and tips on the importance of healthy living as a family and what they can do to raise healthy children.
-</td>
-        <td>July 16 2022<br>2.00pm-3.30pm<br></td>
-        <td>Tampines Regional Library</td>
-      </tr>
-   </tbody>
- </table>
-</div>
+		
 
 
 <div class="horizontal-scroll margin--bottom--lg">
