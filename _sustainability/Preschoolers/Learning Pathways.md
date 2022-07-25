@@ -125,14 +125,14 @@ Check out the video resources below to help your child understand the roles of t
               <td>July 31 2022<br>2.00pm – 3.00pm<br></td>              <td>library@harbourfront - Stories Come Alive Room</td>
 		</tr>
 		<tr>
-              <td><a target="blank" href=" https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869 "><b>   Jiggle Read & Rhyme | Early READ   </b></a></td>
+              <td><a target="blank" href=" https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869 "><b>  Jiggle Read & Rhyme | Early READ   </b></a></td>
               <td>   Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE!  </td>
-              <td>Check out all the Jiggle Read & Rhyme sessions for this month! <br></td>
+              <td>Check out all the Jiggle Read & Rhyme sessions for August! <br></td>
 		</tr>
 		
 		
 <tr>
-              <td><a target="\\\_blank" href=" https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-380216266087?aff=odcleoeventsincollection "><b> Baby Songs & Rhymes | Early READ    </b></a></td>
+              <td><a target="blank" href=" https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-380216266087?aff=odcleoeventsincollection "><b> Baby Songs & Rhymes | Early READ    </b></a></td>
               <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. <br>
 This programme is intended for parents with babies up to 12 months.  </td>
               <td>Aug 3 2022<br>2.30pm – 3.00pm<br></td>
