@@ -244,7 +244,6 @@ Computational thinking is the process of breaking down a problem into simple eno
               <td>  Come build a robot with us using LEGO®’s WEDO platform and learn how gears, motors, and sensors work in this series of 'Robo Coder' sessions. With a bit of coding, watch your robot creations come to life! You will also get a chance to programme a screen-free coding robot, BOTLEY, and use it to accomplish fun and challenging missions, all the while learning about fundamental coding concepts. This parent-child session is suitable for preschoolers aged 4 to 6 years old.  </td>
               <td>Sep 3 2022<br>2.30pm – 3.30pm<br></td>
               <td>Jurong Regional Library (Programme Zone Level 1)</td>
-								</tr>
       </tr>
     </tbody>
   </table>
