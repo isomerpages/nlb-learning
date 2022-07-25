@@ -26,7 +26,7 @@ third_nav_title: Adults & Seniors
 </style>
 
 ![](/images/digital/Fowbanner.jpg)
-<h4><b>Join us for an exciting line-up of programmes by expert speakers to learn about trending technology & career skills to help you navigate the future workplace!</b></h4>
+<h4><b>Join us for an exciting 2 week line-up of programmes by expert speakers to learn about trending technology & career skills to help you navigate the future workplace!</b></h4>
 Back for the 2nd year running, the Future of Work Expert Edition is a curated series that explores a range of Digital & Career themed programmes, conducted by experts and professionals.
 In this year's lineup, gain in-depth first hand knowledge and skills on a buffet of topics, from technical topics such as Python, UX & Machine Learning, to key career skills such as equitable decision making, positivity and performance.
 
@@ -36,7 +36,8 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Programme Calendar:</th>
+				<th colspan="4" class="is-uppercase has-weight-normal"><u>Programme Calendar:</u>
+<br> Click on the programme titles to register!</th>
       </tr>
     </thead>
     <tbody>
@@ -114,7 +115,7 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h4> Book recommendations to enhance your learning</h4>
+<h4> <u>Book recommendations to enhance your learning</u></h4>
 <h5>User Experience Design</h5>
 Mary Aiken (2016), <i>The Cyber Effect</i>, Random House Publishing Group.
 <br>
@@ -139,7 +140,7 @@ Paolo Perrotta (2020), <i>Programming Machine Learning</i>, Pragmatic Bookshelf.
 <p><a href="https://share.libbyapp.com/title/5492248" target="_blank">Borrow the eBook here</a>.</p>
 Retrieved from NLB Libby (myLibraryid is required to access the eBook).
 
-<h5> Want to learn more? Check out our learning packages here:
+<h5> WANT TO LEARN MORE? <br>Check out our learning packages here:
 <br>	<a href="https://learning.nlb.gov.sg/digital/adults-seniors/content"> LearnX Digital Learning Packages</a>
 <br> <a href="https://learning.nlb.gov.sg/careers/adults-seniors/content"> LearnX Career Learning Packages</a>
 	
