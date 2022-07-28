@@ -117,14 +117,11 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>Bukit Panjang Public Library </td>
       </tr>
 			  <tr>	
-<td><a target="_blank" href="https://www.eventbrite.sg/e/family-fun-time-at-the-library-early-read-tickets-355021186927?aff=ebdsoporgprofile"><b> Family Fun Time at the Library | Early READ </b></a></td>
-        <td> FFT is an interactive parent-and-child programme that includes fun, educational hands-on activity and suitable for children of 3 to 6 years old.
-Parents are engaged with practical knowledge and tips on the importance of healthy living as a family and what they can do to raise healthy children.
-The session covers specific nutrition health tips, delivered via an engaging format of a storyline with a Captain Happy character facilitating the programme, accompanied with a hands-on activity kit to encourage family bonding and the adoption of healthy habits i.e. Tips for Kids to Eat Well.
-Each registration entitles a parent-and-a child to receive 1 hands-on activity kit from Health Promotion Board.
+<td><a target="_blank" href="https://www.eventbrite.sg/e/storiialivetm-through-stem-early-read-tickets-384437150867?aff=odcleoeventsincollection"><b> StoriiAlive™ through STEM | Early READ</b></a></td>
+        <td> StoriiAlive™ is a series of workshops created to bring stories alive to the young readers of age 3 – 6 and their parents through STEM. We believe in using fun and creative approaches to engage your child and at the same time developing a  deeper love for reading. This workshop is excellent for parent and child bonding. We welcome parents with children of age 3 – 6.
 </td>
-        <td>July 16 2022<br>2.00pm-3.30pm<br></td>
-        <td>Tampines Regional Library</td>
+        <td>July 31 2022<br>2.00pm – 3.00pm<br></td>
+        <td>library@harbourfront - Stories Come Alive Room</td>
       </tr>
 				<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-lets-explore-climate-change-early-read-tickets-355028639217?aff=ebdsoporgprofile"><b> [Caring for the Environment] Let's Explore Climate Change! | Early READ</b></a></td>
