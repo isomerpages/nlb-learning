@@ -41,7 +41,7 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
       </tr>
     </thead>
     <tbody>
-			<tr>
+							<tr>
 <td><a href="https://www.eventbrite.sg/e/python-x-excel-future-of-work-expert-edition-registration-384454302167?aff=odcleoeventsincollection" target="_blank"><b>Python x Excel</b></a></td>
         <td>Increase efficiency at work!<br> Learn about how you can use Python together with Excel to automate repetitive work, analyse and visualize data. </td>
         <td>30 Aug Tuesday 6:30pm-8:30pm</td>
@@ -80,6 +80,18 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
 </td>
         <td>3 Sep Saturday <br>4pm - 5.30pm</td>
         <td>Zoom</td>
+      </tr>
+			<tr>
+<td><a href="https://www.eventbrite.sg/e/physical-what-does-it-take-to-create-a-tech-startup-in-singapore-fowee-tickets-390269154547" target="_blank"><b>(Physical) What does it take to create a tech startup in Singapore? </b></a></td>
+        <td>We hear stories about tech giants in Singapore and we wonder how do we become one? Learn all about technopreneurship and the resources available to create a tech startup!
+				<td>5 Sep Monday 6.30pm-7.30pm </td>
+				<td>library@harbourfront</td>
+      </tr>
+				<tr>
+<td><a href="https://www.eventbrite.sg/e/virtual-what-does-it-take-to-create-a-tech-startup-in-singapore-fowee-tickets-390269515627" target="_blank"><b>(Virtual) What does it take to create a tech startup in Singapore? </b></a></td>
+        <td>We hear stories about tech giants in Singapore and we wonder how do we become one? Learn all about technopreneurship and the resources available to create a tech startup!
+				<td>5 Sep Monday 6.30pm-7.30pm </td>
+					<td>Zoom</td>
       </tr>
 			<tr>
 <td><a href="https://www.eventbrite.com/e/intro-to-machine-learning-and-ai-future-of-work-expert-edition-tickets-384448133717?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>Intro to Machine Learning and AI</b></a></td>
