@@ -69,19 +69,19 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
      <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-tickets-323723233907?aff=ebdsoporgprofile"><b> Toddler Songs & Rhymes | Early READ </b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
-       <td>July 2 2022<br>11.00am –11.20am<br></td>
-        <td>Zoom </td>
+       <td>Check out all the Jiggle Read & Rhyme sessions for this month! <br></td>
+        <td>Various public libraries</td>
       </tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-355032982207?aff=ebdsoporgprofile"><b>Jiggle, Read & Rhyme | Early READ
+<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-380216266087?aff=odcleoeventsincollection"><b>Baby Songs & Rhymes | Early READ 
  </b></a></td>
-        <td> Join other parents with young children, and support your child's early development through an enjoyable 30 minute session with songs, rhymes and stories that come alive. This fun and interactive parent-child programme is FREE!
+        <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. 
 <br>
-This programme is intended for parents with toddlers aged 1-3.</td>
-        <td>July 2 2022<br>2.00pm-2.30pm<br></td>
-        <td>Jurong West Public Library</td>
+This programme is intended for parents with babies up to 12 months. </td>
+        <td>Aug 3 2022<br>2.30pm-3.00pm<br></td>
+        <td>Zoom</td>
       </tr>		
 <tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-345127986097?aff=ebdsoporgprofile"><b> Baby Songs & Rhymes | Early READ</b></a></td>
