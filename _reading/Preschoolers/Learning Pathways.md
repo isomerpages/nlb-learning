@@ -97,10 +97,6 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>Zoom</td>
       </tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/storytelling-with-evelyn-makan-mischief-early-read-tickets-355030795667?aff=ebdsoporgprofile&quot;"> <b> Storytelling with Evelyn | Makan Mischief | Early READ </b></a></td>
-        <td>Hungry for adventure? Join Little Mynah as she tries to help her friends Jen and Jay at the hawker centre, using fun everyday words in Mandarin, Malay and Tamil. A craft session and interactive storytelling for children ages 4 to 6 years that will be deliciously delightful!</td>
-       <td>July 30 2022<br>11.00am-12.00pm<br></td>
-        <td>Queenstown Public Library</td>
       </tr>		
 <tr><td><a>
     </a></td></tr></tbody>
