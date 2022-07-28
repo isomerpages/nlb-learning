@@ -94,7 +94,12 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td> As parents, our role is to provide deep empathy and stay connected with our children during challenging moments in their life. We can hold space for them to experience life, allow them to feel and be active participants in problem solving, as well as to discover the depth of their capacity and strength. Together, we will read this book and find out more about "The Yes Brain", and consider helping our children develop it, nurturing the four key characteristics of balance, resilience, insight and empathy in them.  </td>
         <td>Aug 13 2022<br>11.00am – 12.00pm<br></td>
         <td>Zoom</td>
-  
+  <td></td>
+        <td> </td>
+      </tr>	
+       </tbody>
+  </table>
+</div>
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
