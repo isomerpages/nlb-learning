@@ -124,8 +124,9 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>library@harbourfront - Stories Come Alive Room</td>
       </tr>
 				<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-lets-explore-climate-change-early-read-tickets-355028639217?aff=ebdsoporgprofile"><b> [Caring for the Environment] Let's Explore Climate Change! | Early READ</b></a></td>
-        <td> This programme introduces children to the concept of climate change through interactive activities and hands-on learning. Children will learn the importance of climate change including its affects on polar bears.</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/think-like-a-coder-crack-the-code-discovertech-registration-377924671867?aff=odcleoeventsincollection"><b> Think Like A Coder: Crack the Code [DiscoverTech] </b></a></td>
+         <td> 'Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children. These are for absolute beginners. <br>
+Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.  </td>
         <td>July 17 2022<br>10.30am – 11.30am<br></td>
         <td>Queenstown Public Library  </td>
       </tr>
