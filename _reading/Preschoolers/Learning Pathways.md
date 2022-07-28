@@ -111,10 +111,10 @@ This programme is intended for parents with babies up to 12 months.</td>
     </thead>
     <tbody>
 			 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-defying-gravity-early-read-tickets-355027676337?aff=ebdsoporgprofile"><b>[Budding Engineers] Defying Gravity | Early READ</b></a></td>
-        <td>Did you know that when you jump in space, you will float away instead of landing back down on the ground? What is this force that keeps us rooted to the ground on Earth? It is gravity! Let's explore gravity and find out how important it is in our daily lives. We'll also build our own parachutes and see how gravity makes it work. Float on by and join us for some fun activities, budding scientists!</td>
-       <td>July 9 2022<br>11.00am-12.00pm<br></td>
-        <td>Woodlands Regional Library </td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/digital-art-3d-pen-early-read-tickets-384435465827?aff=odcleoeventsincollection"><b>Digital Art 3D pen | Early READ</b></a></td>
+        <td> In this session, children will be able to create different keychains and characters to give to their love ones using the 3D pen.This is a parent-child programme and is open to children 4-6 and their parents.</td>
+       <td>July 30 2022<br>2.00pm – 3.00pm<br></td>
+        <td>Bukit Panjang Public Library </td>
       </tr>
 			  <tr>	
 <td><a target="_blank" href="https://www.eventbrite.sg/e/family-fun-time-at-the-library-early-read-tickets-355021186927?aff=ebdsoporgprofile"><b> Family Fun Time at the Library | Early READ </b></a></td>
