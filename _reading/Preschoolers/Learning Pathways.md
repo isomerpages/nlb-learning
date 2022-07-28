@@ -84,16 +84,16 @@ This programme is intended for parents with babies up to 12 months. </td>
         <td>Zoom</td>
       </tr>		
 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-345127986097?aff=ebdsoporgprofile"><b> Baby Songs & Rhymes | Early READ</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-378171500137?aff=odcleoeventsincollection"><b> Baby Songs & Rhymes | Early READ</b></a></td>
         <td> Songs and rhymes play an important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. <br>
 This programme is intended for parents with babies up to 12 months.</td>
-        <td>July 6 2022<br>2.30pm– 3.00pm<br></td>
+        <td>Aug 11 2022<br>4.00pm – 4.20pm<br></td>
         <td>Zoom</td>
       </tr>
 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/interactive-online-storytelling-session-jomo-the-triceratops-early-read-tickets-355015158897?aff=ebdsoporgprofile"><b> Interactive Online Storytelling Session: Jomo the Triceratops | Early READ</b></a></td>
-        <td> Jomo the Triceratops sees something shooting through the sky one night, what could it be? He decides to go on an epic adventure to find out! During this 30 minute session, your child will be immersed in the story of Jomo the dinosaur and follow him on his journey. There will be elements of drama and imaginary play. A scavenger hunt will also be involved where parents will help to hide printables around the house and your child will find them throughout the session. What are you waiting for? See you there! </td>
-        <td>July 23 2022<br>3.30pm – 4.00pm<br></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/parents-support-group-with-jenny-ng-registration-378937110097?aff=odcleoeventsincollection"><b> Parents Support Group with Jenny Ng </b></a></td>
+        <td> As parents, our role is to provide deep empathy and stay connected with our children during challenging moments in their life. We can hold space for them to experience life, allow them to feel and be active participants in problem solving, as well as to discover the depth of their capacity and strength. Together, we will read this book and find out more about "The Yes Brain", and consider helping our children develop it, nurturing the four key characteristics of balance, resilience, insight and empathy in them.  </td>
+        <td>Aug 13 2022<br>11.00am – 12.00pm<br></td>
         <td>Zoom</td>
       </tr>
 			<tr>			
