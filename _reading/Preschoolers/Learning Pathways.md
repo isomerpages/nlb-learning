@@ -95,11 +95,6 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>Aug 13 2022<br>11.00am – 12.00pm<br></td>
         <td>Zoom</td>
   
-      </tr>		
-<tr><td><a>
-    </a></td></tr></tbody>
-  </table>
-</div>
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
