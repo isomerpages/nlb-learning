@@ -134,28 +134,15 @@ Computational thinking is the process of breaking down a problem into simple eno
 
 <tr>           
 
-<td><a target="\_blank" href="https://www.eventbrite.sg/e/from-seed-to-harvest-ii-tickets-373798861457?aff=ebdsoporgprofile"><b> Arise & Farm: Engaging Communities - From Seed to Harvest II </b></a></td>
+<td><a target="\_blank" href="https://www.eventbrite.sg/e/robo-coder-tickets-383791981147?aff=odcleoeventsincollection"><b> Robo Coder</b></a></td>
 
-        <td> This session immerses children in the process of farming, through a guided exhibit tour and tactile hands-on activities. Participants get to learn each step of the farming process which includes seed sowing, transplant, grow-out and harvest. This programme is suitable for children aged 4-6 yrs old.</td>
+        <td> Come build a robot with us using LEGO®’s WEDO platform and learn how gears, motors, and sensors work in this series of 'Robo Coder' sessions. With a bit of coding, watch your robot creations come to life! You will also get a chance to programme a screen-free coding robot, BOTLEY, and use it to accomplish fun and challenging missions, all the while learning about fundamental coding concepts. This parent-child session is suitable for preschoolers aged 4 to 6 years old.</td>
 
-        <td>July 30 2022<br>2.00pm – 3.00pm<br></td>
+        <td>Sep 3 2022<br>2.30pm – 3.30pm<br></td>
 
-        <td>Bishan Public Library  </td>
+        <td>Jurong Regional Library (Programme Zone Level 1)  </td>
 
       </tr>
-
-  
-  
-
-<tr>           
-
-<td><a target="\_blank" href="https://www.eventbrite.sg/e/the-world-of-plants-ii-tickets-373799673887?aff=ebdsoporgprofile"><b> Arise & Farm: Engaging Communities - The World of Plants II </b></a></td>
-
-        <td> This session teaches young children on basic plant biology on lifecycles, systems and plant diversity, which they learn through interacting with the exhibits and handicraft. This programme is suitable for children aged 4-6 yrs old.</td>
-
-        <td>July 30 2022<br>3.30pm – 4.30pm<br></td>
-
-        <td>Bishan Public Library  </td>
 
       </tr>
   </tbody>
