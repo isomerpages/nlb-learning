@@ -130,8 +130,7 @@ Computational thinking is the process of breaking down a problem into simple eno
 					  
 
 <tr>           
-
-<td><a target="\_blank" href="https://www.eventbrite.sg/e/robo-coder-tickets-383791981147?aff=odcleoeventsincollection"><b> Robo Coder</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/robo-coder-tickets-383791981147?aff=odcleoeventsincollection"><b> Robo Coder</b></a></td>
 
         <td> Come build a robot with us using LEGO®’s WEDO platform and learn how gears, motors, and sensors work in this series of 'Robo Coder' sessions. With a bit of coding, watch your robot creations come to life! You will also get a chance to programme a screen-free coding robot, BOTLEY, and use it to accomplish fun and challenging missions, all the while learning about fundamental coding concepts. This parent-child session is suitable for preschoolers aged 4 to 6 years old.</td>
 
@@ -140,7 +139,8 @@ Computational thinking is the process of breaking down a problem into simple eno
         <td>Jurong Regional Library (Programme Zone Level 1)  </td>
 
       </tr>
-<td><a target="\_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-sustainability-at-home-tickets-383874187027?aff=odcleoeventsincollection"><b> [Caring for the Environment] Sustainability at Home </b></a></td>
+			<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-sustainability-at-home-tickets-383874187027?aff=odcleoeventsincollection"><b> [Caring for the Environment] Sustainability at Home </b></a></td>
               <td>  What are some simple ways we can be more sustainable at home? Can children also play a part in being sustainable? Join us in this interactive workshop sharing tips and activities to start green-living habits for the whole family! This programme is for parents and children (aged 4 to 6 years old).  </td>
               <td>Aug 6 2022<br>2.00pm – 3.00pm<br></td>
               <td>   Toa Payoh Public Library (Programme Zone Level 3)   </td>
