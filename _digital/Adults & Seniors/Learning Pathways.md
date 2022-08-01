@@ -4,9 +4,6 @@ permalink: /digital/adults-seniors/learning-pathways
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
-
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -67,47 +64,49 @@ The story of technology is the history of people solving problems, overcoming ad
         <td>Public Libraries</td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/reducing-your-workload-through-rpa-future-of-work-registration-333479665657" target="_blank"><b>[Future of Work]</b><br>Reducing your Workload through RPA</a></td>
-        <td style="width: 40%;">Learn about a popular robotic automation software and how it can be used to help you work more efficiently.</td>
-        <td style="width: 20%;"> 28 June 2022,<br>6:30pm–8.30pm</td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/fowee2022" target="_blank"><b>Future of Work</b><br>Expert Edition</a></td>
+        <td style="width: 40%;">Join us for an exciting 2 week line-up of programmes by expert speakers to learn about trending technology & career skills to help you navigate the future workplace!</td>
+        <td style="width: 20%;"> 30 Aug 2022- 8 September 2022<br></td>
+        <td style="width: 20%;">Zoom and library@harbourfront</td>
       </tr>
 			<tr>
-<td><a href="https://www.eventbrite.sg/e/build-your-own-2d-game-my-digital-life-registration-337115761317" target="_blank"><b>[My Digital Life]</b><br>Build Your Own 2D Game</a></td>
-        <td>Learn how to build your very own 2D Game in this workshop!
+<td><a href="https://www.eventbrite.sg/e/data-analytics-with-python-for-beginners-future-of-work-tickets-375044697787?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Data Analytics with Python</a></td>
+        <td>Learn the fundamental of data analysis and various data analytics processes with Python implementation.
 </td>
-        <td>29 June 2022, <br>6:30pm - 8.30pm</td>
+        <td>16 August 2022, <br>6:30pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/e/cybersecurity-from-scratch-future-of-work-registration-333482323607" target="_blank"><b>[Future of Work]</b><br>Cybersecurity from Scratch</a></td>
-        <td>This talk covers the latest cybersecurity trends and the importance of cybersecurity.
-</td>
-        <td>5 July 2022, <br>6:30pm - 8.30pm</td>
-        <td>Zoom</td>
-      </tr>
-			<tr>
-<td><a href="https://www.eventbrite.sg/e/live-broadcasts-the-latest-trend-in-digital-marketing-my-digital-life-tickets-366354685727" target="_blank"><b>[My Digital Life]</b><br>Live Broadcasts: The Latest Trend in Digital Marketing
+<td><a href="https://www.eventbrite.sg/e/10-no-nos-in-social-media-marketing-my-digital-life-tickets-384458384377?aff=odcleoeventsincollection" target="_blank"><b>[My Digital Life]</b><br>10 No-Nos in Social Media Marketing
 </a></td>
-        <td>In this talk, learn how to adopt a digital mindset and leverage live broadcasting for personal, business, and social impact.
+        <td>Learn 10 of the biggest mistakes in social media marketing, and how you can avoid them.
 </td>
-        <td> 5 July 2022, <br>7:30pm - 8.30pm</td>
+        <td>17 August 2022, <br>7:30pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 			<tr>
-<td><a href="https://www.eventbrite.sg/e/livestreaming-for-beginners-my-digital-life-registration-360265863897" target="_blank"><b>[My Digital Life]</b><br>Livestreaming for Beginners</a></td>
-        <td>In this talk, find out how you can livestream professionally.
+	<td><a href="https://www.eventbrite.com/cc/my-digital-life-303169" target="_blank"><b>[IMDA X My Digital Life]</b><br>Introduction to Web 3.0
+</a></td>
+        <td>Discover how you can own your personal data through decentralised technology and and and what that means for you.
 </td>
-        <td>14 July 2022, <br>7:00pm - 8.00pm</td>
-        <td>Zoom</td>
+        <td> 20 August 2022, <br>27 August 2022 <br><br>11:00am - 12.30pm, 1:30pm-3:30pm</td>
+        <td>library@harbourfront</td>
       </tr>
 			<tr>
-<td><a href="https://www.eventbrite.sg/e/build-your-own-2d-game-my-digital-life-registration-359139745647" target="_blank"><b>[My Digital Life]</b><br>Build Your Own 2D Game</a></td>
+<td><a href="https://www.eventbrite.sg/e/build-your-own-2d-game-my-digital-life-registration-375104005177?aff=odcleoeventsincollection" target="_blank"><b>[My Digital Life]</b><br>Build Your Own 2D Game</a></td>
         <td>Learn how to build your very own 2D Game in this workshop!
 </td>
-        <td>26 July 2022, <br>6:30pm - 8.30pm</td>
+        <td>29 August 2022, <br>6:30pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
+			<tr>
+<td><a href="https://www.eventbrite.sg/e/introduction-to-digital-workplace-future-of-work-tickets-384455445587?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Introduction to Digital Workplace</a></td>
+        <td>Join us for insights into Singapore’s Smart Nation Initiatives and learn about how emerging technologies are changing our workplace!
+</td>
+        <td>17 August 2022, <br>7:00pm - 8.00pm</td>
+        <td>Zoom</td>
+      </tr>
+			
 			    </tbody>
   </table>
 </div>
