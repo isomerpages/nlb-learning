@@ -60,18 +60,18 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
 <tr>
-<td style="width: 20%;"><a  target="_blank" href="https://www.eventbrite.sg/e/csi-forensic-lab-scienti-fx-teens-takeover-tickets-331656472437?aff=odcleoeventsincollection">
-	<b> CSI: Forensic Lab | scienti-f(x) | Teens Takeover </b></a></td>
+<td style="width: 20%;"><a  target="_blank" href="https://www.eventbrite.sg/e/10-no-nos-in-social-media-marketing-my-digital-life-tickets-384458384377?aff=ebdsoporgprofile">
+	<b> 10 No-Nos in Social Media Marketing | My Digital Life</b></a></td>
         <td style="width: 40%;"> 
-How do you solve a mystery? Join forensic scientist Crystal in this workshop as she reveals the techniques that go into solving mysteries.</td>
-        <td style="width: 20%;"> 15 June 2022,<br>2pm – 3pm</td>
+Social Media has changed the way businesses drive sales and marketing. However, not everyone may be aware of the perils of social media if not used correctly. Learn 10 of the biggest mistakes in social media marketing, and how you can avoid them.</td>
+        <td style="width: 20%;"> 17 Aug 2022,<br>2pm – 3pm</td>
         <td style="width: 20%;"> Zoom</td>
       </tr>
       <tr>
-        <td><a target="_blank" href="https://www.eventbrite.sg/e/unplugged-the-price-of-water-tickets-331642490617?aff=ebdsoporgprofile"><b> Unplugged: The Price of Water </b></a></td>
-        <td> Take a break from your mobile devices and unwind over tabletop games. In this session, learn how to play <i>The Price of Water</i> with friends and family.</td>
-        <td> 17 June 2022,<br>3pm – 6pm</td>
-        <td> Choa Chu Kang Public Library, Programme Rooms 1 & 2 (Level 4)</td>
+        <td><a target="_blank" href="https://www.eventbrite.sg/e/tweenkerama-drink-carton-recycling-paper-making-workshop-sustainability-tickets-380231511687?aff=ebdsoporgprofile"><b> Tweenkerama: Drink Carton Recycling Paper Making Workshop | Sustainability</b></a></td>
+        <td> Ever wondered what happens to beverage cartons when they are recycled? Try it yourself at this paper-making workshop, where we use beverage carton waste and turn it into new paper!</td>
+        <td> 27 Aug 2022,<br>2.30pm – 3.30pm</td>
+        <td> Jurong Regional Library Level 1 Programme Zone</td>
       </tr>
     </tbody>
   </table>
