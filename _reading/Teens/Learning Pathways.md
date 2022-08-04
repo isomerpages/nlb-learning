@@ -96,21 +96,21 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/live-broadcasts-the-latest-trend-in-digital-marketing-my-digital-life-tickets-366354685727?aff=ebdsoporgprofile"><b>Live Broadcasts: The Latest Trend in Digital Marketing | My Digital Life</b></a></td>
-        <td style="width: 40%;"> Learn how to adopt a digital mindset and leverage live broadcasting for personal, business, and social impact.</td>
-        <td style="width: 20%;">5 Jul 2022, <br>7.30 – 8.30pm</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/understanding-challenges-adolescents-face-from-a-mental-health-perspective-tickets-383938228577?aff=ebdsoporgprofile"><b>Understanding Challenges Adolescents Face from a Mental Health Perspective</b></a></td>
+        <td style="width: 40%;"> Learn about common mental health challenges that teenagers face and how to seek subsidised medical services for them.</td>
+        <td style="width: 20%;">6 Aug 2022, <br>3pm – 4.30pm</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
-        <td><a target="_blank" href="https://www.eventbrite.sg/e/developing-your-career-awareness-get-professional-tickets-360256907107?aff=ebdsoporgprofile"><b>Developing your Career-awareness | Get Professional</b></a></td>
-        <td>Learn to understand your own capabilities, and how to identify the ideal job for yourself.</td>
-        <td>7 Jul 2022<br>7 – 8.30pm</td>
-        <td>Zoom</td>
+        <td><a target="_blank" href="https://www.eventbrite.sg/e/sound-on-registration-377034138257?aff=ebdsoporgprofile"><b>Sound On</b></a></td>
+        <td>Learn how sound travels through different types of matter and create your very own phone speaker using material such as paper cups and clip binders.</td>
+        <td>24 Aug 2022<br>1 – 5pm</td>
+        <td>Seng Kang Public Library</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/livestreaming-for-beginners-my-digital-life-registration-360265863897?aff=ebdsoporgprofile" ><b>Livestreaming for Beginners | My Digital Life</b></a></td>
-	<td>Take a leap into livestreaming & learn about the basics of video production with hands-on experience.<br><br>
-        </td><td>14 Jul 2022, <br>7 – 8pm</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/10-no-nos-in-social-media-marketing-my-digital-life-tickets-384458384377?aff=ebdsoporgprofile" ><b>10 No-Nos in Social Media Marketing | My Digital Life</b></a></td>
+	<td>Social Media has changed the way businesses drive sales and marketing. However, not everyone may be aware of the perils of social media if not used correctly. Learn 10 of the biggest mistakes in social media marketing, and how you can avoid them.<br><br>
+        </td><td>17 Aug 2022, <br>7.30 – 8.30pm</td>
         <td>Zoom</td>
       </tr>
 
