@@ -122,9 +122,25 @@ Mr Teh Ah Hock, Specialist (Internet of Things) and Senior Lecturer at Nanyang P
 	
 <strong><h5 id="Careers">Careers</h5></strong>
 <hr>
-<br>
-  
-<br><br>
+<tbody>
+<tr><td><strong><a href="https://nlbsingapore.zoom.us/meeting/register/tJUtc-qurz0jHNPojyh2SYglfdh3tDLs5uF9" target="_blank">Gear Up | portfolio | Teens Takeover Workshops x NYP</a></strong></td>
+
+<td>How much do you know about your strengths and weaknesses? What types of jobs are suitable for you? It is always good to have this knowledge so you can start picking up relevant skills. <br><br>
+
+In this Gear Up series, build a strategy towards your dream career! Learn how to identify your personality traits, develop skills for a job that best meet your strengths, and explore various learning options and apply those that can suit your learning needs. <br><br>
+
+About the Speaker:
+
+Pepper See is a Career Advisor with Nanyang Polytechnic (NYP) with over 24 years of working experience in private and public companies. <br><br>
+
+With vast experience in Advertising, Media Production & Broadcast, Social Service, and Education, Pepper has had the opportunity to interact with people and stakeholders from all walks of life. <br><br>
+
+Having gained understanding in the economical, social, and psychological needs of the unemployed, fresh graduates, mid-career changers, and retirees, she journeys with them into gainful employment, and helps navigate their career paths in our local landscape as they work towards their career goals.</td>
+<td>3 Sept 2022, 11am – 12.30pm </td>
+<td>Zoom</td>
+</tr>
+
+</tbody></table>
 
 <!-- Sustainability  -->
 <table>
