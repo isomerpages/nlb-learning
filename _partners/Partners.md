@@ -77,7 +77,13 @@ Check out the schedule below, and look out for more programmes to be introduced 
       </a>
     </div>
   </div>
-</div>
+<div class="col is-one-third">
+    <div class="clickbox is-generic">
+      <a href="#singapore">
+				<span>Singapore</span>
+      </a>
+    </div>
+  </div>
 
 <br>
 
@@ -238,3 +244,38 @@ This programme is suitable for teens.	</td>
 </tr>
 	
 </tbody></table>
+
+<!-- Singapore-->
+<table>
+<table width="100%" cellspacing="15" cellpadding="15" border="0">
+	
+ <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 55%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 15%;">
+    </colgroup>
+	
+<strong><h5 id="singapore">Singapore</h5></strong>
+<hr>
+
+<tbody>
+
+<tr><td><strong><a href="https://www.eventbrite.sg/e/histories-from-third-world-to-first-the-struggles-success-of-singapore-tickets-367386592187?aff=odcleoeventsincollection" target="\_blank">Histories: From Third World to First: The Struggles and Success of Singapore</a></strong></td>
+
+<td>“Why had we come to this sorry pass? What did the future hold for Singapore?” <br>
+
+– Lee Kuan Yew, Founding Prime Minister of Singapore<br><br>
+
+Those born into the peaceful and successful Singapore of today may find it challenging to understand and appreciate the struggles, circumstances and difficulties of the nation’s sudden independence in 1965. Join Senior Lecturer Eugene Lim as he sheds light on the history of Singapore and how we can contribute to our country’s continued success. <br><br>
+
+Eugene Lim is a senior lecturer with the Centre for Foundation and General Studies at Nanyang Polytechnic. He is involved in both pre-employment and continuing education and also trains learners at the polytechnic. He graduated from the National University of Singapore with Bachelor of Arts and Bachelor of Social Sciences degrees.  He also has a Master's in Human Resource Development and Education from George Washington University, where he received the Len Nadler award. </td>
+
+<td>16 Sept 2022, 6pm – 7pm </td>
+
+<td>Zoom</td>
+
+</tr>
+
+</tbody></table>
+
