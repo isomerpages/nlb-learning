@@ -134,9 +134,9 @@ Through this pathway you can explore different resources and learn or hone new s
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/drawing-room-artseen-registration-334434501597" target="_blank"><b> Drawing Room | artseen</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/drawing-room-artseen-registration-271798184687?aff=ebdsoporgprofile" target="_blank"><b> Drawing Room | artseen</b></a></td>
         <td style="width: 40%;"> Join the Drawing Room and create a collective art piece together with all the participants! Project theme and medium changes on a monthly basis.  </td>
-        <td style="width: 20%;"> 16 June 2022<br> 3pm – 4pm </td>
+        <td style="width: 20%;"> Monthly </td>
         <td style="width: 20%;">Zoom </td>
       </tr>
 <tr>
@@ -144,6 +144,22 @@ Through this pathway you can explore different resources and learn or hone new s
         <td> Join the Fabulously Felted program and sew projects from felt based on book characters and the things around us!</td>
         <td>Monthly</td>
         <td>Zoom</td>
+      </tr>
+			
+<tr>
+<td><a href="https://www.eventbrite.sg/e/resident-saori-weaving-open-studio-libraryorchard-registration-374893014097" target="_blank"><b>Resident: Saori Weaving (Open Studio) | library@orchard</b></a></td>
+        <td> Weaving is an age-old practice inextricably linked to the art of storytelling. The words ‘text’ and ‘textile’ come from the Latin word ‘texere’, which means 'to weave'. <br><br>
+
+Textile artist Natalia Tann is library@orchard’s artist-in-residence from August 2022 to January 2023! During this residency, she will be exploring the intertwining of narratives with the craft of weaving. Please note that Open Studio sessions are not workshops.</td>
+        <td>14 Aug 2022, 2pm - 5pm</td>
+        <td>library@orchard, Imagine That</td>
+      </tr>
+			
+<tr>
+<td><a href="https://www.eventbrite.sg/e/tactile-tales-weaving-with-stories-home-and-belonging-libraryorchard-registration-374997677147" target="_blank"><b>Tactile Tales: Weaving with Stories (Home and Belonging) | library@orchard</b></a></td>
+        <td> In this community artmaking session, library@orchard’s artist-in-residence Natalia Tan will guide participants to explore their personal stories through freestyle weaving. Simple weaving tools and materials will be provided. Participants may also bring their own story-related items to weave into the artwork, or just for storytelling purposes.</td>
+        <td>28 Aug 2022, 2pm - 4pm</td>
+        <td>library@orchard, Imagine This & That</td>
       </tr>
     </tbody>
   </table>
