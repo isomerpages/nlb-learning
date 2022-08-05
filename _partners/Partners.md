@@ -210,11 +210,15 @@ This programme is suitable for those aged 50 and above, and is organised in coll
 </tr>
 	
 <tr>
-<td><strong><a href="https://www.eventbrite.sg/e/making-wise-choices-at-the-supermarket-mind-your-body-x-time-of-your-life-tickets-373283028587?aff=odcleoeventsincollection" target="_blank"> Screen Time to Scream Time</a></strong></td>
-<td>This workshop is curated to give learners a better understanding of the negative effects associated with too much screen time and the benefits of physical activities. At the end of the workshop, learners will better understand the potential health risks associated with low physical activities and the different types of physical exercises. Learners will also be equipped with the basic skills to plan a simple exercise programme.
-<br><br></td>
-<td>18 Aug 2022, 2.30pm - 4pm</td>
-<td>Clementi Public Library</td>
+<td><strong><a href="https://nlbsingapore.zoom.us/meeting/register/tJwrcemgqzkiHd3HruSM3W0zr8G9I8IbtcrM" target="_blank">Screen Time to Scream Time</a></strong></td>
+<td>This workshop is curated to give learners a better understanding of the negative effects associated with too much screen time and the benefits of physical activities. <br><br>
+At the end of the workshop, learners will better understand the potential health risks associated with low physical activities and the different types of physical exercises. 
+<br><br>Learners will also be equipped with the basic skills to plan a simple exercise programme.
+<br><br>
+This programme is suitable for teens.	</td>
+
+<td>8 Sept 2022, 3pm - 4.30pm</td>
+<td>Zoom</td>
 </tr>
 	
 </tbody></table>
