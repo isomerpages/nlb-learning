@@ -114,6 +114,7 @@ Mr Teh Ah Hock, Specialist (Internet of Things) and Senior Lecturer at Nanyang P
   <td>Zoom</td>
 </tr>
 </tbody></table>
+<br>
 
 <!-- Careers  -->
 <table>
@@ -147,6 +148,7 @@ Having gained understanding in the economical, social, and psychological needs o
 </tr>
 
 </tbody></table>
+<br>
 
 <!-- Sustainability  -->
 <table>
@@ -174,6 +176,7 @@ This programme is brought to you in collaboration with Nanyang Polytechnic.<br><
 <td>Tampines Regional Library, Cooking Studio</td>
 </tr>
 </tbody></table>
+<br>
 
 <!-- Wellness  -->
 <table>
@@ -244,6 +247,7 @@ This programme is suitable for teens.	</td>
 </tr>
 	
 </tbody></table>
+<br>
 
 <!-- Singapore-->
 <table>
@@ -278,4 +282,3 @@ Eugene Lim is a senior lecturer with the Centre for Foundation and General Studi
 </tr>
 
 </tbody></table>
-
