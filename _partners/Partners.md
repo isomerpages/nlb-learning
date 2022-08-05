@@ -77,6 +77,13 @@ Check out the schedule below, and look out for more programmes to be introduced 
       </a>
     </div>
   </div>
+<div class="col is-one-third">
+    <div class="clickbox is-generic">
+      <a href="#singapore">
+				<span>Singapore</span>
+      </a>
+    </div>
+  </div>
 </div>
 
 <br>
@@ -95,24 +102,6 @@ Check out the schedule below, and look out for more programmes to be introduced 
 <strong><h5 id="Digital">Digital</h5></strong>
 <hr>
 <tbody>
-<tr><td><strong><a href="https://www.eventbrite.com/e/live-broadcasts-the-latest-trend-in-digital-marketing-my-digital-life-tickets-366354685727?aff=odcleoeventsincollection&keep_tld=1" target="_blank">Live Broadcast: Latest Trend in Digital Marketing</a></strong></td>
-  <td>Digital marketing is not simply a business concept. It is a lifestyle. The Singapore government is encouraging digital. We should make friends with it; leverage it to bring fun, convenience, and perhaps, money. <br><br>
-Live broadcast sounds scary, but it is simple to apply. Everybody can be a star online and gather an audience. Just adopt the digital mindset = participate, monitor, refine, and do it again with a smile. Change of perspective changes lives.<br><br>
-Key takeaways:<br>
-• How to develop a digital mindset? <br>
-• What soft skills will make you enjoy live broadcasting? <br>
-• How does live broadcasting create personal, social, and business impacts?<br></td>
-  <td>5 Jul 2022, 7pm - 8pm </td>
-  <td>Zoom</td>
-</tr>
-	
-<tr><td><strong><a href="https://www.eventbrite.com/e/livestreaming-for-beginners-my-digital-life-registration-360265863897?aff=odcleoeventsincollection&keep_tld=1" target="_blank">Livestream for Beginners</a></strong></td>
-  <td>Amid the pandemic, more companies are turning to livestreaming to reach customers remotely and this opens up more revenue making opportunities for entrepreneurs, digital marketeers and influencers to explore. <br><br>
-• Find out how you can livestream professionally<br>
-• Learn from a professional host who succeeded changing his career to livestreaming.</td>
-  <td>14 Jul 2022, 7pm - 8pm </td>
-  <td>Zoom</td>
-	</tr>
 	
 <tr><td><strong><a href="https://www.eventbrite.sg/e/introduction-to-digital-workplace-future-of-work-tickets-384455445587?aff=odcleoeventsincollection" target="_blank">Introduction to Digital Workplace | Future of Work</a></strong></td>
   <td>Emerging technologies are changing our workplace. Join us for insights into Singapore’s Smart Nation Initiatives and learn about valuable skills required in the future digital workplace. <br><br>
@@ -126,6 +115,7 @@ Mr Teh Ah Hock, Specialist (Internet of Things) and Senior Lecturer at Nanyang P
   <td>Zoom</td>
 </tr>
 </tbody></table>
+<br>
 
 <!-- Careers  -->
 <table>
@@ -140,9 +130,26 @@ Mr Teh Ah Hock, Specialist (Internet of Things) and Senior Lecturer at Nanyang P
 	
 <strong><h5 id="Careers">Careers</h5></strong>
 <hr>
+<tbody>
+<tr><td><strong><a href="https://nlbsingapore.zoom.us/meeting/register/tJUtc-qurz0jHNPojyh2SYglfdh3tDLs5uF9" target="_blank">Gear Up | portfolio | Teens Takeover Workshops x NYP</a></strong></td>
+
+<td>How much do you know about your strengths and weaknesses? What types of jobs are suitable for you? It is always good to have this knowledge so you can start picking up relevant skills. <br><br>
+
+In this Gear Up series, build a strategy towards your dream career! Learn how to identify your personality traits, develop skills for a job that best meet your strengths, and explore various learning options and apply those that can suit your learning needs. <br><br>
+
+About the Speaker:
+
+Pepper See is a Career Advisor with Nanyang Polytechnic (NYP) with over 24 years of working experience in private and public companies. <br><br>
+
+With vast experience in Advertising, Media Production & Broadcast, Social Service, and Education, Pepper has had the opportunity to interact with people and stakeholders from all walks of life. <br><br>
+
+Having gained understanding in the economical, social, and psychological needs of the unemployed, fresh graduates, mid-career changers, and retirees, she journeys with them into gainful employment, and helps navigate their career paths in our local landscape as they work towards their career goals.</td>
+<td>3 Sept 2022, 11am – 12.30pm </td>
+<td>Zoom</td>
+</tr>
+
+</tbody></table>
 <br>
-  
-<br><br>
 
 <!-- Sustainability  -->
 <table>
@@ -170,6 +177,7 @@ This programme is brought to you in collaboration with Nanyang Polytechnic.<br><
 <td>Tampines Regional Library, Cooking Studio</td>
 </tr>
 </tbody></table>
+<br>
 
 <!-- Wellness  -->
 <table>
@@ -186,22 +194,7 @@ This programme is brought to you in collaboration with Nanyang Polytechnic.<br><
 <hr>
 
 <tbody>	
-<tr>
-<td><strong><a href="https://www.eventbrite.sg/e/virtual-tour-of-a-smart-home-for-seniors-people-with-dementia-toyl-tickets-358306473307?aff=odcleoeventsincollection" target="_blank">Virtual Tour of a Smart Home for Seniors & People with Dementia| TOYL </a></strong></td>
-<td>Do you often hear the terms, “smart home”, “elderly-inclusive” and “dementia-inclusive” being bandied about but are unsure what it means? Join us in this talk as we share the benefits of living in a home that meets all these criteria! We will also highlight the areas to pay attention to when setting up such a home for your household. <br><br>
-Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. <br><br>
-This programme is suitable for caregivers and those aged 50 and above, and is organised in collaboration with Nanyang Polytechnic.<br></td>
-<td>15 Jul 2022, 3pm - 4.30pm</td>
-<td>Zoom</td>
-</tr>
 
-<tr>
-<td><strong><a href="https://www.eventbrite.sg/e/estate-planning-for-you-ahead-of-your-time-tickets-359067208687?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb/" target="_blank">Estate Planning For You | Ahead of Your Time </a></strong></td>
-<td>What is estate planning and how do you go about it? In this talk, you will learn about the objectives, importance and considerations of estate planning, as well as relevant instruments that you can put in place such as making a Will, LPA, AMD, etc.<br><br>
-This programme is organised in collaboration with Nanyang Polytechnic.<br><br></td>
-<td>20 Jul 2022, 7pm - 8.30pm</td>
-<td>Zoom</td>
-</tr>
 
 <tr>
 <td><strong><a href="https://www.eventbrite.sg/e/ageing-gracefully-with-proper-diet-mind-your-body-x-time-of-your-life-tickets-373277311487?aff=odcleoeventsincollection" target="_blank">Ageing Gracefully with Proper Diet | Mind Your Body x TOYL</a></strong></td>
@@ -242,4 +235,51 @@ This programme is suitable for those aged 50 and above, and is organised in coll
 <td>Clementi Public Library</td>
 </tr>
 	
+<tr>
+<td><strong><a href="https://nlbsingapore.zoom.us/meeting/register/tJwrcemgqzkiHd3HruSM3W0zr8G9I8IbtcrM" target="_blank">Screen Time to Scream Time</a></strong></td>
+<td>This workshop is curated to give learners a better understanding of the negative effects associated with too much screen time and the benefits of physical activities. <br><br>
+At the end of the workshop, learners will better understand the potential health risks associated with low physical activities and the different types of physical exercises. 
+<br><br>Learners will also be equipped with the basic skills to plan a simple exercise programme.
+<br><br>
+This programme is suitable for teens.	</td>
+
+<td>8 Sept 2022, 3pm - 4.30pm</td>
+<td>Zoom</td>
+</tr>
+	
+</tbody></table>
+<br>
+
+<!-- Singapore-->
+<table>
+<table width="100%" cellspacing="15" cellpadding="15" border="0">
+	
+ <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 55%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 15%;">
+    </colgroup>
+	
+<strong><h5 id="singapore">Singapore</h5></strong>
+<hr>
+
+<tbody>
+
+<tr><td><strong><a href="https://www.eventbrite.sg/e/histories-from-third-world-to-first-the-struggles-success-of-singapore-tickets-367386592187?aff=odcleoeventsincollection" target="\_blank">Histories: From Third World to First: The Struggles and Success of Singapore</a></strong></td>
+
+<td>“Why had we come to this sorry pass? What did the future hold for Singapore?” <br>
+
+– Lee Kuan Yew, Founding Prime Minister of Singapore<br><br>
+
+Those born into the peaceful and successful Singapore of today may find it challenging to understand and appreciate the struggles, circumstances and difficulties of the nation’s sudden independence in 1965. Join Senior Lecturer Eugene Lim as he sheds light on the history of Singapore and how we can contribute to our country’s continued success. <br><br>
+
+Eugene Lim is a senior lecturer with the Centre for Foundation and General Studies at Nanyang Polytechnic. He is involved in both pre-employment and continuing education and also trains learners at the polytechnic. He graduated from the National University of Singapore with Bachelor of Arts and Bachelor of Social Sciences degrees.  He also has a Master's in Human Resource Development and Education from George Washington University, where he received the Len Nadler award. </td>
+
+<td>16 Sept 2022, 6pm – 7pm </td>
+
+<td>Zoom</td>
+
+</tr>
+
 </tbody></table>

@@ -49,7 +49,10 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
 			</tr>
 			<tr>
 				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/leap-into-livestreaming-with-obs-future-of-work-expert-edition-registration-373092849757?aff=odcleoeventsincollection" target="_blank"><b>Leap into Livestreaming with OBS</b></a></td>
-				<td style="width: 40%;">Influencer culture is hot now!<br>Learn the software and tools on how to livestream effectively.</td>
+				<td style="width: 40%;">Influencer culture is hot now!<br>Learn the software and tools on how to livestream effectively.
+					<br></br>
+			If you want to learn about the basics of video production and get hands-on experience with setting up for a livestream, sign up for <a href="https://go.gov.sg/nlbmdl">Leap into Livestreaming 101 | My Digital Life</a>
+				</td>
 				<td style="width: 20%;"> 31 Aug Wednesday<br>6:30pm–8.30pm</td>
 				<td style="width: 20%;">Zoom</td>
 			</tr>
