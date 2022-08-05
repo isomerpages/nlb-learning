@@ -178,11 +178,19 @@ A big part of art is active participation in the larger community: seeing others
     </thead>
     <tbody>    		
 <tr>
-<td><a href="https://www.eventbrite.sg/e/308035491447" target="_blank"><b>Worlds Apart  x Zzzink! (Mental Health Comic Zines) | library@orchard, 'Make' Program Room </b></a></td>
-        <td> Special guests will be visiting Zzzink! this June! Writer Wayne Rée and illustrator Nurjannah Suhaimi behind the newly launched zine, Worlds Apart: A Conversation About Mental Health, will be sharing their experiences in creating the story from script-writing to thumbnailing and illustration.</td>
-        <td>19 June 2022, 3pm - 5pm</td>
-        <td>library@orchard</td>
-      </tr>			
+<td><a href="https://www.eventbrite.sg/e/communities-zzzink-feasting-zines-libraryorchard-registration-378170457017" target="_blank"><b> Communities: Zzzink! (Feasting Zines) | library@orchard </b></a></td>
+        <td> In this programme, participants will be creating zines about gastronomical feasts for this session of Communities: Zzzink! As we celebrate National Day this month, we take the opportunity to look back on some memorable feasts we’ve enjoyed with friends and family all around the globe. During the session, participants may create zines with the theme of the month, work on your own zines or simply use the time to connect with like-minded creators.</td>
+        <td>21 Aug 2022, 3pm - 5pm</td>
+        <td>library@orchard, Make</td>
+      </tr>
+			
+<tr>
+<td><a href="https://www.eventbrite.com/cc/libraryorchard-programmes-138109?utm-campaign=social&utm-content=creatorshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=escb" target="_blank"><b> Communities: Zzzink! </b></a></td>
+        <td> Zzzink! is a community of human beings who gather every third Sunday of the month to tinker with zines and the many possible forms of art and narratives. We seek to learn, experiment and grow together in a messily freeing space by creating, sharing and exploring new ground.</td>
+        <td>Every 3rd Sunday of the month</td>
+        <td>library@orchard, Make</td>
+      </tr>
+			
  <tr>
   <td><a href="https://www.facebook.com/groups/learnxarts.sg/posts/434239158202363/" target="_blank"><b>Young Musicians Festival</b></a></td>
         <td> Young music students of private music teachers and schools take to the library@esplanade Open Stage for recitals to members of the public in this showcase of talents in the June and December holidays. This biannual event aims to provide a performance platform for children to develop and hone their craft in front of a live audience. <br><br> Check out some of the performances here: 
