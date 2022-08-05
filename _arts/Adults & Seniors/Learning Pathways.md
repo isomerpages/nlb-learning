@@ -65,18 +65,32 @@ Through this pathway you can explore different resources and learn ways to culti
       </tr>
     </thead>
     <tbody>
-      <tr>
+			<tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/talkingartwithgillesmassot" target="_blank"><b>Talking Art | Get Started in: Reading Art</b></a></td>
         <td style="width: 40%;"> Join our Talking Art guest lecturer, Gilles Massot, as he goes in-depth about cameras and photography, and its profound effect on visual perception and culture. This lecture is part of a year-long reading program, Get Started In: Reading Art, a series of foundational art-centric newsletters and talks covering art literacy, history and analysis.</td>
         <td style="width: 20%;">26 March 2022,<br> 4pm - 5.30pm </td>
         <td style="width: 20%;">Zoom </td>
 			</tr>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/324001807127" target="_blank"><b>Pro Series: Jewellery Design (Loom Woven Jewellery Talk)</b></a></td>
-        <td style="width: 40%;"> In this talk, jewellery maker and instructor June Koh introduces the different types of looms commonly used in jewellery making, as well as materials that can be used to create textures for loom woven jewellery.</td>
-        <td style="width: 20%;">18 June 2022,<br> 2.30pm - 4.30pm </td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/374759254017" target="_blank"><b>Pro Series: Concept Design (Creating Environments with References) | library@orchard</b></a></td>
+        <td style="width: 40%;"> In this session, illustrator and concept artist Ray Toh will break down the processes involved in drawing inspiration from reality: researching, observing, and deconstructing useful information to recreate an imaginative environment that is both fantastical and believable. Live demos will also be conducted throughout the session to show his design process.</td>
+        <td style="width: 20%;">13 Aug 2022,<br> 2.30pm - 4.30pm </td>
         <td style="width: 20%;">Zoom </td>
 			</tr>
+			<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/374920044947" target="_blank"><b>Pro Series: Jewellery Design (Artisanal Crystal Jewellery) | library@orchard </b></a></td>
+        <td style="width: 40%;"> In this talk, jewellery designer and founder of Beadnbutter, Jayne, will share what goes on behind the scenes of a small business in Singapore. She will share how her brand began, some of her inspirations, what it takes to design a crystal bracelet and her struggles behind the scenes. There will also be a live demo on how she crafts a crystal bracelet.</td>
+        <td style="width: 20%;">20 Aug 2022,<br> 2.30pm - 4.30pm </td>
+        <td style="width: 20%;">Zoom </td>
+			</tr>
+<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/378167698767" target="_blank"><b>Pro Series: Zine Design (A History of Zines) | library@orchard </b></a></td>
+        <td style="width: 40%;"> Join us at the library for this talk with CT Lim on the complex and vibrant history of zines. <br><br>
+ 
+Zines have been at the centre of radical culture for decades. From the early days of fandom to the samizdat of Eastern Europe and the punk zines of the 1970s, zines have formulated and documented subcultures and the subterranean imagination. Today, zines have entered the art world and are being marketed as limited-edition artefacts and collectibles. It continues to be part of the culture wars between conflicting ideologies and identities.</td>
+        <td style="width: 20%;">26 Aug 2022,<br> 6.30pm - 8.30pm </td>
+        <td style="width: 20%;">library@orchard, Imagine This </td>
+			</tr>		
     </tbody>
   </table>
 </div>
