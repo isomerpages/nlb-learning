@@ -86,8 +86,26 @@ Singapore’s first three national symbols were created shortly after Singapore 
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-	<iframe src="https://www.youtube.com/embed/043Y17leCKc" class="responsive-iframe"></iframe>
+<iframe src="https://www.youtube.com/embed/043Y17leCKc" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>S. Rajaratnam: The Author Of Singapore's National Pledge | MustShareNews (4 mins)</b><br>
+The National Pledge as we know it today is largely based off the version that was drafted by then Minister for Foreign Affairs S. Rajaratnam. Watch this video for a quick summary of Rajaratnam’s early years in politics and how his ideals shaped the National Pledge.<br><br>
+<small>Source: S. Rajaratnam: The Author Of Singapore's National Pledge (2020, Aug 10). MustShareNews. Retrieved 2022, July 4.</small></p>
+</div>
+</div>
+				
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/1eKz2Cziur8" class="responsive-iframe"></iframe>
+</div>
 	</div>
-	</div>
-	<div class="col is-three-fifths">
-	
+<p><b>Roots.sg Presents: The Golden Era - Zubir Said |Roots Sg (4 mins)</b><br>
+
+Assistant Curator Suhaili Osman explains how Zubir Said’s background in Singapore’s film and music industry, as well as his nationalist efforts, contributed to the composition of the song that would eventually become Singapore’s National Anthem.<br><br>
+<small>Source: Roots.sg Presents: The Golden Era - Zubir Said (2017, Aug 1). Roots Sg. Retrieved 2022, July 6.</small></p>
+</div>
+</div>
