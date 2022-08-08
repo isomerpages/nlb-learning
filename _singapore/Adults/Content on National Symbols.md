@@ -140,6 +140,30 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_488_2004-
 <p>The Vanda Miss Joaquim orchid was officially launched as Singapore’s national flower on 15 April 1981. It was selected for its vibrant colour, “resilience and year-round blooming quality”. The flower is the first recorded orchid hybrid from Singapore and was first created in the early 1890s.</p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_752_2005-01-10.html" target="_blank">Vanda Miss Joaquim</a> (2017). <i>Singapore Infopedia.</i> Retrieved 2022, July 5.
 
+<h4>eBook</h4>
+
+<h5>Zubir Said: The composer of Majulah Singapura</h5>
+Rohana Zubir. (2014). <i>Zubir Said: The composer of Majulah Singapura.</i> Singapore: Institute of Southeast Asian Studies.<br>
+<a target="_blank" href="https://nlb.overdrive.com/media/1972027">
+<img style="width:200px;"
+src="/images/National%20Symbols/ZubirS.png"></a>
+<p>Zubir Said is best known as the composer of Singapore’s National Anthem. This book is a biography of the composer, as written by his daughter. It covers his experience composing the anthem and challenges he faced in the process, as well as the events in his life that led him to call Singapore home.</p>
+<p><a href="https://nlb.overdrive.com/media/1972027"
+target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
+<h4>Books</h4>
+
+<h5>A Joy Forever: Vanda Miss Joaquim, Singapore's national flower</h5>
+Teoh, Eng Soon. (1998). <i>A Joy Forever: Vanda Miss Joaquim, Singapore's national flower</i> Singapore: Times Editions. (Call no.: RSING 584.4095957 TEO)
+<br>
+<a 
+href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 9090097"
+target="_blank">
+<img src="/images/National%20Symbols/VandaMJ.png" style="width:200px;"></a>
+<p>The Vanda Miss Joaquim orchid was chosen as Singapore’s National flower in 1981. This book attempts to put the story of this orchid into historical perspective. It highlights why the orchid was chosen as a National Symbol and how it was originally discovered, and includes information on how to grow it.</p>
+
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
