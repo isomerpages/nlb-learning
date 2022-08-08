@@ -64,3 +64,7 @@ A collection of short videos or selected podcasts, exploring topics around Singa
 
 <h5 class="margin--bottom--lg" id="food-heritage"><b>Playlist: National Symbols of Singapore - Building a Nation</b></h5>
 
+Singapore’s National Symbols are one of the country’s earliest nation building tools. The first three symbols – the National Flag, State Crest, and National Anthem – were revealed during the installation of Encik Yusof bin Ishak as the first Malayan-born Yang di Pertuan Negara (Head of State) on 3 December 1959. They intend to unite all Singaporeans as one people and reflect our values as a nation.
+
+Check out these resources to learn more about the significance of our National Symbols.
+
