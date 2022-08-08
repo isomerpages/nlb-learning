@@ -111,7 +111,22 @@ Assistant Curator Suhaili Osman explains how Zubir Said’s background in Singap
 	
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-national-symbols" class="margin--bottom--lg"><b> National Symbols: Building a Nation</b></h5>
-	
-	
+
+<p> On 3 December 1959, Singapore’s first three National Symbols – the National Flag, State Crest, and National Anthem – were unveiled during the installation of Encik Yusof bin Ishak as the first Malayan-born Yang di Pertuan Negara (Head of State). It would mark an important point in Singapore’s path to independence and the start of our journey in forging a sense of national identity.</p>
+<b></b>
+<p>As a nation made up of people from different races, classes and backgrounds, our National Symbols aim to rally our diverse communities together as one people. Imbued with their own meanings and values, the symbols also express our nation’s hopes and ideals. In the 1980s, new symbols, like the Lion Head symbol and National Flower, were created to continue the ever-important task of fostering national pride and identity.</p>
+<table border="1">
+            <tbody><tr>
+                        <td>
+<h4>Did you know...</h4>
+<ul>
+<li>The National Pledge was initially recited with the right hand raised while facing the National Flag. The current practice of reciting the Pledge with the right fist over the heart only began in 1988 when the Ministry of Defence requested for a standard mode of reciting the Pledge.</li>
+</ul>
+</td>
+</tr</tbody></table>
+
+These curated set of articles and books will give you a better understanding of our National Symbols and their significance to Singapore’s national identity.
+
+
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
