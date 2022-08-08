@@ -101,6 +101,7 @@ The National Pledge as we know it today is largely based off the version that wa
 <iframe src="https://www.youtube.com/embed/1eKz2Cziur8" class="responsive-iframe"></iframe>
 </div>
 </div>
+<div class="col is-three-fifths">
 <p><b>Roots.sg Presents: The Golden Era - Zubir Said |Roots Sg (4 mins)</b><br>
 Assistant Curator Suhaili Osman explains how Zubir Said’s background in Singapore’s film and music industry, as well as his nationalist efforts, contributed to the composition of the song that would eventually become Singapore’s National Anthem.<br><br>
 <small>Source: Roots.sg Presents: The Golden Era - Zubir Said (2017, Aug 1). Roots Sg. Retrieved 2022, July 6.</small></p>
@@ -110,20 +111,20 @@ Assistant Curator Suhaili Osman explains how Zubir Said’s background in Singap
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
-<h5 id="lp-national-symbols" class="margin--bottom--lg"><b> National Symbols: Building a Nation</b></h5>
+<h5 class="margin--bottom--lg" id="lp-national-symbols" ><b> National Symbols: Building a Nation</b></h5>
 
 <p> On 3 December 1959, Singapore’s first three National Symbols – the National Flag, State Crest, and National Anthem – were unveiled during the installation of Encik Yusof bin Ishak as the first Malayan-born Yang di Pertuan Negara (Head of State). It would mark an important point in Singapore’s path to independence and the start of our journey in forging a sense of national identity.</p>
-<b></b>
+
 <p>As a nation made up of people from different races, classes and backgrounds, our National Symbols aim to rally our diverse communities together as one people. Imbued with their own meanings and values, the symbols also express our nation’s hopes and ideals. In the 1980s, new symbols, like the Lion Head symbol and National Flower, were created to continue the ever-important task of fostering national pride and identity.</p>
 <table border="1">
-            <tbody><tr>
-                        <td>
+	<tbody><tr>
+		<td>
 <h4>Did you know...</h4>
 <ul>
 <li>The National Pledge was initially recited with the right hand raised while facing the National Flag. The current practice of reciting the Pledge with the right fist over the heart only began in 1988 when the Ministry of Defence requested for a standard mode of reciting the Pledge.</li>
 </ul>
 </td>
-</tr</tbody></table>
+</tr></tbody></table>
 
 These curated set of articles and books will give you a better understanding of our National Symbols and their significance to Singapore’s national identity.
 
@@ -140,7 +141,8 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_488_2004-
 <p>The Vanda Miss Joaquim orchid was officially launched as Singapore’s national flower on 15 April 1981. It was selected for its vibrant colour, “resilience and year-round blooming quality”. The flower is the first recorded orchid hybrid from Singapore and was first created in the early 1890s.</p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_752_2005-01-10.html" target="_blank">Vanda Miss Joaquim</a> (2017). <i>Singapore Infopedia.</i> Retrieved 2022, July 5.
 
-<h4>eBook</h4>
+<h4> eBook </h4>
+
 
 <h5>Zubir Said: The composer of Majulah Singapura</h5>
 Rohana Zubir. (2014). <i>Zubir Said: The composer of Majulah Singapura.</i> Singapore: Institute of Southeast Asian Studies.<br>
@@ -150,8 +152,8 @@ src="/images/National%20Symbols/ZubirS.png"></a>
 <p>Zubir Said is best known as the composer of Singapore’s National Anthem. This book is a biography of the composer, as written by his daughter. It covers his experience composing the anthem and challenges he faced in the process, as well as the events in his life that led him to call Singapore home.</p>
 <p><a href="https://nlb.overdrive.com/media/1972027"
 target="_blank">Borrow the eBook here.</a></p>
-Retrieved from OverDrive (a <a 
-href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+<p>Retrieved from OverDrive (a <a 
+href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). </p>
 
 <h4>Books</h4>
 
