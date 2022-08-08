@@ -40,3 +40,12 @@ third_nav_title: Adults
 
 Learn on the go. Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
 
+<div class="row is-multiline">
+	
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#food-heritage">
+        <span>Playlist: National Symbols of Singapore - Building a Nation</span>
+      </a>
+    </div>
+  </div>
