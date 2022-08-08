@@ -73,3 +73,13 @@ Check out these resources to learn more about the significance of our National S
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
 <iframe src="https://www.youtube.com/embed/oxFA0fBuP3Y" class="responsive-iframe"></iframe>
+	</div>
+	</div>
+	<div class="col is-three-fifths">
+<p><b>The story of Singapore's state symbols | Majulah: Symbols For Singapore | Full Episode | CNA Insider (23 mins)</b><br>
+
+Singapore’s first three national symbols were created shortly after Singapore became a self-governing state and served as representations of the burgeoning nation’s ideals and aspirations. This short documentary tells the story of the inspirations and meanings behind these symbols as well as their significance to Singaporeans today.<br><br>
+
+<small>Source: The story of Singapore's state symbols | Majulah: Symbols For Singapore | Full Episode (2020, Jan 30). CNA Insider. Retrieved 2022, July 4.</small></p>
+</div>
+</div>
