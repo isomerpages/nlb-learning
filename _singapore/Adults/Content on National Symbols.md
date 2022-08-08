@@ -164,6 +164,13 @@ target="_blank">
 <img src="/images/National%20Symbols/VandaMJ.png" style="width:200px;"></a>
 <p>The Vanda Miss Joaquim orchid was chosen as Singapore’s National flower in 1981. This book attempts to put the story of this orchid into historical perspective. It highlights why the orchid was chosen as a National Symbol and how it was originally discovered, and includes information on how to grow it.</p>
 
-
+<h5>The National Symbols Kit</h5>
+Singapore, Ministry of Information and the Arts. (1999). <i>The National Symbols Kit</i> Singapore: Ministry of Information and the Arts. (Call no.: RCLOS 320.54095957027 NAT)
+<br>
+<a 
+href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 9606171"
+target="_blank">
+<img src="/images/National%20Symbols/NSKit.png" style="width:200px;"></a>
+<p>Prepared by the Ministry of Information and the Arts, this kit comprises eight fact sheets containing information on Singapore’s National Symbols as well as the nation’s Shared Values. A booklet with the guidelines governing the use of the National Symbols, a National Flag, and a compact disc with the National Anthem stored within are also included.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
