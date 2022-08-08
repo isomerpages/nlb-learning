@@ -127,6 +127,11 @@ Assistant Curator Suhaili Osman explains how Zubir Said’s background in Singap
 
 These curated set of articles and books will give you a better understanding of our National Symbols and their significance to Singapore’s national identity.
 
+<h4>Articles</h4>
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_815_2004-12-23.html" target="_blank">Singapore’s national anthem by Sim, Cheryl</a></h5>
+<p>Singapore’s national anthem, <i>Majulah Singapura</i>, was first composed in 1958 by Zubir Said to be the City Council of Singapore’s official song. It became the state national anthem when Singapore attained self-governance in 1959 and was finally adopted as the National Anthem when we gained independence in 1965.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_815_2004-12-23.html" target="_blank">Singapore’s national anthem</a>(2014, September).<i> Singapore Infopedia.</i> Retrieved 2022, July 5.
+
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
