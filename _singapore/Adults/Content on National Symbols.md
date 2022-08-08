@@ -68,3 +68,8 @@ Singapore’s National Symbols are one of the country’s earliest nation buildi
 
 Check out these resources to learn more about the significance of our National Symbols.
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/oxFA0fBuP3Y" class="responsive-iframe"></iframe>
