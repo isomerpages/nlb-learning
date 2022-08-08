@@ -79,7 +79,7 @@ Check out these resources to learn more about the significance of our National S
 <p><b>The story of Singapore's state symbols | Majulah: Symbols For Singapore | Full Episode | CNA Insider (23 mins)</b><br>
 Singapore’s first three national symbols were created shortly after Singapore became a self-governing state and served as representations of the burgeoning nation’s ideals and aspirations. This short documentary tells the story of the inspirations and meanings behind these symbols as well as their significance to Singaporeans today.<br><br>
 <small>Source: The story of Singapore's state symbols | Majulah: Symbols For Singapore | Full Episode (2020, Jan 30). CNA Insider. Retrieved 2022, July 4.</small></p>
-	</div>
+</div>
 </div>
 
 <br>
@@ -103,7 +103,7 @@ The National Pledge as we know it today is largely based off the version that wa
 <iframe src="https://www.youtube.com/embed/1eKz2Cziur8" class="responsive-iframe"></iframe>
 </div>
 </div>
-
+<div class="col is-three-fifths">
 <p><b>Roots.sg Presents: The Golden Era - Zubir Said |Roots Sg (4 mins)</b><br>
 Assistant Curator Suhaili Osman explains how Zubir Said’s background in Singapore’s film and music industry, as well as his nationalist efforts, contributed to the composition of the song that would eventually become Singapore’s National Anthem.<br><br>
 <small>Source: Roots.sg Presents: The Golden Era - Zubir Said (2017, Aug 1). Roots Sg. Retrieved 2022, July 6.</small></p>
@@ -113,7 +113,7 @@ Assistant Curator Suhaili Osman explains how Zubir Said’s background in Singap
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
-<h5 class="margin--bottom--lg" id="lp-national-symbols" ><b> National Symbols: Building a Nation</b></h5>
+<h5 class="margin--bottom--lg" id="lp-national-symbols"><b> National Symbols: Building a Nation</b></h5>
 
 <p> On 3 December 1959, Singapore’s first three National Symbols – the National Flag, State Crest, and National Anthem – were unveiled during the installation of Encik Yusof bin Ishak as the first Malayan-born Yang di Pertuan Negara (Head of State). It would mark an important point in Singapore’s path to independence and the start of our journey in forging a sense of national identity.</p>
 
