@@ -109,7 +109,6 @@ Assistant Curator Suhaili Osman explains how Zubir Said’s background in Singap
 <small>Source: Roots.sg Presents: The Golden Era - Zubir Said (2017, Aug 1). Roots Sg. Retrieved 2022, July 6.</small></p>
 </div>
 </div>
-	
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-	
