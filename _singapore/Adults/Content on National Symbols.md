@@ -108,4 +108,6 @@ The National Pledge as we know it today is largely based off the version that wa
 Assistant Curator Suhaili Osman explains how Zubir Said’s background in Singapore’s film and music industry, as well as his nationalist efforts, contributed to the composition of the song that would eventually become Singapore’s National Anthem.<br><br>
 <small>Source: Roots.sg Presents: The Golden Era - Zubir Said (2017, Aug 1). Roots Sg. Retrieved 2022, July 6.</small></p>
 </div>
-</div>
+	</div>
+	
+	
