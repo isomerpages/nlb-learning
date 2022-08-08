@@ -136,6 +136,10 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_815_2004-
 <p>A new Singapore state flag was created in 1959 shortly after Singapore became a self-governing state under British rule. The same flag was later adopted as the National Flag when Singapore became an independent nation in 1965.</p>
 Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_488_2004-12-18.html" target="_blank">Singapore’s national flag</a>(2014, September).<i> Singapore Infopedia.</i> Retrieved 2022, July 5.
 	
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_752_2005-01-10.html" target="_blank">Vanda Miss Joaquim by Arunasalam, Sitragandi</a></h5>
+<p>The Vanda Miss Joaquim orchid was officially launched as Singapore’s national flower on 15 April 1981. It was selected for its vibrant colour, “resilience and year-round blooming quality”. The flower is the first recorded orchid hybrid from Singapore and was first created in the early 1890s.</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_752_2005-01-10.html" target="_blank">Vanda Miss Joaquim</a> (2017). <i>Singapore Infopedia.</i> Retrieved 2022, July 5.
+
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
