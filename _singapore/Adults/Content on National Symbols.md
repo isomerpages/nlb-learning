@@ -58,5 +58,9 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
     </div>
   </div>
 	</div>
-	
-	
+
+<h3><b>Playlist</b></h3>
+A collection of short videos or selected podcasts, exploring topics around Singapore’s national symbols.
+
+<h5 class="margin--bottom--lg" id="food-heritage"><b>Playlist: National Symbols of Singapore - Building a Nation</b></h5>
+
