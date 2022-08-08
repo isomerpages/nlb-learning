@@ -29,9 +29,40 @@ third_nav_title: Adults & Seniors
 <h4><b>Join us for an exciting 2 week line-up of programmes by expert speakers to learn about trending technology & career skills to help you navigate the future workplace!</b></h4>
 Back for the 2nd year running, the Future of Work Expert Edition is a curated series that explores a range of Digital & Career themed programmes, conducted by experts and professionals.
 In this year's lineup, gain in-depth first hand knowledge and skills on a buffet of topics, from technical topics such as Python, UX & Machine Learning, to key career skills such as equitable decision making, positivity and performance.
+<br>
+<div class="horizontal-scroll margin--bottom--lg">
+	<table class="generic-table">
+		<thead>
+			<tr>
+				<th colspan="4" class="is-uppercase has-weight-normal"><u>Interested in getting started in Livestreaming?</u>
+<br> Click on the programme titles to register!</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><a href="https://www.eventbrite.sg/e/leap-into-livestreaming-101-my-digital-life-registration-373091034327?aff=odcleoeventsincollection" target="_blank"><b>Leap into Livestreaming 101 | My Digital Life</b></a></td>
+				<td>Take a leap into livestreaming & learn about the basics of video production and get hands-on experience with setting up for a livestream!</td>
+				<td>13 Aug Saturday 12pm-2pm</td>
+				<td>Sengkang Public Library</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.eventbrite.sg/e/leap-into-livestreaming-101-my-digital-life-registration-373091606037?aff=odcleoeventsincollection" target="_blank"><b>Leap into Livestreaming 101 | My Digital Life</b><br></a></td>
+				<td>Take a leap into livestreaming & learn about the basics of video production and get hands-on experience with setting up for a livestream!</td>
+				<td>20 Aug Saturday<br>12pm-2pm</td>
+				<td>Choa Chu Kang Public Library</td>
+			</tr>
+			<tr>
+				<td><a href="https://www.eventbrite.sg/e/leap-into-livestreaming-101-my-digital-life-registration-373092268017?aff=odcleoeventsincollection" target="_blank"><b>Leap into Livestreaming 101 | My Digital Life</b><br></a>
+				</td>
+				<td>Take a leap into livestreaming & learn about the basics of video production and get hands-on experience with setting up for a livestream!</td>
+				<td>27 Aug Saturday<br> 12pm-2pm</td>
+				<td>Geylang East Public Library</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
 
 <br>
-
 <div class="horizontal-scroll margin--bottom--lg">
 	<table class="generic-table">
 		<thead>
@@ -50,7 +81,7 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
 			<tr>
 				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/leap-into-livestreaming-with-obs-future-of-work-expert-edition-registration-373092849757?aff=odcleoeventsincollection" target="_blank"><b>Leap into Livestreaming with OBS</b></a></td>
 				<td style="width: 40%;">Influencer culture is hot now!<br>Learn the software and tools on how to livestream effectively.
-					<br></br>
+					<br>
 			If you want to learn about the basics of video production and get hands-on experience with setting up for a livestream, sign up for <a href="https://go.gov.sg/nlbmdl">Leap into Livestreaming 101 | My Digital Life</a>
 				</td>
 				<td style="width: 20%;"> 31 Aug Wednesday<br>6:30pm–8.30pm</td>
