@@ -79,6 +79,8 @@ Check out these resources to learn more about the significance of our National S
 <p><b>The story of Singapore's state symbols | Majulah: Symbols For Singapore | Full Episode | CNA Insider (23 mins)</b><br>
 Singapore’s first three national symbols were created shortly after Singapore became a self-governing state and served as representations of the burgeoning nation’s ideals and aspirations. This short documentary tells the story of the inspirations and meanings behind these symbols as well as their significance to Singaporeans today.<br><br>
 <small>Source: The story of Singapore's state symbols | Majulah: Symbols For Singapore | Full Episode (2020, Jan 30). CNA Insider. Retrieved 2022, July 4.</small></p>
+	</div>
+</div>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
@@ -101,7 +103,7 @@ The National Pledge as we know it today is largely based off the version that wa
 <iframe src="https://www.youtube.com/embed/1eKz2Cziur8" class="responsive-iframe"></iframe>
 </div>
 </div>
-<div class="col is-three-fifths">
+
 <p><b>Roots.sg Presents: The Golden Era - Zubir Said |Roots Sg (4 mins)</b><br>
 Assistant Curator Suhaili Osman explains how Zubir Said’s background in Singapore’s film and music industry, as well as his nationalist efforts, contributed to the composition of the song that would eventually become Singapore’s National Anthem.<br><br>
 <small>Source: Roots.sg Presents: The Golden Era - Zubir Said (2017, Aug 1). Roots Sg. Retrieved 2022, July 6.</small></p>
