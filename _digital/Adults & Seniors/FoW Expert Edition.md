@@ -30,11 +30,12 @@ third_nav_title: Adults & Seniors
 Back for the 2nd year running, the Future of Work Expert Edition is a curated series that explores a range of Digital & Career themed programmes, conducted by experts and professionals.
 In this year's lineup, gain in-depth first hand knowledge and skills on a buffet of topics, from technical topics such as Python, UX & Machine Learning, to key career skills such as equitable decision making, positivity and performance.
 <br>
+<br>
 <div class="horizontal-scroll margin--bottom--lg">
 	<table class="generic-table">
 		<thead>
 			<tr>
-				<th colspan="4" class="is-uppercase has-weight-normal"><u>Interested in getting started in Livestreaming?</u>
+				<th colspan="4" class="is-uppercase has-weight-normal"><u>Before starting on FoWEE, you check out our special series on Livestreaming</u>
 <br> Click on the programme titles to register!</th>
 			</tr>
 		</thead>
@@ -67,11 +68,17 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
 	<table class="generic-table">
 		<thead>
 			<tr>
-				<th colspan="4" class="is-uppercase has-weight-normal"><u>Programme Calendar:</u>
+				<th colspan="4" class="is-uppercase has-weight-normal"><h4><b>programme calendar</b></h4>
 <br> Click on the programme titles to register!</th>
 			</tr>
 		</thead>
 		<tbody>
+				<tr>
+				<td><a href="https://www.eventbrite.com/e/a-rollercoaster-ride-into-python-programming-future-of-work-expert-edition-tickets-402238414927?keep_tld=1" target="_blank"><b>A Rollercoaster Ride into Python Programming </b></a></td>
+				<td>Interested to enter the word of coding?<br> Get introduced to Python programming with real world applications! </td>
+				<td>29 Aug Monday 6:30pm-8:30pm</td>
+				<td>library@harbourfront</td>
+			</tr>
 			<tr>
 				<td><a href="https://www.eventbrite.sg/e/python-x-excel-future-of-work-expert-edition-registration-384454302167?aff=odcleoeventsincollection" target="_blank"><b>Python x Excel</b></a></td>
 				<td>Increase efficiency at work!<br> Learn about how you can use Python together with Excel to automate repetitive work, analyse and visualize data. </td>
