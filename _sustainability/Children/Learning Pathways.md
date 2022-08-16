@@ -61,24 +61,11 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/climate-change-a-special-storytelling-session-earth-heroes-tickets-352492032157?aff=ebdssbdestsearch" target="_blank"><b>Climate Change: A Special Storytelling Session | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Mama and baby polar bear are finding it difficult to hunt for food because of the melting ice from climate change. Through this storytelling session, we can learn about the impact on global weather patterns because of climate change and the science of why climate change happens.
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/storytelling-with-the-singapore-police-force-10-years-old-and-below-tickets-390019828807?aff=ebdsoporgprofile" target="_blank"><b>Storytelling with the Singapore Police Force (10 years old and below)</b></a></td>
+        <td style="width: 40%;">Join our Police Officers from Woodlands Division for a special storytelling session about saving the earth and achieving environmental sustainability together!
 </td>
-        <td style="width: 20%;">17 Jul 2022, <br>12.30pm-1pm</td>
-        <td style="width: 20%;">Jurong Regional Library</td>
-			</tr>
-			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/tinkerworks-saving-planet-earth-earth-heroes-tickets-355979673787?aff=ebdssbdestsearch" target="_blank"><b>TinkerWorks - Saving Planet Earth | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Get inspired to save planet Earth through an engaging book discussion and tinkering activity! </td>
-				<td style="width: 20%;">27 Jul 2022, 4pm-5pm</td>
+        <td style="width: 20%;">3 Sep 2022, <br>3pm-3.30pm</td>
         <td style="width: 20%;">Woodlands Regional Library</td>
-			</tr>
-			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.com/e/make-a-milk-carton-wallet-with-muzart-earth-heroes-tickets-355019923147?aff=ebdssbdestsearch&keep_tld=1" target="_blank"><b>Make a Milk Carton Wallet with MuzArt | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Instead of tossing out your used milk or juice cartons, what if you could make them into something more fun? Join us for a fun crafting session to create your own DIY wallet using these cartons and appreciate the value of Upcycling!
-</td>
-        <td style="width: 20%;">30 Jul 2022, <br> 3.30pm-4.30pm</td>
-        <td style="width: 20%;">Jurong Regional Library</td>
 			</tr>
     </tbody>
   </table>
@@ -93,16 +80,10 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/inkfusion-comic-workshop-tickets-352490547717?aff=ebdssbdestsearch" target="_blank"><b>Inkfusion Comic Workshop</b></a></td>
-        <td style="width: 40%;">What do Demon slayers, ninjas, wizards and school students have in common? Answer- They are all characters that can be found in comics! Join leading media production and training studio Ink Fusion in this hands on session, where participants will be guided step by step on the basics of character drawing. Dive into the colorful world of character design, and bring home your very own comics masterpiece! </td>
-        <td style="width: 20%;">16 July 2022,<br>3pm-5pm</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/storytime-with-spca-singapore-tickets-396430894477?aff=ebdsoporgprofile" target="_blank"><b>Storytime with SPCA Singapore!</b></a></td>
+        <td style="width: 40%;">Join guest readers from the SPCA for an interactive session to learn about pets. Children can learn fun facts about animals, share their love for animals and explore ways they can play a part to help animals.</td>
+        <td style="width: 20%;">10 Sep 2022,<br>11am-12pm</td>
         <td style="width: 20%;">Jurong Regional Library</td>
-      </tr><tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/save-smart-with-smiley-8-10-years-old-tickets-352487879737?aff=ebdssbdestsearch" target="_blank"><b>Save Smart with Smiley
-</b></a></td>
-        <td style="width: 40%;">In POSB’s Save Smart with Smiley programme, children will learn how to save smart, identify the difference between “Needs” and “Wants,” and spend wisely with healthy spending habits. Coupled with printable learning materials and scenario-based activities, children will learn how to create a savings plan and track their expenditure. They will also find out more about different cashless and digital payment modes in preparation for navigating the digital payment world.</td>
-        <td style="width: 20%;">30 July 2022,<br>11am-12pm</td>
-        <td style="width: 20%;">Woodlands Regional Library</td>
       </tr>
      </tbody>
   </table>
