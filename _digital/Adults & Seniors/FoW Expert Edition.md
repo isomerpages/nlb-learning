@@ -77,7 +77,7 @@ In this year's lineup, gain in-depth first hand knowledge and skills on a buffet
 				<td><a href="https://www.eventbrite.com/e/a-rollercoaster-ride-into-python-programming-future-of-work-expert-edition-tickets-402238414927?keep_tld=1" target="_blank"><b>A Rollercoaster Ride into Python Programming </b></a></td>
 				<td>Interested to enter the word of coding?<br> Get introduced to Python programming with real world applications! </td>
 				<td>29 Aug Monday 6:30pm-8:30pm</td>
-				<td>library@harbourfront</td>
+				<td>Zoom</td>
 			</tr>
 			<tr>
 				<td><a href="https://www.eventbrite.sg/e/python-x-excel-future-of-work-expert-edition-registration-384454302167?aff=odcleoeventsincollection" target="_blank"><b>Python x Excel</b></a></td>
