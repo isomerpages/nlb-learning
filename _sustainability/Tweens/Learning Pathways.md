@@ -62,16 +62,12 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 				<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/climate-change-a-special-storytelling-session-earth-heroes-tickets-352492032157?aff=ebdssbdestsearch" target="_blank"><b>Climate Change: A Special Storytelling Session | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Mama and baby polar bear are finding it difficult to hunt for food because of the melting ice from climate change. Through this storytelling session, we can learn about the impact on global weather patterns because of climate change and the science of why climate change happens.
+         <td style="width: 20%;"><a href="https://www.eventbrite.com/e/tweenkerama-drink-carton-recycling-paper-making-workshop-sustainability-tickets-380231511687?aff=ebdssbdestsearch&keep_tld=1" target="_blank"><b>Tweenkerama: Drink Carton Recycling Paper Making Workshop | Sustainability</b></a></td>
+        <td style="width: 40%;">Ever wondered what happens to beverage cartons when they are recycled? Try it yourself at this paper-making workshop, where we use beverage carton waste and turn it into new paper! 
+<br><br>
+This programme is suitable for those aged 10 to 13.
 </td>
-        <td style="width: 20%;">17 Jul 2022, <br>12.30pm-1pm</td>
-        <td style="width: 20%;">Jurong Regional Library</td>
-			</tr>
-			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/be-an-eco-hero-storytelling-by-commonwealth-secondary-tickets-368068431587?aff=ebdssbdestsearch" target="_blank"><b>Be an Eco Hero! Storytelling by Commonwealth Secondary</b></a></td>
-        <td style="width: 40%;">Join students from Commonwealth Secondary School's Drama Club as they perform a dramatized storytelling piece and learn about how deforestation affects wildlife! There will be a craft activity following the storytelling.</td>
-				<td style="width: 20%;">20 Jul 2022, 5pm-6pm</td>
+        <td style="width: 20%;">27 Aug 2022, <br>2.30pm-3.30pm</td>
         <td style="width: 20%;">Jurong Regional Library</td>
 			</tr>
     </tbody>
@@ -87,17 +83,13 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/inkfusion-comic-workshop-tickets-352490547717?aff=ebdssbdestsearch" target="_blank"><b>Inkfusion Comic Workshop</b></a></td>
-        <td style="width: 40%;">What do Demon slayers, ninjas, wizards and school students have in common? Answer- They are all characters that can be found in comics! Join leading media production and training studio Ink Fusion in this hands on session, where participants will be guided step by step on the basics of character drawing. Dive into the colorful world of character design, and bring home your very own comics masterpiece! </td>
-        <td style="width: 20%;">16 July 2022,<br>3pm-5pm</td>
-        <td style="width: 20%;">Jurong Regional Library</td>
-      </tr><tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/save-smart-with-smiley-8-10-years-old-tickets-352487879737?aff=ebdssbdestsearch" target="_blank"><b>Save Smart with Smiley
-</b></a></td>
-        <td style="width: 40%;">In POSB’s Save Smart with Smiley programme, children will learn how to save smart, identify the difference between “Needs” and “Wants,” and spend wisely with healthy spending habits. Coupled with printable learning materials and scenario-based activities, children will learn how to create a savings plan and track their expenditure. They will also find out more about different cashless and digital payment modes in preparation for navigating the digital payment world.</td>
-        <td style="width: 20%;">30 July 2022,<br>11am-12pm</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/on-site-read-together-session-for-teens-read-for-books-2022-tickets-388574535897?aff=odcleoeventsincollection" target="_blank"><b>(On-site) Read Together Session for Teens | Read for Books 2022</b></a></td>
+        <td style="width: 40%;">Looking for some good comic reads? Interested in the misconceptions and actual process of comics creation in Singapore? Check out Puracomixmag for Singapore produced, international award winning comic titles covering a vast range of themes and genres. Learn about the 3 essential items publishers look out for, and if you have your own works, feel free to bring them for immediate feedback & advice from a professional editor and mentor team!
+</td>
+        <td style="width: 20%;">27 Aug 2022, 1pm-1.30pm</td>
         <td style="width: 20%;">Woodlands Regional Library</td>
-      </tr></tbody>
+      </tr>
+      </tbody>
   </table>
 </div>
 
