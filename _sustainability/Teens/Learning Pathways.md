@@ -61,18 +61,13 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
 			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/cckpl-ways-around-waste-greenhouse-tickets-355023955207?aff=ebdssbdestsearch" target="_blank"><b>CCKPL: Ways Around Waste | GREENHOUSE
+         <td style="width: 20%;"><a href="https://go.gov.sg/nlb-teensgreenhouseh" target="_blank"><b>Teens Takeover | GREENHOUSE
 </b></a></td>
-        <td style="width: 40%;">Have you ever wondered where your waste goes beyond the rubbish chute? What about the materials you discard into those familiar blue recycling bins?<br><br>This workshop hopes to shed light on waste management in the Singaporean context. The hour-long workshop includes quizzes, discussions, and a hands on crafting segment, where you will learn how to upcycle an old unwanted t-shirt into a reusable tote bag that is yours to bring home!</td>
-        <td style="width: 20%;">22 Jul 2022, 3.30pm-4.30pm</td>
-        <td style="width: 20%;">Chua Chu Kang Public Library</td>
-			</tr>
-			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/build-your-own-home-farming-with-diy-hydroponics-kit-greenhouse-tickets-355027786667?aff=ebdssbdestsearch" target="_blank"><b>Build Your Own: Home Farming with DIY Hydroponics Kit | GREENHOUSE
-</b></a></td>
-        <td style="width: 40%;">Learn the basics of hydroponics and how you can build one at home.<br></td>
-        <td style="width: 20%;">31 Jul 2022, 2pm-4.30pm</td>
-        <td style="width: 20%;">Jurong Regional Library</td>
+        <td style="width: 40%;">A series of talks and workshops for teens to explore various green topics and projects.
+
+Stay tuned for more updates.<br></td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
 			</tr>
     </tbody>
   </table>
@@ -87,11 +82,11 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/puracomixmag-tickets-352489354147?aff=odcleoeventsincollection" target="_blank"><b>Puracomixmag</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/on-site-read-together-session-for-teens-read-for-books-2022-tickets-388574535897?aff=odcleoeventsincollection" target="_blank"><b>(On-site) Read Together Session for Teens | Read for Books 2022</b></a></td>
         <td style="width: 40%;">Looking for some good comic reads? Interested in the misconceptions and actual process of comics creation in Singapore? Check out Puracomixmag for Singapore produced, international award winning comic titles covering a vast range of themes and genres. Learn about the 3 essential items publishers look out for, and if you have your own works, feel free to bring them for immediate feedback & advice from a professional editor and mentor team!
 </td>
-        <td style="width: 20%;">16 Jul 2022, 2pm-3pm</td>
-        <td style="width: 20%;">Jurong Regional Library</td>
+        <td style="width: 20%;">27 Aug 2022, 1pm-1.30pm</td>
+        <td style="width: 20%;">Woodlands Regional Library</td>
       </tr>
   </tbody>
   </table>
