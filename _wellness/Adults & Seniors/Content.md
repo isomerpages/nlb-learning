@@ -311,4 +311,4 @@ Gratitude encourages the treasuring of positive life experiences, paving a way t
 
 <a href="https://mindline.sg" target="_blank">![](/images/wellness/adults-and-seniors/Mindline1.png)</a>
 
-<a href="https://mindline.sg" target="_blank">![](/images/wellness/adults-and-seniors/Mindline-work.png)</a>
+<a href=https://www.mindline.sg/workspace?utm_source=Slides&utm_medium=EDM&utm_campaign=momdline_at_work_collateral" target="_blank">![](/images/wellness/adults-and-seniors/Mindline-work.png)</a>
