@@ -76,6 +76,13 @@ Check out our playlists and learning packages for book recommendations, collecti
       </a>
     </div>
   </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#mindline-sg">
+        <span>Evergreen Resources: mindline.sg</span>
+      </a>
+    </div>
+  </div>
   </div>
 
 <h3><b>Playlists</b></h3>
@@ -287,6 +294,8 @@ HarperCollins.
 
 <h3><b>Evergreen Resources</b></h3>
 
+<h4><b> Mind Your Head: Mental Wellness</b></h4>
+
 <h5 class="margin--bottom--lg" id="gratitude-journals"><b> Gratitude Journals</b></h5>
 Gratitude encourages the treasuring of positive life experiences, paving a way to a healthier life. With this in mind, we have created a series of gratitude journals to be shared with you! Record and treasure your life experiences with the help of gratitude journals. These downloadable PDFs can be printed out or accessed digitally.
 
@@ -295,3 +304,11 @@ Gratitude encourages the treasuring of positive life experiences, paving a way t
 <p><a href="/files/Wellness/Gratitude-Journal-Issue-1.pdf" target="_blank"> Gratitude Journal: Design 1</a></p>
 <p><a href="/files/Wellness/Gratitude-Journal-Issue-2.pdf" target="_blank"> Gratitude Journal: Design 2</a></p>
 <p><a href="/files/Wellness/Gratitude-Journal-Issue-4.pdf" target="_blank"> Gratitude Journal: Design 3</a></p>
+
+<h5 class="margin--bottom--lg" id="mindline-sg"><b> Resource Site: mindline.sg</b></h5>
+
+<p><a href="https://mindline.sg" target="_blank"> mindline.sg </a> is a digital stress management platform that aims to empower and equip individuals with tools, knowledge and pathways to self-care and seek out professional help when needed.</p>
+
+![](/images/wellness/adults-and-seniors/Mindline1.png)
+
+![](/images/wellness/adults-and-seniors/Mindline-work.png)
