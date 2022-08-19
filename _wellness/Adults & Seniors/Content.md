@@ -309,6 +309,6 @@ Gratitude encourages the treasuring of positive life experiences, paving a way t
 
 <p><a href="https://mindline.sg" target="_blank"> mindline.sg </a> is a digital stress management platform that aims to empower and equip individuals with tools, knowledge and pathways to self-care and seek out professional help when needed.</p>
 
-![](/images/wellness/adults-and-seniors/Mindline1.png)
+<a href="https://mindline.sg" target="_blank">![](/images/wellness/adults-and-seniors/Mindline1.png)</a>
 
-![](/images/wellness/adults-and-seniors/Mindline-work.png)
+<a href="https://mindline.sg" target="_blank">![](/images/wellness/adults-and-seniors/Mindline-work.png)</a>
