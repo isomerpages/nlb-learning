@@ -128,7 +128,7 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>Jurong Regional Library</td>
       </tr>
 				<tr>			
-<td><a target="_blank" href=https://www.eventbrite.sg/e/say-no-to-food-waste-tickets-395749506427?aff=odcleoeventsincollection""><b> Say No to Food Waste </b></a></td>
+<td><a target="_blank" href=https://www.eventbrite.sg/e/say-no-to-food-waste-tickets-395749506427?aff=odcleoeventsincollection"><b> Say No to Food Waste </b></a></td>
          <td>  Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. 
  </td>
         <td>10 Sep 2022<br>2.00 – 3.00pm<br></td>
