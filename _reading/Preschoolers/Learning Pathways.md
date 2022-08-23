@@ -121,28 +121,28 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>Choa Chu Kang Public Library and Zoom </td>
       </tr>
 			  <tr>	
-<td><a target="_blank" href="https://www.eventbrite.sg/e/storiialivetm-through-stem-early-read-tickets-384437150867?aff=odcleoeventsincollection"><b> StoriiAlive™ through STEM | Early READ</b></a></td>
-        <td> StoriiAlive™ is a series of workshops created to bring stories alive to the young readers of age 3 – 6 and their parents through STEM. We believe in using fun and creative approaches to engage your child and at the same time developing a  deeper love for reading. This workshop is excellent for parent and child bonding. We welcome parents with children of age 3 – 6.
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-lets-play-with-polygons-tickets-395760529397?aff=odcleoeventsincollection"><b> Budding Scientists: Let's Play with Polygons!</b></a></td>
+        <td> Bring your child into the wonderful world of pretty polygons and they will discover that these shapes have been around them all this while. They will jiggle, read and rhyme to some fun Shape songs.
 </td>
-        <td>July 31 2022<br>2.00pm – 3.00pm<br></td>
-        <td>library@harbourfront - Stories Come Alive Room</td>
+        <td>7 Sep 2022<br>1.30 – 2.30pm<br></td>
+        <td>Jurong Regional Library</td>
       </tr>
 				<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/think-like-a-coder-crack-the-code-discovertech-registration-377924671867?aff=odcleoeventsincollection"><b> Think Like A Coder: Crack the Code [DiscoverTech] </b></a></td>
-         <td> 'Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children. These are for absolute beginners. <br>
-Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.  </td>
-        <td>Aug 27 2022<br>11.00am – 12.00pm<br></td>
-        <td>Pasir Ris Public Library </td>
+<td><a target="_blank" href=https://www.eventbrite.sg/e/say-no-to-food-waste-tickets-395749506427?aff=odcleoeventsincollection""><b> Say No to Food Waste </b></a></td>
+         <td>  Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. 
+ </td>
+        <td>10 Sep 2022<br>2.00 – 3.00pm<br></td>
+        <td>library@harbourfront </td>
       </tr>
 					  
 <tr>           
-<td><a target="_blank" href="https://www.eventbrite.sg/e/robo-coder-tickets-383791981147?aff=odcleoeventsincollection"><b> Robo Coder</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-urban-farming-farm-to-table-tickets-404507582067?aff=odcleoeventsincollection"><b> Caring for the Environment | Urban Farming: Farm to Table</b></a></td>
 
-        <td> Come build a robot with us using LEGO®’s WEDO platform and learn how gears, motors, and sensors work in this series of 'Robo Coder' sessions. With a bit of coding, watch your robot creations come to life! You will also get a chance to programme a screen-free coding robot, BOTLEY, and use it to accomplish fun and challenging missions, all the while learning about fundamental coding concepts. This parent-child session is suitable for preschoolers aged 4 to 6 years old.</td>
+        <td> In this hands-on workshop, your child will learn about being food conscious through interactive activities.</td>
 
-        <td>Sep 3 2022<br>2.30pm – 3.30pm<br></td>
+					<td>11 Sep 2022<br>11.00am – 12.00pm<br></td>
 
-        <td>Jurong Regional Library (Programme Zone Level 1)  </td>
+        <td> Bedok Public Library </td>
 
       </tr>
 			<tr>
