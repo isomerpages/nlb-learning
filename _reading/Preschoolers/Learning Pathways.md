@@ -138,12 +138,7 @@ This programme is intended for parents with babies up to 12 months.</td>
 <tr>           
 <td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-urban-farming-farm-to-table-tickets-404507582067?aff=odcleoeventsincollection"><b> Caring for the Environment | Urban Farming: Farm to Table</b></a></td>
 
-        <td> In this hands-on workshop, your child will learn about being food conscious through interactive activities.</td>
-
-					<td>11 Sep 2022<br>11.00am – 12.00pm<br></td>
-
-        <td> Bedok Public Library </td>
-
+        <td> In this hands-on workshop, your child will learn about being food conscious through interactive activities.</td><td>11 Sep 2022<br>11.00am – 12.00pm<br></td><td> Bedok Public Library </td>
       </tr>
 			<tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-sustainability-at-home-tickets-383874187027?aff=odcleoeventsincollection"><b> [Caring for the Environment] Sustainability at Home </b></a></td>
