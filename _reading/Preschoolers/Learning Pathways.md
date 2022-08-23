@@ -117,7 +117,7 @@ This programme is intended for parents with babies up to 12 months.</td>
 			 <tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/cc/green-market-live-light-go-green-for-kids-1058439"><b>Green Market: Live Light, Go Green (For Kids)</b></a></td>
         <td> Introduce your child to eco-friendly ways of living through fun activities and storytelling sessions at Green Market: Live Light, Go Green.</td>
-       <td>Sep 17 – 18<br>11am – 8pm<br></td>
+       <td>17 – 18 Sep<br>11am – 8pm<br></td>
         <td>Choa Chu Kang Public Library and Zoom </td>
       </tr>
 			  <tr>	
