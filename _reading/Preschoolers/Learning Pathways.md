@@ -140,12 +140,7 @@ This programme is intended for parents with babies up to 12 months.</td>
 
         <td> In this hands-on workshop, your child will learn about being food conscious through interactive activities.</td><td>11 Sep 2022<br>11.00am – 12.00pm<br></td><td> Bedok Public Library </td>
       </tr>
-			<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-sustainability-at-home-tickets-383874187027?aff=odcleoeventsincollection"><b> [Caring for the Environment] Sustainability at Home </b></a></td>
-              <td>  What are some simple ways we can be more sustainable at home? Can children also play a part in being sustainable? Join us in this interactive workshop sharing tips and activities to start green-living habits for the whole family! This programme is for parents and children (aged 4 to 6 years old).  </td>
-              <td>Aug 6 2022<br>2.00pm – 3.00pm<br></td>
-              <td>   Toa Payoh Public Library (Programme Zone Level 3)   </td>
-      </tr>
+			
   </tbody>
   </table>
 </div>
