@@ -96,6 +96,12 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>2 Sep 2022<br>3pm – 4pm<br></td>
         <td>Zoom</td>
   					</tr>
+			<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-395775173197?aff=odcleoeventsincollection"><b> Children's Puppet Castle </b></a></td>
+        <td>Join us for a puppet show performed by Puppet Masters Arii Azharii and Christopher Chow. He will be performing two stories, Who Can Bring Back the Sun? and The Big Bully. Learn more about performance techniques through this exciting performance!</td>
+        <td>11 Sep 2022<br>3pm – 4pm<br></td>
+        <td>Zoom</td>
+  					</tr>
 		</tbody>
 	</table>
 </div>
