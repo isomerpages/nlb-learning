@@ -69,31 +69,31 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
      <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869 "><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
-       <td>Sep 10 2022<br>2.00-2.30pm</td>
-        <td>Jurong West Public Library</td>
+       <td>Check out all the Jiggle Read & Rhyme sessions for September!</td>
+        <td>Various Locations</td>
       </tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-380216266087?aff=odcleoeventsincollection"><b>Baby Songs & Rhymes | Early READ 
+<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-385275006917?aff=odcleoeventsincollection"><b>Baby Songs & Rhymes | Early READ 
  </b></a></td>
         <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. 
 <br>
 This programme is intended for parents with babies up to 12 months. </td>
-        <td>Aug 3 2022<br>2.30pm-3.00pm<br></td>
+					<td>Sep 3 2022<br>11.00-11.30am<br></td>
         <td>Zoom</td>
       </tr>		
 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-378171500137?aff=odcleoeventsincollection"><b> Baby Songs & Rhymes | Early READ</b></a></td>
-        <td> Songs and rhymes play an important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. <br>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-lapsit-early-read-registration-389183055997?aff=odcleoeventsincollection"><b>Baby Lapsit | Early READ</b></a></td>
+        <td>Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!<br>
 This programme is intended for parents with babies up to 12 months.</td>
-        <td>Aug 11 2022<br>4.00pm – 4.20pm<br></td>
-        <td>Zoom</td>
+        <td>Sep 7 2022<br>2.00 – 2.30pm<br></td>
+        <td>Woodlands Regional Library</td>
 </tr>	
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/parents-support-group-with-jenny-ng-registration-378937110097?aff=odcleoeventsincollection"><b> Parents Support Group with Jenny Ng </b></a></td>
-        <td> As parents, our role is to provide deep empathy and stay connected with our children during challenging moments in their life. We can hold space for them to experience life, allow them to feel and be active participants in problem solving, as well as to discover the depth of their capacity and strength. Together, we will read this book and find out more about "The Yes Brain", and consider helping our children develop it, nurturing the four key characteristics of balance, resilience, insight and empathy in them.  </td>
-        <td>Aug 13 2022<br>11.00am – 12.00pm<br></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/awaken-the-reader-in-your-child-early-read-tickets-396914159937?aff=odcleoeventsincollection"><b> Awaken the Reader in Your Child | Early READ </b></a></td>
+        <td>Join us for an exciting hour of tips and fun activities you can do with your little one to spark their love of reading. This interactive parent-child programme is highly recommended for children aged 2 to 6. </td>
+        <td>2 Sep 2022<br>3pm – 4pm<br></td>
         <td>Zoom</td>
   					</tr>
 		</tbody>
