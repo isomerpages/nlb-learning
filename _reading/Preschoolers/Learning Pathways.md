@@ -69,7 +69,7 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
      <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/jiggle-read-rhyme-early-read-registration-385280322817?aff=odcleoeventsincollection"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869 "><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
        <td>Sep 10 2022<br>2.00-2.30pm</td>
         <td>Jurong West Public Library</td>
