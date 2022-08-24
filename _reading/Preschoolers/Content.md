@@ -149,7 +149,7 @@ Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means 'why' in French.
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> SING-LIT(4 min) </b><br>
+    <p><b> SING-LIT (4 min) </b><br>
 Discover the array of Sing-Lit stories to share with your little ones. Find out the history behind Jurong Island, Singapore's National Flowe (Vanda Miss Joaquim) in this video. You can even take your child on a literary trail based on the stories featured. </p>
  </div>
 </div>
