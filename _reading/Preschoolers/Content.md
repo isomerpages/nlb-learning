@@ -131,18 +131,7 @@ Join our librarian, Maliah, as she shares with us how contemporary realistic fic
 What are linear, repetitive or cumulative stories? Join our librarian, Nathaniel Chew, as he shares ways on selecting great picture books, and storytelling techniques. </p>
   </div>
 </div>
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Jy-vn8nGJFc"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b> Pourquoi Tales (6 min 51 sec) </b><br>
-Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means 'why' in French. Learn about the different 'pourquoi' stories that you can share with your child to spur their innate curiosity about the world and why certain events happened.</p>
- </div>
-</div>
- 
+
 <h3 class="margin--bottom--lg" id="learning-packages-i-can-read"><b>Learning Packages</b></h3>
 	
 <img src="/images/reading/preschool/Picture3.jpg" style="width:70%">
