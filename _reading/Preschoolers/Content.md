@@ -42,7 +42,7 @@ Encourage the love of reading in your child through these learning packages and 
 
 <h3><b>Playlist and Learning Packages</b></h3>
 
-Check out our **playlists** for a collection of short videos related to the world of picture books and learn more about early literacy tips.
+Check out our **playlist** for a collection of short videos related to the world of picture books.
 
 Explore our **learning packages** for useful tips on selecting age-appropriate books and fun early literacy activities that can be done at home.
 
@@ -50,7 +50,7 @@ Explore our **learning packages** for useful tips on selecting age-appropriate b
   <div class="col is-one-half">
     <div class="clickbox is-indigo-sky">
       <a href="#playlist-the-world-of-picture-books">
-<span>Playlist:<br> *The World of Picture Books<br>*Early Literacy Tips</span>
+<span>Playlist:<br>The World of Picture Books<br></span>
       </a>
     </div>
   </div>
@@ -117,6 +117,18 @@ How can fairy tales be fractured? Our librarian, Kah Heng, shares with us how th
     <p><b> Contemporary Realistic Fiction (6 min 13 sec)</b><br>
 Join our librarian, Maliah, as she shares with us how contemporary realistic fiction can teach children to navigate life, including the good days and bad days.
 			</p> 
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/ZLuBblMvIMU"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Choosing Suitable Picture Books (8 min 44 sec) </b><br>
+What are linear, repetitive or cumulative stories? Join our librarian, Nathaniel Chew, as he shares ways on selecting great picture books, and storytelling techniques. </p>
+ 
   </div>
 </div>
 
