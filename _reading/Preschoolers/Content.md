@@ -42,7 +42,7 @@ Encourage the love of reading in your child through these learning packages and 
 
 <h3><b>Playlist and Learning Packages</b></h3>
 
-Check out our **playlist** for a collection of short videos related to the world of picture books.
+Check out our **playlists** for a collection of short videos related to the world of picture books and learn more about early literacy tips.
 
 Explore our **learning packages** for useful tips on selecting age-appropriate books and fun early literacy activities that can be done at home.
 
@@ -50,7 +50,7 @@ Explore our **learning packages** for useful tips on selecting age-appropriate b
   <div class="col is-one-half">
     <div class="clickbox is-indigo-sky">
       <a href="#playlist-the-world-of-picture-books">
-        <span>Playlist:<br>The World of Picture Books</span>
+<span>Playlist:<br> *The World of Picture Books<br>*Early Literacy Tips</span>
       </a>
     </div>
   </div>
