@@ -80,27 +80,27 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. 
 <br>
 This programme is intended for parents with babies up to 12 months. </td>
-					<td>Sep 3 2022<br>11.00-11.30am<br></td>
+					<td>3 Sep 2022<br>11.00am-11.30am<br></td>
         <td>Zoom</td>
       </tr>		
 <tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/baby-lapsit-early-read-registration-389183055997?aff=odcleoeventsincollection"><b>Baby Lapsit | Early READ</b></a></td>
         <td>Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!<br>
 This programme is intended for parents with babies up to 12 months.</td>
-        <td>Sep 7 2022<br>2.00 – 2.30pm<br></td>
+        <td>7 Sep 2022<br>2.00pm – 2.30pm<br></td>
         <td>Woodlands Regional Library</td>
 </tr>	
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/awaken-the-reader-in-your-child-early-read-tickets-396914159937?aff=odcleoeventsincollection"><b> Awaken the Reader in Your Child | Early READ </b></a></td>
         <td>Join us for an exciting hour of tips and fun activities you can do with your little one to spark their love of reading. This interactive parent-child programme is highly recommended for children aged 2 to 6. </td>
-        <td>2 Sep 2022<br>3pm – 4pm<br></td>
+        <td>2 Sep 2022<br>3.00pm – 4.00pm<br></td>
         <td>Zoom</td>
   					</tr>
 			<tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-395775173197?aff=odcleoeventsincollection"><b> Children's Puppet Castle </b></a></td>
         <td>Join us for a puppet show performed by Puppet Masters Arii Azharii and Christopher Chow. He will be performing two stories, Who Can Bring Back the Sun? and The Big Bully. Learn more about performance techniques through this exciting performance!</td>
-        <td>11 Sep 2022<br>3pm – 4pm<br></td>
-        <td>Zoom</td>
+        <td>11 Sep 2022<br>3.00pm – 4.00pm<br></td>
+        <td>Queenstown Public Library</td>
   					</tr>
 		</tbody>
 	</table>
@@ -124,21 +124,21 @@ This programme is intended for parents with babies up to 12 months.</td>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-lets-play-with-polygons-tickets-395760529397?aff=odcleoeventsincollection"><b> Budding Scientists: Let's Play with Polygons!</b></a></td>
         <td> Bring your child into the wonderful world of pretty polygons and they will discover that these shapes have been around them all this while. They will jiggle, read and rhyme to some fun Shape songs.
 </td>
-        <td>7 Sep 2022<br>1.30 – 2.30pm<br></td>
+        <td>7 Sep 2022<br>1.30pm– 2.30pm<br></td>
         <td>Jurong Regional Library</td>
       </tr>
 				<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/say-no-to-food-waste-tickets-395749506427?aff=odcleoeventsincollection"><b> Say No to Food Waste </b></a></td>
          <td>  Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. 
  </td>
-        <td>10 Sep 2022<br>2.00 – 3.00pm<br></td>
+        <td>10 Sep 2022<br>2.00pm–3.00pm<br></td>
         <td>library@harbourfront </td>
       </tr>
 					  
 <tr>           
 <td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-urban-farming-farm-to-table-tickets-404507582067?aff=odcleoeventsincollection"><b> Caring for the Environment | Urban Farming: Farm to Table</b></a></td>
 
-        <td> In this hands-on workshop, your child will learn about being food conscious through interactive activities.</td><td>11 Sep 2022<br>11.00am – 12.00pm<br></td><td> Bedok Public Library </td>
+        <td> In this hands-on workshop, your child will learn about being food conscious through interactive activities.</td><td>11 Sep 2022<br>11.00am–12.00pm<br></td><td> Bedok Public Library </td>
       </tr>
 			
   </tbody>
