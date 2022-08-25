@@ -52,7 +52,7 @@ It's Time to Learn about Time!</b></a><img src="/images/Time%20to%20Learn%20Abou
         <td> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-marineanimals" target="_blank"><b> All About Animals – Let’s Learn about Marine Animals
+        <td><a href="https://childrenandteens.nlb.gov.sg/allaboutanimals#lp-marineanimals" target="_blank"><b> All About Animals – Let’s Learn about Marine Animals
  </b></a><img src="/images/science/preschoolers/ocean%20and%20marine%20animals.png" style="width:400px; text-align:left;"></td>
         <td> The ocean is home to thousands of different marine animals, such as clownfishes, sharks, whales, dolphins and many more.
 In addition, they come in all shapes and sizes, and have developed special features that enable them to survive underwater. Ever wondered what is the living habitat like for these marine animals? Let’s read on to find out more!
@@ -80,7 +80,7 @@ Join us for an exciting space adventure! Let's help a rocket travel through the 
         <td> </td>
       </tr>
   <tr>
-<td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-apple" target="_blank"><b> ABC's of Applied Chemistry for Kids: Why Do Apples Turn Brown?
+<td><a href="https://childrenandteens.nlb.gov.sg/abcsofappliedchemistryforkids#lp-apple" target="_blank"><b> ABC's of Applied Chemistry for Kids: Why Do Apples Turn Brown?
 		</b></a><img 
 src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-align:left;"></td>
         <td> Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it? <br><br>Let’s find out with a simple experiment that you can do at home.
@@ -89,7 +89,7 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
         <td> </td>
 			</tr>
 		  <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-inflator" target="_blank"><b> Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator
+        <td><a href="https://childrenandteens.nlb.gov.sg/abcsofappliedchemistryforkids#lp-inflator" target="_blank"><b> Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator
  </b></a><img src="/images/science/preschoolers/Up%20Up%20and%20Away%20with%20Fizzy%20Inflator.jpg" style="width:400px; text-align:left;"></td>
         <td>Do you know what happens when you mix baking soda and vinegar? Let’s learn about chemical reactions and the gas they produce when they are mixed. <br><br>Chemical reaction: A process that involves the arrangement of molecules or structure of a substance, as opposed to a change in physical form (as from a solid to a gas).<br><br> Observe how a balloon can be inflated through this simple experiment.
  </td>
@@ -105,7 +105,7 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
         <td> </td>
       </tr>
 		  <tr>
-        <td><a href="https://nlb-dr-staging.netlify.app/budding-scientists#lp-animals" target="_blank"><b>All About Animal Life Cycles
+        <td><a href="https://childrenandteens.nlb.gov.sg/allaboutanimals#lp-animals" target="_blank"><b>All About Animal Life Cycles
  </b></a><img src="/images/science/preschoolers/animals%20grow.jpg" style="width:400px; text-align:left;"></td>
         <td> Every living thing goes through a life cycle and your child may start understanding that as they grow! Go on an investigative journey with them to learn about the growth, and development of both familiar and even unfamiliar animals!
  </td>
