@@ -39,14 +39,14 @@ A child's discovery of the world happens in their everyday life – in their int
     </thead>
    <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-time" target="_blank"><b> ABC's of Applied Physics for Kids:
+        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/abcsofappliedphysicsforkids#lp-time)" target="_blank"><b> ABC's of Applied Physics for Kids:
 It's Time to Learn about Time!</b></a><img src="/images/Time%20to%20Learn%20About%20Time%20Thumbnail.png" style="width:400px; text-align:left;"></td>
         <td style="width: 80%;"> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</td>
 				<td style="width: 0%;"></td>
         <td style="width: 0%;"></td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-density" target="_blank"><b> ABC's of Applied Chemistry for Kids: Let’s Learn About Density </b></a><img src="/images/science/preschoolers/Fireworks%20in%20a%20Bottle%20icon.png" style="width:400px; text-align:left;"></td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/abcsofappliedchemistryforkids#lp-density" target="_blank"><b> ABC's of Applied Chemistry for Kids: Let’s Learn About Density </b></a><img src="/images/science/preschoolers/Fireworks%20in%20a%20Bottle%20icon.png" style="width:400px; text-align:left;"></td>
         <td> Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Read on to introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together! </td>
         <td></td>
         <td> </td>
