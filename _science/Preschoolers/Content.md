@@ -117,7 +117,7 @@ Our body's immune system keeps us strong by producing antibodies to attack germs
 	
 Explore our learning packages for useful tips on selecting age-appropriate books and fun experiments that can be done at home. 
 
-<h4 id="lp-time"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-time"><b>ABC's of Applied Physics for Kids: <br>It's Time to Learn About Time! ( for 4-6 years old)</b></a></h4>
+<h4 id="lp-time"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/abcsofappliedphysicsforkids#lp-time"><b>ABC's of Applied Physics for Kids: <br>It's Time to Learn About Time! ( for 4-6 years old)</b></a></h4>
 <img src="/images/Time%20to%20Learn%20About%20Time%20Thumbnail.png" style="width:400px; text-align:centre;">
 <p> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!  </p>
 
