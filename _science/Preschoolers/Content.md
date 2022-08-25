@@ -68,6 +68,9 @@ Check out our **learning packages**, complete with activities and tips, on STEAM
 
 <h3 id="playlist-biotech" class="margin--bottom--lg"><b>Playlists
 </b></h3>
+
+<b> Aquatic Animals </b> 
+
 **Microscopic World: Protecting the Body! Science Behind Medical Biotechnology**
 
 Discover with your child how our bodies keep us safe from germs with antibodies. Learn how scientists invented vaccines and antibiotics over the years to help boost our immune systems to ward off serious illnesses.  
@@ -122,7 +125,7 @@ Explore our learning packages for useful tips on selecting age-appropriate books
 <img src="/images/science/preschoolers/Science%20LearnX%20Banner%20(1).png" style="width:800px; text-align:centre;">
 <p> Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together! </p>
  
- <h4 id="lp-ocean"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-marineanimals"><b>All About Animals: <br> Let's Learn about the Ocean and Marine Animals! (for 3-6 years old)</b></a></h4>
+ <h4 id="lp-ocean"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/allaboutanimals#lp-marineanimals"><b>All About Animals: <br> Let's Learn about the Ocean and Marine Animals! (for 3-6 years old)</b></a></h4>
  
 <img src="/images/science/preschoolers/Misc%20-%20Ocean%20and%20Marine%20Animals.png" style="width:400px; text-align:centre;">
 
@@ -145,14 +148,14 @@ Explore our learning packages for useful tips on selecting age-appropriate books
 Join us for an exciting space adventure! Let's help a rocket travel through the galaxy using invisible magnetic forces. Explore the wonders of magnets and magnetic forces through engaging activities that introduce STEAM* concepts to young children. <br>
 	*STEAM - Science, Technology, Engineering, Arts and Mathematics</p>
 	
-<h4 id="lp-apple"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-apple"><b>ABC's of Applied Chemistry for Kids:
+<h4 id="lp-apple"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/abcsofappliedchemistryforkids#lp-apple"><b>ABC's of Applied Chemistry for Kids:
 Why Do Apples Turn Brown?</b></a></h4>
 		 
 <img src="/images/science/preschoolers/Why%20do%20apple%20turn%20brown.jpeg" style="width:400px; text-align:centre;">
  
  <p>Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it? Let’s find out with a simple experiment that you can do at home.</p>	
  
- <h4 id="lp-inflator"><a target="_blank" href="https://nlb-dr-staging.netlify.app/budding-scientists#lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></a></h4>
+ <h4 id="lp-inflator"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/abcsofappliedchemistryforkids#lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></a></h4>
  
 <img src="/images/science/preschoolers/Up%20Up%20and%20Away%20with%20Fizzy%20Inflator.jpg" style="width:400px; text-align:centre;">
 
@@ -164,7 +167,7 @@ Why Do Apples Turn Brown?</b></a></h4>
 
 <p>The human body is a complex machine. The different parts of our body work together to do many amazing things. Let’s have some fun learning about the human body and how it functions! </p>
 
- <h4 id="lp-animals"><a target="_blank" href="https://nlb-dr-staging.netlify.app/budding-scientists#lp-animals"><b>All About Animal Life Cycles</b></a></h4>
+ <h4 id="lp-animals"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/allaboutanimals#lp-animals"><b>All About Animal Life Cycles</b></a></h4>
  
 <img src="/images/science/preschoolers/animals%20grow.jpg" style="width:400px; text-align:centre;">
 
@@ -175,5 +178,7 @@ Why Do Apples Turn Brown?</b></a></h4>
 <img src="/images/science/preschoolers/light.jpg" style="width:400px; text-align:centre;">
 
 <p>Light is made up of waves. These waves travel from light sources, bounce off objects and come to our eyes, allowing us to see things. Light sources come in many forms. Lamp posts help light up streets. Stadium lights help us watch a late sports match. Computer monitors and television screens emit light to display images. Light can also come from flames, not just electricity, like from the bonfire during camping. And of course, the biggest main source of light for us: the Sun!</p>
+
+https://childrenandteens.nlb.gov.sg/budding-scientists#lp-shapesandpolygons
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
