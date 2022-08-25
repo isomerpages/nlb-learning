@@ -97,7 +97,7 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
         <td> </td>
       </tr>
 		  <tr>
-        <td><a href="https://nlb-dr-staging.netlify.app/budding-scientists#lp-amazingbody" target="_blank"><b> The Amazing Body: Let’s Explore My Body!
+        <td><a href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-amazingbody" target="_blank"><b> The Amazing Body: Let’s Explore My Body!
  </b></a><img src="/images/science/preschoolers/amazingbody1.png" style="width:400px; text-align:left;"></td>
         <td>The human body is a complex machine. The different parts of our body work together to do many amazing things. Let’s have some fun learning about the human body and how it functions!
  </td>
