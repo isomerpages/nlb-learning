@@ -161,7 +161,7 @@ Why Do Apples Turn Brown?</b></a></h4>
 
  <p>Do you know what happens when you mix baking soda and vinegar? Let’s learn about chemical reactions and the gas they produce when they are mixed. <br><br>Chemical reaction: A process that involves the arrangement of molecules or structure of a substance, as opposed to a change in physical form (as from a solid to a gas).<br><br> Observe how a balloon can be inflated through this simple experiment.</p>	
 
- <h4 id="lp-amazingbody"><a target="_blank" href="https://nlb\-dr\-staging.netlify.app/budding-scientists#lp\-amazingbody"><b>The Amazing Body: Let’s Explore My Body!</b></a></h4>
+ <h4 id="lp-amazingbody"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/budding-scientists#lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!</b></a></h4>
  
 <img src="/images/science/preschoolers/amazingbody1.png" style="width:400px; text-align:centre;">
 
