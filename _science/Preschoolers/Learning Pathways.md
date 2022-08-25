@@ -113,7 +113,7 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
         <td> </td>
       </tr>
 		  <tr>
-        <td><a href="https://nlb-dr-staging.netlify.app/budding-scientists#lp-light" target="_blank"><b> Let There Be Light!
+        <td><a href="https://childrenandteens.nlb.gov.sg/abcsofappliedphysicsforkids#lp-light" target="_blank"><b> Let There Be Light!
  </b></a><img src="/images/science/preschoolers/light.jpg" style="width:400px; text-align:left;"></td>
         <td> Light is made up of waves. These waves travel from light sources, bounce off objects and come to our eyes, allowing us to see things. Light sources come in many forms. Lamp posts help light up streets. Stadium lights help us watch a late sports match. Computer monitors and television screens emit light to display images. Light can also come from flames, not just electricity, like from the bonfire during camping. And of course, the biggest main source of light for us: the Sun!
  </td>
