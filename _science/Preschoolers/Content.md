@@ -173,7 +173,7 @@ Why Do Apples Turn Brown?</b></a></h4>
 
 <p>Every living thing goes through a life cycle and your child may start understanding that as they grow! Go on an investigative journey with them to learn about the growth, and development of both familiar and even unfamiliar animals! </p>
 
- <h4 id="lp-light"><a target="_blank" href="[://.nlb.gov.sg/budding-scientists#lp#lp-light"><b>Let There Be Light!</b></a></h4>
+ <h4 id="lp-light"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/abcsofappliedphysicsforkids#lp-light"><b>Let There Be Light!</b></a></h4>
  
 <img src="/images/science/preschoolers/light.jpg" style="width:400px; text-align:centre;">
 
