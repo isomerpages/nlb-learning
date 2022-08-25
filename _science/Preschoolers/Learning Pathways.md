@@ -39,7 +39,7 @@ A child's discovery of the world happens in their everyday life – in their int
     </thead>
    <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/abcsofappliedphysicsforkids#lp-time)" target="_blank"><b> ABC's of Applied Physics for Kids:
+        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/abcsofappliedphysicsforkids#lp-time" target="_blank"><b> ABC's of Applied Physics for Kids:
 It's Time to Learn about Time!</b></a><img src="/images/Time%20to%20Learn%20About%20Time%20Thumbnail.png" style="width:400px; text-align:left;"></td>
         <td style="width: 80%;"> Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</td>
 				<td style="width: 0%;"></td>
