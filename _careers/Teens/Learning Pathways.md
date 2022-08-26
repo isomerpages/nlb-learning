@@ -42,11 +42,11 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
 			<tr>
-         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Teens Takeover | portfolio
+         <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Gear Up | portfolio | Teens Takeover Workshops x NYP
 </b></a></td>
-        <td style="width: 40%;">A series of talks and workshops for teens to delve into the experiences of industry professionals from various careers.<br><br>Stay tuned for more updates.</td>
-       <td> 27 Aug 2022,<br>2.30pm – 3.30pm</td>
-        <td> Jurong Regional Library Level 1 Programme Zone</td>
+        <td style="width: 40%;">Drop by and build a strategy towards landing that dream career. This workshop is in collaboration with Nanyang Polytechnic.<br><br>Stay tuned for more updates.</td>
+       <td> 3 Sept 2022,<br>2pm – 4pm</td>
+        <td> Zoom</td>
 			</tr>
 						<tr>
          <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Jumpstart Your Career with Money&Me @ library@harbourfront
