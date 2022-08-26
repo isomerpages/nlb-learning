@@ -84,6 +84,13 @@ Check out the schedule below, and look out for more programmes to be introduced 
       </a>
     </div>
   </div>
+<div class="col is-one-third">
+    <div class="clickbox is-generic">
+      <a href="#science">
+				<span>Science</span>
+      </a>
+    </div>
+  </div>
 </div>
 
 <br>
@@ -283,3 +290,35 @@ Eugene Lim is a senior lecturer with the Centre for Foundation and General Studi
 </tr>
 
 </tbody></table>
+	
+<!-- Science  -->
+<table>
+<table width="100%" cellspacing="15" cellpadding="15" border="0">
+	
+ <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 55%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 15%;">
+    </colgroup>
+	
+<strong><h5 id="science">Science</h5></strong>
+<hr>
+<tbody>
+<tr><td><strong><a href="https://www.eventbrite.sg/e/create-a-superhydrophobic-coating-jurong-regional-library-tickets-401084553697" target="_blank">Super-hydrophobic Coating - Lotus Leaf Effect</a></strong></td>
+
+<td>As part of the scienti-f(x) | Teens Takeover series, learn how to repel water with a superhydrophobic coating!<br><br>
+
+We have always been fascinated by the ability of the lotus leaf to stay dry even under heavy rain, or after being submerged in water. 
+This is because the lotus leaf has a super water repellent ability on its surface called superhydrophobicity. As a water repellent coating, it has many potential applications. <br><br>
+
+In this workshop, participants will be taught how to make a simple coating process to create a super-hydrophobic surface, mimicking the lotus leaf effect.<br><br>
+
+Suitable for teens aged 13-17.<br><br>
+This session is in collaboration with Nanyang Polytechnic.</td>
+<td>8 Sept 2022, 11am – 12pm </td>
+<td>Jurong Regional Library</td>
+</tr>
+
+</tbody></table>
+<br>
