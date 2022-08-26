@@ -87,7 +87,7 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
     <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
       <a href="#lp-started3">
-        <span>Learning Package:<br> Time to Get Started! Partt 3</span>
+        <span>Learning Package:<br> Time to Get Started! Part 3</span>
       </a>
     </div>
   </div>
@@ -242,7 +242,7 @@ Use the opportunities you have to get experiences and get in hours of practice. 
 
 Some of these passion projects can be turned into temporary or permanent businesses along your career path. You will need to be very self-motivated and consistently work on your skills, but there is no time like the present to try out these ideas if you have the capacity, resources and have done the due research.
 
-**Check out this book for more ideas on how to get started: **
+Check out this book for more ideas on how to get started: 
 
 <h5 class="margin--bottom--lg"><b>The Academic Hustle: The Ultimate Game Plan for Scholarships, Internships and Job Offers</b></h5>
 
