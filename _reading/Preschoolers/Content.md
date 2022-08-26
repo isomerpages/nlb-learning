@@ -50,7 +50,7 @@ Explore our **learning packages** for useful tips on selecting age-appropriate b
   <div class="col is-one-half">
     <div class="clickbox is-indigo-sky">
       <a href="#playlist-the-world-of-picture-books">
-        <span>Playlist:<br>The World of Picture Books</span>
+<span>Playlist:<br>The World of Picture Books<br></span>
       </a>
     </div>
   </div>
@@ -90,7 +90,7 @@ Reading stories together promotes bonding and helps you build a special relation
 Folk tales and fables never lose their wonder. 
 		
 Join our librarian, Nathaniel Chew, as he tells you about the origins of these stories and some book recommendations!</p>
-
+		
   </div>
 </div>
 
@@ -103,7 +103,7 @@ Join our librarian, Nathaniel Chew, as he tells you about the origins of these s
   <div class="col is-three-fifths">
     <p><b> Fractured Fairy Tales (5 min 9 sec) </b><br>
 How can fairy tales be fractured? Our librarian, Kah Heng, shares with us how these stories are different from conventional ones, and how they can ignite the imagination of children. </p>
- 
+		
   </div>
 </div>
 
@@ -119,8 +119,42 @@ Join our librarian, Maliah, as she shares with us how contemporary realistic fic
 			</p> 
   </div>
 </div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/ZLuBblMvIMU"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Choosing Suitable Picture Books (8 min 44 sec) </b><br>
+What are linear, repetitive or cumulative stories? Join our librarian, Nathaniel Chew, as he shares ways on selecting great picture books, and storytelling techniques. </p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Jy-vn8nGJFc"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Pourquoi Tales (6 min 51 sec) </b><br>
+Ever wondered what are Pourquoi Tales? Pourquoi [Por-kwa] means 'why' in French. Learn about the different 'pourquoi' stories that you can share with your child to spur their innate curiosity about the world and why certain events happened.</p>
+ </div>
+</div>
 
- 
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/W9m6tn7_t9E"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> SING-LIT (4 min) </b><br>
+Discover the array of Sing-Lit stories to share with your little ones. Find out the history behind Jurong Island, Singapore's National Flowe (Vanda Miss Joaquim) in this video. You can even take your child on a literary trail based on the stories featured. </p>
+ </div>
+</div>
+
+
 <h3 class="margin--bottom--lg" id="learning-packages-i-can-read"><b>Learning Packages</b></h3>
 	
 <img src="/images/reading/preschool/Picture3.jpg" style="width:70%">

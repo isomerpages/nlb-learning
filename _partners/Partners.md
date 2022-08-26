@@ -84,6 +84,13 @@ Check out the schedule below, and look out for more programmes to be introduced 
       </a>
     </div>
   </div>
+<div class="col is-one-third">
+    <div class="clickbox is-generic">
+      <a href="#science">
+				<span>Science</span>
+      </a>
+    </div>
+  </div>
 </div>
 
 <br>
@@ -103,18 +110,10 @@ Check out the schedule below, and look out for more programmes to be introduced 
 <hr>
 <tbody>
 	
-<tr><td><strong><a href="https://www.eventbrite.sg/e/introduction-to-digital-workplace-future-of-work-tickets-384455445587?aff=odcleoeventsincollection" target="_blank">Introduction to Digital Workplace | Future of Work</a></strong></td>
-  <td>Emerging technologies are changing our workplace. Join us for insights into Singapore’s Smart Nation Initiatives and learn about valuable skills required in the future digital workplace. <br><br>
-Appreciate the benefits of data analytics at work and learn to identify prevalent cyber-security threats and preventions in both work and personal life. Sign up and see how innovations and technologies are solving real-world problems.
-The advancement in technology are creating both opportunities and challenges. <br><br>
-Singapore’s Smart Nation initiatives aim to harness technology and improve how people and business live, work and play. In this 1-hour sharing, you will see examples of projects leveraging on data, sensors, and even robotics in areas such as estate maintenance and healthcare. <br><br>
-We also will discuss the disruptions arising from the emergence of new technologies such as Artificial Intelligence (AI) and ride-hiring apps, and understand how these challenges are generating new jobs and innovations.<br><br>
-Speaker: Mr Teh Ah Hock<br>
-Mr Teh Ah Hock, Specialist (Internet of Things) and Senior Lecturer at Nanyang Polytechnic, is an experienced educator of 20 years. He brings with him a wealth of experience in leading, designing and developing of software systems, and is involved in numerous industrial collaborations and projects in Internet of Things (IoT).</td>
-  <td>17 Aug 2022, 7pm - 8pm </td>
-  <td>Zoom</td>
+<tr>
 </tr>
 </tbody></table>
+<br>
 <br>
 
 <!-- Careers  -->
@@ -150,6 +149,7 @@ Having gained understanding in the economical, social, and psychological needs o
 
 </tbody></table>
 <br>
+<br>
 
 <!-- Sustainability  -->
 <table>
@@ -167,18 +167,22 @@ Having gained understanding in the economical, social, and psychological needs o
 
 <tbody>
 <tr>
-<td><strong><a href="https://www.eventbrite.sg/e/repurposing-soya-waste-okara-into-edible-food-tickets-347002221987/" target="_blank">Repurposing Soya Waste (Okara) into edible food</a></strong></td>
-<td>This is a hands-on program designed to repurpose food waste instead of throwing them away. In this workshop, participants will learn how to make homemade soy milk from scratch. Upon making their delicious soy milk, they will learn how to transform the waste (okara) generated into nugget and cookie.  Learn techniques to transform household food waste into dishes while discovering the new taste of okara!  <br><br>
+<td><strong>Old Fiber, New Paper: Turn Vegetable Waste into Paper | GREENHOUSE</strong></td>
+<td>In this programme, participants will be experiencing the process of making biodegradable papers from vegetable wastes. These papers can be used for scrapbooking or for packaging small items. Please bring a carrier bag with you to the workshop. <br><br>
+ 
+About the speaker:<br>
+Grayce graduated from NYP in 2021 with a Diploma in Molecular Biotechnology.<br><br>
 
-About the speaker: Lina Tan is a senior lecturer with School of Applied Science, Nanyang Polytechnic. She provides academic training to students majoring in Food Science & Nutrition programme. Besides teaching, she also provides technical guidance and training to clients in food industry and is a coach who prepares food science students for local and international product innovation competitions. <br><br>
-
-This programme is brought to you in collaboration with Nanyang Polytechnic.<br><br></td>
-<td>25 Jun 2022, 2pm - 4.30pm</td>
-<td>Tampines Regional Library, Cooking Studio</td>
+This programme is brought to you in collaboration with Nanyang Polytechnic.<br><br>
+	
+The registration link for the event will be available soon. <br></td>
+<td>24 Sept 2022, 10.30am - 1pm</td>
+<td>Tampines Regional Library, Culinary Studio</td>
 </tr>
 </tbody></table>
 <br>
-
+<br>
+	
 <!-- Wellness  -->
 <table>
 <table width="100%" cellspacing="15" cellpadding="15" border="0">
@@ -195,46 +199,6 @@ This programme is brought to you in collaboration with Nanyang Polytechnic.<br><
 
 <tbody>	
 
-
-<tr>
-<td><strong><a href="https://www.eventbrite.sg/e/ageing-gracefully-with-proper-diet-mind-your-body-x-time-of-your-life-tickets-373277311487?aff=odcleoeventsincollection" target="_blank">Ageing Gracefully with Proper Diet | Mind Your Body x TOYL</a></strong></td>
-<td>Our body’s nutritional needs changes as we age. To supplement the growing need for a better diet, the range of food we consume needs to be more balanced than ever. Join us as we discover the purposes of different nutrients, their effects on us as we age, and how we can make our quality of life more robust in our golden years.<br><br>
-
-Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. <br><br>
-
-This programme is suitable for those aged 50 and above, and is organised in collaboration with Nanyang Polytechnic.<br><br></td>
-<td>4 Aug 2022, 2.30pm - 4pm</td>
-<td>Clementi Public Library</td>
-</tr>
-	
-<tr>
-<td><strong><a href="https://www.eventbrite.sg/e/living-with-diabetes-mind-your-body-x-time-of-your-life-tickets-373281002527?aff=odcleoeventsincollection" target="_blank">Living with Diabetes: Lifestyle & Nutrition Management | Mind Your Body x TOYL</a></strong></td>
-<td>What is it like to live with diabetes? Can you still enjoy your favourite food and activities? What are the adjustments that you should make to take care of yourself or your loved ones living with diabetes? <br><br>
-
-This workshop aims to teach participants about the basics of how to manage their diabetes condition in many areas – from managing their symptoms, to nutritional guides and even foot care.<br><br>
-
-Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment.<br><br>
-
-This programme is suitable for those aged 50 and above, and is organised in collaboration with Nanyang Polytechnic.
-<br><br></td>
-<td>11 Aug 2022, 2.30pm - 4pm</td>
-<td>Clementi Public Library</td>
-</tr>
-
-<tr>
-<td><strong><a href="https://www.eventbrite.sg/e/making-wise-choices-at-the-supermarket-mind-your-body-x-time-of-your-life-tickets-373283028587?aff=odcleoeventsincollection" target="_blank">Making Wise Choices at the Supermarket | Mind Your Body x TOYL</a></strong></td>
-<td>Healthy living starts with making healthy choices but how is that possible when nutrition labels can be so confusing? With information such as serving size and different nutritional values, it may be difficult to decide which food product is healthier than others. <br><br>
-
-Learn how to make sense of these labels and start on your journey to making more informed food choices at the supermarket. <br><br>
-
-Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. <br><br>
-
-This programme is suitable for those aged 50 and above, and is organised in collaboration with Nanyang Polytechnic.
-<br><br></td>
-<td>18 Aug 2022, 2.30pm - 4pm</td>
-<td>Clementi Public Library</td>
-</tr>
-	
 <tr>
 <td><strong><a href="https://nlbsingapore.zoom.us/meeting/register/tJwrcemgqzkiHd3HruSM3W0zr8G9I8IbtcrM" target="_blank">Screen Time to Scream Time</a></strong></td>
 <td>This workshop is curated to give learners a better understanding of the negative effects associated with too much screen time and the benefits of physical activities. <br><br>
@@ -249,7 +213,8 @@ This programme is suitable for teens.	</td>
 	
 </tbody></table>
 <br>
-
+<br>
+	
 <!-- Singapore-->
 <table>
 <table width="100%" cellspacing="15" cellpadding="15" border="0">
@@ -283,3 +248,38 @@ Eugene Lim is a senior lecturer with the Centre for Foundation and General Studi
 </tr>
 
 </tbody></table>
+<br>
+<br>
+	
+<!-- Science  -->
+<table>
+<table width="100%" cellspacing="15" cellpadding="15" border="0">
+	
+ <colgroup>
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 55%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 15%;">
+    </colgroup>
+	
+<strong><h5 id="science">Science</h5></strong>
+<hr>
+<tbody>
+<tr><td><strong><a href="https://www.eventbrite.sg/e/create-a-superhydrophobic-coating-jurong-regional-library-tickets-401084553697" target="_blank">Super-hydrophobic Coating - Lotus Leaf Effect</a></strong></td>
+
+<td>As part of the scienti-f(x) | Teens Takeover series, learn how to repel water with a superhydrophobic coating!<br><br>
+
+We have always been fascinated by the ability of the lotus leaf to stay dry even under heavy rain, or after being submerged in water. 
+This is because the lotus leaf has a super water repellent ability on its surface called superhydrophobicity. As a water repellent coating, it has many potential applications. <br><br>
+
+In this workshop, participants will be taught how to make a simple coating process to create a super-hydrophobic surface, mimicking the lotus leaf effect.<br><br>
+
+Suitable for teens aged 13-17.<br><br>
+This session is in collaboration with Nanyang Polytechnic.</td>
+<td>8 Sept 2022, 11am – 12pm </td>
+<td>Jurong Regional Library</td>
+</tr>
+
+</tbody></table>
+<br>
+<br>

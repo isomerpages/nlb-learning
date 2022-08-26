@@ -71,30 +71,36 @@ Make reading a fun activity while fostering that special bond between you and yo
      <tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
-       <td>Check out all the Jiggle Read & Rhyme sessions for this month! <br></td>
-        <td>Various public libraries</td>
+       <td>Check out all the Jiggle Read & Rhyme sessions for September!</td>
+        <td>Various Locations</td>
       </tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-380216266087?aff=odcleoeventsincollection"><b>Baby Songs & Rhymes | Early READ 
+<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-385275006917?aff=odcleoeventsincollection"><b>Baby Songs & Rhymes | Early READ 
  </b></a></td>
         <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. 
 <br>
 This programme is intended for parents with babies up to 12 months. </td>
-        <td>Aug 3 2022<br>2.30pm-3.00pm<br></td>
+					<td>3 Sep 2022<br>11.00am-11.30am<br></td>
         <td>Zoom</td>
       </tr>		
 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-378171500137?aff=odcleoeventsincollection"><b> Baby Songs & Rhymes | Early READ</b></a></td>
-        <td> Songs and rhymes play an important role in stimulating your baby’s language development. In this virtual session, you will be introduced to simple songs, action rhymes, and finger plays that you can use to interact and bond with your baby at home. <br>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-lapsit-early-read-registration-389183055997?aff=odcleoeventsincollection"><b>Baby Lapsit | Early READ</b></a></td>
+        <td>Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!<br>
 This programme is intended for parents with babies up to 12 months.</td>
-        <td>Aug 11 2022<br>4.00pm – 4.20pm<br></td>
-        <td>Zoom</td>
+        <td>7 Sep 2022<br>2.00pm – 2.30pm<br></td>
+        <td>Woodlands Regional Library</td>
 </tr>	
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/parents-support-group-with-jenny-ng-registration-378937110097?aff=odcleoeventsincollection"><b> Parents Support Group with Jenny Ng </b></a></td>
-        <td> As parents, our role is to provide deep empathy and stay connected with our children during challenging moments in their life. We can hold space for them to experience life, allow them to feel and be active participants in problem solving, as well as to discover the depth of their capacity and strength. Together, we will read this book and find out more about "The Yes Brain", and consider helping our children develop it, nurturing the four key characteristics of balance, resilience, insight and empathy in them.  </td>
-        <td>Aug 13 2022<br>11.00am – 12.00pm<br></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/awaken-the-reader-in-your-child-early-read-tickets-396914159937?aff=odcleoeventsincollection"><b> Awaken the Reader in Your Child | Early READ </b></a></td>
+        <td>Join us for an exciting hour of tips and fun activities you can do with your little one to spark their love of reading. This interactive parent-child programme is highly recommended for children aged 2 to 6. </td>
+        <td>2 Sep 2022<br>3.00pm – 4.00pm<br></td>
         <td>Zoom</td>
+  					</tr>
+			<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-395775173197?aff=odcleoeventsincollection"><b> Children's Puppet Castle </b></a></td>
+        <td>Join us for a puppet show performed by Puppet Masters Arii Azharii and Christopher Chow. He will be performing two stories, Who Can Bring Back the Sun? and The Big Bully. Learn more about performance techniques through this exciting performance!</td>
+        <td>11 Sep 2022<br>3.00pm – 4.00pm<br></td>
+        <td>Queenstown Public Library</td>
   					</tr>
 		</tbody>
 	</table>
@@ -109,42 +115,32 @@ This programme is intended for parents with babies up to 12 months.</td>
     </thead>
     <tbody>
 			 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/digital-art-3d-pen-early-read-tickets-384435465827?aff=odcleoeventsincollection"><b>Digital Art 3D pen | Early READ</b></a></td>
-        <td> In this session, children will be able to create different keychains and characters to give to their love ones using the 3D pen.This is a parent-child programme and is open to children 4-6 and their parents.</td>
-       <td>July 30 2022<br>2.00pm – 3.00pm<br></td>
-        <td>Bukit Panjang Public Library </td>
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/green-market-live-light-go-green-for-kids-1058439"><b>Green Market: Live Light, Go Green (For Kids)</b></a></td>
+        <td> Introduce your child to eco-friendly ways of living through fun activities and storytelling sessions at Green Market: Live Light, Go Green.</td>
+       <td>17 – 18 Sep<br>11am – 8pm<br></td>
+        <td>Choa Chu Kang Public Library and Zoom </td>
       </tr>
 			  <tr>	
-<td><a target="_blank" href="https://www.eventbrite.sg/e/storiialivetm-through-stem-early-read-tickets-384437150867?aff=odcleoeventsincollection"><b> StoriiAlive™ through STEM | Early READ</b></a></td>
-        <td> StoriiAlive™ is a series of workshops created to bring stories alive to the young readers of age 3 – 6 and their parents through STEM. We believe in using fun and creative approaches to engage your child and at the same time developing a  deeper love for reading. This workshop is excellent for parent and child bonding. We welcome parents with children of age 3 – 6.
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-lets-play-with-polygons-tickets-395760529397?aff=odcleoeventsincollection"><b> Budding Scientists: Let's Play with Polygons!</b></a></td>
+        <td> Bring your child into the wonderful world of pretty polygons and they will discover that these shapes have been around them all this while. They will jiggle, read and rhyme to some fun Shape songs.
 </td>
-        <td>July 31 2022<br>2.00pm – 3.00pm<br></td>
-        <td>library@harbourfront - Stories Come Alive Room</td>
+        <td>7 Sep 2022<br>1.30pm– 2.30pm<br></td>
+        <td>Jurong Regional Library</td>
       </tr>
 				<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/think-like-a-coder-crack-the-code-discovertech-registration-377924671867?aff=odcleoeventsincollection"><b> Think Like A Coder: Crack the Code [DiscoverTech] </b></a></td>
-         <td> 'Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children. These are for absolute beginners. <br>
-Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.  </td>
-        <td>Aug 27 2022<br>11.00am – 12.00pm<br></td>
-        <td>Pasir Ris Public Library </td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/say-no-to-food-waste-tickets-395749506427?aff=odcleoeventsincollection"><b> Say No to Food Waste </b></a></td>
+         <td>  Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. 
+ </td>
+        <td>10 Sep 2022<br>2.00pm–3.00pm<br></td>
+        <td>library@harbourfront </td>
       </tr>
 					  
 <tr>           
-<td><a target="_blank" href="https://www.eventbrite.sg/e/robo-coder-tickets-383791981147?aff=odcleoeventsincollection"><b> Robo Coder</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-urban-farming-farm-to-table-tickets-404507582067?aff=odcleoeventsincollection"><b> Caring for the Environment | Urban Farming: Farm to Table</b></a></td>
 
-        <td> Come build a robot with us using LEGO®’s WEDO platform and learn how gears, motors, and sensors work in this series of 'Robo Coder' sessions. With a bit of coding, watch your robot creations come to life! You will also get a chance to programme a screen-free coding robot, BOTLEY, and use it to accomplish fun and challenging missions, all the while learning about fundamental coding concepts. This parent-child session is suitable for preschoolers aged 4 to 6 years old.</td>
-
-        <td>Sep 3 2022<br>2.30pm – 3.30pm<br></td>
-
-        <td>Jurong Regional Library (Programme Zone Level 1)  </td>
-
+        <td> In this hands-on workshop, your child will learn about being food conscious through interactive activities.</td><td>11 Sep 2022<br>11.00am–12.00pm<br></td><td> Bedok Public Library </td>
       </tr>
-			<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-sustainability-at-home-tickets-383874187027?aff=odcleoeventsincollection"><b> [Caring for the Environment] Sustainability at Home </b></a></td>
-              <td>  What are some simple ways we can be more sustainable at home? Can children also play a part in being sustainable? Join us in this interactive workshop sharing tips and activities to start green-living habits for the whole family! This programme is for parents and children (aged 4 to 6 years old).  </td>
-              <td>Aug 6 2022<br>2.00pm – 3.00pm<br></td>
-              <td>   Toa Payoh Public Library (Programme Zone Level 3)   </td>
-      </tr>
+			
   </tbody>
   </table>
 </div>
