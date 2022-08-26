@@ -204,9 +204,15 @@ It’s a brand new year – and the perfect time to begin planning out activitie
 
 Unsure of where to start? Getting to know yourself a little bit better is a great first step, like knowing what you excel in, or knowing what sort of lifestyle you would like to live.
 
+![](/images/career/teens/jobs.png)
+
 Take the time to do quizzes like these: [Know Yourself ](https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment.html). Just log in (based on which school you are in) and get started to find out about your interests, skills, values and learning styles. 
 
+![](/images/career/teens/jobs%202.png)
+
 Take a look at what is available from platforms such as these: [Singapore Industry Landscape](https://www.myskillsfuture.gov.sg/content/student/en/preu/world-of-work/industry-landscape.html) for a better idea of what future roles and responsibilities might suit you. Knowing where you could be headed is a great starting point to planning the steps you will need to take to get there.
+
+![](/images/career/teens/jobs%203.png)
 
 Remember that all these tools are here to guide you along and not to instruct you, so answer honestly and don’t feel pressured. Some jobs in the future might not even currently be available yet as the world is always changing! 
 
@@ -239,9 +245,15 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 Aside from being a great way to de-stress and have fun, extra-curricular activities and hobbies are often where our passions lie. From sports to arts and music, the pursuit of these interests could even form the backbone of your future career. 
 
+![](/images/career/teens/jobs%206.png)
+
 Use the time you currently have to start creating or working on projects – this can help build up your portfolio and develop your own style which you can use to track your growth and showcase your repertoire of talents. Discover which online or offline platforms suit you best and start learning about them. For example, if you have a passion for animation, you may work on a short animated clip of your choice which you can post on your blog or Instagram reel as a way to showcase and get feedback on your work.
 
+![](/images/career/teens/jobs%207.png)
+
 Use the opportunities you have to get experiences and get in hours of practice. Find like-minded communities and immerse yourself in a wide variety of projects and activities that will expand your range and exposure. For example, if you enjoy designing and knowing how things work, you can join NLB’s MakeIT community on Facebook where you can find like-minded tinkerers as well as programmes you can attend. 
+
+![](/images/career/teens/jobs%209.png)
 
 Some of these passion projects can be turned into temporary or permanent businesses along your career path. You will need to be very self-motivated and consistently work on your skills, but there is no time like the present to try out these ideas if you have the capacity, resources and have done the due research.
 
@@ -285,7 +297,11 @@ Other suggestions:
 
 Real life experiences are important and valuable – it will help you stand out from the crowd. Apply for a temporary or part-time position related to your interests. This short stint can help you identify whether you are suited for this industry and show future employees that you are ready!
 
+![Network](/images/career/teens/jobs%2010.png)
+
 **Be proactive**. Do you know anyone in the industry you are interested in? Ask them more about it and if they have any advice or positions available. Write in to organisations to apply as an intern or volunteer – don’t give up your search even if you get some rejection letters, as there will be some companies who will give you the chance to learn on the job or shadow their professionals even if you do not have the relevant experience. While you might not get as much pay, this is still a great way to experience a job first hand and build up your resume. 
+
+![skills](/images/career/teens/jobs%2011.png)
 
 **Be resourceful**. Even if you take on an unrelated volunteer role to give back to society, or a part-time job to earn a little extra income, make sure to keep a record of what you have done. There are many applicable skills you could list on your resume from these experiences such as leadership and teamwork skills, event planning and facilitation skills etc. For example, if you worked part-time as a waiter, you could list skills such as being able to work in a team, show good customer service as well as adapt to a fast-paced environment. 
 
