@@ -51,9 +51,9 @@ Clueless about which career is suitable for you? Discover and explore various ca
 						<tr>
          <td style="width: 20%;"><a href="https://go.gov.sg/golibrary" target="_blank"><b>Jumpstart Your Career with Money&Me @ library@harbourfront
 </b></a></td>
-        <td style="width: 40%;">A series of talks and workshops for teens to delve into the experiences of industry professionals from various careers.<br><br>Stay tuned for more updates.</td>
-       <td> 27 Aug 2022,<br>2.30pm – 3.30pm</td>
-        <td> t</td>
+        <td style="width: 40%;">As part of the Teens Takeover Workshop series, get a jumpstart on your future as you explore various career choices!</td>
+       <td> 17 Sept 2022,<br>2pm – 4pm</td>
+        <td>library@harbourfront PZ 1</td>
 			</tr>
     </tbody>
   </table>
