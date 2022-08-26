@@ -170,6 +170,19 @@ Computational thinking is the process of breaking down a problem into simple eno
         <td>library@harbourfront </td>
 
       </tr>
+	<tr>
+
+<td><a target="\_blank" href="https://www.eventbrite.sg/e/budding-scientists-lets-play-with-polygons-tickets-395760529397?aff=odcleoeventsincollection"><b> Budding Scientists: Let's Play with Polygons!</b></a></td>
+
+        <td> Bring your child into the wonderful world of pretty polygons and they will discover that these shapes have been around them all this while. They will jiggle, read and rhyme to some fun Shape songs.
+
+</td>
+
+        <td>7 Sep 2022<br>1.30pm– 2.30pm<br></td>
+
+        <td>Jurong Regional Library</td>
+
+      </tr>
     </tbody>
   </table>
 </div>
