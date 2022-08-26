@@ -200,6 +200,8 @@ It’s a brand new year – and the perfect time to begin planning out activitie
 
 **Part 1: Discover Yourself and Explore What’s Out There!**
 
+![Aristotle Quote](/images/career/teens/Aristotle.png)
+
 Unsure of where to start? Getting to know yourself a little bit better is a great first step, like knowing what you excel in, or knowing what sort of lifestyle you would like to live.
 
 Take the time to do quizzes like these: [Know Yourself ](https://www.myskillsfuture.gov.sg/content/student/en/secondary/assessment.html). Just log in (based on which school you are in) and get started to find out about your interests, skills, values and learning styles. 
@@ -233,7 +235,8 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 <h5 class="margin--bottom--lg" id="lp-started2"><b>Time to Get Started! Part 2</b></h5>
 	
-Part 2: Hone Your Craft!
+![Spielberg quote](/images/career/teens/Spielberg%20quote.png)
+
 Aside from being a great way to de-stress and have fun, extra-curricular activities and hobbies are often where our passions lie. From sports to arts and music, the pursuit of these interests could even form the backbone of your future career. 
 
 Use the time you currently have to start creating or working on projects – this can help build up your portfolio and develop your own style which you can use to track your growth and showcase your repertoire of talents. Discover which online or offline platforms suit you best and start learning about them. For example, if you have a passion for animation, you may work on a short animated clip of your choice which you can post on your blog or Instagram reel as a way to showcase and get feedback on your work.
@@ -277,6 +280,8 @@ Other suggestions:
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h5 class="margin--bottom--lg" id="lp-started3"><b>Time to Get Started! Part 3</b></h5>
+
+![Obama Quote](/images/career/teens/Mich%20Obs.png)
 
 Real life experiences are important and valuable – it will help you stand out from the crowd. Apply for a temporary or part-time position related to your interests. This short stint can help you identify whether you are suited for this industry and show future employees that you are ready!
 
