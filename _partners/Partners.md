@@ -114,6 +114,7 @@ Check out the schedule below, and look out for more programmes to be introduced 
 </tr>
 </tbody></table>
 <br>
+<br>
 
 <!-- Careers  -->
 <table>
@@ -148,6 +149,7 @@ Having gained understanding in the economical, social, and psychological needs o
 
 </tbody></table>
 <br>
+<br>
 
 <!-- Sustainability  -->
 <table>
@@ -179,7 +181,8 @@ The registration link for the event will be available soon. <br></td>
 </tr>
 </tbody></table>
 <br>
-
+<br>
+	
 <!-- Wellness  -->
 <table>
 <table width="100%" cellspacing="15" cellpadding="15" border="0">
@@ -210,7 +213,8 @@ This programme is suitable for teens.	</td>
 	
 </tbody></table>
 <br>
-
+<br>
+	
 <!-- Singapore-->
 <table>
 <table width="100%" cellspacing="15" cellpadding="15" border="0">
@@ -244,6 +248,8 @@ Eugene Lim is a senior lecturer with the Centre for Foundation and General Studi
 </tr>
 
 </tbody></table>
+<br>
+<br>
 	
 <!-- Science  -->
 <table>
@@ -275,4 +281,5 @@ This session is in collaboration with Nanyang Polytechnic.</td>
 </tr>
 
 </tbody></table>
+<br>
 <br>
