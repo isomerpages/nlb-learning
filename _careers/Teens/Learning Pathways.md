@@ -68,11 +68,11 @@ Clueless about which career is suitable for you? Discover and explore various ca
     <tbody>
 <tr>
 <td style="width: 20%;"><a  target="_blank" href="https://www.eventbrite.sg/e/10-no-nos-in-social-media-marketing-my-digital-life-tickets-384458384377?aff=ebdsoporgprofile">
-	<b> 10 No-Nos in Social Media Marketing | My Digital Life</b></a></td>
+	<b> Making Comics and Breaking Barriers with DE @ Woodlands Regional Library</b></a></td>
         <td style="width: 40%;"> 
-Social Media has changed the way businesses drive sales and marketing. However, not everyone may be aware of the perils of social media if not used correctly. Learn 10 of the biggest mistakes in social media marketing, and how you can avoid them.</td>
-        <td style="width: 20%;"> 17 Aug 2022,<br>2pm – 3pm</td>
-        <td style="width: 20%;"> Zoom</td>
+As part of the Teens Takeover Workshop series, learn the fundamentals of comic-making, and spark meaningful conversations!</td>
+        <td style="width: 20%;"> 4 Sept 2022,<br>2pm – 4pm</td>
+        <td style="width: 20%;"> Woodlands Regional Library PZ</td>
       </tr>
       <tr>
         <td><a target="_blank" href="https://www.eventbrite.sg/e/tweenkerama-drink-carton-recycling-paper-making-workshop-sustainability-tickets-380231511687?aff=ebdsoporgprofile"><b> Tweenkerama: Drink Carton Recycling Paper Making Workshop | Sustainability</b></a></td>
