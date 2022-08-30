@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /digital/adults-seniors/learning-pathways
+permalink: /digital/adults-seniors/learning-pathways/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -60,7 +60,7 @@ The story of technology is the history of people solving problems, overcoming ad
 			<tr>
 <td><a href="https://www.eventbrite.com/cc/my-digital-life-303169" target="_blank"><b>[My Digital Life]</b><br>Leap into Livestreaming 101</a></td>
         <td>Take a leap into livestreaming & learn about the basics of video production and get hands-on experience with setting up for a livestream!</td>
-        <td>Fridays, 6:30pm-8:30pm<br>Saturdays, 12pm-2pm</td>
+        <td>Saturdays, 12pm-2pm</td>
         <td>Public Libraries</td>
       </tr>
       <tr>
@@ -70,43 +70,28 @@ The story of technology is the history of people solving problems, overcoming ad
         <td style="width: 20%;">Zoom and library@harbourfront</td>
       </tr>
 			<tr>
-<td><a href="https://www.eventbrite.sg/e/data-analytics-with-python-for-beginners-future-of-work-tickets-375044697787?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Data Analytics with Python</a></td>
-        <td>Learn the fundamental of data analysis and various data analytics processes with Python implementation.
+<td><a href="https://www.eventbrite.sg/e/reducing-your-workload-through-rpa-future-of-work-tickets-394955702137?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Reducing your Workload through RPA</a></td>
+        <td>Learn about a popular robotic automation software and how it can be used to help you work more efficiently.
 </td>
-        <td>16 August 2022, <br>6:30pm - 8.30pm</td>
+        <td>13 September 2022, <br>6:30pm - 8.30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/e/10-no-nos-in-social-media-marketing-my-digital-life-tickets-384458384377?aff=odcleoeventsincollection" target="_blank"><b>[My Digital Life]</b><br>10 No-Nos in Social Media Marketing
+<td><a href="https://www.eventbrite.sg/e/visualizing-data-future-of-work-tickets-409772389247?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Visualizing Data
 </a></td>
-        <td>Learn 10 of the biggest mistakes in social media marketing, and how you can avoid them.
+        <td>This talk teaches you how to present complex data in a simple manner using data visualisation techniques.
 </td>
-        <td>17 August 2022, <br>7:30pm - 8.30pm</td>
+        <td>19 September 2022, <br>7:00pm - 8.00pm</td>
         <td>Zoom</td>
       </tr>
 			<tr>
-	<td><a href="https://www.eventbrite.com/cc/my-digital-life-303169" target="_blank"><b>[IMDA X My Digital Life]</b><br>Introduction to Web 3.0
+	<td><a href="https://www.eventbrite.sg/e/leap-into-livestreaming-101-time-of-your-life-registration-398727934987" target="_blank"><b>[Time of Your Life]</b><br>Leap into Livestreaming 101
 </a></td>
-        <td>Discover how you can own your personal data through decentralised technology and and and what that means for you.
+        <td>Take a leap into livestreaming & learn about the basics of video production and get hands-on experience with setting up for a livestream!
 </td>
-        <td> 20 August 2022, <br>27 August 2022 <br><br>11:00am - 12.30pm, 1:30pm-3:30pm</td>
-        <td>library@harbourfront</td>
+        <td> 18 September 2022, <br>4:00pm-6:00pm</td>
+        <td>library@chinatown</td>
       </tr>
-			<tr>
-<td><a href="https://www.eventbrite.sg/e/build-your-own-2d-game-my-digital-life-registration-375104005177?aff=odcleoeventsincollection" target="_blank"><b>[My Digital Life]</b><br>Build Your Own 2D Game</a></td>
-        <td>Learn how to build your very own 2D Game in this workshop!
-</td>
-        <td>29 August 2022, <br>6:30pm - 8.30pm</td>
-        <td>Zoom</td>
-      </tr>
-			<tr>
-<td><a href="https://www.eventbrite.sg/e/introduction-to-digital-workplace-future-of-work-tickets-384455445587?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Introduction to Digital Workplace</a></td>
-        <td>Join us for insights into Singapore’s Smart Nation Initiatives and learn about how emerging technologies are changing our workplace!
-</td>
-        <td>17 August 2022, <br>7:00pm - 8.00pm</td>
-        <td>Zoom</td>
-      </tr>
-			
 			    </tbody>
   </table>
 </div>
