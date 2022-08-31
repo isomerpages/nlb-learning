@@ -120,7 +120,7 @@ Articles and activities that will teach and inspire your child to live sustainab
 <p>From the ever-present Mynah to the colourful Kingfisher, birds are a common sight in this garden city we call home. But did you know they do a lot more for the environment than just adding life and colour to our surroundings? Find out more about the role birds play in our ecosystem, the dangers they face, and how we can do our part to keep them safe.</p>
  
 <h4 id="lp-turtles">
-<a href="/files/Sustainability/Accepting Differences_Final-compressed.PDF"><img src="/images/sustainability/Preschoolers/Turtle.jpg" style="width:50%"></a>
+<img src="/images/sustainability/Preschoolers/Turtle.jpg" style="width:20%">
 	<a href="https://childrenandteens.nlb.gov.sg/connecting-with-nature#lp-seaturtles" target="_blank"><b>Sea Turtle Rescue</b></a></h4>
 <p>As an island nation, Singapore has to be extra conscious about the creatures who call the oceans their home. Sea turtles may look tough with their strong shells, but in reality they face many dangers from humans and the environment. Discover some simple steps that we can take to keep our sea friends safe and learn how you can make your very own (paper plate) sea turtle!</p>
  
