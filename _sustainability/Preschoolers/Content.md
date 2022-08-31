@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /sustainability/preschoolers/content
+permalink: /sustainability/preschoolers/content/
 description: ""
 third_nav_title: Preschoolers
 ---
@@ -128,4 +128,7 @@ Articles and activities that will teach and inspire your child to live sustainab
 <h4 id="lp-susfood"><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment#lp-susfood" target="_blank"><b>Sustainable Foods</b></a></h4>
 <p>Do you know that the food we eat has an impact on the environment? Find out how science and technology can help us create a planet-friendly food system! From meat grown in labs to insects that are safe for consumption, these new innovations could be the future of our food.</p>
 
+<h4 id="lp-turtles"><a href="/files/Sustainability/AcceptingDifferences_Final-compressed.PDF" target="_blank"><b>Sea Turtle Rescue</b></a></h4>
+<p>As an island nation, Singapore has to be extra conscious about the creatures who call the oceans their home. Sea turtles may look tough with their strong shells, but in reality they face many dangers from humans and the environment. Discover some simple steps that we can take to keep our sea friends safe and learn how you can make your very own (paper plate) sea turtle!</p>
+ 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
