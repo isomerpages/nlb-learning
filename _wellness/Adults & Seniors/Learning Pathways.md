@@ -171,27 +171,97 @@ Conducted by: Ms Evelyn Khoo, Founder, Aphasia SG (Singapore)
       </tr>
 			
 <tr>
-	<td><a href="https://www.eventbrite.sg/e/extra-virgin-olive-oil-mediterranean-culture-properties-and-tasting-tickets-396345920317?aff=odcleoeventsincollection" target="_blank"><b>Understanding Menopause | Mind Your Body X TOYL</b></a></td>
-       <td style="width: 40%;"> Journey through a brief history of the extra virgin olive in oil in the Mediterranean culture with Chef Fabrizio Righi, your neighbourhood expert on anything Italian. In this talk, you'll learn about the health benefits of extra virgin olive oil, and understand how to taste and appreciate its flavours.</td>
-        <td style="width: 20%;"> 5 Sept 2022, <br>7pm – 8pm</td>
-        <td style="width: 20%;"> Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/e/understanding-your-immunity-from-east-and-west-mind-your-body-tickets-392116008537?aff=odcleoeventsincollection" target="_blank"><b> Understanding Your Immunity From East and West | Mind Your Body</b></a></td>
-      <td style="width: 40%;">How does TCM relate to our immune system?  This programme will explore the benefits of TCM for our immune system. Various TCM herbs used to boost the immune system will be shared as well as how they relate to the western understanding of how the immune system works. This workshop will cover the following:<br><br>
+	<td><a href="https://www.eventbrite.sg/e/understanding-menopause-mind-your-body-x-toyl-tickets-392990263457?aff=odcleoeventsincollection" target="_blank"><b>Understanding Menopause | Mind Your Body X TOYL</b></a></td>
+       <td style="width: 40%;"> Menopause is a normal part of the ageing process and is characterised by the lack of menstruation for 12 months or longer. As menopause can be quite an unfamiliar experience, there is a lot of misinformation surrounding it. Hear from Dr Thomas King, a senior consultant with Changi General Hospital’s endocrinology department, as he demystifies menopause and provides tips to manage the challenges that may occur during the onset of menopause.<br><br>
 
-<ul>
-	<li>Basic principles of TCM</li>
-	<li>The concept of Qi</li>
-	<li>TCM herbs are used to boost the immune system.</li>
-	<li>General introduction to how the immune system works.</li>
-	<li>Factors affecting the immune system.</li>
-</ul></td>
-        <td style="width: 20%;"> 12 Sept 2022, <br>7pm – 8.30pm</td>
+Disclaimer: All content and advice shared during the programme are for informational purposes only. They are not intended to be a substitute for professional medical advice, diagnosis, or treatment.<br><br>
+
+This programme is suitable for those aged 50 and above, and is organised in collaboration with Changi General Hospital.</td>
+        <td style="width: 20%;"> 5 Sept 2022, <br>3pm – 4pm</td>
         <td style="width: 20%;"> Zoom</td>
       </tr>
-      
-	
+
+<tr>
+	<td><a href="https://www.eventbrite.sg/e/anchoring-yourself-amidst-anxiety-mind-your-head-tickets-395750720057?aff=odcleoeventsincollection" target="_blank"><b>Anchoring Yourself Amidst Anxiety | Mind Your Head</b></a></td>
+      <td style="width: 40%;">In spite of all the modern day conveniences, we are collectively riddled with a constant state of tension and uneasiness. This dis-_ease_, called ‘anxiety’ is an apprehension of the future, rooted in a preoccupation with the past, and which robs us of the gift of the present. Anxiety cripples our health, handicaps our relationships, and constricts our experience of life. In this talk, Dr Sanjiv examines  the plague of modern day anxiety, and reflects on how we can manage better - and perhaps even thrive exuberantly.</td>
+        <td style="width: 20%;"> 7 Sept 2022, <br>7pm – 8pm</td>
+        <td style="width: 20%;"> Zoom</td>
+			</tr>
+			
+<tr>
+	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/managing-medications-and-understanding-dizziness-mind-your-body-x-toyl-tickets-396406531607?aff=odcleoeventsincollection" target="_blank"><b>Managing Medications and Understanding Dizziness</b></a></td>
+	<td style="width: 40%;"><b>Managing Medications</b><br><br>
+A simple medical label contains a lot of vital information such as quantity, ingredients, and uses. Not knowing how to interpret this information can lead to us ingesting the wrong type of medication or consuming medication in wrong dosages. The speaker, Ms Annie Tran (pharmacist), will guide you through how to read medical labels and provide tips on managing multiple medications.
+<br><br>
+		<b>Understanding Dizziness</b>
+<br><br>Dizziness causes a sense of imbalance and often occurs with other symptoms like nausea and vomiting. As it is difficult to predict how long each bout of dizziness will last for, the risk of falls can also increase. Hear from our speakers Dr Joyce Tang (ear, nose, and throat doctor) and Dr Dawn Tan (Senior Principal Physiotherapist) as they take you through the causes of dizziness and ways to effectively manage them.
+<br><br>
+Disclaimer: All content and advice shared during the programme are for informational purposes only. They are not intended to be a substitute for professional medical advice, diagnosis, or treatment.
+<br><br>
+This programme is suitable for those aged 50 and above, and is organised in collaboration with Singapore General Hospital.
+</td>
+        <td style="width: 20%;"> 8 Sept 2022, <br>3pm – 4.30pm</td>
+         <td style="width: 20%;">Zoom </td>
+      </tr>	
+			
+<tr>
+	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/understanding-your-immunity-from-east-and-west-mind-your-body-tickets-392116008537?aff=odcleoeventsincollection" target="_blank"><b>Understanding Your Immunity From East and West | Mind Your Body</b></a></td>
+	<td style="width: 40%;">How does TCM relate to our immune system? &nbsp;This programme will explore the benefits of TCM for our immune system. Various TCM herbs used to boost the immune system will be shared as well as how they relate to the western understanding of how the immune system works. This workshop will cover the following:<br><br>
+<ul>
+  <li>Basic principles of TCM</li>
+  <li>The concept of Qi</li>
+  <li>TCM herbs are used to boost the immune system.</li>
+  <li>General introduction to how the immune system works.</li>
+  <li>Factors affecting the immune system.</li>
+</ul>
+</td>
+        <td style="width: 20%;"> 12 Sept 2022, <br>7pm – 8.30pm</td>
+         <td style="width: 20%;">Zoom</td>
+      </tr>	
+			
+<tr>
+	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/detecting-dementia-mind-your-head-x-toyl-tickets-407872095417?aff=odcleoeventsincollection" target="_blank"><b>Detecting Dementia | Mind Your Head x TOYL</b></a></td>
+	<td style="width: 40%;">Dementia is one of the most common conditions faced by older adults. Not only does it pose challenges to the individual, but also to caregivers. To minimise its impact, early detection and prevention are key. This will allow both the individual and caregivers to be adequately prepared to deal with the condition. Find out what the primary signs of dementia are and the steps you can take to keep it at bay.<br><br>
+Note: Interested participants will also be able to undergo cognitive screenings after the session. The 2 types of screenings that will be offered are AMT (screening for Dementia) and EBAS (screening for Depression), and will be administered on a first-come-first-served basis.<br><br>
+This programme is suitable for those aged 50 and above, and is organised in collaboration with JurongHealth Campus.
+</td>
+        <td style="width: 20%;"> 15 Sept 2022, <br>2pm – 4pm</td>
+         <td style="width: 20%;">Jurong Regional Library, Level 1 Programme Zone </td>
+      </tr>
+			
+<tr>
+	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/detecting-dementia-mind-your-head-x-toyl-tickets-407872095417?aff=odcleoeventsincollection" target="_blank"><b>Medication Mythbusters | Mind Your Head x TOYL</b></a></td>
+	<td style="width: 40%;">Medication is one of the most common and effective means of managing our health when we are unwell. However, easy access to medical information online makes it difficult to tell whether it is accurate. How can we better distinguish trustworthy information from mistruths when seeking answers to our health-related questions online?<br><br>
+Join pharmacist, Mr Teng Jian Wei and pharmacy technician, Ms Nguyen Xuan Hoa as they debunk common myths surrounding medication use and teach you how to evaluate the reliability of medical information online.<br><br>
+Disclaimer: All content and advice shared during the programme are for informational purposes only. They are not intended to be a substitute for professional medical advice, diagnosis, or treatment.<br><br>
+This programme is suitable for those aged 50 and above, and is organised in collaboration with Woodlands Health.
+</td>
+        <td style="width: 20%;"> 12 Sept 2022, <br>7pm – 8.30pm</td>
+         <td style="width: 20%;">Zoom</td>
+      </tr>
+			
+<tr>
+	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/detecting-dementia-mind-your-head-x-toyl-tickets-407872095417?aff=odcleoeventsincollection" target="_blank"><b>Cough Myths Busted | Mind Your Body</b></a></td>
+	<td style="width: 40%;">Coughing and unsure of the cause? Many experience chronic cough and reach for cough mixtures. But is that a good solution? When should you be worried?<br><br>
+
+Join our forum to learn from the experts all about that nagging cough and find out when to seek professional help!
+</td>
+        <td style="width: 20%;"> 24 Sept 2022, <br>10am – 11am</td>
+         <td style="width: 20%;">Zoom</td>
+      </tr>
+
+<tr>
+	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/sleep-disorders-toyl-celebration-tickets-407988413327?aff=odcleoeventsincollection" target="_blank"><b>Sleep Disorders | TOYL Celebration</b></a></td>
+	<td style="width: 40%;">Adjusting sleep patterns and meeting sleep requirements can help with sleep disorders such as sleep apnea and insomnia. Learn more from Assoc. Prof. Ratnagopal Pavanni, Senior Consultant, National Neuroscience Institute (SGH Campus) and Mr Kevin R. Beck, Principal Psychologist, Singapore General Hospital, about the common causes and risk factors affecting sleep and ways to improve your nightly snooze.<br><br>
+
+Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment.<br><br>
+		
+This programme is suitable for those aged 50 and above, and organised in collaboration with National Neuroscience Institute.
+</td>
+        <td style="width: 20%;"> 19 Oct 2022, <br>3pm – 4.30pm</td>
+         <td style="width: 20%;">Zoom</td>
+      </tr>			
+			
    </tbody>
   </table>
 </div>
