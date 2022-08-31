@@ -59,12 +59,11 @@ Kick start your journey to better health with a series of exciting talks and pro
      <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/happy-hour-with-aci-mind-your-body-tickets-395731131467?aff=odcleoeventsincollection" target="_blank"><b>Happy Hour with ACI</b></a></td>
         <td style="width: 40%;">Learn the culture, roots and techniques to appreciate the beverages around the globe. In this talk, you will:<br>
-<ul>
-	<li>Find out how you can brew a perfect cup of coffee</li>
-	<li>Know how to pick a bottle for an occasion</li>
-	<li>Learn the culture, roots and techniques to appreciate the beverages around the globe</li>
-	<li>Fixing the perfect cocktail matching the mood and company.</li>
-</ul>
+
+* Find out how you can brew a perfect cup of coffee<br>
+* Know how to pick a bottle for an occasion<br>
+* Learn the culture, roots and techniques to appreciate the beverages around the globe<br>
+* Fixing the perfect cocktail matching the mood and company.<br>
 </td>
         <td style="width: 20%;"> 1 Sept 2022, <br>7pm – 8pm</td>
          <td style="width: 20%;">Zoom </td>
