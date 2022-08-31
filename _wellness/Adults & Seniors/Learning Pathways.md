@@ -78,13 +78,12 @@ Kick start your journey to better health with a series of exciting talks and pro
       <td><a href="https://www.eventbrite.sg/e/understanding-your-immunity-from-east-and-west-mind-your-body-tickets-392116008537?aff=odcleoeventsincollection" target="_blank"><b> Understanding Your Immunity From East and West | Mind Your Body</b></a></td>
       <td style="width: 40%;">How does TCM relate to our immune system?  This programme will explore the benefits of TCM for our immune system. Various TCM herbs used to boost the immune system will be shared as well as how they relate to the western understanding of how the immune system works. This workshop will cover the following:<br><br>
 
-<ul>
 	<li>Basic principles of TCM</li>
 	<li>The concept of Qi</li>
 	<li>TCM herbs are used to boost the immune system.</li>
 	<li>General introduction to how the immune system works.</li>
 	<li>Factors affecting the immune system.</li>
-</ul></td>
+</td>
         <td style="width: 20%;"> 12 Sept 2022, <br>7pm – 8.30pm</td>
         <td style="width: 20%;"> Zoom</td>
       </tr>
