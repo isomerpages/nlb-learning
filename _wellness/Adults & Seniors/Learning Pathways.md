@@ -168,19 +168,7 @@ This programme is suitable for those aged 50 and above, and organised in collabo
       </tr>
     </thead>
 		<tbody>
-     <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/all-about-dysphagia-toyl-celebration-tickets-406776478397?aff=odcleoeventsincollection" target="_blank"><b>All About Dysphagia | TOYL Celebration</b></a></td>
-        <td style="width: 40%;">Did you know that communication disorders like dementia, Parkinson's disease, and stroke can cause difficulty with swallowing, known as dysphagia in medical terms? When we are unable to swallow our food properly, it can lead to malnutrition. <br><br>However, there are ways to manage dysphagia and ensure that nutritional needs continue to be met.  This interactive workshop will address the following: <br><br>
-• Types of communication disorders <br>
-• Basic tips to improve communication with those who have communication disorders<br>
-• How to identify signs of swallowing difficulties<br>
-• Diet and fluid modification for treatment of dysphagia<br>
-<br>
-Conducted by: Ms Evelyn Khoo, Founder, Aphasia SG (Singapore)
-</td>
-        <td style="width: 20%;"> 1 Oct 2022, <br>2pm – 5.30pm</td>
-         <td style="width: 20%;">library@harbourfront (Programme Zone 1 & 2) </td>
-      </tr>
+     
 			
 <tr>
 	<td><a href="https://www.eventbrite.sg/e/understanding-menopause-mind-your-body-x-toyl-tickets-392990263457?aff=odcleoeventsincollection" target="_blank"><b>Understanding Menopause | Mind Your Body X TOYL</b></a></td>
@@ -228,17 +216,7 @@ This programme is suitable for those aged 50 and above, and is organised in coll
         <td style="width: 20%;"> 12 Sept 2022, <br>7pm – 8.30pm</td>
          <td style="width: 20%;">Zoom</td>
       </tr>	
-			
-<tr>
-	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/detecting-dementia-mind-your-head-x-toyl-tickets-407872095417?aff=odcleoeventsincollection" target="_blank"><b>Detecting Dementia | Mind Your Head x TOYL</b></a></td>
-	<td style="width: 40%;">Dementia is one of the most common conditions faced by older adults. Not only does it pose challenges to the individual, but also to caregivers. To minimise its impact, early detection and prevention are key. This will allow both the individual and caregivers to be adequately prepared to deal with the condition. Find out what the primary signs of dementia are and the steps you can take to keep it at bay.<br><br>
-Note: Interested participants will also be able to undergo cognitive screenings after the session. The 2 types of screenings that will be offered are AMT (screening for Dementia) and EBAS (screening for Depression), and will be administered on a first-come-first-served basis.<br><br>
-This programme is suitable for those aged 50 and above, and is organised in collaboration with JurongHealth Campus.
-</td>
-        <td style="width: 20%;"> 15 Sept 2022, <br>2pm – 4pm</td>
-         <td style="width: 20%;">Jurong Regional Library, Level 1 Programme Zone </td>
-      </tr>
-			
+						
 <tr>
 	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/detecting-dementia-mind-your-head-x-toyl-tickets-407872095417?aff=odcleoeventsincollection" target="_blank"><b>Medication Mythbusters | Mind Your Head x TOYL</b></a></td>
 	<td style="width: 40%;">Medication is one of the most common and effective means of managing our health when we are unwell. However, easy access to medical information online makes it difficult to tell whether it is accurate. How can we better distinguish trustworthy information from mistruths when seeking answers to our health-related questions online?<br><br>
@@ -248,6 +226,16 @@ This programme is suitable for those aged 50 and above, and is organised in coll
 </td>
         <td style="width: 20%;"> 12 Sept 2022, <br>7pm – 8.30pm</td>
          <td style="width: 20%;">Zoom</td>
+      </tr>
+	
+<tr>
+	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/detecting-dementia-mind-your-head-x-toyl-tickets-407872095417?aff=odcleoeventsincollection" target="_blank"><b>Detecting Dementia | Mind Your Head x TOYL</b></a></td>
+	<td style="width: 40%;">Dementia is one of the most common conditions faced by older adults. Not only does it pose challenges to the individual, but also to caregivers. To minimise its impact, early detection and prevention are key. This will allow both the individual and caregivers to be adequately prepared to deal with the condition. Find out what the primary signs of dementia are and the steps you can take to keep it at bay.<br><br>
+Note: Interested participants will also be able to undergo cognitive screenings after the session. The 2 types of screenings that will be offered are AMT (screening for Dementia) and EBAS (screening for Depression), and will be administered on a first-come-first-served basis.<br><br>
+This programme is suitable for those aged 50 and above, and is organised in collaboration with JurongHealth Campus.
+</td>
+        <td style="width: 20%;"> 15 Sept 2022, <br>2pm – 4pm</td>
+         <td style="width: 20%;">Jurong Regional Library, Level 1 Programme Zone </td>
       </tr>
 			
 <tr>
@@ -260,6 +248,20 @@ Join our forum to learn from the experts all about that nagging cough and find o
          <td style="width: 20%;">Zoom</td>
       </tr>
 
+<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/all-about-dysphagia-toyl-celebration-tickets-406776478397?aff=odcleoeventsincollection" target="_blank"><b>All About Dysphagia | TOYL Celebration</b></a></td>
+        <td style="width: 40%;">Did you know that communication disorders like dementia, Parkinson's disease, and stroke can cause difficulty with swallowing, known as dysphagia in medical terms? When we are unable to swallow our food properly, it can lead to malnutrition. <br><br>However, there are ways to manage dysphagia and ensure that nutritional needs continue to be met.  This interactive workshop will address the following: <br><br>
+• Types of communication disorders <br>
+• Basic tips to improve communication with those who have communication disorders<br>
+• How to identify signs of swallowing difficulties<br>
+• Diet and fluid modification for treatment of dysphagia<br>
+<br>
+Conducted by: Ms Evelyn Khoo, Founder, Aphasia SG (Singapore)
+</td>
+        <td style="width: 20%;"> 1 Oct 2022, <br>2pm – 5.30pm</td>
+         <td style="width: 20%;">library@harbourfront (Programme Zone 1 & 2) </td>
+      </tr>
+			
 <tr>
 	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/sleep-disorders-toyl-celebration-tickets-407988413327?aff=odcleoeventsincollection" target="_blank"><b>Sleep Disorders | TOYL Celebration</b></a></td>
 	<td style="width: 40%;">Adjusting sleep patterns and meeting sleep requirements can help with sleep disorders such as sleep apnea and insomnia. Learn more from Assoc. Prof. Ratnagopal Pavanni, Senior Consultant, National Neuroscience Institute (SGH Campus) and Mr Kevin R. Beck, Principal Psychologist, Singapore General Hospital, about the common causes and risk factors affecting sleep and ways to improve your nightly snooze.<br><br>
