@@ -257,3 +257,5 @@ This programme is suitable for those aged 50 and above, and organised in collabo
    </tbody>
   </table>
 </div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
