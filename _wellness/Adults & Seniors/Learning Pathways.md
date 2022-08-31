@@ -126,9 +126,13 @@ Kick start your journey to better health with a series of exciting talks and pro
 		<tbody>
      <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/sleep-disorders-toyl-celebration-tickets-407988413327?aff=odcleoeventsincollection" target="_blank"><b>Sleep Disorders | TOYL Celebration</b></a></td>
-        <td style="width: 40%;">This talk provides a brief introduction into why we need sleep, the various sleep stages, the processes that govern our sleep, and common sleep disorders. 
+        <td style="width: 40%;">Adjusting sleep patterns and meeting sleep requirements can help with sleep disorders such as sleep apnea and insomnia. Learn more from Assoc. Prof. Ratnagopal Pavanni, Senior Consultant, National Neuroscience Institute (SGH Campus) and Mr Kevin R. Beck, Principal Psychologist, Singapore General Hospital, about the common causes and risk factors affecting sleep and ways to improve your nightly snooze.<br><br>
+
+Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment.<br><br>
+
+This programme is suitable for those aged 50 and above, and organised in collaboration with National Neuroscience Institute.
 </td>
-        <td style="width: 20%;"> 4 May 2022, <br>6.30pm – 8.00pm</td>
+        <td style="width: 20%;"> 19 Oct 2022, <br>3pm – 4.30pm</td>
          <td style="width: 20%;">Zoom </td>
       </tr>
      <tr>
