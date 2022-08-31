@@ -216,17 +216,6 @@ This programme is suitable for those aged 50 and above, and is organised in coll
         <td style="width: 20%;"> 12 Sept 2022, <br>7pm – 8.30pm</td>
          <td style="width: 20%;">Zoom</td>
       </tr>	
-						
-<tr>
-	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/detecting-dementia-mind-your-head-x-toyl-tickets-407872095417?aff=odcleoeventsincollection" target="_blank"><b>Medication Mythbusters | Mind Your Head x TOYL</b></a></td>
-	<td style="width: 40%;">Medication is one of the most common and effective means of managing our health when we are unwell. However, easy access to medical information online makes it difficult to tell whether it is accurate. How can we better distinguish trustworthy information from mistruths when seeking answers to our health-related questions online?<br><br>
-Join pharmacist, Mr Teng Jian Wei and pharmacy technician, Ms Nguyen Xuan Hoa as they debunk common myths surrounding medication use and teach you how to evaluate the reliability of medical information online.<br><br>
-Disclaimer: All content and advice shared during the programme are for informational purposes only. They are not intended to be a substitute for professional medical advice, diagnosis, or treatment.<br><br>
-This programme is suitable for those aged 50 and above, and is organised in collaboration with Woodlands Health.
-</td>
-        <td style="width: 20%;"> 12 Sept 2022, <br>7pm – 8.30pm</td>
-         <td style="width: 20%;">Zoom</td>
-      </tr>
 	
 <tr>
 	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/detecting-dementia-mind-your-head-x-toyl-tickets-407872095417?aff=odcleoeventsincollection" target="_blank"><b>Detecting Dementia | Mind Your Head x TOYL</b></a></td>
@@ -237,6 +226,17 @@ This programme is suitable for those aged 50 and above, and is organised in coll
         <td style="width: 20%;"> 15 Sept 2022, <br>2pm – 4pm</td>
          <td style="width: 20%;">Jurong Regional Library, Level 1 Programme Zone </td>
       </tr>
+
+<tr>
+	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/medication-mythbusters-mind-your-body-x-toyl-tickets-396407795387?aff=odcleoeventsincollection" target="_blank"><b>Medication Mythbusters | Mind Your Head x TOYL</b></a></td>
+	<td style="width: 40%;">Medication is one of the most common and effective means of managing our health when we are unwell. However, easy access to medical information online makes it difficult to tell whether it is accurate. How can we better distinguish trustworthy information from mistruths when seeking answers to our health-related questions online?<br><br>
+Join pharmacist, Mr Teng Jian Wei and pharmacy technician, Ms Nguyen Xuan Hoa as they debunk common myths surrounding medication use and teach you how to evaluate the reliability of medical information online.<br><br>
+Disclaimer: All content and advice shared during the programme are for informational purposes only. They are not intended to be a substitute for professional medical advice, diagnosis, or treatment.<br><br>
+This programme is suitable for those aged 50 and above, and is organised in collaboration with Woodlands Health.
+</td>
+        <td style="width: 20%;"> 20 Sept 2022, <br>2.30pm – 4pm</td>
+         <td style="width: 20%;">Zoom</td>
+      </tr>			
 			
 <tr>
 	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/detecting-dementia-mind-your-head-x-toyl-tickets-407872095417?aff=odcleoeventsincollection" target="_blank"><b>Cough Myths Busted | Mind Your Body</b></a></td>
