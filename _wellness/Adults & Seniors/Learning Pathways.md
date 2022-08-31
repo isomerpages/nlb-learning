@@ -135,25 +135,7 @@ This programme is suitable for those aged 50 and above, and organised in collabo
         <td style="width: 20%;"> 19 Oct 2022, <br>3pm – 4.30pm</td>
          <td style="width: 20%;">Zoom </td>
       </tr>
-     <tr>
-     <td><a href="https://www.eventbrite.sg/e/improving-your-sleep-with-better-sleep-habits-mind-your-body-tickets-322527788297?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Improving your Sleep with Better Sleep Habits | Mind Your Body </b></a></td>
-       <td style="width: 40%;"> This talk will cover what factors are needed for good sleep, help you understand why certain behaviours are maintaining your sleep problems,  and provide tips on how you can improve your sleep with better sleep hygiene.</td>
-        <td style="width: 20%;"> 1 June 2022, <br>6.30pm – 8pm</td>
-        <td style="width: 20%;"> Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/e/sleep-disorders-mind-your-body-tickets-355730789367?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escbb" target="_blank"><b> Sleep Disorders | Mind Your Body</b></a></td>
-      <td style="width: 40%;"> Join our panellists to understand more about Sleep and its related disorders.</td>
-        <td style="width: 20%;"> 6 July 2022, <br>7pm – 8pm</td>
-        <td style="width: 20%;"> Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/e/flourish-sleeping-well-for-seniors-zoom-mind-your-body-x-toyl-tickets-358323885387?aff=odcleoeventsincollection" target="_blank"><b> Flourish! Sleeping Well for Seniors (Zoom) | Mind Your Body x TOYL</b></a></td>
-       <td style="width: 40%;"> Keeping well as we age begins with a good night’s rest.</td>
-        <td style="width: 20%;"> 29 July 2022, <br>2pm – 3.30pm  </td>
-        <td style="width: 20%;"> Zoom</td>
-			</tr>
-	
+     
    </tbody>
   </table>
 </div>
