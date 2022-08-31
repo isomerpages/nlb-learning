@@ -129,7 +129,7 @@ Articles and activities that will teach and inspire your child to live sustainab
 <p>Do you know that the food we eat has an impact on the environment? Find out how science and technology can help us create a planet-friendly food system! From meat grown in labs to insects that are safe for consumption, these new innovations could be the future of our food.</p>
 
 <h4 id="lp-turtles">
-	<a href="/files/Sustainability/Accepting Differences_Final-compressed.PDF" target="_blank"><b>Sea Turtle Rescue</b></a><br><img src="/images/sustainability/Preschoolers/Turtle.jpg" style="width:70%">
+	<a href="/files/Sustainability/Accepting Differences_Final-compressed.PDF" target="_blank"><b>Sea Turtle Rescue</b></a><br><img src="/images/sustainability/Preschoolers/Turtle.jpg" style="width:50%">
 </h4>
 <p>As an island nation, Singapore has to be extra conscious about the creatures who call the oceans their home. Sea turtles may look tough with their strong shells, but in reality they face many dangers from humans and the environment. Discover some simple steps that we can take to keep our sea friends safe and learn how you can make your very own (paper plate) sea turtle!</p>
  
