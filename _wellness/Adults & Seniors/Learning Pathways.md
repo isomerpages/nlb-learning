@@ -60,10 +60,10 @@ Kick start your journey to better health with a series of exciting talks and pro
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/happy-hour-with-aci-mind-your-body-tickets-395731131467?aff=odcleoeventsincollection" target="_blank"><b>Happy Hour with ACI</b></a></td>
         <td style="width: 40%;">Learn the culture, roots and techniques to appreciate the beverages around the globe. In this talk, you will:<br>
 
-* Find out how you can brew a perfect cup of coffee<br>
-* Know how to pick a bottle for an occasion<br>
-* Learn the culture, roots and techniques to appreciate the beverages around the globe<br>
-* Fixing the perfect cocktail matching the mood and company.<br>
+• Find out how you can brew a perfect cup of coffee<br>
+• Know how to pick a bottle for an occasion<br>
+• Learn the culture, roots and techniques to appreciate the beverages around the globe<br>
+• Fixing the perfect cocktail matching the mood and company.<br>
 </td>
         <td style="width: 20%;"> 1 Sept 2022, <br>7pm – 8pm</td>
          <td style="width: 20%;">Zoom </td>
@@ -77,12 +77,11 @@ Kick start your journey to better health with a series of exciting talks and pro
       <tr>
       <td><a href="https://www.eventbrite.sg/e/understanding-your-immunity-from-east-and-west-mind-your-body-tickets-392116008537?aff=odcleoeventsincollection" target="_blank"><b> Understanding Your Immunity From East and West | Mind Your Body</b></a></td>
       <td style="width: 40%;">How does TCM relate to our immune system?  This programme will explore the benefits of TCM for our immune system. Various TCM herbs used to boost the immune system will be shared as well as how they relate to the western understanding of how the immune system works. This workshop will cover the following:<br><br>
-
-	<li>Basic principles of TCM</li>
-	<li>The concept of Qi</li>
-	<li>TCM herbs are used to boost the immune system.</li>
-	<li>General introduction to how the immune system works.</li>
-	<li>Factors affecting the immune system.</li>
+• Basic principles of TCM<br>
+• The concept of Qi<br>
+• TCM herbs are used to boost the immune system.<br>
+• General introduction to how the immune system works.<br>
+• Factors affecting the immune system.<br>
 </td>
         <td style="width: 20%;"> 12 Sept 2022, <br>7pm – 8.30pm</td>
         <td style="width: 20%;"> Zoom</td>
@@ -154,14 +153,11 @@ This programme is suitable for those aged 50 and above, and organised in collabo
      <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/all-about-dysphagia-toyl-celebration-tickets-406776478397?aff=odcleoeventsincollection" target="_blank"><b>All About Dysphagia | TOYL Celebration</b></a></td>
         <td style="width: 40%;">Did you know that communication disorders like dementia, Parkinson's disease, and stroke can cause difficulty with swallowing, known as dysphagia in medical terms? When we are unable to swallow our food properly, it can lead to malnutrition. <br><br>However, there are ways to manage dysphagia and ensure that nutritional needs continue to be met.  This interactive workshop will address the following: <br><br>
-
-<ul>
-	<li>Types of communication disorders </li>
-	<li>Basic tips to improve communication with those who have communication disorders</li>
-	<li>How to identify signs of swallowing difficulties</li>
-	<li>Diet and fluid modification for treatment of dysphagia</li>
-</ul>
-<br><br>
+• Types of communication disorders <br>
+• Basic tips to improve communication with those who have communication disorders<br>
+• How to identify signs of swallowing difficulties<br>
+• Diet and fluid modification for treatment of dysphagia<br>
+<br>
 Conducted by: Ms Evelyn Khoo, Founder, Aphasia SG (Singapore)
 </td>
         <td style="width: 20%;"> 1 Oct 2022, <br>2pm – 5.30pm</td>
@@ -205,13 +201,11 @@ This programme is suitable for those aged 50 and above, and is organised in coll
 <tr>
 	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/understanding-your-immunity-from-east-and-west-mind-your-body-tickets-392116008537?aff=odcleoeventsincollection" target="_blank"><b>Understanding Your Immunity From East and West | Mind Your Body</b></a></td>
 	<td style="width: 40%;">How does TCM relate to our immune system? &nbsp;This programme will explore the benefits of TCM for our immune system. Various TCM herbs used to boost the immune system will be shared as well as how they relate to the western understanding of how the immune system works. This workshop will cover the following:<br><br>
-<ul>
-  <li>Basic principles of TCM</li>
-  <li>The concept of Qi</li>
-  <li>TCM herbs are used to boost the immune system.</li>
-  <li>General introduction to how the immune system works.</li>
-  <li>Factors affecting the immune system.</li>
-</ul>
+• Basic principles of TCM<br>
+• The concept of Qi<br>
+• TCM herbs are used to boost the immune system.<br>
+• General introduction to how the immune system works.<br>
+• Factors affecting the immune system.<br>
 </td>
         <td style="width: 20%;"> 12 Sept 2022, <br>7pm – 8.30pm</td>
          <td style="width: 20%;">Zoom</td>
