@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /wellness/adults-seniors/learning-pathways
+permalink: /wellness/adults-seniors/learning-pathways/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -56,43 +56,39 @@ Kick start your journey to better health with a series of exciting talks and pro
     </thead>
 		<tbody>
      <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/eat-well-live-well-mind-your-body-registration-267309870017?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb 
-" target="_blank"><b>Eat Well, Live Well | Mind Your Body </b></a></td>
-        <td style="width: 40%;">This talk presents an overview of the nutrition-related health concern of Singaporeans, and how a healthy diet can help overcome these issues. 
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/happy-hour-with-aci-mind-your-body-tickets-395731131467?aff=odcleoeventsincollection" target="_blank"><b>Happy Hour with ACI</b></a></td>
+        <td style="width: 40%;">Learn the culture, roots and techniques to appreciate the beverages around the globe. In this talk, you will:<br>
+<ul>
+	<li>Find out how you can brew a perfect cup of coffee</li>
+	<li>Know how to pick a bottle for an occasion</li>
+	<li>Learn the culture, roots and techniques to appreciate the beverages around the globe</li>
+	<li>Fixing the perfect cocktail matching the mood and company.</li>
+</ul>
 </td>
-        <td style="width: 20%;"> 9 March 2022, <br>7pm – 8.30pm</td>
+        <td style="width: 20%;"> 1 Sept 2022, <br>7pm – 8pm</td>
          <td style="width: 20%;">Zoom </td>
       </tr>
      <tr>
-     <td><a href="https://www.eventbrite.sg/e/what-will-damage-your-kidneys-mind-your-body-registration-251700501977?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> What Will Damage Your Kidneys? | Mind Your Body</b></a></td>
-       <td style="width: 40%;"> With kidney failure showing no early warning signs and symptoms, how will you know whether your kidneys are damaged?</td>
-        <td style="width: 20%;"> 16 March 2022, <br>7pm – 8pm</td>
+     <td><a href="https://www.eventbrite.sg/e/extra-virgin-olive-oil-mediterranean-culture-properties-and-tasting-tickets-396345920317?aff=odcleoeventsincollection" target="_blank"><b>Extra Virgin Olive Oil: Mediterranean Culture, Properties and Tasting</b></a></td>
+       <td style="width: 40%;"> Journey through a brief history of the extra virgin olive in oil in the Mediterranean culture with Chef Fabrizio Righi, your neighbourhood expert on anything Italian. In this talk, you'll learn about the health benefits of extra virgin olive oil, and understand how to taste and appreciate its flavours.</td>
+        <td style="width: 20%;"> 5 Sept 2022, <br>7pm – 8pm</td>
         <td style="width: 20%;"> Zoom</td>
       </tr>
       <tr>
-      <td><a href=" https://www.eventbrite.sg/e/say-no-to-sugar-mind-your-body-registration-251702307377?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Say No to Sugar! | Mind Your Body</b></a></td>
-      <td style="width: 40%;"> Join us as we reveal the truth of how excessive sugar intake may affect kidney health and debunk common sugar myths.</td>
-        <td style="width: 20%;"> 23 March 2022, <br>7pm – 8pm</td>
+      <td><a href="https://www.eventbrite.sg/e/understanding-your-immunity-from-east-and-west-mind-your-body-tickets-392116008537?aff=odcleoeventsincollection" target="_blank"><b> Understanding Your Immunity From East and West | Mind Your Body</b></a></td>
+      <td style="width: 40%;">How does TCM relate to our immune system?  This programme will explore the benefits of TCM for our immune system. Various TCM herbs used to boost the immune system will be shared as well as how they relate to the western understanding of how the immune system works. This workshop will cover the following:<br><br>
+
+<ul>
+	<li>Basic principles of TCM</li>
+	<li>The concept of Qi</li>
+	<li>TCM herbs are used to boost the immune system.</li>
+	<li>General introduction to how the immune system works.</li>
+	<li>Factors affecting the immune system.</li>
+</ul></td>
+        <td style="width: 20%;"> 12 Sept 2022, <br>7pm – 8.30pm</td>
         <td style="width: 20%;"> Zoom</td>
       </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/e/cooking-oils-101-mind-your-body-registration-255044824937?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Cooking Oils 101 | Mind Your Body</b></a></td>
-       <td style="width: 40%;"> How well do you know your cooking oils? In this talk, you’ll learn from industry’s experts on the 101s of cooking oils.</td>
-        <td style="width: 20%;"> 30 March 2022, <br>7pm – 8.30pm  </td>
-        <td style="width: 20%;"> Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/e/keep-salt-away-mind-your-body-registration-251703892117?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Keep Salt Away! | Mind Your Body </b></a></td>
-      <td style="width: 40%;"> Learn the differences between salt and sodium, understand the effects of excessive sodium intake and identify hidden sodium in food.</td>
-        <td style="width: 20%;"> 6 April 2022, <br> 7pm – 8pm</td>
-        <td style="width: 20%;"> Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/e/why-fat-matters-mind-your-body-registration-251705847967?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb" target="_blank"><b> Why Fat Matters? | Mind Your Body </b></a></td>
-        <td style="width: 40%;"> Understand the importance of fat to your body and learn about the different types of fats and their effects to kidney health.</td>
-        <td style="width: 20%;"> 20 April 2022, <br> 7pm – 8pm</td>
-        <td style="width: 20%;"> Zoom</td>
-	  </tr>
+      
 	
    </tbody>
   </table>
@@ -129,8 +125,7 @@ Kick start your journey to better health with a series of exciting talks and pro
     </thead>
 		<tbody>
      <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/understanding-sleep-and-common-sleep-disorders-mind-your-body-tickets-308475868627
-" target="_blank"><b>Understanding Sleep and Common Sleep Disorders | Mind Your Body </b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/sleep-disorders-toyl-celebration-tickets-407988413327?aff=odcleoeventsincollection" target="_blank"><b>Sleep Disorders | TOYL Celebration</b></a></td>
         <td style="width: 40%;">This talk provides a brief introduction into why we need sleep, the various sleep stages, the processes that govern our sleep, and common sleep disorders. 
 </td>
         <td style="width: 20%;"> 4 May 2022, <br>6.30pm – 8.00pm</td>
