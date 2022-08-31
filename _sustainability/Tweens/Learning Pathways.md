@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /sustainability/tweens/learning-pathways
+permalink: /sustainability/tweens/learning-pathways/
 description: ""
 third_nav_title: Tweens
 ---
@@ -62,13 +62,13 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 				<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.com/e/tweenkerama-drink-carton-recycling-paper-making-workshop-sustainability-tickets-380231511687?aff=ebdssbdestsearch&keep_tld=1" target="_blank"><b>Tweenkerama: Drink Carton Recycling Paper Making Workshop | Sustainability</b></a></td>
-        <td style="width: 40%;">Ever wondered what happens to beverage cartons when they are recycled? Try it yourself at this paper-making workshop, where we use beverage carton waste and turn it into new paper! 
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/book-buzz-for-tweens-green-market-tickets-396979284727?aff=odcleoeventsincollection" target="_blank"><b>Book Buzz for Tweens | Green Market</b></a></td>
+        <td style="width: 40%;">Interested in books about the environment and being green? Join us for a special Green Market edition of Book Buzz for Tweens! Find out our librarian’s favourite books—you won’t <i>be-leaf</i> what treasures the library holds!
 <br><br>
 This programme is suitable for those aged 10 to 13.
 </td>
-        <td style="width: 20%;">27 Aug 2022, <br>2.30pm-3.30pm</td>
-        <td style="width: 20%;">Jurong Regional Library</td>
+        <td style="width: 20%;">17 Sep 2022, <br>11am-11.30am</td>
+        <td style="width: 20%;">Zoom</td>
 			</tr>
     </tbody>
   </table>
