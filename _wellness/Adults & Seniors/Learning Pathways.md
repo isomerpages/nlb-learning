@@ -239,7 +239,7 @@ This programme is suitable for those aged 50 and above, and is organised in coll
       </tr>			
 			
 <tr>
-	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/detecting-dementia-mind-your-head-x-toyl-tickets-407872095417?aff=odcleoeventsincollection" target="_blank"><b>Cough Myths Busted | Mind Your Body</b></a></td>
+	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/cough-myths-busted-mind-your-body-tickets-392107252347?aff=odcleoeventsincollection" target="_blank"><b>Cough Myths Busted | Mind Your Body</b></a></td>
 	<td style="width: 40%;">Coughing and unsure of the cause? Many experience chronic cough and reach for cough mixtures. But is that a good solution? When should you be worried?<br><br>
 
 Join our forum to learn from the experts all about that nagging cough and find out when to seek professional help!
