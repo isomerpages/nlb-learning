@@ -146,24 +146,6 @@ This programme is suitable for those aged 50 and above, and organised in collabo
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://www.healthxchange.sg/" target="_blank"><b> HealthXchange.sg</b></a></td>
-        <td> Access a variety of articles pertaining to different topics on health and wellness.</td>
-        <td></td>
-        <td> </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
       </tr>
     </thead>
