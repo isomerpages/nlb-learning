@@ -25,6 +25,7 @@ third_nav_title: Adults & Seniors
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
+
 <h3><b> Nourish </b></h3>
 
 Kick start your journey to better health with a series of exciting talks and programmes! 
@@ -141,3 +142,56 @@ This programme is suitable for those aged 50 and above, and organised in collabo
 </div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b> Managing Conditions and Medications </b></h3>
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
+      </tr>
+    </thead>
+		<tbody>
+     <tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/all-about-dysphagia-toyl-celebration-tickets-406776478397?aff=odcleoeventsincollection" target="_blank"><b>All About Dysphagia | TOYL Celebration</b></a></td>
+        <td style="width: 40%;">Did you know that communication disorders like dementia, Parkinson's disease, and stroke can cause difficulty with swallowing, known as dysphagia in medical terms? When we are unable to swallow our food properly, it can lead to malnutrition. <br><br>However, there are ways to manage dysphagia and ensure that nutritional needs continue to be met.  This interactive workshop will address the following: <br><br>
+
+<ul>
+	<li>Types of communication disorders </li>
+	<li>Basic tips to improve communication with those who have communication disorders</li>
+	<li>How to identify signs of swallowing difficulties</li>
+	<li>Diet and fluid modification for treatment of dysphagia</li>
+</ul>
+<br><br>
+Conducted by: Ms Evelyn Khoo, Founder, Aphasia SG (Singapore)
+</td>
+        <td style="width: 20%;"> 1 Oct 2022, <br>2pm – 5.30pm</td>
+         <td style="width: 20%;">library@harbourfront (Programme Zone 1 & 2) </td>
+      </tr>
+			
+<tr>
+	<td><a href="https://www.eventbrite.sg/e/extra-virgin-olive-oil-mediterranean-culture-properties-and-tasting-tickets-396345920317?aff=odcleoeventsincollection" target="_blank"><b>Understanding Menopause | Mind Your Body X TOYL</b></a></td>
+       <td style="width: 40%;"> Journey through a brief history of the extra virgin olive in oil in the Mediterranean culture with Chef Fabrizio Righi, your neighbourhood expert on anything Italian. In this talk, you'll learn about the health benefits of extra virgin olive oil, and understand how to taste and appreciate its flavours.</td>
+        <td style="width: 20%;"> 5 Sept 2022, <br>7pm – 8pm</td>
+        <td style="width: 20%;"> Zoom</td>
+      </tr>
+      <tr>
+      <td><a href="https://www.eventbrite.sg/e/understanding-your-immunity-from-east-and-west-mind-your-body-tickets-392116008537?aff=odcleoeventsincollection" target="_blank"><b> Understanding Your Immunity From East and West | Mind Your Body</b></a></td>
+      <td style="width: 40%;">How does TCM relate to our immune system?  This programme will explore the benefits of TCM for our immune system. Various TCM herbs used to boost the immune system will be shared as well as how they relate to the western understanding of how the immune system works. This workshop will cover the following:<br><br>
+
+<ul>
+	<li>Basic principles of TCM</li>
+	<li>The concept of Qi</li>
+	<li>TCM herbs are used to boost the immune system.</li>
+	<li>General introduction to how the immune system works.</li>
+	<li>Factors affecting the immune system.</li>
+</ul></td>
+        <td style="width: 20%;"> 12 Sept 2022, <br>7pm – 8.30pm</td>
+        <td style="width: 20%;"> Zoom</td>
+      </tr>
+      
+	
+   </tbody>
+  </table>
+</div>
