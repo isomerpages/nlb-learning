@@ -83,11 +83,11 @@ This programme is suitable for those aged 10 to 13.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/on-site-read-together-session-for-teens-read-for-books-2022-tickets-388574535897?aff=odcleoeventsincollection" target="_blank"><b>(On-site) Read Together Session for Teens | Read for Books 2022</b></a></td>
-        <td style="width: 40%;">Looking for some good comic reads? Interested in the misconceptions and actual process of comics creation in Singapore? Check out Puracomixmag for Singapore produced, international award winning comic titles covering a vast range of themes and genres. Learn about the 3 essential items publishers look out for, and if you have your own works, feel free to bring them for immediate feedback & advice from a professional editor and mentor team!
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/the-perfect-balance-libraryharbourfront-tweenkerama-tickets-400586774827?aff=odcleoeventsincollection" target="_blank"><b>The Perfect Balance | Tweenkerama science</b></a></td>
+        <td style="width: 40%;">Have you ever wondered how a tightrope walker stays perfectly balanced on a tightrope? Come join us as we explore this through LEGO! Join us for a fun-filled workshop to learn about balanced forces and gravity and create your very own model with LEGO!
 </td>
-        <td style="width: 20%;">27 Aug 2022, 1pm-1.30pm</td>
-        <td style="width: 20%;">Woodlands Regional Library</td>
+        <td style="width: 20%;">24 Sep 2022, 2pm-4pm</td>
+        <td style="width: 20%;">library@harbourfront</td>
       </tr>
       </tbody>
   </table>
