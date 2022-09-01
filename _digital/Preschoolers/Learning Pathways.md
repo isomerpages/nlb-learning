@@ -50,7 +50,7 @@ In fact, they will soon realise computational thinking exists in all aspects of 
 			
 <tr>
 	<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discovertech#lp-looping" target="_blank"><b> Let’s Learn About Looping</b></a></td>
-	<td style="width: 40%;">When you need to repeat something in code, you can use a loop. Looping allows you to repeat an action again without having to write the same instructions over and over again.</td>
+	<td style="width: 50%;">When you need to repeat something in code, you can use a loop. Looping allows you to repeat an action again without having to write the same instructions over and over again.</td>
 	<td style="width: 20%;"></td>
 	<td style="width: 20%;"></td>
 			</tr>
@@ -100,22 +100,10 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 		</tr>
 		
 <tr>
-              <td><a target="blank" href="https://www.eventbrite.sg/e/storiialivetm-through-stem-early-read-tickets-384437150867?aff=odcleoeventsincollection"><b> StoriiAlive™ through STEM | Early READ</b></a></td>
-              <td> StoriiAlive™ is a series of workshops created to bring stories alive to the young readers of age 3 – 6 and their parents through STEM. We believe in using fun and creative approaches to engage your child and at the same time developing a  deeper love for reading. This workshop is excellent for parent and child bonding. We welcome parents with children of age 3 – 6.  </td>
-              <td>July 31 2022<br>2.00pm – 3.00pm<br></td>              <td>library@harbourfront - Stories Come Alive Room</td>
-		</tr>
-								
-<tr>
-
-              <td><a target="blank" href="https://www.eventbrite.sg/e/think-like-a-coder-crack-the-code-discovertech-registration-377924671867?aff=odcleoeventsincollection"><b> Think Like A Coder: Crack the Code [DiscoverTech]  </b></a></td>
-              <td> 'Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children. These are for absolute beginners. <br>
-Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a probl
-		
-<tr>
               <td><a target="blank" href="https://www.eventbrite.sg/e/robo-coder-tickets-383791981147?aff=odcleoeventsincollection"><b> Robo Coder  </b></a></td>
               <td>  Come build a robot with us using LEGO®’s WEDO platform and learn how gears, motors, and sensors work in this series of 'Robo Coder' sessions. With a bit of coding, watch your robot creations come to life! You will also get a chance to programme a screen-free coding robot, BOTLEY, and use it to accomplish fun and challenging missions, all the while learning about fundamental coding concepts. This parent-child session is suitable for preschoolers aged 4 to 6 years old.  </td>
               <td>Sep 3 2022<br>2.30pm – 3.30pm<br></td>
-              <td>Jurong Regional Library (Programme Zone Level 1)</td>
+              <td>Jurong Regional Library </td>
 								</tr>
 		</tbody>
 	</table>
