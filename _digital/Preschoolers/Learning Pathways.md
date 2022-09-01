@@ -160,6 +160,12 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 
         <td>Jurong Regional Library</td>
       </tr>
+						<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-395775173197?aff=odcleoeventsincollection"><b> Children's Puppet Castle </b></a></td>
+        <td>Join us for a puppet show performed by Puppet Masters Arii Azharii and Christopher Chow. He will be performing two stories, Who Can Bring Back the Sun? and The Big Bully. Learn more about performance techniques through this exciting performance!</td>
+        <td>11 Sep 2022<br>3.00pm – 4.00pm<br></td>
+        <td>Queenstown Public Library</td>
+  					</tr>
     </tbody>
   </table>
 </div>
