@@ -94,8 +94,7 @@ Check out these resources to help you gain some understanding of the five-foot-w
 <p><b>Fading Trades: The Kachang Puteh Man (2 mins)
 </b>
 <br> Once a common sight outside cinemas and markets, the local road-side snack institution is vanishing. This video interviewed Mr. Amirthaalangaram Moorthy who manned the stall. The video is subtitled in English and Chinese.<br><br>
-<small> Fading Trades: The Kachang Puteh Man (2018, August 13). MICHELIN Guide Asia. Retrieved 2022, September 1.
-</small></p>
+<small> Fading Trades: The Kachang Puteh Man (2018, August 13). MICHELIN Guide Asia. Retrieved 2022, September 1.</small></p>
 </div>
 </div>
 
@@ -110,7 +109,36 @@ Check out these resources to help you gain some understanding of the five-foot-w
 <div class="col is-three-fifths">
 <p><b>Singapore's Street Barber | The Vanishing Cut Documentary (12 mins)</b>
 <br> A short documentary on Mr. Lee Yuan Dong, one of Singapore’s last street barbers. He talks about some of the difficulties he has faced and it also gives you a sense of what kind of patrons visit him for his services.<br><br>
-<small> Singapore's Street Barber | The Vanishing Cut (2019, June 25). Anthony Merciar. Retrieved 2022, April 22.
-</small></p>
+<small> Singapore's Street Barber | The Vanishing Cut (2019, June 25). Anthony Merciar. Retrieved 2022, September 1.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/lvtliEYpK2I" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>The Cobbler Of Waterloo Street (6 mins)</b>
+<br>CNA interviewed Mr Lee Tai Chin, a street cobbler at Waterloo Street. He uses Mandarin, Malay, and Hokkien (a Chinese dialect) to communicate with his patrons and the video is subtitled in English. <br><br>
+<small>The Cobbler of Waterloo Street (2017, September 15). CNA Insider. Retrieved 2022, September 1.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/PdTIE5W3J6E" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>The Last Snake Charmer (5 mins)</b>
+<p><b> Mohammad Yusof is a third-generation snake charmer in Singapore and is perhaps the last of his profession. In this video, he shares his experiences and how he began to perform.<br><br>
+<small> Source: Incredible Peranakan food in Singapore (2016, March 6). Mark Wiens. Retrieved 2022, September 1.</small></p>
 </div>
 </div>
