@@ -115,6 +115,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 		</tbody>
 	</table>
 </div>
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -124,6 +125,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 			</thead>
 		<tbody>
 
+			<tr>
 <td><a target="blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
 
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
