@@ -138,7 +138,8 @@ Check out these resources to help you gain some understanding of the five-foot-w
 </div>
 <div class="col is-three-fifths">
 <p><b>The Last Snake Charmer (5 mins)</b>
-<p><b> Mohammad Yusof is a third-generation snake charmer in Singapore and is perhaps the last of his profession. In this video, he shares his experiences and how he began to perform.<br><br>
+<br>Mohammad Yusof is a third-generation snake charmer in Singapore and is perhaps the last of his profession. In this video, he shares his experiences and how he began to perform.<br><br>
 <small> Source: The Last Snake Charmer (2018, July 30). irememberSG. Retrieved 2022, September 1.</small></p>
 </div>
 </div>
+
