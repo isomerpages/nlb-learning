@@ -112,7 +112,6 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
               <td>Sep 24 2022<br>11.30am - 12.30pm<br></td>
               <td>Pasir Ris Public Library </td>
 								</tr>
-		</tr>
 		</tbody>
 	</table>
 </div>
