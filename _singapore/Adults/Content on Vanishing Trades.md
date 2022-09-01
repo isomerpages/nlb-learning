@@ -189,8 +189,16 @@ Oral History Department. (1992). <i> Vanishing Trades: A Catalogue of Oral Histo
 <img src="/images/Singapore%20Vanishing%20Trades/vanishing-trades-catalogue-oral-history.png" style="width:200px;"></a>
 <p>This catalogue by the Oral History Department is a summary of the 112 persons interviewed from over 70 different types of trades. The five-foot-way traders include the cobbler; the fortune teller; kacang putih seller; and letter writer cum calligrapher. One of the supplementary tapes contains an interview with a snake charmer. As many of the interviews were given in non-English languages, this is a useful resource.</p>
 
+<h5> Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment</h5>
+Brenda S. A. Yeoh. (2013). <i>Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment</i>. Singapore: NUS Press, 243-280. (Call no.: RSING 307.76095957 YEO)
+<br>
+<img src="/images/Singapore%20Vanishing%20Trades/contesting-space-in-colonial-singapore.png" style="width:200px;"></a>
+<p>In the chapter on “The Control of ‘Public’ Space: Conflicts over the Definition and Use of the Verandah,” Brenda Yeoh dives deep into the issues regarding the use of five-foot-ways as public space during the colonial period. The shop owners and five-foot-way traders who used the space for goods and services were at odds with the municipal government, who saw the space as a public thoroughfare that needed to be kept clear for pedestrian use.</p>
+
 <h5>A Blink in Time: Memories of Singapore’s Vanishing Past</h5>
 Chew, Angela, Ricky Gui, and Jason Leong, (2016). <i>A Blink in Time: Memories of Singapore’s Vanishing Past</i> Singapore: Studio Ink Asia Pte Ltd. (Call no.: RSING 959.5705 CHE)
 <br>
 <img src="/images/Singapore%20Vanishing%20Trades/a-blink-in-time.png" style="width:200px;"></a>
 <p>This coffee table book is meant to capture anecdotes and provide some pictures of Singapore’s vanishing past. There is a section in the book named “Under the Sun” where cobblers, the kacang putih seller, the street barber, parrot fortune teller, and koyok seller are shown. This book would be suitable for sharing with younger readers as the anecdotes are short and sweet, and the images are vibrant.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
