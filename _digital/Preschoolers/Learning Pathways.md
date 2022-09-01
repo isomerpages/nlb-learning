@@ -83,7 +83,6 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
   </table>
 </div>
 
-
 <div class="horizontal-scroll margin--bottom--lg">
 	<table class="generic-table">
 		<thead>
@@ -114,7 +113,8 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
               <td>Participants will be using Cubroid blocks to build their very own moveable ambulance model through a coding app that they can download. This parent-child session is suitable for preschoolers aged 4 to 6 years old.  </td>
               <td>Sep 24 2022<br>11.30am - 12.30pm<br></td>
               <td>Pasir Ris Public Library </td>
-								</tr>	
+								</tr>
+		</tr>
 		</tbody>
 	</table>
 </div>
