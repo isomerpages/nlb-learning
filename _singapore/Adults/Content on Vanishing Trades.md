@@ -164,5 +164,10 @@ Check out these resources to help you gain some understanding of the five-foot-w
 <h4>Articles</h4>
 <h5><a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/give-me-shelter-stry" target="_blank">Give Me Shelter: The Five-Footway Story by Lim, Fiona </a></h5>
 <p>Fiona Lim explores the colourful history of the five-foot-way and the trades that went on there. The article depicts how the certain shophouse quarters became specialized for certain trades—Kampong Glam’s five-foot-ways specialized in Islamic trades; Chinatown’s five-foot-ways hosted Chinese calligraphers and letter writers; and Little India’s five-foot-ways was the site for Indian parrot astrologers, for example.</p>
-Source: Lim, Fiona<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/give-me-shelter-stry" target="_blank"> Give Me Shelter: The Five-Footway Story</a>. <i>BiblioAsia</i> 15(3) (October-December 2019). Retrieved 2022, September 1.
+Source: Lim, Fiona. <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/give-me-shelter-stry" target="_blank"> Give Me Shelter: The Five-Footway Story</a>. <i>BiblioAsia</i> 15(3) (October-December 2019). Retrieved 2022, September 1.
 
+<h5><a href=" https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-march-2014/forgotten-trades-singapore" target="_blank">Time-forgotten Trades by Teng, Sharon</a></h5>
+
+<p> Sharon Teng describes some useful resources regarding vanishing trades as well as what is being done to remember them. The five-foot-way traders that are discussed in the article are cobblers, fortune tellers, ice-ball sellers, kacang putih sellers, letter writers, and street barbers.</p>
+
+Source: Teng, Sharon. <a href=”https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-march-2014/forgotten-trades-singapore” target=”_blank”>”Time-forgotten Trades</a>, <i>BiblioAsia</i> 9(4) (January-March 2014). Retrieved 2022, September 1.
