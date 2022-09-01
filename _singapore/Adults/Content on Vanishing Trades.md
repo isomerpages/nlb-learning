@@ -175,3 +175,10 @@ Source: Teng, Sharon. <a href=”https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html" target="_blank">Five-foot-way traders by Thulaja, Naidu Ratnala</a></h5>
 <p>Thulaja gives a short history of five-foot-ways before giving some resource links for knife sharpeners, roadside barbers, mask makers, fortune tellers, locksmiths, letter writers, traditional medicine men, newspaper vendors, storytellers, tinsmiths, hair-bun makers, stool makers, garland makers, stamp dealers, and food vendors.</p>
 Source: Thulaja, Naidu Ratnala. <a href=”https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html)” target=”_blank”>Five-foot-way traders</a>. (2016). <i>Singapore Infopedia.</i> Retrieved, 2022 September 1.
+
+<h4>Books</h4>
+<h5>Vanishing Trades of Singapore</h5>
+Lo-Ang Siew Ghim and Chua Chee Huan (Eds.). (199). <i> Vanishing Trades of Singapore.</i> Singapore: Oral History Department. (Call no.: RSING 338.642095957 VAN)
+<br>
+<img src="/images/Singapore%20Vanishing%20Trades/vanishing-trades-of-singapore.png" style="width:200px;"></a>
+<p> Written in both English and Chinese, <I>Vanishing Trades of Singapore</i> is a key resource that outlines 20 vanishing trades based on oral interviews. As some oral interviews were given in non-English languages, this may be the most accessible way for readers to learn about the various five-foot-way traders. Included in the book are occupations such as the letter writer, parrot astrologer, and snake charmer. </p>
