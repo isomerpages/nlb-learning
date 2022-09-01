@@ -66,3 +66,19 @@ The term “five-foot-way” refers to the veranda area in front of shophouses. 
 
 Check out these resources to help you gain some understanding of the five-foot-way traders in Singapore.
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/8wzVi\_PmxBM" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> The Bygone Age Of Letter Writing In Old Singapore | A Frame In Time 2 | Full Episode (48 mins)
+</b>
+<br>This show helmed by filmmaker Kelvin Tong uses Ong Kim Seng’s painting of the 'Night Calligrapher’ to set the scene of what the age of letter writing was like. It intermixes a short fictional story as well as interviews with the artist, academics, the son of a letter writer, and a ma jie, among others. “Letter writers played the important role of helping Singapore’s migrant forefathers write letters to their loved ones in their city of birth. They also doubled as calligraphers for Chinese New Year couplets and ancestral altars.” There are segments of the video with English subtitles.<br><br>
+<small> The Bygone Age Of Letter Writing In Old Singapore | A Frame In Time 2 | Full Episode (2021, 31 December). CNA Insider. Retrieved 2022, July 20.</small></p>
+</div>
+</div>
+
