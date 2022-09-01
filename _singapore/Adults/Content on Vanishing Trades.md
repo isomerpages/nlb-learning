@@ -49,12 +49,10 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
-	
-	<div class="col is-one-third">
+		<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-vanishing-trades">
         <span>Learning Package: Five-Foot-Way Traders</span>
       </a>
     </div>
   </div>
-
