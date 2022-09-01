@@ -86,7 +86,7 @@ Check out these resources to help you gain some understanding of the five-foot-w
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/D8XmbV0O2Fo" class="responsive-iframe">
+<iframe src="https://www.youtube.com/embed/bhHgHwSGyag" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -99,3 +99,18 @@ Check out these resources to help you gain some understanding of the five-foot-w
 </div>
 </div>
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/D8XmbV0O2Fo" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>Singapore's Street Barber | The Vanishing Cut Documentary (12 mins)</b>
+<br> A short documentary on Mr. Lee Yuan Dong, one of Singapore’s last street barbers. He talks about some of the difficulties he has faced and it also gives you a sense of what kind of patrons visit him for his services.<br><br>
+<small> Singapore's Street Barber | The Vanishing Cut (2019, June 25). Anthony Merciar. Retrieved 2022, April 22.
+</small></p>
+</div>
+</div>
