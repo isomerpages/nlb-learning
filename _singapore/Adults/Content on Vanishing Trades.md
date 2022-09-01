@@ -189,3 +189,8 @@ Oral History Department. (1992). <i> Vanishing Trades: A Catalogue of Oral Histo
 <img src="/images/Singapore%20Vanishing%20Trades/vanishing-trades-catalogue-oral-history.png" style="width:200px;"></a>
 <p>This catalogue by the Oral History Department is a summary of the 112 persons interviewed from over 70 different types of trades. The five-foot-way traders include the cobbler; the fortune teller; kacang putih seller; and letter writer cum calligrapher. One of the supplementary tapes contains an interview with a snake charmer. As many of the interviews were given in non-English languages, this is a useful resource.</p>
 
+<h5>A Blink in Time: Memories of Singapore’s Vanishing Past</h5>
+Chew, Angela, Ricky Gui, and Jason Leong, (2016). <i>A Blink in Time: Memories of Singapore’s Vanishing Past</i> Singapore: Studio Ink Asia Pte Ltd. (Call no.: RSING 959.5705 CHE)
+<br>
+<img src="/images/Singapore%20Vanishing%20Trades/a-blink-in-time.png" style="width:200px;"></a>
+<p>This coffee table book is meant to capture anecdotes and provide some pictures of Singapore’s vanishing past. There is a section in the book named “Under the Sun” where cobblers, the kacang putih seller, the street barber, parrot fortune teller, and koyok seller are shown. This book would be suitable for sharing with younger readers as the anecdotes are short and sweet, and the images are vibrant.</p>
