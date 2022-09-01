@@ -171,3 +171,7 @@ Source: Lim, Fiona. <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-de
 <p> Sharon Teng describes some useful resources regarding vanishing trades as well as what is being done to remember them. The five-foot-way traders that are discussed in the article are cobblers, fortune tellers, ice-ball sellers, kacang putih sellers, letter writers, and street barbers.</p>
 
 Source: Teng, Sharon. <a href=”https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-march-2014/forgotten-trades-singapore” target=”_blank”>”Time-forgotten Trades</a>, <i>BiblioAsia</i> 9(4) (January-March 2014). Retrieved 2022, September 1.
+
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html" target="_blank">Five-foot-way traders by Thulaja, Naidu Ratnala</a></h5>
+<p>Thulaja gives a short history of five-foot-ways before giving some resource links for knife sharpeners, roadside barbers, mask makers, fortune tellers, locksmiths, letter writers, traditional medicine men, newspaper vendors, storytellers, tinsmiths, hair-bun makers, stool makers, garland makers, stamp dealers, and food vendors.</p>
+Source: Thulaja, Naidu Ratnala. <a href=”https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html)” target=”_blank”>Five-foot-way traders</a>. (2016). <i>Singapore Infopedia.</i> Retrieved, 2022 September 1.
