@@ -131,10 +131,8 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
        <td>Check out all the Jiggle Read & Rhyme sessions for September!</td>
 
         <td>Various Locations</td>
-
       </tr>
 <tr>
-
 <td><a target="blank" href="https://www.eventbrite.sg/cc/green-market-live-light-go-green-for-kids-1058439"><b>Green Market: Live Light, Go Green (For Kids)</b></a></td>
 
         <td> Introduce your child to eco-friendly ways of living through fun activities and storytelling sessions at Green Market: Live Light, Go Green.</td>
@@ -142,24 +140,16 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
        <td>17 – 18 Sep<br>11am – 8pm<br></td>
 
         <td>Choa Chu Kang Public Library and Zoom </td>
-
       </tr>
-
 <tr>
-
 <td><a target="blank" href="https://www.eventbrite.sg/e/say-no-to-food-waste-tickets-395749506427?aff=odcleoeventsincollection"><b> Say No to Food Waste </b></a></td>
-
          <td>  Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. 
-
  </td>
 
         <td>10 Sep 2022<br>2.00pm–3.00pm<br></td>
 
         <td>library@harbourfront </td>
-
-      </tr>
-	<tr>
-
+  </tr> <tr>
 <td><a target="blank" href="https://www.eventbrite.sg/e/budding-scientists-lets-play-with-polygons-tickets-395760529397?aff=odcleoeventsincollection"><b> Budding Scientists: Let's Play with Polygons!</b></a></td>
 
         <td> Bring your child into the wonderful world of pretty polygons and they will discover that these shapes have been around them all this while. They will jiggle, read and rhyme to some fun Shape songs.
@@ -169,7 +159,6 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
         <td>7 Sep 2022<br>1.30pm– 2.30pm<br></td>
 
         <td>Jurong Regional Library</td>
-
       </tr>
     </tbody>
   </table>
