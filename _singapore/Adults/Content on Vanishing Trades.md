@@ -142,4 +142,3 @@ Check out these resources to help you gain some understanding of the five-foot-w
 <small> Source: The Last Snake Charmer (2018, July 30). irememberSG. Retrieved 2022, September 1.</small></p>
 </div>
 </div>
-
