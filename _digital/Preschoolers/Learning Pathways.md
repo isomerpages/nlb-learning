@@ -46,22 +46,19 @@ In fact, they will soon realise computational thinking exists in all aspects of 
         <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
-    <tbody>
-			
+    <tbody>	
 <tr>
 	<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discovertech#lp-looping" target="_blank"><b> Let’s Learn About Looping</b></a></td>
 	<td style="width: 50%;">When you need to repeat something in code, you can use a loop. Looping allows you to repeat an action again without having to write the same instructions over and over again.</td>
 	<td style="width: 20%;"></td>
 	<td style="width: 20%;"></td>
 			</tr>
-
 <tr>
 	<td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discovertech#lp-branching" target="_blank"><b>Let’s Learn About Branching</b></a></td>
 	<td>Branching, also known as decision making, equips us with choices in the instructions. There are some conditions that dictate what happens.</td>
         <td> </td>
         <td> </td>
-      </tr>
-			
+      </tr>	
 <tr>
 	<td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discovertech#lp-debugging" target="_blank"><b>Let’s Learn About Debugging</b></a></td>
 	<td>Computer bugs are errors in computer programmes which can cause computers or apps to crash.
@@ -118,9 +115,6 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 		</tbody>
 	</table>
 </div>
-
-
-			
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -130,7 +124,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 			</thead>
 		<tbody>
 
-<td><a target="\_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
+<td><a target="blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
 
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
 
@@ -141,7 +135,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
       </tr>
 <tr>
 
-<td><a target="\_blank" href="https://www.eventbrite.sg/cc/green-market-live-light-go-green-for-kids-1058439"><b>Green Market: Live Light, Go Green (For Kids)</b></a></td>
+<td><a target="blank" href="https://www.eventbrite.sg/cc/green-market-live-light-go-green-for-kids-1058439"><b>Green Market: Live Light, Go Green (For Kids)</b></a></td>
 
         <td> Introduce your child to eco-friendly ways of living through fun activities and storytelling sessions at Green Market: Live Light, Go Green.</td>
 
@@ -151,11 +145,9 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 
       </tr>
 
-  
-
 <tr>
 
-<td><a target="\_blank" href="https://www.eventbrite.sg/e/say-no-to-food-waste-tickets-395749506427?aff=odcleoeventsincollection"><b> Say No to Food Waste </b></a></td>
+<td><a target="blank" href="https://www.eventbrite.sg/e/say-no-to-food-waste-tickets-395749506427?aff=odcleoeventsincollection"><b> Say No to Food Waste </b></a></td>
 
          <td>  Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. 
 
@@ -168,7 +160,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
       </tr>
 	<tr>
 
-<td><a target="\_blank" href="https://www.eventbrite.sg/e/budding-scientists-lets-play-with-polygons-tickets-395760529397?aff=odcleoeventsincollection"><b> Budding Scientists: Let's Play with Polygons!</b></a></td>
+<td><a target="blank" href="https://www.eventbrite.sg/e/budding-scientists-lets-play-with-polygons-tickets-395760529397?aff=odcleoeventsincollection"><b> Budding Scientists: Let's Play with Polygons!</b></a></td>
 
         <td> Bring your child into the wonderful world of pretty polygons and they will discover that these shapes have been around them all this while. They will jiggle, read and rhyme to some fun Shape songs.
 
