@@ -69,7 +69,6 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 	<td> </td>
 	<td> </td>
       </tr>
-			
 <tr>
 	<td><a href="/digital/preschoolers/content" target="_blank"><b>Understanding Screen Time for Young Children</b></a></td>
 	<td>Video resources to help parents understand more about screen time for children.</td>
@@ -100,7 +99,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
               <td>Sep 3 2022<br>2.30pm – 3.30pm<br></td>
               <td>Jurong Regional Library </td>
 			</tr>
-							<tr>
+			<tr>
               <td><a target="blank" href="https://www.eventbrite.sg/e/cubroid-building-and-playing-i-discovertech-tickets-396951441447?aff=odcleoeventsincollection"><b>Cubroid Building and Playing I DiscoverTech </b></a></td>
               <td>Participants will be using Cubroid blocks to build their very own moveable ambulance model through a coding app that they can download. This parent-child session is suitable for preschoolers aged 4 to 6 years old.  </td>
               <td>Sep 17 2022<br>11.30am - 12.30pm<br></td>
@@ -124,7 +123,6 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
       </tr>
 			</thead>
 		<tbody>
-
 			<tr>
 <td><a target="blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
 
