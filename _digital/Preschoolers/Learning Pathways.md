@@ -99,6 +99,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
               <td>  Come build a robot with us using LEGO®’s WEDO platform and learn how gears, motors, and sensors work in this series of 'Robo Coder' sessions. With a bit of coding, watch your robot creations come to life! You will also get a chance to programme a screen-free coding robot, BOTLEY, and use it to accomplish fun and challenging missions, all the while learning about fundamental coding concepts. This parent-child session is suitable for preschoolers aged 4 to 6 years old.  </td>
               <td>Sep 3 2022<br>2.30pm – 3.30pm<br></td>
               <td>Jurong Regional Library </td>
+			</tr>
 							<tr>
               <td><a target="blank" href="https://www.eventbrite.sg/e/cubroid-building-and-playing-i-discovertech-tickets-396951441447?aff=odcleoeventsincollection"><b>Cubroid Building and Playing I DiscoverTech </b></a></td>
               <td>Participants will be using Cubroid blocks to build their very own moveable ambulance model through a coding app that they can download. This parent-child session is suitable for preschoolers aged 4 to 6 years old.  </td>
