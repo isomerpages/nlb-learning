@@ -98,7 +98,12 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
               <td>3 Sep 2022<br>11.15am - 12.15pm<br></td>
               <td>Pasir Ris Public Library  </td>
 		</tr>
-		
+				<tr>
+              <td><a target="blank" href="https:///www.eventbrite.sg/e/lets-get-looping-discovertech-tickets-395717781537?aff=odcleoeventsincollection)"><b> Let's Get Looping | discoverTech</b></a></td>
+              <td> Join us in this basic introductory precoding programme where preschoolers will learn about the use of loops in coding.</td>
+              <td>3 Sep 2022<br>11.15am - 12.15pm<br></td>
+              <td>Pasir Ris Public Library  </td>
+		</tr>
 <tr>
               <td><a target="blank" href="https://www.eventbrite.sg/e/robo-coder-tickets-383791981147?aff=odcleoeventsincollection"><b> Robo Coder  </b></a></td>
               <td>  Come build a robot with us using LEGO®’s WEDO platform and learn how gears, motors, and sensors work in this series of 'Robo Coder' sessions. With a bit of coding, watch your robot creations come to life! You will also get a chance to programme a screen-free coding robot, BOTLEY, and use it to accomplish fun and challenging missions, all the while learning about fundamental coding concepts. This parent-child session is suitable for preschoolers aged 4 to 6 years old.  </td>
@@ -108,6 +113,7 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 		</tbody>
 	</table>
 </div>
+
 
 			
 <div class="horizontal-scroll margin--bottom--lg">
