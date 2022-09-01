@@ -148,3 +148,15 @@ Check out these resources to help you gain some understanding of the five-foot-w
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-vanishing-trades"><b>Five-Foot-Way Traders</b></h5>
 
+<p><a href=[https://eresources.nlb.gov.sg/infopedia/articles/SIP\_105\_2005-01-04.html](https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html)\> Five-foot-way traders </a> were largely craftsmen who conducted their businesses along covered shophouse walkways. The name “five-foot-way” refers to the original stipulation that the walkways be five feet wide. The walkways, which originated in Malaya during the early 19th century, were meant to protect pedestrians from the elements. Due to the movement of peoples throughout the 19th-20th century, this architectural feature can be found in Singapore, Indonesia, Malaysia, and China.</p>
+
+<p>In Singapore, the five-foot-way traders engaged in trading inexpensive commodities (such as selling newspapers or food items)—and services (this included roadside barbers, shoe shining, locksmiths, fortune tellers, letter writing, traditional medicine healing, and knife sharpening to name a few). These trades started propping up when the influx of migrants to Singapore found it difficult to find work. Some began to use the corridors to set up these small businesses and paid rent to the shopkeeper. By the mid-1970s, as Singapore became more industrialized and these traders became older, some of these trades were either in decline or had moved into proper retail areas. </p>
+<table border="1">
+            <tbody><tr>
+                       <td>
+<h4>Did you know...</h4>
+<ul> Singapore Post released a special stamp set on vanishing trades in Singapore in 2013. The set featured the kacang putih man, the parrot astrologer, and the knife sharpener. (<a href=”[https://www.todayonline.com/singapore/special-stamps-preserve-memory-singapores-vanishing-trades](https://www.todayonline.com/singapore/special-stamps-preserve-memory-singapores-vanishing-trades)”\>source</a>)</li>
+</ul>
+</td>
+</tr></tbody></table>
+<p>These curated set of articles and books will give you a better understanding of five foot way traders in Singapore.</p>
