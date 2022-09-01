@@ -56,11 +56,13 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
+	</div>
 	
 <h3><b>Playlist</b></h3>
-A collection of short videos or selected podcasts, exploring topics around Singapore’s national symbols.
+A collection of short videos or selected podcasts, exploring topics around Singapore’s vanishing trades.
 
 <h5 class="margin--bottom--lg" id="vanishing-trades"><b>Playlist: Five-Foot Way Traders</b></h5>
 The term “five-foot-way” refers to the veranda area in front of shophouses. During the colonial period, due to the lack of available jobs, some immigrants to Singapore set up small one-person businesses in these areas, selling food items—such as street hawkers and the kacang putih man—or services—such as letter writers, cobblers, and street barbers. There were also entertainers, such as snake charmers. As Singapore grew to become more industrialized in the 1970s and these tradesmen grew older, some trades started to sunset due to a lack of successors, a lack of interest in the profession, and/or low income. Other street trades moved into proper premises.
 
-Check out these resources to help you gain some understanding of five-foot-way traders in Singapore.
+Check out these resources to help you gain some understanding of the five-foot-way traders in Singapore.
+
