@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /science/Preschoolers/learning-pathways
+permalink: /science/Preschoolers/learning-pathways/
 description: ""
 third_nav_title: Preschoolers
 ---
@@ -131,20 +131,31 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
 			<tr>
         <th colspan="4" class="is-uppercase has-weight-normal">
 Explore Programmes</th>
-<tr>
-
+		<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/family-fun-time-at-the-library-tickets-396398417337?aff=odcleoeventsincollection"><b> Family Fun Time At The Library </b></a></td>
+        <td>Family Fun Time is an interactive parent-and-child programme that includes fun, educational hands-on activity and suitable for children of 3 to 6 years old. Parents are engaged with practical knowledge and tips on the importance of healthy living as a family and what they can do to raise healthy children. </td>
+        <td>3 Sep 2022<br>2.00pm – 3.30pm<br></td>
+        <td>library@harbourfront (Programme Zone 1 & 2)</td>
+  					</tr>
+			<tr>
 <td><a target="\_blank" href="https://www.eventbrite.sg/e/budding-scientists-lets-play-with-polygons-tickets-395760529397?aff=odcleoeventsincollection"><b> Budding Scientists: Let's Play with Polygons!</b></a></td>
-
         <td> Bring your child into the wonderful world of pretty polygons and they will discover that these shapes have been around them all this while. They will jiggle, read and rhyme to some fun Shape songs.
-
 </td>
-
         <td>7 Sep 2022<br>1.30pm– 2.30pm<br></td>
-
         <td>Jurong Regional Library</td>
-
       </tr>
-			
+					<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-science-explorers-colours-balance-tickets-395686397667?aff=odcleoeventsincollection"><b> Budding Scientists: Science Explorers - Colours & Balance</b></a></td>
+        <td>What are primary or secondary colours, what makes black, and how can you balance a plate in a stick? Discover more with Ms. Jonnansical Boo in these hands-on science projects that will bring you and your child so much fun! Explore colours and stability in simple experiments that you can do at home with Mummy and Daddy!</td>
+        <td>7 Sep 2022<br>2.30pm – 4.30pm<br></td>
+        <td>Bukit Batok Public Library</td>
+  					</tr>
+			<tr>
+<td><a target="blank" href="https://www.eventbrite.sg/e/budding-engineers-gears-pulleys-tickets-395752756147?aff=odcleoeventsincollection"><b>Budding Engineers: Gears & Pulleys</b></a></td>
+        <td> Learn about the physics of transferring energy through motion. This program introduces children how gears and pulleys is applicable in our daily lives through interactive activities and hands-on learning.Learn about the gears and pulleys, in this activity session for parent and child (aged 4-6 years old).</td>
+       <td>9 Sep<br>11.30am – 12.30pm<br></td>
+        <td>Tampines Regional Library </td>
+      </tr>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
