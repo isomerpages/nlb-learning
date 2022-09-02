@@ -180,19 +180,19 @@ Source: Thulaja, Naidu Ratnala. <a href=”https://eresources.nlb.gov.sg/infoped
 <h5>Vanishing Trades of Singapore</h5>
 Lo-Ang Siew Ghim and Chua Chee Huan (Eds.). (199). <i> Vanishing Trades of Singapore.</i> Singapore: Oral History Department. (Call no.: RSING 338.642095957 VAN)
 <br>
-<img src="/images/Singapore%20Vanishing%20Trades/vanishing-trades-of-singapore.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Vanishing%20Trades/vanishing-trades-of-singapore.png" style="width:200px;">
 <p> Written in both English and Chinese, this book is a key resource that outlines 20 vanishing trades based on oral interviews. As some oral interviews were given in non-English languages, this may be the most accessible way for readers to learn about the various five-foot-way traders. Included in the book are occupations such as the letter writer, parrot astrologer, and snake charmer. </p>
 
 <h5> Vanishing Trades: A Catalogue of Oral History Interviews</h5>
 Oral History Department. (1992). <i> Vanishing Trades: A Catalogue of Oral History Interviews.</i> Singapore: Oral history Department. (Call no.: RSING 016.338642095957 SIN)
 <br>
-<img src="/images/Singapore%20Vanishing%20Trades/vanishing-trades-catalogue-oral-history.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Vanishing%20Trades/vanishing-trades-catalogue-oral-history.png" style="width:200px;">
 <p>This catalogue by the Oral History Department is a summary of the 112 persons interviewed from over 70 different types of trades. The five-foot-way traders include the cobbler; the fortune teller; kacang putih seller; and letter writer cum calligrapher. One of the supplementary tapes contains an interview with a snake charmer. As many of the interviews were given in non-English languages, this is a useful resource.</p>
 
 <h5> Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment</h5>
 Brenda S. A. Yeoh. (2013). <i>Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment</i>. Singapore: NUS Press, 243-280. (Call no.: RSING 307.76095957 YEO)
 <br>
-<img src="/images/Singapore%20Vanishing%20Trades/contesting-space-in-colonial-singapore.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Vanishing%20Trades/contesting-space-in-colonial-singapore.png" style="width:200px;">
 <p>In the chapter on “The Control of ‘Public’ Space: Conflicts over the Definition and Use of the Verandah,” Brenda Yeoh dives deep into the issues regarding the use of five-foot-ways as public space during the colonial period. The shop owners and five-foot-way traders who used the space for goods and services were at odds with the municipal government, who saw the space as a public thoroughfare that needed to be kept clear for pedestrian use.</p>
 
 <h5>A Blink in Time: Memories of Singapore’s Vanishing Past</h5>
