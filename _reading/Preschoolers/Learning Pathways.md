@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /reading/preschoolers/learning-pathways
+permalink: /reading/preschoolers/learning-pathways/
 description: ""
 third_nav_title: Preschoolers
 ---
@@ -135,10 +135,14 @@ This programme is intended for parents with babies up to 12 months.</td>
         <td>library@harbourfront </td>
       </tr>
 					  
-<tr>           
-<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-urban-farming-farm-to-table-tickets-404507582067?aff=odcleoeventsincollection"><b> Caring for the Environment | Urban Farming: Farm to Table</b></a></td>
+			<tr>           
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-urban-farming-farm-to-table-tickets-411848198047?aff=ebdsoporgprofile"><b> Caring for the Environment | Urban Farming: Farm to Table</b></a></td>
 
-        <td> In this hands-on workshop, your child will learn about being food conscious through interactive activities.</td><td>11 Sep 2022<br>11.00am–12.00pm<br></td><td> Bedok Public Library </td>
+        <td> “All big things come from small beginnings.” — James Clear<br><br>Welcome to the amazing world of Urban Farming!<br>
+During this hands-on workshop, your child will learn about being food conscious through interactive activities, like crafts, a stimulating sensory experience, and a storytelling of a classic book!<br><br>
+What will your child be creating that day?
+<br>
+Let’s have a look at the craft https://go.gov.sg/farmtotableatbedok </td><td>11 Sep 2022<br>11.00am–12.00pm<br></td><td> Bedok Public Library </td>
       </tr>
 			
   </tbody>
