@@ -208,6 +208,12 @@ Let’s have a look at the craft [https://go.gov.sg/farmtotableatbedok](https:/
         <td>Choa Chu Kang Public Library and Zoom </td>
 
       </tr>
+				<tr>
+              <td><a target="blank" href="https://www.eventbrite.sg/e/think-like-a-coder-lets-play-robot-discovertech-tickets-395731472487?aff=odcleoeventsincollection"><b>Think Like a Coder: Let's Play Robot | discoverTech</b></a></td>
+              <td>Participants will be using Cubroid blocks to build their very own moveable ambulance model through a coding app that they can download. This parent-child session is suitable for preschoolers aged 4 to 6 years old.  </td>
+              <td>Sep 24 2022<br>11.30am - 12.30pm<br></td>
+              <td>Pasir Ris Public Library </td>
+								</tr>
     </tbody>
   </table>
 </div>
