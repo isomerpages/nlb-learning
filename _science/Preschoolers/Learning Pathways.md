@@ -198,7 +198,7 @@ Explore Programmes</th>
 During this hands-on workshop, your child will learn about being food conscious through interactive activities, like crafts, a stimulating sensory experience, and a storytelling of a classic book!<br><br>
 What will your child be creating that day?
 <br>
-Let’s have a look at the craft [https://go.gov.sg/farmtotableatbedok](https://go.gov.sg/farmtotableatbedok)</td><td>11 Sep 2022<br>11.00am–12.00pm<br></td><td> Bedok Public Library </td>
+Let’s have a look at the craft https://go.gov.sg/farmtotableatbedok </td><td>11 Sep 2022<br>11.00am–12.00pm<br></td><td> Bedok Public Library </td>
       </tr>
 			<tr>
 <td><a target="\_blank" href="https://www.eventbrite.sg/cc/green-market-live-light-go-green-for-kids-1058439"><b>Green Market: Live Light, Go Green (For Kids)</b></a></td>
