@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /sustainability/preschoolers/learning-pathways
+permalink: /sustainability/preschoolers/learning-pathways/
 description: ""
 third_nav_title: Preschoolers
 ---
@@ -81,25 +81,50 @@ Check out the video resources below to help your child understand the roles of t
       </tr>
     </thead>
     <tbody>
-			<tr>
-<td><a target="\_blank" href="https://www.eventbrite.sg/e/from-seed-to-harvest-ii-tickets-373798861457?aff=ebdsoporgprofile"><b> Arise & Farm: Engaging Communities - From Seed to Harvest II </b></a></td>
-        <td> This session immerses children in the process of farming, through a guided exhibit tour and tactile hands-on activities. Participants get to learn each step of the farming process which includes seed sowing, transplant, grow-out and harvest. This programme is suitable for children aged 4-6 yrs old.</td>
-        <td>July 30 2022<br>2.00pm – 3.00pm<br></td>
-        <td>Bishan Public Library  </td>
+				<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-learn-about-hydroponics-tickets-395750288767?aff=odcleoeventsincollection"><b> [Caring for the Environment] Learn about Hydroponics! </b></a></td>
+        <td>What are some alternative ways of growing plants at home or in the community? Join us in this interactive workshop for an introduction to hydroponics for the whole family! This programme is for parents and children (aged 4 to 6 years old). The programme will include viewing Choa Chu Kang Public Library’s hydroponics showcase.</td>
+        <td>3 Sep 2022<br>11.00am – 12.00pm<br></td>
+        <td>Choa Chu Kang Public Library – Programme Room 1 & 2 (Level 4)</td>
+  					</tr>
+		<tr>
+<td><a target="blank" href="https://www.eventbrite.sg/e/say-no-to-food-waste-tickets-395749506427?aff=odcleoeventsincollection"><b> Say No to Food Waste </b></a></td>
+         <td>  Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. 
+ </td>
+        <td>10 Sep 2022<br>2.00pm–3.00pm<br></td>
+        <td>library@harbourfront </td>
+			</tr> 
+				<tr>           
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-urban-farming-farm-to-table-tickets-411848198047?aff=ebdsoporgprofile"><b> Caring for the Environment | Urban Farming: Farm to Table</b></a></td>
+
+        <td> “All big things come from small beginnings.” — James Clear<br><br>Welcome to the amazing world of Urban Farming!<br>
+During this hands-on workshop, your child will learn about being food conscious through interactive activities, like crafts, a stimulating sensory experience, and a storytelling of a classic book!<br><br>
+What will your child be creating that day?
+<br>
+Let’s have a look at the craft [https://go.gov.sg/farmtotableatbedok](https://go.gov.sg/farmtotableatbedok)</td><td>11 Sep 2022<br>11.00am–12.00pm<br></td><td> Bedok Public Library </td>
       </tr>
+					
 			<tr>
-<td><a target="\_blank" href="https://www.eventbrite.sg/e/the-world-of-plants-ii-tickets-373799673887?aff=ebdsoporgprofile"><b> Arise & Farm: Engaging Communities - The World of Plants II </b></a></td>
-        <td> This session teaches young children on basic plant biology on lifecycles, systems and plant diversity, which they learn through interacting with the exhibits and handicraft. This programme is suitable for children aged 4-6 yrs old.</td>
-        <td>July 30 2022<br>3.30pm – 4.30pm<br></td>
-        <td>Bishan Public Library  </td>
-      </tr>
-			
-<tr>
-              <td><a target="blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-sustainability-at-home-tickets-383874187027?aff=odcleoeventsincollection"><b> [Caring for the Environment] Sustainability at Home  </b></a></td>
-              <td>  What are some simple ways we can be more sustainable at home? Can children also play a part in being sustainable? Join us in this interactive workshop sharing tips and activities to start green-living habits for the whole family! This programme is for parents and children (aged 4 to 6 years old).  </td>
-              <td>Aug 6 2022<br>2.00pm – 3.00pm<br></td>
-              <td>   Toa Payoh Public Library (Programme Zone Level 3)   </td>
-			</tr>
+<td><a target="blank" href="https://www.eventbrite.sg/cc/green-market-live-light-go-green-for-kids-1058439"><b>Green Market: Live Light, Go Green (For Kids)</b></a></td>
+
+        <td> Introduce your child to eco-friendly ways of living through fun activities and storytelling sessions at Green Market: Live Light, Go Green.</td>
+
+       <td>17 – 18 Sep<br>11am – 8pm<br></td>
+
+        <td>Choa Chu Kang Public Library and Zoom </td>
+      </tr>
+				<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/from-seed-to-harvest-ii-tickets-392357039467?aff=odcleoeventsincollection"><b> Arise & Farm From Seed To Harvest II </b></a></td>
+        <td>This session immerses children in the process of farming, through a guided exhibit tour and tactile hands-on activities. Participants get to learn each step of the farming process which includes seed sowing, transplant, grow-out and harvest. This programme is suitable for children aged 4-6 yrs old.</td>
+        <td>17 Sep 2022<br>2.00pm – 3.00pm<br></td>
+        <td>Bishan Public Library</td>
+  					</tr>
+				<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/the-world-of-plants-ii-tickets-395666809077?aff=odcleoeventsincollection"><b> Arise & Farm The World Of Plants II</b></a></td>
+        <td>This session teaches young children on basic plant biology on lifecycles, systems and plant diversity, which they learn through interacting with the exhibits and handicraft. This programme is suitable for children aged 4-6 yrs old.</td>
+        <td>17 Sep 2022<br>3.30pm – 4.30pm<br></td>
+        <td>Bishan Public Library</td>
+  					</tr>
     </tbody>
   </table>
 </div>
