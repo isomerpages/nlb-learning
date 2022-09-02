@@ -170,11 +170,11 @@ Source: Lim, Fiona. <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-de
 
 <p> Sharon Teng describes some useful resources regarding vanishing trades as well as what is being done to remember them. The five-foot-way traders that are discussed in the article are cobblers, fortune tellers, ice-ball sellers, kacang putih sellers, letter writers, and street barbers.</p>
 
-Source: Teng, Sharon. <a href=”https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-march-2014/forgotten-trades-singapore” target=”_blank”>”Time-forgotten Trades</a>, <i>BiblioAsia</i> 9(4) (January-March 2014). Retrieved 2022, September 1.
+Source: Teng, Sharon. <a href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-march-2014/forgotten-trades-singapore” target="_blank”>”Time-forgotten Trades</a>, <i>BiblioAsia</i> 9(4) (January-March 2014). Retrieved 2022, September 1.
 
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html" target="_blank">Five-foot-way traders by Thulaja, Naidu Ratnala</a></h5>
 <p>Thulaja gives a short history of five-foot-ways before giving some resource links for knife sharpeners, roadside barbers, mask makers, fortune tellers, locksmiths, letter writers, traditional medicine men, newspaper vendors, storytellers, tinsmiths, hair-bun makers, stool makers, garland makers, stamp dealers, and food vendors.</p>
-Source: Thulaja, Naidu Ratnala. <a href=”https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html)” target=”_blank”>Five-foot-way traders</a>. (2016). <i>Singapore Infopedia.</i> Retrieved, 2022 September 1.
+Source: Thulaja, Naidu Ratnala. <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html" target="_blank">Five-foot-way traders</a>. (2016). <i>Singapore Infopedia.</i> Retrieved, 2022 September 1.
 
 <h4>Books</h4>
 <h5>Vanishing Trades of Singapore</h5>
@@ -198,7 +198,7 @@ Brenda S. A. Yeoh. (2013). <i>Contesting Space in Colonial Singapore: Power Rela
 <h5>A Blink in Time: Memories of Singapore’s Vanishing Past</h5>
 Chew, Angela, Ricky Gui, and Jason Leong, (2016). <i>A Blink in Time: Memories of Singapore’s Vanishing Past</i> Singapore: Studio Ink Asia Pte Ltd. (Call no.: RSING 959.5705 CHE)
 <br>
-<img src="/images/Singapore%20Vanishing%20Trades/a-blink-in-time.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Vanishing%20Trades/a-blink-in-time.png" style="width:200px;">
 <p>This coffee table book is meant to capture anecdotes and provide some pictures of Singapore’s vanishing past. There is a section in the book named “Under the Sun” where cobblers, the kacang putih seller, the street barber, parrot fortune teller, and koyok seller are shown. This book would be suitable for sharing with younger readers as the anecdotes are short and sweet, and the images are vibrant.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
