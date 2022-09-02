@@ -155,7 +155,7 @@ Check out these resources to help you gain some understanding of the five-foot-w
             <tbody><tr>
                        <td>
 <h4>Did you know...</h4>
-<ul> Singapore Post released a special stamp set on vanishing trades in Singapore in 2013. The set featured the kacang putih man, the parrot astrologer, and the knife sharpener. (<a href="https://www.todayonline.com/singapore/special-stamps-preserve-memory-singapores-vanishing-trades">source</a>)</li>
+<ul><li> Singapore Post released a special stamp set on vanishing trades in Singapore in 2013. The set featured the kacang putih man, the parrot astrologer, and the knife sharpener. (<a href="https://www.todayonline.com/singapore/special-stamps-preserve-memory-singapores-vanishing-trades">source</a>)</li>
 </ul>
 </td>
 </tr></tbody></table>
