@@ -142,6 +142,15 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
         <td>10 Sep 2022<br>2.00pm–3.00pm<br></td>
         <td>library@harbourfront </td>
 			</tr> 
+				<tr>           
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-urban-farming-farm-to-table-tickets-411848198047?aff=ebdsoporgprofile"><b> Caring for the Environment | Urban Farming: Farm to Table</b></a></td>
+
+        <td> “All big things come from small beginnings.” — James Clear<br><br>Welcome to the amazing world of Urban Farming!<br>
+During this hands-on workshop, your child will learn about being food conscious through interactive activities, like crafts, a stimulating sensory experience, and a storytelling of a classic book!<br><br>
+What will your child be creating that day?
+<br>
+Let’s have a look at the craft [https://go.gov.sg/farmtotableatbedok](https://go.gov.sg/farmtotableatbedok)</td><td>11 Sep 2022<br>11.00am–12.00pm<br></td><td> Bedok Public Library </td>
+      </tr>
 						<tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-395775173197?aff=odcleoeventsincollection"><b> Children's Puppet Castle </b></a></td>
         <td>Join us for a puppet show performed by Puppet Masters Arii Azharii and Christopher Chow. He will be performing two stories, Who Can Bring Back the Sun? and The Big Bully. Learn more about performance techniques through this exciting performance!</td>
