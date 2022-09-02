@@ -64,8 +64,8 @@ Singapore history and heritage are steeped in our everyday lives without us bein
   </div>
 	 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="/singapore/Adults/National-Symbol">
-        <span>Content - National Symbol</span>
+      <a href="/singapore/Adults/National-Symbols">
+        <span>Content - National Symbols</span>
       </a>
     </div>
   </div>
