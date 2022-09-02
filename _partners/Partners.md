@@ -1,6 +1,6 @@
 ---
 title: Partners
-permalink: /partners
+permalink: /partners/
 description: ""
 ---
 <style type="text/css">
@@ -147,6 +147,15 @@ Having gained understanding in the economical, social, and psychological needs o
 <td>Zoom</td>
 </tr>
 
+<tr><td><strong><a href="https://www.eventbrite.sg/e/planning-for-your-career-progression-get-professional-tickets-401115225437" target="_blank">Planning for Your Career Progression | Get Professional</a></strong></td>
+
+<td>As you embark in your new career journey, be it as a fresh graduate or making a mid-career change, do you know what is expected of your new role and how well are you doing? Do you have a plan in place to identify and build your competencies, in order for you to learn, perform well, and establish yourself in new role?<br><br>
+
+In this workshop, you will be guided on how to set SMART goals and have the conversation you need with your immediate supervisor, so that you can recognise your competencies, plus your areas for improvement, and come out with a strategy to build and develop your capabilities. By working on your individual career strategy, you will eventually be able to perform well in your new role, build relevant working experiences, and climb the corporate ladder.</td>
+<td>8 Sept 2022, 7pm – 8.30pm </td>
+<td>Zoom</td>
+</tr>	
+	
 </tbody></table>
 <br>
 <br>
