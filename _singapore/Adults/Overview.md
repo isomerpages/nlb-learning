@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /singapore/Adults/overview
+permalink: /singapore/Adults/overview/
 description: ""
 third_nav_title: Adults
 ---
@@ -62,7 +62,20 @@ Singapore history and heritage are steeped in our everyday lives without us bein
       </a>
     </div>
   </div>
-	
+	 <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/singapore/Adults/National-Symbol">
+        <span>Content - National Symbol</span>
+      </a>
+    </div>
+  </div>
+	 <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/singapore/Adults/Vanishing-Trades">
+        <span>Content - Vanishing Trades</span>
+      </a>
+    </div>
+  </div>
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="/singapore/adults/programmes">
