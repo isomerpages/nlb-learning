@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /digital/tweens/learning-pathways
+permalink: /digital/tweens/learning-pathways/
 description: ""
 third_nav_title: Tweens
 ---
@@ -58,43 +58,18 @@ Spark your child’s curiosity in digital literacy through engaging activities a
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>Book Orators</b></a></td>
-        <td>Learn about some amazing inventions and how they influenced our world today and the technology we use in our everyday lives!</td>
-        <td>13 March 2022,<br>10am - 11am</td>
-        <td>Zoom</td>
+        <td><a href="https://www.eventbrite.sg/e/sphero-party-jurong-regional-library-tweenkerama-tickets-400591037577?aff=ebdssbdestsearch" target="_blank"><b>Sphero Party</b></a></td>
+        <td>Learn how to navigate Sphero using a block-based programming language in this workshop!</td>
+        <td>10 Sept 2022,<br>2pm - 4pm</td>
+        <td>Jurong Regional Library</td>
       </tr>
 			<tr>
-        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>My Art Buddy | Dancing Orchids
-</b></a></td>
-        <td>Experimenting with new prototyping tools and processes, including using recyclable materials and coding kit – children will learn to use connectors and straws to build a pyramid vase and a flower with movement and lights.
-</td>
-        <td>16 March 2022,<br>10am - 12:30pm</td>
-        <td>Bishan Public Library</td>
-      </tr>
-			<tr>
-        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>My Art Buddy | Singapore Flyer
-</b></a></td>
-        <td>Experimenting with new prototyping tools and processes, including using recyclable materials and coding kit – children will learn to build a small Singapore Flyer-esque structure with rotating wheels.
-</td>
-        <td>17 March 2022,<br>10am - 1pm</td>
-        <td>Toa Payoh Public Library</td>
-      </tr>
-			<tr>
-        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>TinkerWorks: Explore Nature 
-</b></a></td>
-        <td>Get inspired to learn more about the environment around us through a book discussion and tinkering activities in our libraries!<br><br>This programme is part of a series of sustainability themed events for tweens. 
-</td>
-        <td>17 March 2022,<br>1pm - 2:15pm</td>
-        <td>Queenstown Public Library</td>
-      </tr>
-			<tr>
-        <td><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>Unicorn Adventures: The Dark Forest
-</b></a></td>
-        <td>Join Shriya Sharma, the young author of the book “Unicorn Adventures: The Dark Forest”, at this exciting event. <br><br>In this session, Shriya will talk about her book, her motivation, and challenges she overcame to write her debut book.
-</td>
-        <td>19 March 2022,<br>11am - 12pm</td>
-        <td>library@harbourfront</td>
-      </tr>
+<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/steamlab2022/#steam-lab-mini-videos" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
+<td style="width: 40%;">Build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. </td>
+<td style="width: 20%;">Sept’22</td>
+<td style="width: 20%;">YouTube</td>
+</tr>
+
 		</tbody>
   </table>
 </div>
@@ -107,13 +82,19 @@ Spark your child’s curiosity in digital literacy through engaging activities a
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
-        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
-Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank">Public Libraries Singapore’s Facebook page</a> to be notified when the videos go live.</td>
-        <td style="width: 20%;">Mar 2022</td>
-        <td style="width: 20%;">Facebook</td>
-      </tr>
+              <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-ansi-language:EN-GB; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+<tr>
+
+<td><a href="https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=odcleoeventsincollection" target="\_blank"><b>Renewable Resource and Recycling Talk</b></a></td>
+
+<td>Join us in this introductory Japanese class for beginners! Learn simple greetings, Japanese writing systems, and how to converse every day!</td>
+
+<td>9 Sept 2022,<br>10:30am - 12pm</td>
+
+<td>Jurong Regional Library</td>
+
+</tr>
     </tbody>
   </table>
 </div>
