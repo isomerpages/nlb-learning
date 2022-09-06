@@ -90,7 +90,7 @@ Spark your child’s curiosity in digital literacy through engaging activities a
 
 <td>As part of the Tweenkerama | Sustainability series, win prizes with your knowledge about recycling!</td>
 
-<td>9 Sept 2022,<br>10:30am - 12pm</td>
+<td>8 Sept 2022,<br>2:30pm - 3:30pm</td>
 
 <td>Jurong Regional Library</td>
 
