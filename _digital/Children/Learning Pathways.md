@@ -79,22 +79,23 @@ Go digital with your child and discover a world of technology and innovation tog
     </thead>
 <tbody>
 <tr>
-<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/easy-coffee-art-jurong-regional-library-steam-lab-2022-tickets-401604528957?aff=odcleoeventsincollection" target="_blank"><b>Easy Coffee Art</b></a></td>
-<td style="width: 40%;">Join our Easy Coffee Art workshop at Jurong Regional Library and have an aromatic day doing coffee painting!</td>
-<td style="width: 20%;">9 Sept 2022, <br>4pm - 5pm</td>
-<td style="width: 20%;">Jurong Regional Library</td>
-</tr>
-<tr>
 <td><a href="https://www.eventbrite.sg/e/basic-japanese-class-jurong-regional-library-steam-lab-2022-tickets-401604007397?aff=ebdshpsearchautocomplete" target="_blank"><b>Basic Japanese Class</b></a></td>
 <td>Join us in this introductory Japanese class for beginners! Learn simple greetings, Japanese writing systems, and how to converse every day!</td>
 <td>9 Sept 2022,<br>10:30am - 12pm</td>
 <td>Jurong Regional Library</td>
 </tr>
+	<tr>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/easy-coffee-art-jurong-regional-library-steam-lab-2022-tickets-401604528957?aff=odcleoeventsincollection" target="_blank"><b>Easy Coffee Art</b></a></td>
+<td style="width: 40%;">Join our Easy Coffee Art workshop at Jurong Regional Library and have an aromatic day doing coffee painting!</td>
+<td style="width: 20%;">9 Sept 2022, <br>4pm - 5pm</td>
+<td style="width: 20%;">Jurong Regional Library</td>
+</tr>
+
 <tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>CCKPL: Urban Farming Hydroponics Workshop </b></a></td>
-<td>Join VertiVegies as they take you on a journey into the dynamic world of modern agriculture.</td>
-<td>11 March 2022, 3:30-5:30pm</td>
-<td>Choa Chu Kang Public Library</td>
+<td><a href="https://www.eventbrite.sg/e/bullet-journaling-workshop-jurong-regional-library-steam-lab-2022-tickets-401603004397?aff=ebdshpsearchautocomplete" target="_blank"><b>Bullet Journalling Workshop </b></a></td>
+<td>Join us in this 2-hour workshop and learn the basics of bullet journaling, how to set up your journal and how to use it to be more organised.</td>
+<td>11 Sept 2022,<br>2:30pm - 4:30pm</td>
+<td>Jurong Regional Library</td>
 </tr>
 </tbody>
 </table>
