@@ -77,7 +77,7 @@ Stay tuned for more updates.</td>
 <tr>
 <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/sphero-party-jurong-regional-library-tweenkerama-tickets-400591037577?aff=odcleoeventsincollection"> <b> Sphero Party | Jurong Regional Library | Tweenkerama </b></td>
         <td>  The Sphero BOLT is an app-enabled robotic ball that provides endless opportunities to have fun while learning. In this workshop, participants will learn to handle, navigate, and program Sphero using a block-based programming language on phones or tablets.<br></td>
-	   <td style="width: 40%;">10 Sep 2022, 4pm - 6pm</td>
+	   <td style="width: 40%;">10 Sep 2022, 2pm - 4pm</td>
 				
 <td> </td>
 				
