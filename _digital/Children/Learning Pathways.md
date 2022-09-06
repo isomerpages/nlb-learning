@@ -79,7 +79,7 @@ Go digital with your child and discover a world of technology and innovation tog
     </thead>
 <tbody>
 <tr>
-<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama%20" target="_blank"><b>Easy Coffee Art</b></a></td>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/easy-coffee-art-jurong-regional-library-steam-lab-2022-tickets-401604528957?aff=odcleoeventsincollection" target="_blank"><b>Easy Coffee Art</b></a></td>
 <td style="width: 40%;">Join our Easy Coffee Art workshop at Jurong Regional Library and have an aromatic day doing coffee painting!</td>
 <td style="width: 20%;">9 Sept 2022, <br>4pm - 5pm</td>
 <td style="width: 20%;">Jurong Regional Library</td>
