@@ -65,7 +65,7 @@ Immerse yourself in the possibilities of science!
 " target="_blank"><b> S.T.E.A.M. Lab Mini </b></a></td>
         <td style="width: 40%;">Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.
 </td>
-        <td style="width: 40%;"> Sept 2022</td>
+        <td style="width: 40%;"> Sep 2022</td>
         <td>YouTube</td>
       </tr>
 <tr>
@@ -91,14 +91,22 @@ Immerse yourself in the possibilities of science!
 		
  <tbody>
 <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/steamlab2022/#steam-lab-mini-videos 
-" target="_blank"><b> S.T.E.A.M. Lab Mini </b></a></td>
-        <td style="width: 40%;">Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=odcleoeventsincollection
+" target="_blank"><b> Renewable Resource and Recycling Talk </b></a></td>
+        <td style="width: 40%;">Learn all about renewable resources and how to recycle right! Stand a chance to win attractive recycled and/or upcycled prizes during the quiz. This programme is suitable for tweens aged 10-13.
 </td>
-        <td style="width: 40%;"> Sept 2022</td>
-        <td>YouTube</td>
+        <td style="width: 40%;"> 8 Sep 2022</td>
+        <td>Jurong Regional Library</td>
       </tr>
 
+<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=odcleoeventsincollection
+" target="_blank"><b> Renewable Resource and Recycling Talk </b></a></td>
+        <td style="width: 40%;">Learn all about renewable resources and how to recycle right! Stand a chance to win attractive recycled and/or upcycled prizes during the quiz. This programme is suitable for tweens aged 10-13.
+</td>
+        <td style="width: 40%;"> 8 Sep 2022</td>
+        <td>Jurong Regional Library</td>
+      </tr>
 			
   </tbody>
   </table>
