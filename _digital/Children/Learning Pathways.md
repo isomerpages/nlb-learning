@@ -85,10 +85,10 @@ Go digital with your child and discover a world of technology and innovation tog
 <td style="width: 20%;">Jurong Regional Library</td>
 </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>MiniYOGI</b></a></td>
-<td>Have a fun and relaxing morning with your little ones through the story of Yoga. Breathe, stretch and do some yoga poses with the beautiful MiniYOGI cards.</td>
-<td>14 March 2022, 11:00-11:45am</td>
-<td>Zoom</td>
+<td><a href="https://www.eventbrite.sg/e/basic-japanese-class-jurong-regional-library-steam-lab-2022-tickets-401604007397?aff=ebdshpsearchautocomplete" target="_blank"><b>Basic Japanese Class</b></a></td>
+<td>Join us in this introductory Japanese class for beginners! Learn simple greetings, Japanese writing systems, and how to converse every day!</td>
+<td>9 Sept 2022,<br>10:30am - 12pm</td>
+<td>Jurong Regional Library</td>
 </tr>
 <tr>
 <td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>CCKPL: Urban Farming Hydroponics Workshop </b></a></td>
