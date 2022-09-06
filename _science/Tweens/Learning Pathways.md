@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /science/Tweens/learning-pathways
+permalink: /science/Tweens/learning-pathways/
 description: ""
 third_nav_title: Tweens
 ---
@@ -43,10 +43,9 @@ Explore the wonders of Science!
 <tbody>
       <tr>
         <td style="width: 20%;"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama"><b> S.T.E.A.M. Lab Mini </b></a></td>
-        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.
-Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
+        <td style="width: 40%;">Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.
 </td>
-        <td style="width: 40%;"> Feb’22 – Mar’22</td>
+        <td style="width: 40%;"> Sept 2022</td>
 <td> </td>
 <td> </td>
       </tr>
