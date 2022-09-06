@@ -69,19 +69,7 @@ Check out these resources that highlight new digital advancements and opportunit
 <td style="width: 20%;">Sept’22</td>
 <td style="width: 20%;">YouTube</td>
 </tr>
-			<tr>
-<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/explore-forensics-scienti-fx-teens-takeover-jurong-regional-library-tickets-401081243797?.aff=ebdsoporgprofile" target="\_blank"><b>Explore Forensics | scienti-f(x)</b></a></td>
-<td style="width: 40%;">Learn more about Forensic Science with fun-filled and interesting hands-on activities. </td>
-<td style="width: 20%;">7 Sept 2022,<br>4pm - 5:30pm</td>
-<td style="width: 20%;">Jurong Regional Library</td>
-</tr>
-					<tr>
-<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/create-a-superhydrophobic-coating-jurong-regional-library-tickets-401084553697?aff=ebdsoporgprofile" target="\_blank"><b>Create a Superhydrophobic Coating</b></a></td>
-<td style="width: 40%;">As part of the scienti-f(x) | Teens Takeover series, learn how to repel water with a superhydrophobic coating! </td>
-<td style="width: 20%;">8 Sept 2022,<br>11am - 12pm</td>
-<td style="width: 20%;">Jurong Regional Library</td>
-</tr>
-						</tbody>
+								</tbody>
   </table>
 </div> 
 	
@@ -93,7 +81,18 @@ Check out these resources that highlight new digital advancements and opportunit
       </tr>
     </thead>
     <tbody>
-      <tr>
+    	<tr>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/explore-forensics-scienti-fx-teens-takeover-jurong-regional-library-tickets-401081243797?.aff=ebdsoporgprofile" target="\_blank"><b>Explore Forensics | scienti-f(x)</b></a></td>
+<td style="width: 40%;">Learn more about Forensic Science with fun-filled and interesting hands-on activities. </td>
+<td style="width: 20%;">7 Sept 2022,<br>4pm - 5:30pm</td>
+<td style="width: 20%;">Jurong Regional Library</td>
+</tr>
+					<tr>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/create-a-superhydrophobic-coating-jurong-regional-library-tickets-401084553697?aff=ebdsoporgprofile" target="\_blank"><b>Create a Superhydrophobic Coating</b></a></td>
+<td style="width: 40%;">As part of the scienti-f(x) | Teens Takeover series, learn how to repel water with a superhydrophobic coating! </td>
+<td style="width: 20%;">8 Sept 2022,<br>11am - 12pm</td>
+<td style="width: 20%;">Jurong Regional Library</td>
+</tr>  <tr>
         <td style="width: 20%;"><a href=https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=ebdsoporgprofile" target="_blank"><b>Renewable Resource and Recycling Talk</b></a></td>
         <td style="width: 40%;">As part of the Tweenkerama | Sustainability series, win prizes with your knowledge about recycling!</td>
         <td style="width: 20%;">8 Sept 2022,<br>2:30pm - 3:30pm</td>
