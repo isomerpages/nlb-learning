@@ -69,10 +69,10 @@ Immerse yourself in the possibilities of science!
         <td>YouTube</td>
       </tr>
 <tr>
-<td><a href="http://go.gov.sg/get-professional-series" target="_blank"><b> [Get Professional series] Interview Skills</b></a></td>
-        <td> Be equipped with the skills to perform well at job interviews.</td>
-        <td>4 Feb 2022, <br>7pm – 9pm </td>
-        <td>Zoom</td>
+<td><a href="https://www.eventbrite.sg/e/explore-forensics-scienti-fx-teens-takeover-jurong-regional-library-tickets-401081243797?aff=odcleoeventsincollection" target="_blank"><b>Explore Forensics | scienti-f(x) | Teens Takeover @ Jurong Regional Library</b></a></td>
+        <td>Have you ever wondered what it’s like to be in the shoes of a Forensic Scientist? Learn more about Forensic Science with interesting hands-on activities.</td>
+        <td>7 Sep 2022, <br>4pm – 5.30pm </td>
+        <td>Jurong Regional Library</td>
       </tr>
 <tr>
 <td><b> WWF Explains: City in Nature</b></td>
