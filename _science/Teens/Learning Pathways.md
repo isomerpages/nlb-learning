@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /science/Teens/learning-pathways
+permalink: /science/Teens/learning-pathways/
 description: ""
 third_nav_title: Teens
 ---
@@ -61,27 +61,26 @@ Immerse yourself in the possibilities of science!
     </thead>
     <tbody>
 <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama 
+        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/steamlab2022/#steam-lab-mini-videos 
 " target="_blank"><b> S.T.E.A.M. Lab Mini </b></a></td>
-        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.
-Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
+        <td style="width: 40%;">Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.
 </td>
-        <td style="width: 40%;"> Feb’22 – Mar’22</td>
-        <td> </td>
+        <td style="width: 40%;"> Sep 2022</td>
+        <td>YouTube</td>
       </tr>
 <tr>
-<td><a href="http://go.gov.sg/get-professional-series" target="_blank"><b> [Get Professional series] Interview Skills</b></a></td>
-        <td> Be equipped with the skills to perform well at job interviews.</td>
-        <td>4 Feb 2022, <br>7pm – 9pm </td>
-        <td>Zoom</td>
+<td><a href="https://www.eventbrite.sg/e/explore-forensics-scienti-fx-teens-takeover-jurong-regional-library-tickets-401081243797?aff=odcleoeventsincollection" target="_blank"><b>Explore Forensics | scienti-f(x) | Teens Takeover @ Jurong Regional Library</b></a></td>
+        <td>Have you ever wondered what it’s like to be in the shoes of a Forensic Scientist? Learn more about Forensic Science with interesting hands-on activities.</td>
+        <td>7 Sep 2022, <br>4pm – 5.30pm </td>
+        <td>Jurong Regional Library</td>
       </tr>
 <tr>
-<td><b> WWF Explains: City in Nature</b></td>
-        <td> Join environmental conservationists as they evaluate the concept of City in Nature, how far we have come, and how much there is to go.</td>
-        <td>24 Feb 2022, <br>7pm – 8.30pm </td>
-        <td>Zoom</td>
+<td><a href="https://www.eventbrite.sg/e/create-a-superhydrophobic-coating-jurong-regional-library-tickets-401084553697?aff=odcleoeventsincollection" target="_blank"><b>Create a Superhydrophobic Coating @ Jurong Regional Library</b></a></td>
+        <td>Learn how to create a simple coating process to create a super-hydrophobic surface!</td>
+        <td>8 Sep 2022, <br>11am – 12pm </td>
+        <td>Jurong Regional Library</td>
       </tr>
-
+			
   </tbody>
   </table>
 </div>

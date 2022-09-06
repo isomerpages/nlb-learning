@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /digital/teens/learning-pathways
+permalink: /digital/teens/learning-pathways/
 description: ""
 third_nav_title: Teens
 ---
@@ -61,42 +61,15 @@ Check out these resources that highlight new digital advancements and opportunit
       </tr>
     </thead>
     <tbody>
-      <tr>
-			<td style="width: 20%;"><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>CCKPL: Unplugged</b></a></td>
-        <td style="width: 40%;">Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!
-</td>
-        <td style="width: 20%;">1st & 3rd Fridays, <br>3pm - 5pm
-				</td>
-				 <td style="width: 20%;">Choa Chu Kang Public Library</td></tr>
-			<tr>
-			<td style="width: 20%;"><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank"><b>Medical Myths Debunked Workshop</b></a></td>
-        <td style="width: 40%;">Drama, tears, and high stress medical emergencies. These are daily occurrences in a hospital – or are they?
-					<br><br>Featuring a professional nurse, this online programme will uncover the realities of working in the field. Learn about the science used in hospitals, the challenges that nurses face day-to-day, and get ready to debunk myths from your favourite medical shows. 
-					<br><br>This session is in collaboration with MOH Holdings (MOHH).
-</td>
-        <td style="width: 20%;">9 March 2022, <br>3pm - 4pm
-				</td>
-				 <td style="width: 20%;">Zoom</td></tr>
-			<tr>
-        <td style="width: 20%;"><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank">
-				<b>Fusion 360 for Beginners</b></a></td>
-        <td style="width: 40%;">Join 8059 Blank. as they conduct a hands-on workshop aimed at introducing children and teenagers to the basic concepts of computer-aided 3D design. Participants will get to try their hand at creating their very own 3D keychain model, embossed with their own name. 
-</td>
-        <td style="width: 20%;">12 March 2022, <br>10am - 12pm</td>
-				 <td style="width: 20%;">Zoom</td>
-				</tr>
-			<tr>
-        <td style="width: 20%;"><a href="https://nlb-golibrary.eventbrite.sg/" target="_blank">
-				<b>Build a LEGO Factory Workshop</b></a></td>
-        <td style="width: 40%;">Experience building your own automated robotics – using LEGO!
-					<br><br>In this workshop, you will be introduced to factory manufacturing concepts through hands-on building, coding, and experimentation with LEGO SpikePrime. 
-					<br><br>From smart sorting to autonomous transportation, learn how to construct various elements in a car production line.
-					<br><br>Gain knowledge from engineering experts, and get ready to share your own creations!
-</td>
-        <td style="width: 20%;">18 March 2022, <br>3pm - 6pm</td>
-				 <td style="width: 20%;">Jurong Regional Library</td>
-				</tr>
-						</tbody>
+              <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-ansi-language:EN-GB; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+<tr>
+<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/steamlab2022/#steam-lab-mini-videos" target="\_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
+<td style="width: 40%;">Build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. </td>
+<td style="width: 20%;">Sept’22</td>
+<td style="width: 20%;">YouTube</td>
+</tr>
+								</tbody>
   </table>
 </div> 
 	
@@ -108,12 +81,22 @@ Check out these resources that highlight new digital advancements and opportunit
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
-        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
-Follow <a href="https://www.facebook.com/publiclibrarysg" target="_blank">Public Libraries Singapore’s Facebook page</a> to be notified when the videos go live.</td>
-        <td style="width: 20%;">Mar 2022</td>
-				<td style="width: 20%;">Facebook</td>
+    	<tr>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/explore-forensics-scienti-fx-teens-takeover-jurong-regional-library-tickets-401081243797?.aff=ebdsoporgprofile" target="\_blank"><b>Explore Forensics | scienti-f(x)</b></a></td>
+<td style="width: 40%;">Learn more about Forensic Science with fun-filled and interesting hands-on activities. </td>
+<td style="width: 20%;">7 Sept 2022,<br>4pm - 5:30pm</td>
+<td style="width: 20%;">Jurong Regional Library</td>
+</tr>
+					<tr>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/create-a-superhydrophobic-coating-jurong-regional-library-tickets-401084553697?aff=ebdsoporgprofile" target="\_blank"><b>Create a Superhydrophobic Coating</b></a></td>
+<td style="width: 40%;">As part of the scienti-f(x) | Teens Takeover series, learn how to repel water with a superhydrophobic coating! </td>
+<td style="width: 20%;">8 Sept 2022,<br>11am - 12pm</td>
+<td style="width: 20%;">Jurong Regional Library</td>
+</tr>  <tr>
+        <td style="width: 20%;"><a href=https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=ebdsoporgprofile" target="_blank"><b>Renewable Resource and Recycling Talk</b></a></td>
+        <td style="width: 40%;">As part of the Tweenkerama | Sustainability series, win prizes with your knowledge about recycling!</td>
+        <td style="width: 20%;">8 Sept 2022,<br>2:30pm - 3:30pm</td>
+				<td style="width: 20%;">Jurong Regional Library</td>
 			</tr>
     </tbody>
   </table>

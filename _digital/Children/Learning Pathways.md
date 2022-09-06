@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /digital/children/learning-pathways
+permalink: /digital/children/learning-pathways/
 description: ""
 third_nav_title: Children
 ---
@@ -62,23 +62,10 @@ Go digital with your child and discover a world of technology and innovation tog
 		</thead>
 <tbody>
 <tr>
-<td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>Code With Your Child</b></a></td>
-<td style="width: 40%;"> Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. Through hands-on coding gameplays, kids can learn coding concepts without a screen or keyboard and develop problem solving skills, critical thinking, creativity and collaboration. </td>
-<td style="width: 20%;">2.30pm – 4pm</td>
-<td style="width: 20%;">Choa Chu Kang Public Library</td>
-</tr>
-											 
-<tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>Code With Your Child</b></a></td>
-<td>Looking for some parent-child fun? Come learn coding in a fun and interactive manner using a screen-less coding robot set. Through hands-on coding gameplays, kids can learn coding concepts without a screen or keyboard and develop problem solving skills, critical thinking, creativity and collaboration. </td>
-<td>19 Mar 2022, <br>2.30pm-4pm</td>
-<td>Sengkang Public LIbrary</td>
-</tr>
-<tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>My Art Buddy | Hot Air Balloon</b></a></td>
-<td>Experimenting with new prototyping tools and processes, including using recyclable materials and coding kit – children will learn to build a small hot air balloon. </td>
-<td>18 Mar 2022, <br>10:00am – 12:00pm</td>
-<td>Toa Payoh public Library</td>
+<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/steamlab2022/#steam-lab-mini-videos" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
+<td style="width: 40%;">Build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. </td>
+<td style="width: 20%;">Sept’22</td>
+<td style="width: 20%;">YouTube</td>
 </tr>
 </tbody>
 </table>
@@ -92,27 +79,26 @@ Go digital with your child and discover a world of technology and innovation tog
     </thead>
 <tbody>
 <tr>
-<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama%20" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
-<td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini this school holidays! Build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.<br><br>
- Follow <a href=" https://www.facebook.com/publiclibrarysg" target="_blank">Public Libraries Singapore’s Facebook page</a> to be notified when the videos go live. </td>
-<td style="width: 20%;">Mar’22</td>
-<td style="width: 20%;">Facebook</td>
+<td><a href="https://www.eventbrite.sg/e/basic-japanese-class-jurong-regional-library-steam-lab-2022-tickets-401604007397?aff=ebdshpsearchautocomplete" target="_blank"><b>Basic Japanese Class</b></a></td>
+<td>Join us in this introductory Japanese class for beginners! Learn simple greetings, Japanese writing systems, and how to converse every day!</td>
+<td>9 Sept 2022,<br>10:30am - 12pm</td>
+<td>Jurong Regional Library</td>
 </tr>
-<tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>MiniYOGI</b></a></td>
-<td>Have a fun and relaxing morning with your little ones through the story of Yoga. Breathe, stretch and do some yoga poses with the beautiful MiniYOGI cards.</td>
-<td>14 March 2022, 11:00-11:45am</td>
-<td>Zoom</td>
+	<tr>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/easy-coffee-art-jurong-regional-library-steam-lab-2022-tickets-401604528957?aff=odcleoeventsincollection" target="_blank"><b>Easy Coffee Art</b></a></td>
+<td style="width: 40%;">Join our Easy Coffee Art workshop at Jurong Regional Library and have an aromatic day doing coffee painting!</td>
+<td style="width: 20%;">9 Sept 2022, <br>4pm - 5pm</td>
+<td style="width: 20%;">Jurong Regional Library</td>
 </tr>
+
 <tr>
-<td><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b>CCKPL: Urban Farming Hydroponics Workshop </b></a></td>
-<td>Join VertiVegies as they take you on a journey into the dynamic world of modern agriculture.</td>
-<td>11 March 2022, 3:30-5:30pm</td>
-<td>Choa Chu Kang Public Library</td>
+<td><a href="https://www.eventbrite.sg/e/bullet-journaling-workshop-jurong-regional-library-steam-lab-2022-tickets-401603004397?aff=ebdshpsearchautocomplete" target="_blank"><b>Bullet Journalling Workshop </b></a></td>
+<td>Join us in this 2-hour workshop and learn the basics of bullet journaling, how to set up your journal and how to use it to be more organised.</td>
+<td>11 Sept 2022,<br>2:30pm - 4:30pm</td>
+<td>Jurong Regional Library</td>
 </tr>
 </tbody>
 </table>
 </div>	
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-

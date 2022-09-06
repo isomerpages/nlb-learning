@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /science/Children/learning-pathways
+permalink: /science/Children/learning-pathways/
 description: ""
 third_nav_title: Children
 ---
@@ -41,10 +41,9 @@ Spark your child’s curiosity in science literacy through engaging programmes!
 <tbody>
       <tr>
         <td style="width: 20%;"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama"><b> S.T.E.A.M. Lab Mini </b></a></td>
-        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. <br><br>
-Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
+        <td style="width: 40%;">Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. <br><br>
 </td>
-        <td style="width: 20%;"> Feb’22 – Mar’22</td>
+        <td style="width: 20%;"> Sep 2022</td>
 				<td></td>
       </tr>
 <tr>
@@ -58,6 +57,24 @@ Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah
 <td><b> TinkerWorks | Science </b></td>
         <td>A series of tinkering sessions to learn and explore topics on S.T.E.A.M. (Science, Technology, Engineering, Art, and Mathematics) through a variety of hands-on and experiential learning activities.
 Stay tuned for more updates.</td>
+	<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th class="is-uppercase has-weight-normal" colspan="4">Discover other learning focus areas</th>
+      </tr>
+    </thead>
+<tbody>
+      <tr>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=odcleoeventsincollection"><b> Renewable Resource and Recycling Talk @ Jurong Regional Library </b></a></td>
+        <td style="width: 40%;">Learn all about renewable resources and how to recycle right. Stand a chance to win attractive recycled and/or upcycled prizes during the quiz!
+</td>
+        <td style="width: 40%;">8 Sep 2022, 2.30pm - 3.30pm</td>
+				
+<tr>
+<td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/sphero-party-jurong-regional-library-tweenkerama-tickets-400591037577?aff=odcleoeventsincollection"> <b> Sphero Party | Jurong Regional Library | Tweenkerama </b></td>
+        <td>  The Sphero BOLT is an app-enabled robotic ball that provides endless opportunities to have fun while learning. In this workshop, participants will learn to handle, navigate, and program Sphero using a block-based programming language on phones or tablets.<br></td>
+	   <td style="width: 40%;">10 Sep 2022, 2pm - 4pm</td>
 	<td></td>
 	<td></td>
       </tr>
