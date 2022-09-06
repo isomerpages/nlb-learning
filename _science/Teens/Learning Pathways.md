@@ -63,11 +63,10 @@ Immerse yourself in the possibilities of science!
 <tr>
         <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/steamlab2022/#steam-lab-mini-videos 
 " target="_blank"><b> S.T.E.A.M. Lab Mini </b></a></td>
-        <td style="width: 40%;">Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.
-Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.
+        <td style="width: 40%;">Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.
 </td>
-        <td style="width: 40%;"> Feb’22 – Mar’22</td>
-        <td> </td>
+        <td style="width: 40%;"> Sept 2022</td>
+        <td>YouTube</td>
       </tr>
 <tr>
 <td><a href="http://go.gov.sg/get-professional-series" target="_blank"><b> [Get Professional series] Interview Skills</b></a></td>
