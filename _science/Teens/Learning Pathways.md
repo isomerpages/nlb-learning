@@ -81,33 +81,6 @@ Immerse yourself in the possibilities of science!
         <td>Jurong Regional Library</td>
       </tr>
 			
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal ">Discover other focus learning areas</th>
-      </tr>
-    </thead>
-		
- <tbody>
-<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=odcleoeventsincollection
-" target="_blank"><b> Renewable Resource and Recycling Talk </b></a></td>
-        <td style="width: 40%;">Learn all about renewable resources and how to recycle right! Stand a chance to win attractive recycled and/or upcycled prizes during the quiz. This programme is suitable for tweens aged 10-13.
-</td>
-        <td style="width: 40%;"> 8 Sep 2022</td>
-        <td>Jurong Regional Library</td>
-      </tr>
-
-<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=odcleoeventsincollection
-" target="_blank"><b> Renewable Resource and Recycling Talk </b></a></td>
-        <td style="width: 40%;">Learn all about renewable resources and how to recycle right! Stand a chance to win attractive recycled and/or upcycled prizes during the quiz. This programme is suitable for tweens aged 10-13.
-</td>
-        <td style="width: 40%;"> 8 Sep 2022</td>
-        <td>Jurong Regional Library</td>
-      </tr>
-			
   </tbody>
   </table>
 </div>
