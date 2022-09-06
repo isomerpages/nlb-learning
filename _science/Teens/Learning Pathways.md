@@ -75,10 +75,10 @@ Immerse yourself in the possibilities of science!
         <td>Jurong Regional Library</td>
       </tr>
 <tr>
-<td><b> WWF Explains: City in Nature</b></td>
-        <td> Join environmental conservationists as they evaluate the concept of City in Nature, how far we have come, and how much there is to go.</td>
-        <td>24 Feb 2022, <br>7pm – 8.30pm </td>
-        <td>Zoom</td>
+<td><a href="https://www.eventbrite.sg/e/create-a-superhydrophobic-coating-jurong-regional-library-tickets-401084553697?aff=odcleoeventsincollection" target="_blank"><b>Create a Superhydrophobic Coating @ Jurong Regional Library</b></a></td>
+        <td>Learn how to create a simple coating process to create a super-hydrophobic surface!</td>
+        <td>8 Sep 2022, <br>11am – 12pm </td>
+        <td>Jurong Regional Library</td>
       </tr>
 
   </tbody>
