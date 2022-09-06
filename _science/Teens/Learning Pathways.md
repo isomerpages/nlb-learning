@@ -80,7 +80,26 @@ Immerse yourself in the possibilities of science!
         <td>8 Sep 2022, <br>11am – 12pm </td>
         <td>Jurong Regional Library</td>
       </tr>
+			
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal ">Discover other focus learning areas</th>
+      </tr>
+    </thead>
+		
+ <tbody>
+<tr>
+        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/steamlab2022/#steam-lab-mini-videos 
+" target="_blank"><b> S.T.E.A.M. Lab Mini </b></a></td>
+        <td style="width: 40%;">Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos.
+</td>
+        <td style="width: 40%;"> Sept 2022</td>
+        <td>YouTube</td>
+      </tr>
 
+			
   </tbody>
   </table>
 </div>
