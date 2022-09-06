@@ -88,7 +88,7 @@ Spark your child’s curiosity in digital literacy through engaging activities a
 
 <td><a href="https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=odcleoeventsincollection" target="\_blank"><b>Renewable Resource and Recycling Talk</b></a></td>
 
-<td>Join us in this introductory Japanese class for beginners! Learn simple greetings, Japanese writing systems, and how to converse every day!</td>
+<td>As part of the Tweenkerama | Sustainability series, win prizes with your knowledge about recycling!</td>
 
 <td>9 Sept 2022,<br>10:30am - 12pm</td>
 
