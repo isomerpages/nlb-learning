@@ -93,7 +93,7 @@ Check out these resources that highlight new digital advancements and opportunit
 <td style="width: 20%;">8 Sept 2022,<br>11am - 12pm</td>
 <td style="width: 20%;">Jurong Regional Library</td>
 </tr>  <tr>
-        <td style="width: 20%;"><a href=https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=ebdsoporgprofile" target="_blank"><b>Renewable Resource and Recycling Talk</b></a></td>
+        <td style="width: 20%;"><a href=https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=ebdsoporgprofile" target="\_blank"><b>Renewable Resource and Recycling Talk</b></a></td>
         <td style="width: 40%;">As part of the Tweenkerama | Sustainability series, win prizes with your knowledge about recycling!</td>
         <td style="width: 20%;">8 Sept 2022,<br>2:30pm - 3:30pm</td>
 				<td style="width: 20%;">Jurong Regional Library</td>
