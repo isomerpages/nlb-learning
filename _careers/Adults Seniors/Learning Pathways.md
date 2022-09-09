@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /careers/adults-seniors/learning-pathways
+permalink: /careers/adults-seniors/learning-pathways/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -74,12 +74,6 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
         <td>Career Catalyst (1-to-1 Career Coaching) by Workforce Singapore (WSG)</td>
         <td>WSG's Career Catalyst - details available <a href="https://content.mycareersfuture.gov.sg/careercoaching/article/get-career-clarity/">at their website</a></td>
         <td></td>
-      </tr>
-      <tr>
-        <td><b>Career Planning</b></td>
-        <td>Growth @ Work: Career Planning and Development workshop by Nanyang Polytechnic</td>
-        <td>Coming in Sep 2022</td>
-        <td>Zoom</td>
 			</tr>
     </tbody>
   </table>
@@ -150,32 +144,6 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
         <td style="width: 40%;">Having a great idea is the first step to starting a business of your own.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-
-
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Use and Apply Skills</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><b>Engage Customers through Social Media</b></td>
-        <td style="width: 40%;">A webinar by NYP</td>
-        <td style="width: 20%;">13 Apr 2022,<br> 3pm – 4.30pm <br></td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-<tr>
-        <td><b>Innovation and Value Proposition</b></td>
-        <td>A workshop for aspiring entreprenuers.</td>
-        <td>TBC</td>
-        <td>TBC</td>
       </tr>
     </tbody>
   </table>
