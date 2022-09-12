@@ -17,7 +17,7 @@ Ever wanted to read a classic but felt too intimidated to take the plunge? A Bri
 
 The SG Author Series celebrates local literature by showcasing Singapore authors from various languages who have contributed to the development of Singapore’s literary landscape.
 
-The next season of SG Author series will be held in March 2022. Click [here](https://go.gov.sg/nlblitarts){:target="_blank"} for more literary programmes.
+The next season of SG Author series will be held in September 2022 and March 2023. Click [here](https://go.gov.sg/nlblitarts){:target="_blank"} for more literary programmes.
 
 ## **One Story** 
 
@@ -33,11 +33,6 @@ Think Lit is a literary arts series that addresses contemporary topics in readin
 
 Click [here](https://go.gov.sg/nlblitarts){:target="_blank"} for the latest programme listings.
 
-## **Head2Head** 
-
-Head2Head seeks to create literary dialogues that pair writers of different genres and interests to negotiate their works in a new light. It features works that tackle facets of Singapore life, from nostalgic fiction writing to urban living, from the spoken word to digital mediums, capturing writing styles that writers constantly return to as they chart the past, present and future of Singapore through their words, images and voices.
-
-Seasons 5 of Head2Head will be held in Aug 2022. Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for more literary programmes.
 
 ## **Reading in the Age of Distraction** 
 
