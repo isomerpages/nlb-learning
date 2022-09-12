@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /reading/Adults-Seniors/learning-pathways
+permalink: /reading/Adults-Seniors/learning-pathways/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -62,10 +62,10 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
     </thead>
     <tbody>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.com/e/apocalypse-now-the-rise-of-climate-fiction-worth-the-hype-tickets-323891266497?aff=odcleoeventsincollection&keep_tld=1"><b>Apocalypse Now?: The Rise of Climate Fiction | Worth the Hype?</b></a></td>
-        <td>How does contemporary fiction and creative non-fiction grapple with climate change? Should it spark pity and terror in an age of eco-anxiety? Or should these books offer meaningful hope and uplift the reader? Tune in to hear Melissa De Silva and Esther Vincent speak about their experiences as readers and writers of climate writing. What can Singaporean climate writing bring to the table?<br><br>
-        </td><td>21 June 2022, <br>8pm - 9pm</td>
-        <td>Zoom</td>
+<td><a target="_blank" href="https://www.eventbrite.com/e/obsessed-with-books-in-don-quixote-a-bridge-to-the-classics-tickets-377127718157?aff=odcleoeventsincollection&keep_tld=1"><b>Obsessed with Books in Don Quixote | A Bridge to the Classics</b></a></td>
+        <td>Don Quixote is a reader famously besotted by the classics—the classics of chivalric romances—to be precise. So much does he love them that he goes mad, treating fiction as reality. This delusion thus launches his hilarious and poignant misadventures as a modern-day knight errant. What happens when we treat the world as a text and text as a world? What are the dangers of bibliophilia and bibliomania?<br><br>
+        </td><td>14 Sept 2022, <br>7.30pm - 8.30pm</td>
+        <td>Imagination and Possibility Rooms, National Library Building</td>
       </tr>
 			<tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/head2head-singpowrimo-showcase-a-prompt-a-day-registration-207899491977?aff=ebcollection&keep_tld=1"><b>Head2Head | SingPoWriMo Showcase: A Prompt A Day</b></a></td>
