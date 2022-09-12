@@ -7,7 +7,7 @@ third_nav_title: Adults & Seniors
 Get to know your books, writers and listen to experts on current issues as we dive into topics on reading and literature.
 
 ## **A Bridge to Classics**
-![Alt text for image on Isomer site](/images/reading/adults-seniors/classics.png)
+![Alt text for image on Isomer site](/images/reading/adults-seniors/abc.png)
 
 Ever wanted to read a classic but felt too intimidated to take the plunge? A Bridge to the Classics is a lecture series that aims to introduce and demystify beloved works of literature. This series will equip attendees with the title’s literary and historical contexts and connect these classics to our lives today.
 
