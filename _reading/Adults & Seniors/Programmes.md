@@ -1,17 +1,15 @@
 ---
 title: Programmes
-permalink: /reading/Adults-Seniors/programmes
+permalink: /reading/Adults-Seniors/programmes/
 description: ""
 third_nav_title: Adults & Seniors
 ---
 Get to know your books, writers and listen to experts on current issues as we dive into topics on reading and literature.
 
-## **How To Fall In Love with Classics**
+## **A Bridge to Classics**
 ![Alt text for image on Isomer site](/images/reading/adults-seniors/classics.png)
 
-How to Fall in Love with Classics was a lecture series anchored by literary critic and poet Gwee Li Sui that ran for ten seasons from January 2018 – May 2022. Each season looked at classics within a particular genre or theme, ranging from graphic novels to animal fiction. Covering a wide swath of literary classics across time and space, the series introduced attendees to canonical works by writers such as Jorge Luis Borges, Natsume Soseki and Jane Austen, as well as Singaporean authors like Catherine Lim and Arthur Yap. To rewatch past lectures, click [here](https://www.facebook.com/howtofallinlovewithclassics/posts).
-
-Look out for the new series A Bridge to the Classics starting in September 2022!
+Ever wanted to read a classic but felt too intimidated to take the plunge? A Bridge to the Classics is a lecture series that aims to introduce and demystify beloved works of literature. This series will equip attendees with the title’s literary and historical contexts and connect these classics to our lives today.
 
 ## **SG Author Series** 
 
