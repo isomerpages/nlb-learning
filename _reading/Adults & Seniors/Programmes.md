@@ -40,9 +40,10 @@ Click [here](https://go.gov.sg/nlblitarts){:target="_blank"} for the latest prog
 
 Reading in the Age of Distraction (RAD) is a series of conversations featuring acclaimed international thinkers on the science of reading, and reading well in the digital age. The first installation of the event in 2021 featured speakers such as Nicholas Carr, author of <em>The Shallows: What the Internet is Doing to Our Brains</em>, Rolf Dobelli, author of the <em>Art of Thinking Clearly</em>, Alan Rusbridger, former editor-in-chief of The Guardian and Maryanne Wolf, author of <em>Reader Come Home: The Reading Brain in the Digital World</em>.
 
-For 2022, RAD will discuss strategies to cultivate focused reading in a distracted age. Register [here](https://www.eventbrite.com/cc/reading-in-the-age-of-distraction-2022-465039?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=odclsxcollection){:target="_blank"} to listen to acclaimed speakers and authors on deep reading, reading actively as well as reading aloud to foster connections.
-
 Click [here](https://www.youtube.com/playlist?list=PLJlLW0qKYHTOqPxC7r4BMBjRK0bUJEZXi){:target="_blank"} to listen to selected RAD 2021's webinars.
+
+For 2022, RAD discussed strategies to cultivate focused reading in a distracted age. Click [here](https://go.gov.sg/rad2022-recordings){:target="_blank"} to listen to acclaimed speakers and authors on deep reading, reading actively as well as reading aloud to foster connections.
+
 
 ## **Read Fest!** 
 
