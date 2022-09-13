@@ -105,7 +105,7 @@ When kickstarting a habit, start small. Rekindle your reading with recommended s
       </tr>
 			<tr>
 <td><a target="_blank" href="https://www.eventbrite.com/e/farewell-to-books-in-shakespeares-the-tempest-a-bridge-to-the-classics-tickets-379565579867?aff=odcleoeventsincollection&keep_tld=1"><b>Farewell to Books in Shakespeare’s The Tempest | A Bridge to the Classics</b></a></td>
-	<td>_The Tempest_ is Shakespeare’s last play, and many readers take the protagonist Prospero to be a self-portrait of the playwright himself. As the Bard bids farewell to the stage, Prospero at the end of the play drowns in his books and abandons his magical arts. How does the play capture the delicate balance between a noble utopia and rapacious modernity?<br><br>
+				<td><em>The Tempest</em> is Shakespeare’s last play, and many readers take the protagonist Prospero to be a self-portrait of the playwright himself. As the Bard bids farewell to the stage, Prospero at the end of the play drowns in his books and abandons his magical arts. How does the play capture the delicate balance between a noble utopia and rapacious modernity?<br><br>
         </td><td>26 Oct 2022, <br>7.30pm - 8.30pm</td>
         <td>National Library Building, Imagination & Possibility Rooms</td>
       </tr> </tbody>
