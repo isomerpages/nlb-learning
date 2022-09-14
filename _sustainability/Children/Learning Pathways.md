@@ -61,11 +61,11 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/storytelling-with-the-singapore-police-force-10-years-old-and-below-tickets-390019828807?aff=ebdsoporgprofile" target="_blank"><b>Storytelling with the Singapore Police Force (10 years old and below)</b></a></td>
-        <td style="width: 40%;">Join our Police Officers from Woodlands Division for a special storytelling session about saving the earth and achieving environmental sustainability together!
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/living-with-nature-storytelling-by-nparks-tickets-399911735767?aff=odcleoeventsincollection" target="_blank"><b>Living with Nature | Storytelling by NParks</b></a></td>
+        <td style="width: 40%;">Join NParks for their Living with Nature sessions, featuring storytelling and craft!
 </td>
-        <td style="width: 20%;">3 Sep 2022, <br>3pm-3.30pm</td>
-        <td style="width: 20%;">Woodlands Regional Library</td>
+        <td style="width: 20%;">24 Sep 2022, <br>2pm-2.30pm</td>
+        <td style="width: 20%;">library@harbourfront</td>
 			</tr>
 			<tr>
          <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-reduce-food-waste-green-market-tickets-396986867407?aff=odcleoeventsincollection" target="_blank"><b>How to Reduce Food Waste | Green Market</b></a></td>
