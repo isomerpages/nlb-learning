@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /digital/children/content
+permalink: /digital/children/content/
 description: ""
 third_nav_title: Children
 ---
@@ -9,25 +9,26 @@ Use these resources to introduce your child to digital concepts and technology.
 Check out our playlist for a collection of short videos/podcasts on technology.
 
 Check out our learning package for more insights into digital concepts.
-<table class="generic-table">
-    <thead>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="#playlist"><b>Playlist</b></a></td>
-        <td style="width: 40%;">Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</td>
-        <td style="width: 20%;"> </td>
-        <td style="width: 20%;"> </td>
-      </tr>
-      <tr>
-        <td><a href=""><b>Wonders of Tech!</b></a></td>
-        <td>Learn more about the different ways technology can be used in your everyday life. Become even more digitally savvy through our curated resources for you below.</td>
-        <td></td>
-        <td> </td>
-      </tr>
-    </tbody>
-  </table>
-<h5 id="playlist"><b>Playlist: Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</b></h5>
+
+<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-sky-indigo">
+      <a href="#playlist">
+        <span>Playlist:<br>Become Digitally Savvy!</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-sky-indigo">
+      <a href="#lp-staycuriouswithyourchild">
+        <span>Learning Package: Stay Curious With Your Child</span>
+      </a>
+    </div>
+  </div>
+  </div>
+	
+<h5 id="playlist"><b>Become Digitally Savvy!</b></h5>
+Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -65,10 +66,10 @@ Do you know how 3D printers work? Join Kamri Noel, as she goes on a quest to und
 <small>Source: Learning From Scratch - EP1 (2020, December 23). Government Technology Agency of Singapore. Retrieved 2022, January 26.</small></p>
   </div>
 </div>
-<h3><b>LEARNING PACKAGE</b></h3>
+<h3 class="margin--bottom--lg" id="lp-staycuriouswithyourchild"><b>LEARNING PACKAGE</b></h3>
 <p>Spark your child’s curiosity in digital literacy through engaging activities and articles.</p>
 <img src="/images/digital/children/SCWYC.jpg" alt="SCWYC" style="width:30%;">														
-<p><b>Say Curious with Your Child: Make a Stop Motion Masterpiece!</b></p>
+<p><b>Stay Curious with Your Child: Make a Stop Motion Masterpiece!</b></p>
 <p>With mobile phone camera technology becoming increasingly robust, why not take advantage of our digital devices to bring the family together. Learn how to film a simple short motion video with your child using their favourite toys as subjects!</p>
 
 <small> Source:https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child (,). National Library Board. Retrieved 2022, January 26</small>
