@@ -40,9 +40,9 @@ third_nav_title: Children
 
 Use these resources to introduce your child to digital concepts and technology.
 
-Check out our playlist for a collection of short videos/podcasts on technology.
+Check out our **playlist** for a collection of short videos/podcasts on technology.
 
-Check out our learning package for more insights into digital concepts.
+Check out our **learning package** for more insights into digital concepts.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
@@ -100,10 +100,11 @@ Do you know how 3D printers work? Join Kamri Noel, as she goes on a quest to und
 <small>Source: Learning From Scratch - EP1 (2020, December 23). Government Technology Agency of Singapore. Retrieved 2022, January 26.</small></p>
   </div>
 </div>
-<h3 class="margin--bottom--lg" id="lp-staycuriouswithyourchild"><b>LEARNING PACKAGE</b></h3>
+<h3><b>LEARNING PACKAGE</b></h3>
 <p>Spark your child’s curiosity in digital literacy through engaging activities and articles.</p>
 <img src="/images/digital/children/SCWYC.jpg" alt="SCWYC" style="width:30%;">														
-<p><b>Stay Curious with Your Child: Make a Stop Motion Masterpiece!</b></p>
+<p><h5 class="margin--bottom--lg" id="lp-staycuriouswithyourchild"><b>Stay Curious with Your Child: Make a Stop Motion Masterpiece!</b></h5></p>
+
 <p>With mobile phone camera technology becoming increasingly robust, why not take advantage of our digital devices to bring the family together. Learn how to film a simple short motion video with your child using their favourite toys as subjects!</p>
 
 <small> Source:https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child (,). National Library Board. Retrieved 2022, January 26</small>
