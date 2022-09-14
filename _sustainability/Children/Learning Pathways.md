@@ -60,19 +60,19 @@ Go green with your child to build an eco-friendly future together.
       </tr>
     </thead>
     <tbody>
+						<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-reduce-food-waste-green-market-tickets-396986867407?aff=odcleoeventsincollection" target="_blank"><b>How to Reduce Food Waste | Green Market</b></a></td>
+        <td style="width: 40%;">Learn all about food waste and how we can play our part to reduce it! Expect fun and games while learning how food waste is formed, the resources required to produce food, and how to play a more active role in reducing food waste.
+</td>
+        <td style="width: 20%;">18 Sep 2022, <br>2.30pm-3.30pm</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library</td>
+			</tr>
 			<tr>
          <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/living-with-nature-storytelling-by-nparks-tickets-399911735767?aff=odcleoeventsincollection" target="_blank"><b>Living with Nature | Storytelling by NParks</b></a></td>
         <td style="width: 40%;">Join NParks for their Living with Nature sessions, featuring storytelling and craft!
 </td>
         <td style="width: 20%;">24 Sep 2022, <br>2pm-2.30pm</td>
         <td style="width: 20%;">library@harbourfront</td>
-			</tr>
-			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-reduce-food-waste-green-market-tickets-396986867407?aff=odcleoeventsincollection" target="_blank"><b>How to Reduce Food Waste | Green Market</b></a></td>
-        <td style="width: 40%;">Learn all about food waste and how we can play our part to reduce it! Expect fun and games while learning how food waste is formed, the resources required to produce food, and how to play a more active role in reducing food waste.
-</td>
-        <td style="width: 20%;">18 Sep 2022, <br>2.30pm-3.30pm</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library</td>
 			</tr>
     </tbody>
   </table>
