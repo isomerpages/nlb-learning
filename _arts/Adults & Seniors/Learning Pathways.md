@@ -78,6 +78,7 @@ Through this pathway you can explore different resources and learn ways to culti
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<!-- Learning Skills  -->
 <h3 id="learn-skills" class="margin--bottom--lg"><b> Learning Skills and Supporting the Creation of Artworks </b></h3>
 Whether you are a beginner who is just getting started or a creative who is exploring a new medium or artform for the first time, knowing exactly where to start can be a challenge. 
 Through this pathway you can explore different resources and learn or hone new skills and medium through the different programmes we have planned. 
@@ -128,19 +129,12 @@ Through this pathway you can explore different resources and learn or hone new s
       </tr>
 			
 <tr>
-<td><a href="https://www.eventbrite.sg/e/resident-saori-weaving-open-studio-libraryorchard-registration-374893014097" target="_blank"><b>Resident: Saori Weaving (Open Studio) | library@orchard</b></a></td>
-        <td> Weaving is an age-old practice inextricably linked to the art of storytelling. The words ‘text’ and ‘textile’ come from the Latin word ‘texere’, which means 'to weave'. <br><br>
+<td><a href="https://www.eventbrite.sg/e/378185401717" target="_blank"><b>Tactile Tales: Weaving with Stories (Teaching and Learning) | library@orchard</b></a></td>
+        <td> Weaving is an age-old practice inextricably linked to the art of storytelling. The words ‘text’ and ‘textile’ come from the Latin word ‘texere’, which means 'to weave'.<br><br>
 
-Textile artist Natalia Tann is library@orchard’s artist-in-residence from August 2022 to January 2023! During this residency, she will be exploring the intertwining of narratives with the craft of weaving. Please note that Open Studio sessions are not workshops.</td>
-        <td>14 Aug 2022, <br>2pm - 5pm</td>
+In this community artmaking session, library@orchard’s artist-in-residence Natalia Tan will guide participants to explore their personal stories through freestyle weaving.</td>
+        <td>25 Sept 2022, <br>2pm - 4pm</td>
         <td>library@orchard, Imagine That</td>
-      </tr>
-			
-<tr>
-<td><a href="https://www.eventbrite.sg/e/tactile-tales-weaving-with-stories-home-and-belonging-libraryorchard-registration-374997677147" target="_blank"><b>Tactile Tales: Weaving with Stories (Home and Belonging) | library@orchard</b></a></td>
-        <td> In this community artmaking session, library@orchard’s artist-in-residence Natalia Tan will guide participants to explore their personal stories through freestyle weaving. Simple weaving tools and materials will be provided. Participants may also bring their own story-related items to weave into the artwork, or just for storytelling purposes.</td>
-        <td>28 Aug 2022, <br>2pm - 4pm</td>
-        <td>library@orchard, Imagine This & That</td>
       </tr>
     </tbody>
   </table>
@@ -148,6 +142,7 @@ Textile artist Natalia Tann is library@orchard’s artist-in-residence from Augu
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<!-- Participating in Art Community  -->
 <h3 id="participating-art" class="margin--bottom--lg"><b> Participating in the Art Community </b></h3>
 A big part of art is active participation in the larger community: seeing others’ works and being seen for yourself. Through this pathway, you can explore our myriad of established programme series and Learning Communities, and participate in them to continue your own curated learning journeys. 
 <div class="horizontal-scroll margin--bottom--lg">
@@ -157,18 +152,11 @@ A big part of art is active participation in the larger community: seeing others
         <th colspan="4" class="is-uppercase has-weight-normal "> Learn More With Fellow Peers and Professionals in the Field </th>
       </tr>
     </thead>
-    <tbody>    		
+    <tbody>    					
 <tr>
-<td><a href="https://www.eventbrite.sg/e/communities-zzzink-feasting-zines-libraryorchard-registration-378170457017" target="_blank"><b> Communities: Zzzink! (Feasting Zines) | library@orchard </b></a></td>
-        <td> In this programme, participants will be creating zines about gastronomical feasts for this session of Communities: Zzzink! As we celebrate National Day this month, we take the opportunity to look back on some memorable feasts we’ve enjoyed with friends and family all around the globe. During the session, participants may create zines with the theme of the month, work on your own zines or simply use the time to connect with like-minded creators.</td>
-        <td>21 Aug 2022, 3pm - 5pm</td>
-        <td>library@orchard, Make</td>
-      </tr>
-			
-<tr>
-<td><a href="https://www.eventbrite.com/cc/libraryorchard-programmes-138109?utm-campaign=social&utm-content=creatorshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=escb" target="_blank"><b> Communities: Zzzink! </b></a></td>
+<td><a href="https://www.eventbrite.sg/e/396337454997" target="_blank"><b> Communities: Zzzink! | library@orchard </b></a></td>
         <td> Zzzink! is a community of human beings who gather every third Sunday of the month to tinker with zines and the many possible forms of art and narratives. We seek to learn, experiment and grow together in a messily freeing space by creating, sharing and exploring new ground.</td>
-        <td>Every 3rd Sunday of the month</td>
+        <td>18 Sept 2022, 3pm - 5pm</td>
         <td>library@orchard, Make</td>
       </tr>
 			
