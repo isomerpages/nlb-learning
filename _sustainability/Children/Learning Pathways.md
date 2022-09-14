@@ -87,9 +87,9 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/storytime-with-spca-singapore-tickets-396430894477?aff=ebdsoporgprofile" target="_blank"><b>Storytime with SPCA Singapore!</b></a></td>
-        <td style="width: 40%;">Join guest readers from the SPCA for an interactive session to learn about pets. Children can learn fun facts about animals, share their love for animals and explore ways they can play a part to help animals.</td>
-        <td style="width: 20%;">10 Sep 2022,<br>11am-12pm</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/wondering-with-books-lets-think-about-emotions-little-philosophers-tickets-399915507047?aff=odcleoeventsincollection" target="_blank"><b>Wondering with Books: Let's Think About Emotions! | Little Philosophers</b></a></td>
+        <td style="width: 40%;">Fear, joy, embarrassment, anger, sadness… we have so many emotions! What are emotions? What are the different ways we think about emotions? What is the relationship between our thoughts and our feelings? As Little Philosophers, let us discuss these big questions and more as we read about a rabbit’s exploration of his feelings.</td>
+        <td style="width: 20%;">25 Sep 2022,<br>10.30am-12pm</td>
         <td style="width: 20%;">Jurong Regional Library</td>
       </tr>
      </tbody>
