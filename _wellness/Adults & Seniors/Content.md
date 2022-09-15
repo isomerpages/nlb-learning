@@ -348,6 +348,12 @@ HarperCollins.
 <small>Source: Glaucoma: How to Prevent and Manage. HealthXchange.sg. Retrieved 2022, Sept 12.</small>
 <br>
 
+<h5>2. Common Myths and Facts about Sleep </h5>
+<p> How many hours of sleep do we really need? Can napping compensate for our lack of sleep? Find out more about the facts of sleep in this article to navigate sleep disorders and improve the quality of your nightly rest.</p>
+<p><a href="https://www.sleepfoundation.org/how-sleep-works/myths-and-facts-about-sleep" target="_blank"> Read the article here</a>. </p>
+<small>Source: Common Myths and Facts About Sleep. Sleep Foundation. Retrieved 2022, Sept 12.</small>
+<br>
+
 <h4>eBooks</h4>
 <h5>1. Why We Sleep </h5>
 Matthew Walker, (2017), Why We Sleep: The New Science of Sleep and Dreams. <br>
