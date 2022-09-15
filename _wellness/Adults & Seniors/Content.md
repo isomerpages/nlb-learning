@@ -340,6 +340,10 @@ HarperCollins.
 
 <!-- Managing Conditions LP  -->
 
+<h5 class="margin--bottom--lg" id="lp-managing-conditions"><b>Learning Package: Managing Conditions and Medications</b></h5>
+
+<p>We may find ourselves face-to-face with medical conditions that, despite not being life-threatening, significantly impair our daily lives. To help you better prevent and manage these medical conditions, check out the resources we have compiled here.</p>
+
 <h4>Articles</h4>
 
 <h5>1. Glaucoma: How to Prevent and Manage </h5>
