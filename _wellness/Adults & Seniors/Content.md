@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /wellness/adults-seniors/content
+permalink: /wellness/adults-seniors/content/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -88,6 +88,7 @@ Check out our playlists and learning packages for book recommendations, collecti
 <h3><b>Playlists</b></h3>
 A collection of short videos or selected podcasts, exploring topics around mental, physical and financial wellness.
 
+<!-- Nourish Playlist  -->
 <h5 class="margin--bottom--lg" id="playlist-nourish"><b> Playlist: Nourish Your Body</b></h5>
 
 What does it mean to eat well and how do you go about achieving it?
