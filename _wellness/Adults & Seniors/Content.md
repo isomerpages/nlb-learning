@@ -216,6 +216,9 @@ Neurologists Deena Kuruvilla and Cynthia Armand debunk 11 myths about headaches 
 </div> 
 
 <h3><b>Learning Package</b></h3>
+
+<!-- Nourish LP  -->
+
 <h5 class="margin--bottom--lg" id="lp-nourish"><b>Learning Package: Nourish Your Body</b></h5>
 	
 A key pillar of physical wellness is a healthy, balanced diet. However, when it comes to nutrition, it seems as if everyone has a different opinion of what it means to eat well. How do you make sense of all these recommendations? To help you separate the myths from the facts, check out the resources we have compiled here.
@@ -279,6 +282,7 @@ New York : Anchor Books, 2008.
 <small>https://share.libbyapp.com/title/5921840. Retrieved from Libby. </small>
 <br>
 
+<!-- Sleep LP  -->
 <h5 class="margin--bottom--lg" id="lp-sleep"><b>Learning Package: Sleep</b></h5>
 
 Sleep is an underrated and increasingly neglected aspect of our health. In fact, Singaporeans are amongst the most sleep-deprived people in the world! So, why do we sleep? And what benefits do we get out of this seemingly passive activity? Dive into the wonderful world of sleep with these resources.
@@ -334,6 +338,9 @@ HarperCollins.
 <p><a href="https://share.libbyapp.com/title/6158921" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.)</p>
 <small>https://share.libbyapp.com/title/6158921. Retrieved from Libby. </small>
 
+<!-- Managing Conditions LP  -->
+
+<!-- Evergreen Resources  -->
 <h3><b>Evergreen Resources</b></h3>
 
 <h4><b> Mind Your Head: Mental Wellness</b></h4>
