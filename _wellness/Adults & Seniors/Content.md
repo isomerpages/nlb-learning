@@ -134,6 +134,7 @@ It seems simple enough, but healthy eating is more complex than it looks. This v
   </div>
 </div> 
 
+<!-- Sleep Playlist  -->
 <h5 class="margin--bottom--lg" id="playlist-sleep"><b> Playlist: Sleep</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
@@ -173,6 +174,46 @@ We may think we are the experts of sleep – after all, it’s something we do e
   </div>
 </div> 
 
+<!-- Managing Conditions Playlist  -->
+
+<h5 class="margin--bottom--lg" id="playlist-sleep"><b> Playlist: Managing Conditions and Medications</b></h5>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/t0kACis_dJE" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> 6 Tips for Better Sleep (5:00)</b><br>
+Want to improve the quantity and quality of your sleep? Sleep Scientist Matt Walker offers six scientifically grounded tips for better sleep.<br>
+<small> Source: 6 Tips For Better Sleep (2020, Sep 22). TED. Retrieved 2022, April 18. </small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/BN9yqF6Um98" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> How Long Should Your Naps Be? - Sara C. Mednick (5:00)</b><br>
+Not all naps are created equal. For a start, consider the time of the day and the length of your naps to optimise your mid-day snooze. <br>
+<small> Source: How long should your naps be? - Sara C. Mednick (2021, Apr 29). TED-Ed. Retrieved 2022, April 18.</small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/owMlmhvik_0" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Sleep Experts Debunk 15 Sleep Myths (14:00) </b><br>
+We may think we are the experts of sleep – after all, it’s something we do every night! However, there remains countless misinformation relating to the science of sleep. This video puts the 15 most common sleep myths to rest. <br>
+<small> Source: Sleep Experts Debunk 15 Sleep Myths. (2019, Nov 3). Science Insider. Retrieved 2022, April 18. </small></p>
+  </div>
+</div> 
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-nourish"><b>Learning Package: Nourish Your Body</b></h5>
