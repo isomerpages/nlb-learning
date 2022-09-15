@@ -193,13 +193,13 @@ Find out 9 simple steps to ensure you are taking your medicine safely and respon
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/BN9yqF6Um98" class="responsive-iframe"></iframe>
+     <iframe src=" https://www.youtube.com/embed/FWsBm3hr3B0" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> How Long Should Your Naps Be? - Sara C. Mednick (5:00)</b><br>
-Not all naps are created equal. For a start, consider the time of the day and the length of your naps to optimise your mid-day snooze. <br>
-<small> Source: How long should your naps be? - Sara C. Mednick (2021, Apr 29). TED-Ed. Retrieved 2022, April 18.</small></p>
+    <p><b> Why Haven’t We Cured Arthritis - Kaitlyn Sadtler and Heather J. Faust (4:24 mins)</b><br>
+From explaining the different types of arthritis conditions, debunking popular myths to introducing tips to prevent the onset of arthritis, get to know more about one of the most common chronic pains that plagues the human race. <br>
+<small> Source: Why Haven't We Cured Arthritis? – Kaitlyn Sadtler and Heather J. Faust (2019, Nov 8). TED-Ed. Retrieved 2022, Sept 12.</small></p>
   </div>
 </div>
 <div class="row is-multiline margin--bottom--lg">
