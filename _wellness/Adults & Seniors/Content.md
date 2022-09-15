@@ -176,7 +176,7 @@ We may think we are the experts of sleep – after all, it’s something we do e
 
 <!-- Managing Conditions Playlist  -->
 
-<h5 class="margin--bottom--lg" id="playlist-sleep"><b> Playlist: Managing Conditions and Medications</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-managing-conditions"><b> Playlist: Managing Conditions and Medications</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
