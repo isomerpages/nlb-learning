@@ -364,10 +364,10 @@ HarperCollins.
 <h5>1. Manage Your Menopause Naturally </h5>
 Maryon Stewart, (2020), <i>Manage Your Menopause Naturally: The Six-Week Guide to Calming Hot Flashes & Night Sweats, Getting Your Sex Drive Back, Sharpening Memory & Reclaiming Well-Being</i><br>
 San Francisco: New World Library.
-<p><a href="https://share.libbyapp.com/title/3576801" target="_blank"><img src="/images/wellness/adults-and-seniors/whywesleep-book-cover.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
-<p> Neuroscientist and sleep expert Matthew Walker takes you on a fascinating journey in exploring the mysteries of sleep, and why it matters.</p>
-<p><a href="https://share.libbyapp.com/title/3576801" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
-<small>https://share.libbyapp.com/title/3576801. Retrieved from Libby. </small>
+<p><a href="https://share.libbyapp.com/title/5779197" target="_blank"><img src="/images/wellness/adults-and-seniors/manage-your-menopause-ebook.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Menopause is too often treated as a problem to be solved or an illness to be cured, not the natural process it is. World-renowned healthcare expert Maryon Stewart outlines her wonderfully comprehensive and practical Six-Week Natural Menopause Solution with steps that women can take to feel better right away.</p>
+<p><a href="https://share.libbyapp.com/title/5779197" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/5779197. Retrieved from Libby. </small>
 
 
 <h5>2. The Sleep Solution </h5>
