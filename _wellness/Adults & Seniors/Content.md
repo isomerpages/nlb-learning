@@ -361,9 +361,9 @@ HarperCollins.
 <br>
 
 <h4>eBooks & audiobooks</h4>
-<h5>1. Why We Sleep </h5>
-Matthew Walker, (2017), Why We Sleep: The New Science of Sleep and Dreams. <br>
-Penguin Books Ltd.
+<h5>1. Manage Your Menopause Naturally </h5>
+Maryon Stewart, (2020), <i>Manage Your Menopause Naturally: The Six-Week Guide to Calming Hot Flashes & Night Sweats, Getting Your Sex Drive Back, Sharpening Memory & Reclaiming Well-Being</i><br>
+San Francisco: New World Library.
 <p><a href="https://share.libbyapp.com/title/3576801" target="_blank"><img src="/images/wellness/adults-and-seniors/whywesleep-book-cover.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
 <p> Neuroscientist and sleep expert Matthew Walker takes you on a fascinating journey in exploring the mysteries of sleep, and why it matters.</p>
 <p><a href="https://share.libbyapp.com/title/3576801" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
