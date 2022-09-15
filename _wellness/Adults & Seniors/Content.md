@@ -57,8 +57,8 @@ Check out our playlists and learning packages for book recommendations, collecti
   </div>
 	<div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="#lp-sleep">
-        <span>Playlist: Managing Conditions & </span>
+      <a href="#playlist-managing-conditions">
+        <span>Playlist: Managing Conditions & Medications</span>
       </a>
     </div>
   </div>
