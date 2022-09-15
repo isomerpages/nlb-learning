@@ -55,6 +55,13 @@ Check out our playlists and learning packages for book recommendations, collecti
       </a>
     </div>
   </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#lp-sleep">
+        <span>Playlist: Managing Conditions & </span>
+      </a>
+    </div>
+  </div>
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
       <a href="#lp-nourish">
@@ -66,6 +73,13 @@ Check out our playlists and learning packages for book recommendations, collecti
     <div class="clickbox is-thoughtful-tangerine">
       <a href="#lp-sleep">
         <span>Learning Package: Sleep</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#lp-managing-conditions">
+        <span>Learning Package: Managing Conditions & Medications</span>
       </a>
     </div>
   </div>
