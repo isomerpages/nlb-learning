@@ -354,7 +354,13 @@ HarperCollins.
 <small>Source: Common Myths and Facts About Sleep. Sleep Foundation. Retrieved 2022, Sept 12.</small>
 <br>
 
-<h4>eBooks</h4>
+<h5>3. Management and Treatment for Irritable Bowel Syndrome (IBS) </h5>
+<p> Irritable bowel syndrome (IBS) is a chronic medical condition of the gut and intestine that affects up to 9 per cent of the population in Singapore. This article shares diet and lifestyle tips that could help you achieve a happier and healthier gut.</p>
+<p><a href="https://www.healthxchange.sg/digestive-system/irritable-bowel-syndrome/management-treatment-irritable-bowel-syndrome-ibs" target="_blank"> Read the article here</a>. </p>
+<small>Source: Management and Treatment for Irritable Bowel Syndrome (IBS). HealthXchange.sg Retrieved 2022, Sept 12.</small>
+<br>
+
+<h4>eBooks & audiobooks</h4>
 <h5>1. Why We Sleep </h5>
 Matthew Walker, (2017), Why We Sleep: The New Science of Sleep and Dreams. <br>
 Penguin Books Ltd.
