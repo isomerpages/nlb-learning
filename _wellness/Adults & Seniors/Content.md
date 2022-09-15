@@ -380,13 +380,14 @@ United Kingdom: Oxford University Press
 <small>https://share.libbyapp.com/title/5280186. Retrieved from Libby. </small>
 
 
-<h5>3. The Sleep Fix  </h5>
-Diane Macedo, (2021), The Sleep Fix: Practical, Proven, and Surprising Solutions for Insomnia, Snoring, Shift Work, and More.<br>
-HarperCollins.
-<p><a href="https://share.libbyapp.com/title/6158921" target="_blank"><img src="/images/wellness/adults-and-seniors/sleepfix-book-cover.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
-<p> Drawing from her own experiences of dealing with insomnia, renowned ABC News anchor/correspondent Diane Macedo offers an accessible guide to getting better sleep.</p>
-<p><a href="https://share.libbyapp.com/title/6158921" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.)</p>
-<small>https://share.libbyapp.com/title/6158921. Retrieved from Libby. </small>
+<h5>3. The Anxious Perfectionist  </h5>
+Clarissa W. Ong, Michael P. Twohig, Randy O. Frost, (2022), The Anxious Perfectionist: How to Manage Perfectionism-Driven Anxiety Using Acceptance & Commitment Therapy <br>
+Oakland, California: New Harbinger Publications
+
+<p><a href="https://share.libbyapp.com/title/6461508" target="_blank"><img src="/images/wellness/adults-and-seniors/anxious-perfectionist-ebook.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Written by two clinical psychologists, The Anxious Perfectionist shines a much-needed light on the hidden costs of “being the best,” and offers essential skills based in acceptance and commitment therapy (ACT) to help you cope with the anxiety that is driven by your perfectionism.</p>
+<p><a href="https://share.libbyapp.com/title/6461508" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.)</p>
+<small>https://share.libbyapp.com/title/6461508. Retrieved from Libby. </small>
 
 <!-- Evergreen Resources  -->
 <h3><b>Evergreen Resources</b></h3>
