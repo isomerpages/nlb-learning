@@ -340,6 +340,41 @@ HarperCollins.
 
 <!-- Managing Conditions LP  -->
 
+<h4>Articles</h4>
+
+<h5>1. Glaucoma: How to Prevent and Manage </h5>
+<p> Glaucoma is the 2nd leading cause of blindness in Asia. This article advises on how to detect glaucoma in its early stages, manage glaucoma better and offers tips on maintaining better eye health in general.</p>
+<p><a href="https://www.healthxchange.sg/head-neck/eye-care/glaucoma-how-to-prevent-and-manage" target="_blank"> Read the article here</a>. </p>
+<small>Source: Glaucoma: How to Prevent and Manage. HealthXchange.sg. Retrieved 2022, Sept 12.</small>
+<br>
+
+<h4>eBooks</h4>
+<h5>1. Why We Sleep </h5>
+Matthew Walker, (2017), Why We Sleep: The New Science of Sleep and Dreams. <br>
+Penguin Books Ltd.
+<p><a href="https://share.libbyapp.com/title/3576801" target="_blank"><img src="/images/wellness/adults-and-seniors/whywesleep-book-cover.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Neuroscientist and sleep expert Matthew Walker takes you on a fascinating journey in exploring the mysteries of sleep, and why it matters.</p>
+<p><a href="https://share.libbyapp.com/title/3576801" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/3576801. Retrieved from Libby. </small>
+
+
+<h5>2. The Sleep Solution </h5>
+W. Chris Winter, M.D., (2017), The Sleep Solution: Why Your Sleep is Broken and How to Fix It. <br>
+Penguin Publishing Group.
+<p><a href="https://share.libbyapp.com/title/2926257" target="_blank"><img src="/images/wellness/adults-and-seniors/sleepsolution-book-cover.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Do you have trouble falling asleep? Or do you feel fatigued upon waking up? In the world of seemingly contradictory tips and advice, this book offers a way for you to customise specific interventions to fit your lifestyle and your sleep.</p>
+<p><a href="https://share.libbyapp.com/title/2926257" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/2926257. Retrieved from Libby. </small>
+
+
+<h5>3. The Sleep Fix  </h5>
+Diane Macedo, (2021), The Sleep Fix: Practical, Proven, and Surprising Solutions for Insomnia, Snoring, Shift Work, and More.<br>
+HarperCollins.
+<p><a href="https://share.libbyapp.com/title/6158921" target="_blank"><img src="/images/wellness/adults-and-seniors/sleepfix-book-cover.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Drawing from her own experiences of dealing with insomnia, renowned ABC News anchor/correspondent Diane Macedo offers an accessible guide to getting better sleep.</p>
+<p><a href="https://share.libbyapp.com/title/6158921" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.)</p>
+<small>https://share.libbyapp.com/title/6158921. Retrieved from Libby. </small>
+
 <!-- Evergreen Resources  -->
 <h3><b>Evergreen Resources</b></h3>
 
