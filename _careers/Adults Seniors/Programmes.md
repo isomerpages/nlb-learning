@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /careers/adults-seniors/programmes
+permalink: /careers/adults-seniors/programmes/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -28,7 +28,7 @@ third_nav_title: Adults & Seniors
 Pick up skills from professional trainers, and get answers, ideas as well as inspiration from experts in various subjects.
 
 ## **Get Professional Series**
-![Alt text for image on Isomer site](/images/career/Career-Prog-AS-01.png)
+![Alt text for image on Isomer site](/images/career/Career-Prog-AS-01a.png)
 
 Get Professional Season 4 spotlights important skills to enhance employability (interview and resume writing) and cope in the new normal (managing change and building resiliency), with exciting new facets on writing and presentation skills. From general business writing to corporate storytelling, the series focuses on vital skills to improve workplace productivity and efficiency. 
 
