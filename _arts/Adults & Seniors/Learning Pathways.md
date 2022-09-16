@@ -62,11 +62,11 @@ Through this pathway you can explore different resources and learn ways to culti
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal "> Learn more with the Professionals and Academics in the field </th>
-      </tr>
-    </thead>
-    <tbody>
-			
+        <th colspan="4" class="is-uppercase has-weight-normal "> Learn more with the Professionals and Academics in the field</th>
+			</tr>
+		</thead>
+     <tbody>
+    </tbody>
   </table>
 </div>
 
