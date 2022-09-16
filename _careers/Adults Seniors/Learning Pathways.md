@@ -40,13 +40,13 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/careers/adults-seniors/content#lp-job" target="blank"><b>Job Hunting Toolkit Learning Package</b></a></td>
+        <td style="width: 20%;"><a href="/careers/adults-seniors/content#lp-job" target="blank"><b>Learning Package</b><br/>Job Hunting Toolkit</a></td>
         <td style="width: 40%;">Here are some great resources to help make this journey as painless as possible.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/careers/adults-seniors/content#playlist-job" target="blank"><b>Job Search Strategies Playlist</b></a></td>
+        <td><a href="/careers/adults-seniors/content#playlist-job" target="blank"><b>Playlist</b><br/>Job Search Strategies</a></td>
         <td>Discover the top questions that local interviewers like to ask, how to make your LinkedIn profile a honey trap, and how to get into the optimal mindset while you are on the hunt.</td>
         <td></td>
         <td> </td>
@@ -65,14 +65,14 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     <tbody>
       <tr>
         <td style="width: 20%;"><b>Industry Insights</b></td>
-        <td style="width: 40%;">What is it like having a career in rising, up-and-coming industries? How does one get a foot in the door? Find out through this series of talks.</td>
-        <td style="width: 20%;"><a href="https://go.gov.sg/industryinsights">Various Dates</a></td>
+        <td style="width: 40%;">This month's topic: The Impact of Good and Great Design<br/>with Khai Seng from Studio Dojo<br/><br/>What is it like having a career in rising, up-and-coming industries? How does one get a foot in the door? Find out through this series of talks.</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/industryinsights">29 Sept<br/>7-8pm</a></td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 							      <tr>
         <td><b>Career Coaching (by our partner WSG)</b></td>
         <td>Career Catalyst (1-to-1 Career Coaching) by Workforce Singapore (WSG)</td>
-        <td>WSG's Career Catalyst - details available <a href="https://content.mycareersfuture.gov.sg/careercoaching/article/get-career-clarity/">at their website</a></td>
+        <td>WSG's Career Catalyst - details available <a href="https://content.mycareersfuture.gov.sg/career-guidance/">at their website</a></td>
         <td></td>
 			</tr>
     </tbody>
@@ -88,15 +88,15 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b>Resume Writing Skills</b></td>
+        <td style="width: 20%;"><b>Get Professional</b><br/>Resume Writing Skills</td>
         <td style="width: 40%;">Understand the thought process behind how recruiters review resumes so that you can create one that is truly representative of your talents, experiences, and potential.</td>
         <td style="width: 20%;">Coming Soon</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><b>Interview Skills</b></td>
+        <td><b>Get Professional</b><br/>Interview Skills</td>
         <td>This workshop will guide you through the pre to post-interview processes, help you to understand what your interviewer is looking for, and how to ace the interview session itself.</td>
-        <td>Coming Soon<br></td>
+        <td><a href="https://go.gov.sg/get-professional-series" target="blank">19 Sept<br/>7-8.30pm<br></a></td>
         <td>Zoom</td>
       </tr>
 <tr>
@@ -140,7 +140,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/careers/adults-seniors/content#lp-biz" target="blank"><b>How To Start Your Own Business</b></a></td>
+        <td style="width: 20%;"><a href="/careers/adults-seniors/content#lp-biz" target="blank"><b>Learning Package</b><br/>How To Start Your Own Business</a></td>
         <td style="width: 40%;">Having a great idea is the first step to starting a business of your own.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
@@ -162,13 +162,13 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/careers/adults-seniors/content#lp-comm" target="blank"><b>Communication at Work Learning Package</b></a></td>
+        <td style="width: 20%;"><a href="/careers/adults-seniors/content#lp-comm" target="blank"><b>Learning Package</b><br/>Communication at Work</a></td>
         <td style="width: 40%;">With the right resources and tips, anyone can become a better communicator.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="/careers/adults-seniors/content#playlist-happy" target="_blank"><b>How To Be Happy At Work Playlist</b></a></td>
+        <td><a href="/careers/adults-seniors/content#playlist-happy" target="_blank"><b>Playlist</b><br/>How To Be Happy At Work</a></td>
         <td>Happiness at work (and life) can be simple – learn ways to stop saying “yes” on impulse, how to make your life easier, and how you can use “monk mode” regularly for uninterrupted blocks of super-productive time. </td>
         <td></td>
         <td></td>
@@ -186,13 +186,13 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b>EQ at Work</b></td>
+        <td style="width: 20%;"><b>Get Professional</b><br/>EQ At Work</td>
         <td style="width: 40%;">In this group coaching session, exchange tips and strategies with the trainer and your fellow attendees to get out of sticky situations at work – with finesse.</td>
         <td style="width: 20%;">Coming Soon</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><b>How To Learn Like A Pro</b></td>
+        <td><b>Videos On-Demand</b><br/>How To Learn Like A Pro</td>
        <td>Recordings from the Future of Learning 2021 event, featuring prominent local experts and TED/TEDx speakers</td>
 				<td><a href="https://go.gov.sg/futureoflearning-videos" target="_blank">Panopto</a></td>
         <td>Online</td>
@@ -210,10 +210,10 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
 <tr>
-        <td style="width: 20%;"><a href="https://www.skillsfuture.gov.sg/advice" target="blank"><b>Learn how to acquire new skills with 
-SkillsFuture credits</b></a></td>
-        <td style="width: 40%;">SkillsFuture Advice webinars</td>
-        <td style="width: 20%;"><a href="https://www.skillsfuture.gov.sg/advice" target="blank">Various dates – refer to the SkillsFuture website</a></td>
+        <td style="width: 20%;"><a href="https://www.skillsfuture.gov.sg/advice" target="blank"><b>SkillsFuture Advice Webinars</b></a></td>
+        <td style="width: 40%;">Learn how to acquire new skills with 
+SkillsFuture credits</td>
+        <td style="width: 20%;">Refer to SkillsFuture website</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
     </tbody>

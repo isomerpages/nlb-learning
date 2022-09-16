@@ -1,17 +1,15 @@
 ---
 title: Programmes
-permalink: /reading/Adults-Seniors/programmes
+permalink: /reading/Adults-Seniors/programmes/
 description: ""
 third_nav_title: Adults & Seniors
 ---
 Get to know your books, writers and listen to experts on current issues as we dive into topics on reading and literature.
 
-## **How To Fall In Love with Classics**
-![Alt text for image on Isomer site](/images/reading/adults-seniors/classics.png)
+## **A Bridge to Classics**
+![Alt text for image on Isomer site](/images/reading/adults-seniors/abc.png)
 
-How to Fall in Love with Classics was a lecture series anchored by literary critic and poet Gwee Li Sui that ran for ten seasons from January 2018 – May 2022. Each season looked at classics within a particular genre or theme, ranging from graphic novels to animal fiction. Covering a wide swath of literary classics across time and space, the series introduced attendees to canonical works by writers such as Jorge Luis Borges, Natsume Soseki and Jane Austen, as well as Singaporean authors like Catherine Lim and Arthur Yap. To rewatch past lectures, click [here](https://www.facebook.com/howtofallinlovewithclassics/posts).
-
-Look out for the new series A Bridge to the Classics starting in September 2022!
+Ever wanted to read a classic but felt too intimidated to take the plunge? A Bridge to the Classics is a lecture series that aims to introduce and demystify beloved works of literature. This series will equip attendees with the title’s literary and historical contexts and connect these classics to our lives today.
 
 ## **SG Author Series** 
 
@@ -19,7 +17,7 @@ Look out for the new series A Bridge to the Classics starting in September 2022!
 
 The SG Author Series celebrates local literature by showcasing Singapore authors from various languages who have contributed to the development of Singapore’s literary landscape.
 
-The next season of SG Author series will be held in March 2022. Click [here](https://go.gov.sg/nlblitarts){:target="_blank"} for more literary programmes.
+The next season of SG Author series will be held in September 2022 and March 2023. Click [here](https://go.gov.sg/nlblitarts){:target="_blank"} for more literary programmes.
 
 ## **One Story** 
 
@@ -35,21 +33,15 @@ Think Lit is a literary arts series that addresses contemporary topics in readin
 
 Click [here](https://go.gov.sg/nlblitarts){:target="_blank"} for the latest programme listings.
 
-## **Head2Head** 
-
-Head2Head seeks to create literary dialogues that pair writers of different genres and interests to negotiate their works in a new light. It features works that tackle facets of Singapore life, from nostalgic fiction writing to urban living, from the spoken word to digital mediums, capturing writing styles that writers constantly return to as they chart the past, present and future of Singapore through their words, images and voices.
-
-Seasons 5 of Head2Head will be held in Aug 2022. Click [here](https://go.gov.sg/literaryprogs){:target="_blank"} for more literary programmes.
 
 ## **Reading in the Age of Distraction** 
 
-![Alt text for image on Isomer site](/images/reading/adults-seniors/rad2022.png)
+![Alt text for image on Isomer site](/images/reading/adults-seniors/rad2022-1.png)
 
-Reading in the Age of Distraction (RAD) is a series of conversations featuring acclaimed international thinkers on the science of reading, and reading well in the digital age. The first installation of the event in 2021 featured speakers such as Nicholas Carr, author of <em>The Shallows: What the Internet is Doing to Our Brains</em>, Rolf Dobelli, author of the <em>Art of Thinking Clearly</em>, Alan Rusbridger, former editor-in-chief of The Guardian and Maryanne Wolf, author of <em>Reader Come Home: The Reading Brain in the Digital World</em>.
+Reading in the Age of Distraction (RAD) is a series of conversations featuring acclaimed international thinkers on the science of reading, and reading well in the digital age. The first installation of the event in 2021 featured speakers such as Nicholas Carr, author of <em>The Shallows: What the Internet is Doing to Our Brains</em>, Rolf Dobelli, author of the <em>Art of Thinking Clearly</em>, Alan Rusbridger, former editor-in-chief of The Guardian and Maryanne Wolf, author of <em>Reader Come Home: The Reading Brain in the Digital World</em>. Click [here](https://www.youtube.com/playlist?list=PLJlLW0qKYHTOqPxC7r4BMBjRK0bUJEZXi){:target="_blank"} to listen to selected RAD 2021's webinars.
 
-For 2022, RAD will discuss strategies to cultivate focused reading in a distracted age. Register [here](https://www.eventbrite.com/cc/reading-in-the-age-of-distraction-2022-465039?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=odclsxcollection){:target="_blank"} to listen to acclaimed speakers and authors on deep reading, reading actively as well as reading aloud to foster connections.
+For 2022, RAD discussed strategies to cultivate focused reading in a distracted age. Click [here](https://go.gov.sg/rad2022-recordings){:target="_blank"} to listen to acclaimed speakers and authors on deep reading, reading actively as well as reading aloud to foster connections.
 
-Click [here](https://www.youtube.com/playlist?list=PLJlLW0qKYHTOqPxC7r4BMBjRK0bUJEZXi){:target="_blank"} to listen to selected RAD 2021's webinars.
 
 ## **Read Fest!** 
 

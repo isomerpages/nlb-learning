@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /reading/Adults-Seniors/content
+permalink: /reading/Adults-Seniors/content/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -386,7 +386,7 @@ Retrieved 20 December 2021.</small></p>
 
 
 <h4><b>Programmes on Singapore Literature</b></h4>
-<p>Literary programmes featuring Sing Lit are always happening in the library. Browse through <a href="https://www.eventbrite.com/c/literary-arts-programmes-ccbxzpzm--NctcKbrqfPWk/" target="_blank">go.gov.sg/literaryprogs</a> to find the right one for you!
+<p>Literary programmes featuring Sing Lit are always happening in the library. Browse through <a href="https://www.eventbrite.com/cc/nlb-literary-arts-programmes-436599" target="_blank">go.gov.sg/nlblitarts</a> to find the right one for you!
 </p>
 			
 <h4><b>References</b></h4>

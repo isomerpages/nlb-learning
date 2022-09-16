@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /careers/adults-seniors/programmes
+permalink: /careers/adults-seniors/programmes/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -28,9 +28,9 @@ third_nav_title: Adults & Seniors
 Pick up skills from professional trainers, and get answers, ideas as well as inspiration from experts in various subjects.
 
 ## **Get Professional Series**
-![Alt text for image on Isomer site](/images/career/Career-Prog-AS-01.png)
+![Alt text for image on Isomer site](/images/career/Career-Prog-AS-01a.png)
 
-Get Professional Season 4 spotlights important skills to enhance employability (interview and resume writing) and cope in the new normal (managing change and building resiliency), with exciting new facets on writing and presentation skills. From general business writing to corporate storytelling, the series focuses on vital skills to improve workplace productivity and efficiency. 
+<i>Get Professional Season 4</i> spotlights important skills to enhance employability (interview and resume writing) and cope in the new normal (managing change and building resiliency), with exciting new facets on writing and presentation skills. From general business writing to corporate storytelling, the series focuses on vital skills to improve workplace productivity and efficiency. 
 
 Click [here](http://go.gov.sg/get-professional-series){:target="_blank"} for the latest programme listings.
 
@@ -60,7 +60,7 @@ Coming soon.
 
 ## **Eye on Asia**
 ![Alt text for image on Isomer site](/images/career/Career-Prog-AS-03.png)
-Eye on Asia is a collaborative effort by the National Library with partners from both public and private sectors to provide resources for everyone, including young Singaporeans, who wish to find out more about the region and explore internationalisation opportunities abroad.
+<i>Eye on Asia</i> is a collaborative effort by the National Library with partners from both public and private sectors to provide resources for everyone, including young Singaporeans, who wish to find out more about the region and explore internationalisation opportunities abroad.
 
 Focusing on ASEAN, China and India, as well as emerging cities, you will discover a broad overview of useful resources to create more awareness of developments in these countries. In addition, regular programmes are organised to gain insights from entrepreneurs and people who have lived and worked abroad in these cities and countries.
 

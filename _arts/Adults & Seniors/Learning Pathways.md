@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /arts/Adults-Seniors/learning-pathways
+permalink: /arts/Adults-Seniors/learning-pathways/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -29,6 +29,7 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 
 We start with <a href="#cultivating-appreciation"> Cultivating Appreciation for the Arts</a>. Following that, we will proceed to <a href="#learn-skills"> Learning Skills and Supporting the Creation of Artworks</a> and finally, we end with <a href="#participating-art"> Participating in the Art Community</a>.
 
+<!-- Cultivating Appreciation  -->
 <h3 id="cultivating-appreciation" class="margin--bottom--lg"><b> Cultivating Appreciation for the Arts </b></h3>
 When it comes to discovering and cultivating appreciation for the Arts, there are so many entry points to do so and yet too many that we might be confused on where to start. But why develop an appreciation for the Arts? Firstly, it helps us to develop our eyes and minds as we encounter what we see in it. It also helps open our mindset by listening to different perspectives and views as well as interpretations. It encourages thoughtful conversation and the understanding that there is more than one approach to everything. 
 Through this pathway you can explore different resources and learn ways to cultivate aesthetic appreciation.
@@ -61,42 +62,17 @@ Through this pathway you can explore different resources and learn ways to culti
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal "> Learn more with the Professionals and Academics in the field </th>
-      </tr>
-    </thead>
-    <tbody>
-			<tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/talkingartwithgillesmassot" target="_blank"><b>Talking Art | Get Started in: Reading Art</b></a></td>
-        <td style="width: 40%;"> Join our Talking Art guest lecturer, Gilles Massot, as he goes in-depth about cameras and photography, and its profound effect on visual perception and culture. This lecture is part of a year-long reading program, Get Started In: Reading Art, a series of foundational art-centric newsletters and talks covering art literacy, history and analysis.</td>
-        <td style="width: 20%;">26 March 2022,<br> 4pm - 5.30pm </td>
-        <td style="width: 20%;">Zoom </td>
+        <th colspan="4" class="is-uppercase has-weight-normal "> Learn more with the Professionals and Academics in the field</th>
 			</tr>
-			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/374759254017" target="_blank"><b>Pro Series: Concept Design (Creating Environments with References) | library@orchard</b></a></td>
-        <td style="width: 40%;"> In this session, illustrator and concept artist Ray Toh will break down the processes involved in drawing inspiration from reality: researching, observing, and deconstructing useful information to recreate an imaginative environment that is both fantastical and believable. Live demos will also be conducted throughout the session to show his design process.</td>
-        <td style="width: 20%;">13 Aug 2022,<br> 2.30pm - 4.30pm </td>
-        <td style="width: 20%;">Zoom </td>
-			</tr>
-			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/374920044947" target="_blank"><b>Pro Series: Jewellery Design (Artisanal Crystal Jewellery) | library@orchard </b></a></td>
-        <td style="width: 40%;"> In this talk, jewellery designer and founder of Beadnbutter, Jayne, will share what goes on behind the scenes of a small business in Singapore. She will share how her brand began, some of her inspirations, what it takes to design a crystal bracelet and her struggles behind the scenes. There will also be a live demo on how she crafts a crystal bracelet.</td>
-        <td style="width: 20%;">20 Aug 2022,<br> 2.30pm - 4.30pm </td>
-        <td style="width: 20%;">Zoom </td>
-			</tr>
-<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/378167698767" target="_blank"><b>Pro Series: Zine Design (A History of Zines) | library@orchard </b></a></td>
-        <td style="width: 40%;"> Join us at the library for this talk with CT Lim on the complex and vibrant history of zines. <br><br>
- 
-Zines have been at the centre of radical culture for decades. From the early days of fandom to the samizdat of Eastern Europe and the punk zines of the 1970s, zines have formulated and documented subcultures and the subterranean imagination. Today, zines have entered the art world and are being marketed as limited-edition artefacts and collectibles. It continues to be part of the culture wars between conflicting ideologies and identities.</td>
-        <td style="width: 20%;">26 Aug 2022,<br> 6.30pm - 8.30pm </td>
-        <td style="width: 20%;">library@orchard, Imagine This </td>
-			</tr>		
+		</thead>
+     <tbody>
     </tbody>
   </table>
 </div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<!-- Learning Skills  -->
 <h3 id="learn-skills" class="margin--bottom--lg"><b> Learning Skills and Supporting the Creation of Artworks </b></h3>
 Whether you are a beginner who is just getting started or a creative who is exploring a new medium or artform for the first time, knowing exactly where to start can be a challenge. 
 Through this pathway you can explore different resources and learn or hone new skills and medium through the different programmes we have planned. 
@@ -147,19 +123,12 @@ Through this pathway you can explore different resources and learn or hone new s
       </tr>
 			
 <tr>
-<td><a href="https://www.eventbrite.sg/e/resident-saori-weaving-open-studio-libraryorchard-registration-374893014097" target="_blank"><b>Resident: Saori Weaving (Open Studio) | library@orchard</b></a></td>
-        <td> Weaving is an age-old practice inextricably linked to the art of storytelling. The words ‘text’ and ‘textile’ come from the Latin word ‘texere’, which means 'to weave'. <br><br>
+<td><a href="https://www.eventbrite.sg/e/378185401717" target="_blank"><b>Tactile Tales: Weaving with Stories (Teaching and Learning) | library@orchard</b></a></td>
+        <td> Weaving is an age-old practice inextricably linked to the art of storytelling. The words ‘text’ and ‘textile’ come from the Latin word ‘texere’, which means 'to weave'.<br><br>
 
-Textile artist Natalia Tann is library@orchard’s artist-in-residence from August 2022 to January 2023! During this residency, she will be exploring the intertwining of narratives with the craft of weaving. Please note that Open Studio sessions are not workshops.</td>
-        <td>14 Aug 2022, <br>2pm - 5pm</td>
+In this community artmaking session, library@orchard’s artist-in-residence Natalia Tan will guide participants to explore their personal stories through freestyle weaving.</td>
+        <td>25 Sept 2022, <br>2pm - 4pm</td>
         <td>library@orchard, Imagine That</td>
-      </tr>
-			
-<tr>
-<td><a href="https://www.eventbrite.sg/e/tactile-tales-weaving-with-stories-home-and-belonging-libraryorchard-registration-374997677147" target="_blank"><b>Tactile Tales: Weaving with Stories (Home and Belonging) | library@orchard</b></a></td>
-        <td> In this community artmaking session, library@orchard’s artist-in-residence Natalia Tan will guide participants to explore their personal stories through freestyle weaving. Simple weaving tools and materials will be provided. Participants may also bring their own story-related items to weave into the artwork, or just for storytelling purposes.</td>
-        <td>28 Aug 2022, <br>2pm - 4pm</td>
-        <td>library@orchard, Imagine This & That</td>
       </tr>
     </tbody>
   </table>
@@ -167,6 +136,7 @@ Textile artist Natalia Tann is library@orchard’s artist-in-residence from Augu
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<!-- Participating in Art Community  -->
 <h3 id="participating-art" class="margin--bottom--lg"><b> Participating in the Art Community </b></h3>
 A big part of art is active participation in the larger community: seeing others’ works and being seen for yourself. Through this pathway, you can explore our myriad of established programme series and Learning Communities, and participate in them to continue your own curated learning journeys. 
 <div class="horizontal-scroll margin--bottom--lg">
@@ -176,18 +146,11 @@ A big part of art is active participation in the larger community: seeing others
         <th colspan="4" class="is-uppercase has-weight-normal "> Learn More With Fellow Peers and Professionals in the Field </th>
       </tr>
     </thead>
-    <tbody>    		
+    <tbody>    					
 <tr>
-<td><a href="https://www.eventbrite.sg/e/communities-zzzink-feasting-zines-libraryorchard-registration-378170457017" target="_blank"><b> Communities: Zzzink! (Feasting Zines) | library@orchard </b></a></td>
-        <td> In this programme, participants will be creating zines about gastronomical feasts for this session of Communities: Zzzink! As we celebrate National Day this month, we take the opportunity to look back on some memorable feasts we’ve enjoyed with friends and family all around the globe. During the session, participants may create zines with the theme of the month, work on your own zines or simply use the time to connect with like-minded creators.</td>
-        <td>21 Aug 2022, 3pm - 5pm</td>
-        <td>library@orchard, Make</td>
-      </tr>
-			
-<tr>
-<td><a href="https://www.eventbrite.com/cc/libraryorchard-programmes-138109?utm-campaign=social&utm-content=creatorshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=escb" target="_blank"><b> Communities: Zzzink! </b></a></td>
+<td><a href="https://www.eventbrite.sg/e/396337454997" target="_blank"><b> Communities: Zzzink! | library@orchard </b></a></td>
         <td> Zzzink! is a community of human beings who gather every third Sunday of the month to tinker with zines and the many possible forms of art and narratives. We seek to learn, experiment and grow together in a messily freeing space by creating, sharing and exploring new ground.</td>
-        <td>Every 3rd Sunday of the month</td>
+        <td>18 Sept 2022, 3pm - 5pm</td>
         <td>library@orchard, Make</td>
       </tr>
 			

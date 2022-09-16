@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /wellness/adults-seniors/content
+permalink: /wellness/adults-seniors/content/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -55,6 +55,13 @@ Check out our playlists and learning packages for book recommendations, collecti
       </a>
     </div>
   </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#playlist-managing-conditions">
+        <span>Playlist: Managing Conditions & Medications</span>
+      </a>
+    </div>
+  </div>
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
       <a href="#lp-nourish">
@@ -66,6 +73,13 @@ Check out our playlists and learning packages for book recommendations, collecti
     <div class="clickbox is-thoughtful-tangerine">
       <a href="#lp-sleep">
         <span>Learning Package: Sleep</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#lp-managing-conditions">
+        <span>Learning Package: Managing Conditions & Medications</span>
       </a>
     </div>
   </div>
@@ -88,6 +102,7 @@ Check out our playlists and learning packages for book recommendations, collecti
 <h3><b>Playlists</b></h3>
 A collection of short videos or selected podcasts, exploring topics around mental, physical and financial wellness.
 
+<!-- Nourish Playlist  -->
 <h5 class="margin--bottom--lg" id="playlist-nourish"><b> Playlist: Nourish Your Body</b></h5>
 
 What does it mean to eat well and how do you go about achieving it?
@@ -133,6 +148,7 @@ It seems simple enough, but healthy eating is more complex than it looks. This v
   </div>
 </div> 
 
+<!-- Sleep Playlist  -->
 <h5 class="margin--bottom--lg" id="playlist-sleep"><b> Playlist: Sleep</b></h5>
 
 <div class="row is-multiline margin--bottom--lg">
@@ -172,8 +188,51 @@ We may think we are the experts of sleep – after all, it’s something we do e
   </div>
 </div> 
 
+<!-- Managing Conditions Playlist  -->
+
+<h5 class="margin--bottom--lg" id="playlist-managing-conditions"><b> Playlist: Managing Conditions and Medications</b></h5>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/CQyn4ZyPq9k" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> 9 Ways to Medication Safety (3:29)</b><br>
+Find out 9 simple steps to ensure you are taking your medicine safely and responsibly in this animated video.<br>
+<small> Source: 9 Ways to Medication Safety (2018, Jan 22). IMHsingapore. Retrieved 2022, Sept 8. </small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/FWsBm3hr3B0" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Why Haven’t We Cured Arthritis - Kaitlyn Sadtler and Heather J. Faust (4:24 mins)</b><br>
+From explaining the different types of arthritis conditions, debunking popular myths to introducing tips to prevent the onset of arthritis, get to know more about one of the most common chronic pains that plagues the human race. <br>
+<small> Source: Why Haven't We Cured Arthritis? – Kaitlyn Sadtler and Heather J. Faust (2019, Nov 8). TED-Ed. Retrieved 2022, Sept 12.</small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/Ab3nSeTc6I4" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Neurologists Debunk 11 Headache And Migraine Myths | Debunked (12:13) </b><br>
+Neurologists Deena Kuruvilla and Cynthia Armand debunk 11 myths about headaches and migraine attacks. Watch on to find out how migraine is just simply a headache (but a neurological disease!), the relationship it has with caffeine and more. <br>
+<small> Source: Neurologists Debunk 11 Headache And Migraine Myths | Debunked (2021, Dec 13). Science Insider. Retrieved 2022, Sept 12. </small></p>
+  </div>
+</div> 
 
 <h3><b>Learning Package</b></h3>
+
+<!-- Nourish LP  -->
+
 <h5 class="margin--bottom--lg" id="lp-nourish"><b>Learning Package: Nourish Your Body</b></h5>
 	
 A key pillar of physical wellness is a healthy, balanced diet. However, when it comes to nutrition, it seems as if everyone has a different opinion of what it means to eat well. How do you make sense of all these recommendations? To help you separate the myths from the facts, check out the resources we have compiled here.
@@ -237,6 +296,7 @@ New York : Anchor Books, 2008.
 <small>https://share.libbyapp.com/title/5921840. Retrieved from Libby. </small>
 <br>
 
+<!-- Sleep LP  -->
 <h5 class="margin--bottom--lg" id="lp-sleep"><b>Learning Package: Sleep</b></h5>
 
 Sleep is an underrated and increasingly neglected aspect of our health. In fact, Singaporeans are amongst the most sleep-deprived people in the world! So, why do we sleep? And what benefits do we get out of this seemingly passive activity? Dive into the wonderful world of sleep with these resources.
@@ -292,6 +352,62 @@ HarperCollins.
 <p><a href="https://share.libbyapp.com/title/6158921" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.)</p>
 <small>https://share.libbyapp.com/title/6158921. Retrieved from Libby. </small>
 
+<!-- Managing Conditions LP  -->
+
+<h5 class="margin--bottom--lg" id="lp-managing-conditions"><b>Learning Package: Managing Conditions and Medications</b></h5>
+
+<p>We may find ourselves face-to-face with medical conditions that, despite not being life-threatening, significantly impair our daily lives. To help you better prevent and manage these medical conditions, check out the resources we have compiled here.</p>
+
+<h4>Articles</h4>
+
+<h5>1. Glaucoma: How to Prevent and Manage </h5>
+<p> Glaucoma is the 2nd leading cause of blindness in Asia. This article advises on how to detect glaucoma in its early stages, manage glaucoma better and offers tips on maintaining better eye health in general.</p>
+<p><a href="https://www.healthxchange.sg/head-neck/eye-care/glaucoma-how-to-prevent-and-manage" target="_blank"> Read the article here</a>. </p>
+<small>Source: Glaucoma: How to Prevent and Manage. HealthXchange.sg. Retrieved 2022, Sept 12.</small>
+<br>
+
+<h5>2. Common Myths and Facts about Sleep </h5>
+<p> How many hours of sleep do we really need? Can napping compensate for our lack of sleep? Find out more about the facts of sleep in this article to navigate sleep disorders and improve the quality of your nightly rest.</p>
+<p><a href="https://www.sleepfoundation.org/how-sleep-works/myths-and-facts-about-sleep" target="_blank"> Read the article here</a>. </p>
+<small>Source: Common Myths and Facts About Sleep. Sleep Foundation. Retrieved 2022, Sept 12.</small>
+<br>
+
+<h5>3. Management and Treatment for Irritable Bowel Syndrome (IBS) </h5>
+<p> Irritable bowel syndrome (IBS) is a chronic medical condition of the gut and intestine that affects up to 9 per cent of the population in Singapore. This article shares diet and lifestyle tips that could help you achieve a happier and healthier gut.</p>
+<p><a href="https://www.healthxchange.sg/digestive-system/irritable-bowel-syndrome/management-treatment-irritable-bowel-syndrome-ibs" target="_blank"> Read the article here</a>. </p>
+<small>Source: Management and Treatment for Irritable Bowel Syndrome (IBS). HealthXchange.sg Retrieved 2022, Sept 12.</small>
+<br>
+
+<h4>eBooks & audiobooks</h4>
+<h5>1. Manage Your Menopause Naturally </h5>
+Maryon Stewart, (2020), Manage Your Menopause Naturally: The Six-Week Guide to Calming Hot Flashes & Night Sweats, Getting Your Sex Drive Back, Sharpening Memory & Reclaiming Well-Being<br>
+San Francisco: New World Library.
+<p><a href="https://share.libbyapp.com/title/5779197" target="_blank"><img src="/images/wellness/adults-and-seniors/manage-your-menopause-ebook.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Menopause is too often treated as a problem to be solved or an illness to be cured, not the natural process it is. World-renowned healthcare expert Maryon Stewart outlines her wonderfully comprehensive and practical Six-Week Natural Menopause Solution with steps that women can take to feel better right away.</p>
+<p><a href="https://share.libbyapp.com/title/5779197" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/5779197. Retrieved from Libby. </small>
+
+
+<h5>2. Navigating Life with Chronic Pain (Audiobook) </h5>
+Robert A Lavin MD, MS, Sara Clayton PhD, Lindsay Zilliox MD (2020), Navigating Life with Chronic Pain<br>
+United Kingdom: Oxford University Press 
+
+<p><a href="https://share.libbyapp.com/title/5280186" target="_blank"><img src="/images/wellness/adults-and-seniors/navigating-chronic-pain-audiobook.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> This audiobook aims to provide clear and reliable information about chronic pain, including current approaches to diagnoses, a comprehensive, integrated approach to chronic pain treatment and real-world experiences and advice on navigating the day-to-day challenges of chronic pain.</p>
+<p><a href="https://share.libbyapp.com/title/5280186" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this audio book.) </p>
+<small>https://share.libbyapp.com/title/5280186. Retrieved from Libby. </small>
+
+
+<h5>3. The Anxious Perfectionist  </h5>
+Clarissa W. Ong, Michael P. Twohig, Randy O. Frost, (2022), The Anxious Perfectionist: How to Manage Perfectionism-Driven Anxiety Using Acceptance & Commitment Therapy <br>
+Oakland, California: New Harbinger Publications
+
+<p><a href="https://share.libbyapp.com/title/6461508" target="_blank"><img src="/images/wellness/adults-and-seniors/anxious-perfectionist-ebook.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Written by two clinical psychologists, The Anxious Perfectionist shines a much-needed light on the hidden costs of “being the best,” and offers essential skills based in acceptance and commitment therapy (ACT) to help you cope with the anxiety that is driven by your perfectionism.</p>
+<p><a href="https://share.libbyapp.com/title/6461508" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.)</p>
+<small>https://share.libbyapp.com/title/6461508. Retrieved from Libby. </small>
+
+<!-- Evergreen Resources  -->
 <h3><b>Evergreen Resources</b></h3>
 
 <h4><b> Mind Your Head: Mental Wellness</b></h4>

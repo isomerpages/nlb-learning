@@ -60,19 +60,19 @@ Go green with your child to build an eco-friendly future together.
       </tr>
     </thead>
     <tbody>
-			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/storytelling-with-the-singapore-police-force-10-years-old-and-below-tickets-390019828807?aff=ebdsoporgprofile" target="_blank"><b>Storytelling with the Singapore Police Force (10 years old and below)</b></a></td>
-        <td style="width: 40%;">Join our Police Officers from Woodlands Division for a special storytelling session about saving the earth and achieving environmental sustainability together!
-</td>
-        <td style="width: 20%;">3 Sep 2022, <br>3pm-3.30pm</td>
-        <td style="width: 20%;">Woodlands Regional Library</td>
-			</tr>
-			<tr>
+						<tr>
          <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-reduce-food-waste-green-market-tickets-396986867407?aff=odcleoeventsincollection" target="_blank"><b>How to Reduce Food Waste | Green Market</b></a></td>
         <td style="width: 40%;">Learn all about food waste and how we can play our part to reduce it! Expect fun and games while learning how food waste is formed, the resources required to produce food, and how to play a more active role in reducing food waste.
 </td>
         <td style="width: 20%;">18 Sep 2022, <br>2.30pm-3.30pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library</td>
+			</tr>
+			<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/living-with-nature-storytelling-by-nparks-tickets-399911735767?aff=odcleoeventsincollection" target="_blank"><b>Living with Nature | Storytelling by NParks</b></a></td>
+        <td style="width: 40%;">Join NParks for their Living with Nature sessions, featuring storytelling and craft!
+</td>
+        <td style="width: 20%;">24 Sep 2022, <br>2pm-2.30pm</td>
+        <td style="width: 20%;">library@harbourfront</td>
 			</tr>
     </tbody>
   </table>
@@ -87,9 +87,9 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/storytime-with-spca-singapore-tickets-396430894477?aff=ebdsoporgprofile" target="_blank"><b>Storytime with SPCA Singapore!</b></a></td>
-        <td style="width: 40%;">Join guest readers from the SPCA for an interactive session to learn about pets. Children can learn fun facts about animals, share their love for animals and explore ways they can play a part to help animals.</td>
-        <td style="width: 20%;">10 Sep 2022,<br>11am-12pm</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/wondering-with-books-lets-think-about-emotions-little-philosophers-tickets-399915507047?aff=odcleoeventsincollection" target="_blank"><b>Wondering with Books: Let's Think About Emotions! | Little Philosophers</b></a></td>
+        <td style="width: 40%;">Fear, joy, embarrassment, anger, sadness… we have so many emotions! What are emotions? What are the different ways we think about emotions? What is the relationship between our thoughts and our feelings? As Little Philosophers, let us discuss these big questions and more as we read about a rabbit’s exploration of his feelings.</td>
+        <td style="width: 20%;">25 Sep 2022,<br>10.30am-12pm</td>
         <td style="width: 20%;">Jurong Regional Library</td>
       </tr>
      </tbody>

@@ -176,17 +176,16 @@ In this workshop, you will be guided on how to set SMART goals and have the conv
 
 <tbody>
 <tr>
-<td><strong>Old Fiber, New Paper: Turn Vegetable Waste into Paper | GREENHOUSE</strong></td>
-<td>In this programme, participants will be experiencing the process of making biodegradable papers from vegetable wastes. These papers can be used for scrapbooking or for packaging small items. Please bring a carrier bag with you to the workshop. <br><br>
- 
-About the speaker:<br>
-Grayce graduated from NYP in 2021 with a Diploma in Molecular Biotechnology.<br><br>
+<td><strong><a href="https://www.eventbrite.sg/e/hydroponic-gardening-at-home-time-of-your-life-tickets-407877652037" target="_blank">Hydroponic Gardening at Home | Time of Your Life</a></strong></td>
+<td>This programme is intended for those aged 50 and above. <br><br>
 
-This programme is brought to you in collaboration with Nanyang Polytechnic.<br><br>
-	
-The registration link for the event will be available soon. <br></td>
-<td>24 Sept 2022, 10.30am - 1pm</td>
-<td>Tampines Regional Library, Culinary Studio</td>
+Are you interested in home gardening but hesitant about the hassle of preparing, potting, and caring for your plants? If so, this workshop is for you! <br><br>
+
+Find out more about hydroponic gardening, a simple alternative to traditional gardening. Using a DIY hydroponics kit, discover how you can grow vegetables and other garden edibles at home. Get started on your green journey with this simple and fuss-free method of gardening!<br><br>
+
+This programme is jointly brought to you by the National Library Board and Nanyang Polytechnic. <br><br>
+<td>17 Sept 2022, 2pm - 4pm</td>
+<td>Jurong Regional Library</td>
 </tr>
 </tbody></table>
 <br>
