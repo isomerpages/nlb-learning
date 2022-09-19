@@ -61,7 +61,7 @@ Check out our **learning package** for more insights into digital concepts.
   </div>
   </div>
 	
-<h5 id="playlist"><b>Become Digitally Savvy!</b></h5>
+<h5 id="playlist"><b>Playlist: Become Digitally Savvy!</b></h5>
 Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.
 <br>
 <div class="row is-multiline margin--bottom--lg">
