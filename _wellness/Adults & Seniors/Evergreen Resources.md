@@ -85,3 +85,8 @@ Here are some Wellness resources to help you on your wellness journey!
     </div>
   </div>
 </div>
+
+<h3><b>Mind Your Head: Mental Wellness</b></h3>
+
+<!-- Gratitude Journals  -->
+<h5 class="margin--bottom--lg" id="gratitude-journals"><b> Gratitude Journals</b></h5>
