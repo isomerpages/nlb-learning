@@ -44,43 +44,44 @@ Here are some Wellness resources to help you on your wellness journey!
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="/wellness/adults-seniors/content">
+      <a href="#gratitude-journals">
         <span>Mind Your Head: <br> Gratitude Journals</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="/wellness/adults-seniors/programmes">
+      <a href="#myh-resources">
         <span>Mind Your Head: <br>Partner Resources</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="/wellness/adults-seniors/learning-pathways">
+      <a href="#myb-resources">
         <span>Mind Your Body:<br>Partner Resources</span>
       </a>
     </div>
   </div>
 	<div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="/wellness/adults-seniors/programmes">
+      <a href="#aoyt-resources">
         <span>Ahead Of Your Time: <br>Partner Resources</span>
       </a>
     </div>
   </div>
 	<div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="/wellness/adults-seniors/programmes">
+      <a href="#caregiving-resources">
         <span>Care-giving: <br>Partner Resources</span>
       </a>
     </div>
   </div>
 	<div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="/wellness/adults-seniors/programmes">
+      <a href="#fin-resources">
         <span>Financial Wellness: <br>Partner Resources</span>
       </a>
     </div>
   </div>
+</div>
