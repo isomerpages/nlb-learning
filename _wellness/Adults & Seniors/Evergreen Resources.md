@@ -38,5 +38,3 @@ third_nav_title: Adults & Seniors
 .clickbox.is-thoughtful-tangerine a:hover { background-color: #FE5828; color: #ffc9ad; }
 
 </style>
-
-</style
