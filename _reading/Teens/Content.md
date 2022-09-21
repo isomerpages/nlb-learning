@@ -178,6 +178,10 @@ Tamil language education was provided as early as 1834 in Singapore, and Anglo-T
 ![Book recs 2](/images/reading/teens/Book%20Rec%202.jpg)
 ![Book Recs 3](/images/reading/teens/Book%20Rec%203.jpg)
 
+This learning package was created by Goh Zhen Xiang Brandon, Nur Zakiyah Zakariah, Song Haiwan, and Shawn Seah Wei Xun, as part of the National Institute of Education Group Endeavours in Service Learning Group 10 (Sec/JC2022).
+
+You may download the complete package as a PDF [here](/files/Multilingualism.pdf).
+
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
