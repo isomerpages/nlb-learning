@@ -147,3 +147,9 @@ Here are some Wellness resources to help you on your wellness journey!
 
 <li><a href="#mindline-link">Mindline.sg</a><br>
 <li><a href="#healthxchange-link">HealthXchange.sg</a></li>
+
+<h3> Wellness Resource Centre</h3>
+
+ <h5 id="hrc-link"><a href="https://eresources.nlb.gov.sg/main/Open/1351?mode=edatabase" target="_blank"> Health Reference Centre eResource</a></h5>
+
+<p>Health Reference Center includes comprehensive, in-depth coverage of body systems, current health issues, major diseases and conditions, treatments, and procedures, as well as health and nutrition information specific to men, women, children, teens, and seniors.</p>
