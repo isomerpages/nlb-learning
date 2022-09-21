@@ -110,7 +110,7 @@ Check out our **learning packages** to explore ways of expressing yourself throu
     <p><b> Singapore's Mother Tongue Struggle: How Bilingual Are We? (22 min)</b><br>
 Under Singapore's education system, most of us have received 10 years of compulsory Mother Tongue education. But, are we really effectively proficient in it? Follow Steven Chia as he finds out how we can learn our Mother Tongue more effectively.
 <br><br>
-<small> Source: Singapore's Mother Tongue Struggle: How Bilingual Are We? | Talking Point | Full Episode(https://www.youtube.com/watch?v=k7k-YLOwJQ0) 2022, Aug 22. CNA Insider. Retrieved 2022, 21 September. </small></p>
+<small> Source: Singapore's Mother Tongue Struggle: How Bilingual Are We? | Talking Point | Full Episode (2022, Aug 22). CNA Insider. Retrieved 2022, 21 September. </small></p>
   </div>
 </div>
 
@@ -124,7 +124,7 @@ Under Singapore's education system, most of us have received 10 years of compuls
     <p><b> How Good Are We At Our Mother Tongue? (20 min) </b><br>
 Check out how much of their Mother Tongue The Smart Local remembers.
 <br><br>
-<small> Source: #LifeAtTSL: How Good Are We At Our Mother Tongue?(https://www.youtube.com/watch?v=cMn4UtRGoRY) 2021, Aug 13. TheSmartLocal. Retrieved 2022, 21 September.  </small></p>
+<small> Source: #LifeAtTSL: How Good Are We At Our Mother Tongue? (2021, Aug 13). TheSmartLocal. Retrieved 2022, 21 September.  </small></p>
   </div>
 </div>
 
@@ -135,10 +135,10 @@ Check out how much of their Mother Tongue The Smart Local remembers.
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> How Singlish Went From 'Cannot Make It' To National Hero (47 min) </b><br>
+    <p><b> How Singlish Went From 'Cannot Make It' To National Hero(47 min) </b><br>
 Musician and host Shabir Tabare Alam explore the origins of Singlish and traces its history in Singapore.
 <br><br>
-<small> How Singlish Went From ‘Cannot Make It’ To National Hero | Singlish: Why We Talk Like That? – Part 1 (https://www.youtube.com/watch?v=gamPZMj2po4) 2022, Aug 8. CNA Insider. Retrieved 2022, 21 September.</small></p>
+<small> How Singlish Went From ‘Cannot Make It’ To National Hero | Singlish: Why We Talk Like That? – Part 1 (2022, Aug 8). CNA Insider. Retrieved 2022, 21 September.</small></p>
   </div>
 </div>
 
