@@ -71,7 +71,7 @@ Make reading a fun activity while fostering that special bond between you and yo
      <tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
-       <td>Check out all the Jiggle Read & Rhyme sessions for September!</td>
+       <td>Check out all the Jiggle Read & Rhyme sessions for October!</td>
         <td>Various Locations</td>
       </tr>
 			<tr>			
