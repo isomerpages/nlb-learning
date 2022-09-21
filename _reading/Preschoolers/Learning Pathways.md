@@ -122,15 +122,15 @@ Join us as we discuss the following title: <br><br> Book title: Self-Care for Ad
         <td>Woodlands Regional Library</td>
       </tr>
 				<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/say-no-to-food-waste-tickets-395749506427?aff=odcleoeventsincollection"><b> Say No to Food Waste </b></a></td>
-         <td>  Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. 
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-abcs-of-microgreens-tickets-409753111587?aff=odcleoeventsincollection"><b>  [Caring for the Environment] ABCs of Microgreens </b></a></td>
+         <td>  Join us in this workshop as we learn about microgreens and fall in love with the ease of planting these young seedlings. This is a parent-child programme and is suitable for children aged 4-6 years old.
  </td>
-        <td>10 Sep 2022<br>2.00pm–3.00pm<br></td>
-        <td>library@harbourfront </td>
+        <td>9 Oct 2022<br>11.30am–12.30pm<br></td>
+        <td>Bedok Public Library  </td>
       </tr>
 					  
 			<tr>           
-<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-urban-farming-farm-to-table-tickets-411848198047?aff=ebdsoporgprofile"><b> Caring for the Environment | Urban Farming: Farm to Table</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/arise-farm-from-seed-to-harvest-plants-friends-foes-tickets-416468768297?aff=odcleoeventsincollection"><b> Arise & Farm: From Seed To Harvest-Plants’ Friends & Foes </b></a></td>
 
         <td> “All big things come from small beginnings.” — James Clear<br><br>Welcome to the amazing world of Urban Farming!<br>
 During this hands-on workshop, your child will learn about being food conscious through interactive activities, like crafts, a stimulating sensory experience, and a storytelling of a classic book!<br><br>
