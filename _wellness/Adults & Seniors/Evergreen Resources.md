@@ -158,7 +158,7 @@ Here are some Wellness resources to help you on your wellness journey!
 
 <a href="https://for.sg/mindline4nlb" target="_blank"><img src="/images/wellness/adults-and-seniors/Mindline1.png" width="615" height="346"></a>
 <p>mindline.sg is a digital stress management platform that aims to empower and equip individuals with tools, knowledge and pathways to self-care and seek out professional help when needed.</p>
-<a href="https://for.sg/mindlineatwork-4nlb" target="_blank"><img src="/images/wellness/adults-and-seniors/mindline-work-small.png" width="615" height="346"></a>
+<a href="https://for.sg/mindlineatwork4nlb" target="_blank"><img src="/images/wellness/adults-and-seniors/Mindline-work.png" width="615" height="346"></a>
 
 <h5 id="healthxchange-link"><a href="https://www.healthxchange.sg/about-us" target="_blank"><b> HealthXchange.sg</b></a></h5>
 
