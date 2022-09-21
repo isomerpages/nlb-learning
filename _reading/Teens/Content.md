@@ -53,13 +53,6 @@ Check out our **learning packages** to explore ways of expressing yourself throu
       </a>
     </div>
   </div>
-	  <div class="col is-one-third">
-    <div class="clickbox is-indigo-sky">
-      <a href="#lp-multilingualism">
-        <span>Playlist:<br>Marvellous Manga</span>
-      </a>
-    </div>
-  </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#playlist-manga">
@@ -67,6 +60,16 @@ Check out our **learning packages** to explore ways of expressing yourself throu
       </a>
     </div>
   </div>
+<div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#lp-manga">
+        <span>Learning Package:<br>Singapore's Multilingualism</span>
+      </a>
+    </div>
+  </div>
+	  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#lp-singapores-multi">
 <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#lp-manga">
@@ -145,7 +148,7 @@ In this clip, we take a look at the process of turning the One-Punch Man manga i
 
 Get insights on reading and written-word expressions with these articles and activities.
 
-<h5 ><b>Singapore's Multilingualism</b></h5>
+<h5 id="lp-singapores-multi" class="margin--bottom--lg"><b>Singapore's Multilingualism</b></h5>
 
 ![About our local languages header](/images/reading/teens/loclang.png)
 
