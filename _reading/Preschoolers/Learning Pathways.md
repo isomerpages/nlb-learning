@@ -132,11 +132,9 @@ Join us as we discuss the following title: <br><br> Book title: Self-Care for Ad
 			<tr>           
 <td><a target="_blank" href="https://www.eventbrite.sg/e/arise-farm-from-seed-to-harvest-plants-friends-foes-tickets-416468768297?aff=odcleoeventsincollection"><b> Arise & Farm: From Seed To Harvest-Plants’ Friends & Foes </b></a></td>
 
-        <td> “All big things come from small beginnings.” — James Clear<br><br>Welcome to the amazing world of Urban Farming!<br>
-During this hands-on workshop, your child will learn about being food conscious through interactive activities, like crafts, a stimulating sensory experience, and a storytelling of a classic book!<br><br>
-What will your child be creating that day?
+        <td> Learn about the process of farming through a guided exhibit tour and tactile hands-on activities! This programme is suitable for children aged 4-6 yrs old. 
 <br>
-Let’s have a look at the craft https://go.gov.sg/farmtotableatbedok </td><td>11 Sep 2022<br>11.00am–12.00pm<br></td><td> Bedok Public Library </td>
+</td><td>29 Oct 2022<br>10.30am–12.00pm<br></td><td> Bishan Public Library </td>
       </tr>
 			
   </tbody>
