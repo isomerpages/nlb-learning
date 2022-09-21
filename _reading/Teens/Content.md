@@ -62,7 +62,7 @@ Check out our **learning packages** to explore ways of expressing yourself throu
   </div>
 <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#lp-manga">
+      <a href="#lp-singapores-multi">
         <span>Learning Package:<br>Singapore's Multilingualism</span>
       </a>
     </div>
