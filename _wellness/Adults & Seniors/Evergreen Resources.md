@@ -156,5 +156,14 @@ Here are some Wellness resources to help you on your wellness journey!
 
 <h5 id="mindline-link"><a href="https://mindline.sg" target="_blank"><b> mindline.sg</b></a></h5>
 
-<a href="https://for.sg/mindlineatwork4nlb" target="_blank"><img src="/images/wellness/adults-and-seniors/Mindline-work.png" width="615" height="346"></a>
+<a href="https://for.sg/mindline4nlb" target="_blank"><img src="/images/wellness/adults-and-seniors/Mindline1.png" width="615" height="346"></a>
 <p>mindline.sg is a digital stress management platform that aims to empower and equip individuals with tools, knowledge and pathways to self-care and seek out professional help when needed.</p>
+<a href="https://for.sg/mindlineatwork4nlb" target="_blank"><img src="/images/wellness/adults-and-seniors/Mindline-work.png" width="615" height="346"></a>
+
+<h5 id="healthxchange-link"><a href="https://healthxchange.sg/about-us" target="_blank"><b> HealthXchange.sg</b></a></h5>
+
+<p>HealthXchange.sg aims to encourage personal responsibility and ownership of personal health care by providing useful information and advice on healthy living and medical care options. Content is contributed by professional experts in their respective fields.</p>
+
+<h5 id="mentalhealth-link"><a href="https://www.aic.sg/body-mind/mental-health-elearning" target="_blank"><b> Mental Health e-Learning</b></a></h5>
+
+<p>Want to learn more about dementia or mental health conditions and know where to seek help? Visit this link for e-learning modules dementia or mental health awareness developed by The Agency for Integrated Care (AIC).</p>
