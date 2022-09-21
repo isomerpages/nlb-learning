@@ -109,10 +109,10 @@ Join us as we discuss the following title: <br><br> Book title: Self-Care for Ad
     </thead>
     <tbody>
 			 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/cc/green-market-live-light-go-green-for-kids-1058439"><b>Green Market: Live Light, Go Green (For Kids)</b></a></td>
-        <td> Introduce your child to eco-friendly ways of living through fun activities and storytelling sessions at Green Market: Live Light, Go Green.</td>
-       <td>17 – 18 Sep<br>11am – 8pm<br></td>
-        <td>Choa Chu Kang Public Library and Zoom </td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-i-fun-with-computational-thinking-tickets-412604470077"><b>DiscoverTech|Fun with Computational Thinking</b></a></td>
+        <td>This “how-to” workshop will provide parents with a range of “thinking” tools and teaching techniques that they can use at home and whenever the family is together to nurture their children's skills in computational thinking. Learn how you can strengthen family bonds while laying the foundation for their children’s future </td>
+       <td>1 Oct 2022<br>11am – 12pm<br></td>
+        <td>Tampines Regional Library</td>
       </tr>
 			  <tr>	
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-lets-play-with-polygons-tickets-395760529397?aff=odcleoeventsincollection"><b> Budding Scientists: Let's Play with Polygons!</b></a></td>
