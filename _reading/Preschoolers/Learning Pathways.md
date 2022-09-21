@@ -80,8 +80,8 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td> Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!
 <br>
 This programme is intended for parents with babies up to 12 months. </td>
-					<td>5 Oct 2022<br>4.0pm-4.30pm<br></td>
-        <td>Bishan Public Library</td>
+					<td>11 Oct 2022<br>4.00pm-4.30pm<br></td>
+        <td>Tampines Regional Library</td>
       </tr>		
 <tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/parenting-book-club-with-jenny-ng-tickets-409772830567?aff=odcleoeventsincollection"><b>Parenting Book Club with Jenny Ng | Early READ</b></a></td>
