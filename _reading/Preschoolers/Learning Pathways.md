@@ -75,13 +75,13 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Various Locations</td>
       </tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-songs-rhymes-early-read-registration-385275006917?aff=odcleoeventsincollection"><b>Baby Songs & Rhymes | Early READ 
+<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-lapsit-early-read-registration-381532693557?aff=odcleoeventsincollection"><b>Baby Lapsit | Early READ 
  </b></a></td>
-        <td> Songs and rhymes play an important role in stimulating your baby's langauge development. In this virtual session, you will be introduced to simple songs, action rhymes and finger plays that you can use to interact and bond with your baby at home. 
+        <td> Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!
 <br>
 This programme is intended for parents with babies up to 12 months. </td>
-					<td>3 Sep 2022<br>11.00am-11.30am<br></td>
-        <td>Zoom</td>
+					<td>5 Oct 2022<br>4.0pm-4.30pm<br></td>
+        <td>Bishan Public Library</td>
       </tr>		
 <tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/baby-lapsit-early-read-registration-389183055997?aff=odcleoeventsincollection"><b>Baby Lapsit | Early READ</b></a></td>
