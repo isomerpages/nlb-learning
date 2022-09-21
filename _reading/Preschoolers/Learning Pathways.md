@@ -91,10 +91,10 @@ Join us as we discuss the following title: <br><br> Book title: Self-Care for Ad
         <td>Zoom</td>
 </tr>	
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/awaken-the-reader-in-your-child-early-read-tickets-396914159937?aff=odcleoeventsincollection"><b> Awaken the Reader in Your Child | Early READ </b></a></td>
-        <td>Join us for an exciting hour of tips and fun activities you can do with your little one to spark their love of reading. This interactive parent-child programme is highly recommended for children aged 2 to 6. </td>
-        <td>2 Sep 2022<br>3.00pm – 4.00pm<br></td>
-        <td>Zoom</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/special-play-session-tickets-417799067257?aff=odcleoeventsincollection"><b> Special Play Session | Early READ </b></a></td>
+        <td>Come bond with your little ones in this self-guded play session. Let your children explore the various edu-aids that we have and get to engage your children in meaningful play! Do drop by any time between 2pm - 4pm. This programme is suitable for children between 0-6 years old. </td>
+        <td>28 Oct 2022<br>2.00pm – 4.00pm<br></td>
+        <td>Sengkang Public Library</td>
   					</tr>
 			<tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-395775173197?aff=odcleoeventsincollection"><b> Children's Puppet Castle </b></a></td>
