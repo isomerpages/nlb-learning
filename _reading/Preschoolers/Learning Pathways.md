@@ -110,7 +110,7 @@ Join us as we discuss the following title: <br><br> Book title: Self-Care for Ad
     <tbody>
 			 <tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-i-fun-with-computational-thinking-tickets-412604470077"><b>DiscoverTech|Fun with Computational Thinking</b></a></td>
-        <td>This “how-to” workshop will provide parents with a range of “thinking” tools and teaching techniques that they can use at home and whenever the family is together to nurture their children's skills in computational thinking. Learn how you can strengthen family bonds while laying the foundation for their children’s future </td>
+        <td>This “how-to” workshop will provide parents with a range of “thinking” tools and teaching techniques that they can use at home and whenever the family is together to nurture their children's skills in computational thinking. </td>
        <td>1 Oct 2022<br>11am – 12pm<br></td>
         <td>Tampines Regional Library</td>
       </tr>
