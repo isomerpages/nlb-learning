@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /reading/Teens/learning-pathways
+permalink: /reading/Teens/learning-pathways/
 description: ""
 third_nav_title: Teens
 ---
@@ -18,20 +18,14 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href= "/reading/teens/content"><b>Playlist: Marvellous Manga (Part 1)</b></a></td>
-        <td style="width: 40%;">Check out this collection of short videos, and learn more about the origins of manga.</td>
-        <td style="width: 20%;"> </td>
-        <td style="width: 20%;"> </td>
-      </tr>
-      <tr>
-        <td style="width: 20%;"><a target="_blank" href="/reading/teens/content"><b>Learning Package: Marvellous Manga (Part 2)</b></a></td>
-        <td>Learn about the history, the subgenres and the craft that goes into making this eminent japanese artform.</td>
+        <td style="width: 20%;"><a target="_blank" href= "/reading/teens/content"><b>Playlist: Multilingualism</b></a></td>
+        <td style="width: 40%;">Check out this collection of short videos, and learn more about our nation's unique cultural diversity.</td>
         <td></td>
         <td> </td>
     </tr>
 			      <tr>
-        <td style="width: 20%;"><a target="_blank" href= "/reading/teens/content"><b>Playlist: Marvellous Manga (Part 3)</b></a></td>
-        <td style="width: 40%;">Learn how manga has been adapted to different mediums, such as anime, and more!</td>
+        <td style="width: 20%;"><a target="_blank" href= "/reading/teens/content"><b>Learning Package: Multilingualism</b></a></td>
+        <td style="width: 40%;">Trace the history of singapore's racial and linguistic diversity, and take a fun quiz at the end! </td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
@@ -50,38 +44,38 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/unplugged-origame-tickets-387332410667?aff=ebdsoporgprofile"><b>Unplugged: Origame</b></a></td>
-        <td style="width: 40%;">Celebrate National Day by joining local game publisher Origame in playing Singapore-inspired board games in this family-friendly tabletop gaming session!</td>
-        <td style="width: 20%;"> 5 Aug 2022, <br>3pm – 5pm,</td>
-        <td style="width: 20%;">Choa Chu Kang Library PZ</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/short-story-writing-workshop-with-inez-tan-tickets-415713529357?aff=ebdsoporgprofile"><b>Short Story Writing Workshop with Inez Tan</b></a></td>
+        <td style="width: 40%;">This 4-week workshop will introduce you to thinking about stories in terms of four simple craft elements. Tools and techniques that that you'll be able to use in your writing.</td>
+        <td style="width: 20%;"> 1, 8, 15, 22 Oct 2022,
+<br>3pm – 4pm,</td>
+        <td style="width: 20%;">Jurong West Public Library PZ</td>
       </tr>
 					<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/beginnings-endings-head2head-tickets-349213556147?aff=ebdsoporgprofile"><b>Beginnings & Endings | Head2Head</b></a></td>
-        <td>All good stories eventually come to an end, but they don’t all end the same way. Join the writers as they contextualise beginnings and endings in the structure of their work.
-        </td><td>10 Aug 2022, <br>7 – 8pm</td>
-        <td>Online</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/the-saturday-book-club-tickets-414475456247?aff=ebdsoporgprofile"><b>The Saturday Book Club</b></a></td>
+        <td>The Saturday Book Club serves to bring together to share their learnings in the aspect of personal and professional self-improvement.
+        </td><td>8 Oct 2022, <br>10am-12.30pm</td>
+        <td>Ang Mo Kio Public Library PZ</td>
       </tr>
 <tr>
-<td><b>(On-site) Read Together Session for Teens | Read for Books 2022</b><br>
-	<a target="_blank" href="https://www.eventbrite.sg/e/on-site-read-together-session-for-teens-read-for-books-2022-tickets-388573402507?aff=ebdsoporgprofile"><b>Session 1</b></a><br>
-	<a target="_blank" href="https://www.eventbrite.sg/e/on-site-read-together-session-for-teens-read-for-books-2022-tickets-388574535897?aff=ebdsoporgprofile"><b>Session 2</b></a></td>
-        <td> Join us for a book talk followed by a 15-minute reading session! Get to know our librarian's top picks for local books for young adults in this Singlit Special and share the gift of reading.
-	</td><td><b>Session 1</b><br>13 Aug 2022, <br>1 – 1.30pm<br><b>Session 2</b><br>27 Aug 2022, <br>1 – 1.30pm
+<td><a target="_blank" href="https://www.eventbrite.sg/e/pro-series-zine-design-the-future-of-zines-libraryorchard-registration-409152735847?aff=ebdsoporgprofile"><b>Pro Series: Zine Design (The Future of Zines) | library@orchard</b></a></td>
+        <td> library@orchard presents a Pro Series: Zine Design talk with Lim Cheng Tju and Renée Ting on The Future of Zines.
+	</td><td>14 Oct 2022,
+6.30 – 8.30pm
 	</td>
-        <td>Woodlands Regional Library</td>
+        <td>library@orchard PZ</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/all-our-brave-earthly-scars-by-danielle-lim-sing-lit-book-club-tickets-361663905477?aff=ebdsoporgprofile"><b>All Our Brave, Earthly Scars by Danielle Lim | Sing Lit Book Club</b></a></td>
-        <td> Join us at Singapore Literature Book Club as we discuss All Our Brave, Earthly Scars with the award-winning author Danielle Lim. This will be an interactive session, please come prepared to discuss the book and share your thoughts!
-        </td><td>18 Aug 2022, <br>7 – 9.30pm</td>
-        <td>National Library Possibility Room</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087?aff=ebdsoporgprofile"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
+        <td> Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG. </td>
+	<td>22 Oct 2022, <br>1pm – 5pm</td>
+        <td>Choa Chu Kang Public Library PZ</td>
       </tr>
 
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/cckpl-dungeons-dragons-experience-with-the-legitimate-business-tlb-tickets-380178242357?aff=ebdsoporgprofile" ><b>CCKPL: Dungeons & Dragons Experience with The Legitimate Business (TLB)</b></a></td>
-	<td>Learn to play Dungeons and Dragons, the world’s biggest tabletop RPG. Join us for a session of storytelling, roleplaying, and dice rolling.<br><br>Participants should bring a pencil and an eraser.<br><br>
-        </td><td>27 Aug 2022, <br>1 – 5pm</td>
-        <td>Choa Chu Kang Library PZ</td>
+<td><a target="_blank" href="=https://www.eventbrite.sg/e/chairs-by-queensway-secondary-drama-club-registration-411113450397?aff=ebdsoporgprofile" ><b>Chairs by Queensway Secondary Drama Club</b></a></td>
+	<td>Chairs is a student-led performance by Secondary 3 students from the Queensway Secondary School Drama Club.<br>
+        </td><td>29 Oct 2022, <br>11 – 11.30am</td>
+        <td>Queenstown Public Library PZ</td>
       </tr>
     </tbody>
   </table>
@@ -96,22 +90,24 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/understanding-challenges-adolescents-face-from-a-mental-health-perspective-tickets-383938228577?aff=ebdsoporgprofile"><b>Understanding Challenges Adolescents Face from a Mental Health Perspective</b></a></td>
-        <td style="width: 40%;"> Learn about common mental health challenges that teenagers face and how to seek subsidised medical services for them.</td>
-        <td style="width: 20%;">6 Aug 2022, <br>3pm – 4.30pm</td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/the-perfect-balance-tweenkerama-sengkang-public-library-tickets-411737988407?aff=ebdsoporgprofile"><b>The Perfect Balance | Tweenkerama @ Sengkang Public Library</b></a></td>
+        <td style="width: 40%;"> Join us for a fun-filled workshop to learn about balanced forces and gravity and create your very own model with LEGO!</td>
+        <td style="width: 20%;">7 Oct 2022, <br>2 – 4pm</td>
+        <td style="width: 20%;">Sengkang Public Library PZ</td>
       </tr>
 <tr>
-        <td><a target="_blank" href="https://www.eventbrite.sg/e/sound-on-registration-377034138257?aff=ebdsoporgprofile"><b>Sound On</b></a></td>
-        <td>Learn how sound travels through different types of matter and create your very own phone speaker using material such as paper cups and clip binders.</td>
-        <td>24 Aug 2022<br>1 – 5pm</td>
-        <td>Seng Kang Public Library</td>
+        <td><a target="_blank" href="https://www.eventbrite.sg/e/leap-into-livestreaming-with-obs-my-digital-life-registration-411806784177?aff=ebdsoporgprofile"><b>Leap into Livestreaming with OBS | My Digital Life</b></a></td>
+        <td>Learn the software and tools on how to livestream effectively.</td>
+        <td>15 Oct 2022,
+10.30am – 12.30pm</td>
+        <td>Online</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/10-no-nos-in-social-media-marketing-my-digital-life-tickets-384458384377?aff=ebdsoporgprofile" ><b>10 No-Nos in Social Media Marketing | My Digital Life</b></a></td>
-	<td>Social Media has changed the way businesses drive sales and marketing. However, not everyone may be aware of the perils of social media if not used correctly. Learn 10 of the biggest mistakes in social media marketing, and how you can avoid them.<br><br>
-        </td><td>17 Aug 2022, <br>7.30 – 8.30pm</td>
-        <td>Zoom</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/just-jam-for-beginners-46-jazz-for-curious-listeners-registration-384455395437?aff=ebdsoporgprofile" ><b>Just Jam for Beginners 4/6 | Jazz for Curious Listeners</b></a></td>
+	<td>Join us in our 6-session introductory series on Jazz music and appreciation, catered for the beginners!<br><br>
+        </td><td>22 Oct 2022,
+4pm – 5.30pm</td>
+        <td>library@esplanade</td>
       </tr>
 
     </tbody>
