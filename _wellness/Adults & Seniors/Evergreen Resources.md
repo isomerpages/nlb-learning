@@ -109,3 +109,32 @@ Here are some Wellness resources to help you on your wellness journey!
 <li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
 <li><a href="#healthxchange-link">HealthXchange.sg</a></li>
 <li><a href="#mentalhealth-link">Mental Health e-Learning</a></li>
+
+<!-- MYB -->
+<h3><b>Mind Your Body: Physical Wellness</b></h3>
+
+<!-- MYB Partner Resources  -->
+<h4 class="margin--bottom--lg" id="myb-resources"><b> Partner Resources</b></h4>
+
+<li><a href="#mindline-link">Mindline.sg</a><br>
+<li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
+<li><a href="#healthxchange-link">HealthXchange.sg</a></li>
+
+<!-- AOYT  -->
+<h3><b>Ahead of Your Time: End of Life Matters</b></h3>
+
+<!-- AOYT Partner Resources  -->
+<h4 class="margin--bottom--lg" id="aoyt-resources"><b> Partner Resources</b></h4>
+
+<li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
+<li><a href="#healthxchange-link">HealthXchange.sg</a></li>
+
+<!-- Care-giving  -->
+<h3><b>Care-giving</b></h3>
+
+<!-- Caregiving Partner Resources  -->
+<h4 class="margin--bottom--lg" id="caregiving-resources"><b> Partner Resources</b></h4>
+
+<li><a href="#mindline-link">Mindline.sg</a><br>
+<li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
+<li><a href="#healthxchange-link">HealthXchange.sg</a></li>
