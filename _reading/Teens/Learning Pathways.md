@@ -59,7 +59,7 @@ Take the plunge into a deeper love for the literary.
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/pro-series-zine-design-the-future-of-zines-libraryorchard-registration-409152735847?aff=ebdsoporgprofile"><b>Pro Series: Zine Design (The Future of Zines) | library@orchard</b></a></td>
         <td> library@orchard presents a Pro Series: Zine Design talk with Lim Cheng Tju and Renée Ting on The Future of Zines.
-	</td><td>14 Oct 2022,
+	</td><td>14 Oct 2022, <br>
 6.30 – 8.30pm
 	</td>
         <td>library@orchard PZ</td>
@@ -98,14 +98,14 @@ Take the plunge into a deeper love for the literary.
 <tr>
         <td><a target="_blank" href="https://www.eventbrite.sg/e/leap-into-livestreaming-with-obs-my-digital-life-registration-411806784177?aff=ebdsoporgprofile"><b>Leap into Livestreaming with OBS | My Digital Life</b></a></td>
         <td>Learn the software and tools on how to livestream effectively.</td>
-        <td>15 Oct 2022,
+        <td>15 Oct 2022,<br>
 10.30am – 12.30pm</td>
         <td>Online</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/just-jam-for-beginners-46-jazz-for-curious-listeners-registration-384455395437?aff=ebdsoporgprofile" ><b>Just Jam for Beginners 4/6 | Jazz for Curious Listeners</b></a></td>
 	<td>Join us in our 6-session introductory series on Jazz music and appreciation, catered for the beginners!<br><br>
-        </td><td>22 Oct 2022,
+        </td><td>22 Oct 2022, <br>
 4pm – 5.30pm</td>
         <td>library@esplanade</td>
       </tr>
