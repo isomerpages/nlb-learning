@@ -89,6 +89,7 @@ Here are some Wellness resources to help you on your wellness journey!
 <h3><b>Mind Your Head: Mental Wellness</b></h3>
 
 <!-- Gratitude Journals  -->
-<h5 class="margin--bottom--lg" id="gratitude-journals"><b> Gratitude Journals</b></h5>
+<h4 class="margin--bottom--lg" id="gratitude-journals"><b> Gratitude Journals</b></h4>
 
+<h5><a href="/files/Wellness/Gratitude-Journal-Issue-1.pdf" target="_blank">Design 1</a></h5>
 <p><a href="/files/Wellness/Gratitude-Journal-Issue-1.pdf" target="_blank"><img src="/images/wellness/adults-and-seniors/gj-issue1.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
