@@ -90,3 +90,5 @@ Here are some Wellness resources to help you on your wellness journey!
 
 <!-- Gratitude Journals  -->
 <h5 class="margin--bottom--lg" id="gratitude-journals"><b> Gratitude Journals</b></h5>
+
+<p><a href="[gratitude-journal-1]()" target="_blank"><img src="/images/wellness/adults-and-seniors/gj-issue1.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
