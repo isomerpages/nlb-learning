@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /reading/Teens/content
+permalink: /reading/Teens/content/
 description: ""
 third_nav_title: Teens
 ---
@@ -81,6 +81,31 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 
 
 <h3><b>Playlist</b></h3>
+
+<h5 ><b>Singapore's Multilingualism</b></h5>
+
+![About our local languages header](/images/reading/teens/loclang.png)
+
+**Malay language**
+
+The Malay language has been the lingua franca of maritime Southeast Asia for centuries. Traders and travellers had to learn Malay in order to communicate with the local population. The history of the Malay language can be divided into three periods: Old Malay (6-15th century), Classical Malay (Jawi scripts) and Modern Malay.
+
+Around the 15th to mid-19th century, the region was under Islamic rule and thus Malay language evolved around Arabic and Persian culture. The Jawi script is based on Arabic alphabets with five additional letters representing the Malay phonemes. By the 19th century, Malay had absorbed and loaned words from many other languages, due to colonisation and migration.
+
+
+**Chinese language**
+
+The earliest examples of Chinese language are divinatory inscriptions on oracle bones from the Shang dynasty. In the 1930s, a standard Chinese language, Mandarin, was adopted. The entire Chinese character corpus comprises well over 50,000 characters.
+
+The Chinese orthography centres on Chinese characters, which are traditionally arranged in vertical columns, read from top to bottom down a column, and right to left across columns. With the growing importance and influence of Mandarin, it has been gaining popularity in schools throughout East Asia, Southeast Asia, and the Western world.
+
+This is part one of a three-part series on manga. For more resources on this topic, check out NLB’s collection of eBooks [here](https://nlb.overdrive.com/library/teens/search?subject=127&subject=12&sortBy=newlyadded)!
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="manga2" class="margin--bottom--lg"><b>Marvellous Manga (Part 2)</b></h5>
+
+In part one of our three-part series on the marvellous world of manga, we introduced you to [its history and its writers](https://learning.nlb.gov.sg/reading/teens/content#lp-manga). In part two, we’ll delve into how manga is read and what to read next. 
 	
 A collection of short videos and podcasts to expand your reading and writing interests.
 
