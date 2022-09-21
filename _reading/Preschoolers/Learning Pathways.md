@@ -115,11 +115,11 @@ Join us as we discuss the following title: <br><br> Book title: Self-Care for Ad
         <td>Tampines Regional Library</td>
       </tr>
 			  <tr>	
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-lets-play-with-polygons-tickets-395760529397?aff=odcleoeventsincollection"><b> Budding Scientists: Let's Play with Polygons!</b></a></td>
-        <td> Bring your child into the wonderful world of pretty polygons and they will discover that these shapes have been around them all this while. They will jiggle, read and rhyme to some fun Shape songs.
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-sounds-tickets-410297780707?aff=odcleoeventsincollection"><b> [Budding Engineers] Sounds </b></a></td>
+        <td> Join this workshop to learn how sounds are made! This programme is suitable for children of 4-6 years and their parents.
 </td>
-        <td>7 Sep 2022<br>1.30pm– 2.30pm<br></td>
-        <td>Jurong Regional Library</td>
+        <td>1 Oct 2022<br>11.00am–12.00pm<br></td>
+        <td>Woodlands Regional Library</td>
       </tr>
 				<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/say-no-to-food-waste-tickets-395749506427?aff=odcleoeventsincollection"><b> Say No to Food Waste </b></a></td>
