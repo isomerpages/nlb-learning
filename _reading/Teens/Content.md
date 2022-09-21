@@ -103,7 +103,7 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=k7k-YLOwJQ0"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/k7k-YLOwJQ0"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -117,7 +117,7 @@ Under Singapore's education system, most of us have received 10 years of compuls
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=cMn4UtRGoRY"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/cMn4UtRGoRY"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -131,7 +131,7 @@ Check out how much of their Mother Tongue The Smart Local remembers.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=gamPZMj2po4"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/gamPZMj2po4"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
