@@ -87,8 +87,8 @@ This programme is intended for parents with babies up to 12 months. </td>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/parenting-book-club-with-jenny-ng-tickets-409772830567?aff=odcleoeventsincollection"><b>Parenting Book Club with Jenny Ng | Early READ</b></a></td>
         <td>Learn tips and tools to help you set boundaries with others, honor and validate your emotions, and thrive in the face of life's challenge!<br><br>
 Join us as we discuss the following title: <br><br> Book title: Self-Care for Adult Children of Emotionally Immature Parents<br><br>Authors: Lindsay C. Gibson, PsyD, Rachel Perry</td>
-        <td>7 Sep 2022<br>2.00pm – 2.30pm<br></td>
-        <td>Woodlands Regional Library</td>
+        <td>8 Oct 2022<br>11.00am – 12.00pm<br></td>
+        <td>Zoom</td>
 </tr>	
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/awaken-the-reader-in-your-child-early-read-tickets-396914159937?aff=odcleoeventsincollection"><b> Awaken the Reader in Your Child | Early READ </b></a></td>
