@@ -90,7 +90,7 @@ Here are some Wellness resources to help you on your wellness journey!
 
 <!-- Gratitude Journals  -->
 <h4 class="margin--bottom--lg" id="gratitude-journals"><b> Gratitude Journals</b></h4>
-<p> Gratitude encourages the treasuring of positive life experiences, paving a way to a healthier life. <br><br>With this in mind, we have created a series of gratitude journals to be shared with you! Record and treasure your life experiences with the help of gratitude journals. <br><br>These downloadable PDFs can be printed out or accessed digitally <b>(click on the thumbnail to download)</b>.</p>
+<p> Gratitude encourages the treasuring of positive life experiences, paving a way to a healthier life. With this in mind, we have created a series of gratitude journals to be shared with you! Record and treasure your life experiences with the help of gratitude journals. <br><br>These downloadable PDFs can be printed out or accessed digitally <b>(click on the thumbnail to download)</b>.</p>
 
 
 <h5>Design 1</h5>
