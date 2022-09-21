@@ -46,6 +46,20 @@ Check out our **playlists** for collections of short videos and podcasts to expa
 Check out our **learning packages** to explore ways of expressing yourself through literary arts with these articles and activities.
 
 <div class="row is-multiline">
+	  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#playlist-multilingualism">
+        <span>Playlist:<br>Multilingualism</span>
+      </a>
+    </div>
+  </div>
+	  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#lp-multilingualism">
+        <span>Playlist:<br>Marvellous Manga</span>
+      </a>
+    </div>
+  </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#playlist-manga">
@@ -81,47 +95,6 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 
 
 <h3><b>Playlist</b></h3>
-
-<h5 ><b>Singapore's Multilingualism</b></h5>
-
-![About our local languages header](/images/reading/teens/loclang.png)
-
-**Malay language**
-
-The Malay language has been the lingua franca of maritime Southeast Asia for centuries. Traders and travellers had to learn Malay in order to communicate with the local population. The history of the Malay language can be divided into three periods: Old Malay (6-15th century), Classical Malay (Jawi scripts) and Modern Malay.
-
-Around the 15th to mid-19th century, the region was under Islamic rule and thus Malay language evolved around Arabic and Persian culture. The Jawi script is based on Arabic alphabets with five additional letters representing the Malay phonemes. By the 19th century, Malay had absorbed and loaned words from many other languages, due to colonisation and migration.
-
-![malay artefacts](/images/reading/teens/Malay%20docs.png)
-
-**Chinese language**
-
-The earliest examples of Chinese language are divinatory inscriptions on oracle bones from the Shang dynasty. In the 1930s, a standard Chinese language, Mandarin, was adopted. The entire Chinese character corpus comprises well over 50,000 characters.
-
-The Chinese orthography centres on Chinese characters, which are traditionally arranged in vertical columns, read from top to bottom down a column, and right to left across columns. With the growing importance and influence of Mandarin, it has been gaining popularity in schools throughout East Asia, Southeast Asia, and the Western world.
-
-![Chinese artefacts](/images/reading/teens/Chinese%20Docs.png)
-
-**Tamil language**
-
-Tamils in Singapore have settled in the country through continuous waves of migration over a period of 200 years. As early migrants became settlers, language became useful tools that fostered social integration amongst the diverse groups of Tamils.
-
-Tamil language education was provided as early as 1834 in Singapore, and Anglo-Tamil schools were established in 1873. It is evident that the roots of most present-day Tamil culture, customs, religious ideologies, and affiliations in Singapore can be traced to the 19th century and that they have continued to evolve over the centuries.
-
-![Tamil Artefacts](/images/reading/teens/Indian%20Docs.png)
-
-![Book Rec 1](/images/reading/teens/Book%20Rec%201.jpg)
-![Book recs 2](/images/reading/teens/Book%20Rec%202.jpg)
-![Book Recs 3](/images/reading/teens/Book%20Rec%203.jpg)
-
-
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
-<h5 id="manga2" class="margin--bottom--lg"><b>Marvellous Manga (Part 2)</b></h5>
-
-In part one of our three-part series on the marvellous world of manga, we introduced you to [its history and its writers](https://learning.nlb.gov.sg/reading/teens/content#lp-manga). In part two, we’ll delve into how manga is read and what to read next. 
-	
-A collection of short videos and podcasts to expand your reading and writing interests.
 
 <h5 class="margin--bottom--lg" id="playlist-manga"><b>Playlist: Marvellous Manga</b></h5>
 
@@ -171,6 +144,41 @@ In this clip, we take a look at the process of turning the One-Punch Man manga i
 <h3><b>Learning Package</b></h3>
 
 Get insights on reading and written-word expressions with these articles and activities.
+
+<h5 ><b>Singapore's Multilingualism</b></h5>
+
+![About our local languages header](/images/reading/teens/loclang.png)
+
+**Malay language**
+
+The Malay language has been the lingua franca of maritime Southeast Asia for centuries. Traders and travellers had to learn Malay in order to communicate with the local population. The history of the Malay language can be divided into three periods: Old Malay (6-15th century), Classical Malay (Jawi scripts) and Modern Malay.
+
+Around the 15th to mid-19th century, the region was under Islamic rule and thus Malay language evolved around Arabic and Persian culture. The Jawi script is based on Arabic alphabets with five additional letters representing the Malay phonemes. By the 19th century, Malay had absorbed and loaned words from many other languages, due to colonisation and migration.
+
+![malay artefacts](/images/reading/teens/Malay%20docs.png)
+
+**Chinese language**
+
+The earliest examples of Chinese language are divinatory inscriptions on oracle bones from the Shang dynasty. In the 1930s, a standard Chinese language, Mandarin, was adopted. The entire Chinese character corpus comprises well over 50,000 characters.
+
+The Chinese orthography centres on Chinese characters, which are traditionally arranged in vertical columns, read from top to bottom down a column, and right to left across columns. With the growing importance and influence of Mandarin, it has been gaining popularity in schools throughout East Asia, Southeast Asia, and the Western world.
+
+![Chinese artefacts](/images/reading/teens/Chinese%20Docs.png)
+
+**Tamil language**
+
+Tamils in Singapore have settled in the country through continuous waves of migration over a period of 200 years. As early migrants became settlers, language became useful tools that fostered social integration amongst the diverse groups of Tamils.
+
+Tamil language education was provided as early as 1834 in Singapore, and Anglo-Tamil schools were established in 1873. It is evident that the roots of most present-day Tamil culture, customs, religious ideologies, and affiliations in Singapore can be traced to the 19th century and that they have continued to evolve over the centuries.
+
+![Tamil Artefacts](/images/reading/teens/Indian%20Docs.png)
+
+![Book Rec 1](/images/reading/teens/Book%20Rec%201.jpg)
+![Book recs 2](/images/reading/teens/Book%20Rec%202.jpg)
+![Book Recs 3](/images/reading/teens/Book%20Rec%203.jpg)
+
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h5 id="lp-manga" class="margin--bottom--lg"><b>Marvellous Manga (Part 1)</b></h5>
 
