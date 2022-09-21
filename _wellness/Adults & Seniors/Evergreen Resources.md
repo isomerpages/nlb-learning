@@ -101,3 +101,9 @@ Here are some Wellness resources to help you on your wellness journey!
 
 <h5>Design 3</h5>
 <p><a href="/files/Wellness/Gratitude-Journal-Issue-3.pdf" target="_blank"><img src="/images/wellness/adults-and-seniors/gj-issue3.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+
+<!-- MYH Partner Resources  -->
+<h4 class="margin--bottom--lg" id="myh-resources"><b> Partner Resources</b></h4>
+
+<li><a href="#mindline-link">Mindline.sg</a><br>
+<li><a href="#mindline-link">Health Reference Centre e-Resource</a></li>
