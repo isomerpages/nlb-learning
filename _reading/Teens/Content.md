@@ -67,9 +67,9 @@ Check out our **learning packages** to explore ways of expressing yourself throu
       </a>
     </div>
   </div>
-	  <div class="col is-one-third">
-    <div class="clickbox is-indigo-sky">
-      <a href="#lp-singapores-multi">
+  </div>
+
+<div class="row is-multiline">
 <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#lp-manga">
@@ -84,9 +84,6 @@ Check out our **learning packages** to explore ways of expressing yourself throu
       </a>
     </div>
   </div>
-	</div>
-
-<div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#manga3">
@@ -94,6 +91,7 @@ Check out our **learning packages** to explore ways of expressing yourself throu
       </a>
     </div>
   </div>
+	
 </div>
 
 
