@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /reading/Tweens/learning-pathways
+permalink: /reading/Tweens/learning-pathways/
 description: ""
 third_nav_title: Tweens
 ---
@@ -37,7 +37,7 @@ Read with your child to explore new topics and discover new experience.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/reading/tweens/content" target="_blank"><b>Playlist: Blast from the Past</b></a></td>
+        <td style="width: 20%;"><a href="/reading/tweens/content#blast-from-the-past" target="_blank"><b>Playlist: Blast from the Past</b></a></td>
         <td style="width: 40%;"> Explore different topics with these resources for your child to expand reading diets. </td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
