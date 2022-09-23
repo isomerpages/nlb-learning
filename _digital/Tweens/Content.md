@@ -75,7 +75,7 @@ Check out our **S.U.R.E.vivor series** for more information on how to assess the
 <h3><b>PLAYLIST</b></h3>
 <p>A collection of short videos exploring topics around digital concepts.</p>
 
-<h5 id="surevivor-all-about-memes "><b> All about Memes! | S.U.R.E.vivor </b></h5>
+<h5 id="surevivor-all-about-memes"><b> All about Memes! | S.U.R.E.vivor </b></h5>
 Do you know what memes are? Learn about the history of memes, why they matter, and how to ensure you stay safe online by being informed and fact-checking information.  
 
 Our S.U.R.Evivor series promotes the importance of fact-checking. The acronym stands for Source, Understand, Research, Evaluate—four concepts for children to keep in mind when assessing the reliability of information. 
@@ -170,9 +170,11 @@ Can you tell a legit friend request apart from an impersonation scam? Keep yours
 <small>Source: Cyber Sandra's Hacks - Social Media Impersonation (2021, June, 4). Cyber Security Agency of Singapore. Retrieved 2022, January 26.</small>
 </div>
 </div>
+
+
 <h3><b>Learning Package</b></h3>
 <p>Spark your tween’s curiosity in digital literacy through engaging activities and articles.</p>
-<h5><b>Tweenkerama: Robotics and Coding</b></h5> [Lab Mag #1 pages 6 &ndash; 9]<br>
+<h5 id="lp-tweenkerama-robotics-and-coding"><b>Tweenkerama: Robotics and Coding</b></h5> [Lab Mag #1 pages 6 &ndash; 9]<br>
 <p>Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out!</p>
 <small>Source: https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama (,). National Library Board, Singapore. Retrieved 2022, January 26</small>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
