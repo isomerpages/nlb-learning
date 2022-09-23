@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /digital/tweens/content
+permalink: /digital/tweens/content/
 description: ""
 third_nav_title: Tweens
 ---
@@ -23,7 +23,7 @@ third_nav_title: Tweens
 .responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
 .responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
 .responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
-	
+
 /* Click Box */
 .clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
 .clickbox span { padding: .5rem; }
@@ -38,27 +38,102 @@ third_nav_title: Tweens
 .clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
 </style>
 
-<p>Check out these resources to help you navigate the digital world, from keeping your information protected to learning more about how technology works!</p>
+<p>Check out these resources to help you navigate the digital world, from keeping your information protected to learning more about how technology works!
 
 Check out our **playlist** for a collection of short videos/podcasts on keeping your information safe, and how technology can improve your daily life. 
 
 Check out our **learning package** for some D.I.Y coding fun.
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a href="#playlist"><b>Playlists</b></a></td>
-        <td style="width: 40%;">A collection of short videos exploring topics around digital concepts.</td>
-      </tr>
-      <tr>
-        <td><a href=""><b>How Tech Works!</b></a></td>
-        <td>Learn how to keep yourself safe online as you explore all the information available out there. Become even more digitally savvy through our curated resources for you below.</td>
-      </tr>
-</tbody>
-</table>
+
+Check out our **S.U.R.E.vivor series** for more information on how to assess the reliability of information.
+</p>
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#surevivor-all-about-memes">
+        <span> S.U.R.E.vivor | Playlist: <br>All about Memes!</span>
+      </a>
+    </div>
+  </div> 
+ <div class="col is-one-third">
+    <div class="clickbox is-sky-indigo">
+      <a href="#playlist-informed">
+        <span>Playlist:<br>Exploring Technology and Digital Tools</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-sky-indigo">
+      <a href="#lp-tweenkerama-robotics-and-coding">
+        <span>Learning Package | Tweenkerama:<br>Robotics and Coding</span>
+      </a>
+    </div>
+  </div> 
+  </div>
+
+
+<h3><b>PLAYLIST</b></h3>
+<p>A collection of short videos exploring topics around digital concepts.</p>
+
+<h5 id="surevivor-all-about-memes"><b> All about Memes! | S.U.R.E.vivor </b></h5>
+Do you know what memes are? Learn about the history of memes, why they matter, and how to ensure you stay safe online by being informed and fact-checking information.  
+
+Our S.U.R.Evivor series promotes the importance of fact-checking. The acronym stands for Source, Understand, Research, Evaluate—four concepts for children to keep in mind when assessing the reliability of information. 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+  <img src="/images/digital/Tweens/tweens%20bingo%20qr%20code.png" alt="S.U.R.E.vivor series: S.U.R.E. Celebrates M.I.L. QR Code" style="width:70%;">
+  </div>
+  <div class="col is-three-fifths">
+  Take part in the National Library Board’s “S.U.R.E. BINGO Lucky Draw” by scanning the QR code or clicking on this link: <a href="https://go.gov.sg/surecelebratemil-read-learnxdigital">https://go.gov.sg/surecelebratemil-read-learnxdigital</a>
+ <br><em><br>[Note: Link will go live on 1 Oct 2022]<br></em><br>
+  </div>
 </div>
-<h5 id=playlist class="margin--bottom--lg" id="playlist-informed"><b>Playlists: A collection of short videos exploring topics around digital concepts.
- </b></h5>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/9hU4mzq0d1Q"></iframe>
+    </div>
+
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> What Are Memes Really? | Marcus . | TEDxYouth@HCIS (8:51)</b><br>
+Are you interested in what memes are in modern culture? Jump into a brief history of how the term “meme” came about, and find out how it has impacted our daily lives.<br><br>
+<small> Source: What Are Memes Really? | Marcus . | TEDxYouth@HCIS (2017, May 12). National Library Board, Singapore. Retrieved 2022, September 19.</small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/bYJZA86dPEo"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b> Why Do Memes Matter? - Glad You Asked S1 (19:00)</b><br>
+How are memes created? What makes them popular and viral? How do they impact the political world? Check out this video to understand the memetic culture even more by discovering how memes have been used for advertising, political messaging, and disinformation all across the world. <br><br>
+<small> Source: Why Do Memes Matter? - Glad You Asked S1 (2019, October 8). National Library Board, Singapore. Retrieved 2022, September 19.</small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/4VS9cWmmu2k"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b> A brief history of memes | BBC Ideas (5:04)</b><br>
+ Do you want to know where memes come from and why some memes become popular? Check out this video to learn how the memetic culture grew and evolved since they first appeared, and how they spread across the internet.<br><br>
+<small> Source: A brief history of memes | BBC Ideas (2020, September 24). National Library Board, Singapore. Retrieved 2022, September 19.</small></p>
+  </div>
+</div>
+
+
+
+<h5 id="playlist-informed"><b> Exploring Technology and Digital Tools
+ </b>
+<br>
+</h5>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -95,9 +170,11 @@ Can you tell a legit friend request apart from an impersonation scam? Keep yours
 <small>Source: Cyber Sandra's Hacks - Social Media Impersonation (2021, June, 4). Cyber Security Agency of Singapore. Retrieved 2022, January 26.</small>
 </div>
 </div>
+
+
 <h3><b>Learning Package</b></h3>
 <p>Spark your tween’s curiosity in digital literacy through engaging activities and articles.</p>
-<h3><b>Tweenkerama: Robotics and Coding</b></h3> [Lab Mag #1 pages 6 &ndash; 9]<br>
+<h5 id="lp-tweenkerama-robotics-and-coding"><b>Tweenkerama: Robotics and Coding</b></h5> [Lab Mag #1 pages 6 &ndash; 9]<br>
 <p>Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out!</p>
-<small>Source: https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama (,). National Library Board. Retrieved 2022, January 26</small>
+<small>Source: https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama (,). National Library Board, Singapore. Retrieved 2022, January 26</small>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

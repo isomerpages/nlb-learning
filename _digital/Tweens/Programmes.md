@@ -27,7 +27,7 @@ third_nav_title: Tweens
 Introduce your child to future-ready concepts such as coding, robotics, AR and more through interactive, hands-on programmes.
 
 ## **S.U.R.E.VIVOR**
-![Alt text for image on Isomer site](/images/digital/SUREvivor.jpg)
+<img src="/images/digital/children/SUREvivor%20logo.png" alt="S.U.R.E.vivor logo">
 Our S.U.R.Evivor series promotes the importance of fact-checking. The acronym stands for Source, Understand, Research, Evaluate—four concepts for children to keep in mind when assessing the reliability of information. 
 
 Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
