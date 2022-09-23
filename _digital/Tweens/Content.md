@@ -175,6 +175,6 @@ Can you tell a legit friend request apart from an impersonation scam? Keep yours
 <h3><b>Learning Package</b></h3>
 <p>Spark your tween’s curiosity in digital literacy through engaging activities and articles.</p>
 <h5 id="lp-tweenkerama-robotics-and-coding"><b>Tweenkerama: Robotics and Coding</b></h5> [Lab Mag #1 pages 6 &ndash; 9]<br>
-<p>Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out!</p>
+<p>Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out! <a target="_blank" href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/FA_Tweenkerama-Issue-1.pdf">Check it out!</a></p>
 <small>Source: https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama (,). National Library Board, Singapore. Retrieved 2022, January 26</small>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
