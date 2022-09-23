@@ -168,6 +168,6 @@ Do you know how 3D printers work? Join Kamri Noel, as she goes on a quest to und
 <img src="/images/digital/children/SCWYC.jpg" alt="SCWYC" style="width:30%;">														
 <p><h5 class="margin--bottom--lg" id="lp-staycuriouswithyourchild"><b>Stay Curious with Your Child: Make a Stop Motion Masterpiece!</b></h5></p>
 
-<p>With mobile phone camera technology becoming increasingly robust, why not take advantage of our digital devices to bring the family together. Learn how to film a simple short motion video with your child using their favourite toys as subjects!</p>
+<p>With mobile phone camera technology becoming increasingly robust, why not take advantage of our digital devices to bring the family together. Learn how to film a simple short motion video with your child using their favourite toys as subjects! <a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/primary-school-resources/permalink#make-a-stop-motion-masterpiece">Check it out!</a>
 
 <small> Source:https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child (,). National Library Board. Retrieved 2022, January 26</small>
