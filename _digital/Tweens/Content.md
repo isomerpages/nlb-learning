@@ -132,7 +132,7 @@ How are memes created? What makes them popular and viral? How do they impact the
 
 <h5 id="playlist-informed"><b> Exploring Technology and Digital Tools
  </b>
-<br>
+<p>
 </h5>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
