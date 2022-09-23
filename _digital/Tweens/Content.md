@@ -97,7 +97,9 @@ How are memes created? What makes them popular and viral? How do they impact the
 
 
 <h5 id="playlist-informed"><b> Exploring Technology and Digital Tools
- </b></h5>
+ </b>
+<br>
+</h5>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -139,4 +141,4 @@ Can you tell a legit friend request apart from an impersonation scam? Keep yours
 <h5><b>Tweenkerama: Robotics and Coding</b></h5> [Lab Mag #1 pages 6 &ndash; 9]<br>
 <p>Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out!</p>
 <small>Source: https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama (,). National Library Board, Singapore. Retrieved 2022, January 26</small>
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p> 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
