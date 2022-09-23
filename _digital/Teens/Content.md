@@ -38,7 +38,7 @@ third_nav_title: Teens
 .clickbox.is-sky-indigo a:hover { background-color: #322987; color: #cff2e8; }
 </style>
 
-<p>Explore resources and content on topics that reveal the possibilities of technology.</p>
+<p id="main-content">Explore resources and content on topics that reveal the possibilities of technology.</p>
 
 Check out our **playlist** for a collection of short videos/podcasts for tips in ensuring safe internet usage. 
 
