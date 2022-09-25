@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /reading/Preschoolers/programmes
+permalink: /reading/Preschoolers/programmes/
 description: ""
 third_nav_title: Preschoolers
 ---
@@ -31,4 +31,4 @@ Help your child develop important early literacy skills through our array of int
 
 Programmes for children aged 0 to 6 years old such as Storytelling, Baby Lapsit, Baby Songs and Rhymes, Toddler Songs and Rhymes and Jiggle, Read & Rhymes are conducted regularly.
 
-Click [here](https://go.gov.sg/lxprogs-reading){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869) for the latest programme listings.
