@@ -21,13 +21,23 @@ Make reading a fun activity while fostering that special bond between you and yo
       </tr>
     </thead>
     <tbody>
-			<tr><td style="width: 20%;"> <b>New**</b><br><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk"><b> Early Literacy Practice: Talk (Ages 0 to 3)</b></a></td>
+						<tr><td style="width: 20%;"> <b>New**</b><br><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-write"><b> Early Literacy Practice: Write</b></a></td>
+        <td style="width: 60%;">Expose your young one to the conventions of writing! Read more about how you can introduce your child to writing through books and fun activities.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+					<tr><td style="width: 20%;"> <b>New**</b><br><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-play"><b> Early Literacy Practice: Play</b></a></td>
+        <td style="width: 60%;">Playing is an important way for children to learn about the world around them. Learn how you can make use of books, props and games to encourage literacy development for your child.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+			<tr><td style="width: 20%;"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk"><b> Early Literacy Practice: Talk (Ages 0 to 3)</b></a></td>
         <td style="width: 60%;"> How to nurture your babbling baby into a talkative toddler? Learn some tips and activities you can do to shape your child into a confident speaker!</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
 			 <tr>
-				 <td><b>New**</b><br><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-sing"><b> Early Literacy Practice: Sing (Ages 0 to 3) </b></a></td>
+				 <td><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-sing"><b> Early Literacy Practice: Sing (Ages 0 to 3) </b></a></td>
         <td>Singing is more than nursery rhymes! Learn how to nurture your child's musicality through books, actions and observing what's around them.</td>
         <td></td>
         <td> </td>
