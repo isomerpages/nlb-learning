@@ -83,7 +83,7 @@ Our S.U.R.Evivor series promotes the importance of fact-checking. The acronym st
   <img src="/images/digital/children/children%20bingo%20qr%20code.png" alt="S.U.R.E.vivor series: S.U.R.E. Celebrates M.I.L. QR Code" style="width:70%;">
   </div>
   <div class="col is-three-fifths">
-  Take part in the National Library Board’s “S.U.R.E. BINGO Lucky Draw” by scanning the QR code or clicking on this link: <a href="https://go.gov.sg/surecelebratemil-read-learnxdigital">https://go.gov.sg/surecelebratemil-read-learnxdigital</a>
+  Take part in the National Library Board’s “S.U.R.E. BINGO Lucky Draw” by scanning the QR code or clicking on this link: <a href="https://go.gov.sg/surecelebratemil-read-learnxdigitalc">https://go.gov.sg/surecelebratemil-read-learnxdigitalc</a>
  <br><em><br>[Note: Link will go live on 1 Oct 2022]<br></em><br>
   </div>
 </div>
