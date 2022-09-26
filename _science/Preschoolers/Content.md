@@ -109,13 +109,14 @@ What is gravity and how does it work? Gravity may be a complex term and concept 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="image">
-      <a target="_blank" href="https://www.youtube.com/watch?v=QQyem7OWEbM"><img src="/images/science/preschoolers/howvaccineswork.jpeg"></a>
+      <a target="_blank" href="https://www.youtube.com/watch?v=QQyem7OWEbM"><img src="/images/science-lfa-updates/Physics%20Playlist/Gravity2.png"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> How Vaccines Work? | VACCINATION | Importance Of Vaccine | The Dr Binocs Show | Peekaboo Kidz (6 mins 51 secs) </b><br>
-    
-Learn more about how vaccines were invented in 1796 and how they teach our body to fight new viruses!</p>
+    <p><b> Fuddlebrook School's A Case of Gravity - Fun Science For Kids 
+(2mins 3 secs)
+</b><br>
+			<i>Fuddlebrook School </i> uses fun and innovative ways to teach children scientific concepts. In this enjoyable episode, the children will try out some hands-on activities to explore how different variables affect gravity and even, defy gravity! Try these activities with your child too!</p>
   </div>
 </div>
 
