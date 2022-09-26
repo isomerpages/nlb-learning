@@ -105,18 +105,21 @@ Why doesn’t a ball fly up into the sky when we throw it up? How does it come b
  </div>
 <p>
 What is gravity and how does it work? Gravity may be a complex term and concept for children to learn and understand. However, this video breaks it down to its elements, making it digestible for young children to understand.</p>
-
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="image">
-      <a target="\_blank" href="https://www.youtube.com/watch?v=QQyem7OWEbM"><img src="/images/science-lfa-updates/Physics%20Playlist/Gravity2.png"></a>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b> Fuddlebrook School's A Case of Gravity - Fun Science For Kids
-(2mins 3 secs)</b><br>
-Fuddlebrook School uses fun and innovative ways to teach children scientific concepts. In this enjoyable episode, the children will try out some hands-on activities to explore how different variables affect gravity and even, defy gravity! Try these activities with your child too!</p>
 		
+		
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=QQyem7OWEbM" target="\_blank">
+       <img src="/images/science-lfa-updates/Physics%20Playlist/Gravity2.png" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b> Fuddlebrook School's A Case of Gravity - Fun Science For Kids (2mins 3 secs)  </b> </p>
+   </div>
+ </div>
+<p>
+Fuddlebrook School uses fun and innovative ways to teach children scientific concepts. In this enjoyable episode, the children will try out some hands-on activities to explore how different variables affect gravity and even, defy gravity! Try these activities with your child too! </p>
+
 		
 **Shine Bright, Little Light!**		
 		
@@ -140,6 +143,23 @@ What is that black thing that follows you around as you go about your day under 
       <a target="\_blank" href="https://www.youtube.com/watch?v=LCEqlvHFIhM"><img src="/images/science-lfa-updates/Physics%20Playlist/Light2.png"></a>
     </div>
   </div>
+	
+	 <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=tVt4pOEw\_KI" target="\_blank">
+       <img src="/images/science-lfa-updates/Physics%20Playlist/Gravity1.png" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b> Gravity | What is gravity? | Gravity for kids (4mins 22secs)   </b> </p>
+   </div>
+ </div>
+<p>
+Why doesn’t a ball fly up into the sky when we throw it up? How does it come back down? Let’s learn about gravity and how it keeps us tied down to Earth! </p>
+
+	
+	
+	
   <div class="col is-three-fifths">
     <p><b> Science Video for Kids: What is Light Energy? (3mins 40secs)</b><br>
 Everything around you is powered by energy. Did you know light is a source of energy too? How does light power the machines and devices that you use on a daily basis? Let’s learn together with this video! </p>
