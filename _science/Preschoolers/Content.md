@@ -140,7 +140,19 @@ What is that black thing that follows you around as you go about your day under 
   </div>
 </div>
 
-	
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=LCEqlvHFIhM"><img src="/images/science-lfa-updates/Physics%20Playlist/Light2.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Science Video for Kids: What is Light Energy? (3mins 40secs)</b><br>
+    
+Everything around you is powered by energy. Did you know light is a source of energy too? How does light power the machines and devices that you use on a daily basis? Let’s learn together with this video!</p>
+  </div>
+</div>
+
 	
 
 <p>All thumbnail images are copyright of the creators.</p>
