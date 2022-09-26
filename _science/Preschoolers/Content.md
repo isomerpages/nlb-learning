@@ -199,6 +199,19 @@ Take it a step further with concepts of time such as AM and PM, as well as how t
   </div>
 </div>
 
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=QmImQMsVU9M"><img src="/images/science-lfa-updates/Physics%20Playlist/Time3.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Time - BBC Bitesize Foundation Maths and Numeracy
+(2min 15secs)
+</b><br>
+    In this fun sing-and-dance video, children will learn about how time is used to form routines and schedules! With spunky movements to follow along, this video tells us about how time can split the day into segments, and signal to us when we should be engaged in certain activities! </p>
+  </div>
+</div>
 
 
 
