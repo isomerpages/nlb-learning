@@ -128,53 +128,20 @@ There are so many different light sources all around us. From the cheery sun in 
 
 	
 <div class="row is-multiline margin--bottom--lg">
- <div class="col is-two-fifths">
-    <div class="image"><a href="https://www.youtube.com/watch?v=YuUJCNzfoBw" target="\_blank">
-       <img src="/images/science-lfa-updates/Physics%20Playlist/Light1.png" style="width:400px; text-align:left;"></a>
-     </div>
-   </div>
- <div class="col is-three-fifths">
-     <p><b>Light and Shadows for Kids | Science Video for Kids | Kids Academy (4mins 59secs)   </b> </p>
-   </div>
- </div>
-<p>
-What is that black thing that follows you around as you go about your day under the sun? That’s called a shadow! How does light create shadows and what fun can we have with shadows? This video will show you exactly that.  </p>
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=YuUJCNzfoBw"><img src="/images/science-lfa-updates/Physics%20Playlist/Light1.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Light and Shadows for Kids | Science Video for Kids | Kids Academy (4mins 59secs) </b><br>
+    
+What is that black thing that follows you around as you go about your day under the sun? That’s called a shadow! How does light create shadows and what fun can we have with shadows? This video will show you exactly that. </p>
+  </div>
+</div>
 
-<div class="row is-multiline margin--bottom--lg">
- <div class="col is-two-fifths">
-    <div class="image"><a href="https://www.youtube.com/watch?v=LCEqlvHFIhM" target="\_blank">
-       <img src="/images/science-lfa-updates/Physics%20Playlist/Light2.png" style="width:400px; text-align:left;"></a>
-     </div>
-   </div>
- <div class="col is-three-fifths">
-     <p><b>Science Video for Kids: What is Light Energy? (3mins 40secs) </b> </p>
-   </div>
- </div>
-<p>
-Everything around you is powered by energy. Did you know light is a source of energy too? How does light power the machines and devices that you use on a daily basis? Let’s learn together with this video!  </p>
 	
-<div class="row is-multiline margin--bottom--lg">
- <div class="col is-two-fifths">
-    <div class="image"><a href="https://www.youtube.com/watch?v=JGPkaM88C1M" target="\_blank">
-       <img src="/images/science-lfa-updates/Physics%20Playlist/Light3.png" style="width:400px; text-align:left;"></a>
-     </div>
-   </div>
- <div class="col is-three-fifths">
-     <p><b>Science o'Clock Junior: Pepper's Lab | Let's Make DIY Black Light! (1min 11secs)
-   </b> </p>
-   </div>
- </div>
-<p>
-Black light (or ultraviolet light) can help you write interesting messages that glow in different colours. This simple experiment makes for a visual feast, while also introducing us to the many real-life uses of black light You just need a flashlight and some household items. Follow the simple steps in this video and make your own black light today!  </p>
 	
-
-**It’s Time to Learn About Time!**
-
-Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. We rely on time to let us know when we should be doing certain activities, such as eating breakfast or getting ready for school. Exposing children to the concept of time can not only be fun and fruitful but can also provide them with more control once they understand how time works in their lives. What does it mean to have 5 more minutes at the playground? Or that dinner will be ready in an hour?
-<br>
-Check out the video resources below to understand more about time and its applications.
-
-
 
 <p>All thumbnail images are copyright of the creators.</p>
 
