@@ -152,8 +152,19 @@ What is that black thing that follows you around as you go about your day under 
 <p>
 Everything around you is powered by energy. Did you know light is a source of energy too? How does light power the machines and devices that you use on a daily basis? Let’s learn together with this video!  </p>
 	
-	
-	
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=JGPkaM88C1M" target="\_blank">
+       <img src="/images/science-lfa-updates/Physics%20Playlist/Light3.png" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b>Science o'Clock Junior: Pepper's Lab | Let's Make DIY Black Light! (1min 11secs)
+   </b> </p>
+   </div>
+ </div>
+<p>
+Black light (or ultraviolet light) can help you write interesting messages that glow in different colours. This simple experiment makes for a visual feast, while also introducing us to the many real-life uses of black light You just need a flashlight and some household items. Follow the simple steps in this video and make your own black light today!  </p>
 	
 
 **It’s Time to Learn About Time!**
