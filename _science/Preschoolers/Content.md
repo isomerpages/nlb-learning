@@ -91,20 +91,21 @@ Check out the video resources below to understand more about gravity and how it 
 <p>
 Why doesn’t a ball fly up into the sky when we throw it up? How does it come back down? Let’s learn about gravity and how it keeps us tied down to Earth! </p>
 
-  </div>
-</div>
+
 <div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="image">
-      <a target="\_blank" href="https://www.youtube.com/watch?v=ZYAP8z5w11I"><img src="/images/science-lfa-updates/Physics%20Playlist/Gravity3.png"></a>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b> How Gravity Works For Kids | Science For Kids | Preschool and Kindergarten Learning Videos
-(4mins 33secs)</b><br>
-What is gravity and how does it work? Gravity may be a complex term and concept for children to learn and understand. However, this video breaks it down to its elements, making it digestible for young children to understand. </p>
-    </div>
-</div>
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=ZYAP8z5w11I" target="\_blank">
+       <img src="/images/science-lfa-updates/Physics%20Playlist/Gravity3.png" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b> How Gravity Works For Kids | Science For Kids | Preschool and Kindergarten Learning Videos
+(4mins 33secs)   </b> </p>
+   </div>
+ </div>
+<p>
+What is gravity and how does it work? Gravity may be a complex term and concept for children to learn and understand. However, this video breaks it down to its elements, making it digestible for young children to understand.</p>
+
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="image">
