@@ -149,6 +149,53 @@ Everything around you is powered by energy. Did you know light is a source of en
     <p><b> Science o'Clock Junior: Pepper's Lab | Let's Make DIY Black Light!
 (1min 11secs)</b><br>
 Black light (or ultraviolet light) can help you write interesting messages that glow in different colours. This simple experiment makes for a visual feast, while also introducing us to the many real-life uses of black light You just need a flashlight and some household items. Follow the simple steps in this video and make your own black light today!</p>
+	
+
+**It’s Time to Learn About Time!**
+
+Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. We rely on time to let us know when we should be doing certain activities, such as eating breakfast or getting ready for school. Exposing children to the concept of time can not only be fun and fruitful but can also provide them with more control once they understand how time works in their lives. What does it mean to have 5 more minutes at the playground? Or that dinner will be ready in an hour?
+<br>
+Check out the video resources below to understand more about time and its applications.
+
+<br><br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="\_blank" href="https://www.youtube.com/watch?v=3Posbu-VKxU"><img src="/images/science-lfa-updates/Physics%20Playlist/Time1.png"></a>
+
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> How to Tell the Time - Educational Video for Kids (3mins 3secs)</b><br>
+Learn all the different parts of a clock, the values of seconds and minutes, and how to make sense of the numbers on the clock face in this simple introductory video to time. </p>
+
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="\_blank" href="https://www.youtube.com/watch?v=HqkXUJ7RHEg"><img src="/images/science-lfa-updates/Physics%20Playlist/Time2.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Concept of Time | What is AM & PM | Teaching Time for Kids | Introduction to Time for Kindergarten (7mins 25secs)</b><br>
+Take it a step further with concepts of time such as AM and PM, as well as how time can be both quantitative and qualitative.  </p>
+
+    </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="\_blank" href="https://www.youtube.com/watch?v=QmImQMsVU9M"><img src="/images/science-lfa-updates/Physics%20Playlist/Time3.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Time - BBC Bitesize Foundation Maths and Numeracy (2min 15secs)</b><br>
+In this fun sing-and-dance video, children will learn about how time is used to form routines and schedules! With spunky movements to follow along, this video tells us about how time can split the day into segments, and signal to us when we should be engaged in certain activities! </p>
+  </div>
+</div><p>All thumbnail images are copyright of the creators.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 **Microscopic World: Protecting the Body! Science Behind Medical Biotechnology**
 
