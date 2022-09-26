@@ -139,7 +139,18 @@ There are so many different light sources all around us. From the cheery sun in 
 <p>
 What is that black thing that follows you around as you go about your day under the sun? That’s called a shadow! How does light create shadows and what fun can we have with shadows? This video will show you exactly that.  </p>
 
-
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=LCEqlvHFIhM" target="\_blank">
+       <img src="/images/science-lfa-updates/Physics%20Playlist/Light2.png" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b>Science Video for Kids: What is Light Energy? (3mins 40secs) </b> </p>
+   </div>
+ </div>
+<p>
+Everything around you is powered by energy. Did you know light is a source of energy too? How does light power the machines and devices that you use on a daily basis? Let’s learn together with this video!  </p>
 	
 	
 	
