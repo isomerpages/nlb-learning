@@ -102,6 +102,25 @@ Check this playlist out first before you go on and explore these powerful mathem
   </div>
 </div>
 
+**I Spy a Number Pattern!**
+
+Developing pattern recognition in young children is not as daunting as one might think. Arranging objects or numbers according to a certain order is a good way to get children to put on their sequencing caps and try to find out how they relate to one another. Are the objects arranged from big to small, by colour or by shape?  How are 1, 3, 5, 9 and 11 related? What about 2, 4, 6, 8, 10? Are the numbers arranged in increasing or decreasing order? Have your children learn simple number patterns and soon, they may start devising their own. 
+
+Check out the video resources below to understand more about sequencing and understanding number patterns. 
+
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=dBKyiYq5k98"><img src="/images/science-lfa-updates/Mathematics%20Playlist/SequencesandPatterns1.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> @Numberblocks | Number Sequences | Learn to Count | @Wizz Learning (4mins 17secs)</b><br>
+    Follow the lovable Numberblocks in learning about numbers in a sequence! This video is a fun-filled adventure that will teach your child the foundation of pattern recognition through basic sequencing. </p>
+  </div>
+</div>
+
 
 
 
