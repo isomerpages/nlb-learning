@@ -174,6 +174,33 @@ Time is an interesting phenomenon. It is untouchable, invisible and yet it is al
 Check out the video resources below to understand more about time and its applications.
 
 
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=3Posbu-VKxU"><img src="/images/science-lfa-updates/Physics%20Playlist/Time1.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> How to Tell the Time - Educational Video for Kids (3mins 3secs)</b><br>
+Learn all the different parts of a clock, the values of seconds and minutes, and how to make sense of the numbers on the clock face in this simple introductory video to time.</p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=HqkXUJ7RHEg"><img src="/images/science-lfa-updates/Physics%20Playlist/Time2.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Concept of Time | What is AM & PM | Teaching Time for Kids | Introduction to Time for Kindergarten (7mins 25secs)</b><br>
+    
+Take it a step further with concepts of time such as AM and PM, as well as how time can be both quantitative and qualitative. </p>
+  </div>
+</div>
+
+
+
 
 <p>All thumbnail images are copyright of the creators.</p>
 
