@@ -69,15 +69,48 @@ Check out our **learning packages**, complete with activities and tips, on STEAM
 <h3 id="playlist-biotech" class="margin--bottom--lg"><b>Playlists
 </b></h3>
 
+**Mighty Multiply and Divine Divide!**
+
+Multiplication and division are the next steps following addition and subtraction. It may be challenging for young children to move on to these more complex operations but, slowly and surely, they will grasp the concepts. Other than watching these videos with your child to expose them to multiplication and division, one of the easiest ways to introduce children to these concepts is through sorting and grouping activities. 
+<br><br>
+For example, you could give them some buttons and guide them into grouping the buttons so that each group has the same number of buttons. 
+Check this playlist out first before you go on and explore these powerful mathematical operations with your child!
+
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=SRiYDszxruc"><img src="/images/science-lfa-updates/Mathematics%20Playlist/MultiplicationDivision1.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Multiplication - Learn to Multiply with The Wizard's Apprentice (4mins 3secs)</b><br>
+ Learn the beauty of multiplication with a mighty magician who wants to discover how many wands he has. This is a magical entrance to the enchanting world of Mathematics. </p>
+  </div>
+</div>
+
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=gT0HFbA1Mow"><img src="/images/science-lfa-updates/Mathematics%20Playlist/MultiplicationDivision2.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Basic Division (5mins 51secs)</b><br>
+ So many rabbits, so little time! Let’s see if we can sort them into groups of equal number so we can keep track of them. Rabbits may be known to multiply a lot, but you’d be surprised to see how well they divide. </p>
+  </div>
+</div>
+
+
+
+
 **What Keeps Me on the Ground? Gravity!**
 
 Did you know that if you walked on the moon, you would be floating around, unable to walk on the ground? Why do you think you can walk around easily on Earth? That’s because of gravity! Gravity is the pulling force that acts on you to ensure you stay fine and firm on the ground. It may have robbed us of the chance to fly but at least we know, we will always return to the Earth’s surface and not float up to the sun!  
   <br>
 Check out the video resources below to understand more about gravity and how it affects everything on Earth (and in outer space!)
 
-
-
-<h4 class="margin--bottom--lg" id="lp-letswatch27"><b>LET'S WATCH! </b></h4>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
