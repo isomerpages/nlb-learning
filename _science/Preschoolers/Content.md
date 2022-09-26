@@ -90,7 +90,7 @@ Check out the video resources below to understand more about gravity and how it 
    </div>
  </div>
 <p>
-Why doesn’t a ball fly up into the sky when we throw it up? How does it come back down? Let’s learn about gravity and how it keeps us tied down to Earth! </p>
+Why doesn’t a ball fly up into the sky when we throw it up? How does it come back down? Let’s learn about gravity and how it keeps us tied down to Earth!! </p>
 
 
 <div class="row is-multiline margin--bottom--lg">
