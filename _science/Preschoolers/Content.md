@@ -91,34 +91,34 @@ Check out the video resources below to understand more about gravity and how it 
   </div>
 </div>
 
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=ZYAP8z5w11I"><img src="/images/science-lfa-updates/Physics%20Playlist/Gravity3.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> How Gravity Works For Kids | Science For Kids | Preschool and Kindergarten Learning Videos
+(4mins 33secs)</b><br>
+    
+What is gravity and how does it work? Gravity may be a complex term and concept for children to learn and understand. However, this video breaks it down to its elements, making it digestible for young children to understand.</p>
+  </div>
+</div>
+
 
 <div class="row is-multiline margin--bottom--lg">
- <div class="col is-two-fifths">
-    <div class="image"><a href="https://www.youtube.com/watch?v=ZYAP8z5w11I" target="\_blank">
-       <img src="/images/science-lfa-updates/Physics%20Playlist/Gravity3.png" style="width:400px; text-align:left;"></a>
-     </div>
-   </div>
- <div class="col is-three-fifths">
-     <p><b> How Gravity Works For Kids | Science For Kids | Preschool and Kindergarten Learning Videos
-(4mins 33secs)   </b> </p>
-   </div>
- </div>
-<p>
-What is gravity and how does it work? Gravity may be a complex term and concept for children to learn and understand. However, this video breaks it down to its elements, making it digestible for young children to understand.</p>
-		
-		
-<div class="row is-multiline margin--bottom--lg">
- <div class="col is-two-fifths">
-    <div class="image"><a href="https://www.youtube.com/watch?v=QQyem7OWEbM" target="\_blank">
-       <img src="/images/science-lfa-updates/Physics%20Playlist/Gravity2.png" style="width:400px; text-align:left;"></a>
-     </div>
-   </div>
- <div class="col is-three-fifths">
-     <p><b> Fuddlebrook School's A Case of Gravity - Fun Science For Kids (2mins 3 secs)  </b> </p>
-   </div>
- </div>
-<p>
-Fuddlebrook School uses fun and innovative ways to teach children scientific concepts. In this enjoyable episode, the children will try out some hands-on activities to explore how different variables affect gravity and even, defy gravity! Try these activities with your child too! </p>
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=QQyem7OWEbM"><img src="/images/science/preschoolers/howvaccineswork.jpeg"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> How Vaccines Work? | VACCINATION | Importance Of Vaccine | The Dr Binocs Show | Peekaboo Kidz (6 mins 51 secs) </b><br>
+    
+Learn more about how vaccines were invented in 1796 and how they teach our body to fight new viruses!</p>
+  </div>
+</div>
+
 
 		
 **Shine Bright, Little Light!**		
