@@ -75,16 +75,22 @@ Did you know that if you walked on the moon, you would be floating around, unabl
   <br>
 Check out the video resources below to understand more about gravity and how it affects everything on Earth (and in outer space!)
 
-<br><br>
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="image">
-      <a target="\_blank" href="https://www.youtube.com/watch?v=tVt4pOEw\_KI"><img src="/images/science-lfa-updates/Physics%20Playlist/Gravity1.png"></a>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b> Gravity | What is gravity? | Gravity for kids (4mins 22secs) </b><br>
+
+
+<h4 class="margin--bottom--lg" id="lp-letswatch27"><b>LET'S WATCH! </b></h4>
+  <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=tVt4pOEw\_KI" target="\_blank">
+       <img src="/images/science-lfa-updates/Physics%20Playlist/Gravity1.png" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b> Gravity | What is gravity? | Gravity for kids (4mins 22secs)   </b> </p>
+   </div>
+ </div>
+<p>
 Why doesn’t a ball fly up into the sky when we throw it up? How does it come back down? Let’s learn about gravity and how it keeps us tied down to Earth! </p>
+
   </div>
 </div>
 <div class="row is-multiline margin--bottom--lg">
