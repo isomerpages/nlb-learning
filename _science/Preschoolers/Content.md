@@ -125,57 +125,24 @@ Fuddlebrook School uses fun and innovative ways to teach children scientific con
 		
 There are so many different light sources all around us. From the cheery sun in the sky to the indoor lamps that ensure we do not read in the dark, light is an important part of our lives. It helps us see, it helps plants photosynthesise, and it is behind many natural phenomenon like forming a rainbow! Check out the video resources below to understand more about light and its many forms. Children can learn about light, its properties, its functions, and how to play with it to understand it further.
 
-<br><br>
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">=
-    <div class="image">
-      <a target="\_blank" href="https://www.youtube.com/watch?v=YuUJCNzfoBw"><img src="/images/science-lfa-updates/Physics%20Playlist/Light1.png"></a>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b> Light and Shadows for Kids | Science Video for Kids | Kids Academy (4mins 59secs)</b><br>
-What is that black thing that follows you around as you go about your day under the sun? That’s called a shadow! How does light create shadows and what fun can we have with shadows? This video will show you exactly that. </p>
-  </div>
-</div>
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="image">
-      <a target="\_blank" href="https://www.youtube.com/watch?v=LCEqlvHFIhM"><img src="/images/science-lfa-updates/Physics%20Playlist/Light2.png"></a>
-    </div>
-  </div>
 	
-	 <div class="row is-multiline margin--bottom--lg">
+<div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
-    <div class="image"><a href="https://www.youtube.com/watch?v=tVt4pOEw\_KI" target="\_blank">
-       <img src="/images/science-lfa-updates/Physics%20Playlist/Gravity1.png" style="width:400px; text-align:left;"></a>
+    <div class="image"><a href="https://www.youtube.com/watch?v=YuUJCNzfoBw" target="\_blank">
+       <img src="/images/science-lfa-updates/Physics%20Playlist/Light1.png" style="width:400px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p><b> Gravity | What is gravity? | Gravity for kids (4mins 22secs)   </b> </p>
+     <p><b>Light and Shadows for Kids | Science Video for Kids | Kids Academy (4mins 59secs)   </b> </p>
    </div>
  </div>
 <p>
-Why doesn’t a ball fly up into the sky when we throw it up? How does it come back down? Let’s learn about gravity and how it keeps us tied down to Earth! </p>
+What is that black thing that follows you around as you go about your day under the sun? That’s called a shadow! How does light create shadows and what fun can we have with shadows? This video will show you exactly that.  </p>
+
 
 	
 	
 	
-  <div class="col is-three-fifths">
-    <p><b> Science Video for Kids: What is Light Energy? (3mins 40secs)</b><br>
-Everything around you is powered by energy. Did you know light is a source of energy too? How does light power the machines and devices that you use on a daily basis? Let’s learn together with this video! </p>
-    </div>
-</div>
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="image">
-      <a target="\_blank" href="https://www.youtube.com/watch?v=JGPkaM88C1M"><img src="/images/science-lfa-updates/Physics%20Playlist/Light3.png"></a
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-
-    <p><b> Science o'Clock Junior: Pepper's Lab | Let's Make DIY Black Light!
-(1min 11secs)</b><br>
-Black light (or ultraviolet light) can help you write interesting messages that glow in different colours. This simple experiment makes for a visual feast, while also introducing us to the many real-life uses of black light You just need a flashlight and some household items. Follow the simple steps in this video and make your own black light today!</p>
 	
 
 **It’s Time to Learn About Time!**
@@ -184,43 +151,9 @@ Time is an interesting phenomenon. It is untouchable, invisible and yet it is al
 <br>
 Check out the video resources below to understand more about time and its applications.
 
-<br><br>
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="image">
-      <a target="\_blank" href="https://www.youtube.com/watch?v=3Posbu-VKxU"><img src="/images/science-lfa-updates/Physics%20Playlist/Time1.png"></a>
 
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b> How to Tell the Time - Educational Video for Kids (3mins 3secs)</b><br>
-Learn all the different parts of a clock, the values of seconds and minutes, and how to make sense of the numbers on the clock face in this simple introductory video to time. </p>
 
-  </div>
-</div>
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="image">
-      <a target="\_blank" href="https://www.youtube.com/watch?v=HqkXUJ7RHEg"><img src="/images/science-lfa-updates/Physics%20Playlist/Time2.png"></a>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b> Concept of Time | What is AM & PM | Teaching Time for Kids | Introduction to Time for Kindergarten (7mins 25secs)</b><br>
-Take it a step further with concepts of time such as AM and PM, as well as how time can be both quantitative and qualitative.  </p>
-
-    </div>
-</div>
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="image">
-      <a target="\_blank" href="https://www.youtube.com/watch?v=QmImQMsVU9M"><img src="/images/science-lfa-updates/Physics%20Playlist/Time3.png"></a>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-    <p><b> Time - BBC Bitesize Foundation Maths and Numeracy (2min 15secs)</b><br>
-In this fun sing-and-dance video, children will learn about how time is used to form routines and schedules! With spunky movements to follow along, this video tells us about how time can split the day into segments, and signal to us when we should be engaged in certain activities! </p>
-  </div>
-</div><p>All thumbnail images are copyright of the creators.</p>
+<p>All thumbnail images are copyright of the creators.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
