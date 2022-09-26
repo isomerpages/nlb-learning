@@ -78,7 +78,8 @@ Check out the video resources below to understand more about gravity and how it 
 
 
 <h4 class="margin--bottom--lg" id="lp-letswatch27"><b>LET'S WATCH! </b></h4>
-  <div class="row is-multiline margin--bottom--lg">
+
+<div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image"><a href="https://www.youtube.com/watch?v=tVt4pOEw\_KI" target="\_blank">
        <img src="/images/science-lfa-updates/Physics%20Playlist/Gravity1.png" style="width:400px; text-align:left;"></a>
