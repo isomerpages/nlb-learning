@@ -69,7 +69,86 @@ Check out our **learning packages**, complete with activities and tips, on STEAM
 <h3 id="playlist-biotech" class="margin--bottom--lg"><b>Playlists
 </b></h3>
 
-<b> Aquatic Animals </b> 
+**What Keeps Me on the Ground? Gravity!**
+
+Did you know that if you walked on the moon, you would be floating around, unable to walk on the ground? Why do you think you can walk around easily on Earth? That’s because of gravity! Gravity is the pulling force that acts on you to ensure you stay fine and firm on the ground. It may have robbed us of the chance to fly but at least we know, we will always return to the Earth’s surface and not float up to the sun!  
+  <br>
+Check out the video resources below to understand more about gravity and how it affects everything on Earth (and in outer space!)
+
+<br><br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="\_blank" href="https://www.youtube.com/watch?v=tVt4pOEw\_KI"><img src="/images/science-lfa-updates/Physics%20Playlist/Gravity1.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Gravity | What is gravity? | Gravity for kids (4mins 22secs) </b><br>
+Why doesn’t a ball fly up into the sky when we throw it up? How does it come back down? Let’s learn about gravity and how it keeps us tied down to Earth! </p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="\_blank" href="https://www.youtube.com/watch?v=ZYAP8z5w11I"><img src="/images/science-lfa-updates/Physics%20Playlist/Gravity3.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> How Gravity Works For Kids | Science For Kids | Preschool and Kindergarten Learning Videos
+(4mins 33secs)</b><br>
+What is gravity and how does it work? Gravity may be a complex term and concept for children to learn and understand. However, this video breaks it down to its elements, making it digestible for young children to understand. </p>
+    </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="\_blank" href="https://www.youtube.com/watch?v=QQyem7OWEbM"><img src="/images/science-lfa-updates/Physics%20Playlist/Gravity2.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Fuddlebrook School's A Case of Gravity - Fun Science For Kids
+(2mins 3 secs)</b><br>
+Fuddlebrook School uses fun and innovative ways to teach children scientific concepts. In this enjoyable episode, the children will try out some hands-on activities to explore how different variables affect gravity and even, defy gravity! Try these activities with your child too!</p>
+		
+		
+**Shine Bright, Little Light!**		
+		
+There are so many different light sources all around us. From the cheery sun in the sky to the indoor lamps that ensure we do not read in the dark, light is an important part of our lives. It helps us see, it helps plants photosynthesise, and it is behind many natural phenomenon like forming a rainbow! Check out the video resources below to understand more about light and its many forms. Children can learn about light, its properties, its functions, and how to play with it to understand it further.
+
+<br><br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">=
+    <div class="image">
+      <a target="\_blank" href="https://www.youtube.com/watch?v=YuUJCNzfoBw"><img src="/images/science-lfa-updates/Physics%20Playlist/Light1.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Light and Shadows for Kids | Science Video for Kids | Kids Academy (4mins 59secs)</b><br>
+What is that black thing that follows you around as you go about your day under the sun? That’s called a shadow! How does light create shadows and what fun can we have with shadows? This video will show you exactly that. </p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="\_blank" href="https://www.youtube.com/watch?v=LCEqlvHFIhM"><img src="/images/science-lfa-updates/Physics%20Playlist/Light2.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Science Video for Kids: What is Light Energy? (3mins 40secs)</b><br>
+Everything around you is powered by energy. Did you know light is a source of energy too? How does light power the machines and devices that you use on a daily basis? Let’s learn together with this video! </p>
+    </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="\_blank" href="https://www.youtube.com/watch?v=JGPkaM88C1M"><img src="/images/science-lfa-updates/Physics%20Playlist/Light3.png"></a
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+
+    <p><b> Science o'Clock Junior: Pepper's Lab | Let's Make DIY Black Light!
+(1min 11secs)</b><br>
+Black light (or ultraviolet light) can help you write interesting messages that glow in different colours. This simple experiment makes for a visual feast, while also introducing us to the many real-life uses of black light You just need a flashlight and some household items. Follow the simple steps in this video and make your own black light today!</p>
 
 **Microscopic World: Protecting the Body! Science Behind Medical Biotechnology**
 
