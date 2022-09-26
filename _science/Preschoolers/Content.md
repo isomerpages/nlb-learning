@@ -155,15 +155,42 @@ Check out the video resources below to understand more about different shapes an
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="image">
-      <a target="_blank" href="https://youtu.be/OVcVSyjJkY4"><img src="/images/science/preschoolers/howvaccineswork.jpeg"></a>
+      <a target="_blank" href="https://www.youtube.com/watch?v=DUGkQMLowXA"><img src="/images/science-lfa-updates/Mathematics%20Playlist/ShapesandPolygons1.png"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> How Vaccines Work? | VACCINATION | Importance Of Vaccine | The Dr Binocs Show | Peekaboo Kidz (6 mins 51 secs) </b><br>
-    
-Learn more about how vaccines were invented in 1796 and how they teach our body to fight new viruses!</p>
+    <p><b>Polygons - Geometry for Kids (4mins 24secs)</b><br>
+    Triangles, diamonds, and pentagons—polygons are everywhere in the world. This video can help children – and parents – identify polygons in the world around them. Try finding them outside after watching this together! </p>
   </div>
 </div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=AnoNb2OMQ6s"><img src="/images/science-lfa-updates/Mathematics%20Playlist/ShapesandPolygons2.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Shapes Songs for Children | Shape Song | Shapes Songs for Kindergarten | The Kiboomers (4mins 55secs)</b><br>
+    Shapes are the most elementary form of visual mathematics and an easy introduction into geometry. Sing and boogie to this catchy song about shapes. </p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=69lfTURDles"><img src="/images/science-lfa-updates/Mathematics%20Playlist/ShapesandPolygons3.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Polygon Song (4mins 2secs)</b><br>
+    We know a triangle has three sides. What about rectangles and squares? What does a quadrilateral and a nonagon refer to? All those questions and more will be answered in this fun, funky video about the many different polygons. </p>
+  </div>
+</div>
+
+
+</div><p>All thumbnail images are copyright of the creators.</p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 
 **What Keeps Me on the Ground? Gravity!**
