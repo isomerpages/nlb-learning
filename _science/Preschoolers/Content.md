@@ -153,7 +153,27 @@ Everything around you is powered by energy. Did you know light is a source of en
   </div>
 </div>
 
-	
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=JGPkaM88C1M"><img src="/images/science-lfa-updates/Physics%20Playlist/Light3.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Science o'Clock Junior: Pepper's Lab | Let's Make DIY Black Light!
+(1min 11secs)</
+</b><br>
+    
+Black light (or ultraviolet light) can help you write interesting messages that glow in different colours. This simple experiment makes for a visual feast, while also introducing us to the many real-life uses of black light You just need a flashlight and some household items. Follow the simple steps in this video and make your own black light today!</p>
+  </div>
+</div>
+
+**It’s Time to Learn About Time!**
+
+Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. We rely on time to let us know when we should be doing certain activities, such as eating breakfast or getting ready for school. Exposing children to the concept of time can not only be fun and fruitful but can also provide them with more control once they understand how time works in their lives. What does it mean to have 5 more minutes at the playground? Or that dinner will be ready in an hour? 
+Check out the video resources below to understand more about time and its applications.
+
+
 
 <p>All thumbnail images are copyright of the creators.</p>
 
