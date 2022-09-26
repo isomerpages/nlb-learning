@@ -122,6 +122,48 @@ Check out the video resources below to understand more about sequencing and unde
 </div>
 
 
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=MBjjxSx45-Q"><img src="/images/science-lfa-updates/Mathematics%20Playlist/SequencesandPatterns2.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>The Patterns Practice Song | Math Songs | Scratch Garden (2mins 30secs)</b><br>
+    Children can learn how to form and recognise basic patterns, be they numbers or shapes, by watching this video—a welcoming introduction to the concept of sequencing.</p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://www.youtube.com/watch?v=GddAGHgH1IM"><img src="/images/science-lfa-updates/Mathematics%20Playlist/SequencesandPatterns3.png"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Number Patterns - Identifying Missing Numbers (2mins 40secs) </b><br>
+    Learning how to create and recognise patterns can help children identify gaps and missing numbers. This is a step towards moulding them into complex problem solvers. </p>
+  </div>
+</div>
+
+**Stunning Shapes and Pretty Polygons!**
+
+The world is full of shapes. Circles, squares, triangles, and rectangles—they are everywhere! Let us see if we can spot them! The concept of shapes is an introduction to understanding geometry and identifying traits. Teaching children about shapes is easy and fun as the concept of shapes involves creating and seeing visuals. They can try spotting and naming shapes in their environment, drawing them on paper, or making them with different objects!
+
+Check out the video resources below to understand more about different shapes and polygons.
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="image">
+      <a target="_blank" href="https://youtu.be/OVcVSyjJkY4"><img src="/images/science/preschoolers/howvaccineswork.jpeg"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> How Vaccines Work? | VACCINATION | Importance Of Vaccine | The Dr Binocs Show | Peekaboo Kidz (6 mins 51 secs) </b><br>
+    
+Learn more about how vaccines were invented in 1796 and how they teach our body to fight new viruses!</p>
+  </div>
+</div>
 
 
 **What Keeps Me on the Ground? Gravity!**
