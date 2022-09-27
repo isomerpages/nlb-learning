@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /sustainability/tweens/content
+permalink: /sustainability/tweens/content/
 description: ""
 third_nav_title: Tweens
 ---
@@ -51,69 +51,67 @@ Check out our **learning package** for more on sustainable fishing.
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#playlist-eatsleeprecycle">
-        <span>Playlist:<br>Eat, Sleep, Recycle</span>
+      <a href="#playlist-cityinnature">
+        <span>Playlist:<br>City in Nature</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-recycleroundup">
-        <span>Learning Package:<br>Recycle Roundup | National Geographic Kids</span>
+      <a href="#lp-upcycleclothes">
+        <span>Learning Package:<br>Upcycling Your Clothes! | Stay Curious with Your Child</span>
       </a>
     </div>
   </div>
   </div>
 
 
-<h5 class="margin--bottom--lg" id="playlist-eatsleeprecycle"><b>Playlist: Eat, Sleep, Recycle</b></h5>
-We all need to eat food to survive and food comes from farms. However, farming can be unsustainable and harmful to the environment. Check out these videos to find out how scientists and farmers have been trying to make farming more sustainable and kinder to Mother Earth.
+<h5 class="margin--bottom--lg" id="playlist-cityinnature"><b>Playlist: City in Nature</b></h5>
+Learn about nature and how cities like Singapore strike a balance between our urbanised and green spaces. 
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/xFqecEtdGZ0"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/eVBFePei-Bk"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Can we create the “perfect” farm? (7 mins)</b><br>
-Did you spot a leafy green in your dinner last night? Farms are responsible for a huge part of our diets, but they have not always been sustainable. Watch this video to learn how scientists and farmers have been trying to improve farms for us and the future. </p>
-		<small>Source: Can we create the “perfect” farm? – YouTube (2020, October 12). <i>TED-Ed</i>. Retrieved 2022, April 19.</small>
+    <p><b class="has-text-indigo">Growing Herbs in Corridors (3 mins)</b><br>Learn some tips on how to make your corridor space your garden for herb growing.</p>
+		<small>Source: Growing Herbs in Corridors | Community Garden Festival 2020 – YouTube (2020, October 24). NParksSG. Retrieved 2022, September 21.</small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/kal-kCcW3iI"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/zarll9bx6FI"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo">Meet a Hydroponic Farmer (5 mins)</b><br>
-Ever wondered how hydroponics works? In this video by KiwiCo, follow 11-year-old host Guari as she finds out more about hydroponics and its creative inventions. </p>
-    <small>Source: Meet a Hydroponic Farmer | Small Meets Big | KiwiCo – YouTube (2021, June 21). <i>KiwiCo</i>. Retrieved 2022, April 19.</small>
+<p><b class="has-text-indigo">What happens if you cut down all of a city’s trees? (6 mins)</b><br>
+Have you ever thought why there are so many trees here in Singapore? Learn about the importance of trees in cities through this informative TED-Ed video.</p>
+    <small>Source: What happens if you cut down all of a city’s trees? – Stefan Al – YouTube (2020, April 24). TED-Ed. Retrieved 2022, September 21. </small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/LWQm9KXd9IY"></iframe>
-    </div>
+    <div class="image-container" style="margin: auto;">
+			<a target="\_blank" href="https://youtu.be/nxBE1arsUIw"><img src="/images/sustainability/tweens/sus-tweens22q4-wildlife.png" alt="Wildlife | Our Better Nature EP2" style="width: 100%;"></a>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">We visit a farm in Singapore! (4 mins)</b><br>
+    <p><b class="has-text-indigo">Wildlife (6 mins)</b><br>
 Have you ever been to a farm in Singapore?  Check out this video by DBS, where you can learn all about farming and where our vegetables come from!</p>
-    <small>Source: We visit a farm in Singapore! | In The Moment: Episode 13 – YouTube (2020, September 25). <i>SciShow</i>. Retrieved 2022, April 19.</small>
+    <small>Source: Wildlife | Our Better Nature EP2 (2022, Aug 23). The Straits Times. Retrieved 2022, September 21.</small>
   </div>
 </div>
 <br>
 
 
-<h3 class="margin--bottom--lg" id="lp-recycleroundup"><b>Learning Packages</b></h3>
+<h3 class="margin--bottom--lg" id="lp-upcycleclothes"><b>Learning Packages</b></h3>
 Articles/resources that show us interesting ways to live sustainably.
 
-<h5><b>Recycle Roundup | National Geographic Kids</b></h5>
-Help clean up the park! Your job is to sort the stuff people throw away and put it in the proper bin. Is it recycling, compost, or trash? Check out <a target="_blank" href="https://kids.nationalgeographic.com/games/action-adventure/article/recycle-roundup-new">this game</a> from National Geographic Kids!
+<h5><b>Upcycling Your Clothes! | Stay Curious with Your Child</b></h5>
+Instead of throwing away clothes you have outgrown, why not <a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child#upcycle-your-clothes">upcycle and breathe new life into them</a>?
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
