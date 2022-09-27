@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /sustainability/teens/content
+permalink: /sustainability/teens/content/
 description: ""
 third_nav_title: Teens
 ---
@@ -108,9 +108,8 @@ In 2015, a sperm whale was discovered off Jurong Island. Uncover the story behin
 <h3 class="margin--bottom--lg" id="lp-urbanfarming"><b>Learning Packages</b></h3>
 Articles/resources that show us interesting ways to live sustainably.
 
-<h5><b>Urban Farming | Teen•Things</b></h5>
-
-Maybe you have always aspired to be a farmer, or at the least, have green fingers. If you want to grow your own food, you can always start at home with your own spice garden! Check out more on urban farming <a target="_blank" href="https://nlb-dr-staging.netlify.app/diy-resources/secondary/teen-things-archive#id11">here</a>!
+<h5><b>Traveling Sustainably | Teen•Things</b></h5>
+Stay green and sustainable while seeing the wide, wide world! <a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id2">Check it out</a>!
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
