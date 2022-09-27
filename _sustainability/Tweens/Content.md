@@ -42,11 +42,11 @@ third_nav_title: Tweens
 Use these resources to introduce your child to sustainability and caring for the environment.
 
 <h3 class="margin--bottom--lg"><b>Playlist</b></h3>
-<p>Pollution seems inevitable in our modern cities – but did you know there are solutions?</p>
+<p>Learn the importance of caring for our planet and how children can play their part from a young age.</p>
 
-Check out our **playlist** to find out how we can make a better Earth together. 
+Check out our **playlist** to learn about how urban cities like Singapore stay green. 
 
-Check out our **learning package** for more on sustainable fishing.
+Check out our **learning package** to learn more about upcycling your old clothes.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
