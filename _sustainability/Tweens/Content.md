@@ -44,7 +44,7 @@ Use these resources to introduce your child to sustainability and caring for the
 <h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Learn the importance of caring for our planet and how children can play their part from a young age.</p>
 
-Check out our **playlist** to learn about how urban cities like Singapore stay green. 
+Check out our **playlist** to learn about the green spaces in urban cities like Singapore. 
 
 Check out our **learning package** to learn more about upcycling your old clothes.
 
