@@ -77,7 +77,7 @@ Learn about nature and how cities like Singapore strike a balance between our ur
   </div>
   <div class="col is-three-fifths">
     <p><b class="has-text-indigo">Growing Herbs in Corridors (3 mins)</b><br>Learn some tips on how to make your corridor space your garden for herb growing.</p>
-		<small>Source: Growing Herbs in Corridors | Community Garden Festival 2020 – YouTube (2020, October 24). NParksSG. Retrieved 2022, September 21.</small>
+		<small>Source: Growing Herbs in Corridors | Community Garden Festival 2020 (2020, October 24). NParksSG. Retrieved 2022, September 21.</small>
   </div>
 </div>
 
@@ -90,7 +90,7 @@ Learn about nature and how cities like Singapore strike a balance between our ur
   <div class="col is-three-fifths">
 <p><b class="has-text-indigo">What happens if you cut down all of a city’s trees? (6 mins)</b><br>
 Have you ever thought why there are so many trees here in Singapore? Learn about the importance of trees in cities through this informative TED-Ed video.</p>
-    <small>Source: What happens if you cut down all of a city’s trees? – Stefan Al – YouTube (2020, April 24). TED-Ed. Retrieved 2022, September 21. </small>
+    <small>Source: What happens if you cut down all of a city’s trees? – Stefan Al (2020, April 24). TED-Ed. Retrieved 2022, September 21. </small>
   </div>
 </div>
 
