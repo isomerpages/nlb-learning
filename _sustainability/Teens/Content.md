@@ -64,7 +64,7 @@ Check out our **learning packages** to pick up tips and be prepared for future e
 <h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.</p>
 
-<h5 class="margin--bottom--lg" id="playlist-climatecrashcourse"><b>Playlist: Climate Clean Up</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-climatecleanup"><b>Playlist: Climate Clean Up</b></h5>
 Explore pressing environmental issues that are transforming our planet, and strategies in place to combat climate change.
 
 <div class="row is-multiline margin--bottom--lg">
