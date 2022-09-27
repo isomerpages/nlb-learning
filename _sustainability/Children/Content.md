@@ -43,9 +43,9 @@ Use these resources to introduce your child to sustainability and caring for the
 <h3><b>Playlist</b></h3>
 Learn the importance of caring for our planet and how children can play their part from a young age.
 
-Food waste is everywhere! Check out our **playlist** to learn more about how our food produces waste, and how we can be part of the solution.
+Check out our **playlist** to dive deep into our oceans and find out how our blue planet sustains life.
 
-Check out our **learning package** for an activity on reducing food waste.
+Check out our **learning package** and take a walk of discovery in your nearby green spaces!
 
 <div class="row is-multiline">
   <div class="col is-one-half">
