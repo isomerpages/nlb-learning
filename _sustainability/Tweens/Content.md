@@ -97,8 +97,9 @@ Have you ever thought why there are so many trees here in Singapore? Learn about
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="image-container" style="margin: auto;">
-			<a target="\_blank" href="https://youtu.be/nxBE1arsUIw"><img src="/images/sustainability/tweens/sus-tweens22q4-wildlife.png" alt="Wildlife | Our Better Nature EP2" style="width: 100%;"></a>
+			<a target="\_blank" href="https://youtu.be/nxBE1arsUIw"><img src="/images/sustainability/tweens/sus-tweens22q4-wildlife.png" alt="Wildlife | Our Better Nature EP2" style="width: 70%;"></a>
   </div>
+	</div>
   <div class="col is-three-fifths">
     <p><b class="has-text-indigo">Wildlife (6 mins)</b><br>
 Have you ever been to a farm in Singapore?  Check out this video by DBS, where you can learn all about farming and where our vegetables come from!</p>
