@@ -115,6 +115,6 @@ Articles/resources that show us interesting ways to live sustainably.
 
 <h5><b>My Nature Field Journal | Singapore Botanic Gardens</b></h5>
 
-Hello explorer! Take a walk of discovery in your nearby park, garden and forest and record your observations in this journal! <a target="_blank" href="https://www.nparks.gov.sg/-/media/nparks-real-content/sbg-edu-new/nature-activity-booklet/my-nature-field-journal-sbg-education.ashxt">Check it out!</a>
+Hello explorer! Take a walk of discovery in your nearby park, garden and forest and record your observations in <a target="_blank" href="https://www.nparks.gov.sg/-/media/nparks-real-content/sbg-edu-new/nature-activity-booklet/my-nature-field-journal-sbg-education.ashxt">this journal</a>!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
