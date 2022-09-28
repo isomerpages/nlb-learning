@@ -148,16 +148,12 @@ Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! 
        <td>Oct 29, 2022 <br> 11:00 AM – 12:00 PM</td>
         <td>Zoom</td>
       </tr>
-
-					  
 			<tr>           
 <td><a target="_blank" href="https://www.eventbrite.sg/e/arise-farm-from-seed-to-harvest-plants-friends-foes-tickets-416468768297?aff=odcleoeventsincollection"><b> Arise & Farm: From Seed To Harvest-Plants’ Friends & Foes </b></a></td>
-
         <td> Learn about the process of farming through a guided exhibit tour and tactile hands-on activities! This programme is suitable for children aged 4-6 yrs old. 
 <br>
 </td><td>29 Oct 2022<br>10.30am–12.00pm<br></td><td> Bishan Public Library </td>
-      </tr>
-			
+      </tr>	
   </tbody>
   </table>
 </div>
