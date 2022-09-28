@@ -19,7 +19,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     </thead>
     <tbody>
 <tr>
-        <td style="width: 20%;"><a target="_blank" href="/reading/children/content"><b>Playlist: Meet the Storytellers!</b></a></td>
+        <td style="width: 20%;"><a href="/reading/children/content"><b>Playlist: Meet the Storytellers!</b></a></td>
         <td style="width: 40%;">Create fun reading experiences at home with these bite-sized resources for your child to discover the joy of reading.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
@@ -41,7 +41,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href=""><b>Save Smart with Smiley (8-10 years old)</b></a></td>
+        <td style="width: 20%;"><a href=""><b>Save Smart with Smiley (8-10 years old)</b></a></td>
         <td style="width: 40%;">Learn how to save smart, identify the difference between “Needs” and “Wants,” and develop healthy spending habits.
 <br><br> This session is for children aged 8 to 10.
 <br><br>Registration is required and will be opened closer to the date.</td>
@@ -50,7 +50,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
       </tr>
 			
 <tr>
-<td style="width: 20%;"><a target="_blank" href=""><b>Save Smart with Smiley (11-12 years old)</b></a></td>
+<td style="width: 20%;"><a href=""><b>Save Smart with Smiley (11-12 years old)</b></a></td>
         <td style="width: 40%;">Learn how to save smart, identify the difference between “Needs” and “Wants,” and develop healthy spending habits.
 <br><br> This session is for children aged 11 to 12.
 <br><br> Registration is required and will be opened closer to the date.</td>
@@ -59,15 +59,15 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
       </tr>
 <tr>
 	
-<td style="width: 20%;"><a target="_blank" href=""><b>Zecky's Animated Book Launch <b></a></td>
-        <td style="width: 40%;">Learn how lovable <i>Monsters United</i> mascot Zecky got her specs! Join our exclusive sci-fi-themed storytelling and craft sessions happening at various public libraries in the month of December. More details will be made available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited" target="_blank">here</a> closer to the date.
+<td style="width: 20%;"><a href=""><b>Zecky's Animated Book Launch <b></a></td>
+        <td style="width: 40%;">Learn how lovable <i>Monsters United</i> mascot Zecky got her specs! Join our exclusive sci-fi-themed storytelling and craft sessions happening at various public libraries in the month of December. More details will be made available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here</a> closer to the date.
 <br><br>This programme is suitable for parents and children aged 7 to 10.
 <br><br>Registration will open closer to the date.</td>
         <td style="width: 20%;">December 2022<br></td>
         <td style="width: 20%;">Multiple Public Libraries</td>
       </tr>
 	<tr>
-<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/bookbugsr/quests/" target="_blank"><b>Book Bugs Rescuers' Quests<b></a></td>
+<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/bookbugsr/quests/"><b>Book Bugs Rescuers' Quests<b></a></td>
         <td style="width: 40%;">The Rescuers’ Quest is an in-library video trail that reveals the story behind The End Bug. Explore the Children’s Section in libraries and search for the three stations he’s left behind to watch his video messages! Begin your search at the Books Bugs machine. 
 <br><br>This self-guided in-library trail is suitable for children of all ages and fans of Book Bugs.  
 <br><br>Registration is not required.</td>
@@ -79,7 +79,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
       </tr>
 	<tr>
 
-<td style="width: 20%;"><a href=" " target="_blank"><b>Stories in Art with National Gallery Singapore</b></a></td>
+<td style="width: 20%;"><a href=""><b>Stories in Art with National Gallery Singapore</b></a></td>
 		<td style="width: 40%;">Join our storytelling on folktales and local legends, featuring artists and artworks from books published by the National Gallery Singapore!
 <br><br>Registration will open closer to the date.</td>
         <td style="width: 20%;">3 Dec
@@ -169,7 +169,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     </thead>
     <tbody>
 <tr>
-      <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177?aff=ebdssbdestsearch"><b>From Seeds to Harvest @ Bishan Public Library</b></a></td>
+      <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177?aff=ebdssbdestsearch"><b>From Seeds to Harvest @ Bishan Public Library</b></a></td>
         <td style="width: 40%;">This session immerses children in the process of farming through hands-on activities and teaches the role of photosynthesis in the growth of plants.
 <br><br>This programme is suitable for children aged 7 to 12.
 </td>
@@ -177,7 +177,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
         <td style="width: 20%;">Bishan Public Library, B1 Garden</td>
       </tr>
 			<tr>
-      <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627?aff=ebdssbdestsearch"><b>How to be a Cyber Safe Family with Cyberlite Books @ library@harbourfront</b></a></td>
+      <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627?aff=ebdssbdestsearch"><b>How to be a Cyber Safe Family with Cyberlite Books @ library@harbourfront</b></a></td>
         <td style="width: 40%;">Should we control our children’s screen time? What do we do if a child is cyberbullied? Join the authors of <i>Ready, Get Set, Connect!</i> to learn about family cyber safety.
 <br><br>This programme is suitable for children aged 7 to 12 years, and their parents. Each participant should register for their own ticket.</td>
         <td style="width: 20%;">2 Oct 2022,<br>11:30am – 12:30pm</td>
@@ -186,7 +186,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
       </tr>
 			<tr>
 
-      <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/does-my-child-have-an-eating-disorder-online-tickets-411765249947?aff=ebdssbonlinesearch"><b>Does my Child have an Eating Disorder? | Online</b></a></td>
+      <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/does-my-child-have-an-eating-disorder-online-tickets-411765249947?aff=ebdssbonlinesearch"><b>Does my Child have an Eating Disorder? | Online</b></a></td>
         <td style="width: 40%;">In this wellness programme by NYP, learn how to recognise eating disorders in children and youths, and seek help for them.
 <br><br>This programme is suitable for parents of children and teens.</td>
         <td style="width: 20%;">8 Oct 2022,<br>11am – 12:30pm</td>
