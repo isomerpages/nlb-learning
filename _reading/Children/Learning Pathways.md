@@ -138,35 +138,35 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 	<tr>	
       <td style="width: 20%;"><b>星衢讲故事活动 Sing Chu Chinese Storytelling</b></td>
       <td style="width: 40%;">有华语趣味故事可听，还有游戏可玩，快来和我们共度欢乐的周末时光吧！故事内容适合4至10岁的孩童聆听，欢迎家长陪同。
-<br>Join us for fun-filled interactive Chinese storytelling sessions! With interesting stories galore, children will definitely be thrilled with the activities and more! Stories are suitable for children from 4 to 10 years old. Parents are welcome to join in the session.
-</td>
-        <td style="width: 20%;">Every 1st Saturday,
-<br>1 Oct 2022,
-<br>5 Nov 2022,
-<br>3 Dec 2022,
-<br>3pm – 3:30pm
-<br><br>Every 2nd Saturday,
-<br>8 Oct 2022,
-<br>12 Nov 2022,
-<br>10 Dec 2022,
-<br>12.30pm–1pm
-<br><br>Every 3rd Saturday,
-<br>15 Oct 2022,
-<br>19 Nov 2022,
-<br>17 Dec 2022,
-<br>11.30am–12pm
-</td>
+<br>Join us for fun-filled interactive Chinese storytelling sessions! With interesting stories galore, children will definitely be thrilled with the activities and more! Stories are suitable for children from 4 to 10 years old. Parents are welcome to join in the session.</td>
+       <td style="width: 20%;">Every 1st Saturday,
+					<br>1 Oct 2022,
+					<br>5 Nov 2022,
+					<br>3 Dec 2022,
+					<br>3pm – 3:30pm
+					<br><br>Every 2nd Saturday,
+					<br>8 Oct 2022,
+					<br>12 Nov 2022,
+					<br>10 Dec 2022,
+					<br>12.30pm–1pm
+					<br><br>Every 3rd Saturday,
+					<br>15 Oct 2022,
+					<br>19 Nov 2022,
+					<br>17 Dec 2022,
+					<br>11.30am–12pm
+		</td>
    <td style="width: 20%;">Yishun Public Library, 
 		 <br>Story Circle, Level 4
-<br><br>
-<br><br>
-<br><br>Choa Chu Kang Public Library, 
+		 <br><br>
+		 <br><br>
+		 <br><br>Choa Chu Kang Public Library, 
 		 <br>Programme Zone 1
-<br><br>
-<br>
-<br><br>Tampines Regional Library, 
-		 <br>Books for Babies, Level 3	
-</tr>
+		 <br><br>
+		 <br>
+		 <br><br>Tampines Regional Library, 
+		 <br>Books for Babies, Level 3
+		</td>
+	</tr>
 </tbody>
 </table>
 </div>
