@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /careers/teens/content
+permalink: /careers/teens/content/
 description: ""
 third_nav_title: Teens
 ---
@@ -52,11 +52,21 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
+      <a href="#playlist-wants">
+        <span>Playlist:<br>Wants Vs Needs</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-pink-ruby">
       <a href="#playlist-dream">
         <span>Playlist:<br>Day in the Life of Dream Chasers</span>
       </a>
     </div>
   </div>
+  </div>
+	
+<div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
       <a href="#playlist-health">
@@ -64,7 +74,14 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
       </a>
     </div>
   </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-pink-ruby">
+      <a href="#lp-wants">
+        <span>Learning Package:<br> Wants Vs Needs</span>
+      </a>
+    </div>
   </div>
+ </div>
 
 <div class="row is-multiline">
   <div class="col is-one-half">
@@ -193,6 +210,18 @@ Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br><br>
 
 <h3><b>Learning Package</b></h3>
 Get a glimpse of what it takes to achieve your aspirations with these articles and activities.
+
+<h5 class="margin--bottom--lg" id="lp-started1"><b>Needs! Or... Wants?</b></h5>
+
+**Needs** are things we **must have** to survive (e.g. food, water, clothes, shelter)
+
+**Wants** are things we would like to have, but are **not required** for survival (e.g. luxury goods, games, toys)
+
+**The 10 Bean Allowance**
+
+Adapted from "The Bean Game" by Jana Darrington, this game helps you better understand your spending choices and priorities. Everyone starts off with 10 beans and decides on which areas they would like to allocate the beans to. Let's *bean-gin*!
+
+![beans counter](/images/career/teens/beans.jpg)
 
 <h5 class="margin--bottom--lg" id="lp-started1"><b>Time to Get Started! Part 1</b></h5>
 
