@@ -79,13 +79,12 @@ Stay tuned for more updates.</td>
 	
 <tr>
 	<td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=odcleoeventsincollection"><b> Renewable Resource and Recycling Talk @ Jurong Regional Library </b></a></td>
-	<td style="width: 40%;">Learn all about renewable resources and how to recycle right. Stand a chance to win attractive recycled and/or upcycled prizes during the quiz!
-</td>
+	<td style="width: 40%;">Learn all about renewable resources and how to recycle right. Stand a chance to win attractive recycled and/or upcycled prizes during the quiz!</td>
 	<td style="width: 40%;">8 Sep 2022, 2.30pm - 3.30pm</td>
 				
 <tr>
 	<td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/sphero-party-jurong-regional-library-tweenkerama-tickets-400591037577?aff=odcleoeventsincollection"> <b> Sphero Party | Jurong Regional Library | Tweenkerama </b></td>
-	<td>  The Sphero BOLT is an app-enabled robotic ball that provides endless opportunities to have fun while learning. In this workshop, participants will learn to handle, navigate, and program Sphero using a block-based programming language on phones or tablets.<br></td>
+	<td style="width: 40%;">The Sphero BOLT is an app-enabled robotic ball that provides endless opportunities to have fun while learning. In this workshop, participants will learn to handle, navigate, and program Sphero using a block-based programming language on phones or tablets.</td>
 	<td style="width: 40%;">10 Sep 2022, 2pm - 4pm</td>
       </tr>
     </tbody>
