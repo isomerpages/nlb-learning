@@ -221,7 +221,12 @@ Learn about needs and wants in the little activity titled:
 
 **The 10 Bean Allowance**
 
-Adapted from "The Bean Game" by Jana Darrington, this game helps you better understand your spending choices and priorities. Everyone starts off with 10 beans and decides on which areas they would like to allocate the beans to. The four area are: Food, Clothing, Leisure and Transport! Let's *bean-gin*!
+Adapted from "The Bean Game" by Jana Darrington, this game helps you better understand your spending choices and priorities. Everyone starts off with 10 beans and decides on which areas they would like to allocate the beans to. The four areas are: 
+Food,
+Clothing, 
+Leisure, and 
+Transport! 
+Let's *bean-gin*!
 
 ![beans counter](/images/career/teens/beans.jpg)
 
@@ -238,11 +243,11 @@ Let's learn about Principal and Interest!
 
 **Principal** is the initial amount of money borrowed before interest is accrued.
 
-**Interest** is the price you pay to borrow money or the cost you charge to lend money. **Simple Interest** is the interest calculated on the original principal loan only. **Compound Interest** is the interest that accrues on both the original principal loan and the accumulated interest from previous periods.
+**Interest** is the price you pay to borrow money or the cost you charge to lend money. Simple Interest is the interest calculated on the original principal loan only. Compound Interest is the interest that accrues on both the original principal loan and the accumulated interest from previous periods.
 
 Let's further our understanding of Principal and Interest with the next activity!
 
-**Let's help John!**
+**Let's Help John!**
 
 John wants to buy a new phone, but it costs $1,000! He only has $300 now and he can only save $100 a month, what are his options?
 
