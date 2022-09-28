@@ -42,8 +42,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     <tbody>
       <tr>
         <td style="width: 20%;"><a target="_blank" href=""><b>Save Smart with Smiley (8-10 years old)</b></a></td>
-        <td style="width: 40%;">
-Learn how to save smart, identify the difference between “Needs” and “Wants,” and develop healthy spending habits.
+        <td style="width: 40%;">Learn how to save smart, identify the difference between “Needs” and “Wants,” and develop healthy spending habits.
 <br><br> This session is for children aged 8 to 10.
 <br><br>Registration is required and will be opened closer to the date.</td>
          <td style="width: 20%;"> 26 Nov 2022,<br>11am – 12pm</td>
