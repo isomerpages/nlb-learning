@@ -133,6 +133,17 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
       </tr>
     </thead>
     <tbody>
+			<tr>		
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-sounds-tickets-410297780707?aff=odcleoeventsincollection"><b> [Budding Engineers] Sounds
+</b></a></td>
+        <td>Stop and listen! Do you hear anything? The wind howling, the cartoons on television, or even the barking of a dog? You may even hear Mommy and Daddy call your name! These are called Sounds and they can be found everywhere! Have you wondered how they are made or how you can hear them?
+</td>
+       <td>Oct 1, 2022 <br> 11:00 AM – 12:00 PM</td>
+        <td>Woodlands Regional Library</td>
+      </tr>
+
+			
+			
 					<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-potions-party-tickets-409759109527?aff=odcleoeventsincollection"><b> [Budding Scientists] Potions Party!  </b></a></td>
         <td>
@@ -141,9 +152,6 @@ Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! 
        <td>Oct 29, 2022 <br> 11:00 AM – 12:00 PM</td>
         <td>Zoom</td>
       </tr>
-			
-			
-			
 			</tbody>
 	</table>
 </div>
