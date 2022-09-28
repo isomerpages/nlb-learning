@@ -87,17 +87,27 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 			</tr>
 		</thead>
 		<tbody>
-
-			
-
-
+			<tr>		
+<td><a target="_blank" href="https://www.eventbrite.sg/e/coding-unplugged-sound-shakers-discovertech-tickets-416471847507?aff=odcleoeventsincollection"><b> Coding Unplugged: Sound Shakers | DiscoverTech</b></a></td>
+        <td>Learn basic coding concepts and computational thinking skills through an unplugged sound shaker activity. Discover concepts such as decomposition and debugging as you fix the buggy set of instructions and fold the sound shaker. You will get to bring the sound shaker home too!
+</td>
+       <td>1 Oct 2022 <br> 2:30-3:30pm</td>
+        <td>Serangoon Public Library</td>
+      </tr>
+			<tr>		
+<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-i-travelling-with-bee-bot-tickets-414445647087?aff=odcleoeventsincollection"><b> DiscoverTech I Travelling With Bee Bot </b></a></td>
+        <td>Come program Bee-Bot to go on an adventure around Singapore! Visit sites such as Esplanade and the Merlion, all while learning computational thinking!
+</td>
+       <td>2 Oct 2022 <br> 2:00 - 3:00pm</td>
+        <td>
+library@harbourfront </td>
+      </tr>
 			<tr>		
 <td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-i-littlebits-creation-tickets-422296388867?aff=odcleoeventsincollection"><b> DiscoverTech I LittleBits Creation </b></a></td>
         <td>Have fun learning with littleBits in this creative hands-on workshop! LittleBits are swappable, magnetically-connected electronics building blocks that allow you to easily add lights and movement to any crafts project. Children and parents will learn how littleBits work and create and decorate a character using cardboard and arts & crafts materials! This is a parent-child programme for children aged 4-6 years old.</td>
        <td>Oct 9, 2022 <br> 11:30 AM – 12:30 PM</td>
         <td>Sengkang Public Library</td>
       </tr>
-
 			<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-i-think-like-a-coder-crack-the-code-tickets-409716923347?aff=odcleoeventsincollection"><b> DiscoverTech I Think Like A Coder: Crack the Code </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
@@ -105,15 +115,12 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
         <td>
 library@harbourfront </td>
       </tr>
-
 			<tr>		
 <td><a target="_blank" href="https://www.eventbrite.sg/e/robo-coder-tickets-409742369457?aff=odcleoeventsincollection"><b> Robo Coder  </b></a></td>
         <td>Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children. These are for absolute beginners aged 4 to 7 years old. Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.</td>
        <td>Oct 22, 2022 <br>2:30 PM – 3:30 PM</td>
         <td>Serangoon Public Library</td>
       </tr>
-
-			
 		</tbody>
 	</table>
 </div>
@@ -127,6 +134,17 @@ library@harbourfront </td>
 			</thead>
 		<tbody>
 			
+
+
+			<tr>		
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-sounds-tickets-410297780707?aff=odcleoeventsincollection"><b> [Budding Engineers] Sounds
+</b></a></td>
+        <td>Stop and listen! Do you hear anything? The wind howling, the cartoons on television, or even the barking of a dog? You may even hear Mommy and Daddy call your name! These are called Sounds and they can be found everywhere! Have you wondered how they are made or how you can hear them?
+</td>
+       <td>Oct 1, 2022 <br> 11:00 AM – 12:00 PM</td>
+        <td>Woodlands Regional Library</td>
+      </tr>
+
 			
 			
 
