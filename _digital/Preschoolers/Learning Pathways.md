@@ -105,7 +105,7 @@ library@harbourfront </td>
 			<tr>		
 <td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-i-littlebits-creation-tickets-422296388867?aff=odcleoeventsincollection"><b> DiscoverTech I LittleBits Creation </b></a></td>
         <td>Have fun learning with littleBits in this creative hands-on workshop! LittleBits are swappable, magnetically-connected electronics building blocks that allow you to easily add lights and movement to any crafts project. Children and parents will learn how littleBits work and create and decorate a character using cardboard and arts & crafts materials! This is a parent-child programme for children aged 4-6 years old.</td>
-       <td>Oct 9, 2022 <br> 11:30 AM – 12:30 PM</td>
+       <td>9 Oct  2022 <br> 11:30 AM – 12:30 PM</td>
         <td>Sengkang Public Library</td>
       </tr>
 			<tr>			
@@ -118,7 +118,7 @@ library@harbourfront </td>
 			<tr>		
 <td><a target="_blank" href="https://www.eventbrite.sg/e/robo-coder-tickets-409742369457?aff=odcleoeventsincollection"><b> Robo Coder  </b></a></td>
         <td>Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children. These are for absolute beginners aged 4 to 7 years old. Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.</td>
-       <td>Oct 22, 2022 <br>2:30 PM – 3:30 PM</td>
+       <td>22 Oct  2022 <br>2:30 PM – 3:30 PM</td>
         <td>Serangoon Public Library</td>
       </tr>
 		</tbody>
@@ -133,15 +133,12 @@ library@harbourfront </td>
       </tr>
 			</thead>
 		<tbody>
-			
-
-
 			<tr>		
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-sounds-tickets-410297780707?aff=odcleoeventsincollection"><b> [Budding Engineers] Sounds
 </b></a></td>
         <td>Stop and listen! Do you hear anything? The wind howling, the cartoons on television, or even the barking of a dog? You may even hear Mommy and Daddy call your name! These are called Sounds and they can be found everywhere! Have you wondered how they are made or how you can hear them?
 </td>
-       <td>Oct 1, 2022 <br> 11:00 AM – 12:00 PM</td>
+       <td>1 Oct 2022 <br> 11:00 AM – 12:00 PM</td>
         <td>Woodlands Regional Library</td>
       </tr>
 <tr>			
@@ -157,7 +154,7 @@ library@harbourfront </td>
         <td>
 Singapore is known as a garden city but did you know you can create your own personal garden city at home? Microgreens are edible crops grown in soil and harvested when the plants are a few inches tall. Join us in this workshop as we learn about microgreens and fall in love with the ease of planting these young seedlings. This is a parent-child programme and is suitable for children aged 4-6 years old.
  </td>
-       <td>Oct 9, 2022 <br> 11:30 AM – 12:30 PM </td>
+       <td> 9 Oct 2022 <br> 11:30 AM – 12:30 PM </td>
         <td>Bedok Public Library </td>
       </tr>
 			<tr>
@@ -171,7 +168,7 @@ Singapore is known as a garden city but did you know you can create your own per
         <td>
 Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! Today, you’ll be challenged to complete the Head Professor’s first assignment by combining ingredients to make stunning and magical mixtures. It will get messy — you have been warned. Don your lab coats, prepare your ingredients, and ready the test tubes.Excited to learn more about potions and the Science behind them? Our stimulating hands-on experiments will open you to the world of STEAM.
  </td>
-       <td>Oct 29, 2022 <br> 11:00 AM – 12:00 PM</td>
+       <td> 29 Oct 2022 <br> 11:00 AM – 12:00 PM</td>
         <td>Zoom</td>
       </tr>
     </tbody>
