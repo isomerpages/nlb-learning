@@ -88,7 +88,7 @@ Check out the video resources below to help your child understand the roles of t
         <td>
 Learn more about the different types of sustainable art and explore ways how we could protect our earth in creative ways too. There will be interactive activities and hands-on learning! This is a parent-child programme and is suitable for children aged 4-6 years old. Registration is required for this programme.
  </td>
-       <td>Oct 8, 2022 <br> 3:00 PM – 4:00 PM  </td>
+       <td>8 Oct 2022 <br> 3:00 PM – 4:00 PM  </td>
         <td>Bishan Public Library </td>
       </tr>
 			<tr>			
@@ -98,7 +98,7 @@ Learn more about the different types of sustainable art and explore ways how we 
         <td>
 Singapore is known as a garden city but did you know you can create your own personal garden city at home? Microgreens are edible crops grown in soil and harvested when the plants are a few inches tall. Join us in this workshop as we learn about microgreens and fall in love with the ease of planting these young seedlings. This is a parent-child programme and is suitable for children aged 4-6 years old.
  </td>
-       <td>Oct 9, 2022 <br> 11:30 AM – 12:30 PM </td>
+       <td>9 Oct  2022 <br> 11:30 AM – 12:30 PM </td>
         <td>Bedok Public Library </td>
       </tr>
 			<tr>			
@@ -115,7 +115,7 @@ In this session suitable for children aged 4-6 years old, participants will prac
 "><b> [Caring for the Environment] All About Food Waste </b></a></td>
         <td> Do you know that food waste not only pollutes the environment but also contributes to global warming? Find out all about food waste at this informative workshop, and learn how you can reduce and recycle food waste though fun hands-on activities. This programme is suitable for children 4-6 years old.
  </td>
-       <td>Oct 22, 2022 <br> 10:30 AM – 11:30 AM </td>
+       <td>22 Oct 2022 <br> 10:30 AM – 11:30 AM </td>
         <td>Jurong West Public Library</td>
       </tr>
 
@@ -162,7 +162,7 @@ In this session suitable for children aged 4-6 years old, participants will prac
         <td>
 Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! Today, you’ll be challenged to complete the Head Professor’s first assignment by combining ingredients to make stunning and magical mixtures. It will get messy — you have been warned. Don your lab coats, prepare your ingredients, and ready the test tubes.Excited to learn more about potions and the Science behind them? Our stimulating hands-on experiments will open you to the world of STEAM.
  </td>
-       <td>Oct 29, 2022 <br> 11:00 AM – 12:00 PM</td>
+       <td>29 Oct 2022 <br> 11:00 AM – 12:00 PM</td>
         <td>Zoom</td>
       </tr>
     </tbody>
