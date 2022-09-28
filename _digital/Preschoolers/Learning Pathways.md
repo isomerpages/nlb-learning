@@ -144,7 +144,12 @@ library@harbourfront </td>
        <td>Oct 1, 2022 <br> 11:00 AM – 12:00 PM</td>
         <td>Woodlands Regional Library</td>
       </tr>
-
+<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
+        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
+       <td>Check out all the Jiggle Read & Rhyme sessions for October!</td>
+        <td>Various Locations</td>
+      </tr>
 			
 			
 
