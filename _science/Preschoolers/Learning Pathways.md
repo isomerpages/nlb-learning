@@ -156,7 +156,13 @@ Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! 
       </tr>
     </thead>
     <tbody>
-			
+			<tr>		
+<td><a target="_blank" href="https://www.eventbrite.sg/e/coding-unplugged-sound-shakers-discovertech-tickets-416471847507?aff=odcleoeventsincollection"><b> Coding Unplugged: Sound Shakers | DiscoverTech</b></a></td>
+        <td>Learn basic coding concepts and computational thinking skills through an unplugged sound shaker activity. Discover concepts such as decomposition and debugging as you fix the buggy set of instructions and fold the sound shaker. You will get to bring the sound shaker home too!
+</td>
+       <td>1 Oct 2022 <br> 2:30-3:30pm</td>
+        <td>Serangoon Public Library</td>
+      </tr>
 			
 			
 					
