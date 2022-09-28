@@ -38,7 +38,7 @@ Spark your child’s curiosity in science literacy through engaging programmes!
         <th class="is-uppercase has-weight-normal" colspan="4">Explore Programmes</th>
       </tr>
     </thead>
-<tbody>
+		<tbody>
       <tr>
         <td style="width: 20%;"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama"><b> S.T.E.A.M. Lab Mini </b></a></td>
         <td style="width: 40%;">Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. <br><br>
@@ -48,16 +48,24 @@ Spark your child’s curiosity in science literacy through engaging programmes!
       </tr>
 <tr>
 <td><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/shs-videos"><b> School Holiday Special </b></a></td>
-        <td> <b>Microwave Magic </b><br>
+<td> <b>Microwave Magic </b><br>
 Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah, as she debunks common myths about this everyday appliance and shares a simple cheesy potato recipe you can try at home!</td>
 	<td></td>
 	<td></td>
-      </tr>
+			</tr>
+			
 <tr>
-<td><b> TinkerWorks | Science </b></td>
-        <td>A series of tinkering sessions to learn and explore topics on S.T.E.A.M. (Science, Technology, Engineering, Art, and Mathematics) through a variety of hands-on and experiential learning activities.
+	<td><b> TinkerWorks | Science </b></td>
+	<td>A series of tinkering sessions to learn and explore topics on S.T.E.A.M. (Science, Technology, Engineering, Art, and Mathematics) through a variety of hands-on and experiential learning activities.
 Stay tuned for more updates.</td>
-	<div class="horizontal-scroll margin--bottom--lg">
+	<td> </td>
+	<td> </td>
+			</tr>
+		</tbody>
+	</table>
+	</div>
+
+<div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
       <tr>
