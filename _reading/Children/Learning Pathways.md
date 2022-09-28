@@ -59,27 +59,27 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
       </tr>
 <tr>
 	
-<td><a target="_blank" href=""><b>Zecky's Animated Book Launch <b></a></td>
-        <td> Learn how lovable <i>Monsters United</i> mascot Zecky got her specs! Join our exclusive sci-fi-themed storytelling and craft sessions happening at various public libraries in the month of December. More details will be made available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited" target="_blank">here</a> closer to the date.
+<td style="width: 20%;"><a target="_blank" href=""><b>Zecky's Animated Book Launch <b></a></td>
+        <td style="width: 40%;">Learn how lovable <i>Monsters United</i> mascot Zecky got her specs! Join our exclusive sci-fi-themed storytelling and craft sessions happening at various public libraries in the month of December. More details will be made available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited" target="_blank">here</a> closer to the date.
 <br><br>This programme is suitable for parents and children aged 7 to 10.
 <br><br>Registration will open closer to the date.</td>
-        <td>December 2022<br></td>
-        <td>Multiple Public Libraries</td>
+        <td style="width: 20%;">December 2022<br></td>
+        <td style="width: 20%;">Multiple Public Libraries</td>
       </tr>
 	<tr>
-<td><a target="_blank" href="https://childrenandteens.nlb.gov.sg/events/bookbugsr/quests/"><b>Book Bugs Rescuers' Quests <b></a></td>
-        <td>The Rescuers’ Quest is an in-library video trail that reveals the story behind The End Bug. Explore the Children’s Section in libraries and search for the three stations he’s left behind to watch his video messages! Begin your search at the Books Bugs machine. 
+<td style="width: 20%;"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/events/bookbugsr/quests/"><b>Book Bugs Rescuers' Quests <b></a></td>
+        <td style="width: 40%;">The Rescuers’ Quest is an in-library video trail that reveals the story behind The End Bug. Explore the Children’s Section in libraries and search for the three stations he’s left behind to watch his video messages! Begin your search at the Books Bugs machine. 
 <br><br>This self-guided in-library trail is suitable for children of all ages and fans of Book Bugs.  
 <br><br>Registration is not required.</td>
-        <td>September - December 2022<br></td>
-        <td>Multiple Public Libraries except library@esplanade, library@chinatown, library@orchard</td>
+        <td style="width: 20%;">September - December 2022<br></td>
+        <td style="width: 20%;">Multiple Public Libraries except library@esplanade, library@chinatown, library@orchard</td>
       </tr>
 	<tr>
 
-<td><a href=" " target="_blank"><b>Stories in Art with National Gallery Singapore</b></a></td>
-<td>Join our storytelling on folktales and local legends, featuring artists and artworks from books published by the National Gallery Singapore!
+<td style="width: 20%;"><a href=" " target="_blank"><b>Stories in Art with National Gallery Singapore</b></a></td>
+		<td style="width: 40%;">Join our storytelling on folktales and local legends, featuring artists and artworks from books published by the National Gallery Singapore!
 <br><br>Registration will open closer to the date.</td>
-        <td>3 Dec
+        <td style="width: 20%;">3 Dec
 <br>2pm – 3pm
 <br><br>3 Dec
 <br>2pm – 3pm
@@ -88,7 +88,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 <br><br>17 Dec
 <br>2pm – 3pm
 </td>
-   <td>Sengkang Public Library, Programme Zone<br>
+   <td style="width: 20%;">Sengkang Public Library, Programme Zone<br>
 <br>Choa Chu Kang Public Library, Programme Zone 1
 <br>
 <br>Bishan Public Library, Programme Zone 1
@@ -107,7 +107,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
       <td style="width: 20%;"><b>Tamil Storytelling Sessions</b></td>
         <td style="width: 40%;">Immerse in fun-filled Tamil stories at the library. These 30-min storytelling sessions will feature folktales, animal stories, moral stories and much more. Choose your preferred location and engage with our lively storytellers.
 </td>
-        <td>Every 4th Thursday
+        <td style="width: 20%;">Every 4th Thursday
 <br>7pm – 7:30pm
 <br><br>Every 3rd Wednesday
 <br>7pm – 7:30pm
@@ -118,20 +118,18 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 <br><br>Every 2nd Friday
 <br>7pm – 7:30pm
 </td>
-   <td>Woodlands Regional Library, Children’s Section Level 4
+   <td style="width: 20%;">Woodlands Regional Library, Children’s Section Level 4
 <br><br>Tampines Regional Library, Programme Zone Level 6
 <br><br> Jurong Regional Library, Programme Zone Level 1
 <br><br>Choa Chu Kang Public Library, Programme Zone 1 & 2
 <br><br>Sengkang Public Library, Programme Zone Level 4
       </tr>
-	
       <tr>
-
       <td style="width: 20%;"><b>星衢讲故事活动 Sing Chu Chinese Storytelling</b></td>
-        <td style="width: 40%;">有华语趣味故事可听，还有游戏可玩，快来和我们共度欢乐的周末时光吧！故事内容适合4至10岁的孩童聆听，欢迎家长陪同。
+      <td style="width: 40%;">有华语趣味故事可听，还有游戏可玩，快来和我们共度欢乐的周末时光吧！故事内容适合4至10岁的孩童聆听，欢迎家长陪同。
 <br>Join us for fun-filled interactive Chinese storytelling sessions! With interesting stories galore, children will definitely be thrilled with the activities and more! Stories are suitable for children from 4 to 10 years old. Parents are welcome to join in the session.
 </td>
-        <td>Every 1st Saturday,
+        <td style="width: 20%;">Every 1st Saturday,
 <br>1 Oct 2022,
 <br>5 Nov 2022,
 <br>3 Dec 2022,
@@ -147,7 +145,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 <br>17 Dec 2022,
 <br>11.30am–12pm
 </td>
-   <td>Yishun Public Library, Story Circle, Level 4
+   <td style="width: 20%;">Yishun Public Library, Story Circle, Level 4
 <br><br>
 <br><br>
 <br><br>Choa Chu Kang Public Library, Programme Zone 1
