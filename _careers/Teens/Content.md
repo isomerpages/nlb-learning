@@ -257,7 +257,7 @@ John wants to buy a new phone, but it costs $1,000! He only has $300 now and he 
 <br>1. Does John need the item immediately?  <br>2. Does John mind paying a little extra to split the payment into instalments? 
 <br>3. Will John have enough to pay off the credit card bill on time, and in full? <br>4. Is there a trade-off for using the money now?*
 
-if you are interested to find out more, check out these titles available at NLB!
+If you are interested to find out more, check out these titles available at NLB!
 
 ![Book Recommendations 1](/images/career/teens/Book%20Reco%201.png)
 
