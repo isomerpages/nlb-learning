@@ -192,7 +192,6 @@ Singapore is known as a garden city but did you know you can create your own per
        <td>Oct 9, 2022 <br> 11:30 AM – 12:30 PM </td>
         <td>Bedok Public Library </td>
       </tr>
-					
   </tbody>
   </table>
 </div>
