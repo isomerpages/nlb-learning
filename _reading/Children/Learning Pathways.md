@@ -67,7 +67,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
         <td style="width: 20%;">Multiple Public Libraries</td>
       </tr>
 	<tr>
-<td style="width: 20%;"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/events/bookbugsr/quests/"><b>Book Bugs Rescuers' Quests <b></a></td>
+<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/bookbugsr/quests/" target="_blank"><b>Book Bugs Rescuers' Quests<b></a></td>
         <td style="width: 40%;">The Rescuers’ Quest is an in-library video trail that reveals the story behind The End Bug. Explore the Children’s Section in libraries and search for the three stations he’s left behind to watch his video messages! Begin your search at the Books Bugs machine. 
 <br><br>This self-guided in-library trail is suitable for children of all ages and fans of Book Bugs.  
 <br><br>Registration is not required.</td>
