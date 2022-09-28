@@ -106,7 +106,8 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
         <td style="width: 20%;">Every 4th Saturday,<br>11.30am-12.30pm</td>
         <td style="width: 20%;">Yishun Public Library, Programme Zone</td>
       </tr>
-      <tr>
+     
+	<tr>
       <td style="width: 20%;"><b>Tamil Storytelling Sessions</b></td>
         <td style="width: 40%;">Immerse in fun-filled Tamil stories at the library. These 30-min storytelling sessions will feature folktales, animal stories, moral stories and much more. Choose your preferred location and engage with our lively storytellers.
 </td>
@@ -121,13 +122,21 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 <br><br>Every 2nd Friday
 <br>7pm – 7:30pm
 </td>
-   <td style="width: 20%;">Woodlands Regional Library, Children’s Section Level 4
-<br><br>Tampines Regional Library, Programme Zone Level 6
-<br><br> Jurong Regional Library, Programme Zone Level 1
-<br><br>Choa Chu Kang Public Library, Programme Zone 1 & 2
-<br><br>Sengkang Public Library, Programme Zone Level 4
-      </tr>
-      <tr>
+   <td style="width: 20%;">Woodlands Regional Library, <br>Children’s Section Level 4
+<br><br>
+<br><br>Tampines Regional Library, 
+		 <br>Programme Zone Level 6
+<br><br>
+<br><br> Jurong Regional Library, 
+		 <br>Programme Zone Level 1
+<br><br>
+<br><br>Choa Chu Kang Public Library, 
+		 <br>Programme Zone 1 & 2
+<br><br>
+<br><br>Sengkang Public Library, 
+		 <br>Programme Zone Level 4</tr>
+      
+	<tr>	
       <td style="width: 20%;"><b>星衢讲故事活动 Sing Chu Chinese Storytelling</b></td>
       <td style="width: 40%;">有华语趣味故事可听，还有游戏可玩，快来和我们共度欢乐的周末时光吧！故事内容适合4至10岁的孩童聆听，欢迎家长陪同。
 <br>Join us for fun-filled interactive Chinese storytelling sessions! With interesting stories galore, children will definitely be thrilled with the activities and more! Stories are suitable for children from 4 to 10 years old. Parents are welcome to join in the session.
@@ -148,14 +157,18 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 <br>17 Dec 2022,
 <br>11.30am–12pm
 </td>
-   <td style="width: 20%;">Yishun Public Library, Story Circle, Level 4
+   <td style="width: 20%;">Yishun Public Library, 
+		 <br>Story Circle, Level 4
 <br><br>
 <br><br>
-<br><br>Choa Chu Kang Public Library, Programme Zone 1
+<br><br>Choa Chu Kang Public Library, 
+		 <br>Programme Zone 1
 <br><br>
 <br>
-<br><br>Tampines Regional Library, Books for Babies, Level 3
+<br><br>Tampines Regional Library, 
+		 <br>Books for Babies, Level 3
       </tr>
+	
     </tbody>
   </table>
 </div>
