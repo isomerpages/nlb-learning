@@ -150,9 +150,24 @@ library@harbourfront </td>
        <td>Check out all the Jiggle Read & Rhyme sessions for October!</td>
         <td>Various Locations</td>
       </tr>
-			
-			
-
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-abcs-of-microgreens-tickets-409753111587?aff=odcleoeventsincollection
+"><b>
+[Caring for the Environment] ABCs of Microgreens  </b></a></td>
+        <td>
+Singapore is known as a garden city but did you know you can create your own personal garden city at home? Microgreens are edible crops grown in soil and harvested when the plants are a few inches tall. Join us in this workshop as we learn about microgreens and fall in love with the ease of planting these young seedlings. This is a parent-child programme and is suitable for children aged 4-6 years old.
+ </td>
+       <td>Oct 9, 2022 <br> 11:30 AM – 12:30 PM </td>
+        <td>Bedok Public Library </td>
+      </tr>
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-potions-party-tickets-409759109527?aff=odcleoeventsincollection"><b> [Budding Scientists] Potions Party!  </b></a></td>
+        <td>
+Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! Today, you’ll be challenged to complete the Head Professor’s first assignment by combining ingredients to make stunning and magical mixtures. It will get messy — you have been warned. Don your lab coats, prepare your ingredients, and ready the test tubes.Excited to learn more about potions and the Science behind them? Our stimulating hands-on experiments will open you to the world of STEAM.
+ </td>
+       <td>Oct 29, 2022 <br> 11:00 AM – 12:00 PM</td>
+        <td>Zoom</td>
+      </tr>
     </tbody>
   </table>
 </div>
