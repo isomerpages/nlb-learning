@@ -66,7 +66,7 @@ What can we do to protect the environment around us? Do you know the different t
 <br><br>
 Not only do oceans house these marine lives, but these bodies of water also help in maintaining the Earth’s oxygen level, making it easier for us to breathe.
 <br><br>
-Check out the video resources below to help your child understand the roles of the oceans and seas in our ecosystem!.</td>
+Check out the video resources below to help your child understand the roles of the oceans and seas in our ecosystem!</td>
       </tr>
     </tbody>
   </table>
@@ -81,9 +81,35 @@ Check out the video resources below to help your child understand the roles of t
       </tr>
     </thead>
     <tbody>
-				
-
-
+				<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-sustainability-meets-art-tickets-409757785567?aff=odcleoeventsincollection
+"><b>
+[Caring for the Environment] Sustainability Meets Art! </b></a></td>
+        <td>
+Learn more about the different types of sustainable art and explore ways how we could protect our earth in creative ways too. There will be interactive activities and hands-on learning! This is a parent-child programme and is suitable for children aged 4-6 years old. Registration is required for this programme.
+ </td>
+       <td>Oct 8, 2022 <br> 3:00 PM – 4:00 PM  </td>
+        <td>Bishan Public Library </td>
+      </tr>
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-abcs-of-microgreens-tickets-409753111587?aff=odcleoeventsincollection
+"><b>
+[Caring for the Environment] ABCs of Microgreens  </b></a></td>
+        <td>
+Singapore is known as a garden city but did you know you can create your own personal garden city at home? Microgreens are edible crops grown in soil and harvested when the plants are a few inches tall. Join us in this workshop as we learn about microgreens and fall in love with the ease of planting these young seedlings. This is a parent-child programme and is suitable for children aged 4-6 years old.
+ </td>
+       <td>Oct 9, 2022 <br> 11:30 AM – 12:30 PM </td>
+        <td>Bedok Public Library </td>
+      </tr>
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/mindful-magic-finding-leaves-in-the-wild-tickets-418374658867?aff=odcleoeventsincollection
+"><b> Mindful Magic: Finding Leaves in the Wild </b></a></td>
+        <td>
+In this session suitable for children aged 4-6 years old, participants will practise responding to challenging emotions through grounding techniques, such as leaf rubbing, to foster mindfulness and acceptance.
+ </td>
+       <td>15 Oct 2022 <br>  10:30 – 11:30  </td>
+        <td>Tampines Regional Library</td>
+      </tr>
 			<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-food-waste-tickets-417791705237?aff=odcleoeventsincollection
 "><b> [Caring for the Environment] All About Food Waste </b></a></td>
