@@ -77,8 +77,8 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 					<br>library@chinatown, 
 					<br>library@orchard</td>
       </tr>
-	<tr>
-
+	
+<tr>
 <td style="width: 20%;"><a href=""><b>Stories in Art with National Gallery Singapore</b></a></td>
 		<td style="width: 40%;">Join our storytelling on folktales and local legends, featuring artists and artworks from books published by the National Gallery Singapore!
 <br><br>Registration will open closer to the date.</td>
@@ -99,6 +99,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 <br>library@harbourfront, Programme Zone 2
 </td>
       </tr>
+	
 	<tr>
 		<td style="width: 20%;"><b>Wira Pintar Reading Club</b></td>
         <td style="width: 40%;"> A monthly interactive children’s reading club for those aged 6-9 years old, filled with storytelling session, language-based activities and craft making.
@@ -134,7 +135,8 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 		 <br>Programme Zone 1 & 2
 <br><br>
 <br><br>Sengkang Public Library, 
-		 <br>Programme Zone Level 4</tr>
+		 <br>Programme Zone Level 4
+	</tr>
       
 	<tr>	
       <td style="width: 20%;"><b>星衢讲故事活动 Sing Chu Chinese Storytelling</b></td>
