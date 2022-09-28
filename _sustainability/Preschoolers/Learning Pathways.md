@@ -160,7 +160,6 @@ Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! 
        <td>Oct 29, 2022 <br> 11:00 AM – 12:00 PM</td>
         <td>Zoom</td>
       </tr>
-		
     </tbody>
   </table>
 </div>
