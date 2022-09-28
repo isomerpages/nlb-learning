@@ -15,18 +15,20 @@ Spark your child’s curiosity in science literacy through engaging programmes!
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a target="_blank" href="/science/children/content"><b>Playlist: Time for Science!</b></a></td>
-        <td style="width: 40%;"> Spark your child’s curiosity in science literacy through these engaging and educational videos! </td>
-        <td style="width: 20%;"> </td>
-        <td style="width: 20%;"> </td>
-      </tr>
-      <tr>
-        <td><a href="/science/children/content"><b>Learning Package: Stay Curious With Your Child</b></a></td>
-        <td><b>Baking Chemistry!</b><br> Go beyond classroom chemistry and try a hands-on baking experiment with your child. </td>
-        <td></td>
-        <td> </td>
-      </tr>
+			
+<tr>
+	<td style="width: 20%;"><a target="_blank" href="/science/children/content"><b>Playlist: Time for Science!</b></a></td>
+	<td style="width: 40%;"> Spark your child’s curiosity in science literacy through these engaging and educational videos! </td>
+	<td style="width: 20%;"> </td>
+	<td style="width: 20%;"> </td>
+			</tr>
+      
+<tr>
+	<td><a href="/science/children/content"><b>Learning Package: Stay Curious With Your Child</b></a></td>
+	<td><b>Baking Chemistry!</b><br> Go beyond classroom chemistry and try a hands-on baking experiment with your child. </td>
+	<td></td>
+	<td> </td>
+			</tr>
     </tbody>
   </table>
 </div>
@@ -39,16 +41,17 @@ Spark your child’s curiosity in science literacy through engaging programmes!
       </tr>
     </thead>
 		<tbody>
-      <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama"><b> S.T.E.A.M. Lab Mini </b></a></td>
-        <td style="width: 40%;">Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. <br><br>
-</td>
-        <td style="width: 20%;"> Sep 2022</td>
-				<td></td>
-      </tr>
 <tr>
-<td><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/shs-videos"><b> School Holiday Special </b></a></td>
-<td> <b>Microwave Magic </b><br>
+	<td style="width: 20%;"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama"><b> S.T.E.A.M. Lab Mini </b></a></td>
+	<td style="width: 40%;">Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. <br><br>
+</td>
+	<td style="width: 20%;"> Sep 2022</td>
+	<td></td>
+      </tr>
+			
+<tr>
+	<td><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/shs-videos"><b> School Holiday Special </b></a></td>
+	<td><b>Microwave Magic </b><br>
 Ever wondered how a microwave oven heats up your food? Join our librarian, Sarah, as she debunks common myths about this everyday appliance and shares a simple cheesy potato recipe you can try at home!</td>
 	<td></td>
 	<td></td>
@@ -73,17 +76,17 @@ Stay tuned for more updates.</td>
       </tr>
     </thead>
 <tbody>
-      <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=odcleoeventsincollection"><b> Renewable Resource and Recycling Talk @ Jurong Regional Library </b></a></td>
-        <td style="width: 40%;">Learn all about renewable resources and how to recycle right. Stand a chance to win attractive recycled and/or upcycled prizes during the quiz!
+	
+<tr>
+	<td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=odcleoeventsincollection"><b> Renewable Resource and Recycling Talk @ Jurong Regional Library </b></a></td>
+	<td style="width: 40%;">Learn all about renewable resources and how to recycle right. Stand a chance to win attractive recycled and/or upcycled prizes during the quiz!
 </td>
-        <td style="width: 40%;">8 Sep 2022, 2.30pm - 3.30pm</td>
+	<td style="width: 40%;">8 Sep 2022, 2.30pm - 3.30pm</td>
 				
 <tr>
-<td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/sphero-party-jurong-regional-library-tweenkerama-tickets-400591037577?aff=odcleoeventsincollection"> <b> Sphero Party | Jurong Regional Library | Tweenkerama </b></td>
-        <td>  The Sphero BOLT is an app-enabled robotic ball that provides endless opportunities to have fun while learning. In this workshop, participants will learn to handle, navigate, and program Sphero using a block-based programming language on phones or tablets.<br></td>
-	   <td style="width: 40%;">10 Sep 2022, 2pm - 4pm</td>
-	<td></td>
+	<td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/sphero-party-jurong-regional-library-tweenkerama-tickets-400591037577?aff=odcleoeventsincollection"> <b> Sphero Party | Jurong Regional Library | Tweenkerama </b></td>
+	<td>  The Sphero BOLT is an app-enabled robotic ball that provides endless opportunities to have fun while learning. In this workshop, participants will learn to handle, navigate, and program Sphero using a block-based programming language on phones or tablets.<br></td>
+	<td style="width: 40%;">10 Sep 2022, 2pm - 4pm</td>
 	<td></td>
       </tr>
     </tbody>
