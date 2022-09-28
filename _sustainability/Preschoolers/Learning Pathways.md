@@ -81,50 +81,25 @@ Check out the video resources below to help your child understand the roles of t
       </tr>
     </thead>
     <tbody>
-				<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-learn-about-hydroponics-tickets-395750288767?aff=odcleoeventsincollection"><b> [Caring for the Environment] Learn about Hydroponics! </b></a></td>
-        <td>What are some alternative ways of growing plants at home or in the community? Join us in this interactive workshop for an introduction to hydroponics for the whole family! This programme is for parents and children (aged 4 to 6 years old). The programme will include viewing Choa Chu Kang Public Library’s hydroponics showcase.</td>
-        <td>3 Sep 2022<br>11.00am – 12.00pm<br></td>
-        <td>Choa Chu Kang Public Library – Programme Room 1 & 2 (Level 4)</td>
-  					</tr>
-		<tr>
-<td><a target="blank" href="https://www.eventbrite.sg/e/say-no-to-food-waste-tickets-395749506427?aff=odcleoeventsincollection"><b> Say No to Food Waste </b></a></td>
-         <td>  Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. 
- </td>
-        <td>10 Sep 2022<br>2.00pm–3.00pm<br></td>
-        <td>library@harbourfront </td>
-			</tr> 
-				<tr>           
-<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-urban-farming-farm-to-table-tickets-411848198047?aff=ebdsoporgprofile"><b> Caring for the Environment | Urban Farming: Farm to Table</b></a></td>
+				
 
-        <td> “All big things come from small beginnings.” — James Clear<br><br>Welcome to the amazing world of Urban Farming!<br>
-During this hands-on workshop, your child will learn about being food conscious through interactive activities, like crafts, a stimulating sensory experience, and a storytelling of a classic book!<br><br>
-What will your child be creating that day?
-<br>
-Let’s have a look at the craft https://go.gov.sg/farmtotableatbedok </td><td>11 Sep 2022<br>11.00am–12.00pm<br></td><td> Bedok Public Library </td>
-      </tr>
-					
-			<tr>
-<td><a target="blank" href="https://www.eventbrite.sg/cc/green-market-live-light-go-green-for-kids-1058439"><b>Green Market: Live Light, Go Green (For Kids)</b></a></td>
 
-        <td> Introduce your child to eco-friendly ways of living through fun activities and storytelling sessions at Green Market: Live Light, Go Green.</td>
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-food-waste-tickets-417791705237?aff=odcleoeventsincollection
+"><b> [Caring for the Environment] All About Food Waste </b></a></td>
+        <td> Do you know that food waste not only pollutes the environment but also contributes to global warming? Find out all about food waste at this informative workshop, and learn how you can reduce and recycle food waste though fun hands-on activities. This programme is suitable for children 4-6 years old.
+ </td>
+       <td>Oct 22, 2022 <br> 10:30 AM – 11:30 AM </td>
+        <td>Jurong West Public Library</td>
+      </tr>
 
-       <td>17 – 18 Sep<br>11am – 8pm<br></td>
-
-        <td>Choa Chu Kang Public Library and Zoom </td>
-      </tr>
-				<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/from-seed-to-harvest-ii-tickets-392357039467?aff=odcleoeventsincollection"><b> Arise & Farm From Seed To Harvest II </b></a></td>
-        <td>This session immerses children in the process of farming, through a guided exhibit tour and tactile hands-on activities. Participants get to learn each step of the farming process which includes seed sowing, transplant, grow-out and harvest. This programme is suitable for children aged 4-6 yrs old.</td>
-        <td>17 Sep 2022<br>2.00pm – 3.00pm<br></td>
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/arise-farm-from-seed-to-harvest-plants-friends-foes-tickets-416468768297?aff=odcleoeventsincollection"><b>Arise & Farm: From Seed To Harvest-Plants’ Friends & Foes   </b></a></td>
+        <td> This session immerses children in the process of farming, through a guided exhibit tour and tactile hands-on activities. Participants get to learn each step of the farming process which includes seed sowing, transplant, grow-out and harvest. This programme is suitable for children aged 4-6 yrs old.
+ </td>
+       <td>29 Oct 2022 <br> 10:30 – 12:00pm</td>
         <td>Bishan Public Library</td>
-  					</tr>
-				<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/the-world-of-plants-ii-tickets-395666809077?aff=odcleoeventsincollection"><b> Arise & Farm The World Of Plants II</b></a></td>
-        <td>This session teaches young children on basic plant biology on lifecycles, systems and plant diversity, which they learn through interacting with the exhibits and handicraft. This programme is suitable for children aged 4-6 yrs old.</td>
-        <td>17 Sep 2022<br>3.30pm – 4.30pm<br></td>
-        <td>Bishan Public Library</td>
-  					</tr>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -144,7 +119,12 @@ Let’s have a look at the craft https://go.gov.sg/farmtotableatbedok </td><td>
        <td>1 Oct 2022 <br> 2:30-3:30pm</td>
         <td>Serangoon Public Library</td>
       </tr>
-		
+		<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
+        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
+       <td>Check out all the Jiggle Read & Rhyme sessions for October!</td>
+        <td>Various Locations</td>
+      </tr>
 		
 			<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-potions-party-tickets-409759109527?aff=odcleoeventsincollection"><b> [Budding Scientists] Potions Party!  </b></a></td>
