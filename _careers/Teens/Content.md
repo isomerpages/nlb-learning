@@ -256,6 +256,10 @@ if you are interested to find out more, check out these titles available at NLB!
 
 ![Book Recommendations 1](/images/career/teens/Book%20Reco%201.png)
 
+This learning package was created by Chow Hui Xuan, Ernest Lim Jingjie, Lim Jing Hong Brandon and Rachel Ong Lin Hui, as part of the National Institute of Education Group Endeavours in Service Learning Group 10 (Sec/JC2022).
+
+You may download the complete package as a [PDF here](/files/Pique%20my%20Interest.pdf).
+
 <h5 class="margin--bottom--lg" id="lp-started1"><b>Time to Get Started! Part 1</b></h5>
 
 It’s a brand new year – and the perfect time to begin planning out activities that can help forge your future path. Whether it’s during term time or during the holidays, here’s how you can get started on your future aspirations. 
