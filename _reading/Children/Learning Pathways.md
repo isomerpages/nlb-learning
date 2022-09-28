@@ -9,7 +9,6 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 <h3><b> Reading Joy</b></h3>
 Spark reading joy in your child to nurture a lifelong passion for reading and learning.
 
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -58,7 +57,6 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
         <td style="width: 20%;">Zoom</td>
       </tr>
 <tr>
-	
 <td style="width: 20%;"><a href=""><b>Zecky's Animated Book Launch <b></a></td>
         <td style="width: 40%;">Learn how lovable <i>Monsters United</i> mascot Zecky got her specs! Join our exclusive sci-fi-themed storytelling and craft sessions happening at various public libraries in the month of December. More details will be made available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here</a> closer to the date.
 <br><br>This programme is suitable for parents and children aged 7 to 10.
@@ -77,7 +75,6 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 					<br>library@chinatown, 
 					<br>library@orchard</td>
       </tr>
-	
 <tr>
 <td style="width: 20%;"><a href=""><b>Stories in Art with National Gallery Singapore</b></a></td>
 		<td style="width: 40%;">Join our storytelling on folktales and local legends, featuring artists and artworks from books published by the National Gallery Singapore!
@@ -99,7 +96,6 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 <br>library@harbourfront, Programme Zone 2
 </td>
       </tr>
-	
 	<tr>
 		<td style="width: 20%;"><b>Wira Pintar Reading Club</b></td>
         <td style="width: 40%;"> A monthly interactive children’s reading club for those aged 6-9 years old, filled with storytelling session, language-based activities and craft making.
@@ -107,7 +103,6 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
         <td style="width: 20%;">Every 4th Saturday,<br>11.30am-12.30pm</td>
         <td style="width: 20%;">Yishun Public Library, Programme Zone</td>
       </tr>
-     
 	<tr>
       <td style="width: 20%;"><b>Tamil Storytelling Sessions</b></td>
         <td style="width: 40%;">Immerse in fun-filled Tamil stories at the library. These 30-min storytelling sessions will feature folktales, animal stories, moral stories and much more. Choose your preferred location and engage with our lively storytellers.
@@ -137,7 +132,6 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 <br><br>Sengkang Public Library, 
 		 <br>Programme Zone Level 4
 	</tr>
-      
 	<tr>	
       <td style="width: 20%;"><b>星衢讲故事活动 Sing Chu Chinese Storytelling</b></td>
       <td style="width: 40%;">有华语趣味故事可听，还有游戏可玩，快来和我们共度欢乐的周末时光吧！故事内容适合4至10岁的孩童聆听，欢迎家长陪同。
