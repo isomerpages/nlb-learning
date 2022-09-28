@@ -138,6 +138,16 @@ Join us as we discuss the following title: <br><br> Book title: Self-Care for Ad
         <td>9 Oct 2022<br>11.30am–12.30pm<br></td>
         <td>Bedok Public Library  </td>
       </tr>
+			
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-potions-party-tickets-409759109527?aff=odcleoeventsincollection"><b> [Budding Scientists] Potions Party!  </b></a></td>
+        <td>
+Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! Today, you’ll be challenged to complete the Head Professor’s first assignment by combining ingredients to make stunning and magical mixtures. It will get messy — you have been warned. Don your lab coats, prepare your ingredients, and ready the test tubes.Excited to learn more about potions and the Science behind them? Our stimulating hands-on experiments will open you to the world of STEAM.
+ </td>
+       <td>Oct 29, 2022 <br> 11:00 AM – 12:00 PM</td>
+        <td>Zoom</td>
+      </tr>
+
 					  
 			<tr>           
 <td><a target="_blank" href="https://www.eventbrite.sg/e/arise-farm-from-seed-to-harvest-plants-friends-foes-tickets-416468768297?aff=odcleoeventsincollection"><b> Arise & Farm: From Seed To Harvest-Plants’ Friends & Foes </b></a></td>
