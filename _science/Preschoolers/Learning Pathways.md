@@ -128,93 +128,39 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
-			<tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">
-Explore Programmes</th>
-		<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/family-fun-time-at-the-library-tickets-396398417337?aff=odcleoeventsincollection"><b> Family Fun Time At The Library </b></a></td>
-        <td>Family Fun Time is an interactive parent-and-child programme that includes fun, educational hands-on activity and suitable for children of 3 to 6 years old. Parents are engaged with practical knowledge and tips on the importance of healthy living as a family and what they can do to raise healthy children. </td>
-        <td>3 Sep 2022<br>2.00pm – 3.30pm<br></td>
-        <td>library@harbourfront (Programme Zone 1 & 2)</td>
-  					</tr>
-			<tr>
-<td><a target="\_blank" href="https://www.eventbrite.sg/e/budding-scientists-lets-play-with-polygons-tickets-395760529397?aff=odcleoeventsincollection"><b> Budding Scientists: Let's Play with Polygons!</b></a></td>
-        <td> Bring your child into the wonderful world of pretty polygons and they will discover that these shapes have been around them all this while. They will jiggle, read and rhyme to some fun Shape songs.
-</td>
-        <td>7 Sep 2022<br>1.30pm– 2.30pm<br></td>
-        <td>Jurong Regional Library</td>
-      </tr>
-					<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-science-explorers-colours-balance-tickets-395686397667?aff=odcleoeventsincollection"><b> Budding Scientists: Science Explorers - Colours & Balance</b></a></td>
-        <td>What are primary or secondary colours, what makes black, and how can you balance a plate in a stick? Discover more with Ms. Jonnansical Boo in these hands-on science projects that will bring you and your child so much fun! Explore colours and stability in simple experiments that you can do at home with Mummy and Daddy!</td>
-        <td>7 Sep 2022<br>2.30pm – 4.30pm<br></td>
-        <td>Bukit Batok Public Library</td>
-  					</tr>
-			<tr>
-<td><a target="blank" href="https://www.eventbrite.sg/e/budding-engineers-gears-pulleys-tickets-395752756147?aff=odcleoeventsincollection"><b>Budding Engineers: Gears & Pulleys</b></a></td>
-        <td> Learn about the physics of transferring energy through motion. This program introduces children how gears and pulleys is applicable in our daily lives through interactive activities and hands-on learning.Learn about the gears and pulleys, in this activity session for parent and child (aged 4-6 years old).</td>
-       <td>9 Sep<br>11.30am – 12.30pm<br></td>
-        <td>Tampines Regional Library </td>
-      </tr>
+      <tr>
+        <th class="is-uppercase has-weight-normal" colspan="4">Explore Programmes</th>
+      </tr>
+    </thead>
+    <tbody>
+					<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-potions-party-tickets-409759109527?aff=odcleoeventsincollection"><b> [Budding Scientists] Potions Party!  </b></a></td>
+        <td>
+Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! Today, you’ll be challenged to complete the Head Professor’s first assignment by combining ingredients to make stunning and magical mixtures. It will get messy — you have been warned. Don your lab coats, prepare your ingredients, and ready the test tubes.Excited to learn more about potions and the Science behind them? Our stimulating hands-on experiments will open you to the world of STEAM.
+ </td>
+       <td>Oct 29, 2022 <br> 11:00 AM – 12:00 PM</td>
+        <td>Zoom</td>
+      </tr>
+			
+			
+			
+			</tbody>
+	</table>
+</div>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Areas</th>
+        <th class="is-uppercase has-weight-normal" colspan="4">Discover Other Learning Focus Areas</th>
       </tr>
     </thead>
     <tbody>
-				
-<tr>
-              <td><a target="blank" href="https://www.eventbrite.sg/e/robo-coder-tickets-383791981147?aff=odcleoeventsincollection"><b> Robo Coder  </b></a></td>
-              <td>  Come build a robot with us using LEGO®’s WEDO platform and learn how gears, motors, and sensors work in this series of 'Robo Coder' sessions. With a bit of coding, watch your robot creations come to life! You will also get a chance to programme a screen-free coding robot, BOTLEY, and use it to accomplish fun and challenging missions, all the while learning about fundamental coding concepts. This parent-child session is suitable for preschoolers aged 4 to 6 years old.  </td>
-              <td>Sep 3 2022<br>2.30pm – 3.30pm<br></td>
-              <td>Jurong Regional Library (Programme Zone Level 1)</td>
-      </tr>
-			<tr>
-<td><a target="\_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
-        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
-       <td>Check out all the Jiggle Read & Rhyme sessions for September!</td>
-        <td>Various Locations</td>
-      </tr>
-			<tr>
-
-<td><a target="\_blank" href="https://www.eventbrite.sg/e/say-no-to-food-waste-tickets-395749506427?aff=odcleoeventsincollection"><b> Say No to Food Waste </b></a></td>
-
-         <td>  Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. 
-
- </td>
-
-        <td>10 Sep 2022<br>2.00pm–3.00pm<br></td>
-
-        <td>library@harbourfront </td>
-
-      </tr>
-			<tr>           
-<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-urban-farming-farm-to-table-tickets-411848198047?aff=ebdsoporgprofile"><b> Caring for the Environment | Urban Farming: Farm to Table</b></a></td>
-
-        <td> “All big things come from small beginnings.” — James Clear<br><br>Welcome to the amazing world of Urban Farming!<br>
-During this hands-on workshop, your child will learn about being food conscious through interactive activities, like crafts, a stimulating sensory experience, and a storytelling of a classic book!<br><br>
-What will your child be creating that day?
-<br>
-Let’s have a look at the craft https://go.gov.sg/farmtotableatbedok </td><td>11 Sep 2022<br>11.00am–12.00pm<br></td><td> Bedok Public Library </td>
-      </tr>
-			<tr>
-<td><a target="\_blank" href="https://www.eventbrite.sg/cc/green-market-live-light-go-green-for-kids-1058439"><b>Green Market: Live Light, Go Green (For Kids)</b></a></td>
-        <td> Introduce your child to eco-friendly ways of living through fun activities and storytelling sessions at Green Market: Live Light, Go Green.</td>
-       <td>17 – 18 Sep<br>11am – 8pm<br></td>
-
-        <td>Choa Chu Kang Public Library and Zoom </td>
-
-      </tr>
-				<tr>
-              <td><a target="blank" href="https://www.eventbrite.sg/e/think-like-a-coder-lets-play-robot-discovertech-tickets-395731472487?aff=odcleoeventsincollection"><b>Think Like a Coder: Let's Play Robot | discoverTech</b></a></td>
-              <td>Participants will be using Cubroid blocks to build their very own moveable ambulance model through a coding app that they can download. This parent-child session is suitable for preschoolers aged 4 to 6 years old.  </td>
-              <td>Sep 24 2022<br>11.30am - 12.30pm<br></td>
-              <td>Pasir Ris Public Library </td>
-								</tr>
-    </tbody>
+			
+			
+			
+					
+  </tbody>
   </table>
 </div>
 
