@@ -137,30 +137,24 @@ Let’s have a look at the craft https://go.gov.sg/farmtotableatbedok </td><td>
       </tr>
     </thead>
   <tbody>
-			<tr>
-<td><a target="blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ </b></a></td>
-        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
-       <td>Check out all the Jiggle Read & Rhyme sessions for September!</td>
-        <td>Various Locations</td>
-      </tr>
-		<tr>
-              <td><a target="blank" href="https:///www.eventbrite.sg/e/lets-get-looping-discovertech-tickets-395717781537?aff=odcleoeventsincollection)"><b> Let's Get Looping | discoverTech</b></a></td>
-              <td> Join us in this basic introductory precoding programme where preschoolers will learn about the use of loops in coding.</td>
-              <td>Sep 3 2022<br>11.15am - 12.15pm<br></td>
-              <td>Pasir Ris Public Library  </td>
-		</tr>
-			<tr>
-<td><a target="blank" href="https://www.eventbrite.sg/e/budding-engineers-gears-pulleys-tickets-395752756147?aff=odcleoeventsincollection"><b>Budding Engineers: Gears & Pulleys</b></a></td>
-        <td> Learn about the physics of transferring energy through motion. This program introduces children how gears and pulleys is applicable in our daily lives through interactive activities and hands-on learning.Learn about the gears and pulleys, in this activity session for parent and child (aged 4-6 years old).</td>
-       <td>9 Sep<br>11.30am – 12.30pm<br></td>
-        <td>Tampines Regional Library </td>
-      </tr>
-		<tr>
-              <td><a target="blank" href="https://www.eventbrite.sg/e/think-like-a-coder-lets-play-robot-discovertech-tickets-395731472487?aff=odcleoeventsincollection"><b>Think Like a Coder: Let's Play Robot | discoverTech</b></a></td>
-              <td>Participants will be using Cubroid blocks to build their very own moveable ambulance model through a coding app that they can download. This parent-child session is suitable for preschoolers aged 4 to 6 years old.  </td>
-              <td>Sep 24 2022<br>11.30am - 12.30pm<br></td>
-              <td>Pasir Ris Public Library </td>
-								</tr>
+		<tr>		
+<td><a target="_blank" href="https://www.eventbrite.sg/e/coding-unplugged-sound-shakers-discovertech-tickets-416471847507?aff=odcleoeventsincollection"><b> Coding Unplugged: Sound Shakers | DiscoverTech</b></a></td>
+        <td>Learn basic coding concepts and computational thinking skills through an unplugged sound shaker activity. Discover concepts such as decomposition and debugging as you fix the buggy set of instructions and fold the sound shaker. You will get to bring the sound shaker home too!
+</td>
+       <td>1 Oct 2022 <br> 2:30-3:30pm</td>
+        <td>Serangoon Public Library</td>
+      </tr>
+		
+		
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-potions-party-tickets-409759109527?aff=odcleoeventsincollection"><b> [Budding Scientists] Potions Party!  </b></a></td>
+        <td>
+Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! Today, you’ll be challenged to complete the Head Professor’s first assignment by combining ingredients to make stunning and magical mixtures. It will get messy — you have been warned. Don your lab coats, prepare your ingredients, and ready the test tubes.Excited to learn more about potions and the Science behind them? Our stimulating hands-on experiments will open you to the world of STEAM.
+ </td>
+       <td>Oct 29, 2022 <br> 11:00 AM – 12:00 PM</td>
+        <td>Zoom</td>
+      </tr>
+		
     </tbody>
   </table>
 </div>
