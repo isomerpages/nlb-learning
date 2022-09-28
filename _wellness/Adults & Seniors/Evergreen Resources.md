@@ -105,7 +105,7 @@ Here are some Wellness resources to help you on your wellness journey!
 <!-- MYH Partner Resources  -->
 <h4 class="margin--bottom--lg" id="myh-resources"><b> Partner Resources</b></h4>
 
-<li><a href="#mindline-link">Mindline.sg</a><br>
+<li><a href="#mindline-link">mindline.sg</a><br>
 <li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
 <li><a href="#healthxchange-link">HealthXchange.sg</a></li>
 <li><a href="#mentalhealth-link">Mental Health e-Learning</a></li>
