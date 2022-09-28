@@ -141,9 +141,14 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
        <td>Oct 1, 2022 <br> 11:00 AM – 12:00 PM</td>
         <td>Woodlands Regional Library</td>
       </tr>
-
-			
-			
+			<tr>		
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/science-programmes-for-0-6-years-old-571009"><b> [Budding Engineers] LEGO Young Rebuilders Playdate
+</b></a></td>
+        <td>The LEGO Group announces the return of its Rebuild the World Campaign to champion family playtime and encourage children to be creative innovators of tomorrow. The LEGO Group, in partnership with the National Library Board (NLB) will have an interactive LEGO Young Rebuilders Playdate session held at library@harbourfront on 9 October, hosted by parenting coach Jacinth Liew (@ourlittleplaynest) from 11.30am - 1pm. Look forward to an fun-filled play date that encourages family playtime and creative problem-solving through building and rebuilding with LEGO bricks!
+</td>
+       <td>9 Oct 2022 <br> 11:30  & 2:30pm</td>
+        <td>library@harbourfront </td>
+      </tr>
 					<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-potions-party-tickets-409759109527?aff=odcleoeventsincollection"><b> [Budding Scientists] Potions Party!  </b></a></td>
         <td>
@@ -171,8 +176,22 @@ Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! 
        <td>1 Oct 2022 <br> 2:30-3:30pm</td>
         <td>Serangoon Public Library</td>
       </tr>
-			
-			
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
+        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
+       <td>Check out all the Jiggle Read & Rhyme sessions for October!</td>
+        <td>Various Locations</td>
+      </tr>
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-abcs-of-microgreens-tickets-409753111587?aff=odcleoeventsincollection
+"><b>
+[Caring for the Environment] ABCs of Microgreens  </b></a></td>
+        <td>
+Singapore is known as a garden city but did you know you can create your own personal garden city at home? Microgreens are edible crops grown in soil and harvested when the plants are a few inches tall. Join us in this workshop as we learn about microgreens and fall in love with the ease of planting these young seedlings. This is a parent-child programme and is suitable for children aged 4-6 years old.
+ </td>
+       <td>Oct 9, 2022 <br> 11:30 AM – 12:30 PM </td>
+        <td>Bedok Public Library </td>
+      </tr>
 					
   </tbody>
   </table>
