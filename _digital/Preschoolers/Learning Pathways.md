@@ -87,30 +87,33 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 			</tr>
 		</thead>
 		<tbody>
-		<tr>
-              <td><a target="blank" href="https:///www.eventbrite.sg/e/lets-get-looping-discovertech-tickets-395717781537?aff=odcleoeventsincollection)"><b> Let's Get Looping | discoverTech</b></a></td>
-              <td> Join us in this basic introductory precoding programme where preschoolers will learn about the use of loops in coding.</td>
-              <td>Sep 3 2022<br>11.15am - 12.15pm<br></td>
-              <td>Pasir Ris Public Library  </td>
-		</tr>
-<tr>
-              <td><a target="blank" href="https://www.eventbrite.sg/e/robo-coder-tickets-383791981147?aff=odcleoeventsincollection"><b> Robo Coder  </b></a></td>
-              <td>  Come build a robot with us using LEGO®’s WEDO platform and learn how gears, motors, and sensors work in this series of 'Robo Coder' sessions. With a bit of coding, watch your robot creations come to life! You will also get a chance to programme a screen-free coding robot, BOTLEY, and use it to accomplish fun and challenging missions, all the while learning about fundamental coding concepts. This parent-child session is suitable for preschoolers aged 4 to 6 years old.  </td>
-              <td>Sep 3 2022<br>2.30pm – 3.30pm<br></td>
-              <td>Jurong Regional Library </td>
-			</tr>
-			<tr>
-              <td><a target="blank" href="https://www.eventbrite.sg/e/cubroid-building-and-playing-i-discovertech-tickets-396951441447?aff=odcleoeventsincollection"><b>Cubroid Building and Playing I DiscoverTech </b></a></td>
-              <td>Participants will be using Cubroid blocks to build their very own moveable ambulance model through a coding app that they can download. This parent-child session is suitable for preschoolers aged 4 to 6 years old.  </td>
-              <td>Sep 17 2022<br>11.30am - 12.30pm<br></td>
-              <td>Serangoon Public Library </td>
-								</tr>	
-				<tr>
-              <td><a target="blank" href="https://www.eventbrite.sg/e/think-like-a-coder-lets-play-robot-discovertech-tickets-395731472487?aff=odcleoeventsincollection"><b>Think Like a Coder: Let's Play Robot | discoverTech</b></a></td>
-              <td>Participants will be using Cubroid blocks to build their very own moveable ambulance model through a coding app that they can download. This parent-child session is suitable for preschoolers aged 4 to 6 years old.  </td>
-              <td>Sep 24 2022<br>11.30am - 12.30pm<br></td>
-              <td>Pasir Ris Public Library </td>
-								</tr>
+
+			
+
+
+			<tr>		
+<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-i-littlebits-creation-tickets-422296388867?aff=odcleoeventsincollection"><b> DiscoverTech I LittleBits Creation </b></a></td>
+        <td>Have fun learning with littleBits in this creative hands-on workshop! LittleBits are swappable, magnetically-connected electronics building blocks that allow you to easily add lights and movement to any crafts project. Children and parents will learn how littleBits work and create and decorate a character using cardboard and arts & crafts materials! This is a parent-child programme for children aged 4-6 years old.</td>
+       <td>Oct 9, 2022 <br> 11:30 AM – 12:30 PM</td>
+        <td>Sengkang Public Library</td>
+      </tr>
+
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-i-think-like-a-coder-crack-the-code-tickets-409716923347?aff=odcleoeventsincollection"><b> DiscoverTech I Think Like A Coder: Crack the Code </b></a></td>
+        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
+       <td>15 Oct 2022 <br> 2:00 - 3:00pm</td>
+        <td>
+library@harbourfront </td>
+      </tr>
+
+			<tr>		
+<td><a target="_blank" href="https://www.eventbrite.sg/e/robo-coder-tickets-409742369457?aff=odcleoeventsincollection"><b> Robo Coder  </b></a></td>
+        <td>Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children. These are for absolute beginners aged 4 to 7 years old. Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.</td>
+       <td>Oct 22, 2022 <br>2:30 PM – 3:30 PM</td>
+        <td>Serangoon Public Library</td>
+      </tr>
+
+			
 		</tbody>
 	</table>
 </div>
@@ -123,49 +126,9 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
       </tr>
 			</thead>
 		<tbody>
-			<tr>
-<td><a target="blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ </b></a></td>
-        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
-       <td>Check out all the Jiggle Read & Rhyme sessions for September!</td>
-        <td>Various Locations</td>
-      </tr>
-			<tr>
-<td><a target="blank" href="https://www.eventbrite.sg/e/budding-scientists-lets-play-with-polygons-tickets-395760529397?aff=odcleoeventsincollection"><b> Budding Scientists: Let's Play with Polygons!</b></a></td>
-        <td> Bring your child into the wonderful world of pretty polygons and they will discover that these shapes have been around them all this while. They will jiggle, read and rhyme to some fun Shape songs.</td>
-        <td>7 Sep 2022<br>1.30pm– 2.30pm<br></td>
-        <td>Jurong Regional Library</td>
-      </tr>
-			<tr>
-<td><a target="blank" href="https://www.eventbrite.sg/e/say-no-to-food-waste-tickets-395749506427?aff=odcleoeventsincollection"><b> Say No to Food Waste </b></a></td>
-         <td>  Expect fun and games as participants learn about food waste, how it is formed, the resources required to produce food and how to play a more active role in reducing food waste. 
- </td>
-        <td>10 Sep 2022<br>2.00pm–3.00pm<br></td>
-        <td>library@harbourfront </td>
-			</tr> 
-				<tr>           
-<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-urban-farming-farm-to-table-tickets-411848198047?aff=ebdsoporgprofile"><b> Caring for the Environment | Urban Farming: Farm to Table</b></a></td>
-
-        <td> “All big things come from small beginnings.” — James Clear<br><br>Welcome to the amazing world of Urban Farming!<br>
-During this hands-on workshop, your child will learn about being food conscious through interactive activities, like crafts, a stimulating sensory experience, and a storytelling of a classic book!<br><br>
-What will your child be creating that day?
-<br>
-Let’s have a look at the craft https://go.gov.sg/farmtotableatbedok </td><td>11 Sep 2022<br>11.00am–12.00pm<br></td><td> Bedok Public Library </td>
-      </tr>
-						<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-395775173197?aff=odcleoeventsincollection"><b> Children's Puppet Castle </b></a></td>
-        <td>Join us for a puppet show performed by Puppet Masters Arii Azharii and Christopher Chow. He will be performing two stories, Who Can Bring Back the Sun? and The Big Bully. Learn more about performance techniques through this exciting performance!</td>
-        <td>11 Sep 2022<br>3.00pm – 4.00pm<br></td>
-        <td>Queenstown Public Library</td>
-  					</tr>
-			<tr>
-<td><a target="blank" href="https://www.eventbrite.sg/cc/green-market-live-light-go-green-for-kids-1058439"><b>Green Market: Live Light, Go Green (For Kids)</b></a></td>
-
-        <td> Introduce your child to eco-friendly ways of living through fun activities and storytelling sessions at Green Market: Live Light, Go Green.</td>
-
-       <td>17 – 18 Sep<br>11am – 8pm<br></td>
-
-        <td>Choa Chu Kang Public Library and Zoom </td>
-      </tr>
+			
+			
+			
 
     </tbody>
   </table>
