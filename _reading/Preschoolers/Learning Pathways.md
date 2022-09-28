@@ -118,11 +118,12 @@ Join us as we discuss the following title: <br><br> Book title: Self-Care for Ad
       </tr>
     </thead>
     <tbody>
-			 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-i-fun-with-computational-thinking-tickets-412604470077"><b>DiscoverTech|Fun with Computational Thinking</b></a></td>
-        <td>This “how-to” workshop will provide parents with a range of “thinking” tools and teaching techniques that they can use at home and whenever the family is together to nurture their children's skills in computational thinking. </td>
-       <td>1 Oct 2022<br>11am – 12pm<br></td>
-        <td>Tampines Regional Library</td>
+			<tr>		
+<td><a target="_blank" href="https://www.eventbrite.sg/e/coding-unplugged-sound-shakers-discovertech-tickets-416471847507?aff=odcleoeventsincollection"><b> Coding Unplugged: Sound Shakers | DiscoverTech</b></a></td>
+        <td>Learn basic coding concepts and computational thinking skills through an unplugged sound shaker activity. Discover concepts such as decomposition and debugging as you fix the buggy set of instructions and fold the sound shaker. You will get to bring the sound shaker home too!
+</td>
+       <td>1 Oct 2022 <br> 2:30-3:30pm</td>
+        <td>Serangoon Public Library</td>
       </tr>
 			  <tr>	
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-sounds-tickets-410297780707?aff=odcleoeventsincollection"><b> [Budding Engineers] Sounds </b></a></td>
