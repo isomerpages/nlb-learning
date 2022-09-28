@@ -72,7 +72,10 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 <br><br>This self-guided in-library trail is suitable for children of all ages and fans of Book Bugs.  
 <br><br>Registration is not required.</td>
         <td style="width: 20%;">September - December 2022<br></td>
-        <td style="width: 20%;">Multiple Public Libraries except library@esplanade, library@chinatown, library@orchard</td>
+        <td style="width: 20%;">Multiple Public Libraries
+					<br>except library@esplanade, 
+					<br>library@chinatown, 
+					<br>library@orchard</td>
       </tr>
 	<tr>
 
