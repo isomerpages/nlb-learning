@@ -164,7 +164,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 		 <br><br>
 		 <br>
 		 <br><br>Tampines Regional Library, 
-		 <br>Books for Babies, Level 3
+		 <br>Books for Babies, Level 3<br><br>
 		</td>
 	</tr>
 </tbody>
