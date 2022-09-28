@@ -189,9 +189,6 @@ Check out the video resources below to understand more about different shapes an
 </div>
 
 
-</div><p>All thumbnail images are copyright of the creators.</p>
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
 
 **What Keeps Me on the Ground? Gravity!**
 
@@ -333,12 +330,6 @@ Take it a step further with concepts of time such as AM and PM, as well as how t
     In this fun sing-and-dance video, children will learn about how time is used to form routines and schedules! With spunky movements to follow along, this video tells us about how time can split the day into segments, and signal to us when we should be engaged in certain activities! </p>
   </div>
 </div>
-
-
-
-<p>All thumbnail images are copyright of the creators.</p>
-
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 **Microscopic World: Protecting the Body! Science Behind Medical Biotechnology**
 
