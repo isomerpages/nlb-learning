@@ -180,7 +180,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
       </tr>
     </thead>
     <tbody>
-<tr>
+			<tr>
       <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177?aff=ebdssbdestsearch"><b>From Seeds to Harvest @ Bishan Public Library</b></a></td>
         <td style="width: 40%;">This session immerses children in the process of farming through hands-on activities and teaches the role of photosynthesis in the growth of plants.
 <br><br>This programme is suitable for children aged 7 to 12.
