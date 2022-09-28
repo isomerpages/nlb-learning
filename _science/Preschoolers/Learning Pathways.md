@@ -192,6 +192,12 @@ Singapore is known as a garden city but did you know you can create your own per
        <td>Oct 9, 2022 <br> 11:30 AM – 12:30 PM </td>
         <td>Bedok Public Library </td>
       </tr>
+			<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/special-play-session-tickets-417799067257?aff=odcleoeventsincollection"><b> Special Play Session | Early READ </b></a></td>
+        <td>Come bond with your little ones in this self-guided play session. Let your children explore the various edu-aids that we have and get to engage your children in meaningful play! Do drop by any time between 2pm - 4pm. This programme is suitable for children between 0-6 years old. </td>
+        <td>28 Oct 2022<br>2.00pm – 4.00pm<br></td>
+        <td>Sengkang Public Library</td>				
+  					</tr>
   </tbody>
   </table>
 </div>
