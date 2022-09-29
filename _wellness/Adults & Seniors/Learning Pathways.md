@@ -162,7 +162,7 @@ Everyone’s experience with ageing is unique, which means that care and support
 This programme is jointly brought to you by the National Library Board and Bedok Polyclinic.
 </td>
         <td style="width: 20%;"> 15 Oct 2022, <br>10am – 12pm</td>
-         <td style="width: 20%;">Zoom</td>
+         <td style="width: 20%;">Bedok Public Library (Programme Room Level 3)</td>
       </tr>		
 			
 <tr>
