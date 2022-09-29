@@ -243,14 +243,27 @@ By setting SMART goals, working hard, and saving we can earn the stuff we want. 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/xPKk2cFUDRk"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=MXCvtC0HqLE"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>Pursuing a Career in Music with Estelle Fly - Ask Me Anything Ep 1 (13 mins)</b><br><br>
-   How can you prepare yourself for a career in music, who can you approach and what platforms are suitable? Is it as daunting as it seems, and what does it take to get there? Learn all this and more from singer, dancer and musician, Estelle Fly, as she shares her personal experiences in pursuing her dreams.</p>
+    <p><b>the student guide to personal finance 💸 adulting 101 (21 mins)</b><br><br>
+   In today's video we shall discuss jobs for teens, budgeting, saving, and the basics of money management.</p>
+		<ul>
+<li> 0:43 the bare bones basics</li>
+<li> 1:50 income + jobs</li>
+<li> 4:26 income + jobs, continued</li>
+<li> 5:09 checking accounts + how to avoid losing money to them</li>
+<li> 7:58 budgeting + a simple template</li>
+<li> 9:15 must-have spending (student loans, bills, groceries, etc)</li>
+<li> 10:58 nice-to-have spending (going out + shopping)</li>
+<li> 12:34 credit cards + building your credit score</li>
+<li> 14:21 savings in high-yield accounts</li>
+<li> 16:23 investing in stocks + bonds</li>
+<li> 19:09 retirement + why to start saving ASAP</li>
+	</ul>
     <small>Source:
-			Pursuing a Career in Music with Estelle Fly - Ask Me Anything Ep 1 (2021, Oct 25). NXT. Retrieved 2022, January 14</small>
+		the student guide to personal finance 💸 adulting 101 (2020, Jun 30). studyquill. Retrieved 2022, September 29</small>
   </div>
 </div>
 
