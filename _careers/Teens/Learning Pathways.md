@@ -72,12 +72,6 @@ Clueless about which career is suitable for you? Discover and explore various ca
         <td style="width: 20%;">7 Oct 2022,<br>2pm-4pm</td>
         <td style="width: 20%;">Sengkang Public Library, PZ 1</td>
       </tr>
-			<tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177?aff=ebdsoporgprofile"><b>From Seeds to Harvest @ Bishan Public Library</b></a></td>
-        <td style="width: 40%;">As part of the Earth Heroes series, this session immerses children in the process of farming through hands-on activities and teaches the role of photosynthesis in the growth of plants.</td>
-        <td style="width: 20%;">8 Oct 2022,<br>10.30am-12pm</td>
-        <td style="width: 20%;">Bishan Public Library, Outdoor Garden</td>
-      </tr>
 <tr>
         <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/writing-the-city-writers-cove-tickets-419355522657?aff=ebdsoporgprofile"><b>Writing the City – Writer’s Cove</b></a></td>
         <td style="width: 40%;">This session is a workshop for budding writers to read and discuss one another’s submissions in a welcoming environment.</td>
