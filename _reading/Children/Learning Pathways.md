@@ -18,10 +18,11 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     </thead>
 		<tbody>
 			<tr>
-				<td style="width: 20%;"><a target="_blank" href="/reading/children/content"><b>Playlist: Meet the Storytellers!</b></a></td>
-        <td style="width: 40%;">Create fun reading experiences at home with these bite-sized resources for your child to discover the joy of reading.</td>
-        <td style="width: 20%;"></td>
-        <td style="width: 20%;"></td>
+				<td style="width: 20%;"><a target="_blank" href="/reading/children/content"><b>Playlist: Meet the Storytellers!</b></a>
+				</td>
+				<td style="width: 40%;">Create fun reading experiences at home with these bite-sized resources for your child to discover the joy of reading.</td>
+				<td style="width: 20%;"></td>
+				<td style="width: 20%;"></td>
 			</tr>
 			<tr>
 				<td style="width: 20%;"><a target="_blank" href="/reading/children/content"><b>Learning Package: Story Crafts!</b></a></td>
