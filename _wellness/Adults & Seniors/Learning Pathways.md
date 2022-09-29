@@ -68,25 +68,14 @@ This programme is jointly brought to you by the National Library Board and Bedok
          <td style="width: 20%;">Zoom </td>
       </tr>
      <tr>
-     <td><a href="https://www.eventbrite.sg/e/extra-virgin-olive-oil-mediterranean-culture-properties-and-tasting-tickets-396345920317?aff=odcleoeventsincollection" target="_blank"><b>Extra Virgin Olive Oil: Mediterranean Culture, Properties and Tasting</b></a></td>
-       <td style="width: 40%;"> Journey through a brief history of the extra virgin olive in oil in the Mediterranean culture with Chef Fabrizio Righi, your neighbourhood expert on anything Italian. In this talk, you'll learn about the health benefits of extra virgin olive oil, and understand how to taste and appreciate its flavours.</td>
-        <td style="width: 20%;"> 5 Sept 2022, <br>7pm – 8pm</td>
-        <td style="width: 20%;"> Zoom</td>
-      </tr>
-      <tr>
-      <td><a href="https://www.eventbrite.sg/e/understanding-your-immunity-from-east-and-west-mind-your-body-tickets-392116008537?aff=odcleoeventsincollection" target="_blank"><b> Understanding Your Immunity From East and West | Mind Your Body</b></a></td>
-      <td style="width: 40%;">How does TCM relate to our immune system?  This programme will explore the benefits of TCM for our immune system. Various TCM herbs used to boost the immune system will be shared as well as how they relate to the western understanding of how the immune system works. This workshop will cover the following:<br><br>
-• Basic principles of TCM<br>
-• The concept of Qi<br>
-• TCM herbs are used to boost the immune system.<br>
-• General introduction to how the immune system works.<br>
-• Factors affecting the immune system.<br>
-</td>
-        <td style="width: 20%;"> 12 Sept 2022, <br>7pm – 8.30pm</td>
+     <td><a href="https://www.eventbrite.sg/e/bone-appetit-calcium-older-adults-mind-your-body-x-toyl-tickets-415236923817?aff=odcleoeventsincollection" target="_blank"><b>Bone Appetit - Calcium & Older Adults | Mind Your Body x TOYL</b></a></td>
+       <td style="width: 40%;"> Are you concerned about whether you are getting sufficient calcium? Is it too late to increase your calcium intake? Join us to gain more insights about calcium, your daily consumption requirements, and ways to incorporate it into your diet. Activities and calcium-rich recipes will also be shared during this interactive talk!<br><br>
+
+Disclaimer: All content and advice shared during the session are solely for informational purposes. It is not intended to be a substitute for professional medical advice, diagnosis or treatment. This programme is suitable for those aged 50 and above, and is organised in collaboration with Dietetics and Nutrition Undergraduates from the Singapore Institute of Technology.</td>
+        <td style="width: 20%;"> 11 Oct 2022, <br>2pm – 3pm</td>
         <td style="width: 20%;"> Zoom</td>
       </tr>
       
-	
    </tbody>
   </table>
 </div>
