@@ -57,15 +57,14 @@ Kick start your journey to better health with a series of exciting talks and pro
     </thead>
 		<tbody>
      <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/happy-hour-with-aci-mind-your-body-tickets-395731131467?aff=odcleoeventsincollection" target="_blank"><b>Happy Hour with ACI</b></a></td>
-        <td style="width: 40%;">Learn the culture, roots and techniques to appreciate the beverages around the globe. In this talk, you will:<br>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/golden-series-part-1-ageing-and-nutrition-toyl-tickets-409382442907?aff=odcleoeventsincollection" target="_blank"><b>Golden Series (Part 1): Ageing and Nutrition | TOYL</b></a></td>
+        <td style="width: 40%;">This programme is suitable for participants aged 50 and above and caregivers of all ages.<br><br>
 
-• Find out how you can brew a perfect cup of coffee<br>
-• Know how to pick a bottle for an occasion<br>
-• Learn the culture, roots and techniques to appreciate the beverages around the globe<br>
-• Fixing the perfect cocktail matching the mood and company.<br>
+Ageing comes with many unfamiliar experiences that can affect our physical and mental well-being. What should we do to prepare ourselves for this and ensure a smooth journey as we age? In this session, we will share the common experiences faced as we age and methods to cope with them. Additionally, we will also touch on how nutritional requirements change with age, healthy eating, and reading of food labels. <br><br>
+
+This programme is jointly brought to you by the National Library Board and Bedok Polyclinic.<br>
 </td>
-        <td style="width: 20%;"> 1 Sept 2022, <br>7pm – 8pm</td>
+        <td style="width: 20%;"> 1 Oct 2022, <br>10am – 12pm</td>
          <td style="width: 20%;">Zoom </td>
       </tr>
      <tr>
