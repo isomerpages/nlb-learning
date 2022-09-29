@@ -259,21 +259,6 @@ Ms Nithiya has 8 years of experience nursing patients with Eating Disorders thro
 
 <tbody>
 
-<tr><td><strong><a href="https://www.eventbrite.sg/e/histories-from-third-world-to-first-the-struggles-success-of-singapore-tickets-367386592187?aff=odcleoeventsincollection" target="\_blank">Histories: From Third World to First: The Struggles and Success of Singapore</a></strong></td>
-
-<td>“Why had we come to this sorry pass? What did the future hold for Singapore?” <br>
-
-– Lee Kuan Yew, Founding Prime Minister of Singapore<br><br>
-
-Those born into the peaceful and successful Singapore of today may find it challenging to understand and appreciate the struggles, circumstances and difficulties of the nation’s sudden independence in 1965. Join Senior Lecturer Eugene Lim as he sheds light on the history of Singapore and how we can contribute to our country’s continued success. <br><br>
-
-Eugene Lim is a senior lecturer with the Centre for Foundation and General Studies at Nanyang Polytechnic. He is involved in both pre-employment and continuing education and also trains learners at the polytechnic. He graduated from the National University of Singapore with Bachelor of Arts and Bachelor of Social Sciences degrees.  He also has a Master's in Human Resource Development and Education from George Washington University, where he received the Len Nadler award. </td>
-
-<td>16 Sept 2022, 6pm – 7pm </td>
-
-<td>Zoom</td>
-
-</tr>
 
 </tbody></table>
 <br>
@@ -293,20 +278,6 @@ Eugene Lim is a senior lecturer with the Centre for Foundation and General Studi
 <strong><h5 id="science">Science</h5></strong>
 <hr>
 <tbody>
-<tr><td><strong><a href="https://www.eventbrite.sg/e/create-a-superhydrophobic-coating-jurong-regional-library-tickets-401084553697" target="_blank">Super-hydrophobic Coating - Lotus Leaf Effect</a></strong></td>
-
-<td>As part of the scienti-f(x) | Teens Takeover series, learn how to repel water with a superhydrophobic coating!<br><br>
-
-We have always been fascinated by the ability of the lotus leaf to stay dry even under heavy rain, or after being submerged in water. 
-This is because the lotus leaf has a super water repellent ability on its surface called superhydrophobicity. As a water repellent coating, it has many potential applications. <br><br>
-
-In this workshop, participants will be taught how to make a simple coating process to create a super-hydrophobic surface, mimicking the lotus leaf effect.<br><br>
-
-Suitable for teens aged 13-17.<br><br>
-This session is in collaboration with Nanyang Polytechnic.</td>
-<td>8 Sept 2022, 11am – 12pm </td>
-<td>Jurong Regional Library</td>
-</tr>
 
 </tbody></table>
 <br>
