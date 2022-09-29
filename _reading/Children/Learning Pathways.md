@@ -146,16 +146,13 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 					<br>17 Dec 2022,
 					<br>11.30am–12pm
 				</td>
-				<td style="width: 20%;">Yishun Public Library, 
-		 <br>Story Circle, Level 4
+				<td style="width: 20%;">Yishun Public Library, Story Circle, Level 4
 		 <br><br>
 		 <br><br>
-		 <br><br>Choa Chu Kang Public Library, 
-		 <br>Programme Zone 1
+		 <br><br>Choa Chu Kang Public Library, Programme Zone 1
 		 <br><br>
 		 <br>
-		 <br><br>Tampines Regional Library, 
-		 <br>Books for Babies, Level 3<br><br>
+		 <br><br>Tampines Regional Library, Books for Babies, Level 3<br><br>
 		</td>
 	</tr>
 </tbody>
