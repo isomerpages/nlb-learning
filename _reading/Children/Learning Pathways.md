@@ -153,8 +153,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				<td style="width: 20%;">Yishun Public Library, Story Circle, Level 4
 		 <br><br>
 		 <br><br>
-		 <br><br>Choa Chu Kang Public Library, Programme Zone 1
-		 <br><br>
+		 <br>Choa Chu Kang Public Library, Programme Zone 1
 		 <br>
 		 <br><br>Tampines Regional Library, Books for Babies, Level 3<br><br>
 				</td>
