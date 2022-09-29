@@ -176,7 +176,7 @@ In this workshop, you will be guided on how to set SMART goals and have the conv
 
 <tbody>
 <tr>
-<td><strong><a href="https://www.eventbrite.sg/e/hydroponic-gardening-at-home-time-of-your-life-tickets-407877652037" target="_blank">Repurposing Okara for Consumption | Time of Your Life</a></strong></td>
+<td><strong><a href="https://www.eventbrite.sg/e/repurposing-okara-for-consumption-time-of-your-life-registration-415802385127" target="_blank">Repurposing Okara for Consumption | Time of Your Life</a></strong></td>
 <td>When we cook, we often throw away parts of ingredients like vegetable pulp and fruit peels. But did you know that such commonly discarded items can be used in other ways?<br><br>
 
 In this hands-on workshop, you will learn how to make soy milk from scratch. Thereafter, we will teach you how to transform the by-product from making soy milk, a soy pulp known as okara, into other food items like nuggets and cookies. <br><br>
@@ -188,6 +188,23 @@ This programme is jointly brought to you by the National Library Board and Nanya
 <td>5 Oct 2022, 2pm - 4pm</td>
 <td>Tampines Regional Library, Culinary Studio</td>
 </tr>
+	
+<tr>
+<td><strong><a href="https://www.eventbrite.sg/e/hydroponic-gardening-at-home-time-of-your-life-tickets-407877652037" target="_blank">Turning Egg Shells into Toothpaste with NYP @ Tampines Regional Library</a></strong></td>
+<td>As part of the Teens Takover GREENHOUSE series, find out how you can make your own toothpaste using a very simple ingredient – eggshells! Not only are you able to repurpose the eggshells to reduce waste and save some money, there is even some research to show that the calcium in the eggshell powder has the potential to help in the remineralisation of enamel to protect your teeth. Be kind to the earth and to your teeth at the same time! Register now. <br><br>
+
+<b>*Important Instructions*</b><br>
+Participants must prepare and bring their own egg shells on the day of the programme. Please follow the steps below: 
+
+Wash the eggshells to remove the membrane and any egg liquid;<br>
+Place in boiling water for 5-10 mins before drying;
+Place in clean bag or container and bring to the workshop. Participants should bring as many eggshells as you can, preferably about 10 eggs’ worth of shells.<br><br>
+
+This programme is brought to you in collaboration with Nanyang Polytechnic.</td>
+<td>9 Oct 2022, 2pm - 4.30pm</td>
+<td>Tampines Regional Library, Culinary Studio</td>
+</tr>
+	
 </tbody></table>
 <br>
 <br>
