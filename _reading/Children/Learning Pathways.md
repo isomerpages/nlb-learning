@@ -34,64 +34,63 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 </div>
 
 <div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Explore Programmes</th>
+	<table class="generic-table">
+		<thead>
+			<tr>
+				<th class="is-uppercase has-weight-normal" colspan="4">Explore Programmes</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td style="width: 20%;"><b>Save Smart with Smiley (8-10 years old)</b></td>
+				<td style="width: 40%;">Learn how to save smart, identify the difference between “Needs” and “Wants,” and develop healthy spending habits.
+					<br><br>This session is for children aged 8 to 10.
+					<br><br>Registration is required and will be opened closer to the date.</td>
+				<td style="width: 20%;">26 Nov 2022,<br>11am – 12pm</td>
+				<td style="width: 20%;">Zoom</td>
+			</tr>
+			<tr>
+				<td style="width: 20%;"><b>Save Smart with Smiley (11-12 years old)</b></td>
+				<td style="width: 40%;">Learn how to save smart, identify the difference between “Needs” and “Wants,” and develop healthy spending habits.
+					<br><br>This session is for children aged 11 to 12
+					<br><br>Registration is required and will be opened closer to the date.</td>
+				<td style="width: 20%;">3 Dec 2022,<br>11am – 12pm</td>
+				<td style="width: 20%;">Zoom</td>
+			</tr>
+			<tr>
+				<td style="width: 20%;"><b>Zecky's Animated Book Launch</b></td>
+				<td style="width: 40%;">Learn how lovable <i>Monsters United</i> mascot Zecky got her specs! Join our exclusive sci-fi-themed storytelling and craft sessions happening at various public libraries in the month of December. More details will be made available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here</a> closer to the date.
+					<br><br>This programme is suitable for parents and children aged 7 to 10.
+					<br><br>Registration will open closer to the date.</td>
+				<td style="width: 20%;">Dec 2022</td>
+				<td style="width: 20%;">Multiple Public Libraries</td>
       </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a target="_blank" href=""><b>Save Smart with Smiley (8-10 years old)</b></a></td>
-        <td style="width: 40%;">Learn how to save smart, identify the difference between “Needs” and “Wants,” and develop healthy spending habits.
-<br><br> This session is for children aged 8 to 10.
-<br><br>Registration is required and will be opened closer to the date.</td>
-         <td style="width: 20%;"> 26 Nov 2022,<br>11am – 12pm</td>
-        <td style="width: 20%;">Zoom</td> 
-      </tr>
-			
-<tr>
-<td style="width: 20%;"><a target="_blank" href=""><b>Save Smart with Smiley (11-12 years old)</b></a></td>
-        <td style="width: 40%;">Learn how to save smart, identify the difference between “Needs” and “Wants,” and develop healthy spending habits.
-<br><br> This session is for children aged 11 to 12.
-<br><br> Registration is required and will be opened closer to the date.</td>
-        <td style="width: 20%;"> 3 Dec 2022,<br>11am – 12pm</td>
-        <td style="width: 20%;">Zoom</td>
-      </tr>
-<tr>
-	<td style="width: 20%;"><a target="_blank" href=""><b>Zecky's Animated Book Launch</b></a></td>
-		<td style="width: 40%;">Learn how lovable <i>Monsters United</i> mascot Zecky got her specs! Join our exclusive sci-fi-themed storytelling and craft sessions happening at various public libraries in the month of December. More details will be made available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here</a> closer to the date.
-<br><br>This programme is suitable for parents and children aged 7 to 10.
-<br><br>Registration will open closer to the date.</td>
-        <td style="width: 20%;">December 2022<br></td>
-        <td style="width: 20%;">Multiple Public Libraries</td>
-      </tr>
-	<tr>
-<td style="width: 20%;"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/events/bookbugsr/quests/"><b>Book Bugs Rescuers' Quests</b></a></td>
-        <td style="width: 40%;">The Rescuers’ Quest is an in-library video trail that reveals the story behind The End Bug. Explore the Children’s Section in libraries and search for the three stations he’s left behind to watch his video messages! Begin your search at the Books Bugs machine. 
-<br><br>This self-guided in-library trail is suitable for children of all ages and fans of Book Bugs.  
-<br><br>Registration is not required.</td>
-        <td style="width: 20%;">September - December 2022<br></td>
+			<tr>
+				<td style="width: 20%;"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/events/bookbugsr/quests/"><b>Book Bugs Rescuers' Quests</b></a></td>
+				<td style="width: 40%;">The Rescuers’ Quest is an in-library video trail that reveals the story behind The End Bug. Explore the Children’s Section in libraries and search for the three stations he’s left behind to watch his video messages! Begin your search at the Books Bugs machine.
+					<br><br>This self-guided in-library trail is suitable for children of all ages and fans of Book Bugs.
+					<br><br>Registration is not required.</td>
+				<td style="width: 20%;">Sep - Dec 2022</td>
         <td style="width: 20%;">Multiple Public Libraries
 					<br>except library@esplanade, 
 					<br>library@chinatown, 
 					<br>library@orchard</td>
-      </tr>
-<tr>
-<td style="width: 20%;"><a target="_blank" href=""><b>Stories in Art with National Gallery Singapore</b></a></td>
-		<td style="width: 40%;">Join our storytelling on folktales and local legends, featuring artists and artworks from books published by the National Gallery Singapore!
-<br><br>Registration will open closer to the date.</td>
-        <td style="width: 20%;">
-<br>3 Dec
-<br>2pm – 3pm
-<br><br>3 Dec
-<br>2pm – 3pm
-<br><br>10 Dec
-<br>2pm – 3pm
-<br><br>17 Dec
-<br>2pm – 3pm
-</td>
-   <td style="width: 20%;">Sengkang Public Library, Programme Zone<br>
+			</tr>
+			<tr>
+				<td style="width: 20%;"><b>Stories in Art with National Gallery Singapore</b></td>
+				<td style="width: 40%;">Join our storytelling on folktales and local legends, featuring artists and artworks from books published by the National Gallery Singapore!
+					<br><br>Registration will open closer to the date.
+				</td>
+				<td style="width: 20%;">3 Dec
+					<br>2pm – 3pm
+					<br><br>3 Dec
+					<br>2pm – 3pm
+					<br><br>10 Dec
+					<br>2pm – 3pm
+					<br><br>17 Dec
+					<br>2pm – 3pm
+				</td>
+				<td style="width: 20%;">Sengkang Public Library, Programme Zone<br>
 <br>Choa Chu Kang Public Library, Programme Zone 1
 <br>
 <br>Bishan Public Library, Programme Zone 1
