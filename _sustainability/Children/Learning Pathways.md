@@ -61,7 +61,7 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 						<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177?aff=odcleoeventsincollection" target="_blank"><b> From Seeds to Harvest</b></a></td>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177?aff=odcleoeventsincollection" target="_blank"><b> From Seeds to Harvest | Earth Heroes</b></a></td>
         <td style="width: 40%;">This session immerses children in the process of farming through hands-on activities and teaches the role of photosynthesis in the growth of plants.
 </td>
         <td style="width: 20%;">8 Oct 2022, <br>10.30am - 12pm</td>
@@ -80,14 +80,6 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/chairs-by-queensway-secondary-drama-club-registration-411113450397?aff=odcleoeventsincollection" target="_blank"><b>Chairs: A Dramatised Read</b></a></td>
-        <td style="width: 40%;">In a turbulent time of war and displaced people, what can a simple chair mean? This dramatised recitation of a children’s book is recommended for ages 8 and above.
-</br></br>
-Chairs is a student-led performance by Secondary 3 students from the Queensway Secondary School Drama Club. </td>
-        <td style="width: 20%;">29 Oct 2022,<br>11am-11.30am</td>
-        <td style="width: 20%;">Queenstown Public Library </td>
-      </tr>
-			<tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-411752702417?aff=odcleoeventsincollection" target="_blank"><b>Unplugged</b></a></td>
         <td style="width: 40%;">Want to take a break and unwind over some tabletop games?
 Set aside your digital devices and enjoy quality time with your friends and family. Have fun in this Unplugged session and be introduced to a variety of games, for you to kick back and have a good time!
@@ -96,6 +88,14 @@ This programme is recommended for children and teens to attend with friends and 
  </td>
         <td style="width: 20%;">7 Oct 2022,<br>3pm-5pm</td>
         <td style="width: 20%;">Chua Chu Kang Public Library </td>
+      </tr>
+			<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/chairs-by-queensway-secondary-drama-club-registration-411113450397?aff=odcleoeventsincollection" target="_blank"><b>Chairs: A Dramatised Read</b></a></td>
+        <td style="width: 40%;">In a turbulent time of war and displaced people, what can a simple chair mean? This dramatised recitation of a children’s book is recommended for ages 8 and above.
+</br></br>
+Chairs is a student-led performance by Secondary 3 students from the Queensway Secondary School Drama Club. </td>
+        <td style="width: 20%;">29 Oct 2022,<br>11am-11.30am</td>
+        <td style="width: 20%;">Queenstown Public Library </td>
       </tr>
      </tbody>
   </table>
