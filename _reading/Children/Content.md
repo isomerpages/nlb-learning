@@ -101,7 +101,7 @@ Do you know the authors behind your most beloved tales! Find out more about them
   <p><b>Meet the Author: Rachel Renée Russell (30 min)</b><br>
 Hear from veteran author Rachel Renée Russell, author of the popular DORK Diaries series, about the inspiration behind the characters and stories she created.
 <br><br>
-<small>Source: Meet the Author: Rachel Renée Russell - YouTube (2019, May 3). <i>_Fairfax Network - Fairfax County Public Schools.</i>_ Retrieved 2022, Sept 16.</small></p>
+<small>Source: Meet the Author: Rachel Renée Russell - YouTube (2019, May 3). <i>Fairfax Network - Fairfax County Public Schools.</i>Retrieved 2022, Sept 16.</small></p>
   </div>
  </div>
 
@@ -109,7 +109,7 @@ Hear from veteran author Rachel Renée Russell, author of the popular DORK Diari
 	
 <p>D.I.Y activities to engage your child in reading fun.</p>
 
-<h4 id="story-crafts"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b>Story Crafts!</b></a></h4>
+<h4 id="story-crafts"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child"><b>Story Crafts!</b></a></h4>
 <p>There's more to creating a story than just writing! Flex your creative muscles and design your own pop-up book with this activity.</p>
 
 
