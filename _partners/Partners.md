@@ -226,14 +226,16 @@ This programme is brought to you in collaboration with Nanyang Polytechnic.</td>
 <tbody>	
 
 <tr>
-<td><strong><a href="https://nlbsingapore.zoom.us/meeting/register/tJwrcemgqzkiHd3HruSM3W0zr8G9I8IbtcrM" target="_blank">Screen Time to Scream Time</a></strong></td>
-<td>This workshop is curated to give learners a better understanding of the negative effects associated with too much screen time and the benefits of physical activities. <br><br>
-At the end of the workshop, learners will better understand the potential health risks associated with low physical activities and the different types of physical exercises. 
-<br><br>Learners will also be equipped with the basic skills to plan a simple exercise programme.
-<br><br>
-This programme is suitable for teens.	</td>
+<td><strong><a href="https://nlbsingapore.zoom.us/meeting/register/tJ0ufu2vqj0iGtyepq5qmL1sXadZWW4qC2ME" target="_blank">Does My Child Have an Eating Disorder?</a></strong></td>
+<td>This workshop is designed to give learners an understanding of the common eating disorders in children & adolescents and recognising its symptoms.  It covers treatment, prevention and management techniques as well as activities that promote healthy eating habits. Learners will be equipped with the relevant resources to provide appropriate support, where needed. <br><br>
 
-<td>8 Sept 2022, 3pm - 4.30pm</td>
+This programme is suitable for parents of children and teens.<br><br>
+
+<b>About the Speaker</b><br>
+Ms Nithiya Gunasagaran is a Mental Health nursing lecturer at NYP School of Health and Social Sciences. She holds a Specialist Diploma in Teaching and Learning (Higher Education) from the National Institute of Education Singapore (NIE-NTU), a Degree in Nursing from the Latrobe University, an Advanced Diploma in Mental Health Nursing and a Diploma in Nursing from the Nanyang Polytechnic (NYP). She has 4 years of teaching experience at an Institute of Higher Learning at the tertiary level.<br>
+Ms Nithiya has 8 years of experience nursing patients with Eating Disorders through the delivery of holistic individualised care and the provision of a supportive and therapeutic relationship. She also engages in educating and supporting the parents/ caregivers of patients with Eating Disorders</td>
+
+<td>8 Oct 2022, 11am - 12.30pm</td>
 <td>Zoom</td>
 </tr>
 	
