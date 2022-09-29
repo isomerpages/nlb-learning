@@ -16,7 +16,6 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
         <th class="is-uppercase has-weight-normal" colspan="4">Discover Recommended Resources</th>
       </tr>
     </thead>
-    
 		<tbody>
 <tr>
         <td style="width: 20%;"><a href="/reading/children/content" target="_blank"><b>Playlist: Meet the Storytellers!</b></a></td>
@@ -28,7 +27,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
         <td><a href="/reading/children/content"><b>Learning Package: Story Crafts!</b></a></td>
         <td>Help your child relate to a book through a short read and a story-based craft.</td>
 	<td></td>
-  <td> </td>
+  <td></td>
 			</tr>
 		</tbody>
   </table>
