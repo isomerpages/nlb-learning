@@ -89,7 +89,6 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 					<br>
 					<br><br>10 Dec
 					<br>2pm – 3pm
-					<br>
 					<br><br>17 Dec
 					<br>2pm – 3pm
 				</td>
