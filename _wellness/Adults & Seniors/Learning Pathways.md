@@ -65,7 +65,7 @@ Ageing comes with many unfamiliar experiences that can affect our physical and m
 This programme is jointly brought to you by the National Library Board and Bedok Polyclinic.<br>
 </td>
         <td style="width: 20%;"> 1 Oct 2022, <br>10am – 12pm</td>
-         <td style="width: 20%;">Zoom </td>
+         <td style="width: 20%;">Bedok Public Library (Programme Room Level 3) </td>
       </tr>
      <tr>
      <td><a href="https://www.eventbrite.sg/e/bone-appetit-calcium-older-adults-mind-your-body-x-toyl-tickets-415236923817?aff=odcleoeventsincollection" target="_blank"><b>Bone Appetit - Calcium & Older Adults | Mind Your Body x TOYL</b></a></td>
@@ -73,7 +73,7 @@ This programme is jointly brought to you by the National Library Board and Bedok
 
 Disclaimer: All content and advice shared during the session are solely for informational purposes. It is not intended to be a substitute for professional medical advice, diagnosis or treatment. This programme is suitable for those aged 50 and above, and is organised in collaboration with Dietetics and Nutrition Undergraduates from the Singapore Institute of Technology.</td>
         <td style="width: 20%;"> 11 Oct 2022, <br>2pm – 3pm</td>
-        <td style="width: 20%;"> Zoom</td>
+        <td style="width: 20%;"> Toa Payoh Public Library (Programme Zone Level 3)</td>
       </tr>
       
    </tbody>
