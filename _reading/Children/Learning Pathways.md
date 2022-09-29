@@ -106,6 +106,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				<td style="width: 20%;">Yishun Public Library,
 					<br>Programme Zone</td>
 			</tr>
+			
 			<tr>
 				<td style="width: 20%;"><b>Tamil Storytelling Sessions</b></td>
 				<td style="width: 40%;">Immerse in fun-filled Tamil stories at the library. These 30-min storytelling sessions will feature folktales, animal stories, moral stories and much more. Choose your preferred location and engage with our lively storytellers.</td>
@@ -125,6 +126,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 					<br><br> Jurong Regional Library, Programme Zone Level 1
 					<br><br>Choa Chu Kang Public Library, Programme Zone 1 & 2
 					<br><br>Sengkang Public Library, Programme Zone Level 4
+			</td>
 			</tr>
 			<tr>	
       <td style="width: 20%;"><b>星衢讲故事活动 Sing Chu Chinese Storytelling</b></td>
