@@ -75,7 +75,7 @@ Do you know the authors behind your most beloved tales! Find out more about them
   </div>
   <div class="col is-three-fifths">
 			    <p><b>Author Fan Face-off #45: Andy Griffiths/THE 13-STORY TREEHOUSE (10 min)</b><br> Watch the showdown between the author of <i>The 13-Storey Treehouse, </i> Andy Griffiths, and a super-fan of the series in an exciting trivia challenge! <br><br>
-<small>Author Fan Face-off #45: Andy Griffiths/THE 13-STORY TREEHOUSE - YouTube (2021, Apr 5). <i>Author-Fan Face-off.</i> Retrieved 2022, Sept 16.</small></p>
+<small>Author Fan Face-off #45: Andy Griffiths/THE 13-STORY TREEHOUSE - YouTube (2021, Apr 5). <i>Author-Fan Face-off.</i>  Retrieved 2022, Sept 16.</small></p>
   </div>
 </div>
 
@@ -87,7 +87,7 @@ Do you know the authors behind your most beloved tales! Find out more about them
   </div>
   <div class="col is-three-fifths">
     <p><b>Universe of Feelings by Quek Hong Shin (10 min)</b><br>Author Quek Hong Shin tells us the story of Darryl, a withdrawn boy who befriends Blob, a visitor from outer space!<br><br>
-<small>Source: Universe of Feelings by Quek Hong Shin - YouTube (2020, Apr 26). <i>Storytime with Hong Shin.</i> Retrieved 2022, Sept 16.</small></p>
+<small>Source: Universe of Feelings by Quek Hong Shin - YouTube (2020, Apr 26). <i>Storytime with Hong Shin.</i>  Retrieved 2022, Sept 16.</small></p>
   </div>
 </div>
 
@@ -101,7 +101,7 @@ Do you know the authors behind your most beloved tales! Find out more about them
   <p><b>Meet the Author: Rachel Renée Russell (30 min)</b><br>
 Hear from veteran author Rachel Renée Russell, author of the popular DORK Diaries series, about the inspiration behind the characters and stories she created.
 <br><br>
-<small>Source: Meet the Author: Rachel Renée Russell - YouTube (2019, May 3). <i>Fairfax Network - Fairfax County Public Schools.</i>Retrieved 2022, Sept 16.</small></p>
+<small>Source: Meet the Author: Rachel Renée Russell - YouTube (2019, May 3). <i>Fairfax Network - Fairfax County Public Schools.</i>  Retrieved 2022, Sept 16.</small></p>
   </div>
  </div>
 
