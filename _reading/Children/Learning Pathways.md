@@ -92,17 +92,15 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 					<br><br>17 Dec
 					<br>2pm – 3pm
 				</td>
-				<td style="width: 20%;">Sengkang Public Library, Programme Zone<br>
-<br>Choa Chu Kang Public Library, Programme Zone 1
-<br>
-<br>Bishan Public Library, Programme Zone 1
-<br>
-<br>library@harbourfront, Programme Zone 2
-</td>
-      </tr>
-	<tr>
-		<td style="width: 20%;"><b>Wira Pintar Reading Club</b></td>
-        <td style="width: 40%;"> A monthly interactive children’s reading club for those aged 6-9 years old, filled with storytelling session, language-based activities and craft making.
+				<td style="width: 20%;">Sengkang Public Library, Programme Zone
+					<br><br>Choa Chu Kang Public Library, Programme Zone 1
+					<br><br>Bishan Public Library, Programme Zone 1
+					<br><br>library@harbourfront, Programme Zone 2
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 20%;"><b>Wira Pintar Reading Club</b></td>
+				<td style="width: 40%;">A monthly interactive children’s reading club for those aged 6-9 years old, filled with storytelling session, language-based activities and craft making.
 </td>
         <td style="width: 20%;">Every 4th Saturday,<br>11.30am-12.30pm</td>
         <td style="width: 20%;">Yishun Public Library, Programme Zone</td>
