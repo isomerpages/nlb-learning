@@ -68,7 +68,7 @@ Be informed and make an impact to the environment.
         <td style="width: 20%;">Choa Chu Kang Public Library & Zoom</td>
 			</tr>
 			<tr>
-         <td style="width: 20%;"><a href="https://go.gov.sg/nlb-teensgreenhouseh" target="_blank"><b>Teens Takeover | GREENHOUSE
+         <td style="width: 20%;"><a href="https://go.gov.sg/nlb-teensgreenhouse" target="_blank"><b>Teens Takeover | GREENHOUSE
 </b></a></td>
         <td style="width: 40%;">A series of talks and workshops for teens to explore various green topics and projects.
 
