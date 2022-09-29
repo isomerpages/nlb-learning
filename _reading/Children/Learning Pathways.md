@@ -6,9 +6,8 @@ third_nav_title: Children
 ---
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-<h3><b> Reading Joy</b></h3>
+<h3><b>Reading Joy</b></h3>
 Spark reading joy in your child to nurture a lifelong passion for reading and learning.
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -121,8 +120,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 					<br><br>Every 2nd Friday,
 					<br>7pm – 7:30pm
 				</td>
-				<td style="width: 20%;">Woodlands Regional Library,
-					<br>Children’s Section Level 4
+				<td style="width: 20%;">Woodlands Regional Library, Children’s Section Level 4
 <br><br>
 <br><br>Tampines Regional Library, 
 		 <br>Programme Zone Level 6
