@@ -100,27 +100,28 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 			</tr>
 			<tr>
 				<td style="width: 20%;"><b>Wira Pintar Reading Club</b></td>
-				<td style="width: 40%;">A monthly interactive children’s reading club for those aged 6-9 years old, filled with storytelling session, language-based activities and craft making.
-</td>
-        <td style="width: 20%;">Every 4th Saturday,<br>11.30am-12.30pm</td>
-        <td style="width: 20%;">Yishun Public Library, Programme Zone</td>
-      </tr>
-	<tr>
-      <td style="width: 20%;"><b>Tamil Storytelling Sessions</b></td>
-        <td style="width: 40%;">Immerse in fun-filled Tamil stories at the library. These 30-min storytelling sessions will feature folktales, animal stories, moral stories and much more. Choose your preferred location and engage with our lively storytellers.
-</td>
-        <td style="width: 20%;">Every 4th Thursday
-<br>7pm – 7:30pm
-<br><br>Every 3rd Wednesday
-<br>7pm – 7:30pm
-<br><br>Every 1st Friday
-<br>7pm - 7.30pm
-<br><br>Every 2nd Sunday
-<br>3pm - 3.30pm
-<br><br>Every 2nd Friday
-<br>7pm – 7:30pm
-</td>
-   <td style="width: 20%;">Woodlands Regional Library, <br>Children’s Section Level 4
+				<td style="width: 40%;">A monthly interactive children’s reading club for those aged 6-9 years old, filled with storytelling session, language-based activities and craft making.</td>
+				<td style="width: 20%;">Every 4th Saturday,
+					<br>11.30am-12.30pm</td>
+				<td style="width: 20%;">Yishun Public Library,
+					<br>Programme Zone</td>
+			</tr>
+			<tr>
+				<td style="width: 20%;"><b>Tamil Storytelling Sessions</b></td>
+				<td style="width: 40%;">Immerse in fun-filled Tamil stories at the library. These 30-min storytelling sessions will feature folktales, animal stories, moral stories and much more. Choose your preferred location and engage with our lively storytellers.</td>
+				<td style="width: 20%;">Every 4th Thursday,
+					<br>7pm – 7:30pm
+					<br><br>Every 3rd Wednesday,
+					<br>7pm – 7:30pm
+					<br><br>Every 1st Friday,
+					<br>7pm - 7.30pm
+					<br><br>Every 2nd Sunday,
+					<br>3pm - 3.30pm
+					<br><br>Every 2nd Friday,
+					<br>7pm – 7:30pm
+				</td>
+				<td style="width: 20%;">Woodlands Regional Library,
+					<br>Children’s Section Level 4
 <br><br>
 <br><br>Tampines Regional Library, 
 		 <br>Programme Zone Level 6
