@@ -155,7 +155,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 		 <br><br>
 		 <br>Choa Chu Kang Public Library, Programme Zone 1
 		 <br>
-		 <br><br>Tampines Regional Library, Books for Babies, Level 3<br><br>
+		 <br><br>Tampines Regional Library, Books for Babies, Level 3
 				</td>
 			</tr>
 		</tbody>
