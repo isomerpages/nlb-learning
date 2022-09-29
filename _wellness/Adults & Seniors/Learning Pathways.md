@@ -152,6 +152,18 @@ Conducted by: Ms Evelyn Khoo, Founder, Aphasia SG (Singapore)
         <td style="width: 20%;"> 1 Oct 2022, <br>2pm – 5.30pm</td>
          <td style="width: 20%;">library@harbourfront (Programme Zone 1 & 2) </td>
       </tr>
+
+<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/managing-emergencies-at-home-toyl-celebration-tickets-407217738217?aff=odcleoeventsincollection" target="_blank"><b>Managing Emergencies At Home | TOYL Celebration</b></a></td>
+        <td style="width: 40%;">Does applying condensed milk on a burn help? Will you heal faster by applying toothpaste on an insect bite? Have you ever faced an emergency at home and are at a lost?<br><br>
+
+Join Family Physicians, Dr S A Aziz Noordin and Dr Ng Huiyu, as they explore ways to manage common household emergencies such as cuts, insect bites, or allergies, as well as how to prevent and manage falls among the elderly!<br><br>
+
+Disclaimer: All content and advice shared during the programme are for informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment.This programme is suitable for those aged 50 and above, and organised in collaboration with Changi General Hospital.
+</td>
+        <td style="width: 20%;"> 13 Oct 2022, <br>3pm – 4pm</td>
+         <td style="width: 20%;">Zoom </td>
+      </tr>			
 			
 <tr>
 	<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/golden-series-part-3-community-support-and-medication-management-toyl-tickets-411001565747?aff=odcleoeventsincollection" target="_blank"><b>Golden Series (Part 3): Community Support and Medication Management | TOYL</b></a></td>
