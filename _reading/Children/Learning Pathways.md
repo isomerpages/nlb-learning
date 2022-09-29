@@ -111,12 +111,15 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				<td style="width: 40%;">Immerse in fun-filled Tamil stories at the library. These 30-min storytelling sessions will feature folktales, animal stories, moral stories and much more. Choose your preferred location and engage with our lively storytellers.</td>
 				<td style="width: 20%;">Every 4th Thursday,
 					<br>7pm – 7:30pm
+					<br>
 					<br><br>Every 3rd Wednesday,
 					<br>7pm – 7:30pm
 					<br><br>Every 1st Friday,
 					<br>7pm - 7.30pm
+					<br>
 					<br><br>Every 2nd Sunday,
 					<br>3pm - 3.30pm
+					<br>
 					<br><br>Every 2nd Friday,
 					<br>7pm – 7:30pm
 				</td>
