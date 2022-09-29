@@ -176,16 +176,17 @@ In this workshop, you will be guided on how to set SMART goals and have the conv
 
 <tbody>
 <tr>
-<td><strong><a href="https://www.eventbrite.sg/e/hydroponic-gardening-at-home-time-of-your-life-tickets-407877652037" target="_blank">Hydroponic Gardening at Home | Time of Your Life</a></strong></td>
-<td>This programme is intended for those aged 50 and above. <br><br>
+<td><strong><a href="https://www.eventbrite.sg/e/hydroponic-gardening-at-home-time-of-your-life-tickets-407877652037" target="_blank">Repurposing Okara for Consumption | Time of Your Life</a></strong></td>
+<td>When we cook, we often throw away parts of ingredients like vegetable pulp and fruit peels. But did you know that such commonly discarded items can be used in other ways?<br><br>
 
-Are you interested in home gardening but hesitant about the hassle of preparing, potting, and caring for your plants? If so, this workshop is for you! <br><br>
+In this hands-on workshop, you will learn how to make soy milk from scratch. Thereafter, we will teach you how to transform the by-product from making soy milk, a soy pulp known as okara, into other food items like nuggets and cookies. <br><br>
 
-Find out more about hydroponic gardening, a simple alternative to traditional gardening. Using a DIY hydroponics kit, discover how you can grow vegetables and other garden edibles at home. Get started on your green journey with this simple and fuss-free method of gardening!<br><br>
+<b>About the Trainer</b><br>
+Lina Tan is a senior lecturer with the School of Applied Science in Nanyang Polytechnic, where she teaches in the Food Science & Nutrition programme. Besides teaching, she also coaches food science students for local and international product innovation competitions and provides technical guidance and training to clients in the food industry.  <br><br>
 
-This programme is jointly brought to you by the National Library Board and Nanyang Polytechnic. <br><br>
-<td>17 Sept 2022, 2pm - 4pm</td>
-<td>Jurong Regional Library</td>
+This programme is jointly brought to you by the National Library Board and Nanyang Polytechnic.</td>
+<td>5 Oct 2022, 2pm - 4pm</td>
+<td>Tampines Regional Library, Culinary Studio</td>
 </tr>
 </tbody></table>
 <br>
