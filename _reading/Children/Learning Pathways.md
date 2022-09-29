@@ -121,9 +121,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 					<br>7pm – 7:30pm
 				</td>
 				<td style="width: 20%;">Woodlands Regional Library, Children’s Section Level 4
-<br><br>
-<br><br>Tampines Regional Library, 
-		 <br>Programme Zone Level 6
+<br><br>Tampines Regional Library, Programme Zone Level 6
 <br><br>
 <br><br> Jurong Regional Library, 
 		 <br>Programme Zone Level 1
