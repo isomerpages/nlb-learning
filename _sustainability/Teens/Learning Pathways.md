@@ -61,22 +61,13 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
 			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/cc/green-market-live-light-go-green-1085349" target="_blank"><b>Green Market: Live Light, Go Green
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/turning-egg-shells-into-toothpaste-with-nyp-tampines-regional-library-tickets-411740465817?aff=odcleoeventsincollection" target="_blank"><b>Turning Egg Shells into Toothpaste with NYP 
 </b></a></td>
-        <td style="width: 40%;">Green Market: Live Light, Go Green presents an exciting line-up of digital and in-person activities at Choa Chu Kang Public Library for the whole family.<br></td>
-        <td style="width: 20%;">17-18 Sep</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library & Zoom</td>
-			</tr>
-			<tr>
-         <td style="width: 20%;"><a href="https://go.gov.sg/nlb-teensgreenhouse" target="_blank"><b>Teens Takeover | GREENHOUSE
-</b></a></td>
-        <td style="width: 40%;">A series of talks and workshops for teens to explore various green topics and projects.
-
-Stay tuned for more updates.<br></td>
-        <td style="width: 20%;"></td>
-        <td style="width: 20%;"></td>
-			</tr>
-    </tbody>
+        <td style="width: 40%;">Find out how you can make your own toothpaste using a very simple ingredient – eggshells! Not only are you able to repurpose the eggshells to reduce waste and save some money, there is even some research to show that the calcium in the eggshell powder has the potential to help in the remineralisation of enamel to protect your teeth.
+<br></td>
+        <td style="width: 20%;">9 Oct 2022, 2pm-4.30pm</td>
+        <td style="width: 20%;">Tampines Regional Library</td>
+			</tr> </tbody>
   </table>
 </div>
 
@@ -89,18 +80,16 @@ Stay tuned for more updates.<br></td>
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.com/e/making-comics-and-breaking-barriers-with-de-woodlands-regional-library-tickets-403366669567?aff=odcleoeventsincollection&keep_tld=1" target="_blank"><b>Making Comics and Breaking Barriers with DE @ Woodlands Regional Library</b></a></td>
-        <td style="width: 40%;">With its marriage of text and visuals, comics are an effective way of communicating stories, ideas and emotions to a wide range of readers. In this workshop, you will learn the basic process of creating comics from drafting and scripting, to designing interesting characters. You will also learn how comics can be a great tool to discuss difficult issues such as mental health, and by the end of the session you will be able to take home a comic booklet of your own creation!
-</td>
-        <td style="width: 20%;">4 Sep 2022, 2pm-4pm</td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-toa-payoh-public-library-tickets-411730355577?aff=odcleoeventsincollection" target="_blank"><b>Dungeons & Dragons w/The Legitimate Business</b></a></td>
+        <td style="width: 40%;">Heard of the world of Dungeons & Dragons (D&D)? Come by Toa Payoh Public Library for a taste of this legendary fantasy role-playing game, and find out why millions of players worldwide have stepped into the boots of mighty heroes (and sneaky antiheroes) to create their own stories. </td>
+        <td style="width: 20%;">2 Oct 2022, 1.30pm-5.30pm</td>
+        <td style="width: 20%;">Toa Payoh Public Library</td>
       </tr>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/jumpstart-your-career-with-moneyme-libraryharbourfront-tickets-401609895007?aff=odcleoeventsincollection" target="_blank"><b>Jumpstart Your Career with Money&Me</b></a></td>
-        <td style="width: 40%;">As part of the Teens Takeover Workshop series, get a jumpstart on your future as you explore various career choices!
-</td>
-        <td style="width: 20%;">17 Sep 2022, 2pm-4pm</td>
-        <td style="width: 20%;">library@harbourfront</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087?aff=odcleoeventsincollection" target="_blank"><b> Dungeons & Dragons w/The Legitimate Business</b></a></td>
+        <td style="width: 40%;"> Heard of the world of Dungeons & Dragons (D&D)? Come by Choa Chu Kang Public Library for a taste of this legendary fantasy role-playing game, and find out why millions of players worldwide have stepped into the boots of mighty heroes (and sneaky antiheroes) to create their own stories. </td>
+        <td style="width: 20%;">22 Oct 2022, 1pm-5pm</td>
+        <td style="width: 20%;">Chua Chu Kang Public Library</td>
       </tr>
   </tbody>
   </table>
