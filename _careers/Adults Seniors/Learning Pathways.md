@@ -64,16 +64,22 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b>Industry Insights</b></td>
-        <td style="width: 40%;">This month's topic: The Impact of Good and Great Design<br/>with Khai Seng from Studio Dojo<br/><br/>What is it like having a career in rising, up-and-coming industries? How does one get a foot in the door? Find out through this series of talks.</td>
-        <td style="width: 20%;"><a href="https://go.gov.sg/industryinsights">29 Sept<br/>7-8pm</a></td>
+        <td style="width: 20%;"><b>Talk Series</b><br/>Industry Insights</td>
+        <td style="width: 40%;">What is it like having a career in rising, up-and-coming industries? How does one get a foot in the door? Find out through this series of talks.</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/industryinsights">Last Thursday of the month</a></td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 							      <tr>
-        <td><b>Career Coaching (by our partner WSG)</b></td>
+        <td><b>Partnership</b><br/>Workforce Singapore (WSG)</td>
         <td>Career Catalyst (1-to-1 Career Coaching) by Workforce Singapore (WSG)</td>
         <td>WSG's Career Catalyst - details available <a href="https://content.mycareersfuture.gov.sg/career-guidance/">at their website</a></td>
         <td></td>
+			</tr>
+			<tr>
+        <td></td>
+        <td>Walk-in Interview for Logistics Roles</td>
+        <td><a href="https://wsg-careergrit.glideapp.io/dl/1e2505/s/ea1b9a/r/OAK3-C1DTJOJYUh.N5m2nA/s/d58d37/r/3LGOxu97SbqdOICjcw7Q3g?utm_source=Workipedia&utm_medium=PhysicalEventListings&utm_campaign=Referral&full=t">11 Oct<br/>12-5pm</a></td>
+        <td>Jurong Regional Library<br/>Programme Zone</td>
 			</tr>
     </tbody>
   </table>
@@ -90,18 +96,24 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
       <tr>
         <td style="width: 20%;"><b>Get Professional</b><br/>Resume Writing Skills</td>
         <td style="width: 40%;">Understand the thought process behind how recruiters review resumes so that you can create one that is truly representative of your talents, experiences, and potential.</td>
-        <td style="width: 20%;">Coming Soon</td>
+        <td style="width: 20%;">Season 5<br/>Coming Soon</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
         <td><b>Get Professional</b><br/>Interview Skills</td>
         <td>This workshop will guide you through the pre to post-interview processes, help you to understand what your interviewer is looking for, and how to ace the interview session itself.</td>
-        <td><a href="https://go.gov.sg/get-professional-series" target="blank">19 Sept<br/>7-8.30pm<br></a></td>
+        <td>Season 5 <br/>Coming Soon</td>
         <td>Zoom</td>
       </tr>
+			 <tr>
+        <td><b>Time of Your Life</b><br/>Personal Packaging</td>
+        <td> Hear from Hyder Bilgrami, a communications expert, as he discusses the impact that your every action can leave.</td>
+        <td><a href="https://www.eventbrite.sg/e/personal-packaging-ask-me-anything-ama-x-toyl-celebration-registration-407220586737" target="blank">5 Oct<br>7-8pm</a></td>
+        <td>library@harbourfront<br/>Programme Zone</td>
+      </tr>
 <tr>
-<td><b>Learn how to acquire new skills with SkillsFuture credits</b></td>
-        <td></td>
+<td><b>Partnership</b><br/>SkillsFuture</td>
+        <td>At SkillsFuture Advice webinars, learn how to acquire new skills with SkillsFuture credits!</td>
         <td><a href="https://www.skillsfuture.gov.sg/advice" target="blank">Refer to SkillsFuture website</a></td>
         <td>Online</td>
       </tr>
@@ -148,7 +160,23 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </tbody>
   </table>
 </div>
-
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Acquire Skills</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>Workshop</b><br>Be Your Own Breakthrough</td>
+        <td>Learn to cultivate good habits for the self-employed, and flourish like good trees.</td>
+        <td><a href=https://www.eventbrite.sg/e/be-your-own-breakthrough-flourishing-like-a-good-tree-tickets-423134425457>3 Oct 10.30am-12pm</a></td>
+        <td>Bishan Public Library Programme Zone</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 id="work-life-balance" class="margin--bottom--lg"><b>Accelerate Your Career and Improve Work-Life Balance</b></h3>
@@ -173,6 +201,12 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
         <td></td>
         <td></td>
       </tr>
+			<tr>
+        <td><a href="https://readingnation.nlb.gov.sg/read-at-work/" target="_blank"><b>E-Newsletter</b><br/>Read@Work</a></td>
+        <td>Read past issues of the quarterly Read@Work e-Newsletter here!</td>
+        <td></td>
+        <td></td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -188,12 +222,12 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
       <tr>
         <td style="width: 20%;"><b>Get Professional</b><br/>EQ At Work</td>
         <td style="width: 40%;">In this group coaching session, exchange tips and strategies with the trainer and your fellow attendees to get out of sticky situations at work – with finesse.</td>
-        <td style="width: 20%;">Coming Soon</td>
+        <td style="width: 20%;">Season 5<br/>Coming Soon</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
         <td><b>Videos On-Demand</b><br/>How To Learn Like A Pro</td>
-       <td>Recordings from the Future of Learning 2021 event, featuring prominent local experts and TED/TEDx speakers</td>
+       <td>Recordings from the Future of Learning 2021 event, featuring prominent local experts and TED/TEDx speakers.</td>
 				<td><a href="https://go.gov.sg/futureoflearning-videos" target="_blank">Panopto</a></td>
         <td>Online</td>
       </tr>
@@ -233,6 +267,18 @@ SkillsFuture credits</td>
         <td style="width: 40%;">Learn about buying property, insurance and investments.</td>
         <td style="width: 20%;">Various dates</td>
         <td style="width: 20%;">Zoom</td>
+      </tr>
+			  <tr>
+        <td><b>Learning Community</b><br>LCS Toastmasters</td>
+        <td>Life Communication Skills (LCS) Toastmasters Club<br/>Communication is an essential tool. Learn ways to improve your communication style in a friendly environment.</td>
+        <td><a href=https://www.eventbrite.sg/e/life-communication-skills-toastmasters-october-chapter-meeting-registration-4139027532777>12 Oct<br/>6.45-8.30pm</a></td>
+        <td>Toa Payoh Public Library Programme Zone</td>
+      </tr>
+			 <tr>
+        <td><b>Event</b><br>Learning Day</td>
+        <td>Learning Day is a gathering in which folks teach and learn something, anything, from each other!</td>
+        <td><a href=https://www.eventbrite.sg/e/learning-day-october-2022-tickets-42321307068>22 Oct<br/>2-5pm</a></td>
+        <td>Bishan Public Library Programme Zone</td>
       </tr>
     </tbody>
   </table>
