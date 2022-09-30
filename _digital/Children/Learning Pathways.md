@@ -61,12 +61,18 @@ Go digital with your child and discover a world of technology and innovation tog
       </tr>
 		</thead>
 <tbody>
-<tr>
-<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/steamlab2022/#steam-lab-mini-videos" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
-<td style="width: 40%;">Build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. </td>
-<td style="width: 20%;">Sept’22</td>
-<td style="width: 20%;">YouTube</td>
-</tr>
+	<tr>
+      <td style="width: 20%;"><b> S.T.E.A.M. Lab Mini</b><br><br>
+				<a href="https://youtu.be/l9B7iknybmw" target="_blank"><b>Dancing Puppet</b></a><br>
+				<a href="https://youtu.be/J5EqL69pjYE" target="_blank"><b>D.I.Y Catapult</b></a><br>
+				<a href="https://youtu.be/p6NoA5c8R1U" target="_blank"><b>Balloon-powered Car</b></a><br>
+				<a href="https://youtu.be/qDrRGM1t8fU" target="_blank"><b>Static Electricity with Slime</b></a><br></td>
+         <td style="width: 40%;">Learn how to build a balloon powered car and other topics such as electromagnetism and static electricity through a series of videos.</td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
+      </tr>
+	
+	
 </tbody>
 </table>
 </div>
