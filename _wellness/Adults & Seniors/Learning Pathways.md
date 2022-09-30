@@ -140,14 +140,15 @@ This programme is suitable for those aged 50 and above, and organised in collabo
 		<tbody>
 
 <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/all-about-dysphagia-toyl-celebration-tickets-406776478397?aff=odcleoeventsincollection" target="_blank"><b>All About Dysphagia | TOYL Celebration</b></a></td>
-        <td style="width: 40%;">Did you know that communication disorders like dementia, Parkinson's disease, and stroke can cause difficulty with swallowing, known as dysphagia in medical terms? When we are unable to swallow our food properly, it can lead to malnutrition. <br><br>However, there are ways to manage dysphagia and ensure that nutritional needs continue to be met.  This interactive workshop will address the following: <br><br>
-• Types of communication disorders <br>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/all-about-dysphagia-toyl-celebration-tickets-406776478397?aff=odcleoeventsincollection" target="_blank"><b> All About Aphasia and Dysphagia | TOYL Celebration</b></a></td>
+        <td style="width: 40%;">Did you know that different neurological conditions like dementia, Parkinson's disease, and stroke can cause difficulty with communication (aphasia), and swallowing (dysphagia)? Aphasia and/ or dysphagia impact quality of life and can lead to social isolation and other problems. Caregivers can now learn ways to support communication and manage swallowing difficulties of their loved ones. <br><br>
+This interactive workshop will address the following: <br><br>
+• Types of communication disorders with spotlight on aphasia<br>
 • Basic tips to improve communication with those who have communication disorders<br>
 • How to identify signs of swallowing difficulties<br>
 • Diet and fluid modification for treatment of dysphagia<br>
 <br>
-Conducted by: Ms Evelyn Khoo, Founder, Aphasia SG (Singapore)
+Conducted by: Ms Evelyn Khoo, Speech-Language Therapist, Founder, Aphasia SG &amp; Clinical Director, GentleFoods
 </td>
         <td style="width: 20%;"> 1 Oct 2022, <br>2pm – 5.30pm</td>
          <td style="width: 20%;">library@harbourfront (Programme Zone 1 & 2) </td>
