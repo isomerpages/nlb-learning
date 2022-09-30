@@ -94,8 +94,15 @@ Read with your child to explore new topics and discover new experience.
 
 <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627" target="_blank"><b>How to be a Cyber Safe Family with Cyberlite Books @ library@harbourfront</b></a></td>
-        <td>**Should we control our children’s screen time? What do we do if a child is cyberbullied? Join us to learn about family cyber safety!**<br> 
+        <td>Should we control our children’s screen time? What do we do if a child is cyberbullied? Join us to learn about family cyber safety!<br> 
         <td>2 October 2022, 11.30am - 12.30pm</td>
         <td>library@harbourfront, Programme Zone 2</td>
+			
+
+<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177" target="_blank"><b>From Seeds to Harvest @ Bishan Public Library</b></a></td>
+        <td>As part of the Earth Heroes series, this session immerses children in the process of farming through hands-on activities and teaches the role of photosynthesis in the growth of plants.<br> 
+        <td>8 October 2022, 10.30am - 12pm</td>
+        <td>Bishan Public Library, Outdoor Garden (B1)</td>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
