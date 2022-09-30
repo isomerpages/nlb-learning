@@ -86,15 +86,15 @@ Read with your child to explore new topics and discover new experience.
     </thead>
     <tbody>
       <tr>
-      <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank"><b> S.T.E.A.M. Lab Mini</b></a></td>
+      <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627" target="_blank"><b> S.T.E.A.M. Lab Mini</b></a></td>
         <td style="width: 40%;"> Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. <br><br>Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
 
 <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/cckpl-ways-around-waste-greenhouse-tickets-355026703427?aff=ebdssbdestsearch" target="_blank"><b> CCKPL: Ways Around Waste | Greenhouse </b></a></td>
-        <td> Have you ever wondered where your waste goes beyond the rubbish chute? What about the materials you discard into those familiar blue recycling bins? This workshop hopes to shed light on waste management in the Singaporean context. Join us in discovering the many ways around waste in our daily lives! Please bring a favorite old t-shirt with you to this workshop to turn it into a t-shirt. <br><br> 
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627" target="_blank"><b>How to be a Cyber Safe Family with Cyberlite Books @ library@harbourfront</b></a></td>
+        <td>**Should we control our children’s screen time? What do we do if a child is cyberbullied? Join us to learn about family cyber safety! <br><br> 
         <td> 24 July 2022, 3pm-4pm</td>
         <td> Choa Chu Kang Public Library, Programme Room 2</td>
  
