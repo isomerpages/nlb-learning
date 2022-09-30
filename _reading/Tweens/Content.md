@@ -112,7 +112,7 @@ Check out different careers available and why it is important to love what you d
 	
 D.I.Y activities to engage your child in different topics.	
 
-<h4 id="lp-myths-come-alive"><a href="https://childrenandteens.nlb.gov.sg/files/diyresources/PopReads22-S-Keep-Calm-and-Reach-Your-Goals.PDFF" target="_blank"><b>Keep Calm and Reach Your Goals</b></a></h4>
+<h4 id="lp-keep-calm"><a href="https://childrenandteens.nlb.gov.sg/files/diyresources/PopReads22-S-Keep-Calm-and-Reach-Your-Goals.PDFF" target="_blank"><b>Keep Calm and Reach Your Goals</b></a></h4>
 <p>Unsure of what the future brings? Check out this activity to engage in your child in goal setting.</p>
 
 [Back to top](#main-content)
