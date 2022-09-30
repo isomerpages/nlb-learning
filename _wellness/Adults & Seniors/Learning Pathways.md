@@ -140,7 +140,7 @@ This programme is suitable for those aged 50 and above, and organised in collabo
 		<tbody>
 
 <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/all-about-dysphagia-toyl-celebration-tickets-406776478397?aff=odcleoeventsincollection" target="_blank"><b> All About Aphasia and Dysphagia | TOYL Celebration</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/all-about-aphasia-and-dysphagia-toyl-celebration-tickets-406776478397?aff=odcleoeventsincollection" target="_blank"><b> All About Aphasia and Dysphagia | TOYL Celebration</b></a></td>
         <td style="width: 40%;">Did you know that different neurological conditions like dementia, Parkinson's disease, and stroke can cause difficulty with communication (aphasia), and swallowing (dysphagia)? Aphasia and/ or dysphagia impact quality of life and can lead to social isolation and other problems. Caregivers can now learn ways to support communication and manage swallowing difficulties of their loved ones. <br><br>
 This interactive workshop will address the following: <br><br>
 • Types of communication disorders with spotlight on aphasia<br>
