@@ -98,13 +98,13 @@ Go behind-the-scenes and discover the amount of detail that goes into making pro
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/nesTk_6j-0c" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/xB2vZTQIusg" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b> What is Impressionism? | Tate Kids (2 min) </b><br>
-Impressionism was an art movement recognized for changing the history of art. Who were the artists behind the bright colours and bold brushstrokes in impressionist paintings? <br><br>
-<small>Source: What is Impressionism? | Tate Kids (2020, 8 April). Tate Kids. Retrieved 2022, June 14.</small></p>
+  <p><b>Small Talk | Careers | CBC Kids (3 min)</b><br>
+Check out different careers available and why it is important to love what you do.<br><br>
+<small>Source: Small Talk | Careers | CBC Kids (2018, December 15). CBC Kids. Retrieved 2022, September 21.</small></p>
   </div>
 </div>
 
