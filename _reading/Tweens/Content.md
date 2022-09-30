@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /reading/Tweens/content
+permalink: /reading/Tweens/content/
 description: ""
 third_nav_title: Tweens
 ---
@@ -48,15 +48,15 @@ Check out our **learning packages** for D.I.Y to engage your child in different 
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#blast-from-the-past">
-        <span>Playlist:<br>Blast from the Past</span>
+      <a href="#work-hard-play-hard">
+        <span>Playlist:<br>Work Hard, Play Hard</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#lp-myths-come-alive">
-        <span>Learning Package:<br> Myths Come Alive</span>
+      <a href="#lp-keep-calm">
+        <span>Learning Package:<br>Keep Calm and Reach Your Goals</span>
       </a>
     </div>
   </div>
