@@ -37,7 +37,7 @@ Read with your child to explore new topics and discover new experience.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/reading/tweens/content" target="_blank"><b>Playlist: Work Hard, Play Hard</b></a></td>
+        <td style="width: 20%;"><a href="/reading/tweens/content#work-hard-play-hard" target="_blank"><b>Playlist: Work Hard, Play Hard</b></a></td>
         <td style="width: 40%;"> Explore different topics with these resources for your child to expand reading diets. </td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
