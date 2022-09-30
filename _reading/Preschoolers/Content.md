@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /reading/Preschoolers/content
+permalink: /reading/Preschoolers/content/
 description: ""
 third_nav_title: Preschoolers
 ---
@@ -161,10 +161,16 @@ Discover the array of Sing-Lit stories to share with your little ones. Find out 
 
 Useful tips and activities that can help you develop your child to become a fluent reader.
 
-<h4 id="lp-baby"><font color=black>New**</font> <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk" target="_blank"><b>Early Literacy Practice: Talk (Ages 0 to 3)</b></a></h4>
+<h4 id="lp-baby"><font color=black> New! *</font> <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-write" target="_blank"><b>Early Literacy Practice: Write</b></a></h4>
+<p>Expose your young one to the conventions of writing! Read more about how you can introduce your child to writing through books and fun activities.</p>
+
+<h4 id="lp-baby"><font color=black> New! *</font><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-play" target="_blank"><b>Early Literacy Practice: Play</b></a></h4>
+<p> Playing is an important way for children to learn about the world around them. Learn how you can make use of books, props and games to encourage literacy development for your child.</p>
+
+<h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk" target="_blank"><b>Early Literacy Practice: Talk</b></a></h4>
 <p> How to nurture your babbling baby into a talkative toddler? Learn some tips and activities you can do to shape your child into a confident speaker! </p>
 
-<h4 id="lp-baby"><font color=black>New**</font> <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-sing" target="_blank"><b>Early Literacy Practice: Sing (Ages 0 to 3)</b></a></h4>
+<h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-sing" target="_blank"><b>Early Literacy Practice: Sing</b></a></h4>
 <p> Singing is more than nursery rhymes! Learn how to nurture your child's musicality through books, actions and observing what's around them.</p>
 
 <h4 id="lp-baby"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months" target="_blank"><b>Developing Early Literacy Skills at Home (0-12 months)</b></a></h4>

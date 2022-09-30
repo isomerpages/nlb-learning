@@ -85,7 +85,7 @@ Our S.U.R.Evivor series promotes the importance of fact-checking. The acronym st
   <img src="/images/digital/Tweens/tweens%20bingo%20qr%20code.png" alt="S.U.R.E.vivor series: S.U.R.E. Celebrates M.I.L. QR Code" style="width:70%;">
   </div>
   <div class="col is-three-fifths">
-  Take part in the National Library Board’s “S.U.R.E. BINGO Lucky Draw” by scanning the QR code or clicking on this link: <a href="https://go.gov.sg/surecelebratemil-read-learnxdigital">https://go.gov.sg/surecelebratemil-read-learnxdigital</a>
+  Take part in the National Library Board’s “S.U.R.E. BINGO Lucky Draw” by scanning the QR code or clicking on this link: <a href="https://go.gov.sg/surecelebratesmil-read-learnxdigital">https://go.gov.sg/surecelebratesmil-read-learnxdigital</a>
  <br><em><br>[Note: Link will go live on 1 Oct 2022]<br></em><br>
   </div>
 </div>
@@ -132,7 +132,7 @@ How are memes created? What makes them popular and viral? How do they impact the
 
 <h5 id="playlist-informed"><b> Exploring Technology and Digital Tools
  </b>
-<br>
+<p>
 </h5>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
@@ -175,6 +175,6 @@ Can you tell a legit friend request apart from an impersonation scam? Keep yours
 <h3><b>Learning Package</b></h3>
 <p>Spark your tween’s curiosity in digital literacy through engaging activities and articles.</p>
 <h5 id="lp-tweenkerama-robotics-and-coding"><b>Tweenkerama: Robotics and Coding</b></h5> [Lab Mag #1 pages 6 &ndash; 9]<br>
-<p>Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out!</p>
+<p>Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out! <a target="_blank" href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/FA_Tweenkerama-Issue-1.pdf">Check it out!</a></p>
 <small>Source: https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama (,). National Library Board, Singapore. Retrieved 2022, January 26</small>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

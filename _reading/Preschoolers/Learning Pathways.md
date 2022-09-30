@@ -21,13 +21,23 @@ Make reading a fun activity while fostering that special bond between you and yo
       </tr>
     </thead>
     <tbody>
-			<tr><td style="width: 20%;"> <b>New**</b><br><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk"><b> Early Literacy Practice: Talk (Ages 0 to 3)</b></a></td>
+						<tr><td style="width: 20%;"> <b>New**</b><br><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-write"><b> Early Literacy Practice: Write</b></a></td>
+        <td style="width: 60%;">Expose your young one to the conventions of writing! Read more about how you can introduce your child to writing through books and fun activities.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+					<tr><td style="width: 20%;"> <b>New**</b><br><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-play"><b> Early Literacy Practice: Play</b></a></td>
+        <td style="width: 60%;">Playing is an important way for children to learn about the world around them. Learn how you can make use of books, props and games to encourage literacy development for your child.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+			<tr><td style="width: 20%;"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-talk"><b> Early Literacy Practice: Talk</b></a></td>
         <td style="width: 60%;"> How to nurture your babbling baby into a talkative toddler? Learn some tips and activities you can do to shape your child into a confident speaker!</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
 			 <tr>
-				 <td><b>New**</b><br><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-sing"><b> Early Literacy Practice: Sing (Ages 0 to 3) </b></a></td>
+				 <td><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-sing"><b> Early Literacy Practice: Sing</b></a></td>
         <td>Singing is more than nursery rhymes! Learn how to nurture your child's musicality through books, actions and observing what's around them.</td>
         <td></td>
         <td> </td>
@@ -108,11 +118,12 @@ Join us as we discuss the following title: <br><br> Book title: Self-Care for Ad
       </tr>
     </thead>
     <tbody>
-			 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-i-fun-with-computational-thinking-tickets-412604470077"><b>DiscoverTech|Fun with Computational Thinking</b></a></td>
-        <td>This “how-to” workshop will provide parents with a range of “thinking” tools and teaching techniques that they can use at home and whenever the family is together to nurture their children's skills in computational thinking. </td>
-       <td>1 Oct 2022<br>11am – 12pm<br></td>
-        <td>Tampines Regional Library</td>
+			<tr>		
+<td><a target="_blank" href="https://www.eventbrite.sg/e/coding-unplugged-sound-shakers-discovertech-tickets-416471847507?aff=odcleoeventsincollection"><b> Coding Unplugged: Sound Shakers | DiscoverTech</b></a></td>
+        <td>Learn basic coding concepts and computational thinking skills through an unplugged sound shaker activity. Discover concepts such as decomposition and debugging as you fix the buggy set of instructions and fold the sound shaker. You will get to bring the sound shaker home too!
+</td>
+       <td>1 Oct 2022 <br> 2:30-3:30pm</td>
+        <td>Serangoon Public Library</td>
       </tr>
 			  <tr>	
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-sounds-tickets-410297780707?aff=odcleoeventsincollection"><b> [Budding Engineers] Sounds </b></a></td>
@@ -128,15 +139,21 @@ Join us as we discuss the following title: <br><br> Book title: Self-Care for Ad
         <td>9 Oct 2022<br>11.30am–12.30pm<br></td>
         <td>Bedok Public Library  </td>
       </tr>
-					  
+			
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-potions-party-tickets-409759109527?aff=odcleoeventsincollection"><b> [Budding Scientists] Potions Party!  </b></a></td>
+        <td>
+Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! Today, you’ll be challenged to complete the Head Professor’s first assignment by combining ingredients to make stunning and magical mixtures. It will get messy — you have been warned. Don your lab coats, prepare your ingredients, and ready the test tubes.Excited to learn more about potions and the Science behind them? Our stimulating hands-on experiments will open you to the world of STEAM.
+ </td>
+       <td> 29 Oct 2022 <br> 11:00 AM – 12:00 PM</td>
+        <td>Zoom</td>
+      </tr>
 			<tr>           
 <td><a target="_blank" href="https://www.eventbrite.sg/e/arise-farm-from-seed-to-harvest-plants-friends-foes-tickets-416468768297?aff=odcleoeventsincollection"><b> Arise & Farm: From Seed To Harvest-Plants’ Friends & Foes </b></a></td>
-
         <td> Learn about the process of farming through a guided exhibit tour and tactile hands-on activities! This programme is suitable for children aged 4-6 yrs old. 
 <br>
 </td><td>29 Oct 2022<br>10.30am–12.00pm<br></td><td> Bishan Public Library </td>
-      </tr>
-			
+      </tr>	
   </tbody>
   </table>
 </div>

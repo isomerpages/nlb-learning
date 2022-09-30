@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /reading/Children/content
+permalink: /reading/Children/content/
 description: ""
 third_nav_title: Children
 ---
@@ -48,15 +48,15 @@ Check out our **learning packages** for D.I.Y activities to engage your child in
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#books-galore">
-        <span>Playlist:<br>Books Galore!</span>
+      <a href="#meet-the-storytellers">
+        <span>Playlist:<br>Meet the Storytellers!</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#how-to-make-a-book">
-        <span>Learning Package:<br>How to Make a Book!</span>
+      <a href="#story-crafts">
+        <span>Learning Package:<br>Story Crafts!</span>
       </a>
     </div>
   </div>
@@ -64,46 +64,44 @@ Check out our **learning packages** for D.I.Y activities to engage your child in
 	
 
 
-<h5 id="books-galore" class="margin--bottom--lg"><b>Playlist: Books Galore!</b></h5>
-What is in a book? Find out more about books and stories through these videos below. <br>
+<h5 id="meet-the-storytellers" class="margin--bottom--lg"><b>Playlist: Meet the Storytellers!</b></h5>
+Do you know the authors behind your most beloved tales! Find out more about them and the stories they spin through these videos below.<br>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-          <iframe src="https://www.youtube.com/embed/C4hlYGjVW38" class="responsive-iframe"></iframe>
+          <iframe src="https://www.youtube.com/embed/IZhNHeAd9BU" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-			    <p><b>How I Make a Storyboard for a 32-page Picture Book (3 min)</b><br>
-Learn the simple method of planning for your very own picture book, where each text and image should go o every page.<br><br>
-<small>How I make a storyboard for a 32 page picture book - YouTube (2021, May 30). profuselyillustrated.Retrieved 2022, June 15.</small></p>
+			    <p><b>Author Fan Face-off #45: Andy Griffiths/THE 13-STORY TREEHOUSE (10 min)</b><br> Watch the showdown between the author of <i>The 13-Storey Treehouse, </i> Andy Griffiths, and a super-fan of the series in an exciting trivia challenge! <br><br>
+<small>Author Fan Face-off #45: Andy Griffiths/THE 13-STORY TREEHOUSE - YouTube (2021, Apr 5). <i>Author-Fan Face-off.</i>  Retrieved 2022, Sept 16.</small></p>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/ae61kGNpQPs" class="responsive-iframe"></iframe>
+      <iframe src="https://www.youtube.com/embed/oXt8v-lzrOI" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>How to Write a Short Story | Writing a Good Short Story Step-by-Step (9 min)</b><br>
-          Learn how to write a good short story and practice your creativity!<br><br>
-<small>Source: How to Write a Short Story | Writing a Good Short Story Step-by-Step - YouTube (2019, Jul 24). Self Publishing School. Retrieved 2022, June 15.</small></p>
+    <p><b>Universe of Feelings by Quek Hong Shin (10 min)</b><br>Author Quek Hong Shin tells us the story of Darryl, a withdrawn boy who befriends Blob, a visitor from outer space!<br><br>
+<small>Source: Universe of Feelings by Quek Hong Shin - YouTube (2020, Apr 26). <i>Storytime with Hong Shin.</i>  Retrieved 2022, Sept 16.</small></p>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-         <iframe src="https://www.youtube.com/embed/cu8j7YnunzQ" class="responsive-iframe"></iframe>
+         <iframe src="https://www.youtube.com/embed/2A4mMp9QKaA" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b>How Books Are Made / Parts of a Book (4 min)</b><br>
-Explore the entire process of how a book is made, and the different components of a book.
+  <p><b>Meet the Author: Rachel Renée Russell (30 min)</b><br>
+Hear from veteran author Rachel Renée Russell, author of the popular DORK Diaries series, about the inspiration behind the characters and stories she created.
 <br><br>
-<small>Source: How Books Are Made / Parts of a Book - YouTube (2016, Nov 15). The Bespectacled Librarian. Retrieved 2022, June 15.</small></p>
+<small>Source: Meet the Author: Rachel Renée Russell - YouTube (2019, May 3). <i>Fairfax Network - Fairfax County Public Schools.</i>  Retrieved 2022, Sept 16.</small></p>
   </div>
  </div>
 
@@ -111,10 +109,8 @@ Explore the entire process of how a book is made, and the different components o
 	
 <p>D.I.Y activities to engage your child in reading fun.</p>
 
-<h4 id="how-to-make-a-book"><a href="https://www.scottishbooktrust.com/learning-resources/how-to-make-a-book" target="_blank"><b>How to Make a Book</b></a></h4>
-<p>Have you ever wanted to make your own book? Watch the video for instructions and soon you'll discover how to create a mini book from just one sheet of A4 paper!
-<br><br><small>Source: How to Make a Mini Book (n.d.). Scholastic. Retrieved 2022, May 20.</small>
-</p>
+<h4 id="story-crafts"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child"><b>Story Crafts!</b></a></h4>
+<p>There's more to creating a story than just writing! Flex your creative muscles and design your own pop-up book with this activity.</p>
 
 
 	

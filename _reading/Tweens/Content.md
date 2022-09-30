@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /reading/Tweens/content
+permalink: /reading/Tweens/content/
 description: ""
 third_nav_title: Tweens
 ---
@@ -48,15 +48,15 @@ Check out our **learning packages** for D.I.Y to engage your child in different 
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#blast-from-the-past">
-        <span>Playlist:<br>Blast from the Past</span>
+      <a href="#work-hard-play-hard">
+        <span>Playlist:<br>Work Hard, Play Hard</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#lp-myths-come-alive">
-        <span>Learning Package:<br> Myths Come Alive</span>
+      <a href="#lp-keep-calm">
+        <span>Learning Package:<br>Keep Calm and Reach Your Goals</span>
       </a>
     </div>
   </div>
@@ -64,7 +64,7 @@ Check out our **learning packages** for D.I.Y to engage your child in different 
 	
 A collection of short videos and podcasts to expand reading interests.
 
-<h5 id="blast-from-the-past" class="margin--bottom--lg"><b>Playlist: Blast from the Past</b></h5>
+<h5 id="work-hard-play-hard" class="margin--bottom--lg"><b>Playlist: Work Hard, Play Hard</b></h5>
 
 <br>
 
@@ -72,63 +72,48 @@ A collection of short videos and podcasts to expand reading interests.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/s7l4h1QhSbY" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/jLI2ETd9PBo" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b> Emily Dickinson: Meet the Influential and Groundbreaking Poet | BrainPOP (8 min) </b><br>
-    The celebrated American poet, Emily Dickinson, was known for her beautiful verses and reclusion. Sample some of her poetry and learn more about Dickinson's life in this video!
-<br><br>
-<small>Meet the Influential and Groundbreaking Poet | BrainPOP (2021, February 23). BrainPOP. Retrieved 2022, June 14.</small></p>
+  <p><b> Introducing the Young Botanists at Science Centre Singapore (15 min)</b><br>
+Follow 2 young botanists on their journey to learn more about the EcoGarden.<br><br>
+<small>Source: Introducing the Young Botanists at Science Centre Singapore (2022, April 7). Science Centre Singapore. Retrieved 2022, September 21.</small></p>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/LaLvVc1sS20" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/s6gJcWEDrAk" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b> The history of tea - Shunan Teng (5 min) </b><br>
-Tea is the second most consumed beverage in the world after water. If you want to find out how this beverage came about, this video might be just your cup of tea. <br><br>
-<small>Source: The history of tea - Shunan Teng. (2017, 16 May). TED-Ed. Retrieved 2022, June 14.</small></p>
+  <p><b>This Prop Master's Work is Hidden in Plain Sight (6 min)</b><br>
+Go behind-the-scenes and discover the amount of detail that goes into making props for movies and television series. <br><br>
+<small>Source: This Prop Master's Work Is Hidden in Plain Sight (2018, October 16). Great Big Story. Retrieved 2022, September 22.</small></p>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/nesTk_6j-0c" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/xB2vZTQIusg" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b> What is Impressionism? | Tate Kids (2 min) </b><br>
-Impressionism was an art movement recognized for changing the history of art. Who were the artists behind the bright colours and bold brushstrokes in impressionist paintings? <br><br>
-<small>Source: What is Impressionism? | Tate Kids (2020, 8 April). Tate Kids. Retrieved 2022, June 14.</small></p>
+  <p><b>Small Talk | Careers | CBC Kids (3 min)</b><br>
+Check out different careers available and why it is important to love what you do.<br><br>
+<small>Source: Small Talk | Careers | CBC Kids (2018, December 15). CBC Kids. Retrieved 2022, September 21.</small></p>
   </div>
 </div>
-
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/GHO3-rf3hm0" class="responsive-iframe"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-  <p><b> Back to School, Back in Time | The Time Travelling Trio #02 (13 min) </b><br>
-Chalk and blackboards? Wooden furniture? Brushing your teeth by the drain? Visit a classroom from the past with The Time Travelling Trio—Sarah, Rina, and Rokawa—to see what life in school used to be like. <br><br>
-<small>Source: Back to School, Back in Time | The Time Travelling Trio #02 (2022, 7 June). NLB Singapore. Retrieved 2022, June 14.</small></p>
-  </div>
-</div>
-
 
 <h3><b>Learning Package</b></h3>
 	
 D.I.Y activities to engage your child in different topics.	
 
-<h4 id="lp-myths-come-alive"><a href="https://childrenandteens.nlb.gov.sg/images/diyresources/secondary/NLB_Popreads21_Sec_MythsComeAlive.PDF" target="_blank"><b> Myths Come Alive </b></a></h4>
-<p>Myths are traditional tales usually told about the early history of a culture or society. Try creating a myth of your own in this activity!</p>
+<h4 id="lp-keep-calm"><a href="https://childrenandteens.nlb.gov.sg/files/diyresources/PopReads22-S-Keep-Calm-and-Reach-Your-Goals.PDF" target="_blank"><b>Keep Calm and Reach Your Goals</b></a></h4>
+<p>Unsure of what the future brings? Check out this activity to engage in your child in goal setting.</p>
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}

@@ -199,25 +199,29 @@ Get insights on reading and written-word expressions with these articles and act
 
 The Malay language has been the lingua franca of maritime Southeast Asia for centuries. Traders and travellers had to learn Malay in order to communicate with the local population. The history of the Malay language can be divided into three periods: Old Malay (6-15th century), Classical Malay (Jawi scripts) and Modern Malay.
 
-Around the 15th to mid-19th century, the region was under Islamic rule and thus Malay language evolved around Arabic and Persian culture. The Jawi script is based on Arabic alphabets with five additional letters representing the Malay phonemes. By the 19th century, Malay had absorbed and loaned words from many other languages, due to colonisation and migration.
-
 ![malay artefacts](/images/reading/teens/Malay%20docs.png)
+*The Jawi script is based on Arabic alphabets with five additional letters representing the Malay phonemes*
+
+Around the 15th to mid-19th century, the region was under Islamic rule and thus Malay language evolved around Arabic and Persian culture. The Jawi script is based on Arabic alphabets with five additional letters representing the Malay phonemes. By the 19th century, Malay had absorbed and loaned words from many other languages, due to colonisation and migration.
 
 **Chinese language**
 
 The earliest examples of Chinese language are divinatory inscriptions on oracle bones from the Shang dynasty. In the 1930s, a standard Chinese language, Mandarin, was adopted. The entire Chinese character corpus comprises well over 50,000 characters.
 
+![Chinese artefacts](/images/reading/teens/Chinese%20Docs.png)
+*Oracle bones from the Shang dynasty*
+
 The Chinese orthography centres on Chinese characters, which are traditionally arranged in vertical columns, read from top to bottom down a column, and right to left across columns. With the growing importance and influence of Mandarin, it has been gaining popularity in schools throughout East Asia, Southeast Asia, and the Western world.
 
-![Chinese artefacts](/images/reading/teens/Chinese%20Docs.png)
 
 **Tamil language**
 
 Tamils in Singapore have settled in the country through continuous waves of migration over a period of 200 years. As early migrants became settlers, language became useful tools that fostered social integration amongst the diverse groups of Tamils.
 
-Tamil language education was provided as early as 1834 in Singapore, and Anglo-Tamil schools were established in 1873. It is evident that the roots of most present-day Tamil culture, customs, religious ideologies, and affiliations in Singapore can be traced to the 19th century and that they have continued to evolve over the centuries.
-
 ![Tamil Artefacts](/images/reading/teens/Indian%20Docs.png)
+*Tamils in Singapore have settled in the country through continuous waves of migration over a period of 200 years*
+
+Tamil language education was provided as early as 1834 in Singapore, and Anglo-Tamil schools were established in 1873. It is evident that the roots of most present-day Tamil culture, customs, religious ideologies, and affiliations in Singapore can be traced to the 19th century and that they have continued to evolve over the centuries.
 
 ![Book Rec 1](/images/reading/teens/Book%20Rec%201.jpg)
 ![Book recs 2](/images/reading/teens/Book%20Rec%202.jpg)

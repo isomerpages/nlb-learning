@@ -176,17 +176,35 @@ In this workshop, you will be guided on how to set SMART goals and have the conv
 
 <tbody>
 <tr>
-<td><strong><a href="https://www.eventbrite.sg/e/hydroponic-gardening-at-home-time-of-your-life-tickets-407877652037" target="_blank">Hydroponic Gardening at Home | Time of Your Life</a></strong></td>
-<td>This programme is intended for those aged 50 and above. <br><br>
+<td><strong><a href="https://www.eventbrite.sg/e/repurposing-okara-for-consumption-time-of-your-life-registration-415802385127" target="_blank">Repurposing Okara for Consumption | Time of Your Life</a></strong></td>
+<td>When we cook, we often throw away parts of ingredients like vegetable pulp and fruit peels. But did you know that such commonly discarded items can be used in other ways?<br><br>
 
-Are you interested in home gardening but hesitant about the hassle of preparing, potting, and caring for your plants? If so, this workshop is for you! <br><br>
+In this hands-on workshop, you will learn how to make soy milk from scratch. Thereafter, we will teach you how to transform the by-product from making soy milk, a soy pulp known as okara, into other food items like nuggets and cookies. <br><br>
 
-Find out more about hydroponic gardening, a simple alternative to traditional gardening. Using a DIY hydroponics kit, discover how you can grow vegetables and other garden edibles at home. Get started on your green journey with this simple and fuss-free method of gardening!<br><br>
+<b>About the Trainer</b><br>
+Lina Tan is a senior lecturer with the School of Applied Science in Nanyang Polytechnic, where she teaches in the Food Science & Nutrition programme. Besides teaching, she also coaches food science students for local and international product innovation competitions and provides technical guidance and training to clients in the food industry.  <br><br>
 
-This programme is jointly brought to you by the National Library Board and Nanyang Polytechnic. <br><br>
-<td>17 Sept 2022, 2pm - 4pm</td>
-<td>Jurong Regional Library</td>
+This programme is jointly brought to you by the National Library Board and Nanyang Polytechnic.</td>
+<td>5 Oct 2022, 2pm - 4pm</td>
+<td>Tampines Regional Library, Culinary Studio</td>
 </tr>
+	
+<tr>
+<td><strong><a href="https://www.eventbrite.sg/e/hydroponic-gardening-at-home-time-of-your-life-tickets-407877652037" target="_blank">Turning Egg Shells into Toothpaste with NYP @ Tampines Regional Library</a></strong></td>
+<td>As part of the Teens Takover GREENHOUSE series, find out how you can make your own toothpaste using a very simple ingredient – eggshells! Not only are you able to repurpose the eggshells to reduce waste and save some money, there is even some research to show that the calcium in the eggshell powder has the potential to help in the remineralisation of enamel to protect your teeth. Be kind to the earth and to your teeth at the same time! Register now. <br><br>
+
+<b>*Important Instructions*</b><br>
+Participants must prepare and bring their own egg shells on the day of the programme. Please follow the steps below: 
+
+Wash the eggshells to remove the membrane and any egg liquid;<br>
+Place in boiling water for 5-10 mins before drying;
+Place in clean bag or container and bring to the workshop. Participants should bring as many eggshells as you can, preferably about 10 eggs’ worth of shells.<br><br>
+
+This programme is brought to you in collaboration with Nanyang Polytechnic.</td>
+<td>9 Oct 2022, 2pm - 4.30pm</td>
+<td>Tampines Regional Library, Culinary Studio</td>
+</tr>
+	
 </tbody></table>
 <br>
 <br>
@@ -208,14 +226,16 @@ This programme is jointly brought to you by the National Library Board and Nanya
 <tbody>	
 
 <tr>
-<td><strong><a href="https://nlbsingapore.zoom.us/meeting/register/tJwrcemgqzkiHd3HruSM3W0zr8G9I8IbtcrM" target="_blank">Screen Time to Scream Time</a></strong></td>
-<td>This workshop is curated to give learners a better understanding of the negative effects associated with too much screen time and the benefits of physical activities. <br><br>
-At the end of the workshop, learners will better understand the potential health risks associated with low physical activities and the different types of physical exercises. 
-<br><br>Learners will also be equipped with the basic skills to plan a simple exercise programme.
-<br><br>
-This programme is suitable for teens.	</td>
+<td><strong><a href="https://nlbsingapore.zoom.us/meeting/register/tJ0ufu2vqj0iGtyepq5qmL1sXadZWW4qC2ME" target="_blank">Does My Child Have an Eating Disorder?</a></strong></td>
+<td>This workshop is designed to give learners an understanding of the common eating disorders in children & adolescents and recognising its symptoms.  It covers treatment, prevention and management techniques as well as activities that promote healthy eating habits. Learners will be equipped with the relevant resources to provide appropriate support, where needed. <br><br>
 
-<td>8 Sept 2022, 3pm - 4.30pm</td>
+This programme is suitable for parents of children and teens.<br><br>
+
+<b>About the Speaker</b><br>
+Ms Nithiya Gunasagaran is a Mental Health nursing lecturer at NYP School of Health and Social Sciences. She holds a Specialist Diploma in Teaching and Learning (Higher Education) from the National Institute of Education Singapore (NIE-NTU), a Degree in Nursing from the Latrobe University, an Advanced Diploma in Mental Health Nursing and a Diploma in Nursing from the Nanyang Polytechnic (NYP). She has 4 years of teaching experience at an Institute of Higher Learning at the tertiary level.<br>
+Ms Nithiya has 8 years of experience nursing patients with Eating Disorders through the delivery of holistic individualised care and the provision of a supportive and therapeutic relationship. She also engages in educating and supporting the parents/ caregivers of patients with Eating Disorders</td>
+
+<td>8 Oct 2022, 11am - 12.30pm</td>
 <td>Zoom</td>
 </tr>
 	
@@ -239,21 +259,6 @@ This programme is suitable for teens.	</td>
 
 <tbody>
 
-<tr><td><strong><a href="https://www.eventbrite.sg/e/histories-from-third-world-to-first-the-struggles-success-of-singapore-tickets-367386592187?aff=odcleoeventsincollection" target="\_blank">Histories: From Third World to First: The Struggles and Success of Singapore</a></strong></td>
-
-<td>“Why had we come to this sorry pass? What did the future hold for Singapore?” <br>
-
-– Lee Kuan Yew, Founding Prime Minister of Singapore<br><br>
-
-Those born into the peaceful and successful Singapore of today may find it challenging to understand and appreciate the struggles, circumstances and difficulties of the nation’s sudden independence in 1965. Join Senior Lecturer Eugene Lim as he sheds light on the history of Singapore and how we can contribute to our country’s continued success. <br><br>
-
-Eugene Lim is a senior lecturer with the Centre for Foundation and General Studies at Nanyang Polytechnic. He is involved in both pre-employment and continuing education and also trains learners at the polytechnic. He graduated from the National University of Singapore with Bachelor of Arts and Bachelor of Social Sciences degrees.  He also has a Master's in Human Resource Development and Education from George Washington University, where he received the Len Nadler award. </td>
-
-<td>16 Sept 2022, 6pm – 7pm </td>
-
-<td>Zoom</td>
-
-</tr>
 
 </tbody></table>
 <br>
@@ -273,20 +278,6 @@ Eugene Lim is a senior lecturer with the Centre for Foundation and General Studi
 <strong><h5 id="science">Science</h5></strong>
 <hr>
 <tbody>
-<tr><td><strong><a href="https://www.eventbrite.sg/e/create-a-superhydrophobic-coating-jurong-regional-library-tickets-401084553697" target="_blank">Super-hydrophobic Coating - Lotus Leaf Effect</a></strong></td>
-
-<td>As part of the scienti-f(x) | Teens Takeover series, learn how to repel water with a superhydrophobic coating!<br><br>
-
-We have always been fascinated by the ability of the lotus leaf to stay dry even under heavy rain, or after being submerged in water. 
-This is because the lotus leaf has a super water repellent ability on its surface called superhydrophobicity. As a water repellent coating, it has many potential applications. <br><br>
-
-In this workshop, participants will be taught how to make a simple coating process to create a super-hydrophobic surface, mimicking the lotus leaf effect.<br><br>
-
-Suitable for teens aged 13-17.<br><br>
-This session is in collaboration with Nanyang Polytechnic.</td>
-<td>8 Sept 2022, 11am – 12pm </td>
-<td>Jurong Regional Library</td>
-</tr>
 
 </tbody></table>
 <br>

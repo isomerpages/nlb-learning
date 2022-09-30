@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /sustainability/teens/content
+permalink: /sustainability/teens/content/
 description: ""
 third_nav_title: Teens
 ---
@@ -47,15 +47,15 @@ Check out our **learning packages** to pick up tips and be prepared for future e
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#playlist-climatecrashcourse">
-        <span>Playlist:<br>Climate Crash Course</span>
+      <a href="#playlist-climatecleanup">
+        <span>Playlist:<br>Climate Clean Up</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-urbanfarming">
-        <span>Learning Packages:<br>Urban Farming | Teen•Things</span>
+      <a href="#lp-travellingsustainably">
+        <span>Learning Packages:<br>Travelling Sustainably | Teen•Things</span>
       </a>
     </div>
   </div>
@@ -64,53 +64,54 @@ Check out our **learning packages** to pick up tips and be prepared for future e
 <h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.</p>
 
-<h5 class="margin--bottom--lg" id="playlist-climatecrashcourse"><b>Playlist: Climate Crash Course</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-climatecleanup"><b>Playlist: Climate Clean Up</b></h5>
 Explore pressing environmental issues that are transforming our planet, and strategies in place to combat climate change.
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=e4f8082b-1b9e-4bdc-8fe2-ae69001bd63e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/pXDx6DjNLDU"></iframe>
+    </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Repurposing Ugly & Unwanted Food (5 min)</b><br>
-In this series by Nanyang Polytechnic, learn about food waste in Singapore and how excess food is redistributed, reduced at its source, and repurposed into new products.</p>
-   <small>Source: Repurposing Ugly & Unwanted Food – Panopto (2022). Nanyang Polytechnic, Singapore. Retrieved 2022, 25 April.</small>
+    <p><b class="has-text-indigo">This Robot Eats Trash (12 min)</b><br>
+Mark Rober introduces the Interceptor, a brilliant garbage-eating robot that cleans up floating trash in water bodies.</p>
+   <small>Source: This Robot Eats Trash (2021, Oct 30). Mark Rober. Retrieved 2022, 21 September.</small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/3Ww2TP_tU7o"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/btSDddn1Vew"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo">Next Gen Farming Without Soil and 90% Less Water (11 min)</b><br>
-Explore how aeroponics and vertical farming inspire creative ways to grow with less land and less water.</p>
-    <small>Source: Next Gen Farming Without Soil and 90% Less Water – YouTube (2019, Sep 22). <i>USA TODAY Life</i>. Retrieved 2022, 25 April.</small>
+<p><b class="has-text-indigo">Our Planet | Ellie Goulding & Steven Price – In This Together | Music Video | Netflix (5 min)</b><br>
+Explore how interconnected the Earth is, from exotic jungles to the deepest sea, in the theme song of Netflix's nature documentary "Our Planet". </p>
+    <small>Source: Our Planet | Ellie Goulding & Steven Price – In This Together | Music Video | Netflix (2019, Apr 5). Netflix. Retrieved 2022, 27 September.</small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
-<div class="image-container" style="margin: auto;">
-			<a target="_blank" href="https://open.spotify.com/episode/3m2oUafoIEO9jYbDwB8gyn?si=mIX0NCYqT7m-DwNP8zu9Iw&utm_source=copy-link"><img src="/images/sustainability/teens/sus-teens22p3-seastoday.png" alt="Seas Today Podcast cover" style="width: 100%;"></a>
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/1Ojwi8r01Cs"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">Seas Today: The Singapore Whale Uncovered (22 min)</b><br>
-In 2015, a sperm whale was discovered off Jurong Island. Uncover the story behind its demise, and the conservation efforts taken to prevent similar tragedies in the future.</p>
-		<small>Source: Seas Today: The Singapore Whale Uncovered – Spotify (2022, Mar 22). <i>Coastal Natives</i>. Retrieved 2022, 25 April.</small>
+    <p><b class="has-text-indigo">The Big Mountain Cleanup | NIMSDAI (2 min)</b><br>
+See how climate change is warming and melting the Khumbu glacier and find out what you can do to protect it.</p>
+		<small>Source: The Big Mountain Cleanup | NIMSDAI (2021, Jul 5). Nims Dai. Retrieved 2022, 21 September.</small>
   </div>
 </div>
 <br>
 
-<h3 class="margin--bottom--lg" id="lp-urbanfarming"><b>Learning Packages</b></h3>
+<h3 class="margin--bottom--lg" id="lp-travellingsustainably"><b>Learning Packages</b></h3>
 Articles/resources that show us interesting ways to live sustainably.
 
-<h5><b>Urban Farming | Teen•Things</b></h5>
-
-Maybe you have always aspired to be a farmer, or at the least, have green fingers. If you want to grow your own food, you can always start at home with your own spice garden! Check out more on urban farming <a target="_blank" href="https://nlb-dr-staging.netlify.app/diy-resources/secondary/teen-things-archive#id11">here</a>!
+<h5><b>Travelling Sustainably | Teen•Things</b></h5>
+Stay green and sustainable while seeing the wide, wide world! <a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id2">Check it out</a>!
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

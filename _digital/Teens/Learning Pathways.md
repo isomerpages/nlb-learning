@@ -60,15 +60,17 @@ Check out these resources that highlight new digital advancements and opportunit
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
       </tr>
     </thead>
-    <tbody>
-              <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-ansi-language:EN-GB; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
-
+    <tbody>            
 <tr>
-<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/steamlab2022/#steam-lab-mini-videos" target="\_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
-<td style="width: 40%;">Build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. </td>
-<td style="width: 20%;">Sept’22</td>
-<td style="width: 20%;">YouTube</td>
-</tr>
+      <td style="width: 20%;"><b> S.T.E.A.M. Lab Mini</b><br><br>
+				<a href="https://youtu.be/l9B7iknybmw" target="_blank"><b>Dancing Puppet</b></a><br>
+				<a href="https://youtu.be/J5EqL69pjYE" target="_blank"><b>D.I.Y Catapult</b></a><br>
+				<a href="https://youtu.be/p6NoA5c8R1U" target="_blank"><b>Balloon-powered Car</b></a><br>
+				<a href="https://youtu.be/qDrRGM1t8fU" target="_blank"><b>Static Electricity with Slime</b></a><br></td>
+         <td style="width: 40%;">Learn how to build a balloon powered car and other topics such as electromagnetism and static electricity through a series of videos.</td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
+      </tr>
 								</tbody>
   </table>
 </div> 
@@ -82,21 +84,21 @@ Check out these resources that highlight new digital advancements and opportunit
     </thead>
     <tbody>
     	<tr>
-<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/explore-forensics-scienti-fx-teens-takeover-jurong-regional-library-tickets-401081243797?.aff=ebdsoporgprofile" target="\_blank"><b>Explore Forensics | scienti-f(x)</b></a></td>
-<td style="width: 40%;">Learn more about Forensic Science with fun-filled and interesting hands-on activities. </td>
-<td style="width: 20%;">7 Sept 2022,<br>4pm - 5:30pm</td>
-<td style="width: 20%;">Jurong Regional Library</td>
+<td><a href="https://www.eventbrite.sg/d/singapore--singapore/%23cckpl_unplugged/" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
+<td>Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
+<td>1st Friday of the month,<br> 3pm - 5pm</td>
+<td>Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
 </tr>
 					<tr>
-<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/create-a-superhydrophobic-coating-jurong-regional-library-tickets-401084553697?aff=ebdsoporgprofile" target="\_blank"><b>Create a Superhydrophobic Coating</b></a></td>
-<td style="width: 40%;">As part of the scienti-f(x) | Teens Takeover series, learn how to repel water with a superhydrophobic coating! </td>
-<td style="width: 20%;">8 Sept 2022,<br>11am - 12pm</td>
-<td style="width: 20%;">Jurong Regional Library</td>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/turning-egg-shells-into-toothpaste-with-nyp-tampines-regional-library-tickets-411740465817" target="\_blank"><b>Turning Egg Shells into Toothpaste with NYP @ Tampines Regional Library</b></a></td>
+<td style="width: 40%;">Repurpose eggshells to make your own toothpaste!</td>
+<td style="width: 20%;">9 October 2022, 2pm - 4.30pm</td>
+<td style="width: 20%;">Tampines Regional Library, Culinary Studio (Level 2)</td>
 </tr>  <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=ebdsoporgprofile" target="\_blank"><b>Renewable Resource and Recycling Talk</b></a></td>
-        <td style="width: 40%;">As part of the Tweenkerama | Sustainability series, win prizes with your knowledge about recycling!</td>
-        <td style="width: 20%;">8 Sept 2022,<br>2:30pm - 3:30pm</td>
-				<td style="width: 20%;">Jurong Regional Library</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087" target="\_blank"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
+        <td style="width: 40%;">Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG.</td>
+        <td style="width: 20%;">22 October 2022, 1pm - 5pm</td>
+				<td style="width: 20%;">Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4) </td>
 			</tr>
     </tbody>
   </table>

@@ -57,20 +57,17 @@ Spark your child’s curiosity in digital literacy through engaging activities a
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td><a href="https://www.eventbrite.sg/e/sphero-party-jurong-regional-library-tweenkerama-tickets-400591037577?aff=ebdssbdestsearch" target="_blank"><b>Sphero Party</b></a></td>
-        <td>Learn how to navigate Sphero using a block-based programming language in this workshop!</td>
-        <td>10 Sept 2022,<br>2pm - 4pm</td>
-        <td>Jurong Regional Library</td>
+      			<tr>
+      <td style="width: 20%;"><b> S.T.E.A.M. Lab Mini</b><br><br>
+				<a href="https://youtu.be/l9B7iknybmw" target="_blank"><b>Dancing Puppet</b></a><br>
+				<a href="https://youtu.be/J5EqL69pjYE" target="_blank"><b>D.I.Y Catapult</b></a><br>
+				<a href="https://youtu.be/p6NoA5c8R1U" target="_blank"><b>Balloon-powered Car</b></a><br>
+				<a href="https://youtu.be/qDrRGM1t8fU" target="_blank"><b>Static Electricity with Slime</b></a><br></td>
+         <td style="width: 40%;">Learn how to build a balloon powered car and other topics such as electromagnetism and static electricity through a series of videos.</td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
       </tr>
-			<tr>
-<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/steamlab2022/#steam-lab-mini-videos" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
-<td style="width: 40%;">Build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. </td>
-<td style="width: 20%;">Sept’22</td>
-<td style="width: 20%;">YouTube</td>
-</tr>
-
-		</tbody>
+			</tbody>
   </table>
 </div>
 
@@ -82,18 +79,18 @@ Spark your child’s curiosity in digital literacy through engaging activities a
       </tr>
     </thead>
     <tbody>
-              <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-ansi-language:EN-GB; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
-
+           
 <tr>
-
-<td><a href="https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=odcleoeventsincollection" target="\_blank"><b>Renewable Resource and Recycling Talk</b></a></td>
-
-<td>As part of the Tweenkerama | Sustainability series, win prizes with your knowledge about recycling!</td>
-
-<td>8 Sept 2022,<br>2:30pm - 3:30pm</td>
-
-<td>Jurong Regional Library</td>
-
+<td><a href="https://www.eventbrite.sg/d/singapore--singapore/%23cckpl_unplugged/" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
+<td>Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
+<td>1st Friday of the month,<br> 3pm - 5pm</td>
+<td>Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
+</tr><tr>
+<td>
+	<a href="https://www.eventbrite.sg/e/the-perfect-balance-tweenkerama-sengkang-public-library-tickets-411737988407" target="\_blank"><b>The Perfect Balance | Tweenkerama @ Sengkang Public Library</b></a></td>
+<td>Join us for a fun-filled workshop to learn about balanced forces and gravity.</td>
+<td>7 October 2022, 2pm - 4pm</td>
+<td>Sengkang Public Library, Programme Zone</td>
 </tr>
     </tbody>
   </table>

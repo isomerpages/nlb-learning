@@ -61,12 +61,25 @@ Go digital with your child and discover a world of technology and innovation tog
       </tr>
 		</thead>
 <tbody>
-<tr>
-<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/steamlab2022/#steam-lab-mini-videos" target="_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
-<td style="width: 40%;">Build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. </td>
-<td style="width: 20%;">Sept’22</td>
-<td style="width: 20%;">YouTube</td>
-</tr>
+	<tr>
+      <td style="width: 20%;"><b> S.T.E.A.M. Lab Mini</b><br><br>
+				<a href="https://youtu.be/l9B7iknybmw" target="_blank"><b>Dancing Puppet</b></a><br>
+				<a href="https://youtu.be/J5EqL69pjYE" target="_blank"><b>D.I.Y Catapult</b></a><br>
+				<a href="https://youtu.be/p6NoA5c8R1U" target="_blank"><b>Balloon-powered Car</b></a><br>
+				<a href="https://youtu.be/qDrRGM1t8fU" target="_blank"><b>Static Electricity with Slime</b></a><br></td>
+         <td style="width: 40%;">Learn how to build a balloon powered car and other topics such as electromagnetism and static electricity through a series of videos.</td>
+        <td style="width: 20%;"></td>
+		<td style="width: 20%;"></td>
+      </tr>
+		<tr>
+      <td style="width: 20%;">
+				<a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627" target="_blank"><b>How to be a Cyber Safe Family with Cyberlite Books @ library@harbourfront</b></a><br>
+				</td>
+         <td style="width: 40%;">Should we control our children’s screen time? What do we do if a child is cyberbullied? Join us to learn about family cyber safety!</td>
+        <td style="width: 20%;">2 October 2022, 11.30am - 12.30pm</td>
+        <td style="width: 20%;">library@harbourfront, Programme Zone 2</td>
+			</tr>
+	
 </tbody>
 </table>
 </div>
@@ -79,23 +92,23 @@ Go digital with your child and discover a world of technology and innovation tog
     </thead>
 <tbody>
 <tr>
-<td><a href="https://www.eventbrite.sg/e/basic-japanese-class-jurong-regional-library-steam-lab-2022-tickets-401604007397?aff=ebdshpsearchautocomplete" target="_blank"><b>Basic Japanese Class</b></a></td>
-<td>Join us in this introductory Japanese class for beginners! Learn simple greetings, Japanese writing systems, and how to converse every day!</td>
-<td>9 Sept 2022,<br>10:30am - 12pm</td>
-<td>Jurong Regional Library</td>
+<td><a href="https://www.eventbrite.sg/d/singapore--singapore/%23cckpl_unplugged/" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
+<td>Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
+<td>1st Friday of the month,<br> 3pm - 5pm</td>
+<td>Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
 </tr>
 	<tr>
-<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/easy-coffee-art-jurong-regional-library-steam-lab-2022-tickets-401604528957?aff=odcleoeventsincollection" target="_blank"><b>Easy Coffee Art</b></a></td>
-<td style="width: 40%;">Join our Easy Coffee Art workshop at Jurong Regional Library and have an aromatic day doing coffee painting!</td>
-<td style="width: 20%;">9 Sept 2022, <br>4pm - 5pm</td>
-<td style="width: 20%;">Jurong Regional Library</td>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/d/singapore--singapore/%23717sustainability/" target="_blank"><b>From Seeds to Harvest @ Bishan Public Library</b></a></td>
+<td style="width: 40%;">Learn about the process of farming with a guided exhibit tour and activities.</td>
+<td style="width: 20%;">8 October 2022, 10.30am - 12pm<br><br>5 November 2022, 10.30am - 12pm</td>
+<td style="width: 20%;">Bishan Public Library - Outdoor Garden (B1)</td>
 </tr>
 
 <tr>
-<td><a href="https://www.eventbrite.sg/e/bullet-journaling-workshop-jurong-regional-library-steam-lab-2022-tickets-401603004397?aff=ebdshpsearchautocomplete" target="_blank"><b>Bullet Journalling Workshop </b></a></td>
-<td>Join us in this 2-hour workshop and learn the basics of bullet journaling, how to set up your journal and how to use it to be more organised.</td>
-<td>11 Sept 2022,<br>2:30pm - 4:30pm</td>
-<td>Jurong Regional Library</td>
+<td><a href="https://www.eventbrite.sg/e/chairs-by-queensway-secondary-drama-club-registration-411113450397" target="_blank"><b>Chairs by Queensway Secondary Drama Club</b></a></td>
+<td>Chairs is a student-led performance by Secondary 3 students from the Queensway Secondary School Drama Club.</td>
+<td>29 October 2022, 11am - 11.30am</td>
+<td>Queenstown Public Library, Programme Zone (L1)</td>
 </tr>
 </tbody>
 </table>

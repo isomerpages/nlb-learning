@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /careers/teens/content
+permalink: /careers/teens/content/
 description: ""
 third_nav_title: Teens
 ---
@@ -52,11 +52,21 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
+      <a href="#playlist-moneypt1">
+        <span>Playlist:<br>Needs! Or... Wants?</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-pink-ruby">
       <a href="#playlist-dream">
         <span>Playlist:<br>Day in the Life of Dream Chasers</span>
       </a>
     </div>
   </div>
+  </div>
+	
+<div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
       <a href="#playlist-health">
@@ -64,7 +74,14 @@ Check out our **learning package** to get a glimpse into what it takes to achiev
       </a>
     </div>
   </div>
+  <div class="col is-one-half">
+    <div class="clickbox is-pink-ruby">
+      <a href="#lp-wants">
+        <span>Learning Package:<br> Needs! Or... Wants?</span>
+      </a>
+    </div>
   </div>
+ </div>
 
 <div class="row is-multiline">
   <div class="col is-one-half">
@@ -191,8 +208,123 @@ Working with My Mother: Puffs and Peaks Bakery (3 mins)</b><br><br>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+
+<h5 class="margin--bottom--lg" id="playlist-moneypt1"><b>Needs or Wants Playlist: Part 1 - Money, Savings, Economics </b></h5>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=xobv3Yu9AJM"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>#LifeAtTSL: How Much Do We Spend In a Week? (18mins) </b><br><br>
+    Most of our colleagues are pretty thrifty, but a few of them are big spenders! On this episode of Life at TSL, we followed the thriftiest and biggest spenders in TSL to find out how much they spend in a week!</p>
+    <small>Source: #LifeAtTSL: How Much Do We Spend In a Week?  (2022, Sep 24) TheSmartLocal. Retrieved 2022, September 29</small>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=pldfZEbm-LM"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>
+MilKids - Ages 13-15 - Your First Job and Earning Money (2 mins)</b><br><br>
+   By using the SMART method, my sister and I have a solid plan to meet our goals. I can even do this for those other car expenses I hadn’t planned on.
+<br>
+By setting SMART goals, working hard, and saving we can earn the stuff we want. You can, too. </p>
+    <small>Source: MilKids - Ages 13-15 - Your First Job and Earning Money (2021, Dec 17). MilSpouseMM. Retrieved Retrieved 2022, September 29</small>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=MXCvtC0HqLE"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>the student guide to personal finance 💸 adulting 101 (21 mins)</b><br><br>
+   In today's video we shall discuss jobs for teens, budgeting, saving, and the basics of money management.</p>
+		<ul>
+<li> 0:43 the bare bones basics</li>
+<li> 1:50 income + jobs</li>
+<li> 4:26 income + jobs, continued</li>
+<li> 5:09 checking accounts + how to avoid losing money to them</li>
+<li> 7:58 budgeting + a simple template</li>
+<li> 9:15 must-have spending (student loans, bills, groceries, etc)</li>
+<li> 10:58 nice-to-have spending (going out + shopping)</li>
+<li> 12:34 credit cards + building your credit score</li>
+<li> 14:21 savings in high-yield accounts</li>
+<li> 16:23 investing in stocks + bonds</li>
+<li> 19:09 retirement + why to start saving ASAP</li>
+	</ul>
+    <small>Source:
+		the student guide to personal finance 💸 adulting 101 (2020, Jun 30). studyquill. Retrieved 2022, September 29</small>
+  </div>
+</div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3><b>Learning Package</b></h3>
 Get a glimpse of what it takes to achieve your aspirations with these articles and activities.
+
+<h5 class="margin--bottom--lg" id="lp-wants"><b>Needs! Or... Wants?</b></h5>
+
+**Needs** are things we **must have** to survive (e.g. food, water, clothes, shelter)
+
+**Wants** are things we would like to have, but are **not required** for survival (e.g. luxury goods, games, toys)
+
+Learn about needs and wants in the little activity titled:
+
+**The 10 Bean Allowance**
+
+Adapted from "The Bean Game" by Jana Darrington, this game helps you better understand your spending choices and priorities. Everyone starts off with 10 beans and decides on which areas they would like to allocate the beans to. The four areas are: 
+Food,
+Clothing, 
+Leisure, and 
+Transport! 
+Let's *bean-gin*!
+
+![beans counter](/images/career/teens/beans.jpg)
+
+*Guiding Questions*
+
+*1\.How did you spend your beans?  
+2\. Did you spend mostly on needs or wants?  
+3\. If your allowance next month is reduced to 5 beans...
+how would that change your spending choices?*
+
+**Making Financial Decisions**
+
+Let's learn about Principal and Interest!
+
+**Principal** is the initial amount of money borrowed before interest is accrued.
+
+**Interest** is the price you pay to borrow money or the cost you charge to lend money. Simple Interest is the interest calculated on the original principal loan only. Compound Interest is the interest that accrues on both the original principal loan and the accumulated interest from previous periods.
+
+Let's further our understanding of Principal and Interest with the next activity!
+
+**Let's Help John!**
+
+John wants to buy a new phone, but it costs $1,000! He only has $300 now and he can only save $100 a month, what are his options?
+
+![John 1](/images/career/teens/John%20q.jpg)
+![John 2](/images/career/teens/John%202.jpg)
+*How should we advise John?
+<br>1. Does John need the item immediately?  <br>2. Does John mind paying a little extra to split the payment into instalments? 
+<br>3. Will John have enough to pay off the credit card bill on time, and in full? <br>4. Is there a trade-off for using the money now?*
+
+If you are interested to find out more, check out these titles available at NLB!
+
+![Book Recommendations 1](/images/career/teens/Book%20Reco%201.png)
+
+This learning package was created by Chow Hui Xuan, Ernest Lim Jingjie, Lim Jing Hong Brandon and Rachel Ong Lin Hui, as part of the National Institute of Education Group Endeavours in Service Learning Group 10 (Sec/JC2022).
+
+You may download the complete package as a [PDF here](/files/Pique%20my%20Interest.pdf).
 
 <h5 class="margin--bottom--lg" id="lp-started1"><b>Time to Get Started! Part 1</b></h5>
 

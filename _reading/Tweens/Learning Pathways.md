@@ -37,14 +37,14 @@ Read with your child to explore new topics and discover new experience.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/reading/tweens/content" target="_blank"><b>Playlist: Blast from the Past</b></a></td>
+        <td style="width: 20%;"><a href="/reading/tweens/content#work-hard-play-hard" target="_blank"><b>Playlist: Work Hard, Play Hard</b></a></td>
         <td style="width: 40%;"> Explore different topics with these resources for your child to expand reading diets. </td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a href="/reading/tweens/content"><b>Learning Package: Myths Come Alive</b></a></td>
-         <td style="width: 40%;">Myths are traditional tales usually told about the early history of a culture or society. Try creating a myth of your own in this activity!</td>
+        <td style="width: 20%;"><a href="/reading/tweens/content#lp-keep-calm"><b>Learning Package: Keep Calm and Reach Your Goals</b></a></td>
+         <td style="width: 40%;">Unsure of what the future brings? Check out this activity to engage your child in goal setting.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
     </tr>
@@ -61,24 +61,20 @@ Read with your child to explore new topics and discover new experience.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/hooked-on-reading-tickets-355029551947?aff=ebdssbdestsearch" target="_blank"><b> Hooked on Reading </b></a></td>
-        <td style="width: 40%;">Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with parents and teachers the impact reading has on children’s learning and language acquisition, the importance of fun for the engagement of children in learning, and ways to leverage on technology to enhance children’s reading experience. 
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-411752702417" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
+        <td style="width: 40%;">Take a break, unwind, and unplug over a game of tabletop games in this session for friends and family! 
 					</td><br><br>
-        <td style="width: 20%;"> 16 July 2022, 10.20am – 1pm</td>
-        <td style="width: 20%;">National Library, The Pod </td>
+        <td style="width: 20%;">7 October 2022, <br>3pm - 5pm<br><br>2 December 2022, <br>3pm - 5pm</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
       </tr>
       <tr>
- <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/comic-character-design-workshop-registration-365418375197?aff=ebdsoporgprofile" target="_blank"><b> Comic Character Design Workshop </b></a></td> 
-         <td style="width: 40%;">Comic Character Design WorkshopJoin this hands-on session, where participants will be guided step-by-step on the basics of character drawing. Dive into the colourful world of character design and bring home your very own comics masterpiece! Participants aged 7 and up, teen and adults are welcome. No drawing experience required.</td>
-         <td style="width: 20%;"> 23 July 2022, 3pm – 4pm </td>
-        <td style="width: 20%;">library@harbourfront, Programme 2</td>
+ <td style="width: 20%;"><a href="https://go.gov.sg/onered-storytelling" target="_blank"><b>【一红老师讲故事】| Read Chinese</b></a></td> 
+         <td style="width: 40%;">一红老师毕业于国立台湾艺术大学电影学系和新纪元学院戏剧与影像系，希望透过线上多媒体互动讲故事的方式，带给小朋友欢乐。</td>
+         <td style="width: 20%;">2nd Friday of the month,<br>7.30pm - 8pm<br><br></td>
+        <td style="width: 20%;">Online</td>
 			</tr>
         <tr>
-<td><a href=" https://www.eventbrite.sg/e/save-smart-with-smiley-8-10-years-old-tickets-352487879737?aff=ebdsoporgprofile" target="_blank"><b>Save Smart with Smiley (8-10 years old)</b></a></td>
-        <td>Learn how to save smart, identify the difference between “Needs” and “Wants,” and develop healthy spending habits. Coupled with printable learning materials and scenario-based activities, learn how to create a savings plan and track your expenditure. Find out more about different cashless and digital payment modes in preparation for navigating the digital payment world.
-					<br><br> 
-        <td>30 July 2022, <br>11am-12pm </td>
-        <td>Woodlands Regional Library, Programme Zone</td>
+
      
 
 <div class="horizontal-scroll margin--bottom--lg">
@@ -90,16 +86,27 @@ Read with your child to explore new topics and discover new experience.
     </thead>
     <tbody>
       <tr>
-      <td style="width: 20%;"><a href="https://www.facebook.com/publiclibrarysg" target="_blank"><b> S.T.E.A.M. Lab Mini</b></a></td>
-        <td style="width: 40%;"> Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. <br><br>Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.</td>
+      <td style="width: 20%;"><b> S.T.E.A.M. Lab Mini</b><br><br>
+				<a href="https://youtu.be/l9B7iknybmw" target="_blank"><b>Dancing Puppet</b></a><br>
+				<a href="https://youtu.be/J5EqL69pjYE" target="_blank"><b>D.I.Y Catapult</b></a><br>
+				<a href="https://youtu.be/p6NoA5c8R1U" target="_blank"><b>Balloon-powered Car</b></a><br>
+				<a href="https://youtu.be/qDrRGM1t8fU" target="_blank"><b>Static Electricity with Slime</b></a><br></td>
+         <td style="width: 40%;">Learn how to build a balloon powered car and other topics such as electromagnetism and static electricity through a series of videos.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
 
 <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/cckpl-ways-around-waste-greenhouse-tickets-355026703427?aff=ebdssbdestsearch" target="_blank"><b> CCKPL: Ways Around Waste | Greenhouse </b></a></td>
-        <td> Have you ever wondered where your waste goes beyond the rubbish chute? What about the materials you discard into those familiar blue recycling bins? This workshop hopes to shed light on waste management in the Singaporean context. Join us in discovering the many ways around waste in our daily lives! Please bring a favorite old t-shirt with you to this workshop to turn it into a t-shirt. <br><br> 
-        <td> 24 July 2022, 3pm-4pm</td>
-        <td> Choa Chu Kang Public Library, Programme Room 2</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627" target="_blank"><b>How to be a Cyber Safe Family with Cyberlite Books @ library@harbourfront</b></a></td>
+         <td style="width: 40%;">Should we control our children’s screen time? What do we do if a child is cyberbullied? Join us to learn about family cyber safety!<br> 
+        <td style="width: 20%;">2 October 2022, 11.30am - 12.30pm</td>
+        <td style="width: 20%;">library@harbourfront, Programme Zone 2</td>
+			
+
+<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177" target="_blank"><b>From Seeds to Harvest @ Bishan Public Library</b></a></td>
+         <td style="width: 40%;">As part of the Earth Heroes series, this session immerses children in the process of farming through hands-on activities and teaches the role of photosynthesis in the growth of plants.<br> 
+        <td style="width: 20%;">8 October 2022, 10.30am - 12pm</td>
+        <td style="width: 20%;">Bishan Public Library, Outdoor Garden (B1)</td>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

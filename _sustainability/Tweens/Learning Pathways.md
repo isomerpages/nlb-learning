@@ -62,13 +62,11 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 				<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/book-buzz-for-tweens-green-market-tickets-396979284727?aff=odcleoeventsincollection" target="_blank"><b>Book Buzz for Tweens | Green Market</b></a></td>
-        <td style="width: 40%;">Interested in books about the environment and being green? Join us for a special Green Market edition of Book Buzz for Tweens! Find out our librarian’s favourite books—you won’t <i>be-leaf</i> what treasures the library holds!
-<br><br>
-This programme is suitable for those aged 10 to 13.
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177?aff=odcleoeventsincollection" target="_blank"><b>From Seeds to Harvest | Earth Heroes</b></a></td>
+        <td style="width: 40%;">This session immerses children in the process of farming through hands-on activities and teaches the role of photosynthesis in the growth of plants.
 </td>
-        <td style="width: 20%;">17 Sep 2022, <br>11am-11.30am</td>
-        <td style="width: 20%;">Zoom</td>
+        <td style="width: 20%;">8 Oct 2022, <br>10.30am-12pm</td>
+        <td style="width: 20%;">Bishan Public Library</td>
 			</tr>
     </tbody>
   </table>
@@ -86,8 +84,8 @@ This programme is suitable for those aged 10 to 13.
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/the-perfect-balance-libraryharbourfront-tweenkerama-tickets-400586774827?aff=odcleoeventsincollection" target="_blank"><b>The Perfect Balance | Tweenkerama science</b></a></td>
         <td style="width: 40%;">Have you ever wondered how a tightrope walker stays perfectly balanced on a tightrope? Come join us as we explore this through LEGO! Join us for a fun-filled workshop to learn about balanced forces and gravity and create your very own model with LEGO!
 </td>
-        <td style="width: 20%;">24 Sep 2022, 2pm-4pm</td>
-        <td style="width: 20%;">library@harbourfront</td>
+        <td style="width: 20%;">7 Oct 2022, 2pm-4pm</td>
+        <td style="width: 20%;">Bishan Public Library</td>
       </tr>
       </tbody>
   </table>
