@@ -108,26 +108,12 @@ Check out different careers available and why it is important to love what you d
   </div>
 </div>
 
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/GHO3-rf3hm0" class="responsive-iframe"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-  <p><b> Back to School, Back in Time | The Time Travelling Trio #02 (13 min) </b><br>
-Chalk and blackboards? Wooden furniture? Brushing your teeth by the drain? Visit a classroom from the past with The Time Travelling Trio—Sarah, Rina, and Rokawa—to see what life in school used to be like. <br><br>
-<small>Source: Back to School, Back in Time | The Time Travelling Trio #02 (2022, 7 June). NLB Singapore. Retrieved 2022, June 14.</small></p>
-  </div>
-</div>
-
-
 <h3><b>Learning Package</b></h3>
 	
 D.I.Y activities to engage your child in different topics.	
 
-<h4 id="lp-myths-come-alive"><a href="https://childrenandteens.nlb.gov.sg/images/diyresources/secondary/NLB_Popreads21_Sec_MythsComeAlive.PDF" target="_blank"><b> Myths Come Alive </b></a></h4>
-<p>Myths are traditional tales usually told about the early history of a culture or society. Try creating a myth of your own in this activity!</p>
+<h4 id="lp-myths-come-alive"><a href="https://childrenandteens.nlb.gov.sg/files/diyresources/PopReads22-S-Keep-Calm-and-Reach-Your-Goals.PDFF" target="_blank"><b>Keep Calm and Reach Your Goals</b></a></h4>
+<p>Unsure of what the future brings? Check out this activity to engage in your child in goal setting.</p>
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
