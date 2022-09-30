@@ -64,21 +64,17 @@ Read with your child to explore new topics and discover new experience.
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-411752702417" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
         <td style="width: 40%;">Take a break, unwind, and unplug over a game of tabletop games in this session for friends and family! 
 					</td><br><br>
-        <td style="width: 20%;">7 October 2022, 3pm - 5pm<br><br>2 December 2022, 3pm - 5pm</td>
+        <td style="width: 20%;">7 October 2022, <br>3pm - 5pm<br><br>2 December 2022, <br>3pm - 5pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
       </tr>
       <tr>
- <td style="width: 20%;"><a href="https://go.gov.sg/onered-storytelling" target="_blank"><b> 一红老师讲故事</b></a></td> 
-         <td style="width: 40%;">Comic Character Design WorkshopJoin this hands-on session, where participants will be guided step-by-step on the basics of character drawing. Dive into the colourful world of character design and bring home your very own comics masterpiece! Participants aged 7 and up, teen and adults are welcome. No drawing experience required.</td>
-         <td style="width: 20%;"> 23 July 2022, 3pm – 4pm </td>
-        <td style="width: 20%;">library@harbourfront, Programme 2</td>
+ <td style="width: 20%;"><a href="https://go.gov.sg/onered-storytelling" target="_blank"><b>【一红老师讲故事】| Read Chinese</b></a></td> 
+         <td style="width: 40%;">一红老师毕业于国立台湾艺术大学电影学系和新纪元学院戏剧与影像系，希望透过线上多媒体互动讲故事的方式，带给小朋友欢乐。</td>
+         <td style="width: 20%;">2nd Friday of the month,<br>7.30pm - 8pm<br><br></td>
+        <td style="width: 20%;">Online</td>
 			</tr>
         <tr>
-<td><a href=" https://www.eventbrite.sg/e/save-smart-with-smiley-8-10-years-old-tickets-352487879737?aff=ebdsoporgprofile" target="_blank"><b>Save Smart with Smiley (8-10 years old)</b></a></td>
-        <td>Learn how to save smart, identify the difference between “Needs” and “Wants,” and develop healthy spending habits. Coupled with printable learning materials and scenario-based activities, learn how to create a savings plan and track your expenditure. Find out more about different cashless and digital payment modes in preparation for navigating the digital payment world.
-					<br><br> 
-        <td>30 July 2022, <br>11am-12pm </td>
-        <td>Woodlands Regional Library, Programme Zone</td>
+
      
 
 <div class="horizontal-scroll margin--bottom--lg">
