@@ -92,16 +92,16 @@ Go digital with your child and discover a world of technology and innovation tog
     </thead>
 <tbody>
 <tr>
-<td><a href="https://www.eventbrite.sg/e/basic-japanese-class-jurong-regional-library-steam-lab-2022-tickets-401604007397?aff=ebdshpsearchautocomplete" target="_blank"><b>Basic Japanese Class</b></a></td>
-<td>Join us in this introductory Japanese class for beginners! Learn simple greetings, Japanese writing systems, and how to converse every day!</td>
-<td>9 Sept 2022,<br>10:30am - 12pm</td>
-<td>Jurong Regional Library</td>
+<td><a href="https://www.eventbrite.sg/d/singapore--singapore/%23cckpl_unplugged/" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
+<td>Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
+<td>1st Friday of the month,<br> 3pm - 5pm</td>
+<td>Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
 </tr>
 	<tr>
-<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/easy-coffee-art-jurong-regional-library-steam-lab-2022-tickets-401604528957?aff=odcleoeventsincollection" target="_blank"><b>Easy Coffee Art</b></a></td>
-<td style="width: 40%;">Join our Easy Coffee Art workshop at Jurong Regional Library and have an aromatic day doing coffee painting!</td>
-<td style="width: 20%;">9 Sept 2022, <br>4pm - 5pm</td>
-<td style="width: 20%;">Jurong Regional Library</td>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/d/singapore--singapore/%23717sustainability/" target="_blank"><b>From Seeds to Harvest @ Bishan Public Library</b></a></td>
+<td style="width: 40%;">Learn about the process of farming with a guided exhibit tour and activities.</td>
+<td style="width: 20%;">8 October 2022, 10.30am - 12pm<br><br>5 November 2022, 10.30am - 12pm</td>
+<td style="width: 20%;">Bishan Public Library - Outdoor Garden (B1)</td>
 </tr>
 
 <tr>
