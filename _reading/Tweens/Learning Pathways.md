@@ -86,7 +86,7 @@ Read with your child to explore new topics and discover new experience.
     </thead>
     <tbody>
       <tr>
-      <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627" target="_blank"><b> S.T.E.A.M. Lab Mini</b></a></td>
+      <td style="width: 20%;"><b> S.T.E.A.M. Lab Mini</b><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627" target="_blank"></a></td>
         <td style="width: 40%;"> Look out for our S.T.E.A.M. Lab Mini! Tweens will get to build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. <br><br>Follow Public Libraries Singapore’s Facebook page to be notified when the videos go live.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
@@ -94,8 +94,8 @@ Read with your child to explore new topics and discover new experience.
 
 <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627" target="_blank"><b>How to be a Cyber Safe Family with Cyberlite Books @ library@harbourfront</b></a></td>
-        <td>**Should we control our children’s screen time? What do we do if a child is cyberbullied? Join us to learn about family cyber safety! <br><br> 
-        <td> 24 July 2022, 3pm-4pm</td>
-        <td> Choa Chu Kang Public Library, Programme Room 2</td>
+        <td>**Should we control our children’s screen time? What do we do if a child is cyberbullied? Join us to learn about family cyber safety!**<br> 
+        <td>2 October 2022, 11.30am - 12.30pm</td>
+        <td>library@harbourfront, Programme Zone 2</td>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
