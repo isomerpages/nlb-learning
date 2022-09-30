@@ -68,7 +68,7 @@ Read with your child to explore new topics and discover new experience.
         <td style="width: 20%;">Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
       </tr>
       <tr>
- <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b> Comic Character Design Workshop </b></a></td> 
+ <td style="width: 20%;"><a href="https://go.gov.sg/onered-storytelling" target="_blank"><b> 一红老师讲故事</b></a></td> 
          <td style="width: 40%;">Comic Character Design WorkshopJoin this hands-on session, where participants will be guided step-by-step on the basics of character drawing. Dive into the colourful world of character design and bring home your very own comics masterpiece! Participants aged 7 and up, teen and adults are welcome. No drawing experience required.</td>
          <td style="width: 20%;"> 23 July 2022, 3pm – 4pm </td>
         <td style="width: 20%;">library@harbourfront, Programme 2</td>
