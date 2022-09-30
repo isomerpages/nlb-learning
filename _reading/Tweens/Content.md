@@ -78,7 +78,7 @@ A collection of short videos and podcasts to expand reading interests.
   <div class="col is-three-fifths">
   <p><b> Introducing the Young Botanists at Science Centre Singapore (15 min)</b><br>
 Follow 2 young botanists on their journey to learn more about the EcoGarden.<br><br>
-<small>Introducing the Young Botanists at Science Centre Singapore (2022, April 7). Science Centre Singapore. Retrieved 2022, September 21.</small></p>
+<small>Source: Introducing the Young Botanists at Science Centre Singapore (2022, April 7). Science Centre Singapore. Retrieved 2022, September 21.</small></p>
   </div>
 </div>
 
@@ -90,8 +90,8 @@ Follow 2 young botanists on their journey to learn more about the EcoGarden.<br>
   </div>
   <div class="col is-three-fifths">
   <p><b>This Prop Master's Work is Hidden in Plain Sight (6 min)</b><br>
-Tea is the second most consumed beverage in the world after water. If you want to find out how this beverage came about, this video might be just your cup of tea. <br><br>
-<small>Source: The history of tea - Shunan Teng. (2017, 16 May). TED-Ed. Retrieved 2022, June 14.</small></p>
+Go behind-the-scenes and discover the amount of detail that goes into making props for movies and television series. <br><br>
+<small>Source: This Prop Master's Work Is Hidden in Plain Sight (2018, October 16). Great Big Story. Retrieved 2022, September 22.</small></p>
   </div>
 </div>
 
