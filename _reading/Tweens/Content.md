@@ -64,7 +64,7 @@ Check out our **learning packages** for D.I.Y to engage your child in different 
 	
 A collection of short videos and podcasts to expand reading interests.
 
-<h5 id="blast-from-the-past" class="margin--bottom--lg"><b>Playlist: Blast from the Past</b></h5>
+<h5 id="work-hard-play-hard" class="margin--bottom--lg"><b>Playlist: Work Hard, Play Hard</b></h5>
 
 <br>
 
@@ -72,25 +72,24 @@ A collection of short videos and podcasts to expand reading interests.
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/s7l4h1QhSbY" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/jLI2ETd9PBo" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b> Emily Dickinson: Meet the Influential and Groundbreaking Poet | BrainPOP (8 min) </b><br>
-    The celebrated American poet, Emily Dickinson, was known for her beautiful verses and reclusion. Sample some of her poetry and learn more about Dickinson's life in this video!
-<br><br>
-<small>Meet the Influential and Groundbreaking Poet | BrainPOP (2021, February 23). BrainPOP. Retrieved 2022, June 14.</small></p>
+  <p><b> Introducing the Young Botanists at Science Centre Singapore (15 min)</b><br>
+Follow 2 young botanists on their journey to learn more about the EcoGarden.<br><br>
+<small>Introducing the Young Botanists at Science Centre Singapore (2022, April 7). Science Centre Singapore. Retrieved 2022, September 21.</small></p>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/LaLvVc1sS20" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/s6gJcWEDrAk" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b> The history of tea - Shunan Teng (5 min) </b><br>
+  <p><b>This Prop Master's Work is Hidden in Plain Sight (6 min)</b><br>
 Tea is the second most consumed beverage in the world after water. If you want to find out how this beverage came about, this video might be just your cup of tea. <br><br>
 <small>Source: The history of tea - Shunan Teng. (2017, 16 May). TED-Ed. Retrieved 2022, June 14.</small></p>
   </div>
