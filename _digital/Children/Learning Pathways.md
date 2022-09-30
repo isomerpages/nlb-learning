@@ -105,10 +105,10 @@ Go digital with your child and discover a world of technology and innovation tog
 </tr>
 
 <tr>
-<td><a href="https://www.eventbrite.sg/e/bullet-journaling-workshop-jurong-regional-library-steam-lab-2022-tickets-401603004397?aff=ebdshpsearchautocomplete" target="_blank"><b>Bullet Journalling Workshop </b></a></td>
-<td>Join us in this 2-hour workshop and learn the basics of bullet journaling, how to set up your journal and how to use it to be more organised.</td>
-<td>11 Sept 2022,<br>2:30pm - 4:30pm</td>
-<td>Jurong Regional Library</td>
+<td><a href="https://www.eventbrite.sg/e/chairs-by-queensway-secondary-drama-club-registration-411113450397" target="_blank"><b>Chairs by Queensway Secondary Drama Club</b></a></td>
+<td>Chairs is a student-led performance by Secondary 3 students from the Queensway Secondary School Drama Club.</td>
+<td>29 October 2022, 11am - 11.30am</td>
+<td>Queenstown Public Library, Programme Zone (L1)</td>
 </tr>
 </tbody>
 </table>
