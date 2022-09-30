@@ -1,16 +1,15 @@
 ---
 title: Learning Pathways
-permalink: /sustainability/adults-seniors/learning-pathways
+permalink: /sustainability/adults-seniors/learning-pathways/
 description: ""
 third_nav_title: Adults & Seniors
 ---
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-This quarter, we turn the spotlight on our tricky relationship with energy in The Energy Conundrum.
+This quarter, we explore technology and its potential for doing good especially for the environment.  
  
-<h3 class="margin--bottom--lg" id="The Energy Conundrum"><b>The Energy Conundrum</b></h3>
-We need an energy supply that is affordable and reliable. We also require it to be low carbon, produced more efficiently and does less harm to the environment. Will we ever find a solution that can balance both?  What are the trade-offs that we need to address?<br><br>
-To shed some light on this conundrum, this learning pathway will explore what drives our energy consumption, and examine renewable and alternative energy sources. We will also teach you how to conserve energy in the conduct of your daily life that covers growing plants to digital technology usage.  
+<h3 class="margin--bottom--lg" id="Green Technology"><b>Green Technology</b></h3>
+In the Green Technology Learning Pathway, we focus on innovations in data centers that make them more sustainable, explore emerging career trends to applications that help us in daily life. 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
