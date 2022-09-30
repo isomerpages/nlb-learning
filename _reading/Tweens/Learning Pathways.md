@@ -44,7 +44,7 @@ Read with your child to explore new topics and discover new experience.
       </tr>
       <tr>
         <td style="width: 20%;"><a href="/reading/tweens/content#lp-keep-calm"><b>Learning Package: Keep Calm and Reach Your Goals</b></a></td>
-         <td style="width: 40%;">Myths are traditional tales usually told about the early history of a culture or society. Try creating a myth of your own in this activity!</td>
+         <td style="width: 40%;">Unsure of what the future brings? Check out this activity to engage your child in goal setting.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
     </tr>
@@ -61,14 +61,14 @@ Read with your child to explore new topics and discover new experience.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/hooked-on-reading-tickets-355029551947?aff=ebdssbdestsearch" target="_blank"><b> Hooked on Reading </b></a></td>
-        <td style="width: 40%;">Join Dr Ng Seok Moi and Ms Sangeeta Deshpande as they explore and share with parents and teachers the impact reading has on children’s learning and language acquisition, the importance of fun for the engagement of children in learning, and ways to leverage on technology to enhance children’s reading experience. 
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-411752702417" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
+        <td style="width: 40%;">Take a break, unwind, and unplug over a game of tabletop games in this session for friends and family! 
 					</td><br><br>
-        <td style="width: 20%;"> 16 July 2022, 10.20am – 1pm</td>
-        <td style="width: 20%;">National Library, The Pod </td>
+        <td style="width: 20%;">7 October 2022, 3pm - 5pm<br><br>2 December 2022, 3pm - 5pm</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
       </tr>
       <tr>
- <td style="width: 20%;"><a href=" https://www.eventbrite.sg/e/comic-character-design-workshop-registration-365418375197?aff=ebdsoporgprofile" target="_blank"><b> Comic Character Design Workshop </b></a></td> 
+ <td style="width: 20%;"><a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" target="_blank"><b> Comic Character Design Workshop </b></a></td> 
          <td style="width: 40%;">Comic Character Design WorkshopJoin this hands-on session, where participants will be guided step-by-step on the basics of character drawing. Dive into the colourful world of character design and bring home your very own comics masterpiece! Participants aged 7 and up, teen and adults are welcome. No drawing experience required.</td>
          <td style="width: 20%;"> 23 July 2022, 3pm – 4pm </td>
         <td style="width: 20%;">library@harbourfront, Programme 2</td>
