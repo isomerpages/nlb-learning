@@ -43,7 +43,7 @@ Read with your child to explore new topics and discover new experience.
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a href="/reading/tweens/content"><b>Learning Package: Myths Come Alive</b></a></td>
+        <td style="width: 20%;"><a href="/reading/tweens/content#lp-keep-calm"><b>Learning Package: Keep Calm and Reach Your Goals</b></a></td>
          <td style="width: 40%;">Myths are traditional tales usually told about the early history of a culture or society. Try creating a myth of your own in this activity!</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
