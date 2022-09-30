@@ -60,15 +60,17 @@ Check out these resources that highlight new digital advancements and opportunit
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
       </tr>
     </thead>
-    <tbody>
-              <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-ansi-language:EN-GB; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
-
+    <tbody>            
 <tr>
-<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/steamlab2022/#steam-lab-mini-videos" target="\_blank"><b>S.T.E.A.M. Lab Mini</b></a></td>
-<td style="width: 40%;">Build a balloon powered car and learn about topics such as electromagnetism and static electricity through a series of videos. </td>
-<td style="width: 20%;">Sept’22</td>
-<td style="width: 20%;">YouTube</td>
-</tr>
+      <td style="width: 20%;"><b> S.T.E.A.M. Lab Mini</b><br><br>
+				<a href="https://youtu.be/l9B7iknybmw" target="_blank"><b>Dancing Puppet</b></a><br>
+				<a href="https://youtu.be/J5EqL69pjYE" target="_blank"><b>D.I.Y Catapult</b></a><br>
+				<a href="https://youtu.be/p6NoA5c8R1U" target="_blank"><b>Balloon-powered Car</b></a><br>
+				<a href="https://youtu.be/qDrRGM1t8fU" target="_blank"><b>Static Electricity with Slime</b></a><br></td>
+         <td style="width: 40%;">Learn how to build a balloon powered car and other topics such as electromagnetism and static electricity through a series of videos.</td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
+      </tr>
 								</tbody>
   </table>
 </div> 
