@@ -86,7 +86,8 @@ Read with your child to explore new topics and discover new experience.
     </thead>
     <tbody>
       <tr>
-      <td style="width: 20%;"><b> S.T.E.A.M. Lab Mini</b><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627" target="_blank"></a></td>
+      <td style="width: 20%;"><b> S.T.E.A.M. Lab Mini</b><br><br>
+				<a href="https://youtu.be/l9B7iknybmw" target="_blank"><b>Dancing Puppet</b></a></td>
          <td style="width: 40%;">Learn how to build a balloon powered car and other topics such as electromagnetism and static electricity through a series of videos.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
