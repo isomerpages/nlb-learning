@@ -81,6 +81,11 @@ Spark your child’s curiosity in digital literacy through engaging activities a
     <tbody>
            
 <tr>
+<td><a href="https://www.eventbrite.sg/d/singapore--singapore/%23cckpl_unplugged/" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
+<td>Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
+<td>1st Friday of the month,<br> 3pm - 5pm</td>
+<td>Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
+</tr><tr>
 <td>
 	<a href="https://www.eventbrite.sg/e/the-perfect-balance-tweenkerama-sengkang-public-library-tickets-411737988407" target="\_blank"><b>The Perfect Balance | Tweenkerama @ Sengkang Public Library</b></a></td>
 <td>Join us for a fun-filled workshop to learn about balanced forces and gravity.</td>
