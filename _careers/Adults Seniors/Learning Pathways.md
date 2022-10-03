@@ -66,19 +66,19 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
       <tr>
         <td style="width: 20%;"><b>Talk Series</b><br/>Industry Insights</td>
         <td style="width: 40%;">What is it like having a career in rising, up-and-coming industries? How does one get a foot in the door? Find out through this series of talks.</td>
-        <td style="width: 20%;"><a href="https://go.gov.sg/industryinsights">Last Thursday of the month</a></td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/industryinsights" target="_blank">Last Thursday of the month</a></td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 							      <tr>
         <td><b>Partnership</b><br/>Workforce Singapore (WSG)</td>
         <td>Career Catalyst (1-to-1 Career Coaching) by Workforce Singapore (WSG)</td>
-        <td>WSG's Career Catalyst - details available <a href="https://content.mycareersfuture.gov.sg/career-guidance/">at their website</a></td>
+        <td>WSG's Career Catalyst - details available <a href="https://content.mycareersfuture.gov.sg/career-guidance/" target="_blank">at their website</a></td>
         <td></td>
 			</tr>
 			<tr>
         <td></td>
         <td>Walk-in Interview for Logistics Roles</td>
-        <td><a href="https://wsg-careergrit.glideapp.io/dl/1e2505/s/ea1b9a/r/OAK3-C1DTJOJYUh.N5m2nA/s/d58d37/r/3LGOxu97SbqdOICjcw7Q3g?utm_source=Workipedia&utm_medium=PhysicalEventListings&utm_campaign=Referral&full=t">11 Oct<br/>12-5pm</a></td>
+        <td><a href="https://wsg-careergrit.glideapp.io/dl/1e2505/s/ea1b9a/r/OAK3-C1DTJOJYUh.N5m2nA/s/d58d37/r/3LGOxu97SbqdOICjcw7Q3g?utm_source=Workipedia&utm_medium=PhysicalEventListings&utm_campaign=Referral&full=t" target="_blank">11 Oct<br/>12-5pm</a></td>
         <td>Jurong Regional Library<br/>Programme Zone</td>
 			</tr>
     </tbody>
@@ -108,13 +108,13 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
 			 <tr>
         <td><b>Time of Your Life</b><br/>Personal Packaging</td>
         <td> Hear from Hyder Bilgrami, a communications expert, as he discusses the impact that your every action can leave.</td>
-        <td><a href="https://www.eventbrite.sg/e/personal-packaging-ask-me-anything-ama-x-toyl-celebration-registration-407220586737" target="blank">5 Oct<br>7-8pm</a></td>
+        <td><a href="https://www.eventbrite.sg/e/personal-packaging-ask-me-anything-ama-x-toyl-celebration-registration-407220586737" target="_blank">5 Oct<br>7-8pm</a></td>
         <td>library@harbourfront<br/>Programme Zone</td>
       </tr>
 <tr>
 <td><b>Partnership</b><br/>SkillsFuture</td>
         <td>At SkillsFuture Advice webinars, learn how to acquire new skills with SkillsFuture credits!</td>
-        <td><a href="https://www.skillsfuture.gov.sg/advice" target="blank">Refer to SkillsFuture website</a></td>
+        <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank">Refer to SkillsFuture website</a></td>
         <td>Online</td>
       </tr>
     </tbody>
@@ -130,7 +130,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://go.gov.sg/nlbfow" target="blank"><b>LearnX Digital</b><br>Future of Work</a></td>
+        <td><a href="https://go.gov.sg/nlbfow" target="_blank"><b>LearnX Digital</b><br>Future of Work</a></td>
         <td>Learn more about current and upcoming changing needs at work, to get working adults better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites.</td>
         <td>Various dates</td>
         <td>Zoom</td>
@@ -152,7 +152,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/careers/adults-seniors/content#lp-biz" target="blank"><b>Learning Package</b><br/>How To Start Your Own Business</a></td>
+        <td style="width: 20%;"><a href="/careers/adults-seniors/content#lp-biz" target="_blank"><b>Learning Package</b><br/>How To Start Your Own Business</a></td>
         <td style="width: 40%;">Having a great idea is the first step to starting a business of your own.</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
@@ -171,7 +171,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
       <tr>
         <td><b>Workshop</b><br>Be Your Own Breakthrough</td>
         <td>Learn to cultivate good habits for the self-employed, and flourish like good trees.</td>
-        <td><a href=https://www.eventbrite.sg/e/be-your-own-breakthrough-flourishing-like-a-good-tree-tickets-423134425457>3 Oct 10.30am-12pm</a></td>
+        <td><a href="https://www.eventbrite.sg/e/be-your-own-breakthrough-flourishing-like-a-good-tree-tickets-423134425457" target="_blank">3 Oct 10.30am-12pm</a></td>
         <td>Bishan Public Library Programme Zone</td>
       </tr>
     </tbody>
@@ -244,7 +244,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
 <tr>
-        <td style="width: 20%;"><a href="https://www.skillsfuture.gov.sg/advice" target="blank"><b>SkillsFuture Advice Webinars</b></a></td>
+        <td style="width: 20%;"><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>SkillsFuture Advice Webinars</b></a></td>
         <td style="width: 40%;">Learn how to acquire new skills with 
 SkillsFuture credits</td>
         <td style="width: 20%;">Refer to SkillsFuture website</td>
@@ -263,7 +263,7 @@ SkillsFuture credits</td>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/learnxwellness-financialliteracy" target="blank"><b>LearnX Wellness</b><br>Financial Literacy: Adulting 101 and Adulting 102</a></td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/learnxwellness-financialliteracy" target="_blank"><b>LearnX Wellness</b><br>Financial Literacy: Adulting 101 and Adulting 102</a></td>
         <td style="width: 40%;">Learn about buying property, insurance and investments.</td>
         <td style="width: 20%;">Various dates</td>
         <td style="width: 20%;">Zoom</td>
@@ -271,13 +271,13 @@ SkillsFuture credits</td>
 			  <tr>
         <td><b>Learning Community</b><br>LCS Toastmasters</td>
         <td>Life Communication Skills (LCS) Toastmasters Club<br/>Communication is an essential tool. Learn ways to improve your communication style in a friendly environment.</td>
-        <td><a href=https://www.eventbrite.sg/e/life-communication-skills-toastmasters-october-chapter-meeting-registration-4139027532777>12 Oct<br/>6.45-8.30pm</a></td>
+        <td><a href="https://www.eventbrite.sg/e/life-communication-skills-toastmasters-october-chapter-meeting-registration-4139027532777" target="_blank">12 Oct<br/>6.45-8.30pm</a></td>
         <td>Toa Payoh Public Library Programme Zone</td>
       </tr>
 			 <tr>
         <td><b>Event</b><br>Learning Day</td>
         <td>Learning Day is a gathering in which folks teach and learn something, anything, from each other!</td>
-        <td><a href=https://www.eventbrite.sg/e/learning-day-october-2022-tickets-42321307068>22 Oct<br/>2-5pm</a></td>
+        <td><a href="https://www.eventbrite.sg/e/learning-day-october-2022-tickets-42321307068" target="_blank">22 Oct<br/>2-5pm</a></td>
         <td>Bishan Public Library Programme Zone</td>
       </tr>
     </tbody>

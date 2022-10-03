@@ -278,7 +278,7 @@ Get a glimpse of what it takes to achieve your aspirations with these articles a
 
 **Wants** are things we would like to have, but are **not required** for survival (e.g. luxury goods, games, toys)
 
-Learn about needs and wants in the little activity titled:
+Learn about needs and wants in the little game titled:
 
 **The 10 Bean Allowance**
 
@@ -320,7 +320,7 @@ John wants to buy a new phone, but it costs $1,000! He only has $300 now and he 
 
 If you are interested to find out more, check out these titles available at NLB!
 
-![Book Recommendations 1](/images/career/teens/Book%20Reco%201.png)
+![Book Recommendations 1](/images/career/teens/Book%20Reco%201.png)[Click here to borrow the ebook!](https://nlb.overdrive.com/library/teens/media/1424989)
 
 This learning package was created by Chow Hui Xuan, Ernest Lim Jingjie, Lim Jing Hong Brandon and Rachel Ong Lin Hui, as part of the National Institute of Education Group Endeavours in Service Learning Group 10 (Sec/JC2022).
 
