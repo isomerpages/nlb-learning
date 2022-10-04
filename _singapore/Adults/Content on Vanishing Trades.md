@@ -49,10 +49,24 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
+	 <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#vanishing-trades">
+        <span>Playlist: Cottage Industries</span>
+      </a>
+    </div>
+  </div>
 		<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-vanishing-trades">
         <span>Learning Package: Five-Foot-Way Traders</span>
+      </a>
+    </div>
+  </div>
+			<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-vanishing-trades">
+        <span>Learning Package: Cottage Industries</span>
       </a>
     </div>
   </div>
@@ -144,6 +158,12 @@ Check out these resources to help you gain some understanding of the five-foot-w
 </div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="vanishing-trades"><b>Playlist: Cottage Industries</b></h5>
+Cottage industries are small-scale, family-run businesses typically producing goods and services of cultural significance. Cottage industries are different from other small enterprises in that their owners are directly engaged in production, which is traditionally labour-intensive and involves specialised skill. While machinery may be used to support production, the goods made by cottage industries remain primarily handcrafted. Examples include traditional food, furniture, jewellery, clothing, and religious items. What are some of the cottage industries in our midst? How have they survived through the years and what challenges confront them today? Watch the videos below to find out more.
+
+
+
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-vanishing-trades"><b>Five-Foot-Way Traders</b></h5>
