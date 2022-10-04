@@ -122,14 +122,13 @@ Through this pathway you can explore different resources and learn or hone new s
         <td>Zoom</td>
       </tr>
 			
+			
 <tr>
-<td><a href="https://www.eventbrite.sg/e/378185401717" target="_blank"><b>Tactile Tales: Weaving with Stories (Teaching and Learning) | library@orchard</b></a></td>
-        <td> Weaving is an age-old practice inextricably linked to the art of storytelling. The words ‘text’ and ‘textile’ come from the Latin word ‘texere’, which means 'to weave'.<br><br>
-
-In this community artmaking session, library@orchard’s artist-in-residence Natalia Tan will guide participants to explore their personal stories through freestyle weaving.</td>
-        <td>25 Sept 2022, <br>2pm - 4pm</td>
-        <td>library@orchard, Imagine That</td>
-      </tr>
+<td><a href="https://www.eventbrite.sg/e/414417342427" target="\_blank"><b> Pro Series: Clay (Clay & Everything Else with Gellyvieve) | library@orchard</b></a></td>
+        <td> Join us for this Zoom talk as artist and maker Genevieve shares about her practice stretching across various disciplines and explore the boundless possibilities of clay.<br><br></td>
+        <td>8 Oct 2022,<br>2.30pm-4.30pm </td>
+        <td>Zoom </td>
+      </tr>
     </tbody>
   </table>
 </div>
