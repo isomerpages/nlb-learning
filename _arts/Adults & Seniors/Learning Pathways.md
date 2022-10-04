@@ -129,6 +129,15 @@ Through this pathway you can explore different resources and learn or hone new s
         <td>8 Oct 2022,<br>2.30pm-4.30pm </td>
         <td>Zoom </td>
       </tr>
+
+<tr>
+<td><a href="https://www.eventbrite.sg/e/403277402567" target="\_blank"><b> Resident: Saori Weaving (Open Studio) | library@orchard </b></a></td>
+
+        <td> Textile artist Natalia Tan is library@orchard’s artist-in-residence from August 2022 to January 2023! During this residency, she will be exploring the intertwining of narratives with the craft of weaving. Drop by any time during this Open Studio session to say hello, discover her studio, and get a first-hand look at her work processes. <br><br></td>
+        <td>9 Oct 2022,<br>2pm-5pm </td>
+        <td> library@orchard, Imagine That </td>
+      </tr>
+			
     </tbody>
   </table>
 </div>
