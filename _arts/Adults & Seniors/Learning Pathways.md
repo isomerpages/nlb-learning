@@ -135,7 +135,22 @@ Through this pathway you can explore different resources and learn or hone new s
         <td>Monthly</td>
         <td>Zoom</td>
       </tr>
-			
+
+<tr>
+<td><a href="https://www.eventbrite.sg/e/409152735847" target="\_blank"><b> Pro Series: Zine Design (The Future of Zines) | library@orchard </b></a></td>
+        <td> Zines are back in the limelight again with the recent coverage in mainstream press. The continuing success of the Singapore Art Book Fair shows zines are still alive and kicking in the 21st century. But what is the future of zines? What does its form and mode of production and distribution say about cost, class, causes and its continued relevance as a vehicle for change, personal voice and commitment? <br><br>
+Join speakers CT Lim and Renée Ting as they share their thoughts and views on the future of zines in Singapore. </td>
+        <td>14 Oct 2022,<br> 6.30pm-8.30pm </td>
+        <td> library@orchard, Imagine This </td>
+      </tr>
+
+<tr>
+<td><a href="https://www.eventbrite.sg/e/403290301147" target="\_blank"><b> Pro Series: Nanyang Art Style (Sculpting From Nature) | library@orchard </b></a></td>
+        <td> The Nanyang art style is Singapore’s very own unique art style. It embodies one of Singapore's most renown traits as a melting pot of Eastern and Western cultures. <br><br>
+In this session, Singaporean sculptor Aileen Toh will be sharing about her sustainable art practice through her upcycled wood sculptures. </td>
+        <td>15 Oct 2022,<br> 2.30pm-4.30pm </td>
+        <td> library@orchard, Imagine This </td>
+      </tr>
 			
     </tbody>
   </table>
