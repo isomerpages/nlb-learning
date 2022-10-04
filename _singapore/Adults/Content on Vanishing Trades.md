@@ -162,6 +162,24 @@ Check out these resources to help you gain some understanding of the five-foot-w
 <h5 class="margin--bottom--lg" id="vanishing-trades"><b>Playlist: Cottage Industries</b></h5>
 Cottage industries are small-scale, family-run businesses typically producing goods and services of cultural significance. Cottage industries are different from other small enterprises in that their owners are directly engaged in production, which is traditionally labour-intensive and involves specialised skill. While machinery may be used to support production, the goods made by cottage industries remain primarily handcrafted. Examples include traditional food, furniture, jewellery, clothing, and religious items. What are some of the cottage industries in our midst? How have they survived through the years and what challenges confront them today? Watch the videos below to find out more.
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/tZj12BXcfRQ" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Singapore’s Last Maker of Handwoven Rattan Chairs | Goldthread 
+(4 mins)</b><br>
+For more than 50 years, Chen Foon Kee has been handweaving raw rattan — thin stems of a type of climbing palm found in tropical regions — into furniture and handicrafts. Today, in his 70s, he is one of Singapore’s last few rattan craftsmen, having inherited his father’s business, Chun Mee Lee Rattan Furniture. Chen shares the history of the rattan industry, stories of the family business and rattan craftsmanship in this video.
+<br><br>
+<small> Source: Singapore’s Last Maker of Handwoven Rattan Chairs | Goldthread (2020, Aug 25). Retrieved 2022, October 5.
+</small></p>
+</div>
+</div>
+
 
 
 
