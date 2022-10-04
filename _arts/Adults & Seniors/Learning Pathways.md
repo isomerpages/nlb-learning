@@ -175,6 +175,22 @@ A big part of art is active participation in the larger community: seeing others
         <td>18 Sept 2022, 3pm - 5pm</td>
         <td>library@orchard, Make</td>
       </tr>
+      
+
+<tr>
+<td><a href=" https://www.eventbrite.sg/e/411843183047 " target="\_blank"><b> Communities: Zzzink! (Light & Shadow) | library@orchard  </b></a></td>
+        <td> This month we celebrate Deepavali, the festival of lights! As part of the festivities, we will be exploring the use of light in art and zines for this session of Communities: Zzzink! <br><br>
+During the session, participants may create zines with the theme of the month, work on your own zines or simply use the time to connect with like-minded creators. </td>
+        <td>16 Oct 2022, 3pm - 5pm</td>
+        <td> library@orchard, Make </td>
+      </tr>
+<tr>
+<td><a href=" https://www.eventbrite.sg/e/403298686227" target="\_blank"><b> Tactile Tales: Weaving with Stories (The Light in the Dark) | library@orchard </b></a></td>
+        <td> In this community artmaking session, library@orchard’s artist-in-residence Natalia Tan will guide participants to explore their personal stories through freestyle weaving. <br><br>
+Participants may also bring their own story-related items to weave into the artwork, or just for storytelling purposes. </td>
+        <td>23 Oct 2022, 2pm - 4pm</td>
+        <td> library@orchard, Imagine This & That </td>
+      </tr>
 			
  <tr>
   <td><a href="https://www.facebook.com/groups/learnxarts.sg/posts/434239158202363/" target="_blank"><b>Young Musicians Festival</b></a></td>
