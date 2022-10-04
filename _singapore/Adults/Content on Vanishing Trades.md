@@ -180,6 +180,21 @@ For more than 50 years, Chen Foon Kee has been handweaving raw rattan — thin s
 </div>
 </div>
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/FnsNIqUHq-U" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> The Last Joss Stick Makers In Singapore | Tay Guan Heng | Our Grandfather Story (8 mins)</b><br>
+Joss sticks are often burnt as part of rituals during Chinese festivals. Founded in the 1930s, Tay Guan Heng is a family-run business specialising in the making of large joss sticks. Albert Tay shares the challenges that the trade has faced in recent decades and his journey in the family business.<br><br>
+<small> Source: The Last Joss Stick Makers in Singapore | Tay Guan Heng (2020, Dec 19). Our Grandfather Story. Retrieved 2022, October 5.
+</small></p>
+</div>
+</div>
 
 
 
