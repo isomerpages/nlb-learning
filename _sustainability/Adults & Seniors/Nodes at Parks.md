@@ -50,5 +50,10 @@ third_nav_title: Adults & Seniors
 <p> As part of the suite of activities at the Showcase you will also be able to collect free pre-loved books, donate your own pre-loved books, as well as participate in interactive activities to collect sustainable giveaways. </p>
 
 <h5><b> Partner “Show and Tell” Schedule at The Sustainability Showcase</b></h5>
-<p>On selected weekends, come join our partners as they share stories about their green product and participate in their interactive activities as well. Click <a href ="https://go.gov.sg/showandtell-monthlyschedule" target="_blank"> here</a> to view our schedule (updated monthly).</p>
+<p>On selected weekends, come join our partners as they share stories about their green product and participate in their interactive activities as well. Click <a href ="https://go.gov.sg/showandtell-monthlyschedule" target="_blank"> here</a> to view our schedule (updated monthly).</p> 
 
+<h5><b>eCoupons Giveaway! Test your knowledge on Sustainability, try out the Quiz </b></h5>
+<p>Have you read up on all 8 Sustainability questions and accompanying eResources at our Showcase? How well informed are you about the topic of Sustainability now? Put your knowledge to the test by participating in our quiz. Participants who score 6 out of 8 questions correctly will get access to promo codes for our Sustainability Showcase participating partner’s products.</p>
+
+<p>Try our quiz today - click <a href ="https://go.gov.sg/sustainabilityshowcasequiz-tcs" target="_blank">here </a> to start! The quiz is open from <u>14 October 2022 to 26 February 2023</u>. <a href ="https://go.gov.sg/sustainabilityshowcasequiz4" target="_blank"></p>
+<p>Terms and Conditions</a> apply. </p>
