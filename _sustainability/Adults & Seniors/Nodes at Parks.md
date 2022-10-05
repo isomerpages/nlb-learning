@@ -59,7 +59,7 @@ third_nav_title: Adults & Seniors
 
 <p><a href ="https://go.gov.sg/sustainabilityshowcasequiz-tcs" target="_blank">Terms and Conditions</a> apply.</p> 
 
-<p><strong>Sustainable Benches</strong></p>
+<h5><b>Sustainable Benches</h5></b>
 <p>Look out for our specially curated <u>Sustainable Benches</u> located around the park! Placed in the vicinity of the <u>Sustainability Showcase</u>, these benches allow you to access a wide range of sustainability-themed eResources without having to step foot in the library! Scan their QR codes to access enriching eReads and watch videos created by Republic Polytechnic students!</p>
 
 <p>7 secondary schools have come on board to paint their own designs on the Sustainable Benches, rendering their creative interpretations of NLB's sustainability eResources in all its visual splendour! The benches will be adopted by the schools after the duration of the run.</p>
