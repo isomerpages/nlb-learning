@@ -64,10 +64,10 @@ third_nav_title: Adults & Seniors
 
 <p>7 secondary schools have come on board to paint their own designs on the Sustainable Benches, rendering their creative interpretations of NLB's sustainability eResources in all its visual splendour! The benches will be adopted by the schools after the duration of the run.</p>
 
-<p>Our benches are located here:</p>
+<p>Our benches are located here:
 <ol>
 <li>Gardens by the Bay: Opposite Visitor Service Office and at the Golden Garden (near drop-off point)</li>
 <li>Jurong Lake Gardens: Across the two viewing decks and Eco-pond</li>
 <li>East Coast Park: Lawn next to Marine Cove Coffee Bean &amp; Tea Leaf and Lawn opposite Skater&rsquo;s Pavilion</li>
-<li>Pasir Ris Park: Lawn between Georges @ The Cove and toilet, and lawn near Toilet D</li>
+<li>Pasir Ris Park: Lawn between Georges @ The Cove and toilet, and lawn near Toilet D</li></p>
 </ol>
