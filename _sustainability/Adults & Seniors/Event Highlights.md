@@ -1,6 +1,6 @@
 ---
 title: Event Highlights
-permalink: /sustainability/adults-seniors/event-highlights
+permalink: /sustainability/adults-seniors/event-highlights/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -126,3 +126,15 @@ On 30th April, the teams presented their ideas to an online audience, collected 
 <b>Highlights video: </b>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Nodes at Parks
+<p>Encounter eResources on Sustainability at a park near you! From 14 October 2022 to 26 February 2023, NLB is presenting a brand-new initiative called "Nodes at Parks". Come interact with NLB's exciting eResources on Sustainability. It consists of two parts: The Sustainability Showcase, and Sustainable Benches.</p>
+<u>Don't miss the opportunity to visit us at:</u>
+
+<strong>14 October to 22 November 2022:</strong> Gardens by the Bay beside the ticketing office (near Flower Dome)
+<strong>25 November to 18 December 2022:</strong> Jurong Lake Gardens at the Entrance Pavillion 
+<strong>21 December 2022 to 24 January 2023:</strong> East Coast Park at Raintree Cove
+<strong>27 January to 26 February 2023:</strong> Pasir Ris Park at the Sheltre near Carpark D
+<p>Check out the highlights of Nodes at Parks below:</p>
+<p>As part of the suite of activities at the Showcase you will also be able to collect free pre-loved books, donate your own pre-loved books, as well as participate in interactive activities to collect sustainable giveaways</p>
+<p>Visit the <a href="https://go.gov.sg/rtbs-nodesatparks4" target="_blank">Nodes at Parks</a> webpage for more information.</p>
