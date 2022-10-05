@@ -66,8 +66,12 @@ third_nav_title: Adults & Seniors
 
 <p>Our benches are located here:
 <ol>
-<li>Gardens by the Bay: Opposite Visitor Service Office and at the Golden Garden (near drop-off point)</li>
-<li>Jurong Lake Gardens: Across the two viewing decks and Eco-pond</li>
-<li>East Coast Park: Lawn next to Marine Cove Coffee Bean &amp; Tea Leaf and Lawn opposite Skater&rsquo;s Pavilion</li>
-<li>Pasir Ris Park: Lawn between Georges @ The Cove and toilet, and lawn near Toilet D</li>
+	<li><b>Gardens by the Bay:</b> Opposite Visitor Service Office and at the Golden Garden (near drop-off point)</li>
+	<li><b>Jurong Lake Gardens:</b> Across the two viewing decks and Eco-pond</li>
+	<li><b>East Coast Park:</b> Lawn next to Marine Cove Coffee Bean & Tea Leaf and Lawn opposite Skater's Pavilion</li>
+	<li><b>Pasir Ris Park:</b> Lawn between Georges @ The Cove and toilet, and lawn near Toilet D</li>
+</ol></p>
+
+<p>Participating schools: 
+  <ol><li>Admiralty Secondary School</li><li>Chua Chu Kang Secondary School</li> <li>Kuo Chuan Presbyterian Secondary School</li><li>Ngee Ann Secondary School</li><li>Spectra Secondary School</li><li>Yusof Ishak Secondary School</li><li>Zhonghua Secondary School</li>
 </ol></p>
