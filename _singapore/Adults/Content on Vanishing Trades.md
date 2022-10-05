@@ -230,8 +230,24 @@ Source: On The Michelin-Recommended List: Haig Road Putu Piring (2019, May 24). 
 </div>
 </div>
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/-8qni1AVmt40" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Flower Power: The Right Way To Get Blessings From Hindu Gods | Our Grandfather Story	(4 mins) </b><br>
+Jothi Store & Flower Shop in Little India is a household name among the Indian community for its range of hand-made flower garlands and religious paraphernalia. Started as a small sidewalk shop in 1960 by Murugaia Ramachandra, the business has since grown into a 5-storey departmental store run by Murugaia’s son, Rajakumar Chandra.
+<br><br>
+<small>
+Source: Flower Power: The Right Way To Get Blessings From Hindu Gods | Our Grandfather Story (2021, Apr 29). Our Grandfather Story. Retrieved 2022, October 5.
+</small></p>
+</div>
+</div>
 
-
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-vanishing-trades"><b>Five-Foot-Way Traders</b></h5>
