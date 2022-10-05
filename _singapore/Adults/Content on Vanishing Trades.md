@@ -335,3 +335,4 @@ Source: <a href="https://www.roots.gov.sg/ich-landing/ich/making-of-gold-jewelle
 <p> The burning of paper offerings is part of Chinese religious and cultural practices. A handful of businesses specialise in the making of these paper offerings in Singapore. This article provides an overview of the practice of making paper offerings, the types of offerings available, and features an interview with Mr Lai Yew Onn, one of the few remaining paper offerings craftsmen in Singapore.
 </p>
 Source: <a href="https://www.roots.gov.sg/ich-landing/ich/making-of-chinese-paper-offerings" target="_blank"> Making of Chinese paper offerings </a>(2019).<i>Roots.</i> Retrieved 2022, October 5.
+
