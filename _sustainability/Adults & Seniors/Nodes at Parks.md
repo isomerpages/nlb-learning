@@ -55,8 +55,9 @@ third_nav_title: Adults & Seniors
 <h5><b>eCoupons Giveaway! Test your knowledge on Sustainability, try out the Quiz </b></h5>
 <p>Have you read up on all 8 Sustainability questions and accompanying eResources at our Showcase? How well informed are you about the topic of Sustainability now? Put your knowledge to the test by participating in our quiz. Participants who score 6 out of 8 questions correctly will get access to promo codes for our Sustainability Showcase participating partner’s products.</p>
 
-<p>Try our quiz today - click <a href ="https://go.gov.sg/sustainabilityshowcasequiz-tcs" target="_blank">here </a> to start! The quiz is open from <u>14 October 2022 to 26 February 2023</u>. <a href ="https://go.gov.sg/sustainabilityshowcasequiz4" target="_blank"></p>
-<p>Terms and Conditions</a> apply.</p> 
+<p>Try our quiz today - click <a href ="https://go.gov.sg/sustainabilityshowcasequiz-tcs" target="_blank">here </a> to start! The quiz is open from <u>14 October 2022 to 26 February 2023</u>.</p>
+
+<p><a href ="https://go.gov.sg/sustainabilityshowcasequiz-tcs" target="_blank">Terms and Conditions</a> apply.</p> 
 
 <p><strong>Sustainable Benches</strong></p>
 <p>Look out for our specially curated <u>Sustainable Benches</u> located around the park! Placed in the vicinity of the <u>Sustainability Showcase</u>, these benches allow you to access a wide range of sustainability-themed eResources without having to step foot in the library! Scan their QR codes to access enriching eReads and watch videos created by Republic Polytechnic students!</p>
