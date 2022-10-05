@@ -91,3 +91,33 @@ Showcase Partners:
 <a href="https://chopvalue.com.sg/" target="_blank"> ChopValue SG</a>, <a href="https://www.confettisnacks.com/" target="_blank">Confetti Snacks</a>, <a href="http://creuse.sg/" target="_blank">Creuse</a> by Xcel Industrial Supplies Pte Ltd,  <a href="https://www.insectta.com/" target="_blank"> Insectta</a>, <a href="https://www.nyp.edu.sg/" target="_blank">Nanyang Polytechnic</a>, Netafarm, <a href="https://shiokmeats.com/" target="_blank">Shiok Meats</a>, <a href="https://instagram.com/theplasticproject.sg/shop" target="_blank">The Plastic Project</a>
 
 Participating schools: <a href="https://admiraltysec.moe.edu.sg/" target="_blank">Admiralty Secondary School</a>, <a href="https://chuachukangsec.moe.edu.sg/" target="_blank">Chua Chu Kang Secondary School</a>, <a href="https://kuochuanpresbyteriansec.moe.edu.sg/" target="_blank">Kuo Chuan Presbyterian Secondary School</a>, <a href="https://ngeeannsec.moe.edu.sg/" target="_blank">Ngee Ann Secondary School</a>, <a href="https://www.rp.edu.sg/" target="_blank">Republic Polytechnic</a>, <a href="https://www.spectra.edu.sg/" target="_blank">Spectra Secondary School</a>, <a href="https://yusofishaksec.moe.edu.sg/" target="_blank">Yusof Ishak Secondary School</a>, <a href="https://www.zhonghuasec.moe.edu.sg/" target="_blank">Zhonghua Secondary School</a>
+
+<h5><b>Discover Recommended Resources</b></h5>
+
+<div>
+<table>
+<thead>
+<tr>
+<th colspan="4">Check out more in-depth eReads on Sustainability and the Environment grounded in the Singapore context here:</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://go.gov.sg/nodesatparks-ereads-climatechange" target="_blank"><strong>Climate Change in Singapore</strong></a></td>
+<td>Learn more about climate change and how it has affected Singapore.</td>
+</tr>
+<tr>
+<td><a href="https://go.gov.sg/nodesatparks-ereads-whentigersusedtoroam"><strong>When Tigers used to roam: Nature and Environment in Singapore</strong></a></td>
+<td>Find out more about this period where these natural predators co-existed with the human population.</td>
+</tr>
+<tr>
+<td><a href="https://go.gov.sg/nodesatparks-ereads-ofparkstreesandgardens"><strong>Of Parks, Trees and Gardens: The Greening of Singapore</strong></a></td>
+<td>Discover how Singapore landscaped itself into becoming a garden city.</td>
+</tr>
+<tr>
+<td><a href="https://go.gov.sg/nodesatparks-ereads-natureconservation"><strong>Nature Conservation in Singapore</strong></a></td>
+<td>Learn more about conservation in Singapore.</td>
+</tr>
+</tbody>
+</table>
+</div>
