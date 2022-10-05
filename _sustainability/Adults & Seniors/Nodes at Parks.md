@@ -51,3 +51,4 @@ third_nav_title: Adults & Seniors
 
 <h5><b> Partner “Show and Tell” Schedule at The Sustainability Showcase</b></h5>
 <p>On selected weekends, come join our partners as they share stories about their green product and participate in their interactive activities as well. Click <a href ="https://go.gov.sg/showandtell-monthlyschedule" target="_blank"> here</a> to view our schedule (updated monthly).</p>
+
