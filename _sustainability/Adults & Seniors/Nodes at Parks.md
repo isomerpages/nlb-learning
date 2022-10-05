@@ -89,4 +89,3 @@ Venue Partner: <a href="https://www.gardensbythebay.com.sg/" target="_blank">Gar
 
 Showcase Partners:
 <a href="https://chopvalue.com.sg/" target="_blank"> ChopValue SG</a>, <a href="https://www.confettisnacks.com/" target="_blank">Confetti Snacks</a>, <a href="http://creuse.sg/" target="_blank">Creuse</a> by Xcel Industrial Supplies Pte Ltd,  <a href="https://www.insectta.com/" target="_blank"> Insectta</a>, <a href="https://www.nyp.edu.sg/" target="_blank">Nanyang Polytechnic</a>, Netafarm, <a href="https://shiokmeats.com/" target="_blank">Shiok Meats</a>, <a href="https://instagram.com/theplasticproject.sg/shop" target="_blank">The Plastic Project</a>
-
