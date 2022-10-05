@@ -218,7 +218,7 @@ Source: Artisanal Soy Sauce In Singapore: The Future’s Brewing | On The Red Do
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/- 0O1Cwefbg8A" class="responsive-iframe">
+<iframe src="https://www.youtube.com/embed/-0O1Cwefbg8A" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -305,4 +305,33 @@ Chew, Angela, Ricky Gui, and Jason Leong, (2016). <i>A Blink in Time: Memories o
 <img src="/images/Singapore%20Vanishing%20Trades/a-blink-in-time.png" style="width:200px;">
 <p>This coffee table book is meant to capture anecdotes and provide some pictures of Singapore’s vanishing past. There is a section in the book named “Under the Sun” where cobblers, the kacang putih seller, the street barber, parrot fortune teller, and koyok seller are shown. This book would be suitable for sharing with younger readers as the anecdotes are short and sweet, and the images are vibrant.</p>
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><
+a href="#main-content">Back to top</a></p>
+
+<h5 id="lp-cottage-industries " class="margin--bottom--lg"><b> Learning Package: Cottage Industries</b></h5>
+
+<p> Cottage industries are small-scale, family-run businesses typically producing goods and services of cultural significance. Cottage industries are unique in that their owners are often directly engaged in day-to-day operations and management decisions. Then, the production process is labour-intensive and requires artisanal skills. While machinery may be used, the goods made by cottage industries are still mainly handcrafted.
+</p>
+<b></b>
+<p> Cottage industries in Singapore have come under pressure over the decades as the economy shifted towards capital-intensive, knowledge-based industries. Factors like rising costs and difficulty of finding suitable labour add to the challenge of survival. That said, some businesses in Singapore that started as cottage industries have successfully expanded and modernised their operations - even extending their footprint abroad.
+</p>
+<table border="1">
+ <tbody><tr>
+ <td>
+<h4>Did you know...</h4>
+<ul>
+<li> Historically, cottage industries have enabled those with little capital and formal education to earn a livelihood in an entrepreneurial way. Cottage industries also play an important role as living, intangible heritage due to the values of craftsmanship and tradition embedded in the product or service they supply.</li>
+</ul>
+</td>
+	 </tr></tbody></table>
+Get to know more about our cottage industries through the resources here.
+
+<h4>Articles</h4>
+<h5><a href="https://www.roots.gov.sg/ich-landing/ich/making-of-gold-jewellery-by-indian-goldsmiths" target="_blank"> Making of Gold Jewellery by Indian Goldsmiths</a></h5>
+<p> This article introduces the practice of traditional handmade gold jewellery in Indian culture. The trade is typically family-run and is usually passed down from father to son or other male kin. The goldsmith crafts the jewellery completely by hand, melting the gold over a small burner and shaping it with tools such as tweezers. In its heyday in the 1950s, there were some 500 Indian goldsmiths in Singapore and their shops were mainly located in the Buffalo Road area.</p>
+Source: <a href="https://www.roots.gov.sg/ich-landing/ich/making-of-gold-jewellery-by-indian-goldsmiths" target="_blank"> Making of gold jewellery by Indian goldsmiths</a>(2019).<i>Roots.</i> Retrieved 2022, October 5.
+
+<h5><a href="https://www.roots.gov.sg/ich-landing/ich/making-of-chinese-paper-offerings" target="_blank"> Making of Chinese paper offerings</a></h5>
+<p> The burning of paper offerings is part of Chinese religious and cultural practices. A handful of businesses specialise in the making of these paper offerings in Singapore. This article provides an overview of the practice of making paper offerings, the types of offerings available, and features an interview with Mr Lai Yew Onn, one of the few remaining paper offerings craftsmen in Singapore.
+</p>
+Source: <a href="https://www.roots.gov.sg/ich-landing/ich/making-of-chinese-paper-offerings" target="_blank"> Making of Chinese paper offerings </a>(2019).<i>Roots.</i> Retrieved 2022, October 5.
