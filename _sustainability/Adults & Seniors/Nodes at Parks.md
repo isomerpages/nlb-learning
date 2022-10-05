@@ -69,5 +69,5 @@ third_nav_title: Adults & Seniors
 <li>Gardens by the Bay: Opposite Visitor Service Office and at the Golden Garden (near drop-off point)</li>
 <li>Jurong Lake Gardens: Across the two viewing decks and Eco-pond</li>
 <li>East Coast Park: Lawn next to Marine Cove Coffee Bean &amp; Tea Leaf and Lawn opposite Skater&rsquo;s Pavilion</li>
-<li>Pasir Ris Park: Lawn between Georges @ The Cove and toilet, and lawn near Toilet D</li></p>
-</ol>
+<li>Pasir Ris Park: Lawn between Georges @ The Cove and toilet, and lawn near Toilet D</li>
+</ol></p>
