@@ -324,3 +324,5 @@ Sullivan, Margaret. (1993). <i> “Can survive, la”: cottage industries in hig
 <img src="/images/Singapore%20Vanishing%20Trades/HainaneseFamily.png" style="width:200px;"></a>
 <p>
 Tells the stories of successful Hainanese family businesses in Singapore, such as Tai Sun, Ya Kun, and Jack’s Place, that had their roots as small shops and cottage industries.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
