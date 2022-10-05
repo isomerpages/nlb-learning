@@ -196,6 +196,27 @@ Joss sticks are often burnt as part of rituals during Chinese festivals. Founded
 </div>
 </div>
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/-Ecgdf9YDeI" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Artisanal Soy Sauce In Singapore: The Future’s Brewing | On The Red Dot | CNA Insider
+(22 mins)</b><br>
+Join host Elizabeth Boon as she spends a week at Nanyang Sauce, a family-run sauce brewery set up in 1959 that still uses the same recipes and traditional methods passed down through the generations. This video features Ken Koh, the third-generation owner, and his mother, sauce master Tan Poh Choo, delving into the origins of the family business, the process of making artisanal soy sauce by hand, as well as efforts to market the product to younger customers.<br><br>
+<small>
+Source: Artisanal Soy Sauce In Singapore: The Future’s Brewing | On The Red Dot | CNA Insider (2022, Jun 28). CNA. Retrieved 2022, October 5.
+</small></p>
+</div>
+</div>
+
+
+
+
 
 
 <h3><b>Learning Package</b></h3>
