@@ -76,3 +76,9 @@ third_nav_title: Adults & Seniors
   <ol><li>Admiralty Secondary School</li><li>Chua Chu Kang Secondary School</li> <li>Kuo Chuan Presbyterian Secondary School</li><li>Ngee Ann Secondary School</li><li>Spectra Secondary School</li><li>Yusof Ishak Secondary School</li><li>Zhonghua Secondary School</li>
 </ol></p>
 
+<h5><b>Unscramble & Win! $100 worth of shopping eVouchers</b></h5>
+
+<p>Ready to hunt down the sustainable benches in the park? Scan the QR codes on the benches to find 14 hidden letters. Unscramble them and submit your answer. $100 worth of shopping eVouchers are up for grabs for 5 lucky winners at each park! Click <a href="https://go.gov.sg/seekandunscramble4" target="_blank">here</a> to find out more.</p>
+
+<p><a href="https://go.gov.sg/susbenchtc" target="_blank">Terms and conditions</a> apply. </p>
+
