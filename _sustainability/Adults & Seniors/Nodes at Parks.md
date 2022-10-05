@@ -81,3 +81,9 @@ third_nav_title: Adults & Seniors
 <p>Ready to hunt down the sustainable benches in the park? Scan the QR codes on the benches to find 14 hidden letters. Unscramble them and submit your answer. $100 worth of shopping eVouchers are up for grabs for 5 lucky winners at each park! Click <a href="https://go.gov.sg/seekandunscramble4" target="_blank">here</a> to find out more.</p>
 
 <p><a href="https://go.gov.sg/susbenchtc" target="_blank">Terms and conditions</a> apply. </p>
+
+<p><small> Acknowledgements:</small></p>
+<p><small>Supported by: <a href="https://www.mse.gov.sg/sgecofund/" target="_blank">SG Eco Fund</a> and <a href="https://www.nparks.gov.sg/" target="_blank">Nparks</a> </small></p>
+
+
+
