@@ -310,3 +310,17 @@ Tan, Eileen. (2019). <i> Moving Singapore from Rickshaws to Motorbikes: Raising 
 <p> A family business history of motorbike dealership Ban Hock Hin, interwoven with the biographies of its founder, Tan San Chwee, and his eldest son, Robert Tan, who inherited the reins. It is also a history of the transport trade in Singapore, which the Henghua dialect group came to specialise in from the late 19th century. The first two chapters describe how Ban Hock Hin started in 1939 as a bicycle repair shop that later expanded into production with the innovation of its own carriage tricycle, hiring fellow Henghua clansmen as workers to support the growing business. &nbsp;
 </p><p><a href=" src="/images/Singapore%20Vanishing%20Trades/MovingSingapore.png">Borrow the eBook here.</a><p></p>
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
+
+<h4>Books</h4>
+<h5> “Can survive, la”: cottage industries in high-rise Singapore</h5>
+Sullivan, Margaret. (1993). <i> “Can survive, la”: cottage industries in high-rise Singapore. </i> Singapore: G. Brash. (Call no.: RCLOS 338.634095957 SUL)
+<br>
+<img src="/images/Singapore%20Vanishing%20Trades/CanSurviveLa.png" style="width:200px;"></a>
+<p> A rich collection of interviews conducted in the early 1980s with diverse cottage businesses in Singapore from spice mills and traditional medicine shops to tinsmiths and shoemakers. Aiming to provide a personal history of those involved in cottage industries, each profile traces how and when the trade was learnt, who taught it, how the product was made, the state of the industry and its future.</p>
+
+<h5>The Hainanese family business: a legacy of the heart</5>
+-. (2015). <i>The Hainanese family business: a legacy of the heart. </i>Singapore: MediaCorp Pte Ltd. (Call no.: RSING 338.708995105957 HAI)
+<br>
+<img src="/images/Singapore%20Vanishing%20Trades/HainaneseFamily.png" style="width:200px;"></a>
+<p>
+Tells the stories of successful Hainanese family businesses in Singapore, such as Tai Sun, Ya Kun, and Jack’s Place, that had their roots as small shops and cottage industries.</p>
