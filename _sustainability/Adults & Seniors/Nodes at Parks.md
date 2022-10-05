@@ -82,9 +82,7 @@ third_nav_title: Adults & Seniors
 
 <p><a href="https://go.gov.sg/susbenchtc" target="_blank">Terms and conditions</a> apply. </p>
 
-<p>Acknowledgements:</p>
+<p><strong> Acknowledgements: </strong></p>
+
 <p>Supported by: <a href="https://www.mse.gov.sg/sgecofund/" target="_blank">SG Eco Fund</a> and <a href="https://www.nparks.gov.sg/" target="_blank">Nparks</a></p> 
-
-<p>Venue Partner: <a href="https://www.gardensbythebay.com.sg/" target="_blank">Gardens by the Bay</a></p>
-
-
+Venue Partner: <a href="https://www.gardensbythebay.com.sg/" target="_blank">Gardens by the Bay</a>
