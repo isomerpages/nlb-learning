@@ -107,15 +107,15 @@ Participating schools: <a href="https://admiraltysec.moe.edu.sg/" target="_blank
 <td>Learn more about climate change and how it has affected Singapore.</td>
 </tr>
 <tr>
-<td><a href="https://go.gov.sg/nodesatparks-ereads-whentigersusedtoroam"><strong>When Tigers used to roam: Nature and Environment in Singapore</strong></a></td>
+<td><a href="https://go.gov.sg/nodesatparks-ereads-whentigersusedtoroam" target="_blank"><strong>When Tigers used to roam: Nature and Environment in Singapore</strong></a></td>
 <td>Find out more about this period where these natural predators co-existed with the human population.</td>
 </tr>
 <tr>
-<td><a href="https://go.gov.sg/nodesatparks-ereads-ofparkstreesandgardens"><strong>Of Parks, Trees and Gardens: The Greening of Singapore</strong></a></td>
+<td><a href="https://go.gov.sg/nodesatparks-ereads-ofparkstreesandgardens" target="_blank"><strong>Of Parks, Trees and Gardens: The Greening of Singapore</strong></a></td>
 <td>Discover how Singapore landscaped itself into becoming a garden city.</td>
 </tr>
 <tr>
-<td><a href="https://go.gov.sg/nodesatparks-ereads-natureconservation"><strong>Nature Conservation in Singapore</strong></a></td>
+<td><a href="https://go.gov.sg/nodesatparks-ereads-natureconservation" target="_blank"><strong>Nature Conservation in Singapore</strong></a></td>
 <td>Learn more about conservation in Singapore.</td>
 </tr>
 </tbody>
