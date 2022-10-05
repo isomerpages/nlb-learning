@@ -75,3 +75,4 @@ third_nav_title: Adults & Seniors
 <p>Participating schools: 
   <ol><li>Admiralty Secondary School</li><li>Chua Chu Kang Secondary School</li> <li>Kuo Chuan Presbyterian Secondary School</li><li>Ngee Ann Secondary School</li><li>Spectra Secondary School</li><li>Yusof Ishak Secondary School</li><li>Zhonghua Secondary School</li>
 </ol></p>
+
