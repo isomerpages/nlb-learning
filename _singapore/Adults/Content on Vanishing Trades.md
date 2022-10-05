@@ -271,8 +271,7 @@ Chew, Angela, Ricky Gui, and Jason Leong, (2016). <i>A Blink in Time: Memories o
 <img style="width:200px;" src="/images/Singapore%20Vanishing%20Trades/a-blink-in-time.png">
 <p>This coffee table book is meant to capture anecdotes and provide some pictures of Singapore’s vanishing past. There is a section in the book named “Under the Sun” where cobblers, the kacang putih seller, the street barber, parrot fortune teller, and koyok seller are shown. This book would be suitable for sharing with younger readers as the anecdotes are short and sweet, and the images are vibrant.</p>
 
-<p class="has-text-right margin--top--xl">&lt;
-a href="#main-content"&gt;Back to top</p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h5 class="margin--bottom--lg" id="lp-cottage-industries"><b> Learning Package: Cottage Industries</b></h5>
 
@@ -318,9 +317,8 @@ Sullivan, Margaret. (1993). <i> “Can survive, la”: cottage industries in hig
 <img src="/images/Singapore%20Vanishing%20Trades/CanSurviveLa.png" style="width:200px;"></a>
 <p> A rich collection of interviews conducted in the early 1980s with diverse cottage businesses in Singapore from spice mills and traditional medicine shops to tinsmiths and shoemakers. Aiming to provide a personal history of those involved in cottage industries, each profile traces how and when the trade was learnt, who taught it, how the product was made, the state of the industry and its future.</p>
 
-<h5>The Hainanese family business: a legacy of the heart</5>
--. (2015). <i>The Hainanese family business: a legacy of the heart. </i>Singapore: MediaCorp Pte Ltd. (Call no.: RSING 338.708995105957 HAI)
-<br>
+<h5>The Hainanese family business: a legacy of the heart </h5>
+-. (2015). <i>The Hainanese family business: a legacy of the heart.</i> Singapore: MediaCorp Pte Ltd. (Call no.: RSING 338.708995105957 HAI) <br>
 <img src="/images/Singapore%20Vanishing%20Trades/HainaneseFamily.png" style="width:200px;"></a>
 <p>
 Tells the stories of successful Hainanese family businesses in Singapore, such as Tai Sun, Ya Kun, and Jack’s Place, that had their roots as small shops and cottage industries.</p>
