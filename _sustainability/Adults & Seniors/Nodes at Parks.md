@@ -39,10 +39,12 @@ third_nav_title: Adults & Seniors
 </style>
 
 <h3><b>Nodes at Parks</b></h3>
-<img src="/images/sustainability/adults-and-seniors/Nodes%20at%20Parks%20Logo.png">
+
 <p>Nodes at Park is NLB's omni-channel way of building sustainability as a national habit, at a park near you! Serving as a gateway to NLB's eResources on sustainability, this initiative combines interactive installations at a showcase, as well as sustainable park benches.</p>
 
 <h4><b>The Sustainability Showcase</b></h4>
+<img src="/images/sustainability/adults-and-seniors/Nodes%20at%20Parks%20Showcase%20A.jpg">
+<img src="/images/sustainability/adults-and-seniors/Nodes%20at%20Parks%20Showcase%20B.png">
 <p>Ever wondered how your daily purchasing decisions impact the environment? Don’t miss this opportunity to browse our “supermarket” aisles and learn about 8 different topics on Sustainability. The items on display showcase interesting products that are conceptual ideas or existing products by green entrepreneurs. Learn about topics such as single-use plastics, composting, sustainable food production and more. </p> 
 
 <p>The <a href ="https://sure.nlb.gov.sg/" target="_blank">Read to be Sure</a>  component of the Sustainability Showcase provides multiple perspectives to sustainability issues so you can see the big picture. Don’t forget to vote for your preferred perspective too! 
