@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /sustainability/adults-seniors/overview
+permalink: /sustainability/adults-seniors/overview/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -59,6 +59,13 @@ It’s never too late to make a lifestyle change, but there’s no better time t
       <a href="/sustainability/adults-seniors/learning-pathways">
         <span>Learning<br>Pathways</span>
       </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/sustainability/adults-seniors/nodes-at-parks">
+        <span>Nodes at Parks</span>
+				</a>
     </div>
   </div>
 	<div class="col is-one-third">
