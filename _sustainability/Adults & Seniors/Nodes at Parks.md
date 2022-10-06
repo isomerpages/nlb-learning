@@ -69,7 +69,7 @@ third_nav_title: Adults & Seniors
 
 <p>7 secondary schools have come on board to paint their own designs on the Sustainable Benches, rendering their creative interpretations of NLB's sustainability eResources in all its visual splendour! The benches will be adopted by the schools after the duration of the run.</p>
 
-<p>Our benches are located here:
+<p>Our benches are <a href ="https://go.gov.sg/rtbs-nodes-bench" target="_blank">located here</a>:
 <ol>
 	<li><b>Gardens by the Bay:</b> Opposite Visitor Service Office and at the Golden Garden (near drop-off point)</li>
 	<li><b>Jurong Lake Gardens:</b> Across the two viewing decks and Eco-pond</li>
