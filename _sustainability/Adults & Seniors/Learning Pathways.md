@@ -80,11 +80,10 @@ Participants will also get an exclusive opportunity to tour the Meta Infrastuctu
 </div>
 
 <div class="horizontal-scroll margin--bottom--lg">
-	<div class="horizontal-scroll margin--bottom--lg">
-  </div><table class="generic-table">
+  <table class="generic-table">
     <thead>
       <tr>
-		<th colspan="4"class="is-upper-case has-weight-normal">Learn more about Sustainability in other aspects</th>
+        <th class="is-uppercase has-weight-normal" colspan="4">Learn more about Sustainability in other aspects</th>
      </tr>
     </thead>
     <tbody>
