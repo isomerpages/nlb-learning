@@ -4,7 +4,6 @@ permalink: /sustainability/adults-seniors/nodes-at-parks/
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -65,8 +64,8 @@ third_nav_title: Adults & Seniors
 
 <h4><b>Sustainable Benches</b></h4>
 <img src="/images/sustainability/adults-and-seniors/Nodes%20at%20Parks%20Logo-BENCHES.png">
-
-<p>Look out for our specially curated <u>Sustainable Benches</u> located around the park! Placed in the vicinity of the <u>Sustainability Showcase</u>, these benches allow you to access a wide range of sustainability-themed eResources without having to step foot in the library! Scan their QR codes to access enriching eReads and watch videos created by Republic Polytechnic students!</p>
+ 
+<p>Look out for our specially curated Sustainable Benches <a href ="https://go.gov.sg/rtbs-nodes-bench" target="_blank">located around the park</a>! Placed in the vicinity of the <u>Sustainability Showcase</u>, these benches allow you to access a wide range of sustainability-themed eResources without having to step foot in the library! Scan their QR codes to access enriching eReads and watch videos created by Republic Polytechnic students!</p>
 
 <p>7 secondary schools have come on board to paint their own designs on the Sustainable Benches, rendering their creative interpretations of NLB's sustainability eResources in all its visual splendour! The benches will be adopted by the schools after the duration of the run.</p>
 
