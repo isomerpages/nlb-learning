@@ -128,6 +128,7 @@ On 30th April, the teams presented their ideas to an online audience, collected 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Nodes at Parks
+<img src="/images/sustainability/adults-and-seniors/Nodes%20at%20Parks%20Logo.png">
 <p>Encounter eResources on Sustainability at a park near you! From 14 October 2022 to 26 February 2023, NLB is presenting a brand-new initiative called "Nodes at Parks". Come interact with NLB's exciting eResources on Sustainability. It consists of two parts: The Sustainability Showcase, and Sustainable Benches.</p>
 <u>Don't miss the opportunity to visit us:</u>
 
