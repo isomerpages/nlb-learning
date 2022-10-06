@@ -153,7 +153,7 @@ On 30th April, the teams presented their ideas to an online audience, collected 
 <p><strong>14 October to 22 November 2022:</strong> Gardens by the Bay beside the ticketing office (near Flower Dome)</p>
 <p><strong>25 November to 18 December 2022:</strong> Jurong Lake Gardens at the Entrance Pavillion</p>
 <p><strong>21 December 2022 to 24 January 2023:</strong> East Coast Park at Raintree Cove</p>
-<p><strong>27 January to 26 February 2023:</strong> Pasir Ris Park at the Sheltre near Carpark D</p>
+<p><strong>27 January to 26 February 2023:</strong> Pasir Ris Park at the Shelter near Carpark D</p>
 <p><h5><b>Check out the highlights of Nodes at Parks below:</b></h5></p>
 <p>As part of the suite of activities at the Showcase you will also be able to collect free pre-loved books, donate your own pre-loved books, as well as participate in interactive activities to collect sustainable giveaways</p>
 <p>Visit the <a href="https://go.gov.sg/rtbs-nodesatparks4" target="_blank">Nodes at Parks</a> webpage for more information.</p>
