@@ -58,39 +58,18 @@ The story of technology is the history of people solving problems, overcoming ad
     </thead>
     <tbody>
 			<tr>
-<td><a href="https://www.eventbrite.com/cc/my-digital-life-303169" target="_blank"><b>[My Digital Life]</b><br>Leap into Livestreaming 101</a></td>
-        <td>Take a leap into livestreaming & learn about the basics of video production and get hands-on experience with setting up for a livestream!</td>
-        <td>Saturdays, 12pm-2pm</td>
-        <td>Public Libraries</td>
-      </tr>
-      <tr>
-        <td style="width: 20%;"><a href="https://go.gov.sg/fowee2022" target="_blank"><b>Future of Work</b><br>Expert Edition</a></td>
-        <td style="width: 40%;">Join us for an exciting 2 week line-up of programmes by expert speakers to learn about trending technology & career skills to help you navigate the future workplace!</td>
-        <td style="width: 20%;"> 30 Aug 2022- 8 September 2022<br></td>
-        <td style="width: 20%;">Zoom and library@harbourfront</td>
-      </tr>
-			<tr>
-<td><a href="https://www.eventbrite.sg/e/reducing-your-workload-through-rpa-future-of-work-tickets-394955702137?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Reducing your Workload through RPA</a></td>
-        <td>Learn about a popular robotic automation software and how it can be used to help you work more efficiently.
-</td>
-        <td>13 September 2022, <br>6:30pm - 8.30pm</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
-<td><a href="https://www.eventbrite.sg/e/visualizing-data-future-of-work-tickets-409772389247?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Visualizing Data
-</a></td>
-        <td>This talk teaches you how to present complex data in a simple manner using data visualisation techniques.
-</td>
-        <td>19 September 2022, <br>7:00pm - 8.00pm</td>
+<td><a href="https://www.eventbrite.sg/e/leap-into-livestreaming-with-obs-my-digital-life-registration-411806784177" target="_blank"><b>[My Digital Life]</b><br>Leap into Livestreaming with OBS</a></td>
+        <td>Learn the software and tools on how to livestream effectively.</td>
+        <td>15 October 2022, 10:30am-12:30pm</td>
         <td>Zoom</td>
       </tr>
 			<tr>
-	<td><a href="https://www.eventbrite.sg/e/leap-into-livestreaming-101-time-of-your-life-registration-398727934987" target="_blank"><b>[Time of Your Life]</b><br>Leap into Livestreaming 101
+	<td><a href="https://www.eventbrite.sg/e/data-analytics-with-python-for-beginners-future-of-work-tickets-424896947207" target="_blank"><b>[Future of Work]</b><br>Getting Started with Data Analytics with Python
 </a></td>
-        <td>Take a leap into livestreaming & learn about the basics of video production and get hands-on experience with setting up for a livestream!
+        <td>Learn the fundamental of data analysis and various data analytics processes with Python implementation.
 </td>
-        <td> 18 September 2022, <br>4:00pm-6:00pm</td>
-        <td>library@chinatown</td>
+        <td> 25 October 2022<br>6:30pm-8:30pm</td>
+        <td>Zoom</td>
       </tr>
 			    </tbody>
   </table>
@@ -107,8 +86,8 @@ The story of technology is the history of people solving problems, overcoming ad
       <tr>
         <td style="width: 20%;"><a href="https://go.gov.sg/lcsessions" target="_blank"><b>Pi and Python LC</b></a></td>
         <td style="width: 40%;">The aim of this LearnX Community is to create awareness of the Raspberry Pi, learn how to programme it using the Python Language, and create interesting projects like a burglar alarm.</td>
-        <td style="width: 20%;">2 July 2022, <br>12pm-3pm</td>
-        <td style="width: 20%;">MakeIT @ Tampines</td>
+        <td style="width: 20%;">TBC<br></td>
+        <td style="width: 20%;">TBC</td>
       </tr>
     </tbody>
   </table>
