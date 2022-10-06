@@ -40,7 +40,23 @@ third_nav_title: Adults & Seniors
 .green-text { color: #2E8B57; font-size: 16px; }
 	
 </style>
+<h6><p> Missed out on our sustainability programmes? Don't fret - stay updated and check out our post-event highlights below! </p></h6>
 
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#the-great-make-over-project">
+        <span>The Great Make-over Project</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#nodes-at-parks">
+        <span>Nodes at Parks</span>
+      </a>
+    </div>
+  </div>
 
 ## The Great Make-Over Project
 <img src="/images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:300px;height:500px;">
