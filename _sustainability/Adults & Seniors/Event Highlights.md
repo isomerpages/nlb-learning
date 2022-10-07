@@ -1,6 +1,6 @@
 ---
 title: Event Highlights
-permalink: /sustainability/adults-seniors/event-highlights
+permalink: /sustainability/adults-seniors/event-highlights/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -40,9 +40,26 @@ third_nav_title: Adults & Seniors
 .green-text { color: #2E8B57; font-size: 16px; }
 	
 </style>
+<h6><p> Missed out on our sustainability programmes? Don't fret - stay updated and check out our post-event highlights below! </p></h6>
 
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#the-great-make-over-project">
+        <span>The Great Make-over Project</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#nodes-at-parks">
+        <span>Nodes at Parks</span>
+      </a>
+    </div>
+  </div>
+</div>
 
-## The Great Make-Over Project
+<h3 id="the-great-make-over-project"><b>The Great Make-Over Project</b></h3>
 <img src="/images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:300px;height:500px;">
 
 The Great Make-Over Project, a community co-solutioning initiative by NLB and supported by CapitaLand Hope Foundation, brings together everyday people to co-solution, reinvent, and reimagine spaces to promote sustainable living. 
@@ -126,3 +143,17 @@ On 30th April, the teams presented their ideas to an online audience, collected 
 <b>Highlights video: </b>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- Nodes at Parks  -->
+<h3 id="nodes-at-parks"><b>Nodes at Parks</b></h3>
+<img src="/images/sustainability/adults-and-seniors/Nodes%20at%20Parks%20Logo.png">
+<p>Encounter eResources on Sustainability at a park near you! From 14 October 2022 to 26 February 2023, NLB is presenting a brand-new initiative called "Nodes at Parks". Come interact with NLB's exciting eResources on Sustainability. It consists of two parts: The Sustainability Showcase, and Sustainable Benches.</p>
+<u>Don't miss the opportunity to visit us:</u>
+
+<p><strong>14 October to 22 November 2022:</strong> Gardens by the Bay beside the ticketing office (near Flower Dome)</p>
+<p><strong>25 November to 18 December 2022:</strong> Jurong Lake Gardens at the Entrance Pavillion</p>
+<p><strong>21 December 2022 to 24 January 2023:</strong> East Coast Park at Raintree Cove</p>
+<p><strong>27 January to 26 February 2023:</strong> Pasir Ris Park at the Shelter near Carpark D</p>
+<p><h5><b>Check out the highlights of Nodes at Parks below:</b></h5></p>
+<p>As part of the suite of activities at the Showcase you will also be able to collect free pre-loved books, donate your own pre-loved books, as well as participate in interactive activities to collect sustainable giveaways</p>
+<p>Visit the <a href="https://go.gov.sg/rtbs-nodesatparks4" target="_blank">Nodes at Parks</a> webpage for more information.</p>

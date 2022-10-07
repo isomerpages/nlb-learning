@@ -64,8 +64,22 @@ Through this pathway you can explore different resources and learn ways to culti
       <tr>
         <th colspan="4" class="is-uppercase has-weight-normal "> Learn more with the Professionals and Academics in the field</th>
 			</tr>
-		</thead>
-     <tbody>
+    </thead>
+    <tbody>
+			        
+<tr>
+<td><a href="https://www.eventbrite.sg/e/414417342427" target="\_blank"><b> Pro Series: Clay (Clay & Everything Else with Gellyvieve) | library@orchard</b></a></td>
+        <td> Join us for this Zoom talk as artist and maker Genevieve shares about her practice stretching across various disciplines and explore the boundless possibilities of clay.<br><br></td>
+        <td>8 Oct 2022,<br>2.30pm-4.30pm </td>
+        <td>Zoom </td>
+      </tr>
+
+<tr>
+<td><a href="https://www.eventbrite.sg/e/403277402567" target="\_blank"><b> Resident: Saori Weaving (Open Studio) | library@orchard </b></a></td>
+        <td> Textile artist Natalia Tan is library@orchard’s artist-in-residence from August 2022 to January 2023! During this residency, she will be exploring the intertwining of narratives with the craft of weaving. Drop by any time during this Open Studio session to say hello, discover her studio, and get a first-hand look at her work processes. <br><br></td>
+        <td>9 Oct 2022,<br>2pm-5pm </td>
+        <td> library@orchard, Imagine That </td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -121,15 +135,23 @@ Through this pathway you can explore different resources and learn or hone new s
         <td>Monthly</td>
         <td>Zoom</td>
       </tr>
-			
-<tr>
-<td><a href="https://www.eventbrite.sg/e/378185401717" target="_blank"><b>Tactile Tales: Weaving with Stories (Teaching and Learning) | library@orchard</b></a></td>
-        <td> Weaving is an age-old practice inextricably linked to the art of storytelling. The words ‘text’ and ‘textile’ come from the Latin word ‘texere’, which means 'to weave'.<br><br>
 
-In this community artmaking session, library@orchard’s artist-in-residence Natalia Tan will guide participants to explore their personal stories through freestyle weaving.</td>
-        <td>25 Sept 2022, <br>2pm - 4pm</td>
-        <td>library@orchard, Imagine That</td>
-      </tr>
+<tr>
+<td><a href="https://www.eventbrite.sg/e/409152735847" target="\_blank"><b> Pro Series: Zine Design (The Future of Zines) | library@orchard </b></a></td>
+        <td> Zines are back in the limelight again with the recent coverage in mainstream press. The continuing success of the Singapore Art Book Fair shows zines are still alive and kicking in the 21st century. But what is the future of zines? What does its form and mode of production and distribution say about cost, class, causes and its continued relevance as a vehicle for change, personal voice and commitment? <br><br>
+Join speakers CT Lim and Renée Ting as they share their thoughts and views on the future of zines in Singapore. </td>
+        <td>14 Oct 2022,<br> 6.30pm-8.30pm </td>
+        <td> library@orchard, Imagine This </td>
+      </tr>
+
+<tr>
+<td><a href="https://www.eventbrite.sg/e/403290301147" target="\_blank"><b> Pro Series: Nanyang Art Style (Sculpting From Nature) | library@orchard </b></a></td>
+        <td> The Nanyang art style is Singapore’s very own unique art style. It embodies one of Singapore's most renown traits as a melting pot of Eastern and Western cultures. <br><br>
+In this session, Singaporean sculptor Aileen Toh will be sharing about her sustainable art practice through her upcycled wood sculptures. </td>
+        <td>15 Oct 2022,<br> 2.30pm-4.30pm </td>
+        <td> library@orchard, Imagine This </td>
+      </tr>
+			
     </tbody>
   </table>
 </div>
@@ -153,6 +175,22 @@ A big part of art is active participation in the larger community: seeing others
         <td>18 Sept 2022, 3pm - 5pm</td>
         <td>library@orchard, Make</td>
       </tr>
+      
+
+<tr>
+<td><a href=" https://www.eventbrite.sg/e/411843183047 " target="\_blank"><b> Communities: Zzzink! (Light & Shadow) | library@orchard  </b></a></td>
+        <td> This month we celebrate Deepavali, the festival of lights! As part of the festivities, we will be exploring the use of light in art and zines for this session of Communities: Zzzink! <br><br>
+During the session, participants may create zines with the theme of the month, work on your own zines or simply use the time to connect with like-minded creators. </td>
+        <td>16 Oct 2022, 3pm - 5pm</td>
+        <td> library@orchard, Make </td>
+      </tr>
+<tr>
+<td><a href=" https://www.eventbrite.sg/e/403298686227" target="\_blank"><b> Tactile Tales: Weaving with Stories (The Light in the Dark) | library@orchard </b></a></td>
+        <td> In this community artmaking session, library@orchard’s artist-in-residence Natalia Tan will guide participants to explore their personal stories through freestyle weaving. <br><br>
+Participants may also bring their own story-related items to weave into the artwork, or just for storytelling purposes. </td>
+        <td>23 Oct 2022, 2pm - 4pm</td>
+        <td> library@orchard, Imagine This & That </td>
+      </tr>
 			
  <tr>
   <td><a href="https://www.facebook.com/groups/learnxarts.sg/posts/434239158202363/" target="_blank"><b>Young Musicians Festival</b></a></td>
