@@ -64,21 +64,21 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b>Talk Series</b><br/>Industry Insights</td>
+        <td style="width: 20%;"><a href="https://go.gov.sg/industryinsights" target="_blank"><b>Talk Series</b><br/>Industry Insights</a></td>
         <td style="width: 40%;">What is it like having a career in rising, up-and-coming industries? How does one get a foot in the door? Find out through this series of talks.</td>
-        <td style="width: 20%;"><a href="https://go.gov.sg/industryinsights" target="_blank">Last Thursday of the month</a></td>
+        <td style="width: 20%;">Last Thursday of the month</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 							      <tr>
-        <td><b>Partnership</b><br/>Workforce Singapore (WSG)</td>
-        <td>Career Catalyst (1-to-1 Career Coaching) by Workforce Singapore (WSG)</td>
-        <td>WSG's Career Catalyst - details available <a href="https://content.mycareersfuture.gov.sg/career-guidance/" target="_blank">at their website</a></td>
+        <td><a href="https://content.mycareersfuture.gov.sg/career-guidance/" target="_blank"><b>Workforce Singapore</b><br/>Career Catalyst</a></td>
+        <td>1-to-1 Career Coaching by Workforce Singapore (WSG)</td>
+        <td>Details available at WSG's website</td>
         <td></td>
 			</tr>
 			<tr>
-        <td></td>
-        <td>Walk-in Interview for Logistics Roles</td>
-        <td><a href="https://wsg-careergrit.glideapp.io/dl/1e2505/s/ea1b9a/r/OAK3-C1DTJOJYUh.N5m2nA/s/d58d37/r/3LGOxu97SbqdOICjcw7Q3g?utm_source=Workipedia&utm_medium=PhysicalEventListings&utm_campaign=Referral&full=t" target="_blank">11 Oct<br/>12-5pm</a></td>
+				<td><a href="https://wsg-careergrit.glideapp.io/dl/1e2505/s/ea1b9a/r/OAK3-C1DTJOJYUh.N5m2nA/s/d58d37/r/3LGOxu97SbqdOICjcw7Q3g?utm_source=Workipedia&utm_medium=PhysicalEventListings&utm_campaign=Referral&full=t" target="_blank"><b>Workforce Singapore</b><br/>Walk-in Interviews</a></td>
+        <td>Walk-in to the library and interview on the spot for Logistics Roles!</td>
+        <td>11 Oct<br/>12-5pm</td>
         <td>Jurong Regional Library<br/>Programme Zone</td>
 			</tr>
     </tbody>
@@ -105,16 +105,11 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
         <td>Season 5 <br/>Coming Soon</td>
         <td>Zoom</td>
       </tr>
-			 <tr>
-        <td><b>Time of Your Life</b><br/>Personal Packaging</td>
-        <td> Hear from Hyder Bilgrami, a communications expert, as he discusses the impact that your every action can leave.</td>
-        <td><a href="https://www.eventbrite.sg/e/personal-packaging-ask-me-anything-ama-x-toyl-celebration-registration-407220586737" target="_blank">5 Oct<br>7-8pm</a></td>
-        <td>library@harbourfront<br/>Programme Zone</td>
-      </tr>
+			 
 <tr>
-<td><b>Partnership</b><br/>SkillsFuture</td>
+<td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>SkillsFuture</b><br/>SkillsFuture Advice Webinars</a></td>
         <td>At SkillsFuture Advice webinars, learn how to acquire new skills with SkillsFuture credits!</td>
-        <td><a href="https://www.skillsfuture.gov.sg/advice" target="_blank">Refer to SkillsFuture website</a></td>
+        <td>Refer to SkillsFuture website</td>
         <td>Online</td>
       </tr>
     </tbody>
@@ -169,10 +164,10 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
       <tr>
-        <td><b>Workshop</b><br>Be Your Own Breakthrough</td>
-        <td>Learn to cultivate good habits for the self-employed, and flourish like good trees.</td>
-        <td><a href="https://www.eventbrite.sg/e/be-your-own-breakthrough-flourishing-like-a-good-tree-tickets-423134425457" target="_blank">3 Oct 10.30am-12pm</a></td>
-        <td>Bishan Public Library Programme Zone</td>
+        <td><b>Workshop Series</b><br>Breakthrough</td>
+        <td>Uncover the secrets of success through conversations with entrepreneurs at the top of their game.</td>
+        <td>Coming Soon</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -226,9 +221,9 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
         <td style="width: 20%;">Zoom</td>
       </tr>
       <tr>
-        <td><b>Videos On-Demand</b><br/>How To Learn Like A Pro</td>
+        <td><a href="https://go.gov.sg/futureoflearning-videos" target="_blank"><b>Videos On-Demand</b><br/>How To Learn Like A Pro</a></td>
        <td>Recordings from the Future of Learning 2021 event, featuring prominent local experts and TED/TEDx speakers.</td>
-				<td><a href="https://go.gov.sg/futureoflearning-videos" target="_blank">Panopto</a></td>
+				<td>Panopto</td>
         <td>Online</td>
       </tr>
     </tbody>
@@ -244,7 +239,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
     </thead>
     <tbody>
 <tr>
-        <td style="width: 20%;"><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>SkillsFuture Advice Webinars</b></a></td>
+        <td style="width: 20%;"><a href="https://www.skillsfuture.gov.sg/advice" target="_blank"><b>SkillsFuture</b><br/>SkillsFuture Advice  Webinars</a></td>
         <td style="width: 40%;">Learn how to acquire new skills with 
 SkillsFuture credits</td>
         <td style="width: 20%;">Refer to SkillsFuture website</td>
@@ -269,15 +264,15 @@ SkillsFuture credits</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 			  <tr>
-        <td><b>Learning Community</b><br>LCS Toastmasters</td>
+        <td><a href="https://www.eventbrite.sg/e/life-communication-skills-toastmasters-october-chapter-meeting-registration-4139027532777" target="_blank"><b>Learning Community</b><br>LCS Toastmasters</a></td>
         <td>Life Communication Skills (LCS) Toastmasters Club<br/>Communication is an essential tool. Learn ways to improve your communication style in a friendly environment.</td>
-        <td><a href="https://www.eventbrite.sg/e/life-communication-skills-toastmasters-october-chapter-meeting-registration-4139027532777" target="_blank">12 Oct<br/>6.45-8.30pm</a></td>
+        <td>12 Oct<br/>6.45-8.30pm</td>
         <td>Toa Payoh Public Library Programme Zone</td>
       </tr>
 			 <tr>
-        <td><b>Event</b><br>Learning Day</td>
+        <td><a href="https://www.eventbrite.sg/e/learning-day-october-2022-tickets-42321307068" target="_blank"><b>Event</b><br>Learning Day</a></td>
         <td>Learning Day is a gathering in which folks teach and learn something, anything, from each other!</td>
-        <td><a href="https://www.eventbrite.sg/e/learning-day-october-2022-tickets-42321307068" target="_blank">22 Oct<br/>2-5pm</a></td>
+        <td>22 Oct<br/>2-5pm</td>
         <td>Bishan Public Library Programme Zone</td>
       </tr>
     </tbody>
