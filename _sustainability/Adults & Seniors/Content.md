@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /sustainability/adults-seniors/content
+permalink: /sustainability/adults-seniors/content/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -113,6 +113,20 @@ Check our **learning packages** for articles that will give you insights into li
 			</a>
 	</div>
 	</div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#energy-sustainability">
+        <span>Playlist:<br>Green Technology</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#energy-sustainability">
+				<span>Learning Package:<br>Green Technology</br></span>
+      </a>
+    </div>
+  </div>
 	</div>
 
 	
