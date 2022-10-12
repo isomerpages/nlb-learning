@@ -77,7 +77,7 @@ Every 2nd Saturday of the month, 2pm to 4pm at library@harbourfront </p>
       <p class="margin--top--sm margin--bottom--sm"> Interested in creating a chatbot? What are the tools and technology behind this artificial intelligence (AI)? Will a robot one day be a more interesting conversationalist than a human being? Join our group as we explore how chatbots could be fun and useful in our daily life!<br>
 				
 Facilitated by Mr. Christian Jonathan, a business development executive at TerraAI and facilitator at AI4IMPACT. AI4IMPACT is a learning group which aims to make AI accessible to everyone, including non-programmers.<br><br>
-For 15 and above, conducted monthly in English at Woodlands Regional Library and Telegram. </p>
+For 15 and above, conducted twice a year in English online via Zoom and Telegram. </p>
       <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/chatbot-lxc-2023" target="_blank">Register your interest for the next Chatbot Challenge</a></p>
     </div>
 </div>
