@@ -394,8 +394,9 @@ You love fashion and think nothing of buying the latest designs. However, have y
 <p>In the age of R&amp;D and rapid digitalization, technology plays a crucial role in mitigating climate change. From clean technology to digital services, green technology ensures that existing resources are efficiently used and distributed. The goal is to create sustainable processes and systems to reduce environmental impact and climate risks. Learn more about current motivations and designs in green technology from our recommended resources below.
 
 </p><h4>Articles</h4>
-<h5>1. Bold use of green tech can foster a new era of sustainable growth</h5>
+<h5>1. Bold use of green tech can foster a new era of sustainable growth</h5>><a href="https://www.weforum.org/" target="\_blank">agenda/2022/04/green-tech-sustainable-growth/
 <p>In this bite-sized article, learn how the different industry verticals can adopt green technology to integrate more sustainable practices into their businesses.</p>
+
 
 	
 
