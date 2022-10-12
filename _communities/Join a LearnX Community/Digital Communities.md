@@ -1,6 +1,6 @@
 ---
 title: Digital Communities
-permalink: /communities/join/digital-communities
+permalink: /communities/join/digital-communities/
 description: ""
 third_nav_title: Join a LearnX Community
 ---
@@ -71,14 +71,14 @@ Every 2nd Saturday of the month, 2pm to 4pm at library@harbourfront </p>
     </div>
   </div>
 <div class="col is-half-tablet padding--bottom--lg">
-    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-01.jpg" alt="Chatbot LC">
+    <img src="/images/learning-communities/digital/LC-Digital-Stockimage-01.jpg" alt="Chatbot LearnX Community">
     <div class="margin--top--lg">
       <h5 class="margin--top--sm margin--bottom--sm"><b>Chatbot LC</b></h5>
-      <p class="margin--top--sm margin--bottom--sm">Interested in creating a chat bot? What are the tools and technology behind this artificial intelligence? Will a robot one day be a more interesting conversationalist than a human being? Join our group as we explore how chat bots could be fun and useful in our daily life!<br>
-
-Facilitated by Mr. Christian Jonathan, a business development executive at TerraAI and Facilitator at ai4impact. Ai4impact is a learning group which aims to make AI accessible to everyone, including non-programmers.<br><br>
+      <p class="margin--top--sm margin--bottom--sm"> Interested in creating a chatbot? What are the tools and technology behind this artificial intelligence (AI)? Will a robot one day be a more interesting conversationalist than a human being? Join our group as we explore how chatbots could be fun and useful in our daily life!<br>
+				
+Facilitated by Mr. Christian Jonathan, a business development executive at TerraAI and facilitator at AI4IMPACT. AI4IMPACT is a learning group which aims to make AI accessible to everyone, including non-programmers.<br><br>
 For 15 and above, conducted monthly in English at Woodlands Regional Library and Telegram. </p>
-      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsessions" target="_blank">Click here for upcoming session</a></p>
+      <p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/chatbot-lxc-2023" target="_blank">Register your interest for the next Challenge</a></p>
     </div>
 </div>
   <div class="col is-half-tablet padding--bottom--lg">
@@ -91,4 +91,3 @@ For 15 and above, conducted monthly in English at Woodlands Regional Library and
     </div>
   </div>
 </div>
-
