@@ -425,7 +425,14 @@ You love fashion and think nothing of buying the latest designs. However, have y
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-green-technology"><b>Green Technology </b></h5>
-<p>
+<p>In the age of R&D and rapid digitalization, technology plays a crucial role in mitigating climate change. From clean technology to digital services, green technology ensures that existing resources are efficiently used and distributed. The goal is to create sustainable processes and systems to reduce environmental impact and climate risks. Learn more about current motivations and designs in green technology from our recommended resources below.</p>
+
+<h4>Articles</A4>
+Bold use of green tech can foster a new era of sustainable growth
+
+
+
+	
 
 
 
