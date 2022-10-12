@@ -396,7 +396,9 @@ You love fashion and think nothing of buying the latest designs. However, have y
 <h4>Articles</h4>
 <h5>1. Bold use of green tech can foster a new era of sustainable growth</h5>
 <h5><a id="lp-green-econ" href="https://www.weforum.org/agenda/2022/04/green-tech-sustainable-growth></a></h5>
-<p>In this bite-sized article, learn how the different industry verticals can adopt green technology to integrate more sustainable practices into their businesses.</p>
+<p>In this bite-sized article, learn how the different industry verticals can adopt green technology to integrate more sustainable 
+practices into their businesses.</p>
+	Source: Meissner, Phillip. “Bold use of green tech can foster a new era of sustainable growth”. World Economic Forum, April 20, 2022
 
 
 	
