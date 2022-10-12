@@ -234,13 +234,19 @@ Innovation in the development of widely used materials such as concrete coupled 
   </div>
 	</div>
 	
-
-
-
-
-
-
-
+		<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+ <iframe src="https://www.youtube.com/embed/PIulbHyK0bc" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Why heaters are the future of cooling</b><br> 
+Green technology need not be completely new, it can also be existing technologies that are put to more efficient uses. This video shows how heat pumps can be a more efficient heating/cooling solution for parts of the world but also touches on the social and political obstacles to its adoption. <br><br>
+<small>Source: Why heaters are the future of cooling (2021, September 24). Vox. Retrieved 2022, October 12.</small></p>
+  </div>
+	</div>
 
 
 <h5 id="energy-sustainability" class="margin--bottom--lg"><b>Playlist: The Curious About Energy Sustainability Playlist</b></h5>
