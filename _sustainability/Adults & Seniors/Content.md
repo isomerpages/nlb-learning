@@ -224,13 +224,13 @@ This video explores how companies are incorporating technological innovations to
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
- <iframe src="https://www.youtube.com/embed/HVTBgLl95u0" class="responsive-iframe"></iframe>
+ <iframe src="https://www.youtube.com/embed/YGJ5EBrh8IQ" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b>Investing In Sustainable Data Centres | Money Mind | Technology</b><br> 
-This video explores how companies are incorporating technological innovations to make energy intensive data centers, an indispensable digital infrastructure, more sustainable. <br><br>
-<small>Source: Investing In Sustainable Data Centres | Money Mind | Technology (2022, May 3). CNA. Retrieved 2022, October 5.</small></p>
+  <p><b>This Green Tech is Bringing Life Back to the Sea</b><br> 
+Innovation in the development of widely used materials such as concrete coupled with a design philosophy focused on sustainability is changing the way that man-made structures can be co-extensive with nature. <br><br>
+<small>Source: This Green Tech is Bringing Life Back to the Sea (2019, August 9). Bloomberg Quicktake: Originals. Retrieved 2022, October 5.</small></p>
   </div>
 	</div>
 	
