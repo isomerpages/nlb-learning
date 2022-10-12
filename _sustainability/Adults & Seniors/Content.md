@@ -391,11 +391,16 @@ You love fashion and think nothing of buying the latest designs. However, have y
 
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-green-technology" class="margin--bottom--lg"><b>Green Technology </b></h5>
-<p>In the age of R&amp;D and rapid digitalization, technology plays a crucial role in mitigating climate change. From clean technology to digital services, green technology ensures that existing resources are efficiently used and distributed. The goal is to create sustainable processes and systems to reduce environmental impact and climate risks. Learn more about current motivations and designs in green technology from our recommended resources below.
+<p>In the age of R&D and rapid digitalization, technology plays a crucial role in mitigating climate change. From clean technology to digital services, green technology ensures that existing resources are efficiently used and distributed. The goal is to create sustainable processes and systems to reduce environmental impact and climate risks. Learn more about current motivations and designs in green technology from our recommended resources below.
 
 </p><h4>Articles</h4>
 <h5>1. Bold use of green tech can foster a new era of sustainable growth</h5>><a href="https://www.weforum.org/agenda/2022/04/green-tech-sustainable-growth" target="_blank">
 <p>In this bite-sized article, learn how the different industry verticals can adopt green technology to integrate more sustainable practices into their businesses.</p>
+Source: Meissner, Phillip. “Bold use of green tech can foster a new era of sustainable growth”. World Economic Forum, April 20, 2022
+
+
+<h5>2. Cloud storage can be a green solution</h5>><a href="https://www.sustainability-times.com/green-consumerism/cloud-storage-can-be-a-green-solution/" target="_blank">
+<p>Is cloud storage truly sustainable? Get a quick look on how cloud storage and the growth of data centers can bring more boon than bane for sustainability.</p>
 
 
 	
