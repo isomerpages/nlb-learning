@@ -421,9 +421,20 @@ You love fashion and think nothing of buying the latest designs. However, have y
   </div>
 </div>
 
-	
-
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b>Learning Package</b></h3>
+<h5 class="margin--bottom--lg" id="lp-green-technology"><b>Green Technology </b></h5>
+<p>
+
+
+
+
+
+
+
+
+
 
 
 <h3><b>Learning Package</b></h3>
