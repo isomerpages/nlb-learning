@@ -203,6 +203,46 @@ A related concept to the green economy is the blue economy which is about managi
   </div>
 </div>
 
+<h5 id="green-technology" class="margin--bottom--lg"><b>Playlist: Green Technology </b></h5>
+We learn about some of the technological innovations that promise to revolutionize sustainability efforts and the limits of climate solutions that overly focus on technological improvements. 
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+ <iframe src="https://www.youtube.com/embed/HVTBgLl95u0" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Investing In Sustainable Data Centres | Money Mind | Technology</b><br> 
+This video explores how companies are incorporating technological innovations to make energy intensive data centers, an indispensable digital infrastructure, more sustainable. <br><br>
+<small>Source: Investing In Sustainable Data Centres | Money Mind | Technology (2022, May 3). CNA. Retrieved 2022, October 5.</small></p>
+  </div>
+	</div>
+	
+	<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+ <iframe src="https://www.youtube.com/embed/HVTBgLl95u0" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Investing In Sustainable Data Centres | Money Mind | Technology</b><br> 
+This video explores how companies are incorporating technological innovations to make energy intensive data centers, an indispensable digital infrastructure, more sustainable. <br><br>
+<small>Source: Investing In Sustainable Data Centres | Money Mind | Technology (2022, May 3). CNA. Retrieved 2022, October 5.</small></p>
+  </div>
+	</div>
+	
+
+
+
+
+
+
+
+
+
 <h5 id="energy-sustainability" class="margin--bottom--lg"><b>Playlist: The Curious About Energy Sustainability Playlist</b></h5>
 
 We address some of your burning queries about energy sustainability, a crucial area that impacts our everyday living in this video compilation.<br>
