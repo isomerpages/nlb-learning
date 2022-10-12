@@ -73,7 +73,7 @@ Every 2nd Saturday of the month, 2pm to 4pm at library@harbourfront </p>
 <div class="col is-half-tablet padding--bottom--lg">
     <img src="/images/learning-communities/digital/LC-Digital-Stockimage-01.jpg" alt="Chatbot LearnX Community">
     <div class="margin--top--lg">
-      <h5 class="margin--top--sm margin--bottom--sm"><b>Chatbot LC</b></h5>
+      <h5 class="margin--top--sm margin--bottom--sm"><b>Chatbot LearnX Community</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Interested in creating a chatbot? What are the tools and technology behind this artificial intelligence (AI)? Will a robot one day be a more interesting conversationalist than a human being? Join our group as we explore how chatbots could be fun and useful in our daily life!<br>
 				
 Facilitated by Mr. Christian Jonathan, a business development executive at TerraAI and facilitator at AI4IMPACT. AI4IMPACT is a learning group which aims to make AI accessible to everyone, including non-programmers.<br><br>
