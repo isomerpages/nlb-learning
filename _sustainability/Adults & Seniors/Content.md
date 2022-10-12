@@ -220,7 +220,7 @@ This video explores how companies are incorporating technological innovations to
   </div>
 	</div>
 	
-	<br>
+
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -234,7 +234,7 @@ Innovation in the development of widely used materials such as concrete coupled 
   </div>
 	</div>
 	
-		<br>
+
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
