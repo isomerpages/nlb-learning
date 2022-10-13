@@ -83,6 +83,13 @@ Check out our playlists and learning packages for book recommendations, collecti
       </a>
     </div>
   </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#lp-mindhead">
+        <span>Learning Package: Mind Your Head</span>
+      </a>
+    </div>
+  </div>
   </div>
 
 <h3><b>Playlists</b></h3>
