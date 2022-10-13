@@ -75,6 +75,8 @@ third_nav_title: Adults & Seniors
 <img src="/images/sustainability/adults-and-seniors/3_SustainbleBenches.jpg"> 
 
 <p>7 secondary schools have come on board to paint their own designs on the Sustainable Benches, rendering their creative interpretations of NLB's sustainability eResources in all its visual splendour! The benches will be adopted by the schools after the duration of the run.</p>
+<img src="/images/sustainability/adults-and-seniors/3_SustainbleBenches.jpg"> 
+
 
 <p>Our benches are <a href ="https://go.gov.sg/rtbs-nodes-bench" target="_blank">located here</a>:
 <ol>
