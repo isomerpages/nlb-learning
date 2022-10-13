@@ -52,6 +52,9 @@ third_nav_title: Adults & Seniors
 
 <p> As part of the suite of activities at the Showcase you will also be able to collect free pre-loved books, donate your own pre-loved books, as well as participate in interactive activities to collect sustainable giveaways. </p>
 
+<h5><b> Share a Memory</b></h5>
+<p>Do you have a memorable experience with nature, from past or present? Share them with us and be part of a memory campaign based on personal stories about our encounters with Singapore’s environment. Your stories will be the inspiration behind an eBook that explores Singapore’s changing natural environment, examines our evolving perspectives and explores our relationships with nature. Share your memory <a href ="https://go.gov.sg/nodesatparks-memory/" target="_blank"> here</a>. </p>
+
 <h5><b> Partner “Show and Tell” Schedule at The Sustainability Showcase</b></h5>
 <p>On selected weekends, come join our partners as they share stories about their green product and participate in their interactive activities as well. Click <a href ="https://go.gov.sg/showandtell-monthlyschedule" target="_blank"> here</a> to view our schedule (updated monthly).</p> 
 
