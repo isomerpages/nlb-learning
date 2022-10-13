@@ -419,7 +419,7 @@ Oakland, California: New Harbinger Publications
 Dr. Julie Smith (2022), <i>Why Has Nobody Told Me This Before?</i>, HarperCollins.
 
 <p>
-<a href="https://share.libbyapp.com/title/6384560" target="_blank"><img src="/images/Wellness/Adults & Seniors/NobodyBefore.png " style="width:300px; text-align:left;" alt="Book Cover for Why Has Nobody Told Me This Before"></a>
+<a href="https://share.libbyapp.com/title/6384560" target="_blank"><img src="/images/wellness/adults-and-seniors/NobodyBefore.png " style="width:300px; text-align:left;" alt="Book Cover for Why Has Nobody Told Me This Before"></a>
 
 <p>Gain a better understanding of your mind’s inner workings and learn techniques that will enable you to take charge of your mental health.</p>
 
@@ -433,7 +433,7 @@ Lori Gottlieb (2019), <i>Maybe You Should Talk to Someone</i>, HarperCollins
 
 <p>
 
-<a href="https://share.libbyapp.com/title/3938290" target="_blank"><img src="images/Wellness/Adults & Seniors/TalkSomeone.png" style="width:300px; text-align:left;" alt="Book cover for Maybe You Should Talk to Someone"></a>
+<a href="https://share.libbyapp.com/title/3938290" target="_blank"><img src="images/wellness/adults-and-seniors/TalkSomeone.png" style="width:300px; text-align:left;" alt="Book cover for Maybe You Should Talk to Someone"></a>
 
 <p>Psychotherapist Lori Gottlieb takes us behind the curtain of her experiences as both a clinician and patient through which she explores the internal struggles we often encounter and how we have the power to transform our lives.</p>
 
@@ -447,7 +447,7 @@ Chuck Mullin (2020), <i>Bird Brain</i>, Unbound.
 
 <br>
 
-<a href="https://share.libbyapp.com/title/4661233" target="_blank"><img src="images/Wellness/Adults & Seniors/BirdBrain.png" style="width:300px; text-align:left;" alt="Book cover for Bird Brain"></a>
+<a href="https://share.libbyapp.com/title/4661233" target="_blank"><img src="images/wellness/adults-and-seniors/BirdBrain.png" style="width:300px; text-align:left;" alt="Book cover for Bird Brain"></a>
 
 <p>Chuck Mullin offers a humorous glimpse into her struggles with mental health through illustrations of quirky pigeons.</p>
 
