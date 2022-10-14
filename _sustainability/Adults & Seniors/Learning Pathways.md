@@ -45,14 +45,12 @@ In the Green Technology Learning Pathway, we focus on innovations in data center
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b> Data Centre Sustainability and Talent Development </b></td>
-        <td style="width: 40%;">Ever wonder what Data Centers are and the crucial role they play in the function of the internet? Join our panel of industry experts as they demystify this essential internet infrastructure and share how companies are leading innovations in technology and operations to make Data Centers more sustainable and better equipped to succeed in an increasingly competitive workforce.
+        <td style="width: 20%;"><b>  </b></td>
+        <td style="width: 40%;">  
 
-Learn about industry trends in incorporating green technology and pioneering approaches to heating solutions and construction methods. Discover how companies are pushing the envelope on recruitment and hiring from the perspective of an industry insider.
-
-Participants will also get an exclusive opportunity to tour the Meta Infrastucture Experience Centre! <br><br></td>
-        <td style="width: 20%;"> 20 Oct 2022,<br>7.00pm – 8.30pm</td>
-        <td style="width: 20%;">38 Beach Road, South Beach Tower [Online and Physical] </td>
+<br><br></td>
+        <td style="width: 20%;"> <br></td>
+        <td style="width: 20%;"> </td>
 				<td></td>
      </tr>
 </tbody>
