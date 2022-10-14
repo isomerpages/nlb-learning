@@ -21,7 +21,7 @@ In the Green Technology Learning Pathway, we focus on innovations in data center
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank"><b>The Green Technology Playlist</b></a></td>
-        <td style="width: 40%;">Here is a quick overview of the various renewable energy sources we have.</td>
+        <td style="width: 40%;">We learn about some of the technological innovations that promise to revolutionize sustainability efforts and the limits of climate solutions that overly focus on technological improvements.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
