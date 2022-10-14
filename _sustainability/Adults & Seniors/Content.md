@@ -424,25 +424,20 @@ You love fashion and think nothing of buying the latest designs. However, have y
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
-<h5 id="#green-technology" class="margin--bottom--lg"><b>Green Technology</b></h5>
+<h3 id="#lp-green-technology" class="margin--bottom--lg">Learning Package: Green Technology</h3>
 
-<p>In the age of R&amp;D and rapid digitalization, technology plays a crucial role in mitigating climate change. From clean technology to digital services, green technology ensures that existing resources are efficiently used and distributed. The goal is to create sustainable processes and systems to reduce environmental impact and climate risks. Learn more about current motivations and designs in green technology from our recommended resources below.</p>
+<p>In the age of rapid digitalization, technology plays a crucial role in mitigating climate change. From clean technology to digital services, green technology ensures that existing resources are efficiently used and distributed. The goal is to create sustainable processes and systems to reduce environmental impact and climate risks. Learn more about current motivations and designs in green technology from our recommended resources below.</p>
 
 <h4>Articles</h4>
-
-<h5>1. Bold use of green tech can foster a new era of sustainable growth</h5>
-
-<a href="https://www.weforum.org/agenda/2022/04/green-tech-sustainable-growth" target="_blank">
+<h5><a href="https://www.weforum.org/agenda/2022/04/green-tech-sustainable-growth" target="_blank">1. Bold use of green tech can foster a new era of sustainable growth</a></h5>
 
 <p>In this bite-sized article, learn how the different industry verticals can adopt green technology to integrate more sustainable practices into their businesses.</p>
 
 Source: Meissner, Phillip. “Bold use of green tech can foster a new era of sustainable growth”. World Economic Forum, April 20, 2022
-
-
-<h5>2. Cloud storage can be a green solution</h5>
-
-</a><a href="https://www.sustainability-times.com/green-consumerism/cloud-storage-can-be-a-green-solution/" target="_blank">
-
+	
+<h5><a href="https://www.sustainability-times.com/green-consumerism/cloud-storage-can-be-a-green-solution/" target="_blank">2. Cloud Storage Can Be A Green Solution</a></h5>
+	
+	
 <p>Is cloud storage truly sustainable? Get a quick look on how cloud storage and the growth of data centers can bring more boon than bane for sustainability.</p>
 
 Source: Miller, April. “Cloud storage can be a green solution”. Sustainability Times, June 10, 2022 
@@ -452,10 +447,8 @@ Source: Miller, April. “Cloud storage can be a green solution”. Sustainabili
 <h5>1.AI in the Wild by Peter Dauvergne</h5>
 Peter Dauvergne ( 2020), <i> AI in the Wild by Peter Dauvergne </i>, MIT Press
 
-</a><h5 id="id="><a href="https://www.sustainability-times.com/green-consumerism/cloud-storage-can-be-a-green-solution/" target="_blank">
-</a><p><a href="https://www.sustainability-times.com/green-consumerism/cloud-storage-can-be-a-green-solution/" target="_blank"></a><a id="src="><b>Learning Package</b></a></p></h5><a id="src=">
-</a><h5 href="https://share.libbyapp.com/title/5284963" class="><b>Green Economy</b>
-</a><p><a target="><a id="src=">
+<p><a target="_blank" href="https://nlb.overdrive.com/media/5284963">Borrow the eBook here</a>.</p>
+<p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
 
 <h3> Learning Package: Green Economy </h3>	
 	
