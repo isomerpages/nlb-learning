@@ -408,9 +408,9 @@ Source: Meissner, Phillip. “Bold use of green tech can foster a new era of sus
 Source: Miller, April. “Cloud storage can be a green solution”. Sustainability Times, June 10, 2022.
 	
 <h5>3.These are the skills young people will need for the green jobs of the future. </h5>>
-<a href="https://www.sustainability-times.com/green-consumerism/cloud-storage-can-be-a-green-solution/" target="_blank">
-<p>Is cloud storage truly sustainable? Get a quick look on how cloud storage and the growth of data centers can bring more boon than bane for sustainability.</p>
-Source: Miller, April. “Cloud storage can be a green solution”. Sustainability Times, June 10, 2022.
+<a href="https://www.weforum.org/agenda/2021/08/these-are-the-skills-young-people-will-need-for-the-green-jobs-of-the-future" target="_blank">
+<p>Want to transition or start a career in green technology? Get to know the in-demand jobs and skills needed to secure a place in green jobs.</p>
+Source: Masterson, Victoria. “These are skills young people will need for the green jobs of the future”. World Economic Forum, August 23, 2021
 
 
 	
