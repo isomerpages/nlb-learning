@@ -364,7 +364,7 @@ You love fashion and think nothing of buying the latest designs. However, have y
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/v=5Hb_ONJUA9I) class="></iframe>
+     <iframe src="https://www.youtube.com/embed/5Hb_ONJUA9I) class="></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -377,7 +377,7 @@ You love fashion and think nothing of buying the latest designs. However, have y
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/v=f0p0Fria5TY) class="></iframe>
+     <iframe src="https://www.youtube.com/embed/f0p0Fria5TY) class="></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
