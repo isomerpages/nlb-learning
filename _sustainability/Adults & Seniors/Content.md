@@ -122,7 +122,7 @@ Check our **learning packages** for articles that will give you insights into li
 	</div>
 	<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#green-technology">
+      <a href="#lp-green-technology">
 				<span>Learning Package:<br>Green Technology<br></span>
       </a>
     </div>
