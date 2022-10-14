@@ -83,6 +83,13 @@ Check out our playlists and learning packages for book recommendations, collecti
       </a>
     </div>
   </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#lp-mindhead">
+        <span>Learning Package: Mind Your Head</span>
+      </a>
+    </div>
+  </div>
   </div>
 
 <h3><b>Playlists</b></h3>
@@ -392,3 +399,63 @@ Oakland, California: New Harbinger Publications
 <p> Written by two clinical psychologists, The Anxious Perfectionist shines a much-needed light on the hidden costs of “being the best,” and offers essential skills based in acceptance and commitment therapy (ACT) to help you cope with the anxiety that is driven by your perfectionism.</p>
 <p><a href="https://share.libbyapp.com/title/6461508" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.)</p>
 <small>https://share.libbyapp.com/title/6461508. Retrieved from Libby. </small>
+
+
+<!-- Mind Your Head LP  -->
+
+<h5 class="margin--bottom--lg" id="lp-mindhead"><b>Learning Package: Mind Your Head</b></h5>
+
+<p> A large spotlight has been placed on the topic of mental health and the stigma surrounding it. In fact, a survey by Channel NewsAsia found that 66% of respondents expressed concerns about the stigma surrounding mental health. Although there has been a growing awareness in recent years with more individuals coming forward with their stories, and an increase in studies about mental health, misconceptions continue to prevail. </p>
+
+<p> Dispel these misconceptions by learning more about mental health and discover how you can better help yourself and those around you with these resources!</p>
+
+<h4>Articles</h4>
+
+<h5><a href="https://www.samhealth.org.sg/understanding-mental-health/what-is-mental-wellness/" target="_blank"> 1. What is Mental Wellness</a></h5>
+
+<p> The term “mental wellness” has been a prominent part of the current zeitgeist. But what exactly does it mean? Learn more about what it means to be mentally well and how you can work towards it.</p>
+
+<h5><a href="https://www.psychologytoday.com/sg/blog/your-emotional-meter/201910/what-do-when-someone-you-love-is-struggling" target="_blank"> 2. What to Do When Someone You Love Is Struggling</a></h5>
+
+<p> We are often unequipped with the skills and knowledge to help those around us. This article sheds some light on how you can best help the people you love who are struggling with their mental health.</p>
+
+<h4>eBooks & Audiobooks</h4>
+
+<h5>1. Why Has Nobody Told Me This Before?</h5>
+
+Dr. Julie Smith (2022), <i>Why Has Nobody Told Me This Before?</i>, HarperCollins.
+
+<p>
+<a href="https://share.libbyapp.com/title/6384560" target="_blank"><img src="/images/wellness/adults-and-seniors/NobodyBefore.png " style="width:300px; text-align:left;" alt="Book Cover for Why Has Nobody Told Me This Before"></a>
+
+<p>Gain a better understanding of your mind’s inner workings and learn techniques that will enable you to take charge of your mental health.</p>
+
+<p>Also available as an audiobook.</p>
+
+<p><a href="https://share.libbyapp.com/title/6384560" target="_blank">Read the eBook here.</a>(A myLibrary username is required to access this digital book.)</p>
+
+<h5>2. Maybe You Should Talk to Someone</h5>
+
+Lori Gottlieb (2019), <i>Maybe You Should Talk to Someone</i>, HarperCollins
+
+<p>
+
+<a href="https://share.libbyapp.com/title/3938290" target="_blank"><img src="images/wellness/adults-and-seniors/TalkSomeone.png" style="width:300px; text-align:left;" alt="Book cover for Maybe You Should Talk to Someone"></a>
+
+<p>Psychotherapist Lori Gottlieb takes us behind the curtain of her experiences as both a clinician and patient through which she explores the internal struggles we often encounter and how we have the power to transform our lives.</p>
+
+<p><a href="https://share.libbyapp.com/title/3938290" target="_blank"> Read the eBook here.</a>(A myLibrary username is required to access this digital book.)</p>
+
+             
+
+<h5>3. Bird Brain</h5>
+
+Chuck Mullin (2020), <i>Bird Brain</i>, Unbound.
+
+<br>
+
+<a href="https://share.libbyapp.com/title/4661233" target="_blank"><img src="images/wellness/adults-and-seniors/BirdBrain.png" style="width:300px; text-align:left;" alt="Book cover for Bird Brain"></a>
+
+<p>Chuck Mullin offers a humorous glimpse into her struggles with mental health through illustrations of quirky pigeons.</p>
+
+<p><a href="https://share.libbyapp.com/title/4661233" target="_blank"> Read the eBook here.</a>(A myLibrary username is required to access this digital book.)</p>

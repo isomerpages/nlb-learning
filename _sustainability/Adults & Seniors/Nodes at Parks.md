@@ -43,14 +43,20 @@ third_nav_title: Adults & Seniors
 <p>Nodes at Park is NLB's omni-channel way of building sustainability as a national habit, at a park near you! Serving as a gateway to NLB's eResources on sustainability, this initiative combines interactive installations at a showcase, as well as sustainable park benches.</p>
 
 <h4><b>The Sustainability Showcase</b></h4>
-<img src="/images/sustainability/adults-and-seniors/Nodes%20at%20Parks%20Showcase%20A.jpg">
-<img src="/images/sustainability/adults-and-seniors/Nodes%20at%20Parks%20Showcase%20B.png">
+<img src="/images/sustainability/adults-and-seniors/1_SustainabilityShowcase.jpg">
+<p></p>
+<img src="/images/sustainability/adults-and-seniors/2_SustainabilityShowcase.jpg"> 
+
+
 <p>Ever wondered how your daily purchasing decisions impact the environment? Don’t miss this opportunity to browse our “supermarket” aisles and learn about 8 different topics on Sustainability. The items on display showcase interesting products that are conceptual ideas or existing products by green entrepreneurs. Learn about topics such as single-use plastics, composting, sustainable food production and more. </p> 
 
 <p>The <a href ="https://sure.nlb.gov.sg/" target="_blank">Read to be Sure</a>  component of the Sustainability Showcase provides multiple perspectives to sustainability issues so you can see the big picture. Don’t forget to vote for your preferred perspective too! 
 </p>
 
 <p> As part of the suite of activities at the Showcase you will also be able to collect free pre-loved books, donate your own pre-loved books, as well as participate in interactive activities to collect sustainable giveaways. </p>
+
+<h5><b> Share a Memory</b></h5>
+<p>Do you have a memorable experience with nature, from past or present? Share them with us and be part of a memory campaign based on personal stories about our encounters with Singapore’s environment. Your stories will be the inspiration behind an eBook that explores Singapore’s changing natural environment, examines our evolving perspectives and explores our relationships with nature. Share your memory <a href ="https://go.gov.sg/nodesatparks-memory/" target="_blank"> here</a>. </p>
 
 <h5><b> Partner “Show and Tell” Schedule at The Sustainability Showcase</b></h5>
 <p>On selected weekends, come join our partners as they share stories about their green product and participate in their interactive activities as well. Click <a href ="https://go.gov.sg/showandtell-monthlyschedule" target="_blank"> here</a> to view our schedule (updated monthly).</p> 
@@ -66,8 +72,10 @@ third_nav_title: Adults & Seniors
 <img src="/images/sustainability/adults-and-seniors/Nodes%20at%20Parks%20Logo-BENCHES.png">
  
 <p>Look out for our specially curated Sustainable Benches <a href ="https://go.gov.sg/rtbs-nodes-bench" target="_blank">located around the park</a>! Placed in the vicinity of the <a href ="https://go.gov.sg/rtbs-nodes-showcase" target="_blank">Sustainability Showcase</a>, these benches allow you to access a wide range of sustainability-themed eResources without having to step foot in the library! Scan their QR codes to access enriching eReads and watch videos created by Republic Polytechnic students!</p>
+<img src="/images/sustainability/adults-and-seniors/3_SustainbleBenches.jpg"> 
 
 <p>7 secondary schools have come on board to paint their own designs on the Sustainable Benches, rendering their creative interpretations of NLB's sustainability eResources in all its visual splendour! The benches will be adopted by the schools after the duration of the run.</p>
+<img src="/images/sustainability/adults-and-seniors/4_SustainableBenches.jpg"> 
 
 <p>Our benches are <a href ="https://go.gov.sg/rtbs-nodes-bench" target="_blank">located here</a>:
 <ol>

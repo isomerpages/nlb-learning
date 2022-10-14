@@ -20,14 +20,14 @@ In the Green Technology Learning Pathway, we focus on innovations in data center
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank"><b>Earth, Water, Fire, Air- The Renewable Energy Playlist</b></a></td>
-        <td style="width: 40%;">Here is a quick overview of the various renewable energy sources we have.</td>
+        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank"><b>The Green Technology Playlist</b></a></td>
+        <td style="width: 40%;">We learn about some of the technological innovations that promise to revolutionize sustainability efforts and the limits of climate solutions that overly focus on technological improvements.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-				<td><a href="/sustainability/adults-seniors/content"><b>The Renewable Energy Learning Package</b></a></td>
-        <td>Dive deeper into discussions around renewable energy with our list of recommended resources.</td>
+				<td><a href="/sustainability/adults-seniors/content"><b>The Green Technology Learning Package</b></a></td>
+        <td>Learn more about current motivations and designs in green technology from our recommended resources.</td>
         <td></td>
         <td></td>
 </tr>
@@ -45,14 +45,12 @@ In the Green Technology Learning Pathway, we focus on innovations in data center
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><b> Data Centre Sustainability and Talent Development </b></td>
-        <td style="width: 40%;">Ever wonder what Data Centers are and the crucial role they play in the function of the internet? Join our panel of industry experts as they demystify this essential internet infrastructure and share how companies are leading innovations in technology and operations to make Data Centers more sustainable and better equipped to succeed in an increasingly competitive workforce.
+        <td style="width: 20%;"><b>  </b></td>
+        <td style="width: 40%;">  
 
-Learn about industry trends in incorporating green technology and pioneering approaches to heating solutions and construction methods. Discover how companies are pushing the envelope on recruitment and hiring from the perspective of an industry insider.
-
-Participants will also get an exclusive opportunity to tour the Meta Infrastucture Experience Centre! <br><br></td>
-        <td style="width: 20%;"> 20 Oct 2022,<br>7.00pm – 8.30pm</td>
-        <td style="width: 20%;">38 Beach Road, South Beach Tower [Online and Physical] </td>
+<br><br></td>
+        <td style="width: 20%;"> <br></td>
+        <td style="width: 20%;"> </td>
 				<td></td>
      </tr>
 </tbody>
