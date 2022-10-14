@@ -423,7 +423,8 @@ Source: Masterson, Victoria. “These are skills young people will need for the 
 <h4>Ebooks </h4>
 
 <h5>1.AI in the Wild by Peter Dauvergne</5>
-	Peter Dauvergne ( 2020), <i> AI in the Wild by Peter Dauvergne
+	Peter Dauvergne ( 2020), <i> AI in the Wild by Peter Dauvergne</i>,MIT Press
+	
 	
 
 
@@ -450,7 +451,7 @@ Source: Masterson, Victoria. “These are skills young people will need for the 
 
 <h3><b>Learning Package</b></h3>
 <h5 class="id=">
-<p><a id="lp-green-econ" href="https://www.weforum.org/agenda/2022/04/green-tech-sustainable-growth></a></h5>
+<p><a id="lp-green-economy" href="https://www.weforum.org/agenda/2022/04/green-tech-sustainable-growth></a></h5>
 <p>In this bite-sized article, learn how the different industry verticals can adopt green technology to integrate more sustainable practices into their businesses.</p>
 
 
