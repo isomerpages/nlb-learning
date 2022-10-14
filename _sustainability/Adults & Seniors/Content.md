@@ -78,6 +78,13 @@ Check our **learning packages** for articles that will give you insights into li
       </a>
     </div>
   </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#green-technology">
+        <span>Playlist:<br>Green Technology</span>
+      </a>
+    </div>
+  </div>
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-green-econ">
@@ -113,13 +120,6 @@ Check our **learning packages** for articles that will give you insights into li
 			</a>
 	</div>
 	</div>
-	<div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="#green-technology">
-        <span>Playlist:<br>Green Technology</span>
-      </a>
-    </div>
-  </div>
 	<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#green-technology">
