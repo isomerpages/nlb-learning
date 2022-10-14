@@ -422,10 +422,10 @@ Source: Masterson, Victoria. “These are skills young people will need for the 
 	
 <h4>Ebooks </h4>
 
-<h5>1.AI in the Wild by Peter Dauvergne</5>
-Peter Dauvergne ( 2020), <i> AI in the Wild by Peter Dauvergne</i>,MIT Press
+<h5>1.AI in the Wild by Peter Dauvergne</h5>
+Peter Dauvergne ( 2020), <i> AI in the Wild by Peter Dauvergne</i>, MIT Press
 
-	<a href="https://share.libbyapp.com/title/5284963" target="\_blank"><img src="
+<a href="https://share.libbyapp.com/title/5284963" target="_blank"><img src="
 	
 	
 
