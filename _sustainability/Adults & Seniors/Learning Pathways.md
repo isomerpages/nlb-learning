@@ -20,7 +20,7 @@ In the Green Technology Learning Pathway, we focus on innovations in data center
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank"><b>Earth, Water, Fire, Air- The Renewable Energy Playlist</b></a></td>
+        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank"><b>The Green Technology Playlist</b></a></td>
         <td style="width: 40%;">Here is a quick overview of the various renewable energy sources we have.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
