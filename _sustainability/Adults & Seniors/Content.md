@@ -395,20 +395,41 @@ You love fashion and think nothing of buying the latest designs. However, have y
 
 <h4>Articles</h4>
 
-<h5>1. Bold use of green tech can foster a new era of sustainable growth</h5>><a href="https://www.weforum.org/agenda/2022/04/green-tech-sustainable-growth" target="_blank">
+<h5>1. Bold use of green tech can foster a new era of sustainable growth</h5>>
+
+<a href="https://www.weforum.org/agenda/2022/04/green-tech-sustainable-growth" target="_blank">
+
 <p>In this bite-sized article, learn how the different industry verticals can adopt green technology to integrate more sustainable practices into their businesses.</p>
+
 Source: Meissner, Phillip. “Bold use of green tech can foster a new era of sustainable growth”. World Economic Forum, April 20, 2022
 
 
 <h5>2. Cloud storage can be a green solution</h5>>
+
 <a href="https://www.sustainability-times.com/green-consumerism/cloud-storage-can-be-a-green-solution/" target="_blank">
+
 <p>Is cloud storage truly sustainable? Get a quick look on how cloud storage and the growth of data centers can bring more boon than bane for sustainability.</p>
+
 Source: Miller, April. “Cloud storage can be a green solution”. Sustainability Times, June 10, 2022.
 	
 <h5>3.These are the skills young people will need for the green jobs of the future. </h5>>
+
 <a href="https://www.weforum.org/agenda/2021/08/these-are-the-skills-young-people-will-need-for-the-green-jobs-of-the-future" target="_blank">
+
 <p>Want to transition or start a career in green technology? Get to know the in-demand jobs and skills needed to secure a place in green jobs.</p>
+
 Source: Masterson, Victoria. “These are skills young people will need for the green jobs of the future”. World Economic Forum, August 23, 2021
+	
+<h4>Ebooks </h4>
+
+<h5>1.AI in the Wild by Peter Dauvergne</5>
+	Peter Dauvergne ( 2020), <i> AI in the Wild by Peter Dauvergne
+	
+
+
+	
+
+
 
 
 	
