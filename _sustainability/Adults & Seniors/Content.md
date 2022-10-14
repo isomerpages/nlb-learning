@@ -452,28 +452,15 @@ Source: Miller, April. “Cloud storage can be a green solution”. Sustainabili
 <h5>1.AI in the Wild by Peter Dauvergne</h5>
 Peter Dauvergne ( 2020), <i> AI in the Wild by Peter Dauvergne </i>, MIT Press
 
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-<h3><b>Learning Package</b></h3>
 </a><h5 id="id="><a href="https://www.sustainability-times.com/green-consumerism/cloud-storage-can-be-a-green-solution/" target="_blank">
 </a><p><a href="https://www.sustainability-times.com/green-consumerism/cloud-storage-can-be-a-green-solution/" target="_blank"></a><a id="src="><b>Learning Package</b></a></p></h5><a id="src=">
 </a><h5 href="https://share.libbyapp.com/title/5284963" class="><b>Green Economy</b>
-</a><p><a target="><a id="src=">It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><small></small></sup></a><small><a href="#footnote-one">1</a></small>
-	<p></p><p>As one of the key pillars of the Singapore Green Plan 2030, a whole-of-nation movement to advance Singapore’s national agenda on sustainable development<sup><small><a href="#footnote-two">2</a></small></sup> developing a Green Economy in Singapore refers to seeking green growth to create new jobs, transform industries and harness sustainability as a competitive advantage<sup><small><a href="#footnote-three">3</a></small></sup>.</p>
+</a><p><a target="><a id="src=">
+
+<h3> Learning Package: Green Economy </h3>	
+	
+It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><small></small></sup></a><small><a href="#footnote-one">1</a></small>
+	<p>As one of the key pillars of the Singapore Green Plan 2030, a whole-of-nation movement to advance Singapore’s national agenda on sustainable development<sup><small><a href="#footnote-two">2</a></small></sup> developing a Green Economy in Singapore refers to seeking green growth to create new jobs, transform industries and harness sustainability as a competitive advantage<sup><small><a href="#footnote-three">3</a></small></sup>.</p>
 <p>In a green economy, growth in employment and income are driven by public and private investment into low carbon, resource efficient and socially inclusive economic activities, infrastructure, and assets that allow reduced carbon emissions and pollution, enhanced energy and resource efficiency, and prevention of the loss of biodiversity and ecosystem services.<sup><small><a href="#footnote-four">4</a></small></sup></p>
 <p>In the Green Plan, Singapore’s key targets are to Introduce an Enterprise Sustainability Programme, Create business and job opportunities, Be a leading centre for Green Finance in Asia and globally and to Promote homegrown innovation under the Research, Innovation and Enterprise Plan 2025.<sup><small><a href="#footnote-three">3</a></small></sup></p>
 <p>As the global awareness for sustainability efforts increase, more corporations are heading towards more sustainable business models. 
@@ -494,8 +481,7 @@ Peter Dauvergne ( 2020), <i> AI in the Wild by Peter Dauvergne </i>, MIT Press
 		</td>
 	</tr>
 	</tbody></table>
-	
-</h5><h4>Videos</h4>
+	<h4>Videos</h4>
 <h5>1. What is a Green Economy?</h5>
 <p>Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here! Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here!</p>
 <div class="bp-youtube">
