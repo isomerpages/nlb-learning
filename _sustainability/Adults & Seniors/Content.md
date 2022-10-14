@@ -388,6 +388,7 @@ You love fashion and think nothing of buying the latest designs. However, have y
 </div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-GreenTechnology" class="margin--bottom--lg"><b>Green Technology</b></h5>
 
@@ -423,7 +424,7 @@ Source: Masterson, Victoria. “These are skills young people will need for the 
 <h4>Ebooks </h4>
 
 <h5>1.AI in the Wild by Peter Dauvergne</h5>
-Peter Dauvergne ( 2020), <i> AI in the Wild by Peter Dauvergne</i>, MIT Press
+Peter Dauvergne ( 2020), <i> AI in the Wild by Peter Dauvergne </i>, MIT Press
 
 <a href="https://share.libbyapp.com/title/5284963" target="_blank"><img src="
 	
