@@ -100,15 +100,19 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Toa Payoh Public Library</td>
 </tr>	
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/special-play-session-tickets-417799067257?aff=odcleoeventsincollection"><b> Special Play Session | Early READ </b></a></td>
-        <td>Come bond with your little ones in this self-guided play session. Let your children explore the various edu-aids that we have and get to engage your children in meaningful play! Do drop by any time between 2pm - 4pm. This programme is suitable for children between 0-6 years old. </td>
-        <td>28 Oct 2022<br>2.00pm – 4.00pm<br></td>
-        <td>Sengkang Public Library</td>				
+<td><a target="_blank" href="https://www.eventbrite.sg/e/special-play-session-tickets-417799067257?aff=odcleoeventsincollection"><b> Baby Lapsit | Early READ </b></a></td>
+        <td>Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!</td>
+        <td>9 Nov 2022<br>2.30pm – 3.00pm<br></td>
+        <td>Bishan Public Library</td>				
+  					</tr>
+			<td><a target="_blank" href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-early-read-registration-385314565237?aff=ebdsoporgprofile"><b> Toddler Songs & Rhymes | Early READ </b></a></td>
+        <td>Join other parents with young children and support your child's early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
+        <td>16 Nov 2022<br>3.00pm – 3.30pm<br></td>
+        <td>Zoom</td>				
   					</tr>
 		</tbody>
 	</table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -138,7 +142,6 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>9 Oct 2022<br>11.30am–12.30pm<br></td>
         <td>Bedok Public Library  </td>
       </tr>
-			
 			<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-potions-party-tickets-409759109527?aff=odcleoeventsincollection"><b> [Budding Scientists] Potions Party!  </b></a></td>
         <td>
