@@ -85,20 +85,19 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Various Locations</td>
       </tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-lapsit-early-read-registration-381532693557?aff=odcleoeventsincollection"><b>Baby Lapsit | Early READ 
+<td><a target="_blank" href="https://www.eventbrite.sg/e/storytelling-with-sadeaf-rapunzel-the-giving-tree-early-read-tickets-438766320877?aff=ebdsoporgprofile"><b>Storytelling with SADeaf | Rapunzel & The Giving Tree | Early READ
  </b></a></td>
-        <td> Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!
+        <td> Would you like to listen to the stories of Rapunzel and The Giving Tree in Singapore Sign Language? Come and join Singapore Associationfor the Deaf and pick up some Singapore Sign Language vocabulary along the way! Admission is free! See you there!
 <br>
-This programme is intended for parents with babies up to 12 months. </td>
-					<td>11 Oct 2022<br>4.00pm-4.30pm<br></td>
-        <td>Tampines Regional Library</td>
+ </td>
+					<td>5 Nov 2022<br>12.30pm-13.30pm<br></td>
+        <td>Jurong Regional Library</td>
       </tr>		
 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/parenting-book-club-with-jenny-ng-tickets-409772830567?aff=odcleoeventsincollection"><b>Parenting Book Club with Jenny Ng | Early READ</b></a></td>
-        <td>Learn tips and tools to help you set boundaries with others, honor and validate your emotions, and thrive in the face of life's challenge!<br><br>
-Join us as we discuss the following title: <br><br> Book title: Self-Care for Adult Children of Emotionally Immature Parents<br><br>Authors: Lindsay C. Gibson, PsyD, Rachel Perry</td>
-        <td>8 Oct 2022<br>11.00am – 12.00pm<br></td>
-        <td>Zoom</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/storytelling-with-evelyn-just-a-little-mynah-early-read-tickets-438766952767?aff=ebdsoporgprofile"><b>Storytelling with Evelyn | Just a Little Mynah | Early READ</b></a></td>
+        <td>Come fly with Little Mynah as she discovers that even ordinary little birds can do extraordinary things.  Help Little Mynah and her feathered friends, using fun everyday words in Mandarin, Malay and Tamil. A craft session and interactive storytelling for children ages 4 to 6 years that will get them flying!<br></td>
+        <td>5 Nov 2022<br>11.00am – 12.00pm<br></td>
+        <td>Toa Payoh Public Library</td>
 </tr>	
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/special-play-session-tickets-417799067257?aff=odcleoeventsincollection"><b> Special Play Session | Early READ </b></a></td>
@@ -119,11 +118,11 @@ Join us as we discuss the following title: <br><br> Book title: Self-Care for Ad
     </thead>
     <tbody>
 			<tr>		
-<td><a target="_blank" href="https://www.eventbrite.sg/e/coding-unplugged-sound-shakers-discovertech-tickets-416471847507?aff=odcleoeventsincollection"><b> Coding Unplugged: Sound Shakers | DiscoverTech</b></a></td>
-        <td>Learn basic coding concepts and computational thinking skills through an unplugged sound shaker activity. Discover concepts such as decomposition and debugging as you fix the buggy set of instructions and fold the sound shaker. You will get to bring the sound shaker home too!
+<td><a target="_blank" href=" https://www.eventbrite.sg/e/mindful-magic-breathing-in-the-wind-early-read-registration-438779379937?aff=ebdsoporgprofile"><b> Mindful Magic: Breathing in the Wind | Early READ</b></a></td>
+        <td>In this session suitable for children aged 4-6 years old, participants will learn to respond to challenging emotions using the Breathe and Calm technique, as well as through art, to slow down and pay attention to their breathing. <br>This programme is brought to you by backtogroundzero, a local non-profit community group working in the intersection of mental wellbeing and environmental sustainability.
 </td>
-       <td>1 Oct 2022 <br> 2:30-3:30pm</td>
-        <td>Serangoon Public Library</td>
+       <td>6 Nov 2022 <br>11.00am to 12.00pm</td>
+        <td>Toa Payoh Public Library</td>
       </tr>
 			  <tr>	
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-sounds-tickets-410297780707?aff=odcleoeventsincollection"><b> [Budding Engineers] Sounds </b></a></td>
