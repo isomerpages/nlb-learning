@@ -127,11 +127,11 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Toa Payoh Public Library</td>
       </tr>
 			  <tr>	
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-sounds-tickets-410297780707?aff=odcleoeventsincollection"><b> [Budding Engineers] Sounds </b></a></td>
-        <td> Join this workshop to learn how sounds are made! This programme is suitable for children of 4-6 years and their parents.
+<td><a target="_blank" href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-early-read-tickets-438762409177?aff=ebdsoporgprofile"><b>Introduction to Scratch Junior Coding | Early READ</b></a></td>
+        <td>ScratchJr is a programming language for children aged 4-6. Using ScratchJr, children can create their own interactive stories, animations and games.
 </td>
-        <td>1 Oct 2022<br>11.00am–12.00pm<br></td>
-        <td>Woodlands Regional Library</td>
+        <td>19 Nov 2022<br>11.00am–12.00pm<br></td>
+        <td>Bishan Public Library</td>
       </tr>
 				<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-abcs-of-microgreens-tickets-409753111587?aff=odcleoeventsincollection"><b>  [Caring for the Environment] ABCs of Microgreens </b></a></td>
