@@ -69,7 +69,6 @@ Make reading a fun activity while fostering that special bond between you and yo
     </tbody>
   </table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -78,8 +77,7 @@ Make reading a fun activity while fostering that special bond between you and yo
       </tr>
     </thead>
     <tbody>
-     <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
+     <tr><td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
        <td>Check out all the Jiggle Read & Rhyme sessions for October!</td>
         <td>Various Locations</td>
@@ -102,10 +100,10 @@ Make reading a fun activity while fostering that special bond between you and yo
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/baby-lapsit-early-read-tickets-325395846737?aff=ebdsoporgprofile"><b> Baby Lapsit | Early READ </b></a></td>
         <td>Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!</td>
-        <td>9 Nov 2022<br>2.30pm – 3.00pm<br></td>
-        <td>Bishan Public Library</td>				
+        <td>10 Nov 2022<br>3.30pm – 4.00pm<br></td>
+        <td>Serangoon Public Library</td>				
   					</tr>
-			<td><a target="_blank" href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-early-read-registration-385314565237?aff=ebdsoporgprofile"><b> Toddler Songs & Rhymes | Early READ </b></a></td>
+			<tr><td><a target="_blank" href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-early-read-registration-385314565237?aff=ebdsoporgprofile"><b> Toddler Songs & Rhymes | Early READ </b></a></td>
         <td>Join other parents with young children and support your child's early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
         <td>16 Nov 2022<br>3.00pm – 3.30pm<br></td>
         <td>Zoom</td>				
