@@ -141,26 +141,20 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Bishan Public Library</td>
       </tr>
 				<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-abcs-of-microgreens-tickets-409753111587?aff=odcleoeventsincollection"><b>  [Caring for the Environment] ABCs of Microgreens </b></a></td>
-         <td>  Join us in this workshop as we learn about microgreens and fall in love with the ease of planting these young seedlings. This is a parent-child programme and is suitable for children aged 4-6 years old.
+<td><a target="_blank" href="https://www.eventbrite.sg/e/becoming-a-trash-hero-l-for-kids-aged-5-7-years-old-early-read-registration-438785508267?aff=ebdsoporgprofile"><b>Becoming a Trash Hero l For kids aged 5-7 years old | Early READ</b></a></td>
+         <td>Learn how we can care for the environment through an interactive session of storytelling, games and quizzes! 
  </td>
-        <td>9 Oct 2022<br>11.30am–12.30pm<br></td>
-        <td>Bedok Public Library  </td>
+        <td>19 Nov 2022<br>2.00pm–3.00pm<br></td>
+        <td>Geylang East Public Library  </td>
       </tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-potions-party-tickets-409759109527?aff=odcleoeventsincollection"><b> [Budding Scientists] Potions Party!  </b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-coding-unplugged-human-computers-early-read-registration-438780553447?aff=ebdsoporgprofile"><b>[DiscoverTech] Coding Unplugged: Human Computers! | Early READ</b></a></td>
         <td>
-Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! Today, you’ll be challenged to complete the Head Professor’s first assignment by combining ingredients to make stunning and magical mixtures. It will get messy — you have been warned. Don your lab coats, prepare your ingredients, and ready the test tubes.Excited to learn more about potions and the Science behind them? Our stimulating hands-on experiments will open you to the world of STEAM.
+Calling all parents and children aged 4 to 6 years old! What if we told you you could become a computer for an hour? This hands-on, interactive session will introduce you and your child to the curious world of coding! Discover 3 basic coding concepts of branching, sequencing and algorithms through storytelling and a series of enjoyable unplugged activities.
  </td>
-       <td> 29 Oct 2022 <br> 11:00 AM – 12:00 PM</td>
-        <td>Zoom</td>
+       <td> 26 Nov 2022 <br> 11:00am– 12:00pm</td>
+        <td>Choa Chu Kang Public Library</td>
       </tr>
-			<tr>           
-<td><a target="_blank" href="https://www.eventbrite.sg/e/arise-farm-from-seed-to-harvest-plants-friends-foes-tickets-416468768297?aff=odcleoeventsincollection"><b> Arise & Farm: From Seed To Harvest-Plants’ Friends & Foes </b></a></td>
-        <td> Learn about the process of farming through a guided exhibit tour and tactile hands-on activities! This programme is suitable for children aged 4-6 yrs old. 
-<br>
-</td><td>29 Oct 2022<br>10.30am–12.00pm<br></td><td> Bishan Public Library </td>
-      </tr>	
   </tbody>
   </table>
 </div>
