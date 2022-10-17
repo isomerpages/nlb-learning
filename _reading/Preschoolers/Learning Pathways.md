@@ -111,7 +111,7 @@ Make reading a fun activity while fostering that special bond between you and yo
 			<tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/empowering-parent-leaders-what-to-do-and-why-you-do-it-early-read-registration-438781847317?aff=ebdsoporgprofile"><b> Empowering Parent Leaders: What to do and Why you do it! | Early READ</b></a></td>
         <td>Understand how your child’s brain develops so you can use the most effective techniques to lead them to calmly respond to challenges.</td>
-        <td>19 Nov 2022<br>11.30am – 12.30pm<br></td>
+        <td>19 Nov 2022<br>11.30am– 12.30pm<br></td>
         <td>Queenstown Public Library</td>				
   					</tr>
 					<tr>
@@ -136,7 +136,7 @@ Make reading a fun activity while fostering that special bond between you and yo
 <td><a target="_blank" href=" https://www.eventbrite.sg/e/mindful-magic-breathing-in-the-wind-early-read-registration-438779379937?aff=ebdsoporgprofile"><b> Mindful Magic: Breathing in the Wind | Early READ</b></a></td>
         <td>In this session suitable for children aged 4-6 years old, participants will learn to respond to challenging emotions using the Breathe and Calm technique, as well as through art, to slow down and pay attention to their breathing. <br>This programme is brought to you by backtogroundzero, a local non-profit community group working in the intersection of mental wellbeing and environmental sustainability.
 </td>
-       <td>6 Nov 2022 <br>11.00am to 12.00pm</td>
+       <td>6 Nov 2022 <br>11.00am-12.00pm</td>
         <td>Toa Payoh Public Library</td>
       </tr>
 			  <tr>	
