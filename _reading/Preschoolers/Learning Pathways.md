@@ -100,7 +100,7 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Toa Payoh Public Library</td>
 </tr>	
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/special-play-session-tickets-417799067257?aff=odcleoeventsincollection"><b> Baby Lapsit | Early READ </b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-lapsit-early-read-tickets-325395846737?aff=ebdsoporgprofile"><b> Baby Lapsit | Early READ </b></a></td>
         <td>Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!</td>
         <td>9 Nov 2022<br>2.30pm – 3.00pm<br></td>
         <td>Bishan Public Library</td>				
