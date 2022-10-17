@@ -108,9 +108,16 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>16 Nov 2022<br>3.00pm – 3.30pm<br></td>
         <td>Zoom</td>				
   					</tr>
+			<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/empowering-parent-leaders-what-to-do-and-why-you-do-it-early-read-registration-438781847317?aff=ebdsoporgprofile"><b> Empowering Parent Leaders: What to do and Why you do it! | Early READ</b></a></td>
+        <td>Understand how your child’s brain develops so you can use the most effective techniques to lead them to calmly respond to challenges.</td>
+        <td>19 Nov 2022<br>11.30am – 12.30pm<br></td>
+        <td>Queenstown Public Library</td>				
+  					</tr>
 		</tbody>
 	</table>
 </div>
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
