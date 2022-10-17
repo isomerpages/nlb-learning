@@ -114,6 +114,12 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>19 Nov 2022<br>11.30am – 12.30pm<br></td>
         <td>Queenstown Public Library</td>				
   					</tr>
+					<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/stories-come-alive-by-niecite-early-read-registration-438774374967?aff=ebdsoporgprofile"><b> Stories Come Alive by NIEC(ITE)! | Early READ</b></a></td>
+        <td>Join us for a session of stories, songs and rhymes where NIEC(ITE) students will share interesting and fun stories! There will also be a craft session at the end and children will bring home a craft to retell the story to their families or friends.This programme is intended for children aged 4-6 years.</td>
+        <td>19 Nov 2022<br>3.00pm – 4.00pm<br></td>
+        <td>Woodlands Regional Library</td>				
+  					</tr>
 		</tbody>
 	</table>
 </div>
