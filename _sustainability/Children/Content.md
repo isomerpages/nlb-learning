@@ -82,16 +82,16 @@ Have you heard of blue carbon? It is incredibly important for curbing climate ch
   </div>
 </div>
 
-<div class="row is-multiline margin--bottom--lg">
+<div class="row is-multiline">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/1WZsxVDTqcU" class="responsive-iframe"></iframe>
-    </div>
+    <div class="image-container" style="margin: auto;">
+			<a target="\_blank" href="https://drive.google.com/file/d/14MRFPDnAP4R1irGpK5cUfKjidcD6grqw/view"><img src="/images/sustainability/children/sus-children22q4-ocean.png" alt="Our Ocean, Our Buddy (3 min)" style="width: 100%;"></a>
   </div>
+	</div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo">Oceans of the World for Kids | Learn all about the 5 Oceans of the Earth (9 min) </b><br>
-Delve into fun facts about our five oceans and the animals that live in them! </p>
-    <small>Source: Oceans of the World for Kids (2017, Dec 31). Learn Bright. Retrieved 2022, 26 September.</small>
+<p><b class="has-text-indigo">Our Ocean, Our Buddy (3 min)</b><br> 
+Find out about the ocean and its many vital roles in fighting climate change! </p>
+    <small>Source: Our Ocean, Our Buddy (2022, Apr). Punggol Secondary School INTERACT CLUB. Retrieved 2022, 18 October.</small>
   </div>
 </div>
 
