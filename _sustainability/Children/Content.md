@@ -90,7 +90,7 @@ Have you heard of blue carbon? It is incredibly important for curbing climate ch
 	</div>
   <div class="col is-three-fifths">
 <p><b class="has-text-indigo">Our Ocean, Our Buddy (3 min)</b><br> 
-Find out about the ocean and its many vital roles in  fighting climate change. Click on the book cover to read this eBook by Punggol Secondary students.</p>
+Find out about the ocean and its many vital roles in fighting climate change. Click on the book cover to watch the animated version of this eBook by Punggol Secondary students.</p>
     <small>Source: Our Ocean, Our Buddy (2022, Apr). Punggol Secondary School INTERACT CLUB. Retrieved 2022, 18 October.</small>
   </div>
 </div>
