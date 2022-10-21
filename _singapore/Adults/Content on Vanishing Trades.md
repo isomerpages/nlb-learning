@@ -353,12 +353,12 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 <h5> “Can survive, la”: cottage industries in high-rise Singapore</h5>
 Sullivan, Margaret. (1993). <i> “Can survive, la”: cottage industries in high-rise Singapore. </i> Singapore: G. Brash. (Call no.: RCLOS 338.634095957 SUL)
 <br>
-<img src="/images/Singapore%20Vanishing%20Trades/CanSurviveLa.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Vanishing%20Trades/CanSurviveLa.png" style="width:200px;">
 <p> A rich collection of interviews conducted in the early 1980s with diverse cottage businesses in Singapore from spice mills and traditional medicine shops to tinsmiths and shoemakers. Aiming to provide a personal history of those involved in cottage industries, each profile traces how and when the trade was learnt, who taught it, how the product was made, the state of the industry and its future.</p>
 
 <h5>The Hainanese family business: a legacy of the heart </h5>
 -. (2015). <i>The Hainanese family business: a legacy of the heart.</i> Singapore: MediaCorp Pte Ltd. (Call no.: RSING 338.708995105957 HAI) <br>
-<img src="/images/Singapore%20Vanishing%20Trades/HainaneseFamily.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Vanishing%20Trades/HainaneseFamily.png" style="width:200px;">
 <p>
 Tells the stories of successful Hainanese family businesses in Singapore, such as Tai Sun, Ya Kun, and Jack’s Place, that had their roots as small shops and cottage industries.</p>
 
