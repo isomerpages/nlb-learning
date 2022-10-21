@@ -222,13 +222,17 @@ Source: Flower Power: The Right Way To Get Blessings From Hindu Gods | Our Grand
 
 <p>In Singapore, the five-foot-way traders engaged in trading inexpensive commodities (such as selling newspapers or food items)—and services (this included roadside barbers, shoe shining, locksmiths, fortune tellers, letter writing, traditional medicine healing, and knife sharpening to name a few). These trades started propping up when the influx of migrants to Singapore found it difficult to find work. Some began to use the corridors to set up these small businesses and paid rent to the shopkeeper. By the mid-1970s, as Singapore became more industrialized and these traders became older, some of these trades were either in decline or had moved into proper retail areas. </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <table border="1"><tbody><tr><td>
+<table border="1">
+	<tbody><tr>
+		<td>
 <h4>Did you know...</h4>
-<ul><li> Singapore Post released a special stamp set on vanishing trades in Singapore in 2013. The set featured the kacang putih man, the parrot astrologer, and the knife sharpener. (<a href="https://www.todayonline.com/singapore/special-stamps-preserve-memory-singapores-vanishing-trades">source</a>)</li>
+<ul>
+<li> Singapore Post released a special stamp set on vanishing trades in Singapore in 2013. The set featured the kacang putih man, the parrot astrologer, and the knife sharpener. (<a href="https://www.todayonline.com/singapore/special-stamps-preserve-memory-singapores-vanishing-trades">source</a>)
+</li>
 </ul>
 </td>
 </tr></tbody></table>
+
 <p>These curated set of articles and books will give you a better understanding of five foot way traders in Singapore.</p>
 
 <h4>Articles</h4>
