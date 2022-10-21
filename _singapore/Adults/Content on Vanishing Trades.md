@@ -319,14 +319,15 @@ Chew, Angela, Ricky Gui, and Jason Leong, (2016). <i>A Blink in Time: Memories o
 <p> Cottage industries in Singapore have come under pressure over the decades as the economy shifted towards capital-intensive, knowledge-based industries. Factors like rising costs and difficulty of finding suitable labour add to the challenge of survival. That said, some businesses in Singapore that started as cottage industries have successfully expanded and modernised their operations - even extending their footprint abroad.
 </p>
 
-&nbsp;
-&nbsp;<table border="1"><tbody><tr><td>
+<table border="1">
+	<tbody><tr>
+		<td>
 <h4>Did you know...</h4>
 <ul>
 <li> Historically, cottage industries have enabled those with little capital and formal education to earn a livelihood in an entrepreneurial way. Cottage industries also play an important role as living, intangible heritage due to the values of craftsmanship and tradition embedded in the product or service they supply.</li>
 </ul>
 </td>
-	 </tr></tbody></table>
+</tr></tbody></table>
 Get to know more about our cottage industries through the resources here.
 
 <h4>Articles</h4>
