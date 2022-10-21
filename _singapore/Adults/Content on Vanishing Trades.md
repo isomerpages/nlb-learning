@@ -343,10 +343,10 @@ Source: <a target="_blank" href="https://www.roots.gov.sg/ich-landing/ich/making
 <h4>eBook</h4>
 <h5> Moving Singapore from Rickshaws to Motorbikes: Raising Singapore Family Business </h5>
 Tan, Eileen. (2019). <i> Moving Singapore from Rickshaws to Motorbikes: Raising Singapore Family Business </i> Singapore: Partridge Publishing.<br>
-<a href="https://nlb.overdrive.com/media/5102018" target="_blank">
-<img media="" style="width:200px;></a>
-<p> A family business history of motorbike dealership Ban Hock Hin, interwoven with the biographies of its founder, Tan San Chwee, and his eldest son, Robert Tan, who inherited the reins. It is also a history of the transport trade in Singapore, which the Henghua dialect group came to specialise in from the late 19th century. The first two chapters describe how Ban Hock Hin started in 1939 as a bicycle repair shop that later expanded into production with the innovation of its own carriage tricycle, hiring fellow Henghua clansmen as workers to support the growing business. &nbsp;
-</p><p><a href=" src="/images/Singapore%20Vanishing%20Trades/MovingSingapore.png">Borrow the eBook here.</a><p></p>
+<a target="_blank" href="https://nlb.overdrive.com/media/5102018" >
+<img media="" style="width:200px;" 
+src="/images/Singapore%20Vanishing%20Trades/MovingSingapore.png"></a>
+<p> A family business history of motorbike dealership Ban Hock Hin, interwoven with the biographies of its founder, Tan San Chwee, and his eldest son, Robert Tan, who inherited the reins. It is also a history of the transport trade in Singapore, which the Henghua dialect group came to specialise in from the late 19th century. The first two chapters describe how Ban Hock Hin started in 1939 as a bicycle repair shop that later expanded into production with the innovation of its own carriage tricycle, hiring fellow Henghua clansmen as workers to support the growing business.</p><p><a href="https://nlb.overdrive.com/media/5102018" target="_blank"> Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 
 <h4>Books</h4>
