@@ -4,6 +4,40 @@ permalink: /singapore/Adults/Vanishing-Trades/
 description: ""
 third_nav_title: Adults
 ---
+<style type="text/css">
+/* Links */
+.content a { color: #322987; }
+.content a:focus,
+.content a:hover { color: #28216c; }
+
+/* Button Outline */
+.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
+.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
+.bp-button.is-primary-outline:focus,
+.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
+
+/* Responsive Iframe */
+.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
+.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
+.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
+.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
+.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
+.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Mint Jade */
+.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
+.clickbox.is-mint-jade a { color: #00b794; }
+.clickbox.is-mint-jade a:focus,
+.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; } 
+</style>
+
 Learn on the go. Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
 
 <div class="row is-multiline">
@@ -222,13 +256,17 @@ Source: Flower Power: The Right Way To Get Blessings From Hindu Gods | Our Grand
 
 <p>In Singapore, the five-foot-way traders engaged in trading inexpensive commodities (such as selling newspapers or food items)—and services (this included roadside barbers, shoe shining, locksmiths, fortune tellers, letter writing, traditional medicine healing, and knife sharpening to name a few). These trades started propping up when the influx of migrants to Singapore found it difficult to find work. Some began to use the corridors to set up these small businesses and paid rent to the shopkeeper. By the mid-1970s, as Singapore became more industrialized and these traders became older, some of these trades were either in decline or had moved into proper retail areas. </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <table border="1"><tbody><tr><td>
+<table border="1">
+	<tbody><tr>
+		<td>
 <h4>Did you know...</h4>
-<ul><li> Singapore Post released a special stamp set on vanishing trades in Singapore in 2013. The set featured the kacang putih man, the parrot astrologer, and the knife sharpener. (<a href="https://www.todayonline.com/singapore/special-stamps-preserve-memory-singapores-vanishing-trades">source</a>)</li>
+<ul>
+<li> Singapore Post released a special stamp set on vanishing trades in Singapore in 2013. The set featured the kacang putih man, the parrot astrologer, and the knife sharpener. (<a href="https://www.todayonline.com/singapore/special-stamps-preserve-memory-singapores-vanishing-trades">source</a>)
+</li>
 </ul>
 </td>
 </tr></tbody></table>
+
 <p>These curated set of articles and books will give you a better understanding of five foot way traders in Singapore.</p>
 
 <h4>Articles</h4>
@@ -281,14 +319,15 @@ Chew, Angela, Ricky Gui, and Jason Leong, (2016). <i>A Blink in Time: Memories o
 <p> Cottage industries in Singapore have come under pressure over the decades as the economy shifted towards capital-intensive, knowledge-based industries. Factors like rising costs and difficulty of finding suitable labour add to the challenge of survival. That said, some businesses in Singapore that started as cottage industries have successfully expanded and modernised their operations - even extending their footprint abroad.
 </p>
 
-&nbsp;
-&nbsp;<table border="1"><tbody><tr><td>
+<table border="1">
+	<tbody><tr>
+		<td>
 <h4>Did you know...</h4>
 <ul>
 <li> Historically, cottage industries have enabled those with little capital and formal education to earn a livelihood in an entrepreneurial way. Cottage industries also play an important role as living, intangible heritage due to the values of craftsmanship and tradition embedded in the product or service they supply.</li>
 </ul>
 </td>
-	 </tr></tbody></table>
+</tr></tbody></table>
 Get to know more about our cottage industries through the resources here.
 
 <h4>Articles</h4>
@@ -304,22 +343,22 @@ Source: <a target="_blank" href="https://www.roots.gov.sg/ich-landing/ich/making
 <h4>eBook</h4>
 <h5> Moving Singapore from Rickshaws to Motorbikes: Raising Singapore Family Business </h5>
 Tan, Eileen. (2019). <i> Moving Singapore from Rickshaws to Motorbikes: Raising Singapore Family Business </i> Singapore: Partridge Publishing.<br>
-<a href="https://nlb.overdrive.com/media/5102018" target="_blank">
-<img media="" style="width:200px;></a>
-<p> A family business history of motorbike dealership Ban Hock Hin, interwoven with the biographies of its founder, Tan San Chwee, and his eldest son, Robert Tan, who inherited the reins. It is also a history of the transport trade in Singapore, which the Henghua dialect group came to specialise in from the late 19th century. The first two chapters describe how Ban Hock Hin started in 1939 as a bicycle repair shop that later expanded into production with the innovation of its own carriage tricycle, hiring fellow Henghua clansmen as workers to support the growing business. &nbsp;
-</p><p><a href=" src="/images/Singapore%20Vanishing%20Trades/MovingSingapore.png">Borrow the eBook here.</a><p></p>
+<a target="_blank" href="https://nlb.overdrive.com/media/5102018" >
+<img media="" style="width:200px;" 
+src="/images/Singapore%20Vanishing%20Trades/MovingSingapore.png"></a>
+<p> A family business history of motorbike dealership Ban Hock Hin, interwoven with the biographies of its founder, Tan San Chwee, and his eldest son, Robert Tan, who inherited the reins. It is also a history of the transport trade in Singapore, which the Henghua dialect group came to specialise in from the late 19th century. The first two chapters describe how Ban Hock Hin started in 1939 as a bicycle repair shop that later expanded into production with the innovation of its own carriage tricycle, hiring fellow Henghua clansmen as workers to support the growing business.</p><p><a href="https://nlb.overdrive.com/media/5102018" target="_blank"> Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 
 <h4>Books</h4>
 <h5> “Can survive, la”: cottage industries in high-rise Singapore</h5>
 Sullivan, Margaret. (1993). <i> “Can survive, la”: cottage industries in high-rise Singapore. </i> Singapore: G. Brash. (Call no.: RCLOS 338.634095957 SUL)
 <br>
-<img src="/images/Singapore%20Vanishing%20Trades/CanSurviveLa.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Vanishing%20Trades/CanSurviveLa.png" style="width:200px;">
 <p> A rich collection of interviews conducted in the early 1980s with diverse cottage businesses in Singapore from spice mills and traditional medicine shops to tinsmiths and shoemakers. Aiming to provide a personal history of those involved in cottage industries, each profile traces how and when the trade was learnt, who taught it, how the product was made, the state of the industry and its future.</p>
 
 <h5>The Hainanese family business: a legacy of the heart </h5>
 -. (2015). <i>The Hainanese family business: a legacy of the heart.</i> Singapore: MediaCorp Pte Ltd. (Call no.: RSING 338.708995105957 HAI) <br>
-<img src="/images/Singapore%20Vanishing%20Trades/HainaneseFamily.png" style="width:200px;"></a>
+<img src="/images/Singapore%20Vanishing%20Trades/HainaneseFamily.png" style="width:200px;">
 <p>
 Tells the stories of successful Hainanese family businesses in Singapore, such as Tai Sun, Ya Kun, and Jack’s Place, that had their roots as small shops and cottage industries.</p>
 

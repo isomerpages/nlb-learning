@@ -69,7 +69,6 @@ Make reading a fun activity while fostering that special bond between you and yo
     </tbody>
   </table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -78,33 +77,48 @@ Make reading a fun activity while fostering that special bond between you and yo
       </tr>
     </thead>
     <tbody>
-     <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
+     <tr><td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
        <td>Check out all the Jiggle Read & Rhyme sessions for October!</td>
         <td>Various Locations</td>
       </tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-lapsit-early-read-registration-381532693557?aff=odcleoeventsincollection"><b>Baby Lapsit | Early READ 
+<td><a target="_blank" href="https://www.eventbrite.sg/e/storytelling-with-sadeaf-rapunzel-the-giving-tree-early-read-tickets-438766320877?aff=ebdsoporgprofile"><b>Storytelling with SADeaf | Rapunzel & The Giving Tree | Early READ
  </b></a></td>
-        <td> Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!
+        <td> Would you like to listen to the stories of Rapunzel and The Giving Tree in Singapore Sign Language? Come and join Singapore Associationfor the Deaf and pick up some Singapore Sign Language vocabulary along the way! Admission is free! See you there!
 <br>
-This programme is intended for parents with babies up to 12 months. </td>
-					<td>11 Oct 2022<br>4.00pm-4.30pm<br></td>
-        <td>Tampines Regional Library</td>
+ </td>
+					<td>5 Nov 2022<br>12.30pm-13.30pm<br></td>
+        <td>Jurong Regional Library</td>
       </tr>		
 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/parenting-book-club-with-jenny-ng-tickets-409772830567?aff=odcleoeventsincollection"><b>Parenting Book Club with Jenny Ng | Early READ</b></a></td>
-        <td>Learn tips and tools to help you set boundaries with others, honor and validate your emotions, and thrive in the face of life's challenge!<br><br>
-Join us as we discuss the following title: <br><br> Book title: Self-Care for Adult Children of Emotionally Immature Parents<br><br>Authors: Lindsay C. Gibson, PsyD, Rachel Perry</td>
-        <td>8 Oct 2022<br>11.00am – 12.00pm<br></td>
-        <td>Zoom</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/storytelling-with-evelyn-just-a-little-mynah-early-read-tickets-438766952767?aff=ebdsoporgprofile"><b>Storytelling with Evelyn | Just a Little Mynah | Early READ</b></a></td>
+        <td>Come fly with Little Mynah as she discovers that even ordinary little birds can do extraordinary things.  Help Little Mynah and her feathered friends, using fun everyday words in Mandarin, Malay and Tamil. A craft session and interactive storytelling for children ages 4 to 6 years that will get them flying!<br></td>
+        <td>5 Nov 2022<br>11.00am – 12.00pm<br></td>
+        <td>Toa Payoh Public Library</td>
 </tr>	
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/special-play-session-tickets-417799067257?aff=odcleoeventsincollection"><b> Special Play Session | Early READ </b></a></td>
-        <td>Come bond with your little ones in this self-guided play session. Let your children explore the various edu-aids that we have and get to engage your children in meaningful play! Do drop by any time between 2pm - 4pm. This programme is suitable for children between 0-6 years old. </td>
-        <td>28 Oct 2022<br>2.00pm – 4.00pm<br></td>
-        <td>Sengkang Public Library</td>				
+<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-lapsit-early-read-tickets-325395846737?aff=ebdsoporgprofile"><b> Baby Lapsit | Early READ </b></a></td>
+        <td>Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!</td>
+        <td>10 Nov 2022<br>3.30pm – 4.00pm<br></td>
+        <td>Serangoon Public Library</td>				
+  					</tr>
+			<tr><td><a target="_blank" href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-early-read-registration-385314565237?aff=ebdsoporgprofile"><b> Toddler Songs & Rhymes | Early READ </b></a></td>
+        <td>Join other parents with young children and support your child's early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
+        <td>16 Nov 2022<br>3.00pm – 3.30pm<br></td>
+        <td>Zoom</td>				
+  					</tr>
+			<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/empowering-parent-leaders-what-to-do-and-why-you-do-it-early-read-registration-438781847317?aff=ebdsoporgprofile"><b> Empowering Parent Leaders: What to do and Why you do it! | Early READ</b></a></td>
+        <td>Understand how your child’s brain develops so you can use the most effective techniques to lead them to calmly respond to challenges.</td>
+        <td>19 Nov 2022<br>11.30am– 12.30pm<br></td>
+        <td>Queenstown Public Library</td>				
+  					</tr>
+					<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/stories-come-alive-by-niecite-early-read-registration-438774374967?aff=ebdsoporgprofile"><b> Stories Come Alive by NIEC(ITE)! | Early READ</b></a></td>
+        <td>Join us for a session of stories, songs and rhymes where NIEC(ITE) students will share interesting and fun stories! There will also be a craft session at the end and children will bring home a craft to retell the story to their families or friends.This programme is intended for children aged 4-6 years.</td>
+        <td>19 Nov 2022<br>3.00pm – 4.00pm<br></td>
+        <td>Woodlands Regional Library</td>				
   					</tr>
 		</tbody>
 	</table>
@@ -119,41 +133,34 @@ Join us as we discuss the following title: <br><br> Book title: Self-Care for Ad
     </thead>
     <tbody>
 			<tr>		
-<td><a target="_blank" href="https://www.eventbrite.sg/e/coding-unplugged-sound-shakers-discovertech-tickets-416471847507?aff=odcleoeventsincollection"><b> Coding Unplugged: Sound Shakers | DiscoverTech</b></a></td>
-        <td>Learn basic coding concepts and computational thinking skills through an unplugged sound shaker activity. Discover concepts such as decomposition and debugging as you fix the buggy set of instructions and fold the sound shaker. You will get to bring the sound shaker home too!
+<td><a target="_blank" href=" https://www.eventbrite.sg/e/mindful-magic-breathing-in-the-wind-early-read-registration-438779379937?aff=ebdsoporgprofile"><b> Mindful Magic: Breathing in the Wind | Early READ</b></a></td>
+        <td>In this session suitable for children aged 4-6 years old, participants will learn to respond to challenging emotions using the Breathe and Calm technique, as well as through art, to slow down and pay attention to their breathing. <br>This programme is brought to you by backtogroundzero, a local non-profit community group working in the intersection of mental wellbeing and environmental sustainability.
 </td>
-       <td>1 Oct 2022 <br> 2:30-3:30pm</td>
-        <td>Serangoon Public Library</td>
+       <td>6 Nov 2022 <br>11.00am-12.00pm</td>
+        <td>Toa Payoh Public Library</td>
       </tr>
 			  <tr>	
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-sounds-tickets-410297780707?aff=odcleoeventsincollection"><b> [Budding Engineers] Sounds </b></a></td>
-        <td> Join this workshop to learn how sounds are made! This programme is suitable for children of 4-6 years and their parents.
+<td><a target="_blank" href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-early-read-tickets-438762409177?aff=ebdsoporgprofile"><b>Introduction to Scratch Junior Coding | Early READ</b></a></td>
+        <td>ScratchJr is a programming language for children aged 4-6. Using ScratchJr, children can create their own interactive stories, animations and games.
 </td>
-        <td>1 Oct 2022<br>11.00am–12.00pm<br></td>
-        <td>Woodlands Regional Library</td>
+        <td>19 Nov 2022<br>11.00am–12.00pm<br></td>
+        <td>Bishan Public Library</td>
       </tr>
 				<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-abcs-of-microgreens-tickets-409753111587?aff=odcleoeventsincollection"><b>  [Caring for the Environment] ABCs of Microgreens </b></a></td>
-         <td>  Join us in this workshop as we learn about microgreens and fall in love with the ease of planting these young seedlings. This is a parent-child programme and is suitable for children aged 4-6 years old.
+<td><a target="_blank" href="https://www.eventbrite.sg/e/becoming-a-trash-hero-l-for-kids-aged-5-7-years-old-early-read-registration-438785508267?aff=ebdsoporgprofile"><b>Becoming a Trash Hero l For kids aged 5-7 years old | Early READ</b></a></td>
+         <td>Learn how we can care for the environment through an interactive session of storytelling, games and quizzes! 
  </td>
-        <td>9 Oct 2022<br>11.30am–12.30pm<br></td>
-        <td>Bedok Public Library  </td>
+        <td>19 Nov 2022<br>2.00pm–3.00pm<br></td>
+        <td>Geylang East Public Library  </td>
       </tr>
-			
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-potions-party-tickets-409759109527?aff=odcleoeventsincollection"><b> [Budding Scientists] Potions Party!  </b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-coding-unplugged-human-computers-early-read-registration-438780553447?aff=ebdsoporgprofile"><b>[DiscoverTech] Coding Unplugged: Human Computers! | Early READ</b></a></td>
         <td>
-Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! Today, you’ll be challenged to complete the Head Professor’s first assignment by combining ingredients to make stunning and magical mixtures. It will get messy — you have been warned. Don your lab coats, prepare your ingredients, and ready the test tubes.Excited to learn more about potions and the Science behind them? Our stimulating hands-on experiments will open you to the world of STEAM.
+Calling all parents and children aged 4 to 6 years old! What if we told you you could become a computer for an hour? This hands-on, interactive session will introduce you and your child to the curious world of coding! Discover 3 basic coding concepts of branching, sequencing and algorithms through storytelling and a series of enjoyable unplugged activities.
  </td>
-       <td> 29 Oct 2022 <br> 11:00 AM – 12:00 PM</td>
-        <td>Zoom</td>
+       <td> 26 Nov 2022 <br> 11:00am– 12:00pm</td>
+        <td>Choa Chu Kang Public Library</td>
       </tr>
-			<tr>           
-<td><a target="_blank" href="https://www.eventbrite.sg/e/arise-farm-from-seed-to-harvest-plants-friends-foes-tickets-416468768297?aff=odcleoeventsincollection"><b> Arise & Farm: From Seed To Harvest-Plants’ Friends & Foes </b></a></td>
-        <td> Learn about the process of farming through a guided exhibit tour and tactile hands-on activities! This programme is suitable for children aged 4-6 yrs old. 
-<br>
-</td><td>29 Oct 2022<br>10.30am–12.00pm<br></td><td> Bishan Public Library </td>
-      </tr>	
   </tbody>
   </table>
 </div>
