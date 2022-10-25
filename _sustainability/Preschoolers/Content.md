@@ -54,6 +54,14 @@ Explore our **learning packages** for fun facts and activities that show our lit
       </a>
     </div>
   </div>
+	<div class="row is-multiline">
+  <div class="col is-one-half">
+    <div class="clickbox is-mint-jade">
+      <a href="#playlist-environment">
+        <span>Playlist:<br>Caring for the Environment</span>
+      </a>
+    </div>
+  </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
       <a href="#lp-sust">
@@ -63,7 +71,7 @@ Explore our **learning packages** for fun facts and activities that show our lit
   </div>
   </div>
 	
-<h3 class="margin--bottom--lg" id="playlist-3r"><b>Playlist: Caring for the Environment</b></h3>	
+<h3 class="margin--bottom--lg" id="playlist-environment"><b>Playlist: Caring for the Environment</b></h3>	
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
