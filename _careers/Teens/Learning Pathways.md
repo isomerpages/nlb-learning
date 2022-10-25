@@ -73,18 +73,19 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
 			<tr>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/nature-photography-101-with-park-kaki-clementi-public-library-tickets-435602377437?aff=odcleoeventsincollection"><b>Nature Photography 101 with Park Kaki @ Clementi Public Library
+        <td style="width: 40%;">Have you ever wondered what’s the best way to capture the beauty of nature through your camera lenses? Learn the tricks of the trade from Park Kaki’s David Wirawan in this workshop.</td>
+        <td style="width: 20%;">13 Nov 2022,<br>4pm-5pm</td>
+        <td style="width: 20%;">Clementi Public Library, Programme Zone</td>
+			<tr>
         <td style="width: 20%;">
 					News Journalism 101 | Teens Takeover | re:write <br><a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429092526297?aff=odcleoeventsincollection"><b>Session 1 </b><br>
 					<a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=odcleoeventsincollection"><b>Session 2 </b></a></td>
         <td style="width: 40%;"> Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.</td>
-        <td style="width: 20%;">7 Oct 2022,<br>2pm-4pm</td>
-        <td style="width: 20%;">Sengkang Public Library, PZ 1</td>
+        <td style="width: 20%;">10 Dec 2022, <br>2pm-3.30pm | <br>17 Dec 2022,<br>2pm-3.30pm</td>
+        <td style="width: 20%;">Serangoon Public Library, Programme Zone</td>
       </tr>
-<tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/writing-the-city-writers-cove-tickets-419355522657?aff=ebdsoporgprofile"><b>Writing the City – Writer’s Cove</b></a></td>
-        <td style="width: 40%;">This session is a workshop for budding writers to read and discuss one another’s submissions in a welcoming environment.</td>
-        <td style="width: 20%;">15 Oct 2022,<br>2pm-4pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library, PZ</td>
+
       </tr>
   </tbody>
   </table>
