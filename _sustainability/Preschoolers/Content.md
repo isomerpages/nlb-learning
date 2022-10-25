@@ -73,9 +73,10 @@ Explore our **learning packages** for fun facts and activities that show our lit
 	
 <h3 class="margin--bottom--lg" id="playlist-environment"><b>Playlist: Caring for the Environment</b></h3>	
 
-<div class="row is-multiline margin--bottom--lg">
+<div class="row is-multiline">
   <div class="col is-two-fifths">
-		<div class="image"><a href="https://www.youtube.com/watch?v=-h0ekOnqUh0" target="_blank"></a>
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=-h0ekOnqUh0"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
