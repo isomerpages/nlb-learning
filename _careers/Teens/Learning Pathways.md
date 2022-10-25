@@ -41,17 +41,23 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
 			<tr>
-         <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/from-fearful-to-confident-speaker-tickets-427016717497?aff=odcleoeventsincollection"><b>From Fearful to Confident Speaker
+         <td style="width: 20%;">
+					 <b>Interview Skills | Teens Takeover | portfolio
+					 <a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429093960587?aff=odcleoeventsincollection"><b>Session 1
+</b></a> <br>
+						 					 <a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429094442027?aff=odcleoeventsincollection"><b>Session 2
 </b></a></td>
-        <td style="width: 40%;"> Drop by and learn how to speak off the cuff in a composed and confident manner, and watch how toastmasters do so at an actual contest!
-        </td><td style="width: 20%;">1 Oct 2022,<br>1.30pm-5pm</td>
-        <td style="width: 20%;">Geylang East Public Library, <br>Merpati Hall</td>
+        <td style="width: 40%;"> Ace that interview! Discover the useful skills and qualities needed to make a good first impression.
+        </td><td style="width: 20%;">22 Nov 2022,<br>11am-12.30pm | 
+				<br> 6 Dec 2022 <br>11am-12.30pm
+				</td>
+        <td style="width: 20%;">Pasir Ris Public Library, <br>Programme Zone</td>
 			</tr>
 		<tr>
          <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/personal-packaging-ask-me-anything-ama-x-toyl-celebration-registration-407220586737?aff=odcleoeventsincollection"><b>Personal Packaging | Ask Me Anything (AMA) x TOYL Celebration
 </b></a></td>
         <td style="width: 40%;">In this session, hear from Hyder Bilgrami, a communications expert, to discover the keys to create a good first impression.</td>
-       <td> 5 Oct 2022,<br>7pm-8pm</td>
+       <td> 6 Dec 2022,<br>11am-12.m</td>
         <td>library@harbourfront,<br>PZ 1 &amp; 2</td>
 			</tr>
     </tbody>
@@ -67,8 +73,10 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/the-perfect-balance-tweenkerama-sengkang-public-library-tickets-411737988407?aff=ebdsoporgprofile"><b>The Perfect Balance | Tweenkerama @ Sengkang Public Library</b></a></td>
-        <td style="width: 40%;"> Ever wondered how a tightrope walker stays perfectly balanced on a tightrope? Join this workshop as we explore the answers to this question through LEGO!</td>
+        <td style="width: 20%;">
+					News Journalism 101 | Teens Takeover | re:write <br><a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429092526297?aff=odcleoeventsincollection"><b>Session 1 </b><br>
+					<a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=odcleoeventsincollection"><b>Session 2 </b></a></td>
+        <td style="width: 40%;"> Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.</td>
         <td style="width: 20%;">7 Oct 2022,<br>2pm-4pm</td>
         <td style="width: 20%;">Sengkang Public Library, PZ 1</td>
       </tr>
