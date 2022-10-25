@@ -42,7 +42,7 @@ Get your child to fall in love with nature through these activities and videos c
 
 <h3><b>Playlist</b></h3>
 
-Check out our **playlist** for a collection of short videos exploring topics around sustainability.
+Check out our **playlist** for a collection of short videos exploring topics around sustainability. 
 
 Explore our **learning packages** for fun facts and activities that show our little ones interesting ways to protect nature.
 
@@ -62,7 +62,23 @@ Explore our **learning packages** for fun facts and activities that show our lit
     </div>
   </div>
   </div>
+	
+<h3 class="margin--bottom--lg" id="playlist-3r"><b>Playlist: Caring for the Environment</b></h3>	
 
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+		<div class="image"><a href="https://www.youtube.com/watch?v=-h0ekOnqUh0" target="_blank"></a>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Keep Us Safe - Creation C.A.R.E (1 mins 37 secs) </b><br>
+Creation C.A.R.E (Children’s Action to Rescue Earth) is a community project that endeavours to inspire, encourage and empower children to care for creation and the environment
+<br>
+Written and arranged by off peak hours @offpeakhrs in partnership with Presbyterian Preschool Services</p>
+    <small>Source: Keep Us Safe - Creation C.A.R.E. YouTube. (2022, Jul 6). Retrieved Oct 25, 2022.</small>
+  </div>
+</div>
+<p> 'Keep Us Safe' is a song that remind us that our actions have an impact on the world around us, including the animals that we share it with! We hope the words of this song encourages children to be environmentally-conscious in their everyday lives.</p>
 
 <h3 class="margin--bottom--lg" id="playlist-3r"><b>Playlist: Seas & Oceans</b></h3>
 
