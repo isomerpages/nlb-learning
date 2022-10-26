@@ -85,8 +85,6 @@ Clueless about which career is suitable for you? Discover and explore various ca
         <td style="width: 20%;">10 Dec 2022, <br>2pm-3.30pm | <br>17 Dec 2022,<br>2pm-3.30pm</td>
         <td style="width: 20%;">Serangoon Public Library, Programme Zone</td>
       </tr>
-
-      </tr>
   </tbody>
   </table>
 </div>
