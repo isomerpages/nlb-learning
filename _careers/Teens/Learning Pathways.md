@@ -27,10 +27,7 @@ Clueless about which career is suitable for you? Discover and explore various ca
         <td>Get a glimpse of what it takes to achieve your aspirations with this article and activities!</td>
         <td></td>
         <td></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+			</tr></tbody></table></div>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
