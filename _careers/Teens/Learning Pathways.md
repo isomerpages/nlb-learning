@@ -55,7 +55,7 @@ Clueless about which career is suitable for you? Discover and explore various ca
 		<tr>
          <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/udemy-business-tickets-422441492877?aff=ebdsoporgprofile"><b>Udemy Business
 </b></a></td>
-        <td style="width: 40%;">In this session, hear from Hyder Bilgrami, a communications expert, to discover the keys to create a good first impression.</td>
+        <td style="width: 40%;">Learn how to use Udemy Business to find courses that meet your needs!</td>
        <td> 14 Nov 2022,<br>3pm-4pm</td>
         <td>Zoom<br></td>
 			</tr>
