@@ -39,9 +39,10 @@ Clueless about which career is suitable for you? Discover and explore various ca
     <tbody>
 			<tr>
          <td style="width: 20%;">
-					 <b>Interview Skills | Teens Takeover | portfolio
-					 <a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429093960587?aff=odcleoeventsincollection"><b>Session 1
-</b></a> <br>
+					 <b>Interview Skills | Teens Takeover | portfolio</b><br>
+					 <a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429093960587?aff=odcleoeventsincollection">
+						 <b>Session 1</b></a>
+						 <br><br>
 						 					 <a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429094442027?aff=odcleoeventsincollection"><b>Session 2
 </b></a></td>
         <td style="width: 40%;"> Ace that interview! Discover the useful skills and qualities needed to make a good first impression.
