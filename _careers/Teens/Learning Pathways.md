@@ -53,11 +53,11 @@ Clueless about which career is suitable for you? Discover and explore various ca
         <td style="width: 20%;">Pasir Ris Public Library, <br>Programme Zone</td>
 			</tr>
 		<tr>
-         <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/personal-packaging-ask-me-anything-ama-x-toyl-celebration-registration-407220586737?aff=odcleoeventsincollection"><b>Personal Packaging | Ask Me Anything (AMA) x TOYL Celebration
+         <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/udemy-business-tickets-422441492877?aff=ebdsoporgprofile"><b>Udemy Business
 </b></a></td>
         <td style="width: 40%;">In this session, hear from Hyder Bilgrami, a communications expert, to discover the keys to create a good first impression.</td>
-       <td> 6 Dec 2022,<br>11am-12.m</td>
-        <td>library@harbourfront,<br>PZ 1 &amp; 2</td>
+       <td> 14 Nov 2022,<br>3pm-4pm</td>
+        <td>Zoom<br></td>
 			</tr>
     </tbody>
   </table>
