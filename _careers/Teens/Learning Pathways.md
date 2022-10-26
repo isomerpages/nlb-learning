@@ -78,7 +78,7 @@ Clueless about which career is suitable for you? Discover and explore various ca
         <td style="width: 20%;">Clementi Public Library, Programme Zone</td>
 			<tr>
         <td style="width: 20%;">
-					News Journalism 101 | Teens Takeover | re:write <br><a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429092526297?aff=odcleoeventsincollection"><b>Session 1 </b>
+					News Journalism 101 | Teens Takeover | re:write <br><a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429092526297?aff=odcleoeventsincollection"><b>Session 1 </b></a>
 					<a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=odcleoeventsincollection"><b>Session 2 </b></a></td>
         <td style="width: 40%;"> Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.</td>
         <td style="width: 20%;">10 Dec 2022, <br>2pm-3.30pm | <br>17 Dec 2022,<br>2pm-3.30pm</td>
