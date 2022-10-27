@@ -108,9 +108,9 @@ Take the plunge into a deeper love for the literary.
         <td>Pasir Ris Public Library, <br>Programme Zone</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/an-introduction-to-latin-jazz-56-jazz-for-curious-listeners-registration-384455545887?aff=odcleoeventsincollection" ><b>An introduction to Latin Jazz 5/6 | Jazz for Curious Listeners</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/an-introduction-to-latin-jazz-56-jazz-for-curious-listeners-registration-384455545887?aff=odcleoeventsincollection" ><b>Let's Celebrate Jazz Music 6/6 | Jazz for Curious Listeners</b></a></td>
 	<td>Join us in our 6-session introductory series on Jazz music and appreciation, catered for the beginners!<br><br>
-        </td><td>12 Nov 2022, <br>
+        </td><td>3 Dec 2022, <br>
 4pm – 5.30pm</td>
         <td>library@esplanade</td>
       </tr>
