@@ -102,13 +102,6 @@ Here are some Wellness resources to help you on your wellness journey!
 <h5>Design 3</h5>
 <p><a href="/files/Wellness/Gratitude-Journal-Issue-3.pdf" target="_blank"><img src="/images/wellness/adults-and-seniors/gj-issue3.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
 
-<!-- MYH Partner Resources  -->
-<h4 class="margin--bottom--lg" id="myh-resources"><b> Partner Resources</b></h4>
-
-<li><a href="#mindline-link">mindline.sg</a><br>
-<li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
-<li><a href="#healthxchange-link">HealthXchange.sg</a></li>
-<li><a href="#mentalhealth-link">Mental Health e-Learning</a></li>
 
 <!-- MYB -->
 <h3><b>Mind Your Body: Physical Wellness</b></h3>
@@ -116,9 +109,9 @@ Here are some Wellness resources to help you on your wellness journey!
 <!-- MYB Partner Resources  -->
 <h4 class="margin--bottom--lg" id="myb-resources"><b> Partner Resources</b></h4>
 
-<li><a href="#mindline-link">mindline.sg</a><br>
-<li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
-<li><a href="#healthxchange-link">HealthXchange.sg</a></li>
+<li><a href="https://for.sg/mindline4nlb">mindline.sg</a><br>
+<li><a href="https://go.gov.sg/wr-hrc">Health Reference Centre e-Resource</a></li>
+<li><a href="https://go.gov.sg/wr-hx">HealthXchange.sg</a></li>
 
 <!-- AOYT  -->
 <h3><b>Ahead of Your Time: End of Life Matters</b></h3>
@@ -126,8 +119,8 @@ Here are some Wellness resources to help you on your wellness journey!
 <!-- AOYT Partner Resources  -->
 <h4 class="margin--bottom--lg" id="aoyt-resources"><b> Partner Resources</b></h4>
 
-<li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
-<li><a href="#healthxchange-link">HealthXchange.sg</a></li>
+<li><a href="https://go.gov.sg/wr-hrc">Health Reference Centre e-Resource</a></li>
+<li><a href="https://go.gov.sg/wr-hx">HealthXchange.sg</a></li>
 
 <!-- Care-giving  -->
 <h3><b>Care-giving</b></h3>
@@ -135,9 +128,9 @@ Here are some Wellness resources to help you on your wellness journey!
 <!-- Caregiving Partner Resources  -->
 <h4 class="margin--bottom--lg" id="caregiving-resources"><b> Partner Resources</b></h4>
 
-<li><a href="#mindline-link">mindline.sg</a><br>
-<li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
-<li><a href="#healthxchange-link">HealthXchange.sg</a></li>
+<li><a href="https://for.sg/mindline4nlb">mindline.sg</a><br>
+<li><a href="https://go.gov.sg/wr-hrc">Health Reference Centre e-Resource</a></li>
+<li><a href="https://go.gov.sg/wr-hx">HealthXchange.sg</a></li>
 
 <!-- Financial Wellness  -->
 <h3><b>Financial Wellness</b></h3>
@@ -145,25 +138,25 @@ Here are some Wellness resources to help you on your wellness journey!
 <!-- Financial Wellness Partner Resources  -->
 <h4 class="margin--bottom--lg" id="fin-resources"><b> Partner Resources</b></h4>
 
-<li><a href="#mindline-link">mindline.sg</a><br>
-<li><a href="#healthxchange-link">HealthXchange.sg</a></li>
+<li><a href="https://for.sg/mindline4nlb">mindline.sg</a><br>
+<li><a href="https://go.gov.sg/wr-hx">HealthXchange.sg</a></li>
 
 <h3><b>Wellness Resource Centre</b></h3>
 
-<h5 id="hrc-link"><a href="https://eresources.nlb.gov.sg/main/Open/1351?mode=edatabase" target="_blank"><b> Health Reference Centre eResource</b></a></h5>
+<h5 id="hrc-link"><a href="https://go.gov.sg/wr-hrc" target="_blank"><b> Health Reference Centre eResource</b></a></h5>
 
 <p>Health Reference Center includes comprehensive, in-depth coverage of body systems, current health issues, major diseases and conditions, treatments, and procedures, as well as health and nutrition information specific to men, women, children, teens, and seniors.</p>
 
-<h5 id="mindline-link"><a href="https://mindline.sg" target="_blank"><b> mindline.sg</b></a></h5>
+<h5 id="mindline-link"><a href="https://for.sg/mindline4nlb" target="_blank"><b> mindline.sg</b></a></h5>
 
 <a href="https://for.sg/mindline4nlb" target="_blank"><img src="/images/wellness/adults-and-seniors/Mindline1.png" width="615" height="346"></a>
 <p>mindline.sg is a digital stress management platform that aims to empower and equip individuals with tools, knowledge and pathways to self-care and seek out professional help when needed.</p>
 <a href="https://for.sg/mindlineatwork4nlb" target="_blank"><img src="/images/wellness/adults-and-seniors/Mindline-work.png" width="615" height="346"></a>
 
-<h5 id="healthxchange-link"><a href="https://www.healthxchange.sg/about-us" target="_blank"><b> HealthXchange.sg</b></a></h5>
+<h5 id="healthxchange-link"><a href="https://go.gov.sg/wr-hx" target="_blank"><b> HealthXchange.sg</b></a></h5>
 
 <p>HealthXchange.sg aims to encourage personal responsibility and ownership of personal health care by providing useful information and advice on healthy living and medical care options. Content is contributed by professional experts in their respective fields.</p>
 
-<h5 id="mentalhealth-link"><a href="https://www.aic.sg/body-mind/mental-health-elearning" target="_blank"><b> Mental Health e-Learning</b></a></h5>
+<h5 id="mentalhealth-link"><a href="https://go.gov.sg/wr-aicmh" target="_blank"><b> Mental Health e-Learning</b></a></h5>
 
 <p>Want to learn more about dementia or mental health conditions and know where to seek help? Visit this link for e-learning modules dementia or mental health awareness developed by The Agency for Integrated Care (AIC).</p>
