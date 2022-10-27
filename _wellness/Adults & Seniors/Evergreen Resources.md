@@ -51,13 +51,6 @@ Here are some Wellness resources to help you on your wellness journey!
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="#myh-resources">
-        <span>Mind Your Head: <br>Partner Resources</span>
-      </a>
-    </div>
-  </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-thoughtful-tangerine">
       <a href="#myb-resources">
         <span>Mind Your Body:<br>Partner Resources</span>
       </a>
