@@ -73,7 +73,7 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/nature-photography-101-with-park-kaki-clementi-public-library-tickets-435602377437?aff=odcleoeventsincollection"><b>Nature Photography 101 with Park Kaki @ Clementi Public Library
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/nature-photography-101-with-park-kaki-clementi-public-library-tickets-435602377437?aff=odcleoeventsincollection"><b>Nature Photography 101 with Park Kaki @ Clementi Public Library </td>
         <td style="width: 40%;">Have you ever wondered what’s the best way to capture the beauty of nature through your camera lenses? Learn the tricks of the trade from Park Kaki’s David Wirawan in this workshop.</td>
         <td style="width: 20%;">13 Nov 2022,<br>4pm-5pm</td>
         <td style="width: 20%;">Clementi Public Library, Programme Zone</td>
