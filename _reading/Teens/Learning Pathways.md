@@ -96,11 +96,16 @@ Take the plunge into a deeper love for the literary.
         <td style="width: 20%;">Sengkang Public Library PZ</td>
       </tr>
 <tr>
-        <td><a target="_blank" href="https://www.eventbrite.sg/e/leap-into-livestreaming-with-obs-my-digital-life-registration-411806784177?aff=ebdsoporgprofile"><b>Leap into Livestreaming with OBS | My Digital Life</b></a></td>
-        <td>Learn the software and tools on how to livestream effectively.</td>
-        <td>15 Oct 2022,<br>
-10.30am – 12.30pm</td>
-        <td>Online</td>
+        <td>					 <b>Interview Skills | Teens Takeover | portfolio</b><br>
+					 <a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429093960587?aff=odcleoeventsincollection">
+						 <b>Session 1</b></a>
+						 <br>
+						 					 <a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429094442027?aff=odcleoeventsincollection"><b>Session 2
+</b></a></td>
+        <td>Ace that interview! Discover the useful skills and qualities needed to make a good first impression</td>
+        <td>22 Nov 2022,<br>11am-12.30pm | 
+				<br> 6 Dec 2022 <br>11am-12.30pm</td>
+        <td>Pasir Ris Public Library, <br>Programme Zone</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/an-introduction-to-latin-jazz-56-jazz-for-curious-listeners-registration-384455545887?aff=odcleoeventsincollection" ><b>An introduction to Latin Jazz 5/6 | Jazz for Curious Listeners</b></a></td>
