@@ -27,7 +27,9 @@ Clueless about which career is suitable for you? Discover and explore various ca
         <td>Get a glimpse of what it takes to achieve your aspirations with this article and activities!</td>
         <td></td>
 				<td></td></tr>
-		</tbody></table></div>
+  </tbody>
+  </table>
+</div>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -57,7 +59,10 @@ Clueless about which career is suitable for you? Discover and explore various ca
 </b></a></td>
         <td style="width: 40%;">Learn how to use Udemy Business to find courses that meet your needs!</td>
        <td> 14 Nov 2022,<br>3pm-4pm</td>
-        <td>Zoom<br></td></tr></tbody></table></div>
+        <td>Zoom<br></td></tr>
+			  </tbody>
+  </table>
+</div>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
