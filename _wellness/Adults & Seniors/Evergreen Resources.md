@@ -49,6 +49,13 @@ Here are some Wellness resources to help you on your wellness journey!
       </a>
     </div>
   </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#myh-resources">
+        <span>Mind Your Head: <br> Partner Resources</span>
+      </a>
+    </div>
+  </div>
   <div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
       <a href="#myb-resources">
@@ -95,6 +102,13 @@ Here are some Wellness resources to help you on your wellness journey!
 <h5>Design 3</h5>
 <p><a href="/files/Wellness/Gratitude-Journal-Issue-3.pdf" target="_blank"><img src="/images/wellness/adults-and-seniors/gj-issue3.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
 
+<!-- MYH Partner Resources  -->
+<h4 class="margin--bottom--lg" id="myh-resources"><b> Partner Resources</b></h4>
+
+<li><a href="#mindline-link">mindline.sg</a><br>
+<li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
+<li><a href="#healthxchange-link">HealthXchange.sg</a></li>
+<li><a href="#mentalhealth-link">Mental Health e-Learning</a></li>
 
 <!-- MYB -->
 <h3><b>Mind Your Body: Physical Wellness</b></h3>
@@ -102,9 +116,9 @@ Here are some Wellness resources to help you on your wellness journey!
 <!-- MYB Partner Resources  -->
 <h4 class="margin--bottom--lg" id="myb-resources"><b> Partner Resources</b></h4>
 
-<li><a href="https://for.sg/mindline4nlb">mindline.sg</a><br>
-<li><a href="https://go.gov.sg/wr-hrc">Health Reference Centre e-Resource</a></li>
-<li><a href="https://go.gov.sg/wr-hx">HealthXchange.sg</a></li>
+<li><a href="#mindline-link">mindline.sg</a><br>
+<li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
+<li><a href="healthxchange-link">HealthXchange.sg</a></li>
 
 <!-- AOYT  -->
 <h3><b>Ahead of Your Time: End of Life Matters</b></h3>
@@ -112,8 +126,8 @@ Here are some Wellness resources to help you on your wellness journey!
 <!-- AOYT Partner Resources  -->
 <h4 class="margin--bottom--lg" id="aoyt-resources"><b> Partner Resources</b></h4>
 
-<li><a href="https://go.gov.sg/wr-hrc">Health Reference Centre e-Resource</a></li>
-<li><a href="https://go.gov.sg/wr-hx">HealthXchange.sg</a></li>
+<li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
+<li><a href="#healthxchange-link">HealthXchange.sg</a></li>
 
 <!-- Care-giving  -->
 <h3><b>Care-giving</b></h3>
@@ -121,9 +135,9 @@ Here are some Wellness resources to help you on your wellness journey!
 <!-- Caregiving Partner Resources  -->
 <h4 class="margin--bottom--lg" id="caregiving-resources"><b> Partner Resources</b></h4>
 
-<li><a href="https://for.sg/mindline4nlb">mindline.sg</a><br>
-<li><a href="https://go.gov.sg/wr-hrc">Health Reference Centre e-Resource</a></li>
-<li><a href="https://go.gov.sg/wr-hx">HealthXchange.sg</a></li>
+<li><a href="#mindline-link">mindline.sg</a><br>
+<li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
+<li><a href="healthxchange-link">HealthXchange.sg</a></li>
 
 <!-- Financial Wellness  -->
 <h3><b>Financial Wellness</b></h3>
@@ -131,8 +145,8 @@ Here are some Wellness resources to help you on your wellness journey!
 <!-- Financial Wellness Partner Resources  -->
 <h4 class="margin--bottom--lg" id="fin-resources"><b> Partner Resources</b></h4>
 
-<li><a href="https://for.sg/mindline4nlb">mindline.sg</a><br>
-<li><a href="https://go.gov.sg/wr-hx">HealthXchange.sg</a></li>
+<li><a href="#mindline-link">mindline.sg</a><br>
+<li><a href="#healthxchange-link">HealthXchange.sg</a></li>
 
 <h3><b>Wellness Resource Centre</b></h3>
 
