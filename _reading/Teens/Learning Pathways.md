@@ -90,10 +90,10 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/the-perfect-balance-tweenkerama-sengkang-public-library-tickets-411737988407?aff=ebdsoporgprofile"><b>The Perfect Balance | Tweenkerama @ Sengkang Public Library</b></a></td>
-        <td style="width: 40%;"> Join us for a fun-filled workshop to learn about balanced forces and gravity and create your very own model with LEGO!</td>
-        <td style="width: 20%;">7 Oct 2022, <br>2 – 4pm</td>
-        <td style="width: 20%;">Sengkang Public Library PZ</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/nature-photography-101-with-park-kaki-clementi-public-library-tickets-435602377437?aff=odcleoeventsincollection"><b>Nature Photography 101 with Park Kaki @ Clementi Public Library</b></a></td>
+        <td style="width: 40%;"> Have you ever wondered what’s the best way to capture the beauty of nature through your camera lenses? Learn the tricks of the trade from Park Kaki’s David Wirawan in this workshop.</td>
+        <td style="width: 20%;">13 Nov 2022, <br>4 – 5pm</td>
+        <td style="width: 20%;">Clementi Public Library, Programme Zone</td>
       </tr>
 <tr>
         <td>					 <b>Interview Skills | Teens Takeover | portfolio</b><br>
