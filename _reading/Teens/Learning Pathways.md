@@ -44,11 +44,11 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/short-story-writing-workshop-with-inez-tan-tickets-415713529357?aff=ebdsoporgprofile"><b>Short Story Writing Workshop with Inez Tan</b></a></td>
-        <td style="width: 40%;">This 4-week workshop will introduce you to thinking about stories in terms of four simple craft elements. Tools and techniques that that you'll be able to use in your writing.</td>
-        <td style="width: 20%;"> 1, 8, 15, 22 Oct 2022,
-<br>3pm – 4pm,</td>
-        <td style="width: 20%;">Jurong West Public Library PZ</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-toa-payoh-public-library-tickets-435573541187?aff=odcleoeventsincollection"><b>Dungeons & Dragons w/The Legitimate Business @ Toa Payoh Public Library</b></a></td>
+        <td style="width: 40%;">Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG.</td>
+        <td style="width: 20%;">6 Nov 2022,
+<br>1.30pm – 5.30pm,</td>
+        <td style="width: 20%;">Toa Payoh Public Library PZ</td>
       </tr>
 					<tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/the-saturday-book-club-tickets-414475456247?aff=ebdsoporgprofile"><b>The Saturday Book Club</b></a></td>
@@ -67,7 +67,7 @@ Take the plunge into a deeper love for the literary.
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087?aff=ebdsoporgprofile"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
         <td> Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG. </td>
-	<td>22 Oct 2022, <br>1pm – 5pm</td>
+	<td>26 Nov 2022, <br>1pm – 5pm</td>
         <td>Choa Chu Kang Public Library PZ</td>
       </tr>
 
