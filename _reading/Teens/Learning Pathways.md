@@ -48,12 +48,12 @@ Take the plunge into a deeper love for the literary.
         <td style="width: 40%;">Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG.</td>
         <td style="width: 20%;">6 Nov 2022,
 <br>1.30pm – 5.30pm,</td>
-        <td style="width: 20%;">Toa Payoh Public Library PZ</td>
+        <td style="width: 20%;">Toa Payoh Public Library Programme Zone</td>
       </tr>
 					<tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/the-pleasure-of-the-short-story-story-beings-tickets-443923315587?aff=odcleoeventsincollection"><b>The Pleasure of the Short Story | Story Beings</b></a></td>
         <td>Elaine Chiew will introduce you to must-read short story from our region and examine the characteristics for a good short story.
-        </td><td>14 Nov 2022, <br>6pm- 7pm</td>
+        </td><td>14 Nov 2022, <br>6pm – 7pm</td>
         <td>Online</td>
       </tr>
 <tr>
@@ -69,14 +69,15 @@ Take the plunge into a deeper love for the literary.
 <td><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087?aff=ebdsoporgprofile"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
         <td> Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG. </td>
 	<td>26 Nov 2022, <br>1pm – 5pm</td>
-        <td>Choa Chu Kang Public Library PZ</td>
+        <td>Choa Chu Kang Public Library Programme Zone</td>
       </tr>
 
 <tr>
-<td><a target="_blank" href="=https://www.eventbrite.sg/e/chairs-by-queensway-secondary-drama-club-registration-411113450397?aff=ebdsoporgprofile" ><b>Chairs by Queensway Secondary Drama Club</b></a></td>
-	<td>Chairs is a student-led performance by Secondary 3 students from the Queensway Secondary School Drama Club.<br>
-        </td><td>29 Oct 2022, <br>11 – 11.30am</td>
-        <td>Queenstown Public Library PZ</td>
+<td>News Journalism 101 | Teens Takeover | re:write <br><a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429092526297?aff=odcleoeventsincollection"><b>Session 1 </b></a>
+					<a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=odcleoeventsincollection"><b>Session 2 </b></a></td>
+	<td>Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.<br>
+        </td><td>17 Dec 2022, <br>2pm – 3.30am</td>
+        <td>Serangoon Public Library, Programme Zone</td>
       </tr>
     </tbody>
   </table>
@@ -104,8 +105,8 @@ Take the plunge into a deeper love for the literary.
 						 					 <a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429094442027?aff=odcleoeventsincollection"><b>Session 2
 </b></a></td>
         <td>Ace that interview! Discover the useful skills and qualities needed to make a good first impression</td>
-        <td>22 Nov 2022,<br>11am-12.30pm | 
-				<br> 6 Dec 2022 <br>11am-12.30pm</td>
+        <td>22 Nov 2022,<br>11am – 12.30pm | 
+				<br> 6 Dec 2022 <br>11am – 12.30pm</td>
         <td>Pasir Ris Public Library, <br>Programme Zone</td>
       </tr>
 <tr>
