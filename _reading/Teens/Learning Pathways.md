@@ -73,7 +73,7 @@ Take the plunge into a deeper love for the literary.
       </tr>
 
 <tr>
-<td>News Journalism 101 | Teens Takeover | re:write <br><a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429092526297?aff=odcleoeventsincollection"><b>Session 1 </b></a>
+	<td><b>News Journalism 101 | Teens Takeover | re:write </b><br><a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429092526297?aff=odcleoeventsincollection"><b>Session 1 </b></a>
 					<a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=odcleoeventsincollection"><b>Session 2 </b></a></td>
 	<td>Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.<br>
         </td><td>17 Dec 2022, <br>2pm – 3.30am</td>
