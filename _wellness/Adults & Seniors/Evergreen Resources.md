@@ -137,7 +137,7 @@ Here are some Wellness resources to help you on your wellness journey!
 
 <li><a href="#mindline-link">mindline.sg</a><br>
 <li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
-<li><a href="healthxchange-link">HealthXchange.sg</a></li>
+<li><a href="#healthxchange-link">HealthXchange.sg</a></li>
 
 <!-- Financial Wellness  -->
 <h3><b>Financial Wellness</b></h3>
