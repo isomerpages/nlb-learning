@@ -51,18 +51,19 @@ Take the plunge into a deeper love for the literary.
         <td style="width: 20%;">Toa Payoh Public Library PZ</td>
       </tr>
 					<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/the-saturday-book-club-tickets-414475456247?aff=ebdsoporgprofile"><b>The Saturday Book Club</b></a></td>
-        <td>The Saturday Book Club serves to bring together to share their learnings in the aspect of personal and professional self-improvement.
-        </td><td>8 Oct 2022, <br>10am-12.30pm</td>
-        <td>Ang Mo Kio Public Library PZ</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/the-pleasure-of-the-short-story-story-beings-tickets-443923315587?aff=odcleoeventsincollection"><b>The Pleasure of the Short Story | Story Beings</b></a></td>
+        <td>Elaine Chiew will introduce you to must-read short story from our region and examine the characteristics for a good short story.
+        </td><td>14 Nov 2022, <br>6pm- 7pm</td>
+        <td>Online</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/pro-series-zine-design-the-future-of-zines-libraryorchard-registration-409152735847?aff=ebdsoporgprofile"><b>Pro Series: Zine Design (The Future of Zines) | library@orchard</b></a></td>
-        <td> library@orchard presents a Pro Series: Zine Design talk with Lim Cheng Tju and Renée Ting on The Future of Zines.
-	</td><td>14 Oct 2022, <br>
-6.30 – 8.30pm
+<td><a target="_blank" href="https://www.eventbrite.sg/e/pro-series-zine-design-the-future-of-zines-libraryorchard-registration-409152735847?aff=ebdsoporgprofile"><b>[The Nocturnal Poet] Ode to The Night | Night at The Library
+</b></a></td>
+        <td> Join Jennifer Anne Champion, Jedidiah Huang, Mok Zining and Low Kian Seh for an Ode writing workshop with readings.
+	</td><td>18 Nov 2022, <br>
+7.30pm – 9.30pm
 	</td>
-        <td>library@orchard PZ</td>
+        <td>National Library, The Pod</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087?aff=ebdsoporgprofile"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
