@@ -44,38 +44,40 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/short-story-writing-workshop-with-inez-tan-tickets-415713529357?aff=ebdsoporgprofile"><b>Short Story Writing Workshop with Inez Tan</b></a></td>
-        <td style="width: 40%;">This 4-week workshop will introduce you to thinking about stories in terms of four simple craft elements. Tools and techniques that that you'll be able to use in your writing.</td>
-        <td style="width: 20%;"> 1, 8, 15, 22 Oct 2022,
-<br>3pm – 4pm,</td>
-        <td style="width: 20%;">Jurong West Public Library PZ</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-toa-payoh-public-library-tickets-435573541187?aff=odcleoeventsincollection"><b>Dungeons & Dragons w/The Legitimate Business @ Toa Payoh Public Library</b></a></td>
+        <td style="width: 40%;">Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG.</td>
+        <td style="width: 20%;">6 Nov 2022,
+<br>1.30pm – 5.30pm,</td>
+        <td style="width: 20%;">Toa Payoh Public Library Programme Zone</td>
       </tr>
 					<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/the-saturday-book-club-tickets-414475456247?aff=ebdsoporgprofile"><b>The Saturday Book Club</b></a></td>
-        <td>The Saturday Book Club serves to bring together to share their learnings in the aspect of personal and professional self-improvement.
-        </td><td>8 Oct 2022, <br>10am-12.30pm</td>
-        <td>Ang Mo Kio Public Library PZ</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/the-pleasure-of-the-short-story-story-beings-tickets-443923315587?aff=odcleoeventsincollection"><b>The Pleasure of the Short Story | Story Beings</b></a></td>
+        <td>Elaine Chiew will introduce you to must-read short story from our region and examine the characteristics for a good short story.
+        </td><td>14 Nov 2022, <br>6pm – 7pm</td>
+        <td>Online</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/pro-series-zine-design-the-future-of-zines-libraryorchard-registration-409152735847?aff=ebdsoporgprofile"><b>Pro Series: Zine Design (The Future of Zines) | library@orchard</b></a></td>
-        <td> library@orchard presents a Pro Series: Zine Design talk with Lim Cheng Tju and Renée Ting on The Future of Zines.
-	</td><td>14 Oct 2022, <br>
-6.30 – 8.30pm
+<td><a target="_blank" href="https://www.eventbrite.sg/e/pro-series-zine-design-the-future-of-zines-libraryorchard-registration-409152735847?aff=ebdsoporgprofile"><b>[The Nocturnal Poet] Ode to The Night | Night at The Library
+</b></a></td>
+        <td> Join Jennifer Anne Champion, Jedidiah Huang, Mok Zining and Low Kian Seh for an Ode writing workshop with readings.
+	</td><td>18 Nov 2022, <br>
+7.30pm – 9.30pm
 	</td>
-        <td>library@orchard PZ</td>
+        <td>National Library, The Pod</td>
       </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087?aff=ebdsoporgprofile"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
         <td> Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG. </td>
-	<td>22 Oct 2022, <br>1pm – 5pm</td>
-        <td>Choa Chu Kang Public Library PZ</td>
+	<td>26 Nov 2022, <br>1pm – 5pm</td>
+        <td>Choa Chu Kang Public Library Programme Zone</td>
       </tr>
 
 <tr>
-<td><a target="_blank" href="=https://www.eventbrite.sg/e/chairs-by-queensway-secondary-drama-club-registration-411113450397?aff=ebdsoporgprofile" ><b>Chairs by Queensway Secondary Drama Club</b></a></td>
-	<td>Chairs is a student-led performance by Secondary 3 students from the Queensway Secondary School Drama Club.<br>
-        </td><td>29 Oct 2022, <br>11 – 11.30am</td>
-        <td>Queenstown Public Library PZ</td>
+	<td><b>News Journalism 101 | Teens Takeover | re:write </b><br><a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429092526297?aff=odcleoeventsincollection"><b>Session 1 </b></a>
+					<a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=odcleoeventsincollection"><b>Session 2 </b></a></td>
+	<td>Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.<br>
+        </td><td>10 Dec 2022, <br>2pm-3.30pm | <br>17 Dec 2022,<br>2pm-3.30pm</td>
+        <td>Serangoon Public Library, Programme Zone</td>
       </tr>
     </tbody>
   </table>
@@ -90,22 +92,27 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/the-perfect-balance-tweenkerama-sengkang-public-library-tickets-411737988407?aff=ebdsoporgprofile"><b>The Perfect Balance | Tweenkerama @ Sengkang Public Library</b></a></td>
-        <td style="width: 40%;"> Join us for a fun-filled workshop to learn about balanced forces and gravity and create your very own model with LEGO!</td>
-        <td style="width: 20%;">7 Oct 2022, <br>2 – 4pm</td>
-        <td style="width: 20%;">Sengkang Public Library PZ</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/nature-photography-101-with-park-kaki-clementi-public-library-tickets-435602377437?aff=odcleoeventsincollection"><b>Nature Photography 101 with Park Kaki @ Clementi Public Library</b></a></td>
+        <td style="width: 40%;"> Have you ever wondered what’s the best way to capture the beauty of nature through your camera lenses? Learn the tricks of the trade from Park Kaki’s David Wirawan in this workshop.</td>
+        <td style="width: 20%;">13 Nov 2022, <br>4 – 5pm</td>
+        <td style="width: 20%;">Clementi Public Library, Programme Zone</td>
       </tr>
 <tr>
-        <td><a target="_blank" href="https://www.eventbrite.sg/e/leap-into-livestreaming-with-obs-my-digital-life-registration-411806784177?aff=ebdsoporgprofile"><b>Leap into Livestreaming with OBS | My Digital Life</b></a></td>
-        <td>Learn the software and tools on how to livestream effectively.</td>
-        <td>15 Oct 2022,<br>
-10.30am – 12.30pm</td>
-        <td>Online</td>
+        <td>					 <b>Interview Skills | Teens Takeover | portfolio</b><br>
+					 <a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429093960587?aff=odcleoeventsincollection">
+						 <b>Session 1</b></a>
+						 <br>
+						 					 <a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429094442027?aff=odcleoeventsincollection"><b>Session 2
+</b></a></td>
+        <td>Ace that interview! Discover the useful skills and qualities needed to make a good first impression</td>
+        <td>22 Nov 2022,<br>11am – 12.30pm | 
+				<br> 6 Dec 2022 <br>11am – 12.30pm</td>
+        <td>Pasir Ris Public Library, <br>Programme Zone</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/just-jam-for-beginners-46-jazz-for-curious-listeners-registration-384455395437?aff=ebdsoporgprofile" ><b>Just Jam for Beginners 4/6 | Jazz for Curious Listeners</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/an-introduction-to-latin-jazz-56-jazz-for-curious-listeners-registration-384455545887?aff=odcleoeventsincollection" ><b>Let's Celebrate Jazz Music 6/6 | Jazz for Curious Listeners</b></a></td>
 	<td>Join us in our 6-session introductory series on Jazz music and appreciation, catered for the beginners!<br><br>
-        </td><td>22 Oct 2022, <br>
+        </td><td>3 Dec 2022, <br>
 4pm – 5.30pm</td>
         <td>library@esplanade</td>
       </tr>

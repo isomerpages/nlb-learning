@@ -62,11 +62,11 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 				<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177?aff=odcleoeventsincollection" target="_blank"><b>From Seeds to Harvest | Earth Heroes</b></a></td>
-        <td style="width: 40%;">This session immerses children in the process of farming through hands-on activities and teaches the role of photosynthesis in the growth of plants.
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/nature-photography-101-with-park-kaki-clementi-public-library-tickets-435602377437?aff=ebdssbdestsearch" target="_blank"><b>Nature Photography 101 with Park Kaki | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Have you ever wondered what’s the best way to capture the beauty of nature through your camera lenses? Learn the tricks of the trade from Park Kaki’s David Wirawan in this workshop.
 </td>
-        <td style="width: 20%;">8 Oct 2022, <br>10.30am-12pm</td>
-        <td style="width: 20%;">Bishan Public Library</td>
+        <td style="width: 20%;">13 Nov 2022, <br>4-5pm</td>
+        <td style="width: 20%;">Clementi  Public Library</td>
 			</tr>
     </tbody>
   </table>
@@ -80,12 +80,19 @@ Taking care of the environment starts with YOU!
       </tr>
     </thead>
     <tbody>
-			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/the-perfect-balance-libraryharbourfront-tweenkerama-tickets-400586774827?aff=odcleoeventsincollection" target="_blank"><b>The Perfect Balance | Tweenkerama science</b></a></td>
-        <td style="width: 40%;">Have you ever wondered how a tightrope walker stays perfectly balanced on a tightrope? Come join us as we explore this through LEGO! Join us for a fun-filled workshop to learn about balanced forces and gravity and create your very own model with LEGO!
+		<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/are-you-ready-with-science-centre-singapore-sengkang-public-library-tickets-435564925417?aff=ebdssbdestsearch" target="_blank" target="_blank"><b>ARe you ready? with Science Centre Singapore</b></a></td>
+        <td style="width: 40%;">It is never too late to get started on Augmented Reality (AR)! In this workshop, learn how to bring a book to life through the use of AR from students under the Youth STEM Empowerment Programme.
 </td>
-        <td style="width: 20%;">7 Oct 2022, 2pm-4pm</td>
-        <td style="width: 20%;">Bishan Public Library</td>
+        <td style="width: 20%;">23 Nov 2022 3pm-4pm</td>
+        <td style="width: 20%;">Sengkang Public Library</td>
+      </tr>
+				<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/cc/book-bugs-rescuers-community-day-1310889?aff=odclrlmctfte" target="_blank" target="_blank"><b>Book Bugs Rescuers: Community Day</b></a></td>
+        <td style="width: 40%;">Come join us at the Book Bug Rescuers Community day and redeem exclusive Book Bugs merchandise. Contribute to the Book Bugs Community Gallery, trade your Book Bugs cards and play the Book Bugs card game with fellow Rescuers at the Book Bugs Friendlies (registration needed)!
+					</td>
+        <td style="width: 20%;">26 Nov 2022 2pm-6pm</td>
+        <td style="width: 20%;">Tampines Regional Library</td>
       </tr>
       </tbody>
   </table>

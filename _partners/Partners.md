@@ -130,31 +130,7 @@ Check out the schedule below, and look out for more programmes to be introduced 
 <strong><h5 id="Careers">Careers</h5></strong>
 <hr>
 <tbody>
-<tr><td><strong><a href="https://nlbsingapore.zoom.us/meeting/register/tJUtc-qurz0jHNPojyh2SYglfdh3tDLs5uF9" target="_blank">Gear Up | portfolio | Teens Takeover Workshops x NYP</a></strong></td>
 
-<td>How much do you know about your strengths and weaknesses? What types of jobs are suitable for you? It is always good to have this knowledge so you can start picking up relevant skills. <br><br>
-
-In this Gear Up series, build a strategy towards your dream career! Learn how to identify your personality traits, develop skills for a job that best meet your strengths, and explore various learning options and apply those that can suit your learning needs. <br><br>
-
-About the Speaker:
-
-Pepper See is a Career Advisor with Nanyang Polytechnic (NYP) with over 24 years of working experience in private and public companies. <br><br>
-
-With vast experience in Advertising, Media Production & Broadcast, Social Service, and Education, Pepper has had the opportunity to interact with people and stakeholders from all walks of life. <br><br>
-
-Having gained understanding in the economical, social, and psychological needs of the unemployed, fresh graduates, mid-career changers, and retirees, she journeys with them into gainful employment, and helps navigate their career paths in our local landscape as they work towards their career goals.</td>
-<td>3 Sept 2022, 11am – 12.30pm </td>
-<td>Zoom</td>
-</tr>
-
-<tr><td><strong><a href="https://www.eventbrite.sg/e/planning-for-your-career-progression-get-professional-tickets-401115225437" target="_blank">Planning for Your Career Progression | Get Professional</a></strong></td>
-
-<td>As you embark in your new career journey, be it as a fresh graduate or making a mid-career change, do you know what is expected of your new role and how well are you doing? Do you have a plan in place to identify and build your competencies, in order for you to learn, perform well, and establish yourself in new role?<br><br>
-
-In this workshop, you will be guided on how to set SMART goals and have the conversation you need with your immediate supervisor, so that you can recognise your competencies, plus your areas for improvement, and come out with a strategy to build and develop your capabilities. By working on your individual career strategy, you will eventually be able to perform well in your new role, build relevant working experiences, and climb the corporate ladder.</td>
-<td>8 Sept 2022, 7pm – 8.30pm </td>
-<td>Zoom</td>
-</tr>	
 	
 </tbody></table>
 <br>
@@ -175,35 +151,8 @@ In this workshop, you will be guided on how to set SMART goals and have the conv
 <hr>
 
 <tbody>
-<tr>
-<td><strong><a href="https://www.eventbrite.sg/e/repurposing-okara-for-consumption-time-of-your-life-registration-415802385127" target="_blank">Repurposing Okara for Consumption | Time of Your Life</a></strong></td>
-<td>When we cook, we often throw away parts of ingredients like vegetable pulp and fruit peels. But did you know that such commonly discarded items can be used in other ways?<br><br>
 
-In this hands-on workshop, you will learn how to make soy milk from scratch. Thereafter, we will teach you how to transform the by-product from making soy milk, a soy pulp known as okara, into other food items like nuggets and cookies. <br><br>
-
-<b>About the Trainer</b><br>
-Lina Tan is a senior lecturer with the School of Applied Science in Nanyang Polytechnic, where she teaches in the Food Science & Nutrition programme. Besides teaching, she also coaches food science students for local and international product innovation competitions and provides technical guidance and training to clients in the food industry.  <br><br>
-
-This programme is jointly brought to you by the National Library Board and Nanyang Polytechnic.</td>
-<td>5 Oct 2022, 2pm - 4pm</td>
-<td>Tampines Regional Library, Culinary Studio</td>
-</tr>
 	
-<tr>
-<td><strong><a href="https://www.eventbrite.sg/e/hydroponic-gardening-at-home-time-of-your-life-tickets-407877652037" target="_blank">Turning Egg Shells into Toothpaste with NYP @ Tampines Regional Library</a></strong></td>
-<td>As part of the Teens Takover GREENHOUSE series, find out how you can make your own toothpaste using a very simple ingredient – eggshells! Not only are you able to repurpose the eggshells to reduce waste and save some money, there is even some research to show that the calcium in the eggshell powder has the potential to help in the remineralisation of enamel to protect your teeth. Be kind to the earth and to your teeth at the same time! Register now. <br><br>
-
-<b>*Important Instructions*</b><br>
-Participants must prepare and bring their own egg shells on the day of the programme. Please follow the steps below: 
-
-Wash the eggshells to remove the membrane and any egg liquid;<br>
-Place in boiling water for 5-10 mins before drying;
-Place in clean bag or container and bring to the workshop. Participants should bring as many eggshells as you can, preferably about 10 eggs’ worth of shells.<br><br>
-
-This programme is brought to you in collaboration with Nanyang Polytechnic.</td>
-<td>9 Oct 2022, 2pm - 4.30pm</td>
-<td>Tampines Regional Library, Culinary Studio</td>
-</tr>
 	
 </tbody></table>
 <br>
@@ -226,16 +175,24 @@ This programme is brought to you in collaboration with Nanyang Polytechnic.</td>
 <tbody>	
 
 <tr>
-<td><strong><a href="https://nlbsingapore.zoom.us/meeting/register/tJ0ufu2vqj0iGtyepq5qmL1sXadZWW4qC2ME" target="_blank">Does My Child Have an Eating Disorder?</a></strong></td>
-<td>This workshop is designed to give learners an understanding of the common eating disorders in children & adolescents and recognising its symptoms.  It covers treatment, prevention and management techniques as well as activities that promote healthy eating habits. Learners will be equipped with the relevant resources to provide appropriate support, where needed. <br><br>
+<td><strong><a href="https://www.eventbrite.sg/e/taking-better-care-of-your-mental-wellness-tickets-438724646227?aff=odcleoeventsincollection" target="_blank">Taking Better Care of Your Mental Wellness</a></strong></td>
+<td>This workshop aims to encourage a conversation on mental wellness among youths and young adults, thereby broadening their understanding of mental wellness. Participants will discuss and learn ways to manage their thoughts and emotions and are encouraged to take active steps to care for their mental wellbeing. <br><br>
 
-This programme is suitable for parents of children and teens.<br><br>
+<b>About The Speaker:</b><br>
+<p>The team of socio-emotional counsellors in NYP supports students during their course of study, by working through any academic dilemmas, socio-emotional difficulties or mental health challenges faced by students. They bring a diversity of experiences &amp; multitude of expertise in helping students to achieve their academic goals and mental well-being. The team believes that seeking help and attending to mental health takes courage which indicates strength in the individual.</p></td>
 
-<b>About the Speaker</b><br>
-Ms Nithiya Gunasagaran is a Mental Health nursing lecturer at NYP School of Health and Social Sciences. She holds a Specialist Diploma in Teaching and Learning (Higher Education) from the National Institute of Education Singapore (NIE-NTU), a Degree in Nursing from the Latrobe University, an Advanced Diploma in Mental Health Nursing and a Diploma in Nursing from the Nanyang Polytechnic (NYP). She has 4 years of teaching experience at an Institute of Higher Learning at the tertiary level.<br>
-Ms Nithiya has 8 years of experience nursing patients with Eating Disorders through the delivery of holistic individualised care and the provision of a supportive and therapeutic relationship. She also engages in educating and supporting the parents/ caregivers of patients with Eating Disorders</td>
+<td>2 Nov 2022, 6.30pm - 8.30pm</td>
+<td>Zoom</td>
+</tr>
+	
+<tr>
+<td><strong><a href="https://www.eventbrite.sg/e/healthy-and-resilient-family-tickets-438726331267" target="_blank">Healthy & Resilient Family</a></strong></td>
+<td>The ageing of our society offers new opportunities to build healthier intergenerational family ties. This workshop will enable participants to build more resilient families by understanding the different family communication patterns. It includes an understanding of family typologies, communication behaviours and barriers to effective intergenerational communication. Join this workshop together as a family!<br><br>
 
-<td>8 Oct 2022, 11am - 12.30pm</td>
+<b>About The Speaker:</b><br>
+<p>Mr Danial Sufyan is a Behavioural Science lecturer at NYP School of Health and Social Sciences. He holds a Master of Arts in Counselling and Guidance from the Nanyang Technological University - National Institute of Education, Singapore (NTU-NIE) and a Bachelor of Arts (Honours) in Sociology from Nanyang Technological University. During his time as a counsellor, he has worked with youths ranging from 13 to 17 years old as well as adults ranging from 25 to 45 years old. His current research interests are in the areas of Mental Health Sociology and Medical Sociology.</p></td>
+
+<td>12 Nov 2022, 10am - 12pm</td>
 <td>Zoom</td>
 </tr>
 	

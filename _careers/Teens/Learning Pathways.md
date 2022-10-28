@@ -8,6 +8,7 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 
 <h3><b>Career Exploration</b></h3>
 Clueless about which career is suitable for you? Discover and explore various careers through our curated programmes and resources.
+
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -17,18 +18,20 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="/careers/teens/content"><b> Playlist:<br>A Day in the Life of Dream Chasers</b></a></td>
-        <td style="width: 40%;"> Considering work in a field that may seem too daunting? Be inspired by a zookeeper, a bakery owner, and a singer as they demystify their forays onto paths less taken!</td>
+        <td style="width: 20%;"><a target="_blank" href= "/careers/teens/content"><b>Playlist: A Day in the Life of Dream Chasers</b></a></td>
+        <td style="width: 40%;">Considering work in a field that may seem too daunting? Be inspired by a zookeeper, a bakery owner, and a singer as they demystify their forays onto paths less taken!</</td>
+        <td></td>
+        <td> </td>
+    </tr>
+			      <tr>
+        <td style="width: 20%;"><a target="_blank" href= "careers/teens/content/#lp-wants"><b>Learning Package:<br>Needs! Or… Wants?</b></a></td>
+        <td style="width: 40%;">Get a glimpse of what it takes to achieve your aspirations with this article and activities!</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
-      <tr>
-        <td><a target="_blank" href="https://nlb-learning-staging.netlify.app/careers/teens/content/#lp-wants"><b> Learning Package:<br>Needs! Or… Wants?</b></a></td>
-        <td>Get a glimpse of what it takes to achieve your aspirations with this article and activities!</td>
-        <td></td>
-        <td></td>
-      </tr>
-    </tbody>
+			
+			
+ </tbody>
   </table>
 </div>
 
@@ -40,20 +43,23 @@ Clueless about which career is suitable for you? Discover and explore various ca
       </tr>
     </thead>
     <tbody>
-			<tr>
-         <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/from-fearful-to-confident-speaker-tickets-427016717497?aff=odcleoeventsincollection"><b>From Fearful to Confident Speaker
+      <tr>
+        <td style="width: 20%;"><b>Interview Skills | Teens Takeover | portfolio</b><br>
+
+<a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429093960587?aff=odcleoeventsincollection">
+<b>Session 1</b></a><br>
+<a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429094442027?aff=odcleoeventsincollection"><b>Session 2
 </b></a></td>
-        <td style="width: 40%;"> Drop by and learn how to speak off the cuff in a composed and confident manner, and watch how toastmasters do so at an actual contest!
-        </td><td style="width: 20%;">1 Oct 2022,<br>1.30pm-5pm</td>
-        <td style="width: 20%;">Geylang East Public Library, <br>Merpati Hall</td>
-			</tr>
-		<tr>
-         <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/personal-packaging-ask-me-anything-ama-x-toyl-celebration-registration-407220586737?aff=odcleoeventsincollection"><b>Personal Packaging | Ask Me Anything (AMA) x TOYL Celebration
-</b></a></td>
-        <td style="width: 40%;">In this session, hear from Hyder Bilgrami, a communications expert, to discover the keys to create a good first impression.</td>
-       <td> 5 Oct 2022,<br>7pm-8pm</td>
-        <td>library@harbourfront,<br>PZ 1 &amp; 2</td>
-			</tr>
+        <td style="width: 40%;">Ace that interview! Discover the useful skills and qualities needed to make a good first impression.</td>
+        <td style="width: 20%;">22 Nov 2022,<br>11am-12.30pm |<br> 6 Dec 2022 <br>11am-12.30pm</td>
+        <td style="width: 20%;">Pasir Ris Public Library, <br>Programme Zone</td>
+      </tr>
+					<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/udemy-business-tickets-422441492877?aff=ebdsoporgprofile"><b>Udemy Business</b></a></td>
+        <td>Learn how to use Udemy Business to find courses that meet your needs!
+        </td><td>14 Nov 2022,<br>3pm-4pm</td>
+        <td>Online</td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -62,23 +68,25 @@ Clueless about which career is suitable for you? Discover and explore various ca
   <table class="generic-table">
     <thead>
       <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Discover other learning focus areas</th>
+        <th class="is-uppercase has-weight-normal" colspan="4">Discover Other Learning Focus Areas</th>
       </tr>
     </thead>
     <tbody>
-			<tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/the-perfect-balance-tweenkerama-sengkang-public-library-tickets-411737988407?aff=ebdsoporgprofile"><b>The Perfect Balance | Tweenkerama @ Sengkang Public Library</b></a></td>
-        <td style="width: 40%;"> Ever wondered how a tightrope walker stays perfectly balanced on a tightrope? Join this workshop as we explore the answers to this question through LEGO!</td>
-        <td style="width: 20%;">7 Oct 2022,<br>2pm-4pm</td>
-        <td style="width: 20%;">Sengkang Public Library, PZ 1</td>
+      <tr>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/nature-photography-101-with-park-kaki-clementi-public-library-tickets-435602377437?aff=odcleoeventsincollection"><b>Nature Photography 101 with Park Kaki @ Clementi Public Library</b></a></td>
+        <td style="width: 40%;"> Have you ever wondered what’s the best way to capture the beauty of nature through your camera lenses? Learn the tricks of the trade from Park Kaki’s David Wirawan in this workshop.</td>
+        <td style="width: 20%;">13 Nov 2022, <br>4 – 5pm</td>
+        <td style="width: 20%;">Clementi Public Library, Programme Zone</td>
       </tr>
 <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/writing-the-city-writers-cove-tickets-419355522657?aff=ebdsoporgprofile"><b>Writing the City – Writer’s Cove</b></a></td>
-        <td style="width: 40%;">This session is a workshop for budding writers to read and discuss one another’s submissions in a welcoming environment.</td>
-        <td style="width: 20%;">15 Oct 2022,<br>2pm-4pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library, PZ</td>
+	<td><b>News Journalism 101 | Teens Takeover | re:write </b><br><a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429092526297?aff=odcleoeventsincollection"><b>Session 1 </b></a>
+					<a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=odcleoeventsincollection"><b>Session 2 </b></a></td>
+	<td>Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.<br>
+        </td><td>10 Dec 2022, <br>2pm-3.30pm | <br>17 Dec 2022,<br>2pm-3.30pm</td>
+        <td>Serangoon Public Library, Programme Zone</td>
       </tr>
-  </tbody>
+
+    </tbody>
   </table>
 </div>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
