@@ -202,16 +202,24 @@ This programme is brought to you in collaboration with Nanyang Polytechnic.</td>
 <tbody>	
 
 <tr>
-<td><strong><a href="https://nlbsingapore.zoom.us/meeting/register/tJ0ufu2vqj0iGtyepq5qmL1sXadZWW4qC2ME" target="_blank">Does My Child Have an Eating Disorder?</a></strong></td>
-<td>This workshop is designed to give learners an understanding of the common eating disorders in children & adolescents and recognising its symptoms.  It covers treatment, prevention and management techniques as well as activities that promote healthy eating habits. Learners will be equipped with the relevant resources to provide appropriate support, where needed. <br><br>
+<td><strong><a href="https://www.eventbrite.sg/e/taking-better-care-of-your-mental-wellness-tickets-438724646227?aff=odcleoeventsincollection" target="_blank">Taking Better Care of Your Mental Wellness</a></strong></td>
+<td>This workshop aims to encourage a conversation on mental wellness among youths and young adults, thereby broadening their understanding of mental wellness. Participants will discuss and learn ways to manage their thoughts and emotions and are encouraged to take active steps to care for their mental wellbeing. <br><br>
 
-This programme is suitable for parents of children and teens.<br><br>
+<b>About The Speaker:</b><br>
+<p>The team of socio-emotional counsellors in NYP supports students during their course of study, by working through any academic dilemmas, socio-emotional difficulties or mental health challenges faced by students. They bring a diversity of experiences &amp; multitude of expertise in helping students to achieve their academic goals and mental well-being. The team believes that seeking help and attending to mental health takes courage which indicates strength in the individual.</p></td>
 
-<b>About the Speaker</b><br>
-Ms Nithiya Gunasagaran is a Mental Health nursing lecturer at NYP School of Health and Social Sciences. She holds a Specialist Diploma in Teaching and Learning (Higher Education) from the National Institute of Education Singapore (NIE-NTU), a Degree in Nursing from the Latrobe University, an Advanced Diploma in Mental Health Nursing and a Diploma in Nursing from the Nanyang Polytechnic (NYP). She has 4 years of teaching experience at an Institute of Higher Learning at the tertiary level.<br>
-Ms Nithiya has 8 years of experience nursing patients with Eating Disorders through the delivery of holistic individualised care and the provision of a supportive and therapeutic relationship. She also engages in educating and supporting the parents/ caregivers of patients with Eating Disorders</td>
+<td>2 Nov 2022, 6.30pm - 8.30pm</td>
+<td>Zoom</td>
+</tr>
+	
+<tr>
+<td><strong><a href="https://www.eventbrite.sg/e/healthy-and-resilient-family-tickets-438726331267" target="_blank">Healthy & Resilient Family</a></strong></td>
+<td>The ageing of our society offers new opportunities to build healthier intergenerational family ties. This workshop will enable participants to build more resilient families by understanding the different family communication patterns. It includes an understanding of family typologies, communication behaviours and barriers to effective intergenerational communication. Join this workshop together as a family!<br><br>
 
-<td>8 Oct 2022, 11am - 12.30pm</td>
+<b>About The Speaker:</b><br>
+<p>Mr Danial Sufyan is a Behavioural Science lecturer at NYP School of Health and Social Sciences. He holds a Master of Arts in Counselling and Guidance from the Nanyang Technological University - National Institute of Education, Singapore (NTU-NIE) and a Bachelor of Arts (Honours) in Sociology from Nanyang Technological University. During his time as a counsellor, he has worked with youths ranging from 13 to 17 years old as well as adults ranging from 25 to 45 years old. His current research interests are in the areas of Mental Health Sociology and Medical Sociology.</p></td>
+
+<td>12 Nov 2022, 10am - 12pm</td>
 <td>Zoom</td>
 </tr>
 	
