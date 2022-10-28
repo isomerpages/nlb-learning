@@ -646,12 +646,11 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <small>References</small>
 
- <ol>
+<ol>
 
 <li><span id="footnote-one">artnet.</span> <i>Raden Salèh Sarief Bustaman</i>. Retrieved 2022, October 3 from <a href="http://www.artnet.com/artists/raden-sal%C3%A8h-sarief-bustaman/biography">artnet.com</a></li>       
 
 <li><span id="footnote-two">askART. Artist Biography & Facts</span> <i>Raden (Prince) Saleh - Biography.</i>. Retrieved 2022, October 8 from <a href="https://www.askart.com/artist/Raden\_Prince\_Saleh/11207939/Raden\_Prince\_Saleh.aspx">askART.com</a></li>
-
-              </ol>
+</ol>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
