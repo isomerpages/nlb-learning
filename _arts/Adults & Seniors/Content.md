@@ -583,10 +583,9 @@ Source: <a target="\_blank" href="https://www.youtube.com/watch?v=16MkpVyE5W8"> 
 <p>Raden Saleh was one of the artists from the Romantic era, learn more about this artistic movement from the 1800s.</p>
 
 <div class="bp-youtube">
-
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OiRWBI0JTYQ" height="315" width="560"></iframe></div>
 
-Source: <a target="\_blank" href="https://www.youtube.com/watch?v=OiRWBI0JTYQ"> HISTORY OF IDEAS – Romanticism </a> (2015, February 13). <i>The School of Life.</i> Retrieved 2022, October 26
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=OiRWBI0JTYQ"> HISTORY OF IDEAS – Romanticism </a> (2015, February 13). <i>The School of Life.</i> Retrieved 2022, October 26
 
 <h5>2. Movie Scenes Inspired by Famous Paintings</h5>
 
