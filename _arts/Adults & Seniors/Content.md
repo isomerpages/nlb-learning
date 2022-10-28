@@ -731,4 +731,68 @@ Kassia St. Clair (2019), <i> The Golden Thread: How Fabric Changed History </i>,
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 
+<!-- Here They Come  -->
+
+![](/images/Arts/AS/NGS-here-they-com.jpeg)
+
+<h3><b>Learning Package</b></h3>
+<h5 id="lp-here-we-come" class="margin--bottom--lg"><b>Here They Come!</b></h5>
+<h4>The Artist behind the Art</h4>
+<p> Born in 1938, Koeh graduated from the Nanyang Academy of Fine Arts (NAFA) in 1958. <br>
+Koeh as a student was greatly influenced by the prevailing social and political thinking in Singapore's Chinese community of the 1950s. <br>
+Koeh has a substantive body of woodcuts and paintings dating from the late 1950s to mid-1060s that is social commentary in nature, indicative of his motivation and inspiration. <br>
+</p>
+<h5>Find out more about Here They Come!</h5>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QCA48SlTKpI" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=QCA48SlTKpI"> Art and Building Highlights: Here They Come! by Koh Sia Yong and the Hawker Licensing Commission </a> (2020, August 9). <i>National Gallery Singapore.</i> Retrieved 2022, October 26
+
+<h5>Explore more works by Koeh Sia Yong</h5>
+<a target="_blank" href="https://collections.nationalgallery.sg/#/search?SearchType=a&det=isDet&CategoryCode=ART&Artist=Koeh%20Sia%20Yong"><img alt="Koeh Sia Yong collection" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-here-they-come-1.jpeg"></a>
+<p><a target="_blank" href="https://collections.nationalgallery.sg/#/search?SearchType=a&det=isDet&CategoryCode=ART&Artist=Koeh%20Sia%20Yong"> Check out the collection of works by Koeh Sia Yong at the National Gallery Singapore’s online collection! </a>. </p>
+<h5>Discover More</h5>
+<h5>1. Oil Painting for Beginners</h5>
+<p> Want to get started in Oil Painting? Check out this video on how to get started! </p>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src=" https://www.youtube.com/embed/w3hbZfX0Abg" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=w3hbZfX0Abg"> Oil Painting for Beginners - Basic Techniques + Step by Step Demonstration </a> (2017, December 2). <i>Florent Farges - arts.</i> Retrieved 2022, October 26
+<h5>2. Learn more about oil paint </h5>
+<p>Ever wondered why oil paint is so popular among famous artists? Watch this video to learn about the history of oil paint and the process that goes behind its creation:</p>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/iib_imkZ5fk" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=iib_imkZ5fk"> Why Oil Paint Is So Expensive | So Expensive </a> (2019, July 13). <i>Business Insider.</i> Retrieved 2022, October 26
+<h5>3. Singapore’s Hawker History</h5>
+<p>Learn about the history of Singapore’s hawker culture, the role illegal hawkers played in the informal economy of the 1960s and how it inspired Koeh Sia Yong to create his work <i>Here They Come!</i>  </p>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pPUKR0N6OHY" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=pPUKR0N6OHY"> Clearing Illegal Hawkers In 1960s Singapore | A Frame In Time | Episode 1/3 </a> (2020, April 27). <i>CNA Insider.</i> Retrieved 2022, October 26
+<h5>4. Oil Painting Essentials: Mastering Portraits, Figures, Still Lifes, Landscapes, and Interiors </h5>
+Gregg Kreutz (2013), <i> Oil Painting Essentials: Mastering Portraits, Figures, Still Lifes, Landscapes, and Interiors </i>, Clarkson Potter/Ten Speed.
+<a target="_blank" href="https://nlb.overdrive.com/media/2504953"><img alt="Oil Painting Essentials: Mastering Portraits, Figures, Still Lifes, Landscapes, and Interiors" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-here-they-come-2.jpeg"></a>
+<p> Many painters limit themselves to one type of subject matter, but in Oil Painting Essentials, artist and art instructor Gregg Kreutz shows how a multi-genre approach can dramatically improve your painting skills. Arranged by category, each chapter covers both the essentials specific to that subject matter and those that apply to all genres.</p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/2504953 ">Borrow the eBook here</a></p>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+
+<h5>5. Oil Painting with the Masters: Essential Techniques from Today's Top Artists </h5>
+Cindy Salaski (2014), <i> Oil Painting with the Masters: Essential Techniques from Today's Top Artists </i>, Penguin Publishing Group.
+<a target="_blank" href="https://nlb.overdrive.com/media/1816300 "><img alt="Oil Painting with the Masters: Essential Techniques from Today's Top Artists" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-here-they-come-3.jpeg"></a>
+<p> Master the art of oil painting with instruction on key topics and techniques such as materials, observation, references, forms, composition, colour palettes, mixing colours, underpainting, working in layers, light effects, painting on location, textures and more from ten contributors, including beautiful gallery images of finished works.</p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/1816300 ">Borrow the eBook here</a></p>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+
+<h5>6. Painting Buildings in Oils </h5>
+James Willis (2021), <i> Painting Buildings in Oils </i>, The Crowood Press.
+<a target="_blank" href="https://nlb.overdrive.com/media/6181777"><img alt="Painting Buildings in Oils" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-here-they-come-4.jpeg"></a>
+<p>Painting buildings is an exciting and versatile genre - it allows you to enjoy the lines of architecture but also to add feeling and context to a picture. This practical book explains the full depth of the subject, from first sketches to final presentation. Using a range of examples, it is packed with advice and information, and follows the riches of painting the built landscape. Not just a handy reference, this is a beautiful and inspirational guide for every artist who wants to capture and interpret a scene.</p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/6181777">Borrow the eBook here</a></p>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+
+<h5>7. Singapore Hawker Classics Unveiled: Decoding 25 Favourite Dishes</h5>
+Temasek Polytechnic (2015), <i> Singapore Hawker Classics Unveiled: Decoding 25 Favourite Dishes </i>, Marshall Cavendish International.
+<a target="_blank" href="https://nlb.overdrive.com/media/2472122"><img alt="Singapore Hawker Classics Unveiled: Decoding 25 Favourite Dishes" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-here-they-come-5.jpeg"></a>
+<p>Produced as a celebration of Singapore's renowned culinary heritage, Singapore Hawker Classics Unveiled, tells you everything you ever needed to know – and more! – about 25 of our favourite dishes. The 25 delicious recipes featured will allow you to recreate your favourite classic hawker treats at home and inspire you to look at these familiar dishes in a new light – each dish includes its traditional presentation together with an additional interpretation with a modern twist. Moreover, every dish is covered in great detail, including information on its heritage, its aroma, taste and texture, its nutritional value, as well as clear step-by-step instructions and photographs.</p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/2472122">Borrow the eBook here</a></p>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
