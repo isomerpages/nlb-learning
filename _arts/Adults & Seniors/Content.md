@@ -794,5 +794,60 @@ Temasek Polytechnic (2015), <i> Singapore Hawker Classics Unveiled: Decoding 25 
 <p><a target="_blank" href="https://nlb.overdrive.com/media/2472122">Borrow the eBook here</a></p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
+<!-- Life by The River -->
+
+<img alt="cover image" src="/images/arts/AS/NGS-life-by-the-river.jpeg">
+
+<h3><b>Learning Package</b></h3>
+<h5 id="lp-life-by the-river" class="margin--bottom--lg"><b>Life by the River</b></h5>
+<h4>The Artist behind the Art</h4>
+<p> Born in Fujian Province in 1911, Liu Kang received his formal training in Xinhua Art Academy of Shanghai, where he was exposed to Chinese paintings. In 1928, he went to Paris where he was influenced by art movements such as Fauvism and Post-Impressionism. Not only was he one of Singapore’s pioneer artists, he was also a leading figure in the Society of Chinese Artists and the Singapore Art Society. In 1970, he was awarded the Public Service Star for his contribution in the field of art. <br><br>
+Learn more about Liu Kang from <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_158_2005-01-22.html?s=liu%20kang"> this Infopedia article.</a></p>
+<h4>Find out more about Life by the River!</h4>
+<h5>1. The subject matter in the artwork </h5>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jdjiMeGMaJU" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=jdjiMeGMaJU"> Liu Kang’s Life By The River | Part 1: Subject Matter </a> (2022, October 3). <i>Lets Learn About Art.</i> Retrieved 2022, October 26
+
+<h5>2. Liu Kang’s Influences</h5>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8_wa7dsnNx0" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=8_wa7dsnNx0"> Liu Kang’s Life By The River | Part 2: Influences </a> (2022, September 14). <i>Lets Learn About Art.</i> Retrieved 2022, October 26
+
+<h5>3. The context behind Liu Kang’s works </h5>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RSC18sebS3s" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=RSC18sebS3s"> Liu Kang’s Life By The River | Part 3: Context</a> (2022, September 14). <i>Lets Learn About Art.</i> Retrieved 2022, October 26.
+
+<h5>Explore more works by Liu Kang</h5>
+<a target="_blank" href="https://collections.nationalgallery.sg/#/search?Search=liu%20kang&SearchType=b&CategoryCode=ART&FilterArtist=Liu%20Kang"><img alt="Liu Kang collection" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-life-by-the-river-1.jpeg"></a>
+<p><a target="_blank" href="https://collections.nationalgallery.sg/#/search?Search=liu%20kang&SearchType=b&CategoryCode=ART&FilterArtist=Liu%20Kang"> Check out the collection of works by Liu Kang at the National Gallery Singapore’s online collection! </a>. </p>
+
+<h5>Discover More</h5>
+<h5>1. Singapore Paintings from the 1950s to the 1970s </h5>
+<p>Watch this lecture by Art Historian Jeffrey Say as he highlights the different styles of paintings from a prolific period for Singaporean painters. </p>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src=" https://www.youtube.com/embed/CM7kR0tGt7c" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=CM7kR0tGt7c"> From Nanyang to Modern: Singapore Painting from the 1950s to the 1970s (Full Version) </a> (2018, June 28). <i>NLB Singapore.</i> Retrieved 2022, October 26
+<h5>2. Other Singaporean Artists to Discover </h5>
+<p>Curious about other Singaporean artists who were masters on the canvas? Head over to these Infopedia links to find out more: </p>
+<p><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_698_2005-01-12.html?s=Arts%3E%3EPainting%3E%3EOil%20painting">Georgette Chen</a></p>
+<p><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_472_2004-12-23.html?s=Arts%3E%3EPainting%3E%3EOil%20painting">Choo Keng Kwang</a></p>
+<p><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2019-05-17_161302.html?s=Arts%3E%3EPainting%3E%3EOil%20painting">Leo Hee Tong</a></p>
+<p><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_266_2005-01-13.html?s=Arts%3E%3EPainting%3E%3EOil%20painting">Ho Kah Leong</a></p>
+
+<h5>eBooks</h5>
+<h5>1. The Elements of Landscape Oil Painting: Techniques for Rendering Sky, Terrain, Trees, and Water </h5>
+Suzanne Brooker (2015), <i> The Elements of Landscape Oil Painting: Techniques for Rendering Sky, Terrain, Trees, and Water </i>, Clarkson Potter/Ten Speed.
+<a target="_blank" href="https://nlb.overdrive.com/media/2133325"><img alt="The Elements of Landscape Oil Painting" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-life-by-the-river-2.jpeg"></a>
+<p>A landscape painting guide for oil painters that breaks landscapes down into component elements from nature, and showcases tools and techniques used by classic and modern oil painters for bringing these scenes to life.</p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/2133325">Borrow the eBook here</a></p>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+<h5>2. Dramatic Color in the Landscape: Painting Land and Light in Oil and Pastel </h5>
+Brian Keeler (2014), <i> Dramatic Color in the Landscape: Painting Land and Light in Oil and Pastel </i>, Clarkson Potter/Ten Speed.
+<a target="_blank" href="https://nlb.overdrive.com/media/2133325"><img alt="The Elements of Landscape Oil Painting" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-life-by-the-river-3.jpeg"></a>
+<p>A landscape painting guide for oil painters that breaks landscapes down into component elements from nature, and showcases tools and techniques used by classic and modern oil painters for bringing these scenes to life.</p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/2133325">Borrow the eBook here</a></p>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
