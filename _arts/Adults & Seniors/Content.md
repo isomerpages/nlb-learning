@@ -548,7 +548,7 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=V-LRwGNsP60"> H
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<img alt="cover image" src="/images/arts/AS/NGS-Forest-Fire.jpeg">
+<img alt="cover image" src="/images/arts/AS/NGS-forest-fires.jpeg">
 
 
 <!-- Forest Fire LP  -->
