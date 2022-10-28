@@ -602,7 +602,6 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=Wo5IILSy3fo&fea
 <p>Watch this primer on the history of Indonesian Art.</p>
 
 <div class="bp-youtube">
-
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jjnIwsDbPWg" height="315" width="560"></iframe></div>
 
 Source: <a target="_blank" href="https://www.youtube.com/watch?v=jjnIwsDbPWg&feature=youtu.be"> A Brief History of Indonesian Art </a> (2019, April 28). <i>Catherine M</i> Retrieved 2022, October 26
