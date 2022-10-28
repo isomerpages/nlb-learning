@@ -56,25 +56,6 @@ Be informed and make an impact to the environment.
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal ">Explore Programmes</th>
-      </tr>
-    </thead>
-    <tbody>
-			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/turning-egg-shells-into-toothpaste-with-nyp-tampines-regional-library-tickets-411740465817?aff=odcleoeventsincollection" target="_blank"><b>Turning Egg Shells into Toothpaste with NYP 
-</b></a></td>
-        <td style="width: 40%;">Find out how you can make your own toothpaste using a very simple ingredient – eggshells! Not only are you able to repurpose the eggshells to reduce waste and save some money, there is even some research to show that the calcium in the eggshell powder has the potential to help in the remineralisation of enamel to protect your teeth.
-<br></td>
-        <td style="width: 20%;">9 Oct 2022 <br> 2pm - 4.30pm</td>
-        <td style="width: 20%;">Tampines Regional Library</td>
-			</tr> </tbody>
-  </table>
-</div>
-
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
         <th colspan="4" class="is-uppercase has-weight-normal ">Discover other learning focus areas</th>
       </tr>
     </thead>
