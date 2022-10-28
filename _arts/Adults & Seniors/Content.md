@@ -606,17 +606,17 @@ Source: <a target="\_blank" href="https://www.youtube.com/watch?v=Wo5IILSy3fo&fe
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jjnIwsDbPWg" height="315" width="560"></iframe></div>
 
-Source: <a target="\_blank" href="https://www.youtube.com/watch?v=jjnIwsDbPWg&feature=youtu.be"> A Brief History of Indonesian Art </a> (2019, April 28). <i>Catherine M</i> Retrieved 2022, October 26
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=jjnIwsDbPWg&feature=youtu.be"> A Brief History of Indonesian Art </a> (2019, April 28). <i>Catherine M</i> Retrieved 2022, October 26
 
 <h5>1. Romanticism, A Very Short Introduction </h5>
 
 Michael Ferber (2017), <i> Romanticism, A Very Short Introduction </i>, OUP Oxford.
 
-<a target="\_blank" href="https://nlb.overdrive.com/media/3714803"><img alt="Romanticism, A Very Short Introduction" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-Forest-Fire-2.jpeg"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/3714803"><img alt="Romanticism, A Very Short Introduction" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-Forest-Fire-2.jpeg"></a>
 
-<p\>What is Romanticism? In this Very Short Introduction Michael Ferber answers this by considering who the romantics were and looks at what they had in common — their ideas, beliefs, commitments, and tastes. He looks at the birth and growth of Romanticism throughout Europe and the Americas, and examines various types of Romantic literature, music, painting, religion, and philosophy.</p>
+<p>What is Romanticism? In this Very Short Introduction Michael Ferber answers this by considering who the romantics were and looks at what they had in common — their ideas, beliefs, commitments, and tastes. He looks at the birth and growth of Romanticism throughout Europe and the Americas, and examines various types of Romantic literature, music, painting, religion, and philosophy.</p>
 
-<p><a target="\_blank" href="https://nlb.overdrive.com/media/3714844">Borrow the eBook here</a>. </p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/3714844">Borrow the eBook here</a>. </p>
 
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
@@ -624,11 +624,11 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 Peter Gay (2015), <i> Why the Romantics Matter </i>, Yale University Press.
 
-<a target="\_blank" href="https://nlb.overdrive.com/media/2073606"><img alt="Why the Romantics Matter" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-Forest-Fire-3.jpeg"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/2073606"><img alt="Why the Romantics Matter" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-Forest-Fire-3.jpeg"></a>
 
-<p\>A renowned scholar's reflections on the romantic period, its disparate participants, and our unacknowledged debt to them. With his usual wit and élan, esteemed historian Peter Gay enters the contentious, long-standing debates over the romantic period. Here, in this concise and inviting volume, he reformulates the definition of romanticism and provides a fresh account of the immense achievements of romantic writers and artists in all media.</p>
+<p>A renowned scholar's reflections on the romantic period, its disparate participants, and our unacknowledged debt to them. With his usual wit and élan, esteemed historian Peter Gay enters the contentious, long-standing debates over the romantic period. Here, in this concise and inviting volume, he reformulates the definition of romanticism and provides a fresh account of the immense achievements of romantic writers and artists in all media.</p>
 
-<p><a target="\_blank" href="https://nlb.overdrive.com/media/2073606">Borrow the eBook here</a>. </p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/2073606">Borrow the eBook here</a>. </p>
 
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
@@ -636,11 +636,11 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 Kimberly Brooks (2021), <i> The New Oil Painting: Your Essential Guide to Materials and Safe Practices </i>, Chronicle Books LLC.
 
-<a target="\_blank" href="https://nlb.overdrive.com/media/6164162 "><img alt="The New Oil Painting: Your Essential Guide to Materials and Safe Practices" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-Forest-Fire-4.jpeg"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/6164162 "><img alt="The New Oil Painting: Your Essential Guide to Materials and Safe Practices" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-Forest-Fire-4.jpeg"></a>
 
-<p\>This instructional handbook is organised into chapters with helpful diagrams throughout illustrating various techniques and tools. Whether you're a true beginner or have been painting with oils for years, you will find that this book has everything you need to build a new, thriving, toxin-free practice.</p>
+<p>This instructional handbook is organised into chapters with helpful diagrams throughout illustrating various techniques and tools. Whether you're a true beginner or have been painting with oils for years, you will find that this book has everything you need to build a new, thriving, toxin-free practice.</p>
 
-<p><a target="\_blank" href="https://nlb.overdrive.com/media/6164162">Borrow the eBook here</a>. </p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/6164162">Borrow the eBook here</a>. </p>
 
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
