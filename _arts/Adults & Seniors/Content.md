@@ -78,9 +78,9 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 	<div class="clickbox is-pink-ruby">
 				 <a href="#lp-forest-fire">
 				 <span>Learning Package:<br>Forest Fire</span>
-			</a>
-    </div>
-  </div>
+		</a>
+	</div>
+	</div>
 <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
       <a href="#lp-batik">
