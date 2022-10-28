@@ -61,11 +61,11 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 						<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177?aff=odcleoeventsincollection" target="_blank"><b> From Seeds to Harvest | Earth Heroes</b></a></td>
-        <td style="width: 40%;">This session immerses children in the process of farming through hands-on activities and teaches the role of photosynthesis in the growth of plants.
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/nature-photography-101-with-park-kaki-clementi-public-library-tickets-435602377437?aff=ebdssbdestsearch" target="_blank"><b> Nature Photography 101 with Park Kaki | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Have you ever wondered what’s the best way to capture the beauty of nature through your camera lenses? Learn the tricks of the trade from Park Kaki’s David Wirawan in this workshop.
 </td>
-        <td style="width: 20%;">8 Oct 2022, <br>10.30am - 12pm</td>
-        <td style="width: 20%;">Bishan Public Library</td>
+        <td style="width: 20%;">13 Nov 2022, <br>4-5pm</td>
+        <td style="width: 20%;">Clementi Public Library</td>
 			</tr>
     </tbody>
   </table>
@@ -80,24 +80,25 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-411752702417?aff=odcleoeventsincollection" target="_blank"><b>Unplugged</b></a></td>
-        <td style="width: 40%;">Want to take a break and unwind over some tabletop games?
-Set aside your digital devices and enjoy quality time with your friends and family. Have fun in this Unplugged session and be introduced to a variety of games, for you to kick back and have a good time!
-</br></br>
-This programme is recommended for children and teens to attend with friends and family.
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/build-with-blokies-tinkerworks-science-tickets-441506055497?aff=ebdssbdestsearch" target="_blank"><b>Build with Blokies! | TinkerWorks </b></a></td>
+        <td style="width: 40%;">Let your imagination run free as you build a robot, or even a dinosaur! Develop Science and Engineering skills through open play, exploration and experimentation with these cardboard pieces, also known as Blokies!</td>
+        <td style="width: 20%;">20 Nov 2022,<br>11am-12pm</td>
+        <td style="width: 20%;">Sengkang Public Library </td>
+      </tr><tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/i-can-be-a-fantasy-writer-too-children-write-tickets-441500719537?aff=ebdssbdestsearch" target="_blank"><b>I Can Be a Fantasy Writer Too! | Children Write</b></a></td>
+        <td style="width: 40%;">Do you love stories? Have you ever wondered if you could write your own?
+<br><br>
+Come unlock your creative potential with award-winning author Low Ying Ping of the Mount Emily novels and Prophecy of the Underworld as she guides you to write a story on fantastical worlds and beings.</td>
+        <td style="width: 20%;">24 Nov 2022,<br>2-3.30pm</td>
+        <td style="width: 20%;">Bukit Panjang Public Library </td>
+      </tr><tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/create-a-comic-strip-children-write-tickets-441496005437?aff=ebdssbdestsearch" target="_blank"><b>Create a Comic Strip! | Children Write</b></a></td>
+        <td style="width: 40%;">Join Benedict Boo and Alan Bay, the duo behind Adventures With Germs And Your Health, for a fun, interactive and experimental session where you’ll learn the basics of writing and illustrating a comic. Absolutely no prior experience required!
  </td>
-        <td style="width: 20%;">7 Oct 2022,<br>3pm-5pm</td>
-        <td style="width: 20%;">Chua Chu Kang Public Library </td>
+        <td style="width: 20%;">30 Nov 2022,<br>11am-12.30pm</td>
+        <td style="width: 20%;">library@harbourfront</td>
       </tr>
-			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/chairs-by-queensway-secondary-drama-club-registration-411113450397?aff=odcleoeventsincollection" target="_blank"><b>Chairs: A Dramatised Read</b></a></td>
-        <td style="width: 40%;">In a turbulent time of war and displaced people, what can a simple chair mean? This dramatised recitation of a children’s book is recommended for ages 8 and above.
-</br></br>
-Chairs is a student-led performance by Secondary 3 students from the Queensway Secondary School Drama Club. </td>
-        <td style="width: 20%;">29 Oct 2022,<br>11am-11.30am</td>
-        <td style="width: 20%;">Queenstown Public Library </td>
-      </tr>
-     </tbody>
+			     </tbody>
   </table>
 </div>
 
