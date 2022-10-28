@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /arts/Adults-Seniors/content
+permalink: /arts/Adults-Seniors/content/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -74,7 +74,36 @@ Check our **learning packages** for a more in-depth resource list, to expand you
       </a>
     </div>
   </div>
+<div class="col is-one-third">
+	<div class="clickbox is-pink-ruby">
+				 <a href="#lp-forest-fire">
+				 <span>Learning Package:<br>Forest Fire</span>
+			</a>
+    </div>
+  </div>
+<div class="col is-one-third">
+    <div class="clickbox is-pink-ruby">
+      <a href="#lp-batik">
+        <span>Learning Package:<br> Batik </span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-pink-ruby">
+      <a href="#lp-here-they-come">
+        <span>Learning Package:<br> Here They Come </span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-pink-ruby">
+      <a href="#lp-life-by-the-river">
+        <span>Learning Package:<br> Life By The River </span>
+      </a>
+    </div>
+  </div>
 </div>
+
 	
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-how-to-view-art" class="margin--bottom--lg"><b>How To View Art</b></h5>
