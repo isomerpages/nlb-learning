@@ -87,39 +87,29 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 			</tr>
 		</thead>
 		<tbody>
-			<tr>		
-<td><a target="_blank" href="https://www.eventbrite.sg/e/coding-unplugged-sound-shakers-discovertech-tickets-416471847507?aff=odcleoeventsincollection"><b> Coding Unplugged: Sound Shakers | DiscoverTech</b></a></td>
-        <td>Learn basic coding concepts and computational thinking skills through an unplugged sound shaker activity. Discover concepts such as decomposition and debugging as you fix the buggy set of instructions and fold the sound shaker. You will get to bring the sound shaker home too!
-</td>
-       <td>1 Oct 2022 <br> 2:30-3:30pm</td>
-        <td>Serangoon Public Library</td>
-      </tr>
-			<tr>		
-<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-i-travelling-with-bee-bot-tickets-414445647087?aff=odcleoeventsincollection"><b> DiscoverTech I Travelling With Bee Bot </b></a></td>
-        <td>Come program Bee-Bot to go on an adventure around Singapore! Visit sites such as Esplanade and the Merlion, all while learning computational thinking!
-</td>
-       <td>2 Oct 2022 <br> 2:00 - 3:00pm</td>
-        <td>
-library@harbourfront </td>
-      </tr>
-			<tr>		
-<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-i-littlebits-creation-tickets-422296388867?aff=odcleoeventsincollection"><b> DiscoverTech I LittleBits Creation </b></a></td>
-        <td>Have fun learning with littleBits in this creative hands-on workshop! LittleBits are swappable, magnetically-connected electronics building blocks that allow you to easily add lights and movement to any crafts project. Children and parents will learn how littleBits work and create and decorate a character using cardboard and arts & crafts materials! This is a parent-child programme for children aged 4-6 years old.</td>
-       <td>9 Oct  2022 <br> 11:30 AM – 12:30 PM</td>
-        <td>Sengkang Public Library</td>
-      </tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-i-think-like-a-coder-crack-the-code-tickets-409716923347?aff=odcleoeventsincollection"><b> DiscoverTech I Think Like A Coder: Crack the Code </b></a></td>
-        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
-       <td>15 Oct 2022 <br> 2:00 - 3:00pm</td>
+<td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-early-read-tickets-438762409177?aff=ebdsoporgprofile" target="_blank"><b> Introduction to Scratch Junior Coding | Early READ
+</b></a></td>
+     <td>ScratchJr is a programming language for children aged 4-6. Using ScratchJr, children can create their own interactive stories, animations and games.
+<br><br>
+Unit 1: Introduction
+<br>
+Learn to create own interactive computational media with ScratchJrBackground and Character Creation
+<Br><br>
+Unit 2: Motion
+<br>
+Learn to use ScratchJr to create motion and animationsUse blocks and open-ended explorationsSame block sequencing and motionNumbers and repeating sequences 
+</td>
+        <td>19 Nov 2022<br>11.00am – 12.00pm<br></td>
+        <td>Bishan Public Library  </td>
+			</tr>
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-coding-unplugged-human-computers-early-read-registration-438780553447?aff=ebdsoporgprofile"><b>[DiscoverTech] Coding Unplugged: Human Computers! | Early READ</b></a></td>
         <td>
-library@harbourfront </td>
-      </tr>
-			<tr>		
-<td><a target="_blank" href="https://www.eventbrite.sg/e/robo-coder-tickets-409742369457?aff=odcleoeventsincollection"><b> Robo Coder  </b></a></td>
-        <td>Think like a coder' sessions are specially designed to develop computational thinking skills in preschool children. These are for absolute beginners aged 4 to 7 years old. Computational thinking is the process of breaking down a problem into simple enough steps that even a computer would understand. It develops critical thinking and creativity as children learn new ways to solve a problem. Computational thinkers are problem solvers and innovators.</td>
-       <td>22 Oct  2022 <br>2:30 PM – 3:30 PM</td>
-        <td>Serangoon Public Library</td>
+Calling all parents and children aged 4 to 6 years old! What if we told you you could become a computer for an hour? This hands-on, interactive session will introduce you and your child to the curious world of coding! Discover 3 basic coding concepts of branching, sequencing and algorithms through storytelling and a series of enjoyable unplugged activities.
+ </td>
+       <td> 26 Nov 2022 <br> 11:00am– 12:00pm</td>
+        <td>Choa Chu Kang Public Library</td>
       </tr>
 		</tbody>
 	</table>
@@ -133,36 +123,12 @@ library@harbourfront </td>
       </tr>
 			</thead>
 		<tbody>
-			<tr>		
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-sounds-tickets-410297780707?aff=odcleoeventsincollection"><b> [Budding Engineers] Sounds
-</b></a></td>
-        <td>Stop and listen! Do you hear anything? The wind howling, the cartoons on television, or even the barking of a dog? You may even hear Mommy and Daddy call your name! These are called Sounds and they can be found everywhere! Have you wondered how they are made or how you can hear them?
-</td>
-       <td>1 Oct 2022 <br> 11:00 AM – 12:00 PM</td>
-        <td>Woodlands Regional Library</td>
-      </tr>
-<tr>			
+			<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
        <td>Check out all the Jiggle Read & Rhyme sessions for October!</td>
         <td>Various Locations</td>
       </tr>
-			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-abcs-of-microgreens-tickets-409753111587?aff=odcleoeventsincollection
-"><b>
-[Caring for the Environment] ABCs of Microgreens  </b></a></td>
-        <td>
-Singapore is known as a garden city but did you know you can create your own personal garden city at home? Microgreens are edible crops grown in soil and harvested when the plants are a few inches tall. Join us in this workshop as we learn about microgreens and fall in love with the ease of planting these young seedlings. This is a parent-child programme and is suitable for children aged 4-6 years old.
- </td>
-       <td> 9 Oct 2022 <br> 11:30 AM – 12:30 PM </td>
-        <td>Bedok Public Library </td>
-      </tr>
-			<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/special-play-session-tickets-417799067257?aff=odcleoeventsincollection"><b> Special Play Session | Early READ </b></a></td>
-        <td>Come bond with your little ones in this self-guided play session. Let your children explore the various edu-aids that we have and get to engage your children in meaningful play! Do drop by any time between 2pm - 4pm. This programme is suitable for children between 0-6 years old. </td>
-        <td>28 Oct 2022<br>2.00pm – 4.00pm<br></td>
-        <td>Sengkang Public Library</td>				
-  					</tr>
 			<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-potions-party-tickets-409759109527?aff=odcleoeventsincollection"><b> [Budding Scientists] Potions Party!  </b></a></td>
         <td>
@@ -171,6 +137,38 @@ Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! 
        <td> 29 Oct 2022 <br> 11:00 AM – 12:00 PM</td>
         <td>Zoom</td>
       </tr>
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/storytelling-with-sadeaf-rapunzel-the-giving-tree-early-read-tickets-438766320877?aff=ebdsoporgprofile"><b>Storytelling with SADeaf | Rapunzel & The Giving Tree | Early READ
+ </b></a></td>
+        <td> Would you like to listen to the stories of Rapunzel and The Giving Tree in Singapore Sign Language? Come and join Singapore Associationfor the Deaf and pick up some Singapore Sign Language vocabulary along the way! Admission is free! See you there!
+<br>
+ </td>
+					<td>5 Nov 2022<br>12.30pm-13.30pm<br></td>
+        <td>Jurong Regional Library</td>
+      </tr>	
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-lets-reduce-food-wastage-early-read-registration-438784104067?aff=ebdsoporgprofile" target="_blank"><b> [Caring for the Environment] Let's Reduce Food Wastage! | Early READ
+</b></a></td>
+        <td>Do you know what happens to the spoilt food or leftovers that were thrown away? These food waste goes to the landfills and are being incinerated.
+<br>
+Burning food waste requires fossil fuels that release carbon emissions. This increases the Earth's temperature and contribute to global warming. So, let's learn how we can reduce food waste to help Mother Earth!
+</td>
+      <td>5 Nov 2022<br>11.30 - 12.30pm <br></td>
+        <td>Clementi Public Library </td>
+			</tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/mindful-magic-breathing-in-the-wind-early-read-registration-438779379937?aff=ebdsoporgprofile" target="_blank"><b> Mindful Magic: Breathing in the Wind | Early READ </b></a></td>
+        <td> In this session suitable for children aged 4-6 years old, participants will learn to respond to challenging emotions using the Breathe and Calm technique, as well as through art, to slow down and pay attention to their breathing.
+</td>
+        <td>6 Nov 2022<br>11.00am – 12.00pm<br></td>
+        <td>Toa Payoh Public Library  </td>
+			</tr>
+			<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/empowering-parent-leaders-what-to-do-and-why-you-do-it-early-read-registration-438781847317?aff=ebdsoporgprofile"><b> Empowering Parent Leaders: What to do and Why you do it! | Early READ</b></a></td>
+        <td>Understand how your child’s brain develops so you can use the most effective techniques to lead them to calmly respond to challenges.</td>
+        <td>19 Nov 2022<br>11.30am– 12.30pm<br></td>
+        <td>Queenstown Public Library</td>				
+  					</tr>
     </tbody>
   </table>
 </div>
