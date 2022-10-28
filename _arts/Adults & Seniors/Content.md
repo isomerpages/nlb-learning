@@ -656,7 +656,7 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 <img alt="cover image" src="/images/arts/AS/NGS-batik.jpeg">
 	
 <h3><b>Learning Package</b></h3>
-<h5 id="lp-batik " class="margin--bottom--lg"><b>Batik</b></h5>
+<h5 id="lp-batik" class="margin--bottom--lg"><b>Batik</b></h5>
 <h4>What is Batik?</h4>
 <p> Batik painting is the process in which patterns or images are dyed onto fabric, usually using a wax-resist technique followed by the application of the dye.
 </p>
@@ -736,7 +736,7 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 ![](/images/Arts/AS/NGS-here-they-com.jpeg)
 
 <h3><b>Learning Package</b></h3>
-<h5 id="lp-here-we-come" class="margin--bottom--lg"><b>Here They Come!</b></h5>
+<h5 id="lp-here-they-come" class="margin--bottom--lg"><b>Here They Come!</b></h5>
 <h4>The Artist behind the Art</h4>
 <p> Born in 1938, Koeh graduated from the Nanyang Academy of Fine Arts (NAFA) in 1958. <br>
 Koeh as a student was greatly influenced by the prevailing social and political thinking in Singapore's Chinese community of the 1950s. <br>
