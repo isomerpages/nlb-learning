@@ -61,10 +61,10 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 						<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/nature-photography-101-with-park-kaki-clementi-public-library-tickets-435602377437?aff=ebdssbdestsearch" target="_blank"><b> Nature Photography 101 with Park Kaki | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Have you ever wondered what’s the best way to capture the beauty of nature through your camera lenses? Learn the tricks of the trade from Park Kaki’s David Wirawan in this workshop.
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/upcycled-decorations-with-sprout-up-clementi-public-library-tickets-435601264107?aff=ebdssbdestsearch" target="_blank"><b> Upcycled Decorations with Sprout Up! | Earth Heroes</b></a></td>
+        <td style="width: 40%;">Let’s get creative and upcycle our daily trash. Turn empty tissue boxes into various decorations to beautify your home and contribute towards the zero waste effort at the same time.
 </td>
-        <td style="width: 20%;">13 Nov 2022, <br>4-5pm</td>
+        <td style="width: 20%;">13 Nov 2022, <br>2.30-3.30pm</td>
         <td style="width: 20%;">Clementi Public Library</td>
 			</tr>
     </tbody>
