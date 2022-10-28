@@ -65,7 +65,7 @@ Be informed and make an impact to the environment.
 </b></a></td>
         <td style="width: 40%;">Find out how you can make your own toothpaste using a very simple ingredient – eggshells! Not only are you able to repurpose the eggshells to reduce waste and save some money, there is even some research to show that the calcium in the eggshell powder has the potential to help in the remineralisation of enamel to protect your teeth.
 <br></td>
-        <td style="width: 20%;">9 Oct 2022, 2pm-4.30pm</td>
+        <td style="width: 20%;">9 Oct 2022 <br> 2pm - 4.30pm</td>
         <td style="width: 20%;">Tampines Regional Library</td>
 			</tr> </tbody>
   </table>
@@ -80,15 +80,31 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-toa-payoh-public-library-tickets-411730355577?aff=odcleoeventsincollection" target="_blank"><b>Dungeons & Dragons w/The Legitimate Business</b></a></td>
-        <td style="width: 40%;">Heard of the world of Dungeons & Dragons (D&D)? Come by Toa Payoh Public Library for a taste of this legendary fantasy role-playing game, and find out why millions of players worldwide have stepped into the boots of mighty heroes (and sneaky antiheroes) to create their own stories. </td>
-        <td style="width: 20%;">2 Oct 2022, 1.30pm-5.30pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/making-melodies-with-our-hearts-woodlands-regional-library-tickets-435603581037?aff=ebdssbdestsearch" target="_blank"><b>Making Melodies With Our Hearts </b></a></td>
+        <td style="width: 40%;">
+Come and join us at the library for a morning of music performed by our very own local musicians. Covers of your favourite pop songs and original songs await!
+				<br><br>
+				This performance is in collaboration with Riverside Secondary School & Marsiling Secondary School.</td>
+        <td style="width: 20%;">5 Nov 2022<br>10.30am - 12pm</td>
+        <td style="width: 20%;">Woodlands Regional Library</td>
+      </tr>
+				<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087?aff=odcleoeventsincollection" target="_blank"><b> Unplugged</b></a></td>
+        <td style="width: 40%;"> Want to take a break and unwind over some tabletop games? <br><br>
+Join us at Unplugged, and get introduced to a variety of games! This programme is recommended for children and teens to attend with friends and family.</td>
+        <td style="width: 20%;">18 Nov 2022 <br> 3pm - 5pm	</td>
+        <td style="width: 20%;">Chua Chu Kang Public Library</td>
+      </tr>
+				<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/st-gabriels-secondary-school-vocal-ensemble-performance-session-1-tickets-435576349587?aff=ebdssbdestsearch" target="_blank"><b> St Gabriel's Secondary School Vocal Ensemble Performance</b></a></td>
+        <td style="width: 40%;"> Usher in the holidays with a vocal ensemble performance by St Gabriel’s Secondary School, featuring popular songs and some holiday favourites. </td>
+        <td style="width: 20%;">18 Nov 2022 <br> 3pm-3.30pm</td>
+        <td style="width: 20%;">Serangoon  Public Library</td>
       </tr>
 			<tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087?aff=odcleoeventsincollection" target="_blank"><b> Dungeons & Dragons w/The Legitimate Business</b></a></td>
         <td style="width: 40%;"> Heard of the world of Dungeons & Dragons (D&D)? Come by Choa Chu Kang Public Library for a taste of this legendary fantasy role-playing game, and find out why millions of players worldwide have stepped into the boots of mighty heroes (and sneaky antiheroes) to create their own stories. </td>
-        <td style="width: 20%;">22 Oct 2022, 1pm-5pm</td>
+        <td style="width: 20%;">26 Nov 2022, 1pm-5pm</td>
         <td style="width: 20%;">Chua Chu Kang Public Library</td>
       </tr>
   </tbody>
