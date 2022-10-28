@@ -593,10 +593,9 @@ Source: <a target="\_blank" href="https://www.youtube.com/watch?v=OiRWBI0JTYQ"> 
 <p>Art imitates art in this video that breaks down movie scenes inspired by famous paintings.</p>
 
 <div class="bp-youtube">
-
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Wo5IILSy3fo" height="315" width="560"></iframe></div>
 
-Source: <a target="\_blank" href="https://www.youtube.com/watch?v=Wo5IILSy3fo&feature=youtu.be"> movie scenes inspired by famous paintings | an animated journey </a> (2020, October 27). <i>Marina May.</i> Retrieved 2022, October 26
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=Wo5IILSy3fo&feature=youtu.be"> movie scenes inspired by famous paintings | an animated journey </a> (2020, October 27). <i>Marina May.</i> Retrieved 2022, October 26
 
 <h5>3. A Brief History of Indonesian Art</h5>
 
