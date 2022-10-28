@@ -550,6 +550,8 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=V-LRwGNsP60"> H
 
 <img alt="cover image" src="/images/arts/AS/NGS-Forest-Fire.jpeg">
 
+
+<!-- Forest Fire LP  -->
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-forest-fire" class="margin--bottom--lg"><b> Forest Fire</b></h5>
 
@@ -563,17 +565,17 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=V-LRwGNsP60"> H
 
 <p> Learn more about the master, Raden Saleh with a quick interview with Werner Kraus - a historian and also our advisory for the exhibition Between Worlds: Raden Saleh and Juan Luna.</p>
 
-   <div class="bp-youtube">
+<div class="bp-youtube">
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/16MkpVyE5W8" height="315" width="560"></iframe></div>
 
-Source: <a target="\_blank" href="https://www.youtube.com/watch?v=16MkpVyE5W8"> Interview with Dr Werner Kraus on Raden Saleh</a> (2018, March 1). <i>National Gallery Singapore.</i> Retrieved 2022, October 26
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=16MkpVyE5W8"> Interview with Dr Werner Kraus on Raden Saleh</a> (2018, March 1). <i>National Gallery Singapore.</i> Retrieved 2022, October 26
 
 <h5>Explore more works by Raden Saleh</h5>
 
-<a target="\_blank" href="https://collections.nationalgallery.sg/#/search?Search=raden%20saleh&SearchType=b&CategoryCode=ART"><img alt="Raden Saleh NGS collection" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-Forest-Fire-1.jpeg"></a>
+<a target="_blank" href="https://collections.nationalgallery.sg/#/search?Search=raden%20saleh&SearchType=b&CategoryCode=ART"><img alt="Raden Saleh NGS collection" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-Forest-Fire-1.jpeg"></a>
 
-<p><a target="\_blank" href=" https://collections.nationalgallery.sg/#/search?Search=raden%20saleh&SearchType=b&CategoryCode=ART "> Check out other works by Raden Saleh at the National Gallery Singapore’s online collection! </a>. </p>
+<p><a target="_blank" href=" https://collections.nationalgallery.sg/#/search?Search=raden%20saleh&SearchType=b&CategoryCode=ART "> Check out other works by Raden Saleh at the National Gallery Singapore’s online collection! </a>. </p>
 
 <h4>Discover More</h4>
 
@@ -649,5 +651,84 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 <li><span id="footnote-two">askART. Artist Biography & Facts</span> <i>Raden (Prince) Saleh - Biography.</i>. Retrieved 2022, October 8 from <a href="https://www.askart.com/artist/Raden\_Prince\_Saleh/11207939/Raden\_Prince\_Saleh.aspx">askART.com</a></li>
 </ol>
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+<!-- Batik LP  -->
 
+<img alt="cover image" src="/images/arts/AS/NGS-batik.jpeg">
+	
+<h3><b>Learning Package</b></h3>
+<h5 id="lp-batik " class="margin--bottom--lg"><b>Batik</b></h5>
+<h4>What is Batik?</h4>
+<p> Batik painting is the process in which patterns or images are dyed onto fabric, usually using a wax-resist technique followed by the application of the dye.
+</p>
+<h5> How traditional Javanese Batik is made? </h5>
+<p> Watch Javanese artisans make batik and learn more about their refined techniques. Many places in the world pattern textiles by applying wax to protect certain areas from dye. During the dye process, the wax areas resist the dye, and when the wax is removed a pattern emerges. Both the technique and the textile produced are called batik.</p>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src=" https://www.youtube.com/embed/PLTmu5m5bFU" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=PLTmu5m5bFU&t=22s"> Batik of Java: A Centuries Old Tradition </a> (2017, January 28). <i>Asian Art Museum.</i> Retrieved 2022, October 26
+
+<h5> Singaporean Artist Tumadi Patri shows how he creates his Batik artwork </h5>
+<p>This demonstration by contemporary batik artist Tumadi Patri illuminates the numerous processes behind batik painting. Tumadi begins by sketching a visual concept on paper before transferring it onto fabric. Liquid wax is then funnelled through a canting, a pen-like instrument, to outline the image on the fabric which is then dyed. To remove the wax, the fabric is dipped in a mixture of hot water and soda ash, then cold water. The steps of waxing, dyeing and washing may be carried out numerous times for intricate designs, a testament to the complexity of batik art.</p>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src=" https://www.youtube.com/embed/pThHII_qdf0" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=pThHII_qdf0&feature=youtu.be"> Films on Artmaking in Southeast Asia: Batik </a> (2020, June 5). <i>National Gallery Singapore.</i> Retrieved 2022, October 26
+
+<h4>The History of Batik </h4>
+<p> Did you know that batik pre-dates written records? The technique of wax-resistant dyeing is also not exclusive to Southeast Asia and can be found in many parts of the world. Watch the video below to find out more.</p>
+
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src=" https://www.youtube.com/embed/IXpqcr_HKJs" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=IXpqcr_HKJs&feature=youtu.be"> Brief History of Batik || Hari Batik Nasional 2018 </a> (2018, September 30). <i>PPI Australia Official.</i> Retrieved 2022, October 26
+
+<h4>Get to Know the Artists</h4>
+<h5>1. Sarkasi “Tzee” Said</h5>
+<p>Watch this video to learn about Sarkasi “Tzee” Said’s journey as an artist and the philosophy behind his works.</p>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src=" https://www.youtube.com/embed/lPzSmcht7iI" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=lPzSmcht7iI&feature=youtu.be"> #Interview: Sarkasi Bin Said: Professional Batik Artist</a> (2019, July 26). <i>National Library Board.</i> Retrieved 2022, October 26
+
+<h5>Explore more works by Sarkasi “Tzee” Said</h5>
+<a target="_blank" href="https://collections.nationalgallery.sg/#/search?Search=Sarkasi%20Said&SearchType=b&CategoryCode=ART"><img alt="Sarkasi Tzee Said collection" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-batik-1.jpeg"></a>
+<p><a target="_blank" href=" https://collections.nationalgallery.sg/#/search?Search=Sarkasi%20Said&SearchType=b&CategoryCode=ART"> Discover more works by Batik artist Sarkasi “Tzee” Said from the National Gallery Singapore online collection. </a>. </p>
+
+<h5>2. Jaafar Latiff</h5>
+<p> Jaafar Latiff (1937–2007) established his practice as an abstract artist known for his innovation in the medium of batik. He was a self-taught artist who spent much of his career as an art educator, teaching in institutions such as Baharuddin Vocational Institute, LASALLE College of the Arts and Nanyang Academy of Fine Arts. He integrated the conventional techniques of batik with his abstract style, creating batik paintings that challenged prevailing ideas of tradition. <br><br>
+Watch this panel discussion helmed by National Gallery Singapore curator Goh Sze Ying on Jaafar Latiff’s artistic expression through batik and how contemporary art practices incorporate batik. </p>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src=" https://www.youtube.com/embed/nTLmUc_wsmY" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=nTLmUc_wsmY"> Before, and Beyond: Fajrina Razak & Yee I-Lann in Conversation with Goh Sze Ying </a> (2021, September 23). <i>National Gallery Singapore.</i> Retrieved 2022, October 26
+
+<h5>Explore more works by Jaafar Latiff</h5>
+<a target="_blank" href="https://collections.nationalgallery.sg/#/search?Search=Jaafar%20Latiff&SearchType=b&CategoryCode=ART "><img alt=" Jaafar Latiff collection" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-batik-2.jpeg"></a>
+<p><a target="_blank" href="https://collections.nationalgallery.sg/#/search?Search=Jaafar%20Latiff&SearchType=b&CategoryCode=ART"> Discover more works by Batik artist Jaafar Latiff from the National Gallery Singapore online collection. </a></p>
+
+<h4>Discover More</h4>
+<h5>1. Batik, Fabled Cloth of Java</h5>
+Inger McCabe Elliott, Brian Brake (2013), <i> Batik, Fabled Cloth of Java </i>, Tuttle Publishing.
+<a target="_blank" href="https://nlb.overdrive.com/media/1072981"><img alt="Batik, Fabled Cloth of Java" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-batik-3.jpeg"></a>
+<p>From the royal courts of Yogyakarta and Cirebon to the coastal towns of Pekalongan, Surabaya and Lasem, Inger McCabe Elliot takes the reader on a spellbinding tour of Java's north coast examining the customs, cultures and craftsmanship that distinguishes its magic cloth.</p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/1072981">Borrow the eBook here</a></p>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+
+<h5>2. Malaysian Batik, Reinventing a Tradition </h5>
+Noor Azlina Yunus (2012), <i> Malaysian Batik, Reinventing a Tradition </i>, Tuttle Publishing.
+<a target="_blank" href="https://nlb.overdrive.com/media/989161"><img alt="Malaysian Batik, Reinventing a Tradition" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-batik-4.jpeg"></a>
+<p>Batik is more than wax and dye applied to a length of cloth. It is an art form practiced by people around Asia. With its its bolder, abstract designs and its brighter palette, Malaysian batik is a distinctly different type of batik that has brought an exciting new dimension to this ancient method of fabric art.</p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/989161">Borrow the eBook here.</a></p>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+
+<h5>3. Textiles of Southeast Asia: Trade, Tradition and Transformation </h5>
+Robyn Maxwell, Mattiebelle Gittinger (2012), <i> Textiles of Southeast Asia: Trade, Tradition and Transformation </i>, Tuttle Publishing.
+<a target="_blank" href="https://nlb.overdrive.com/media/1015098"><img alt="Textiles of Southeast Asia: Trade, Tradition and Transformation" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-batik-5.jpeg"></a>
+<p> Textiles provide a visual history of a country's culture and crafting traditions in a way few other things can accomplish. In Textiles of Southeast Asia, Dr. Robyn Maxwell provides the definitive work on Southeast Asian textiles.</p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/1015098">Borrow the eBook here.</a></p>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+
+<h5>4. The Golden Thread: How Fabric Changed History</h5>
+Kassia St. Clair (2019), <i> The Golden Thread: How Fabric Changed History </i>, Liveright.
+<a target="_blank" href="https://nlb.overdrive.com/media/4608263 "><img alt="The Golden Thread: How Fabric Changed History" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-batik-6.jpeg"></a>
+<p> From colourful threads found on the floor of an ancient Georgian cave to the Indian calicoes that fuelled the Industrial Revolution, The Golden Thread illuminates the myriad and fascinating histories behind the cloths that came to define human civilization—the fabric, for example, that allowed mankind to shatter athletic records, and the textile technology that granted us the power to survive in space. Exploring the enduring association of textiles with "women's work," Kassia St. Clair "spins a rich social history . . . that also reflects the darker side of technology".</p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/4608263">Borrow the eBook here.</a></p>
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
