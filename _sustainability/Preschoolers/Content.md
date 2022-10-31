@@ -146,7 +146,7 @@ Articles and activities that will teach and inspire your child to live sustainab
 <p>When you think of a farm, you might be picturing a big field with lots of fruits or vegetables being grown. But did you know there are also farms in our city, including one on Orchard Road? Learn more about these urban farms and why they could be Singapore’s answer to securing a stable food supply for us all.</p>
 
 <h4 id="lp-urbanhome"><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment/#lp-urbanhome" target="_blank"><b>Urban Farming - Farm to Table</b></a></h4>  
-<img src="/images/sustainability/Preschoolers/Jade%20-%20urban%20farming%20farm%20to%20table.png" style="width:800px; text-align:centre;">
+<img src="/images/sustainability/Preschoolers/Jade%20-%20urban%20farming%20farm%20to%20table.png" style="width:400px; text-align:centre;">
 <p>"All big things come from small beginnings." - James Clear <br>
 Why is learning about Farm to Table important for your child? 
 This concept is a way to teach your child where food comes from, which in turn will show that it's important to eat healthy and not waste what we have. Try to spot the difference between urban farming and traditional farming and check out our supermarket scavenger hunt!
