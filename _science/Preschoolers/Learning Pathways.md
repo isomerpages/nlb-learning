@@ -120,6 +120,17 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
         <td></td>
         <td> </td>
       </tr>
+		 <tr>
+        <td><a href="https://childrenandteens.nlb.gov.sg/abcsofappliedchemistryforkids/#lp-potionsparty" target="_blank"><b> ABC’s of Applied Chemistry: 
+<br> Potions Party!
+ </b></a><img src="/images/science/preschoolers/Jade%20-%20budding%20scientists%20potions%20party.gif" style="width:400px; text-align:left;"></td>
+        <td> Acids and bases are present in the food that we eat and drink daily. Examples of acidic drinks are orange juice or vinegar, and they taste sour. Bases, like egg whites and baking soda, taste bitter.
+<br>
+Scientists use a pH scale, ranging from 0 to 14, to measure how acidic and basic a substance is. Do you know that we can make our own pH indicator in the comfort of our homes? Check it out!
+ </td>
+        <td></td>
+        <td> </td>
+      </tr>
     </tbody>
   </table>
 </div>      
