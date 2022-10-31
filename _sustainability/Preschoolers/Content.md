@@ -141,11 +141,20 @@ Articles and activities that will teach and inspire your child to live sustainab
 	<a href="https://childrenandteens.nlb.gov.sg/connecting-with-nature#lp-seaturtles" target="_blank"><b>Sea Turtle Rescue</b></a></h4>
 <p>As an island nation, Singapore has to be extra conscious about the creatures who call the oceans their home. Sea turtles may look tough with their strong shells, but in reality they face many dangers from humans and the environment. Discover some simple steps that we can take to keep our sea friends safe and learn how you can make your very own (paper plate) sea turtle!</p>
  
+
 <h4 id="lp-farming"><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment#lp-urbanfarm" target="_blank"><b>Urban Farming</b></a></h4>
 <p>When you think of a farm, you might be picturing a big field with lots of fruits or vegetables being grown. But did you know there are also farms in our city, including one on Orchard Road? Learn more about these urban farms and why they could be Singapore’s answer to securing a stable food supply for us all.</p>
+
+<h4 id="lp-urbanhome"><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment/#lp-urbanhome" target="_blank"><b>Urban Farming - Farm to Table</b></a></h4>  
+<p>"All big things come from small beginnings." - James Clear <br>
+Why is learning about Farm to Table important for your child? 
+This concept is a way to teach your child where food comes from, which in turn will show that it's important to eat healthy and not waste what we have. Try to spot the difference between urban farming and traditional farming and check out our supermarket scavenger hunt!
+</p>
 
 <h4 id="lp-susfood"><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment#lp-susfood" target="_blank"><b>Sustainable Foods</b></a></h4>
 <p>Do you know that the food we eat has an impact on the environment? Find out how science and technology can help us create a planet-friendly food system! From meat grown in labs to insects that are safe for consumption, these new innovations could be the future of our food.</p>
 
+<h4 id="lp-sushome"><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment/#lp-sushome" target="_blank"><b>Sustainability at Home</b></a></h4>
+<p>Being sustainable can start from small actions at home. No one is too young to become a sustainability warrior!</p> 
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
