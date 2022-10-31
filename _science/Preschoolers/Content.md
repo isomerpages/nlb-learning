@@ -427,7 +427,7 @@ Why Do Apples Turn Brown?</b></a></h4>
 
 <p>The human body is a complex machine. The different parts of our body work together to do many amazing things. Let’s have some fun learning about the human body and how it functions! </p>
 
- <h4 id="lp-animals"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/allaboutanimals#lp-animals"><b>All About Animal Life Cycles</b></a></h4>
+ <h4 id="lp-animals"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/allaboutanimals#lp-animals"><b>All About Animals: Animal Life Cycles</b></a></h4>
  
 <img src="/images/science/preschoolers/animals%20grow.jpg" style="width:400px; text-align:centre;">
 
