@@ -439,6 +439,10 @@ Why Do Apples Turn Brown?</b></a></h4>
 
 <p>Light is made up of waves. These waves travel from light sources, bounce off objects and come to our eyes, allowing us to see things. Light sources come in many forms. Lamp posts help light up streets. Stadium lights help us watch a late sports match. Computer monitors and television screens emit light to display images. Light can also come from flames, not just electricity, like from the bonfire during camping. And of course, the biggest main source of light for us: the Sun!</p>
 
+ <h4 id="lp-potionsparty"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/abcsofappliedchemistryforkids/#lp-potionsparty"><b>ABC’s of Applied Chemistry for Kids: <br> Potions Party!</b></a></h4>
+ 
+<img src="/images/science/preschoolers/Jade%20-%20budding%20scientists%20potions%20party.gif" style="width:400px; text-align:centre;">
 
+<p>Acids and bases are present in the food that we eat and drink daily. Examples of acidic drinks are orange juice or vinegar, and they taste sour. Bases, like egg whites and baking soda, taste bitter. <br><br> Scientists use a pH scale, ranging from 0 to 14, to measure how acidic and basic a substance is. Do you know that we can make our own pH indicator in the comfort of our homes? Check it out! </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
