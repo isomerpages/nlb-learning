@@ -54,9 +54,22 @@ What can we do to protect the environment around us? Do you know the different t
         <td></td>
         <td> </td>
       </tr>
+			 <tr>
+        <td><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment/#lp-urbanhome" target="_blank"><b>[Caring for the Environment] Urban Farming - Farm to Table</b></a><img src="/images/sustainability/Preschoolers/Jade%20-%20urban%20farming%20farm%20to%20table.png" style="width:400px; text-align:left;"></td>
+        <td>"All big things come from small beginnings." - James Clear
+Why is learning about Farm to Table important for your child? This concept is a way to teach your child where food comes from, which in turn will show that it's important to eat healthy and not waste what we have. Try to spot the difference between urban farming and traditional farming and check out our supermarket scavenger hunt!</td>
+        <td></td>
+        <td> </td>
+      </tr>
 			    <tr>
         <td><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment#lp-susfood" target="_blank"><b>[Caring for the Environment] Sustainable Foods</b></a></td>
         <td>Do you know that the food we eat has an impact on the environment? Find out how science and technology can help us create a planet-friendly food system! From meat grown in labs to insects that are safe for consumption, these new innovations could be the future of our food.</td>
+        <td></td>
+        <td> </td>
+      </tr>
+			 <tr>
+        <td><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment/#lp-sushome" target="_blank"><b>[Caring for the Environment] Sustainability at Home!</b></a></td>
+        <td>Being sustainable can start from small actions at home. No one is too young to become a sustainability warrior!</td>
         <td></td>
         <td> </td>
       </tr>
