@@ -105,7 +105,7 @@ Check out these resources to help you gain some understanding of the five-foot-w
 <p><b> The Bygone Age Of Letter Writing In Old Singapore | A Frame In Time 2 | Full Episode (48 mins)
 </b>
 <br>This show helmed by filmmaker Kelvin Tong uses Ong Kim Seng’s painting of the 'Night Calligrapher’ to set the scene of what the age of letter writing was like. It intermixes a short fictional story as well as interviews with the artist, academics, the son of a letter writer, and a ma jie, among others. “Letter writers played the important role of helping Singapore’s migrant forefathers write letters to their loved ones in their city of birth. They also doubled as calligraphers for Chinese New Year couplets and ancestral altars.” There are segments of the video with English subtitles.<br><br>
-<small> The Bygone Age Of Letter Writing In Old Singapore | A Frame In Time 2 | Full Episode (2021, 31 December). CNA Insider. Retrieved 2022, September 1.</small></p>
+<small> The Bygone Age Of Letter Writing In Old Singapore | A Frame In Time 2 | Full Episode (2021, December 31). CNA Insider. Retrieved 2022, September 1.</small></p>
 </div>
 </div>
 
@@ -188,7 +188,7 @@ Cottage industries are small-scale, family-run businesses typically producing go
 (4 mins)</b><br>
 For more than 50 years, Chen Foon Kee has been handweaving raw rattan — thin stems of a type of climbing palm found in tropical regions — into furniture and handicrafts. Today, in his 70s, he is one of Singapore’s last few rattan craftsmen, having inherited his father’s business, Chun Mee Lee Rattan Furniture. Chen shares the history of the rattan industry, stories of the family business and rattan craftsmanship in this video.
 <br><br>
-<small> Source: Singapore’s Last Maker of Handwoven Rattan Chairs | Goldthread (2020, Aug 25). Retrieved 2022, October 5.
+<small> Source: Singapore’s Last Maker of Handwoven Rattan Chairs | Goldthread (2020, August 25). Retrieved 2022, October 5.
 </small></p>
 </div>
 </div>
@@ -204,7 +204,7 @@ For more than 50 years, Chen Foon Kee has been handweaving raw rattan — thin s
 <div class="col is-three-fifths">
 <p><b> The Last Joss Stick Makers In Singapore | Tay Guan Heng | Our Grandfather Story (8 mins)</b><br>
 Joss sticks are often burnt as part of rituals during Chinese festivals. Founded in the 1930s, Tay Guan Heng is a family-run business specialising in the making of large joss sticks. Albert Tay shares the challenges that the trade has faced in recent decades and his journey in the family business.<br><br>
-<small> Source: The Last Joss Stick Makers in Singapore | Tay Guaeng ember(2020, Dec 19). Our Grandfather Story. Retrieved 2022, October 5.
+<small> Source: The Last Joss Stick Makers in Singapore | Tay Guan Heng (2020, December 19). Our Grandfather Story. Retrieved 2022, October 5.
 </small></p>
 </div>
 </div>
