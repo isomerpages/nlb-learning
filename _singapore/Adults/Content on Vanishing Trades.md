@@ -441,7 +441,13 @@ Tells the stories of successful Hainanese family businesses in Singapore, such a
 		<td>
 <h4>Did you know...</h4>
 <ul>
-<li>Singapore's economic, labour and land policies in the 1980s and 1990s led in part to the end of these trades, as many shophouses were demolished and itinerant street pedlars were relocated to specific places like flatted factories or hawker centres to continue their trade, albeit with significant changes.</li>
+<li>Singapore's economic, labour and land policies in the 1980s and 1990s led in part to the end of these trades, as many shophouses were demolished and itinerant street peddlers were relocated to specific places like flatted factories or hawker centres to continue their trade, albeit with significant changes.</li>
 </ul>
 </td>
 </tr></tbody></table>
+These curated set of articles and books will give you a better understanding of trades no longer practised in Singapore.
+
+<h4>Articles</h4>
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html" target="_blank">Chinese street storytellers by Tan, Fiona</a></h5>
+<p>Chinese street storytelling was a popular form of entertainment in Singapore during the colonial period up till the 1960s. Working from makeshift premises in various locations, storytellers would read stories aloud in dialect to paying customers. However, this trade met its demise with the rise of television and radio, and the reduced use of dialects.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html" target="_blank">Chinese street storytellers</a> (2014, July).<i> Singapore Infopedia.</i> Retrieved 2022, November 1.
