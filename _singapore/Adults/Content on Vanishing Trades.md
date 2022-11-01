@@ -441,7 +441,7 @@ Tells the stories of successful Hainanese family businesses in Singapore, such a
 		<td>
 <h4>Did you know...</h4>
 <ul>
-<li>Singapore's economic, labour and land policies in the 1980s and 1990s led in part to the end of these trades, as many shophouses were demolished and itinerant street pedlars were relocated to specific places like flatted factories or hawker centres to continue their trade, albeit with </li>
+<li>Singapore's economic, labour and land policies in the 1980s and 1990s led in part to the end of these trades, as many shophouses were demolished and itinerant street pedlars were relocated to specific places like flatted factories or hawker centres to continue their trade, albeit with significant changes.</li>
 </ul>
 </td>
 </tr></tbody></table>
