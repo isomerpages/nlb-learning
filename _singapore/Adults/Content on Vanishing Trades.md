@@ -430,3 +430,8 @@ Sullivan, Margaret. (1993). <i> “Can survive, la”: cottage industries in hig
 Tells the stories of successful Hainanese family businesses in Singapore, such as Tai Sun, Ya Kun, and Jack’s Place, that had their roots as small shops and cottage industries.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="lp-cottage-industries"><b> Learning Package: Vanished Trades - Occupations of Yesteryear</b></h5>
+
+<p>With rapid technological advancement and economic development, many occupations and trades that used to be found in Singapore have slowly disappeared.
+
