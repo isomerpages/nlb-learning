@@ -299,7 +299,18 @@ Check out these resources to learn more about some trades and occupations that c
 	</div>
 	</div>
 	
-
+<br>	
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/pPUKR0N6OHY">
+</iframe>
+	</div>
+	</div>
+	<div class="col is-three-fifths">
+		<p><b>Clearing Illegal Hawkers In 1960s Singapore | A Frame In Time | Episode 1/3 | CNA Insider (48 mins)</b><br>
+			Helmed by Singapore director Kelvin Tong, this documentary takes inspiration from social realist Koeh Sia Yong's painting of itinerant street hawkers fleeing from licensing officers titled, "Here They Come". The video explores the lives and experiences of itinert street hawkers who used to peddle their food along alleys and roads, and covers the street hawker's eventual dissappearance as new laws  were enacted to clean up the streets. <br><br>
+			
 
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-vanishing-trades" class="margin--bottom--lg"><b>Five-Foot-Way Traders</b></h5>
