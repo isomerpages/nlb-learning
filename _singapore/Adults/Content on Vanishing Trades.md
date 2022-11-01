@@ -477,4 +477,4 @@ Lim, Jason. (2013). <i> A slow ride into the past: The Chinese trishaw industry 
 Low, Kelvin E. Y. (2015). <i> Remembering the Samsui women: Migration and social memory in Singapore and China.</i> Singapore: NUS Press. (Call no.: RSING 305.420959570904 LOW)
 <br>
 <img src="/images/Singapore%20Vanishing%20Trades/Samsui.png" style="width:200px;">
-<p>The trishaw was a popular mode of transport in post-war Singapore. Using travelogues, government records, association records, and oral history interviews, this book provides a resource for learning about the personal experiences of trishaw riders, as well as the rise and decline of the trishaw industry.</p>
+<p>This book examines the lives of the Samsui women who migrated to Singapore in the early twentieth century for work and studies how these women's stories were eventually co-opted as part of the memory-making in Singapore</p>
