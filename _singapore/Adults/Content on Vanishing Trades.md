@@ -471,4 +471,4 @@ Lo-Ang, Siew Ghim and Chua Chee Huan (Eds.). (1992). <i> Vanishing trades of Sin
 Lim, Jason. (2013). <i> A slow ride into the past: The Chinese trishaw industry in Singapore, 1942-1983. </i> Clayton Victoria: Monash University Publishing. (Call no.: RSING 388.4132095957 LIM)
 <br>
 <img src="/images/Singapore%20Vanishing%20Trades/vanishing-trades-of-singapore.png" style="width:200px;">
-<p>Produced by the National Archives of Singapore's Oral History Department, this resource documents 20 vanishing trades of yesteryear. While many trades covered in this book are still on the brink of vanishing, certain trades featured like "Charcoal Dealer" (a tradesman who produces and sells charcoal), "Photo Artist" (an artist who paints colour onto black and white photographs), and "Wooden Barrel Shop Owner" (a craftsman who hand-crafts wooden barrels for sale), can no longer be found in Singapore. The book is written in English and Chinese.</p>
+<p>The trishaw was a popular mode of transport in post-war Singapore. </p>
