@@ -458,3 +458,5 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_190_2005-0
 
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_598_2004-12-23.html" target="_blank">Shoelast maker by Naidu Ratnala Thulaja</a></h5>
 <p>Shoelasts are made of wooden bases or moulds, carved into different sizes, styles and fits, and are used to form the finished shoe. The golden age of shoelast making was in the 1970s when there were many shoemaking factories in Singapore, creating a high demand for shoelasts. However, the shoelast industry began to decline after it was badly affected by the 1983 recession, in addition to changing consumer trends.</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_598_2004-12-23.html" target="_blank">Shoelast maker</a>(2020, September). <i>Singapore Infopedia</i>. Retrieved 2022, November 1.
+	
