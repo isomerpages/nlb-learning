@@ -450,4 +450,8 @@ These curated set of articles and books will give you a better understanding of 
 <h4>Articles</h4>
 <h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html" target="_blank">Chinese street storytellers by Tan, Fiona</a></h5>
 <p>Chinese street storytelling was a popular form of entertainment in Singapore during the colonial period up till the 1960s. Working from makeshift premises in various locations, storytellers would read stories aloud in dialect to paying customers. However, this trade met its demise with the rise of television and radio, and the reduced use of dialects.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html" target="_blank">Chinese street storytellers</a> (2014, July).<i> Singapore Infopedia.</i> Retrieved 2022, November 1.
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html" target="_blank">Chinese street storytellers</a> (2014, July).<i> Singapore Infopedia.</i> Retrieved 2022, November 1.
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_190_2005-01-03.html" target="_blank">Night jaga by Thulaja, Naidu Ratnala</a></h5>
+<p><i>Jaga</i> is Malay for a watchman or caretaker. THey are traditional watchmen or guards who used to stan vigil outside banks, godowns and shops o prevent theft and damage to property. <i> Jaga</i> became a dying trade by the 1980s and is virtually extinct today thanks to the introduction of modern security systems and services.</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html" target="_blank">Chinese street storytellers</a> (2014, July).<i> Singapore Infopedia.</i> Retrieved 2022, November 1.
