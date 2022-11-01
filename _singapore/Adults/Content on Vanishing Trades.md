@@ -204,7 +204,7 @@ For more than 50 years, Chen Foon Kee has been handweaving raw rattan — thin s
 <div class="col is-three-fifths">
 <p><b> The Last Joss Stick Makers In Singapore | Tay Guan Heng | Our Grandfather Story (8 mins)</b><br>
 Joss sticks are often burnt as part of rituals during Chinese festivals. Founded in the 1930s, Tay Guan Heng is a family-run business specialising in the making of large joss sticks. Albert Tay shares the challenges that the trade has faced in recent decades and his journey in the family business.<br><br>
-<small> Source: The Last Joss Stick Makers in Singapore | Tay Guan Heng (2020, Dec 19). Our Grandfather Story. Retrieved 2022, October 5.
+<small> Source: The Last Joss Stick Makers in Singapore | Tay Guaeng ember(2020, Dec 19). Our Grandfather Story. Retrieved 2022, October 5.
 </small></p>
 </div>
 </div>
@@ -269,6 +269,22 @@ While no longer be practiced, these trades and ocuupations provide a glimpse int
 
 Check out these resources to learn more about some trades and occupations that can no longer be found in Singapore.
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/be5g7Q-Xp2s">
+</iframe>
+</div>
+	</div>
+	<div class="col is-three-fifths">
+		<p><b>The Greatest Gift of a Generation: Tok Tok Mee | irememberSG (4 mins)</b><br>
+			Watch Mr Lai Quoquan reminisce and share about his days as a 'Tok Tok Man'. Walkng the streets, Mr Lai would sell bowls of noodles while rapping on a wooden instrument, signalling to his customers that he was open for business.<br><br>
+<small>Source: The Greatest Gift of a Generation: Tok Tok Mee (2015, January 3). irememberSG. Retrieved 2022, November 1.</small></p>
+	</div>
+	</div>
+	
+	
 
 
 <h3><b>Learning Package</b></h3>
