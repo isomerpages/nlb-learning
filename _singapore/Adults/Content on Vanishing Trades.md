@@ -222,7 +222,7 @@ Joss sticks are often burnt as part of rituals during Chinese festivals. Founded
 (22 mins)</b><br>
 Join host Elizabeth Boon as she spends a week at Nanyang Sauce, a family-run sauce brewery set up in 1959 that still uses the same recipes and traditional methods passed down through the generations. This video features Ken Koh, the third-generation owner, and his mother, sauce master Tan Poh Choo, delving into the origins of the family business, the process of making artisanal soy sauce by hand, as well as efforts to market the product to younger customers.<br><br>
 <small>
-Source: Artisanal Soy Sauce In Singapore: The Future’s Brewing | On The Red Dot | CNA Insider (2022, Jun 28). CNA. Retrieved 2022, October 5.
+Source: Artisanal Soy Sauce In Singapore: The Future’s Brewing | On The Red Dot | CNA Insider (2022, June 28). CNA. Retrieved 2022, October 5.
 </small></p>
 </div>
 </div>
@@ -255,7 +255,7 @@ Source: On The Michelin-Recommended List: Haig Road Putu Piring (2019, May 24). 
 Jothi Store &amp; Flower Shop in Little India is a household name among the Indian community for its range of hand-made flower garlands and religious paraphernalia. Started as a small sidewalk shop in 1960 by Murugaia Ramachandra, the business has since grown into a 5-storey departmental store run by Murugaia’s son, Rajakumar Chandra.
 <br><br>
 <small>
-Source: Flower Power: The Right Way To Get Blessings From Hindu Gods | Our Grandfather Story (2021, Apr 29). Our Grandfather Story. Retrieved 2022, October 5.
+Source: Flower Power: The Right Way To Get Blessings From Hindu Gods | Our Grandfather Story (2021, April 29). Our Grandfather Story. Retrieved 2022, October 5.
 </small></p>
 </div>
 </div>
