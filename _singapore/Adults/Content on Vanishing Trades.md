@@ -314,6 +314,8 @@ Check out these resources to learn more about some trades and occupations that c
 	</div>
 	</div>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-vanishing-trades" class="margin--bottom--lg"><b>Five-Foot-Way Traders</b></h5>
 
