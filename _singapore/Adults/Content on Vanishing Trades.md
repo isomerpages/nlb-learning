@@ -283,7 +283,21 @@ Check out these resources to learn more about some trades and occupations that c
 <small>Source: The Greatest Gift of a Generation: Tok Tok Mee (2015, January 3). irememberSG. Retrieved 2022, November 1.</small></p>
 	</div>
 	</div>
-	
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/YNsfRSXGrhA">
+</iframe>
+</div>
+	</div>
+	<div class="col is-three-fifths">
+		<p><b>Singtel TV: OUr Lovepedia Episode 18 – Samsui Women | Singtel (3 mins)</b><br>
+			Watch a retired samsui woman share anecdotes about the work she did as a samsui woman, her relationship with other samsui women, and the reasons why they wore the iconic red headscarf.<br><br>
+<small>Source: Singtel TV: Our Lovepedia Episode 18 – Samsui Women (2015, September 16). Singtel. Retrieved 2022, November 1.</small></p>
+	</div>
+	</div>
 	
 
 
