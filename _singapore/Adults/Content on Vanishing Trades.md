@@ -252,7 +252,7 @@ Source: On The Michelin-Recommended List: Haig Road Putu Piring (2019, May 24). 
 </div>
 <div class="col is-three-fifths">
 <p><b> Flower Power: The Right Way To Get Blessings From Hindu Gods | Our Grandfather Story	(4 mins) </b><br>
-Jothi Store &amp; Flower Shop in Little India is a household name among the Indian community for its range of hand-made flower garlands and religious paraphernalia. Started as a small sidewalk shop in 1960 by Murugaia Ramachandra, the business has since grown into a 5-storey departmental store run by Murugaia’s son, Rajakumar Chandra.
+Jothi Store Flower Shop in Little India is a household name among the Indian community for its range of hand-made flower garlands and religious paraphernalia. Started as a small sidewalk shop in 1960 by Murugaia Ramachandra, the business has since grown into a 5-storey departmental store run by Murugaia’s son, Rajakumar Chandra.
 <br><br>
 <small>
 Source: Flower Power: The Right Way To Get Blessings From Hindu Gods | Our Grandfather Story (2021, April 29). Our Grandfather Story. Retrieved 2022, October 5.
@@ -309,7 +309,7 @@ Check out these resources to learn more about some trades and occupations that c
 	</div>
 	<div class="col is-three-fifths">
 		<p><b>Clearing Illegal Hawkers In 1960s Singapore | A Frame In Time | Episode 1/3 | CNA Insider (48 mins)</b><br>
-			Helmed by Singapore director Kelvin Tong, this documentary takes inspiration from social realist Koeh Sia Yong's painting of itinerant street hawkers fleeing from licensing officers titled, "Here They Come". The video explores the lives and experiences of itinert street hawkers who used to peddle their food along alleys and roads, and covers the street hawker's eventual dissappearance as new laws  were enacted to clean up the streets. <br><br>
+			Helmed by Singapore director Kelvin Tong, this documentary takes inspiration from social realist Koeh Sia Yong's painting of itinerant street hawkers fleeing from licensing officers titled, "Here They Come". The video explores the lives and experiences of itinerant street hawkers who used to peddle their food along alleys and roads, and covers the street hawker's eventual dissappearance as  new laws  were enacted to clean up the streets. <br><br>
 			
 
 <h3><b>Learning Package</b></h3>
