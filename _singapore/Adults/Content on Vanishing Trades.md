@@ -460,3 +460,10 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_190_2005-0
 <p>Shoelasts are made of wooden bases or moulds, carved into different sizes, styles and fits, and are used to form the finished shoe. The golden age of shoelast making was in the 1970s when there were many shoemaking factories in Singapore, creating a high demand for shoelasts. However, the shoelast industry began to decline after it was badly affected by the 1983 recession, in addition to changing consumer trends.</p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_598_2004-12-23.html" target="_blank">Shoelast maker </a>(2020, September). <i>Singapore Infopedia</i>. Retrieved 2022, November 1.
 
+<h4>Books</h4>
+<h5> “Can survive, la”: cottage industries in high-rise Singapore</h5>
+Sullivan, Margaret. (1993). <i> “Can survive, la”: cottage industries in high-rise Singapore. </i> Singapore: G. Brash. (Call no.: RCLOS 338.634095957 SUL)
+<br>
+<img src="/images/Singapore%20Vanishing%20Trades/CanSurviveLa.png" style="width:200px;">
+<p> A rich collection of interviews conducted in the early 1980s with diverse cottage businesses in Singapore from spice mills and traditional medicine shops to tinsmiths and shoemakers. Aiming to provide a personal history of those involved in cottage industries, each profile traces how and when the trade was learnt, who taught it, how the product was made, the state of the industry and its future.</p>
+
