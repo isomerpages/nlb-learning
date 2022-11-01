@@ -452,8 +452,9 @@ These curated set of articles and books will give you a better understanding of 
 <p>Chinese street storytelling was a popular form of entertainment in Singapore during the colonial period up till the 1960s. Working from makeshift premises in various locations, storytellers would read stories aloud in dialect to paying customers. However, this trade met its demise with the rise of television and radio, and the reduced use of dialects.</p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html" target="_blank">Chinese street storytellers</a> (2014, July).<i> Singapore Infopedia.</i> Retrieved 2022, November 1.
 
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_190_2005-01-03.html" target="_blank">Night jaga by Thulaja, Naidu Ratnala</a></h5>
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_190_2005-01-03.html" target="_blank">Night jaga by Naidu Ratnala Thulaja</a></h5>
 <p><i>Jaga</i> is Malay for a watchman or caretaker. They are traditional watchmen or guards who used to stand vigil outside banks, godowns and shops o prevent theft and damage to property. <i> Jaga</i> became a dying trade by the 1980s and is virtually extinct today thanks to the introduction of modern security systems and services.</p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_190_2005-01-03.html" target="_blank">Night jaga</a> (2017).<i> Singapore Infopedia.</i> Retrieved 2022, November 1.
 
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_598_2004-12-23.html" target="_blank">Shoelast maker by Thulaja, Naidu Ratnala</a></h5>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_598_2004-12-23.html" target="_blank">Shoelast maker by Naidu Ratnala Thulaja</a></h5>
+Shoelasts are made of wooden bases or moulds, carved into different sizes, styles and fits, and are used to form the finished shoe. The golden age of shoelast making was in the 1970s when there were many shoemaking factories in Singapore, creating a high demand for shoelasts. However, the shoelast industry began to decline after it was badly affected by the 1983 recession, inaddition to changing consumer trends.
