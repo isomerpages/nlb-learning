@@ -471,4 +471,4 @@ Lo-Ang, Siew Ghim and Chua Chee Huan (Eds.). (1992). <i> Vanishing trades of Sin
 Lim, Jason. (2013). <i> A slow ride into the past: The Chinese trishaw industry in Singapore, 1942-1983. </i> Clayton Victoria: Monash University Publishing. (Call no.: RSING 388.4132095957 LIM)
 <br>
 <img src="/images/Singapore%20Vanishing%20Trades/vanishing-trades-of-singapore.png" style="width:200px;">
-<p>The trishaw was a popular mode of transport in post-war Singapore. Using travelogues, government records, association records, and oral history interviews, this book provides a resource for learning about the personal experiences of trishaw riders, as wel as the rise of decline of th trishaw industry.</p>
+<p>The trishaw was a popular mode of transport in post-war Singapore. Using travelogues, government records, association records, and oral history interviews, this book provides a resource for learning about the personal experiences of trishaw riders, as well as the rise and decline of the trishaw industry.</p>
