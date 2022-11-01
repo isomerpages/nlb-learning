@@ -455,3 +455,5 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29
 <h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_190_2005-01-03.html" target="_blank">Night jaga by Thulaja, Naidu Ratnala</a></h5>
 <p><i>Jaga</i> is Malay for a watchman or caretaker. They are traditional watchmen or guards who used to stand vigil outside banks, godowns and shops o prevent theft and damage to property. <i> Jaga</i> became a dying trade by the 1980s and is virtually extinct today thanks to the introduction of modern security systems and services.</p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_190_2005-01-03.html" target="_blank">Night jaga</a> (2017).<i> Singapore Infopedia.</i> Retrieved 2022, November 1.
+
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_598_2004-12-23.html" target="_blank">Shoelast maker by Thulaja, Naidu Ratnala</a></h5>
