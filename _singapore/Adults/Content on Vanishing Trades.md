@@ -465,5 +465,4 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_598_2004-1
 Sullivan, Margaret. (1993). <i> “Can survive, la”: cottage industries in high-rise Singapore. </i> Singapore: G. Brash. (Call no.: RCLOS 338.634095957 SUL)
 <br>
 <img src="/images/Singapore%20Vanishing%20Trades/CanSurviveLa.png" style="width:200px;">
-<p> A rich collection of interviews conducted in the early 1980s with diverse cottage businesses in Singapore from spice mills and traditional medicine shops to tinsmiths and shoemakers. Aiming to provide a personal history of those involved in cottage industries, each profile traces how and when the trade was learnt, who taught it, how the product was made, the state of the industry and its future.</p>
-
+<p>Produced by the National Archives of Singapore's Oral History Department, this resource documents 20 vanishing trades of yesteryear.</p>
