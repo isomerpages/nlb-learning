@@ -435,4 +435,13 @@ Tells the stories of successful Hainanese family businesses in Singapore, such a
 
 <p>With rapid technological advancement and economic development, many occupations and trades that used to be found in Singapore have slowly disappeared.</p>
 <p>While they may no longer be practiced, vanished trades and occupations provide a glimpse into old Singapore as well as the workers who sustained the people relying on their myriad of products and services. Their histories reveal stories about what the generations before us valued and consumed as part of their daily lives.</p>
-<p>This resource defines vanished trades as trades that no longer exist in society today, or trades that have evolved significantly from their traditional iterations to adapt to the needs of moderntimes</p>
+<p>This resource defines vanished trades as trades that no longer exist in society today, or trades that have evolved significantly from their traditional iterations to adapt to the needs of modern times</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li>Singapore's economic, labour and land policies in the 1980s and 1990s led in part to the end of these trades, as many shophouses were demolished and itinerant street pedlars were relocated to specific places like flatted factories or hawker centres to continue their trade, albeit with </li>
+</ul>
+</td>
+</tr></tbody></table>
