@@ -480,7 +480,7 @@ Low, Kelvin E. Y. (2015). <i> Remembering the Samsui women: Migration and social
 <p>This book examines the lives of the Samsui women who migrated to Singapore in the early twentieth century for work and studies how these women's stories were eventually co-opted as part of the memory-making in Singapore. Chapters four and five trace the phases of their lives from when they left China to when they worked in Singapore, feature personal narratives of their everyday life experiences, as well as explore their unique kin networks.</p>
 
 <h5>Superior servants: The legendary Cantonese amahs of the Far East</h5>
-Low, Kelvin E. Y. (2015). <i> Superior servants: The legendary Cantonese amahs of the Far East.</i> Singapore: NUS Press. (Call no.: RSING 305.420959570904 LOW)
+Gaw, Kenneth. (1988). <i> Superior servants: The legendary Cantonese amahs of the Far East.</i> Singapore: Oxford University Press. (Call no.: RSING 331.481640460951 GAW)
 <br>
 <img src="/images/Singapore%20Vanishing%20Trades/KGaw.png" style="width:200px;">
 <p>This book examines the lives of the Samsui women who migrated to Singapore in the early twentieth century for work and studies how these women's stories were eventually co-opted as part of the memory-making in Singapore. Chapters four and five trace the phases of their lives from when they left China to when they worked in Singapore, feature personal narratives of their everyday life experie
