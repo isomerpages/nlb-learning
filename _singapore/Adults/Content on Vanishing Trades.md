@@ -465,4 +465,4 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_598_2004-1
 Sullivan, Margaret. (1993). <i> “Can survive, la”: cottage industries in high-rise Singapore. </i> Singapore: G. Brash. (Call no.: RCLOS 338.634095957 SUL)
 <br>
 <img src="/images/Singapore%20Vanishing%20Trades/CanSurviveLa.png" style="width:200px;">
-<p>Produced by the National Archives of Singapore's Oral History Department, this resource documents 20 vanishing trades of yesteryear.</p>
+<p>Produced by the National Archives of Singapore's Oral History Department, this resource documents 20 vanishing trades of yesteryear. While many trades covered in this book are still on the brink of vanishing, certain trades featured like </p>
