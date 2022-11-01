@@ -464,5 +464,5 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_598_2004-1
 <h5>Vanishing trades of Singapore</h5>
 Lo-Ang, Siew Ghim and Chua Chee Huan (Eds.). (1992). <i> Vanishing trades of Singapore. </i> Singapore: Oral History Department, Singapore. (Call no.: RSING 338.634095957 VAN)
 <br>
-<img src="/images/Singapore%20Vanishing%20Trades/CanSurviveLa.png" style="width:200px;">
+<img src="/images/Singapore%20Vanishing%20Trades/vanishing-trades-of-singapore.png" style="width:200px;">
 <p>Produced by the National Archives of Singapore's Oral History Department, this resource documents 20 vanishing trades of yesteryear. While many trades covered in this book are still on the brink of vanishing, certain trades featured like "Charcoal Dealer" (a tradesman who produces and sells charcoal), "Photo Artist" (an artist who paints colour onto black and white photographs), and "Wooden Barrel Shop Owner" (a craftsman who hand-crafts wooden barrels for sale), can no longer be found in Singapore. The book is written in English and Chinese.</p>
