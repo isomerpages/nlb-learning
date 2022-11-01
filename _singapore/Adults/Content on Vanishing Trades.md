@@ -472,3 +472,9 @@ Lim, Jason. (2013). <i> A slow ride into the past: The Chinese trishaw industry 
 <br>
 <img src="/images/Singapore%20Vanishing%20Trades/JLim.png" style="width:200px;">
 <p>The trishaw was a popular mode of transport in post-war Singapore. Using travelogues, government records, association records, and oral history interviews, this book provides a resource for learning about the personal experiences of trishaw riders, as well as the rise and decline of the trishaw industry.</p>
+
+<h5>A slow ride into the past: The Chinese trishaw industry in Singapore, 1942-1983</h5>
+Lim, Jason. (2013). <i> A slow ride into the past: The Chinese trishaw industry in Singapore, 1942-1983. </i> Clayton Victoria: Monash University Publishing. (Call no.: RSING 388.4132095957 LIM)
+<br>
+<img src="/images/Singapore%20Vanishing%20Trades/JLim.png" style="width:200px;">
+<p>The trishaw was a popular mode of transport in post-war Singapore. Using travelogues, government records, association records, and oral history interviews, this book provides a resource for learning about the personal experiences of trishaw riders, as well as the rise and decline of the trishaw industry.</p>
