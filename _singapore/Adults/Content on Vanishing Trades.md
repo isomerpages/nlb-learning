@@ -433,5 +433,5 @@ Tells the stories of successful Hainanese family businesses in Singapore, such a
 
 <h5 class="margin--bottom--lg" id="lp-cottage-industries"><b> Learning Package: Vanished Trades - Occupations of Yesteryear</b></h5>
 
-<p>With rapid technological advancement and economic development, many occupations and trades that used to be found in Singapore have slowly disappeared.
-
+<p>With rapid technological advancement and economic development, many occupations and trades that used to be found in Singapore have slowly disappeared.</p>
+<p>While they may no longer be practiced, vanished trades and occupations provide a glimpse into old Singapore as well as the workers who sustained the people relying on their myriad of products and services. Their histories reveal stories about what the generations before us valued and consumed as part of their daily lives.</p>
