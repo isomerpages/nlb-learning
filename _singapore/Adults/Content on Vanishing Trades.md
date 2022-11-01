@@ -461,7 +461,7 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_190_2005-0
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_598_2004-12-23.html" target="_blank">Shoelast maker </a>(2020, September). <i>Singapore Infopedia</i>. Retrieved 2022, November 1.
 
 <h4>Books</h4>
-<h5> “Can survive, la”: cottage industries in high-rise Singapore</h5>
+<h5>Vanishing trades of Singapore</h5>
 Sullivan, Margaret. (1993). <i> “Can survive, la”: cottage industries in high-rise Singapore. </i> Singapore: G. Brash. (Call no.: RCLOS 338.634095957 SUL)
 <br>
 <img src="/images/Singapore%20Vanishing%20Trades/CanSurviveLa.png" style="width:200px;">
