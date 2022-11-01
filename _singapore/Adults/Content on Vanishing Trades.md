@@ -462,7 +462,7 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_598_2004-1
 
 <h4>Books</h4>
 <h5>Vanishing trades of Singapore</h5>
-Sullivan, Margaret. (1993). <i> “Can survive, la”: cottage industries in high-rise Singapore. </i> Singapore: G. Brash. (Call no.: RCLOS 338.634095957 SUL)
+Lo-Ang, Siew Ghim and Chua Chee Huan (Eds.). (1992). <i> Vanishing trades of Singapore. </i> Singapore: Oral History Department, Singapore. (Call no.: RSING 338.634095957 VAN)
 <br>
 <img src="/images/Singapore%20Vanishing%20Trades/CanSurviveLa.png" style="width:200px;">
 <p>Produced by the National Archives of Singapore's Oral History Department, this resource documents 20 vanishing trades of yesteryear. While many trades covered in this book are still on the brink of vanishing, certain trades featured like "Charcoal Dealer" (a tradesman who produces and sells charcoal), "Photo Artist" (an artist who paints colour onto black and white photographs), and "Wooden Barrel Shop Owner" (a craftsman who hand-crafts wooden barrels for sale), can no longer be found in Singapore. The book is written in English and Chinese.</p>
