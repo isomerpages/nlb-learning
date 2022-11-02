@@ -45,6 +45,12 @@ The story of technology is the history of people solving problems, overcoming ad
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
+<tr>
+        <td style="width: 20%;"><a href="https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=02d6de8f-5fce-4015-ac4f-af3f0087a87e" target="_blank"><b>Videos On-Demand: Future of Work Expert Edition 2022</b></a></td>
+        <td style="width: 40%;">Missed our Future of Work Expert Edition 2022 programmes or need a refresher? Check out the recordings from the event. </td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -58,19 +64,33 @@ The story of technology is the history of people solving problems, overcoming ad
     </thead>
     <tbody>
 			<tr>
-<td><a href="https://www.eventbrite.sg/e/leap-into-livestreaming-with-obs-my-digital-life-registration-411806784177" target="_blank"><b>[My Digital Life]</b><br>Leap into Livestreaming with OBS</a></td>
-        <td>Learn the software and tools on how to livestream effectively.</td>
-        <td>15 October 2022, 10:30am-12:30pm</td>
+<td><a href="https://www.eventbrite.sg/e/exploring-ai-and-machine-learning-future-of-work-tickets-424916114537" target="_blank"><b>[Future of Work]</b><br>Exploring AI and Machine Learning</a></td>
+        <td>Learn about machine learning and its applications.</td>
+        <td>8 November 2022, 6:30pm-8:30pm</td>
         <td>Zoom</td>
       </tr>
 			<tr>
-	<td><a href="https://www.eventbrite.sg/e/data-analytics-with-python-for-beginners-future-of-work-tickets-424896947207" target="_blank"><b>[Future of Work]</b><br>Getting Started with Data Analytics with Python
+	<td><a href="https://www.eventbrite.sg/e/internet-of-things-iot-from-bottom-up-future-of-work-tickets-424916455557" target="_blank"><b>[Future of Work]</b><br>Internet-of-Things (IoT) from Bottom Up
 </a></td>
-        <td>Learn the fundamental of data analysis and various data analytics processes with Python implementation.
+        <td>Learn about the various Internet-of-Things (IoT) sensors and embedded systems that are used in IoT solutions.
 </td>
-        <td> 25 October 2022<br>6:30pm-8:30pm</td>
+        <td> 18 November 2022<br>6:30pm-8:30pm</td>
         <td>Zoom</td>
       </tr>
+<tr>
+	<td><a href="https://www.eventbrite.sg/e/tools-tips-tricks-for-python-development-future-of-work-tickets-445059985397" target="_blank"><b>[Future of Work]</b><br>Tools, Tips & Tricks for Python Development
+</a></td>
+        <td>A beginner friendly presentation to learn about creating, installing and publishing a Python program.
+</td>
+        <td> 20 November 2022<br>4:00pm-6:00pm</td>
+        <td>library@harbourfront, Programme Zone 2</td>
+      </tr>	
+<tr>
+<td><a href="https://www.eventbrite.sg/e/build-your-own-2d-game-my-digital-life-registration-432337231297" target="_blank"><b>[My Digital Life]</b><br>Build Your Own 2D Game</a></td>
+        <td>Learn how to build your very own 2D Game in this workshop!</td>
+        <td>25 November 2022, 6:30pm-8:30pm</td>
+        <td>Zoom</td>
+      </tr>			
 			    </tbody>
   </table>
 </div>
