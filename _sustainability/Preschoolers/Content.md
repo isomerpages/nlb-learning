@@ -68,7 +68,7 @@ Explore our **learning packages** for fun facts and activities that show our lit
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=-h0ekOnqUh0"></iframe>
+				<div class="image"><a href="https://www.youtube.com/watch?v=-h0ekOnqUh0" target="_blank"><img src="/images/sustainability/Preschoolers/keep%20us%20safe.png" style="width:500px; text-align:left;"></a></div>
     </div>
   </div>
   <div class="col is-three-fifths">
