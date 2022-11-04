@@ -427,18 +427,22 @@ Why Do Apples Turn Brown?</b></a></h4>
 
 <p>The human body is a complex machine. The different parts of our body work together to do many amazing things. Let’s have some fun learning about the human body and how it functions! </p>
 
- <h4 id="lp-animals"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/allaboutanimals#lp-animals"><b>All About Animal Life Cycles</b></a></h4>
+ <h4 id="lp-animals"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/allaboutanimals#lp-animals"><b>All About Animals: Animal Life Cycles</b></a></h4>
  
 <img src="/images/science/preschoolers/animals%20grow.jpg" style="width:400px; text-align:centre;">
 
 <p>Every living thing goes through a life cycle and your child may start understanding that as they grow! Go on an investigative journey with them to learn about the growth, and development of both familiar and even unfamiliar animals! </p>
 
- <h4 id="lp-light"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/abcsofappliedphysicsforkids#lp-light"><b>Let There Be Light!</b></a></h4>
+ <h4 id="lp-light"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/abcsofappliedphysicsforkids#lp-light"><b>ABC’s of Applied Physics for Kids: Let There Be Light!</b></a></h4>
  
 <img src="/images/science/preschoolers/light.jpg" style="width:400px; text-align:centre;">
 
 <p>Light is made up of waves. These waves travel from light sources, bounce off objects and come to our eyes, allowing us to see things. Light sources come in many forms. Lamp posts help light up streets. Stadium lights help us watch a late sports match. Computer monitors and television screens emit light to display images. Light can also come from flames, not just electricity, like from the bonfire during camping. And of course, the biggest main source of light for us: the Sun!</p>
 
+ <h4 id="lp-potionsparty"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/abcsofappliedchemistryforkids/#lp-potionsparty"><b>ABC’s of Applied Chemistry for Kids: <br> Potions Party!</b></a></h4>
+ 
+<img src="/images/science/preschoolers/Jade%20-%20budding%20scientists%20potions%20party.gif" style="width:400px; text-align:centre;">
 
+<p>Acids and bases are present in the food that we eat and drink daily. Examples of acidic drinks are orange juice or vinegar, and they taste sour. Bases, like egg whites and baking soda, taste bitter. <br><br> Scientists use a pH scale, ranging from 0 to 14, to measure how acidic and basic a substance is. Do you know that we can make our own pH indicator in the comfort of our homes? Check it out! </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

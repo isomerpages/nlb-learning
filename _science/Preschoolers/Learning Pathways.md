@@ -52,7 +52,7 @@ It's Time to Learn about Time!</b></a><img src="/images/Time%20to%20Learn%20Abou
         <td> </td>
       </tr>
       <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/allaboutanimals#lp-marineanimals" target="_blank"><b> All About Animals – Let’s Learn about Marine Animals
+        <td><a href="https://childrenandteens.nlb.gov.sg/allaboutanimals#lp-marineanimals" target="_blank"><b> All About Animals: Let’s Learn about Marine Animals
  </b></a><img src="/images/science/preschoolers/ocean%20and%20marine%20animals.png" style="width:400px; text-align:left;"></td>
         <td> The ocean is home to thousands of different marine animals, such as clownfishes, sharks, whales, dolphins and many more.
 In addition, they come in all shapes and sizes, and have developed special features that enable them to survive underwater. Ever wondered what is the living habitat like for these marine animals? Let’s read on to find out more!
@@ -105,7 +105,7 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
         <td> </td>
       </tr>
 		  <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/allaboutanimals#lp-animals" target="_blank"><b>All About Animal Life Cycles
+        <td><a href="https://childrenandteens.nlb.gov.sg/allaboutanimals#lp-animals" target="_blank"><b>All About Animals: Animal Life Cycles
  </b></a><img src="/images/science/preschoolers/animals%20grow.jpg" style="width:400px; text-align:left;"></td>
         <td> Every living thing goes through a life cycle and your child may start understanding that as they grow! Go on an investigative journey with them to learn about the growth, and development of both familiar and even unfamiliar animals!
  </td>
@@ -113,9 +113,20 @@ src="/images/science/preschoolers/apples%20learnx.png" style="width:400px; text-
         <td> </td>
       </tr>
 		  <tr>
-        <td><a href="https://childrenandteens.nlb.gov.sg/abcsofappliedphysicsforkids#lp-light" target="_blank"><b> Let There Be Light!
+        <td><a href="https://childrenandteens.nlb.gov.sg/abcsofappliedphysicsforkids#lp-light" target="_blank"><b> ABC’s of Applied Physics for Kids: Let There Be Light!
  </b></a><img src="/images/science/preschoolers/light.jpg" style="width:400px; text-align:left;"></td>
         <td> Light is made up of waves. These waves travel from light sources, bounce off objects and come to our eyes, allowing us to see things. Light sources come in many forms. Lamp posts help light up streets. Stadium lights help us watch a late sports match. Computer monitors and television screens emit light to display images. Light can also come from flames, not just electricity, like from the bonfire during camping. And of course, the biggest main source of light for us: the Sun!
+ </td>
+        <td></td>
+        <td> </td>
+      </tr>
+		 <tr>
+        <td><a href="https://childrenandteens.nlb.gov.sg/abcsofappliedchemistryforkids/#lp-potionsparty" target="_blank"><b> ABC’s of Applied Chemistry: 
+<br> Potions Party!
+ </b></a><img src="/images/science/preschoolers/Jade%20-%20budding%20scientists%20potions%20party.gif" style="width:400px; text-align:left;"></td>
+        <td> Acids and bases are present in the food that we eat and drink daily. Examples of acidic drinks are orange juice or vinegar, and they taste sour. Bases, like egg whites and baking soda, taste bitter.
+<br>
+Scientists use a pH scale, ranging from 0 to 14, to measure how acidic and basic a substance is. Do you know that we can make our own pH indicator in the comfort of our homes? Check it out!
  </td>
         <td></td>
         <td> </td>
