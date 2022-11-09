@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /singapore/Adults/programmes
+permalink: /singapore/Adults/programmes/
 description: ""
 third_nav_title: Adults
 ---
@@ -68,16 +68,6 @@ A moderated series driven by an intent to bridge the distance between academic r
 Join the first discussion titled "Singlish - A Badge of Singaporean Identity or an Enduring Virus?" on 2 March 2022, 6:30pm. Register [here](https://www.eventbrite.sg/e/languages-of-singapore-singlish-tickets-269407955447?aff=ebdsoporgprofile){:target="_blank"}.
 
 
-## **New Light on an Old Tale**
-This year marks the 80th anniversary of the Fall of Singapore. Visit this special exhibition, New Light on an Old Tale, that runs from 15 February to 30 Jun 2022 at the National Archives of Singapore, Level 3 
-Atrium.
-
-Learn more:[ https://go.gov.sg/nlot]( https://go.gov.sg/nlot){:target="_blank"}
-
-Register now: [https://go.gov.sg/nlot-prog](https://go.gov.sg/nlot-prog){:target="_blank"}
-
-![](/images/singapore-japanese-occupation/NAS%20New%20light%20on%20an%20old%20tale%20exhibition.jpg)
-
 ## **Sport in Syonan: Triumph Over Despair**
 To mark the 80th anniversary of the Fall of Singapore, SportSG put up an online exhibition, Sport in Syonan: 
 Triumph Over Despair. 
@@ -85,4 +75,3 @@ Triumph Over Despair.
 Visit: [https://go.gov.sg/sport-in-syonan](https://go.gov.sg/sport-in-syonan){:target="_blank"} to view the digital exhibition.
 
 ![](/images/singapore-japanese-occupation/Sport%20in%20Syonan%20poster.png)
-
