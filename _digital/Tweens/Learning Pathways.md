@@ -88,7 +88,7 @@ Spark your child’s curiosity in digital literacy through engaging activities a
 <td>25 November 2022,<br>3pm - 4pm</td>
 <td>library@harbourfront, Programme Room 2</td>
 </tr>
-			<tr><td><a href="https://www.eventbrite.sg/cc/programmes-on-digital-66199f" target="_blank"><b>Coding in Minecraft with Computhink | Budding Coders</b></a></td>
+			<tr><td><a href="https://www.eventbrite.sg/cc/programmes-on-digital-66199?aff=odclrlmctfte" target="_blank"><b>Coding in Minecraft with Computhink | Budding Coders</b></a></td>
 <td>This workshop will use Minecraft: Education Edition to guide youths through the basics of coding, and show them how to combine play and learning!</td>
 <td>10 December 2022,<br>1.30pm - 5.30pm</td>
 <td>National Library Building, Possibility Room</td>
