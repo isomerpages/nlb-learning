@@ -78,15 +78,15 @@ Spark your child’s curiosity in digital literacy through engaging activities a
 <td>23 November 2022,<br>3pm - 4pm</td>
 <td>Sengkang Public Library, Programme Zone</td>
 </tr>
-			<tr><td><a href="https://www.eventbrite.sg/e/are-you-ready-with-science-centre-singapore-woodlands-regional-library-tickets-435567553277?afff" target="_blank"><b>ARe you ready? with Science Centre Singapore @ Woodlands Regional Library</b></a></td>
+			<tr><td><a href="https://www.eventbrite.sg/e/are-you-ready-with-science-centre-singapore-woodlands-regional-library-tickets-435567553277?aff" target="_blank"><b>ARe you ready? with Science Centre Singapore @ Woodlands Regional Library</b></a></td>
 <td>Calling all children aged 10 – 13! Let’s learn how to use AR and bring a book to life!</td>
 <td>24 November 2022,<br>3pm - 4pm</td>
 <td>Woodlands Regional Library, Programme Zone</td>
 </tr>
-			<tr><td><a href="https://www.eventbrite.sg/e/are-you-ready-with-science-centre-singapore-woodlands-regional-library-tickets-435567553277?afff" target="_blank"><b>ARe you ready? with Science Centre Singapore @ Woodlands Regional Library</b></a></td>
+			<tr><td><a href="https://www.eventbrite.sg/e/are-you-ready-with-science-centre-singapore-libraryharbourfront-tickets-435568435917?aff" target="_blank"><b>ARe you ready? with Science Centre Singapore @ library@harbourfront</b></a></td>
 <td>Calling all children aged 10 – 13! Let’s learn how to use AR and bring a book to life!</td>
-<td>24 November 2022,<br>3pm - 4pm</td>
-<td>Woodlands Regional Library, Programme Zone</td>
+<td>25 November 2022,<br>3pm - 4pm</td>
+<td>library@harbourfront, Programme Zone 2</td>
 </tr>
 			</tbody>
   </table>
