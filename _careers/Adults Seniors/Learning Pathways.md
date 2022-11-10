@@ -75,12 +75,7 @@ When it comes to a fulfilling career, there’s no one-size-fits-all answer for 
         <td>Details available at WSG's website</td>
         <td></td>
 			</tr>
-			<tr>
-				<td><a href="https://wsg-careergrit.glideapp.io/dl/1e2505/s/ea1b9a/r/OAK3-C1DTJOJYUh.N5m2nA/s/d58d37/r/3LGOxu97SbqdOICjcw7Q3g?utm_source=Workipedia&utm_medium=PhysicalEventListings&utm_campaign=Referral&full=t" target="_blank"><b>Workforce Singapore</b><br/>Walk-in Interviews</a></td>
-        <td>Walk-in to the library and interview on the spot for Logistics Roles!</td>
-        <td>11 Oct<br/>12-5pm</td>
-        <td>Jurong Regional Library<br/>Programme Zone</td>
-			</tr>
+			
     </tbody>
   </table>
 </div>
@@ -264,16 +259,16 @@ SkillsFuture credits</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 			  <tr>
-        <td><a href="https://www.eventbrite.sg/e/life-communication-skills-toastmasters-october-chapter-meeting-registration-4139027532777" target="_blank"><b>Learning Community</b><br>LCS Toastmasters</a></td>
+        <td><a href="https://www.eventbrite.sg/e/life-communication-skills-toastmasters-november-chapter-meeting-tickets-458201411757" target="_blank"><b>Learning Community</b><br>LCS Toastmasters</a></td>
         <td>Life Communication Skills (LCS) Toastmasters Club<br/>Communication is an essential tool. Learn ways to improve your communication style in a friendly environment.</td>
-        <td>12 Oct<br/>6.45-8.30pm</td>
-        <td>Toa Payoh Public Library Programme Zone</td>
+        <td>16 Nov<br/>6.45-8.30pm</td>
+        <td>Bishan Public Library Programme Zone</td>
       </tr>
 			 <tr>
-        <td><a href="https://www.eventbrite.sg/e/learning-day-october-2022-tickets-42321307068" target="_blank"><b>Event</b><br>Learning Day</a></td>
+        <td><a href="https://www.eventbrite.sg/e/learning-day-nov-2022-registration-432427360877" target="_blank"><b>Learning Community</b><br>Learning Day</a></td>
         <td>Learning Day is a gathering in which folks teach and learn something, anything, from each other!</td>
-        <td>22 Oct<br/>2-5pm</td>
-        <td>Bishan Public Library Programme Zone</td>
+        <td>26 Nov<br/>2-5pm</td>
+        <td>Serangoon Public Library Programme Zone</td>
       </tr>
     </tbody>
   </table>
