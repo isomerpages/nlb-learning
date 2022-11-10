@@ -83,16 +83,34 @@ Go digital with your child and discover a world of technology and innovation tog
     </thead>
 <tbody>
 <tr>
-<td><a href="https://www.eventbrite.sg/d/singapore--singapore/%23cckpl_unplugged/" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
+<td><a href="https://www.eventbrite.sg/cc/programmes-for-children-66139" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
 <td>Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
 <td>1st Friday of the month,<br> 3pm - 5pm</td>
 <td>Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
 </tr>
-	<tr>
-<td style="width: 20%;"><a href="https://www.eventbrite.sg/d/singapore--singapore/%23717sustainability/" target="_blank"><b>From Seeds to Harvest @ Bishan Public Library</b></a></td>
-<td style="width: 40%;">Learn about the process of farming with a guided exhibit tour and activities.</td>
-<td style="width: 20%;">8 October 2022, 10.30am - 12pm<br><br>5 November 2022, 10.30am - 12pm</td>
-<td style="width: 20%;">Bishan Public Library - Outdoor Garden (B1)</td>
+			<tr>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/introducing-your-imaginary-friend-children-write-tickets-441497710537?aff" target="_blank"><b>Introducing… Your Imaginary Friend! | Children Write</b></a></td>
+<td style="width: 40%;">Let your imagination run wild and create your very own story! This programme is part of the Children Write series, where children aged 7 to 12 create a piece of writing and/or illustrative work as guided by established authors and/or illustrators.</td>
+<td style="width: 20%;">23 November 2022,<br> 2pm - 3.30pm</td>
+<td style="width: 20%;">Jurong Regional Library, Programme Zone</td>
+</tr>
+			<tr>
+<td><a href="https://www.eventbrite.sg/e/see-hear-feel-imagine-wordplay-tickets-461572043407?aff" target="_blank"><b>See, hear, feel… Imagine! | WordPlay</b></a></td>
+<td>Join us at WordPlay, a series of reading-related workshops for the school holidays! This programme is suitable for children aged 9-12.</td>
+<td>23 November 2022,<br> 2.30pm - 3.45pm</td>
+<td>library@harbourfront, Programme Room 2</td>
+</tr>
+				<tr>
+<td><a href="https://www.eventbrite.sg/e/urban-farm-learning-journey-tickets-424908251017?aff" target="_blank"><b>Urban Farm Learning Journey</b></a></td>
+<td>Get a first-hand, onsite experience on how nutritious and affordable vegetables are grown with the help of technology! This programme is for children aged 7 years and above, and parents/caregivers are needed to accompany their children for this learning journey.</td>
+<td>9 December 2022,<br>9.30am - 11.30am</td>
+<td>Bishan Public Library</td>
+</tr>
+			<tr>
+<td><a href="https://www.eventbrite.sg/cc/book-bugs-rescuers-community-day-1310889" target="_blank"><b>Book Bugs Rescuers: Community Day</b></a></td>
+<td>Join fellow Rescuers at the Book Bugs Community Day events during the school holidays! For more information on the happenings during Book Bugs Community Day, visit <a href="https://www.go.gov.sg/bookbugs-commday" target="_blank">www.go.gov.sg/bookbugs-commday.</td>
+<td>Nov - Dec 2022</td>
+<td>Multiple Public Libraries</td>
 </tr>
 </tbody>
 </table>
