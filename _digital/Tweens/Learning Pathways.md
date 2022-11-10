@@ -112,6 +112,12 @@ Spark your child’s curiosity in digital literacy through engaging activities a
 <td>1st Friday of the month,<br> 3pm - 5pm</td>
 <td>Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
 </tr>
+			<tr>
+<td><a href="https://www.eventbrite.sg/e/introducing-your-imaginary-friend-children-write-tickets-441497710537?aff" target="_blank"><b>Introducing… Your Imaginary Friend! | Children Write</b></a></td>
+<td>Let your imagination run wild and create your very own story!</td>
+<td>23 November 2022,<br> 2pm - 3.30pm</td>
+<td>Jurong Regional Library, Programme Zone</td>
+</tr>
     </tbody>
   </table>
 </div>
