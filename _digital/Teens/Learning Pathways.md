@@ -84,22 +84,17 @@ Check out these resources that highlight new digital advancements and opportunit
     </thead>
     <tbody>
     	<tr>
-<td><a href="https://www.eventbrite.sg/d/singapore--singapore/%23cckpl_unplugged/" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
+<td><a href="https://www.eventbrite.sg/cc/programmes-for-children-66139" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
 <td>Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
 <td>1st Friday of the month,<br> 3pm - 5pm</td>
 <td>Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
 </tr>
-					<tr>
-<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/turning-egg-shells-into-toothpaste-with-nyp-tampines-regional-library-tickets-411740465817" target="\_blank"><b>Turning Egg Shells into Toothpaste with NYP @ Tampines Regional Library</b></a></td>
-<td style="width: 40%;">Repurpose eggshells to make your own toothpaste!</td>
-<td style="width: 20%;">9 October 2022, 2pm - 4.30pm</td>
-<td style="width: 20%;">Tampines Regional Library, Culinary Studio (Level 2)</td>
-</tr>  <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087" target="\_blank"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
-        <td style="width: 40%;">Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG.</td>
-        <td style="width: 20%;">22 October 2022, 1pm - 5pm</td>
-				<td style="width: 20%;">Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4) </td>
-			</tr>
+			<tr>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/introducing-your-imaginary-friend-children-write-tickets-441497710537?aff" target="_blank"><b>Introducing… Your Imaginary Friend! | Children Write</b></a></td>
+<td style="width: 40%;">Let your imagination run wild and create your very own story! This programme is part of the Children Write series, where children aged 7 to 12 create a piece of writing and/or illustrative work as guided by established authors and/or illustrators.</td>
+<td style="width: 20%;">23 November 2022,<br> 2pm - 3.30pm</td>
+<td style="width: 20%;">Jurong Regional Library, Programme Zone</td>
+</tr>
     </tbody>
   </table>
 </div>
