@@ -108,7 +108,7 @@ Go digital with your child and discover a world of technology and innovation tog
 </tr>
 			<tr>
 <td><a href="https://www.eventbrite.sg/cc/book-bugs-rescuers-community-day-1310889" target="_blank"><b>Book Bugs Rescuers: Community Day</b></a></td>
-<td>Join fellow Rescuers at the Book Bugs Community Day events during the school holidays! For more information on the happenings during Book Bugs Community Day, visit <a href="https://www.go.gov.sg/bookbugs-commday" target="_blank">www.go.gov.sg/bookbugs-commday.</td>
+<td>Join fellow Rescuers at the Book Bugs Community Day events during the school holidays! For more information on the happenings during Book Bugs Community Day, visit <a href="https://www.go.gov.sg/bookbugs-commday" target="_blank">www.go.gov.sg/bookbugs-commday.</a></td>
 <td>Nov - Dec 2022</td>
 <td>Multiple Public Libraries</td>
 </tr>
