@@ -86,7 +86,7 @@ Spark your child’s curiosity in digital literacy through engaging activities a
 			<tr><td><a href="https://www.eventbrite.sg/e/are-you-ready-with-science-centre-singapore-libraryharbourfront-tickets-435568435917?aff" target="_blank"><b>ARe you ready? with Science Centre Singapore @ library@harbourfront</b></a></td>
 <td>Calling all children aged 10 – 13! Let’s learn how to use AR and bring a book to life!</td>
 <td>25 November 2022,<br>3pm - 4pm</td>
-<td>library@harbourfront, Programme Zone 2</td>
+<td>library@harbourfront, Programme Room 2</td>
 </tr>
 			<tr><td><a href="https://www.eventbrite.sg/cc/programmes-on-digital-66199f" target="_blank"><b>Coding in Minecraft with Computhink | Budding Coders</b></a></td>
 <td>This workshop will use Minecraft: Education Edition to guide youths through the basics of coding, and show them how to combine play and learning!</td>
@@ -114,9 +114,15 @@ Spark your child’s curiosity in digital literacy through engaging activities a
 </tr>
 			<tr>
 <td><a href="https://www.eventbrite.sg/e/introducing-your-imaginary-friend-children-write-tickets-441497710537?aff" target="_blank"><b>Introducing… Your Imaginary Friend! | Children Write</b></a></td>
-<td>Let your imagination run wild and create your very own story!</td>
+<td>Let your imagination run wild and create your very own story! This programme is part of the Children Write series, where children aged 7 to 12 create a piece of writing and/or illustrative work as guided by established authors and/or illustrators.</td>
 <td>23 November 2022,<br> 2pm - 3.30pm</td>
 <td>Jurong Regional Library, Programme Zone</td>
+</tr>
+			<tr>
+<td><a href="https://www.eventbrite.sg/e/see-hear-feel-imagine-wordplay-tickets-461572043407?afff" target="_blank"><b>See, hear, feel… Imagine! | WordPlay</b></a></td>
+<td>Join us at WordPlay, a series of reading-related workshops for the school holidays! This programme is suitable for children aged 9-12.</td>
+<td>23 November 2022,<br> 2.30pm - 3.45pm</td>
+<td>library@harbourfront, Programme Room 2</td>
 </tr>
     </tbody>
   </table>
