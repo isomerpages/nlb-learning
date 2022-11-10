@@ -88,6 +88,11 @@ Spark your child’s curiosity in digital literacy through engaging activities a
 <td>25 November 2022,<br>3pm - 4pm</td>
 <td>library@harbourfront, Programme Zone 2</td>
 </tr>
+			<tr><td><a href="https://www.eventbrite.sg/cc/programmes-on-digital-66199f" target="_blank"><b>Coding in Minecraft with Computhink | Budding Coders</b></a></td>
+<td>This workshop will use Minecraft: Education Edition to guide youths through the basics of coding, and show them how to combine play and learning!</td>
+<td>10 December 2022,<br>1.30pm - 5.30pm</td>
+<td>National Library Building, Possibility Room</td>
+</tr>
 			</tbody>
   </table>
 </div>
@@ -102,16 +107,10 @@ Spark your child’s curiosity in digital literacy through engaging activities a
     <tbody>
            
 <tr>
-<td><a href="https://www.eventbrite.sg/d/singapore--singapore/%23cckpl_unplugged/" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
+<td><a href="https://www.eventbrite.sg/cc/programmes-for-children-66139" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
 <td>Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
 <td>1st Friday of the month,<br> 3pm - 5pm</td>
 <td>Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
-</tr><tr>
-<td>
-	<a href="https://www.eventbrite.sg/e/the-perfect-balance-tweenkerama-sengkang-public-library-tickets-411737988407" target="\_blank"><b>The Perfect Balance | Tweenkerama @ Sengkang Public Library</b></a></td>
-<td>Join us for a fun-filled workshop to learn about balanced forces and gravity.</td>
-<td>7 October 2022, 2pm - 4pm</td>
-<td>Sengkang Public Library, Programme Zone</td>
 </tr>
     </tbody>
   </table>
