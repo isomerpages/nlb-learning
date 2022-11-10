@@ -71,16 +71,7 @@ Go digital with your child and discover a world of technology and innovation tog
         <td style="width: 20%;"></td>
 		<td style="width: 20%;"></td>
       </tr>
-		<tr>
-      <td style="width: 20%;">
-				<a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627" target="_blank"><b>How to be a Cyber Safe Family with Cyberlite Books @ library@harbourfront</b></a><br>
-				</td>
-         <td style="width: 40%;">Should we control our children’s screen time? What do we do if a child is cyberbullied? Join us to learn about family cyber safety!</td>
-        <td style="width: 20%;">2 October 2022, 11.30am - 12.30pm</td>
-        <td style="width: 20%;">library@harbourfront, Programme Zone 2</td>
-			</tr>
-	
-</tbody>
+		</tbody>
 </table>
 </div>
 <div class="horizontal-scroll margin--bottom--lg">
@@ -102,13 +93,6 @@ Go digital with your child and discover a world of technology and innovation tog
 <td style="width: 40%;">Learn about the process of farming with a guided exhibit tour and activities.</td>
 <td style="width: 20%;">8 October 2022, 10.30am - 12pm<br><br>5 November 2022, 10.30am - 12pm</td>
 <td style="width: 20%;">Bishan Public Library - Outdoor Garden (B1)</td>
-</tr>
-
-<tr>
-<td><a href="https://www.eventbrite.sg/e/chairs-by-queensway-secondary-drama-club-registration-411113450397" target="_blank"><b>Chairs by Queensway Secondary Drama Club</b></a></td>
-<td>Chairs is a student-led performance by Secondary 3 students from the Queensway Secondary School Drama Club.</td>
-<td>29 October 2022, 11am - 11.30am</td>
-<td>Queenstown Public Library, Programme Zone (L1)</td>
 </tr>
 </tbody>
 </table>
