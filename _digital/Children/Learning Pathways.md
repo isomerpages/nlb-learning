@@ -83,9 +83,9 @@ Go digital with your child and discover a world of technology and innovation tog
     </thead>
 <tbody>
 <tr>
-<td><a href="https://www.eventbrite.sg/cc/programmes-for-children-66139" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
+<td><a href="https://www.eventbrite.sg/e/cckpl-unplugged-tickets-435571324557?aff=ebdssbdestsearch" target="_blank"><b>CCKPL: Unplugged</b></a></td>
 <td>Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
-<td>1st Friday of the month,<br> 3pm - 5pm</td>
+<td>18 November 2022,<br>3pm - 5pm</td>
 <td>Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
 </tr>
 			<tr>
