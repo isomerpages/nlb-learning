@@ -376,4 +376,47 @@ a. When viewing the bottle from the side directly opposite your torch light, wha
 
 a. Can you replace the milk with other substances (e.g., different flavours of milk, juice, carbonated drinks, soap, detergent, etc.) and still get the same results? What do all these substances have in common?
 
+**Science Time!**
+
+|<img src="/images/science/Teens/image023.jpg" alt="Bottle" style="width: 50%;" align="left"></a>|<img src="/images/science/Teens/image021.jpg" alt="Bottle" style="width: 50%;" align="left"></a>|
+
+Did you see a “sunset” in your bottle? With only water in your bottle, you should see a colourless solution with a beam of white light passing through. When you add milk to the water, you should see some colour changes of light when viewing the milk-water mixture from the side and from the top. Can you figure out why?
+![](/images/science/Teens/visible%20light.png)
+Source: Maths. Siyavula. (n.d.). Retrieved July 1, 2022, from https://www.siyavula.com/read/science/grade-8/visible-light/12-visible-light?id=toc-id-4
+
+The majority of light that reaches Earth from the sun is white light. White light is a combination of many colours of light, which can be seen in a rainbow when white light is separated into its individual colours by raindrops (as illustrated by the diagram above).
+![](/images/science/Teens/light%20colours.png)
+ Source: Colours of light. Science Learning Hub. (n.d.). Retrieved July 1, 2022, from https://www.sciencelearn.org.nz/resources/47-colours-of-light<br>
+ 
+As seen in the diagram above, each colour is characterised by a certain wavelength. Wavelengths of blue light are shorter and have more energy, while wavelengths of red light are longer with less energy. When light waves hit an object, they can be 1) reflected; 2) absorbed; or 3) scattered and deflected to a different direction.
+
+Why is the sky blue even though most of the light that reaches Earth is white light? This is due to Rayleigh scattering the diagram above).
+![](/images/science/Teens/rayleigh.png)
+Source: Solar Power and Rayleigh Scattering - FXSolver. RSS. (2015, August 26). Retrieved July 1, 2022, from https://www.fxsolver.com/blog/2015/08/26/solar-power-and-rayleigh-scattering/
+
+The white light that reaches Earth interacts with gas molecules in the atmosphere (e.g. nitrogen and oxygen) and is scattered in all directions. However, not all wavelengths of light are scattered the same way. Shorter wavelengths, like blue light, are scattered much more than longer wavelengths in all directions. The scattered blue light is what we see and this is what makes the sky look blue! 
+
+![](/images/science/Teens/bluesky.png)
+
+At sunset, due to the position of the sun, sunlight has to pass through a greater distance in the atmosphere to reach your eyes. This gives the blue light more time to scatter and a lot more blue light gets scattered away through the atmosphere. 
+
+The remaining wavelengths of light that you see are now longer wavelengths that are less scattered, such as orange and red. Small particles in the air enhance the scattering effect, which is why on hazy days, the sunsets appear even redder!
+
+![](/images/science/Teens/orangesky.jpg)
+Source: Zakiyah Zakariah
+
+Can you now explain the colours you saw in your milk-water mixture? Milk is an emulsion, which means it consists of tiny insoluble fat particles dispersed in the mixture.
+![](/images/science/Teens/emulsion.png)
+Source: Vanstone, E. (2022, May 6). What is an emulsion? Science Experiments for Kids. Retrieved July 1, 2022, from https://www.science-sparks.com/what-is-an-emulsion/
+
+When you point your torch light at the milk-water mixture, the light waves interact with the fat particles in the mixture and get scattered - the same way sunlight gets scattered by gas molecules in the atmosphere! 
+
+As blue light gets scattered most, your solution should have appeared slightly blue. Shining light from the top through the solution increases the distance the light waves have to travel through the mixture. That means that blue light can be scattered away even more throughout the solution. This is why at the bottom of the bottle, there is almost no blue light left anymore and it looks yellow or orange. 
+
+![](/images/science/Teens/milk.png)
+
+As you add more drops of milk, almost all the blue light is scattered away by the particles in the mixture. This is why the colour of the light you see through the mixture becomes orange, just like a sunset!
+![](/images/science/Teens/sunset.jpg)
+Source: Zakiyah Zakariah
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
