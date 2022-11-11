@@ -418,6 +418,7 @@ As blue light gets scattered most, your solution should have appeared slightly b
 
 
 As you add more drops of milk, almost all the blue light is scattered away by the particles in the mixture. This is why the colour of the light you see through the mixture becomes orange, just like a sunset!
+
 ![](/images/science/Teens/sunset.jpg)
 Source: Zakiyah Zakariah
 
