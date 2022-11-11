@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /sustainability/adults-seniors/programmes
+permalink: /sustainability/adults-seniors/programmes/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -35,7 +35,9 @@ Held on a bi-monthly basis, these talks seek to better your knowledge about Sust
 
 All talks are listed on Eventbrite and suitable for adults and seniors.    
 
-Click [here] (https://www.eventbrite.sg/cc/programmes-on-sustainability-66229) {:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+
+
 
 ## **Garden Talks by NParks**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-01.jpg)

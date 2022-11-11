@@ -1,6 +1,6 @@
 ---
 title: Content on Japanese Occupation
-permalink: /singapore/Adults/content-japanese-occupation
+permalink: /singapore/Adults/content-japanese-occupation/
 description: ""
 third_nav_title: Adults
 ---
@@ -45,7 +45,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#japanese-occupation">
-        <span>Playlist:<br>Fall of the Gilbraltar of the East</span>
+        <span>Playlist:<br>Fall of the Gibraltar of the East</span>
       </a>
     </div>
   </div>	
