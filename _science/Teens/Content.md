@@ -323,4 +323,37 @@ Have you seen the light and water show at Marina Bay? How does it work?
 	![](/images/science/mbs.png)
 	Source: Spectra – a light and water show. Spectra – A Light and Water Show. (n.d.). Retrieved July 1, 2022, from https://www.marinabaysands.com/guides/around-mbs/light-and-sound-show.html
 	
+**Activity 2. Sunset in a Bottle**
+![](/images/science/Teens/sunset%20bottle.png)
+	
+In the previous activity, we learned that light travels in a straight line. Now, let’s find out how light can scatter by making your very own sunset in a bottle!  
+
+
+Materials 
+
+* 1 Clear bottle/glass with smooth surface (at least 25cm tall) 
+
+* Water (enough to fill bottle/glass) 
+
+* ¼ cup of milk  
+
+* 1 Dropper/teaspoon 
+
+* 1 Chopstick 
+
+* 1 Torch light that emits white light 
+
+**Steps and Questions** 
+
+Fill your bottle all the way with tap water. 
+
+In a dark room, shine your torch light through the water from the top of the bottle and from the side of the bottle. 
+
+When you look at the bottle from the front, what is the colour of the water?  
+
+What is the colour of the light travelling through the water?  
+
+Add milk to the water one drop at a time using your dropper/teaspoon. Stir after each drop with your chopstick, while shining the torch light through the mixture from the top. 
+
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
