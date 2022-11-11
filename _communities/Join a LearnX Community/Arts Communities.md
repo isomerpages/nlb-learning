@@ -154,6 +154,6 @@ For those aged 50 years and above. These sessions will be conducted in English a
 			<h5 class="margin--top--sm margin--bottom--sm"><b>Toy Photography Club</b></h5>
       <p class="margin--top--sm margin--bottom--sm"> Have you ever heard of Toy photography? Toy photography is the art of storytelling using toys as the subjects. Club members will share their skills and techniques in creating the perfect shot with dioramas in this indoor photography session. Members are to bring their own cameras and toys to the session.<br><br>
 For Adults, conducted once every 2 months in English at Bishan Public Library. </p>
-      <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
+			<p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
     </div>
   </div>
