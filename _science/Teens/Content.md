@@ -259,7 +259,7 @@ Done by: National Institute of Education Group Endeavours in Service Learning Gr
 **Introduction** <br>
 How do we see things around us? Light! Let us watch a video that will teach us more about light.
 
-[<img src="/images/science/light dr binocs.png" alt="youtube" style="width: 100%" align="left">](https://www.youtube.com/watch?v=d7yTlp4gBTI)
+[<img src="/images/science/Teens/light dr binocs.png" alt="youtube" style="width: 100%" align="left">](https://www.youtube.com/watch?v=d7yTlp4gBTI)
 Source: <a href="https://www.youtube.com/watch?v=d7yTlp4gBTI">Light | The Dr. Binocs Show | Learn Videos For Kids</a>
 
 Everything in life is dependent on light. Plants need light to carry out photosynthesis, while humans need natural light to help us produce Vitamin D and regulate our sleep patterns. Light also enables us to see the beauty of the world around us!
@@ -271,7 +271,7 @@ Source: Research guides: Photography: Writing in light: Home. Home - Photography
 Here are three fun activities below that you can carry out at home to explore more about light and its fascinating properties.
 
 **Activity 1. Visualising Laser Light with Water Mist**
-![](/images/science/the%20path%20of%20a%20laser.png)
+![](/images/science/Teens/the%20path%20of%20a%20laser.png)
 
 **Background** <br>
 Have you ever wondered how light travels? In this activity, let us observe light and how it travels through a water mist.
@@ -291,18 +291,18 @@ Materials
 1. Switch on the laser pointer and shine it at a blank surface (e.g. a wall) in front of you. (Be careful not to shine the laser pointer into your eyes or the eyes of those around you!) What do you observe?
 2. Fill up the spray bottle with water.
 3. Shine the laser pointer on the wall and get a friend to help to spray water using a spray bottle along the path taken by the laser.
-![](/images/science/image005.png)
+![](/images/science/Teens/image005.png)
 
 What do you notice this time?
 
 **Science Time!** <br>
 Did you observe this?
-[<img src="/images/science/laser wall.png" alt="Laser" style="width: 100%" align="left">](https://www.youtube.com/shorts/Eay2CgCi4sA?feature=shares/)
+[<img src="/images/science/Teens/laser wall.png" alt="Laser" style="width: 100%" align="left">](https://www.youtube.com/shorts/Eay2CgCi4sA?feature=shares/)
 <br>
 
 
 **Why are we only able to observe the laser as a dot on the wall but unable to see the beam of laser initially?**
-![](/images/science/observe%20laser.png)
+![](/images/science/Teens/observe%20laser.png)
 A unique property of lasers is that it is very collimated. This means that most of the photons (particles of light) are travelling mostly in the same direction. 
 
 In this case, most of the photons travel towards the direction of the wall (as seen by the red lines in the diagram above). Hence, very few photons travel to our eyes and we are therefore unable to observe the laser beam. 
@@ -311,7 +311,7 @@ Upon reaching the wall, photons get reflected off the surface of the wall and in
 
 **How does spraying the path taken by the laser allow us to see the laser beam?**
 
-![](/images/science/observe%20laser%202.png)
+![](/images/science/Teens/observe%20laser%202.png)
 
 
 When we spray the path taken by the laser with water, the water droplets (seen by the blue circles in the diagram) act as reflective surfaces. 
@@ -320,7 +320,7 @@ Hence, the photons that come from the laser beam are reflected off the water dro
 
 **Bonus Thinking Question**<br>
 Have you seen the light and water show at Marina Bay? How does it work?
-	![](/images/science/mbs.png)
+	![](/images/science/Teens/mbs.png)
 	Source: Spectra – a light and water show. Spectra – A Light and Water Show. (n.d.). Retrieved July 1, 2022, from https://www.marinabaysands.com/guides/around-mbs/light-and-sound-show.html
 	
 **Activity 2. Sunset in a Bottle**
@@ -345,15 +345,35 @@ Materials
 
 **Steps and Questions** 
 
-Fill your bottle all the way with tap water. 
+1. Fill your bottle all the way with tap water. 
 
-In a dark room, shine your torch light through the water from the top of the bottle and from the side of the bottle. 
+2. In a dark room, shine your torch light through the water from the top of the bottle and from the side of the bottle. 
 
-When you look at the bottle from the front, what is the colour of the water?  
+a. When you look at the bottle from the front, what is the colour of the water?  
 
-What is the colour of the light travelling through the water?  
+b. What is the colour of the light travelling through the water?  
 
-Add milk to the water one drop at a time using your dropper/teaspoon. Stir after each drop with your chopstick, while shining the torch light through the mixture from the top. 
+3. Add milk to the water one drop at a time using your dropper/teaspoon. Stir after each drop with your chopstick, while shining the torch light through the mixture from the top. 
+![](/images/science/Teens/image1.png)
 
+a.  When you look at the bottle from the front, what colour is the mixture? Is the colour of the mixture the same throughout, or is it different at the top compared to the bottom? Can you explain your observations?
+
+4.  Instead of shining the torch light from the top, now shine it from the side of your bottle.
+![](/images/science/Teens/image2.png)
+
+a. What changes do you observe when you shine the light from the side instead of from the top? <br>
+
+b. When viewing the bottle from the side directly opposite your torch light, what is the colour of the light travelling through the mixture?
+<br>
+
+5. Keep adding drops of milk while shining the torch light from the side. Observe what happens to the colour of light travelling through the mixture. <br>
+
+a. When viewing the bottle from the side directly opposite your torch light, what is the colour of the light travelling through the mixture?
+
+**Bonus:**
+
+6. Try different solutions from your kitchen!<br>
+
+a. Can you replace the milk with other substances (e.g., different flavours of milk, juice, carbonated drinks, soap, detergent, etc.) and still get the same results? What do all these substances have in common?
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
