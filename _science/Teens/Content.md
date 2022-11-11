@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /science/Teens/content
+permalink: /science/Teens/content/
 description: ""
 third_nav_title: Teens
 ---
@@ -252,5 +252,76 @@ Only available as an eBook on <a href="https://nlb.overdrive.com/library/kids/me
 <p>The book covers and synopses are the copyright of the respective publishing companies.
 (All websites were last accessed on 15 March 2022.)</p>
 
+<h5 id="resource-package-light" class="margin--bottom--lg"><b> Learning Package: Light </b></h5>
+
+Done by: National Institute of Education Group Endeavours in Service Learning Group 10 (Sec/JC 2022) Dora Tay Hui Xuan, Jerine Lim Shu Ting, Ke Shiyao, Wong Chong Tuck, Yap Hui Hian Jane 
+
+**Introduction** <br>
+How do we see things around us? Light! Let us watch a video that will teach us more about light.
+
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/d7yTlp4gBTI" height="315" width="560"></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=d7yTlp4gBTI">Light | The Dr. Binocs Show | Learn Videos For Kids</a>
+
+Everything in life is dependent on light. Plants need light to carry out photosynthesis, while humans need natural light to help us produce Vitamin D and regulate our sleep patterns. Light also enables us to see the beauty of the world around us!
+
+Fun fact: Do you know the word ‘photograph’ evolved from the ancient Greek words ‘phot-’ which means ‘light’ and ‘graph-’ which means writing? So essentially, the word ‘photograph’ means writing with light!
+
+Source: Research guides: Photography: Writing in light: Home. Home - Photography: Writing in Light - Research Guides at Pima Community College. (n.d.). Retrieved July 1, 2022, from https://libguides.pima.edu/photography-writing-in-light
+
+Here are three fun activities below that you can carry out at home to explore more about light and its fascinating properties.
+
+**Activity 1. Visualising Laser Light with Water Mist**
+![](/images/science/the%20path%20of%20a%20laser.png)
+
+**Background** <br>
+Have you ever wondered how light travels? In this activity, let us observe light and how it travels through a water mist.
+
+Suggested: If you are unable to find the materials needed at home, watch the video below and read more about the science behind it under ‘Science Time!’.
+
+Materials
+
+●      1 Laser pointer
+
+●      Water
+
+●      1 Spray bottle (e.g. empty hand sanitiser spray bottle)
+
+**Steps**
+
+1. Switch on the laser pointer and shine it at a blank surface (e.g. a wall) in front of you. (Be careful not to shine the laser pointer into your eyes or the eyes of those around you!) What do you observe?
+2. Fill up the spray bottle with water.
+3. Shine the laser pointer on the wall and get a friend to help to spray water using a spray bottle along the path taken by the laser.
+![](/images/science/image005.png)
+
+What do you notice this time?
+
+**Science Time!** <br>
+Did you observe this?
+[<img src="/images/science/laser wall.png" alt="Laser" style="width: 100%" align="left">](https://www.youtube.com/shorts/Eay2CgCi4sA?feature=shares/)
+<br>
+
+
+**Why are we only able to observe the laser as a dot on the wall but unable to see the beam of laser initially?**
+![](/images/science/observe%20laser.png)
+A unique property of lasers is that it is very collimated. This means that most of the photons (particles of light) are travelling mostly in the same direction. 
+
+In this case, most of the photons travel towards the direction of the wall (as seen by the red lines in the diagram above). Hence, very few photons travel to our eyes and we are therefore unable to observe the laser beam. 
+
+Upon reaching the wall, photons get reflected off the surface of the wall and into our eyes and appear as a dot.
+
+**How does spraying the path taken by the laser allow us to see the laser beam?**
+
+![](/images/science/observe%20laser%202.png)
+
+
+When we spray the path taken by the laser with water, the water droplets (seen by the blue circles in the diagram) act as reflective surfaces. 
+
+Hence, the photons that come from the laser beam are reflected off the water droplets and into our eyes, allowing us to see the laser beam. However, as the water droplets spread out away from the path taken by the laser, it loses its effect and we have to spray water on the laser path for us to observe the path again.
+
+**Bonus Thinking Question**<br>
+Have you seen the light and water show at Marina Bay? How does it work?
+	![](/images/science/mbs.png)
+	Source: Spectra – a light and water show. Spectra – A Light and Water Show. (n.d.). Retrieved July 1, 2022, from https://www.marinabaysands.com/guides/around-mbs/light-and-sound-show.html
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
