@@ -378,7 +378,7 @@ a. Can you replace the milk with other substances (e.g., different flavours of m
 
 **Science Time!**
 
-|<img src="/images/science/Teens/image023.jpg" alt="Bottle" style="width: 50%;" align="left"></a>|<img src="/images/science/Teens/image021.jpg" alt="Bottle" style="width: 50%;" align="left"></a>|
+|<img src="/images/science/Teens/image023.jpg" alt="Bottle" style="width: 50%;" align="left">|<img src="/images/science/Teens/image021.jpg" alt="Bottle" style="width: 50%;" align="left">|
 
 Did you see a “sunset” in your bottle? With only water in your bottle, you should see a colourless solution with a beam of white light passing through. When you add milk to the water, you should see some colour changes of light when viewing the milk-water mixture from the side and from the top. Can you figure out why?
 ![](/images/science/Teens/visible%20light.png)
@@ -406,14 +406,16 @@ The remaining wavelengths of light that you see are now longer wavelengths that 
 Source: Zakiyah Zakariah
 
 Can you now explain the colours you saw in your milk-water mixture? Milk is an emulsion, which means it consists of tiny insoluble fat particles dispersed in the mixture.
-![](/images/science/Teens/emulsion.png)
+
+<img src="/images/science/Teens/emulsion.png" alt="emulsion" style="width: 50%;">
 Source: Vanstone, E. (2022, May 6). What is an emulsion? Science Experiments for Kids. Retrieved July 1, 2022, from https://www.science-sparks.com/what-is-an-emulsion/
 
 When you point your torch light at the milk-water mixture, the light waves interact with the fat particles in the mixture and get scattered - the same way sunlight gets scattered by gas molecules in the atmosphere! 
 
-As blue light gets scattered most, your solution should have appeared slightly blue. Shining light from the top through the solution increases the distance the light waves have to travel through the mixture. That means that blue light can be scattered away even more throughout the solution. This is why at the bottom of the bottle, there is almost no blue light left anymore and it looks yellow or orange. 
+As blue light gets scattered most, your solution should have appeared slightly blue. Shining light from the top through the solution increases the distance the light waves have to travel through the mixture. That means that blue light can be scattered away even more throughout the solution. This is why at the bottom of the bottle, there is almost no blue light left anymore and it looks yellow or orange.
 
-![](/images/science/Teens/milk.png)
+<img src="/images/science/Teens/milk.png" alt="Bottle" style="width: 30%;">
+
 
 As you add more drops of milk, almost all the blue light is scattered away by the particles in the mixture. This is why the colour of the light you see through the mixture becomes orange, just like a sunset!
 ![](/images/science/Teens/sunset.jpg)
