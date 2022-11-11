@@ -259,8 +259,7 @@ Done by: National Institute of Education Group Endeavours in Service Learning Gr
 **Introduction** <br>
 How do we see things around us? Light! Let us watch a video that will teach us more about light.
 
-<div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/d7yTlp4gBTI" height="315" width="560"></iframe></div>
+[<img src="/images/science/light dr binocs.png" alt="youtube" style="width: 100%" align="left">](https://www.youtube.com/watch?v=d7yTlp4gBTI)
 Source: <a href="https://www.youtube.com/watch?v=d7yTlp4gBTI">Light | The Dr. Binocs Show | Learn Videos For Kids</a>
 
 Everything in life is dependent on light. Plants need light to carry out photosynthesis, while humans need natural light to help us produce Vitamin D and regulate our sleep patterns. Light also enables us to see the beauty of the world around us!
