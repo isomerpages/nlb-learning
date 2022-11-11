@@ -1,10 +1,9 @@
 ---
 title: Content on National Symbols
-permalink: /singapore/Adults/National-Symbols
+permalink: /singapore/Adults/National-Symbols/
 description: ""
 third_nav_title: Adults
 ---
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -54,7 +53,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
  <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-food-heritage">
-        <span>Learning Package: National Symbols: Building a Nation</span>
+        <span>Learning Package: National Symbols of Singapore: Building a Nation</span>
       </a>
     </div>
   </div>
