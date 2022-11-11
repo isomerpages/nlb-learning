@@ -89,12 +89,41 @@ Check out these resources that highlight new digital advancements and opportunit
 <td>1st Friday of the month,<br> 3pm - 5pm</td>
 <td>Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
 </tr>
+			 <tr>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-toa-payoh-public-library-tickets-435573541187?aff=odcleoeventsincollection"><b>Dungeons & Dragons w/The Legitimate Business @ Toa Payoh Public Library</b></a></td>
+        <td style="width: 40%;">Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG.</td>
+        <td style="width: 20%;">6 Nov 2022,
+<br>1.30pm – 5.30pm,</td>
+        <td style="width: 20%;">Toa Payoh Public Library Programme Zone</td>
+      </tr>
+					<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/the-pleasure-of-the-short-story-story-beings-tickets-443923315587?aff=odcleoeventsincollection"><b>The Pleasure of the Short Story | Story Beings</b></a></td>
+        <td>Elaine Chiew will introduce you to must-read short story from our region and examine the characteristics for a good short story.
+        </td><td>14 Nov 2022, <br>6pm – 7pm</td>
+        <td>Online</td>
+      </tr>
+<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/pro-series-zine-design-the-future-of-zines-libraryorchard-registration-409152735847?aff=ebdsoporgprofile"><b>[The Nocturnal Poet] Ode to The Night | Night at The Library
+</b></a></td>
+        <td> Join Jennifer Anne Champion, Jedidiah Huang, Mok Zining and Low Kian Seh for an Ode writing workshop with readings.
+	</td><td>18 Nov 2022, <br>
+7.30pm – 9.30pm
+	</td>
+        <td>National Library, The Pod</td>
+      </tr>
+<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087?aff=ebdsoporgprofile"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
+        <td> Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG. </td>
+	<td>26 Nov 2022, <br>1pm – 5pm</td>
+        <td>Choa Chu Kang Public Library Programme Zone</td>
+      </tr>
 			<tr>
-<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/introducing-your-imaginary-friend-children-write-tickets-441497710537?aff" target="_blank"><b>Introducing… Your Imaginary Friend! | Children Write</b></a></td>
-<td style="width: 40%;">Let your imagination run wild and create your very own story! This programme is part of the Children Write series, where children aged 7 to 12 create a piece of writing and/or illustrative work as guided by established authors and/or illustrators.</td>
-<td style="width: 20%;">23 November 2022,<br> 2pm - 3.30pm</td>
-<td style="width: 20%;">Jurong Regional Library, Programme Zone</td>
-</tr>
+	<td><b>News Journalism 101 | Teens Takeover | re:write </b><br><a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429092526297?aff=odcleoeventsincollection"><b>Session 1 </b><br></a>
+					<a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=odcleoeventsincollection"><b>Session 2 </b></a></td>
+	<td>Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.<br>
+        </td><td>10 Dec 2022, <br>2pm-3.30pm | <br>17 Dec 2022,<br>2pm-3.30pm</td>
+        <td>Serangoon Public Library, Programme Zone</td>
+      </tr>
     </tbody>
   </table>
 </div>
