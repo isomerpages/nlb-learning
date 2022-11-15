@@ -56,6 +56,27 @@ Be informed and make an impact to the environment.
   <table class="generic-table">
     <thead>
       <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
+      </tr>
+    </thead>
+    <tbody>
+				<tr>
+         <td style="width: 20%;"><a href="https://go.gov.sg/nlb-teensgreenhouse" target="_blank"><b>Teens Takeover | GREENHOUSE</b></a></td>
+        <td style="width: 40%;">A series of talks and workshops for teens to explore various green topics and projects.
+<br><br>
+Stay tuned for more updates.
+</td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
+			</tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
         <th colspan="4" class="is-uppercase has-weight-normal ">Discover other learning focus areas</th>
       </tr>
     </thead>
