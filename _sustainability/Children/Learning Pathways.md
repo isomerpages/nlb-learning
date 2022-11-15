@@ -61,11 +61,18 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 						<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/upcycled-decorations-with-sprout-up-clementi-public-library-tickets-435601264107?aff=ebdssbdestsearch" target="_blank"><b> Upcycled Decorations with Sprout Up! | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Let’s get creative and upcycle our daily trash. Turn empty tissue boxes into various decorations to beautify your home and contribute towards the zero waste effort at the same time.
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/urban-farm-learning-journey-tickets-424908251017?aff=odcleoeventsincollection" target="_blank"><b> Urban Farm Learning Journey</b></a></td>
+        <td style="width: 40%;">Get a first-hand, onsite experience on how nutritious and affordable vegetables are grown with the help of technology!<br><br>This programme is for children aged 7 years and above, and parents/caregivers are needed to accompany their children for this learning journey. Participants are required to meet at <b>Bishan Public Library, Main Entrance by 9.30am</b> as there will be a chartered bus to bring participants to and from the farm.
 </td>
-        <td style="width: 20%;">13 Nov 2022, <br>2.30-3.30pm</td>
-        <td style="width: 20%;">Clementi Public Library</td>
+        <td style="width: 20%;">9 Dec 2022, <br>9.30-11.30am</td>
+        <td style="width: 20%;">Bishan Public Library</td>
+			</tr>						
+			<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/urban-farm-learning-journey-tickets-424908742487?aff=odcleoeventsincollection" target="_blank"><b> Urban Farm Learning Journey</b></a></td>
+        <td style="width: 40%;">Get a first-hand, onsite experience on how nutritious and affordable vegetables are grown with the help of technology!<br><br>This programme is for children aged 7 years and above, and parents/caregivers are needed to accompany their children for this learning journey. Participants are required to meet at <b>Bishan Public Library, Main Entrance by 9.30am</b> as there will be a chartered bus to bring participants to and from the farm.
+</td>
+        <td style="width: 20%;">23 Dec 2022, <br>9.30-11.30am</td>
+        <td style="width: 20%;">Bishan Public Library</td>
 			</tr>
     </tbody>
   </table>
