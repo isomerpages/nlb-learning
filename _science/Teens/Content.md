@@ -422,4 +422,47 @@ As you add more drops of milk, almost all the blue light is scattered away by th
 ![](/images/science/Teens/sunset.jpg)
 Source: Zakiyah Zakariah
 
+Activity 3. 3D Hologram Projector
+![](/images/science/Teens/3D%20hologram%20projector.png)
+
+**Background** <br>
+Have you ever seen holograms in movies? Holograms have been a huge part of science fiction blockbuster movies, such as the Iron Man and Star Wars franchises. It may seem like having a hologram is a far-fetched idea meant for a euphoric world. What if YOU can create your very own 3D hologram from the comfort of your home?
+
+![](/images/science/Teens/image043.jpg)
+Source: Kingsman: The secret service - jellyfish. Jellyfish Pictures. (n.d.). Retrieved July 1, 2022, from https://jellyfishpictures.co.uk/projects/kingsman-the-secret-service
+
+From the previous activities, you would have learned some of the fundamental concepts of light. With the knowledge that light travels in a straight line, let’s explore how a “floating image” is produced through the use of a hologram projector!
+
+**Materials** <br>
+●      1 piece of stiff plastic sheet (You can also use recycled items such as an old CD case or disposable food containers)
+
+●      Template in Annex A (If you do not have access to a printer, you can also make your own template! Draw a basic "Trapezoid" on a piece of paper based on the dimensions in Annex A.)
+
+●      1 Smartphone
+
+●      1 piece of Clear tape
+
+●      1 pair of Scissors
+
+●      1 Ruler
+
+●      1 Marker/ Pen
+
+![](/images/science/Teens/image045.jpg)
+
+**Steps**
+1. Trace the template on the transparent film using your marker and ruler.
+
+![](/images/science/Teens/image047.jpg)
+
+2. Cut out along the black outline. (Be careful with the sharp scissors! Get an adult to help you with it!)
+
+3. Fold along the lines in red.
+
+4. Stick the two edges together with clear tape to form a pyramid.
+
+![](/images/science/Teens/image049.gif)
+
+5. Play any of the 3D videos found in Annex B on your smartphone.
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
