@@ -509,5 +509,45 @@ _Inside Out_: [https://www.youtube.com/watch?v=\_dmagX3\_aJ4](https://www.youtu
 
  How is the hologram image formed? The 3D hologram projector works on the principle of Pepper’s Ghost. In a Pepper's Ghost Illusion, when a real image is reflected in a transparent screen at a 45-degree angle, viewers see a reflected virtual image that seems to have depth and appear out of nowhere.
 
+![](/images/science/Teens/image055.png)Source: Henderson, K. (2022, June 13). Pepper's Ghost: Hologram Illusion. Science World. Retrieved July 1, 2022, from https://www.scienceworld.ca/resource/peppers-ghost-hologram-illusion/
+
+![](/images/science/Teens/image056.png)
+
+Four symmetrically opposite variations of the same image are projected onto the four faces of the pyramid. By principle, each side projects the image falling on it to the center of the pyramid. These projections work in unison to form a whole figure, which creates a 3D illusion.
+
+By playing the videos, light rays are emitted from your smartphone and off the projection pyramid. The reflected light ray will now travel into your eyes, allowing you to see the moving images! Since the image formed in virtual, it is not projected on a screen but rather, appears to be floating in midair.
+
+**Annex A**
+![](/images/science/Teens/image059.jpg)
+Source: Vasanth, N. (2015). _Template for Hologram_ \[Illustration\]. Maker Pro. https://maker.pro/custom/projects/diy-hologram
+
+**Book Recommendations:**
+
+1.  Title: Optics for Dummies
+
+Author: Galen Duree, Jr.
+
+Publisher: Hoboken, N.J.: Wiley Publishing, 2011
+
+Only available as an eBook on [NLB overdrive](https://eresources.nlb.gov.sg/eReads/Overdrive/details?uuid=474A3F02-A9A4-47DC-A91D-C6A0600695F4)
+
+![](/images/science/Teens/optics.png)
+
+An illuminating exploration of optics. Discover how the fundamentals of optical technologies help brighten your everyday life.
+
+2.  Title: Planet of Science: The Universal Encyclopedia of Scientists
+
+Author: Fischetti
+
+Illustrator: Bouzard Guillaume
+
+Publisher: Europe Comics, 2020
+
+Only available as an eBook on [NLB overdrive](https://eresources.nlb.gov.sg/eReads/Overdrive/details?uuid=EAF910E9-3E53-4AF1-9710-DE385922E353)
+
+![](/images/science/Teens/image065.jpg)
+Explore the greatest scientific breakthroughs of all time through the fascinating lives of the people who made them.
+
+Book covers are the copyright of their respective publishers.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
