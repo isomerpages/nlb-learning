@@ -487,6 +487,27 @@ _Frozen_: [https://www.youtube.com/watch?v=1TRcEuzM8MU](https://www.youtube.com
 
 _Inside Out_: [https://www.youtube.com/watch?v=\_dmagX3\_aJ4](https://www.youtube.com/watch?v=_dmagX3_aJ4)
 
+6. Place the pyramid at the centre of your device (in between the 4 moving images).
+
+![](/images/science/Teens/image051.jpg)
+
+7. Now, switch off the lights and get down to the same level as the device, watch, and enjoy!
+ 
+**Bonus:**
+
+8. What happens when you try to touch the “floating image”?
+
+9. Use your finger to block the inner face of the pyramid. Are you still able to see the image?
+
+10. Use your finger to block the video (under the plastic pyramid that hangs over) on your smartphone. Are you still able to see the image?
+
+11. Compare the hologram image and the image on the smartphone.
+
+**Science time!**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IJTIUKKLICg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ How is the hologram image formed? The 3D hologram projector works on the principle of Pepper’s Ghost. In a Pepper's Ghost Illusion, when a real image is reflected in a transparent screen at a 45-degree angle, viewers see a reflected virtual image that seems to have depth and appear out of nowhere.
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
