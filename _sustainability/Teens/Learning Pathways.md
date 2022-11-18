@@ -56,37 +56,47 @@ Be informed and make an impact to the environment.
   <table class="generic-table">
     <thead>
       <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
+      </tr>
+    </thead>
+    <tbody>
+				<tr>
+         <td style="width: 20%;"><a href="https://go.gov.sg/nlb-teensgreenhouse" target="_blank"><b>Teens Takeover | GREENHOUSE</b></a></td>
+        <td style="width: 40%;">A series of talks and workshops for teens to explore various green topics and projects.
+<br><br>
+Stay tuned for more updates.
+</td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
+			</tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
         <th colspan="4" class="is-uppercase has-weight-normal ">Discover other learning focus areas</th>
       </tr>
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/making-melodies-with-our-hearts-woodlands-regional-library-tickets-435603581037?aff=ebdssbdestsearch" target="_blank"><b>Making Melodies With Our Hearts </b></a></td>
-        <td style="width: 40%;">
-Come and join us at the library for a morning of music performed by our very own local musicians. Covers of your favourite pop songs and original songs await!
-				<br><br>
-				This performance is in collaboration with Riverside Secondary School & Marsiling Secondary School.</td>
-        <td style="width: 20%;">5 Nov 2022<br>10.30am - 12pm</td>
-        <td style="width: 20%;">Woodlands Regional Library</td>
-      </tr>
-				<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087?aff=odcleoeventsincollection" target="_blank"><b> Unplugged</b></a></td>
-        <td style="width: 40%;"> Want to take a break and unwind over some tabletop games? <br><br>
-Join us at Unplugged, and get introduced to a variety of games! This programme is recommended for children and teens to attend with friends and family.</td>
-        <td style="width: 20%;">18 Nov 2022 <br> 3pm - 5pm	</td>
-        <td style="width: 20%;">Chua Chu Kang Public Library</td>
-      </tr>
-				<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/st-gabriels-secondary-school-vocal-ensemble-performance-session-1-tickets-435576349587?aff=ebdssbdestsearch" target="_blank"><b> St Gabriel's Secondary School Vocal Ensemble Performance</b></a></td>
-        <td style="width: 40%;"> Usher in the holidays with a vocal ensemble performance by St Gabriel’s Secondary School, featuring popular songs and some holiday favourites. </td>
-        <td style="width: 20%;">18 Nov 2022 <br> 3pm-3.30pm</td>
-        <td style="width: 20%;">Serangoon  Public Library</td>
-      </tr>
-			<tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087?aff=odcleoeventsincollection" target="_blank"><b> Dungeons & Dragons w/The Legitimate Business</b></a></td>
         <td style="width: 40%;"> Heard of the world of Dungeons & Dragons (D&D)? Come by Choa Chu Kang Public Library for a taste of this legendary fantasy role-playing game, and find out why millions of players worldwide have stepped into the boots of mighty heroes (and sneaky antiheroes) to create their own stories. </td>
         <td style="width: 20%;">26 Nov 2022, 1pm-5pm</td>
-        <td style="width: 20%;">Chua Chu Kang Public Library</td>
+        <td style="width: 20%;">Choa Chu Kang Public Library</td>
+      </tr>				<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429094442027?aff=odcleoeventsincollection" target="_blank"><b>Interview Skills | Teens Takeover | portfolio</b></a></td>
+        <td style="width: 40%;">Ace that interview! Discover the useful skills and qualities needed to make a good first impression.</td>
+        <td style="width: 20%;">6 Dec 2022 <br> 11am-12.30pm</td>
+        <td style="width: 20%;">Pasir Ris Public Library</td>
+      </tr>
+      <tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=odcleoeventsincollection" target="_blank"><b> News Journalism 101 | Teens Takeover | re:write</b></a></td>
+        <td style="width: 40%;">Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.</td>
+        <td style="width: 20%;">17 Dec 2022 <br> 2-3.30pm	</td>
+        <td style="width: 20%;">Serangoon Public Library</td>
       </tr>
   </tbody>
   </table>

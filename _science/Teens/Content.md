@@ -422,4 +422,132 @@ As you add more drops of milk, almost all the blue light is scattered away by th
 ![](/images/science/Teens/sunset.jpg)
 Source: Zakiyah Zakariah
 
+Activity 3. 3D Hologram Projector
+![](/images/science/Teens/3D%20hologram%20projector.png)
+
+**Background** <br>
+Have you ever seen holograms in movies? Holograms have been a huge part of science fiction blockbuster movies, such as the Iron Man and Star Wars franchises. It may seem like having a hologram is a far-fetched idea meant for a euphoric world. What if YOU can create your very own 3D hologram from the comfort of your home?
+
+![](/images/science/Teens/image043.jpg)
+Source: Kingsman: The secret service - jellyfish. Jellyfish Pictures. (n.d.). Retrieved July 1, 2022, from https://jellyfishpictures.co.uk/projects/kingsman-the-secret-service
+
+From the previous activities, you would have learned some of the fundamental concepts of light. With the knowledge that light travels in a straight line, let’s explore how a “floating image” is produced through the use of a hologram projector!
+
+**Materials** <br>
+●      1 piece of stiff plastic sheet (You can also use recycled items such as an old CD case or disposable food containers)
+
+●      Template in Annex A (If you do not have access to a printer, you can also make your own template! Draw a basic "Trapezoid" on a piece of paper based on the dimensions in Annex A.)
+
+●      1 Smartphone
+
+●      1 piece of Clear tape
+
+●      1 pair of Scissors
+
+●      1 Ruler
+
+●      1 Marker/ Pen
+
+![](/images/science/Teens/image045.jpg)
+
+**Steps**
+1. Trace the template on the transparent film using your marker and ruler.
+
+![](/images/science/Teens/image047.jpg)
+
+2. Cut out along the black outline. (Be careful with the sharp scissors! Get an adult to help you with it!)
+
+3. Fold along the lines in red.
+
+4. Stick the two edges together with clear tape to form a pyramid.
+
+![](/images/science/Teens/image049.gif)
+
+5. Play any of the 3D videos found in Annex B on your smartphone.
+
+  
+You can search for ‘hologram video four side pyramid’ videos on YouTube or you can choose some suggested videos from the links below!
+
+_Iron Man_ ’s Jarvis Interface: [https://www.youtube.com/watch?v=JHYfSBl-n\_g](https://www.youtube.com/watch?v=JHYfSBl-n_g)
+
+_Minions_: [https://www.youtube.com/watch?v=cez0fMA4jR8](https://www.youtube.com/watch?v=cez0fMA4jR8) 
+
+Animals: [https://www.youtube.com/watch?v=TcUHV6bHOeg](https://www.youtube.com/watch?v=TcUHV6bHOeg)
+
+Fireworks: [https://www.youtube.com/watch?v=XaGhAYseIFg](https://www.youtube.com/watch?v=XaGhAYseIFg)
+
+Disneyland fireworks: [https://www.youtube.com/watch?v=zqXi1Pp5tx4](https://www.youtube.com/watch?v=zqXi1Pp5tx4)
+
+Moon: [https://www.youtube.com/watch?v=5DZ6D70m0pU](https://www.youtube.com/watch?v=5DZ6D70m0pU)  
+Sun: [https://www.youtube.com/watch?v=e5DOApUtf7M](https://www.youtube.com/watch?v=e5DOApUtf7M)
+
+Blooming flowers: [https://www.youtube.com/watch?v=asNoWcrfebk](https://www.youtube.com/watch?v=asNoWcrfebk)
+
+_Frozen_: [https://www.youtube.com/watch?v=1TRcEuzM8MU](https://www.youtube.com/watch?v=1TRcEuzM8MU)
+
+_Inside Out_: [https://www.youtube.com/watch?v=\_dmagX3\_aJ4](https://www.youtube.com/watch?v=_dmagX3_aJ4)
+
+6. Place the pyramid at the centre of your device (in between the 4 moving images).
+
+![](/images/science/Teens/image051.jpg)
+
+7. Now, switch off the lights and get down to the same level as the device, watch, and enjoy!
+ 
+**Bonus:**
+
+8. What happens when you try to touch the “floating image”?
+
+9. Use your finger to block the inner face of the pyramid. Are you still able to see the image?
+
+10. Use your finger to block the video (under the plastic pyramid that hangs over) on your smartphone. Are you still able to see the image?
+
+11. Compare the hologram image and the image on the smartphone.
+
+**Science time!**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IJTIUKKLICg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ How is the hologram image formed? The 3D hologram projector works on the principle of Pepper’s Ghost. In a Pepper's Ghost Illusion, when a real image is reflected in a transparent screen at a 45-degree angle, viewers see a reflected virtual image that seems to have depth and appear out of nowhere.
+
+![](/images/science/Teens/image055.png)Source: Henderson, K. (2022, June 13). Pepper's Ghost: Hologram Illusion. Science World. Retrieved July 1, 2022, from https://www.scienceworld.ca/resource/peppers-ghost-hologram-illusion/
+
+![](/images/science/Teens/image056.png)
+
+Four symmetrically opposite variations of the same image are projected onto the four faces of the pyramid. By principle, each side projects the image falling on it to the center of the pyramid. These projections work in unison to form a whole figure, which creates a 3D illusion.
+
+By playing the videos, light rays are emitted from your smartphone and off the projection pyramid. The reflected light ray will now travel into your eyes, allowing you to see the moving images! Since the image formed in virtual, it is not projected on a screen but rather, appears to be floating in midair.
+
+**Annex A**
+![](/images/science/Teens/image059.jpg)
+Source: Vasanth, N. (2015). _Template for Hologram_ \[Illustration\]. Maker Pro. https://maker.pro/custom/projects/diy-hologram
+
+**Book Recommendations:**
+
+1.  Title: Optics for Dummies
+
+Author: Galen Duree, Jr.
+
+Publisher: Hoboken, N.J.: Wiley Publishing, 2011
+
+Only available as an eBook on [NLB overdrive](https://eresources.nlb.gov.sg/eReads/Overdrive/details?uuid=474A3F02-A9A4-47DC-A91D-C6A0600695F4)
+
+![](/images/science/Teens/optics.png)
+
+An illuminating exploration of optics. Discover how the fundamentals of optical technologies help brighten your everyday life.
+
+2.  Title: Planet of Science: The Universal Encyclopedia of Scientists
+
+Author: Fischetti
+
+Illustrator: Bouzard Guillaume
+
+Publisher: Europe Comics, 2020
+
+Only available as an eBook on [NLB overdrive](https://eresources.nlb.gov.sg/eReads/Overdrive/details?uuid=EAF910E9-3E53-4AF1-9710-DE385922E353)
+
+![](/images/science/Teens/image065.jpg)
+Explore the greatest scientific breakthroughs of all time through the fascinating lives of the people who made them.
+
+Book covers are the copyright of their respective publishers.
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /singapore/Adults/learning-pathways
+permalink: /singapore/Adults/learning-pathways/
 description: ""
 third_nav_title: Adults
 ---
@@ -88,6 +88,84 @@ Dive deep into the stories from the Japanese Occupation.
       <tr>
         <td><a href="/singapore/adults/content-japanese-occupation" target="_blank"><b>Japanese Occupation Playlist</b></a></td>
        <td style="width: 40%;">Check out these resources to help you gain some understanding of the events which led to the fall of Singapore, Japanese Occupation, and post-war Singapore.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+			</tr>
+    </tbody>
+  </table>
+</div>
+<h3><b>Food Heritage</b></h3>
+Discover the wide array of heritage foods from different ethnic groups that make up the cuisine of Singapore. 
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/singapore/adults/content-food-heritage" target="_blank"><b>Food Heritage Learning Package</b></a></td>
+        <td style="width: 40%;">Here are some great resources to start with to acquaint with Singapore’s food heritage, which mirrors our multi-ethnic culture.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="/singapore/adults/content-food-heritage" target="_blank"><b>Food Heritage Playlist</b></a></td>
+       <td style="width: 40%;">Check out these resources on Singapore's food heritage that binds its people together through its common food culture.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+			</tr>
+    </tbody>
+  </table>
+</div>
+<h3><b>National Symbols</b></h3>
+As a nation made up of people from different races, classes and backgrounds, our National Symbols aim to rally our diverse communities together as one people. 
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/singapore/adults/content-national-symbols" target="_blank"><b>National Symbols Learning Package</b></a></td>
+        <td style="width: 40%;">Here are some great resources to start with.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="/singapore/adults/content-national-symbols" target="_blank"><b>National Symbols Playlist</b></a></td>
+       <td style="width: 40%;">Gain insights to the formation and importance of the national symbols which help foster national identity.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+			</tr>
+    </tbody>
+  </table>
+</div>
+<h3><b>Vanishing Trades</b></h3>
+As the nation develops, many trades evolve or are slowly replaced. Learn about the cotton industries that no longer exist in society today or are fast disappearing.
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/singapore/adults/content-vanishing-trades" target="_blank"><b>Vanishing Trades Learning Package</b></a></td>
+        <td style="width: 40%;">Here are some great resources to start with.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="/singapore/adults/content-vanishing-trades" target="_blank"><b>Vanishing Trades Playlist</b></a></td>
+       <td style="width: 40%;">Learn more about some trades and occupations that can no longer be found in Singapore or are dwindling.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
 			</tr>

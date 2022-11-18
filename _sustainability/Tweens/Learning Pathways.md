@@ -61,12 +61,19 @@ Taking care of the environment starts with YOU!
       </tr>
     </thead>
     <tbody>
-				<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/nature-photography-101-with-park-kaki-clementi-public-library-tickets-435602377437?aff=ebdssbdestsearch" target="_blank"><b>Nature Photography 101 with Park Kaki | Earth Heroes</b></a></td>
-        <td style="width: 40%;">Have you ever wondered what’s the best way to capture the beauty of nature through your camera lenses? Learn the tricks of the trade from Park Kaki’s David Wirawan in this workshop.
+						<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/urban-farm-learning-journey-tickets-424908251017?aff=odcleoeventsincollection" target="_blank"><b> Urban Farm Learning Journey</b></a></td>
+        <td style="width: 40%;">Get a first-hand, onsite experience on how nutritious and affordable vegetables are grown with the help of technology!<br><br>This programme is for children aged 7 years and above, and parents/caregivers are needed to accompany their children for this learning journey. Participants are required to meet at <b>Bishan Public Library, Main Entrance by 9.30am</b> as there will be a chartered bus to bring participants to and from the farm.
 </td>
-        <td style="width: 20%;">13 Nov 2022, <br>4-5pm</td>
-        <td style="width: 20%;">Clementi  Public Library</td>
+        <td style="width: 20%;">9 Dec 2022, <br>9.30-11.30am</td>
+        <td style="width: 20%;">Bishan Public Library</td>
+			</tr>						
+			<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/urban-farm-learning-journey-tickets-424908742487?aff=odcleoeventsincollection" target="_blank"><b> Urban Farm Learning Journey</b></a></td>
+        <td style="width: 40%;">Get a first-hand, onsite experience on how nutritious and affordable vegetables are grown with the help of technology!<br><br>This programme is for children aged 7 years and above, and parents/caregivers are needed to accompany their children for this learning journey. Participants are required to meet at <b>Bishan Public Library, Main Entrance by 9.30am</b> as there will be a chartered bus to bring participants to and from the farm.
+</td>
+        <td style="width: 20%;">23 Dec 2022, <br>9.30-11.30am</td>
+        <td style="width: 20%;">Bishan Public Library</td>
 			</tr>
     </tbody>
   </table>
