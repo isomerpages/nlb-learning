@@ -156,10 +156,17 @@ Make reading a fun activity while fostering that special bond between you and yo
 			<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-461606215617?aff=ebdsoporgprofile"><b>[Caring for the Environment] All About Water Conservation</b></a></td>
         <td>
-Calling all parents and children aged 4 to 6 years old! What if we told you you could become a computer for an hour? This hands-on, interactive session will introduce you and your child to the curious world of coding! Discover 3 basic coding concepts of branching, sequencing and algorithms through storytelling and a series of enjoyable unplugged activities.
+This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. 
  </td>
        <td> 11 Dec 2022 <br> 2.00pm– 3:00pm</td>
         <td>Bukit Panjang Public Library</td>
+      </tr>
+				<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-balloon-powered-car-tickets-461611491397?aff=ebdsoporgprofilee"><b>[Budding Engineers] Balloon-Powered Car</b></a></td>
+        <td>With everyday items, we will delve into learning about potential and kinetic energy, while making the fastest car possible! This is a parent-child programme and is suitable for children aged 4-6 years old.
+ </td>
+       <td> 3 Dec 2022 <br> 2.00pm– 3:00pm</td>
+        <td>Harbourfront Public Library</td>
       </tr>
   </tbody>
   </table>
