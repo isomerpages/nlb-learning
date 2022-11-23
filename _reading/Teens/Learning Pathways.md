@@ -43,32 +43,32 @@ Take the plunge into a deeper love for the literary.
       </tr>
     </thead>
     <tbody>
+				<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/the-pleasure-of-the-short-story-story-beings-tickets-443923315587?aff=odcleoeventsincollection"><b>[Tamil Holiday Programmes] An Introduction to Popular Tamil Fiction</b></a></td>
+        <td>Learn about popular contemporary stories and how they have transcended time to be known as the best of Tamil fiction. This programme is suitable for Secondary level students.
+        </td><td>1 Dec 2022, <br>11am – 12.30pm</td>
+        <td>Online</td>
+      </tr>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-toa-payoh-public-library-tickets-435573541187?aff=odcleoeventsincollection"><b>Dungeons & Dragons w/The Legitimate Business @ Toa Payoh Public Library</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-toa-payoh-public-library-tickets-435551986717?aff=ebdsoporgprofile"><b>Dungeons & Dragons w/The Legitimate Business @ Toa Payoh Public Library</b></a></td>
         <td style="width: 40%;">Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG.</td>
-        <td style="width: 20%;">6 Nov 2022,
+        <td style="width: 20%;">4 Dec 2022,
 <br>1.30pm – 5.30pm,</td>
         <td style="width: 20%;">Toa Payoh Public Library Programme Zone</td>
       </tr>
-					<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/the-pleasure-of-the-short-story-story-beings-tickets-443923315587?aff=odcleoeventsincollection"><b>The Pleasure of the Short Story | Story Beings</b></a></td>
-        <td>Elaine Chiew will introduce you to must-read short story from our region and examine the characteristics for a good short story.
-        </td><td>14 Nov 2022, <br>6pm – 7pm</td>
+<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/immersive-storytelling-for-real-and-imagined-worlds-tickets-461625844327?aff=ebdsoporgprofile"><b>Immersive Storytelling for Real and Imagined Worlds
+</b></a></td>
+        <td> In Immersive Storytelling, theme park designer Margaret Kerrison shares tips and tricks for writers on teams tasked with bringing a narrative to life.
+	</td><td>11 Dec 2022, <br>
+11am – 12pm
+	</td>
         <td>Online</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/pro-series-zine-design-the-future-of-zines-libraryorchard-registration-409152735847?aff=ebdsoporgprofile"><b>[The Nocturnal Poet] Ode to The Night | Night at The Library
-</b></a></td>
-        <td> Join Jennifer Anne Champion, Jedidiah Huang, Mok Zining and Low Kian Seh for an Ode writing workshop with readings.
-	</td><td>18 Nov 2022, <br>
-7.30pm – 9.30pm
-	</td>
-        <td>National Library, The Pod</td>
-      </tr>
-<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087?aff=ebdsoporgprofile"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
-        <td> Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG. </td>
-	<td>26 Nov 2022, <br>1pm – 5pm</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/cckpl-unplugged-with-singapore-untamed-tickets-470926994317?aff=odcleoeventsincollection"><b>CCKPL: Unplugged with Singapore Untamed</b></a></td>
+        <td> For this Unplugged event, players will be trying out a simplified version of Singapore Untamed, a boardgame, to learn about the diverse fauna and local wildlife species that call Singapore home.</td>
+	<td>16 Dec 2022, <br>3pm – 5pm</td>
         <td>Choa Chu Kang Public Library Programme Zone</td>
       </tr>
 
@@ -91,24 +91,6 @@ Take the plunge into a deeper love for the literary.
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/nature-photography-101-with-park-kaki-clementi-public-library-tickets-435602377437?aff=odcleoeventsincollection"><b>Nature Photography 101 with Park Kaki @ Clementi Public Library</b></a></td>
-        <td style="width: 40%;"> Have you ever wondered what’s the best way to capture the beauty of nature through your camera lenses? Learn the tricks of the trade from Park Kaki’s David Wirawan in this workshop.</td>
-        <td style="width: 20%;">13 Nov 2022, <br>4 – 5pm</td>
-        <td style="width: 20%;">Clementi Public Library, Programme Zone</td>
-      </tr>
-<tr>
-        <td>					 <b>Interview Skills | Teens Takeover | portfolio</b><br>
-					 <a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429093960587?aff=odcleoeventsincollection">
-						 <b>Session 1</b></a>
-						 <br>
-						 					 <a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429094442027?aff=odcleoeventsincollection"><b>Session 2
-</b></a></td>
-        <td>Ace that interview! Discover the useful skills and qualities needed to make a good first impression</td>
-        <td>22 Nov 2022,<br>11am – 12.30pm | 
-				<br> 6 Dec 2022 <br>11am – 12.30pm</td>
-        <td>Pasir Ris Public Library, <br>Programme Zone</td>
-      </tr>
 <tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/an-introduction-to-latin-jazz-56-jazz-for-curious-listeners-registration-384455545887?aff=odcleoeventsincollection" ><b>Let's Celebrate Jazz Music 6/6 | Jazz for Curious Listeners</b></a></td>
 	<td>Join us in our 6-session introductory series on Jazz music and appreciation, catered for the beginners!<br><br>
@@ -116,7 +98,14 @@ Take the plunge into a deeper love for the literary.
 4pm – 5.30pm</td>
         <td>library@esplanade</td>
       </tr>
-
+<tr>
+        <td><a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429094442027?aff=odcleoeventsincollection"><b>Interview Skills | Teens Takeover | portfolio
+</b></a></td>
+        <td>Ace that interview! Discover the useful skills and qualities needed to make a good first impression</td>
+        <td>
+			 6 Dec 2022 <br>11am – 12.30pm</td>
+        <td>Pasir Ris Public Library, <br>Programme Zone</td>
+      </tr>
     </tbody>
   </table>
 </div>
