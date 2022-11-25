@@ -96,7 +96,7 @@ Admiralty Secondary School, Chua Chu Kang Secondary School, Kuo Chuan Presbyteri
 <p><a href="https://go.gov.sg/susbenchtc" target="_blank">Terms and conditions</a> apply. </p>
 
 <p><strong> Acknowledgements: </strong></p>
-Supported by: <a href="https://www.mse.gov.sg/sgecofund/" target="_blank">SG Eco Fund</a> and <a href="https://www.nparks.gov.sg/" target="_blank">Nparks</a>
+Supported by: <a href="https://www.mse.gov.sg/sgecofund/" target="_blank">SG Eco Fund</a> and <a href="https://www.nparks.gov.sg/" target="_blank">NParks</a>
 Venue Partner: <a href="https://www.gardensbythebay.com.sg/" target="_blank">Gardens by the Bay</a>
 
 Showcase Partners:
