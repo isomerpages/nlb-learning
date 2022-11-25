@@ -83,42 +83,42 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Various Locations</td>
       </tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/storytelling-with-sadeaf-rapunzel-the-giving-tree-early-read-tickets-438766320877?aff=ebdsoporgprofile"><b>Storytelling with SADeaf | Rapunzel & The Giving Tree | Early READ
+<td><a target="_blank" href="https://www.eventbrite.sg/e/storytelling-with-sadeaf-rapunzel-the-giving-tree-tickets-461589696207?aff=odcleoeventsincollection"><b>Storytelling with SADeaf | Rapunzel & The Giving Tree | Early READ
  </b></a></td>
-        <td> Would you like to listen to the stories of Rapunzel and The Giving Tree in Singapore Sign Language? Come and join Singapore Associationfor the Deaf and pick up some Singapore Sign Language vocabulary along the way! Admission is free! See you there!
+        <td> Come and join The Singapore Association for the Deaf as they reenact Rapunzel and The Giving Tree using the Singapore Sign Language.
 <br>
  </td>
-					<td>5 Nov 2022<br>12.30pm-13.30pm<br></td>
-        <td>Jurong Regional Library</td>
+					<td>3 Dec 2022<br>11.00am-12.00pm<br></td>
+        <td>Ang Mo Kio Public Library</td>
       </tr>		
 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/storytelling-with-evelyn-just-a-little-mynah-early-read-tickets-438766952767?aff=ebdsoporgprofile"><b>Storytelling with Evelyn | Just a Little Mynah | Early READ</b></a></td>
-        <td>Come fly with Little Mynah as she discovers that even ordinary little birds can do extraordinary things.  Help Little Mynah and her feathered friends, using fun everyday words in Mandarin, Malay and Tamil. A craft session and interactive storytelling for children ages 4 to 6 years that will get them flying!<br></td>
-        <td>5 Nov 2022<br>11.00am – 12.00pm<br></td>
-        <td>Toa Payoh Public Library</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/storytelling-with-evelyn-the-noisiest-tree-earlyread-tickets-461592875717?aff=odcleoeventsincollection"><b>Storytelling with Evelyn | The Noisiest Tree | Early READ</b></a></td>
+        <td>Is that noisy? Discover different sounds in the neighbourhood with Little Mynah and his friend Karim, and help them make new friends using fun everyday words in Mandarin, Malay and Tamil. A craft session and interactive storytelling for children ages 4 to 6 years that will be music to their ears!!<br></td>
+        <td>11 Dec 2022<br>11.30am – 12.30pm<br></td>
+        <td>Pasir Ris Public Library</td>
 </tr>	
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/baby-lapsit-early-read-tickets-325395846737?aff=ebdsoporgprofile"><b> Baby Lapsit | Early READ </b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Baby Lapsit | Early READ </b></a></td>
         <td>Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!</td>
-        <td>10 Nov 2022<br>3.30pm – 4.00pm<br></td>
-        <td>Serangoon Public Library</td>				
+        <td>Check out all the Baby Lapsit sessions for December!</td>
+        <td>Various Locations</td>				
   					</tr>
-			<tr><td><a target="_blank" href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-early-read-registration-385314565237?aff=ebdsoporgprofile"><b> Toddler Songs & Rhymes | Early READ </b></a></td>
-        <td>Join other parents with young children and support your child's early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old.</td>
-        <td>16 Nov 2022<br>3.00pm – 3.30pm<br></td>
-        <td>Zoom</td>				
+			<tr><td><a target="_blank" href="https://www.eventbrite.sg/e/a-book-a-day-holiday-specials-we-love-the-library-tickets-461605433277?aff=ebdsoporgprofile"><b> A Book A Day Holiday Specials: We Love the Library!</b></a></td>
+        <td>If you could build a library, how would it look like? Dive into an enthralling storytelling session and be inspired as you build your own 3D library craft! </td>
+        <td>5 Dec 2022<br>11.30am – 12.30pm<br></td>
+        <td>Pasir Ris Public Library</td>				
   					</tr>
 			<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/empowering-parent-leaders-what-to-do-and-why-you-do-it-early-read-registration-438781847317?aff=ebdsoporgprofile"><b> Empowering Parent Leaders: What to do and Why you do it! | Early READ</b></a></td>
-        <td>Understand how your child’s brain develops so you can use the most effective techniques to lead them to calmly respond to challenges.</td>
-        <td>19 Nov 2022<br>11.30am– 12.30pm<br></td>
-        <td>Queenstown Public Library</td>				
+<td><a target="_blank" href="https://www.eventbrite.sg/e/sensory-storytime-tickets-461581481637?aff=ebdsoporgprofile"><b>Sensory Storytime</b></a></td>
+        <td>Join us for a special storytime which will engage the different senses. This programme is designed to support children with additional needs. All are welcome! </td>
+        <td>10 Dec 2022<br>11.00am– 11.30am<br></td>
+        <td>Sengkang Public Library</td>				
   					</tr>
 					<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/stories-come-alive-by-niecite-early-read-registration-438774374967?aff=ebdsoporgprofile"><b> Stories Come Alive by NIEC(ITE)! | Early READ</b></a></td>
-        <td>Join us for a session of stories, songs and rhymes where NIEC(ITE) students will share interesting and fun stories! There will also be a craft session at the end and children will bring home a craft to retell the story to their families or friends.This programme is intended for children aged 4-6 years.</td>
-        <td>19 Nov 2022<br>3.00pm – 4.00pm<br></td>
-        <td>Woodlands Regional Library</td>				
+<td><a target="_blank" href="https://www.eventbrite.sg/e/storytelling-with-sadeaf-the-mousedeer-and-crocodile-the-little-mermaid-tickets-461591421367?aff=odcleoeventsincollection"><b>Storytelling with SADeaf | The Mousedeer and Crocodile & The Little Mermaid</b></a></td>
+        <td>Come and join The Singapore Association for the Deaf as they reenact The Mousedeer and the Crocodile and The Little Mermaid using the Singapore Sign Language.</td>
+        <td>16 Dec 2022<br>2.00pm – 3.00pm<br></td>
+        <td>Harbourfront Public Library</td>				
   					</tr>
 		</tbody>
 	</table>
@@ -133,33 +133,40 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
 			<tr>		
-<td><a target="_blank" href=" https://www.eventbrite.sg/e/mindful-magic-breathing-in-the-wind-early-read-registration-438779379937?aff=ebdsoporgprofile"><b> Mindful Magic: Breathing in the Wind | Early READ</b></a></td>
-        <td>In this session suitable for children aged 4-6 years old, participants will learn to respond to challenging emotions using the Breathe and Calm technique, as well as through art, to slow down and pay attention to their breathing. <br>This programme is brought to you by backtogroundzero, a local non-profit community group working in the intersection of mental wellbeing and environmental sustainability.
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-little-doctors-tickets-461608582697?aff=ebdsoporgprofile"><b> [Budding Scientists] Little Doctors</b></a></td>
+        <td>Discover the different body systems through a storytelling session and engaging activities for the little ones.
 </td>
-       <td>6 Nov 2022 <br>11.00am-12.00pm</td>
-        <td>Toa Payoh Public Library</td>
+       <td>7 Dec 2022 <br>3.00pm-4.00pm</td>
+        <td>Sengkang Public Library</td>
       </tr>
 			  <tr>	
-<td><a target="_blank" href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-early-read-tickets-438762409177?aff=ebdsoporgprofile"><b>Introduction to Scratch Junior Coding | Early READ</b></a></td>
-        <td>ScratchJr is a programming language for children aged 4-6. Using ScratchJr, children can create their own interactive stories, animations and games.
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-from-trash-to-treasure-tickets-461587429427?aff=ebdsoporgprofile"><b>[Caring for the Environment] From Trash to Treasure</b></a></td>
+        <td>In this session, children will get to repurpose common household objects to create beautiful artwork.
 </td>
-        <td>19 Nov 2022<br>11.00am–12.00pm<br></td>
-        <td>Bishan Public Library</td>
+        <td>8 Dec 2022<br>2.00pm–3.00pm<br></td>
+        <td>Pasir Ris Public Library</td>
       </tr>
 				<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/becoming-a-trash-hero-l-for-kids-aged-5-7-years-old-early-read-registration-438785508267?aff=ebdsoporgprofile"><b>Becoming a Trash Hero l For kids aged 5-7 years old | Early READ</b></a></td>
-         <td>Learn how we can care for the environment through an interactive session of storytelling, games and quizzes! 
+<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-introduction-to-scratch-junior-coding-tickets-461575002257?aff=ebdsoporgprofile"><b>[DiscoverTech] Introduction to Scratch Junior Coding</b></a></td>
+         <td>ScratchJr is a programming language for children aged 4-6. Using ScratchJr, children can create their own interactive stories, animations and games.
  </td>
-        <td>19 Nov 2022<br>2.00pm–3.00pm<br></td>
-        <td>Geylang East Public Library  </td>
+        <td>10 Dec 2022<br>11.30am–12.30pm<br></td>
+        <td>Serangoon Public Library  </td>
       </tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-coding-unplugged-human-computers-early-read-registration-438780553447?aff=ebdsoporgprofile"><b>[DiscoverTech] Coding Unplugged: Human Computers! | Early READ</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-461606215617?aff=ebdsoporgprofile"><b>[Caring for the Environment] All About Water Conservation</b></a></td>
         <td>
-Calling all parents and children aged 4 to 6 years old! What if we told you you could become a computer for an hour? This hands-on, interactive session will introduce you and your child to the curious world of coding! Discover 3 basic coding concepts of branching, sequencing and algorithms through storytelling and a series of enjoyable unplugged activities.
+This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. 
  </td>
-       <td> 26 Nov 2022 <br> 11:00am– 12:00pm</td>
-        <td>Choa Chu Kang Public Library</td>
+       <td> 11 Dec 2022 <br> 2.00pm– 3:00pm</td>
+        <td>Bukit Panjang Public Library</td>
+      </tr>
+				<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-balloon-powered-car-tickets-461611491397?aff=ebdsoporgprofilee"><b>[Budding Engineers] Balloon-Powered Car</b></a></td>
+        <td>With everyday items, we will delve into learning about potential and kinetic energy, while making the fastest car possible! This is a parent-child programme and is suitable for children aged 4-6 years old.
+ </td>
+       <td> 3 Dec 2022 <br> 2.00pm– 3:00pm</td>
+        <td>Harbourfront Public Library</td>
       </tr>
   </tbody>
   </table>
