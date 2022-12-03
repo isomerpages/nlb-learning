@@ -95,14 +95,12 @@ Check out the video resources below to help your child understand the roles of t
     </thead>
     <tbody>
 			<tr>			
-<td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-lets-reduce-food-wastage-early-read-registration-438784104067?aff=ebdsoporgprofile" target="_blank"><b> [Caring for the Environment] Let's Reduce Food Wastage! | Early READ
+<td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-from-trash-to-treasure-tickets-461587429427?aff=odcleoeventsincollection" target="_blank"><b> [Caring for the Environment] From Trash to Treasure
 </b></a></td>
-        <td>Do you know what happens to the spoilt food or leftovers that were thrown away? These food waste goes to the landfills and are being incinerated.
-<br>
-Burning food waste requires fossil fuels that release carbon emissions. This increases the Earth's temperature and contribute to global warming. So, let's learn how we can reduce food waste to help Mother Earth!
+        <td>Come join us for an interactive programme on upcycling! In this session, children will get to repurpose common household objects to create beautiful artwork. The workshop will encourage children to practice upcycling and gain a deeper understanding that everything can have a new lease of life— it is up to their imagination and creativity to breathe new life into discarded objects
 </td>
-      <td>5 Nov 2022<br>11.30 - 12.30pm <br></td>
-        <td>Clementi Public Library </td>
+      <td> 8 December 2022<br>2:00 – 3:00 pm <br></td>
+        <td>Pasir Ris Public Library </td>
 			</tr>
 				<tr>			
 <td><a href="https://www.eventbrite.sg/e/mindful-magic-breathing-in-the-wind-early-read-registration-438779379937?aff=ebdsoporgprofile" target="_blank"><b> Mindful Magic: Breathing in the Wind | Early READ </b></a></td>
