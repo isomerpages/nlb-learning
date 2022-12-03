@@ -136,61 +136,35 @@ Check out the video resources below to help your child understand the roles of t
        <td>Check out all the Jiggle Read & Rhyme sessions for October!</td>
         <td>Various Locations</td>
       </tr>
-			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-scientists-potions-party-tickets-409759109527?aff=odcleoeventsincollection"><b> [Budding Scientists] Potions Party!  </b></a></td>
-        <td>
-Welcome to the Advanced Potions Making Class at the Budding Scientists Academy! Today, you’ll be challenged to complete the Head Professor’s first assignment by combining ingredients to make stunning and magical mixtures. It will get messy — you have been warned. Don your lab coats, prepare your ingredients, and ready the test tubes.Excited to learn more about potions and the Science behind them? Our stimulating hands-on experiments will open you to the world of STEAM.
- </td>
-       <td>29 Oct 2022 <br> 11:00 AM – 12:00 PM</td>
-        <td>Zoom</td>
-      </tr>
-			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/storytelling-with-sadeaf-rapunzel-the-giving-tree-early-read-tickets-438766320877?aff=ebdsoporgprofile"><b>Storytelling with SADeaf | Rapunzel & The Giving Tree | Early READ
- </b></a></td>
-        <td> Would you like to listen to the stories of Rapunzel and The Giving Tree in Singapore Sign Language? Come and join Singapore Associationfor the Deaf and pick up some Singapore Sign Language vocabulary along the way! Admission is free! See you there!
-<br>
- </td>
-					<td>5 Nov 2022<br>12.30pm-13.30pm<br></td>
-        <td>Jurong Regional Library</td>
-      </tr>	
-		<tr>			
-<td><a href="https://www.eventbrite.sg/e/budding-engineers-quantum-physics-for-babies-early-read-registration-438769951737?aff=ebdsoporgprofile" target="_blank"><b> Budding Engineers: Quantum Physics for Babies! | Early READ
+				<tr>			
+<td><a href="https://www.eventbrite.sg/e/budding-engineers-balloon-powered-car-tickets-461611491397?aff=odcleoeventsincollection" target="_blank"><b> [Budding Engineers] Balloon-Powered Car
 </b></a></td>
-        <td> It only takes a small spark to ignite a child’s mind. Join quantum physicist and bestselling children’s book author Chris Ferrie for a science book reading event! Chris’ Baby University series, including Quantum Physics for Babies, Quantum Computing for Babies, and Quantum Entanglement for Babies, offers simple explanations of complex ideas for your little one.</td>
-        <td>4 Nov 2022<br>3.00 - 4.00pm <br></td>
-        <td>Woodlands Regional Library</td>
+        <td>Energy conversion exists all around us. How does this work and how does energy make things move? Let's find out in this session as we create our own balloon-powered cars that zoom around the library! With everyday items, we will delve into learning about potential and kinetic energy, while making the fastest car possible! This is a parent-child programme and is suitable for children aged 4-6 years old </td>
+      <td> 3  December 2022<br>2:00 – 3:00 pm <br></td>
+        <td>library@harbourfront</td>
 			</tr>
-		<tr>			
-<td><a href="https://www.eventbrite.sg/e/budding-engineers-quantum-physics-for-babies-early-read-registration-438771315817?aff=ebdsoporgprofile" target="_blank"><b> Budding Engineers: Quantum Physics for Babies! | Early READ
-</b></a></td>
-        <td> It only takes a small spark to ignite a child’s mind. Join quantum physicist and bestselling children’s book author Chris Ferrie for a science book reading event! Chris’ Baby University series, including Quantum Physics for Babies, Quantum Computing for Babies, and Quantum Entanglement for Babies, offers simple explanations of complex ideas for your little one.</td>
-        <td>5 Nov 2022<br>11.30 - 12.30pm <br></td>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-little-doctors-tickets-461608582697?aff=odcleoeventsincollection" target="_blank"><b>  [Budding Scientists] Little Doctors  </b></a></td>
+        <td>Is your child curious about what's in the body and how the human body works? Discover the different body systems through a storytelling session and engaging activities for the little ones. 
+<br>
+Learn the names and functions of our internal organs and follow the path of food through our mouth, gullet, stomach, small intestine and large intestine in a simple and fun hands-on activity. 
+</td>
+      <td> 7 December 2022 <br>3:00 – 4:00 pm <br></td>
         <td>Sengkang Public Library</td>
 			</tr>
-		<tr>			
-<td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-early-read-tickets-438762409177?aff=ebdsoporgprofile" target="_blank"><b> Introduction to Scratch Junior Coding | Early READ
-</b></a></td>
-     <td>ScratchJr is a programming language for children aged 4-6. Using ScratchJr, children can create their own interactive stories, animations and games.
-<br><br>
-Unit 1: Introduction
-<br>
-Learn to create own interactive computational media with ScratchJrBackground and Character Creation
-<Br><br>
-Unit 2: Motion
-<br>
-Learn to use ScratchJr to create motion and animationsUse blocks and open-ended explorationsSame block sequencing and motionNumbers and repeating sequences 
-</td>
-        <td>19 Nov 2022<br>11.00am – 12.00pm<br></td>
-        <td>Bishan Public Library  </td>
+<tr>			
+<td><a href="https://www.eventbrite.sg/e/budding-scientists-exploring-colours-with-science-tickets-474923076707?aff=odcleoeventsincollection" target="_blank"><b>  [Budding Scientists] Exploring Colours With Science </b></a></td>
+        <td> Colour is around us! Discover the magic of colour mixing with Science. Red turns to orange, yellow turning to green while blue changes to purple. Learning how new colours are made is an exciting way for young children to experience and understand colours.</td>
+        <td> 10 December  2022 <br> 11.00 – 12.00 PM <br></td>
+        <td>Ang Mo Kio Public Library</td>
 			</tr>
-		<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-coding-unplugged-human-computers-early-read-registration-438780553447?aff=ebdsoporgprofile"><b>[DiscoverTech] Coding Unplugged: Human Computers! | Early READ</b></a></td>
-        <td>
-Calling all parents and children aged 4 to 6 years old! What if we told you you could become a computer for an hour? This hands-on, interactive session will introduce you and your child to the curious world of coding! Discover 3 basic coding concepts of branching, sequencing and algorithms through storytelling and a series of enjoyable unplugged activities.
- </td>
-       <td> 26 Nov 2022 <br> 11:00am– 12:00pm</td>
-        <td>Choa Chu Kang Public Library</td>
-      </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/colours-of-the-mind-at-the-library-tickets-461604309917?aff=odcleoeventsincollection" target="_blank"><b> Colours of the Mind at the Library  </b></a></td>
+        <td>Colours of the Mind is an interactive parent-child programme on mental well-being that includes fun, educational hands-on activities suitable for children aged 3 to 6 years old.
+Parents and children will get to learn more about managing emotions, delivered through a storyline with character Cora and accompanied with hands-on activities to encourage family bonding and the adoption of healthy habits.</td>
+      <td>   17 December 2022  <br>2:00 – 3:30 pm <br></td>
+        <td>Jurong Regional Library</td>
+			</tr>
     </tbody>
   </table>
 </div>
