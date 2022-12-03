@@ -87,8 +87,17 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 			</tr>
 		</thead>
 		<tbody>
+	
 			<tr>			
-<td><a href="https://www.eventbrite.sg/e/introduction-to-scratch-junior-coding-early-read-tickets-438762409177?aff=ebdsoporgprofile" target="_blank"><b> Introduction to Scratch Junior Coding | Early READ
+<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-coding-unplugged-human-computers-early-read-registration-438780553447?aff=ebdsoporgprofile"><b>[DiscoverTech] Coding Unplugged: Human Computers! | Early READ</b></a></td>
+        <td>
+Calling all parents and children aged 4 to 6 years old! What if we told you you could become a computer for an hour? This hands-on, interactive session will introduce you and your child to the curious world of coding! Discover 3 basic coding concepts of branching, sequencing and algorithms through storytelling and a series of enjoyable unplugged activities.
+ </td>
+       <td> 26 Nov 2022 <br> 11:00am– 12:00pm</td>
+        <td>Choa Chu Kang Public Library</td>
+      </tr>
+					<tr>			
+<td><a href="https://www.eventbrite.sg/e/discovertech-introduction-to-scratch-junior-coding-tickets-461575002257?aff=odcleoeventsincollection" target="_blank"><b> [DiscoverTech] Introduction to Scratch Junior Coding
 </b></a></td>
      <td>ScratchJr is a programming language for children aged 4-6. Using ScratchJr, children can create their own interactive stories, animations and games.
 <br><br>
@@ -100,17 +109,9 @@ Unit 2: Motion
 <br>
 Learn to use ScratchJr to create motion and animationsUse blocks and open-ended explorationsSame block sequencing and motionNumbers and repeating sequences 
 </td>
-        <td>19 Nov 2022<br>11.00am – 12.00pm<br></td>
-        <td>Bishan Public Library  </td>
+        <td>10 Dec 2022<br>11.30am – 12.30pm<br></td>
+        <td>Serangoon Public Library  </td>
 			</tr>
-			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-coding-unplugged-human-computers-early-read-registration-438780553447?aff=ebdsoporgprofile"><b>[DiscoverTech] Coding Unplugged: Human Computers! | Early READ</b></a></td>
-        <td>
-Calling all parents and children aged 4 to 6 years old! What if we told you you could become a computer for an hour? This hands-on, interactive session will introduce you and your child to the curious world of coding! Discover 3 basic coding concepts of branching, sequencing and algorithms through storytelling and a series of enjoyable unplugged activities.
- </td>
-       <td> 26 Nov 2022 <br> 11:00am– 12:00pm</td>
-        <td>Choa Chu Kang Public Library</td>
-      </tr>
 		</tbody>
 	</table>
 </div>
