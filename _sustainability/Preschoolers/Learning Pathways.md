@@ -84,8 +84,6 @@ Check out the video resources below to help your child understand the roles of t
     </tbody>
   </table>
 </div>
-
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -93,23 +91,34 @@ Check out the video resources below to help your child understand the roles of t
         <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
       </tr>
     </thead>
-    <tbody>
-			<tr>			
+    <tbody>			
+					<tr>			
 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-from-trash-to-treasure-tickets-461587429427?aff=odcleoeventsincollection" target="_blank"><b> [Caring for the Environment] From Trash to Treasure
 </b></a></td>
-        <td>Come join us for an interactive programme on upcycling! In this session, children will get to repurpose common household objects to create beautiful artwork. The workshop will encourage children to practice upcycling and gain a deeper understanding that everything can have a new lease of life— it is up to their imagination and creativity to breathe new life into discarded objects
-</td>
+        <td>Come join us for an interactive programme on upcycling! In this session, children will get to repurpose common household objects to create beautiful artwork. The workshop will encourage children to practice upcycling and gain a deeper understanding that everything can have a new lease of life— it is up to their imagination and creativity to breathe new life into discarded objects</td>
       <td> 8 December 2022<br>2:00 – 3:00 pm <br></td>
         <td>Pasir Ris Public Library </td>
 			</tr>
 				<tr>			
-<td><a href="https://www.eventbrite.sg/e/mindful-magic-breathing-in-the-wind-early-read-registration-438779379937?aff=ebdsoporgprofile" target="_blank"><b> Mindful Magic: Breathing in the Wind | Early READ </b></a></td>
-        <td> In this session suitable for children aged 4-6 years old, participants will learn to respond to challenging emotions using the Breathe and Calm technique, as well as through art, to slow down and pay attention to their breathing.
+<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-adorable-orangutans-tickets-470958558727?aff=odcleoeventsincollection" target="_blank"><b>  [Connecting with Nature] Adorable Orangutans! </b></a></td>
+        <td> Join us in learning about the adorable orangutans, the dangers that they're facing and what we can do to save them! Make your own orangutan bookmark to bring home. This is a parent-child programme, suitable for children aged 4-6 years old.
 </td>
-        <td>6 Nov 2022<br>11.00am – 12.00pm<br></td>
-        <td>Toa Payoh Public Library  </td>
+        <td>December 9, 2022 <br>2:30 PM – 3:30 PM <br></td>
+        <td>Bedok Public Library</td>
 			</tr>
-    </tbody>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-461606215617?aff=odcleoeventsincollection" target="_blank"><b>  [Caring for the Environment] All About Water Conservation</b></a></td>
+        <td>This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. </td>
+      <td> 11 December 2022 <br>2:00 – 3:00 pm <br></td>
+        <td>Bukit Panjang Public Library </td>
+			</tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-shark-rescue-tickets-461585172677?aff=odcleoeventsincollection" target="_blank"><b> [Connecting with Nature] Shark Rescue!  </b></a></td>
+        <td>Learn all about sharks and how you can do your part to help protect them in this fun storytelling and craft session. This session is suitable for children aged 4-6. </td>
+      <td>  15 December 2022  <br>2:00 – 3:00 pm <br></td>
+        <td>Tampines Regional Library </td>
+			</tr>
+		    </tbody>
   </table>
 </div>
 
