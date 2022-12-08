@@ -38,10 +38,7 @@ Learn to connect with people around the world. Develop a deeper understanding of
 For Teens and Adults, conducted in English and running in hybrid format. Participants can join in person at library@orchard and online. </p>
       <p class="margin--top--sm margin--bottom--sm"><a target="_blank" href="https://go.gov.sg/lcsessions"> Click here for upcoming sessions</a></p>
     </div>
-  </div>
-      <p class="margin--top--sm margin--bottom--sm"><a href="https://www.eventbrite.com/cc/programmes-on-wellness-66209" target="_blank">Click here for upcoming session</a></p>
-    </div>
-  </div>    
+  </div>   
 <div class="row is-multiline">
 	<div class="col is-half-tablet padding--bottom--lg">
     <img src="/images/learning-communities/wellness/LC-Wellness-SMSknowledgecafe-01.jpg" alt="SMS Knowledge Café">
