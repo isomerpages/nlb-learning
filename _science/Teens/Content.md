@@ -168,7 +168,7 @@ Join neuroscientist Wendy Suzuki as she dives deep into the positive, permanent 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/vKBPhPMOi5A"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/OeGpf1MyM2M"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -181,7 +181,7 @@ Your skin is your body's largest organ ... but it might be the most misunderstoo
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/T5yHHZMn8ko"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/MWE3U3FItlc"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -196,7 +196,7 @@ Your skin is your body's largest organ ... but it might be the most misunderstoo
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/g9Szzb2YBXY"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/_r4c2NT4naQ"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
