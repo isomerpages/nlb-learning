@@ -161,7 +161,52 @@ Join neuroscientist Wendy Suzuki as she dives deep into the positive, permanent 
   </div>
 </div>
 
+<h5 class="margin--bottom--lg" id="science-beyond-school"><b>Playlist: S.O.S. (Science of Skin)</b></h5>
+<p>Too hot to go outside? Stay home and learn about the largest organ in our body with these videos!</p>
+<br>
 
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/vKBPhPMOi5A"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Five skin health myths to stop believing now | Body Stuff with Dr. Jen Gunter (5:50)</b><br>
+Your skin is your body's largest organ ... but it might be the most misunderstood, says Dr. Jen Gunter. From sunscreen to cancer and even chocolate, she tackles five misleading myths about skin and shares what you can do to protect it. 
+ <br>
+<small> Source: 5 skin health myths to stop believing now | Body stuff with Dr. Jen Gunter, YouTube (2021, June 24). TED  </small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/T5yHHZMn8ko"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> The skin microbiome: a healthy bacterial balance (3:39) </b><br>
+ Our skin is home to billions of microorganisms, the vast majority of which are bacteria. Much like the microbiome in our gut, these microbes play a crucial part in keeping us healthy. 
+<br>
+<small> Source: The skin microbiome: a healthy bacterial balance. YouTube (2020, December 16). Nature video
+</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/g9Szzb2YBXY"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> The science of skin color - Angela Koine Flynn (4:53) </b><br>
+When ultraviolet sunlight hits our skin, it affects each of us differently. Depending on skin color, it’ll take only minutes of exposure to turn one person beetroot-pink, while another requires hours to experience the slightest change. What’s to account for that difference, and how did our skin come to take on so many different hues to begin with? Angela Koine Flynn describes the science of skin color.
+<br>
+<small> Source: The science of skin color - Angela Koine Flynn, YouTube (2016, February 17). TED-Ed
+</small></p>
+  </div>
+</div>
 
 
 <h3><b>Learning Package</b></h3>
