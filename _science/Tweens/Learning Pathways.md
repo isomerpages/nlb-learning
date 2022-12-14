@@ -75,15 +75,15 @@ Stay tuned for more updates.</td>
     </thead>
 		<tbody>
 			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=odcleoeventsincollection" target="_blank"><b> Renewable Resource and Recycling Talk @ Jurong Regional Library </b></a></td>
-				<td style="width: 40%;">Learn all about renewable resources and how to recycle right. Stand a chance to win attractive recycled and/or upcycled prizes during the quiz!</td>
-				<td style="width: 20%;">8 Sep 2022, 2.30pm - 3.30pm</td>
+				<td style="width: 20%;"><a href="(https://www.eventbrite.sg/e/urban-farm-learning-journey-tickets-424908742487?aff=odcleoeventsincollection)" target="_blank"><b> Urban Farm Learning Journey | Bishan Public Library </b></a></td>
+				<td style="width: 40%;">Get a first-hand, onsite experience on how nutritious and affordable vegetables are grown with the help of technology!</td>
+				<td style="width: 20%;">23 Dec 2022, 9.30am - 11.30am</td>
 				<td style="width: 20%;"></td>
 			</tr>
 			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/sphero-party-jurong-regional-library-tweenkerama-tickets-400591037577?aff=odcleoeventsincollection" target="_blank"><b> Sphero Party | Jurong Regional Library | Tweenkerama </b></a></td>
-				<td style="width: 40%;">The Sphero BOLT is an app-enabled robotic ball that provides endless opportunities to have fun while learning. In this workshop, participants will learn to handle, navigate, and program Sphero using a block-based programming language on phones or tablets.</td>
-				<td style="width: 20%;">10 Sep 2022, 2pm - 4pm</td>
+				<td style="width: 20%;"><a href="(https://www.eventbrite.sg/e/zeckys-sci-fi-story-and-craft-toa-payoh-public-library-tickets-453543921077?aff=ebdsoporgprofile)" target="_blank"><b> Zecky's Sci Fi Story and Craft | Toa Payoh Public Library </b></a></td>
+				<td style="width: 40%;">Join us for a special storytelling session! Get to know how Zecky got her spectacles and bring home a unique craft.</td>
+				<td style="width: 20%;">17 Dec 2022, 11am - 12pm</td>
 				<td style="width: 20%;"> </td>
 			</tr>
     </tbody>
