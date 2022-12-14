@@ -69,17 +69,14 @@ Immerse yourself in the possibilities of science!
         <td>YouTube</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/e/explore-forensics-scienti-fx-teens-takeover-jurong-regional-library-tickets-401081243797?aff=odcleoeventsincollection" target="_blank"><b>Explore Forensics | scienti-f(x) | Teens Takeover @ Jurong Regional Library</b></a></td>
-        <td>Have you ever wondered what it’s like to be in the shoes of a Forensic Scientist? Learn more about Forensic Science with interesting hands-on activities.</td>
-        <td>7 Sep 2022, <br>4pm – 5.30pm </td>
-        <td>Jurong Regional Library</td>
+<td><a href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=ebdsoporgprofile" target="_blank"><b>News Journalism 101 | Teens Takeover | re:write</b></a></td>
+        <td>Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.
+By the end of the session, you will put together a newspaper layout, learn about different writing styles, and create your very own news article mock-up!</td>
+        <td>17 Dec 2022, <br>2pm – 3.30pm </td>
+        <td>Serangoon Public Library</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/e/create-a-superhydrophobic-coating-jurong-regional-library-tickets-401084553697?aff=odcleoeventsincollection" target="_blank"><b>Create a Superhydrophobic Coating @ Jurong Regional Library</b></a></td>
-        <td>Learn how to create a simple coating process to create a super-hydrophobic surface!</td>
-        <td>8 Sep 2022, <br>11am – 12pm </td>
-        <td>Jurong Regional Library</td>
-      </tr>
+
 			
   </tbody>
   </table>
