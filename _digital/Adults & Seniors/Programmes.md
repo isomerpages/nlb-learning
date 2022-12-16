@@ -1,12 +1,9 @@
 ---
 title: Programmes
-permalink: /digital/adults-seniors/programmes
+permalink: /digital/adults-seniors/programmes/
 description: ""
 third_nav_title: Adults & Seniors
 ---
-
-
-
 <style type="text/css">
 /* Links */
 .content a { color: #322987; }
@@ -36,7 +33,7 @@ LearnX Digital goes beyond books to bring tech closer to you, with up-close and 
 
 Learn more about the evolving needs at work and get better prepared for the future workplace. The series provides simple-to-understand foundations in topics such as Artificial Intelligence, Big data, Blockchain and digital productivity suites.
 
-Click <strong>[here](https://go.gov.sg/nlbfow){:target="_blank"}</strong> for the latest programme listings.
+Click <strong> [here](https://go.gov.sg/nlb-fow){:target="_blank"} </strong> for the latest programme listings.
 
 ## **My Digital Life**
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-02.jpg)
@@ -45,7 +42,7 @@ A new series on how technology impacts our daily lives. Dive into topics such as
 
 This series is organised in collaboration with NLB’s S.U.R.E programme, partners and community advocates. 
 
-Click <strong>[here](https://go.gov.sg/nlbmdl){:target="_blank"}</strong> for the latest programme listings.
+Click <strong>[here](https://go.gov.sg/nlb-mdl){:target="_blank"}</strong> for the latest programme listings.
 
 ## **MakeIt at Libraries** 
 ![Alt text for image on Isomer site](/images/digital/Digital-Prog-AS-MakeIT-at-Libraries.png)

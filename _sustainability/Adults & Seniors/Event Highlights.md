@@ -68,8 +68,6 @@ Over the course of six weeks, 25 individuals, from different walks of life such 
 JOIN US AT OUR EXHIBITIONS TO LEARN ABOUT THEIR PROJECTS! 
 
 <b><u> Exhibition details</u></b>
-<br>1 Jul to 31 Aug @ Bukit Batok Public Library
-<br>1 Sep to 31 Oct @ Queenstown Public Library
 <br> 1 Nov to 31 Dec @ Clementi Public Library
 
 <b>Check out the posters of the teams' finalized ideas:</b>
