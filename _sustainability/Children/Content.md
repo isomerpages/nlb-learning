@@ -72,7 +72,7 @@ The planet and its resources sustain all life on earth. More than ever, we need 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/9WrYB67b-mM" class="responsive-iframe"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/9WrYB67b-mM" ></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -83,12 +83,12 @@ Learn how to grow and harvest your own mighty microgreens at home!</p>
   </div>
 </div>
 
-<div class="row is-multiline">
+<div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="image-container" style="margin: auto;">
-			 <iframe src="https://www.youtube.com/embed/F4axVYbTXvA" class="responsive-iframe"></iframe>
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/F4axVYbTXvA" ></iframe>
+    </div>
   </div>
-	</div>
   <div class="col is-three-fifths">
 <p><b class="has-text-indigo">Planting Trees: Can Trees Undo Climate Change? | ClimateScience #5 (5 mins)
 </b><br> 
