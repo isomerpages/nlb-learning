@@ -47,15 +47,15 @@ Check out our **learning packages** to pick up tips and be prepared for future e
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#playlist-climatecleanup">
-        <span>Playlist:<br>Climate Clean Up</span>
+      <a href="#playlist-fantasticforests">
+        <span>Playlist:<br>Fantastic Forests</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-travellingsustainably">
-        <span>Learning Packages:<br>Travelling Sustainably | Teen•Things</span>
+      <a href="#lp-forestsjungles">
+        <span>Learning Packages:<br>Our Forests and Jungles | World Wildlife Fund</span>
       </a>
     </div>
   </div>
@@ -64,54 +64,53 @@ Check out our **learning packages** to pick up tips and be prepared for future e
 <h3 class="margin--bottom--lg"><b>Playlist</b></h3>
 <p>Gain insights into the intricacies of environmental issues and be inspired to live more sustainably.</p>
 
-<h5 class="margin--bottom--lg" id="playlist-climatecleanup"><b>Playlist: Climate Clean Up</b></h5>
-Explore pressing environmental issues that are transforming our planet, and strategies in place to combat climate change.
+<h5 class="margin--bottom--lg" id="playlist-fantasticforests"><b>Playlist: Fantastic Forests</b></h5>
+Forests cover nearly a third of land on Earth and offer homes to a wide array of plants and animals. Check out these videos to explore the fantastic ecosystems and what communities are doing to preserve them. 
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/pXDx6DjNLDU"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/tB-8-sk1V6s"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">This Robot Eats Trash (12 min)</b><br>
-Mark Rober introduces the Interceptor, a brilliant garbage-eating robot that cleans up floating trash in water bodies.</p>
-   <small>Source: This Robot Eats Trash (2021, Oct 30). Mark Rober. Retrieved 2022, 21 September.</small>
+    <p><b class="has-text-indigo">How Australia is Regreening its Deserts Back into a Green Oasis (4 min)</b><br>Widespread deforestation has caused Australia to become one of the driest inhabited continents on Earth. However, some regions are turning this around, restoring millions of trees and improving biodiversity to the ecosystem.</p>
+   <small>Source: How Australia is Regreening its Deserts Back into a Green Oasis (2022, Sep 19). Leaf of Life. Retrieved 2022, 5 December.</small>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/btSDddn1Vew"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/PtvWv9vZN38"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo">Our Planet | Ellie Goulding & Steven Price – In This Together | Music Video | Netflix (5 min)</b><br>
-Explore how interconnected the Earth is, from exotic jungles to the deepest sea, in the theme song of Netflix's nature documentary "Our Planet". </p>
-    <small>Source: Our Planet | Ellie Goulding & Steven Price – In This Together | Music Video | Netflix (2019, Apr 5). Netflix. Retrieved 2022, 27 September.</small>
+<p><b class="has-text-indigo">International Day of Forests 2022 – Why Malaysian rainforests are living treasures? (3 min)</b><br>
+Malaysia’s rainforests are home to astounding biodiversity and provide vital services that support life. To celebrate International Day of Forests 2022, this video shares why these rainforests are such living treasures to the region.</p>
+    <small>Source: International Day of Forests 2022 – Why Malaysia rainforests are living treasures? (2022, Mar 22). The Habitat Foundation. Retrieved 2022, 5 December.</small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/1Ojwi8r01Cs"></iframe>
+      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/K-r2EetCtO0"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">The Big Mountain Cleanup | NIMSDAI (2 min)</b><br>
-See how climate change is warming and melting the Khumbu glacier and find out what you can do to protect it.</p>
-		<small>Source: The Big Mountain Cleanup | NIMSDAI (2021, Jul 5). Nims Dai. Retrieved 2022, 21 September.</small>
+    <p><b class="has-text-indigo">We’re Bringing Back Iceland’s Forgotten Forests (11 min)</b><br>
+Learn about Iceland’s ecology and how communities are recreating the native forest habitat to fight against its desertification. </p>
+		<small>Source: We’re Bringing Back Iceland’s Forgotten Forests (2022, Aug 5). Mossy Earth. Retrieved 2022, 5 December.</small>
   </div>
 </div>
 <br>
 
-<h3 class="margin--bottom--lg" id="lp-travellingsustainably"><b>Learning Packages</b></h3>
+<h3 class="margin--bottom--lg" id="lp-forestsjungles"><b>Learning Packages</b></h3>
 Articles/resources that show us interesting ways to live sustainably.
 
-<h5><b>Travelling Sustainably | Teen•Things</b></h5>
-Stay green and sustainable while seeing the wide, wide world! <a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/secondary/teen-things#id2">Check it out</a>!
+<h5><b>Our Forests and Jungles | World Wildlife Fund</b></h5>
+Let’s take a deep breath—and a deep dive—into the green lungs of our planet.<a target="_blank" href="http://awsassets.panda.org/downloads/primary_ourforests_jungles.pdf">Check it out</a>!
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
