@@ -44,41 +44,34 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
 				<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/the-pleasure-of-the-short-story-story-beings-tickets-443923315587?aff=odcleoeventsincollection"><b>[Tamil Holiday Programmes] An Introduction to Popular Tamil Fiction</b></a></td>
-        <td>Learn about popular contemporary stories and how they have transcended time to be known as the best of Tamil fiction. This programme is suitable for Secondary level students.
-        </td><td>1 Dec 2022, <br>11am – 12.30pm</td>
-        <td>Online</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/practicing-the-art-of-observation-interpretation-skills-tickets-474425097237"><b>Practicing the Art of Observation: Interpretation Skills</b></a></td>
+        <td> Reading is commonly associated with books . However, it is equally important to learn the art of reading people, places, and situations.
+        </td><td>10 Jan 2022, <br>7.30pm – 9pm</td>
+        <td>National Library Imagination Room </td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-toa-payoh-public-library-tickets-435551986717?aff=ebdsoporgprofile"><b>Dungeons & Dragons w/The Legitimate Business @ Toa Payoh Public Library</b></a></td>
-        <td style="width: 40%;">Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG.</td>
-        <td style="width: 20%;">4 Dec 2022,
-<br>1.30pm – 5.30pm,</td>
-        <td style="width: 20%;">Toa Payoh Public Library Programme Zone</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/communities-zzzink-libraryorchard-registration-432420851407"><b>Communities: Zzzink! | library@orchard</b></a></td>
+        <td style="width: 40%;">Join a community of that gathers every third Sunday monthly to tinker with zines and the many forms of art and narratives. </td>
+        <td style="width: 20%;">15 Jan 2023,
+<br>3pm – 5pm</td>
+        <td style="width: 20%;">library@orchard</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/immersive-storytelling-for-real-and-imagined-worlds-tickets-461625844327?aff=ebdsoporgprofile"><b>Immersive Storytelling for Real and Imagined Worlds
+<td><a target="_blank" href="https://www.eventbrite.sg/e/how-to-navigate-the-fantastical-and-the-real-a-bridge-to-the-classics-tickets-472429207477"><b>How to Navigate the Fantastical and the Real | A Bridge to the Classics
 </b></a></td>
-        <td> In Immersive Storytelling, theme park designer Margaret Kerrison shares tips and tricks for writers on teams tasked with bringing a narrative to life.
-	</td><td>11 Dec 2022, <br>
-11am – 12pm
+        <td> Join Dr Susan Ang as she unpacks Ken Liu's popular speculative fiction collection The Paper Menagerie and Other Short Stories.
+	</td><td>17 Jan 2023, <br>
+7.30pm – 8.30pm
 	</td>
         <td>Online</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/cckpl-unplugged-with-singapore-untamed-tickets-470926994317?aff=odcleoeventsincollection"><b>CCKPL: Unplugged with Singapore Untamed</b></a></td>
-        <td> For this Unplugged event, players will be trying out a simplified version of Singapore Untamed, a boardgame, to learn about the diverse fauna and local wildlife species that call Singapore home.</td>
-	<td>16 Dec 2022, <br>3pm – 5pm</td>
-        <td>Choa Chu Kang Public Library Programme Zone</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/how-to-survive-an-isle-of-poisonous-waste-a-bridge-to-the-classics-tickets-473207535477"><b>How to Survive an Isle of Poisonous Waste | A Bridge to the Classics</b></a></td>
+        <td> Join Dr Susan Ang as she explores the eco-politics of waste in Chen Qiufan's Waste Tide!</td>
+	<td>31 Jan 2022, <br>7.30pm – 8.30pm</td>
+        <td>Online</td>
       </tr>
 
-<tr>
-	<td><b>News Journalism 101 | Teens Takeover | re:write </b><br><a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429092526297?aff=odcleoeventsincollection"><b>Session 1 </b></a>
-					<a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=odcleoeventsincollection"><b>Session 2 </b></a></td>
-	<td>Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.<br>
-        </td><td>10 Dec 2022, <br>2pm-3.30pm | <br>17 Dec 2022,<br>2pm-3.30pm</td>
-        <td>Serangoon Public Library, Programme Zone</td>
-      </tr>
     </tbody>
   </table>
 </div>
@@ -92,19 +85,19 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/an-introduction-to-latin-jazz-56-jazz-for-curious-listeners-registration-384455545887?aff=odcleoeventsincollection" ><b>Let's Celebrate Jazz Music 6/6 | Jazz for Curious Listeners</b></a></td>
-	<td>Join us in our 6-session introductory series on Jazz music and appreciation, catered for the beginners!<br><br>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-479793905487" ><b>Unplugged @ Choa Chu Kang Public Library</b></a></td>
+	<td>Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!<br><br>
         </td><td>3 Dec 2022, <br>
-4pm – 5.30pm</td>
-        <td>library@esplanade</td>
+3pm-5pm</td>
+        <td>Choa Chu Kang Library Programme Zone</td>
       </tr>
 <tr>
-        <td><a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429094442027?aff=odcleoeventsincollection"><b>Interview Skills | Teens Takeover | portfolio
+        <td><a target="_blank" href="https://www.eventbrite.sg/e/get-started-in-theatre-fundamentals-of-acting-artseen-tickets-461647148047"><b>Get Started In: Theatre (Fundamentals of Acting) | artseen
 </b></a></td>
-        <td>Ace that interview! Discover the useful skills and qualities needed to make a good first impression</td>
+        <td>A three-hour introduction to the world of theatre, and how acting techniques can build your confidence as a speaker and a performer.</td>
         <td>
-			 6 Dec 2022 <br>11am – 12.30pm</td>
-        <td>Pasir Ris Public Library, <br>Programme Zone</td>
+			 28 Jan 2022 <br>2.30pm – 5.30pm</td>
+        <td>Jurong Regional Library, <br>Programme Zone</td>
       </tr>
     </tbody>
   </table>
