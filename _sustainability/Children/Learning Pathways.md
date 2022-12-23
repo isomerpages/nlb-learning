@@ -37,14 +37,14 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/children/content" target="_blank"><b> Playlist:<br>Food Waste</b></a></td>
-        <td style="width: 40%;"> Food waste is everywhere! Learn more about how our food produces waste, and how we can be part of the solution.</td>
+        <td style="width: 20%;"><a href="/sustainability/children/content" target="_blank"><b> Playlist:<br>Nurturing Nature</b></a></td>
+        <td style="width: 40%;">The planet and its resources sustain all life on earth. More than ever, we need to protect the resources we have now for the future. Learn about the importance of taking care of nature!</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://go.gov.sg/nlb-foodaudit" target="_blank"><b> Learning Package:<br>Food Audit | Communities@Libraries</b></a></td>
-        <td>Each of us wastes food differently. This activity helps you figure out what type of food you waste and how to reduce it.</td>
+        <td><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary-school-resources/permalink#home-gardening-for-kids" target="_blank"><b> Learning Package:<br>Home Gardening For Kids | Stay Curious With Your Child</b></a></td>
+        <td>Eat homegrown veggies and reduce waste together with your child!</td>
         <td></td>
         <td></td>
       </tr>
@@ -61,18 +61,15 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 						<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/urban-farm-learning-journey-tickets-424908251017?aff=odcleoeventsincollection" target="_blank"><b> Urban Farm Learning Journey</b></a></td>
-        <td style="width: 40%;">Get a first-hand, onsite experience on how nutritious and affordable vegetables are grown with the help of technology!<br><br>This programme is for children aged 7 years and above, and parents/caregivers are needed to accompany their children for this learning journey. Participants are required to meet at <b>Bishan Public Library, Main Entrance by 9.30am</b> as there will be a chartered bus to bring participants to and from the farm.
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/d/singapore--singapore/%23earthheroes/" target="_blank"><b> Earth Heroes | Sustainability</b></a></td>
+        <td style="width: 40%;">A series of talks and workshops for tweens to explore various green topics and projects.
+
+  
+
+Stay tuned for more updates.
 </td>
-        <td style="width: 20%;">9 Dec 2022, <br>9.30-11.30am</td>
-        <td style="width: 20%;">Bishan Public Library</td>
-			</tr>						
-			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/urban-farm-learning-journey-tickets-424908742487?aff=odcleoeventsincollection" target="_blank"><b> Urban Farm Learning Journey</b></a></td>
-        <td style="width: 40%;">Get a first-hand, onsite experience on how nutritious and affordable vegetables are grown with the help of technology!<br><br>This programme is for children aged 7 years and above, and parents/caregivers are needed to accompany their children for this learning journey. Participants are required to meet at <b>Bishan Public Library, Main Entrance by 9.30am</b> as there will be a chartered bus to bring participants to and from the farm.
-</td>
-        <td style="width: 20%;">23 Dec 2022, <br>9.30-11.30am</td>
-        <td style="width: 20%;">Bishan Public Library</td>
+        <td style="width: 20%;"></td>
+        <td style="width: 20%;"></td>
 			</tr>
     </tbody>
   </table>
@@ -87,23 +84,11 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/build-with-blokies-tinkerworks-science-tickets-441506055497?aff=ebdssbdestsearch" target="_blank"><b>Build with Blokies! | TinkerWorks </b></a></td>
-        <td style="width: 40%;">Let your imagination run free as you build a robot, or even a dinosaur! Develop Science and Engineering skills through open play, exploration and experimentation with these cardboard pieces, also known as Blokies!</td>
-        <td style="width: 20%;">20 Nov 2022,<br>11am-12pm</td>
-        <td style="width: 20%;">Sengkang Public Library </td>
-      </tr><tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/i-can-be-a-fantasy-writer-too-children-write-tickets-441500719537?aff=ebdssbdestsearch" target="_blank"><b>I Can Be a Fantasy Writer Too! | Children Write</b></a></td>
-        <td style="width: 40%;">Do you love stories? Have you ever wondered if you could write your own?
-<br><br>
-Come unlock your creative potential with award-winning author Low Ying Ping of the Mount Emily novels and Prophecy of the Underworld as she guides you to write a story on fantastical worlds and beings.</td>
-        <td style="width: 20%;">24 Nov 2022,<br>2-3.30pm</td>
-        <td style="width: 20%;">Bukit Panjang Public Library </td>
-      </tr><tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/create-a-comic-strip-children-write-tickets-441496005437?aff=ebdssbdestsearch" target="_blank"><b>Create a Comic Strip! | Children Write</b></a></td>
-        <td style="width: 40%;">Join Benedict Boo and Alan Bay, the duo behind Adventures With Germs And Your Health, for a fun, interactive and experimental session where you’ll learn the basics of writing and illustrating a comic. Absolutely no prior experience required!
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-479793905487?aff=odcleoeventsincollection" target="_blank"><b>Unplugged</b></a></td>
+        <td style="width: 40%;">Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!	
  </td>
-        <td style="width: 20%;">30 Nov 2022,<br>11am-12.30pm</td>
-        <td style="width: 20%;">library@harbourfront</td>
+        <td style="width: 20%;">06 Jan 2023,<br>3pm-5pm</td>
+        <td style="width: 20%;">Chua Chu Kang Public Library</td>
       </tr>
 			     </tbody>
   </table>
