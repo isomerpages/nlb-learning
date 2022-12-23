@@ -66,7 +66,7 @@ Check out our **learning package** to learn more about the unique characteristic
   </div>
 
 
-<h5 class="margin--bottom--lg" id="playlist-cityinnature"><b>Playlist: Climate Rescue</b></h5>
+<h5 class="margin--bottom--lg" id="playlist-climateresue"><b>Playlist: Climate Rescue</b></h5>
 Every year, our planet gets warmer and warmer. Eventually, Earth may become too hot to live in.
 <br><br>
 Our decisions and actions can save our climate: watch on to find out what you can do! 
