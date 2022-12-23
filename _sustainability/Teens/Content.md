@@ -110,7 +110,7 @@ Learn about Iceland’s ecology and how communities are recreating the native fo
 Articles/resources that show us interesting ways to live sustainably.
 
 <h5><b>Our Forests and Jungles | World Wildlife Fund</b></h5>
-Let’s take a deep breath—and a deep dive—into the green lungs of our planet. <a target="_blank" href="http://awsassets.panda.org/downloads/primary_ourforests_jungles.PDF">Check it out</a>!
+Let’s take a deep breath—and a deep dive—into the green lungs of our planet. <a target="_blank" href="http://awsassets.panda.org/downloads/primary_ourforests_jungles.pdf">Check it out</a>!
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
