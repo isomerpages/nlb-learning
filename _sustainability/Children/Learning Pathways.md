@@ -62,10 +62,8 @@ Go green with your child to build an eco-friendly future together.
     <tbody>
 						<tr>
          <td style="width: 20%;"><a href="https://www.eventbrite.sg/d/singapore--singapore/%23earthheroes/" target="_blank"><b> Earth Heroes | Sustainability</b></a></td>
-        <td style="width: 40%;">A series of talks and workshops for tweens to explore various green topics and projects.
-
-  
-
+        <td style="width: 40%;">A series of workshops for children to explore various green topics and projects.
+<br><br>
 Stay tuned for more updates.
 </td>
         <td style="width: 20%;"></td>
