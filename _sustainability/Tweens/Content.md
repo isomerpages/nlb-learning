@@ -113,6 +113,6 @@ Our decisions and actions can save our climate: watch on to find out what you ca
 Articles/resources that show us interesting ways to live sustainably.
 
 <h5><b>Eye Spy a Python | My Animal Buddy (Mandai Wildlife Reserves)</b></h5>
-Can you spot the unique characteristics of a reticulated python? Check it out<a target="_blank" href="https://mab.mandai.com/letscelebrate/snakegame.html">here</a>!
+Can you spot the unique characteristics of a reticulated python? Check it out <a target="_blank" href="https://mab.mandai.com/letscelebrate/snakegame.html">here</a>!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
