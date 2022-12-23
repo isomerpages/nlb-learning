@@ -50,71 +50,73 @@ Check out our **learning package** and take a walk of discovery in your nearby g
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#playlist-ouroceans">
-        <span>Playlist:<br>Our Oceans</span>
+      <a href="#playlist-nurturingnature">
+        <span>Playlist:<br>Nurturing Nature</span>
       </a>
     </div>
   </div>
   <div class="col is-one-half">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-fieldjournal">
-        <span>Learning Package:<br>My Nature Field Journal | Singapore Botanic Gardens</span>
+      <a href="#lp-homegardening">
+        <span>Learning Package:<br>Home Gardening For Kids | Stay Curious With Your Child
+</span>
       </a>
     </div>
   </div>
   </div>
 
 
-<h5 class="margin--bottom--lg" id="playlist-ouroceans"><b>Playlist: Our Oceans</b></h5>
-Deep, large, and full of life, our oceans make up 70 percent of the Earth’s surface! Find out more about these amazing bodies of water that sustain life on our planet.
-
+<h5 class="margin--bottom--lg" id="playlist-nurturingnature"><b>Playlist: Nurturing Nature</b></h5>
+The planet and its resources sustain all life on earth. More than ever, we need to protect the resources we have now for the future. Learn about the importance of taking care of nature!
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/ITwPDs2LdcU" class="responsive-iframe"></iframe>
+      <iframe src="https://www.youtube.com/embed/9WrYB67b-mM" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">What on Earth is Blue Carbon? (3 min) </b><br>
-Have you heard of blue carbon? It is incredibly important for curbing climate change! Find out more in this video.</p>
-   <small>Source: What on Earth is Blue Carbon? (2019, Jul 29). Conservation International. Retrieved 2022, 26 September.</small>
+    <p><b class="has-text-indigo">Growing Sprouts and Microgreens at Home | Gardeners' Day Out (5 mins)
+ </b><br>
+Learn how to grow and harvest your own mighty microgreens at home!</p>
+   <small>Source: Growing Sprouts and Microgreens at Home | Gardeners' Day Ou (2022, Feb 19). NParksSG. Retrieved 2022, December 19.</small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="image-container" style="margin: auto;">
-			<a target="\_blank" href="https://drive.google.com/file/d/14MRFPDnAP4R1irGpK5cUfKjidcD6grqw/view"><img src="/images/sustainability/children/sus-children22q4-ocean.png" alt="Our Ocean, Our Buddy (3 min)" style="width: 100%;"></a>
+			 <iframe src="https://www.youtube.com/embed/F4axVYbTXvA" class="responsive-iframe"></iframe>
   </div>
 	</div>
   <div class="col is-three-fifths">
-<p><b class="has-text-indigo">Our Ocean, Our Buddy (3 min)</b><br> 
-Find out about the ocean and its many vital roles in fighting climate change. <br><br>Click on the book cover to watch the animated version of this eBook by Punggol Secondary students.</p>
-    <small>Source: Our Ocean, Our Buddy (2022, Apr). Punggol Secondary School INTERACT CLUB. Retrieved 2022, 18 October.</small>
+<p><b class="has-text-indigo">Planting Trees: Can Trees Undo Climate Change? | ClimateScience #5 (5 mins)
+</b><br> 
+Is the solution to climate change planting trees? Watch this video to find out how tree planting efforts can be successful.</p>
+    <small>Source: Planting Trees: Can Trees Undo Climate Change? | ClimateScience #5 (2021, March 16). ClimateScience – Solve Climate Change. Retrieved 2022, December 22. </small>
   </div>
 </div>
 
 <div class="row is-multiline">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/7tiZHrgc8Vc" class="responsive-iframe"></iframe>
+      <iframe src="https://www.youtube.com/embed/OiLITHMVcRw" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b class="has-text-indigo">The Deepest Part of the Ocean! (4 min)</b><br>
-Learn about the tough, mysterious, and alien-like creatures that call the Mariana Trench home, the deepest part of the ocean!</p>
-    <small>Source: The Deepest Part of the Ocean! (2017, Dec 8). SciShow Kids. Retrieved 2022, 26 September.</small>
+    <p><b class="has-text-indigo">Why soil is one of the most amazing things on Earth | BBC Ideas (5 mins)</b><br>
+Soil is everywhere under our feet, but also vastly under-appreciated. Did you know that almost everything we eat comes from soil, and we even make our medicines from the soil?</p>
+    <small>Source: Why soil is one of the most amazing things on Earth | BBC Ideas (2021, January 28). BBC Ideas. Retrieved 2022, December 22.</small>
   </div>
 </div>
 <br>
 
 
-<h3 class="margin--bottom--lg" id="lp-fieldjournal"><b>Learning Packages</b></h3>
+<h3 class="margin--bottom--lg" id="lp-homegardening"><b>Learning Packages</b></h3>
 Articles/resources that show us interesting ways to live sustainably.
 
-<h5><b>My Nature Field Journal | Singapore Botanic Gardens</b></h5>
+<h5><b>Home Gardening For Kids | Stay Curious With Your Child</b></h5>
 
-Hello explorer! Take a walk of discovery in your nearby park, garden and forest and record your observations in <a target="_blank" href="https://www.nparks.gov.sg/-/media/nparks-real-content/sbg-edu-new/nature-activity-booklet/my-nature-field-journal-sbg-education.ashxt">this journal</a>!
+Eat homegrown veggies and reduce waste together with your child! <a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/primary-school-resources/permalink#home-gardening-for-kids](https://childrenandteens.nlb.gov.sg/diy-resources/primary-school-resources/permalink#home-gardening-for-kids)">Find out more here</a>!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
