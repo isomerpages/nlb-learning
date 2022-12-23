@@ -95,12 +95,12 @@ Our decisions and actions can save our climate: watch on to find out what you ca
   </div>
 </div>
 
-<div class="row is-multiline margin--bottom--lg">
+<div class="row is-multiline">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-      <iframe class="responsive-iframe" src="https://www.youtube.com/embed/AR_8haFgvgY"></iframe>
-    </div>
+    <div class="image-container" style="margin: auto;">
+			<a target="\_blank" href="https://youtu.be/AR_8haFgvgY"><img src="/images/sustainability/tweens/sus-tweens22q4-22ways.png" alt="22 ways you can make a difference on climate change" style="width: 100%;"></a>
   </div>
+	</div>
   <div class="col is-three-fifths">
 <p><b class="has-text-indigo">22 ways you can make a difference on climate change (4 mins)</b><br>Climate change may seem big and scary, but individuals like you and me can do our part to reverse its harmful effects. Watch this video to find out what you can do to save the planet. </p>
     <small>Source: 22 ways you can make a difference on climate change – YouTube (2022, Jan 16). The Straits Times. Retrieved 2022, December 6.</small>
