@@ -37,13 +37,13 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/teens/content" target="_blank"><b> Playlist:<br>Climate Crash Course</b></a></td>
-        <td style="width: 40%;">Explore pressing environmental issues that are transforming our planet, and strategies in place to combat climate change.</td>
+        <td style="width: 20%;"><a href="/sustainability/teens/content" target="_blank"><b> Playlist:<br>Fantastic Forests</b></a></td>
+        <td style="width: 40%;">Forests cover nearly a third of land on Earth and offer homes to a wide array of plants and animals. Check out these videos to explore the fantastic ecosystems and what communities are doing to preserve them.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="https://nlb-dr-staging.netlify.app/diy-resources/secondary/teen-things-archive#id11" target="_blank"><b> Learning Package:<br>Urban Farming | Teen•Things</b></a></td>
+        <td><a href="/sustainability/teens/content/#lp-forestsjungles" target="_blank"><b>Our Forests and Jungles | World Wildlife Fund</b></a></td>
         <td>Maybe you have always aspired to be a farmer, or at the least, have green fingers. If you want to grow your own food, you can always start at home with your own spice garden! </td>
         <td></td>
         <td></td>
@@ -82,21 +82,10 @@ Stay tuned for more updates.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087?aff=odcleoeventsincollection" target="_blank"><b> Dungeons & Dragons w/The Legitimate Business</b></a></td>
-        <td style="width: 40%;"> Heard of the world of Dungeons & Dragons (D&D)? Come by Choa Chu Kang Public Library for a taste of this legendary fantasy role-playing game, and find out why millions of players worldwide have stepped into the boots of mighty heroes (and sneaky antiheroes) to create their own stories. </td>
-        <td style="width: 20%;">26 Nov 2022, 1pm-5pm</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-479793905487?aff=odcleoeventsincollection" target="_blank"><b> Unplugged</b></a></td>
+        <td style="width: 40%;">Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
+        <td style="width: 20%;">6 Jan 2022, 3pm-5pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library</td>
-      </tr>				<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429094442027?aff=odcleoeventsincollection" target="_blank"><b>Interview Skills | Teens Takeover | portfolio</b></a></td>
-        <td style="width: 40%;">Ace that interview! Discover the useful skills and qualities needed to make a good first impression.</td>
-        <td style="width: 20%;">6 Dec 2022 <br> 11am-12.30pm</td>
-        <td style="width: 20%;">Pasir Ris Public Library</td>
-      </tr>
-      <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=odcleoeventsincollection" target="_blank"><b> News Journalism 101 | Teens Takeover | re:write</b></a></td>
-        <td style="width: 40%;">Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.</td>
-        <td style="width: 20%;">17 Dec 2022 <br> 2-3.30pm	</td>
-        <td style="width: 20%;">Serangoon Public Library</td>
       </tr>
   </tbody>
   </table>
