@@ -40,7 +40,7 @@ third_nav_title: Teens
 
 Sustainability will be a breeze once you’re done with these learning packages and playlists.
 
-Check out our **playlist** to explore the fantastic ecosystems of our Earth's forests, and what communities are doing to preserve them. 
+Check out our **playlist** to explore the fantastic ecosystems of Earth's forests, and what communities are doing to preserve them. 
 
 Check out our **learning packages** for a deep dive into the green lungs of our planet.
 
