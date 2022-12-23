@@ -42,7 +42,7 @@ Sustainability will be a breeze once you’re done with these learning packages 
 
 Check out our **playlist** to explore the fantastic ecosystems of our Earth's forests, and what communities are doing to preserve them. 
 
-Check out our **learning packages** to pick up tips and be prepared for future environmental crises.
+Check out our **learning packages** for a deep dive into the green lungs of our planet.
 
 <div class="row is-multiline">
   <div class="col is-one-half">
