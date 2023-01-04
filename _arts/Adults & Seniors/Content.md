@@ -97,7 +97,7 @@ Check our **learning packages** for a more in-depth resource list, to expand you
   </div>
 	<div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="#lp-life-by-the-river">
+      <a href="#lp-river">
         <span>Learning Package:<br> Life By The River </span>
       </a>
     </div>
