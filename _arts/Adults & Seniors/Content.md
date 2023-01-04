@@ -731,7 +731,7 @@ Kassia St. Clair (2019), <i> The Golden Thread: How Fabric Changed History </i>,
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 
-<!-- Here They Come  -- 
+<!-- Here They Come  -->
 
 <h3><b>Learning Package</b></h3> 
  
