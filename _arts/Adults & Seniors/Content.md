@@ -800,7 +800,7 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h3><b>Learning Package</b></h3>
 <img alt="cover image" src="/images/arts/AS/NGS-life-by-the-river.jpeg">
-<h5 id="lp-life-by-the-river" class="margin--bottom--lg"><b>Life by the River</b></h5>
+<h5 id="lp-river" class="margin--bottom--lg"><b>Life by the River</b></h5>
 
 <h4>The Artist behind the Art</h4>
 <p> Born in Fujian Province in 1911, Liu Kang received his formal training in Xinhua Art Academy of Shanghai, where he was exposed to Chinese paintings. In 1928, he went to Paris where he was influenced by art movements such as Fauvism and Post-Impressionism. Not only was he one of Singapore’s pioneer artists, he was also a leading figure in the Society of Chinese Artists and the Singapore Art Society. In 1970, he was awarded the Public Service Star for his contribution in the field of art. <br><br>
