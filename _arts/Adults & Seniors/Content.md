@@ -737,7 +737,7 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
  
 ![](/images/Arts/AS/NGS-here-they-com.jpeg) 
 
-<h5> id="lp-here-they-come" class="margin--bottom--lg"><b>Here They Come!</b></h5>
+<h5 id="lp-here-they-come" class="margin--bottom--lg"><b>Here They Come!</b></h5>
 
 <h4>The Artist behind the Art</h4>
 <p> Born in 1938, Koeh graduated from the Nanyang Academy of Fine Arts (NAFA) in 1958. <br>
