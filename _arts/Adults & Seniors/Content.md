@@ -733,7 +733,7 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <!-- Here They Come  --
 
-<h3><b>Learning Package</b></h3>
+<h3><b>Learning Package</b></h3> 
 ![](/images/Arts/AS/NGS-here-they-com.jpeg)
 <h5 id="lp-here-they-come" class="margin--bottom--lg"><b>Here They Come!</b></h5>
 
