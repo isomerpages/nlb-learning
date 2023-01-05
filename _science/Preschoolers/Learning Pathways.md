@@ -164,11 +164,42 @@ Scientists use a pH scale, ranging from 0 to 14, to measure how acidic and basic
         <td>Bond with your baby through songs, rhymes and finger plays in this meaningful play session!In this session, you will be introduced to simple stories, songs, action rhymes and finger plays that you can use to interact and bond with your baby at home.This programme is for parents with babies up to 12 months old. </td>
         <td>Various Locations</td>
       </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/my-friend-kiara-a-story-of-friendship-and-disabilities-tickets-479033832087?aff=odcleoeventsincollection" target="_blank"><b> My Friend Kiara: A Story of Friendship and Disabilities  </b></a></td>
+        <td>      This interactive story telling session includes thought provoking activities and fun exercises for young children.<br>
+About the speaker: Kameel Vohra is the author of the Anika book series.    </td>
+        <td> Sat, Jan 14, 2023<br>11:30 AM – 12:00 PM<br></td>
+        <td>Sengkang Public Library </td>
+			</tr>
+			  <tr>			
+<td><a href="https://www.eventbrite.sg/e/discovertech-robo-coder-tickets-479771689037?aff=odcleoeventsincollection" target="_blank"><b> [DiscoverTech] Robo Coder
+</b></a></td>
+        <td>          Come build a robot with us and with a little a bit of coding, watch your creations come to life! Learn how gears, motors, and sensors work as you programme your way through fun and challenging missions. This parent-child session is suitable for preschoolers aged 4 to 6 years old.
+</td>
+        <td>Sat, Jan 14, 2023<br>11:00 AM – 12:00 PM <br></td>
+        <td>
+Bishan Public Library </td>
+			</tr>
 
-			
-			
-			
-			
+
+  <tr>			
+<td><a href="https://www.eventbrite.sg/e/little-tiger-tickets-482879564777?aff=odcleoeventsincollection" target="_blank"><b> Little Tiger
+</b></a></td>
+        <td>      Join Singapore Wildcat Action Group for a storytelling and coloring session about Little Tiger and its friends and their adventures!   </td>
+        <td> Sat, 14 Jan 2023
+<br>12:30 – 1:45pm <br></td>
+        <td>Choa Chu Kang Public Library</td>
+			</tr>
+		
+  <tr>			
+<td><a href="
+https://www.eventbrite.sg/e/connecting-with-nature-wildlife-conservation-us-tickets-479042979447?aff=odcleoeventsincollection" target="_blank"><b> Connecting With Nature | Wildlife Conservation & Us!
+</b></a></td>
+        <td>      Every day, more animals habitat and becoming endangered. Let’s play our part in saving them! Learn about wildlife conservation and different animal habitats in this informative workshop that comes with fun hands-on activities. This programme is suitable for children 4-6 years old.   </td>
+        <td>Sat, 28 Jan 2023 <br>10:30 – 11:30am<br></td>
+        <td>Jurong Regional Library  </td>
+			</tr>
+					
   </tbody>
   </table>
 </div>
