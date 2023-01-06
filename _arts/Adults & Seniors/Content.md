@@ -97,7 +97,7 @@ Check our **learning packages** for a more in-depth resource list, to expand you
   </div>
 	<div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="#lp-life-by-the-river">
+      <a href="#lp-river">
         <span>Learning Package:<br> Life By The River </span>
       </a>
     </div>
@@ -548,11 +548,10 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=V-LRwGNsP60"> H
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<img alt="cover image" src="/images/arts/AS/NGS-forest-fires.jpeg">
-
 
 <!-- Forest Fire LP  -->
 <h3><b>Learning Package</b></h3>
+<img alt="cover image" src="/images/arts/AS/NGS-forest-fires.jpeg">
 <h5 id="lp-forest-fire" class="margin--bottom--lg"><b> Forest Fire</b></h5>
 
 <h4>The Artist behind the art</h4>
@@ -653,10 +652,11 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <!-- Batik LP  -->
 
-<img alt="cover image" src="/images/arts/AS/NGS-batik.jpeg">
 	
 <h3><b>Learning Package</b></h3>
+<img alt="cover image" src="/images/arts/AS/NGS-batik.jpeg">
 <h5 id="lp-batik" class="margin--bottom--lg"><b>Batik</b></h5>
+
 <h4>What is Batik?</h4>
 <p> Batik painting is the process in which patterns or images are dyed onto fabric, usually using a wax-resist technique followed by the application of the dye.
 </p>
@@ -733,10 +733,12 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <!-- Here They Come  -->
 
-![](/images/Arts/AS/NGS-here-they-com.jpeg)
+<h3><b>Learning Package</b></h3> 
+ 
+![](/images/Arts/AS/NGS-here-they-com.jpeg) 
 
-<h3><b>Learning Package</b></h3>
 <h5 id="lp-here-they-come" class="margin--bottom--lg"><b>Here They Come!</b></h5>
+
 <h4>The Artist behind the Art</h4>
 <p> Born in 1938, Koeh graduated from the Nanyang Academy of Fine Arts (NAFA) in 1958. <br>
 Koeh as a student was greatly influenced by the prevailing social and political thinking in Singapore's Chinese community of the 1950s. <br>
@@ -796,10 +798,10 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <!-- Life by The River -->
 
-<img alt="cover image" src="/images/arts/AS/NGS-life-by-the-river.jpeg">
-
 <h3><b>Learning Package</b></h3>
-<h5 id="lp-life-by the-river" class="margin--bottom--lg"><b>Life by the River</b></h5>
+<img alt="cover image" src="/images/arts/AS/NGS-life-by-the-river.jpeg">
+<h5 id="lp-river" class="margin--bottom--lg"><b>Life by the River</b></h5>
+
 <h4>The Artist behind the Art</h4>
 <p> Born in Fujian Province in 1911, Liu Kang received his formal training in Xinhua Art Academy of Shanghai, where he was exposed to Chinese paintings. In 1928, he went to Paris where he was influenced by art movements such as Fauvism and Post-Impressionism. Not only was he one of Singapore’s pioneer artists, he was also a leading figure in the Society of Chinese Artists and the Singapore Art Society. In 1970, he was awarded the Public Service Star for his contribution in the field of art. <br><br>
 Learn more about Liu Kang from <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_158_2005-01-22.html?s=liu%20kang"> this Infopedia article.</a></p>

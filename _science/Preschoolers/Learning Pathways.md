@@ -142,35 +142,6 @@ Scientists use a pH scale, ranging from 0 to 14, to measure how acidic and basic
       </tr>
     </thead>
     <tbody>
-					<tr>			
-<td><a href="https://www.eventbrite.sg/e/budding-engineers-balloon-powered-car-tickets-461611491397?aff=odcleoeventsincollection" target="_blank"><b> [Budding Engineers] Balloon-Powered Car
-</b></a></td>
-        <td>Energy conversion exists all around us. How does this work and how does energy make things move? Let's find out in this session as we create our own balloon-powered cars that zoom around the library! With everyday items, we will delve into learning about potential and kinetic energy, while making the fastest car possible! This is a parent-child programme and is suitable for children aged 4-6 years old </td>
-      <td> 3  December 2022<br>2:00 – 3:00 pm <br></td>
-        <td>library@harbourfront</td>
-			</tr>
-			<tr>			
-<td><a href="https://www.eventbrite.sg/e/budding-scientists-little-doctors-tickets-461608582697?aff=odcleoeventsincollection" target="_blank"><b>  [Budding Scientists] Little Doctors  </b></a></td>
-        <td>Is your child curious about what's in the body and how the human body works? Discover the different body systems through a storytelling session and engaging activities for the little ones. 
-<br>
-Learn the names and functions of our internal organs and follow the path of food through our mouth, gullet, stomach, small intestine and large intestine in a simple and fun hands-on activity. 
-</td>
-      <td> 7 December 2022 <br>3:00 – 4:00 pm <br></td>
-        <td>Sengkang Public Library</td>
-			</tr>
-<tr>			
-<td><a href="https://www.eventbrite.sg/e/budding-scientists-exploring-colours-with-science-tickets-474923076707?aff=odcleoeventsincollection" target="_blank"><b>  [Budding Scientists] Exploring Colours With Science </b></a></td>
-        <td> Colour is around us! Discover the magic of colour mixing with Science. Red turns to orange, yellow turning to green while blue changes to purple. Learning how new colours are made is an exciting way for young children to experience and understand colours.</td>
-        <td> 10 December  2022 <br> 11.00 – 12.00 PM <br></td>
-        <td>Ang Mo Kio Public Library</td>
-			</tr>
-			<tr>			
-<td><a href="https://www.eventbrite.sg/e/colours-of-the-mind-at-the-library-tickets-461604309917?aff=odcleoeventsincollection" target="_blank"><b> Colours of the Mind at the Library  </b></a></td>
-        <td>Colours of the Mind is an interactive parent-child programme on mental well-being that includes fun, educational hands-on activities suitable for children aged 3 to 6 years old.
-Parents and children will get to learn more about managing emotions, delivered through a storyline with character Cora and accompanied with hands-on activities to encourage family bonding and the adoption of healthy habits.</td>
-      <td>   17 December 2022  <br>2:00 – 3:30 pm <br></td>
-        <td>Jurong Regional Library</td>
-			</tr>
 			</tbody>
 	</table>
 </div>
@@ -183,38 +154,52 @@ Parents and children will get to learn more about managing emotions, delivered t
       </tr>
     </thead>
     <tbody>
-			<tr>			
+		<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
-       <td>Check out all the Jiggle Read & Rhyme sessions for October!</td>
         <td>Various Locations</td>
       </tr>
-		<tr>			
-<td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-from-trash-to-treasure-tickets-461587429427?aff=odcleoeventsincollection" target="_blank"><b> [Caring for the Environment] From Trash to Treasure
+	<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b>  Baby Lapsit | Early READ  </b></a></td>
+        <td>Bond with your baby through songs, rhymes and finger plays in this meaningful play session!In this session, you will be introduced to simple stories, songs, action rhymes and finger plays that you can use to interact and bond with your baby at home.This programme is for parents with babies up to 12 months old. </td>
+        <td>Various Locations</td>
+      </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/my-friend-kiara-a-story-of-friendship-and-disabilities-tickets-479033832087?aff=odcleoeventsincollection" target="_blank"><b> My Friend Kiara: A Story of Friendship and Disabilities  </b></a></td>
+        <td>      This interactive story telling session includes thought provoking activities and fun exercises for young children.<br>
+About the speaker: Kameel Vohra is the author of the Anika book series.    </td>
+        <td> Sat, Jan 14, 2023<br>11:30 AM – 12:00 PM<br></td>
+        <td>Sengkang Public Library </td>
+			</tr>
+			  <tr>			
+<td><a href="https://www.eventbrite.sg/e/discovertech-robo-coder-tickets-479771689037?aff=odcleoeventsincollection" target="_blank"><b> [DiscoverTech] Robo Coder
 </b></a></td>
-        <td>Come join us for an interactive programme on upcycling! In this session, children will get to repurpose common household objects to create beautiful artwork. The workshop will encourage children to practice upcycling and gain a deeper understanding that everything can have a new lease of life— it is up to their imagination and creativity to breathe new life into discarded objects</td>
-      <td> 8 December 2022<br>2:00 – 3:00 pm <br></td>
-        <td>Pasir Ris Public Library </td>
-			</tr>
-				<tr>			
-<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-adorable-orangutans-tickets-470958558727?aff=odcleoeventsincollection" target="_blank"><b>  [Connecting with Nature] Adorable Orangutans! </b></a></td>
-        <td> Join us in learning about the adorable orangutans, the dangers that they're facing and what we can do to save them! Make your own orangutan bookmark to bring home. This is a parent-child programme, suitable for children aged 4-6 years old.
+        <td>          Come build a robot with us and with a little a bit of coding, watch your creations come to life! Learn how gears, motors, and sensors work as you programme your way through fun and challenging missions. This parent-child session is suitable for preschoolers aged 4 to 6 years old.
 </td>
-        <td>December 9, 2022 <br>2:30 PM – 3:30 PM <br></td>
-        <td>Bedok Public Library</td>
+        <td>Sat, Jan 14, 2023<br>11:00 AM – 12:00 PM <br></td>
+        <td>
+Bishan Public Library </td>
 			</tr>
-			<tr>			
-<td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-461606215617?aff=odcleoeventsincollection" target="_blank"><b>  [Caring for the Environment] All About Water Conservation</b></a></td>
-        <td>This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. </td>
-      <td> 11 December 2022 <br>2:00 – 3:00 pm <br></td>
-        <td>Bukit Panjang Public Library </td>
+
+
+  <tr>			
+<td><a href="https://www.eventbrite.sg/e/little-tiger-tickets-482879564777?aff=odcleoeventsincollection" target="_blank"><b> Little Tiger
+</b></a></td>
+        <td>      Join Singapore Wildcat Action Group for a storytelling and coloring session about Little Tiger and its friends and their adventures!   </td>
+        <td> Sat, 14 Jan 2023
+<br>12:30 – 1:45pm <br></td>
+        <td>Choa Chu Kang Public Library</td>
 			</tr>
-			<tr>			
-<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-shark-rescue-tickets-461585172677?aff=odcleoeventsincollection" target="_blank"><b> [Connecting with Nature] Shark Rescue!  </b></a></td>
-        <td>Learn all about sharks and how you can do your part to help protect them in this fun storytelling and craft session. This session is suitable for children aged 4-6. </td>
-      <td>  15 December 2022  <br>2:00 – 3:00 pm <br></td>
-        <td>Tampines Regional Library </td>
+		
+  <tr>			
+<td><a href="
+https://www.eventbrite.sg/e/connecting-with-nature-wildlife-conservation-us-tickets-479042979447?aff=odcleoeventsincollection" target="_blank"><b> Connecting With Nature | Wildlife Conservation & Us!
+</b></a></td>
+        <td>      Every day, more animals habitat and becoming endangered. Let’s play our part in saving them! Learn about wildlife conservation and different animal habitats in this informative workshop that comes with fun hands-on activities. This programme is suitable for children 4-6 years old.   </td>
+        <td>Sat, 28 Jan 2023 <br>10:30 – 11:30am<br></td>
+        <td>Jurong Regional Library  </td>
 			</tr>
+					
   </tbody>
   </table>
 </div>

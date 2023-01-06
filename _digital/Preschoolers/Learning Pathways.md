@@ -87,30 +87,14 @@ To ensure that the programmes run correctly, programmers will fix these bugs ste
 			</tr>
 		</thead>
 		<tbody>
-	
-			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-coding-unplugged-human-computers-early-read-registration-438780553447?aff=ebdsoporgprofile"><b>[DiscoverTech] Coding Unplugged: Human Computers! | Early READ</b></a></td>
-        <td>
-Calling all parents and children aged 4 to 6 years old! What if we told you you could become a computer for an hour? This hands-on, interactive session will introduce you and your child to the curious world of coding! Discover 3 basic coding concepts of branching, sequencing and algorithms through storytelling and a series of enjoyable unplugged activities.
- </td>
-       <td> 26 Nov 2022 <br> 11:00am– 12:00pm</td>
-        <td>Choa Chu Kang Public Library</td>
-      </tr>
-					<tr>			
-<td><a href="https://www.eventbrite.sg/e/discovertech-introduction-to-scratch-junior-coding-tickets-461575002257?aff=odcleoeventsincollection" target="_blank"><b> [DiscoverTech] Introduction to Scratch Junior Coding
+	  <tr>			
+<td><a href="https://www.eventbrite.sg/e/discovertech-robo-coder-tickets-479771689037?aff=odcleoeventsincollection" target="_blank"><b> [DiscoverTech] Robo Coder
 </b></a></td>
-     <td>ScratchJr is a programming language for children aged 4-6. Using ScratchJr, children can create their own interactive stories, animations and games.
-<br><br>
-Unit 1: Introduction
-<br>
-Learn to create own interactive computational media with ScratchJrBackground and Character Creation
-<Br><br>
-Unit 2: Motion
-<br>
-Learn to use ScratchJr to create motion and animationsUse blocks and open-ended explorationsSame block sequencing and motionNumbers and repeating sequences 
+        <td>          Come build a robot with us and with a little a bit of coding, watch your creations come to life! Learn how gears, motors, and sensors work as you programme your way through fun and challenging missions. This parent-child session is suitable for preschoolers aged 4 to 6 years old.
 </td>
-        <td>10 Dec 2022<br>11.30am – 12.30pm<br></td>
-        <td>Serangoon Public Library  </td>
+        <td>Sat, Jan 14, 2023<br>11:00 AM – 12:00 PM <br></td>
+        <td>
+Bishan Public Library </td>
 			</tr>
 		</tbody>
 	</table>
@@ -124,37 +108,41 @@ Learn to use ScratchJr to create motion and animationsUse blocks and open-ended 
       </tr>
 			</thead>
 		<tbody>
-			<tr>			
+		<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
-       <td>Check out all the Jiggle Read & Rhyme sessions for October!</td>
         <td>Various Locations</td>
       </tr>
-		<tr>			
-<td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-from-trash-to-treasure-tickets-461587429427?aff=odcleoeventsincollection" target="_blank"><b> [Caring for the Environment] From Trash to Treasure
+	<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b>  Baby Lapsit | Early READ  </b></a></td>
+        <td>Bond with your baby through songs, rhymes and finger plays in this meaningful play session!In this session, you will be introduced to simple stories, songs, action rhymes and finger plays that you can use to interact and bond with your baby at home.This programme is for parents with babies up to 12 months old. </td>
+        <td>Various Locations</td>
+      </tr>
+			<tr>			
+<td><a href="https://www.eventbrite.sg/e/my-friend-kiara-a-story-of-friendship-and-disabilities-tickets-479033832087?aff=odcleoeventsincollection" target="_blank"><b> My Friend Kiara: A Story of Friendship and Disabilities  </b></a></td>
+        <td>      This interactive story telling session includes thought provoking activities and fun exercises for young children.<br>
+About the speaker: Kameel Vohra is the author of the Anika book series.    </td>
+        <td> Sat, Jan 14, 2023<br>11:30 AM – 12:00 PM<br></td>
+        <td>Sengkang Public Library </td>
+			</tr>
+			
+
+  <tr>			
+<td><a href="https://www.eventbrite.sg/e/little-tiger-tickets-482879564777?aff=odcleoeventsincollection" target="_blank"><b> Little Tiger
 </b></a></td>
-        <td>Come join us for an interactive programme on upcycling! In this session, children will get to repurpose common household objects to create beautiful artwork. The workshop will encourage children to practice upcycling and gain a deeper understanding that everything can have a new lease of life— it is up to their imagination and creativity to breathe new life into discarded objects</td>
-      <td> 8 December 2022<br>2:00 – 3:00 pm <br></td>
-        <td>Pasir Ris Public Library </td>
+        <td>      Join Singapore Wildcat Action Group for a storytelling and coloring session about Little Tiger and its friends and their adventures!   </td>
+        <td> Sat, 14 Jan 2023
+<br>12:30 – 1:45pm <br></td>
+        <td>Choa Chu Kang Public Library</td>
 			</tr>
-				<tr>			
-<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-adorable-orangutans-tickets-470958558727?aff=odcleoeventsincollection" target="_blank"><b>  [Connecting with Nature] Adorable Orangutans! </b></a></td>
-        <td> Join us in learning about the adorable orangutans, the dangers that they're facing and what we can do to save them! Make your own orangutan bookmark to bring home. This is a parent-child programme, suitable for children aged 4-6 years old.
-</td>
-        <td>December 9, 2022 <br>2:30 PM – 3:30 PM <br></td>
-        <td>Bedok Public Library</td>
-			</tr>
-			<tr>			
-<td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-all-about-water-conservation-tickets-461606215617?aff=odcleoeventsincollection" target="_blank"><b>  [Caring for the Environment] All About Water Conservation</b></a></td>
-        <td>This programme introduces children to the concept of water conservation through interactive activities and hands-on learning. Children will learn why water conservation is so important in Singapore and how we dealt with water scarcity. </td>
-      <td> 11 December 2022 <br>2:00 – 3:00 pm <br></td>
-        <td>Bukit Panjang Public Library </td>
-			</tr>
-			<tr>			
-<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-shark-rescue-tickets-461585172677?aff=odcleoeventsincollection" target="_blank"><b> [Connecting with Nature] Shark Rescue!  </b></a></td>
-        <td>Learn all about sharks and how you can do your part to help protect them in this fun storytelling and craft session. This session is suitable for children aged 4-6. </td>
-      <td>  15 December 2022  <br>2:00 – 3:00 pm <br></td>
-        <td>Tampines Regional Library </td>
+			
+  <tr>			
+<td><a href="
+https://www.eventbrite.sg/e/connecting-with-nature-wildlife-conservation-us-tickets-479042979447?aff=odcleoeventsincollection" target="_blank"><b> Connecting With Nature | Wildlife Conservation & Us!
+</b></a></td>
+        <td>      Every day, more animals habitat and becoming endangered. Let’s play our part in saving them! Learn about wildlife conservation and different animal habitats in this informative workshop that comes with fun hands-on activities. This programme is suitable for children 4-6 years old.   </td>
+        <td>Sat, 28 Jan 2023 <br>10:30 – 11:30am<br></td>
+        <td>Jurong Regional Library  </td>
 			</tr>
     </tbody>
   </table>
