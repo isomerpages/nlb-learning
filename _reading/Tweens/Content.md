@@ -76,7 +76,6 @@ A collection of short videos and podcasts to expand reading interests.
 
 <br>
 
-
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -98,7 +97,7 @@ Have fun with puns in this educational video!<br><br>
   </div>
   <div class="col is-three-fifths">
   <p><b>Similes and Metaphors (3 min)</b><br>
-Simile Girl and Metaphor Man are here to save the day!  These heroes make learning your similes and metaphors as easy as pie. <br><br>
+Simile Girl and Metaphor Man are here to save the day!  These heroes make learning your similes and metaphors as easy as pie.<br><br>
 <small>Source: Similes and Metaphors (2013, March 14). The Bazillions. Retrieved 2023, January 10.</small></p>
   </div>
 </div>
@@ -110,7 +109,7 @@ Simile Girl and Metaphor Man are here to save the day!  These heroes make learni
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b>Word Play: Having Fun with the Sounds and Meanings of Words<b><br>
+  <p><b>Word Play: Having Fun with the Sounds and Meanings of Words</b><br>
 Check out different careers available and why it is important to love what you do.<br><br>
 <small>Source: Small Talk | Careers | CBC Kids (2018, December 15). CBC Kids. Retrieved 2022, September 21.</small></p>
   </div>
