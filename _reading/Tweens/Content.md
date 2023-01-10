@@ -48,8 +48,8 @@ Check out our **learning packages** for D.I.Y to engage your child in different 
 <div class="row is-multiline">
   	<div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#word-play">
-        <span>Playlist:<br>Word Play</span>
+      <a href="#its-all-about-the-word-play">
+        <span>Playlist:<br>It's All About the Word Play</span>
       </a>
     </div>
   </div>
@@ -71,7 +71,7 @@ Check out our **learning packages** for D.I.Y to engage your child in different 
 
 A collection of short videos and podcasts to expand reading interests.
 
-<h5 id="word-play" class="margin--bottom--lg"><b>Playlist: Word Play</b></h5>
+<h5 id="its-all-about-the-word-play" class="margin--bottom--lg"><b>Playlist: It's All About the Word Play</b></h5>
 
 <br>
 
@@ -102,7 +102,7 @@ Simile Girl and Metaphor Man are here to save the day!  These heroes make learni
   </div>
 </div>
 
-<h5><a href="https://www.thoughtco.com/word-play-definition-1692504" target="_blank">Article: Word Play: Having Fun With the Sounds and Meanings of Words</a></h5> 
+<h5><a href="https://www.thoughtco.com/word-play-definition-1692504" target="_blank">Word Play: Having Fun With the Sounds and Meanings of Words</a></h5> 
 <p>Here’s an article for you to explore and manipulate language with the intent to amuse! <br><br> 
 <small>Word Play: Having Fun With the Sounds and Meanings of Words (2019, November 4). ThoughtCo. Retrieved 2023, January 10.</small></p> 
 
