@@ -46,7 +46,14 @@ Check out our **playlists** for collections of short videos and podcasts to expa
 Check out our **learning packages** for D.I.Y to engage your child in different topics.
 
 <div class="row is-multiline">
-  <div class="col is-one-third">
+  	<div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#word-play">
+        <span>Playlist:<br>Word Play</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#work-hard-play-hard">
         <span>Playlist:<br>Work Hard, Play Hard</span>
@@ -60,9 +67,55 @@ Check out our **learning packages** for D.I.Y to engage your child in different 
       </a>
     </div>
   </div>
-	</div>
+
+
 	
 A collection of short videos and podcasts to expand reading interests.
+
+<h5 id="work-play" class="margin--bottom--lg"><b>Playlist: Word Play</b></h5>
+
+<br>
+
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/RNta_zl6o20" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b> Glove and Boots | What is Pun? (5 min)</b><br>
+Have fun with puns in this educational video!<br><br>
+<small>Source: Glove and Boots | What is Pun? (2019, March 28). Glove and Boots. Retrieved 2023, January 10.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/uoSBVNUO2LU" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Similes and Metaphors (3 min)</b><br>
+Simile Girl and Metaphor Man are here to save the day!  These heroes make learning your similes and metaphors as easy as pie. <br><br>
+<small>Source: Similes and Metaphors (2013, March 14). The Bazillions. Retrieved 2023, January 10.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/xB2vZTQIusg" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Word Play: Having Fun with the Sounds and Meanings of Words<b><br>
+Check out different careers available and why it is important to love what you do.<br><br>
+<small>Source: Small Talk | Careers | CBC Kids (2018, December 15). CBC Kids. Retrieved 2022, September 21.</small></p>
+  </div>
+</div>
+
 
 <h5 id="work-hard-play-hard" class="margin--bottom--lg"><b>Playlist: Work Hard, Play Hard</b></h5>
 
