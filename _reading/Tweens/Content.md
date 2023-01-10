@@ -104,7 +104,7 @@ Simile Girl and Metaphor Man are here to save the day!  These heroes make learni
 
 <h5><a href="https://www.thoughtco.com/word-play-definition-1692504" target="_blank">Word Play: Having Fun With the Sounds and Meanings of Words</a></h5> 
 <p>Here’s an article for you to explore and manipulate language with the intent to amuse! <br><br> 
-<small>Word Play: Having Fun With the Sounds and Meanings of Words (2019, November 4). ThoughtCo. Retrieved 2023, January 10.</small></p> 
+<small>Source: Word Play: Having Fun With the Sounds and Meanings of Words (2019, November 4). ThoughtCo. Retrieved 2023, January 10.</small></p> 
 
 
 <h5 id="work-hard-play-hard" class="margin--bottom--lg"><b>Playlist: Work Hard, Play Hard</b></h5>
