@@ -72,7 +72,7 @@ Check out our **learning packages** for D.I.Y to engage your child in different 
 	
 A collection of short videos and podcasts to expand reading interests.
 
-<h5 id="work-play" class="margin--bottom--lg"><b>Playlist: Word Play</b></h5>
+<h5 id="word-play" class="margin--bottom--lg"><b>Playlist: Word Play</b></h5>
 
 <br>
 
