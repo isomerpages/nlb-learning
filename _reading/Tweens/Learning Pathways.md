@@ -36,7 +36,13 @@ Read with your child to explore new topics and discover new experience.
       </tr>
     </thead>
     <tbody>
-      <tr>
+       <tr>
+        <td style="width: 20%;"><a href="/reading/tweens/content#its-all-about-the-wordplay" target="_blank"><b>Playlist: It's All About the Word Play</b></a></td>
+        <td style="width: 40%;"> Have a good chuckle with your child by playing with words! </td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+			<tr>
         <td style="width: 20%;"><a href="/reading/tweens/content#work-hard-play-hard" target="_blank"><b>Playlist: Work Hard, Play Hard</b></a></td>
         <td style="width: 40%;"> Explore different topics with these resources for your child to expand reading diets. </td>
         <td style="width: 20%;"> </td>
