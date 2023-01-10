@@ -76,6 +76,7 @@ A collection of short videos and podcasts to expand reading interests.
 
 <br>
 
+	
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -102,18 +103,9 @@ Simile Girl and Metaphor Man are here to save the day!  These heroes make learni
   </div>
 </div>
 
-<div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/xB2vZTQIusg" class="responsive-iframe"></iframe>
-    </div>
-  </div>
-  <div class="col is-three-fifths">
-  <p><b>Word Play: Having Fun with the Sounds and Meanings of Words</b><br>
-Check out different careers available and why it is important to love what you do.<br><br>
-<small>Source: Small Talk | Careers | CBC Kids (2018, December 15). CBC Kids. Retrieved 2022, September 21.</small></p>
-  </div>
-</div>
+<h5><a href="https://www.thoughtco.com/word-play-definition-1692504" target="_blank">Article: Word Play: Having Fun With the Sounds and Meanings of Words</a></h5> 
+<p>Here’s an article for you to explore and manipulate language with the intent to amuse! <br><br> 
+<small>Word Play: Having Fun With the Sounds and Meanings of Words (2019, November 4). ThoughtCo. Retrieved 2023, January 10.</small></p> 
 
 
 <h5 id="work-hard-play-hard" class="margin--bottom--lg"><b>Playlist: Work Hard, Play Hard</b></h5>
