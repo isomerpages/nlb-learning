@@ -60,11 +60,18 @@ Read with your child to explore new topics and discover new experience.
       </tr>
     </thead>
     <tbody>
+			      </tr>
+      <tr>
+ <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/the-great-race-wordplay-tickets-503188268657?aff=ebdssbdestsearch" target="_blank"><b>The Great Race | WordPlay</b></a></td> 
+         <td style="width: 40%;">Celebrate Chinese New Year with a story about how the animals earned their place in the Chinese zodiac by taking part in the Great Race! </td>
+         <td style="width: 20%;">21 Jan 2023,<br>2pm - 2.45pm<br><br></td>
+        <td style="width: 20%;">library@harbourfront, Stories Come Alive Room</td>
+			</tr>
       <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-411752702417" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
         <td style="width: 40%;">Take a break, unwind, and unplug over a game of tabletop games in this session for friends and family! 
 					</td><br><br>
-        <td style="width: 20%;">7 October 2022, <br>3pm - 5pm<br><br>2 December 2022, <br>3pm - 5pm</td>
+        <td style="width: 20%;">6 Jan 2023, <br>3pm - 5pm<br><br>3 Feb 2023, <br>3pm - 5pm<br><br>3 Mar 2023, <br>3pm - 5pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
       </tr>
       <tr>
