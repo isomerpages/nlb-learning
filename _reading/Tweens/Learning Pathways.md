@@ -42,6 +42,12 @@ Read with your child to explore new topics and discover new experience.
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
+				<tr>
+        <td style="width: 20%;"><a href="/reading/tweens/content#lp-words" target="_blank"><b>Learning Package: Words</b></a></td>
+        <td style="width: 40%;"> Engage in a game of Battleships to learn about words with your child! </td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
 			<tr>
         <td style="width: 20%;"><a href="/reading/tweens/content#work-hard-play-hard" target="_blank"><b>Playlist: Work Hard, Play Hard</b></a></td>
         <td style="width: 40%;"> Explore different topics with these resources for your child to expand reading diets. </td>
