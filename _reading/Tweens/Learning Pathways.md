@@ -80,8 +80,8 @@ Read with your child to explore new topics and discover new experience.
         <td style="width: 20%;">library@harbourfront, Stories Come Alive Room</td>
 			</tr>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-411752702417" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
-        <td style="width: 40%;">Take a break, unwind, and unplug over a game of tabletop games in this session for friends and family! 
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/d/singapore--singapore/%23cck_unplugged/?page=1" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
+        <td style="width: 40%;">Take a break, unwind, and unplug over a game of tabletop games in this session for friends and family! <br> <br>Registrations will open closer to the date.
 					</td><br><br>
         <td style="width: 20%;">6 Jan 2023, <br>3pm - 5pm<br><br>3 Feb 2023, <br>3pm - 5pm<br><br>3 Mar 2023, <br>3pm - 5pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
