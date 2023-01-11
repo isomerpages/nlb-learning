@@ -102,9 +102,11 @@ Simile Girl and Metaphor Man are here to save the day!  These heroes make learni
   </div>
 </div>
 
-<h5><a href="https://www.thoughtco.com/word-play-definition-1692504" target="_blank">Word Play: Having Fun With the Sounds and Meanings of Words</a></h5> 
-<p>Here’s an article for you to explore and manipulate language with the intent to amuse! <br><br> 
-<small>Source: Word Play: Having Fun With the Sounds and Meanings of Words (2019, November 4). ThoughtCo. Retrieved 2023, January 10.</small></p> 
+<h5><a href="https://kidslisten.app.link/y79s89pouwb" target="_blank">Podcast: Juxtaposition (20 min)</a></h5> 
+<p>Night and day. Good and evil. Smooth and rough. Juxtaposition is the act or an instance of placing two or more things side by side often to compare or contrast or to create an interesting effect. 
+Discover more about juxtapositions in this podcast!
+ <br><br> 
+<small>Source: Juxtaposition | The Good Words Podcast (2019, September 16). The Good Words Podcast. Retrieved 2023, Jan 11.</small></p> 
 
 
 <h5 id="work-hard-play-hard" class="margin--bottom--lg"><b>Playlist: Work Hard, Play Hard</b></h5>
