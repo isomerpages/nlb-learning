@@ -164,7 +164,7 @@ Check out different careers available and why it is important to love what you d
 	
 D.I.Y activities to engage your child in different topics.	
 
-<h4 id="lp-words"><a href="https://childrenandteens.nlb.gov.sg/images/diyresources/primary/Tinker-Truck-DIY-Activities-Words.pdf" target="_blank"><b> Words</b></a></h4>
+<h4 id="lp-words"><a href="https://childrenandteens.nlb.gov.sg/images/diyresources/primary/Tinker-Truck-DIY-Activities-Words.PDF" target="_blank"><b> Words</b></a></h4>
 <p>Learn about words by playing Battleships in pairs!</p>
 
 <h4 id="lp-keep-calm"><a href="https://childrenandteens.nlb.gov.sg/files/diyresources/PopReads22-S-Keep-Calm-and-Reach-Your-Goals.PDF" target="_blank"><b>Keep Calm and Reach Your Goals</b></a></h4>
