@@ -67,6 +67,13 @@ Check out our **learning packages** for D.I.Y to engage your child in different 
       </a>
     </div>
   </div>
+	  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#lp-words">
+        <span>Learning Package:<br>Words</span>
+      </a>
+    </div>
+  </div>
 </div>
 
 A collection of short videos and podcasts to expand reading interests.
@@ -156,6 +163,9 @@ Check out different careers available and why it is important to love what you d
 <h3><b>Learning Package</b></h3>
 	
 D.I.Y activities to engage your child in different topics.	
+
+<h4 id="lp-words"><a href="https://childrenandteens.nlb.gov.sg/files/Tinker-Truck-DIY-Activities-Words.pdf" target="_blank"><b> Words</b></a></h4>
+<p>Learn about words by playing Battleships in pairs!</p>
 
 <h4 id="lp-keep-calm"><a href="https://childrenandteens.nlb.gov.sg/files/diyresources/PopReads22-S-Keep-Calm-and-Reach-Your-Goals.PDF" target="_blank"><b>Keep Calm and Reach Your Goals</b></a></h4>
 <p>Unsure of what the future brings? Check out this activity to engage in your child in goal setting.</p>
