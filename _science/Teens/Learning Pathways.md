@@ -37,7 +37,7 @@ Immerse yourself in the possibilities of science!
     </thead>
     <tbody>
 			      <tr>
-        <td style="width: 20%;"><a href="/science/teens/content  " target="_blank"><b>Playlist: S.O.S. (Science of Skin)</b></a></td>
+        <td style="width: 20%;"><a href="/science/teens/content#science-of-skin" target="_blank"><b>Playlist: S.O.S. (Science of Skin)</b></a></td>
         <td style="width: 40%;"> Learn about the largest organ in our body with these videos.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
