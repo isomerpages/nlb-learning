@@ -55,6 +55,13 @@ Revel in the possibilities of science through resources and content.
 		  </a>
     </div>
   </div>
+	  <div class="col is-one-third">
+		<div class="clickbox is-thoughtful-tangerine">
+      <a href="#science-of-skin">
+        <span>Playlist:<br>S.O.S (Science of Skin)</span>
+		  </a>
+    </div>
+  </div>
 	<div class="col is-one-third">
     <div class="clickbox is-thoughtful-tangerine">
       <a href="#fermentation-station">
@@ -161,7 +168,7 @@ Join neuroscientist Wendy Suzuki as she dives deep into the positive, permanent 
   </div>
 </div>
 
-<h5 class="margin--bottom--lg" id="science-beyond-school"><b>Playlist: S.O.S. (Science of Skin)</b></h5>
+<h5 class="margin--bottom--lg" id="science-of-skin"><b>Playlist: S.O.S. (Science of Skin)</b></h5>
 <p>Too hot to go outside? Stay home and learn about the largest organ in our body with these videos!</p>
 <br>
 
