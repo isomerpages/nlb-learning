@@ -80,9 +80,7 @@ Immerse yourself in the possibilities of science!
         <td>27 Jan 2023, <br>3pm – 4pm </td>
         <td>Toa Payoh Public Library</td>
       </tr>
-<tr>
-
-			
+<tr>		
   </tbody>
   </table>
 </div>
