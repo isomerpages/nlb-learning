@@ -69,11 +69,10 @@ Immerse yourself in the possibilities of science!
         <td>YouTube</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=ebdsoporgprofile" target="_blank"><b>News Journalism 101 | Teens Takeover | re:write</b></a></td>
-        <td>Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.
-By the end of the session, you will put together a newspaper layout, learn about different writing styles, and create your very own news article mock-up!</td>
-        <td>17 Dec 2022, <br>2pm – 3.30pm </td>
-        <td>Serangoon Public Library</td>
+<td><a href="https://www.eventbrite.sg/e/organ-transplant-an-emotional-roller-coaster-teens-takeover-scienti-fx-tickets-493606278667?aff=ebdssbdestsearch" target="_blank"><b>Organ Transplant: An Emotional Roller Coaster | Teens Takeover scienti-f(x)</b></a></td>
+        <td>What do our organs do? What happens when they fail? How does it affect my friends and family? Find out at this interactive session!</td>
+        <td>27 Jan 2023, <br>3pm – 4pm </td>
+        <td>Toa Payoh Public Library</td>
       </tr>
 <tr>
 
