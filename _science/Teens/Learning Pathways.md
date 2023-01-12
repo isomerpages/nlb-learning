@@ -36,6 +36,12 @@ Immerse yourself in the possibilities of science!
       </tr>
     </thead>
     <tbody>
+			      <tr>
+        <td style="width: 20%;"><a href="/science/teens/content  " target="_blank"><b>Playlist: S.O.S. (Science of Skin)</b></a></td>
+        <td style="width: 40%;"> Learn about the largest organ in our body with these videos.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
       <tr>
         <td style="width: 20%;"><a href="/science/teens/content  " target="_blank"><b>Playlist: Science Beyond School, Really?</b></a></td>
         <td style="width: 40%;"> Check out this playlist for fun applications of science concepts outside of the classroom.</td>
