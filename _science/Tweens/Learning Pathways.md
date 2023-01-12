@@ -74,18 +74,18 @@ Stay tuned for more updates.</td>
       </tr>
     </thead>
 		<tbody>
-			<tr>
-				<td style="width: 20%;"><a href="(https://www.eventbrite.sg/e/urban-farm-learning-journey-tickets-424908742487?aff=odcleoeventsincollection)" target="_blank"><b> Urban Farm Learning Journey | Bishan Public Library </b></a></td>
-				<td style="width: 40%;">Get a first-hand, onsite experience on how nutritious and affordable vegetables are grown with the help of technology!</td>
-				<td style="width: 20%;">23 Dec 2022, 9.30am - 11.30am</td>
-				<td style="width: 20%;"></td>
+		    <tr>
+ <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/the-great-race-wordplay-tickets-503188268657?aff=ebdssbdestsearch" target="_blank"><b>The Great Race | WordPlay</b></a></td> 
+         <td style="width: 40%;">Celebrate Chinese New Year with a story about how the animals earned their place in the Chinese zodiac by taking part in the Great Race! </td>
+         <td style="width: 20%;">21 Jan 2023,<br>2pm - 2.45pm<br><br></td>
+        <td style="width: 20%;">library@harbourfront, Stories Come Alive Room</td>
 			</tr>
-			<tr>
-				<td style="width: 20%;"><a href="(https://www.eventbrite.sg/e/zeckys-sci-fi-story-and-craft-toa-payoh-public-library-tickets-453543921077?aff=ebdsoporgprofile)" target="_blank"><b> Zecky's Sci Fi Story and Craft | Toa Payoh Public Library </b></a></td>
-				<td style="width: 40%;">Join us for a special storytelling session! Get to know how Zecky got her spectacles and bring home a unique craft.</td>
-				<td style="width: 20%;">17 Dec 2022, 11am - 12pm</td>
-				<td style="width: 20%;"> </td>
-			</tr>
+<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/the-world-of-plants-bishan-public-library-tickets-503197516317?aff=ebdssbdestsearch" target="_blank"><b>The World of Plants @ Bishan Public Library</b></a></td>
+         <td style="width: 40%;">As part of the Earth Heroes series, this session immerses children in the diversity of plants from leaves to fruits to seeds. The session ends with a farming activity, teaching children how to grow their own vegetables from seeds.<br> 
+        <td style="width: 20%;">28 Jan 2023, 10.30am - 12pm</td>
+        <td style="width: 20%;">Bishan Public Library, Outdoor Garden (B1)</td>
+		
     </tbody>
   </table>
 </div>
