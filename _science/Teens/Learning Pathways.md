@@ -79,8 +79,7 @@ Immerse yourself in the possibilities of science!
         <td>What do our organs do? What happens when they fail? How does it affect my friends and family? Find out at this interactive session!</td>
         <td>27 Jan 2023, <br>3pm – 4pm </td>
         <td>Toa Payoh Public Library</td>
-      </tr>
-<tr>		
+      </tr>	
   </tbody>
   </table>
 </div>
