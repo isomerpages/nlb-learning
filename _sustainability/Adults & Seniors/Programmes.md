@@ -29,7 +29,7 @@ Hear from experts, attend workshops, and connect with your community to start yo
 ## **Expert Talks**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-ExpertTalks.jpg)
 
-In partnership with **NUS’s Ridge View Residential College (RVRC)**, this series of quarterly themed talks unpacks pertinent sustainability topics and makes them accessible whatever your background.
+In partnership with **NUS’s Ridge View Residential College (RVRC)**, this series of talks unpacks pertinent sustainability topics and makes them accessible whatever your background.
 
 Held on a bi-monthly basis, these talks seek to better your knowledge about Sustainability. 
 
@@ -60,16 +60,14 @@ Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:t
 ## **Green Market**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-GreenMarket.jpg)
 
-**Happening from 17-18 September 2022! @Choa Chu Kang Public Library and Online**
 
-Mark your calendars for our signature event that presents a range of fun activities and programmes from talks, workshops to activity booths that will engage you in sustainable practices and green groups to support. Look forward to different concepts from farmer’s markets, swaps to service-learning experiences. 
+Mark your calendars for our signature event that presents a range of fun activities and programmes from talks, workshops to activity booths that will engage you in sustainable practices and green groups to support. Each iteration of the event will take on a different theme.  
 
-If you have been wondering how to start or ways to contribute further in your sustainability journey, look no further than the Green Market. 
+If you have been wondering how to start  your sustainability journey, look no further than the Green Market. 
 
 Suitable for the whole family. 
 
-Programme details will be up by August 2022. 
-
+ 
 Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **Learning Journeys**

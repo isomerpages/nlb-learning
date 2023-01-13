@@ -36,7 +36,19 @@ Read with your child to explore new topics and discover new experience.
       </tr>
     </thead>
     <tbody>
-      <tr>
+       <tr>
+        <td style="width: 20%;"><a href="/reading/tweens/content#its-all-about-the-wordplay" target="_blank"><b>Playlist: It's All About the Word Play</b></a></td>
+        <td style="width: 40%;"> Have a good chuckle with your child by playing with words! </td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+				<tr>
+        <td style="width: 20%;"><a href="/reading/tweens/content#lp-words" target="_blank"><b>Learning Package: Words</b></a></td>
+        <td style="width: 40%;"> Engage in a game of Battleships to learn about words with your child! </td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+			<tr>
         <td style="width: 20%;"><a href="/reading/tweens/content#work-hard-play-hard" target="_blank"><b>Playlist: Work Hard, Play Hard</b></a></td>
         <td style="width: 40%;"> Explore different topics with these resources for your child to expand reading diets. </td>
         <td style="width: 20%;"> </td>
@@ -60,11 +72,18 @@ Read with your child to explore new topics and discover new experience.
       </tr>
     </thead>
     <tbody>
+			      </tr>
       <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-411752702417" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
-        <td style="width: 40%;">Take a break, unwind, and unplug over a game of tabletop games in this session for friends and family! 
+ <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/the-great-race-wordplay-tickets-503188268657?aff=ebdssbdestsearch" target="_blank"><b>The Great Race | WordPlay</b></a></td> 
+         <td style="width: 40%;">Celebrate Chinese New Year with a story about how the animals earned their place in the Chinese zodiac by taking part in the Great Race! </td>
+         <td style="width: 20%;">21 Jan 2023,<br>2pm - 2.45pm<br><br></td>
+        <td style="width: 20%;">library@harbourfront, Stories Come Alive Room</td>
+			</tr>
+      <tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/d/singapore--singapore/%23cck_unplugged/?page=1" target="_blank"><b>Unplugged | Choa Chu Kang Public Library</b></a></td>
+        <td style="width: 40%;">Take a break, unwind, and unplug over a game of tabletop games in this session for friends and family! <br> <br>Registrations will open closer to the date.
 					</td><br><br>
-        <td style="width: 20%;">7 October 2022, <br>3pm - 5pm<br><br>2 December 2022, <br>3pm - 5pm</td>
+        <td style="width: 20%;">6 Jan 2023, <br>3pm - 5pm<br><br>3 Feb 2023, <br>3pm - 5pm<br><br>3 Mar 2023, <br>3pm - 5pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
       </tr>
       <tr>
@@ -85,28 +104,23 @@ Read with your child to explore new topics and discover new experience.
       </tr>
     </thead>
     <tbody>
-      <tr>
-      <td style="width: 20%;"><b> S.T.E.A.M. Lab Mini</b><br><br>
-				<a href="https://youtu.be/l9B7iknybmw" target="_blank"><b>Dancing Puppet</b></a><br>
-				<a href="https://youtu.be/J5EqL69pjYE" target="_blank"><b>D.I.Y Catapult</b></a><br>
-				<a href="https://youtu.be/p6NoA5c8R1U" target="_blank"><b>Balloon-powered Car</b></a><br>
-				<a href="https://youtu.be/qDrRGM1t8fU" target="_blank"><b>Static Electricity with Slime</b></a><br></td>
-         <td style="width: 40%;">Learn how to build a balloon powered car and other topics such as electromagnetism and static electricity through a series of videos.</td>
-        <td style="width: 20%;"></td>
-        <td style="width: 20%;"></td>
-      </tr>
-
+     
 <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627" target="_blank"><b>How to be a Cyber Safe Family with Cyberlite Books @ library@harbourfront</b></a></td>
-         <td style="width: 40%;">Should we control our children’s screen time? What do we do if a child is cyberbullied? Join us to learn about family cyber safety!<br> 
-        <td style="width: 20%;">2 October 2022, 11.30am - 12.30pm</td>
-        <td style="width: 20%;">library@harbourfront, Programme Zone 2</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/organ-transplant-an-emotional-roller-coaster-teens-takeover-scienti-fx-tickets-493606278667?aff=ebdssbeac" target="_blank"><b>Organ Transplant: An Emotional Roller Coaster | Teens Takeover scienti-f(x)</b></a></td>
+         <td style="width: 40%;">Find out what it means when organs fail and what can be done about it at this interactive session.<br> 
+        <td style="width: 20%;">27 Jan 2023, 3pm - 4pm</td>
+        <td style="width: 20%;">Toa Payoh Public Library, Programme Zone</td>
 			
-
 <tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177" target="_blank"><b>From Seeds to Harvest @ Bishan Public Library</b></a></td>
-         <td style="width: 40%;">As part of the Earth Heroes series, this session immerses children in the process of farming through hands-on activities and teaches the role of photosynthesis in the growth of plants.<br> 
-        <td style="width: 20%;">8 October 2022, 10.30am - 12pm</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/checkmate-strategic-games-with-vjc-cheng-san-public-library-tickets-503195420047?aff=ebdssbdestsearch" target="_blank"><b>将军 (Checkmate)! Strategic Games with VJC | @ Cheng San Public Library</b></a></td>
+         <td style="width: 40%;">Curious about how to play Chinese Chess, but never had the time to learn? Join us in this beginner-friendly hands-on workshop that introduces Chinese Chess!<br> 
+        <td style="width: 20%;">28 Jan 2023, 2pm - 4pm</td>
+        <td style="width: 20%;">Cheng San Public Library, Activity Room</td>
+			
+<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/the-world-of-plants-bishan-public-library-tickets-503197516317?aff=ebdssbdestsearch" target="_blank"><b>The World of Plants @ Bishan Public Library</b></a></td>
+         <td style="width: 40%;">As part of the Earth Heroes series, this session immerses children in the diversity of plants from leaves to fruits to seeds. The session ends with a farming activity, teaching children how to grow their own vegetables from seeds.<br> 
+        <td style="width: 20%;">28 Jan 2023, 10.30am - 12pm</td>
         <td style="width: 20%;">Bishan Public Library, Outdoor Garden (B1)</td>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

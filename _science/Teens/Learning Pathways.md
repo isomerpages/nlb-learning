@@ -36,6 +36,12 @@ Immerse yourself in the possibilities of science!
       </tr>
     </thead>
     <tbody>
+			      <tr>
+        <td style="width: 20%;"><a href="/science/teens/content#science-of-skin" target="_blank"><b>Playlist: S.O.S. (Science of Skin)</b></a></td>
+        <td style="width: 40%;"> Learn about the largest organ in our body with these videos.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
       <tr>
         <td style="width: 20%;"><a href="/science/teens/content  " target="_blank"><b>Playlist: Science Beyond School, Really?</b></a></td>
         <td style="width: 40%;"> Check out this playlist for fun applications of science concepts outside of the classroom.</td>
@@ -69,15 +75,11 @@ Immerse yourself in the possibilities of science!
         <td>YouTube</td>
       </tr>
 <tr>
-<td><a href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=ebdsoporgprofile" target="_blank"><b>News Journalism 101 | Teens Takeover | re:write</b></a></td>
-        <td>Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.
-By the end of the session, you will put together a newspaper layout, learn about different writing styles, and create your very own news article mock-up!</td>
-        <td>17 Dec 2022, <br>2pm – 3.30pm </td>
-        <td>Serangoon Public Library</td>
-      </tr>
-<tr>
-
-			
+<td><a href="https://www.eventbrite.sg/e/organ-transplant-an-emotional-roller-coaster-teens-takeover-scienti-fx-tickets-493606278667?aff=ebdssbdestsearch" target="_blank"><b>Organ Transplant: An Emotional Roller Coaster | Teens Takeover scienti-f(x)</b></a></td>
+        <td>What do our organs do? What happens when they fail? How does it affect my friends and family? Find out at this interactive session!</td>
+        <td>27 Jan 2023, <br>3pm – 4pm </td>
+        <td>Toa Payoh Public Library</td>
+      </tr>	
   </tbody>
   </table>
 </div>

@@ -46,7 +46,14 @@ Check out our **playlists** for collections of short videos and podcasts to expa
 Check out our **learning packages** for D.I.Y to engage your child in different topics.
 
 <div class="row is-multiline">
-  <div class="col is-one-third">
+  	<div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#its-all-about-the-word-play">
+        <span>Playlist:<br>It's All About the Word Play</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#work-hard-play-hard">
         <span>Playlist:<br>Work Hard, Play Hard</span>
@@ -60,9 +67,54 @@ Check out our **learning packages** for D.I.Y to engage your child in different 
       </a>
     </div>
   </div>
-	</div>
-	
+	  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#lp-words">
+        <span>Learning Package:<br>Words</span>
+      </a>
+    </div>
+  </div>
+</div>
+
 A collection of short videos and podcasts to expand reading interests.
+
+<h5 id="its-all-about-the-word-play" class="margin--bottom--lg"><b>Playlist: It's All About the Word Play</b></h5>
+
+<br>
+
+	
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/RNta_zl6o20" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b> Glove and Boots | What is Pun? (5 min)</b><br>
+Have fun with puns in this educational video!<br><br>
+<small>Source: Glove and Boots | What is Pun? (2019, March 28). Glove and Boots. Retrieved 2023, January 10.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/uoSBVNUO2LU" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>Similes and Metaphors (3 min)</b><br>
+Simile Girl and Metaphor Man are here to save the day!  These heroes make learning your similes and metaphors as easy as pie.<br><br>
+<small>Source: Similes and Metaphors (2013, March 14). The Bazillions. Retrieved 2023, January 10.</small></p>
+  </div>
+</div>
+
+<h5><a href="https://kidslisten.app.link/y79s89pouwb" target="_blank">Podcast: Juxtaposition (20 min)</a></h5> 
+<p>Night and day. Good and evil. Smooth and rough. Juxtaposition is the act or an instance of placing two or more things side by side often to compare or contrast or to create an interesting effect. 
+Discover more about juxtapositions in this podcast!
+ <br><br> 
+<small>Source: Juxtaposition | The Good Words Podcast (2019, September 16). The Good Words Podcast. Retrieved 2023, Jan 11.</small></p> 
+
 
 <h5 id="work-hard-play-hard" class="margin--bottom--lg"><b>Playlist: Work Hard, Play Hard</b></h5>
 
@@ -112,8 +164,10 @@ Check out different careers available and why it is important to love what you d
 	
 D.I.Y activities to engage your child in different topics.	
 
+<h4 id="lp-words"><a href="https://childrenandteens.nlb.gov.sg/images/diyresources/primary/Tinker-Truck-DIY-Activities-Words.PDF" target="_blank"><b> Words</b></a></h4>
+<p>Learn about words by playing Battleships in pairs!</p>
+
 <h4 id="lp-keep-calm"><a href="https://childrenandteens.nlb.gov.sg/files/diyresources/PopReads22-S-Keep-Calm-and-Reach-Your-Goals.PDF" target="_blank"><b>Keep Calm and Reach Your Goals</b></a></h4>
 <p>Unsure of what the future brings? Check out this activity to engage in your child in goal setting.</p>
 
-[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
