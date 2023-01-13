@@ -67,9 +67,6 @@ Over the course of six weeks, 25 individuals, from different walks of life such 
 
 JOIN US AT OUR EXHIBITIONS TO LEARN ABOUT THEIR PROJECTS! 
 
-<b><u> Exhibition details</u></b>
-<br> 1 Nov to 31 Dec @ Clementi Public Library
-
 <b>Check out the posters of the teams' finalized ideas:</b>
 <br><a href="https://go.gov.sg/team1sproutup/" target="_blank">Team 1 Sprout Up!</a>
 <br>
