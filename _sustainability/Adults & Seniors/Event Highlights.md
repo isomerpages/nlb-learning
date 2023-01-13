@@ -65,8 +65,6 @@ third_nav_title: Adults & Seniors
 The Great Make-Over Project, a community co-solutioning initiative by NLB and supported by CapitaLand Hope Foundation, brings together everyday people to co-solution, reinvent, and reimagine spaces to promote sustainable living. 
 Over the course of six weeks, 25 individuals, from different walks of life such as homemakers, artists and entrepreneurs, were divided into five teams and explored the question – “What would Choa Chu Kang look like when our community spaces are reimagined for sustainability?”
 
-JOIN US AT OUR EXHIBITIONS TO LEARN ABOUT THEIR PROJECTS! 
-
 <b>Check out the posters of the teams' finalized ideas:</b>
 <br><a href="https://go.gov.sg/team1sproutup/" target="_blank">Team 1 Sprout Up!</a>
 <br>
