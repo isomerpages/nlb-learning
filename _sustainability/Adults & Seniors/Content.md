@@ -128,7 +128,10 @@ Check our **learning packages** for articles that will give you insights into li
     </div>
   </div>
 	</div>
-
+<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#Forests_Plants">
+        <span>Playlist:<br>Forests & Plants</span>
 	
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
