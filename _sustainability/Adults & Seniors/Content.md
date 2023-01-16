@@ -908,3 +908,28 @@ Jeremy Shere (2013), <i>Renewable</i>, New York: St. Martin’s Press
 <li><small><span id="footnote-two"> Rewiring America.</span> Retrieved 2022, June 3 from <a target="_blank&quot;" href="https://www.rewiringamerica.org/"> https://www.rewiringamerica.org/</a></small></li>
 
 </ol>
+
+	
+<h3 id="lp-nature-healer">Learning Package:Nature as Healer
+<p>Nature has the power to captivate, uplift, heal and restore. Perhaps more so now than ever, in these tumultuous times, we need to understand and connect to the therapeutic effects of nature. In this learning package, you will get to know more about the wonders of nature especially through forests and plants and its impact on our well-being and health. Hopefully, you will be inspired to spend more time in nature!</p>
+
+<h4>Videos</h4>
+<h5>1.Forest Bathing In Singapore: Walk Slowly, Connect Deeply</h5>
+<p>A forest therapy guide describes what is "forest bathing" and how it is more than a nature walk. </p>
+
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TcK7OnJR9MQ" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/embed/TcK7OnJR9MQ">Forest Bathing In Singapore: Walk Slowly, Connect Deeply</a> (2021, March 30). <i>The Straits Times</i> Retrieved 2022, December 19
+
+<h5>2.Connecting Nature to Creativity, Community, and Mental Health</h5> 
+<p> This NLB discussion explores the vital relationship between nature and artistic creativity, the therapeutic benefits of nature to mental health, and what happens when communities are engaged in their bringing nature into the city.</p>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rCdVWD4Ko_0" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/embed/rCdVWD4Ko_0"> Connecting Nature to Creativity, Community, and Mental Health </a> (2021, July 13). <i> National Library Board.</i> Retrieved 2022, December 19
+
+<h4>Podcast</h4>
+<h5>1.<a target="_blank" href="https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/what-is-biophilic-design-80040227/?embed=true"> iHeartMedia, Inc</a></h5>
+
+<p>Malaysian anthropologist Long Litt Woon found solace in fungi foraging after the unexpected death of her husband. She's now become a certified mushroom expert.
+	
+	
