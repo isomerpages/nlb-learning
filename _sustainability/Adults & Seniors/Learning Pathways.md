@@ -86,9 +86,9 @@ In All About Forests and Plants, we focus on the roles forests and plants play i
     </thead>
     <tbody>
       <tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/lets-discuss-carbon-technocracy-energy-regimes-in-modern-east-asia-registration-428331379687?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=escb"><b>Let’s Discuss Carbon Technocracy: Energy Regimes in Modern East Asia</b></a></td>
-        <td style="width: 40%;">Harvard historian of science Victor Seow discusses his recent book,Carbon Technocracy: Energy Regimes in Modern East Asia, with Dr. Faizah Zakaria of NTU. Find out about the research process behind his book and the key issues about energy and the environment that he highlights within. Participants will have opportunities to participate in an Q&A with the author.<br></td>
-        <td style="width: 20%;">Details on Eventbrite</td> 
+				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/lets-discuss-carbon-technocracy-energy-regimes-in-modern-east-asia-registration-428331379687?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=escb"><b>The Nature Book Club: Happily, Ever After ? </b></a></td>
+        <td style="width: 40%;">Meet local author Grace Siu Wei and illustrator Dorcas Tang, who will take you through their new book, Happily, EverAfter? in this session of the Nature Book Club. <br></td>
+        <td style="width: 20%;">31 Jan, 7.00-8.30pm, Level 5, Imagination Room, National Library Building</td> 
         <td style="width: 20%;"></td>
       </tr>
    </tbody>
