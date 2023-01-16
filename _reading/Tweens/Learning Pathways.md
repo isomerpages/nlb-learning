@@ -91,9 +91,6 @@ Read with your child to explore new topics and discover new experience.
          <td style="width: 20%;">2nd Friday of the month,<br>7.30pm - 8pm<br><br></td>
         <td style="width: 20%;">Online</td>
 			</tr>
-        <tr>
-
-     
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
