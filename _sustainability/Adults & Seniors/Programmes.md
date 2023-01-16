@@ -65,7 +65,7 @@ Mark your calendars for our signature event that presents a range of fun activit
 
 If you have been wondering how to start  your sustainability journey, look no further than the Green Market. 
 
-Suitable for the whole family. 
+Suitable for the whole family. This event is supported by CapitaLand Hope Foundation (CHF).
 
  
 Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
@@ -104,3 +104,5 @@ Starting at Choa Chu Kang Town, participants of the first run of the Great Make-
 <br>You can also be a part of the Great Make-Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+This co-solutioning initiative is supported by CapitaLand Hope Foundation (CHF). 
