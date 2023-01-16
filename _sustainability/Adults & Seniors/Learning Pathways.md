@@ -21,13 +21,13 @@ In All About Forests and Plants, we focus on the roles forests and plants play i
     <tbody>
       <tr>
         <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank"><b>The Forests and Plants Playlist</b></a></td>
-        <td style="width: 40%;">In this playlist, satisfy your curiosity about forests and plants and go on an adventure into forests in Singapore to discover  treasure within t.!</td>
+        <td style="width: 40%;">In this playlist, satisfy your curiosity about forests and plants and go on an adventure into forests in Singapore to discover  treasure within. </td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
 				<td><a href="/sustainability/adults-seniors/content"><b>Nature as Healer Learning Package</b></a></td>
-        <td>Nature has the power to captivate, uplift, heal and restore. Perhaps more so now than ever, in these tumultuous times, we need to understand and connect to the therapeutic effects of nature. In this learning package, you will get to know more about the wonders of nature especially through forests and plants and its impact on our well-being and health. Hopefully, you will be inspired t.</td>
+        <td>Nature has the power to captivate, uplift, heal and restore. Perhaps more so now than ever, in these tumultuous times, we need to understand and connect to the therapeutic effects of nature. In this learning package, you will get to know more about the wonders of nature especially through forests and plants and its impact on our well-being and health. Hopefully, you will be inspired.</td>
         <td></td>
         <td></td>
 </tr>
