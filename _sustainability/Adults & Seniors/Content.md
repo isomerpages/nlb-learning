@@ -117,15 +117,29 @@ Check our **learning packages** for articles that will give you insights into li
     <div class="clickbox is-mint-jade">
       <a href="#lp-renewable-energy">
         <span>Learning Package:<br>Renewable Energy</span>
-	
-				
-	
+				<a>
+		</div>
+	</div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#forests-plants">
+        <span>Playlist:<br>Forest & Plants</span>
+      </a>
+    </div>
+		</div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-nature-healer">
+        <span>Learning Package:<br>Nature as Healer</span>
+      </a>
+    </div>
+	</div>
+	</div>
+
 <h3><b>Playlist</b></h3>
-A collection of short videos or selected podcasts, exploring topics around personal and professional developmen
+A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 				
 <h5 id="green-economy"class="margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
-
-<br>
 
 We round up the main points about the green economy to get you quickly up to speed on this concept that is integral to achieving sustainable development while balancing environmental needs.<br>
 
