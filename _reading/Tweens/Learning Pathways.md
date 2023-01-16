@@ -106,7 +106,7 @@ Read with your child to explore new topics and discover new experience.
          <td style="width: 40%;">Find out what it means when organs fail and what can be done about it at this interactive session.<br> 
         <td style="width: 20%;">27 Jan 2023, 3pm - 4pm</td>
 	<td style="width: 20%;">Toa Payoh Public Library, Programme Zone</td>
-			</tr>		
+					
 <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/checkmate-strategic-games-with-vjc-cheng-san-public-library-tickets-503195420047?aff=ebdssbdestsearch" target="_blank"><b>将军 (Checkmate)! Strategic Games with VJC | @ Cheng San Public Library</b></a></td>
          <td style="width: 40%;">Curious about how to play Chinese Chess, but never had the time to learn? Join us in this beginner-friendly hands-on workshop that introduces Chinese Chess!<br> 
