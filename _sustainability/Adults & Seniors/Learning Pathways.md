@@ -21,7 +21,7 @@ In All About Forests and Plants, we focus on the roles forests and plants play i
     <tbody>
       <tr>
         <td style="width: 20%;"><a target="_blank" href="/sustainability/adults-seniors/content"><b>The Forests and Plants Playlist</b></a></td>
-        <td style="width: 40%;">In this playlist, satisfy your curiosity about forests and plants and go on an adventure into forests in Singapore to discover  treasure within. </td>
+        <td style="width: 40%;">In this playlist, we demystify forests and plants and explore forests in Singapore to discover the treasures within. </td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
