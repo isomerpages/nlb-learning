@@ -910,7 +910,8 @@ Jeremy Shere (2013), <i>Renewable</i>, New York: St. Martin’s Press
 </ol>
 
 	
-<h3><b>Learning Package</b></h3> <h3 id="lp-nature-healer" class="margin--bottom--lg"><b>Nature as Healer</b></h3>
+<h3><b>Learning Package</b></h3> 
+	<h5 id="lp-nature-healer" class="margin--bottom--lg"><b>Nature as Healer</b></h5>
 
 	
 <p>Nature has the power to captivate, uplift, heal and restore. Perhaps more so now than ever, in these tumultuous times, we need to understand and connect to the therapeutic effects of nature. In this learning package, you will get to know more about the wonders of nature especially through forests and plants and its impact on our well-being and health. Hopefully, you will be inspired to spend more time in nature!</p>
