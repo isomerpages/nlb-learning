@@ -121,9 +121,11 @@ Check our **learning packages** for articles that will give you insights into li
 				
 	
 <h3><b>Playlist</b></h3>
-A collection of short videos or selected podcasts, exploring topics around personal and professional development.
+A collection of short videos or selected podcasts, exploring topics around personal and professional developmen
+				
+<h5 id="green-economy"class="margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
 
-<h5 class="margin--bottom--lg" id="green-economy"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
+<br>
 
 We round up the main points about the green economy to get you quickly up to speed on this concept that is integral to achieving sustainable development while balancing environmental needs.<br>
 
