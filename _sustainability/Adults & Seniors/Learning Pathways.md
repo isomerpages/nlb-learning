@@ -6,21 +6,21 @@ third_nav_title: Adults & Seniors
 ---
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-This quarter, we explore Forests & Plants, a vital element of our environment.
+This quarter, we explore Forests &amp; Plants, a vital element of our environment.
  
-<h3 id="All About Forests and Plants" class="margin--bottom--lg"><b>All About Forests and Plants</b></h3>
+<h3 class="margin--bottom--lg" id="All About Forests and Plants"><b>All About Forests and Plants</b></h3>
 In All About Forests and Plants, we focus on the roles forests and plants play in the environment, how our actions impact these roles and the consequences. 
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
       <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Discover Recommended Resources</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank"><b>The Forests and Plants Playlist</b></a></td>
+        <td style="width: 20%;"><a target="_blank" href="/sustainability/adults-seniors/content"><b>The Forests and Plants Playlist</b></a></td>
         <td style="width: 40%;">In this playlist, satisfy your curiosity about forests and plants and go on an adventure into forests in Singapore to discover  treasure within. </td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
@@ -40,7 +40,7 @@ In All About Forests and Plants, we focus on the roles forests and plants play i
   </div><table class="generic-table">
     <thead>
       <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Learn With Expert Speakers</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Learn With Expert Speakers</th>
       </tr>
     </thead>
     <tbody>
@@ -63,7 +63,7 @@ In All About Forests and Plants, we focus on the roles forests and plants play i
   </div><table class="generic-table">
     <thead>
       <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Use, Apply and Share Your Skills and Knowledge </th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Use, Apply and Share Your Skills and Knowledge </th>
 			</tr>
     </thead>
     <tbody>
@@ -81,14 +81,14 @@ In All About Forests and Plants, we focus on the roles forests and plants play i
   <table class="generic-table">
     <thead>
       <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Learn more about Sustainability in other aspects</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Learn more about Sustainability in other aspects</th>
      </tr>
     </thead>
     <tbody>
       <tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/lets-discuss-carbon-technocracy-energy-regimes-in-modern-east-asia-registration-428331379687?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=escb"><b>The Nature Book Club: Happily, Ever After ? </b></a></td>
-        <td style="width: 40%;">Meet local author Grace Siu Wei and illustrator Dorcas Tang, who will take you through their new book, Happily, EverAfter? in this session of the Nature Book Club. <br></td>
-        <td style="width: 20%;">31 Jan, 7.00-8.30pm, Level 5, Imagination Room, National Library Building</td> 
+				<td style="width: 20%;">The Nature Book Club: Happily, Ever After ? </td><td><a target="_blank>
+        <td style=" href="https://www.eventbrite.sg/e/502435015657&quot;">Meet local author Grace Siu Wei and illustrator Dorcas Tang, who will take you through their new book, Happily, EverAfter? in this session of the Nature Book Club. <br></a></td>
+					<td style="width: 20%;">31 Jan, 7.00-8.30pm, Level 5, Imagination Room, National Library Building</td> 
         <td style="width: 20%;"></td>
       </tr>
    </tbody>
