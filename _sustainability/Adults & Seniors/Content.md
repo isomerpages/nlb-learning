@@ -151,7 +151,7 @@ In this playlist, we demystify forests and plants and explore forests in Singapo
   </div>
   <div class="col is-three-fifths">
     <p><b>What is a Forest?</b><br>
-      Understand what constitutes a forest, how different types of forests trap carbon and help purify water.  
+      Understand what constitutes a forest and the various processes they are responsible for. 
 																	
 <small>Source: What is a Forest?  (2014, Oct 8) Harvard Museum of Natural History. Retrieved 2022, December 20.</small></p>
   </div>
