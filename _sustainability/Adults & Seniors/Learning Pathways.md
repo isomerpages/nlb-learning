@@ -68,10 +68,10 @@ In All About Forests and Plants, we focus on the roles forests and plants play i
     </thead>
     <tbody>
       <tr> 
-				<td style="width: 20%;"> <b>Managing Electricity Consumption at Home</b></td>
-        <td style="width: 40%;"> The purpose of electrical switchboards has largely remained the same through the years – it is a device designed to ensure safety. With the advent of smart electrical switchboards in recent years, that role has evolved, giving consumers the ability to track and understand their electricity usage. Smart electrical switchboards not only collect, evaluate, and predict energy usage patterns, but also detect faulty components and provide pre-emptive warnings for such potentially hazardous situations. Whether it is adjusting electricity consumption habits or identifying appliances that use too much energy, the multitude of datapoints available through smart electrical switchboards will empower consumers to better understand and manage their electricity usage. </td>
-        <td style="width: 20%;">26 Oct 2022, <br>3pm-4.30pm</td>
-        <td style="width: 20%;">Bishan Public Library, Programme Zone</td>		
+				<td style="width: 20%;"> <b></b></td>
+        <td style="width: 40%;">   </td>
+        <td style="width: 20%;"><br></td>
+        <td style="width: 20%;"></td>		
 			</tr>
 </tbody>
 </table>
