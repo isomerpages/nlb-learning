@@ -167,7 +167,7 @@ In this playlist, we demystify forests and plants and explore forests in Singapo
     <p><b>How Trees Secretly Talk to Each Other in the Forest?</b><br>
       In the forest, trees connect to one another through an underground mechanism. Explore how the process works and why do they do so. 
 													
-<small>Source: What is a Forest?(2014, Oct 8) Harvard Museum of Natural History. Retrieved 2022, December 20.</small></p>
+<small>Source: What 14, Oct 8) Harvard Museum Natural History. Retrieved 2022, December 20.</small></p>
   </div>
 </div>
 	
