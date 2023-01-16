@@ -9,7 +9,7 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 This quarter, we explore Trees & Plants, a vital element of our environment.
  
 <h3 id="All About Trees and Plants" class="margin--bottom--lg"><b>All About Trees and Plants</b></h3>
-In All About Trees and Plants, we focus the role they play in the environment, how our actions impact this role and the consequences.  
+In All About Trees and Plants, we focus on the roles trees and plants play in the environment, how our actions impact these roles and the consequences. 
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
