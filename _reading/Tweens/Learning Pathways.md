@@ -105,19 +105,19 @@ Read with your child to explore new topics and discover new experience.
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/organ-transplant-an-emotional-roller-coaster-teens-takeover-scienti-fx-tickets-493606278667?aff=ebdssbeac" target="_blank"><b>Organ Transplant: An Emotional Roller Coaster | Teens Takeover scienti-f(x)</b></a></td>
          <td style="width: 40%;">Find out what it means when organs fail and what can be done about it at this interactive session.<br> 
         <td style="width: 20%;">27 Jan 2023, 3pm - 4pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library, Programme Zone</td>
-			
+	<td style="width: 20%;">Toa Payoh Public Library, Programme Zone</td>
+			</tr>		
 <tr>
         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/checkmate-strategic-games-with-vjc-cheng-san-public-library-tickets-503195420047?aff=ebdssbdestsearch" target="_blank"><b>将军 (Checkmate)! Strategic Games with VJC | @ Cheng San Public Library</b></a></td>
          <td style="width: 40%;">Curious about how to play Chinese Chess, but never had the time to learn? Join us in this beginner-friendly hands-on workshop that introduces Chinese Chess!<br> 
         <td style="width: 20%;">28 Jan 2023, 2pm - 4pm</td>
-        <td style="width: 20%;">Cheng San Public Library, Activity Room</td>
+	<td style="width: 20%;">Cheng San Public Library, Activity Room</td>
+			</tr>
 			
-<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/the-world-of-plants-bishan-public-library-tickets-503197516317?aff=ebdssbdestsearch" target="_blank"><b>The World of Plants @ Bishan Public Library</b></a></td>
+<tr><td style="width: 20%;"><a href="https://www.eventbrite.sg/e/the-world-of-plants-bishan-public-library-tickets-503197516317?aff=ebdssbdestsearch" target="_blank"><b>The World of Plants @ Bishan Public Library</b></a></td>
          <td style="width: 40%;">As part of the Earth Heroes series, this session immerses children in the diversity of plants from leaves to fruits to seeds. The session ends with a farming activity, teaching children how to grow their own vegetables from seeds.<br> 
         <td style="width: 20%;">28 Jan 2023, 10.30am - 12pm</td>
         <td style="width: 20%;">Bishan Public Library, Outdoor Garden (B1)</td>
-	</tr>
+			</tr>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
