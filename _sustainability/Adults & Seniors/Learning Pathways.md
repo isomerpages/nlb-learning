@@ -6,10 +6,10 @@ third_nav_title: Adults & Seniors
 ---
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-This quarter, we explore Trees & Plants, a vital element of our environment.
+This quarter, we explore Forests & Plants, a vital element of our environment.
  
-<h3 id="All About Trees and Plants" class="margin--bottom--lg"><b>All About Trees and Plants</b></h3>
-In All About Trees and Plants, we focus on the roles trees and plants play in the environment, how our actions impact these roles and the consequences. 
+<h3 id="All About Forests and Plants" class="margin--bottom--lg"><b>All About Forests and Plants</b></h3>
+In All About Forests and Plants, we focus on the roles forests and plants play in the environment, how our actions impact these roles and the consequences. 
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -20,8 +20,8 @@ In All About Trees and Plants, we focus on the roles trees and plants play in th
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank"><b>The Green Technology Playlist</b></a></td>
-        <td style="width: 40%;">We learn about some of the technological innovations that promise to revolutionize sustainability efforts and the limits of climate solutions that overly focus on technological improvements.</td>
+        <td style="width: 20%;"><a href="/sustainability/adults-seniors/content" target="_blank"><b>The Forests and Plants Playlist</b></a></td>
+        <td style="width: 40%;">Satisfy your curiosity about forests and plants and go on an adventure into forests in Singapore to discover treasures within in this playlist!</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
       </tr>
