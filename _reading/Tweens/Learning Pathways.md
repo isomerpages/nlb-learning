@@ -120,7 +120,5 @@ Read with your child to explore new topics and discover new experience.
         <td style="width: 20%;">Bishan Public Library, Outdoor Garden (B1)</td>
 			</tr>
 			    </tbody>
-  </table>
-</div>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
