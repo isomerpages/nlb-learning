@@ -118,5 +118,6 @@ Read with your child to explore new topics and discover new experience.
          <td style="width: 40%;">As part of the Earth Heroes series, this session immerses children in the diversity of plants from leaves to fruits to seeds. The session ends with a farming activity, teaching children how to grow their own vegetables from seeds.<br> 
         <td style="width: 20%;">28 Jan 2023, 10.30am - 12pm</td>
         <td style="width: 20%;">Bishan Public Library, Outdoor Garden (B1)</td>
+	</tr>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
