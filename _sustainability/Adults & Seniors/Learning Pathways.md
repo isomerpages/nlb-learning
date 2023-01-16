@@ -6,7 +6,7 @@ third_nav_title: Adults & Seniors
 ---
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-This quarter, we explore Forests &amp; Plants, a vital element of our environment.
+This quarter, we explore Forests & Plants, a vital element of our environment.
  
 <h3 class="margin--bottom--lg" id="All About Forests and Plants"><b>All About Forests and Plants</b></h3>
 In All About Forests and Plants, we focus on the roles forests and plants play in the environment, how our actions impact these roles and the consequences. 
