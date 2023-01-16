@@ -138,6 +138,13 @@ Check our **learning packages** for articles that will give you insights into li
 
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
+	
+<h5 id="forests-plants"class="margin--bottom--lg"><b>Playlist: All About Forests and Plants</b></h5>
+
+	
+	
+	
+	
 				
 <h5 id="green-economy"class="margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
 
