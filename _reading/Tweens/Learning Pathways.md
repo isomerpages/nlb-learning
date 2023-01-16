@@ -90,7 +90,7 @@ Read with your child to explore new topics and discover new experience.
          <td style="width: 40%;">一红老师毕业于国立台湾艺术大学电影学系和新纪元学院戏剧与影像系，希望透过线上多媒体互动讲故事的方式，带给小朋友欢乐。</td>
          <td style="width: 20%;">2nd Friday of the month,<br>7.30pm - 8pm<br><br></td>
         <td style="width: 20%;">Online</td>
-			</tr>
+		
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
