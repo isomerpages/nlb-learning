@@ -112,7 +112,6 @@ Read with your child to explore new topics and discover new experience.
          <td style="width: 40%;">Curious about how to play Chinese Chess, but never had the time to learn? Join us in this beginner-friendly hands-on workshop that introduces Chinese Chess!<br> 
         <td style="width: 20%;">28 Jan 2023, 2pm - 4pm</td>
 	<td style="width: 20%;">Cheng San Public Library, Activity Room</td>
-			</tr>
 			
 <tr><td style="width: 20%;"><a href="https://www.eventbrite.sg/e/the-world-of-plants-bishan-public-library-tickets-503197516317?aff=ebdssbdestsearch" target="_blank"><b>The World of Plants @ Bishan Public Library</b></a></td>
          <td style="width: 40%;">As part of the Earth Heroes series, this session immerses children in the diversity of plants from leaves to fruits to seeds. The session ends with a farming activity, teaching children how to grow their own vegetables from seeds.<br> 
