@@ -127,7 +127,6 @@ Check our **learning packages** for articles that will give you insights into li
       </a>
     </div>
   </div>
-	</div>
 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#Forests_Plants">
