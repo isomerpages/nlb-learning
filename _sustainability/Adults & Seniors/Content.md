@@ -134,7 +134,7 @@ Check our **learning packages** for articles that will give you insights into li
       </a>
     </div>
 </div>
-</div>
+
 
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
@@ -153,7 +153,9 @@ In this playlist, we demystify forests and plants and explore forests in Singapo
     <p><b>What is a Forest?</b><br>
       Understand what constitutes a forest and the various processes they are responsible for. 
 																	
-<small>Source:<a href="https://www.youtube.com/embed/ jbRgJGql98I" target="_blank"> What is a Forest?</a> (2014, Oct 8).<i>Harvard Museum of Natural History.<i>Retrieved 2022, December 20.
+<small>Source: What is a Forest? (2014, Oct 8).Harvard Museum of Natural History. Retrieved 2022, December 20.</small></p>
+	</div>
+	</div>
   
 	
 <div class="row is-multiline margin--bottom-lg">
@@ -166,7 +168,10 @@ In this playlist, we demystify forests and plants and explore forests in Singapo
     <p><b>How Trees Secretly Talk to Each Other in the Forest?</b><br>
       In the forest, trees connect to one another through an underground mechanism. Explore how the process works and why do they do so. 
 
-<small>Source:<a href="https://www.youtube.com/embed/7kHZ0a_6TxY" target="_blank">How Trees Secretly Talk to Each Other in the Forest?</a>(2018, Sept 11).<i> National Geographic.<i>Retrieved 2022, December 20. 									
+<small>Source:How Trees Secretly Talk to Each Other in the Forest? (2018, Sept 11).National Geographic.Retrieved 2022, December 20.</small></p>
+	</div>
+	</div>
+	
 
 
 <div class="row is-multiline margin--bottom-lg"> 
@@ -179,7 +184,7 @@ In this playlist, we demystify forests and plants and explore forests in Singapo
     <p><b>A 6am trek in Singapore forest with nature enthusiast</b><br>
      Nature enthusiast Brice Li takes viewers on a journey to his favourite trails around various areas in Singapore. 
 
-<small>Source:<a href="https://www.youtube.com/embed/ pEsOOngEQxU " target="_blank"> A 6am trek in Singapore forest with nature enthusiast</a>(2021, Nov 5).<i> South China Morning Post.<i>Retrieved 2022, December 20. 							
+<small>Source: A 6am trek in Singapore forest with nature enthusiast (2021, Nov 5) South China Morning Post. Retrieved 2022, December 20. </small></p>							
 
 
 
