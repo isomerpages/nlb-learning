@@ -134,7 +134,7 @@ Check our **learning packages** for articles that will give you insights into li
 			</a>
 	</div>
 </div>
-	</div>
+</div>
 
 
 <h3><b>Playlist</b></h3>
