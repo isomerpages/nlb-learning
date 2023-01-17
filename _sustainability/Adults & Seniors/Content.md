@@ -166,9 +166,9 @@ In this playlist, we demystify forests and plants and explore forests in Singapo
     <p><b>How Trees Secretly Talk to Each Other in the Forest?</b><br>
       In the forest, trees connect to one another through an underground mechanism. Explore how the process works and why do they do so. 
 
-			<small>Source: How Trees Secretly Talk to Each Other in the Forest?  (2018, Sept 11) National Geographic. Retrieved 2022, December 20</small></p>									
-  </div>
-</div>
+			<small>Source:<a href="https://www.youtube.com/embed/7kHZ0a_6TxY" target="_blank"> How Trees Secretly Talk to Each Other in the Forest? </a> (2018, Sept 11). <i> National Geographic.<i> Retrieved 2022, December 20. 									
+
+
 	<div class="row is-multiline margin--bottom-lg"> 
   < div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
