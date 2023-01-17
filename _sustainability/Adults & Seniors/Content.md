@@ -153,9 +153,8 @@ In this playlist, we demystify forests and plants and explore forests in Singapo
     <p><b>What is a Forest?</b><br>
       Understand what constitutes a forest and the various processes they are responsible for. 
 																	
-<small>Source: What is a Forest?  (2014, Oct 8) Harvard Museum of Natural History. Retrieved 2022, December 20.</small></p>
-  </div>
-</div>
+<small>Source:<a href="https://www.youtube.com/embed/ jbRgJGql98I" target="_blank"> What is a Forest?</a> (2014, Oct 8).<i>Harvard Museum of Natural History.<i>Retrieved 2022, December 20.
+  
 	
 	<div class="row is-multiline margin--bottom-lg">
   <div class="col is-two-fifths">
