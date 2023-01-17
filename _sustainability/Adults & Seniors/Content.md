@@ -118,10 +118,10 @@ Check our **learning packages** for articles that will give you insights into li
       <a href="#lp-renewable-energy">
         <span>Learning Package:<br>Renewable Energy</span>
 	<a>
-	</div>
-	</div>
-	<div class="col is-one-third">
-    	<div class="clickbox is-mint-jade">
+</div>
+</div>
+<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
       	<a href="#forests-plants">
         <span>Playlist:<br>Forest & Plants</span>
       </a>
