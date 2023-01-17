@@ -131,9 +131,10 @@ Check our **learning packages** for articles that will give you insights into li
     <div class="clickbox is-mint-jade">
       <a href="#lp-nature-healer">
         <span>Learning Package:<br>Nature as Healer</span>
-      </a>
-    </div>
+			</a>
+	</div>
 </div>
+	</div>
 
 
 <h3><b>Playlist</b></h3>
@@ -159,20 +160,19 @@ In this playlist, we demystify forests and plants and explore forests in Singapo
   
 	
 <div class="row is-multiline margin--bottom-lg">
-  <div class="col is-two-fifths">
-   <div class="responsive-iframe-container ratio-16by9">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7kHZ0a_6TxY"></iframe>
+   <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+    <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7kHZ0a_6TxY"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>How Trees Secretly Talk to Each Other in the Forest?</b><br>
+  <p><b>How Trees Secretly Talk to Each Other in the Forest?</b><br>
       In the forest, trees connect to one another through an underground mechanism. Explore how the process works and why do they do so. 
 
 <small>Source:How Trees Secretly Talk to Each Other in the Forest? (2018, Sept 11).National Geographic.Retrieved 2022, December 20.</small></p>
 	</div>
-	</div>
+</div>
 	
-
 
 <div class="row is-multiline margin--bottom-lg"> 
   <div class="col is-two-fifths">
@@ -185,8 +185,8 @@ In this playlist, we demystify forests and plants and explore forests in Singapo
      Nature enthusiast Brice Li takes viewers on a journey to his favourite trails around various areas in Singapore. 
 
 <small>Source: A 6am trek in Singapore forest with nature enthusiast (2021, Nov 5) South China Morning Post. Retrieved 2022, December 20. </small></p>							
-
-
+	 </div>
+ </div>
 
 <h5 id="green-economy"class="margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
 
@@ -288,6 +288,7 @@ Innovation in the development of widely used materials such as concrete coupled 
 <small>Source: This Green Tech is Bringing Life Back to the Sea (2019, August 9). Bloomberg Quicktake: Originals. Retrieved 2022, October 5.</small></p>
   </div>
 	</div>
+		
 	
 
 <div class="row is-multiline margin--bottom--lg">
