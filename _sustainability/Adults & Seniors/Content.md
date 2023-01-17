@@ -117,8 +117,8 @@ Check our **learning packages** for articles that will give you insights into li
     <div class="clickbox is-mint-jade">
       <a href="#lp-renewable-energy">
         <span>Learning Package:<br>Renewable Energy</span>
-	<a>
-</div>
+	 </a>
+ </div>
 </div>
 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
