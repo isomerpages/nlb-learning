@@ -157,9 +157,9 @@ In this playlist, we demystify forests and plants and explore forests in Singapo
   </div>
 </div>
 	
-	<div class="row is-multiline margin--bottom-lg"> 
-  < div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
+	<div class="row is-multiline margin--bottom-lg">
+  <div class="col is-two-fifths">
+   <div class="responsive-iframe-container ratio-16by9">
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7kHZ0a_6TxY"></iframe>
     </div>
   </div>
@@ -934,5 +934,3 @@ Source: <a target="_blank" href="https://www.youtube.com/embed/rCdVWD4Ko_0"> Con
 <h5>1.<a target="_blank" href="https://www.bbc.co.uk/sounds/play/p07k3lgs">BBC. (2019, August 8). Retrieved 2022, Dec 19. </a></h5>
 
 <p>Malaysian anthropologist Long Litt Woon found solace in fungi foraging after the unexpected death of her husband. She's now become a certified mushroom expert.
-	
-	
