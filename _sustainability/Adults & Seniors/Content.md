@@ -169,8 +169,8 @@ In this playlist, we demystify forests and plants and explore forests in Singapo
 <small>Source:<a href="https://www.youtube.com/embed/7kHZ0a_6TxY" target="_blank">How Trees Secretly Talk to Each Other in the Forest?</a>(2018, Sept 11).<i> National Geographic.<i>Retrieved 2022, December 20. 									
 
 
-	<div class="row is-multiline margin--bottom-lg"> 
-  < div class="col is-two-fifths">
+<div class="row is-multiline margin--bottom-lg"> 
+  <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/pEsOOngEQxU"></iframe>
     </div>
@@ -179,9 +179,8 @@ In this playlist, we demystify forests and plants and explore forests in Singapo
     <p><b>A 6am trek in Singapore forest with nature enthusiast</b><br>
      Nature enthusiast Brice Li takes viewers on a journey to his favourite trails around various areas in Singapore. 
 
-			<small>Source:A 6am trek in Singapore forest with nature enthusiast (2021, Nov 5) South China Morning Post. (2021, Nov 5). Retrieved 2022, December 20. </small></p>									
-  </div>
-</div>
+<small>Source:<a href="https://www.youtube.com/embed/ pEsOOngEQxU " target="_blank"> A 6am trek in Singapore forest with nature enthusiast</a>(2021, Nov 5).<i> South China Morning Post.<i>Retrieved 2022, December 20. 							
+
 
 
 <h5 id="green-economy"class="margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
