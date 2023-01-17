@@ -140,7 +140,7 @@ Check our **learning packages** for articles that will give you insights into li
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 	
-<h5 id="forests-plants"class="margin--bottom--lg"><b>Playlist: All About Forests and Plants</b></h5>
+<h5 class="margin--bottom--lg" id="forest-plants"><b>Playlist: All About Forests and Plants</b></h5>
 
 In this playlist, we demystify forests and plants and explore forests in Singapore to discover the treasures within.<br>
 	
