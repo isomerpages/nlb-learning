@@ -99,7 +99,7 @@ Check our **learning packages** for articles that will give you insights into li
       </a>
     </div>
   </div>
-	  <div class="col is-one-third">
+<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-wardrobe">
         <span>Learning Package:<br>Wardrobe Sustainability</span>
@@ -117,24 +117,24 @@ Check our **learning packages** for articles that will give you insights into li
     <div class="clickbox is-mint-jade">
       <a href="#lp-renewable-energy">
         <span>Learning Package:<br>Renewable Energy</span>
-				<a>
-		</div>
+	<a>
+	</div>
 	</div>
 	<div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="#forests-plants">
+    	<div class="clickbox is-mint-jade">
+      	<a href="#forests-plants">
         <span>Playlist:<br>Forest & Plants</span>
       </a>
     </div>
-		</div>
-	<div class="col is-one-third">
+</div>
+<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-nature-healer">
         <span>Learning Package:<br>Nature as Healer</span>
       </a>
     </div>
-	</div>
-	</div>
+</div>
+</div>
 
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
