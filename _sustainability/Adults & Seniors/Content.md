@@ -940,6 +940,8 @@ Source: <a target="_blank" href="https://www.youtube.com/embed/rCdVWD4Ko_0"> Con
 <p>Malaysian anthropologist Long Litt Woon found solace in fungi foraging after the unexpected death of her husband. She
 	's now become a certified mushroom expert.
 
-	<h4>Ebooks</h4>
-	<h5>1.The Well Gardened Mind:Rediscovering Nature in the Modern World	</h5>
-	Sue Stuart-Smith (2020),<i>The Well Gardened Mind: Rediscovering Nature in the Modern World<i>,New York: HarperCollins Publishers
+<h4>Ebooks</h4>
+<h5>1.The Well Gardened Mind:Rediscovering Nature in the Modern World	</h5>
+Sue Stuart-Smith (2020),<i>The Well Gardened Mind: Rediscovering Nature in the Modern World<i>,New York: HarperCollins Publishers.
+	<p>
+		
