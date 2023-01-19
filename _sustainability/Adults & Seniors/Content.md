@@ -946,7 +946,7 @@ discovering Nature in the Modern World
 </h5>
 Sue Stuart-Smith (2020),<i>The Well Gardened Mind: Rediscovering Nature in the Modern World<i>,New York: HarperCollins Publishers.
 	
-<a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Well-Gardened%20Mind/page-1/"><img alt="book cover for the well gardened mind" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/wellgardenedmindpng.png"></a>
+<a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Well-Gardened%20Mind/page-1/2300804"><img alt="book cover for the well gardened mind" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/wellgardenedmindpng.png"></a>
 	
 	
 	
