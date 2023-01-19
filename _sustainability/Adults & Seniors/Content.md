@@ -941,6 +941,16 @@ Source: <a target="_blank" href="https://www.youtube.com/embed/rCdVWD4Ko_0"> Con
 	's now become a certified mushroom expert.
 
 <h4>Ebooks</h4>
-<h5>1.The Well Gardened Mind:Rediscovering Nature in the Modern World	</h5>
+<h5>1.The Well Gardened Mind:Re
+discovering Nature in the Modern World
+</h5>
 Sue Stuart-Smith (2020),<i>The Well Gardened Mind: Rediscovering Nature in the Modern World<i>,New York: HarperCollins Publishers.
-	<p>
+	
+<a target="_blank" href="https://libbyapp.com/search/nlb/search/query-renewable%20energy/page-1/3295057"><img alt="book cover for the well gardened mind" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/wellgardenedmind.png"></a>
+	
+	
+	
+	
+	
+	
+																					 
