@@ -71,7 +71,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				</td>
 				<td style="width: 20%;">5 Feb 2023,<br>1pm – 2:30pm</td>
 				<td style="width: 20%;">Punggol Regional Library, Stories Comes Alive Room, Level 1</td>
-      </tr>
+			</tr>
 			<tr>
 				<td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-507034803747?aff=ebdssbdestsearch"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a>
 				</td>
