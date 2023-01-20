@@ -52,10 +52,12 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				<td style="width: 20%;">Jurong Regional Library, Programme Zone, Level 1</td>
 			</tr>
 			<tr>
-				<td style="width: 20%;"><b><a href="https://www.eventbrite.sg/e/checkmate-strategic-games-with-vjc-geylang-east-public-library-tickets-507036719477?aff=ebdssbdestsearch" target="_blank"><b>将军 (Checkmate)! Strategic Games with VJC | @ Geylang East Public Library</b></a></td>
-				<td style="width: 40%;">Learn to play Chinese Chess in this beginner-friendly hands-on workshop by VJC’s Strategic Games Club!.
+				<td style="width: 20%;"><b><a href="https://www.eventbrite.sg/e/checkmate-strategic-games-with-vjc-geylang-east-public-library-tickets-507036719477?aff=ebdssbdestsearch" target="_blank"><b>将军 (Checkmate)! Strategic Games with VJC | @ Geylang East Public Library</b></a>
+					</td>
+				<td style="width: 40%;">Learn to play Chinese Chess in this beginner-friendly hands-on workshop by VJC’s Strategic Games Club!
 					<br><br>This session is for children aged 7 to 13.
-					<br><br>Registration is required and is available <a href="https://www.eventbrite.sg/e/checkmate-strategic-games-with-vjc-geylang-east-public-library-tickets-507036719477?aff=ebdssbdestsearch">here.</a></td>
+					<br><br>Registration is required and is available <a href="https://www.eventbrite.sg/e/checkmate-strategic-games-with-vjc-geylang-east-public-library-tickets-507036719477?aff=ebdssbdestsearch">here.</a>
+				</td>
 				<td style="width: 20%;">4 Feb 2023,<br>2pm – 4pm</td>
 				<td style="width: 20%;">Geylang East Public Library, Activity Room, Level 1</td>
 			</tr>
