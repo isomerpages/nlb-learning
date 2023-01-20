@@ -101,11 +101,14 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 </td>
 <td style="width: 20%;">25 Feb 2023,<br>1:30pm – 3pm</td>
 				<td style="width: 20%;">Ang Mo Kio Public Library, Programme Zone</td></tr>
-			<tr><td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627?aff=ebdssbdestsearch"><b>How to be a Cyber Safe Family with Cyberlite Books @ library@harbourfront</b></a></td><td style="width: 40%;">Should we control our children’s screen time? What do we do if a child is cyberbullied? Join the authors of <i>Ready, Get Set, Connect!</i> to learn about family cyber safety.
-<br><br>This programme is suitable for children aged 7 to 12 years, and their parents. Each participant should register for their own ticket.</td><td style="width: 20%;">2 Oct 2022,<br>11:30am – 12:30pm</td><td style="width: 20%;">library@harbourfront, Programme Zone 2
-</td></tr>
-			<tr><td style="width: 20%;"><a href="https://www.eventbrite.sg/e/does-my-child-have-an-eating-disorder-online-tickets-411765249947?aff=ebdssbonlinesearch" target="_blank"><b>Does my Child have an Eating Disorder? | Online</b></a></td><td style="width: 40%;">In this wellness programme by NYP, learn how to recognise eating disorders in children and youths, and seek help for them.
-<br><br>This programme is suitable for parents of children and teens.</td><td style="width: 20%;">8 Oct 2022,<br>11am – 12:30pm</td><td style="width: 20%;">Zoom
+			
+			<tr><td style="width: 20%;"><b>Create your own Fruit Peel Cleaning Enzyme! | @ Cheng San Public Library</b></td>
+	<td style="width: 40%;">Join us and learn about the importance of reducing food waste and what you can do at home with remaining fruit peels. Learn how to create your very own Fruit Peel Cleaning Enzyme in this hands-on workshop!
+<br><br>This programme is suitable for children aged 7 to 13 years.
+<br><br>Registration will open closer to the date.</td>
+        <td style="width: 20%;">12 Mar 2023,<br>2pm – 3pm</td>
+        <td style="width: 20%;">Cheng San Public Library, Activity Room
+</td>
 </td></tr>
   </tbody>
   </table>
