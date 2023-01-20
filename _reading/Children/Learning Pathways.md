@@ -84,87 +84,12 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				<td style="width: 20%;">Multiple Public Libraries                               
 				</td>
 			</tr>
-			<tr>
-				<td style="width: 20%;"><b>Wira Pintar Reading Club</b></td>
-				<td style="width: 40%;">A monthly interactive children’s reading club for those aged 6-9 years old, filled with storytelling session, language-based activities and craft making.</td>
-				<td style="width: 20%;">Every 4th Saturday,
-					<br>11.30am-12.30pm</td>
-				<td style="width: 20%;">Yishun Public Library,
-					<br>Programme Zone</td>
-			</tr>
-			<tr>
-				<td style="width: 20%;"><b>Tamil Storytelling Sessions</b></td>
-				<td style="width: 40%;">Immerse in fun-filled Tamil stories at the library. These 30-min storytelling sessions will feature folktales, animal stories, moral stories and much more. Choose your preferred location and engage with our lively storytellers.</td>
-				<td style="width: 20%;">Every 4th&nbsp;Thursday,
-					<br>7pm – 7:30pm
-					<br>
-					<br><br>Every 3rd&nbsp;Wednesday,
-					<br>7pm – 7:30pm
-					<br><br>Every 1st&nbsp;Friday,
-					<br>7pm - 7.30pm
-					<br>
-					<br><br>Every 2nd&nbsp;Sunday,
-					<br>3pm - 3.30pm
-					<br>
-					<br><br>Every 2nd&nbsp;Friday,
-					<br>7pm – 7:30pm
-				</td>
-				<td style="width: 20%;">Woodlands Regional Library, Children’s Section Level 4
-					<br><br>Tampines Regional Library, Programme Zone Level 6
-					<br><br>&nbsp;Jurong Regional Library, Programme Zone Level 1
-					<br><br>Choa Chu Kang Public Library, Programme Zone 1 &amp; 2
-					<br><br>Sengkang Public Library, Programme Zone Level 4
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 20%;"><b>星衢讲故事活动 Sing Chu Chinese Storytelling</b></td>
-				<td style="width: 40%;">有华语趣味故事可听，还有游戏可玩，快来和我们共度欢乐的周末时光吧！故事内容适合4至10岁的孩童聆听，欢迎家长陪同。
-				<br><br>Join us for fun-filled interactive Chinese storytelling sessions! With interesting stories galore, children will definitely be thrilled with the activities and more! Stories are suitable for children from 4 to 10 years old. Parents are welcome to join in the session.</td>
-				<td style="width: 20%;">Every 1st&nbsp;Saturday,
-					<br>1 Oct 2022,
-					<br>5 Nov 2022,
-					<br>3 Dec 2022,
-					<br>3pm – 3:30pm
-					<br><br>Every 2nd&nbsp;Saturday,
-					<br>8 Oct 2022,
-					<br>12 Nov 2022,
-					<br>10 Dec 2022,
-					<br>12.30pm–1pm
-					<br><br>Every 3rd&nbsp;Saturday,
-					<br>15 Oct 2022,
-					<br>19 Nov 2022,
-					<br>17 Dec 2022,
-					<br>11.30am–12pm
-				</td>
-				<td style="width: 20%;">Yishun Public Library, Story Circle, Level 4
-		 <br><br>
-		 <br><br>
-		 <br>Choa Chu Kang Public Library, Programme Zone 1
-		 <br><br>
-		 <br><br>Tampines Regional Library, Books for Babies,&nbsp;Level&nbsp;3
-				</td>
-			</tr>
 		</tbody>
 	</table>
 </div>
 
 <div class="horizontal-scroll margin--bottom--lg">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<table class="generic-table">
+<table class="generic-table">
     <thead>
       <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Areas</th>
