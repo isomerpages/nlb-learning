@@ -62,10 +62,11 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				<td style="width: 20%;">Geylang East Public Library, Activity Room, Level 1</td>
 			</tr>
 			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/roll-your-way-to-complex-characters-and-perplexing-plots-tweens-write-tickets-506940983127?aff=ebdssbeac" target="_blank"><b>Roll Your Way to Complex Characters and Perplexing Plots! | Tweens Write</b></a></td>
+				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/roll-your-way-to-complex-characters-and-perplexing-plots-tweens-write-tickets-506940983127?aff=ebdssbeac" target="_blank"><b>Roll Your Way to Complex Characters and Perplexing Plots! | Tweens Write</b></a>
+				</td>
 				<td style="width: 40%;">Create your own characters using dice, Dungeons and Dragons style!
 				<br><br>This programme is suitable for tweens aged 10 to 13.
-					<br><br>Registration is required and is available <a href="https://www.eventbrite.sg/e/roll-your-way-to-complex-characters-and-perplexing-plots-tweens-write-tickets-506940983127?aff=ebdssbeac">here.</a> </td>
+					<br><br>Registration is required and is available <a href="https://www.eventbrite.sg/e/roll-your-way-to-complex-characters-and-perplexing-plots-tweens-write-tickets-506940983127?aff=ebdssbeac">here.</a>
 				</td>
 				<td style="width: 20%;">5 Feb 2023,<br>1pm – 2:30pm</td>
 				<td style="width: 20%;">Punggol Regional Library, Stories Comes Alive Room, Level 1</td>
