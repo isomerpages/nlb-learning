@@ -9,7 +9,7 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 This quarter, we explore Forests &amp; Plants, a vital element of our environment.
  
 <h3 id="All About Forests and Plants" class="margin--bottom--lg"><b>All About Forests and Plants</b></h3>
-In All About Forests and Plants, we highlight the roles forests and plants play in the environment, how our activities impact these roles and the consequences. 
+In All About Forests and Plants, we highlight the roles forests and plants play in the environment, how our activities impact these roles and the consequences.
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
@@ -28,7 +28,7 @@ In All About Forests and Plants, we highlight the roles forests and plants play 
    <tr>
 		<td><a href="/sustainability/adults-seniors/content"><b>Nature as Healer Learning Package</b></a></td>
  <td>Nature has the power to captivate, uplift, heal and restore. Perhaps more so now than ever, in these tumultuous times, we need to understand and connect to the therapeutic effects of nature. In this learning package, you will get to know more about the wonders of nature especially through forests and plants and its impact on our well-being and health. Hopefully, you will be inspired.</td>
-        <td></td>
+		 <td></td>
         <td></td>
 			</tr>
 </tbody>
@@ -36,14 +36,15 @@ In All About Forests and Plants, we highlight the roles forests and plants play 
 </div>
 
 <div class="horizontal-scroll margin--bottom--lg">
+<div class="horizontal-scroll margin--bottom--lg">
 <table class="generic-table">
 <thead>
-<tr>
-<th colspan="4" class="is-uppercase has-weight-normal">Explore with Industry Speakers and Trainers</th>
-  </tr>
- </thead>
- <tbody>
- <tr>
+     <tr>
+      <th colspan="4" class="is-uppercase has-weight-normal">Explore with Industry Speakers and Trainers</th>
+      </tr>
+      </thead>
+      <tbody>
+       <tr>
  <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/516444688967">Forests Between the Tides</a></td>
         <td style="width: 40%;">Learn more about the local mangroves and the important role they play in Singapore's biodiversity with Cheng Puay, a biologist and volunteer nature guide! </td>
 
@@ -55,26 +56,7 @@ In All About Forests and Plants, we highlight the roles forests and plants play 
 </table>
 </div>
 				 
-        
-<div class="horizontal-scroll margin--bottom--lg">
-	<div class="horizontal-scroll margin--bottom--lg">
-  </div><table class="generic-table">
-    <thead>
-      <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Use, Apply and Share Your Skills and Knowledge </th>
-			</tr>
-    </thead>
-    <tbody>
-      <tr> 
-				<td style="width: 20%;"> <b></b></td>
-        <td style="width: 40%;">   </td>
-        <td style="width: 20%;"><br></td>
-        <td style="width: 20%;"></td>		
-			</tr>
-</tbody>
-</table>
-</div>
-
+       
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
