@@ -24,8 +24,10 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				<td style="width: 20%;"></td>
 			</tr>
 			<tr>
-				<td style="width: 20%;"><a href="/reading/children/content" target="_blank"><b>Learning Package: Virtual Museum Tours!</b></a></td>
-				<td style="width: 40%;">Explore breathtaking virtual museum tours right in the comfort of your own home.</td>
+				<td style="width: 20%;"><a href="/reading/children/content" target="_blank"><b>Learning Package: Virtual Museum Tours!</b></a>
+				</td>
+				<td style="width: 40%;">Explore breathtaking virtual museum tours right in the comfort of your own home.
+				</td>
 				<td style="width: 20%;"></td>
 				<td style="width: 20%;"></td>
 			</tr>
