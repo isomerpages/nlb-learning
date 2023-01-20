@@ -915,7 +915,7 @@ Jeremy Shere (2013), <i>Renewable</i>, New York: St. Martin’s Press
 
 	
 <h3><b>Learning Package</b></h3> 
-	<h5 id="#lp-nature-healer" class="margin--bottom--lg"><b>Nature as Healer</b></h5>
+<h5 id="lp-nature-healer"class="margin--bottom--lg"><b>Nature as Healer</b></h5>
 
 	
 <p>Nature has the power to captivate, uplift, heal and restore. Perhaps more so now than ever, in these tumultuous times, we need to understand and connect to the therapeutic effects of nature. In this learning package, you will get to know more about the wonders of nature especially through forests and plants and its impact on our well-being and health. Hopefully, you will be inspired to spend more time in nature!</p>
@@ -925,8 +925,8 @@ Jeremy Shere (2013), <i>Renewable</i>, New York: St. Martin’s Press
 <p>A forest therapy guide describes what is "forest bathing" and how it is more than a nature walk. </p>
 
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/watch?v=TcK7OnJR9MQ" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=TcK7OnJR9MQ">Forest Bathing In Singapore: Walk Slowly, Connect Deeply</a> (2021, March 30). <i>The Straits Times</i> Retrieved 2022, December 19
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TcK7OnJR9MQ" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/embed/TcK7OnJR9MQ">Forest Bathing In Singapore: Walk Slowly, Connect Deeply</a> (2021, March 30). <i>The Straits Times</i> Retrieved 2022, December 19
 
 <h5>2.Connecting Nature to Creativity, Community, and Mental Health</h5> 
 <p> This NLB discussion explores the vital relationship between nature and artistic creativity, the therapeutic benefits of nature to mental health, and what happens when communities are engaged in their bringing nature into the city.</p>
