@@ -59,11 +59,12 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 			</tr>
 			<tr>
 				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/roll-your-way-to-complex-characters-and-perplexing-plots-tweens-write-tickets-506940983127?aff=ebdssbeac" target="_blank"><b>Roll Your Way to Complex Characters and Perplexing Plots! | Tweens Write</b></a></td>
-				<td style="width: 40%;">Learn how lovable <i>Monsters United</i> mascot Zecky got her specs! Join our exclusive sci-fi-themed storytelling and craft sessions happening at various public libraries in the month of December.&nbsp;More details will be made available&nbsp;<a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here</a>&nbsp;closer to the date.
-					<br><br>This programme is suitable for parents and children aged 7 to 10.
-					<br><br>Registration will open closer to the date.</td>
-				<td style="width: 20%;">Dec 2022</td>
-				<td style="width: 20%;">Multiple Public Libraries</td>
+				<td style="width: 40%;">Create your own characters using dice, Dungeons and Dragons style!
+				<br><br>This programme is suitable for tweens aged 10 to 13.
+					<br><br>Registration is required and is available <a href="https://www.eventbrite.sg/e/roll-your-way-to-complex-characters-and-perplexing-plots-tweens-write-tickets-506940983127?aff=ebdssbeac">here.</a> </td>
+				</td>
+				<td style="width: 20%;">5 Feb 2023,<br>1pm – 2:30pm</td>
+				<td style="width: 20%;">Punggol Regional Library, Stories Comes Alive Room, Level 1</td>
       </tr>
 			<tr>
 				<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/bookbugsr/quests/" target="_blank"><b>Book Bugs Rescuers' Quests</b></a></td>
