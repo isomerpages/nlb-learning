@@ -44,19 +44,43 @@ Looking for your next literary adventure?
 Check out our **playlists** for collections of short videos and podcasts to expand your reading interests.
 
 Check out our **learning packages** to explore ways of expressing yourself through literary arts with these articles and activities.
-
 <div class="row is-multiline">
 	  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#playlist-TBheritage">
+        <span>Playlist:<br>Tiong Bahru Heritage</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#playlist-multi">
         <span>Playlist:<br>Multilingualism</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
+<div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#playlist-manga">
         <span>Playlist:<br>Marvellous Manga</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
+
+<div class="row is-multiline">
+	  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="">
+        <span><br></span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="">
+        <span><br></span>
       </a>
     </div>
   </div>
@@ -96,6 +120,53 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 
 
 <h3><b>Playlist</b></h3>
+<h5 class="margin--bottom--lg" id="playlist-TBheritage"><b>Playlist: Tiong Bahru Heritage</b></h5>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=7lbIL1P6NZg"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Learning to be a Hawker at One of Singapore’s Busiest Hawker Centres.(4 min)</b><br>
+		
+What happens when someone with zero hawker experience learns the ropes at a busy prawn mee stall at Tiong Bahru Market?
+<br><br>
+<small> Source: Learning to be a Hawker at One of Singapore’s Busiest Hawker Centres (2021, Jan 13). OGS. Retrieved 2022, 19 December.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=PHrlBvRaec8"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Our Stories: Think You Know Tiong Bahru? (2 min) </b><br>
+Were these the first homes to touch the sky? Uncover the stories of this iconic neighbourhood through the Tiong Bahru Elevation Plan held at the National Archives of Singapore.
+<br><br>
+<small> Source: Our Stories: Think you know Tiong Bahru? (2020, Mar 26). NLB Singapore. Retrieved 2022, 19 December. </small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=sXaYGERDDio"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>A Wes Anderson-ish Trip Around Tiong Bahru Singapore (6 min) </b><br>
+Take a whimsical trip around the quaint and charming Tiong Bahru, the beloved neighbourhood filled with heritage and history.
+<br><br>
+<small> Source: A Wes Anderson-ish Trip Around Tiong Bahru Singapore (2021, Jan 8) Kevin Siyuan. Retrieved 2022, 19 December.</small></p>
+  </div>
+</div>
+
+
 
 <h5 class="margin--bottom--lg" id="playlist-multi"><b>Playlist: Multilingualism</b></h5>
 
