@@ -99,7 +99,8 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 			<tr><td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/diy-upcycled-pencil-case-ang-mo-kio-public-library-tickets-519423157647?aff=ebdssbdestsearch"><b>DIY Upcycled Pencil Case @ Ang Mo Kio Public Library</b></a></td><td style="width: 40%;">Upcycle fabric waste and plastic packaging to create your own pencil case! Register <a href="https://www.eventbrite.sg/e/diy-upcycled-pencil-case-ang-mo-kio-public-library-tickets-519423157647?aff=ebdssbdestsearch">here.</a>
 <br><br>This programme is suitable for tweens aged 10 to 13.
 </td>
-<td style="width: 20%;">8 Oct 2022,<br>10:30am – 12pm</td><td style="width: 20%;">Bishan Public Library, B1 Garden</td></tr>
+<td style="width: 20%;">25 Feb 2023,<br>1:30pm – 3pm</td>
+				<td style="width: 20%;">Ang Mo Kio Public Library, Programme Zone</td></tr>
 			<tr><td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627?aff=ebdssbdestsearch"><b>How to be a Cyber Safe Family with Cyberlite Books @ library@harbourfront</b></a></td><td style="width: 40%;">Should we control our children’s screen time? What do we do if a child is cyberbullied? Join the authors of <i>Ready, Get Set, Connect!</i> to learn about family cyber safety.
 <br><br>This programme is suitable for children aged 7 to 12 years, and their parents. Each participant should register for their own ticket.</td><td style="width: 20%;">2 Oct 2022,<br>11:30am – 12:30pm</td><td style="width: 20%;">library@harbourfront, Programme Zone 2
 </td></tr>
