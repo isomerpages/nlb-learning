@@ -953,3 +953,11 @@ Sue Stuart-Smith, (2020)<i>The Well Gardened Mind: Rediscovering Nature in the M
 	
 <p><a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Well-Gardened%20Mind/page-1/2300804">Borrow the eBook here</a>. </p>
 Retrieved from Libby (myLibraryid is required to access the eBook).
+	
+<h5>2. The Living Wisdom of Trees : A Guide to the Natural History, Symbolism and Healing Power Of Trees</h5>
+Fred Hageneder (2020), <i>The Living Wisdom of Trees : A Guide to the Natural History, Symbolism and Healing Power Of Trees <i>, Watkins Publishing
+<p>
+
+<a target="_blank" href="https://nlb.overdrive.com/media/5155080"><img alt="book cover for wear, repair, repurpose" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/WearRepairRepurpose.jpg"></a>
+<p>Learn how to repair, upcycle or remake your fashion pieces to reduce waste with this book.</p>
+<p><a target="_blank" href="https://nlb.overdrive.com/media/5155080">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
