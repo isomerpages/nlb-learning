@@ -75,20 +75,11 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				<td style="width: 20%;">Choa Chu Kang Public Library, Programme Room 1 & 2, Level 4</td>
 			</tr>
 			<tr>
-				<td style="width: 20%;"><b>Stories in Art with National Gallery Singapore</b></td>
-				<td style="width: 40%;">Join our storytelling on folktales and local legends, featuring artists and artworks from books published by the National Gallery Singapore!
-					<br><br>Registration will open closer to the date.
+				<td style="width: 20%;"><b>Rooky’s Animated Book Launch</b></td>
+				<td style="width: 40%;">Learn how lovable <i>_Monsters United_</i> mascot Rooky got his wings! Join our exclusive horror-themed storytelling and craft sessions happening at various public libraries in the month of March. More details will be made available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here closer to date.</a>
+<br><br>Registration will open closer to the date.
 				</td>
-				<td style="width: 20%;">3 Dec
-					<br>2pm – 3pm
-					<br>
-					<br><br>3 Dec
-					<br>2pm – 3pm
-					<br>
-					<br><br>10 Dec
-					<br>2pm – 3pm
-					<br><br>17 Dec
-					<br>2pm – 3pm
+				<td style="width: 20%;">Mar 2023
 				</td>
 				<td style="width: 20%;">Sengkang Public Library, Programme Zone
 					<br><br>Choa Chu Kang Public Library, Programme Zone 1
