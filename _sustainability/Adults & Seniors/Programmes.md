@@ -31,7 +31,7 @@ Hear from experts, attend workshops, and connect with your community to start yo
 
 In partnership with **NUS’s Ridge View Residential College (RVRC)**, this series of talks unpacks pertinent sustainability topics and makes them accessible whatever your background.
 
-Held on a bi-monthly basis, these talks seek to better your knowledge about Sustainability. 
+Held on weekday evenings, these talks seek to better your knowledge about Sustainability. 
 
 All talks are listed on Eventbrite and suitable for adults and seniors.    
 
