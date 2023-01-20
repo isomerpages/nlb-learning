@@ -78,7 +78,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 			</tr>
 			<tr>
 				<td style="width: 20%;"><b>Rooky’s Animated Book Launch</b></td>
-				<td style="width: 40%;">Learn how lovable <i>_Monsters United_</i> mascot Rooky got his wings! Join our exclusive horror-themed storytelling and craft sessions happening at various public libraries in the month of March. More details will be made available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here closer to date.</a>
+				<td style="width: 40%;">Learn how lovable <i>Monsters United</i> mascot Rooky got his wings! Join our exclusive horror-themed storytelling and craft sessions happening at various public libraries in the month of March. More details will be made available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here closer to date.</a>
 <br><br>Registration will open closer to the date.
 				</td>
 				<td style="width: 20%;">Mar 2023
@@ -97,20 +97,25 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
       </tr>
     </thead>
     <tbody>
-			<tr><td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/diy-upcycled-pencil-case-ang-mo-kio-public-library-tickets-519423157647?aff=ebdssbdestsearch"><b>DIY Upcycled Pencil Case @ Ang Mo Kio Public Library</b></a></td><td style="width: 40%;">Upcycle fabric waste and plastic packaging to create your own pencil case! Register <a href="https://www.eventbrite.sg/e/diy-upcycled-pencil-case-ang-mo-kio-public-library-tickets-519423157647?aff=ebdssbdestsearch">here.</a>
+			<tr>
+				<td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/diy-upcycled-pencil-case-ang-mo-kio-public-library-tickets-519423157647?aff=ebdssbdestsearch"><b>DIY Upcycled Pencil Case @ Ang Mo Kio Public Library</b></a></td>
+				<td style="width: 40%;">Upcycle fabric waste and plastic packaging to create your own pencil case! Register <a href="https://www.eventbrite.sg/e/diy-upcycled-pencil-case-ang-mo-kio-public-library-tickets-519423157647?aff=ebdssbdestsearch">here.</a>
 <br><br>This programme is suitable for tweens aged 10 to 13.
-</td>
-<td style="width: 20%;">25 Feb 2023,<br>1:30pm – 3pm</td>
-				<td style="width: 20%;">Ang Mo Kio Public Library, Programme Zone</td></tr>
-			<tr><td style="width: 20%;"><b>Create your own Fruit Peel Cleaning Enzyme! | @ Cheng San Public Library</b></td>
-	<td style="width: 40%;">Join us and learn about the importance of reducing food waste and what you can do at home with remaining fruit peels. Learn how to create your very own Fruit Peel Cleaning Enzyme in this hands-on workshop!
+				</td>
+				<td style="width: 20%;">25 Feb 2023,<br>1:30pm – 3pm</td>
+				<td style="width: 20%;">Ang Mo Kio Public Library, Programme Zone</td>
+			</tr>
+			<tr>
+				<td style="width: 20%;"><b>Create your own Fruit Peel Cleaning Enzyme! | @ Cheng San Public Library</b>
+				</td>
+				<td style="width: 40%;">Join us and learn about the importance of reducing food waste and what you can do at home with remaining fruit peels. Learn how to create your very own Fruit Peel Cleaning Enzyme in this hands-on workshop!
 <br><br>This programme is suitable for children aged 7 to 13.
-<br><br>Registration will open closer to the date.</td>
+<br><br>Registration will open closer to the date.
+				</td>
         <td style="width: 20%;">12 Mar 2023,<br>2pm – 3pm</td>
-        <td style="width: 20%;">Cheng San Public Library, Activity Room
-</td>
-</td></tr>
-  </tbody>
-  </table>
+        <td style="width: 20%;">Cheng San Public Library, Activity Room</td>
+			</tr>
+	</tbody>
+	</table>
 </div>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
