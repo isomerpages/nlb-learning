@@ -958,6 +958,6 @@ Retrieved from Libby (myLibraryid is required to access the eBook).
 Fred Hageneder (2020), <i>The Living Wisdom of Trees : A Guide to the Natural History, Symbolism and Healing Power Of Trees <i>, Watkins Publishing
 <p>
 
-<a target="_blank" href="https://nlb.overdrive.com/media/5155080"><img alt="book cover for wear, repair, repurpose" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/WearRepairRepurpose.jpg"></a>
-<p>Learn how to repair, upcycle or remake your fashion pieces to reduce waste with this book.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/5155080">Borrow the eBook here</a>.</p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+<a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Living%20Wisdom%20of%20Trees/page-1"><img alt="book cover for living wisdom of trees" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/WearRepairRepurpose.jpg"></a>
+<p>A definitive illustrated guide to the sacred place trees hold for cultures around the world, looking in particular at their botanical characteristics; their place in world myth, magic and folklore; their healing properties; and their practical contribution to society.</p>
+<p><a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Living%20Wisdom%20of%20Trees/page-1">Borrow the eBook here</a>.</p>Retrieved from Libby (myLibraryid is required to access the eBook).
