@@ -915,7 +915,7 @@ Jeremy Shere (2013), <i>Renewable</i>, New York: St. Martin’s Press
 
 	
 <h3><b>Learning Package</b></h3> 
-	<h5 id="lp-nature-healer" class="margin--bottom--lg"><b>Nature as Healer</b></h5>
+	<h5 id="#lp-nature-healer" class="margin--bottom--lg"><b>Nature as Healer</b></h5>
 
 	
 <p>Nature has the power to captivate, uplift, heal and restore. Perhaps more so now than ever, in these tumultuous times, we need to understand and connect to the therapeutic effects of nature. In this learning package, you will get to know more about the wonders of nature especially through forests and plants and its impact on our well-being and health. Hopefully, you will be inspired to spend more time in nature!</p>
@@ -937,13 +937,10 @@ Source: <a target="_blank" href="https://www.youtube.com/embed/rCdVWD4Ko_0"> Con
 <h4>Podcast</h4>
 <h5>1.<a target="_blank" href="https://www.bbc.co.uk/sounds/play/p07k3lgs">BBC. (2019,August 8). Retrieved 2022, Dec 19. </a></h5>
 
-<p>Malaysian anthropologist Long Litt Woon found solace in fungi foraging after the unexpected death of her husband. She
-	's now become a certified mushroom expert.
+<p>Malaysian anthropologist Long Litt Woon found solace in fungi foraging after the unexpected death of her husband. She's now become a certified mushroom expert.
 
 <h4>Ebooks</h4>
-<h5>1.The Well Gardened Mind:Re
-discovering Nature in the Modern World
-</h5>
+<h5>1.The Well Gardened Mind:Rediscovering Nature in the Modern World </h5>
 Sue Stuart-Smith, (2020)<i>The Well Gardened Mind: Rediscovering Nature in the Modern World<i>,New York: HarperCollins Publishers.
 
 <p>
