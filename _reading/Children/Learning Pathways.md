@@ -34,8 +34,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 </div>
 
 <div class="horizontal-scroll margin--bottom--lg">
-	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<table class="generic-table">
+	<table class="generic-table">
 		<thead>
 			<tr>
 				<th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
@@ -43,12 +42,12 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 		</thead>
 		<tbody>
 			<tr>
-				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/learn-singapore-sign-language-with-sadeaf-teens-takeover-rewrite-tickets-503186703977?aff=ebdssbeac" target="_blank"><b>Learn Singapore Sign Language with SADeaf | Teens Takeover |re:write</b></a></td>
+				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/learn-singapore-sign-language-with-sadeaf-teens-takeover-rewrite-tickets-503186703977?aff=ebdssbeac" target="_blank"><b>Learn Singapore Sign Language with SADeaf | Teens Takeover | re:write</b></a></td>
 				<td style="width: 40%;">Learn about Singapore Sign Language with the Singapore Association for the Deaf (SADeaf) and pick up a few signs.
 					<br><br>This session is for teens aged 13 to 17.
-					<br><br>Registration is required and is available here.</td>
-				<td style="width: 20%;">26 Nov&nbsp;2022,<br>11am – 12pm</td>
-				<td style="width: 20%;">Zoom</td>
+					<br><br>Registration is required and is available <a href="https://www.eventbrite.sg/e/learn-singapore-sign-language-with-sadeaf-teens-takeover-rewrite-tickets-503186703977?aff=ebdssbeac">here.</a></td>
+				<td style="width: 20%;">27 Jan 2023,<br>3pm – 4pm</td>
+				<td style="width: 20%;">Jurong Regional Library, Programme Zone, Level 1</td>
 			</tr>
 			<tr>
 				<td style="width: 20%;"><b>Save Smart with Smiley (11-12 years old)</b></td>
