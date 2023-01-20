@@ -152,7 +152,7 @@ In this playlist, we demystify forests and plants and explore forests in Singapo
   </div>
   <div class="col is-three-fifths">
     <p><b>What is a Forest?</b><br>
-      Understand what constitutes a forest and the various processes they are responsible for. 
+ Understand what constitutes a forest and the various processes they are responsible for. 
 																	
 <small>Source: What is a Forest? (2014, Oct 8).Harvard Museum of Natural History. Retrieved 2022, December 20.</small></p>
 	</div>
@@ -188,7 +188,8 @@ In this playlist, we demystify forests and plants and explore forests in Singapo
 	 </div>
  </div>
 
-<h5 id="green-economy"class="margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
+
+<h5 id="green-economy" class="margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
 
 We round up the main points about the green economy to get you quickly up to speed on this concept that is integral to achieving sustainable development while balancing environmental needs.<br>
 
@@ -924,9 +925,7 @@ Jeremy Shere (2013), <i>Renewable</i>, New York: St. Martin’s Press
 <h5>1.Forest Bathing In Singapore: Walk Slowly, Connect Deeply</h5>
 <p>A forest therapy guide describes what is "forest bathing" and how it is more than a nature walk. </p>
 
-<div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TcK7OnJR9MQ" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/embed/TcK7OnJR9MQ"> Forest Bathing In Singapore: Walk Slowly, Connect Deeply</a> (2021, March 30). <i>The Straits Times</i> Retrieved 2022, December 19
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=TcK7OnJR9MQ"> Forest Bathing In Singapore: Walk Slowly, Connect Deeply</a> (2021, March 30). <i>The Straits Times</i> Retrieved 2022, December 19
 
 <h5>2.Connecting Nature to Creativity, Community, and Mental Health</h5> 
 <p> This NLB discussion explores the vital relationship between nature and artistic creativity, the therapeutic benefits of nature to mental health, and what happens when communities are engaged in their bringing nature into the city.</p>
@@ -981,5 +980,3 @@ Syarifah Nadhirah (2020), <i> Recalling forgotten tastes: Of Illustrated Edible 
 <h4>Sustainability Programmes in NLB</h4>
 
 <p>There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a target="_blank" href="https://go.gov.sg/sustainprog">go.gov.sg/sustainprog</a>
-
-
