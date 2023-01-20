@@ -12,20 +12,20 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
   <table class="generic-table">
     <thead>
       <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Discover Recommended Resources</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
       </tr>
     </thead>
 		<tbody>
 			<tr>
-				<td style="width: 20%;"><a target="_blank" href="/reading/children/content"><b>Playlist: Meet the Storytellers!</b></a>
+				<td style="width: 20%;"><a href="/reading/children/content" target="_blank"><b>Playlist: Try Something New!</b></a>
 				</td>
 				<td style="width: 40%;">Create fun reading experiences at home with these bite-sized resources for your child to discover the joy of reading.</td>
 				<td style="width: 20%;"></td>
 				<td style="width: 20%;"></td>
 			</tr>
 			<tr>
-				<td style="width: 20%;"><a target="_blank" href="/reading/children/content"><b>Learning Package: Story Crafts!</b></a></td>
-				<td style="width: 40%;">Help your child relate to a book through a short read and a story-based craft.</td>
+				<td style="width: 20%;"><a href="/reading/children/content" target="_blank"><b>Learning Package: Virtual Museum Tours!</b></a></td>
+				<td style="width: 40%;">Explore breathtaking virtual museum tours right in the comfort of your own home.</td>
 				<td style="width: 20%;"></td>
 				<td style="width: 20%;"></td>
 			</tr>
@@ -34,19 +34,20 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 </div>
 
 <div class="horizontal-scroll margin--bottom--lg">
-	<table class="generic-table">
+	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<table class="generic-table">
 		<thead>
 			<tr>
-				<th class="is-uppercase has-weight-normal" colspan="4">Explore Programmes</th>
+				<th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td style="width: 20%;"><b>Save Smart with Smiley (8-10 years old)</b></td>
-				<td style="width: 40%;">Learn how to save smart, identify the difference between “Needs” and “Wants,” and develop healthy spending habits.
-					<br><br>This session is for children aged 8 to 10.
-					<br><br>Registration is required and will be opened closer to the date.</td>
-				<td style="width: 20%;">26 Nov 2022,<br>11am – 12pm</td>
+				<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/learn-singapore-sign-language-with-sadeaf-teens-takeover-rewrite-tickets-503186703977?aff=ebdssbeac" target="_blank"><b>Learn Singapore Sign Language with SADeaf | Teens Takeover |re:write</b></a></td>
+				<td style="width: 40%;">Learn about Singapore Sign Language with the Singapore Association for the Deaf (SADeaf) and pick up a few signs.
+					<br><br>This session is for teens aged 13 to 17.
+					<br><br>Registration is required and is available here.</td>
+				<td style="width: 20%;">26 Nov&nbsp;2022,<br>11am – 12pm</td>
 				<td style="width: 20%;">Zoom</td>
 			</tr>
 			<tr>
@@ -54,24 +55,23 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				<td style="width: 40%;">Learn how to save smart, identify the difference between “Needs” and “Wants,” and develop healthy spending habits.
 					<br><br>This session is for children aged 11 to 12
 					<br><br>Registration is required and will be opened closer to the date.</td>
-				<td style="width: 20%;">3 Dec 2022,<br>11am – 12pm</td>
+				<td style="width: 20%;">3 Dec&nbsp;2022,<br>11am – 12pm</td>
 				<td style="width: 20%;">Zoom</td>
 			</tr>
 			<tr>
 				<td style="width: 20%;"><b>Zecky's Animated Book Launch</b></td>
-				<td style="width: 40%;">Learn how lovable <i>Monsters United</i> mascot Zecky got her specs! Join our exclusive sci-fi-themed storytelling and craft sessions happening at various public libraries in the month of December. More details will be made available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here</a> closer to the date.
+				<td style="width: 40%;">Learn how lovable <i>Monsters United</i> mascot Zecky got her specs! Join our exclusive sci-fi-themed storytelling and craft sessions happening at various public libraries in the month of December.&nbsp;More details will be made available&nbsp;<a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here</a>&nbsp;closer to the date.
 					<br><br>This programme is suitable for parents and children aged 7 to 10.
 					<br><br>Registration will open closer to the date.</td>
 				<td style="width: 20%;">Dec 2022</td>
 				<td style="width: 20%;">Multiple Public Libraries</td>
       </tr>
 			<tr>
-				<td style="width: 20%;"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/events/bookbugsr/quests/"><b>Book Bugs Rescuers' Quests</b></a></td>
+				<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/bookbugsr/quests/" target="_blank"><b>Book Bugs Rescuers' Quests</b></a></td>
 				<td style="width: 40%;">The Rescuers’ Quest is an in-library video trail that reveals the story behind The End Bug. Explore the Children’s Section in libraries and search for the three stations he’s left behind to watch his video messages! Begin your search at the Books Bugs machine.
 					<br><br>This self-guided in-library trail is suitable for children of all ages and fans of Book Bugs.
 					<br><br>Registration is not required.</td>
-				<td style="width: 20%;">Sep - Dec 2022</td>
-        <td style="width: 20%;">Multiple Public Libraries
+				<td style="width: 20%;">Sep - Dec 2022</td><td style="width: 20%;">Multiple Public Libraries
 					<br>except library@esplanade, 
 					<br>library@chinatown, 
 					<br>library@orchard</td>
@@ -109,24 +109,24 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 			<tr>
 				<td style="width: 20%;"><b>Tamil Storytelling Sessions</b></td>
 				<td style="width: 40%;">Immerse in fun-filled Tamil stories at the library. These 30-min storytelling sessions will feature folktales, animal stories, moral stories and much more. Choose your preferred location and engage with our lively storytellers.</td>
-				<td style="width: 20%;">Every 4th Thursday,
+				<td style="width: 20%;">Every 4th&nbsp;Thursday,
 					<br>7pm – 7:30pm
 					<br>
-					<br><br>Every 3rd Wednesday,
+					<br><br>Every 3rd&nbsp;Wednesday,
 					<br>7pm – 7:30pm
-					<br><br>Every 1st Friday,
+					<br><br>Every 1st&nbsp;Friday,
 					<br>7pm - 7.30pm
 					<br>
-					<br><br>Every 2nd Sunday,
+					<br><br>Every 2nd&nbsp;Sunday,
 					<br>3pm - 3.30pm
 					<br>
-					<br><br>Every 2nd Friday,
+					<br><br>Every 2nd&nbsp;Friday,
 					<br>7pm – 7:30pm
 				</td>
 				<td style="width: 20%;">Woodlands Regional Library, Children’s Section Level 4
 					<br><br>Tampines Regional Library, Programme Zone Level 6
-					<br><br> Jurong Regional Library, Programme Zone Level 1
-					<br><br>Choa Chu Kang Public Library, Programme Zone 1 & 2
+					<br><br>&nbsp;Jurong Regional Library, Programme Zone Level 1
+					<br><br>Choa Chu Kang Public Library, Programme Zone 1 &amp; 2
 					<br><br>Sengkang Public Library, Programme Zone Level 4
 				</td>
 			</tr>
@@ -134,17 +134,17 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				<td style="width: 20%;"><b>星衢讲故事活动 Sing Chu Chinese Storytelling</b></td>
 				<td style="width: 40%;">有华语趣味故事可听，还有游戏可玩，快来和我们共度欢乐的周末时光吧！故事内容适合4至10岁的孩童聆听，欢迎家长陪同。
 				<br><br>Join us for fun-filled interactive Chinese storytelling sessions! With interesting stories galore, children will definitely be thrilled with the activities and more! Stories are suitable for children from 4 to 10 years old. Parents are welcome to join in the session.</td>
-				<td style="width: 20%;">Every 1st Saturday,
+				<td style="width: 20%;">Every 1st&nbsp;Saturday,
 					<br>1 Oct 2022,
 					<br>5 Nov 2022,
 					<br>3 Dec 2022,
 					<br>3pm – 3:30pm
-					<br><br>Every 2nd Saturday,
+					<br><br>Every 2nd&nbsp;Saturday,
 					<br>8 Oct 2022,
 					<br>12 Nov 2022,
 					<br>10 Dec 2022,
 					<br>12.30pm–1pm
-					<br><br>Every 3rd Saturday,
+					<br><br>Every 3rd&nbsp;Saturday,
 					<br>15 Oct 2022,
 					<br>19 Nov 2022,
 					<br>17 Dec 2022,
@@ -155,7 +155,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 		 <br><br>
 		 <br>Choa Chu Kang Public Library, Programme Zone 1
 		 <br><br>
-		 <br><br>Tampines Regional Library, Books for Babies, Level 3
+		 <br><br>Tampines Regional Library, Books for Babies,&nbsp;Level&nbsp;3
 				</td>
 			</tr>
 		</tbody>
@@ -163,38 +163,38 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 </div>
 
 <div class="horizontal-scroll margin--bottom--lg">
-<table class="generic-table">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<table class="generic-table">
     <thead>
       <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Discover Other Learning Focus Areas</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Areas</th>
       </tr>
     </thead>
     <tbody>
-			<tr>
-      <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177?aff=ebdssbdestsearch"><b>From Seeds to Harvest @ Bishan Public Library</b></a></td>
-        <td style="width: 40%;">This session immerses children in the process of farming through hands-on activities and teaches the role of photosynthesis in the growth of plants.
+			<tr><td style="width: 20%;"><a href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177?aff=ebdssbdestsearch" target="_blank"><b>From Seeds to Harvest @ Bishan Public Library</b></a></td><td style="width: 40%;">This session immerses children in the process of farming through hands-on activities and teaches the role of photosynthesis in the growth of plants.
 <br><br>This programme is suitable for children aged 7 to 12.
 </td>
-<td style="width: 20%;">8 Oct 2022,<br>10:30am – 12pm</td>
-        <td style="width: 20%;">Bishan Public Library, B1 Garden</td>
-      </tr>
-			<tr>
-      <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627?aff=ebdssbdestsearch"><b>How to be a Cyber Safe Family with Cyberlite Books @ library@harbourfront</b></a></td>
-        <td style="width: 40%;">Should we control our children’s screen time? What do we do if a child is cyberbullied? Join the authors of <i>Ready, Get Set, Connect!</i> to learn about family cyber safety.
-<br><br>This programme is suitable for children aged 7 to 12 years, and their parents. Each participant should register for their own ticket.</td>
-        <td style="width: 20%;">2 Oct 2022,<br>11:30am – 12:30pm</td>
-        <td style="width: 20%;">library@harbourfront, Programme Zone 2
-</td>
-      </tr>
-			<tr>
-
-      <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/does-my-child-have-an-eating-disorder-online-tickets-411765249947?aff=ebdssbonlinesearch"><b>Does my Child have an Eating Disorder? | Online</b></a></td>
-        <td style="width: 40%;">In this wellness programme by NYP, learn how to recognise eating disorders in children and youths, and seek help for them.
-<br><br>This programme is suitable for parents of children and teens.</td>
-        <td style="width: 20%;">8 Oct 2022,<br>11am – 12:30pm</td>
-        <td style="width: 20%;">Zoom
-</td>
-      </tr>
+<td style="width: 20%;">8 Oct 2022,<br>10:30am – 12pm</td><td style="width: 20%;">Bishan Public Library, B1 Garden</td></tr>
+			<tr><td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627?aff=ebdssbdestsearch"><b>How to be a Cyber Safe Family with Cyberlite Books @ library@harbourfront</b></a></td><td style="width: 40%;">Should we control our children’s screen time? What do we do if a child is cyberbullied? Join the authors of <i>Ready, Get Set, Connect!</i> to learn about family cyber safety.
+<br><br>This programme is suitable for children aged 7 to 12 years, and their parents. Each participant should register for their own ticket.</td><td style="width: 20%;">2 Oct 2022,<br>11:30am – 12:30pm</td><td style="width: 20%;">library@harbourfront, Programme Zone 2
+</td></tr>
+			<tr><td style="width: 20%;"><a href="https://www.eventbrite.sg/e/does-my-child-have-an-eating-disorder-online-tickets-411765249947?aff=ebdssbonlinesearch" target="_blank"><b>Does my Child have an Eating Disorder? | Online</b></a></td><td style="width: 40%;">In this wellness programme by NYP, learn how to recognise eating disorders in children and youths, and seek help for them.
+<br><br>This programme is suitable for parents of children and teens.</td><td style="width: 20%;">8 Oct 2022,<br>11am – 12:30pm</td><td style="width: 20%;">Zoom
+</td></tr>
   </tbody>
   </table>
 </div>
