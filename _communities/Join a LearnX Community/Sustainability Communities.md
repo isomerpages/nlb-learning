@@ -65,7 +65,5 @@ For more information, <a href="https://www.instagram.com/natureclubsg/" target="
 For adults and seniors, conducted in English at Cheng San Public Library. <br>
 	
 <p class="margin--top--sm margin--bottom--sm"><a href="[https://go.gov.sg/lcsessions](https://go.gov.sg/lcsessions)" target="_blank">Click here for upcoming session</a></p>
-
-<p class="margin--top--sm margin--bottom--sm"><a href="</a></p>
 </div>
 </div>
