@@ -944,8 +944,12 @@ Source: <a target="_blank" href="https://www.youtube.com/embed/rCdVWD4Ko_0"> Con
 <h5>1.The Well Gardened Mind:Re
 discovering Nature in the Modern World
 </h5>
-Sue Stuart-Smith (2020),<i>The Well Gardened Mind: Rediscovering Nature in the Modern World<i>,New York: HarperCollins Publishers.
+Sue Stuart-Smith, (2020)<i>The Well Gardened Mind: Rediscovering Nature in the Modern World<i>,New York: HarperCollins Publishers.
+
+<p>
 	
-<a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Well-Gardened%20Mind/page-1/2300804"><img alt="book cover for the well gardened mind" style="width:300px; text-align:left" src="/images/sustainability/adults-and-seniors/Garden.png">
-	
+<a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Well-Gardened%20Mind/page-1/2300804"><img alt="book cover for the well gardened mind" style="width:300px; text-align:left" src="/images/sustainability/adults-and-seniors/Garden.png"></a>
 </p><p>The author looks at the many ways in which mind and garden interact and explores how the process of gardening can be a way of sustaining our innermost self.</p>
+	
+<p><a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Well-Gardened%20Mind/page-1/2300804">Borrow the eBook here</a>. </p>
+Retrieved from Libby (myLibraryid is required to access the eBook).
