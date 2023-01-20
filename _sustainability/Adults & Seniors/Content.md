@@ -948,4 +948,4 @@ Sue Stuart-Smith (2020),<i>The Well Gardened Mind: Rediscovering Nature in the M
 	
 <a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Well-Gardened%20Mind/page-1/2300804"><img alt="book cover for the well gardened mind" style="width:300px; text-align:left" src="/images/sustainability/adults-and-seniors/Garden.png">
 	
-	<p>The author looks at the many ways in which mind and garden interact and explores how the process of gardening can be a way of sustaining our innermost self.</p>
+</p><p>The author looks at the many ways in which mind and garden interact and explores how the process of gardening can be a way of sustaining our innermost self.</p>
