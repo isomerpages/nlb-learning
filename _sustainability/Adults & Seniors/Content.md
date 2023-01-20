@@ -965,7 +965,7 @@ Kua Ee Heok et al (2020), <i> Nature, Health, Happiness: Enhancing Well-Being an
 
 <p>
 
-<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204519930"><img alt="book cover for nature, health, happiness" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Living Wisdom of Trees.png"></a>
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204519930"><img alt="book cover for nature, health, happiness" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Nature,Health.png"></a>
 <p>A Singapore-based perspective at the importance of greenery in our lives, and how walking mindfully in a forest can enhance well-being and resilience.</p>
 <p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204519930">Borrow the Book at the Public Libraries</a>.
 
@@ -974,7 +974,7 @@ Syarifah Nadhirah (2020), <i> Recalling forgotten tastes: Of Illustrated Edible 
 
 <p>
 
-<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205288452"><img alt="book cover for nature, health, happiness" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Living Wisdom of Trees.png"></a>
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205288452"><img alt="book cover for recalling forgotten tastes" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/RecallingForgotten.png"></a>
 <p>A whimsical illustrative collection of edible plants that centres on the environmental knowledge and traditional culinary practices of the Orang Asli communities in Peninsular Malaysia.</p>
 <p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205288452">Borrow the Book at the Public Libraries</a>.
 
