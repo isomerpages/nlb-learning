@@ -67,14 +67,12 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				<td style="width: 20%;">Punggol Regional Library, Stories Comes Alive Room, Level 1</td>
       </tr>
 			<tr>
-				<td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/events/bookbugsr/quests/" target="_blank"><b>Book Bugs Rescuers' Quests</b></a></td>
-				<td style="width: 40%;">The Rescuers’ Quest is an in-library video trail that reveals the story behind The End Bug. Explore the Children’s Section in libraries and search for the three stations he’s left behind to watch his video messages! Begin your search at the Books Bugs machine.
-					<br><br>This self-guided in-library trail is suitable for children of all ages and fans of Book Bugs.
-					<br><br>Registration is not required.</td>
-				<td style="width: 20%;">Sep - Dec 2022</td><td style="width: 20%;">Multiple Public Libraries
-					<br>except library@esplanade, 
-					<br>library@chinatown, 
-					<br>library@orchard</td>
+				<td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-507034803747?aff=ebdssbdestsearch"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
+				<td style="width: 40%;">Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG.
+<br><br>This programme is recommended for those aged 13 and up.
+<br><br>Registration is required and will start on 18 Feb 2023 <a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-507034803747?aff=ebdssbdestsearch ">here.</a></td>
+				<td style="width: 20%;">25 Feb 2023,<br>1pm – 5pm</td>
+				<td style="width: 20%;">Choa Chu Kang Public Library, Programme Room 1 & 2, Level 4</td>
 			</tr>
 			<tr>
 				<td style="width: 20%;"><b>Stories in Art with National Gallery Singapore</b></td>
