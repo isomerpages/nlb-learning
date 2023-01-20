@@ -271,7 +271,7 @@ Get insights on reading and written-word expressions with these articles and act
 
 This learning package was created by Goh Zhen Xiang Brandon, Nur Zakiyah Zakariah, Song Haiwan, and Shawn Seah Wei Xun, as part of the National Institute of Education Group Endeavours in Service Learning Group 10 (Sec/JC2022).
 
-You may download the complete package as a PDF [here](/files/Multilingualism.pdf).
+You may download the complete package as a PDF [here](/files/TBpackage.pdf).
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
