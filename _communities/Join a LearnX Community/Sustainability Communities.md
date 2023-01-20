@@ -60,6 +60,6 @@ For more information, <a href="https://www.instagram.com/natureclubsg/" target="
 		<p class="margin--top--sm margin--bottom--sm"> We can be buddies to Mother Earth to create a cleaner and greener environment for everyone. Join us as we use waste materials to make eco-crafts that are useful and beautiful to give them a second life. We also learn about the different ways that we can be buddies to Mother Earth.<br><br>
 			For adults and seniors, conducted in English at Cheng San Public Library. <br></p>
 	
-<p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsession" target="_blank">Click here for upcoming session</a></p>
-</div>
+<p class="margin--top--sm margin--bottom--sm"><a href="https://go.gov.sg/lcsession" target="_blank">Click here for upcoming session</a></p>	
+	</div>
 </div>
