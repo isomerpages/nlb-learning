@@ -27,7 +27,7 @@ third_nav_title: Adults & Seniors
 Hear from experts, attend workshops, and connect with your community to start your sustainable living journey. 
 
 ## **Expert Talks**
-![Alt text for image on Isomer site] (/images/sustainability/Sustainability-Prog-AS-ExpertTalks.jpg)
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-08.png)
 
 In partnership with **NUS’s Ridge View Residential College (RVRC)**, this series of talks unpacks pertinent sustainability topics and makes them accessible whatever your background.
 
