@@ -126,7 +126,7 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=7lbIL1P6NZg"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7lbIL1P6NZg"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -141,7 +141,7 @@ What happens when someone with zero hawker experience learns the ropes at a busy
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=PHrlBvRaec8"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/PHrlBvRaec8"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -155,7 +155,7 @@ Were these the first homes to touch the sky? Uncover the stories of this iconic 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe class="responsive-iframe" src="https://www.youtube.com/watchv=sXaYGERDDio"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/sXaYGERDDio"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
