@@ -978,5 +978,8 @@ Syarifah Nadhirah (2020), <i> Recalling forgotten tastes: Of Illustrated Edible 
 <p>A whimsical illustrative collection of edible plants that centres on the environmental knowledge and traditional culinary practices of the Orang Asli communities in Peninsular Malaysia.</p>
 <p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205288452">Borrow the Book at the Public Libraries</a>.
 
+<h4>Sustainability Programmes in NLB</h4>
+
+<p>There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a target="_blank" href="https://go.gov.sg/sustainprog">go.gov.sg/sustainprog</a>
 
 
