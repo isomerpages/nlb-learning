@@ -962,4 +962,17 @@ Fred Hageneder (2020), <i>The Living Wisdom of Trees : A Guide to the Natura
 <p>A definitive illustrated guide to the sacred place trees hold for cultures around the world, looking in particular at their botanical characteristics; their place in world myth, magic and folklore; their healing properties; and their practical contribution to society.</p>
 <p><a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Living%20Wisdom%20of%20Trees/page-1">Borrow the eBook here</a>.</p>Retrieved from Libby (myLibraryid is required to access the eBook)
 	
+<h4>Book</h4>
+<h5>1. Nature, Health, Happiness: Enhancing Well-Being and Mental Resilience </h5>
+	
+	Singapore: Write Editions.
+	
+
+Fred Hageneder (2020), <i>The Living Wisdom of Trees : A Guide to the Natural History, Symbolism and Healing Power Of Trees <i>, Watkins Publishing
+<p>
+
+<a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Living%20Wisdom%20of%20Trees/page-1"><img alt="book cover for living wisdom of trees" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Living Wisdom of Trees.png"></a>
+<p>A definitive illustrated guide to the sacred place trees hold for cultures around the world, looking in particular at their botanical characteristics; their place in world myth, magic and folklore; their healing properties; and their practical contribution to society.</p>
+<p><a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Living%20Wisdom%20of%20Trees/page-1">Borrow the eBook here</a>.</p>Retrieved from Libby (myLibraryid is required to access the eBook)
+
 	<h4> Books/h4>
