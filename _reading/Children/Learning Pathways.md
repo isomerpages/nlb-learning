@@ -96,8 +96,8 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
       </tr>
     </thead>
     <tbody>
-			<tr><td style="width: 20%;"><a href="https://www.eventbrite.sg/e/from-seeds-to-harvest-bishan-public-library-tickets-423045399177?aff=ebdssbdestsearch" target="_blank"><b>From Seeds to Harvest @ Bishan Public Library</b></a></td><td style="width: 40%;">This session immerses children in the process of farming through hands-on activities and teaches the role of photosynthesis in the growth of plants.
-<br><br>This programme is suitable for children aged 7 to 12.
+			<tr><td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/diy-upcycled-pencil-case-ang-mo-kio-public-library-tickets-519423157647?aff=ebdssbdestsearch"><b>DIY Upcycled Pencil Case @ Ang Mo Kio Public Library</b></a></td><td style="width: 40%;">Upcycle fabric waste and plastic packaging to create your own pencil case! Register <a href="https://www.eventbrite.sg/e/diy-upcycled-pencil-case-ang-mo-kio-public-library-tickets-519423157647?aff=ebdssbdestsearch">here.</a>
+<br><br>This programme is suitable for tweens aged 10 to 13.
 </td>
 <td style="width: 20%;">8 Oct 2022,<br>10:30am – 12pm</td><td style="width: 20%;">Bishan Public Library, B1 Garden</td></tr>
 			<tr><td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-to-be-a-cyber-safe-family-with-cyberlite-books-libraryharbourfront-tickets-414531082627?aff=ebdssbdestsearch"><b>How to be a Cyber Safe Family with Cyberlite Books @ library@harbourfront</b></a></td><td style="width: 40%;">Should we control our children’s screen time? What do we do if a child is cyberbullied? Join the authors of <i>Ready, Get Set, Connect!</i> to learn about family cyber safety.
