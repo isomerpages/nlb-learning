@@ -73,15 +73,18 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				<td style="width: 20%;">Punggol Regional Library, Stories Comes Alive Room, Level 1</td>
       </tr>
 			<tr>
-				<td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-507034803747?aff=ebdssbdestsearch"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
+				<td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-507034803747?aff=ebdssbdestsearch"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a>
+				</td>
 				<td style="width: 40%;">Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG.
 <br><br>This programme is recommended for those aged 13 and up.
-<br><br>Registration is required and will start on 18 Feb 2023 <a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-507034803747?aff=ebdssbdestsearch ">here.</a></td>
+<br><br>Registration is required and will start on 18 Feb 2023 <a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-507034803747?aff=ebdssbdestsearch ">here.</a>
+				</td>
 				<td style="width: 20%;">25 Feb 2023,<br>1pm – 5pm</td>
 				<td style="width: 20%;">Choa Chu Kang Public Library, Programme Room 1 & 2, Level 4</td>
 			</tr>
 			<tr>
-				<td style="width: 20%;"><b>Rooky’s Animated Book Launch</b></td>
+				<td style="width: 20%;"><b>Rooky’s Animated Book Launch</b>
+				</td>
 				<td style="width: 40%;">Learn how lovable <i>Monsters United</i> mascot Rooky got his wings! Join our exclusive horror-themed storytelling and craft sessions happening at various public libraries in the month of March. More details will be made available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here closer to date.</a>
 <br><br>Registration will open closer to the date.
 				</td>
