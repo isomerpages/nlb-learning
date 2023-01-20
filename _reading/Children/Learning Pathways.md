@@ -36,7 +36,6 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 		</tbody>
 	</table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
 	<table class="generic-table">
 		<thead>
