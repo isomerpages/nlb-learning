@@ -27,7 +27,7 @@ third_nav_title: Adults & Seniors
 Hear from experts, attend workshops, and connect with your community to start your sustainable living journey. 
 
 ## **Expert Talks**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-ExpertTalks.jpg)
+![Alt text for image on Isomer site] (/images/sustainability/Sustainability-Prog-AS-ExpertTalks.jpg)
 
 In partnership with **NUS’s Ridge View Residential College (RVRC)**, this series of talks unpacks pertinent sustainability topics and makes them accessible whatever your background.
 
@@ -91,7 +91,7 @@ This series is specially targeted at seniors who want to more ideas on how they 
 Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **The Great Make-Over Project**
-![](/images/sustainability/adults-and-seniors/GMO_eDM_600x300_1.jpg)
+![Alt text for image on Isomer site](/images/sustainability/adults-and-seniors/GMO_eDM_600x300_1.jpg)
 
 What would Singapore look like when our community spaces are reimagined for sustainability? 
 
@@ -105,4 +105,4 @@ Starting at Choa Chu Kang Town, participants of the first run of the Great Make-
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-This co-solutioning initiative is supported by CapitaLand Hope Foundation (CHF). 
+This co-solutioning initiative is supported by CapitaLand Hope Foundation (CHF).
