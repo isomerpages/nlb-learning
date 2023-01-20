@@ -66,9 +66,9 @@ In All About Forests and Plants, we highlight the roles forests and plants play 
     </thead>
     <tbody>
       <tr>
-				<td style="width: 20%;">The Nature Book Club: Happily, Ever After ? </td><td><a href="https://www.eventbrite.sg/e/502435015657&quot;" target="_blank>
-        <td style=">Meet local author Grace Siu Wei and illustrator Dorcas Tang, who will take you through their new book, Happily, EverAfter? in this session of the Nature Book Club. <br></a></td>
-					<td style="width: 20%;">31 Jan 2023, 7.00-8.30pm, Level 5, Imagination Room, National Library Building</td> 
+				<td style="width: 20%;"><a target=" _blank" href="https://www.eventbrite.sg/e/502435015657?">The Nature Book Club: Happily, Ever After? </a></td>
+<td style="width 40%">Meet local author Grace Siu Wei and illustrator Dorcas Tang, who will take you through their new book, Happily, EverAfter? in this session of the Nature Book Club. <br></a></td>
+					<td style="width: 20%;">31 Jan 2023, 7.00pm-8.30pm, Level 5, Imagination Room, National Library Building</td> 
         <td style="width: 20%;"></td>
       </tr>
    </tbody>
