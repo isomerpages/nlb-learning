@@ -81,8 +81,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				</td>
 				<td style="width: 20%;">Mar 2023
 				</td>
-				<td style="width: 20%;">Multiple Public Libraries                               
-				</td>
+				<td style="width: 20%;">Multiple Public Libraries</td>
 			</tr>
 		</tbody>
 	</table>
