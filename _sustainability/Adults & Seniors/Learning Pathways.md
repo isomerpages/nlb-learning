@@ -31,22 +31,20 @@ In All About Forests and Plants, we focus on the roles forests and plants play i
         <td></td>
         <td></td>
 			</tr>
-<tr>
 </tbody>
 </table>
 </div>
 
-
-	<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th class="is-uppercase has-weight-normal" colspan="4">Learn With Expert Speakers</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/516444688967">Forests Between the Tides</a></td>
+<div class="horizontal-scroll margin--bottom--lg">
+<table class="generic-table">
+<thead>
+<tr>
+<th colspan="4" class="is-uppercase has-weight-normal">Explore with Industry Speakers and Trainers</th>
+  </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/516444688967">Forests Between the Tides</a></td>
         <td style="width: 40%;">Learn more about the local mangroves and the important role they play in Singapore's biodiversity with Cheng Puay, a biologist and volunteer nature guide! </td>
 
 <td style="width: 20%;">31 Jan 2023,<br> 7.30pm-8.30pm</td>
