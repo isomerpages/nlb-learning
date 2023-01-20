@@ -13,8 +13,8 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
     <thead>
       <tr>
         <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
-      </tr>
-    </thead>
+			</tr>
+		</thead>
 		<tbody>
 			<tr>
 				<td style="width: 20%;"><a href="/reading/children/content" target="_blank"><b>Playlist: Try Something New!</b></a>
