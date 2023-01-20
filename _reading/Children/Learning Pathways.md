@@ -101,10 +101,9 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 </td>
 <td style="width: 20%;">25 Feb 2023,<br>1:30pm – 3pm</td>
 				<td style="width: 20%;">Ang Mo Kio Public Library, Programme Zone</td></tr>
-			
 			<tr><td style="width: 20%;"><b>Create your own Fruit Peel Cleaning Enzyme! | @ Cheng San Public Library</b></td>
 	<td style="width: 40%;">Join us and learn about the importance of reducing food waste and what you can do at home with remaining fruit peels. Learn how to create your very own Fruit Peel Cleaning Enzyme in this hands-on workshop!
-<br><br>This programme is suitable for children aged 7 to 13 years.
+<br><br>This programme is suitable for children aged 7 to 13.
 <br><br>Registration will open closer to the date.</td>
         <td style="width: 20%;">12 Mar 2023,<br>2pm – 3pm</td>
         <td style="width: 20%;">Cheng San Public Library, Activity Room
