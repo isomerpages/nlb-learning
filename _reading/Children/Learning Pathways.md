@@ -9,17 +9,19 @@ Think of learning pathways as appetizers. Get started on your learning journey w
 <h3><b>Reading Joy</b></h3>
 Spark reading joy in your child to nurture a lifelong passion for reading and learning.
 <div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+	<table class="generic-table">
+		<thead>
+			<tr>
+				<th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources
+				</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
 				<td style="width: 20%;"><a href="/reading/children/content" target="_blank"><b>Playlist: Try Something New!</b></a>
 				</td>
-				<td style="width: 40%;">Create fun reading experiences at home with these bite-sized resources for your child to discover the joy of reading.</td>
+				<td style="width: 40%;">Create fun reading experiences at home with these bite-sized resources for your child to discover the joy of reading.
+				</td>
 				<td style="width: 20%;"></td>
 				<td style="width: 20%;"></td>
 			</tr>
