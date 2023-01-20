@@ -27,11 +27,11 @@ third_nav_title: Adults & Seniors
 Hear from experts, attend workshops, and connect with your community to start your sustainable living journey. 
 
 ## **Expert Talks**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-ExpertTalks.jpg)
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-08.png)
 
 In partnership with **NUS’s Ridge View Residential College (RVRC)**, this series of talks unpacks pertinent sustainability topics and makes them accessible whatever your background.
 
-Held on a bi-monthly basis, these talks seek to better your knowledge about Sustainability. 
+Held on weekday evenings, these talks seek to better your knowledge about Sustainability. 
 
 All talks are listed on Eventbrite and suitable for adults and seniors.    
 
@@ -65,7 +65,7 @@ Mark your calendars for our signature event that presents a range of fun activit
 
 If you have been wondering how to start  your sustainability journey, look no further than the Green Market. 
 
-Suitable for the whole family. 
+Suitable for the whole family. This event is supported by CapitaLand Hope Foundation (CHF).
 
  
 Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
@@ -91,7 +91,7 @@ This series is specially targeted at seniors who want to more ideas on how they 
 Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 
 ## **The Great Make-Over Project**
-![](/images/sustainability/adults-and-seniors/GMO_eDM_600x300_1.jpg)
+![Alt text for image on Isomer site](/images/sustainability/adults-and-seniors/GMO_eDM_600x300_1.jpg)
 
 What would Singapore look like when our community spaces are reimagined for sustainability? 
 
@@ -104,3 +104,5 @@ Starting at Choa Chu Kang Town, participants of the first run of the Great Make-
 <br>You can also be a part of the Great Make-Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+This co-solutioning initiative is supported by CapitaLand Hope Foundation (CHF).

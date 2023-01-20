@@ -60,7 +60,7 @@ Check our **learning packages** for articles that will give you insights into li
 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#nature-playlist">
-        <span>Playlist:<br>You &amp; Nature</span>
+        <span>Playlist:<br>You & Nature</span>
       </a>
     </div>
   </div>
@@ -99,7 +99,7 @@ Check our **learning packages** for articles that will give you insights into li
       </a>
     </div>
   </div>
-	  <div class="col is-one-third">
+<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-wardrobe">
         <span>Learning Package:<br>Wardrobe Sustainability</span>
@@ -117,23 +117,79 @@ Check our **learning packages** for articles that will give you insights into li
     <div class="clickbox is-mint-jade">
       <a href="#lp-renewable-energy">
         <span>Learning Package:<br>Renewable Energy</span>
-			</a>
-	</div>
-	</div>
-	<div class="col is-one-third">
+	 </a>
+ </div>
+</div>
+<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-green-technology">
-				<span>Learning Package:<br>Green Technology<br></span>
+      	<a href="#forests-plants">
+        <span>Playlist:<br>Forest & Plants</span>
       </a>
     </div>
-  </div>
+</div>
+<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-nature-healer">
+        <span>Learning Package:<br>Nature as Healer</span>
+			</a>
 	</div>
+</div>
+</div>
 
-	
+
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
+	
+<h5 class="margin--bottom--lg" id="forest-plants"><b>Playlist: All About Forests and Plants</b></h5>
 
-<h5 class="margin--bottom--lg" id="green-economy"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
+In this playlist, we demystify forests and plants and explore forests in Singapore to discover the treasures within.<br>
+	
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/jbRgJGql98I"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>What is a Forest?</b><br>
+ Understand what constitutes a forest and the various processes they are responsible for. 
+																	
+<small>Source: What is a Forest? (2014, Oct 8).Harvard Museum of Natural History. Retrieved 2022, December 20.</small></p>
+	</div>
+	</div>
+  
+	
+<div class="row is-multiline margin--bottom-lg">
+   <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+    <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7kHZ0a_6TxY"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+  <p><b>How Trees Secretly Talk to Each Other in the Forest?</b><br>
+      In the forest, trees connect to one another through an underground mechanism. Explore how the process works and why do they do so. 
+
+<small>Source:How Trees Secretly Talk to Each Other in the Forest? (2018, Sept 11).National Geographic.Retrieved 2022, December 20.</small></p>
+	</div>
+</div>
+	
+
+<div class="row is-multiline margin--bottom-lg"> 
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/pEsOOngEQxU"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>A 6am trek in Singapore forest with nature enthusiast</b><br>
+     Nature enthusiast Brice Li takes viewers on a journey to his favourite trails around various areas in Singapore. 
+
+<small>Source: A 6am trek in Singapore forest with nature enthusiast (2021, Nov 5) South China Morning Post. Retrieved 2022, December 20. </small></p>							
+	 </div>
+ </div>
+
+
+<h5 id="green-economy" class="margin--bottom--lg"><b>Playlist: Five Things to Know about the Green Economy</b></h5>
 
 We round up the main points about the green economy to get you quickly up to speed on this concept that is integral to achieving sustainable development while balancing environmental needs.<br>
 
@@ -233,6 +289,7 @@ Innovation in the development of widely used materials such as concrete coupled 
 <small>Source: This Green Tech is Bringing Life Back to the Sea (2019, August 9). Bloomberg Quicktake: Originals. Retrieved 2022, October 5.</small></p>
   </div>
 	</div>
+		
 	
 
 <div class="row is-multiline margin--bottom--lg">
@@ -856,3 +913,69 @@ Jeremy Shere (2013), <i>Renewable</i>, New York: St. Martin’s Press
 <li><small><span id="footnote-two"> Rewiring America.</span> Retrieved 2022, June 3 from <a target="_blank&quot;" href="https://www.rewiringamerica.org/"> https://www.rewiringamerica.org/</a></small></li>
 
 </ol>
+
+	
+<h3><b>Learning Package</b></h3> 
+<h5 id="lp-nature-healer" class="margin--bottom--lg"><b>Nature as Healer</b></h5>
+	
+<p>Nature has the power to captivate, uplift, heal and restore. Perhaps more so now than ever, in these tumultuous times, we need to understand and connect to the therapeutic effects of nature. In this learning package, you will get to know more about the wonders of nature especially through forests and plants and its impact on our well-being and health. Hopefully, you will be inspired to spend more time in nature!</p>
+
+<h4>Videos</h4>
+<h5>1.Forest Bathing In Singapore: Walk Slowly, Connect Deeply</h5>
+<p>A forest therapy guide describes what is "forest bathing" and how it is more than a nature walk. </p>
+
+Source: <a target="_blank" href="https://www.youtube.com/watch?v=TcK7OnJR9MQ"> Forest Bathing In Singapore: Walk Slowly, Connect Deeply</a> (2021, March 30). <i>The Straits Times</i> Retrieved 2022, December 19
+
+<h5>2.Connecting Nature to Creativity, Community, and Mental Health</h5> 
+<p> This NLB discussion explores the vital relationship between nature and artistic creativity, the therapeutic benefits of nature to mental health, and what happens when communities are engaged in their bringing nature into the city.</p>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rCdVWD4Ko_0" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/embed/rCdVWD4Ko_0"> Connecting Nature to Creativity, Community, and Mental Health </a> (2021, July 13). <i> National Library Board.</i> Retrieved 2022, December 19
+
+<h4>Podcast</h4>
+<h5>1.<a target="_blank" href="https://www.bbc.co.uk/sounds/play/p07k3lgs">BBC. (2019,August 8). Retrieved 2022, Dec 19. </a></h5>
+
+<p>Malaysian anthropologist Long Litt Woon found solace in fungi foraging after the unexpected death of her husband. She's now become a certified mushroom expert.
+
+<h4>Ebooks</h4>
+<h5>1.The Well Gardened Mind:Rediscovering Nature in the Modern World </h5>
+Sue Stuart-Smith, (2020)<i>The Well Gardened Mind: Rediscovering Nature in the Modern World<i>,New York: HarperCollins Publishers.
+
+<p>
+	
+<a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Well-Gardened%20Mind/page-1/2300804"><img alt="book cover for the well gardened mind" style="width:300px; text-align:left" src="/images/sustainability/adults-and-seniors/Garden.png"></a>
+</p><p>The author looks at the many ways in which mind and garden interact and explores how the process of gardening can be a way of sustaining our innermost self.</p>
+	
+<p><a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Well-Gardened%20Mind/page-1/2300804">Borrow the eBook here</a>. </p>
+Retrieved from Libby (myLibraryid is required to access the eBook).
+	
+<h5>2. The Living Wisdom of Trees : A Guide to the Natural History, Symbolism and Healing Power Of Trees</h5>
+Fred Hageneder (2020), <i>The Living Wisdom of Trees : A Guide to the Natural History, Symbolism and Healing Power Of Trees <i>, Watkins Publishing
+<p>
+
+<a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Living%20Wisdom%20of%20Trees/page-1"><img alt="book cover for living wisdom of trees" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Living Wisdom of Trees.png"></a>
+<p>A definitive illustrated guide to the sacred place trees hold for cultures around the world, looking in particular at their botanical characteristics; their place in world myth, magic and folklore; their healing properties; and their practical contribution to society.</p>
+<p><a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Living%20Wisdom%20of%20Trees/page-1">Borrow the eBook here</a>.</p>Retrieved from Libby (myLibraryid is required to access the eBook)
+	
+<h4>Book</h4>
+<h5>1. Nature, Health, Happiness: Enhancing Well-Being and Mental Resilience</h5>
+Kua Ee Heok et al (2020), <i> Nature, Health, Happiness: Enhancing Well-Being and Mental Resilience <i>,Singapore: Write Editions.
+
+<p>
+
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204519930"><img alt="book cover for nature, health, happiness" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Nature, Health.png"></a>
+<p>A Singapore-based perspective at the importance of greenery in our lives, and how walking mindfully in a forest can enhance well-being and resilience.</p>
+<p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204519930">Borrow the Book at the Public Libraries</a>.
+
+<h5>2.Recalling forgotten tastes: Of Illustrated Edible Plants, Food and Memories.</h5>
+Syarifah Nadhirah (2020), <i> Recalling forgotten tastes: Of Illustrated Edible Plants, Food and Memories <i>,Malaysia: Syarifah Nadhirah. 
+
+<p>
+
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205288452"><img alt="book cover for recalling forgotten tastes" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Recalling Forgotten.png"></a>
+<p>A whimsical illustrative collection of edible plants that centres on the environmental knowledge and traditional culinary practices of the Orang Asli communities in Peninsular Malaysia.</p>
+<p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205288452">Borrow the Book at the Public Libraries</a>.
+
+<h4>Sustainability Programmes in NLB</h4>
+
+<p>There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a target="_blank" href="https://go.gov.sg/sustainprog">go.gov.sg/sustainprog</a>

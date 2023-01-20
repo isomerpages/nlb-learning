@@ -48,15 +48,15 @@ Check out our **learning packages** for D.I.Y activities to engage your child in
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#meet-the-storytellers">
-        <span>Playlist:<br>Meet the Storytellers!</span>
+      <a href="#try-something-new">
+        <span>Playlist:<br>Try Something New!</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
-      <a href="#story-crafts">
-        <span>Learning Package:<br>Story Crafts!</span>
+      <a href="#virtual-museum-tours">
+        <span>Learning Package:<br>Virtual Museum Tours!</span>
       </a>
     </div>
   </div>
@@ -64,53 +64,53 @@ Check out our **learning packages** for D.I.Y activities to engage your child in
 	
 
 
-<h5 id="meet-the-storytellers" class="margin--bottom--lg"><b>Playlist: Meet the Storytellers!</b></h5>
-Do you know the authors behind your most beloved tales! Find out more about them and the stories they spin through these videos below.<br>
+<h5 id="try-something-new" class="margin--bottom--lg"><b>Playlist: Try Something New!</b></h5>
+Have you ever wanted to explore another genre? Or learn about something new by reading up on it? Now is your chance. New year, new explorations are at your fingertips! Check out the videos below.<br>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-          <iframe src="https://www.youtube.com/embed/IZhNHeAd9BU" class="responsive-iframe"></iframe>
+          <iframe src="https://www.youtube.com/embed/0t7O66XCRo4" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-			    <p><b>Author Fan Face-off #45: Andy Griffiths/THE 13-STORY TREEHOUSE (10 min)</b><br> Watch the showdown between the author of <i>The 13-Storey Treehouse, </i> Andy Griffiths, and a super-fan of the series in an exciting trivia challenge! <br><br>
-<small>Author Fan Face-off #45: Andy Griffiths/THE 13-STORY TREEHOUSE - YouTube (2021, Apr 5). <i>Author-Fan Face-off.</i>  Retrieved 2022, Sept 16.</small></p>
+			    <p><b>All Kinds of Books for Kids! (3 min)</b><br>There are all kinds of books out there for kids to enjoy from different genres! Check out this video to figure out what types of genre you want to explore this year.<br><br>
+<small>Source: All Kinds of Books for Kids! - YouTube (2020, Feb 19). <i>Scholastic.</i>  Retrieved 2023, Jan 7.</small></p>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/embed/oXt8v-lzrOI" class="responsive-iframe"></iframe>
+      <iframe src="https://www.youtube.com/embed/mQINQAxu-5k" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b>Universe of Feelings by Quek Hong Shin (10 min)</b><br>Author Quek Hong Shin tells us the story of Darryl, a withdrawn boy who befriends Blob, a visitor from outer space!<br><br>
-<small>Source: Universe of Feelings by Quek Hong Shin - YouTube (2020, Apr 26). <i>Storytime with Hong Shin.</i>  Retrieved 2022, Sept 16.</small></p>
+    <p><b>Literary Genres: Nonfiction (6 min)</b><br>Did you know the nonfiction genre is incredibly diverse? You can learn about the difference between biographies, autobiographies, and subject specific nonfiction books!<br><br>
+<small>Source: Literary Genres: Nonfiction – Youtube (2018, Sep 13).<i> Miacademy Learning Channel. </i>Retrieved 2023, Jan 7.</small></p>
   </div>
 </div>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-         <iframe src="https://www.youtube.com/embed/2A4mMp9QKaA" class="responsive-iframe"></iframe>
+         <iframe src="https://www.youtube.com/embed/9fLlkOMrMq4" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
-  <p><b>Meet the Author: Rachel Renée Russell (30 min)</b><br>
-Hear from veteran author Rachel Renée Russell, author of the popular DORK Diaries series, about the inspiration behind the characters and stories she created.
+  <p><b>The Power of Reading (8 min)</b><br>
+Maybe this year you want to explore reading more! Hear from 11-year-old Shang Qu on the power of reading to inspire yourself to read more this year!
 <br><br>
-<small>Source: Meet the Author: Rachel Renée Russell - YouTube (2019, May 3). <i>Fairfax Network - Fairfax County Public Schools.</i>  Retrieved 2022, Sept 16.</small></p>
+<small>Source: The Power of Reading | April Qu | TEDxYouth@Suzhou – Youtube (2016, Mar 8) <i> TEDx Talks.</i>  Retrieved 2023, Jan 7.</small></p>
   </div>
  </div>
 
 <h3 class="margin--bottom--lg" id="how-to-make-a-book"><b>Learning Packages</b></h3>
 	
-<p>D.I.Y activities to engage your child in reading fun.</p>
+<p>10 Museums You Can Explore Right Here, Right Now</p>
 
-<h4 id="story-crafts"><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child"><b>Story Crafts!</b></a></h4>
-<p>There's more to creating a story than just writing! Flex your creative muscles and design your own pop-up book with this activity.</p>
+<h4 id="virtual-museum-tours"><a target="_blank" href="https://artsandculture.google.com/story/igKSKBBnEBSGKg?hl=en"><b>Virtual Museum Tours!</b></a></h4>
+<p> In the spirit of new explorations, try out these ten breathtaking virtual museum tours right in the comfort of your own home!</p>
 
 
 	

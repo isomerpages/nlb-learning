@@ -44,19 +44,43 @@ Looking for your next literary adventure?
 Check out our **playlists** for collections of short videos and podcasts to expand your reading interests.
 
 Check out our **learning packages** to explore ways of expressing yourself through literary arts with these articles and activities.
-
 <div class="row is-multiline">
 	  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#playlist-TBheritage">
+        <span>Playlist:<br>Tiong Bahru's Heritage</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#playlist-multi">
         <span>Playlist:<br>Multilingualism</span>
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
+<div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#playlist-manga">
         <span>Playlist:<br>Marvellous Manga</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
+
+<div class="row is-multiline">
+	  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="">
+        <span><br></span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-indigo-sky">
+      <a href="#lp-TBheritage1">
+        <span>Learning Package: <br>Tiong Bahru's Heritage (Part 1)</span>
       </a>
     </div>
   </div>
@@ -80,14 +104,14 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 	  <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#manga2">
-        <span>Learning Package:<br>Marvellous Manga (part 2)</span>
+        <span>Learning Package:<br>Marvellous Manga (Part 2)</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-indigo-sky">
       <a href="#manga3">
-        <span>Learning Package:<br>Marvellous Manga (part 3)</span>
+        <span>Learning Package:<br>Marvellous Manga (Part 3)</span>
       </a>
     </div>
   </div>
@@ -96,6 +120,53 @@ Check out our **learning packages** to explore ways of expressing yourself throu
 
 
 <h3><b>Playlist</b></h3>
+<h5 class="margin--bottom--lg" id="playlist-TBheritage"><b>Playlist: Tiong Bahru Heritage</b></h5>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/7lbIL1P6NZg"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Learning to be a Hawker at One of Singapore’s Busiest Hawker Centres.(4 min)</b><br>
+		
+What happens when someone with zero hawker experience learns the ropes at a busy prawn mee stall at Tiong Bahru Market?
+<br><br>
+<small> Source: Learning to be a Hawker at One of Singapore’s Busiest Hawker Centres (2021, Jan 13). OGS. Retrieved 2022, 19 December.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/PHrlBvRaec8"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Our Stories: Think You Know Tiong Bahru? (2 min) </b><br>
+Were these the first homes to touch the sky? Uncover the stories of this iconic neighbourhood through the Tiong Bahru Elevation Plan held at the National Archives of Singapore.
+<br><br>
+<small> Source: Our Stories: Think you know Tiong Bahru? (2020, Mar 26). NLB Singapore. Retrieved 2022, 19 December. </small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/sXaYGERDDio"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>A Wes Anderson-ish Trip Around Tiong Bahru Singapore (6 min) </b><br>
+Take a whimsical trip around the quaint and charming Tiong Bahru, the beloved neighbourhood filled with heritage and history.
+<br><br>
+<small> Source: A Wes Anderson-ish Trip Around Tiong Bahru Singapore (2021, Jan 8) Kevin Siyuan. Retrieved 2022, 19 December.</small></p>
+  </div>
+</div>
+
+
 
 <h5 class="margin--bottom--lg" id="playlist-multi"><b>Playlist: Multilingualism</b></h5>
 
@@ -191,6 +262,20 @@ In this clip, we take a look at the process of turning the One-Punch Man manga i
 
 Get insights on reading and written-word expressions with these articles and activities.
 
+<h5 id="lp-TBheritage1" class="margin--bottom--lg"><b>Tiong Bahru's Heritage (Part 1)</b></h5>
+
+![](/images/career/teens/TBPackage1-2.jpg)
+![](/images/career/teens/TBPackage1-3.jpg)
+![](/images/career/teens/TBPackage1-4.jpg)
+![](/images/career/teens/TBPackage1-5.jpg)
+
+This learning package was created by Goh Zhen Xiang Brandon, Nur Zakiyah Zakariah, Song Haiwan, and Shawn Seah Wei Xun, as part of the National Institute of Education Group Endeavours in Service Learning Group 10 (Sec/JC2022).
+
+You may download the complete package as a PDF [here](/files/TBpackage.pdf).
+
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h5 id="lp-singapores-multi" class="margin--bottom--lg"><b>Singapore's Multilingualism</b></h5>
 
 ![About our local languages header](/images/reading/teens/loclang.png)
@@ -227,9 +312,10 @@ Tamil language education was provided as early as 1834 in Singapore, and Anglo-T
 ![Book recs 2](/images/reading/teens/Book%20Rec%202.jpg)
 ![Book Recs 3](/images/reading/teens/Book%20Rec%203.jpg)
 
-This learning package was created by Goh Zhen Xiang Brandon, Nur Zakiyah Zakariah, Song Haiwan, and Shawn Seah Wei Xun, as part of the National Institute of Education Group Endeavours in Service Learning Group 10 (Sec/JC2022).
+This learning package was created by Isabelle Teo, Jeremiah Tan, Mohammad Firdaus and 
+Syazwan Shaha, as part of the National Institute of Education Group Endeavours in Service Learning Group 10 (Sec/JC2022).
 
-You may download the complete package as a PDF [here](/files/Multilingualism.pdf).
+You may download the complete package as a PDF [here]([TBpackage](/files/TBPackage1.pdf)).
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
