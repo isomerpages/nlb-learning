@@ -81,10 +81,7 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				</td>
 				<td style="width: 20%;">Mar 2023
 				</td>
-				<td style="width: 20%;">Sengkang Public Library, Programme Zone
-					<br><br>Choa Chu Kang Public Library, Programme Zone 1
-					<br><br>Bishan Public Library, Programme Zone 1
-					<br><br>library@harbourfront, Programme Zone 2
+				<td style="width: 20%;">Multiple Public Libraries                               
 				</td>
 			</tr>
 			<tr>
