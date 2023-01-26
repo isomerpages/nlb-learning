@@ -148,7 +148,7 @@ Source: Chandramohan, Gayathiri. (2022, March 6). <a href="https://www.roots.gov
 <h5> The "worlds" entertainment parks of Singapore (1920s-1980s): new urban form and social space for culture and consumption </h5>
 Tan, Kar Lin. (2004). <i> The "worlds" entertainment parks of Singapore (1920s-1980s): new urban form and social space for culture and consumption</i>. Unpublished thesis (Master of Arts, Architecture), National University of Singapore. (Call no.: RSING 725.76095957 TAN) 
 <br>
-<img src="/images/Iconic%Entertainment%Places/TWEP.png" style="width:200px;"></a>
+<img src="/images%2FIconic%20Entertainment%20Places%2FTWEP.png" style="width:200px;"></a>
 
 <p> This 2-volume thesis studies the three “Worlds” entertainment parks. Tan argued that the parks were sites of mass consumption that “transgressed entrenched class and ethnic boundaries of the colonial public sphere.” Volume I has nine chapters while Volume II consists of illustrations such as figures, maps, and building plans.</p>
 
@@ -158,7 +158,7 @@ Foo, Adeline. (2017). <i>Lancing Girls of a Happy World</i>. Singapore: Ethos Bo
 
 <br>
 
-<img src="/images/Iconic%Entertainment%Places/LGHW.png" style="width:200px;"></a>
+<img src="/images%2FIconic%20Entertainment%20Places%2FLGHW.png" style="width:200px;"></a>
 
 <p>“Glitz, glamour, and sleaze is what people may remember of the cabaret girls of yesteryear. With curiosity and an open mind, Adeline Foo sets out to uncover the lives of these women and how, even with few dreams and hopes to strive for, these women lived with much heart and courage despite society's disapproving eye. The music of the dance hall may have faded away, but this book carries the echoes of their dance steps, connecting us with a forgotten past that was inspired by faith, hope and charity.”</p>
 
