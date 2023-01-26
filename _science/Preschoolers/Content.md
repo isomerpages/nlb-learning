@@ -190,7 +190,7 @@ Check out the video resources below to understand more about different shapes an
 
 
 
-<b id="pl-gravity">What Keeps Me on the Ground? Gravity!**
+<b id="pl-gravity">What Keeps Me on the Ground? Gravity!</b>
 
 Did you know that if you walked on the moon, you would be floating around, unable to walk on the ground? Why do you think you can walk around easily on Earth? That’s because of gravity! Gravity is the pulling force that acts on you to ensure you stay fine and firm on the ground. It may have robbed us of the chance to fly but at least we know, we will always return to the Earth’s surface and not float up to the sun!  
   <br>
