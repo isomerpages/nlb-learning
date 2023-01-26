@@ -102,7 +102,7 @@ Check this playlist out first before you go on and explore these powerful mathem
   </div>
 </div>
 
-**I Spy a Number Pattern!**
+<b id="numberpattern">I Spy a Number Pattern!</b>
 
 Developing pattern recognition in young children is not as daunting as one might think. Arranging objects or numbers according to a certain order is a good way to get children to put on their sequencing caps and try to find out how they relate to one another. Are the objects arranged from big to small, by colour or by shape?  How are 1, 3, 5, 9 and 11 related? What about 2, 4, 6, 8, 10? Are the numbers arranged in increasing or decreasing order? Have your children learn simple number patterns and soon, they may start devising their own. 
 
