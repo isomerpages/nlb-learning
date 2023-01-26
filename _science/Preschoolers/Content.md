@@ -69,7 +69,7 @@ Check out our **learning packages**, complete with activities and tips, on STEAM
 <h3 id="playlists" class="margin--bottom--lg"><b>Playlists
 </b></h3>
 
-**Mighty Multiply and Divine Divide!**
+<b id="mightymultiply">Mighty Multiply and Divine Divide!</b>
 
 Multiplication and division are the next steps following addition and subtraction. It may be challenging for young children to move on to these more complex operations but, slowly and surely, they will grasp the concepts. Other than watching these videos with your child to expose them to multiplication and division, one of the easiest ways to introduce children to these concepts is through sorting and grouping activities. 
 <br><br>
