@@ -56,8 +56,6 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
     </div>
   </div>
 
-	</div>
-
 <h3><b>Playlist</b></h3>
 A collection of short videos, exploring topics around Singapore’s iconic entertainment places.
 
