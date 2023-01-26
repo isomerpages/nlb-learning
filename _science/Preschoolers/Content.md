@@ -240,7 +240,7 @@ What is gravity and how does it work? Gravity may be a complex term and concept 
 
 
 		
-**Shine Bright, Little Light!**		
+<b id="pl-light">Shine Bright, Little Light!</b>	
 		
 There are so many different light sources all around us. From the cheery sun in the sky to the indoor lamps that ensure we do not read in the dark, light is an important part of our lives. It helps us see, it helps plants photosynthesise, and it is behind many natural phenomenon like forming a rainbow! Check out the video resources below to understand more about light and its many forms. Children can learn about light, its properties, its functions, and how to play with it to understand it further.
 
@@ -279,14 +279,14 @@ Everything around you is powered by energy. Did you know light is a source of en
   </div>
   <div class="col is-three-fifths">
     <p><b> Science o'Clock Junior: Pepper's Lab | Let's Make DIY Black Light!
-(1min 11secs)</
+			(1min 11secs)
 </b><br>
     
 Black light (or ultraviolet light) can help you write interesting messages that glow in different colours. This simple experiment makes for a visual feast, while also introducing us to the many real-life uses of black light You just need a flashlight and some household items. Follow the simple steps in this video and make your own black light today!</p>
   </div>
 </div>
 
-**It’s Time to Learn About Time!**
+<b id="pl-time">It’s Time to Learn About Time!</b>
 
 Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. We rely on time to let us know when we should be doing certain activities, such as eating breakfast or getting ready for school. Exposing children to the concept of time can not only be fun and fruitful but can also provide them with more control once they understand how time works in their lives. What does it mean to have 5 more minutes at the playground? Or that dinner will be ready in an hour? 
 Check out the video resources below to understand more about time and its applications.
@@ -331,7 +331,7 @@ Take it a step further with concepts of time such as AM and PM, as well as how t
   </div>
 </div>
 
-**Microscopic World: Protecting the Body! Science Behind Medical Biotechnology**
+<b id="pl-biotech">Microscopic World: Protecting the Body! Science Behind Medical Biotechnology</b>
 
 Discover with your child how our bodies keep us safe from germs with antibodies. Learn how scientists invented vaccines and antibiotics over the years to help boost our immune systems to ward off serious illnesses.  
 <br><br>
