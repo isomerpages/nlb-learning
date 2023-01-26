@@ -69,7 +69,7 @@ Check out our **learning packages**, complete with activities and tips, on STEAM
 <h3 id="playlists" class="margin--bottom--lg"><b>Playlists
 </b></h3>
 
-<b id="mightymultiply">Mighty Multiply and Divine Divide!</b>
+<b id="pl-multiplydivide">Mighty Multiply and Divine Divide!</b>
 
 Multiplication and division are the next steps following addition and subtraction. It may be challenging for young children to move on to these more complex operations but, slowly and surely, they will grasp the concepts. Other than watching these videos with your child to expose them to multiplication and division, one of the easiest ways to introduce children to these concepts is through sorting and grouping activities. 
 <br><br>
@@ -102,7 +102,7 @@ Check this playlist out first before you go on and explore these powerful mathem
   </div>
 </div>
 
-<b id="numberpattern">I Spy a Number Pattern!</b>
+<b id="pl-numberpattern">I Spy a Number Pattern!</b>
 
 Developing pattern recognition in young children is not as daunting as one might think. Arranging objects or numbers according to a certain order is a good way to get children to put on their sequencing caps and try to find out how they relate to one another. Are the objects arranged from big to small, by colour or by shape?  How are 1, 3, 5, 9 and 11 related? What about 2, 4, 6, 8, 10? Are the numbers arranged in increasing or decreasing order? Have your children learn simple number patterns and soon, they may start devising their own. 
 
@@ -146,7 +146,7 @@ Check out the video resources below to understand more about sequencing and unde
   </div>
 </div>
 
-**Stunning Shapes and Pretty Polygons!**
+<b id="pl-shapes">Stunning Shapes and Pretty Polygons!</b>
 
 The world is full of shapes. Circles, squares, triangles, and rectangles—they are everywhere! Let us see if we can spot them! The concept of shapes is an introduction to understanding geometry and identifying traits. Teaching children about shapes is easy and fun as the concept of shapes involves creating and seeing visuals. They can try spotting and naming shapes in their environment, drawing them on paper, or making them with different objects!
 
@@ -190,7 +190,7 @@ Check out the video resources below to understand more about different shapes an
 
 
 
-**What Keeps Me on the Ground? Gravity!**
+<b id="pl-gravity">What Keeps Me on the Ground? Gravity!**
 
 Did you know that if you walked on the moon, you would be floating around, unable to walk on the ground? Why do you think you can walk around easily on Earth? That’s because of gravity! Gravity is the pulling force that acts on you to ensure you stay fine and firm on the ground. It may have robbed us of the chance to fly but at least we know, we will always return to the Earth’s surface and not float up to the sun!  
   <br>
