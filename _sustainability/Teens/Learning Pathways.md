@@ -60,7 +60,13 @@ Be informed and make an impact to the environment.
       </tr>
     </thead>
     <tbody>
-				<tr>
+										<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/sky-greens-virtual-learning-journey-punggol-regional-library-tickets-519419687267?aff=odcleoeventsincollection" target="_blank"><b>Sky Greens Virtual Learning Journey</b></a></td>
+        <td style="width: 40%;">As part of the Tweenkerama | sustainability series, be taken on a virtual learning journey to the world’s first low-carbon, hydraulic-driven vertical farm. Discover how Sky Greens leverages on technology to minimise land usage yet still maximises output through smart urban vertical farming.
+</td>
+        <td style="width: 20%;">17 Feb 2023, 2.30pm-3.30pm</td>
+        <td style="width: 20%;">Punggol Regional Library</td>
+			</tr>					<tr>
          <td style="width: 20%;"><a href="https://go.gov.sg/nlb-teensgreenhouse" target="_blank"><b>Teens Takeover | GREENHOUSE</b></a></td>
         <td style="width: 40%;">A series of talks and workshops for teens to explore various green topics and projects.
 <br><br>
