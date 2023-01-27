@@ -145,8 +145,8 @@ Source: Chandramohan, Gayathiri. (2022, March 6). <a href="https://www.roots.gov
 
 <h5> The "worlds" entertainment parks of Singapore (1920s-1980s): new urban form and social space for culture and consumption </h5>
 Tan, Kar Lin. (2004). <i>The "worlds" entertainment parks of Singapore (1920s-1980s): new urban form and social space for culture and consumption</i>. Unpublished thesis (Master of Arts, Architecture), National University of Singapore. (Call no.: RSING 725.76095957 TAN) 
-<br>
-<img src="/images%2FIconic%20Entertainment%20Places%2FTWEP.png" style="width:200px;">
+
+<br><img src="/images%2FIconic%20Entertainment%20Places%2FTWEP.png" style="width:200px;">
 
 <p> This 2-volume thesis studies the three “Worlds” entertainment parks. Tan argued that the parks were sites of mass consumption that “transgressed entrenched class and ethnic boundaries of the colonial public sphere.” Volume I has nine chapters while Volume II consists of illustrations such as figures, maps, and building plans.</p>
 
