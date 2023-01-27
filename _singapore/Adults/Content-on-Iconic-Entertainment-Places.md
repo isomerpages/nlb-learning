@@ -66,7 +66,7 @@ New World Park (1923-1987), Great World Amusement Park (1931-1964), and Gay Worl
 
 Check out these resources to help you gain some understanding of Singapore’s bygone legendary amusement parks.
 
-<br><BR><BR>
+<br>
 
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
@@ -135,7 +135,7 @@ Source: Lim, Tin Seng, <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr
 <h5><A HREF="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour" target="_blank">Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls by Adeline Foo</A></h5>
 <p>The cabaret girls that worked at the amusement parks in Singapore were better known for their risqué stage shows, but some also donated generously to charity. Adeline Foo uncovers these women with hearts of gold.</p>
 
-Source: Foo, Adeline. “<a href="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour" target="_blank">Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls</a>.” (2017, January-March). BiblioAsia 12(4). Retrieved 2023, January 26.
+Source: Foo, Adeline. “<a href="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour" target="_blank">Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls</a>.” (2017, January-March). <i>BiblioAsia</i> 12(4). Retrieved 2023, January 26.
 
 <h5><a href="https://www.roots.gov.sg/stories-landing/stories/themeparks-in-singapore/story" target="_blank">Theme Parks in Singapore by Gayathiri Chandramohan </A></h5>
 <p> As the popularity of the ‘three worlds’ waned, other amusement parks blossomed. This article mentions the Wonderland Amusement Park at Kallang and Big Splash Theme Park at East Coast Park.</p>
