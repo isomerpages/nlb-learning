@@ -68,7 +68,7 @@ Go green with your child to build an eco-friendly future together.
         <td style="width: 20%;">Geylang East Public Library</td>
 			</tr>
 									<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/d/singapore--singapore/%23earthheroes/" target="_blank"><b> How Do Plants Make Food?</b></a></td>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-do-plants-make-food-bishan-public-library-tickets-519412315217?aff=odcleoeventsincollection" target="_blank"><b> How Do Plants Make Food?</b></a></td>
         <td style="width: 40%;">A series of workshops for children to explore various green topics and projects.
 <br><br>
 Stay tuned for more updates.
