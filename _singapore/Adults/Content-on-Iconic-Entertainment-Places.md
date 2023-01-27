@@ -124,7 +124,7 @@ A movie trailer for “大世界 It’s a Great Great World” produced by Media
 
 <h4>Articles</h4>
 
-##### <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html" target="_blank">Getai by Jaime Koh and Stephanie Ho</A>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html" target="_blank">Getai by Jaime Koh and Stephanie Ho</A></h5>
 <p>Getai is a popular form of mass entertainment that is believed to have originated during the Japanese Occupation and flourished in the 1950s. Amusement park based Getai went into a decline in the 1960s and 1970s after the introduction of the television. Today Getai is mainly staged during the Hungry Ghost Festival to entertain both the living and the dead.</p>
 Source: Koh, Jaime, and Ho, Stephanie. (2015). <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html" target="_blank">Getai</a>. <i> Singapore Infopedia</i>. Retrieved 2023, January 26.
 
@@ -164,7 +164,7 @@ Foo, Adeline. (2017). <i>Lancing Girls of a Happy World</i>. Singapore: Ethos Bo
 
 <h4>Oral History Interview Clip</h4>
 
-<BR><BR>##### Happy and New World Amusement Parks
+<h5>Happy and New World Amusement Parks</h5>
 
 National Archives of Singapore. (2017). <i> Happy and New World Amusement Parks </i>.
 
