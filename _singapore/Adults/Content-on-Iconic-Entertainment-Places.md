@@ -55,7 +55,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
-
+<BR><BR>
 	<P><h3><b>Playlist</b></h3></P>
 A collection of short videos, exploring topics around Singapore’s iconic entertainment places.
 
@@ -65,7 +65,7 @@ New World Park (1923-1987), Great World Amusement Park (1931-1964), and Gay Worl
 
 Check out these resources to help you gain some understanding of Singapore’s bygone legendary amusement parks.
 
-<br>
+<br><BR><BR>
 
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
@@ -100,7 +100,7 @@ A movie trailer for “大世界 It’s a Great Great World” produced by Media
 <br>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-	<P></P>
+<BR><BR>
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks - New World, Great World, Gay World</b></h5>
 
@@ -122,10 +122,10 @@ A movie trailer for “大世界 It’s a Great Great World” produced by Media
 <P>These curated set of articles and books will help you understand more about these former amusement parks in Singapore.</P>
 
 <h4>Articles</h4>
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html" target="_blank">Getai by Jaime Koh and Stephanie Ho</A></h5>
-<p>Getai is a popular form of mass entertainment that is believed to have originated during the Japanese Occupation and flourished in the 1950s. Amusement park based Getai went into a decline in the 1960s and 1970s after the introduction of the television. Today Getai is mainly staged during the Hungry Ghost Festival to entertain both the living and the dead.</p>
 
-<p>Source: Koh, Jaime, and Ho, Stephanie. (2015). <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html" target="_blank">Getai</a>. <i> Singapore Infopedia</i>. Retrieved 2023, January 26.
+<BR><BR><h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html" target="_blank">Getai by Jaime Koh and Stephanie Ho</A></h5>
+<p>Getai is a popular form of mass entertainment that is believed to have originated during the Japanese Occupation and flourished in the 1950s. Amusement park based Getai went into a decline in the 1960s and 1970s after the introduction of the television. Today Getai is mainly staged during the Hungry Ghost Festival to entertain both the living and the dead.</p>
+Source: Koh, Jaime, and Ho, Stephanie. (2015). <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html" target="_blank">Getai</a>. <i> Singapore Infopedia</i>. Retrieved 2023, January 26.
 
 <h5><a href="https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement" target="_blank">Old-world Amusement Parks by Lim Tin Seng</A></h5>
 <p> Theme parks in Singapore had their heyday from the 1920s to 50s. This <i>BiblioAsia</i> article charts their glory days and subsequent decline.</p>
@@ -139,15 +139,15 @@ Source: Foo, Adeline. “<a href="https://biblioasia.nlb.gov.sg/vol-12/issue-4/j
 <h5><a href="https://www.roots.gov.sg/stories-landing/stories/themeparks-in-singapore/story" target="_blank">Theme Parks in Singapore by Gayathiri Chandramohan </A></h5>
 <p> As the popularity of the ‘three worlds’ waned, other amusement parks blossomed. This article mentions the Wonderland Amusement Park at Kallang and Big Splash Theme Park at East Coast Park.</p>
 
-Source: Chandramohan, Gayathiri. (2022, March 6). <a href="https://www.roots.gov.sg/stories-landing/stories/themeparks-in-singapore/story" target="_blank">Theme Parks in Singapore</a> <i> Roots</i> Singapore: National Heritage Board. Retrieved 2023, January 26.
+Source: Chandramohan, Gayathiri. (2022, March 6). <a href="https://www.roots.gov.sg/stories-landing/stories/themeparks-in-singapore/story" target="_blank">Theme Parks in Singapore</a>. <i> Roots</i>. Singapore: National Heritage Board. Retrieved 2023, January 26.
 
 
 <h4>Books</h4>
 
 <h5> The "worlds" entertainment parks of Singapore (1920s-1980s): new urban form and social space for culture and consumption </h5>
-Tan, Kar Lin. (2004). <i> The "worlds" entertainment parks of Singapore (1920s-1980s): new urban form and social space for culture and consumption</i>. Unpublished thesis (Master of Arts, Architecture), National University of Singapore. (Call no.: RSING 725.76095957 TAN) 
+Tan, Kar Lin. (2004). <i>The "worlds" entertainment parks of Singapore (1920s-1980s): new urban form and social space for culture and consumption</i>. Unpublished thesis (Master of Arts, Architecture), National University of Singapore. (Call no.: RSING 725.76095957 TAN) 
 <br>
-<img src="/images%2FIconic%20Entertainment%20Places%2FTWEP.png" style="width:200px;"></a>
+<img src="/images%2FIconic%20Entertainment%20Places%2FTWEP.png" style="width:200px;">
 
 <p> This 2-volume thesis studies the three “Worlds” entertainment parks. Tan argued that the parks were sites of mass consumption that “transgressed entrenched class and ethnic boundaries of the colonial public sphere.” Volume I has nine chapters while Volume II consists of illustrations such as figures, maps, and building plans.</p>
 
@@ -155,9 +155,7 @@ Tan, Kar Lin. (2004). <i> The "worlds" entertainment parks of Singapore (1920s-1
 
 Foo, Adeline. (2017). <i>Lancing Girls of a Happy World</i>. Singapore: Ethos Books.  (Call no.: RSING 792.7095957 FOO)
 
-<br>
-
-<img src="/images%2FIconic%20Entertainment%20Places%2FLGHW.png" style="width:200px;"></a>
+<br><img src="/images%2FIconic%20Entertainment%20Places%2FLGHW.png" style="width:200px;">
 
 <p>“Glitz, glamour, and sleaze is what people may remember of the cabaret girls of yesteryear. With curiosity and an open mind, Adeline Foo sets out to uncover the lives of these women and how, even with few dreams and hopes to strive for, these women lived with much heart and courage despite society's disapproving eye. The music of the dance hall may have faded away, but this book carries the echoes of their dance steps, connecting us with a forgotten past that was inspired by faith, hope and charity.”</p>
 
@@ -165,12 +163,11 @@ Foo, Adeline. (2017). <i>Lancing Girls of a Happy World</i>. Singapore: Ethos Bo
 
 <h4>Oral History Interview Clip</h4>
 
-<h5>Happy and New World Amusement Parks</h5>
+<BR><BR><h5>Happy and New World Amusement Parks</h5>
 
 National Archives of Singapore. (2017). <i> Happy and New World Amusement Parks </i>.
-<br>
 
-<a href="https://www.mewatch.sg/watch/Stories-of-Yesteryear-Changing-Landscapes-E15-Happy-and-New-World-Amusement-Parks-253180" target="_blank">Happy and New World Amusement Parks</A>
+<br><a href="https://www.mewatch.sg/watch/Stories-of-Yesteryear-Changing-Landscapes-E15-Happy-and-New-World-Amusement-Parks-253180" target="_blank">Happy and New World Amusement Parks</A>
 
 <p>Richard Tan Leng Poh is the Founder and Chair of Garden & Landscape Centre. In this clip, he shares his childhood memories of the Happy and New World Amusement Parks.</p>
 
