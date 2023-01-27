@@ -1,7 +1,7 @@
 ---
 title: Content on Iconic Entertainment Places
 permalink: /singapore/Adults/Iconic-Entertainment-Places/
-description: "Singapore Content on Iconic Entertainment Places"
+description: ""
 third_nav_title: Adults
 ---
 <style type="text/css">
@@ -55,13 +55,12 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
-<BR>
-	<div><h3><b>Playlist</b></h3></P></div>
+<BR><BR><BR><BR><BR><BR><BR>
+	<h3><b>Playlist</b></h3></P>
 <div>A collection of short videos, exploring topics around Singapore’s iconic entertainment places.</div>
 
 <h5 class="margin--bottom--lg" id="amusement-parks"><b>Playlist: Amusement Parks - New World, Great World, Gay World</b></h5>
-
-<div>New World Park (1923-1987), Great World Amusement Park (1931-1964), and Gay World (Happy World) (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They offered nightlife entertainment that featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.
+New World Park (1923-1987), Great World Amusement Park (1931-1964), and Gay World (Happy World) (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They offered nightlife entertainment that featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.
 
 Check out these resources to help you gain some understanding of Singapore’s bygone legendary amusement parks.</div>
 
