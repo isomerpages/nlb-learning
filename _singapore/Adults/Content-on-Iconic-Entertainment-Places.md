@@ -98,10 +98,8 @@ A movie trailer for “大世界 It’s a Great Great World” produced by Media
 </div>
 </div>
 
-<br>
-
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-<BR><BR>
+
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks - New World, Great World, Gay World</b></h5>
 
