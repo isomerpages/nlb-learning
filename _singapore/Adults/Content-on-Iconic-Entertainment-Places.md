@@ -164,11 +164,11 @@ Foo, Adeline. (2017). <i>Lancing Girls of a Happy World</i>. Singapore: Ethos Bo
 
 <h5>Happy and New World Amusement Parks</h5>
 
-National Archives of Singapore. (2017). <i> Happy and New World Amusement Parks </i>.
+National Archives of Singapore. (2017). "Happy and New World Amusement Parks." <i>Stories of Yesteryear - Changing Landscapes</i> Season 1 Ep 15. Retrieved 2023, January 26.
 
 <br><a href="https://www.mewatch.sg/watch/Stories-of-Yesteryear-Changing-Landscapes-E15-Happy-and-New-World-Amusement-Parks-253180" target="_blank">Happy and New World Amusement Parks</A>
 
-<p>Richard Tan Leng Poh is the Founder and Chair of Garden & Landscape Centre. In this clip, he shares his childhood memories of the Happy and New World Amusement Parks.</p>
+<p>Richard Tan Leng Poh is the Founder and Chair of Garden & Landscape Centre. In this 2 minute clip, he shares his childhood memories of the Happy and New World Amusement Parks.</p>
 
 
 
