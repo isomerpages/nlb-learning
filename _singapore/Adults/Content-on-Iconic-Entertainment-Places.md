@@ -56,7 +56,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
     </div>
   </div>
 
-<h3><b>Playlist</b></h3>
+	<P><h3><b>Playlist</b></h3></P>
 A collection of short videos, exploring topics around Singapore’s iconic entertainment places.
 
 <h5 class="margin--bottom--lg" id="amusement-parks"><b>Playlist: Amusement Parks - New World, Great World, Gay World</b></h5>
@@ -73,6 +73,7 @@ Check out these resources to help you gain some understanding of Singapore’s b
 <iframe src="https://www.youtube.com/embed/t9c2ibcXlck" class="responsive-iframe"></iframe>
 </div>
 </div>
+	<P></P>
 <div class="col is-three-fifths">
 <p><b>大世界 It's a Great Great World (33 secs)</b><br>
 A movie trailer for “大世界 It’s a Great Great World” produced by MediaCorp Raintree Pictures. The movie is set in Singapore's legendary amusement park Great World, which was also affectionately known in Hokkien as Tua Seh Kai or 大世界. The film presents four tales revolving around iconic Great World landmarks: the Sky Theatre, the Ghost Train, the Flamingo Niteclub and the Wing Choon Yuen Restaurant. Multilingual in Mandarin, English, and various Chinese dialects, the movie comes with Chinese and English subtitles. <br><br>
@@ -99,11 +100,11 @@ A movie trailer for “大世界 It’s a Great Great World” produced by Media
 <br>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
+	<P></P>
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks - New World, Great World, Gay World</b></h5>
 
-<p><A HREF=”https://eresources.nlb.gov.sg/infopedia/articles/SIP_990_2006-06-09.html”>New World Park</A> (1923-1987), <A HREF=”https://eresources.nlb.gov.sg/infopedia/articles/SIP_1046_2006-06-09.html”>Great World Amusement Park</A> (1931-1964), and <A HREF=”https://eresources.nlb.gov.sg/infopedia/articles/SIP_1044_2006-06-01.html”>Gay World (Happy World)</A> (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.</p>
+<p><A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_990_2006-06-09.html">New World Park</A> (1923-1987), <A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1046_2006-06-09.html">Great World Amusement Park</A> (1931-1964), and <A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1044_2006-06-01.html">Gay World (Happy World)</A> (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.</p>
 
 <p>After the 1960s, many of these amusement parks declined due to competing alternative entertainment options such as radios, televisions, shopping centres, discos, and nightclubs.</p>
 
@@ -118,24 +119,24 @@ A movie trailer for “大世界 It’s a Great Great World” produced by Media
 </tr></tbody></table>
 
 
-These curated set of articles and books will help you understand more about these former amusement parks in Singapore.
+<P>These curated set of articles and books will help you understand more about these former amusement parks in Singapore.</P>
 
 <h4>Articles</h4>
-<h5><a href=”https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html" target="_blank">Getai by Jaime Koh and Stephanie Ho</A></h5>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html" target="_blank">Getai by Jaime Koh and Stephanie Ho</A></h5>
 <p>Getai is a popular form of mass entertainment that is believed to have originated during the Japanese Occupation and flourished in the 1950s. Amusement park based Getai went into a decline in the 1960s and 1970s after the introduction of the television. Today Getai is mainly staged during the Hungry Ghost Festival to entertain both the living and the dead.</p>
 
-Source: Koh, Jaime, and Ho, Stephanie. (2015). <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html" target="_blank">Getai</a>. <i> Singapore Infopedia</i>. Retrieved 2023, January 26.
+<p>Source: Koh, Jaime, and Ho, Stephanie. (2015). <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html" target="_blank">Getai</a>. <i> Singapore Infopedia</i>. Retrieved 2023, January 26.
 
-<h5><a href=”https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement" target="_blank">Old-world Amusement Parks by Lim Tin Seng</A></h5>
+<h5><a href="https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement" target="_blank">Old-world Amusement Parks by Lim Tin Seng</A></h5>
 <p> Theme parks in Singapore had their heyday from the 1920s to 50s. This <i>BiblioAsia</i> article charts their glory days and subsequent decline.</p>
 Source: Lim, Tin Seng, <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement" target="_blank">Old-World Amusement Parks</a> (2021, April-June). <i> BiblioAsia</i> 12(1). Retrieved 2023, January 26.
 
-<h5><A HREF="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour” target="_blank">Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls by Adeline Foo</A></h5>
+<h5><A HREF="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour" target="_blank">Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls by Adeline Foo</A></h5>
 <p>The cabaret girls that worked at the amusement parks in Singapore were better known for their risqué stage shows, but some also donated generously to charity. Adeline Foo uncovers these women with hearts of gold.</p>
 
 Source: Foo, Adeline. “<a href="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour" target="_blank">Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls</a>.” (2017, January-March). BiblioAsia 12(4). Retrieved 2023, January 26.
 
-<h5><a href=”https://www.roots.gov.sg/stories-landing/stories/themeparks-in-singapore/story" target="_blank">Theme Parks in Singapore by Gayathiri Chandramohan </A></h5>
+<h5><a href="https://www.roots.gov.sg/stories-landing/stories/themeparks-in-singapore/story" target="_blank">Theme Parks in Singapore by Gayathiri Chandramohan </A></h5>
 <p> As the popularity of the ‘three worlds’ waned, other amusement parks blossomed. This article mentions the Wonderland Amusement Park at Kallang and Big Splash Theme Park at East Coast Park.</p>
 
 Source: Chandramohan, Gayathiri. (2022, March 6). <a href="https://www.roots.gov.sg/stories-landing/stories/themeparks-in-singapore/story" target="_blank">Theme Parks in Singapore</a> <i> Roots</i> Singapore: National Heritage Board. Retrieved 2023, January 26.
