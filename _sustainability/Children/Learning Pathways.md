@@ -61,13 +61,27 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 						<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/d/singapore--singapore/%23earthheroes/" target="_blank"><b> Earth Heroes | Sustainability</b></a></td>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/diy-upcycled-ez-link-card-holders-geylang-east-public-library-tickets-519416778567?aff=odcleoeventsincollection" target="_blank"><b> DIY Upcycled EZ-Link Card Holders</b></a></td>
+        <td style="width: 40%;">As part of the Earth Heroes series, create your own customised card holder by upcycling beverage cartons! Finish it off with twine or string to complete your DIY card holder.
+</td>
+        <td style="width: 20%;">11 Feb 2023, 11am-12.30pm</td>
+        <td style="width: 20%;">Geylang East Public Library</td>
+			</tr>
+									<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-do-plants-make-food-bishan-public-library-tickets-519412315217?aff=odcleoeventsincollection" target="_blank"><b> How Do Plants Make Food?</b></a></td>
         <td style="width: 40%;">A series of workshops for children to explore various green topics and projects.
 <br><br>
 Stay tuned for more updates.
 </td>
-        <td style="width: 20%;"></td>
-        <td style="width: 20%;"></td>
+        <td style="width: 20%;">5 Feb 2023, 10.30am-12pm</td>
+        <td style="width: 20%;">Bishan Public Library</td>
+			</tr>
+									<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/diy-upcycled-pencil-case-ang-mo-kio-public-library-tickets-519423157647?aff=odcleoeventsincollection" target="_blank"><b>DIY Upcycled Pencil Case</b></a></td>
+        <td style="width: 40%;">As part of the Tweenkerama | sustainability series, reduce waste by upcycling fabric waste and plastic packaging to create your own pencil case or pouch. Attach the materials to a zipper with industrial grade double-sided tape, no sewing required!
+</td>
+        <td style="width: 20%;">25 Feb 2023, 1.30pm-3pm</td>
+        <td style="width: 20%;">Ang Mo Kio Public Library</td>
 			</tr>
     </tbody>
   </table>
@@ -82,11 +96,10 @@ Stay tuned for more updates.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-479793905487?aff=odcleoeventsincollection" target="_blank"><b>Unplugged</b></a></td>
-        <td style="width: 40%;">Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!	
- </td>
-        <td style="width: 20%;">06 Jan 2023,<br>3pm-5pm</td>
-        <td style="width: 20%;">Chua Chu Kang Public Library</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/roll-your-way-to-complex-characters-and-perplexing-plots-tweens-write-tickets-506940983127?aff=odcleoeventsincollection" target="_blank"><b> Roll Your Way to Complex Characters and Perplexing Plots! | Tweens Write</b></a></td>
+        <td style="width: 40%;">Geek out with AJ Low, the creators behind the best-selling Sherlock Sam series, and use dice to roll up stats Dungeons & Dragons-style. Create characters with more sides than a die and use them to develop stories with prompts that roll your way. <br><br>*No previous Dungeons & Dragons or role-playing game experience is required. Dice will be provided. </td>
+        <td style="width: 20%;">5 Feb 2023, 2pm-3.30pm</td>
+        <td style="width: 20%;">Punggol Regional Library</td>
       </tr>
 			     </tbody>
   </table>

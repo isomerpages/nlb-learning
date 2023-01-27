@@ -51,7 +51,7 @@ Check out our **learning packages**, complete with activities and tips, on STEAM
 <div class="row is-multiline">
   <div class="col is-one-half">
     <div class="clickbox is-thoughtful-tangerine">
-      <a href="#playlist-biotech">
+      <a href="#playlists">
         <span>Playlists</span>
       </a>
     </div>
@@ -66,10 +66,10 @@ Check out our **learning packages**, complete with activities and tips, on STEAM
   </div>
 
 
-<h3 id="playlist-biotech" class="margin--bottom--lg"><b>Playlists
+<h3 id="playlists" class="margin--bottom--lg"><b>Playlists
 </b></h3>
 
-**Mighty Multiply and Divine Divide!**
+<b id="pl-multiplydivide">Mighty Multiply and Divine Divide!</b>
 
 Multiplication and division are the next steps following addition and subtraction. It may be challenging for young children to move on to these more complex operations but, slowly and surely, they will grasp the concepts. Other than watching these videos with your child to expose them to multiplication and division, one of the easiest ways to introduce children to these concepts is through sorting and grouping activities. 
 <br><br>
@@ -102,7 +102,7 @@ Check this playlist out first before you go on and explore these powerful mathem
   </div>
 </div>
 
-**I Spy a Number Pattern!**
+<b id="pl-numberpattern">I Spy a Number Pattern!</b>
 
 Developing pattern recognition in young children is not as daunting as one might think. Arranging objects or numbers according to a certain order is a good way to get children to put on their sequencing caps and try to find out how they relate to one another. Are the objects arranged from big to small, by colour or by shape?  How are 1, 3, 5, 9 and 11 related? What about 2, 4, 6, 8, 10? Are the numbers arranged in increasing or decreasing order? Have your children learn simple number patterns and soon, they may start devising their own. 
 
@@ -146,7 +146,7 @@ Check out the video resources below to understand more about sequencing and unde
   </div>
 </div>
 
-**Stunning Shapes and Pretty Polygons!**
+<b id="pl-shapes">Stunning Shapes and Pretty Polygons!</b>
 
 The world is full of shapes. Circles, squares, triangles, and rectangles—they are everywhere! Let us see if we can spot them! The concept of shapes is an introduction to understanding geometry and identifying traits. Teaching children about shapes is easy and fun as the concept of shapes involves creating and seeing visuals. They can try spotting and naming shapes in their environment, drawing them on paper, or making them with different objects!
 
@@ -190,7 +190,7 @@ Check out the video resources below to understand more about different shapes an
 
 
 
-**What Keeps Me on the Ground? Gravity!**
+<b id="pl-gravity">What Keeps Me on the Ground? Gravity!</b>
 
 Did you know that if you walked on the moon, you would be floating around, unable to walk on the ground? Why do you think you can walk around easily on Earth? That’s because of gravity! Gravity is the pulling force that acts on you to ensure you stay fine and firm on the ground. It may have robbed us of the chance to fly but at least we know, we will always return to the Earth’s surface and not float up to the sun!  
   <br>
@@ -240,7 +240,7 @@ What is gravity and how does it work? Gravity may be a complex term and concept 
 
 
 		
-**Shine Bright, Little Light!**		
+<b id="pl-light">Shine Bright, Little Light!</b>	
 		
 There are so many different light sources all around us. From the cheery sun in the sky to the indoor lamps that ensure we do not read in the dark, light is an important part of our lives. It helps us see, it helps plants photosynthesise, and it is behind many natural phenomenon like forming a rainbow! Check out the video resources below to understand more about light and its many forms. Children can learn about light, its properties, its functions, and how to play with it to understand it further.
 
@@ -279,14 +279,14 @@ Everything around you is powered by energy. Did you know light is a source of en
   </div>
   <div class="col is-three-fifths">
     <p><b> Science o'Clock Junior: Pepper's Lab | Let's Make DIY Black Light!
-(1min 11secs)</
+			(1min 11secs)
 </b><br>
     
 Black light (or ultraviolet light) can help you write interesting messages that glow in different colours. This simple experiment makes for a visual feast, while also introducing us to the many real-life uses of black light You just need a flashlight and some household items. Follow the simple steps in this video and make your own black light today!</p>
   </div>
 </div>
 
-**It’s Time to Learn About Time!**
+<b id="pl-time">It’s Time to Learn About Time!</b>
 
 Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. We rely on time to let us know when we should be doing certain activities, such as eating breakfast or getting ready for school. Exposing children to the concept of time can not only be fun and fruitful but can also provide them with more control once they understand how time works in their lives. What does it mean to have 5 more minutes at the playground? Or that dinner will be ready in an hour? 
 Check out the video resources below to understand more about time and its applications.
@@ -331,7 +331,7 @@ Take it a step further with concepts of time such as AM and PM, as well as how t
   </div>
 </div>
 
-**Microscopic World: Protecting the Body! Science Behind Medical Biotechnology**
+<b id="pl-biotech">Microscopic World: Protecting the Body! Science Behind Medical Biotechnology</b>
 
 Discover with your child how our bodies keep us safe from germs with antibodies. Learn how scientists invented vaccines and antibiotics over the years to help boost our immune systems to ward off serious illnesses.  
 <br><br>

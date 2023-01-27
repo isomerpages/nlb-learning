@@ -65,10 +65,7 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td> Video resources to help parents understand more about the different types of picture books.</td>
         <td> </td>
         <td> </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+     
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -79,7 +76,7 @@ Make reading a fun activity while fostering that special bond between you and yo
     <tbody>
      <tr><td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
-       <td>Check out all the Jiggle Read & Rhyme sessions for January!</td>
+       <td>Check out all the Jiggle Read & Rhyme sessions for February!</td>
         <td>Various Locations</td>
       </tr>
 			<tr>			
@@ -88,26 +85,56 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td> Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!
 <br>
  </td>
-					<td>Check out all the Baby Lapsit sessions for <br>January!<br></td>
+					<td>Check out all the Baby Lapsit sessions for <br>February!<br></td>
         <td>Various Locations</td>
       </tr>		
 <tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/my-friend-kiara-a-story-of-friendship-and-disabilities-tickets-479033832087?aff=odcleoevent"><b>My Friend Kiara: A Story of Friendship and Disabilities</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/my-friend-kiara-a-story-of-friendship-and-disabilities-tickets-513675395937?aff=odcleoeventsincollection"><b>My Friend Kiara: A Story of Friendship and Disabilities</b></a></td>
         <td>This interactive story telling session includes thought provoking activities and fun exercises for young children<br></td>
-        <td>14 Jan 2023<br>11.30am – 12.00pm<br></td>
-        <td>Sengkang Public Library</td>
+        <td>25 Feb 2023<br>11.30am-12.00pm<br></td>
+        <td>Serangoon Public Library</td>
 </tr>	
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/childrens-puppet-castle-registration-482174044547?aff=odcleoeventsincollection"><b> Children's Puppet Castle</b></a></td>
+<td><a target="_blank" href="
+https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Children's Puppet Castle</b></a></td>
         <td>Join us for a puppet show performed by Puppet Masters. They will be performing two stories, Monkey King and The Magic Paintbrush!</td>
-        <td>8 Jan 2023<br>3.00pm-4.00pm</td>
-        <td>Cheng San Public Library</td>				
+        <td>Check out all the sessions in<br>February!</td>
+        <td>Various Locations</td>				
   					</tr>
-			<tr><td><a target="_blank" href="https://www.eventbrite.sg/e/stories-come-alive-by-niecite-tickets-479011194377?aff=odcleoeventsincollection"><b> Stories Come Alive by NIEC(ITE)!</b></a></td>
+			<tr><td><a target="_blank" href="https://www.eventbrite.sg/e/childrens-puppet-castle-tickets-492220774587?aff=odcleoeventsincollection"><b> Stories Come Alive by NIEC(ITE)!</b></a></td>
         <td>Join us for a session of stories, songs and rhymes by NIEC(ITE) students and bring home a craft too! </td>
-        <td>14 Jan 2023<br>11.00am – 12.00pm<br></td>
-        <td>Toa Payoh Public Library</td>				
-  					</tr>
+        <td>Check out all the sessions in February! 
+				<td>Bedok Public Library <br>Toa Payoh Public Library<br></td>
+		</tr>
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/sensory-story-time-tickets-507094412037?aff=odcleoeventsincollection"><b>Sensory Storytime
+ </b></a></td>
+        <td> Join us for a special storytime tailored to engage the different senses. This programme is designed to support children with special needs.
+<br>
+ </td>
+					<td>4 Feb 2023<br>2pm - 2.30pm<br></td>
+        <td>Punggol Regional Library</td>
+      </tr>		
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/e/mindfulness-for-children-mindful-magic-the-feelings-forest-tickets-503020557027?aff=odcleoeventsincollection"><b>Mindfulness for Children: Mindful Magic & The Feelings Forest
+ </b></a></td>
+        <td> Join us for a mini series of mindfulness programmes for children! Through storytelling, games and craft, children will develop emotional literacy and learn how to express and regulate their emotions.
+<br>
+ </td>
+					<td>25 Feb 2023 <br>11am - 12pm<br></td>
+        <td>Choa Chu Kang Public Library</td>
+      </tr>		
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b>Colours of the Mind at the Library
+ </b></a></td>
+        <td> Colours of the Mind is an interactive parent-and-child programme on mental well-being. Suitable for children aged 3 to 6 years old.
+<br>
+ </td>
+					<td>25 Feb 2023 <br>2pm - 3pm<br></td>
+        <td>Woodlands Regional Library</td>
+      </tr>		
+			<tr>			
+      </tr>		
 		</tbody>
 	</table>
 </div>
@@ -121,34 +148,58 @@ Make reading a fun activity while fostering that special bond between you and yo
     </thead>
     <tbody>
 			<tr>		
-<td><a target="_blank" href="https://www.eventbrite.sg/e/little-tiger-tickets-482879564777?aff=odcleoeventsincollection"><b> Little Tiger</b></a></td>
-        <td>Join Singapore Wildcat Action Group for a storytelling and coloring session about Little Tiger and its friends and their adventures!
+<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-structural-engineering-tickets-507096237497?aff=odcleoeventsincollection"><b> Budding Engineers l Structural Engineering</b></a></td>
+        <td>
+Have you ever wondered what makes buildings stay upright? Let’s learn about basic geometry and find out which shapes are the strongest.
 </td>
-       <td>14 Jan 2023 <br>12.30pm-1.45pm</td>
-        <td>Choa Chu Kang Public Library</td>
+       <td>25 Feb 2023 <br>11am - 12pm</td>
+        <td>Geylang East Public Library</td>
       </tr>
 			  <tr>	
-<td><a target="_blank" href="https://www.eventbrite.sg/e/connecting-with-nature-wildlife-conservation-us-tickets-479042979447?aff=odcleoeventsincollection"><b>Connecting With Nature | Wildlife Conservation & Us!</b></a></td>
-        <td>Join this fun and informative workshop to learn more about wildlife conservation and what we can do to help.
+<td><a target="_blank" href="
+https://www.eventbrite.sg/e/connecting-with-nature-discover-ecofiction-the-lorax-tickets-492221426537?aff=odcleoeventsincollection"><b>Connecting With Nature | Discover Ecofiction: The Lorax!</b></a></td>
+        <td>Connect with nature and discover ecofiction stories with this special storytelling and craft session!
 </td>
-        <td>28 Jan 2023<br>10.30am–11.30am<br></td>
-        <td>Jurong Regional Library</td>
+        <td>11 Feb 2023<br>2pm - 3pm<br></td>
+        <td>library@harbourfront</td>
       </tr>
 				<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-robo-coder-tickets-479771689037?aff=ebdsoporgprofile"><b>[DiscoverTech] Robo Coder</b></a></td>
-         <td>Come build a robot with us and with a little a bit of coding, watch your creations come to life!
+<td><a target="_blank" href="
+https://www.eventbrite.sg/e/discovertech-unplugged-coding-binary-code-tickets-505769860267?aff=odcleoeventsincollection"><b>[DiscoverTech] Unplugged Coding: Binary Code</b></a></td>
+         <td>Join us in this beginner’s programme for an introduction to binary code, one of the languages that computers use to communicate.
  </td>
-        <td>14 Jan 2023<br>11.00am–12.00pm<br></td>
-        <td>Bishan Public Library  </td>
+        <td>4 Feb 2023<br>11.30am–12.30pm<br></td>
+        <td>Jurong West Public Library  </td>
       </tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/storytime-with-spca-serangoon-public-library-early-read-tickets-482946384637?aff=ebdsoporgprofile"><b>Storytime with SPCA @ Serangoon Public Library | Early READ</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/discover-tech-experience-augmented-reality-tickets-492221165757?aff=odcleoeventsincollection"><b>
+[Discover Tech] Experience Augmented Reality</b></a></td>
         <td>
-Join guest readers from the SPCA for an interactive session all about pets.
+Discover augmented reality through storytelling and the guided use of digital devices.
  </td>
-       <td> 7 Jan 2023 <br> 11.30am– 12.30pm</td>
-        <td>Serangoon Public Library</td>
+       <td> 11 Feb 2023 <br> 11am– 12pm</td>
+        <td>Woodlands Regional Library</td>
       </tr>
+			<tr>			
+<td><a target="_blank" href="
+https://www.eventbrite.sg/e/kinderkoder-lets-play-robot-discovertech-tickets-503024177857?aff=odcleoeventsincollection"><b>KinderKoder: Let's Play Robot
+ </b></a></td>
+        <td> 
+In this session children will learn how robots work, what algorithms are and how to play some fun robot games at home.
+<br>
+ </td>
+					<td>12 Feb 2023 <br>1.30pm - 2.30pm<br></td>
+        <td>Punggol Regional Library</td>
+      </tr>	
+			<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b>[DiscoverTech] Ready, Set, Throw
+ </b></a></td>
+        <td> Using a LEGO Set, participants will build a launcher for a basketball and learn many physical concepts such as forces and energy!
+<br>
+ </td>
+					<td>18 Feb 2023 <br>11.30am-12.30pm<br></td>
+        <td>Bukit Panjang Public Library</td>
+      </tr>	
   </tbody>
   </table>
 </div>

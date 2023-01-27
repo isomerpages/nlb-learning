@@ -62,11 +62,11 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 						<tr>
-         <td style="width: 20%;"><a href="https://go.gov.sg/nlb-tweensus" target="_blank"><b> Tweenkerama | Sustainability </b></a></td>
-        <td style="width: 40%;">A series of talks and workshops for tweens to explore various green topics and projects.<br><br>Stay tuned for more updates.
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/sky-greens-virtual-learning-journey-punggol-regional-library-tickets-519419687267?aff=odcleoeventsincollection" target="_blank"><b>Sky Greens Virtual Learning Journey</b></a></td>
+        <td style="width: 40%;">As part of the Tweenkerama | sustainability series, be taken on a virtual learning journey to the world’s first low-carbon, hydraulic-driven vertical farm. Discover how Sky Greens leverages on technology to minimise land usage yet still maximises output through smart urban vertical farming.
 </td>
-        <td style="width: 20%;"></td>
-        <td style="width: 20%;"></td>
+        <td style="width: 20%;">17 Feb 2023, 2.30pm-3.30pm</td>
+        <td style="width: 20%;">Punggol Regional Library</td>
 			</tr>						
     </tbody>
   </table>
@@ -81,10 +81,10 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-479793905487?aff=odcleoeventsincollection" target="_blank"><b> Unplugged</b></a></td>
-        <td style="width: 40%;">Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
-        <td style="width: 20%;">6 Jan 2022, 3pm-5pm</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/roll-your-way-to-complex-characters-and-perplexing-plots-tweens-write-tickets-506940983127?aff=odcleoeventsincollection" target="_blank"><b> Roll Your Way to Complex Characters and Perplexing Plots! | Tweens Write</b></a></td>
+        <td style="width: 40%;">Geek out with AJ Low, the creators behind the best-selling Sherlock Sam series, and use dice to roll up stats Dungeons & Dragons-style. Create characters with more sides than a die and use them to develop stories with prompts that roll your way. <br><br>*No previous Dungeons & Dragons or role-playing game experience is required. Dice will be provided. </td>
+        <td style="width: 20%;">5 Feb 2023, 2pm-3.30pm</td>
+        <td style="width: 20%;">Punggol Regional Library</td>
       </tr>
       </tbody>
   </table>
