@@ -259,16 +259,16 @@ SkillsFuture credits</td>
         <td style="width: 20%;">Zoom</td>
       </tr>
 			  <tr>
-        <td><a href="https://www.eventbrite.sg/e/life-communication-skills-toastmasters-november-chapter-meeting-tickets-458201411757" target="_blank"><b>Learning Community</b><br>LCS Toastmasters</a></td>
+        <td><b>Learning Community</b><br>LCS Toastmasters</td>
         <td>Life Communication Skills (LCS) Toastmasters Club<br/>Communication is an essential tool. Learn ways to improve your communication style in a friendly environment.</td>
-        <td>16 Nov<br/>6.45-8.30pm</td>
-        <td>Bishan Public Library Programme Zone</td>
+        <td>3rd Wednesday of the month<br/>6.45-8.30pm</td>
+        <td>Bishan/<br/>Toa Payoh Public Library<br/>Programme Zone</td>
       </tr>
 			 <tr>
-        <td><a href="https://www.eventbrite.sg/e/learning-day-nov-2022-registration-432427360877" target="_blank"><b>Learning Community</b><br>Learning Day</a></td>
+        <td><b>Learning Community</b><br>Learning Day</td>
         <td>Learning Day is a gathering in which folks teach and learn something, anything, from each other!</td>
-        <td>26 Nov<br/>2-5pm</td>
-        <td>Serangoon Public Library Programme Zone</td>
+        <td>1st Saturday of the month<br/>2-5pm</td>
+        <td>Serangoon/<br/>Toa Payoh Public Library<br/>Programme Zone</td>
       </tr>
     </tbody>
   </table>
