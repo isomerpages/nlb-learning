@@ -190,7 +190,7 @@ Discover Singapore's iconic entertainment places, such as the amusement parks es
         <td style="width: 20%;"> </td>
       </tr>
       <tr>
-        <td><a href="/singapore/adults/content-vanishing-trades" target="_blank"><b>Vanishing Trades Playlist</b></a></td>
+        <td><a href="/singapore/adults/iconic-entertainment-places" target="_blank"><b>Iconic Entertainment Places Playlist</b></a></td>
        <td style="width: 40%;">Learn more about Singapore's iconic places through these videos.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
