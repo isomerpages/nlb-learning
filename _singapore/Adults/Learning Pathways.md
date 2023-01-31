@@ -172,3 +172,29 @@ As the nation develops, many trades evolve or are slowly replaced. Learn about t
     </tbody>
   </table>
 </div>
+<h3><b>Iconic Entertainment Places</b></h3>
+Discover Singapore's iconic entertainment places, such as the amusement parks established before World War II. They were known as the Three Worlds (New World, Great World, Gay World).
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/singapore/adults/iconic-entertainment-places" target="_blank"><b>Iconic Entertainment Places Learning Package</b></a></td>
+        <td style="width: 40%;">Here are some great resources to start with.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="/singapore/adults/content-vanishing-trades" target="_blank"><b>Vanishing Trades Playlist</b></a></td>
+       <td style="width: 40%;">Learn more about Singapore's iconic places through these videos.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+			</tr>
+    </tbody>
+  </table>
+</div>
