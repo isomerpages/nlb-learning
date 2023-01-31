@@ -68,10 +68,10 @@ The story of technology is the history of people solving problems, overcoming ad
 Designing a Better Remote Work Experience</a></td>
         <td>Is your team working remote? Having trouble engaging the team? Learn how UX designers use design thinking to solve the problem!</td>
         <td>13 February 2023 - 12 March 2023</td>
-        <td>Zoom</td>
+        <td>Tampines Regional Library</td>
       </tr>
 			<tr>
-	<td><a href="https://www.eventbrite.sg/e/internet-of-things-iot-from-bottom-up-future-of-work-tickets-424916455557" target="_blank"><b>[Future of Work]</b><br>Internet-of-Things (IoT) from Bottom Up
+	<td>https://www.eventbrite.sg/e/cybersecurity-from-scratch-future-of-work-tickets-484247185367?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Internet-of-Things (IoT) from Bottom Up
 </a></td>
         <td>Learn about the various Internet-of-Things (IoT) sensors and embedded systems that are used in IoT solutions.
 </td>
