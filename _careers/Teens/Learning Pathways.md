@@ -44,17 +44,13 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/interview-skills-teens-takeover-portfolio-tickets-429094442027?aff=odcleoeventsincollection"><b>Interview Skills | Teens Takeover | portfolio</b></a><br>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/designing-a-better-remote-work-experience-future-of-work-tickets-514613000337?aff=odcleoeventsincollection"><b>Designing a Better Remote Work Experience| Future of Work</b></a><br>
 </td>
-        <td style="width: 40%;">Ace that interview! Discover the useful skills and qualities needed to make a good first impression.</td>
-        <td style="width: 20%;"> 6 Dec 2022 <br>11am-12.30pm</td>
-        <td style="width: 20%;">Pasir Ris Public Library, <br>Programme Zone</td>
+        <td style="width: 40%;">Is your team working remote? Having trouble engaging the team? Learn how UX designers use design thinking to solve the problem!</td>
+        <td style="width: 20%;">Interactive Exhibition Opening 13 Feb - 12 Mar 2023 </td>
+        <td style="width: 20%;">Tampines Regional Library <br></td>
       </tr>
-					<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/udemy-business-tickets-422441492877?aff=ebdsoporgprofile"><b>Life Communication Skills Toastmasters December Chapter Meeting</b></a></td>
-        <td>Communication is an essential tool. Learn ways to improve your communication style in a friendly environment.
-        </td><td>21 Dec 2022,<br>6.45pm-8.30pm</td>
-        <td>Toa Payoh Public Library Programme Zone</td>
+				</td>
       </tr>
     </tbody>
   </table>
@@ -69,16 +65,16 @@ Clueless about which career is suitable for you? Discover and explore various ca
     </thead>
     <tbody>
 <tr>
-	<td><b>News Journalism 101 | Teens Takeover | re:write </b><br><a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429092526297?aff=odcleoeventsincollection"><b>Session 1 </b></a>
-					<a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=odcleoeventsincollection"><b>Session 2 </b></a></td>
-	<td>Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.<br>
-        </td><td>10 Dec 2022, <br>2pm-3.30pm | <br>17 Dec 2022,<br>2pm-3.30pm</td>
-        <td>Serangoon Public Library, Programme Zone</td>
+	<td><a target="_blank" href="https://www.eventbrite.sg/e/creating-instagram-ar-filters-canvass-registration-499918879827"><b>Creating Instagram AR filters | CANVAS/S </b><br></a>
+					</td>
+	<td>oin visual artist Almostasthma as she demonstrates how to create your very own AR filter in this explorative workshop.<br>
+        </td><td>12 Feb 2023, <br>2pm-4pm </td>
+        <td>Tampines Regional Library, Programme Zone</td>
 	      <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/cckpl-unplugged-with-singapore-untamed-tickets-470926994317?aff=odcleoeventsincollection"><b>CCKPL: Unplugged with Singapore Untamed</b></a></td>
-        <td style="width: 40%;"> For this Unplugged event, players will be trying out a simplified version of the boardgame, Singapore Untamed, to learn about the diverse fauna and local wildlife species that call Singapore home.</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/sky-greens-virtual-learning-journey-punggol-regional-library-tickets-519419687267"><b>Sky Greens Virtual Learning Journey @ Punggol Regional Library</b></a></td>
+        <td style="width: 40%;"> Go on a virtual learning journey to learn more about vertical farming!</td>
         <td style="width: 20%;">16 Dec 2022, <br>3 – 5pm</td>
-        <td style="width: 20%;">Choa Chu Kang Public Library, Programme Zone</td>
+        <td style="width: 20%;">Punggol Regional Library, SCA Room</td>
       </tr>
       </tr>
 

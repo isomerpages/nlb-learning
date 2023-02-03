@@ -44,32 +44,32 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
 				<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/practicing-the-art-of-observation-interpretation-skills-tickets-474425097237"><b>Practicing the Art of Observation: Interpretation Skills</b></a></td>
-        <td> Reading is commonly associated with books . However, it is equally important to learn the art of reading people, places, and situations.
-        </td><td>10 Jan 2022, <br>7.30pm – 9pm</td>
-        <td>National Library Imagination Room </td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/how-to-fight-a-powerful-ai-a-bridge-to-the-classics-tickets-473210063037"><b>How to Fight a Powerful AI | A Bridge to the Classics</b></a></td>
+        <td> Join Dr Susan Ang as she looks at hackers and nanotech in Saad Z. Hossain's fast-paced novel Cyber Mage!
+        </td><td>14 Feb 2023, <br>7.30pm – 8.30pm</td>
+        <td>Online </td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/communities-zzzink-libraryorchard-registration-432420851407"><b>Communities: Zzzink! | library@orchard</b></a></td>
-        <td style="width: 40%;">Join a community of that gathers every third Sunday monthly to tinker with zines and the many forms of art and narratives. </td>
-        <td style="width: 20%;">15 Jan 2023,
-<br>3pm – 5pm</td>
-        <td style="width: 20%;">library@orchard</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/writing-the-city-writers-cove-tickets-515529240837"><b>Writing the City – Writer’s Cove</b></a></td>
+        <td style="width: 40%;">A workshop for budding writers to read and discuss one another’s submissions in a welcoming environment. </td>
+        <td style="width: 20%;">18 Feb 2023,
+<br>2pm – 4pm</td>
+        <td style="width: 20%;">Toa Payoh Public Library PZ</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/how-to-navigate-the-fantastical-and-the-real-a-bridge-to-the-classics-tickets-472429207477"><b>How to Navigate the Fantastical and the Real | A Bridge to the Classics
+<td><a target="_blank" href="https://www.eventbrite.sg/e/dungeon-mastery-102-know-your-players-dd-wthe-legitimate-business-tickets-526975817857"><b>Dungeon Mastery 102: Know Your Players | D&D w/The Legitimate Business
 </b></a></td>
-        <td> Join Dr Susan Ang as she unpacks Ken Liu's popular speculative fiction collection The Paper Menagerie and Other Short Stories.
-	</td><td>17 Jan 2023, <br>
-7.30pm – 8.30pm
+        <td> Want to hone your skills as a Dungeon Master? Learn the tips and trick to effectively run role-playing games by understanding your players!
+	</td><td>24 Feb 2023, <br>
+7pm – 8.30pm
 	</td>
         <td>Online</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/how-to-survive-an-isle-of-poisonous-waste-a-bridge-to-the-classics-tickets-473207535477"><b>How to Survive an Isle of Poisonous Waste | A Bridge to the Classics</b></a></td>
-        <td> Join Dr Susan Ang as she explores the eco-politics of waste in Chen Qiufan's Waste Tide!</td>
-	<td>31 Jan 2022, <br>7.30pm – 8.30pm</td>
-        <td>Online</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-507034803747"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
+        <td> Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG.</td>
+	<td>25 Feb 2023, <br>1pm – 5pm</td>
+        <td>Choa Chu Kang Public Library PR1 &2</td>
       </tr>
 
     </tbody>
@@ -85,19 +85,19 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-479793905487" ><b>Unplugged @ Choa Chu Kang Public Library</b></a></td>
-	<td>Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!<br><br>
-        </td><td>3 Dec 2022, <br>
-3pm-5pm</td>
-        <td>Choa Chu Kang Library Programme Zone</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/creating-instagram-ar-filters-canvass-registration-499918879827" ><b>Creating Instagram AR filters | CANVAS/S</b></a></td>
+	<td>Join visual artist Almostasthma as she demonstrates how to create your very own AR filter in this explorative workshop.<br><br>
+        </td><td>12 Feb 2023, <br>
+2pm-4pm</td>
+        <td>Tampines Regional Library, Programme Zone</td>
       </tr>
 <tr>
-        <td><a target="_blank" href="https://www.eventbrite.sg/e/get-started-in-theatre-fundamentals-of-acting-artseen-tickets-461647148047"><b>Get Started In: Theatre (Fundamentals of Acting) | artseen
+        <td><a target="_blank" href="https://www.eventbrite.sg/e/sky-greens-virtual-learning-journey-punggol-regional-library-tickets-519419687267"><b>Sky Greens Virtual Learning Journey @ Punggol Regional Library
 </b></a></td>
-        <td>A three-hour introduction to the world of theatre, and how acting techniques can build your confidence as a speaker and a performer.</td>
+        <td>Go on a virtual learning journey to learn more about vertical farming</td>
         <td>
-			 28 Jan 2022 <br>2.30pm – 5.30pm</td>
-        <td>Jurong Regional Library, <br>Programme Zone</td>
+			 17 Feb 2023 <br>2.30pm – 3.30pm</td>
+        <td>Punggol Regional Library<br>SCA Room</td>
       </tr>
     </tbody>
   </table>
