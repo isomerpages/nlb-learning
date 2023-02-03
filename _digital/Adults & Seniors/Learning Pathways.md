@@ -64,31 +64,29 @@ The story of technology is the history of people solving problems, overcoming ad
     </thead>
     <tbody>
 			<tr>
-<td><a href="https://www.eventbrite.sg/e/exploring-ai-and-machine-learning-future-of-work-tickets-424916114537" target="_blank"><b>[Future of Work]</b><br>Exploring AI and Machine Learning</a></td>
-        <td>Learn about machine learning and its applications.</td>
-        <td>8 November 2022, 6:30pm-8:30pm</td>
-        <td>Zoom</td>
+<td><a href="https://www.eventbrite.sg/e/designing-a-better-remote-work-experience-future-of-work-tickets-514613000337?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>  
+Designing a Better Remote Work Experience</a></td>
+        <td>Is your team working remote? Having trouble engaging the team? Learn how UX designers use design thinking to solve the problem!</td>
+        <td>13 February 2023 - 12 March 2023</td>
+        <td>Tampines Regional Library</td>
       </tr>
-			<tr>
-	<td><a href="https://www.eventbrite.sg/e/internet-of-things-iot-from-bottom-up-future-of-work-tickets-424916455557" target="_blank"><b>[Future of Work]</b><br>Internet-of-Things (IoT) from Bottom Up
-</a></td>
-        <td>Learn about the various Internet-of-Things (IoT) sensors and embedded systems that are used in IoT solutions.
+			<tr>	<td><a href=https://www.eventbrite.sg/e/cybersecurity-from-scratch-future-of-work-tickets-484247185367?aff=odcleoeventsincollection"  target="_blank"><b>[Future of Work]</b><br>Cybersecurity from Scratch</a></td>
+        <td>This talk covers the latest cybersecurity trends and the importance of cybersecurity.
 </td>
-        <td> 18 November 2022<br>6:30pm-8:30pm</td>
+        <td> 16 February 2023<br>6:30pm-8:30pm</td>
         <td>Zoom</td>
       </tr>
 <tr>
-	<td><a href="https://www.eventbrite.sg/e/tools-tips-tricks-for-python-development-future-of-work-tickets-445059985397" target="_blank"><b>[Future of Work]</b><br>Tools, Tips & Tricks for Python Development
+	<td><a href="https://www.eventbrite.sg/e/getting-started-with-data-analytics-with-python-future-of-work-tickets-484248098097?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Getting Started with Data Analytics with Python
 </a></td>
-        <td>A beginner friendly presentation to learn about creating, installing and publishing a Python program.
-</td>
-        <td> 20 November 2022<br>4:00pm-6:00pm</td>
-        <td>library@harbourfront, Programme Zone 2</td>
+        <td>Learn the fundamental of data analysis and various data analytics processes with Python implementation.</td>
+        <td>21 February 2023<br>6:30pm-8:30pm</td>
+        <td>Zoom</td>
       </tr>	
 <tr>
-<td><a href="https://www.eventbrite.sg/e/build-your-own-2d-game-my-digital-life-registration-432337231297" target="_blank"><b>[My Digital Life]</b><br>Build Your Own 2D Game</a></td>
-        <td>Learn how to build your very own 2D Game in this workshop!</td>
-        <td>25 November 2022, 6:30pm-8:30pm</td>
+<td><a href="https://www.eventbrite.sg/e/exploring-ai-and-machine-learning-future-of-work-tickets-484249281637?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Exploring AI and Machine Learning</a></td>
+        <td>Learn about machine learning and its applications.</td>
+        <td>28 February 2023, 6:30pm-8:30pm</td>
         <td>Zoom</td>
       </tr>			
 			    </tbody>
