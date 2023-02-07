@@ -116,6 +116,19 @@ A movie trailer for “大世界 It’s a Great Great World” produced by Media
 Since the establishment of the island’s first public zoo in 1875, Singapore has taken countless initiatives to create places of animal attractions, not just to bring the public closer to nature, but also to create meaningful spaces to accommodate to the specific needs of the hundreds of different species that are now calling Singapore their home. 
 
 Check out these resources to help you gain some understanding on both famous and the lesser-known animal attraction sports on the island.
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/Ah20Mhjjnos" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> This park is for the BIRDS (literally): Jurong, Singapore | Tales From Our Pocket (14 mins)</b><br>
+Join Bill and Heather, avid travellers, who share their moments spent at Asia's largest bird park at Jurong and their impressive encounters with various species of birds, that they cannot get to see back at their home or anywhere else in the world!<br><br>
+<small> Source: This park is for the BIRDS (literally): Jurong, Singapore | Tales From Our Pocket (2022, May 28). Tales From Our Pocket. Retrieved 2023, January 11.</small></p>
+</div>
+</div>
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks - New World, Great World, Gay World</b></h5>
