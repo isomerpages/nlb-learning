@@ -112,6 +112,11 @@ A movie trailer for “大世界 It’s a Great Great World” produced by Media
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<h5 class="margin--bottom--lg" id="animal-attractions"><b>Playlist: Animal Attractions</b></h5>
+Since the establishment of the island’s first public zoo in 1875, Singapore has taken countless initiatives to create places of animal attractions, not just to bring the public closer to nature, but also to create meaningful spaces to accommodate to the specific needs of the hundreds of different species that are now calling Singapore their home. 
+
+Check out these resources to help you gain some understanding on both famous and the lesser-known animal attraction sports on the island.
+
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks - New World, Great World, Gay World</b></h5>
 
