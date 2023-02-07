@@ -126,9 +126,26 @@ Check out these resources to help you gain some understanding on both famous and
 <div class="col is-three-fifths">
 <p><b> This park is for the BIRDS (literally): Jurong, Singapore | Tales From Our Pocket (14 mins)</b><br>
 Join Bill and Heather, avid travellers, who share their moments spent at Asia's largest bird park at Jurong and their impressive encounters with various species of birds, that they cannot get to see back at their home or anywhere else in the world!<br><br>
-<small> Source: This park is for the BIRDS (literally): Jurong, Singapore | Tales From Our Pocket (2022, May 28). Tales From Our Pocket. Retrieved 2023, January 11.</small></p>
+<small> Source: This park is for the BIRDS (literally): Jurong, Singapore | Tales From Our Pocket (2022, May 28). Tales From Our Pocket. Retrieved 2023, February 7.</small></p>
 </div>
 </div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/T0Z5RrTe-U4" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> In Memorium: Animals of the Singapore Zoo | MustShareNews (4 mins)</b><br>
+This video fondly remembers the journey of four residents of the Singapore zoo namely, Ah Meng the orang utan, Omar the white tiger, Inuka the polar bear and Lucy the giraffe. Today the stories of these four remain iconic in the history of the Singapore zoo.
+<br><br>
+<small> Source: In Memorium: Animals of the Singapore Zoo | MustShareNews (2019, Apr 2). Our Grandfather Story. Retrieved 2023, February 7.</small></p>
+</div>
+</div>
+
+
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks - New World, Great World, Gay World</b></h5>
