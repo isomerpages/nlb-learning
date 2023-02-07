@@ -134,17 +134,15 @@ Join Bill and Heather, avid travellers, who share their moments spent at Asia's 
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/T0Z5RrTe-U4" class="responsive-iframe"></iframe>
+<iframe src="https://www.youtube.com/embed/jejZVbo7x1g" class="responsive-iframe"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
-<p><b> In Memorium: Animals of the Singapore Zoo | MustShareNews (4 mins)</b><br>
-This video fondly remembers the journey of four residents of the Singapore zoo namely, Ah Meng the orang utan, Omar the white tiger, Inuka the polar bear and Lucy the giraffe. Today the stories of these four remain iconic in the history of the Singapore zoo.
-<br><br>
-<small> Source: In Memorium: Animals of the Singapore Zoo | MustShareNews (2019, Apr 2). Our Grandfather Story. Retrieved 2023, February 7.</small></p>
+<p><b> Singapore Zoo, The World’s Best Rainforest Zoo | Explore Singapore SG | Traverse the Globe (10 mins)</b><br>
+Join the host as he brings us through the birth of the Singapore Zoo, key milestones in its history, re-branding campaigns in the latter years and its efforts at wildlife conservation.<br><br>
+<small> Source: Singapore Zoo, The World’s Best Rainforest Zoo | Explore Singapore SG | Traverse the Globe (2021, Apr 17). Traverse the Globe. Retrieved 2023, February 7.</small></p>
 </div>
 </div>
-
 
 
 <h3><b>Learning Package</b></h3>
