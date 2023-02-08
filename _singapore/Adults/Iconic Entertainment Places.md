@@ -187,7 +187,7 @@ Catch this video to learn more about the Night Safari, which is the world’s fi
 </div>
 </div>
 
-
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks - New World, Great World, Gay World</b></h5>
