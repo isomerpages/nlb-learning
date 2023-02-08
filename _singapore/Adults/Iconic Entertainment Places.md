@@ -159,6 +159,35 @@ This video explores how the Butterfly Garden in Changi Airport breeds and houses
 </div>
 </div>
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/b4vo--dx72E" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Insider Guide to Exploring SEA Aquarium in Sentosa | Singapore | Travel with Yiew (5 mins)</b><br>
+Join Terence as he explores and highlights some of his favourite parts of his adventure at the SEA Aquarium at Resorts World Sentosa. As the sheer size of this aquarium will require any traveller to plan their trip well to have a fruitful experience, this video will come in handy to do just that.<br><br>
+<small> Source: Insider Guide to Exploring SEA Aquarium in Sentosa | Singapore | Travel with Yiew (2022, Jan 12). Travel with Yiew. Retrieved 2023, February 7.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/QNa9YNdstek" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Singapore Night Safari | Explore Singapore | Travel Guide | MM Travel Guide (8 mins)</b><br>
+Catch this video to learn more about the Night Safari, which is the world’s first night zoo that allows visitors to observe nocturnal animals in a natural habitat. Find out how the Night Safari is very different from the typical zoo, as the video brings you up close to its nocturnal residents!<br><br>
+<small> Source: Singapore Night Safari Explore Singapore | Travel Guide | MM Travel Guide (2020, Aug 8). MM Travel Guide. Retrieved 2023, February 7.</small></p>
+</div>
+</div>
+
+
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks - New World, Great World, Gay World</b></h5>
