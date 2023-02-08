@@ -206,7 +206,6 @@ Catch this video to learn more about the Night Safari, which is the world’s fi
 </td>
 </tr></tbody></table>
 
-
 <P>These curated set of articles and books will help you understand more about these former amusement parks in Singapore.</P>
 
 <h4>Articles</h4>
@@ -229,7 +228,6 @@ Source: Foo, Adeline. “<a href="https://biblioasia.nlb.gov.sg/vol-12/issue-4/j
 
 Source: Chandramohan, Gayathiri. (2022, March 6). <a href="https://www.roots.gov.sg/stories-landing/stories/themeparks-in-singapore/story" target="_blank">Theme Parks in Singapore</a>. <i> Roots</i>. Singapore: National Heritage Board. Retrieved 2023, January 26.
 
-
 <h4>Books</h4>
 
 <h5> The "worlds" entertainment parks of Singapore (1920s-1980s): new urban form and social space for culture and consumption </h5>
@@ -247,8 +245,6 @@ Foo, Adeline. (2017). <i>Lancing Girls of a Happy World</i>. Singapore: Ethos Bo
 
 <p>“Glitz, glamour, and sleaze is what people may remember of the cabaret girls of yesteryear. With curiosity and an open mind, Adeline Foo sets out to uncover the lives of these women and how, even with few dreams and hopes to strive for, these women lived with much heart and courage despite society's disapproving eye. The music of the dance hall may have faded away, but this book carries the echoes of their dance steps, connecting us with a forgotten past that was inspired by faith, hope and charity.”</p>
 
-
-
 <h4>Oral History Interview Clip</h4>
 
 <h5>Happy and New World Amusement Parks</h5>
@@ -258,7 +254,5 @@ National Archives of Singapore. (2017). "Happy and New World Amusement Parks." <
 <br><a href="https://www.mewatch.sg/watch/Stories-of-Yesteryear-Changing-Landscapes-E15-Happy-and-New-World-Amusement-Parks-253180" target="_blank">Happy and New World Amusement Parks</A>
 
 <p>Richard Tan Leng Poh is the Founder and Chair of Garden & Landscape Centre. In this 2 minute clip, he shares his childhood memories of the Happy and New World Amusement Parks.</p>
-
-
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
