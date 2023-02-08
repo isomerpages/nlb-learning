@@ -144,6 +144,21 @@ Join the host as he brings us through the birth of the Singapore Zoo, key milest
 </div>
 </div>
 
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/KAqzNcRuroM" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Gardens at Changi: Catch a glimpse of Singapore's national butterfly at Changi | Changi Airport (2 mins)</b><br>
+This video explores how the Butterfly Garden in Changi Airport breeds and houses over 50 species of tropical butterflies, including Singapore’s National Butterfly, known as the Common Rose Butterfly. Indulge in the beautiful colours that adorn this garden!
+<br><br>
+<small> Source: Gardens at Changi: Catch a glimpse of Singapore's national butterfly at Changi | Changi Airport (2018, Apr 17). Changi Airport. Retrieved 2023, February 7.</small></p>
+</div>
+</div>
+
 
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks - New World, Great World, Gay World</b></h5>
