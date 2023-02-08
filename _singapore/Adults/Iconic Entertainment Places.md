@@ -256,3 +256,4 @@ National Archives of Singapore. (2017). "Happy and New World Amusement Parks." <
 <p>Richard Tan Leng Poh is the Founder and Chair of Garden & Landscape Centre. In this 2 minute clip, he shares his childhood memories of the Happy and New World Amusement Parks.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
