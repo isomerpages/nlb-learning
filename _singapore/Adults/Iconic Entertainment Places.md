@@ -257,3 +257,15 @@ National Archives of Singapore. (2017). "Happy and New World Amusement Parks." <
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<h5 id="lp-animal-attractions" class="margin--bottom--lg"><b> Animal Attractions </b></h5>
+<p> The animal attractions in Singapore are continuously evolving, providing experiential learning with leisure activities for the public. These parks enable people to have meaningful encounters with animals and nature, contained within a safe environment for all. While the takeaway from visiting these places may vary among individuals, the aim is for us to gain a deeper understanding of flora and fauna, and the environment through the varied sights and sounds. </p>
+<table border="1">
+            <tbody><tr>
+                        <td>
+<h4>Did you know...</h4>
+<ul><li> Did you know...
+Our island is home to more than 1,000 species of birds, animals and marine life? Singapore has five animal-themed parks namely, the SEA Aquarium, River Wonders Singapore, Bird Paradise (opening during the third quarter this year), Night Safari and Singapore Zoo. Some of these parks are home to endangered animals like Orangutan, Red Panda and Clouded Leopard!</li>
+</ul>
+</td>
+							</tr></tbody></table>
+These curated set of articles and books will give you a better understanding of the important roles played by animal parks in Singapore.
