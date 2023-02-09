@@ -276,6 +276,20 @@ Source: <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/sg-fi
 <h5> The first 21 years: the Singapore Zoological Gardens story</h5>
 Sharp, Ilsa (1994). <i> The first 21 years: the Singapore Zoological Gardens story </i> Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.7445957 SHA) 
 <br>
-<a><img src="/images/Iconic%20Entertainment%20Places/FJTJB.png" style="width:200px;"></a>
+<a><img src="/images/Iconic%20Entertainment%20Places/TSZGS.png" style="width:200px;"></a>
 <p> This book commemorates the Zoo’s 21st anniversary with colourful illustrations and traces its initial development up to its upgrading. It also documents the ups and downs of running Zoo. </p>
+
+<h5> Feathered jewels: the Jurong Birdpark</h5>
+Snyder, Lee (1995). <i> Feathered jewels: the Jurong Birdpark </i> Singapore: Jurong Birdpark. (Call no.: RSING q598.095957 SNY) 
+<br>
+<a>
+<img src="/images/Iconic%20Entertainment%20Places/FJTJB.png" style="width:200px;"></a>
+<p> A colourful guide to Jurong Bird Park which first opened its doors to visitors in 1971. As we prepare to embrace a brand-new home to its avian residents at Bird Paradise at Mandai Wildlife Reserve, this book will give a sense of nostalgic reminiscence, touching upon memorable scenes of this beautiful park.</p>
+
+<h5> Migratory birds of Sungei Buloh Wetland Reserve: a photographic, ringing and educational resource guide</h5>
+Gan, James Wan Meng; Tan, Mendis & Li, David (2009). <i> Migratory birds of Sungei Buloh Wetland Reserve: a photographic, ringing and educational resource guide.</i> Singapore: National Parks Board. (Call no.: RSING 598.095957 GAN) 
+<br>
+<a>
+<img src="/images/Iconic%20Entertainment%20Places/sungeibuloh.png" style="width:200px;"></a>
+<p>This is a first comprehensive photographic guidebook on 108 species of migratory birds found at the Sungei Buloh Wetland Reserve, Singapore's first ASEAN Heritage Park.</p>
 
