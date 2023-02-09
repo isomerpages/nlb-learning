@@ -304,7 +304,7 @@ Jurong Bird Park (1994). <i>On wings of excellence.</i> Singapore: Jurong Bird P
 Singapore Zoological Gardens (1994). <i>The world’s first night safari.</i> Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.735957 WOR-[SRN]) 
 <br>
 <a> 
-<img src="/images/Iconic%20Entertainment%20Places/ nightsafari.png" style="width:200px;"></a>
+<img src="/images/Iconic%20Entertainment%20Places/nightsafari.png" style="width:200px;"></a>
 <p>This book introduces the attractions and layout of the Night Safari, the world's first nocturnal zoo located in Mandai.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
