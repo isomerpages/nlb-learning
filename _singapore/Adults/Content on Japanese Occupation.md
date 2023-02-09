@@ -173,7 +173,7 @@ British surrender marks the beginning of the Japanese Occupation. Hear the World
 </div>
 <div class="col is-three-fifths">
 <p><b>From The Stacks Episode 18 – The Syonan Shimbun by Lee Meiyu and Fiona Tan | NLB Singapore (3 mins)</b><br>
-Librarian Lee Meiyu and archivist Fiona Tan present "The Syonan Shimbun", an English newspaper published during the Japanese Occupation of Singapore. Together with its Chinese imprint 昭南日报"Zhaonan Ribao", it carried official notices, wartime propaganda and price lists of essential goods, serving as a historic record of what people went through during the Japanese Occupation.<br><br>
+Librarian Lee Meiyu and archivist Fiona Tan present "The Syonan Shimbun", an English newspaper published during the Japanese Occupation of Singapore. Together with its Chinese imprint 昭南日报 "Zhaonan Ribao", it carried official notices, wartime propaganda and price lists of essential goods, serving as a historic record of what people went through during the Japanese Occupation.<br><br>
 <small>Source: The Stacks Episode 18 – The Syonan Shimbun by Lee Meiyu and Fiona Tan | NLB Singapore (2021, Nov 16). NLB Singapore. Retrieved 2022, January 12.</small></p>
 </div>
 </div>
