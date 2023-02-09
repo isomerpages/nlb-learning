@@ -293,3 +293,16 @@ Gan, James Wan Meng; Tan, Mendis & Li, David (2009). <i> Migratory birds of Sung
 <img src="/images/Iconic%20Entertainment%20Places/sungeibuloh.png" style="width:200px;"></a>
 <p>This is a first comprehensive photographic guidebook on 108 species of migratory birds found at the Sungei Buloh Wetland Reserve, Singapore's first ASEAN Heritage Park.</p>
 
+<h5>On wings of excellence</h5>
+Jurong Bird Park (1994). <i>On wings of excellence.</i> Singapore: Jurong Bird Park. (Call no.: RSING 598.295957 ON) 
+<br>
+<a> 
+<img src="/images/Iconic%20Entertainment%20Places/Wings.png" style="width:200px;"></a>
+<p> Published to commemorate Jurong Bird Park's major achievements for the past 21 years as a sanctuary for birds, the book chronicles its rise as a world-class establishment that offers recreation with education, conservation, and research.</p>
+
+<h5>The world’s first night safari</h5>
+Singapore Zoological Gardens (1994). <i>The world’s first night safari.</i> Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.735957 WOR-[SRN]) 
+<br>
+<a> 
+<img src="/images/Iconic%20Entertainment%20Places/ nightsafari.png" style="width:200px;"></a>
+<p>This book introduces the attractions and layout of the Night Safari, the world's first nocturnal zoo located in Mandai.</p>
