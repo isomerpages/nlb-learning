@@ -232,23 +232,16 @@ Source: Chandramohan, Gayathiri. (2022, March 6). <a href="https://www.roots.gov
 
 <h5> The "worlds" entertainment parks of Singapore (1920s-1980s): new urban form and social space for culture and consumption </h5>
 Tan, Kar Lin. (2004). <i>The "worlds" entertainment parks of Singapore (1920s-1980s): new urban form and social space for culture and consumption</i>. Unpublished thesis (Master of Arts, Architecture), National University of Singapore. (Call no.: RSING 725.76095957 TAN) 
-
-<br><img src="/images%2FIconic%20Entertainment%20Places%2FTWEP.png" style="width:200px;">
-
+<br><a><img src="/images%2FIconic%20Entertainment%20Places%2FTWEP.png" style="width:200px;"></a>
 <p> This 2-volume thesis studies the three “Worlds” entertainment parks. Tan argued that the parks were sites of mass consumption that “transgressed entrenched class and ethnic boundaries of the colonial public sphere.” Volume I has nine chapters while Volume II consists of illustrations such as figures, maps, and building plans.</p>
 
 <h5>Lancing Girls of Happy World</h5>
-
 Foo, Adeline. (2017). <i>Lancing Girls of a Happy World</i>. Singapore: Ethos Books.  (Call no.: RSING 792.7095957 FOO)
-
-<br><img src="/images%2FIconic%20Entertainment%20Places%2FLGHW.png" style="width:200px;">
-
+<a><br><img src="/images%2FIconic%20Entertainment%20Places%2FLGHW.png" style="width:200px;"></a>
 <p>“Glitz, glamour, and sleaze is what people may remember of the cabaret girls of yesteryear. With curiosity and an open mind, Adeline Foo sets out to uncover the lives of these women and how, even with few dreams and hopes to strive for, these women lived with much heart and courage despite society's disapproving eye. The music of the dance hall may have faded away, but this book carries the echoes of their dance steps, connecting us with a forgotten past that was inspired by faith, hope and charity.”</p>
 
 <h4>Oral History Interview Clip</h4>
-
 <h5>Happy and New World Amusement Parks</h5>
-
 National Archives of Singapore. (2017). "Happy and New World Amusement Parks." <i>Stories of Yesteryear - Changing Landscapes</i> Season 1 Ep 15. Retrieved 2023, January 26.
 
 <br><a href="https://www.mewatch.sg/watch/Stories-of-Yesteryear-Changing-Landscapes-E15-Happy-and-New-World-Amusement-Parks-253180" target="_blank">Happy and New World Amusement Parks</A>
@@ -280,3 +273,9 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-03-1
 Source: <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/sg-first-zoo" target="_blank"> Lim, Tin Seng. All Creatures Great and Small: Singapore’s First Zoos </a>(2015, July-September).<i> BiblioAsia, 11(2).</i> Retrieved 2023, February 7.
 
 <h4>Books</h4>
+<h5> The first 21 years: the Singapore Zoological Gardens story</h5>
+Sharp, Ilsa (1994). <i> The first 21 years: the Singapore Zoological Gardens story </i> Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.7445957 SHA) 
+<br>
+<a><img src="/images/Iconic%20Entertainment%20Places/FJTJB.png" style="width:200px;"></a>
+<p> This book commemorates the Zoo’s 21st anniversary with colourful illustrations and traces its initial development up to its upgrading. It also documents the ups and downs of running Zoo. </p>
+
