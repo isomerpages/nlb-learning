@@ -269,3 +269,14 @@ Our island is home to more than 1,000 species of birds, animals and marine life?
 </td>
 							</tr></tbody></table>
 These curated set of articles and books will give you a better understanding of the important roles played by animal parks in Singapore.
+
+<h4>Articles</h4>
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-03-14_140006.html?s=zoo" target="_blank"> Punggol Zoo by Teng, Sharon </a></h5>
+<p>Punggol Zoo, established in 1928 by William Lawrence Soma Basapa, was Singapore’s first full-size public zoo and bird park, and the first to be known as the Singapore Zoo.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-03-14_140006.html?s=zoo" target="_blank"> Punggol Zoo </a>(2016, Mar).<i> Singapore Infopedia.</i> Retrieved 2023, February 7.
+
+<h5><a href=" https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/sg-first-zoo" target="_blank"> All Creatures Great and Small: Singapore’s First Zoos by Lim, Tin Seng </a></h5>
+<p> This article takes us through an interesting journey that begins from the British early fascination with natural history and zoology in this region, to the private zoos for public visits during early Singapore and recent developments on nature themed attractions.</p>
+Source: <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/sg-first-zoo" target="_blank"> Lim, Tin Seng. All Creatures Great and Small: Singapore’s First Zoos </a>(2015, July-September).<i> BiblioAsia, 11(2).</i> Retrieved 2023, February 7.
+
+<h4>Books</h4>
