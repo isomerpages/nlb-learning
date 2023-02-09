@@ -416,7 +416,7 @@ Lee, Geok Boi. (2017). <i> Syonan: Singapore under the Japanese 1942-1945. </i> 
 <p> This revised edition frames the social memories of Singapore residents who lived through the Japanese military administration. </p>
 
 <h5> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945</h5>
-Akashi, Yōji  &amp; Yoshimura, Mako (Eds.). (2008). <i> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945. </i> Singapore: NUS Press. (Call no.: RSING 940.5337 NEW) 
+Akashi, Yōji &amp; Yoshimura, Mako (Eds.). (2008). <i> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945. </i> Singapore: NUS Press. (Call no.: RSING 940.5337 NEW) 
 <br>
 <img style="width:200px;" src="/images/singapore-japanese-occupation/NPJO.png">
 <p> A collection of articles that cover various topics on Japanese Occupation of Malaya and Singapore, based on Japanese primary sources, and sources from the archives and libraries in Britain, Malaysia, Singapore, United States, Australia and India. </p>
