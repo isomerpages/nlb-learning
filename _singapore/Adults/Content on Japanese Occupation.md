@@ -80,7 +80,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#lp-under-the-japanese">
-<span>Learning Package:<br>Under the Japanese</span>
+<span>Learning Package:<br>Under the Japanese Rule</span>
 </a>
 </div>
 </div>	
