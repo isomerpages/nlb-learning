@@ -47,16 +47,28 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
-
- <div class="col is-one-third">
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#animal-attractions">
+        <span>Playlist: Animal Attractions</span>
+      </a>
+    </div>
+  </div>
+	 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-amusement-parks">
         <span>Learning Package: Amusement Parks - New World, Great World, Gay World</span>
       </a>
     </div>
   </div>
-</div>
-
+	</div>
+	 <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-animal-attractions">
+        <span>Learning Package: Animal Attractions</span>
+      </a>
+    </div>
+  </div>
 
 <h3><b>Playlist</b></h3>
 A collection of short videos, exploring topics around Singapore’s iconic entertainment places.
@@ -100,6 +112,83 @@ A movie trailer for “大世界 It’s a Great Great World” produced by Media
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<h5 class="margin--bottom--lg" id="animal-attractions"><b>Playlist: Animal Attractions</b></h5>
+Since the establishment of the island’s first public zoo in 1875, Singapore has taken countless initiatives to create places of animal attractions, not just to bring the public closer to nature, but also to create meaningful spaces to accommodate to the specific needs of the hundreds of different species that are now calling Singapore their home. 
+
+Check out these resources to help you gain some understanding on both famous and the lesser-known animal attraction sports on the island.
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/Ah20Mhjjnos" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> This park is for the BIRDS (literally): Jurong, Singapore | Tales From Our Pocket (14 mins)</b><br>
+Join Bill and Heather, avid travellers, who share their moments spent at Asia's largest bird park at Jurong and their impressive encounters with various species of birds, that they cannot get to see back at their home or anywhere else in the world!<br><br>
+<small> Source: This park is for the BIRDS (literally): Jurong, Singapore | Tales From Our Pocket (2022, May 28). Tales From Our Pocket. Retrieved 2023, February 7.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/jejZVbo7x1g" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Singapore Zoo, The World’s Best Rainforest Zoo | Explore Singapore SG | Traverse the Globe (10 mins)</b><br>
+Join the host as he brings us through the birth of the Singapore Zoo, key milestones in its history, re-branding campaigns in the latter years and its efforts at wildlife conservation.<br><br>
+<small> Source: Singapore Zoo, The World’s Best Rainforest Zoo | Explore Singapore SG | Traverse the Globe (2021, Apr 17). Traverse the Globe. Retrieved 2023, February 7.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/KAqzNcRuroM" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Gardens at Changi: Catch a glimpse of Singapore's national butterfly at Changi | Changi Airport (2 mins)</b><br>
+This video explores how the Butterfly Garden in Changi Airport breeds and houses over 50 species of tropical butterflies, including Singapore’s National Butterfly, known as the Common Rose Butterfly. Indulge in the beautiful colours that adorn this garden!
+<br><br>
+<small> Source: Gardens at Changi: Catch a glimpse of Singapore's national butterfly at Changi | Changi Airport (2018, Apr 17). Changi Airport. Retrieved 2023, February 7.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/b4vo--dx72E" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Insider Guide to Exploring SEA Aquarium in Sentosa | Singapore | Travel with Yiew (5 mins)</b><br>
+Join Terence as he explores and highlights some of his favourite parts of his adventure at the SEA Aquarium at Resorts World Sentosa. As the sheer size of this aquarium will require any traveller to plan their trip well to have a fruitful experience, this video will come in handy to do just that.<br><br>
+<small> Source: Insider Guide to Exploring SEA Aquarium in Sentosa | Singapore | Travel with Yiew (2022, Jan 12). Travel with Yiew. Retrieved 2023, February 7.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/QNa9YNdstek" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Singapore Night Safari | Explore Singapore | Travel Guide | MM Travel Guide (8 mins)</b><br>
+Catch this video to learn more about the Night Safari, which is the world’s first night zoo that allows visitors to observe nocturnal animals in a natural habitat. Find out how the Night Safari is very different from the typical zoo, as the video brings you up close to its nocturnal residents!<br><br>
+<small> Source: Singapore Night Safari Explore Singapore | Travel Guide | MM Travel Guide (2020, Aug 8). MM Travel Guide. Retrieved 2023, February 7.</small></p>
+</div>
+</div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks - New World, Great World, Gay World</b></h5>
 
@@ -116,7 +205,6 @@ A movie trailer for “大世界 It’s a Great Great World” produced by Media
 </ul>
 </td>
 </tr></tbody></table>
-
 
 <P>These curated set of articles and books will help you understand more about these former amusement parks in Singapore.</P>
 
@@ -140,36 +228,83 @@ Source: Foo, Adeline. “<a href="https://biblioasia.nlb.gov.sg/vol-12/issue-4/j
 
 Source: Chandramohan, Gayathiri. (2022, March 6). <a href="https://www.roots.gov.sg/stories-landing/stories/themeparks-in-singapore/story" target="_blank">Theme Parks in Singapore</a>. <i> Roots</i>. Singapore: National Heritage Board. Retrieved 2023, January 26.
 
-
 <h4>Books</h4>
 
 <h5> The "worlds" entertainment parks of Singapore (1920s-1980s): new urban form and social space for culture and consumption </h5>
 Tan, Kar Lin. (2004). <i>The "worlds" entertainment parks of Singapore (1920s-1980s): new urban form and social space for culture and consumption</i>. Unpublished thesis (Master of Arts, Architecture), National University of Singapore. (Call no.: RSING 725.76095957 TAN) 
-
-<br><img src="/images%2FIconic%20Entertainment%20Places%2FTWEP.png" style="width:200px;">
-
+<br><a><img src="/images%2FIconic%20Entertainment%20Places%2FTWEP.png" style="width:200px;"></a>
 <p> This 2-volume thesis studies the three “Worlds” entertainment parks. Tan argued that the parks were sites of mass consumption that “transgressed entrenched class and ethnic boundaries of the colonial public sphere.” Volume I has nine chapters while Volume II consists of illustrations such as figures, maps, and building plans.</p>
 
 <h5>Lancing Girls of Happy World</h5>
-
 Foo, Adeline. (2017). <i>Lancing Girls of a Happy World</i>. Singapore: Ethos Books.  (Call no.: RSING 792.7095957 FOO)
-
-<br><img src="/images%2FIconic%20Entertainment%20Places%2FLGHW.png" style="width:200px;">
-
+<a><br><img src="/images%2FIconic%20Entertainment%20Places%2FLGHW.png" style="width:200px;"></a>
 <p>“Glitz, glamour, and sleaze is what people may remember of the cabaret girls of yesteryear. With curiosity and an open mind, Adeline Foo sets out to uncover the lives of these women and how, even with few dreams and hopes to strive for, these women lived with much heart and courage despite society's disapproving eye. The music of the dance hall may have faded away, but this book carries the echoes of their dance steps, connecting us with a forgotten past that was inspired by faith, hope and charity.”</p>
 
-
-
 <h4>Oral History Interview Clip</h4>
-
 <h5>Happy and New World Amusement Parks</h5>
-
 National Archives of Singapore. (2017). "Happy and New World Amusement Parks." <i>Stories of Yesteryear - Changing Landscapes</i> Season 1 Ep 15. Retrieved 2023, January 26.
 
 <br><a href="https://www.mewatch.sg/watch/Stories-of-Yesteryear-Changing-Landscapes-E15-Happy-and-New-World-Amusement-Parks-253180" target="_blank">Happy and New World Amusement Parks</A>
 
 <p>Richard Tan Leng Poh is the Founder and Chair of Garden & Landscape Centre. In this 2 minute clip, he shares his childhood memories of the Happy and New World Amusement Parks.</p>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<h5 id="lp-animal-attractions" class="margin--bottom--lg"><b> Animal Attractions </b></h5>
+<p> The animal attractions in Singapore are continuously evolving, providing experiential learning with leisure activities for the public. These parks enable people to have meaningful encounters with animals and nature, contained within a safe environment for all. While the takeaway from visiting these places may vary among individuals, the aim is for us to gain a deeper understanding of flora and fauna, and the environment through the varied sights and sounds. </p>
+<table border="1">
+            <tbody><tr>
+                        <td>
+<h4>Did you know...</h4>
+<ul><li> Did you know...
+Our island is home to more than 1,000 species of birds, animals and marine life? Singapore has five animal-themed parks namely, the SEA Aquarium, River Wonders Singapore, Bird Paradise (opening during the third quarter this year), Night Safari and Singapore Zoo. Some of these parks are home to endangered animals like Orangutan, Red Panda and Clouded Leopard!</li>
+</ul>
+</td>
+							</tr></tbody></table>
+These curated set of articles and books will give you a better understanding of the important roles played by animal parks in Singapore.
+
+<h4>Articles</h4>
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-03-14_140006.html?s=zoo" target="_blank"> Punggol Zoo by Teng, Sharon </a></h5>
+<p>Punggol Zoo, established in 1928 by William Lawrence Soma Basapa, was Singapore’s first full-size public zoo and bird park, and the first to be known as the Singapore Zoo.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-03-14_140006.html?s=zoo" target="_blank"> Punggol Zoo </a>(2016, Mar).<i> Singapore Infopedia.</i> Retrieved 2023, February 7.
+
+<h5><a href=" https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/sg-first-zoo" target="_blank"> All Creatures Great and Small: Singapore’s First Zoos by Lim, Tin Seng </a></h5>
+<p> This article takes us through an interesting journey that begins from the British early fascination with natural history and zoology in this region, to the private zoos for public visits during early Singapore and recent developments on nature themed attractions.</p>
+Source: <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/sg-first-zoo" target="_blank"> Lim, Tin Seng. All Creatures Great and Small: Singapore’s First Zoos </a>(2015, July-September).<i> BiblioAsia, 11(2).</i> Retrieved 2023, February 7.
+
+<h4>Books</h4>
+<h5> The first 21 years: the Singapore Zoological Gardens story</h5>
+Sharp, Ilsa (1994). <i> The first 21 years: the Singapore Zoological Gardens story </i> Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.7445957 SHA) 
+<br>
+<a><img src="/images/Iconic%20Entertainment%20Places/TSZGS.png" style="width:200px;"></a>
+<p> This book commemorates the Zoo’s 21st anniversary with colourful illustrations and traces its initial development up to its upgrading. It also documents the ups and downs of running Zoo. </p>
+
+<h5> Feathered jewels: the Jurong Birdpark</h5>
+Snyder, Lee (1995). <i> Feathered jewels: the Jurong Birdpark </i> Singapore: Jurong Birdpark. (Call no.: RSING q598.095957 SNY) 
+<br>
+<a>
+<img src="/images/Iconic%20Entertainment%20Places/FJTJB.png" style="width:200px;"></a>
+<p> A colourful guide to Jurong Bird Park which first opened its doors to visitors in 1971. As we prepare to embrace a brand-new home to its avian residents at Bird Paradise at Mandai Wildlife Reserve, this book will give a sense of nostalgic reminiscence, touching upon memorable scenes of this beautiful park.</p>
+
+<h5> Migratory birds of Sungei Buloh Wetland Reserve: a photographic, ringing and educational resource guide</h5>
+Gan, James Wan Meng; Tan, Mendis & Li, David (2009). <i> Migratory birds of Sungei Buloh Wetland Reserve: a photographic, ringing and educational resource guide.</i> Singapore: National Parks Board. (Call no.: RSING 598.095957 GAN) 
+<br>
+<a>
+<img src="/images/Iconic%20Entertainment%20Places/sungeibuloh.png" style="width:200px;"></a>
+<p>This is a first comprehensive photographic guidebook on 108 species of migratory birds found at the Sungei Buloh Wetland Reserve, Singapore's first ASEAN Heritage Park.</p>
+
+<h5>On wings of excellence</h5>
+Jurong Bird Park (1994). <i>On wings of excellence.</i> Singapore: Jurong Bird Park. (Call no.: RSING 598.295957 ON) 
+<br>
+<a> 
+<img src="/images/Iconic%20Entertainment%20Places/Wings.png" style="width:200px;"></a>
+<p> Published to commemorate Jurong Bird Park's major achievements for the past 21 years as a sanctuary for birds, the book chronicles its rise as a world-class establishment that offers recreation with education, conservation, and research.</p>
+
+<h5>The world’s first night safari</h5>
+Singapore Zoological Gardens (1994). <i>The world’s first night safari.</i> Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.735957 WOR-[SRN]) 
+<br>
+<a> 
+<img src="/images/Iconic%20Entertainment%20Places/nightsafari.png" style="width:200px;"></a>
+<p>This book introduces the attractions and layout of the Night Safari, the world's first nocturnal zoo located in Mandai.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
