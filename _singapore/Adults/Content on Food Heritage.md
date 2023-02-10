@@ -1,6 +1,6 @@
 ---
 title: Content on Food Heritage
-permalink: /singapore/Adults/Food-Heritage
+permalink: /singapore/Adults/Food-Heritage/
 description: ""
 third_nav_title: Adults
 ---
@@ -238,7 +238,7 @@ Check out these resources to help you gain some understanding of Peranakan cuisi
 <div class="col is-three-fifths">
 <p><b> Heart of Peranakan cooking with Chef Philip Chia, the Peranakan Chef | ShatecSG Official (3 mins) 
 </b>
-<br> Chef Philip Chia shares he passion for cooking Peranakan food and possible future for the Peranakan cuisine. <br><br>
+<br> Chef Philip Chia shares his passion for cooking Peranakan food and possible future for the Peranakan cuisine. <br><br>
 <small> Source: Heart of Peranakan cooking with Chef Philip Chia, the Peranakan Chef (2020, Mar 9). ShatecSG Official. Retrieved 2022, April 20.
 </small></p>
 </div>
