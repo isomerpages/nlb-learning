@@ -482,15 +482,16 @@ Established since 1986, Indian vegetarian restaurant Annalakshmi has served clos
 </div>
 </div>
 
+<br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/ 865-a3YIhfk" class="responsive-iframe"></iframe>
+<iframe src="https://www.youtube.com/embed/865-a3YIhfk" class="responsive-iframe"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
 <p><b> Learning about Indian breads: thosai, naan, and chapati | MothershipSG (8 mins)</b><br>
-Prata is not the only Indian bread available in Singapore. MothershipSG seeks the expertise of three Indian restaurants to understand some of the other varieties of Indian breads such as, thosai from south India and naan and chapati from north India. It also explore the potential origin of each of these varieties, showing how far across the world these recipes have travelled.<br>
+Prata is not the only Indian bread available in Singapore. MothershipSG seeks the expertise of three Indian restaurants to understand some of the other varieties of Indian breads such as thosai from south India, and naan and chapati from north India. It also explores the possible origin of each of these varieties, showing how far across the world these recipes have travelled.<br>
 <small> Source: Learning about Indian breads: thosai, naan, and chapati | MothershipSG (2021, May 8). MothershipSG. Retrieved 2022, June 21. </small></p>
 </div>
 </div>
