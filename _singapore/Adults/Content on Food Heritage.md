@@ -467,11 +467,12 @@ Mr Govind, the owner of Mr Biryani, introduces hyderabad biryani, a recipe that 
 <small> Source: Authentic hyderabad biryani in the heart of Singapore: Mr Biryani | SETHLUI.com (2019, Sept 25). SETHLUI.com. Retrieved 2022, June 21. </small></p>
 </div>
 </div>
-	
+
+<br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/ 55MBhekoicl" class="responsive-iframe"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/55MBhekoicI"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
