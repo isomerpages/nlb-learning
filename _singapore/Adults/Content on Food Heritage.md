@@ -515,7 +515,7 @@ Check out these resources about the evolution of hawker culture and hawker centr
 <p><b>
 A History Of Singapore Hawker Culture: From Food To Architecture | Hawkers In Our Centre | Part 1/2 | CNA Insider (48 mins)
 </b><br>The first episode in a two-part series on hawker culture in Singapore, this video traces the beginnings, growth, and transformation of the hawker trade against the backdrop of Singapore’s development. It also covers the establishment of hawker centres in the 1970s.<br><br>
-<small>Source: A History Of Singapore Hawker Culture: From Food To Architecture | Hawkers In Our Centre | Part 1/2 | CNA Insider (2020, Dec 17). CNA. Retrieved 2022, February 14.</small></p>
+<small>Source: A History Of Singapore Hawker Culture: From Food To Architecture | Hawkers In Our Centre | Part 1/2 | CNA Insider (2020, Dec 17). CNA. Retrieved 2022, July 7.</small></p>
 </div>
 </div>
 
