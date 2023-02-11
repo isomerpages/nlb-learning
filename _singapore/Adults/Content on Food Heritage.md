@@ -327,7 +327,7 @@ Check out these resources to learn more about them.
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/- ONdhOeUV3yg">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/ONdhOeUV3yg">
 </iframe>
 </div>
 </div>
@@ -435,7 +435,7 @@ Suryakenchana Omar examines the cultural and culinary heritage of nasi ambeng an
 
 <h5 class="margin--bottom--lg" id="indian-cuisine"><b>Playlist: Indian Cuisine </b></h5>
 
-Since the commencement of Singapore's journey as a free port in the early 19th century, the influx of traders and workers from different parts of the Indian sub-continent, brought in a variety of cooking styles and recipes to the island. Soon enough, some of these dishes adopted a uniquely Singaporean taste and style.
+Since the commencement of Singapore's journey as a free port in the early 19th century, the influx of traders and workers from different parts of the Indian sub-continent brought in a variety of cooking styles and recipes to the island. Soon enough, some of these dishes adopted a uniquely Singaporean taste and style.
 
 Check out these resources to help you gain some understanding on both famous and the lesser-known Indian heritage dishes relished by Singaporeans.
 
@@ -454,10 +454,11 @@ Mr M. Veerasamy was one of the first few cooks to sell fish head curry in Singap
 </div>
 </div>
 
+<br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/ egwHxcQw6Rk class="></iframe>
+<iframe class="responsive frame" src="https://www.youtube.com/embed/egwHxcQw6Rk"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
