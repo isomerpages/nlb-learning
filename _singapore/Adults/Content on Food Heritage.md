@@ -426,7 +426,7 @@ Khir Johari, food historian and author of The Food of Singapore Malays: Gastrono
 <p><b>[SHF - Heritage Weekend @ MHC] Nasi Tumpeng to Nasi Ambeng: From the altar to the table | Malay Heritage Centre (1 hr 36 min)</b><br>
 Suryakenchana Omar examines the cultural and culinary heritage of nasi ambeng and nasi tumpeng, dishes that are rooted in traditional Javanese rituals. The Javanese are regarded as part of the larger Malay community here. With many restaurants offering different versions of it, nasi ambeng is gaining popularity in Singapore. 
 <br><br>
-<small>Source: [SHF - Heritage Weekend @ MHC] Nasi Tumpeng to Nasi Ambeng: From the altar to the table (2021, May 29). Malay Heritage Centre. Retrieved 2022, April 20.
+<small>Source: [SHF - Heritage Weekend @ MHC] Nasi Tumpeng to Nasi Ambeng: From the altar to the table (2021, May 29). Malay Heritage Centre. Retrieved 2022, June 8.
 </small></p>
 </div>
 </div>
