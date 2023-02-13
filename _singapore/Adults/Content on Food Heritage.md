@@ -636,7 +636,7 @@ Ms Anastasia Liew who grew up in Indonesia and emigrated to Singapore in the 70s
 These curated set of articles and books give an overview of Singapore’s food heritage.
 
 <h4>Articles</h4>
-<div>
+
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-01-14.html" target="_blank"> Violet Oon by Nureza Ahmad</a></h5>
 <p> Violet Oon is one of Singapore's best known food personalities. She has influenced the Singapore food scene as author, speaker, teacher, consultant and restauranteur. </p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-01-14.html" target="_blank"> Violet Oon </a>(2019, April).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
