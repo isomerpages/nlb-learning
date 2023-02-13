@@ -646,7 +646,7 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-0
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html" target="_blank"> Fast-food chains </a>(2019, May).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
 	
 <h4>eBook</h4>
-<div>
+
 <h5> Singapore cooking: fabulous recipes from Asia's food capital
 </h5>
 Tan, Terry, and Tan, Christopher. (2009). <i> Singapore cooking: fabulous recipes from Asia's food capital.</i> Hong Kong: Tuttle Publishing an imprint of Periplus Edition (HK) Ltd. <br>
@@ -657,7 +657,7 @@ Tan, Terry, and Tan, Christopher. (2009). <i> Singapore cooking: fabulous recipe
 Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 	
 <h4>Books</h4>
-<div>
+
 <h5> Singapore food: a treasury of more than 200 time-tested recipes</h5>
 Hutton, Wendy. (2018). <i> Singapore food: a treasury of more than 200 time-tested recipes. </i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 HUT) 
 <br>
