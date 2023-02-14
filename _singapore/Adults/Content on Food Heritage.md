@@ -797,7 +797,7 @@ Source: Low, Sze Wee. <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol
 <h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_27_2_2009-01-07.html"> Chinese New Year delicacies
 by Bonny Tan &amp; Vicky Gao </a></h5>
 <p> Discover the common food items found in Singapore Chinese homes during Chinese New Year.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_27_2_2009-01-07.html"> Chinese New Year delicacies</a>(2018, July).<i> Singapore Infopedia.</i> Retrieved 2022, May 23.
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_27_2_2009-01-07.html"> Chinese New Year delicacies</a> (2018, July).<i> Singapore Infopedia.</i> Retrieved 2022, May 23.
 	
 <h4>eBooks</h4>
 
