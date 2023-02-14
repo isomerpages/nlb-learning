@@ -133,7 +133,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
-<a href="#lp-Malay-cuisine">
+<a href="#lp-malay-cuisine">
 <span>Learning Package:<br>Malay Cuisine</span>
 </a>
 </div>
