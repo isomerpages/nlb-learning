@@ -802,7 +802,7 @@ Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/article
 <h4>eBooks</h4>
 
 <h5> Three Dishes One Soup: Inside the Singapore Kitchen</h5>
-Zhang, Lace. (2019). <i> Three Dishes One Soup: Inside the Singapore Kitchen.</i><br>
+Zhang, Lace. (2019). <i> Three Dishes One Soup: Inside the Singapore Kitchen.</i> Singapore: Marshall Cavendish Cuisine.<br>
 	<a target="_blank" href="https://nlb.overdrive.com/media/4639984"></a>
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/LZhang.png">
 <p> It is common to find several dishes served with a bowl of rice and soup in Singapore Chinese families. Author Lace Zhang records her family's recipes with detailed explanations and step-by-step photographs.</p>
