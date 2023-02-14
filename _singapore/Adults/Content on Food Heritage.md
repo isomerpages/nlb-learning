@@ -141,7 +141,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 	
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
-<a href="#lp-Indian-cuisine">
+<a href="#lp-indian-cuisine">
 <span>Learning Package:<br>Indian Cuisine</span>
 </a>
 </div>
@@ -896,7 +896,7 @@ Rita Zahara (2016). <i>The many flavours of Malay cooking.</i> Singapore: Marsha
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
-<h5 class="margin--bottom--lg" id="lp-Indian-cuisine"><b>Singapore's Food Heritage: Indian Cuisine</b></h5>
+<h5 class="margin--bottom--lg" id="lp-indian-cuisine"><b>Singapore's Food Heritage: Indian Cuisine</b></h5>
 
 <p> The roots of Indian food heritage lead us back to centuries-old traditions and take us across different parts of the Indian sub-continent region. Just the south Indian dishes in Singapore alone can be attributed to multiple origins such as the states of Tamil Nadu, Kerala, Andhra, Telengana and Karnataka, with each region offering the promise of a different flavour. A common Indian favourite such as curry is not going to taste the same in each of these states. But when all these region-specific recipes met at colonial Singapore, it gave birth to the island’s very own uniquely Singaporean Indian cuisine. The interactions from the Chinese, Malay and European cuisines enhanced its uniqueness even further.
 
