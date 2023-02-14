@@ -827,7 +827,7 @@ Tan, Lee Leng &amp; Lau, Chiap Khai. (2012). <i>Uncle Lau's Teochew Recipes.</i>
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 	
 <h5> Madam Choy's Cantonese Recipes</h5>
-Reutens, Lulin &amp; Choy, Wai Yuen. (2012). <i> Madam Choy's Cantonese Recipes </i><br>
+Reutens, Lulin &amp; Choy, Wai Yuen. (2012). <i> Madam Choy's Cantonese Recipes. </i>Singapore: Epigram Books.<br>
 <a href="https://nlb.overdrive.com/media/3300282" target="_blank"></a>
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/RLulin.png">
 <p> In this third revised edition of part of Epigram Books' award-winning Heritage Cookbook series, it showcases the best of Singapore's Cantonese cuisine from an avid home cook with over 50 years of cooking experience.
