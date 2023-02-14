@@ -837,7 +837,7 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
-<h5 class="margin--bottom--lg" id="lp-Malay-cuisine"><b>Singapore's Food Heritage: Malay Cuisine</b></h5>
+<h5 class="margin--bottom--lg" id="lp-malay-cuisine"><b>Singapore's Food Heritage: Malay Cuisine</b></h5>
 
 <p>With many Malays being seafaring people in the past, their diet was typically pescatarian. Malay cuisine has developed to incorporate other ingredients and culinary techniques because of cultural exchanges between the Malay Archipelago and the rest of the world. 
 
