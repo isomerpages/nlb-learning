@@ -810,7 +810,7 @@ Zhang, Lace. (2019). <i> Three Dishes One Soup: Inside the Singapore Kitchen.</i
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook.)
 	
 <h5> Uncle Anthony's Hokkien Recipes</h5>
-Loo, Hock Chye Anthony &amp; Lee, Samantha. (2017). <i> Uncle Anthony's Hokkien Recipes.</i><br> 
+Loo, Hock Chye Anthony &amp; Lee, Samantha. (2017). <i> Uncle Anthony's Hokkien Recipes.</i> Singapore: Epigram Books.<br> 
 <a href="https://nlb.overdrive.com/media/3379641" target="_blank"></a>
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/ALoo.png">
 <p> Part of an award-winning Heritage Cookbook series featuring over 80 Hokkien family recipes, including the well-known bak kut teh and lesser-known dishes like the sticky mee sua soup.</p>
