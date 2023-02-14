@@ -61,14 +61,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
-	</div>
-	 <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
+	<div class="col is-one-third">
+   <div class="clickbox is-mint-jade">
       <a href="#lp-animal-attractions">
         <span>Learning Package: Animal Attractions</span>
       </a>
     </div>
   </div>
+	</div>
 
 <h3><b>Playlist</b></h3>
 A collection of short videos, exploring topics around Singapore’s iconic entertainment places.
