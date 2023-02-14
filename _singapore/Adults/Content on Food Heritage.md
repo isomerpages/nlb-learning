@@ -818,7 +818,7 @@ Loo, Hock Chye Anthony &amp; Lee, Samantha. (2017). <i> Uncle Anthony's Hokkien 
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook.)
 
 <h5>Uncle Lau's Teochew Recipes</h5>
-Tan, Lee Leng &amp; Lau, Chiap Khai. (2012). <i>Uncle Lau's Teochew Recipes.</i><br>
+Tan, Lee Leng &amp; Lau, Chiap Khai. (2012). <i>Uncle Lau's Teochew Recipes.</i> Singapore: Epigram Books.<br>
 <a href="https://nlb.overdrive.com/media/3300327" target="_blank"></a>
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/TanLL.png">
 <p> Features a collection of over 80 time-tested recipes from a Singapore Teochew family. It has common Teochew dishes like steamed fish and ngoh hiang, as well as interesting dishes like Ho Pung and Sio Bee.
