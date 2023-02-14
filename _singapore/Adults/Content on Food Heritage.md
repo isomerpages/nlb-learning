@@ -742,7 +742,7 @@ Pereira, Robin and Quentin Pereira. (2009). <i>Robin’s Eurasian recipes. </i>S
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 
 <h5>Eurasian heritage cooking</h5>
-Pereira, Quentin. (2012). <i>Eurasian heritage cooking.</i><br> 
+Pereira, Quentin. (2012). <i>Eurasian heritage cooking.</i> Singapore; London: Marshall Cavendish Cuisine.<br> 
 <a href="https://nlb.overdrive.com/media/1270603" target="_blank">
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/EHC.png"></a>
 <p> Chef Quentin Pereira is a leading name in Eurasian cuisine in Singapore. He has put together this book to preserve the Eurasian heritage, culture, and recipes for future generations.
