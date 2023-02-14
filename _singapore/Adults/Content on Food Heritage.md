@@ -734,7 +734,7 @@ Learn more about the rich heritage of Eurasian food from these books below.</p>
 
 <h4>eBooks</h4>
 <h5>Robin’s Eurasian recipes</h5>
-Pereira, Robin and Quentin Pereira. (2009). <i>Robin’s Eurasian recipes.</i><br>
+Pereira, Robin and Quentin Pereira. (2009). <i>Robin’s Eurasian recipes. </i>Singapore: Epigram Books.<br>
 <a href="https://nlb.overdrive.com/media/3300296" target="_blank">
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/Robin.png"></a>
 <p> Chef Quentin Pereira shares his father’s well-guarded family recipes. These recipes were passed down from his grandmother, who together with her sisters, used to cook for Eurasian weddings. 
