@@ -687,7 +687,7 @@ Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today'
 <p>These curated set of articles and books will give you a better understanding of Peranakan food in Singapore.</p>
 
 <h4>Articles</h4>
-<div>
+
 <h5><a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine"> The Evolution of Straits-born Cuisine by Lee Geok Boi </a></h5>
 <p> Lee Geok Boi looks at what makes Peranakan cuisine unique and delves into old cookbooks to see how Straits-born cuisine came to be. She discusses how although the Y.W.C.A. of Malaya Cookery Book (1931) -- one of the earliest local cookbooks -- had Straits Chinese recipes, the first local cookbook that identified itself as being a Peranakan cookbook was Mrs Lee’s Cookbook (1974) by Mrs Lee Chin Koon.</p>
 Source: Lee, Geok Boi, <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine"> The Evolution of Straits-born Cuisine </a>(2021, July-September).<i> 
