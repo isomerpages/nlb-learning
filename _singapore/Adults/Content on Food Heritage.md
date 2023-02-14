@@ -699,7 +699,7 @@ Source: Tan, Sylvia, <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-
 
 <h4>eBook</h4>
 <h5> In A Straits-Born Kitchen</h5>
-	Lee, Geok Boi. (2021). <i>In a Straits-Born Kitchen</i><br>
+	Lee, Geok Boi. (2021). <i>In a Straits-Born Kitchen.</i> Singapore: Marshall Cavendish Cuisine.<br>
 <a href="https://nlb.overdrive.com/media/6393798" target="_blank">
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/LeeGB.png"></a>
 <p> Lee uses the wider definition of Peranakan to mean Straits born in her introductory chapter, including not only the Straits Chinese, but also Eurasian, Chetti Melakan, Indonesian Chinese, Malay and Indonesian recipes. The book is organized according to the basics; kerabu, acar, and vegetables; seafood; meats; light bites and sweet treats. It also has a select glossary of ingredients, a short bibliography, as well as weights and measurements.
@@ -792,7 +792,7 @@ These curated set of articles and books give an overview of Singapore’s Chines
 <h5><a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore"> We are what we eat: the evolution of Chinese food in Singapore by Low Sze Wee </a></h5>
 <p> Author highlights the various popular Chinese dishes and argues how different cultures meet and influence each other resulting in the creation of new Chinese food in Singapore.
 </p>
-Source: Low, Sze Wee. <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore"> We are what we eat: the evolution of Chinese food in Singapore </a>(2022, April-June).<i> BiblioAsia</i> 17(2). Retrieved 2022, May 23.
+Source: Low, Sze Wee. <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore"> We are what we eat: the evolution of Chinese food in Singapore </a>(2022, April-June).<i> BiblioAsia</i> 18(1). Retrieved 2022, May 23.
 	
 <h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_27_2_2009-01-07.html"> Chinese New Year delicacies
 by Bonny Tan &amp; Vicky Gao </a></h5>
