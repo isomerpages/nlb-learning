@@ -1,6 +1,6 @@
 ---
 title: Content on Food Heritage
-permalink: /singapore/Adults/Food-Heritage
+permalink: /singapore/Adults/Food-Heritage/
 description: ""
 third_nav_title: Adults
 ---
@@ -133,7 +133,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
-<a href="#lp-Malay-cuisine">
+<a href="#lp-malay-cuisine">
 <span>Learning Package:<br>Malay Cuisine</span>
 </a>
 </div>
@@ -141,7 +141,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 	
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
-<a href="#lp-Indian-cuisine">
+<a href="#lp-indian-cuisine">
 <span>Learning Package:<br>Indian Cuisine</span>
 </a>
 </div>
@@ -238,7 +238,7 @@ Check out these resources to help you gain some understanding of Peranakan cuisi
 <div class="col is-three-fifths">
 <p><b> Heart of Peranakan cooking with Chef Philip Chia, the Peranakan Chef | ShatecSG Official (3 mins) 
 </b>
-<br> Chef Philip Chia shares he passion for cooking Peranakan food and possible future for the Peranakan cuisine. <br><br>
+<br> Chef Philip Chia shares his passion for cooking Peranakan food and possible future for the Peranakan cuisine. <br><br>
 <small> Source: Heart of Peranakan cooking with Chef Philip Chia, the Peranakan Chef (2020, Mar 9). ShatecSG Official. Retrieved 2022, April 20.
 </small></p>
 </div>
@@ -327,7 +327,7 @@ Check out these resources to learn more about them.
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/- ONdhOeUV3yg">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/ONdhOeUV3yg">
 </iframe>
 </div>
 </div>
@@ -426,7 +426,7 @@ Khir Johari, food historian and author of The Food of Singapore Malays: Gastrono
 <p><b>[SHF - Heritage Weekend @ MHC] Nasi Tumpeng to Nasi Ambeng: From the altar to the table | Malay Heritage Centre (1 hr 36 min)</b><br>
 Suryakenchana Omar examines the cultural and culinary heritage of nasi ambeng and nasi tumpeng, dishes that are rooted in traditional Javanese rituals. The Javanese are regarded as part of the larger Malay community here. With many restaurants offering different versions of it, nasi ambeng is gaining popularity in Singapore. 
 <br><br>
-<small>Source: [SHF - Heritage Weekend @ MHC] Nasi Tumpeng to Nasi Ambeng: From the altar to the table (2021, May 29). Malay Heritage Centre. Retrieved 2022, April 20.
+<small>Source: [SHF - Heritage Weekend @ MHC] Nasi Tumpeng to Nasi Ambeng: From the altar to the table (2021, May 29). Malay Heritage Centre. Retrieved 2022, June 8.
 </small></p>
 </div>
 </div>
@@ -435,7 +435,7 @@ Suryakenchana Omar examines the cultural and culinary heritage of nasi ambeng an
 
 <h5 class="margin--bottom--lg" id="indian-cuisine"><b>Playlist: Indian Cuisine </b></h5>
 
-Since the commencement of Singapore's journey as a free port in the early 19th century, the influx of traders and workers from different parts of the Indian sub-continent, brought in a variety of cooking styles and recipes to the island. Soon enough, some of these dishes adopted a uniquely Singaporean taste and style.
+Since the commencement of Singapore's journey as a free port in the early 19th century, the influx of traders and workers from different parts of the Indian sub-continent brought in a variety of cooking styles and recipes to the island. Soon enough, some of these dishes adopted a uniquely Singaporean taste and style.
 
 Check out these resources to help you gain some understanding on both famous and the lesser-known Indian heritage dishes relished by Singaporeans.
 
@@ -454,10 +454,11 @@ Mr M. Veerasamy was one of the first few cooks to sell fish head curry in Singap
 </div>
 </div>
 
+<br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/ egwHxcQw6Rk class="></iframe>
+<iframe class="responsive frame" src="https://www.youtube.com/embed/egwHxcQw6Rk"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
@@ -466,11 +467,12 @@ Mr Govind, the owner of Mr Biryani, introduces hyderabad biryani, a recipe that 
 <small> Source: Authentic hyderabad biryani in the heart of Singapore: Mr Biryani | SETHLUI.com (2019, Sept 25). SETHLUI.com. Retrieved 2022, June 21. </small></p>
 </div>
 </div>
-	
+
+<br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/ 55MBhekoicl" class="responsive-iframe"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/55MBhekoicI"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
@@ -480,15 +482,16 @@ Established since 1986, Indian vegetarian restaurant Annalakshmi has served clos
 </div>
 </div>
 
+<br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/ 865-a3YIhfk" class="responsive-iframe"></iframe>
+<iframe src="https://www.youtube.com/embed/865-a3YIhfk" class="responsive-iframe"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
 <p><b> Learning about Indian breads: thosai, naan, and chapati | MothershipSG (8 mins)</b><br>
-Prata is not the only Indian bread available in Singapore. MothershipSG seeks the expertise of three Indian restaurants to understand some of the other varieties of Indian breads such as, thosai from south India and naan and chapati from north India. It also explore the potential origin of each of these varieties, showing how far across the world these recipes have travelled.<br>
+Prata is not the only Indian bread available in Singapore. MothershipSG seeks the expertise of three Indian restaurants to understand some of the other varieties of Indian breads such as thosai from south India, and naan and chapati from north India. It also explores the possible origin of each of these varieties, showing how far across the world these recipes have travelled.<br>
 <small> Source: Learning about Indian breads: thosai, naan, and chapati | MothershipSG (2021, May 8). MothershipSG. Retrieved 2022, June 21. </small></p>
 </div>
 </div>
@@ -505,17 +508,17 @@ Check out these resources about the evolution of hawker culture and hawker centr
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/pw1oLexEGzo" class="responsive-iframe"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/pw1oLexEGzo"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
-
 <p><b>
 A History Of Singapore Hawker Culture: From Food To Architecture | Hawkers In Our Centre | Part 1/2 | CNA Insider (48 mins)
-	</b><br>The first episode in a two-part series on hawker culture in Singapore, this video traces the beginnings, growth, and transformation of the hawker trade against the backdrop of Singapore’s development. It also covers the establishment of hawker centres in the 1970s.<br><br>
-<small>Source: A History Of Singapore Hawker Culture: From Food To Architecture | Hawkers In Our Centre | Part 1/2 | CNA Insider (2020, Dec 17). CNA. Retrieved 2022, February 14.</small></p>
+</b><br>The first episode in a two-part series on hawker culture in Singapore, this video traces the beginnings, growth, and transformation of the hawker trade against the backdrop of Singapore’s development. It also covers the establishment of hawker centres in the 1970s.<br><br>
+<small>Source: A History Of Singapore Hawker Culture: From Food To Architecture | Hawkers In Our Centre | Part 1/2 | CNA Insider (2020, Dec 17). CNA. Retrieved 2022, July 7.</small></p>
 </div>
 </div>
+
 <br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
@@ -528,7 +531,7 @@ A History Of Singapore Hawker Culture: From Food To Architecture | Hawkers In Ou
 
 The second episode in a two-part series on hawker culture in Singapore, this video looks at the challenges confronting the survival of hawker food heritage and how it continues to evolve with a younger generation at the helm today.<br><br>
 
-<small>Source: Preserving Singapore's Ageing Hawker Culture: The New Wave | Hawkers In Our Centre | Part 2/2 | CNA Insider (2020, Dec 17). CNA. Retrieved 2022, February 14.</small></p>
+<small>Source: Preserving Singapore's Ageing Hawker Culture: The New Wave | Hawkers In Our Centre | Part 2/2 | CNA Insider (2020, Dec 17). CNA. Retrieved 2022, July 7.</small></p>
 </div>
 </div>
 
@@ -633,7 +636,7 @@ Ms Anastasia Liew who grew up in Indonesia and emigrated to Singapore in the 70s
 These curated set of articles and books give an overview of Singapore’s food heritage.
 
 <h4>Articles</h4>
-<div>
+
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-01-14.html" target="_blank"> Violet Oon by Nureza Ahmad</a></h5>
 <p> Violet Oon is one of Singapore's best known food personalities. She has influenced the Singapore food scene as author, speaker, teacher, consultant and restauranteur. </p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-01-14.html" target="_blank"> Violet Oon </a>(2019, April).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
@@ -643,7 +646,7 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-0
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html" target="_blank"> Fast-food chains </a>(2019, May).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
 	
 <h4>eBook</h4>
-<div>
+
 <h5> Singapore cooking: fabulous recipes from Asia's food capital
 </h5>
 Tan, Terry, and Tan, Christopher. (2009). <i> Singapore cooking: fabulous recipes from Asia's food capital.</i> Hong Kong: Tuttle Publishing an imprint of Periplus Edition (HK) Ltd. <br>
@@ -654,7 +657,7 @@ Tan, Terry, and Tan, Christopher. (2009). <i> Singapore cooking: fabulous recipe
 Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 	
 <h4>Books</h4>
-<div>
+
 <h5> Singapore food: a treasury of more than 200 time-tested recipes</h5>
 Hutton, Wendy. (2018). <i> Singapore food: a treasury of more than 200 time-tested recipes. </i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 HUT) 
 <br>
@@ -684,11 +687,11 @@ Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today'
 <p>These curated set of articles and books will give you a better understanding of Peranakan food in Singapore.</p>
 
 <h4>Articles</h4>
-<div>
+
 <h5><a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine"> The Evolution of Straits-born Cuisine by Lee Geok Boi </a></h5>
 <p> Lee Geok Boi looks at what makes Peranakan cuisine unique and delves into old cookbooks to see how Straits-born cuisine came to be. She discusses how although the Y.W.C.A. of Malaya Cookery Book (1931) -- one of the earliest local cookbooks -- had Straits Chinese recipes, the first local cookbook that identified itself as being a Peranakan cookbook was Mrs Lee’s Cookbook (1974) by Mrs Lee Chin Koon.</p>
 Source: Lee, Geok Boi, <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/straitsborncuisine"> The Evolution of Straits-born Cuisine </a>(2021, July-September).<i> 
-	BiblioAsia</i> 17(2). Retrieved 2022, April 2.
+	BiblioAsia</i> 17(2). Retrieved 2022, April 20.
 
 <h5><a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/forgottenfoodmemories"> Forgotten Foods &amp; Mealtime Memories by Tan, Sylvia </a></h5>
 <p> It is important to remember that food and tastes change over time. In this article, food writer Sylvia Tan “remembers the foods and flavours she grew up with and the less than sanitary practices made for the stomachs cast in iron.” The article has a section that discusses how Peranakan Chinese dishes that had perut kambing (goat’s stomach) and a Eurasian dish called feng (pig’s lung) that disappeared as the ingredients were no longer sold in wet markets.</p>
@@ -696,7 +699,7 @@ Source: Tan, Sylvia, <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-
 
 <h4>eBook</h4>
 <h5> In A Straits-Born Kitchen</h5>
-	Lee, Geok Boi. (2021). <i>In a Straits-Born Kitchen</i><br>
+	Lee, Geok Boi. (2021). <i>In a Straits-Born Kitchen.</i> Singapore: Marshall Cavendish Cuisine.<br>
 <a href="https://nlb.overdrive.com/media/6393798" target="_blank">
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/LeeGB.png"></a>
 <p> Lee uses the wider definition of Peranakan to mean Straits born in her introductory chapter, including not only the Straits Chinese, but also Eurasian, Chetti Melakan, Indonesian Chinese, Malay and Indonesian recipes. The book is organized according to the basics; kerabu, acar, and vegetables; seafood; meats; light bites and sweet treats. It also has a select glossary of ingredients, a short bibliography, as well as weights and measurements.
@@ -731,7 +734,7 @@ Learn more about the rich heritage of Eurasian food from these books below.</p>
 
 <h4>eBooks</h4>
 <h5>Robin’s Eurasian recipes</h5>
-Pereira, Robin and Quentin Pereira. (2009). <i>Robin’s Eurasian recipes.</i><br>
+Pereira, Robin and Quentin Pereira. (2009). <i>Robin’s Eurasian recipes. </i>Singapore: Epigram Books.<br>
 <a href="https://nlb.overdrive.com/media/3300296" target="_blank">
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/Robin.png"></a>
 <p> Chef Quentin Pereira shares his father’s well-guarded family recipes. These recipes were passed down from his grandmother, who together with her sisters, used to cook for Eurasian weddings. 
@@ -739,7 +742,7 @@ Pereira, Robin and Quentin Pereira. (2009). <i>Robin’s Eurasian recipes.</i><b
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 
 <h5>Eurasian heritage cooking</h5>
-Pereira, Quentin. (2012). <i>Eurasian heritage cooking.</i><br> 
+Pereira, Quentin. (2012). <i>Eurasian heritage cooking.</i> Singapore; London: Marshall Cavendish Cuisine.<br> 
 <a href="https://nlb.overdrive.com/media/1270603" target="_blank">
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/EHC.png"></a>
 <p> Chef Quentin Pereira is a leading name in Eurasian cuisine in Singapore. He has put together this book to preserve the Eurasian heritage, culture, and recipes for future generations.
@@ -767,7 +770,7 @@ Noronha, Theresa and Cheryl Noronha. (2015). <i>The Eurasian table.</i> Singapor
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
-<h5 class="margin--bottom--lg" id="lp-Chinese-cuisine"><b>Singapore's Food Heritage: Chinese Cuisine</b></h5>
+<h5 class="margin--bottom--lg" id="lp-chinese-cuisine"><b>Singapore's Food Heritage: Chinese Cuisine</b></h5>
 
 <p> In Singapore, majority of the early Chinese migrants came from the southern Chinese provinces of Guangzhou and Fujian. Guangdong cuisine like the cantonese, teochew and hakka dishes use steaming, poaching, braising, or simmering to bring out the natural flavour of each ingredient in the dish. Fujian cuisine also has several styles ranging from light, mild sweet and sour taste to more intense flavour with the use of sugar and spices. The Hainanese who arrived in Singapore much later, also brought with them their own special dishes.
 
@@ -789,17 +792,17 @@ These curated set of articles and books give an overview of Singapore’s Chines
 <h5><a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore"> We are what we eat: the evolution of Chinese food in Singapore by Low Sze Wee </a></h5>
 <p> Author highlights the various popular Chinese dishes and argues how different cultures meet and influence each other resulting in the creation of new Chinese food in Singapore.
 </p>
-Source: Low, Sze Wee. <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore"> We are what we eat: the evolution of Chinese food in Singapore </a>(2022, April-June).<i> BiblioAsia</i> 17(2). Retrieved 2022, May 23.
+Source: Low, Sze Wee. <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore"> We are what we eat: the evolution of Chinese food in Singapore </a>(2022, April-June).<i> BiblioAsia</i> 18(1). Retrieved 2022, May 23.
 	
 <h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_27_2_2009-01-07.html"> Chinese New Year delicacies
 by Bonny Tan &amp; Vicky Gao </a></h5>
 <p> Discover the common food items found in Singapore Chinese homes during Chinese New Year.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_27_2_2009-01-07.html"> Chinese New Year delicacies</a>(2018, July).<i> Singapore Infopedia.</i> Retrieved 2022, May 23.
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_27_2_2009-01-07.html"> Chinese New Year delicacies</a> (2018, July).<i> Singapore Infopedia.</i> Retrieved 2022, May 23.
 	
 <h4>eBooks</h4>
 
 <h5> Three Dishes One Soup: Inside the Singapore Kitchen</h5>
-Zhang, Lace. (2019). <i> Three Dishes One Soup: Inside the Singapore Kitchen.</i><br>
+Zhang, Lace. (2019). <i> Three Dishes One Soup: Inside the Singapore Kitchen.</i> Singapore: Marshall Cavendish Cuisine.<br>
 	<a target="_blank" href="https://nlb.overdrive.com/media/4639984"></a>
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/LZhang.png">
 <p> It is common to find several dishes served with a bowl of rice and soup in Singapore Chinese families. Author Lace Zhang records her family's recipes with detailed explanations and step-by-step photographs.</p>
@@ -807,7 +810,7 @@ Zhang, Lace. (2019). <i> Three Dishes One Soup: Inside the Singapore Kitchen.</i
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook.)
 	
 <h5> Uncle Anthony's Hokkien Recipes</h5>
-Loo, Hock Chye Anthony &amp; Lee, Samantha. (2017). <i> Uncle Anthony's Hokkien Recipes.</i><br> 
+Loo, Hock Chye Anthony &amp; Lee, Samantha. (2017). <i> Uncle Anthony's Hokkien Recipes.</i> Singapore: Epigram Books.<br> 
 <a href="https://nlb.overdrive.com/media/3379641" target="_blank"></a>
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/ALoo.png">
 <p> Part of an award-winning Heritage Cookbook series featuring over 80 Hokkien family recipes, including the well-known bak kut teh and lesser-known dishes like the sticky mee sua soup.</p>
@@ -815,7 +818,7 @@ Loo, Hock Chye Anthony &amp; Lee, Samantha. (2017). <i> Uncle Anthony's Hokkien 
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook.)
 
 <h5>Uncle Lau's Teochew Recipes</h5>
-Tan, Lee Leng &amp; Lau, Chiap Khai. (2012). <i>Uncle Lau's Teochew Recipes.</i><br>
+Tan, Lee Leng &amp; Lau, Chiap Khai. (2012). <i>Uncle Lau's Teochew Recipes.</i> Singapore: Epigram Books.<br>
 <a href="https://nlb.overdrive.com/media/3300327" target="_blank"></a>
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/TanLL.png">
 <p> Features a collection of over 80 time-tested recipes from a Singapore Teochew family. It has common Teochew dishes like steamed fish and ngoh hiang, as well as interesting dishes like Ho Pung and Sio Bee.
@@ -824,7 +827,7 @@ Tan, Lee Leng &amp; Lau, Chiap Khai. (2012). <i>Uncle Lau's Teochew Recipes.</i>
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 	
 <h5> Madam Choy's Cantonese Recipes</h5>
-Reutens, Lulin &amp; Choy, Wai Yuen. (2012). <i> Madam Choy's Cantonese Recipes </i><br>
+Reutens, Lulin &amp; Choy, Wai Yuen. (2012). <i> Madam Choy's Cantonese Recipes. </i>Singapore: Epigram Books.<br>
 <a href="https://nlb.overdrive.com/media/3300282" target="_blank"></a>
 <img style="width:200px;" src="/images/Singapore%20Food%20Heritage/RLulin.png">
 <p> In this third revised edition of part of Epigram Books' award-winning Heritage Cookbook series, it showcases the best of Singapore's Cantonese cuisine from an avid home cook with over 50 years of cooking experience.
@@ -834,7 +837,7 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
-<h5 class="margin--bottom--lg" id="lp-Malay-cuisine"><b>Singapore's Food Heritage: Malay Cuisine</b></h5>
+<h5 class="margin--bottom--lg" id="lp-malay-cuisine"><b>Singapore's Food Heritage: Malay Cuisine</b></h5>
 
 <p>With many Malays being seafaring people in the past, their diet was typically pescatarian. Malay cuisine has developed to incorporate other ingredients and culinary techniques because of cultural exchanges between the Malay Archipelago and the rest of the world. 
 
@@ -893,7 +896,7 @@ Rita Zahara (2016). <i>The many flavours of Malay cooking.</i> Singapore: Marsha
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
-<h5 class="margin--bottom--lg" id="lp-Indian-cuisine"><b>Singapore's Food Heritage: Indian Cuisine</b></h5>
+<h5 class="margin--bottom--lg" id="lp-indian-cuisine"><b>Singapore's Food Heritage: Indian Cuisine</b></h5>
 
 <p> The roots of Indian food heritage lead us back to centuries-old traditions and take us across different parts of the Indian sub-continent region. Just the south Indian dishes in Singapore alone can be attributed to multiple origins such as the states of Tamil Nadu, Kerala, Andhra, Telengana and Karnataka, with each region offering the promise of a different flavour. A common Indian favourite such as curry is not going to taste the same in each of these states. But when all these region-specific recipes met at colonial Singapore, it gave birth to the island’s very own uniquely Singaporean Indian cuisine. The interactions from the Chinese, Malay and European cuisines enhanced its uniqueness even further.
 
