@@ -95,7 +95,7 @@ Check out the video resources below to help your child understand the roles of t
 				
 
   <tr>			
-<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-discover-ecofiction-the-lorax-tickets-492221426537" target="_blank"><b> Connecting With Nature | Discover Ecofiction: The Lorax
+<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-discover-ecofiction-the-lorax-tickets-492221426537" target="_blank"><b> [Connecting With Nature] Discover Ecofiction: The Lorax
 </b></a></td>
         <td>      Connect with nature and discover ecofiction stories with this special storytelling and craft session!   </td>
         <td> Sat, 11 Feb 2023
@@ -104,7 +104,7 @@ Check out the video resources below to help your child understand the roles of t
 			</tr>
 			
   <tr>			
-<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-the-majestic-monarch-butterflies-tickets-524117097347" target="_blank"><b> Connecting With Nature | The Majestic Monarch Butterflies
+<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-the-majestic-monarch-butterflies-tickets-524117097347" target="_blank"><b> [Connecting With Nature] The Majestic Monarch Butterflies
 </b></a></td>
         <td>      Learn facts about monarch butterfiles and how they have been affected by climate change through storytelling and hands-on activities! This programme is suitable for children 4-6 years old.   </td>
         <td>Tue, 21 Feb 2023 <br>3:00 – 4:00pm<br></td>
@@ -142,13 +142,13 @@ Check out the video resources below to help your child understand the roles of t
         <td>Punggol Regional Library </td>
 			</tr>
 		  <tr>			
-<td><a href="https://www.eventbrite.sg/e/discovertech-robo-coder-tickets-479771689037?aff=odcleoeventsincollection" target="_blank"><b> [DiscoverTech] Robo Coder
+<td><a href="https://www.eventbrite.sg/e/budding-engineers-structural-engineering-tickets-507096237497?aff=odcleoeventsincollection" target="_blank"><b> [Budding Engineers] Structural Engineering
 </b></a></td>
-        <td>          Come build a robot with us and with a little a bit of coding, watch your creations come to life! Learn how gears, motors, and sensors work as you programme your way through fun and challenging missions. This parent-child session is suitable for preschoolers aged 4 to 6 years old.
+        <td>          Have you ever wondered what makes buildings stay upright? Let's learn about basic geometry and find out which shapes are the strongest. This parent-child session is suitable for preschoolers aged 4 to 6 years old.
 </td>
-        <td>Sat, Jan 14, 2023<br>11:00 AM – 12:00 PM <br></td>
+        <td>Sat, Feb 25, 2023<br>11:00 AM – 12:00 PM <br></td>
         <td>
-Bishan Public Library </td>
+Geylang East Public Library </td>
 			</tr>
     </tbody>
   </table>
