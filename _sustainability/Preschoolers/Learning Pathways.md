@@ -95,12 +95,12 @@ Check out the video resources below to help your child understand the roles of t
 				
 
   <tr>			
-<td><a href="https://www.eventbrite.sg/e/little-tiger-tickets-482879564777?aff=odcleoeventsincollection" target="_blank"><b> Little Tiger
+<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-discover-ecofiction-the-lorax-tickets-492221426537" target="_blank"><b> Connecting With Nature | Discover Ecofiction: The Lorax
 </b></a></td>
-        <td>      Join Singapore Wildcat Action Group for a storytelling and coloring session about Little Tiger and its friends and their adventures!   </td>
-        <td> Sat, 14 Jan 2023
-<br>12:30 – 1:45pm <br></td>
-        <td>Choa Chu Kang Public Library</td>
+        <td>      Connect with nature and discover ecofiction stories with this special storytelling and craft session!   </td>
+        <td> Sat, 11 Feb 2023
+<br>2:00 – 3:00pm <br></td>
+        <td>library@harbourfront</td>
 			</tr>
 			
   <tr>			
