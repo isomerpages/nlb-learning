@@ -138,7 +138,7 @@ Check out the video resources below to help your child understand the roles of t
 <tr>			
 <td><a href="https://www.eventbrite.sg/e/childrens-puppet-castle-tickets-492220774587?aff=ebdssbdestsearch" target="_blank"><b> Children's Puppet Castle  </b></a></td>
         <td>      Join us for a puppet show performed by puppet masters Arii Azharii and Christopher Chow!    </td>
-        <td> Sat, Feb 26, 2023<br>1:30 PM – 2:30 PM<br></td>
+        <td> Sun, Feb 26, 2023<br>1:30 PM – 2:30 PM<br></td>
         <td>Punggol Regional Library </td>
 			</tr>
 		  <tr>			
