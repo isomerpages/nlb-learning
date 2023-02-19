@@ -104,12 +104,11 @@ Check out the video resources below to help your child understand the roles of t
 			</tr>
 			
   <tr>			
-<td><a href="
-https://www.eventbrite.sg/e/connecting-with-nature-wildlife-conservation-us-tickets-479042979447?aff=odcleoeventsincollection" target="_blank"><b> Connecting With Nature | Wildlife Conservation & Us!
+<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-the-majestic-monarch-butterflies-tickets-524117097347" target="_blank"><b> Connecting With Nature | The Majestic Monarch Butterflies
 </b></a></td>
-        <td>      Every day, more animals habitat and becoming endangered. Let’s play our part in saving them! Learn about wildlife conservation and different animal habitats in this informative workshop that comes with fun hands-on activities. This programme is suitable for children 4-6 years old.   </td>
-        <td>Sat, 28 Jan 2023 <br>10:30 – 11:30am<br></td>
-        <td>Jurong Regional Library  </td>
+        <td>      Learn facts about monarch butterfiles and how they have been affected by climate change through storytelling and hands-on activities! This programme is suitable for children 4-6 years old.   </td>
+        <td>Tue, 21 Feb 2023 <br>3:00 – 4:00pm<br></td>
+        <td>Punggol Regional Library  </td>
 			</tr>
 		    </tbody>
   </table>
