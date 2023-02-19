@@ -136,11 +136,10 @@ Check out the video resources below to help your child understand the roles of t
 		
 		
 <tr>			
-<td><a href="https://www.eventbrite.sg/e/my-friend-kiara-a-story-of-friendship-and-disabilities-tickets-479033832087?aff=odcleoeventsincollection" target="_blank"><b> My Friend Kiara: A Story of Friendship and Disabilities  </b></a></td>
-        <td>      This interactive story telling session includes thought provoking activities and fun exercises for young children.<br>
-About the speaker: Kameel Vohra is the author of the Anika book series.    </td>
-        <td> Sat, Jan 14, 2023<br>11:30 AM – 12:00 PM<br></td>
-        <td>Sengkang Public Library </td>
+<td><a href="https://www.eventbrite.sg/e/childrens-puppet-castle-tickets-492220774587?aff=ebdssbdestsearch" target="_blank"><b> Children's Puppet Castle  </b></a></td>
+        <td>      Join us for a puppet show performed by puppet masters Arii Azharii and Christopher Chow!    </td>
+        <td> Sat, Feb 26, 2023<br>1:30 PM – 2:30 PM<br></td>
+        <td>Punggol Regional Library </td>
 			</tr>
 		  <tr>			
 <td><a href="https://www.eventbrite.sg/e/discovertech-robo-coder-tickets-479771689037?aff=odcleoeventsincollection" target="_blank"><b> [DiscoverTech] Robo Coder
