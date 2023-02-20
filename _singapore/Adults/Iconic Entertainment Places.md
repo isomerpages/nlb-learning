@@ -56,6 +56,13 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   </div>
 	 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
+			<a href="#parks">
+				<span>Playlist: Parks</span>
+			</a>
+		 </div>
+	</div>
+	 <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
       <a href="#lp-amusement-parks">
         <span>Learning Package: Amusement Parks</span>
       </a>
@@ -68,8 +75,15 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
+  </div>
+  <div class="col is-one-third">
+   <div class="clickbox is-mint-jade">
+      <a href="#lp-parks">
+        <span>Learning Package: Parks</span>
+		 </a>
+	  </div>
 	</div>
-
+	</div>
 
 <h3><b>Playlist</b></h3>
 A collection of short videos, exploring topics around Singapore’s iconic entertainment places.
