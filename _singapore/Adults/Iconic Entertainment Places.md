@@ -43,7 +43,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#amusement-parks">
-        <span>Playlist: Amusement Parks - New World, Great World, Gay World</span>
+        <span>Playlist: Amusement Parks</span>
       </a>
     </div>
   </div>
@@ -57,7 +57,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 	 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-amusement-parks">
-        <span>Learning Package: Amusement Parks - New World, Great World, Gay World</span>
+        <span>Learning Package: Amusement Parks</span>
       </a>
     </div>
   </div>
@@ -74,7 +74,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <h3><b>Playlist</b></h3>
 A collection of short videos, exploring topics around Singapore’s iconic entertainment places.
 
-<h5 class="margin--bottom--lg" id="amusement-parks"><b>Playlist: Amusement Parks - New World, Great World, Gay World</b></h5>
+<h5 class="margin--bottom--lg" id="amusement-parks"><b>Playlist: Amusement Parks</b></h5>
 New World Park (1923-1987), Great World Amusement Park (1931-1964), and Gay World (Happy World) (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They offered nightlife entertainment that featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.
 
 Check out these resources to help you gain some understanding of Singapore’s bygone legendary amusement parks.
@@ -191,7 +191,7 @@ Catch this video to learn more about the Night Safari, which is the world’s fi
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
-<h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks - New World, Great World, Gay World</b></h5>
+<h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks</b></h5>
 
 <p><A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_990_2006-06-09.html">New World Park</A> (1923-1987), <A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1046_2006-06-09.html">Great World Amusement Park</A> (1931-1964), and <A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1044_2006-06-01.html">Gay World (Happy World)</A> (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.</p>
 
@@ -217,7 +217,7 @@ Source: Koh, Jaime, and Ho, Stephanie. (2015). <a href="https://eresources.nlb.g
 
 <h5><a href="https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement" target="_blank">Old-world Amusement Parks by Lim Tin Seng</A></h5>
 <p> Theme parks in Singapore had their heyday from the 1920s to 50s. This <i>BiblioAsia</i> article charts their glory days and subsequent decline.</p>
-Source: Lim, Tin Seng, <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement" target="_blank">Old-World Amusement Parks</a> (2021, April-June). <i> BiblioAsia</i> 12(1). Retrieved 2023, January 26.
+Source: Lim, Tin Seng, <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement" target="_blank">Old-World Amusement Parks</a> (2016, April-June). <i> BiblioAsia</i> 12(1). Retrieved 2023, January 26.
 
 <h5><A HREF="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour" target="_blank">Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls by Adeline Foo</A></h5>
 <p>The cabaret girls that worked at the amusement parks in Singapore were better known for their risqué stage shows, but some also donated generously to charity. Adeline Foo uncovers these women with hearts of gold.</p>
