@@ -415,6 +415,54 @@ Singapore Zoological Gardens (1994). <i>The world’s first night safari.</i> Si
 
 Learn more about green efforts over the decades and explore some of Singapore’s iconic parks and gardens through the resources here.
 
+<h4>Articles</h4>
+<h5><a href="https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/greening" target="_blank"> Of Parks, Trees and Gardens: The Greening of Singapore </a></h5>
+<p> This article charts Singapore’s greening journey from colonial times through to the present. It covers important developments including the creation of the Botanic Gardens, early tree-planting efforts, the launch of the “Garden City” vision in 1967, and beyond to the “City in Nature” strategy, part of the latest ten-year blueprint for sustainable development, the Singapore Green Plan 2030.</p> 
+Source: Lim, Tin Seng, <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/greening" target="_blank"> Of Parks, Trees and Gardens: The Greening of Singapore </a>(2021, April-June).<i>Biblioasia.</i> 17(1). Retrieved 2023, February 20.
+
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_421_2005-01-03.html" target="_blank"> Chinese Garden (Yu Hwa Yuan) </a></h5>
+<p> The Chinese Garden in Jurong was built in 1975 to provide social and recreational amenities for the then rapidly developing Jurong industrial town. Designed by Yu Yuen Chen, a Taiwanese expert on Chinese gardens, the garden is modelled on the northern Chinese imperial style of architecture during the Song dynasty (960–1279 CE) and the Summer Palace in Beijing.  
+</p> 
+Source:  <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_421_2005-01-03.html" target="_blank"> Chinese Garden (Yu Hwa Yuan) </a>(2012).<i>Singapore Infopedia.</i> Retrieved 2023, February 20.
+
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-06-26_095923.html" target="_blank"> Gardens by the Bay</a></h5>
+<p> Occupying some 101 hectares along the Marina Bay waterfront, Gardens by the Bay is Singapore’s premier horticultural attraction. It was conceptualised in 2005 as part of the plan to develop Singapore’s reputation as a “City in a Garden” with world-class green spaces that enhance the quality of life and distinguish Singapore as a global city. 
+</p> 
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-06-26_095923.html" target="_blank"> Gardens by the Bay</a>(2013).<i>Singapore Infopedia.</i> Retrieved 2023, February 20.
+
+<h4>eBook</h4>
+
+<h5> Singapore: City of Gardens </h5>
+Warren, William and Luca Invernizzi Tettoni (2012). <i> Singapore: City of Gardens</i> Singapore: Tuttle Publishing, 2012<br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/1272565">
+<img style=”width:200px;”
+src="/images/Iconic%20Entertainment%20Places/CityofGardens.png"></a>
+<p> This travel pictorial showcases many of the green spaces – from public parks to private gardens and even roadside plantings – that contribute to Singapore’s reputation as a garden city.</p>
+<p><a href=" https://nlb.overdrive.com/media/1272565"target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
+
+<h5> Nature's Colony: Empire, Nation and Environment in the Singapore Botanic Gardens </h5>
+Barnard, Timothy P. (2018). <i> Nature's Colony: Empire, Nation and Environment in the Singapore Botanic Gardens </i> Singapore: Partridge Publishing<br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/3968845">
+<img style=”width:200px;”
+src="/images/Iconic%20Entertainment%20Places/NaturesColony.png"></a>
+<p> This book presents a fascinating look at the 150-year history of the Singapore Botanic Gardens and its shifting functions in the colonial and post-colonial context. </p><p><a href="https://nlb.overdrive.com/media/3968845"target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
+<h5> Singapore's Park System Master Planning:
+A Nation Building Tool to Construct Narratives in Post-Colonial Countries
+ </h5>
+Sini, Raffaella (2019). <i> Singapore's Park System Master Planning:
+A Nation Building Tool to Construct Narratives in Post-Colonial Countries </i> Singapore: Springer Nature Singapore<br>
+<a target="_blank"
+href=" https://nlb.overdrive.com/media/4743500">
+<img style=”width:200px;”
+src="/images/Iconic%20Entertainment%20Places/ParkSystem.png"></a>
+<p> This book traces the evolution of Singapore's parks system from colonial to present times. It focuses on the application of western practices as well as the influence of the state and national policies on park planning and design.
+</p><p><a href=" https://nlb.overdrive.com/media/4743500"target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
