@@ -88,6 +88,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 A collection of short videos, exploring topics around Singapore’s iconic entertainment places.
 
 <h5 class="margin--bottom--lg" id="amusement-parks"><b>Playlist: Amusement Parks</b></h5>
+
 New World Park (1923-1987), Great World Amusement Park (1931-1964), and Gay World (Happy World) (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They offered nightlife entertainment that featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.
 
 Check out these resources to help you gain some understanding of Singapore’s bygone legendary amusement parks.
@@ -127,6 +128,7 @@ A movie trailer for “大世界 It’s a Great Great World” produced by Media
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h5 class="margin--bottom--lg" id="animal-attractions"><b>Playlist: Animal Attractions</b></h5>
+
 Since the establishment of the island’s first public zoo in 1875, Singapore has taken countless initiatives to create places of animal attractions, not just to bring the public closer to nature, but also to create meaningful spaces to accommodate to the specific needs of the hundreds of different species that are now calling Singapore their home. 
 
 Check out these resources to help you gain some understanding on both famous and the lesser-known animal attraction sports on the island.
@@ -200,6 +202,82 @@ Catch this video to learn more about the Night Safari, which is the world’s fi
 <small> Source: Singapore Night Safari Explore Singapore | Travel Guide | MM Travel Guide (2020, Aug 8). MM Travel Guide. Retrieved 2023, February 7.</small></p>
 </div>
 </div>
+
+<h5 id="parks" class="margin--bottom--lg"><b>Playlist: Parks</b></h5>
+
+Singapore’s fame as a garden city was not achieved overnight. Beginning with the launch of the “Garden City” vision in the late 1960s, efforts to green the environment was sustained over the decades, involving large-scale tree-planting as well as the creation of parks all around the island. Today, there are some 400 parks in Singapore that not only offer residents places for recreation and respite from the bustle of city life, but some have also become popular tourist attractions due to their rich heritage, biodiversity, and beauty. 
+ 
+Check out the videos below to learn more about some of Singapore’s iconic parks and gardens. 
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/Mn26f_e8Pno" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> NParks Explains: Our Greening Journey | NParksSG (7 mins)</b><br>
+Quick introduction to the greening and conservation efforts that have made Singapore the green city that it is today. 
+<br><br>
+<small> Source: NParks Explains: Our Greening Journey | NParksSG (2021, Oct 8). Retrieved 2023, February 20. 
+</small></p>
+
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/10_41ukjY-g" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Singapore Botanic Gardens Heritage Trail | An NParks Virtual Tour | NParksSG (6 mins)</b><br>
+Learn about Singapore Botanic Gardens' history and heritage in this video tour of the Gardens’ historic and iconic sights, including Holttum Hall, Heritage Trees including the Kapok Tree and Tembusu, Prisoner-of-War Brick Steps and the Swan Lake.
+<br><br>
+<small> Source: Singapore Botanic Gardens Heritage Trail | An NParks Virtual Tour | NParksSG (2020, Sep 29). Retrieved 2023, February 20.
+</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/7vbi3UCx6k0" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Fort Canning Park | An NParks Virtual Tour | NParksSG (4 mins) </b><br>
+Fort Canning Park is an iconic hilltop landmark that has witnessed many of Singapore’s historical milestones. Explore the park in this video that takes you back in time to the Forbidden Spring, Artisan's Garden, Raffles Garden, First Botanic Garden, Fort Gate, Sally Port and Fort Canning Centre. 
+<br><br>
+<small> Source: Fort Canning Park | An NParks Virtual Tour | NParksSG (2020, Oct 6). Retrieved 2023, February 20. 
+</small></p>
+</div>
+</div>
+
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/ pcnfVdKlPfU" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Fort Canning Park | An NParks Virtual Tour | NParksSG (4 mins) </b><br>
+Virtual tour of HortPark (short for Horticultural Park), a one-stop resource hub to learn about gardening and plant needs, and some of its themed gardens.
+<br><br>
+<small> Source: Fort Canning Park | An NParks Virtual Tour | NParksSG (2020, Oct 6). Retrieved 2023, February 20. 
+</small></p>
+</div>
+</div>	
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
@@ -320,5 +398,23 @@ Singapore Zoological Gardens (1994). <i>The world’s first night safari.</i> Si
 <a> 
 <img src="/images/Iconic%20Entertainment%20Places/nightsafari.png" style="width:200px;"></a>
 <p>This book introduces the attractions and layout of the Night Safari, the world's first nocturnal zoo located in Mandai.</p>
+
+<h5 id="lp-Parks" class="margin--bottom--lg"><b> Learning Package: Parks</b></h5>
+
+<p> Parks are an integral part of Singapore’s landscape and greening journey. The history of parks and greening in Singapore can be traced to 1822 when the first botanical garden was set up on Government Hill (now known as Fort Canning Hill). However, it was not until the late 1960s that the creation of green spaces was firmly placed on the official agenda and a long-term vision was put forth to transform Singapore into a garden city. Apart from the large-scale planting of roadside trees and shrubs, parks were created all over the island from the 1970s. Today, Singapore is home to some 400 parks that provide much-needed green space for people to relax, play, and enjoy the outdoors. 
+</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Therapeutic gardens are outdoor gardens designed to promote the restorative benefits of nature. The first therapeutic garden in Singapore was launched at HortPark in 2016. Ample shade, wind chimes, and water features help make the garden a relaxing place for visitors.</li>
+</ul>
+</td>
+</tr</tbody></table>
+
+Learn more about green efforts over the decades and explore some of Singapore’s iconic parks and gardens through the resources here.
+
+
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
