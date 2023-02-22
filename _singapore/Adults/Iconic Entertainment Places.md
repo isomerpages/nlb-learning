@@ -464,6 +464,13 @@ src="/images/Iconic%20Entertainment%20Places/ParkSystem.png"></a>
 </p><p><a href=" https://nlb.overdrive.com/media/4743500"target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 
+<h4>Books</h4>
 
+<h5> Living in a garden: the greening of Singapore</h5>
+Auger, Timothy (2013). <i> Living in a garden: the greening of Singapore </i> Singapore: Published for National Parks Board by Editions Didier Millet (Call no.: RSING 363.68095957 AUG) 
+<br>
+<img src="/images/Iconic%20Entertainment%20Places/LivingInAGarden.png" style="width:200px;"></a>
+<p> This book focuses on the work of the National Parks Board (NParks) in the greening of Singapore. It spotlights the parks, nature reserves, and other green spaces under the Board’s care, the rich biodiversity of those sites, and the importance of community involvement in greening and conservation.  
+</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
