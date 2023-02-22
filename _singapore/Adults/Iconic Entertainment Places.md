@@ -473,4 +473,10 @@ Auger, Timothy (2013). <i> Living in a garden: the greening of Singapore </i> Si
 <p> This book focuses on the work of the National Parks Board (NParks) in the greening of Singapore. It spotlights the parks, nature reserves, and other green spaces under the Board’s care, the rich biodiversity of those sites, and the importance of community involvement in greening and conservation.  
 </p>
 
+<h5> The world in a garden: Singapore's gardens by the bay </h5>
+Tinsley, Bonnie [2016]. <i> The world in a garden: Singapore's gardens by the bay </i> Singapore: Marshall Cavendish Editions. (Call no.: RSING 712.5 TIN) 
+<br>
+<img src="/images/Iconic%20Entertainment%20Places/WorldInAGarden.png" style="width:200px;"></a>
+<p> This book chronicles the extensive work put into creating Gardens by the Bay from initial conception and construction to its official opening in 2012 and beyond. It looks at the Gardens’ signature programmes and events, its achievements in the first five years of operation, and future plans.</p>
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
