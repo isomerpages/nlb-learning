@@ -1034,7 +1034,7 @@ Lai, Chee Kien & Koh, Hon Teng. (2021). <i>Hawker centre food: ambrosia for the 
 	These curated set of articles and books will give you a better understanding of heritage food brands in Singapore.
 	
 <h4>Articles</h4>
-<div>
+
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-05-11_100628.html" target="_blank"> Bee Cheng Hiang by Hwa Chong Institution </a></h5>
 <p> Most notably known for its signature bakkwa (barbequed pork slices), Bee Cheng Hiang started off its journey on a pushcart in Chinatown in 1933. This article gives an insight into its success story.</p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-05-11_100628.html" target="_blank"> Bee Cheng Hiang </a>(2015, May).<i> Singapore Infopedia.</i> Retrieved 2022, July 19.
