@@ -1006,20 +1006,20 @@ Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-wi
 <h4>Books</h4>
 
 <h5> Singapore hawker centres: people, places, food</h5>
-Kong, Lily (2007). <i>Singapore hawker centres: people, places, food</i>. Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON) 
+Kong, Lily. (2007). <i>Singapore hawker centres: people, places, food</i>. Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON) 
 <br>
 <img src="/images/Singapore%20Food%20Heritage/SingaporeHawkerCentres.png" style="width:200px;">
 <p>This book chronicles the beginnings and development of hawker centres in Singapore, with a focus on planning and design, and the different stakeholders involved. It also highlights the significance of hawker centres and hawker food to Singaporean life and culture. </p>
 
 <h5> Hawker centre food: ambrosia for the people</h5>
-Lai, Chee Kien & Koh, Hon Teng (2021). <i>Hawker centre food: ambrosia for the people</i>. Singapore: Achates 360 Pte Ltd. (Call no.: RSING 641.595957 LAI) 
+Lai, Chee Kien & Koh, Hon Teng. (2021). <i>Hawker centre food: ambrosia for the people</i>. Singapore: Achates 360 Pte Ltd. (Call no.: RSING 641.595957 LAI) 
 <br>
 <img src="/images/Singapore%20Food%20Heritage/HawkerCentreFood.png" style="width:200px;">
 <p>On 16 December 2020, hawker culture in Singapore was officially inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity. Published in 2021 with support from the National Heritage Board, this book, which features illustrations and stories of 129 food stalls from 111 hawker centres across the island, contributes to the documentation of Singapore’s evolving hawker culture and food heritage. </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id="lp-Singapore-food-brands"><b>Singapore's Food Heritage: Food Brands</b></h5>
+<h5 class="margin--bottom--lg" id="lp-Singapore-food-brands"><b>Singapore's Food Heritage: Singapore Food Brands</b></h5>
 
 <p> Whichever part of the world Singaporeans travel to, the sight of spotting one or two of Singapore’s very own food and beverage brands in a supermart overseas never fail to bring back memories of home. Such heritage food brands have stood the test of time and have also become an integral part of growing up in Singapore. Today, quality products by some of these local brands can be found worldwide. </p>
 <table border="1">
