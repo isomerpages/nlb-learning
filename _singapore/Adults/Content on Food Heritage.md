@@ -966,7 +966,7 @@ Rajan, Uma. (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singap
 Get to know the history and development of hawker centres and the array of dishes they offer through the resources here.
 
 <h4>Articles</h4>
-<div>
+	
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12-27.html" target="_blank"> Travelling hawkers by Naidu Ratnala Thulaja </a></h5>
 <p>Hawker culture in Singapore had its roots in street food sold by itinerant hawkers during the 19th to mid-20th centuries. While hawkers served the needs of the population, problems such as food contamination and traffic obstruction led to their regulation.</p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12-27.html" target="_blank"> Travelling hawkers </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
@@ -975,13 +975,13 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12
 
 <p> In the interests of public health, the government moved to regulate food hawkers in the 1960s and relocated them from the streets to purpose-built food centres over the 1970s-80s.</p>
 
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1637\_2010-01-31.html" target="_blank"> Hawker centres </a>(2020, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1637_2010-01-31.html" target="_blank"> Hawker centres </a>(2020, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
 
 <h4>eBooks</h4>
 
 <h5> Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore</h5>
 
-Kong, Lily and Vineeta Sinha (2015).<i> Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore.</i><br>
+Kong, Lily and Vineeta Sinha (2015).<i> Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore.</i>Hackensack: World Scientific.<br>
 
 <a href="https://nlb.overdrive.com/media/3715193" target="_blank"></a>
 
@@ -990,7 +990,6 @@ Kong, Lily and Vineeta Sinha (2015).<i> Food, foodways and foodscapes: cultur
 <p>This volume provides multidisciplinary perspectives on the study of food as a window to the social and cultural history and geography of Singapore. Chapter 1, “Taking the Street out of Street Food”, by sociologist Chua Beng Huat offers a biographical account of street food consumption and how it has changed based on life in the neighbourhood of Bukit Ho Swee. </p>
 
 <p><a target="_blank" href="https://nlb.overdrive.com/media/3715193">
-
 Borrow the eBook here.</a></p>
 
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook.)
