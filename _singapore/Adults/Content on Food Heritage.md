@@ -1019,7 +1019,7 @@ Lai, Chee Kien & Koh, Hon Teng. (2021). <i>Hawker centre food: ambrosia for the 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id="lp-Singapore-food-brands"><b>Singapore's Food Heritage: Singapore Food Brands</b></h5>
+<h5 class="margin--bottom--lg" id="lp-singapore-food-brands"><b>Singapore's Food Heritage: Singapore Food Brands</b></h5>
 
 <p> Whichever part of the world Singaporeans travel to, the sight of spotting one or two of Singapore’s very own food and beverage brands in a supermart overseas never fail to bring back memories of home. Such heritage food brands have stood the test of time and have also become an integral part of growing up in Singapore. Today, quality products by some of these local brands can be found worldwide. </p>
 <table border="1">
