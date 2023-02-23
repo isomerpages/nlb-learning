@@ -898,14 +898,13 @@ Rita Zahara (2016). <i>The many flavours of Malay cooking.</i> Singapore: Marsha
 	
 <h5 class="margin--bottom--lg" id="lp-indian-cuisine"><b>Singapore's Food Heritage: Indian Cuisine</b></h5>
 
-<p> The roots of Indian food heritage lead us back to centuries-old traditions and take us across different parts of the Indian sub-continent region. Just the south Indian dishes in Singapore alone can be attributed to multiple origins such as the states of Tamil Nadu, Kerala, Andhra, Telengana and Karnataka, with each region offering the promise of a different flavour. A common Indian favourite such as curry is not going to taste the same in each of these states. But when all these region-specific recipes met at colonial Singapore, it gave birth to the island’s very own uniquely Singaporean Indian cuisine. The interactions from the Chinese, Malay and European cuisines enhanced its uniqueness even further.
-
+<p> The roots of Indian food heritage lead us back to centuries-old traditions and take us across different parts of the Indian sub-continent region. Just the south Indian dishes in Singapore alone can be attributed to multiple origins such as the states of Tamil Nadu, Kerala, Andhra, Telengana and Karnataka, with each region offering the promise of a different flavour. A common Indian favourite such as curry is not going to taste the same in each of these states. But when all these region-specific recipes met at colonial Singapore, it gave birth to the island’s very own uniquely Singaporean Indian cuisine. The interactions from the Chinese, Malay and European cuisines enhanced its uniqueness even further.</p>
 <table border="1">
 	<tbody><tr>
 		<td>
 <h4>Did you know...</h4>
 <ul>
-<li> Eating on banana leaves not only make the dishes look more colourful and appealing, it also enhances the taste of the dish. When hot rice is served on the leaf, it absorbs the healthy compounds and unique flavour of the leaf. Banana leaves are waterproof too! Indian dishes, which are mostly accompanied with gravies, chutneys and ghee, are not going to stick to the leaf. This provides us with the fullest dining experience. After the meal, closing the leaf inwards demonstrates a feeling of gratefulness towards the host, so always remember to fold correctly! </li>
+<li> Eating on banana leaves not only make the dishes look more colourful and appealing, it also enhances the taste of the dish. When hot rice is served on the leaf, it absorbs the healthy compounds and unique flavour of the leaf. Banana leaves are waterproof too! Indian dishes, which are mostly accompanied with gravies, chutneys and ghee, are not going to stick to the leaf. This provides us with the fullest dining experience. After the meal, closing the leaf inwards demonstrates a feeling of gratefulness towards the host, so always remember to fold correctly!</li>
 </ul>
 </td>
 </tr</tbody></table>
