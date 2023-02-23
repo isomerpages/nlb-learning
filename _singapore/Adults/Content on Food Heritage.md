@@ -925,7 +925,7 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-12-3
 <h4>Books</h4>
 
 <h5> Banana Leaf Temptations</h5>
-Devagi Sanmugam (1997). <i> Banana Leaf Temptations. </i> Singapore: VJ Times. (Call no.: RSING 641.5948 SAN)
+Devagi Sanmugam. (1997). <i> Banana Leaf Temptations. </i> Singapore: VJ Times. (Call no.: RSING 641.5948 SAN)
 <br>
 <img src="/images/Singapore%20Food%20Heritage/BLT.png" style="width:200px;">
 <p> Chef Devagi Sanmugam, known as the Spice Queen in Singapore, shares mouth-watering South Indian recipes that date back to many hundreds of years. </p>
@@ -937,13 +937,13 @@ Krishnan, Ambrose and Krishnan, Padma. (2011). <i> Madam Krishnan’s South Indi
 <p> This book is a compilation of the recipes passed down to Padma Krishnan, by her mother and sister-in-law. It presents South Indian recipes with the international touch of France and Mauritius and the Indian touch of Pondicherry and Kerala as well. </p>
 
 <h5> Indian Heritage Cooking</h5>
-Devagi Sanmugam and Shanmugam Kasinathan (2011). <i> Indian Heritage Cooking. </i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
+Devagi Sanmugam and Shanmugam Kasinathan. (2011). <i> Indian Heritage Cooking. </i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
 <br>
 <img src="/images/Singapore%20Food%20Heritage/IHC.png" style="width:200px;">
 <p> Chef Devagi Sanmugam presents Indian recipes that has gone through fusion amidst the multi-ethnic context of colonial Singapore. She captures the union of flavours from Chinese, Malay and Indian cuisines, which have paved the way to dishes unique to Singapore. </p>
 
 <h5> Spice potpourri: stellar cuisine favourites</h5>
-Rajan, Uma (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singapore: E-Quill Media. (Call no.: RSING 641.595957 RAJ)
+Rajan, Uma. (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singapore: E-Quill Media. (Call no.: RSING 641.595957 RAJ)
 <br>
 <img src="/images/Singapore%20Food%20Heritage/SP.png" style="width:200px;">
 <p> The winner of the 2012 World Gourmand Best Indian cuisine book, Spice potpourri by Dr Uma Rajan, brings us through a variety of flavourful Singaporean Indian dishes. </p>
