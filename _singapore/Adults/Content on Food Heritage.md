@@ -911,10 +911,10 @@ Rita Zahara (2016). <i>The many flavours of Malay cooking.</i> Singapore: Marsha
 These curated set of articles and books will give you a better understanding of Indian food in Singapore.
 
 <h4>Articles</h4>
-<div>
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1749\_2011-01-05.html" target="\_blank"> Putu mayam by Bonny Tan </a></h5>
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1749_2011-01-05.html" target="_blank"> Putu mayam by Bonny Tan </a></h5>
 <p> Putu mayam, a popular breakfast dish of South Indian origin, is also extremely popular in parts of Southeast Asia such as Singapore, Malaysia and Indonesia. Made from rice flour, this dish can be served with both sweet and savoury sides or dips.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1749\_2011-01-05.html" target="\_blank"> Putu mayam </a>(2020, May).<i> Singapore Infopedia.</i> Retrieved 2022, June 21.
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1749_2011-01-05.html" target="_blank"> Putu mayam </a>(2020, May).<i> Singapore Infopedia.</i> Retrieved 2022, June 21.
 
 <h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP\_2014-12-30\_093442.html" target="\_blank"> Vadai by Bonny Tan </a></h5>
 
