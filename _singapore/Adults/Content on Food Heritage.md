@@ -952,7 +952,7 @@ Rajan, Uma. (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singap
 	
 <h5 class="margin--bottom--lg" id="lp-hawker-centres"><b>Singapore's Food Heritage: Hawker Centres</b></h5>
 
-<p>From chicken rice and prata, to nasi lemak and laksa, hawker centres offer a dazzling array of dishes that reflect the multicultural identity and heritage of Singapore. More than just eating places, hawker centres are a unique aspect of Singapore culture and everyday life.
+<p>From chicken rice and prata, to nasi lemak and laksa, hawker centres offer a dazzling array of dishes that reflect the multicultural identity and heritage of Singapore. More than just eating places, hawker centres are a unique aspect of Singapore culture and everyday life.</p>
 <table border="1">
             <tbody><tr>
                         <td>
