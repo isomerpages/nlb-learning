@@ -95,21 +95,20 @@ Check out the video resources below to help your child understand the roles of t
 				
 
   <tr>			
-<td><a href="https://www.eventbrite.sg/e/little-tiger-tickets-482879564777?aff=odcleoeventsincollection" target="_blank"><b> Little Tiger
+<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-discover-ecofiction-the-lorax-tickets-492221426537" target="_blank"><b> [Connecting With Nature] Discover Ecofiction: The Lorax
 </b></a></td>
-        <td>      Join Singapore Wildcat Action Group for a storytelling and coloring session about Little Tiger and its friends and their adventures!   </td>
-        <td> Sat, 14 Jan 2023
-<br>12:30 – 1:45pm <br></td>
-        <td>Choa Chu Kang Public Library</td>
+        <td>      Connect with nature and discover ecofiction stories with this special storytelling and craft session!   </td>
+        <td> Sat, 11 Feb 2023
+<br>2:00 – 3:00pm <br></td>
+        <td>library@harbourfront</td>
 			</tr>
 			
   <tr>			
-<td><a href="
-https://www.eventbrite.sg/e/connecting-with-nature-wildlife-conservation-us-tickets-479042979447?aff=odcleoeventsincollection" target="_blank"><b> Connecting With Nature | Wildlife Conservation & Us!
+<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-the-majestic-monarch-butterflies-tickets-524117097347" target="_blank"><b> [Connecting With Nature] The Majestic Monarch Butterflies
 </b></a></td>
-        <td>      Every day, more animals habitat and becoming endangered. Let’s play our part in saving them! Learn about wildlife conservation and different animal habitats in this informative workshop that comes with fun hands-on activities. This programme is suitable for children 4-6 years old.   </td>
-        <td>Sat, 28 Jan 2023 <br>10:30 – 11:30am<br></td>
-        <td>Jurong Regional Library  </td>
+        <td>      Learn facts about monarch butterfiles and how they have been affected by climate change through storytelling and hands-on activities! This programme is suitable for children 4-6 years old.   </td>
+        <td>Tue, 21 Feb 2023 <br>3:00 – 4:00pm<br></td>
+        <td>Punggol Regional Library  </td>
 			</tr>
 		    </tbody>
   </table>
@@ -137,20 +136,19 @@ https://www.eventbrite.sg/e/connecting-with-nature-wildlife-conservation-us-tick
 		
 		
 <tr>			
-<td><a href="https://www.eventbrite.sg/e/my-friend-kiara-a-story-of-friendship-and-disabilities-tickets-479033832087?aff=odcleoeventsincollection" target="_blank"><b> My Friend Kiara: A Story of Friendship and Disabilities  </b></a></td>
-        <td>      This interactive story telling session includes thought provoking activities and fun exercises for young children.<br>
-About the speaker: Kameel Vohra is the author of the Anika book series.    </td>
-        <td> Sat, Jan 14, 2023<br>11:30 AM – 12:00 PM<br></td>
-        <td>Sengkang Public Library </td>
+<td><a href="https://www.eventbrite.sg/e/childrens-puppet-castle-tickets-492220774587?aff=ebdssbdestsearch" target="_blank"><b> Children's Puppet Castle  </b></a></td>
+        <td>      Join us for a puppet show performed by puppet masters Arii Azharii and Christopher Chow!    </td>
+        <td> Sun, Feb 26, 2023<br>1:30 PM – 2:30 PM<br></td>
+        <td>Punggol Regional Library </td>
 			</tr>
 		  <tr>			
-<td><a href="https://www.eventbrite.sg/e/discovertech-robo-coder-tickets-479771689037?aff=odcleoeventsincollection" target="_blank"><b> [DiscoverTech] Robo Coder
+<td><a href="https://www.eventbrite.sg/e/budding-engineers-structural-engineering-tickets-507096237497?aff=odcleoeventsincollection" target="_blank"><b> [Budding Engineers] Structural Engineering
 </b></a></td>
-        <td>          Come build a robot with us and with a little a bit of coding, watch your creations come to life! Learn how gears, motors, and sensors work as you programme your way through fun and challenging missions. This parent-child session is suitable for preschoolers aged 4 to 6 years old.
+        <td>          Have you ever wondered what makes buildings stay upright? Let's learn about basic geometry and find out which shapes are the strongest. This parent-child session is suitable for preschoolers aged 4 to 6 years old.
 </td>
-        <td>Sat, Jan 14, 2023<br>11:00 AM – 12:00 PM <br></td>
+        <td>Sat, Feb 25, 2023<br>11:00 AM – 12:00 PM <br></td>
         <td>
-Bishan Public Library </td>
+Geylang East Public Library </td>
 			</tr>
     </tbody>
   </table>

@@ -43,7 +43,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#amusement-parks">
-        <span>Playlist: Amusement Parks - New World, Great World, Gay World</span>
+        <span>Playlist: Amusement Parks</span>
       </a>
     </div>
   </div>
@@ -56,8 +56,15 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   </div>
 	 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
+			<a href="#parks">
+				<span>Playlist: Parks</span>
+			</a>
+		 </div>
+	</div>
+	 <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
       <a href="#lp-amusement-parks">
-        <span>Learning Package: Amusement Parks - New World, Great World, Gay World</span>
+        <span>Learning Package: Amusement Parks</span>
       </a>
     </div>
   </div>
@@ -66,15 +73,22 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       <a href="#lp-animal-attractions">
         <span>Learning Package: Animal Attractions</span>
       </a>
-    </div>
+    </div> 
   </div>
+	<div class="col is-one-third">
+		<div class="clickbox is-mint-jade">
+			<a href="#lp-parks">
+				<span>Learning Package: Parks</span>
+			</a>
+		</div>
 	</div>
-
-
+	</div>
+	
 <h3><b>Playlist</b></h3>
 A collection of short videos, exploring topics around Singapore’s iconic entertainment places.
 
-<h5 class="margin--bottom--lg" id="amusement-parks"><b>Playlist: Amusement Parks - New World, Great World, Gay World</b></h5>
+<h5 class="margin--bottom--lg" id="amusement-parks"><b>Playlist: Amusement Parks</b></h5>
+
 New World Park (1923-1987), Great World Amusement Park (1931-1964), and Gay World (Happy World) (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They offered nightlife entertainment that featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.
 
 Check out these resources to help you gain some understanding of Singapore’s bygone legendary amusement parks.
@@ -114,6 +128,7 @@ A movie trailer for “大世界 It’s a Great Great World” produced by Media
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h5 class="margin--bottom--lg" id="animal-attractions"><b>Playlist: Animal Attractions</b></h5>
+
 Since the establishment of the island’s first public zoo in 1875, Singapore has taken countless initiatives to create places of animal attractions, not just to bring the public closer to nature, but also to create meaningful spaces to accommodate to the specific needs of the hundreds of different species that are now calling Singapore their home. 
 
 Check out these resources to help you gain some understanding on both famous and the lesser-known animal attraction sports on the island.
@@ -188,10 +203,86 @@ Catch this video to learn more about the Night Safari, which is the world’s fi
 </div>
 </div>
 
+<h5 id="parks" class="margin--bottom--lg"><b>Playlist: Parks</b></h5>
+
+Singapore’s fame as a garden city was not achieved overnight. Beginning with the launch of the “Garden City” vision in the late 1960s, efforts to green the environment was sustained over the decades, involving large-scale tree-planting as well as the creation of parks all around the island. Today, there are some 400 parks in Singapore that not only offer residents places for recreation and respite from the bustle of city life, but some have also become popular tourist attractions due to their rich heritage, biodiversity, and beauty. 
+ 
+Check out the videos below to learn more about some of Singapore’s iconic parks and gardens. 
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/Mn26f_e8Pno" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> NParks Explains: Our Greening Journey | NParksSG (7 mins)</b><br>
+Quick introduction to the greening and conservation efforts that have made Singapore the green city that it is today. 
+<br><br>
+<small> Source: NParks Explains: Our Greening Journey | NParksSG (2021, Oct 8). Retrieved 2023, February 20. 
+</small></p>
+
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/10_41ukjY-g" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Singapore Botanic Gardens Heritage Trail | An NParks Virtual Tour | NParksSG (6 mins)</b><br>
+Learn about Singapore Botanic Gardens' history and heritage in this video tour of the Gardens’ historic and iconic sights, including Holttum Hall, Heritage Trees including the Kapok Tree and Tembusu, Prisoner-of-War Brick Steps and the Swan Lake.
+<br><br>
+<small> Source: Singapore Botanic Gardens Heritage Trail | An NParks Virtual Tour | NParksSG (2020, Sep 29). Retrieved 2023, February 20.
+</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/7vbi3UCx6k0" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Fort Canning Park | An NParks Virtual Tour | NParksSG (4 mins) </b><br>
+Fort Canning Park is an iconic hilltop landmark that has witnessed many of Singapore’s historical milestones. Explore the park in this video that takes you back in time to the Forbidden Spring, Artisan's Garden, Raffles Garden, First Botanic Garden, Fort Gate, Sally Port and Fort Canning Centre. 
+<br><br>
+<small> Source: Fort Canning Park | An NParks Virtual Tour | NParksSG (2020, Oct 6). Retrieved 2023, February 20. 
+</small></p>
+</div>
+</div>
+
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/ pcnfVdKlPfU" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Fort Canning Park | An NParks Virtual Tour | NParksSG (4 mins) </b><br>
+Virtual tour of HortPark (short for Horticultural Park), a one-stop resource hub to learn about gardening and plant needs, and some of its themed gardens.
+<br><br>
+<small> Source: Fort Canning Park | An NParks Virtual Tour | NParksSG (2020, Oct 6). Retrieved 2023, February 20. 
+</small></p>
+</div>
+</div>	
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
-<h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks - New World, Great World, Gay World</b></h5>
+<h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks</b></h5>
 
 <p><A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_990_2006-06-09.html">New World Park</A> (1923-1987), <A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1046_2006-06-09.html">Great World Amusement Park</A> (1931-1964), and <A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1044_2006-06-01.html">Gay World (Happy World)</A> (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.</p>
 
@@ -217,7 +308,7 @@ Source: Koh, Jaime, and Ho, Stephanie. (2015). <a href="https://eresources.nlb.g
 
 <h5><a href="https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement" target="_blank">Old-world Amusement Parks by Lim Tin Seng</A></h5>
 <p> Theme parks in Singapore had their heyday from the 1920s to 50s. This <i>BiblioAsia</i> article charts their glory days and subsequent decline.</p>
-Source: Lim, Tin Seng, <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement" target="_blank">Old-World Amusement Parks</a> (2021, April-June). <i> BiblioAsia</i> 12(1). Retrieved 2023, January 26.
+Source: Lim, Tin Seng, <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement" target="_blank">Old-World Amusement Parks</a> (2016, April-June). <i> BiblioAsia</i> 12(1). Retrieved 2023, January 26.
 
 <h5><A HREF="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour" target="_blank">Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls by Adeline Foo</A></h5>
 <p>The cabaret girls that worked at the amusement parks in Singapore were better known for their risqué stage shows, but some also donated generously to charity. Adeline Foo uncovers these women with hearts of gold.</p>
@@ -307,5 +398,87 @@ Singapore Zoological Gardens (1994). <i>The world’s first night safari.</i> Si
 <a> 
 <img src="/images/Iconic%20Entertainment%20Places/nightsafari.png" style="width:200px;"></a>
 <p>This book introduces the attractions and layout of the Night Safari, the world's first nocturnal zoo located in Mandai.</p>
+
+<h5 id="lp-parks" class="margin--bottom--lg"><b> Learning Package: Parks</b></h5>
+
+<p> Parks are an integral part of Singapore’s landscape and greening journey. The history of parks and greening in Singapore can be traced to 1822 when the first botanical garden was set up on Government Hill (now known as Fort Canning Hill). However, it was not until the late 1960s that the creation of green spaces was firmly placed on the official agenda and a long-term vision was put forth to transform Singapore into a garden city. Apart from the large-scale planting of roadside trees and shrubs, parks were created all over the island from the 1970s. Today, Singapore is home to some 400 parks that provide much-needed green space for people to relax, play, and enjoy the outdoors. 
+</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Therapeutic gardens are outdoor gardens designed to promote the restorative benefits of nature. The first therapeutic garden in Singapore was launched at HortPark in 2016. Ample shade, wind chimes, and water features help make the garden a relaxing place for visitors.</li>
+</ul>
+</td>
+		</tr></tbody></table>
+
+Learn more about green efforts over the decades and explore some of Singapore’s iconic parks and gardens through the resources here.
+
+<h4>Articles</h4>
+<h5><a href="https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/greening" target="_blank"> Of Parks, Trees and Gardens: The Greening of Singapore </a></h5>
+<p> This article charts Singapore’s greening journey from colonial times through to the present. It covers important developments including the creation of the Botanic Gardens, early tree-planting efforts, the launch of the “Garden City” vision in 1967, and beyond to the “City in Nature” strategy, part of the latest ten-year blueprint for sustainable development, the Singapore Green Plan 2030.</p> 
+Source: Lim, Tin Seng, <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/greening" target="_blank"> Of Parks, Trees and Gardens: The Greening of Singapore </a>(2021, April-June).<i>Biblioasia.</i> 17(1). Retrieved 2023, February 20.
+
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_421_2005-01-03.html" target="_blank"> Chinese Garden (Yu Hwa Yuan) </a></h5>
+<p> The Chinese Garden in Jurong was built in 1975 to provide social and recreational amenities for the then rapidly developing Jurong industrial town. Designed by Yu Yuen Chen, a Taiwanese expert on Chinese gardens, the garden is modelled on the northern Chinese imperial style of architecture during the Song dynasty (960–1279 CE) and the Summer Palace in Beijing.  
+</p> 
+Source:  <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_421_2005-01-03.html" target="_blank"> Chinese Garden (Yu Hwa Yuan) </a>(2012).<i>Singapore Infopedia.</i> Retrieved 2023, February 20.
+
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-06-26_095923.html" target="_blank"> Gardens by the Bay</a></h5>
+<p> Occupying some 101 hectares along the Marina Bay waterfront, Gardens by the Bay is Singapore’s premier horticultural attraction. It was conceptualised in 2005 as part of the plan to develop Singapore’s reputation as a “City in a Garden” with world-class green spaces that enhance the quality of life and distinguish Singapore as a global city. 
+</p> 
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-06-26_095923.html" target="_blank"> Gardens by the Bay</a>(2013).<i>Singapore Infopedia.</i> Retrieved 2023, February 20.
+
+<h4>eBook</h4>
+
+<h5> Singapore: City of Gardens </h5>
+Warren, William and Luca Invernizzi Tettoni (2012). <i> Singapore: City of Gardens</i> Singapore: Tuttle Publishing, 2012<br>
+<a href="https://nlb.overdrive.com/media/1272565" target="_blank">
+<img style="width:200px;"
+src="/images/Iconic%20Entertainment%20Places/CityofGardens.png"></a>
+
+<p> This travel pictorial showcases many of the green spaces – from public parks to private gardens and even roadside plantings – that contribute to Singapore’s reputation as a garden city.</p>
+<p><a href="https://nlb.overdrive.com/media/1272565" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
+
+<h5> Nature's Colony: Empire, Nation and Environment in the Singapore Botanic Gardens </h5>
+Barnard, Timothy P. (2018). <i> Nature's Colony: Empire, Nation and Environment in the Singapore Botanic Gardens </i> Singapore: Partridge Publishing<br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/3968845">
+<img style="width:200px;"
+src="/images/Iconic%20Entertainment%20Places/NaturesColony.png"></a>
+<p> This book presents a fascinating look at the 150-year history of the Singapore Botanic Gardens and its shifting functions in the colonial and post-colonial context. </p><p><a href="https://nlb.overdrive.com/media/3968845" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
+<h5> Singapore's Park System Master Planning:
+A Nation Building Tool to Construct Narratives in Post-Colonial Countries
+ </h5>
+Sini, Raffaella (2019). <i> Singapore's Park System Master Planning:
+A Nation Building Tool to Construct Narratives in Post-Colonial Countries </i> Singapore: Springer Nature Singapore<br>
+<a target="_blank"
+href="https://nlb.overdrive.com/media/4743500">
+<img style="width:200px;"
+src="/images/Iconic%20Entertainment%20Places/ParkSystem.png"></a>
+<p> This book traces the evolution of Singapore's parks system from colonial to present times. It focuses on the application of western practices as well as the influence of the state and national policies on park planning and design.
+</p><p><a href=" https://nlb.overdrive.com/media/4743500" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
+
+<h4>Books</h4>
+
+<h5> Living in a garden: the greening of Singapore</h5>
+Auger, Timothy (2013). <i> Living in a garden: the greening of Singapore </i> Singapore: Published for National Parks Board by Editions Didier Millet (Call no.: RSING 363.68095957 AUG) 
+<br>
+<a>
+<img src="/images/Iconic%20Entertainment%20Places/LivingInAGarden.png" style="width:200px;"></a>
+<p> This book focuses on the work of the National Parks Board (NParks) in the greening of Singapore. It spotlights the parks, nature reserves, and other green spaces under the Board’s care, the rich biodiversity of those sites, and the importance of community involvement in greening and conservation.  
+</p>
+
+<h5> The world in a garden: Singapore's gardens by the bay </h5>
+Tinsley, Bonnie [2016]. <i> The world in a garden: Singapore's gardens by the bay </i> Singapore: Marshall Cavendish Editions. (Call no.: RSING 712.5 TIN) 
+<br>
+<a>
+<img src="/images/Iconic%20Entertainment%20Places/WorldInAGarden.png" style="width:200px;"></a>
+<p> This book chronicles the extensive work put into creating Gardens by the Bay from initial conception and construction to its official opening in 2012 and beyond. It looks at the Gardens’ signature programmes and events, its achievements in the first five years of operation, and future plans.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

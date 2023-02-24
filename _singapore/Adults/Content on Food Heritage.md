@@ -898,52 +898,52 @@ Rita Zahara (2016). <i>The many flavours of Malay cooking.</i> Singapore: Marsha
 	
 <h5 class="margin--bottom--lg" id="lp-indian-cuisine"><b>Singapore's Food Heritage: Indian Cuisine</b></h5>
 
-<p> The roots of Indian food heritage lead us back to centuries-old traditions and take us across different parts of the Indian sub-continent region. Just the south Indian dishes in Singapore alone can be attributed to multiple origins such as the states of Tamil Nadu, Kerala, Andhra, Telengana and Karnataka, with each region offering the promise of a different flavour. A common Indian favourite such as curry is not going to taste the same in each of these states. But when all these region-specific recipes met at colonial Singapore, it gave birth to the island’s very own uniquely Singaporean Indian cuisine. The interactions from the Chinese, Malay and European cuisines enhanced its uniqueness even further.
-
+<p> The roots of Indian food heritage lead us back to centuries-old traditions and take us across different parts of the Indian sub-continent region. Just the south Indian dishes in Singapore alone can be attributed to multiple origins such as the states of Tamil Nadu, Kerala, Andhra, Telengana and Karnataka, with each region offering the promise of a different flavour. A common Indian favourite such as curry is not going to taste the same in each of these states. But when all these region-specific recipes met at colonial Singapore, it gave birth to the island’s very own uniquely Singaporean Indian cuisine. The interactions from the Chinese, Malay and European cuisines enhanced its uniqueness even further.</p>
 <table border="1">
 	<tbody><tr>
 		<td>
 <h4>Did you know...</h4>
 <ul>
-<li> Eating on banana leaves not only make the dishes look more colourful and appealing, it also enhances the taste of the dish. When hot rice is served on the leaf, it absorbs the healthy compounds and unique flavour of the leaf. Banana leaves are waterproof too! Indian dishes, which are mostly accompanied with gravies, chutneys and ghee, are not going to stick to the leaf. This provides us with the fullest dining experience. After the meal, closing the leaf inwards demonstrates a feeling of gratefulness towards the host, so always remember to fold correctly! </li>
+<li> Eating on banana leaves not only make the dishes look more colourful and appealing, it also enhances the taste of the dish. When hot rice is served on the leaf, it absorbs the healthy compounds and unique flavour of the leaf. Banana leaves are waterproof too! Indian dishes, which are mostly accompanied with gravies, chutneys and ghee, are not going to stick to the leaf. This provides us with the fullest dining experience. After the meal, closing the leaf inwards demonstrates a feeling of gratefulness towards the host, so always remember to fold correctly!</li>
 </ul>
 </td>
 </tr</tbody></table>
 These curated set of articles and books will give you a better understanding of Indian food in Singapore.
 
 <h4>Articles</h4>
-<div>
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1749\_2011-01-05.html" target="\_blank"> Putu mayam by Bonny Tan </a></h5>
-<p> Putu mayam, a popular breakfast dish of South Indian origin, is also extremely popular in parts of Southeast Asia such as Singapore, Malaysia and Indonesia. Made from rice flour, this dish can be served with both sweet and savoury sides or dips.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1749\_2011-01-05.html" target="\_blank"> Putu mayam </a>(2020, May).<i> Singapore Infopedia.</i> Retrieved 2022, June 21.
 
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP\_2014-12-30\_093442.html" target="\_blank"> Vadai by Bonny Tan </a></h5>
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1749_2011-01-05.html" target="_blank"> Putu mayam by Bonny Tan </a></h5>
+<p> Putu mayam, a popular breakfast dish of South Indian origin, is also extremely popular in parts of Southeast Asia such as Singapore, Malaysia and Indonesia. Made from rice flour, this dish can be served with both sweet and savoury sides or dips.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1749_2011-01-05.html" target="_blank"> Putu mayam </a>(2020, May).<i> Singapore Infopedia.</i> Retrieved 2022, June 21.
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-12-30_093442.html" target="_blank"> Vadai by Bonny Tan </a></h5>
 
 <p> The roots of vadai, a vegetarian South Indian snack, can be traced back the period of ancient Tamils, between 100 BCE and 300 CE. Today, this snack has evolved into various forms, one of which is the Singaporean version of prawn vadai.</p>
 
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP\_2014-12-30\_093442.html" target="\_blank"> Vadai </a>(2014, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, June 21.
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-12-30_093442.html" target="_blank"> Vadai </a>(2014, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, June 21.
 	
 <h4>Books</h4>
+
 <h5> Banana Leaf Temptations</h5>
-Devagi Sanmugam (1997). <i> Banana Leaf Temptations. </i> Singapore: VJ Times. (Call no.: RSING 641.5948 SAN)
+Devagi Sanmugam. (1997). <i> Banana Leaf Temptations. </i> Singapore: VJ Times. (Call no.: RSING 641.5948 SAN)
 <br>
 <img src="/images/Singapore%20Food%20Heritage/BLT.png" style="width:200px;">
 <p> Chef Devagi Sanmugam, known as the Spice Queen in Singapore, shares mouth-watering South Indian recipes that date back to many hundreds of years. </p>
 	
 <h5> Madam Krishnan’s South Indian Recipes</h5>
-Krishnan, Ambrose and Krishnan, Padma (2011). <i> Madam Krishnan’s South Indian Recipes. </i> Singapore: Epigram Books. (Call no.: RSING 641.59548 KRI)
+Krishnan, Ambrose and Krishnan, Padma. (2011). <i> Madam Krishnan’s South Indian Recipes. </i> Singapore: Epigram Books. (Call no.: RSING 641.59548 KRI)
 <br>
 <img src="/images/Singapore%20Food%20Heritage/MKSIR.png" style="width:200px;">
 <p> This book is a compilation of the recipes passed down to Padma Krishnan, by her mother and sister-in-law. It presents South Indian recipes with the international touch of France and Mauritius and the Indian touch of Pondicherry and Kerala as well. </p>
 
 <h5> Indian Heritage Cooking</h5>
-Devagi Sanmugam and Shanmugam Kasinathan (2011). <i> Indian Heritage Cooking. </i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
+Devagi Sanmugam and Shanmugam Kasinathan. (2011). <i> Indian Heritage Cooking. </i> Singapore: Marshall Cavendish Cuisine. (Call no.: RSING 641.595957 DEV)
 <br>
 <img src="/images/Singapore%20Food%20Heritage/IHC.png" style="width:200px;">
 <p> Chef Devagi Sanmugam presents Indian recipes that has gone through fusion amidst the multi-ethnic context of colonial Singapore. She captures the union of flavours from Chinese, Malay and Indian cuisines, which have paved the way to dishes unique to Singapore. </p>
 
 <h5> Spice potpourri: stellar cuisine favourites</h5>
-Rajan, Uma (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singapore: E-Quill Media. (Call no.: RSING 641.595957 RAJ)
+Rajan, Uma. (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singapore: E-Quill Media. (Call no.: RSING 641.595957 RAJ)
 <br>
 <img src="/images/Singapore%20Food%20Heritage/SP.png" style="width:200px;">
 <p> The winner of the 2012 World Gourmand Best Indian cuisine book, Spice potpourri by Dr Uma Rajan, brings us through a variety of flavourful Singaporean Indian dishes. </p>
@@ -952,7 +952,7 @@ Rajan, Uma (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singapo
 	
 <h5 class="margin--bottom--lg" id="lp-hawker-centres"><b>Singapore's Food Heritage: Hawker Centres</b></h5>
 
-<p>From chicken rice and prata, to nasi lemak and laksa, hawker centres offer a dazzling array of dishes that reflect the multicultural identity and heritage of Singapore. More than just eating places, hawker centres are a unique aspect of Singapore culture and everyday life.
+<p>From chicken rice and prata, to nasi lemak and laksa, hawker centres offer a dazzling array of dishes that reflect the multicultural identity and heritage of Singapore. More than just eating places, hawker centres are a unique aspect of Singapore culture and everyday life.</p>
 <table border="1">
             <tbody><tr>
                         <td>
@@ -966,7 +966,7 @@ Rajan, Uma (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singapo
 Get to know the history and development of hawker centres and the array of dishes they offer through the resources here.
 
 <h4>Articles</h4>
-<div>
+	
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12-27.html" target="_blank"> Travelling hawkers by Naidu Ratnala Thulaja </a></h5>
 <p>Hawker culture in Singapore had its roots in street food sold by itinerant hawkers during the 19th to mid-20th centuries. While hawkers served the needs of the population, problems such as food contamination and traffic obstruction led to their regulation.</p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12-27.html" target="_blank"> Travelling hawkers </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
@@ -975,13 +975,13 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12
 
 <p> In the interests of public health, the government moved to regulate food hawkers in the 1960s and relocated them from the streets to purpose-built food centres over the 1970s-80s.</p>
 
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP\_1637\_2010-01-31.html" target="_blank"> Hawker centres </a>(2020, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1637_2010-01-31.html" target="_blank"> Hawker centres </a>(2020, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
 
 <h4>eBooks</h4>
 
 <h5> Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore</h5>
 
-Kong, Lily and Vineeta Sinha (2015).<i> Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore.</i><br>
+Kong, Lily and Vineeta Sinha (2015).<i> Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore.</i>Hackensack: World Scientific.<br>
 
 <a href="https://nlb.overdrive.com/media/3715193" target="_blank"></a>
 
@@ -990,13 +990,12 @@ Kong, Lily and Vineeta Sinha (2015).<i> Food, foodways and foodscapes: cultur
 <p>This volume provides multidisciplinary perspectives on the study of food as a window to the social and cultural history and geography of Singapore. Chapter 1, “Taking the Street out of Street Food”, by sociologist Chua Beng Huat offers a biographical account of street food consumption and how it has changed based on life in the neighbourhood of Bukit Ho Swee. </p>
 
 <p><a target="_blank" href="https://nlb.overdrive.com/media/3715193">
-
 Borrow the eBook here.</a></p>
 
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook.)
 	
 <h5> Singapore hawker classics unveiled: Decoding 25 favourite dishes</h5>
-Temasek Polytechnic (2015).<i> Singapore hawker classics unveiled: Decoding 25 favourite dishes.</i><br>
+Temasek Polytechnic (2015).<i> Singapore hawker classics unveiled: Decoding 25 favourite dishes.</i>Singapore: Marshall Cavendish Cuisine.<br>
 <a href="https://nlb.overdrive.com/media/2472122" target="_blank"></a>
 <img src="/images/Singapore%20Food%20Heritage/SingaporeHawkerClassics.png" style="width:200px;">
 <p>This book covers 25 of Singapore’s favourite hawker dishes, in extensive detail, including information on its heritage, its aroma, taste and texture, its nutritional value, as well as clear step-by-step cooking instructions with photographs. </p>
@@ -1007,20 +1006,20 @@ Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-wi
 <h4>Books</h4>
 
 <h5> Singapore hawker centres: people, places, food</h5>
-Kong, Lily (2007). <i>Singapore hawker centres: people, places, food</i>. Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON) 
+Kong, Lily. (2007). <i>Singapore hawker centres: people, places, food</i>. Singapore: National Environment Agency. (Call no.: RSING 381.18095957 KON) 
 <br>
 <img src="/images/Singapore%20Food%20Heritage/SingaporeHawkerCentres.png" style="width:200px;">
 <p>This book chronicles the beginnings and development of hawker centres in Singapore, with a focus on planning and design, and the different stakeholders involved. It also highlights the significance of hawker centres and hawker food to Singaporean life and culture. </p>
 
 <h5> Hawker centre food: ambrosia for the people</h5>
-Lai, Chee Kien & Koh, Hon Teng (2021). <i>Hawker centre food: ambrosia for the people</i>. Singapore: Achates 360 Pte Ltd. (Call no.: RSING 641.595957 LAI) 
+Lai, Chee Kien & Koh, Hon Teng. (2021). <i>Hawker centre food: ambrosia for the people</i>. Singapore: Achates 360 Pte Ltd. (Call no.: RSING 641.595957 LAI) 
 <br>
 <img src="/images/Singapore%20Food%20Heritage/HawkerCentreFood.png" style="width:200px;">
 <p>On 16 December 2020, hawker culture in Singapore was officially inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity. Published in 2021 with support from the National Heritage Board, this book, which features illustrations and stories of 129 food stalls from 111 hawker centres across the island, contributes to the documentation of Singapore’s evolving hawker culture and food heritage. </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id="lp-Singapore-food-brands"><b>Singapore's Food Heritage: Food Brands</b></h5>
+<h5 class="margin--bottom--lg" id="lp-singapore-food-brands"><b>Singapore's Food Heritage: Singapore Food Brands</b></h5>
 
 <p> Whichever part of the world Singaporeans travel to, the sight of spotting one or two of Singapore’s very own food and beverage brands in a supermart overseas never fail to bring back memories of home. Such heritage food brands have stood the test of time and have also become an integral part of growing up in Singapore. Today, quality products by some of these local brands can be found worldwide. </p>
 <table border="1">
@@ -1035,7 +1034,7 @@ Lai, Chee Kien & Koh, Hon Teng (2021). <i>Hawker centre food: ambrosia for the p
 	These curated set of articles and books will give you a better understanding of heritage food brands in Singapore.
 	
 <h4>Articles</h4>
-<div>
+
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-05-11_100628.html" target="_blank"> Bee Cheng Hiang by Hwa Chong Institution </a></h5>
 <p> Most notably known for its signature bakkwa (barbequed pork slices), Bee Cheng Hiang started off its journey on a pushcart in Chinatown in 1933. This article gives an insight into its success story.</p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-05-11_100628.html" target="_blank"> Bee Cheng Hiang </a>(2015, May).<i> Singapore Infopedia.</i> Retrieved 2022, July 19.
