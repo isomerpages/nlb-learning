@@ -435,7 +435,7 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-06-26
 <h5> Singapore: City of Gardens </h5>
 Warren, William and Luca Invernizzi Tettoni (2012). <i> Singapore: City of Gardens</i> Singapore: Tuttle Publishing, 2012<br>
 <a href="https://nlb.overdrive.com/media/1272565" target="_blank">
-<img style=”width:200px;”
+<img style="width:200px;"
 src="/images/Iconic%20Entertainment%20Places/CityofGardens.png"></a>
 
 <p> This travel pictorial showcases many of the green spaces – from public parks to private gardens and even roadside plantings – that contribute to Singapore’s reputation as a garden city.</p>
@@ -446,8 +446,8 @@ Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-wi
 Barnard, Timothy P. (2018). <i> Nature's Colony: Empire, Nation and Environment in the Singapore Botanic Gardens </i> Singapore: Partridge Publishing<br>
 <a target="_blank"
 href="https://nlb.overdrive.com/media/3968845">
-<img style=”width:200px;”
-src="/images/Iconic%20Entertainment%20Places/NaturesColony.png" ></a>
+<img style="width:200px;"
+src="/images/Iconic%20Entertainment%20Places/NaturesColony.png"></a>
 <p> This book presents a fascinating look at the 150-year history of the Singapore Botanic Gardens and its shifting functions in the colonial and post-colonial context. </p><p><a href="https://nlb.overdrive.com/media/3968845" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
 
@@ -458,7 +458,7 @@ Sini, Raffaella (2019). <i> Singapore's Park System Master Planning:
 A Nation Building Tool to Construct Narratives in Post-Colonial Countries </i> Singapore: Springer Nature Singapore<br>
 <a target="_blank"
 href="https://nlb.overdrive.com/media/4743500">
-<img style=”width:200px;”
+<img style="width:200px;"
 src="/images/Iconic%20Entertainment%20Places/ParkSystem.png"></a>
 <p> This book traces the evolution of Singapore's parks system from colonial to present times. It focuses on the application of western practices as well as the influence of the state and national policies on park planning and design.
 </p><p><a href=" https://nlb.overdrive.com/media/4743500" target="_blank">Borrow the eBook here.</a></p>
