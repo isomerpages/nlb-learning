@@ -92,7 +92,7 @@ Singapore’s first three national symbols were created shortly after Singapore 
 <div class="col is-three-fifths">
 <p><b>S. Rajaratnam: The Author Of Singapore's National Pledge | MustShareNews (4 mins)</b><br>
 The National Pledge as we know it today is largely based off the version that was drafted by then Minister for Foreign Affairs S. Rajaratnam. Watch this video for a quick summary of Rajaratnam’s early years in politics and how his ideals shaped the National Pledge.<br><br>
-<small>Source: S. Rajaratnam: The Author Of Singapore's National Pledge (2020, Aug 10). MustShareNews. Retrieved 2022, July 4.</small></p>
+<small>Source: S. Rajaratnam: The Author Of Singapore's National Pledge (2020, Aug 10). MustShareNews. Retrieved 2022, August 8.</small></p>
 </div>
 </div>
 				
