@@ -434,12 +434,11 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-06-26
 
 <h5> Singapore: City of Gardens </h5>
 Warren, William and Luca Invernizzi Tettoni (2012). <i> Singapore: City of Gardens</i> Singapore: Tuttle Publishing, 2012<br>
-<a target="_blank"
-href="https://nlb.overdrive.com/media/1272565">
+<a href="https://nlb.overdrive.com/media/1272565" target="_blank">
 <img style=”width:200px;”
 src="/images/Iconic%20Entertainment%20Places/CityofGardens.png"></a>
 <p> This travel pictorial showcases many of the green spaces – from public parks to private gardens and even roadside plantings – that contribute to Singapore’s reputation as a garden city.</p>
-<p><a href=" https://nlb.overdrive.com/media/1272565"target="_blank">Borrow the eBook here.</a></p>
+<p><a href=" https://nlb.overdrive.com/media/1272565" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 
 <h5> Nature's Colony: Empire, Nation and Environment in the Singapore Botanic Gardens </h5>
@@ -448,7 +447,7 @@ Barnard, Timothy P. (2018). <i> Nature's Colony: Empire, Nation and Environment 
 href="https://nlb.overdrive.com/media/3968845">
 <img style=”width:200px;”
 src="/images/Iconic%20Entertainment%20Places/NaturesColony.png"></a>
-<p> This book presents a fascinating look at the 150-year history of the Singapore Botanic Gardens and its shifting functions in the colonial and post-colonial context. </p><p><a href="https://nlb.overdrive.com/media/3968845"target="_blank">Borrow the eBook here.</a></p>
+<p> This book presents a fascinating look at the 150-year history of the Singapore Botanic Gardens and its shifting functions in the colonial and post-colonial context. </p><p><a href="https://nlb.overdrive.com/media/3968845" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
 
 <h5> Singapore's Park System Master Planning:
@@ -461,7 +460,7 @@ href=" https://nlb.overdrive.com/media/4743500">
 <img style=”width:200px;”
 src="/images/Iconic%20Entertainment%20Places/ParkSystem.png"></a>
 <p> This book traces the evolution of Singapore's parks system from colonial to present times. It focuses on the application of western practices as well as the influence of the state and national policies on park planning and design.
-</p><p><a href=" https://nlb.overdrive.com/media/4743500"target="_blank">Borrow the eBook here.</a></p>
+</p><p><a href=" https://nlb.overdrive.com/media/4743500" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
 
 <h4>Books</h4>
@@ -469,6 +468,7 @@ Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-wi
 <h5> Living in a garden: the greening of Singapore</h5>
 Auger, Timothy (2013). <i> Living in a garden: the greening of Singapore </i> Singapore: Published for National Parks Board by Editions Didier Millet (Call no.: RSING 363.68095957 AUG) 
 <br>
+<a>
 <img src="/images/Iconic%20Entertainment%20Places/LivingInAGarden.png" style="width:200px;"></a>
 <p> This book focuses on the work of the National Parks Board (NParks) in the greening of Singapore. It spotlights the parks, nature reserves, and other green spaces under the Board’s care, the rich biodiversity of those sites, and the importance of community involvement in greening and conservation.  
 </p>
@@ -476,6 +476,7 @@ Auger, Timothy (2013). <i> Living in a garden: the greening of Singapore </i> Si
 <h5> The world in a garden: Singapore's gardens by the bay </h5>
 Tinsley, Bonnie [2016]. <i> The world in a garden: Singapore's gardens by the bay </i> Singapore: Marshall Cavendish Editions. (Call no.: RSING 712.5 TIN) 
 <br>
+<a>
 <img src="/images/Iconic%20Entertainment%20Places/WorldInAGarden.png" style="width:200px;"></a>
 <p> This book chronicles the extensive work put into creating Gardens by the Bay from initial conception and construction to its official opening in 2012 and beyond. It looks at the Gardens’ signature programmes and events, its achievements in the first five years of operation, and future plans.</p>
 
