@@ -133,18 +133,21 @@ These curated set of articles and books will give you a better understanding of 
 <h4>Articles</h4>
 <h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_815_2004-12-23.html" target="_blank">Singapore’s national anthem by Sim, Cheryl</a></h5>
 <p>Singapore’s national anthem, <i>Majulah Singapura</i>, was first composed in 1958 by Zubir Said to be the City Council of Singapore’s official song. It became the state national anthem when Singapore attained self-governance in 1959 and was finally adopted as the National Anthem when we gained independence in 1965.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_815_2004-12-23.html" target="_blank">Singapore’s national anthem</a>(2014, September).<i> Singapore Infopedia.</i> Retrieved 2022, July 5.
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_815_2004-12-23.html" target="_blank">Singapore’s national anthem</a> (2014, September).<i> Singapore Infopedia.</i> Retrieved 2022, August 8.
 
 <h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_488_2004-12-18.html" target="_blank">Singapore’s national flag by Sim, Cheryl</a></h5>
 <p>A new Singapore state flag was created in 1959 shortly after Singapore became a self-governing state under British rule. The same flag was later adopted as the National Flag when Singapore became an independent nation in 1965.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_488_2004-12-18.html" target="_blank">Singapore’s national flag</a>(2014, September).<i> Singapore Infopedia.</i> Retrieved 2022, July 5.
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_488_2004-12-18.html" target="_blank">Singapore’s national flag</a> (2014, September).<i> Singapore Infopedia.</i> Retrieved 2022, August 8.
 	
 <h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_752_2005-01-10.html" target="_blank">Vanda Miss Joaquim by Arunasalam, Sitragandi</a></h5>
 <p>The Vanda Miss Joaquim orchid was officially launched as Singapore’s national flower on 15 April 1981. It was selected for its vibrant colour, “resilience and year-round blooming quality”. The flower is the first recorded orchid hybrid from Singapore and was first created in the early 1890s.</p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_752_2005-01-10.html" target="_blank">Vanda Miss Joaquim</a> (2017). <i>Singapore Infopedia.</i> Retrieved 2022, July 5.
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_752_2005-01-10.html" target="_blank">Vanda Miss Joaquim</a> (2017). <i>Singapore Infopedia.</i> Retrieved 2022, August 8.
+
+<h5><a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj"> Blooming Lies: The Vanda Miss Joaquim Story by Nadia Wright, Linda Locke and Harold Johnson</a></h5>
+<p>The authors present the truth of the genesis of Singapore's national flower, Vanda Miss Joaqium, combing through various narratives on how the flower came about through the years since it was first mentioned in 1893.</p>
+Source: Wright, Nadia, Locke, Linda and Johnson, Harold, <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj"> Blooming Lies: The Vanda Miss Joaquim Story </a>(2018, April-June). <i>BiblioAsia</i>14(1). Retrieved 2022, August 8. 
 
 <h4> eBook </h4>
-
 
 <h5>Zubir Said: The composer of Majulah Singapura</h5>
 Rohana Zubir. (2014). <i>Zubir Said: The composer of Majulah Singapura.</i> Singapore: Institute of Southeast Asian Studies.<br>
