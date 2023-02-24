@@ -411,7 +411,7 @@ Singapore Zoological Gardens (1994). <i>The world’s first night safari.</i> Si
 <li> Therapeutic gardens are outdoor gardens designed to promote the restorative benefits of nature. The first therapeutic garden in Singapore was launched at HortPark in 2016. Ample shade, wind chimes, and water features help make the garden a relaxing place for visitors.</li>
 </ul>
 </td>
-</tr</tbody></table>
+		</tr></tbody></table>
 
 Learn more about green efforts over the decades and explore some of Singapore’s iconic parks and gardens through the resources here.
 
