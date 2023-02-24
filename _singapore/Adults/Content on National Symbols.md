@@ -52,7 +52,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 	
  <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-food-heritage">
+      <a href="#lp-national-symbols">
         <span>Learning Package: National Symbols of Singapore: Building a Nation</span>
       </a>
     </div>
