@@ -45,7 +45,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#national-symbols">
-        <span>Playlist: National Symbols of Singapore - Building a Nation</span>
+        <span>Playlist: National Symbols - Building a Nation</span>
       </a>
     </div>
   </div>
@@ -53,7 +53,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
  <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-national-symbols">
-        <span>Learning Package: National Symbols of Singapore: Building a Nation</span>
+        <span>Learning Package: National Symbols -  Building a Nation</span>
       </a>
     </div>
   </div>
@@ -62,7 +62,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around Singapore’s national symbols.
 
-<h5 class="margin--bottom--lg" id="national-symbols"><b>Playlist: National Symbols of Singapore - Building a Nation</b></h5>
+<h5 class="margin--bottom--lg" id="national-symbols"><b>Playlist: National Symbols: Building a Nation</b></h5>
 
 Singapore’s National Symbols are one of the country’s earliest nation building tools. The first three symbols – the National Flag, State Crest, and National Anthem – were revealed during the installation of Encik Yusof bin Ishak as the first Malayan-born Yang di Pertuan Negara (Head of State) on 3 December 1959. They intend to unite all Singaporeans as one people and reflect our values as a nation.
 
