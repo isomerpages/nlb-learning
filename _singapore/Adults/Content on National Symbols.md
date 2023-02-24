@@ -44,7 +44,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 	
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#food-heritage">
+      <a href="#national-symbols">
         <span>Playlist: National Symbols of Singapore - Building a Nation</span>
       </a>
     </div>
