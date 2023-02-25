@@ -85,10 +85,11 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 				<td style="width: 20%;">Choa Chu Kang Public Library, Programme Room 1 & 2, Level 4</td>
 			</tr>
 			<tr>
-				<td style="width: 20%;"><b>Rooky’s Animated Book Launch</b>
+				<td style="width: 20%;"><a target="_blank" href="go.gov.sg/childrens-programmes"><b>Rooky’s Animated Book Launch</b></a>
 				</td>
 				<td style="width: 40%;">Learn how lovable <i>Monsters United</i> mascot Rooky got his wings! Join our exclusive horror-themed storytelling and craft sessions happening at various public libraries in the month of March. More details will be made available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here closer to date.</a>
-<br><br>Registration will open closer to the date.
+<br><br>No registration is required, but seats are limited. 
+<br><br>Attendance is on a first-come-first-served basis.
 				</td>
 				<td style="width: 20%;">Mar 2023
 				</td>
