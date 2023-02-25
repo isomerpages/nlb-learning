@@ -87,7 +87,8 @@ Spark reading joy in your child to nurture a lifelong passion for reading and le
 			<tr>
 				<td style="width: 20%;"><a target="_blank" href="go.gov.sg/childrens-programmes"><b>Rooky’s Animated Book Launch</b></a>
 				</td>
-				<td style="width: 40%;">Learn how lovable <i>Monsters United</i> mascot Rooky got his wings! Join our exclusive horror-themed storytelling and craft sessions happening at various public libraries in the month of March. More details will be made available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here closer to date.</a>
+				<td style="width: 40%;">Learn how lovable <i>Monsters United</i> mascot Rooky got his wings! Join our exclusive horror-themed storytelling and craft sessions happening at various public libraries in the month of March. Look out for the dates and venues <a target="_blank" href="go.gov.sg/childrens-programmes"><b>here.</b></a> 
+					<br><br>More details are also available <a href="https://childrenandteens.nlb.gov.sg/services/programmes/monstersunited">here.</a>
 <br><br>No registration is required, but seats are limited. 
 <br><br>Attendance is on a first-come-first-served basis.
 				</td>
