@@ -1002,7 +1002,7 @@ Scott Robertson (2013), <i>How To Draw</i>, Call No.: 741.2 ROB - \[ART\], Desig
 
 Chen Tingyou (2015), <i>中国书法 (Chinese Calligraphy)</i>, China Intercontinental Press.
 
-<a href="https://nlb.overdrive.com/media/3EE7DB91-C634-4D1A-8DE8-1540E4586C6F" target="\_blank"><img src="/images/Arts/AS/OCPL-22.jpeg" style="width:300px; text-align:left;" alt="Book cover for Chinese Calligraphy"></a>
+<a href="https://nlb.overdrive.com/media/3EE7DB91-C634-4D1A-8DE8-1540E4586C6F" target="\_blank"><img src="/images/Arts/AS/OCPL-21.jpeg" style="width:300px; text-align:left;" alt="Book cover for Chinese Calligraphy"></a>
 
 <p> Calligraphy is the quintessence of Chinese culture. This book on Chinese calligraphy introduces the origins of the artform, the many forms it has taken and its development through the centuries. </p>
 
