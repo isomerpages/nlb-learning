@@ -881,7 +881,7 @@ Italo Calvino (2011), <i> The Complete Cosmicomics </i>, Penguin Books.
 
 <a target="\_blank" href="https://nlb.overdrive.com/media/630224"><img alt="The Complete Cosmicomics" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-16.jpeg"></a>
 
-<p> ‘’This is one of my favourite books as a big fan of random and fun scientific facts. Italo Calvino takes short scientific statements and spins them into mind-bending stories, building worlds that push the limits of our understanding, which endlessly inspires me to build mine.’’ -  Genevieve Ang </p>
+<p> "This is one of my favourite books as a big fan of random and fun scientific facts. Italo Calvino takes short scientific statements and spins them into mind-bending stories, building worlds that push the limits of our understanding, which endlessly inspires me to build mine.’’ -  Genevieve Ang </p>
 
 <p><a target="\_blank" href=" https://nlb.overdrive.com/media/630224">Borrow the eBook here</a>.</p>
 
@@ -893,7 +893,7 @@ Libby Walden (2018), <i> Feelings</i>, Call No.: WAL, Tiger Tales.
 
 <a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203214754"><img alt="Book cover for Feelings" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-17.jpeg"></a>
 
-<p> ‘’This children's book explores the world of emotions with enchanting illusions. The lyrical text makes each feeling explored come to life, and helps children understand the emotions they experience. We chose to recommend a children's book as it has the magical power to simplify complicated thoughts and feelings faced in adulthood and is focused on freely expressing oneself.’’ - Common Touch Craft Unit </p>
+<p> "This children's book explores the world of emotions with enchanting illusions. The lyrical text makes each feeling explored come to life, and helps children understand the emotions they experience. We chose to recommend a children's book as it has the magical power to simplify complicated thoughts and feelings faced in adulthood and is focused on freely expressing oneself.’’ - Common Touch Craft Unit </p>
 
 <p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203214754">Find out more here</a>.</p>
 
@@ -905,7 +905,7 @@ Katie Treggiden (2017), <i> Urban Potters: Makers in the City </i>, Call No.: 73
 
 <a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203062814"><img alt="Book Cover for Urban Potters" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-18.jpeg"></a>
 
-<p>‘’This is a book that I thoroughly enjoyed flipping through, absorbing each page and its sumptious images without thought. The title provides great insight into how other potters and ceramists go about their lives and artistic practices in cities.’’ – Ummu Nabilah</p>
+<p>"This is a book that I thoroughly enjoyed flipping through, absorbing each page and its sumptious images without thought. The title provides great insight into how other potters and ceramists go about their lives and artistic practices in cities." – Ummu Nabilah</p>
 
 <p><a target="\_blank" href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203062814">Find out more here</a>.</p>
 
@@ -917,7 +917,7 @@ Nicola Upson (2019), <i> Stanley and Elsie</i>, Call No.: UPS, Duckworth.
 
 <a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203910328"><img alt="Book Cover for Stanley and Elsie" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-19.jpeg"></a>
 
-<p> ‘’This is a wonderful read for anyone who has practised art – especially painting. There are so many emotions in this novel set in England after World War I.’’ – Ummu Nabilah </p>
+<p> "This is a wonderful read for anyone who has practised art – especially painting. There are so many emotions in this novel set in England after World War I." – Ummu Nabilah </p>
 
 <p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203910328">Find out more here</a>.</p>
 
@@ -929,7 +929,7 @@ Junichiro Tanizaki (1977), <i>In Praise of Shadows</i>, Call No.: TAN, New Haven
 
 <a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=1040612"><img alt="Book Cover for In Praise of Shadows" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-23.jpeg"></a>
 
-<p> ‘’This book delves into different ways of seeing things. Simple and subdued forms of East Asian art and literature in Tanizaki's perspective brings an appreciation of shadows and subtlety in its ubiquity, showing that we can find beauty where we least expect it (and when we most need it).’’ – Daisy Toh </p>
+<p> "This book delves into different ways of seeing things. Simple and subdued forms of East Asian art and literature in Tanizaki's perspective brings an appreciation of shadows and subtlety in its ubiquity, showing that we can find beauty where we least expect it (and when we most need it)." – Daisy Toh </p>
 
 <p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=1040612">Find out more here</a>.</p>
 
