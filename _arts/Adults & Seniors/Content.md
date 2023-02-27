@@ -103,7 +103,13 @@ Check our **learning packages** for a more in-depth resource list, to expand you
     </div>
   </div>
 </div>
-
+<div class="col is-one-third">
+    <div class="clickbox is-pink-ruby">
+      <a href="#lp-psclay">
+				<span>Learning Package:<br> Clay</span></a>
+    </div>
+  </div>
+</div>
 	
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-how-to-view-art" class="margin--bottom--lg"><b>How To View Art</b></h5>
@@ -852,4 +858,78 @@ Brian Keeler (2014), <i> Dramatic Color in the Landscape: Painting Land and Ligh
 <p><a target="_blank" href="https://nlb.overdrive.com/media/2133325">Borrow the eBook here</a></p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>       
+
+<h3><b>Learning Package</b></h3>
+
+<h5 id=" lp-psclay" class="margin--bottom--lg"><b>Pro Series: Clay</b></h5>
+
+<p> library@orchard's Pro Series Resource Lists are curated learning materials that complement each Pro Series programme track. Handpicked by the year's lineup of Pro Series speakers, each title has influenced and shaped their practices in one way or another. </p>
+
+<h4>Books</h4>
+<h5>1. The Complete Cosmicomics</h5>
+
+Italo Calvino (2011), <i> The Complete Cosmicomics </i>, Penguin Books.
+
+<a target="\_blank" href="https://nlb.overdrive.com/media/630224"><img alt="The Complete Cosmicomics" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-16.jpeg"></a>
+
+<p> ‘’This is one of my favourite books as a big fan of random and fun scientific facts. Italo Calvino takes short scientific statements and spins them into mind-bending stories, building worlds that push the limits of our understanding, which endlessly inspires me to build mine.’’ -  Genevieve Ang </p>
+
+<p><a target="\_blank" href=" https://nlb.overdrive.com/media/630224">Borrow the eBook here</a>.</p>
+
+Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
+
+<h5>2. Feelings</h5>
+
+Libby Walden (2018), <i> Feelings</i>, Call No.: WAL, Tiger Tales.
+
+<a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203214754"><img alt="Book cover for Feelings" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-17.jpeg"></a>
+
+<p> ‘’This children's book explores the world of emotions with enchanting illusions. The lyrical text makes each feeling explored come to life, and helps children understand the emotions they experience. We chose to recommend a children's book as it has the magical power to simplify complicated thoughts and feelings faced in adulthood and is focused on freely expressing oneself.’’ - Common Touch Craft Unit </p>
+
+<p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203214754">Find out more here</a>.</p>
+
+<p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
+
+<h5>3. Urban Potters: Makers in the City</h5>
+
+Katie Treggiden (2017), <i> Urban Potters: Makers in the City </i>, Call No.: 738 TRE -\[ART\], Ludion.
+
+<a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203062814"><img alt="Book Cover for Urban Potters" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-18.jpeg"></a>
+
+<p>‘’This is a book that I thoroughly enjoyed flipping through, absorbing each page and its sumptious images without thought. The title provides great insight into how other potters and ceramists go about their lives and artistic practices in cities.’’ – Ummu Nabilah</p>
+
+<p><a target="\_blank" href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203062814">Find out more here</a>.</p>
+
+<p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book).</p>
+
+<h5>4. Stanley and Elsie</h5>
+
+Nicola Upson (2019), <i> Stanley and Elsie</i>, Call No.: UPS, Duckworth.
+
+<a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203910328"><img alt="Book Cover for Stanley and Elsie" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-19.jpeg"></a>
+
+<p> ‘’This is a wonderful read for anyone who has practised art – especially painting. There are so many emotions in this novel set in England after World War I.’’ – Ummu Nabilah </p>
+
+<p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203910328">Find out more here</a>.</p>
+
+<p>Retrieved from NLB Catalogue (myLibraryid is required to borrow the book).</p>
+
+<h5>5. In Praise of Shadows</h5>
+
+Junichiro Tanizaki (1977), <i>In Praise of Shadows</i>, Call No.: TAN, New Haven, Conn: Leete's Island Books.
+
+<a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=1040612"><img alt="Book Cover for In Praise of Shadows" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-23.jpeg"></a>
+
+<p> ‘’This book delves into different ways of seeing things. Simple and subdued forms of East Asian art and literature in Tanizaki's perspective brings an appreciation of shadows and subtlety in its ubiquity, showing that we can find beauty where we least expect it (and when we most need it).’’ – Daisy Toh </p>
+
+<p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=1040612">Find out more here</a>.</p>
+
+<p>Retrieved from NLB Catalogue (myLibraryid is required to borrow the book).</p>
+
+<p> Download the resource list on Clay created by libray@orchard here: <a href="https://file.go.gov.sg/proseriesresourcelistclay.pdf" target="\_blank"> go.gov.sg/ proseriesresourcelistclay</a>
+
+<h4>Art Programmes in NLB</h4>
+
+<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a href="https://go.gov.sg/learnxartsfb" target="\_blank"> go.gov.sg/learnxartsfb</a> to find the right one for you! </p>
+
