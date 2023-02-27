@@ -110,6 +110,13 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 	 </a>
     </div>
   </div>
+<div class="col is-one-third">
+	<div class="clickbox is-pink-ruby">
+		<a href="#lp-psconceptdesign">
+			<span>Learning Package:<br> Concept Design </span>
+		</a>
+    </div>
+  </div>
 </div>
 	
 <h3><b>Learning Package</b></h3>
@@ -933,3 +940,67 @@ Junichiro Tanizaki (1977), <i>In Praise of Shadows</i>, Call No.: TAN, New Haven
 <h4>Art Programmes in NLB</h4>
 
 <p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a href="https://go.gov.sg/learnxartsfb" target="\_blank"> go.gov.sg/learnxartsfb</a> to find the right one for you! </p>
+
+<h3><b>Learning Package</b></h3>
+
+<h5 id=" lp-psclay" class="margin--bottom--lg"><b>Pro Series: Concept Design</b></h5>
+
+<p> library@orchard's Pro Series Resource Lists are curated learning materials that complement each Pro Series programme track. Handpicked by the year's lineup of Pro Series speakers, each title has influenced and shaped their creative practices in one way or another.
+
+</p>
+
+<h4>Books</h4>
+
+<h5>1. Hellboy (1994), Omnibus Volume 4: Hellboy in Hell</h5>
+
+Mike Mignolia (2018), <i>Hellboy (1994), Omnibus Volume 4: Hellboy in Hell</i>, Dark Horse Comics.
+
+<a target="\_blank" href="https://nlb.overdrive.com/media/5855261"><img alt="Book cover for Hellboy in Hell" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-7.jpeg"></a>
+
+<p> “I chose this book for its simplicity and creative use of light and dark in each panel. This book demonstrates how lighting conceals and reveals. I've often re-read this book as a reference for storytelling that uses a balance of light and shadow to convey tone and narrative.” – Calvin Chua </p>
+
+<p><a target="\_blank" href="https://nlb.overdrive.com/media/5855261">Borrow the eBook here</a>. </p>
+
+<p> Retrieved from NLB Overdrive (myLibraryid is required to access the eBook). </p>
+
+<h5>2. Pencil Art Workshop</h5>
+
+Matt Rota (2017), <i>Pencil Art Workshop</i>, Call No.: 741.24 ROT \[ART\], Beverly, Massachusetts: Rockport.
+
+<a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202889784"><img alt="Book cover for Pencil Art Workshop" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-8.jpeg"></a>
+
+<p> This book by the illustrator Mark Rota features some strong examples of how he creates texture, volume, and space—all of which are integral when manipulating details in one's work. He also treats readers to a sneak peek into his decision-making process by helpfully including his reference images! The principles taught in this book can even be applied to various other mediums. </p>
+
+<p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202889784">Find out more here</a>. </p>
+
+<p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
+
+<h5>3. CAD Monkeys, Dinosaur Babies, and T-Shaped People</h5>
+
+Warren Berger (2011), <i>CAD Monkeys, Dinosaur Babies, and T-Shaped People</i>, Penguin Publishing Group.
+
+<a target="\_blank" href="https://nlb.overdrive.com/media/F9601C9D-0314-44C8-BFFF-B0C48A700A61"><img alt="Book Cover for Urban Potters" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-9.jpeg"></a>
+
+<p> “This book introduces design thinking and how a generalist mindset equips you with an edge to solve design problems. It has helped me structure my approach to resolving concept art and design problems presented by various commercial projects in my career.” – Ray Toh </p>
+
+<p><a target="\_blank" href="https://nlb.overdrive.com/media/F9601C9D-0314-44C8-BFFF-B0C48A700A61">Borrow the eBook here</a>.</p>
+
+<p> Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
+
+<h5>4. How To Draw</h5>
+
+Scott Robertson (2013), <i>How To Draw</i>, Call No.: 741.2 ROB - \[ART\], Design Studio Press.
+
+<a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200499871"><img alt="Book Cover for How To Draw" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-10.jpeg"></a>
+
+<p> “This is a brilliant guide for budding and experienced artists to strengthen their foundation in constructional drawing. This book teaches you the indispensable skill of drawing any design from any angle. A must-read for designers drawing and creating imaginative products and environments.” - Ray Toh </p>
+
+<p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200499871">Find out more here</a>.</p>
+
+<p>Retrieved from NLB Catalogue (myLibraryid is required to borrow the book).</p>
+
+<p> Download the resource list on Concept Design created by libray@orchard here: <a href="https://file.go.gov.sg/proseriesresourcelistconceptdesign2.pdf" target="\_blank"> go.gov.sg/ proseriesresourcelistconceptdesign</a>
+
+<h4>Art Programmes in NLB</h4>
+
+<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a href="https://go.gov.sg/learnxartsfb" target="\_blank"> go.gov.sg/learnxartsfb</a> to find the right one for you!
