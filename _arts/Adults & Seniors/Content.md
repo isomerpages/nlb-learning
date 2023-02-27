@@ -104,11 +104,12 @@ Check our **learning packages** for a more in-depth resource list, to expand you
   </div>
 </div>
 <div class="col is-one-third">
-    <div class="clickbox is-pink-ruby">
-      <a href="#lp-psclay">
-				<span>Learning Package:<br> Clay</span></a>
-    </div>
-  </div>
+ <div class="clickbox is-pink-ruby">
+	 <a href="#lp-psclay">
+		 <span>Learning Package:<br> Clay</span>
+	 </a>
+    </div>
+  </div>
 </div>
 	
 <h3><b>Learning Package</b></h3>
@@ -932,4 +933,3 @@ Junichiro Tanizaki (1977), <i>In Praise of Shadows</i>, Call No.: TAN, New Haven
 <h4>Art Programmes in NLB</h4>
 
 <p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a href="https://go.gov.sg/learnxartsfb" target="\_blank"> go.gov.sg/learnxartsfb</a> to find the right one for you! </p>
-
