@@ -45,8 +45,8 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 				 <a href="#lp-forest-fire">
 				 <span>Learning Package:<br>Forest Fire</span>
 		</a>
-	</div>
-	</div>
+    </div>
+  </div>
 <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
       <a href="#lp-batik">
@@ -68,9 +68,8 @@ Check our **learning packages** for a more in-depth resource list, to expand you
       </a>
     </div>
   </div>
-</div>
 <div class="col is-one-third">
-&nbsp;<div class="clickbox is-pink-ruby">
+	<div class="clickbox is-pink-ruby">
 	 <a href="#lp-psclay">
 		 <span>Learning Package:<br> Clay</span>
 	 </a>
@@ -86,9 +85,9 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 <div class="col is-one-third">
 	<div class="clickbox is-pink-ruby">
 		<a href="#lp-psnanyangartstyle"><span>Learning Package:<br> Nanyang Art Style </span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-&nbsp;&nbsp;&nbsp; </div>
-&nbsp; </div>
+</a>
+    </div>
+  </div>
 
 	
 <h3><b>Learning Package</b></h3>
