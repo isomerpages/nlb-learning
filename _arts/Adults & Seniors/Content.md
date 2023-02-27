@@ -117,6 +117,12 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 		</a>
     </div>
   </div>
+<div class="col is-one-third">
+	<div class="clickbox is-pink-ruby">
+		<a href="#lp-psnanyangartstyle"><span>Learning Package:<br> Nanyang Art Style </span>
+      </a>
+    </div>
+  </div>
 </div>
 	
 <h3><b>Learning Package</b></h3>
