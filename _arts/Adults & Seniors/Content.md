@@ -88,6 +88,13 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 </a>
     </div>
   </div>
+	<div class="col is-one-third">
+		<div class="clickbox is-pink-ruby">
+			<a href="#lp-pszinedesign">
+				<span>Learning Package:<br> Zine Design </span>
+			</a>
+    </div>
+  </div>
 </div>
 
 	
