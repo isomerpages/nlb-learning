@@ -68,13 +68,13 @@ Check our **learning packages** for a more in-depth resource list, to expand you
       </a>
     </div>
   </div>
-<div class="col is-one-third">
-	<div class="clickbox is-pink-ruby">
-	 <a href="#lp-psclay">
-		 <span>Learning Package:<br> Clay</span>
-	 </a>
-    </div>
-  </div>
+	<div class="col is-one-third">
+		<div class="clickbox is-pink-ruby">
+		 <a href="#lp-psclay">
+		<span>Learning Package:<br> Clay</span>
+			</a>
+		</div>
+	</div>
 <div class="col is-one-third">
 	<div class="clickbox is-pink-ruby">
 		<a href="#lp-psconceptdesign">
@@ -84,10 +84,11 @@ Check our **learning packages** for a more in-depth resource list, to expand you
   </div>
 <div class="col is-one-third">
 	<div class="clickbox is-pink-ruby">
-		<a href="#lp-psnanyangartstyle"><span>Learning Package:<br> Nanyang Art Style </span>
-</a>
-    </div>
-  </div>
+		<a href="#lp-psnanyangartstyle">
+			<span>Learning Package:<br> Nanyang Art Style</span>
+		</a>
+	</div>
+	</div>
 	<div class="col is-one-third">
 		<div class="clickbox is-pink-ruby">
 			<a href="#lp-pszinedesign">
