@@ -1047,11 +1047,11 @@ Chen Tingyou (2015), <i>中国书法 (Chinese Calligraphy)</i>, China Interconti
 
 Teal Triggs (2010), <i>Fanzines: The DIY Revolution</i>, Call No.: 741.65209 TRI -\[ART\], Chronicle Books.
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200172518" target="\_blank"><img src="/images/Arts/AS/OCPL-1.jpeg" style="width:300px; text-align:left;" alt="Book cover for Fanzines"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200172518" target="_blank"><img src="/images/Arts/AS/OCPL-1.jpeg" style="width:300px; text-align:left;" alt="Book cover for Fanzines"></a>
 
 <p> “Teal Triggs is Professor of Graphic Design at the Royal College of Art, and co-author with Roger Sabin (Below Critical Radar: Fanzines and Alternative Comics from 1976 to Now, 2001). Fanzines: the DIY Revolution is a title that might need a little updating—nevertheless, it remains essential reading for anyone who wants to have a general grasp of the history of zines.” – CT Lim </p>
 
-<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200172518" target="\_blank">Find out more here </a>. </p>
+<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200172518" target="_blank">Find out more here </a>. </p>
 
 <p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
 
@@ -1059,11 +1059,11 @@ Teal Triggs (2010), <i>Fanzines: The DIY Revolution</i>, Call No.: 741.65209 TRI
 
 Pann Lim (2013), <i>Rubbish: FAMzine</i>, Holycrap.
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202861223" target="\_blank"><img src="/images/Arts/AS/OCPL-2.jpeg" style="width:300px; text-align:left;" alt="Book cover for Rubbish: FAMzine"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202861223" target="_blank"><img src="/images/Arts/AS/OCPL-2.jpeg" style="width:300px; text-align:left;" alt="Book cover for Rubbish: FAMzine"></a>
 
 <p> This is an example of a successful zine in Singapore, created by designer and musician Pann Lim and his family of three. Rubbish shows that there is no limit to the content that zines contain, as long as it is fueled by creativity, passion and fun! This is definitely not your punk rock xeroxed zine, but instead a collectible (with the corresponding price tag). </p>
 
-<p><a target="\_blank">Find out more here</a>.</p>
+<p><a target="_blank">Find out more here</a>.</p>
 
 <p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
 
@@ -1071,11 +1071,11 @@ Pann Lim (2013), <i>Rubbish: FAMzine</i>, Holycrap.
 
 <i>BigO: Before I Get Old</i>, Option Publication Pte Ltd (2000).
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4633511" target="\_blank"><img src="/images/Arts/AS/OCPL-3.jpeg" style="width:300px; text-align:left;" alt="Book cover for BigO: Before I Get Old"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4633511" target="_blank"><img src="/images/Arts/AS/OCPL-3.jpeg" style="width:300px; text-align:left;" alt="Book cover for BigO: Before I Get Old"></a>
 
 <p> “The quintessential pop culture zine in Singapore that ran from 1985 to the early 2000s. It covered music, movies, comics and many of us wrote for it, including yours truly. We owe a debt to BigO, especially its xeroxed years from 1985 to 1990. A labour of love by "my generation" wanting to talk about the passion.’’ – CT Lim </p>
 
-<p><a target="\_blank">Find out more here</a>.</p>
+<p><a target="_blank">Find out more here</a>.</p>
 
 <p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
 
@@ -1083,11 +1083,11 @@ Pann Lim (2013), <i>Rubbish: FAMzine</i>, Holycrap.
 
 Stephen Duncombe (2017), <i> Notes from Underground </i>, Call No.: 051 DUN, Microcosm Publishing.
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203179986" target="\_blank"><img src="/images/Arts/AS/OCPL-4.jpeg" style="width:300px; text-align:left;" alt="Book cover for Notes from Underground"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203179986" target="_blank"><img src="/images/Arts/AS/OCPL-4.jpeg" style="width:300px; text-align:left;" alt="Book cover for Notes from Underground"></a>
 
 <p> ‘’We are living in an age of culture wars, and zines are at the heart of it. Stephen Duncombe, an associate professor at New York University's Gallatin School in the department of Media, Culture and Communications and a lifelong political activist, explores the participatory role played by zines in forming and spreading different ideas.’’ – CT Lim </p>
 
-<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203179986" target="\_blank">Find out more here </a>. </p>
+<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203179986" target="_blank">Find out more here </a>. </p>
 
 <p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
 
@@ -1095,11 +1095,11 @@ Stephen Duncombe (2017), <i> Notes from Underground </i>, Call No.: 051 DUN, Mic
 
 Marjane Satrapi (2008), <i> Persepolis I &amp; II </i>, Call No.: 955.0542092 SAT, Random House.
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200398551" target="\_blank"><img src="/images/Arts/AS/OCPL-5.jpeg" style="width:300px; text-align:left;" alt="Book cover for Persepolis I &amp; II"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200398551" target="_blank"><img src="/images/Arts/AS/OCPL-5.jpeg" style="width:300px; text-align:left;" alt="Book cover for Persepolis I &amp; II"></a>
 
 <p> “This is a graphic novel that I truly enjoyed reading. I remember picking this book up when I was an art student who was still finding my voice in my illustration practice. Persepolis informed me so much about looking into my own lived experiences and cultural narratives.” – Artist HAFI </p>
 
-<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200398551" target="\_blank">Find out more here </a>. </p>
+<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200398551" target="_blank">Find out more here </a>. </p>
 
 <p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
 
@@ -1107,7 +1107,7 @@ Marjane Satrapi (2008), <i> Persepolis I &amp; II </i>, Call No.: 955.0542092 SA
 
 Oliver Burkeman (2021), <i>Four Thousand Weeks</i>, Call No.: 640.43 BUR, The Bodley Head.
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205498037" target="\_blank"><img src="/images/Arts/AS/OCPL-6.jpeg" style="width:300px; text-align:left;" alt="Book cover for Invisible Influence"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205498037" target="_blank"><img src="/images/Arts/AS/OCPL-6.jpeg" style="width:300px; text-align:left;" alt="Book cover for Invisible Influence"></a>
 
 <p> “Oliver Burkeman writes a profound guide to time management by drawing on the insights of philosophers and spiritual teachers. Accepting that we have a finite amount of time to live, and committing our resources to what matters, may actually be the best advice on time management.” – Beverley Ng </p>
 
@@ -1115,8 +1115,8 @@ Oliver Burkeman (2021), <i>Four Thousand Weeks</i>, Call No.: 640.43 BUR, The Bo
 
 <p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
 
-<p> Download the resource list on Zine Design created by libray@orchard here: <a target="\_blank" href="https://file.go.gov.sg/proseriesresourcelistzinedesign.pdf">go.gov.sg/proseriesresourcelistzinedesign</a>
+<p> Download the resource list on Zine Design created by libray@orchard here: <a target="_blank" href="https://file.go.gov.sg/proseriesresourcelistzinedesign.pdf">go.gov.sg/proseriesresourcelistzinedesign</a>
 
 </p><h4>Art Programmes in NLB</h4>
 
-<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a target="\_blank" href="https://go.gov.sg/learnxartsfb"> go.gov.sg/learnxartsfb</a> to find the right one for you!</p>
+<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a target="_blank" href="https://go.gov.sg/learnxartsfb"> go.gov.sg/learnxartsfb</a> to find the right one for you!</p>
