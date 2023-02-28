@@ -93,8 +93,8 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 			<a href="#lp-pszinedesign">
 				<span>Learning Package:<br> Zine Design </span>
 			</a>
-&nbsp;&nbsp;&nbsp; </div>
-&nbsp; </div>
+		</div>
+	</div>
 </div>
 
 	
