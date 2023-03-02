@@ -65,7 +65,6 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td> Video resources to help parents understand more about the different types of picture books.</td>
         <td> </td>
         <td> </td>
-     
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -80,15 +79,11 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td>Various Locations</td>
       </tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b>Baby Lapsit
- </b></a></td>
-        <td> Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!
-<br>
- </td>
-					<td>Check out all the Baby Lapsit sessions for <br>February!<br></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b>Baby Lapsit</b></a></td>
+        <td> Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!<br>
+ </td><td>Check out all the Baby Lapsit sessions for <br>February!<br></td>
         <td>Various Locations</td>
-      </tr>		
-<tr>			
+      </tr><tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/e/my-friend-kiara-a-story-of-friendship-and-disabilities-tickets-513675395937?aff=odcleoeventsincollection"><b>My Friend Kiara: A Story of Friendship and Disabilities</b></a></td>
         <td>This interactive story telling session includes thought provoking activities and fun exercises for young children<br></td>
         <td>25 Feb 2023<br>11.30am-12.00pm<br></td>
@@ -104,14 +99,12 @@ https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Ch
 			<tr><td><a target="_blank" href="https://www.eventbrite.sg/e/childrens-puppet-castle-tickets-492220774587?aff=odcleoeventsincollection"><b> Stories Come Alive by NIEC(ITE)!</b></a></td>
         <td>Join us for a session of stories, songs and rhymes by NIEC(ITE) students and bring home a craft too! </td>
         <td>Check out all the sessions in February! 
-				<td>Bedok Public Library <br>Toa Payoh Public Library<br></td>
+				<td>Bedok Public Library<br>Toa Payoh Public Library<br></td>
 		</tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/sensory-story-time-tickets-507094412037?aff=odcleoeventsincollection"><b>Sensory Storytime
- </b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/sensory-story-time-tickets-507094412037?aff=odcleoeventsincollection"><b>Sensory Storytime</b></a></td>
         <td> Join us for a special storytime tailored to engage the different senses. This programme is designed to support children with special needs.
-<br>
- </td>
+<br></td>
 					<td>4 Feb 2023<br>2pm - 2.30pm<br></td>
         <td>Punggol Regional Library</td>
       </tr>		
@@ -132,9 +125,7 @@ https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Ch
  </td>
 					<td>25 Feb 2023 <br>2pm - 3pm<br></td>
         <td>Woodlands Regional Library</td>
-      </tr>		
-			<tr>			
-      </tr>		
+      </tr>				
 		</tbody>
 	</table>
 </div>
@@ -203,5 +194,4 @@ In this session children will learn how robots work, what algorithms are and how
   </tbody>
   </table>
 </div>
-
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
