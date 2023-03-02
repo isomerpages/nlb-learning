@@ -96,11 +96,16 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 			</a>
 		</div>
 	</div>
+	<div class="col is-one-third">
+		<div class="clickbox is-pink-ruby">
+			<a href="#lp-psjewellerydesign">
+				<span>Learning Package:<br> Jewellery Design </span></a>
+&nbsp;&nbsp;&nbsp; </div>
+&nbsp; </div>
 </div>
-
 	
 <h3><b>Learning Package</b></h3>
-<h5 id="lp-how-to-view-art" class="margin--bottom--lg"><b>How To View Art</b></h5>
+<h5 class="margin--bottom--lg" id="lp-how-to-view-art"><b>How To View Art</b></h5>
 <p> The way we view art has changed with the proliferation of cameras, digital screens, duplicates and photo manipulation. The invention of the camera completely changed our sense of perspective because now we can see things in places our eyes have never travelled to. It has changed the context with which we view art because we can now see a painting or work in a different setting from what the artist intended, thus giving us a different perspective of the art.
 </p>
 <table border="1">
@@ -117,166 +122,166 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 <p> A BAFTA award-winning BBC series with John Berger, which rapidly became regarded as one of the most influential art programs ever made. In the first program, Berger examines the impact of photography on our appreciation of art from the past.</p>
 
    <div class="image">
-      <a target="_blank" href="https://youtu.be/0pDE4VX_9Kk"><img src="/images/Arts/AS/video-1.png" style="width:560px; text-align:centre;"></a>
+      <a href="https://youtu.be/0pDE4VX_9Kk" target="_blank"><img style="width:560px; text-align:centre;" src="/images/Arts/AS/video-1.png"></a>
     </div>
 
-Source : <a target="_blank" href="https://www.youtube.com/watch?v=0pDE4VX_9Kk"> John Berger / Ways of Seeing, Episode 1 (1972)</a> (2012, October 8). <i>tw19751.</i> Retrieved 2022, February 15
+Source : <a href="https://www.youtube.com/watch?v=0pDE4VX_9Kk" target="_blank"> John Berger / Ways of Seeing, Episode 1 (1972)</a> (2012, October 8). <i>tw19751.</i> Retrieved 2022, February 15
 
 <h5>2. Ways of Seeing, Episode 3 (1972)</h5> 
 <p> With the invention of oil paint around 1400, painters were able to portray people and objects with an unprecedented degree of realism, and painting became the ideal way to celebrate private possessions. In this programme, John Berger questions the value we place on that tradition. </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Z7wi8jd7aC4" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=Z7wi8jd7aC4"> John Berger / Ways of Seeing, Episode 3</a> (2019, December 21). <i>tw19751.</i> Retrieved 2022, February 15
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7wi8jd7aC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=Z7wi8jd7aC4" target="_blank"> John Berger / Ways of Seeing, Episode 3</a> (2019, December 21). <i>tw19751.</i> Retrieved 2022, February 15
 
 <h5>3. Walter Benjamin: The Work of Art in the Age of Mechanical Reproduction</h5> 
 <p> An introduction to the art critic Walter Benjamin and his most influential essay, the Work of Art in the Age of Mechanical Reproduction. Including David Douglas's the Work of Art in the Age of Digital Reproduction. </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/blq9sCIyXgA" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=blq9sCIyXgA"> Walter Benjamin: The Work of Art in the Age of Mechanical Reproduction</a> (2019, March 9). <i>Then &amp; Now.</i> Retrieved 2022, February 15
+<iframe width="560" height="315" src="https://www.youtube.com/embed/blq9sCIyXgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=blq9sCIyXgA" target="_blank"> Walter Benjamin: The Work of Art in the Age of Mechanical Reproduction</a> (2019, March 9). <i>Then &amp; Now.</i> Retrieved 2022, February 15
 
 <h5>4. How to Sound like you Understand Art</h5> 
 <p> Do you question your ability to talk about art in a coherent way? Here are tips for how to sound like you understand art, even if you've never taken a class or set foot in a museum. </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OzMVvLKnJxs" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=OzMVvLKnJxs"> How to Sound like you Understand Art</a> (2019, March 9). <i>The Art Assignment.</i> Retrieved 2022, March 10
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OzMVvLKnJxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=OzMVvLKnJxs" target="_blank"> How to Sound like you Understand Art</a> (2019, March 9). <i>The Art Assignment.</i> Retrieved 2022, March 10
 
 
 <h5>5. Art and Empathy </h5> 
 <p> Empathy is a term we hear a lot, but what does it mean and how does it work? Looking back through art history, we find many moments when art has allowed us to share in the feelings of others, from Maya Lin's Vietnam Veterans Memorial, to representations of the Buddhist deity Jizō Bosatsu, the ink drawings of Chittaprosad and Zainul Abedin, the work of Ghana Think Tank, and more. </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zOW4YVEaTKI" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=zOW4YVEaTKI"> Art and Empathy</a> (2019, March 9). <i>The Art Assignment.</i> Retrieved 2022, March 10
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zOW4YVEaTKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=zOW4YVEaTKI" target="_blank"> Art and Empathy</a> (2019, March 9). <i>The Art Assignment.</i> Retrieved 2022, March 10
 
 
 <h5>6. Art Explainer 1: The Power to Look</h5> 
 <p> How does what you see in an artwork tell you how to look? Using three artworks from the Art Institute's collection, this video unpacks a central theme and uses innovative visual storytelling to highlight the choices artists made to shape form and meaning in their works. </p>
 
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SqeY2ZYh3t0" height="315" width="560"></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SqeY2ZYh3t0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=SqeY2ZYh3t0"> Art Explainer 1: The Power to Look </a> (2019, March 9). <i>The Art Institute of Chicago.</i> Retrieved 2022, March 10
+Source: <a href="https://www.youtube.com/watch?v=SqeY2ZYh3t0" target="_blank"> Art Explainer 1: The Power to Look </a> (2019, March 9). <i>The Art Institute of Chicago.</i> Retrieved 2022, March 10
 
 
 <h4>eBooks</h4>
 <h5>1. Photography, A Very Short Introduction</h5>
 Steve Edwards (2017), <i> Photography, A Very Short Introduction </i>, OUP Oxford.
 
-<a target="_blank" href="https://nlb.overdrive.com/media/3714803"><img alt="Photography, A Short Introduction" style="width:300px; text-align:left;" src="/images/Arts/AS/Book-1.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/3714803" target="_blank"><img src="/images/Arts/AS/Book-1.jpeg" style="width:300px; text-align:left;" alt="Photography, A Short Introduction"></a>
 <p> In this thought-provoking exploration of the subject, Edwards interrogates the way we look and think about photographs, and considers such issues as truth and recording, objectivity and fine art, identity and memory.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/3714803">Borrow the eBook here</a>. </p>
+<p><a href="https://nlb.overdrive.com/media/3714803" target="_blank">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>2. How to See</h5>
 David Salle (2016), <i> How to See</i>, W. W. Norton &amp; Company.
 
-<a target="_blank" href="https://nlb.overdrive.com/media/2717158"><img alt="Book cover for How to See" style="width:300px; text-align:left;" src="/images/Arts/AS/Book-2.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/2717158" target="_blank"><img src="/images/Arts/AS/Book-2.jpeg" style="width:300px; text-align:left;" alt="Book cover for How to See"></a>
 <p> How does art work? How does it move us, inform us, challenge us? Renowned painter David Salle's incisive essay collection illuminates these questions by exploring the work of influential twentieth-century artists.</p>
 
-<p><a target="_blank" href="https://nlb.overdrive.com/media/2717158">Borrow the eBook here</a>. </p>
+<p><a href="https://nlb.overdrive.com/media/2717158" target="_blank">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 	
 
 <h5>3. About Looking</h5>
 John Berger (2015), <i>About Looking</i>, Bloomsbury Publishing.
 
-<a target="_blank" href="https://nlb.overdrive.com/media/2504704"><img alt="Book Cover for About Looking" style="width:300px; text-align:left;" src="/images/Arts/AS/Book-3.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/2504704" target="_blank"><img src="/images/Arts/AS/Book-3.jpeg" style="width:300px; text-align:left;" alt="Book Cover for About Looking"></a>
 <p> In About Looking, John Berger explores our role as observers to reveal new layers of meaning in what we see.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/2504704">Borrow the eBook here</a>.</p>
+<p><a href="https://nlb.overdrive.com/media/2504704" target="_blank">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
 
 <h5>4. On Photography</h5>
 Susan Sontag (2014), <i>On Photography</i>, Penguin Books Ltd.
 
-<a target="_blank" href="https://nlb.overdrive.com/media/2018494"><img alt="Book Cover for On Photography" style="width:300px; text-align:left;" src="/images/Arts/AS/Book-4.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/2018494" target="_blank"><img src="/images/Arts/AS/Book-4.jpeg" style="width:300px; text-align:left;" alt="Book Cover for On Photography"></a>
 <p> Susan Sontag's ground-breaking critique of photography asks forceful questions about the moral and aesthetic issues surrounding this art form. She examines the ways in which we use these omnipresent images to manufacture a sense of reality and authority in our lives.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/2018494">Borrow the eBook here</a>.</p>
+<p><a href="https://nlb.overdrive.com/media/2018494" target="_blank">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
 
 <h5>5. Art Theory, A Very Short Introduction </h5>
 Cynthia Freeland (2017), <i>Art Theory, A Very Short Introduction</i>, OUP Oxford.
 
-<a target="_blank" href="https://nlb.overdrive.com/media/3714539"><img alt="Book Cover for Art Theory" style="width:300px; text-align:left;" src="/images/Arts/AS/Book-5.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/3714539" target="_blank"><img src="/images/Arts/AS/Book-5.jpeg" style="width:300px; text-align:left;" alt="Book Cover for Art Theory"></a>
 <p> In this Very Short Introduction, Cynthia Freeland explains why innovation and controversy are valued in the arts, weaving together philosophy and art theory with many fascinating examples.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/3714539">Borrow the eBook here</a>.</p>
+<p><a href="https://nlb.overdrive.com/media/3714539" target="_blank">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
 
 <h5>6. The Art of Looking at Art</h5>
 Gene Wisniewski (2020), <i>The Art of Looking at Art</i>, Bloomsbury Publishing.
 
-<a target="_blank" href="https://nlb.overdrive.com/media/5664175"><img alt="Book Cover for The Art of Looking at Art" style="width:300px; text-align:left;" src="/images/Arts/AS/Book-6.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/5664175" target="_blank"><img src="/images/Arts/AS/Book-6.jpeg" style="width:300px; text-align:left;" alt="Book Cover for The Art of Looking at Art"></a>
 <p> There's an art to viewing art. Most people aren't sure what to do when standing before a work of art, besides gaze at it for what they hope is an acceptable amount of time. This book will help remedy that situation and answer many of the most frequently asked questions pertaining to the ma¬tter of art in general.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/ 5664175">Borrow the eBook here</a>.</p>
+<p><a href="https://nlb.overdrive.com/media/ 5664175" target="_blank">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
 
 
 <h4>Art Programmes in NLB</h4>
-<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a href="https://go.gov.sg/learnxartsfb" target="_blank"> go.gov.sg/learnxartsfb</a> to find the right one for you!
+<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a target="_blank" href="https://go.gov.sg/learnxartsfb"> go.gov.sg/learnxartsfb</a> to find the right one for you!
 </p>
 			
 
 <small>References</small>
  <ol>
-    <li><span id="footnote-one">Jade. (2021, November 8). The History of the Camera</span> <i>History Things</i>. Retrieved 2022, February 15 from <a href="https://historythings.com/the-history-of-the-camera/" target="_blank"> History Things.</a></li>	
+    <li><span id="footnote-one">Jade. (2021, November 8). The History of the Camera</span> <i>History Things</i>. Retrieved 2022, February 15 from <a target="_blank" href="https://historythings.com/the-history-of-the-camera/"> History Things.</a></li>	
 	</ol>
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h3 class="margin--bottom--lg" id="lp-fabulously-felted"><b>Learning Package</b></h3>
+<h3 id="lp-fabulously-felted" class="margin--bottom--lg"><b>Learning Package</b></h3>
 
 <h5><b>Fabulously Felted</b></h5>
 	
 Create your own Fabulously Felted world by following alongside our demonstration videos and patterns! Each Package has its own theme, ranging from sea creatures to holidays to cute mascots, so there is something that will tickle everyone’s fancy, with extra book resources for further reading on the topics. Projects range from beginner to intermediate. 
 
-<h4><a href="https://go.gov.sg/ffocean" target="_blank"><b>Deep Sea Critters!</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ffocean"><b>Deep Sea Critters!</b></a></h4>
 <p> Explore the depths of the ocean—but cuter. Follow the demonstration clips provided and the pattern templates and make your own cute and cuddly versions of deep sea creatures! </p>
  
-<h4><a href="https://go.gov.sg/ffz2022" target="_blank"><b>Zodiac Race!</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ffz2022"><b>Zodiac Race!</b></a></h4>
 <p>In a whimsical twist on the traditional tale, follow the demonstration clips provided and the pattern templates to create the race-car versions of the Chinese zodiac animals! </p>
 	
-<h4><a href="https://go.gov.sg/ff12doc" target="_blank"><b>12 Days of Christmas!</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ff12doc"><b>12 Days of Christmas!</b></a></h4>
 <p>Four calling birds, three French hens, two turtledoves, and a (felted) partridge in a (felted) pear tree! (P.S. Felted things make very good Christmas tree decorations.)</p>
 
- <h4><a href="https://go.gov.sg/fficeage" target="_blank"><b>Ice Age!</b></a></h4>
+ <h4><a target="_blank" href="https://go.gov.sg/fficeage"><b>Ice Age!</b></a></h4>
 <p>Go back in time, all the way to the Ice Age, to revive these long-extinct creatures in their miniature fuzzy forms. </p>
 
-<h4><a href="https://go.gov.sg/ffffruits" target="_blank"><b>Freaky Fruits!</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ffffruits"><b>Freaky Fruits!</b></a></h4>
 <p>Taking fruits going bad to a whole new level, create these creepy-cute freaky fruits for your next Halloween party. </p>
 
-<h4><a href="https://go.gov.sg/ffheroes" target="_blank"><b>Heroes!</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ffheroes"><b>Heroes!</b></a></h4>
 <p>Can’t get enough of superhero movies? Assemble your own team of tiny heroes to fight crime against all of felt-kind. </p>
 
-<h4><a href="https://go.gov.sg/fffingerfood" target="_blank"><b>Local Finger Food!</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/fffingerfood"><b>Local Finger Food!</b></a></h4>
 <p>Sew up your own buffet of your favourite local finger foods and pile them up on your plate! Warning: this project might make you hungry. </p>
 
-<h4><a href="https://go.gov.sg/ffdino" target="_blank"><b>Dinosaurs!</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ffdino"><b>Dinosaurs!</b></a></h4>
 <p>Go back to a land before time, and sew up some tiny felt dinosaurs for your own tiny Jurassic Park.</p>
 
-<h4><a href="https://go.gov.sg/ffqb" target="_blank"><b>Quiet Book</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ffqb"><b>Quiet Book</b></a></h4>
 <p>A quiet book is a felt or fabric book with interactive elements meant to provide sensory stimulation for young children to play with. This kitchen-themed quiet book introduces children to the concept of cutting, mixing, baking, and frying, all in a soft and fuzzy felt package. </p>
 
-<h4><a href="https://go.gov.sg/ffqb2" target="_blank"><b>Quiet Book 2</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ffqb2"><b>Quiet Book 2</b></a></h4>
 <p> A quiet book is a felt or fabric book with interactive elements meant to provide sensory stimulation for young children to play with. This clothing-themed quiet book introduces children to the concept of folding, buttoning, zipping and tying, all in a soft and fuzzy felt package. </p>
 
-<h4><a href="https://go.gov.sg/ffhca" target="_blank"><b>Christian Andersen</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ffhca"><b>Christian Andersen</b></a></h4>
 <p>Bring the classic characters from Hans Christian Andersen’s timeless fairy-tales to life, in adorable felt doll form—they make excellent storytelling props too!</p>
 
-<h4><a href="https://go.gov.sg/ffmasterpiece" target="_blank"><b>Masterpieces!</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ffmasterpiece"><b>Masterpieces!</b></a></h4>
 <p>Can fine art be Fabulously Felted? The answer is a resounding yes! Re-create these art masterpieces in felt form, and become an artist yourself! </p>
 
-<h4><a href="https://go.gov.sg/ffflowers202102" target="_blank"><b>Flowers</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ffflowers202102"><b>Flowers</b></a></h4>
 <p>Real flowers may wilt and die, but felt flowers last forever. Bloom your own felt garden with this intermediate-level project. </p>
 
-<h4><a href="https://go.gov.sg/ffmixtape" target="_blank"><b>PRESSPLAY Special Mixtape</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ffmixtape"><b>PRESSPLAY Special Mixtape</b></a></h4>
 <p>Proudly wear your favourite tunes on your sleeve with this felt cassette tape cardholder, in collaboration with PRESSPLAY. </p>
 
-<h4><a href="https://go.gov.sg/ffchristmas2020" target="_blank"><b>Christmas!</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ffchristmas2020"><b>Christmas!</b></a></h4>
 <p>We wish you a felty Christmas and a fabulous New Year with these festive felt mascots. </p>
 
-<h4><a href="https://go.gov.sg/ffdessert" target="_blank"><b>Dessert</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ffdessert"><b>Dessert</b></a></h4>
 <p>Satisfy your sweet tooth without the calories in this craft project.</p>
 
-<h4><a href="https://go.gov.sg/ffshakespeare01" target="_blank"><b>Shakespeare!</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/ffshakespeare01"><b>Shakespeare!</b></a></h4>
 <p>“To felt, or not to felt, that is the question?” Re-enact Shakespeare’s comedies and tragedies with his iconic characters in felt form.</p>
 
 
@@ -286,14 +291,14 @@ Create your own Fabulously Felted world by following alongside our demonstration
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around personal and professional development.
 
-<h5 id="playlist-art-history" class="margin--bottom--lg"><b>Playlist: Art History &amp; the Chronology of Western Art Periods </b></h5> 
+<h5 class="margin--bottom--lg" id="playlist-art-history"><b>Playlist: Art History &amp; the Chronology of Western Art Periods </b></h5> 
 
 Art History &amp; the Chronology of Western Art Periods examine the broader aspects of visual culture, including the various visual and conceptual outcomes related to an ever-evolving definition of art. Art history encompasses the study of objects created by different cultures around the world and throughout history that convey meaning, importance or serve usefulness primarily through visual representations.<br>
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/SeyrLIViIYA" class="responsive-iframe"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/SeyrLIViIYA"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths"> 
@@ -306,7 +311,7 @@ Was your Art History class an endless succession of names and dates and movement
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/bkWHrWw5yTg" class="responsive-iframe"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/bkWHrWw5yTg"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -319,7 +324,7 @@ Was your Art History class an endless succession of names and dates and movement
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/CUOMENNS0EI" class="responsive-iframe"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/CUOMENNS0EI"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -332,7 +337,7 @@ Was your Art History class an endless succession of names and dates and movement
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/_tw51Eh9vcw" class="responsive-iframe"></iframe> 
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/_tw51Eh9vcw"></iframe> 
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -345,7 +350,7 @@ Was your Art History class an endless succession of names and dates and movement
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/Os6i6fneV-E" class="responsive-iframe"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/Os6i6fneV-E"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -358,7 +363,7 @@ What's the point of making realistic paintings when photography can do the trick
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/wtPBOwE0Qn0" class="responsive-iframe"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/wtPBOwE0Qn0"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -372,7 +377,7 @@ What's the point of making realistic paintings when photography can do the trick
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/96hl5J47c3k" class="responsive-iframe"></iframe>
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/96hl5J47c3k"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -385,7 +390,7 @@ For much of human history, people made art by trying to represent the world as i
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src="https://www.youtube.com/embed/XEi0Ib-nNGo" class="responsive-iframe"></iframe> 
+     <iframe class="responsive-iframe" src="https://www.youtube.com/embed/XEi0Ib-nNGo"></iframe> 
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -399,7 +404,7 @@ You've probably seen a few cubes sitting in an art gallery and questioned why th
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="image">
-      <a target="_blank" href="https://nlbsg.udemy.com/course/art-history-survey-1300-to-contemporary/learn/lecture/867540#overview"><img src="/images/Arts/Content/content_1.png"></a>
+      <a href="https://nlbsg.udemy.com/course/art-history-survey-1300-to-contemporary/learn/lecture/867540#overview" target="_blank"><img src="/images/Arts/Content/content_1.png"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -416,7 +421,7 @@ This is a year-long college-level survey course in art history. It covers art hi
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
-<h5 id="lp-performing-arts" class="margin--bottom--lg"><b>Performing Arts</b></h5>
+<h5 class="margin--bottom--lg" id="lp-performing-arts"><b>Performing Arts</b></h5>
 <p> Our curated book and video resources from the library@esplanade collections introduce the fundamentals of performing arts and support the patron’s learning and experience.  
 </p>
 
@@ -426,7 +431,7 @@ This is a year-long college-level survey course in art history. It covers art hi
 Lloyd Webber, Andrew. (2018). <i> Unmasked: A Memoir. </i> New York: Harper, an imprint of HarperCollinsPublishers. (Call no.: 782.14 LLO -[ART]) 
 
 <br>
-<img src="/images/Arts/AS/Book-7.jpeg" style="width:200px;">
+<img style="width:200px;" src="/images/Arts/AS/Book-7.jpeg">
 
 <p> In Unmasked, the revered, award-winning composer takes stock of his achievements, the twists of fate and circumstance which brought him both success and disappointment, and the passions that inspire and sustain him. </p>
 
@@ -434,110 +439,110 @@ Lloyd Webber, Andrew. (2018). <i> Unmasked: A Memoir. </i> New York: Harper, an 
 Cathy Schofield and Lucy Start. (2019). <i> Psychology for Dancers: Theory and Practice to Fulfil Your Potential. </i> New York: Routledge. (Call no.: 792.8 SCH - [ART]) 
 
 <br>
-<img src="/images/Arts/AS/Book-8.jpeg" style="width:200px;">
+<img style="width:200px;" src="/images/Arts/AS/Book-8.jpeg">
 <p> This book explores why dance is so important in many people’s lives: as a form of fitness, a profession, or visual entertainment. Each chapter examines a different aspect of psychology related to dance in an applied context. </p>
 
 <h5>Shadow Theatre in Java: The Puppets, Performance and Repertoire</h5>
 Veldhuisen-Djajasoebrata, Alit. (1999). <i> Shadow Theatre in Java: The Puppets, Performance and Repertoire. </i> Amsterdam: The Pepin Press. (Call no.: 791.53095982 DJA -[JSB]) 
 
 <br>
-<img src="/images/Arts/AS/Book-9.jpeg" style="width:200px;">  
+<img style="width:200px;" src="/images/Arts/AS/Book-9.jpeg">  
 <p> Javanese society and wayang theatre are closely connected: not only are ideas from the wayang stories deeply embedded in Javanese culture, wayang is also a means of expression. Over the centuries, the ancient wayang theatre has developed into a distinctive form of art. Foreign influences provided new stories, characters were added, new styles were reigned at the courts, and, in the twentieth century, wayang theatre even served as a vehicle for propaganda, especially during the struggle for independence from Dutch colonial rule.</p>
 
 <h5>Disability and Theatre: Practical Manual for Inclusion in the Arts</h5>
 Barton-Farcas, Stephanie. (2018). <i> Disability and Theatre: Practical Manual for Inclusion in the Arts. </i> London: Routledge, Taylor &amp; Francis Group. (Call no.: 792.087 BAR -[ART])
 
 <br>
-<img src="/images/Arts/AS/Book-10.jpeg" style="width:200px;">
+<img style="width:200px;" src="/images/Arts/AS/Book-10.jpeg">
 <p> This book is a step-by step manual on how to create inclusive theatre, including how intricate scenes like fights and battles, work with unions, contracts, and agents, and deal with technical issues. This practical information was born from the author’s 16 years of running the first inclusive theatre company in New York City and is applicable to any performance level: children’s theatre, community theatre, regional theatre, touring companies, Broadways, and academic theatre.</p>
 
 <h5>The Book of Broadway: The 150 Definitive Plays and Musicals</h5>
 Grode, Eric. (2015). <i> The Book of Broadway: The 150 Definitive Plays and Musicals. </i> Minneapolis, MN: Voyageur Press. (Call no.: 792.0974710904 GRO -[ART])
 
 <br>
-<img src="/images/Arts/AS/Book-11.jpeg" style="width:200px;">
+<img style="width:200px;" src="/images/Arts/AS/Book-11.jpeg">
 <p> This compilation by author, Eric Grode, is the ultimate guide to Broadway shows. Even if you consider yourself an expert in the theatre, you will be amazed by the fantastic Broadway trivia scattered throughout this volume, as well as the palpable sense of history in this encyclopaedic treatment of one of our most beloved pastimes.</p> 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 
-<h4><a href="https://go.gov.sg/thepeopleresourcelist" target="_blank"><b> The People</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/thepeopleresourcelist"><b> The People</b></a></h4>
 <p> Learn more about the roles and responsibilities of industry professionals who bring the performing arts to life! </p>
  
-<h4><a href="https://go.gov.sg/themastersresourcelist" target="_blank"><b> The Masters</b></a></h4>
+<h4><a target="_blank" href="https://go.gov.sg/themastersresourcelist"><b> The Masters</b></a></h4>
 <p> Discover some of the greatest performing arts visionaries, their artistic excellence, and how they have changed the performing arts landscape. </p>
 <br> 	
 <h4>Videos</h4> 
 <h5>1. Keyboard Chords | Book It Out #08</h5>
 <p> Learning to play a musical instrument can be expensive. Library officer Kurniawan Amir takes us along on his journey to learn how to play and compose music on a keyboard with just a book—How to Write Songs on Keyboards by Rikky Rooksby.</p>
    <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/R876SIS6ubk" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=R876SIS6ubk"> Keyboard Chords | Book It Out #08</a> (2022, March 15). <i>NLB Singapore .</i> Retrieved 2022, April 27.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R876SIS6ubk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=R876SIS6ubk" target="_blank"> Keyboard Chords | Book It Out #08</a> (2022, March 15). <i>NLB Singapore .</i> Retrieved 2022, April 27.
 
 <h5>2. Street Dance Exercises | Book It Out #06</h5> 
 <p> Looking for a fun sweat-it-out activity to do at home? Join library officer Nur Arjuna Karim as she picks up street dance moves and gets fit with the book Street Dance: The Best Moves by D. J. Hooch.</p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1CxlWUXGF7M" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=1CxlWUXGF7M"> Street Dance Exercises | Book It Out #06</a> (2021, November 18). <i>NLB Singapore.</i> Retrieved 2022, April 27.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CxlWUXGF7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=1CxlWUXGF7M" target="_blank"> Street Dance Exercises | Book It Out #06</a> (2021, November 18). <i>NLB Singapore.</i> Retrieved 2022, April 27.
 
 <h5>3. Hungry for Horror: Why Do We Crave What We Fear? | The Library Report #11</h5> 
 <p> Why are we drawn to horror stories? What are the unique characteristics of reading a horror novel compared to watching a horror movie? Join Librarian Meryl Chin and local filmmaker Kelvin Tong as they discuss the ways horror stories continue to appeal and tantalise generations of us. </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/V-LRwGNsP60" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=V-LRwGNsP60"> Hungry for Horror: Why Do We Crave What We Fear? | The Library Report #11</a> (2019, March 9). <i> NLB Singapore</i> Retrieved 2022, April 27.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V-LRwGNsP60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=V-LRwGNsP60" target="_blank"> Hungry for Horror: Why Do We Crave What We Fear? | The Library Report #11</a> (2019, March 9). <i> NLB Singapore</i> Retrieved 2022, April 27.
 
 <h4>Articles</h4>
 
 <h5>1. Finding Courage with Film Music</h5>
 <p>
-<a href="https://medium.com/publiclibrarysg/finding-courage-with-film-music-ef5980b76cfa" target="_blank"><img src="/images/arts/AS/arts-article1.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+<a target="_blank" href="https://medium.com/publiclibrarysg/finding-courage-with-film-music-ef5980b76cfa"><img alt="7-Signs-Thumbnail" style="width:300px; text-align:left;" src="/images/arts/AS/arts-article1.jpg"></a>
 </p><p> Film music plays the indispensable function of accentuating emotions and moods in a film. This article lists some signature pieces by iconic film composers that you can listen for free from our online music resource, NAXOS Music Library.</p>
-<p><a href="https://medium.com/publiclibrarysg/finding-courage-with-film-music-ef5980b76cfa" target="_blank"> Read the article here</a>. </p>
+<p><a target="_blank" href="https://medium.com/publiclibrarysg/finding-courage-with-film-music-ef5980b76cfa"> Read the article here</a>. </p>
 <small>Source: Finding Courage with Film Music (2020, May 19). Public Libraries Singapore. Retrieved 2022, April 27.</small> 
 
 <h5>2. 4 Easy Musical Instruments for Beginners </h5>
 <p>
-<a href="https://medium.com/publiclibrarysg/4-easy-musical-instruments-for-beginners-c524ea24e611" target="_blank"><img src="/images/arts/AS/arts-article2.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+<a target="_blank" href="https://medium.com/publiclibrarysg/4-easy-musical-instruments-for-beginners-c524ea24e611"><img alt="7-Signs-Thumbnail" style="width:300px; text-align:left;" src="/images/arts/AS/arts-article2.jpg"></a>
 </p><p> Want to pick up a new skill and hobby?  Why not learn to play a musical instrument? This article lists instruments that are relatively easy to pick up, affordable and allow you to enjoy playing music on your own without the need of joining an ensemble.
 </p>
-<p><a href="https://medium.com/publiclibrarysg/4-easy-musical-instruments-for-beginners-c524ea24e611" target="_blank"> Read the article here</a>. </p>
+<p><a target="_blank" href="https://medium.com/publiclibrarysg/4-easy-musical-instruments-for-beginners-c524ea24e611"> Read the article here</a>. </p>
 <small>Source: 4 Easy Musical Instruments for Beginners. (2020, Dec 24). Public Libraries Singapore. Retrieved 2022, April 27.</small>
 
 
 <h5>3. From Stage to Screen: 3 Hit TV Series That Were Plays First</h5>
 <p>
-<a href="https://medium.com/publiclibrarysg/from-stage-to-screen-3-hit-tv-series-that-were-plays-first-f2a111e08a7c" target="_blank"><img src="/images/arts/AS/arts-article3.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+<a target="_blank" href="https://medium.com/publiclibrarysg/from-stage-to-screen-3-hit-tv-series-that-were-plays-first-f2a111e08a7c"><img alt="7-Signs-Thumbnail" style="width:300px; text-align:left;" src="/images/arts/AS/arts-article3.jpg"></a>
 </p><p> The amphitheatre of the Greeks, the proscenium stage on West End, the wayang platform in Singapore — these venues of entertainment where live performances took place were locations that first kept people glued to their seats. With the arrival of cinema and television, producers and screenwriters began turning to the theatre for inspiration, adapting stage plays and musicals for film and TV. This article lists three hit screenplays and TV shows that first graced the stage.
 </p>
-<p><a href="https://medium.com/publiclibrarysg/from-stage-to-screen-3-hit-tv-series-that-were-plays-first-f2a111e08a7c" target="_blank"> Read the article here</a>. </p>
+<p><a target="_blank" href="https://medium.com/publiclibrarysg/from-stage-to-screen-3-hit-tv-series-that-were-plays-first-f2a111e08a7c"> Read the article here</a>. </p>
 <small>Source: From Stage to Screen: 3 Hit TV Series That Were Plays First. (2021, Jan 21). Public Libraries Singapore. Retrieved 2022, April 27.</small>
 
 <h5>4. Popular Disney Songs for Instrumentalists</h5>
 <p>
-<a href="https://medium.com/publiclibrarysg/popular-disney-songs-for-instrumentalists-1e75a71b1a1c" target="_blank"><img src="/images/arts/AS/arts-article4.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+<a target="_blank" href="https://medium.com/publiclibrarysg/popular-disney-songs-for-instrumentalists-1e75a71b1a1c"><img alt="7-Signs-Thumbnail" style="width:300px; text-align:left;" src="/images/arts/AS/arts-article4.jpg"></a>
 </p><p> Instrumental musicians often face the challenge of covering popular songs in the absence of lyrics — a struggle that vocalists may not be conscious of. Lyrics and lyrical variations help to break the monotony of repeated notes or melodic lines common in pop melodies, otherwise, such songs can end up sounding dull and monotonous when performed solely with instruments. This problem is exacerbated for instruments that are not truly polyphonic like the flute or violin. This article lists noteworthy musical pieces from Disney movies that can be added to an instrumentalist’s repertoire.
 </p>
-<p><a href="https://medium.com/publiclibrarysg/popular-disney-songs-for-instrumentalists-1e75a71b1a1c" target="_blank"> Read the article here</a>. </p>
+<p><a target="_blank" href="https://medium.com/publiclibrarysg/popular-disney-songs-for-instrumentalists-1e75a71b1a1c"> Read the article here</a>. </p>
 <small>Source: Popular Disney Songs for Instrumentalists. (2021, March 23). Public Libraries Singapore. Retrieved 2022, April 27.</small> 
 
 <h5>5. Book It Out: Reviving Your Enjoyment of Music</h5>
 <p>
-<a href="https://medium.com/publiclibrarysg/book-it-out-reviving-your-enjoyment-of-music-83673bcad705" target="_blank"><img src="/images/arts/AS/arts-article5.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+<a target="_blank" href="https://medium.com/publiclibrarysg/book-it-out-reviving-your-enjoyment-of-music-83673bcad705"><img alt="7-Signs-Thumbnail" style="width:300px; text-align:left;" src="/images/arts/AS/arts-article5.jpg"></a>
 </p><p> Ever felt that you aren’t enjoying music as much as you used to? Perhaps you’ve exhausted your playlists, or repeated them too many times. Perhaps your taste in music has changed or matured, and it’s time to explore other genres. Whatever the reason, this article lists three ways to revive your enjoyment of music!
 </p>
-<p><a href="https://medium.com/publiclibrarysg/book-it-out-reviving-your-enjoyment-of-music-83673bcad705" target="_blank"> Read the article here</a>. </p>
+<p><a target="_blank" href="https://medium.com/publiclibrarysg/book-it-out-reviving-your-enjoyment-of-music-83673bcad705"> Read the article here</a>. </p>
 <small>Source Book It Out: Reviving Your Enjoyment of Music. (2022, March 17). Public Libraries Singapore. Retrieved 2022, April 27.</small>
 
 <h5>6. Book It Out: Ways to Dance Yourself to Fitness</h5>
 <p>
-<a href="https://medium.com/publiclibrarysg/book-it-out-ways-to-dance-yourself-to-fitness-a4383fd3ab34" target="_blank"><img src="/images/arts/AS/arts-article6.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+<a target="_blank" href="https://medium.com/publiclibrarysg/book-it-out-ways-to-dance-yourself-to-fitness-a4383fd3ab34"><img alt="7-Signs-Thumbnail" style="width:300px; text-align:left;" src="/images/arts/AS/arts-article6.jpg"></a>
 </p><p> Do you like to start the day by doing something active and fun? If that tickles your fancy, here are some dance genres you can take inspiration from and incorporate into your fitness routine.
 </p>
-<p><a href="https://medium.com/publiclibrarysg/book-it-out-ways-to-dance-yourself-to-fitness-a4383fd3ab34" target="_blank"> Read the article here</a>. </p>
+<p><a target="_blank" href="https://medium.com/publiclibrarysg/book-it-out-ways-to-dance-yourself-to-fitness-a4383fd3ab34"> Read the article here</a>. </p>
 <small>Source: Book It Out: Ways to Dance Yourself to Fitness (2021, November 18). Public Libraries Singapore. Retrieved 2022, April 27.</small>
  
 <h4>Art Programmes in NLB</h4>
-<p> There’s more to explore! Get real time notifications of the different Performing Arts programs and initiatives organised by us through this link: <a href="https://go.gov.sg/learnxartsfb" target="_blank"> go.gov.sg/learnxartsfb</a> to find the right one for you!
+<p> There’s more to explore! Get real time notifications of the different Performing Arts programs and initiatives organised by us through this link: <a target="_blank" href="https://go.gov.sg/learnxartsfb"> go.gov.sg/learnxartsfb</a> to find the right one for you!
 </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
@@ -545,8 +550,8 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=V-LRwGNsP60"> H
 
 <!-- Forest Fire LP  -->
 <h3><b>Learning Package</b></h3>
-<img alt="cover image" src="/images/arts/AS/NGS-forest-fires.jpeg">
-<h5 id="lp-forest-fire" class="margin--bottom--lg"><b> Forest Fire</b></h5>
+<img src="/images/arts/AS/NGS-forest-fires.jpeg" alt="cover image">
+<h5 class="margin--bottom--lg" id="lp-forest-fire"><b> Forest Fire</b></h5>
 
 <h4>The Artist behind the art</h4>
 							
@@ -560,15 +565,15 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=V-LRwGNsP60"> H
 
 <div class="bp-youtube">
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/16MkpVyE5W8" height="315" width="560"></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/16MkpVyE5W8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=16MkpVyE5W8"> Interview with Dr Werner Kraus on Raden Saleh</a> (2018, March 1). <i>National Gallery Singapore.</i> Retrieved 2022, October 26
+Source: <a href="https://www.youtube.com/watch?v=16MkpVyE5W8" target="_blank"> Interview with Dr Werner Kraus on Raden Saleh</a> (2018, March 1). <i>National Gallery Singapore.</i> Retrieved 2022, October 26
 
 <h5>Explore more works by Raden Saleh</h5>
 
-<a target="_blank" href="https://collections.nationalgallery.sg/#/search?Search=raden%20saleh&amp;SearchType=b&amp;CategoryCode=ART"><img alt="Raden Saleh NGS collection" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-Forest-Fire-1.jpeg"></a>
+<a href="https://collections.nationalgallery.sg/#/search?Search=raden%20saleh&amp;SearchType=b&amp;CategoryCode=ART" target="_blank"><img src="/images/Arts/AS/NGS-Forest-Fire-1.jpeg" style="width:300px; text-align:left;" alt="Raden Saleh NGS collection"></a>
 
-<p><a target="_blank" href="https://collections.nationalgallery.sg/#/search?Search=raden%20saleh&amp;SearchType=b&amp;CategoryCode=ART"> Check out other works by Raden Saleh at the National Gallery Singapore’s online collection! </a>. </p>
+<p><a href="https://collections.nationalgallery.sg/#/search?Search=raden%20saleh&amp;SearchType=b&amp;CategoryCode=ART" target="_blank"> Check out other works by Raden Saleh at the National Gallery Singapore’s online collection! </a>. </p>
 
 <h4>Discover More</h4>
 
@@ -577,37 +582,37 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=16MkpVyE5W8"> I
 <p>Raden Saleh was one of the artists from the Romantic era, learn more about this artistic movement from the 1800s.</p>
 
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OiRWBI0JTYQ" height="315" width="560"></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OiRWBI0JTYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=OiRWBI0JTYQ"> HISTORY OF IDEAS – Romanticism </a> (2015, February 13). <i>The School of Life.</i> Retrieved 2022, October 26
+Source: <a href="https://www.youtube.com/watch?v=OiRWBI0JTYQ" target="_blank"> HISTORY OF IDEAS – Romanticism </a> (2015, February 13). <i>The School of Life.</i> Retrieved 2022, October 26
 
 <h5>2. Movie Scenes Inspired by Famous Paintings</h5>
 
 <p>Art imitates art in this video that breaks down movie scenes inspired by famous paintings.</p>
 
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Wo5IILSy3fo" height="315" width="560"></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wo5IILSy3fo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=Wo5IILSy3fo&amp;feature=youtu.be"> movie scenes inspired by famous paintings | an animated journey </a> (2020, October 27). <i>Marina May.</i> Retrieved 2022, October 26
+Source: <a href="https://www.youtube.com/watch?v=Wo5IILSy3fo&amp;feature=youtu.be" target="_blank"> movie scenes inspired by famous paintings | an animated journey </a> (2020, October 27). <i>Marina May.</i> Retrieved 2022, October 26
 
 <h5>3. A Brief History of Indonesian Art</h5>
 
 <p>Watch this primer on the history of Indonesian Art.</p>
 
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jjnIwsDbPWg" height="315" width="560"></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjnIwsDbPWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=jjnIwsDbPWg&amp;feature=youtu.be"> A Brief History of Indonesian Art </a> (2019, April 28). <i>Catherine M</i> Retrieved 2022, October 26
+Source: <a href="https://www.youtube.com/watch?v=jjnIwsDbPWg&amp;feature=youtu.be" target="_blank"> A Brief History of Indonesian Art </a> (2019, April 28). <i>Catherine M</i> Retrieved 2022, October 26
 
 <h5>1. Romanticism, A Very Short Introduction </h5>
 
 Michael Ferber (2017), <i> Romanticism, A Very Short Introduction </i>, OUP Oxford.
 
-<a target="_blank" href="https://nlb.overdrive.com/media/3714803"><img alt="Romanticism, A Very Short Introduction" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-Forest-Fire-2.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/3714803" target="_blank"><img src="/images/Arts/AS/NGS-Forest-Fire-2.jpeg" style="width:300px; text-align:left;" alt="Romanticism, A Very Short Introduction"></a>
 
 <p>What is Romanticism? In this Very Short Introduction Michael Ferber answers this by considering who the romantics were and looks at what they had in common — their ideas, beliefs, commitments, and tastes. He looks at the birth and growth of Romanticism throughout Europe and the Americas, and examines various types of Romantic literature, music, painting, religion, and philosophy.</p>
 
-<p><a target="_blank" href="https://nlb.overdrive.com/media/3714844">Borrow the eBook here</a>. </p>
+<p><a href="https://nlb.overdrive.com/media/3714844" target="_blank">Borrow the eBook here</a>. </p>
 
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
@@ -615,11 +620,11 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 Peter Gay (2015), <i> Why the Romantics Matter </i>, Yale University Press.
 
-<a target="_blank" href="https://nlb.overdrive.com/media/2073606"><img alt="Why the Romantics Matter" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-Forest-Fire-3.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/2073606" target="_blank"><img src="/images/Arts/AS/NGS-Forest-Fire-3.jpeg" style="width:300px; text-align:left;" alt="Why the Romantics Matter"></a>
 
 <p>A renowned scholar's reflections on the romantic period, its disparate participants, and our unacknowledged debt to them. With his usual wit and élan, esteemed historian Peter Gay enters the contentious, long-standing debates over the romantic period. Here, in this concise and inviting volume, he reformulates the definition of romanticism and provides a fresh account of the immense achievements of romantic writers and artists in all media.</p>
 
-<p><a target="_blank" href="https://nlb.overdrive.com/media/2073606">Borrow the eBook here</a>. </p>
+<p><a href="https://nlb.overdrive.com/media/2073606" target="_blank">Borrow the eBook here</a>. </p>
 
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
@@ -627,11 +632,11 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 Kimberly Brooks (2021), <i> The New Oil Painting: Your Essential Guide to Materials and Safe Practices </i>, Chronicle Books LLC.
 
-<a target="_blank" href="https://nlb.overdrive.com/media/6164162"><img alt="The New Oil Painting: Your Essential Guide to Materials and Safe Practices" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-Forest-Fire-4.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/6164162" target="_blank"><img src="/images/Arts/AS/NGS-Forest-Fire-4.jpeg" style="width:300px; text-align:left;" alt="The New Oil Painting: Your Essential Guide to Materials and Safe Practices"></a>
 
 <p>This instructional handbook is organised into chapters with helpful diagrams throughout illustrating various techniques and tools. Whether you're a true beginner or have been painting with oils for years, you will find that this book has everything you need to build a new, thriving, toxin-free practice.</p>
 
-<p><a target="_blank" href="https://nlb.overdrive.com/media/6164162">Borrow the eBook here</a>. </p>
+<p><a href="https://nlb.overdrive.com/media/6164162" target="_blank">Borrow the eBook here</a>. </p>
 
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
@@ -648,8 +653,8 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 	
 <h3><b>Learning Package</b></h3>
-<img alt="cover image" src="/images/arts/AS/NGS-batik.jpeg">
-<h5 id="lp-batik" class="margin--bottom--lg"><b>Batik</b></h5>
+<img src="/images/arts/AS/NGS-batik.jpeg" alt="cover image">
+<h5 class="margin--bottom--lg" id="lp-batik"><b>Batik</b></h5>
 
 <h4>What is Batik?</h4>
 <p> Batik painting is the process in which patterns or images are dyed onto fabric, usually using a wax-resist technique followed by the application of the dye.
@@ -657,71 +662,71 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 <h5> How traditional Javanese Batik is made? </h5>
 <p> Watch Javanese artisans make batik and learn more about their refined techniques. Many places in the world pattern textiles by applying wax to protect certain areas from dye. During the dye process, the wax areas resist the dye, and when the wax is removed a pattern emerges. Both the technique and the textile produced are called batik.</p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PLTmu5m5bFU" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=PLTmu5m5bFU&amp;t=22s"> Batik of Java: A Centuries Old Tradition </a> (2017, January 28). <i>Asian Art Museum.</i> Retrieved 2022, October 26
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLTmu5m5bFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=PLTmu5m5bFU&amp;t=22s" target="_blank"> Batik of Java: A Centuries Old Tradition </a> (2017, January 28). <i>Asian Art Museum.</i> Retrieved 2022, October 26
 
 <h5> Singaporean Artist Tumadi Patri shows how he creates his Batik artwork </h5>
 <p>This demonstration by contemporary batik artist Tumadi Patri illuminates the numerous processes behind batik painting. Tumadi begins by sketching a visual concept on paper before transferring it onto fabric. Liquid wax is then funnelled through a canting, a pen-like instrument, to outline the image on the fabric which is then dyed. To remove the wax, the fabric is dipped in a mixture of hot water and soda ash, then cold water. The steps of waxing, dyeing and washing may be carried out numerous times for intricate designs, a testament to the complexity of batik art.</p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pThHII_qdf0" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=pThHII_qdf0&amp;feature=youtu.be"> Films on Artmaking in Southeast Asia: Batik </a> (2020, June 5). <i>National Gallery Singapore.</i> Retrieved 2022, October 26
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pThHII_qdf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=pThHII_qdf0&amp;feature=youtu.be" target="_blank"> Films on Artmaking in Southeast Asia: Batik </a> (2020, June 5). <i>National Gallery Singapore.</i> Retrieved 2022, October 26
 
 <h4>The History of Batik </h4>
 <p> Did you know that batik pre-dates written records? The technique of wax-resistant dyeing is also not exclusive to Southeast Asia and can be found in many parts of the world. Watch the video below to find out more.</p>
 
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IXpqcr_HKJs" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=IXpqcr_HKJs&amp;feature=youtu.be"> Brief History of Batik || Hari Batik Nasional 2018 </a> (2018, September 30). <i>PPI Australia Official.</i> Retrieved 2022, October 26
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IXpqcr_HKJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=IXpqcr_HKJs&amp;feature=youtu.be" target="_blank"> Brief History of Batik || Hari Batik Nasional 2018 </a> (2018, September 30). <i>PPI Australia Official.</i> Retrieved 2022, October 26
 
 <h4>Get to Know the Artists</h4>
 <h5>1. Sarkasi “Tzee” Said</h5>
 <p>Watch this video to learn about Sarkasi “Tzee” Said’s journey as an artist and the philosophy behind his works.</p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lPzSmcht7iI" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=lPzSmcht7iI&amp;feature=youtu.be"> #Interview: Sarkasi Bin Said: Professional Batik Artist</a> (2019, July 26). <i>National Library Board.</i> Retrieved 2022, October 26
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lPzSmcht7iI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=lPzSmcht7iI&amp;feature=youtu.be" target="_blank"> #Interview: Sarkasi Bin Said: Professional Batik Artist</a> (2019, July 26). <i>National Library Board.</i> Retrieved 2022, October 26
 
 <h5>Explore more works by Sarkasi “Tzee” Said</h5>
-<a target="_blank" href="https://collections.nationalgallery.sg/#/search?Search=Sarkasi%20Said&amp;SearchType=b&amp;CategoryCode=ART"><img alt="Sarkasi Tzee Said collection" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-batik-1.jpeg"></a>
-<p><a target="_blank" href="https://collections.nationalgallery.sg/#/search?Search=Sarkasi%20Said&amp;SearchType=b&amp;CategoryCode=ART"> Discover more works by Batik artist Sarkasi “Tzee” Said from the National Gallery Singapore online collection. </a>. </p>
+<a href="https://collections.nationalgallery.sg/#/search?Search=Sarkasi%20Said&amp;SearchType=b&amp;CategoryCode=ART" target="_blank"><img src="/images/Arts/AS/NGS-batik-1.jpeg" style="width:300px; text-align:left;" alt="Sarkasi Tzee Said collection"></a>
+<p><a href="https://collections.nationalgallery.sg/#/search?Search=Sarkasi%20Said&amp;SearchType=b&amp;CategoryCode=ART" target="_blank"> Discover more works by Batik artist Sarkasi “Tzee” Said from the National Gallery Singapore online collection. </a>. </p>
 
 <h5>2. Jaafar Latiff</h5>
 <p> Jaafar Latiff (1937–2007) established his practice as an abstract artist known for his innovation in the medium of batik. He was a self-taught artist who spent much of his career as an art educator, teaching in institutions such as Baharuddin Vocational Institute, LASALLE College of the Arts and Nanyang Academy of Fine Arts. He integrated the conventional techniques of batik with his abstract style, creating batik paintings that challenged prevailing ideas of tradition. <br><br>
 Watch this panel discussion helmed by National Gallery Singapore curator Goh Sze Ying on Jaafar Latiff’s artistic expression through batik and how contemporary art practices incorporate batik. </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nTLmUc_wsmY" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=nTLmUc_wsmY"> Before, and Beyond: Fajrina Razak &amp; Yee I-Lann in Conversation with Goh Sze Ying </a> (2021, September 23). <i>National Gallery Singapore.</i> Retrieved 2022, October 26
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nTLmUc_wsmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=nTLmUc_wsmY" target="_blank"> Before, and Beyond: Fajrina Razak &amp; Yee I-Lann in Conversation with Goh Sze Ying </a> (2021, September 23). <i>National Gallery Singapore.</i> Retrieved 2022, October 26
 
 <h5>Explore more works by Jaafar Latiff</h5>
-<a target="_blank" href="https://collections.nationalgallery.sg/#/search?Search=Jaafar%20Latiff&amp;SearchType=b&amp;CategoryCode=ART"><img alt="Jaafar Latiff collection" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-batik-2.jpeg"></a>
-<p><a target="_blank" href="https://collections.nationalgallery.sg/#/search?Search=Jaafar%20Latiff&amp;SearchType=b&amp;CategoryCode=ART"> Discover more works by Batik artist Jaafar Latiff from the National Gallery Singapore online collection. </a></p>
+<a href="https://collections.nationalgallery.sg/#/search?Search=Jaafar%20Latiff&amp;SearchType=b&amp;CategoryCode=ART" target="_blank"><img src="/images/Arts/AS/NGS-batik-2.jpeg" style="width:300px; text-align:left;" alt="Jaafar Latiff collection"></a>
+<p><a href="https://collections.nationalgallery.sg/#/search?Search=Jaafar%20Latiff&amp;SearchType=b&amp;CategoryCode=ART" target="_blank"> Discover more works by Batik artist Jaafar Latiff from the National Gallery Singapore online collection. </a></p>
 
 <h4>Discover More</h4>
 <h5>1. Batik, Fabled Cloth of Java</h5>
 Inger McCabe Elliott, Brian Brake (2013), <i> Batik, Fabled Cloth of Java </i>, Tuttle Publishing.
-<a target="_blank" href="https://nlb.overdrive.com/media/1072981"><img alt="Batik, Fabled Cloth of Java" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-batik-3.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/1072981" target="_blank"><img src="/images/Arts/AS/NGS-batik-3.jpeg" style="width:300px; text-align:left;" alt="Batik, Fabled Cloth of Java"></a>
 <p>From the royal courts of Yogyakarta and Cirebon to the coastal towns of Pekalongan, Surabaya and Lasem, Inger McCabe Elliot takes the reader on a spellbinding tour of Java's north coast examining the customs, cultures and craftsmanship that distinguishes its magic cloth.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/1072981">Borrow the eBook here</a></p>
+<p><a href="https://nlb.overdrive.com/media/1072981" target="_blank">Borrow the eBook here</a></p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>2. Malaysian Batik, Reinventing a Tradition </h5>
 Noor Azlina Yunus (2012), <i> Malaysian Batik, Reinventing a Tradition </i>, Tuttle Publishing.
-<a target="_blank" href="https://nlb.overdrive.com/media/989161"><img alt="Malaysian Batik, Reinventing a Tradition" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-batik-4.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/989161" target="_blank"><img src="/images/Arts/AS/NGS-batik-4.jpeg" style="width:300px; text-align:left;" alt="Malaysian Batik, Reinventing a Tradition"></a>
 <p>Batik is more than wax and dye applied to a length of cloth. It is an art form practiced by people around Asia. With its its bolder, abstract designs and its brighter palette, Malaysian batik is a distinctly different type of batik that has brought an exciting new dimension to this ancient method of fabric art.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/989161">Borrow the eBook here.</a></p>
+<p><a href="https://nlb.overdrive.com/media/989161" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>3. Textiles of Southeast Asia: Trade, Tradition and Transformation </h5>
 Robyn Maxwell, Mattiebelle Gittinger (2012), <i> Textiles of Southeast Asia: Trade, Tradition and Transformation </i>, Tuttle Publishing.
-<a target="_blank" href="https://nlb.overdrive.com/media/1015098"><img alt="Textiles of Southeast Asia: Trade, Tradition and Transformation" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-batik-5.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/1015098" target="_blank"><img src="/images/Arts/AS/NGS-batik-5.jpeg" style="width:300px; text-align:left;" alt="Textiles of Southeast Asia: Trade, Tradition and Transformation"></a>
 <p> Textiles provide a visual history of a country's culture and crafting traditions in a way few other things can accomplish. In Textiles of Southeast Asia, Dr. Robyn Maxwell provides the definitive work on Southeast Asian textiles.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/1015098">Borrow the eBook here.</a></p>
+<p><a href="https://nlb.overdrive.com/media/1015098" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>4. The Golden Thread: How Fabric Changed History</h5>
 Kassia St. Clair (2019), <i> The Golden Thread: How Fabric Changed History </i>, Liveright.
-<a target="_blank" href="https://nlb.overdrive.com/media/4608263"><img alt="The Golden Thread: How Fabric Changed History" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-batik-6.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/4608263" target="_blank"><img src="/images/Arts/AS/NGS-batik-6.jpeg" style="width:300px; text-align:left;" alt="The Golden Thread: How Fabric Changed History"></a>
 <p> From colourful threads found on the floor of an ancient Georgian cave to the Indian calicoes that fuelled the Industrial Revolution, The Golden Thread illuminates the myriad and fascinating histories behind the cloths that came to define human civilization—the fabric, for example, that allowed mankind to shatter athletic records, and the textile technology that granted us the power to survive in space. Exploring the enduring association of textiles with "women's work," Kassia St. Clair "spins a rich social history . . . that also reflects the darker side of technology".</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/4608263">Borrow the eBook here.</a></p>
+<p><a href="https://nlb.overdrive.com/media/4608263" target="_blank">Borrow the eBook here.</a></p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 
@@ -731,7 +736,7 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
  
 ![](/images/Arts/AS/NGS-here-they-com.jpeg) 
 
-<h5 id="lp-here-they-come" class="margin--bottom--lg"><b>Here They Come!</b></h5>
+<h5 class="margin--bottom--lg" id="lp-here-they-come"><b>Here They Come!</b></h5>
 
 <h4>The Artist behind the Art</h4>
 <p> Born in 1938, Koeh graduated from the Nanyang Academy of Fine Arts (NAFA) in 1958. <br>
@@ -740,117 +745,117 @@ Koeh has a substantive body of woodcuts and paintings dating from the late 1950s
 </p>
 <h5>Find out more about Here They Come!</h5>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QCA48SlTKpI" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=QCA48SlTKpI"> Art and Building Highlights: Here They Come! by Koh Sia Yong and the Hawker Licensing Commission </a> (2020, August 9). <i>National Gallery Singapore.</i> Retrieved 2022, October 26
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QCA48SlTKpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=QCA48SlTKpI" target="_blank"> Art and Building Highlights: Here They Come! by Koh Sia Yong and the Hawker Licensing Commission </a> (2020, August 9). <i>National Gallery Singapore.</i> Retrieved 2022, October 26
 
 <h5>Explore more works by Koeh Sia Yong</h5>
-<a target="_blank" href="https://collections.nationalgallery.sg/#/search?SearchType=a&amp;det=isDet&amp;CategoryCode=ART&amp;Artist=Koeh%20Sia%20Yong"><img alt="Koeh Sia Yong collection" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-here-they-come-1.jpeg"></a>
-<p><a target="_blank" href="https://collections.nationalgallery.sg/#/search?SearchType=a&amp;det=isDet&amp;CategoryCode=ART&amp;Artist=Koeh%20Sia%20Yong"> Check out the collection of works by Koeh Sia Yong at the National Gallery Singapore’s online collection! </a>. </p>
+<a href="https://collections.nationalgallery.sg/#/search?SearchType=a&amp;det=isDet&amp;CategoryCode=ART&amp;Artist=Koeh%20Sia%20Yong" target="_blank"><img src="/images/Arts/AS/NGS-here-they-come-1.jpeg" style="width:300px; text-align:left;" alt="Koeh Sia Yong collection"></a>
+<p><a href="https://collections.nationalgallery.sg/#/search?SearchType=a&amp;det=isDet&amp;CategoryCode=ART&amp;Artist=Koeh%20Sia%20Yong" target="_blank"> Check out the collection of works by Koeh Sia Yong at the National Gallery Singapore’s online collection! </a>. </p>
 <h5>Discover More</h5>
 <h5>1. Oil Painting for Beginners</h5>
 <p> Want to get started in Oil Painting? Check out this video on how to get started! </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/w3hbZfX0Abg" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=w3hbZfX0Abg"> Oil Painting for Beginners - Basic Techniques + Step by Step Demonstration </a> (2017, December 2). <i>Florent Farges - arts.</i> Retrieved 2022, October 26
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w3hbZfX0Abg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=w3hbZfX0Abg" target="_blank"> Oil Painting for Beginners - Basic Techniques + Step by Step Demonstration </a> (2017, December 2). <i>Florent Farges - arts.</i> Retrieved 2022, October 26
 <h5>2. Learn more about oil paint </h5>
 <p>Ever wondered why oil paint is so popular among famous artists? Watch this video to learn about the history of oil paint and the process that goes behind its creation:</p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/iib_imkZ5fk" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=iib_imkZ5fk"> Why Oil Paint Is So Expensive | So Expensive </a> (2019, July 13). <i>Business Insider.</i> Retrieved 2022, October 26
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iib_imkZ5fk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=iib_imkZ5fk" target="_blank"> Why Oil Paint Is So Expensive | So Expensive </a> (2019, July 13). <i>Business Insider.</i> Retrieved 2022, October 26
 <h5>3. Singapore’s Hawker History</h5>
 <p>Learn about the history of Singapore’s hawker culture, the role illegal hawkers played in the informal economy of the 1960s and how it inspired Koeh Sia Yong to create his work <i>Here They Come!</i>  </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pPUKR0N6OHY" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=pPUKR0N6OHY"> Clearing Illegal Hawkers In 1960s Singapore | A Frame In Time | Episode 1/3 </a> (2020, April 27). <i>CNA Insider.</i> Retrieved 2022, October 26
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pPUKR0N6OHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=pPUKR0N6OHY" target="_blank"> Clearing Illegal Hawkers In 1960s Singapore | A Frame In Time | Episode 1/3 </a> (2020, April 27). <i>CNA Insider.</i> Retrieved 2022, October 26
 <h5>4. Oil Painting Essentials: Mastering Portraits, Figures, Still Lifes, Landscapes, and Interiors </h5>
 Gregg Kreutz (2013), <i> Oil Painting Essentials: Mastering Portraits, Figures, Still Lifes, Landscapes, and Interiors </i>, Clarkson Potter/Ten Speed.
-<a target="_blank" href="https://nlb.overdrive.com/media/2504953"><img alt="Oil Painting Essentials: Mastering Portraits, Figures, Still Lifes, Landscapes, and Interiors" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-here-they-come-2.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/2504953" target="_blank"><img src="/images/Arts/AS/NGS-here-they-come-2.jpeg" style="width:300px; text-align:left;" alt="Oil Painting Essentials: Mastering Portraits, Figures, Still Lifes, Landscapes, and Interiors"></a>
 <p> Many painters limit themselves to one type of subject matter, but in Oil Painting Essentials, artist and art instructor Gregg Kreutz shows how a multi-genre approach can dramatically improve your painting skills. Arranged by category, each chapter covers both the essentials specific to that subject matter and those that apply to all genres.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/2504953">Borrow the eBook here</a></p>
+<p><a href="https://nlb.overdrive.com/media/2504953" target="_blank">Borrow the eBook here</a></p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>5. Oil Painting with the Masters: Essential Techniques from Today's Top Artists </h5>
 Cindy Salaski (2014), <i> Oil Painting with the Masters: Essential Techniques from Today's Top Artists </i>, Penguin Publishing Group.
-<a target="_blank" href="https://nlb.overdrive.com/media/1816300"><img alt="Oil Painting with the Masters: Essential Techniques from Today's Top Artists" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-here-they-come-3.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/1816300" target="_blank"><img src="/images/Arts/AS/NGS-here-they-come-3.jpeg" style="width:300px; text-align:left;" alt="Oil Painting with the Masters: Essential Techniques from Today's Top Artists"></a>
 <p> Master the art of oil painting with instruction on key topics and techniques such as materials, observation, references, forms, composition, colour palettes, mixing colours, underpainting, working in layers, light effects, painting on location, textures and more from ten contributors, including beautiful gallery images of finished works.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/1816300">Borrow the eBook here</a></p>
+<p><a href="https://nlb.overdrive.com/media/1816300" target="_blank">Borrow the eBook here</a></p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>6. Painting Buildings in Oils </h5>
 James Willis (2021), <i> Painting Buildings in Oils </i>, The Crowood Press.
-<a target="_blank" href="https://nlb.overdrive.com/media/6181777"><img alt="Painting Buildings in Oils" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-here-they-come-4.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/6181777" target="_blank"><img src="/images/Arts/AS/NGS-here-they-come-4.jpeg" style="width:300px; text-align:left;" alt="Painting Buildings in Oils"></a>
 <p>Painting buildings is an exciting and versatile genre - it allows you to enjoy the lines of architecture but also to add feeling and context to a picture. This practical book explains the full depth of the subject, from first sketches to final presentation. Using a range of examples, it is packed with advice and information, and follows the riches of painting the built landscape. Not just a handy reference, this is a beautiful and inspirational guide for every artist who wants to capture and interpret a scene.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/6181777">Borrow the eBook here</a></p>
+<p><a href="https://nlb.overdrive.com/media/6181777" target="_blank">Borrow the eBook here</a></p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <h5>7. Singapore Hawker Classics Unveiled: Decoding 25 Favourite Dishes</h5>
 Temasek Polytechnic (2015), <i> Singapore Hawker Classics Unveiled: Decoding 25 Favourite Dishes </i>, Marshall Cavendish International.
-<a target="_blank" href="https://nlb.overdrive.com/media/2472122"><img alt="Singapore Hawker Classics Unveiled: Decoding 25 Favourite Dishes" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-here-they-come-5.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/2472122" target="_blank"><img src="/images/Arts/AS/NGS-here-they-come-5.jpeg" style="width:300px; text-align:left;" alt="Singapore Hawker Classics Unveiled: Decoding 25 Favourite Dishes"></a>
 <p>Produced as a celebration of Singapore's renowned culinary heritage, Singapore Hawker Classics Unveiled, tells you everything you ever needed to know – and more! – about 25 of our favourite dishes. The 25 delicious recipes featured will allow you to recreate your favourite classic hawker treats at home and inspire you to look at these familiar dishes in a new light – each dish includes its traditional presentation together with an additional interpretation with a modern twist. Moreover, every dish is covered in great detail, including information on its heritage, its aroma, taste and texture, its nutritional value, as well as clear step-by-step instructions and photographs.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/2472122">Borrow the eBook here</a></p>
+<p><a href="https://nlb.overdrive.com/media/2472122" target="_blank">Borrow the eBook here</a></p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <!-- Life by The River -->
 
 <h3><b>Learning Package</b></h3>
-<img alt="cover image" src="/images/arts/AS/NGS-life-by-the-river.jpeg">
-<h5 id="lp-river" class="margin--bottom--lg"><b>Life by the River</b></h5>
+<img src="/images/arts/AS/NGS-life-by-the-river.jpeg" alt="cover image">
+<h5 class="margin--bottom--lg" id="lp-river"><b>Life by the River</b></h5>
 
 <h4>The Artist behind the Art</h4>
 <p> Born in Fujian Province in 1911, Liu Kang received his formal training in Xinhua Art Academy of Shanghai, where he was exposed to Chinese paintings. In 1928, he went to Paris where he was influenced by art movements such as Fauvism and Post-Impressionism. Not only was he one of Singapore’s pioneer artists, he was also a leading figure in the Society of Chinese Artists and the Singapore Art Society. In 1970, he was awarded the Public Service Star for his contribution in the field of art. <br><br>
-Learn more about Liu Kang from <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_158_2005-01-22.html?s=liu%20kang"> this Infopedia article.</a></p>
+Learn more about Liu Kang from <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_158_2005-01-22.html?s=liu%20kang" target="_blank"> this Infopedia article.</a></p>
 <h4>Find out more about Life by the River!</h4>
 <h5>1. The subject matter in the artwork </h5>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jdjiMeGMaJU" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=jdjiMeGMaJU"> Liu Kang’s Life By The River | Part 1: Subject Matter </a> (2022, October 3). <i>Lets Learn About Art.</i> Retrieved 2022, October 26
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jdjiMeGMaJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=jdjiMeGMaJU" target="_blank"> Liu Kang’s Life By The River | Part 1: Subject Matter </a> (2022, October 3). <i>Lets Learn About Art.</i> Retrieved 2022, October 26
 
 <h5>2. Liu Kang’s Influences</h5>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8_wa7dsnNx0" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=8_wa7dsnNx0"> Liu Kang’s Life By The River | Part 2: Influences </a> (2022, September 14). <i>Lets Learn About Art.</i> Retrieved 2022, October 26
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8_wa7dsnNx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=8_wa7dsnNx0" target="_blank"> Liu Kang’s Life By The River | Part 2: Influences </a> (2022, September 14). <i>Lets Learn About Art.</i> Retrieved 2022, October 26
 
 <h5>3. The context behind Liu Kang’s works </h5>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RSC18sebS3s" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=RSC18sebS3s"> Liu Kang’s Life By The River | Part 3: Context</a> (2022, September 14). <i>Lets Learn About Art.</i> Retrieved 2022, October 26.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RSC18sebS3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=RSC18sebS3s" target="_blank"> Liu Kang’s Life By The River | Part 3: Context</a> (2022, September 14). <i>Lets Learn About Art.</i> Retrieved 2022, October 26.
 
 <h5>Explore more works by Liu Kang</h5>
-<a target="_blank" href="https://collections.nationalgallery.sg/#/search?Search=liu%20kang&amp;SearchType=b&amp;CategoryCode=ART&amp;FilterArtist=Liu%20Kang"><img alt="Liu Kang collection" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-life-by-the-river-1.jpeg"></a>
-<p><a target="_blank" href="https://collections.nationalgallery.sg/#/search?Search=liu%20kang&amp;SearchType=b&amp;CategoryCode=ART&amp;FilterArtist=Liu%20Kang"> Check out the collection of works by Liu Kang at the National Gallery Singapore’s online collection! </a>. </p>
+<a href="https://collections.nationalgallery.sg/#/search?Search=liu%20kang&amp;SearchType=b&amp;CategoryCode=ART&amp;FilterArtist=Liu%20Kang" target="_blank"><img src="/images/Arts/AS/NGS-life-by-the-river-1.jpeg" style="width:300px; text-align:left;" alt="Liu Kang collection"></a>
+<p><a href="https://collections.nationalgallery.sg/#/search?Search=liu%20kang&amp;SearchType=b&amp;CategoryCode=ART&amp;FilterArtist=Liu%20Kang" target="_blank"> Check out the collection of works by Liu Kang at the National Gallery Singapore’s online collection! </a>. </p>
 
 <h5>Discover More</h5>
 <h5>1. Singapore Paintings from the 1950s to the 1970s </h5>
 <p>Watch this lecture by Art Historian Jeffrey Say as he highlights the different styles of paintings from a prolific period for Singaporean painters. </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/CM7kR0tGt7c" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/watch?v=CM7kR0tGt7c"> From Nanyang to Modern: Singapore Painting from the 1950s to the 1970s (Full Version) </a> (2018, June 28). <i>NLB Singapore.</i> Retrieved 2022, October 26
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CM7kR0tGt7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=CM7kR0tGt7c" target="_blank"> From Nanyang to Modern: Singapore Painting from the 1950s to the 1970s (Full Version) </a> (2018, June 28). <i>NLB Singapore.</i> Retrieved 2022, October 26
 <h5>2. Other Singaporean Artists to Discover </h5>
 <p>Curious about other Singaporean artists who were masters on the canvas? Head over to these Infopedia links to find out more: </p>
-<p><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_698_2005-01-12.html?s=Arts%3E%3EPainting%3E%3EOil%20painting">Georgette Chen</a></p>
-<p><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_472_2004-12-23.html?s=Arts%3E%3EPainting%3E%3EOil%20painting">Choo Keng Kwang</a></p>
-<p><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2019-05-17_161302.html?s=Arts%3E%3EPainting%3E%3EOil%20painting">Leo Hee Tong</a></p>
-<p><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_266_2005-01-13.html?s=Arts%3E%3EPainting%3E%3EOil%20painting">Ho Kah Leong</a></p>
+<p><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_698_2005-01-12.html?s=Arts%3E%3EPainting%3E%3EOil%20painting" target="_blank">Georgette Chen</a></p>
+<p><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_472_2004-12-23.html?s=Arts%3E%3EPainting%3E%3EOil%20painting" target="_blank">Choo Keng Kwang</a></p>
+<p><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2019-05-17_161302.html?s=Arts%3E%3EPainting%3E%3EOil%20painting" target="_blank">Leo Hee Tong</a></p>
+<p><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_266_2005-01-13.html?s=Arts%3E%3EPainting%3E%3EOil%20painting" target="_blank">Ho Kah Leong</a></p>
 
 <h5>eBooks</h5>
 <h5>1. The Elements of Landscape Oil Painting: Techniques for Rendering Sky, Terrain, Trees, and Water </h5>
 Suzanne Brooker (2015), <i> The Elements of Landscape Oil Painting: Techniques for Rendering Sky, Terrain, Trees, and Water </i>, Clarkson Potter/Ten Speed.
-<a target="_blank" href="https://nlb.overdrive.com/media/2133325"><img alt="The Elements of Landscape Oil Painting" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-life-by-the-river-2.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/2133325" target="_blank"><img src="/images/Arts/AS/NGS-life-by-the-river-2.jpeg" style="width:300px; text-align:left;" alt="The Elements of Landscape Oil Painting"></a>
 <p>A landscape painting guide for oil painters that breaks landscapes down into component elements from nature, and showcases tools and techniques used by classic and modern oil painters for bringing these scenes to life.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/2133325">Borrow the eBook here</a></p>
+<p><a href="https://nlb.overdrive.com/media/2133325" target="_blank">Borrow the eBook here</a></p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 <h5>2. Dramatic Color in the Landscape: Painting Land and Light in Oil and Pastel </h5>
 Brian Keeler (2014), <i> Dramatic Color in the Landscape: Painting Land and Light in Oil and Pastel </i>, Clarkson Potter/Ten Speed.
-<a target="_blank" href="https://nlb.overdrive.com/media/2133325"><img alt="The Elements of Landscape Oil Painting" style="width:300px; text-align:left;" src="/images/Arts/AS/NGS-life-by-the-river-3.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/2133325" target="_blank"><img src="/images/Arts/AS/NGS-life-by-the-river-3.jpeg" style="width:300px; text-align:left;" alt="The Elements of Landscape Oil Painting"></a>
 <p>A landscape painting guide for oil painters that breaks landscapes down into component elements from nature, and showcases tools and techniques used by classic and modern oil painters for bringing these scenes to life.</p>
-<p><a target="_blank" href="https://nlb.overdrive.com/media/2133325">Borrow the eBook here</a></p>
+<p><a href="https://nlb.overdrive.com/media/2133325" target="_blank">Borrow the eBook here</a></p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>       
 
 <h3><b>Learning Package</b></h3>
 
-<h5 id="lp-psclay" class="margin--bottom--lg"><b>Pro Series: Clay</b></h5>
+<h5 class="margin--bottom--lg" id="lp-psclay"><b>Pro Series: Clay</b></h5>
 
 <p> library@orchard's Pro Series Resource Lists are curated learning materials that complement each Pro Series programme track. Handpicked by the year's lineup of Pro Series speakers, each title has influenced and shaped their practices in one way or another. </p>
 
@@ -859,11 +864,11 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 Italo Calvino (2011), <i> The Complete Cosmicomics </i>, Penguin Books.
 
-<a target="\_blank" href="https://nlb.overdrive.com/media/630224"><img alt="The Complete Cosmicomics" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-16.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/630224" target="\_blank"><img src="/images/Arts/AS/OCPL-16.jpeg" style="width:300px; text-align:left;" alt="The Complete Cosmicomics"></a>
 
 <p> "This is one of my favourite books as a big fan of random and fun scientific facts. Italo Calvino takes short scientific statements and spins them into mind-bending stories, building worlds that push the limits of our understanding, which endlessly inspires me to build mine.’’ -&nbsp; Genevieve Ang </p>
 
-<p><a target="\_blank" href="https://nlb.overdrive.com/media/630224">Borrow the eBook here</a>.</p>
+<p><a href="https://nlb.overdrive.com/media/630224" target="\_blank">Borrow the eBook here</a>.</p>
 
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
@@ -871,11 +876,11 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 
 Libby Walden (2018), <i> Feelings</i>, Call No.: WAL, Tiger Tales.
 
-<a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203214754"><img alt="Book cover for Feelings" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-17.jpeg"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203214754" target="\_blank"><img src="/images/Arts/AS/OCPL-17.jpeg" style="width:300px; text-align:left;" alt="Book cover for Feelings"></a>
 
 <p> "This children's book explores the world of emotions with enchanting illusions. The lyrical text makes each feeling explored come to life, and helps children understand the emotions they experience. We chose to recommend a children's book as it has the magical power to simplify complicated thoughts and feelings faced in adulthood and is focused on freely expressing oneself.’’ -&nbsp;Common Touch Craft Unit </p>
 
-<p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203214754">Find out more here</a>.</p>
+<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203214754" target="\_blank">Find out more here</a>.</p>
 
 <p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
 
@@ -883,11 +888,11 @@ Libby Walden (2018), <i> Feelings</i>, Call No.: WAL, Tiger Tales.
 
 Katie Treggiden (2017), <i> Urban Potters: Makers in the City </i>, Call No.: 738 TRE -\[ART\], Ludion.
 
-<a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203062814"><img alt="Book Cover for Urban Potters" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-18.jpeg"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203062814" target="\_blank"><img src="/images/Arts/AS/OCPL-18.jpeg" style="width:300px; text-align:left;" alt="Book Cover for Urban Potters"></a>
 
 <p>"This is a book that I thoroughly enjoyed flipping through, absorbing each page and its sumptious images without thought. The title provides great insight into how other potters and ceramists go about their lives and artistic practices in cities." – Ummu Nabilah</p>
 
-<p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203062814">Find out more here</a>.</p>
+<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203062814" target="\_blank">Find out more here</a>.</p>
 
 <p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book).</p>
 
@@ -895,11 +900,11 @@ Katie Treggiden (2017), <i> Urban Potters: Makers in the City </i>, Call No.: 73
 
 Nicola Upson (2019), <i> Stanley and Elsie</i>, Call No.: UPS, Duckworth.
 
-<a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203910328"><img alt="Book Cover for Stanley and Elsie" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-19.jpeg"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203910328" target="\_blank"><img src="/images/Arts/AS/OCPL-19.jpeg" style="width:300px; text-align:left;" alt="Book Cover for Stanley and Elsie"></a>
 
 <p> "This is a wonderful read for anyone who has practised art – especially painting. There are so many emotions in this novel set in England after World War I." – Ummu Nabilah </p>
 
-<p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203910328">Find out more here</a>.</p>
+<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203910328" target="\_blank">Find out more here</a>.</p>
 
 <p>Retrieved from NLB Catalogue (myLibraryid is required to borrow the book).</p>
 
@@ -907,23 +912,23 @@ Nicola Upson (2019), <i> Stanley and Elsie</i>, Call No.: UPS, Duckworth.
 
 Junichiro Tanizaki (1977), <i>In Praise of Shadows</i>, Call No.: TAN, New Haven, Conn: Leete's Island Books.
 
-<a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=1040612"><img alt="Book Cover for In Praise of Shadows" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-23.jpeg"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=1040612" target="\_blank"><img src="/images/Arts/AS/OCPL-23.jpeg" style="width:300px; text-align:left;" alt="Book Cover for In Praise of Shadows"></a>
 
 <p> "This book delves into different ways of seeing things. Simple and subdued forms of East Asian art and literature in Tanizaki's perspective brings an appreciation of shadows and subtlety in its ubiquity, showing that we can find beauty where we least expect it (and when we most need it)." – Daisy Toh </p>
 
-<p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=1040612">Find out more here</a>.</p>
+<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=1040612" target="\_blank">Find out more here</a>.</p>
 
 <p>Retrieved from NLB Catalogue (myLibraryid is required to borrow the book).</p>
 
-<p> Download the resource list on Clay created by libray@orchard here: <a href="https://file.go.gov.sg/proseriesresourcelistclay.pdf" target="\_blank"> go.gov.sg/ proseriesresourcelistclay</a>
+<p> Download the resource list on Clay created by libray@orchard here: <a target="\_blank" href="https://file.go.gov.sg/proseriesresourcelistclay.pdf"> go.gov.sg/ proseriesresourcelistclay</a>
 
 </p><h4>Art Programmes in NLB</h4>
 
-<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a href="https://go.gov.sg/learnxartsfb" target="\_blank"> go.gov.sg/learnxartsfb</a> to find the right one for you! </p>
+<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a target="\_blank" href="https://go.gov.sg/learnxartsfb"> go.gov.sg/learnxartsfb</a> to find the right one for you! </p>
 
 <h3><b>Learning Package</b></h3>
 
-<h5 id="lp-psclay" class="margin--bottom--lg"><b>Pro Series: Concept Design</b></h5>
+<h5 class="margin--bottom--lg" id="lp-psclay"><b>Pro Series: Concept Design</b></h5>
 
 <p> library@orchard's Pro Series Resource Lists are curated learning materials that complement each Pro Series programme track. Handpicked by the year's lineup of Pro Series speakers, each title has influenced and shaped their creative practices in one way or another.
 
@@ -935,11 +940,11 @@ Junichiro Tanizaki (1977), <i>In Praise of Shadows</i>, Call No.: TAN, New Haven
 
 Mike Mignolia (2018), <i>Hellboy (1994), Omnibus Volume 4: Hellboy in Hell</i>, Dark Horse Comics.
 
-<a target="\_blank" href="https://nlb.overdrive.com/media/5855261"><img alt="Book cover for Hellboy in Hell" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-7.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/5855261" target="\_blank"><img src="/images/Arts/AS/OCPL-7.jpeg" style="width:300px; text-align:left;" alt="Book cover for Hellboy in Hell"></a>
 
 <p> “I chose this book for its simplicity and creative use of light and dark in each panel. This book demonstrates how lighting conceals and reveals. I've often re-read this book as a reference for storytelling that uses a balance of light and shadow to convey tone and narrative.” – Calvin Chua </p>
 
-<p><a target="\_blank" href="https://nlb.overdrive.com/media/5855261">Borrow the eBook here</a>. </p>
+<p><a href="https://nlb.overdrive.com/media/5855261" target="\_blank">Borrow the eBook here</a>. </p>
 
 <p> Retrieved from NLB Overdrive (myLibraryid is required to access the eBook). </p>
 
@@ -947,11 +952,11 @@ Mike Mignolia (2018), <i>Hellboy (1994), Omnibus Volume 4: Hellboy in Hell</i>, 
 
 Matt Rota (2017), <i>Pencil Art Workshop</i>, Call No.: 741.24 ROT \[ART\], Beverly, Massachusetts: Rockport.
 
-<a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202889784"><img alt="Book cover for Pencil Art Workshop" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-8.jpeg"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202889784" target="\_blank"><img src="/images/Arts/AS/OCPL-8.jpeg" style="width:300px; text-align:left;" alt="Book cover for Pencil Art Workshop"></a>
 
 <p> This book by the illustrator Mark Rota features some strong examples of how he creates texture, volume, and space—all of which are integral when manipulating details in one's work. He also treats readers to a sneak peek into his decision-making process by helpfully including his reference images! The principles taught in this book can even be applied to various other mediums. </p>
 
-<p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202889784">Find out more here</a>. </p>
+<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202889784" target="\_blank">Find out more here</a>. </p>
 
 <p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
 
@@ -959,11 +964,11 @@ Matt Rota (2017), <i>Pencil Art Workshop</i>, Call No.: 741.24 ROT \[ART\], Beve
 
 Warren Berger (2011), <i>CAD Monkeys, Dinosaur Babies, and T-Shaped People</i>, Penguin Publishing Group.
 
-<a target="\_blank" href="https://nlb.overdrive.com/media/F9601C9D-0314-44C8-BFFF-B0C48A700A61"><img alt="Book Cover for Urban Potters" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-9.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/F9601C9D-0314-44C8-BFFF-B0C48A700A61" target="\_blank"><img src="/images/Arts/AS/OCPL-9.jpeg" style="width:300px; text-align:left;" alt="Book Cover for Urban Potters"></a>
 
 <p> “This book introduces design thinking and how a generalist mindset equips you with an edge to solve design problems. It has helped me structure my approach to resolving concept art and design problems presented by various commercial projects in my career.” – Ray Toh </p>
 
-<p><a target="\_blank" href="https://nlb.overdrive.com/media/F9601C9D-0314-44C8-BFFF-B0C48A700A61">Borrow the eBook here</a>.</p>
+<p><a href="https://nlb.overdrive.com/media/F9601C9D-0314-44C8-BFFF-B0C48A700A61" target="\_blank">Borrow the eBook here</a>.</p>
 
 <p> Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
 
@@ -971,24 +976,24 @@ Warren Berger (2011), <i>CAD Monkeys, Dinosaur Babies, and T-Shaped People</i>, 
 
 Scott Robertson (2013), <i>How To Draw</i>, Call No.: 741.2 ROB - \[ART\], Design Studio Press.
 
-<a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200499871"><img alt="Book Cover for How To Draw" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-10.jpeg"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200499871" target="\_blank"><img src="/images/Arts/AS/OCPL-10.jpeg" style="width:300px; text-align:left;" alt="Book Cover for How To Draw"></a>
 
 <p> “This is a brilliant guide for budding and experienced artists to strengthen their foundation in constructional drawing. This book teaches you the indispensable skill of drawing any design from any angle. A must-read for designers drawing and creating imaginative products and environments.” - Ray Toh </p>
 
-<p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200499871">Find out more here</a>.</p>
+<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200499871" target="\_blank">Find out more here</a>.</p>
 
 <p>Retrieved from NLB Catalogue (myLibraryid is required to borrow the book).</p>
 
-<p> Download the resource list on Concept Design created by libray@orchard here: <a href="https://file.go.gov.sg/proseriesresourcelistconceptdesign2.pdf" target="\_blank"> go.gov.sg/ proseriesresourcelistconceptdesign</a>
+<p> Download the resource list on Concept Design created by libray@orchard here: <a target="\_blank" href="https://file.go.gov.sg/proseriesresourcelistconceptdesign2.pdf"> go.gov.sg/ proseriesresourcelistconceptdesign</a>
 
 </p><h4>Art Programmes in NLB</h4>
 
-<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a href="https://go.gov.sg/learnxartsfb" target="\_blank"> go.gov.sg/learnxartsfb</a> to find the right one for you!
+<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a target="\_blank" href="https://go.gov.sg/learnxartsfb"> go.gov.sg/learnxartsfb</a> to find the right one for you!
 	
 
 </p><h3><b>Learning Package</b></h3>
 
-<h5 id="lp-psnanyangartstyle" class="margin--bottom--lg"><b>Pro Series: Nanyang Art Style </b></h5>
+<h5 class="margin--bottom--lg" id="lp-psnanyangartstyle"><b>Pro Series: Nanyang Art Style </b></h5>
 
 <p> library@orchard's Pro Series Resource Lists are curated learning materials that complement each Pro Series programme track. Handpicked by this year's lineup of Pro Series speakers, each title has influenced and shaped their creative practices in one way or another.</p>
 
@@ -998,11 +1003,11 @@ Scott Robertson (2013), <i>How To Draw</i>, Call No.: 741.2 ROB - \[ART\], Desig
 
 约翰芬利 / John Finlay (2021), <i>艺术史是什么 = A degree in a book: Art history</i>, Call No.: Chinese 709 FIN -\[ART\], 中信出版集团股份有限公司.
 
-<a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205616148"><img alt="Book cover for A degree in a book" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-20.jpeg"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205616148" target="\_blank"><img src="/images/Arts/AS/OCPL-20.jpeg" style="width:300px; text-align:left;" alt="Book cover for A degree in a book"></a>
 
 <p> 讲述西⽅艺术⼏万年的发展。要了解⼀件作品，不但要懂艺术理论，还要了解它背后的历史背景，⼈物关系，作者的创作⽬的以及象征意义。 </p>
 
-<p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205616148">Find out more here </a>. </p>
+<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205616148" target="\_blank">Find out more here </a>. </p>
 
 <p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
 
@@ -1010,11 +1015,11 @@ Scott Robertson (2013), <i>How To Draw</i>, Call No.: 741.2 ROB - \[ART\], Desig
 
 Chen Tingyou (2015), <i>中国书法 (Chinese Calligraphy)</i>, China Intercontinental Press.
 
-<a target="\_blank" href="https://nlb.overdrive.com/media/3EE7DB91-C634-4D1A-8DE8-1540E4586C6F"><img alt="Book cover for Chinese Calligraphy" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-21.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/3EE7DB91-C634-4D1A-8DE8-1540E4586C6F" target="\_blank"><img src="/images/Arts/AS/OCPL-21.jpeg" style="width:300px; text-align:left;" alt="Book cover for Chinese Calligraphy"></a>
 
 <p> Calligraphy is the quintessence of Chinese culture. This book on Chinese calligraphy introduces the origins of the artform, the many forms it has taken and its development through the centuries. </p>
 
-<p><a target="\_blank" media="">Borrow the eBook here</a>. </p>
+<p><a media="" target="\_blank">Borrow the eBook here</a>. </p>
 
 <p> Retrieved from NLB Overdrive (myLibraryid is required to access the eBook). </p>
 
@@ -1022,23 +1027,23 @@ Chen Tingyou (2015), <i>中国书法 (Chinese Calligraphy)</i>, China Interconti
 
 书法知识一本通 编写组 (2016), <i>书法知识一本通 (One-for-all of Calligraphy Knowledge)</i>, 世界图书出版⼴东有限公司.
 
-<a target="\_blank" href="https://nlb.overdrive.com/media/DB44F37F-A085-43C4-9142-E6FE2941DCC6"><img alt="Book Cover for Calligraphy Knowledge" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-22.jpeg"></a>
+<a href="https://nlb.overdrive.com/media/DB44F37F-A085-43C4-9142-E6FE2941DCC6" target="\_blank"><img src="/images/Arts/AS/OCPL-22.jpeg" style="width:300px; text-align:left;" alt="Book Cover for Calligraphy Knowledge"></a>
 
 <p> 介绍书法欣赏，书法术语，⽂房四宝，书体流变。</p>
 
-<p><a target="\_blank" href="https://nlb.overdrive.com/media/DB44F37F-A085-43C4-9142-E6FE2941DCC6">Borrow the eBook here</a>.</p>
+<p><a href="https://nlb.overdrive.com/media/DB44F37F-A085-43C4-9142-E6FE2941DCC6" target="\_blank">Borrow the eBook here</a>.</p>
 
 <p> Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
 
-<p> Download the resource list on Nanyang Art Style created by libray@orchard here: <a href="https://file.go.gov.sg/proseriesresourcelistnanyangartstyle.pdf" target="\_blank"> go.gov.sg/ proseriesnanyangartstyle</a>
+<p> Download the resource list on Nanyang Art Style created by libray@orchard here: <a target="\_blank" href="https://file.go.gov.sg/proseriesresourcelistnanyangartstyle.pdf"> go.gov.sg/ proseriesnanyangartstyle</a>
 
 </p><h4>Art Programmes in NLB</h4>
 
-<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a href="https://go.gov.sg/learnxartsfb" target="\_blank"> go.gov.sg/learnxartsfb</a> to find the right one for you!	</p>
+<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a target="\_blank" href="https://go.gov.sg/learnxartsfb"> go.gov.sg/learnxartsfb</a> to find the right one for you!	</p>
 
 <h3><b>Learning Package</b></h3>
 
-<h5 class="margin--bottom--lg" id="lp-pszinedesign"><b>Pro Series: Zine Design </b></h5>
+<h5 id="lp-pszinedesign" class="margin--bottom--lg"><b>Pro Series: Zine Design </b></h5>
 
 <p> library@orchard's Pro Series Resource Lists are curated learning materials that complement each Pro Series programme track. Handpicked by the year's lineup of Pro Series speakers, each title has influenced and shaped their practices in one way or another. </p>
 
@@ -1048,11 +1053,11 @@ Chen Tingyou (2015), <i>中国书法 (Chinese Calligraphy)</i>, China Interconti
 
 Teal Triggs (2010), <i>Fanzines: The DIY Revolution</i>, Call No.: 741.65209 TRI -\[ART\], Chronicle Books.
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200172518" target="_blank"><img src="/images/Arts/AS/OCPL-1.jpeg" style="width:300px; text-align:left;" alt="Book cover for Fanzines"></a>
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200172518"><img alt="Book cover for Fanzines" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-1.jpeg"></a>
 
 <p> “Teal Triggs is Professor of Graphic Design at the Royal College of Art, and co-author with Roger Sabin (Below Critical Radar: Fanzines and Alternative Comics from 1976 to Now, 2001). Fanzines: the DIY Revolution is a title that might need a little updating—nevertheless, it remains essential reading for anyone who wants to have a general grasp of the history of zines.” – CT Lim </p>
 
-<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200172518" target="_blank">Find out more here </a>. </p>
+<p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200172518">Find out more here </a>. </p>
 
 <p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
 
@@ -1060,7 +1065,7 @@ Teal Triggs (2010), <i>Fanzines: The DIY Revolution</i>, Call No.: 741.65209 TRI
 
 Pann Lim (2013), <i>Rubbish: FAMzine</i>, Holycrap.
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202861223" target="_blank"><img src="/images/Arts/AS/OCPL-2.jpeg" style="width:300px; text-align:left;" alt="Book cover for Rubbish: FAMzine"></a>
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202861223"><img alt="Book cover for Rubbish: FAMzine" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-2.jpeg"></a>
 
 <p> This is an example of a successful zine in Singapore, created by designer and musician Pann Lim and his family of three. Rubbish shows that there is no limit to the content that zines contain, as long as it is fueled by creativity, passion and fun! This is definitely not your punk rock xeroxed zine, but instead a collectible (with the corresponding price tag). </p>
 
@@ -1072,7 +1077,7 @@ Pann Lim (2013), <i>Rubbish: FAMzine</i>, Holycrap.
 
 <i>BigO: Before I Get Old</i>, Option Publication Pte Ltd (2000).
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4633511" target="_blank"><img src="/images/Arts/AS/OCPL-3.jpeg" style="width:300px; text-align:left;" alt="Book cover for BigO: Before I Get Old"></a>
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4633511"><img alt="Book cover for BigO: Before I Get Old" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-3.jpeg"></a>
 
 <p> “The quintessential pop culture zine in Singapore that ran from 1985 to the early 2000s. It covered music, movies, comics and many of us wrote for it, including yours truly. We owe a debt to BigO, especially its xeroxed years from 1985 to 1990. A labour of love by "my generation" wanting to talk about the passion.’’ – CT Lim </p>
 
@@ -1084,11 +1089,11 @@ Pann Lim (2013), <i>Rubbish: FAMzine</i>, Holycrap.
 
 Stephen Duncombe (2017), <i> Notes from Underground </i>, Call No.: 051 DUN, Microcosm Publishing.
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203179986" target="_blank"><img src="/images/Arts/AS/OCPL-4.jpeg" style="width:300px; text-align:left;" alt="Book cover for Notes from Underground"></a>
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203179986"><img alt="Book cover for Notes from Underground" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-4.jpeg"></a>
 
 <p> ‘’We are living in an age of culture wars, and zines are at the heart of it. Stephen Duncombe, an associate professor at New York University's Gallatin School in the department of Media, Culture and Communications and a lifelong political activist, explores the participatory role played by zines in forming and spreading different ideas.’’ – CT Lim </p>
 
-<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203179986" target="_blank">Find out more here </a>. </p>
+<p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203179986">Find out more here </a>. </p>
 
 <p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
 
@@ -1096,11 +1101,11 @@ Stephen Duncombe (2017), <i> Notes from Underground </i>, Call No.: 051 DUN, Mic
 
 Marjane Satrapi (2008), <i> Persepolis I &amp; II </i>, Call No.: 955.0542092 SAT, Random House.
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200398551" target="_blank"><img src="/images/Arts/AS/OCPL-5.jpeg" style="width:300px; text-align:left;" alt="Book cover for Persepolis I &amp; II"></a>
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200398551"><img alt="Book cover for Persepolis I &amp; II" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-5.jpeg"></a>
 
 <p> “This is a graphic novel that I truly enjoyed reading. I remember picking this book up when I was an art student who was still finding my voice in my illustration practice. Persepolis informed me so much about looking into my own lived experiences and cultural narratives.” – Artist HAFI </p>
 
-<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200398551" target="_blank">Find out more here </a>. </p>
+<p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200398551">Find out more here </a>. </p>
 
 <p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
 
@@ -1108,16 +1113,64 @@ Marjane Satrapi (2008), <i> Persepolis I &amp; II </i>, Call No.: 955.0542092 SA
 
 Oliver Burkeman (2021), <i>Four Thousand Weeks</i>, Call No.: 640.43 BUR, The Bodley Head.
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205498037" target="_blank"><img src="/images/Arts/AS/OCPL-6.jpeg" style="width:300px; text-align:left;" alt="Book cover for Invisible Influence"></a>
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205498037"><img alt="Book cover for Invisible Influence" style="width:300px; text-align:left;" src="/images/Arts/AS/OCPL-6.jpeg"></a>
 
 <p> “Oliver Burkeman writes a profound guide to time management by drawing on the insights of philosophers and spiritual teachers. Accepting that we have a finite amount of time to live, and committing our resources to what matters, may actually be the best advice on time management.” – Beverley Ng </p>
 
-<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205498037" target="\_blank">Find out more here </a>. </p>
+<p><a target="\_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205498037">Find out more here </a>. </p>
 
 <p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
 
-<p> Download the resource list on Zine Design created by libray@orchard here: <a target="_blank" href="https://file.go.gov.sg/proseriesresourcelistzinedesign.pdf">go.gov.sg/proseriesresourcelistzinedesign</a>
+<p> Download the resource list on Zine Design created by libray@orchard here: <a href="https://file.go.gov.sg/proseriesresourcelistzinedesign.pdf" target="_blank">go.gov.sg/proseriesresourcelistzinedesign</a>
 
 </p><h4>Art Programmes in NLB</h4>
 
-<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a target="_blank" href="https://go.gov.sg/learnxartsfb"> go.gov.sg/learnxartsfb</a> to find the right one for you!</p>
+<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a href="https://go.gov.sg/learnxartsfb" target="_blank"> go.gov.sg/learnxartsfb</a> to find the right one for you!</p>
+
+
+<h3><b>Learning Package</b></h3>
+<h5 class="margin--bottom--lg" id="lp-psjewellerydesign"><b>Pro Series: Jewellery Design </b></h5>
+<p> library@orchard's Pro Series Resource Lists are curated learning materials that complement each Pro Series programme track. Handpicked by the year's lineup of Pro Series speakers, each title has influenced and shaped their practices in one way or another. </p>
+
+<h4>Books</h4>
+<h5>1. Jewelry Upcycled!: Techniques and projects for reusing metal, glass, plastic, fiber, and found objects </h5>
+Sherri Haab and Michelle Haab (2011), <i>Jewelry Upcycled!</i>, Call No.: 745.5942 HAA, New York: Crown Pub.
+
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200161428" target="_blank"><img src="/images/Arts/AS/OCPL-26.jpeg" style="width:300px; text-align:left;" alt="Book cover for Jewelry Upcycled!"></a>
+<p> “Want to learn how to transform items around you into stylish and wearable jewellery? If your answer is yes, this book is for you! Sherri Haab is one of my favourite authors, and I'd recommend this book to anyone interested in sustainability and giving commonly discarded materials a new life!” – June Koh of My Precious Gem </p>
+<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200161428" target="_blank">Find out more here </a>. </p>
+<p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p> 
+
+
+<h5>2. Jewel Loom Inspirations: Quick and Fun Beading and Jewelry Projects</h5>
+Julianna C Avelar (2016), <i>Jewel Loom Inspirations</i>, Call No.: 745.582 AVE, Ohio: Fons &amp; Porter.
+
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202571954" target="_blank"><img src="/images/Arts/AS/OCPL-25.jpeg" style="width:300px; text-align:left;" alt="Book cover for Jewel Loom Inspirations"></a>
+<p> “Jewel looms are small and portable looms good for making beaded jewellery. Jewel looms can be found in local stores and if you're a beginner at loom-woven jewellery, this illustrated book with clear instructions for simple jewellery designs is definitely for you.” - June Koh of My Precious Gem </p>
+<p><a target="_blank">Find out more here</a>.</p>
+<p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p> 
+
+
+<h5>3. Steal Like an Artist</h5>
+Austin Kleon (2012), <i>Steal Like an Artist</i>, Call No.: 153.35 KLE, New York: Workman Publishing Company.
+
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14442384" target="_blank"><img src="/images/Arts/AS/OCPL-27.jpeg" style="width:300px; text-align:left;" alt="Book cover for Steal Like an Artist"></a>
+	
+<p> “A short, fun, and engaging book that reminds us that creativity is everywhere and for everyone. This book helped me learn that nothing is truly original, and it’s totally fine to embrace influence, be inspired by others, remix, and reimagine ideas to discover my own path.” – Apphia Neo of whoaa! </p>
+<p><a target="_blank">Find out more here</a>.</p>
+<p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p> 
+
+
+<h5>4. The Art of Thinking Clearly</h5>
+Rolf Dobelli (2014), <i> The Art of Thinking Clearly </i>, Call No.: 153.42 DOB, New York: Harper Paperbacks.
+
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200124411" target="_blank"><img src="/images/Arts/AS/OCPL-24.jpeg" style="width:300px; text-align:left;" alt="Book cover for The Art of Thinking Clearly"></a>
+<p> “This is a fun read that’ll make you question reality as you know it. The author exposes biases in everyday thinking through light-hearted writing over 99 chapters. I’d recommend this book for anyone who wants to see things in a new light and hopefully get a new idea or two for a personal project!” – Jayne Chong of beadnbutter </p>
+<p><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200124411" target="_blank">Find out more here </a>. </p>
+<p> Retrieved from NLB Catalogue (myLibraryid is required to borrow the book). </p>
+
+<p> Download the resource list on Jewellery Design created by libray@orchard here: <a target="_blank" href="https://file.go.gov.sg/proseriesresourcelistjewellerydesign.pdf">go.gov.sg/proseriesresourcelistjewellerydesign</a> 
+
+</p><h4>Art Programmes in NLB</h4>
+<p> There’s more to explore! Get real time notifications of the different Art programs and initiatives organised by us through this link: <a target="_blank" href="https://go.gov.sg/learnxartsfb"> go.gov.sg/learnxartsfb</a> to find the right one for you!
+</p>
