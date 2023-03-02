@@ -54,15 +54,17 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td></td>
         <td></td>
       </tr>
-<tr>
-        <td><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-4-to-6-years"><b> Developing Early Literacy Skills at Home (4-6 years old)</b></a></td>
+<tr><td><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-4-to-6-years"><b> Developing Early Literacy Skills at Home (4-6 years old)</b></a></td>
         <td> How can you encourage the love of reading in your pre-schooler? Learn some tips and activities you can do to develop your child into a confident reader! </td>
         <td></td>
         <td> </td>
       </tr>
-<tr>
-        <td><a target="_blank" href="/reading/preschoolers/content"><b> The World of Picture Books</b></a></td>
+<tr> <td><a target="_blank" href="/reading/preschoolers/content"><b> The World of Picture Books</b></a></td>
         <td> Video resources to help parents understand more about the different types of picture books.</td>
+			</tr>
+		</tbody>
+	</table>
+	</div>
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
@@ -121,8 +123,7 @@ https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Ch
         <td> Colours of the Mind is an interactive parent-and-child programme on mental well-being. Suitable for children aged 3 to 6 years old.
 <br>
  </td><td>25 Feb 2023 <br>2pm - 3pm<br></td>
-        <td>Woodlands Regional Library</td>
-      </tr>				
+        <td>Woodlands Regional Library</td>		
 		</tbody>
 	</table>
 </div>
