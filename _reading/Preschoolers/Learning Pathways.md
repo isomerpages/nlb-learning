@@ -40,7 +40,7 @@ Make reading a fun activity while fostering that special bond between you and yo
 				 <td><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#lp-sing"><b> Early Literacy Practice: Sing</b></a></td>
         <td>Singing is more than nursery rhymes! Learn how to nurture your child's musicality through books, actions and observing what's around them.</td>
         <td></td>
-        <td> </td>
+        <td></td>
       </tr>
 			 <tr>
         <td><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-0-to-12-months"><b> Developing Early Literacy Skills at Home (0-12 months) </b></a></td>
@@ -98,7 +98,7 @@ https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Ch
   					</tr>
 			<tr><td><a target="_blank" href="https://www.eventbrite.sg/e/childrens-puppet-castle-tickets-492220774587?aff=odcleoeventsincollection"><b> Stories Come Alive by NIEC(ITE)!</b></a></td>
         <td>Join us for a session of stories, songs and rhymes by NIEC(ITE) students and bring home a craft too! </td>
-        <td>Check out all the sessions in February! 
+				<td>Check out all the sessions in February!</td>
 				<td>Bedok Public Library<br>Toa Payoh Public Library<br></td>
 		</tr>
 			<tr>			
@@ -123,7 +123,8 @@ https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Ch
         <td> Colours of the Mind is an interactive parent-and-child programme on mental well-being. Suitable for children aged 3 to 6 years old.
 <br>
  </td><td>25 Feb 2023 <br>2pm - 3pm<br></td>
-        <td>Woodlands Regional Library</td>		
+        <td>Woodlands Regional Library</td>
+			</tr>
 		</tbody>
 	</table>
 </div>
@@ -132,7 +133,10 @@ https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Ch
     <thead>
       <tr>
         <th class="is-uppercase has-weight-normal" colspan="4">Discover Other Learning Focus Areas</th>
-			<tr>		
+			</tr>
+		</thead>
+		</tbody>
+	<tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-structural-engineering-tickets-507096237497?aff=odcleoeventsincollection"><b> Budding Engineers l Structural Engineering</b></a></td>
         <td>
 Have you ever wondered what makes buildings stay upright? Let’s learn about basic geometry and find out which shapes are the strongest.
