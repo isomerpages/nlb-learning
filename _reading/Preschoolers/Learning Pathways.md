@@ -52,7 +52,7 @@ Make reading a fun activity while fostering that special bond between you and yo
         <td><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-1-to-3-years"><b> Developing Early Literacy Skills at Home (1-3 years old) </b></a></td>
         <td>Reading can be fun with your little toddler! Learn some tips on choosing suitable books for your child and try out activities that will help them build their letter knowledge and vocabulary. </td>
         <td></td>
-        <td> </td>
+        <td></td>
       </tr>
 <tr>
         <td><a target="_blank" href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/i-can-read#for-ages-4-to-6-years"><b> Developing Early Literacy Skills at Home (4-6 years old)</b></a></td>
@@ -120,22 +120,17 @@ https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Ch
  </b></a></td>
         <td> Colours of the Mind is an interactive parent-and-child programme on mental well-being. Suitable for children aged 3 to 6 years old.
 <br>
- </td>
-					<td>25 Feb 2023 <br>2pm - 3pm<br></td>
+ </td><td>25 Feb 2023 <br>2pm - 3pm<br></td>
         <td>Woodlands Regional Library</td>
       </tr>				
 		</tbody>
 	</table>
 </div>
-
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
       <tr>
         <th class="is-uppercase has-weight-normal" colspan="4">Discover Other Learning Focus Areas</th>
-      </tr>
-    </thead>
-    <tbody>
 			<tr>		
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-structural-engineering-tickets-507096237497?aff=odcleoeventsincollection"><b> Budding Engineers l Structural Engineering</b></a></td>
         <td>
