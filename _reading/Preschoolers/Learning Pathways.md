@@ -135,7 +135,7 @@ https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Ch
         <th class="is-uppercase has-weight-normal" colspan="4">Discover Other Learning Focus Areas</th>
 			</tr>
 		</thead>
-		</tbody>
+		<tbody>
 	<tr>
 <td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-structural-engineering-tickets-507096237497?aff=odcleoeventsincollection"><b> Budding Engineers l Structural Engineering</b></a></td>
         <td>
