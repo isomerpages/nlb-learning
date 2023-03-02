@@ -63,8 +63,6 @@ Make reading a fun activity while fostering that special bond between you and yo
 <tr>
         <td><a target="_blank" href="/reading/preschoolers/content"><b> The World of Picture Books</b></a></td>
         <td> Video resources to help parents understand more about the different types of picture books.</td>
-        <td> </td>
-        <td> </td>
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
     <thead>
