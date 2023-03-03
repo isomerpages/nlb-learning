@@ -61,27 +61,25 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 						<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/diy-upcycled-ez-link-card-holders-geylang-east-public-library-tickets-519416778567?aff=odcleoeventsincollection" target="_blank"><b> DIY Upcycled EZ-Link Card Holders</b></a></td>
-        <td style="width: 40%;">As part of the Earth Heroes series, create your own customised card holder by upcycling beverage cartons! Finish it off with twine or string to complete your DIY card holder.
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/create-your-own-eco-bag-tickets-540800778687?aff=odcleoeventsincollection" target="_blank"><b>Create Your Own Eco Bag!</b></a></td>
+        <td style="width: 40%;">Do you have unused t-shirts and thinking what you can do with them? Learn how to upcycle t-shirts and turn them into no-sew tote bags. Bring your own unused t-shirts for this activity.
 </td>
-        <td style="width: 20%;">11 Feb 2023, 11am-12.30pm</td>
-        <td style="width: 20%;">Geylang East Public Library</td>
+        <td style="width: 20%;">11 Mar 2023, 11.30am-12.30pm</td>
+        <td style="width: 20%;">Sengkang Public Library</td>
 			</tr>
 									<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/how-do-plants-make-food-bishan-public-library-tickets-519412315217?aff=odcleoeventsincollection" target="_blank"><b> How Do Plants Make Food?</b></a></td>
-        <td style="width: 40%;">A series of workshops for children to explore various green topics and projects.
-<br><br>
-Stay tuned for more updates.
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/create-your-own-fruit-peel-cleaning-enzyme-cheng-san-public-library-tickets-557588280557?aff=odcleoeventsincollection" target="_blank"><b> Create your own Fruit Peel Cleaning Enzyme!</b></a></td>
+        <td style="width: 40%;">Learn about the importance of reducing food waste and what you can do at home with remaining fruit peels. Create your very own Fruit Peel Cleaning Enzyme in this hands-on workshop!
 </td>
-        <td style="width: 20%;">5 Feb 2023, 10.30am-12pm</td>
+        <td style="width: 20%;">12 Mar 2023, 2pm-3pm</td>
+        <td style="width: 20%;">Cheng San Public Library</td>
+			</tr>
+									<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/urban-farm-learning-journey-4-12-years-old-tickets-550090865587?aff=odcleoeventsincollection" target="_blank"><b>Urban Farm Learning Journey</b></a></td>
+        <td style="width: 40%;">As part of the Earth Heroes series, this learning journey takes children and parents through Oasis Living Lab, looking at how technology is incorporated into the farming process to make large-scale food production possible amidst inherent challenges in urban Singapore.
+</td>
+        <td style="width: 20%;">18 Mar 2023, 10am-12pm</td>
         <td style="width: 20%;">Bishan Public Library</td>
-			</tr>
-									<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/diy-upcycled-pencil-case-ang-mo-kio-public-library-tickets-519423157647?aff=odcleoeventsincollection" target="_blank"><b>DIY Upcycled Pencil Case</b></a></td>
-        <td style="width: 40%;">As part of the Tweenkerama | sustainability series, reduce waste by upcycling fabric waste and plastic packaging to create your own pencil case or pouch. Attach the materials to a zipper with industrial grade double-sided tape, no sewing required!
-</td>
-        <td style="width: 20%;">25 Feb 2023, 1.30pm-3pm</td>
-        <td style="width: 20%;">Ang Mo Kio Public Library</td>
 			</tr>
     </tbody>
   </table>
@@ -96,11 +94,25 @@ Stay tuned for more updates.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/roll-your-way-to-complex-characters-and-perplexing-plots-tweens-write-tickets-506940983127?aff=odcleoeventsincollection" target="_blank"><b> Roll Your Way to Complex Characters and Perplexing Plots! | Tweens Write</b></a></td>
-        <td style="width: 40%;">Geek out with AJ Low, the creators behind the best-selling Sherlock Sam series, and use dice to roll up stats Dungeons & Dragons-style. Create characters with more sides than a die and use them to develop stories with prompts that roll your way. <br><br>*No previous Dungeons & Dragons or role-playing game experience is required. Dice will be provided. </td>
-        <td style="width: 20%;">5 Feb 2023, 2pm-3.30pm</td>
-        <td style="width: 20%;">Punggol Regional Library</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/cc/programmes-on-storytelling-127929?aff=odclrlmctfte" target="_blank"><b> Rooky's Horror Story and Craft</b></a></td>
+        <td style="width: 40%;">Join us for a special storytelling session! Get to know how Rooky got his wings and bring home a unique craft.</td>
+        <td style="width: 20%;">From 6 Mar 2023</td>
+        <td style="width: 20%;">Various Public Libraries</td>
       </tr>
+			<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/show-me-the-story-a-performance-by-victoria-junior-college-drama-club-registration-540898250227?aff=odcleoeventsincollection" target="_blank"><b>“Show Me The Story!” A Performance</b></a></td>
+        <td style="width: 40%;">A triple-bill of famous children’s books comes to life in this dramatic reading and performance by the Victoria Junior College Drama Club.
+</td>
+        <td style="width: 20%;">13 Mar 2023, 2pm-3pm</td>
+        <td style="width: 20%;">Queenstown Public Library</td>
+			</tr>
+			<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/a-perfect-day-children-write-tickets-550107665837?aff=odcleoeventsincollection" target="_blank"><b>A Perfect Day | Children Write</b></a></td>
+        <td style="width: 40%;">Join Quek Hong Shin, author and illustrator of books like The Amazing Sarong and Universe of Feelings for a workshop as he guides participants in descriptive writing for scene-setting and creating detailed illustrations.
+</td>
+        <td style="width: 20%;">25 Mar 2023, 1pm-2.30pm</td>
+        <td style="width: 20%;">Punggol Regional  Library</td>
+			</tr>
 			     </tbody>
   </table>
 </div>
