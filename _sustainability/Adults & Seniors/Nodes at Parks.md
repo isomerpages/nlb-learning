@@ -63,7 +63,7 @@ third_nav_title: Adults & Seniors
 
 <p><strong> Acknowledgements: </strong></p>
 Supported by: <a href="https://www.mse.gov.sg/sgecofund/" target="_blank">SG Eco Fund</a> and <a href="https://www.nparks.gov.sg/" target="_blank">NParks</a>
-Venue Partner: <a href="https://www.gardensbythebay.com.sg/" target="_blank">Gardens by the Bay</a>
+<p>Venue Partner: <a href="https://www.gardensbythebay.com.sg/" target="_blank">Gardens by the Bay</a></p>
 
 Showcase Partners:
 <a href="https://chopvalue.com.sg/" target="_blank"> ChopValue SG</a>, <a href="https://www.confettisnacks.com/" target="_blank">Confetti Snacks</a>, <a href="http://creuse.sg/" target="_blank">Creuse</a> by Xcel Industrial Supplies Pte Ltd,  <a href="https://www.insectta.com/" target="_blank"> Insectta</a>, <a href="https://www.nyp.edu.sg/" target="_blank">Nanyang Polytechnic</a>, <a href ="https://www.sfa.gov.sg/fromSGtoSG/farms/farm/Detail/netatech" target="_blank">Netafarm</a>, <a href="https://shiokmeats.com/" target="_blank">Shiok Meats</a>, <a href="https://instagram.com/theplasticproject.sg/shop" target="_blank">The Plastic Project</a>
