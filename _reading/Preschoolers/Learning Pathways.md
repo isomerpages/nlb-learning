@@ -75,54 +75,85 @@ Make reading a fun activity while fostering that special bond between you and yo
     <tbody>
      <tr><td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
         <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
-       <td>Check out all the Jiggle Read & Rhyme sessions for February!</td>
+       <td>Check out all the Jiggle Read & Rhyme sessions for March!</td>
         <td>Various Locations</td>
       </tr>
 			<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b>Baby Lapsit</b></a></td>
         <td> Join us for 30 minutes of bonding fun with your baby and engage your little one through meaningful play!<br>
- </td><td>Check out all the Baby Lapsit sessions for <br>February!<br></td>
+ </td><td>Check out all the Baby Lapsit sessions for <br>March!<br></td>
         <td>Various Locations</td>
       </tr><tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/my-friend-kiara-a-story-of-friendship-and-disabilities-tickets-513675395937?aff=odcleoeventsincollection"><b>My Friend Kiara: A Story of Friendship and Disabilities</b></a></td>
-        <td>This interactive story telling session includes thought provoking activities and fun exercises for young children<br></td>
-        <td>25 Feb 2023<br>11.30am-12.00pm<br></td>
-        <td>Serangoon Public Library</td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/toddler-songs-and-rhymes-early-read-registration-385334544997?aff=odcleoeventsincollection"><b>Toddler Songs & Rhymes</b></a></td>
+        <td>
+An enjoyable virtual session for parents and toddlers aged 1 to 3.<br></td>
+        <td>11 Mar 2023<br>11am-11.30am<br></td>
+        <td>Zoom</td>
 </tr>	
 <tr>
 <td><a target="_blank" href="
 https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Children's Puppet Castle</b></a></td>
         <td>Join us for a puppet show performed by Puppet Masters. They will be performing two stories, Monkey King and The Magic Paintbrush!</td>
-        <td>Check out all the sessions in<br>February!</td>
+        <td>Check out all the sessions in<br>March!</td>
         <td>Various Locations</td>				
   					</tr>
-			<tr><td><a target="_blank" href="https://www.eventbrite.sg/e/childrens-puppet-castle-tickets-492220774587?aff=odcleoeventsincollection"><b> Stories Come Alive by NIEC(ITE)!</b></a></td>
-        <td>Join us for a session of stories, songs and rhymes by NIEC(ITE) students and bring home a craft too! </td>
-				<td>Check out all the sessions in February!</td>
-				<td>Bedok Public Library<br>Toa Payoh Public Library<br></td>
+			<tr>
+<td><a target="_blank" href="
+https://www.eventbrite.sg/e/storytelling-with-sadeaf-tickets-542651303657?aff=odcleoeventsincollection"><b> Storytelling with SADEAF</b></a></td>
+        <td>Join a special storytelling by Singapore Association for the Deaf and pick up some Singapore Sign Language vocabulary along the way!</td>
+        <td>11 Mar 2023<br>1.30pm-2.30pm</td>
+        <td>Punggol Regional Library</td>				
+  					</tr>
+<tr>
+<td><a target="_blank" href="
+https://www.eventbrite.sg/e/awaken-the-reader-in-your-child-early-read-tickets-535695318117?aff=odcleoeventsincollection"><b> Awaken the Reader in Your Child</b></a></td>
+        <td>Spark the love of reading in your little one with fun activities in this interactive parent-child programme!</td>
+        <td>11 Mar 2023<br>2pm-3pm</td>
+        <td>Zoom</td>				
+  					</tr>
+			<tr>
+<td><a target="_blank" href="
+https://www.eventbrite.sg/e/adventure-with-smiley-tickets-533444295247?aff=odcleoeventsincollection"><b> Adventure with Smiley</b></a></td>
+        <td>Join Smiley on an engaging financial learning adventure curated for pre-school childen ages 4-6!</td>
+        <td>11 Mar 2023<br>2.30pm-3.30pm</td>
+        <td>Sengkang Public Library</td>				
+  					</tr>
+			<tr><td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Storytelling Performances by International Community School</b></a></td>
+        <td>Secondary students from ICS will be performing two books, Space Mice and Frog and Toad are Friends, with short interactive activities to follow. This programme  is suitable for children of all ages. </td>
+				<td>Check out all the sessions in March!</td>
+				<td>Various Locations</td>
 		</tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/sensory-story-time-tickets-507094412037?aff=odcleoeventsincollection"><b>Sensory Storytime</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/sensory-storytime-tickets-528008767437?aff=odcleoeventsincollection"><b>Sensory Storytime</b></a></td>
         <td> Join us for a special storytime tailored to engage the different senses. This programme is designed to support children with special needs.
 <br></td>
-					<td>4 Feb 2023<br>2pm - 2.30pm<br></td>
+					<td>4 Mar 2023<br>2pm - 2.30pm<br></td>
         <td>Punggol Regional Library</td>
       </tr>		
+			<tr>
+<td><a target="_blank" href="
+https://www.eventbrite.sg/e/family-bonding-in-highly-pressurised-lifestyles-tickets-535624606617?aff=odcleoeventsincollection"><b> Family Bonding in Highlight Pressurised Lifestyles</b></a></td>
+        <td>The attendees will be encouraged to think about what is important to them in their families and then be shown ways in which they can work toward attaining that.
+ </td>
+        <td>25 Mar 2023<br>2pm-3pm</td>
+        <td>library@harbourfront</td>				
+  					</tr>			
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/mindfulness-for-children-mindful-magic-the-feelings-forest-tickets-503020557027?aff=odcleoeventsincollection"><b>Mindfulness for Children: Mindful Magic & The Feelings Forest
+<td><a target="_blank" href="
+https://www.eventbrite.sg/e/mindfulness-for-children-feelings-arent-bad-tickets-527999509747?aff=odcleoeventsincollection"><b>Mindfulness for Children: Feelings Aren't Bad
  </b></a></td>
-        <td> Join us for a mini series of mindfulness programmes for children! Through storytelling, games and craft, children will develop emotional literacy and learn how to express and regulate their emotions.
+        <td> In this workshop, parents and children will learn how emotional awareness is beneficial for everyone—including the youngest among us.
 <br>
  </td>
-					<td>25 Feb 2023 <br>11am - 12pm<br></td>
-        <td>Choa Chu Kang Public Library</td>
+					<td>26 Mar 2023 <br>11am - 12pm<br></td>
+        <td>library@harbourfront</td>
       </tr>		
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b>Colours of the Mind at the Library
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b>DARE Storytelling with hands-on CPR and AED
  </b></a></td>
-        <td> Colours of the Mind is an interactive parent-and-child programme on mental well-being. Suitable for children aged 3 to 6 years old.
+        <td> Join us for an interactive storytelling session and learn how to perform CPR and use the AED!
 <br>
- </td><td>25 Feb 2023 <br>2pm - 3pm<br></td>
+ </td><td>12 Mar 2023 &<br>19 Mar 2023<br>2pm - 3pm<br></td>
         <td>Woodlands Regional Library</td>
 			</tr>
 		</tbody>
