@@ -132,7 +132,7 @@ https://www.eventbrite.sg/e/adventure-with-smiley-tickets-533444295247?aff=odcle
       </tr>		
 			<tr>
 <td><a target="_blank" href="
-https://www.eventbrite.sg/e/family-bonding-in-highly-pressurised-lifestyles-tickets-535624606617?aff=odcleoeventsincollection"><b> Family Bonding in Highlight Pressurised Lifestyles</b></a></td>
+https://www.eventbrite.sg/e/family-bonding-in-highly-pressurised-lifestyles-tickets-535624606617?aff=odcleoeventsincollection"><b> Family Bonding in Highly Pressurised Lifestyles</b></a></td>
         <td>The attendees will be encouraged to think about what is important to them in their families and then be shown ways in which they can work toward attaining that.
  </td>
         <td>25 Mar 2023<br>2pm-3pm</td>
