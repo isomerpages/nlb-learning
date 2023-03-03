@@ -99,9 +99,10 @@ Check our **learning packages** for a more in-depth resource list, to expand you
 	<div class="col is-one-third">
 		<div class="clickbox is-pink-ruby">
 			<a href="#lp-psjewellerydesign">
-				<span>Learning Package:<br> Jewellery Design </span></a>
-&nbsp;&nbsp;&nbsp; </div>
-&nbsp; </div>
+				<span>Learning Package:<br> Jewellery Design </span>
+			</a>
+		</div>
+	</div>
 </div>
 	
 <h3><b>Learning Package</b></h3>
