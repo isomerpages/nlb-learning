@@ -145,8 +145,8 @@ On 30th April, the teams presented their ideas to an online audience, collected 
 
 <p><strong>27 February to 13 March 2023:</strong> Changi General Hospital Main Building Atrium</p>
 <p><strong>14 March to 22 March 2023:</strong> Changi General Hospital Integrated Building Atrium</p>
-<p><strong>21 December 2022 to 24 January 2023:</strong> East Coast Park at Raintree Cove</p>
-<p><strong>27 January to 26 February 2023:</strong> Pasir Ris Park at the Shelter near Carpark D</p>
-<p><h5><b>Check out the highlights of Nodes at Parks below:</b></h5></p>
-<p>As part of the suite of activities at the Showcase you will also be able to collect free pre-loved books, donate your own pre-loved books, as well as participate in interactive activities to collect sustainable giveaways</p>
+<p><strong>24 March to 16 April 2023</strong> Plaza Singapura Near Oldham Lane Entrance</p>
+
+<p>Look out for it and scan the QR codes to read more about the different perspectives of Sustainability issues.</p>
+
 <p>Visit the <a href="https://go.gov.sg/rtbs-nodesatparks4" target="_blank">Nodes at Parks</a> webpage for more information.</p>
