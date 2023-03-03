@@ -143,9 +143,9 @@ On 30th April, the teams presented their ideas to an online audience, collected 
 <p>From 14 October 2022 to 26 February 2023, NLB presented a brand-new initiative called “Nodes at Parks”, which brought NLB’s exciting eResources on Sustainability to parks and gardens near you.</p>
 <p>Due to popular demand, the Nodes at Parks: Sustainability Showcase will be extending its run in the following locations:</p>
 
-<p><strong>27 February to 13 March 2023:</strong> Changi General Hospital Main Building Atrium</p>
-<p><strong>14 March to 22 March 2023:</strong> Changi General Hospital Integrated Building Atrium</p>
-<p><strong>24 March to 16 April 2023</strong> Plaza Singapura Near Oldham Lane Entrance</p>
+<p><strong>Changi General Hospital Main Building Atrium:</strong> 27 February to 13 March 2023</p>
+<p><strong>Changi General Hospital Integrated Building Atrium: </strong>14 March to 22 March 2023:</p>
+<p><strong>Plaza Singapura Near Oldham Lane Entrance: </strong>24 March to 16 April 2023</p>
 
 <p>Look out for it and scan the QR codes to read more about the different perspectives of Sustainability issues.</p>
 
