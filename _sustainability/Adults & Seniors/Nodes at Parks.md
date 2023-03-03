@@ -40,7 +40,7 @@ third_nav_title: Adults & Seniors
 
 <h3><b>Nodes at Parks</b></h3>
 
-<p>Nodes at Park is NLB's omni-channel way of building sustainability as a national habit, at a park near you! Serving as a gateway to NLB's eResources on sustainability, this initiative combines interactive installations at a showcase, as well as sustainable park benches.</p>
+<p>Nodes at Parks is NLB’s omni-channel way of building sustainability as a national habit. Originally at parks, they are now roving to new locations, serving as a gateway to NLB’s eResources on sustainability.</p>
 
 <h4><b>The Sustainability Showcase</b></h4>
 <img src="/images/sustainability/adults-and-seniors/1_SustainabilityShowcase.jpg">
