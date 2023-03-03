@@ -55,45 +55,7 @@ third_nav_title: Adults & Seniors
 
 <p> As part of the suite of activities at the Showcase you will also be able to collect free pre-loved books, donate your own pre-loved books, as well as participate in interactive activities to collect sustainable giveaways. </p>
 
-<h5><b> Share a Memory</b></h5>
-<p>Do you have a memorable experience with nature, from past or present? Share them with us and be part of a memory campaign based on personal stories about our encounters with Singapore’s environment. Your stories will be the inspiration behind an eBook that explores Singapore’s changing natural environment, examines our evolving perspectives and explores our relationships with nature. Share your memory <a href ="https://go.gov.sg/nodesatparks-memory/" target="_blank"> here</a>. </p>
 
-<h5><b> Partner “Show and Tell” Schedule at The Sustainability Showcase</b></h5>
-<p>On selected weekends, come join our partners as they share stories about their green product and participate in their interactive activities as well. Click <a href ="https://go.gov.sg/showandtell-monthlyschedule" target="_blank"> here</a> to view our schedule (updated monthly).</p> 
-
-<h5><b>eCoupons Giveaway! Test your knowledge on Sustainability, try out the Quiz </b></h5>
-<p>Have you read up on all 8 Sustainability questions and accompanying eResources at our Showcase? How well informed are you about the topic of Sustainability now? Put your knowledge to the test by participating in our quiz. Participants who score 6 out of 8 questions correctly will get access to promo codes for our Sustainability Showcase participating partner’s products.</p>
-
-<p>Try our quiz today - click <a href ="https://go.gov.sg/sustainabilityshowcasequiz-tcs" target="_blank">here </a> to start! The quiz is open from <u>14 October 2022 to 26 February 2023</u>.</p>
-
-<p><a href ="https://go.gov.sg/sustainabilityshowcasequiz-tcs" target="_blank">Terms and Conditions</a> apply.</p> 
-
-<h4><b>Sustainable Benches</b></h4>
-<img src="/images/sustainability/adults-and-seniors/Nodes%20at%20Parks%20Logo-BENCHES.png">
- 
-<p>Look out for our specially curated Sustainable Benches <a href ="https://go.gov.sg/rtbs-nodes-bench" target="_blank">located around the park</a>! Placed in the vicinity of the <a href ="https://go.gov.sg/rtbs-nodes-showcase" target="_blank">Sustainability Showcase</a>, these benches allow you to access a wide range of sustainability-themed eResources without having to step foot in the library! Scan their QR codes to access enriching eReads and watch videos created by Republic Polytechnic students!</p>
-<img src="/images/sustainability/adults-and-seniors/3_SustainbleBenches.jpg"> 
-
-<p>7 secondary schools have come on board to paint their own designs on the Sustainable Benches, rendering their creative interpretations of NLB's sustainability eResources in all its visual splendour! The benches will be adopted by the schools after the duration of the run.</p>
-<img src="/images/sustainability/adults-and-seniors/4_SustainableBenches.jpg"> 
-
-<p>Our benches are <a href ="https://go.gov.sg/rtbs-nodes-bench" target="_blank">located here</a>:
-<ol>
-	<li><b>Gardens by the Bay:</b> Opposite Visitor Service Office and at the Golden Garden (near drop-off point)</li>
-	<li><b>Jurong Lake Gardens:</b> Across the two viewing decks and Eco-pond</li>
-	<li><b>East Coast Park:</b> Lawn next to Marine Cove Coffee Bean & Tea Leaf and Lawn opposite Skater's Pavilion</li>
-	<li><b>Pasir Ris Park:</b> Lawn between Georges @ The Cove and toilet, and lawn near Toilet D</li>
-</ol></p>
-
-<p>Participating schools: 
-Admiralty Secondary School, Chua Chu Kang Secondary School, Kuo Chuan Presbyterian Secondary School, Ngee Ann Secondary School, Spectra Secondary School, Yusof Ishak Secondary School, Zhonghua Secondary School
-</p>
-
-<h5><b>Unscramble & Win! $100 worth of shopping eVouchers</b></h5>
-
-<p>Ready to hunt down the sustainable benches in the park? Scan the QR codes on the benches to find 14 hidden letters. Unscramble them and submit your answer. $100 worth of shopping eVouchers are up for grabs for 5 lucky winners at each park! Click <a href="https://go.gov.sg/seekandunscramble4" target="_blank">here</a> to find out more.</p>
-
-<p><a href="https://go.gov.sg/susbenchtc" target="_blank">Terms and conditions</a> apply. </p>
 
 <p><strong> Acknowledgements: </strong></p>
 Supported by: <a href="https://www.mse.gov.sg/sgecofund/" target="_blank">SG Eco Fund</a> and <a href="https://www.nparks.gov.sg/" target="_blank">NParks</a>
