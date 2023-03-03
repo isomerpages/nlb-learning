@@ -53,7 +53,8 @@ third_nav_title: Adults & Seniors
 <p>The <a href ="https://sure.nlb.gov.sg/" target="_blank">Read to be Sure</a>  component of the Sustainability Showcase provides multiple perspectives to sustainability issues so you can see the big picture. Don’t forget to vote for your preferred perspective too! 
 </p>
 
-<p> As part of the suite of activities at the Showcase you will also be able to collect free pre-loved books, donate your own pre-loved books, as well as participate in interactive activities to collect sustainable giveaways. </p>
+<p><strong>Book Nodes</strong></p>
+<p>As part of the suite of activities at the Showcase you will also be able to collect free pre-loved books, donate your own pre-loved books, as well as participate in interactive activities to collect sustainable giveaways. </p>
 
 
 
