@@ -58,8 +58,8 @@ third_nav_title: Adults & Seniors
 
 <p><strong><u>Locations:</u></strong></p>
 <p><strong>Yong Siew Toh Conservatory of Music:</strong> 3 Conservatory Drive. Level 1 Lounge. Singapore 117376</p>
-<p>Temasek Shophouse: 28 Orchard Road Level 1 Singapore 238832</p>
-<p>First Story: 149 Serangoon North Avenue 1, #01-917, Singapore 550149</p>
+<p><strong>Temasek Shophouse:</strong> 28 Orchard Road Level 1 Singapore 238832</p>
+<p><strong>First Story:</strong> 149 Serangoon North Avenue 1, #01-917, Singapore 550149</p>
 
 <p><strong> Acknowledgements: </strong></p>
 Supported by: <a href="https://www.mse.gov.sg/sgecofund/" target="_blank">SG Eco Fund</a> and <a href="https://www.nparks.gov.sg/" target="_blank">NParks</a>
