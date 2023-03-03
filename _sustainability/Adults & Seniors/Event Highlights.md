@@ -140,13 +140,13 @@ On 30th April, the teams presented their ideas to an online audience, collected 
 <!-- Nodes at Parks  -->
 <h3 id="nodes-at-parks"><b>Nodes at Parks</b></h3>
 <img src="/images/sustainability/adults-and-seniors/Nodes%20at%20Parks%20Logo.png">
-<p>Encounter eResources on Sustainability at a park near you! From 14 October 2022 to 26 February 2023, NLB is presenting a brand-new initiative called "Nodes at Parks". Come interact with NLB's exciting eResources on Sustainability. It consists of two parts: The Sustainability Showcase, and Sustainable Benches.</p>
-<u>Don't miss the opportunity to visit us:</u>
+<p>From 14 October 2022 to 26 February 2023, NLB presented a brand-new initiative called “Nodes at Parks”, which brought NLB’s exciting eResources on Sustainability to parks and gardens near you.</p>
+<p>Due to popular demand, the Nodes at Parks: Sustainability Showcase will be extending its run in the following locations:</p>
 
-<p><strong>14 October to 22 November 2022:</strong> Gardens by the Bay beside the ticketing office (near Flower Dome)</p>
-<p><strong>25 November to 18 December 2022:</strong> Jurong Lake Gardens at the Entrance Pavillion</p>
-<p><strong>21 December 2022 to 24 January 2023:</strong> East Coast Park at Raintree Cove</p>
-<p><strong>27 January to 26 February 2023:</strong> Pasir Ris Park at the Shelter near Carpark D</p>
-<p><h5><b>Check out the highlights of Nodes at Parks below:</b></h5></p>
-<p>As part of the suite of activities at the Showcase you will also be able to collect free pre-loved books, donate your own pre-loved books, as well as participate in interactive activities to collect sustainable giveaways</p>
+<p><strong>Changi General Hospital Main Building Atrium:</strong> 27 February to 13 March 2023</p>
+<p><strong>Changi General Hospital Integrated Building Atrium: </strong>14 March to 22 March 2023:</p>
+<p><strong>Plaza Singapura Near Oldham Lane Entrance: </strong>24 March to 16 April 2023</p>
+
+<p>Look out for it and scan the QR codes to read more about the different perspectives of Sustainability issues.</p>
+
 <p>Visit the <a href="https://go.gov.sg/rtbs-nodesatparks4" target="_blank">Nodes at Parks</a> webpage for more information.</p>
