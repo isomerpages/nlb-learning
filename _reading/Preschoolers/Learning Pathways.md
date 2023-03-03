@@ -73,8 +73,8 @@ Make reading a fun activity while fostering that special bond between you and yo
       </tr>
     </thead>
     <tbody>
-     <tr><td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
-        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
+     <tr><td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme </b></a></td>
+        <td>Join other parents with young children and support your child’s early development through an enjoyable session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
        <td>Check out all the Jiggle Read & Rhyme sessions for March!</td>
         <td>Various Locations</td>
       </tr>
@@ -138,6 +138,14 @@ https://www.eventbrite.sg/e/family-bonding-in-highly-pressurised-lifestyles-tick
         <td>25 Mar 2023<br>2pm-3pm</td>
         <td>library@harbourfront</td>				
   					</tr>			
+			<tr>
+<td><a target="_blank" href="
+https://www.eventbrite.sg/e/baby-songs-and-rhymes-tickets-323739121427?aff=odcleoeventsincollection"><b> Baby Songs & Rhymes</b></a></td>
+        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs & rhymes.
+ </td>
+        <td>25 Mar 2023<br>11am-11.20am</td>
+        <td>Zoom</td>				
+  					</tr>		
 			<tr>			
 <td><a target="_blank" href="
 https://www.eventbrite.sg/e/mindfulness-for-children-feelings-arent-bad-tickets-527999509747?aff=odcleoeventsincollection"><b>Mindfulness for Children: Feelings Aren't Bad
@@ -168,57 +176,60 @@ https://www.eventbrite.sg/e/mindfulness-for-children-feelings-arent-bad-tickets-
 		</thead>
 		<tbody>
 	<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/budding-engineers-structural-engineering-tickets-507096237497?aff=odcleoeventsincollection"><b> Budding Engineers l Structural Engineering</b></a></td>
+<td><a target="_blank" href="
+https://www.eventbrite.sg/e/budding-scientists-exploring-the-solar-system-tickets-527993060457?aff=odcleoeventsincollection"><b> Budding Scientists l Exploring the Solar System</b></a></td>
         <td>
-Have you ever wondered what makes buildings stay upright? Let’s learn about basic geometry and find out which shapes are the strongest.
+Look up to the night sky. There are many planets, stars and moons in our solar system. We will also build a scale model of our solar system.
 </td>
-       <td>25 Feb 2023 <br>11am - 12pm</td>
-        <td>Geylang East Public Library</td>
+       <td>25 Mar 2023 <br>2pm-3pm</td>
+        <td>Bedok Public Library</td>
       </tr>
 			  <tr>	
 <td><a target="_blank" href="
-https://www.eventbrite.sg/e/connecting-with-nature-discover-ecofiction-the-lorax-tickets-492221426537?aff=odcleoeventsincollection"><b>Connecting With Nature | Discover Ecofiction: The Lorax!</b></a></td>
-        <td>Connect with nature and discover ecofiction stories with this special storytelling and craft session!
+https://www.eventbrite.sg/e/budding-engineers-fun-with-blocks-and-motors-tickets-527997674257?aff=odcleoeventsincollection"><b>[Budding Engineers] Fun with Blocks and Motors</b></a></td>
+        <td>Cars, trucks, fire engines and boats. They move using motors. Let's learn how motors work and how they're used to convert energy into motion.
 </td>
-        <td>11 Feb 2023<br>2pm - 3pm<br></td>
-        <td>library@harbourfront</td>
+        <td>26 Mar 2023<br>11.30am-12.30pm<br></td>
+        <td>Sengkang Public Library</td>
       </tr>
 				<tr>			
-<td><a target="_blank" href="
-https://www.eventbrite.sg/e/discovertech-unplugged-coding-binary-code-tickets-505769860267?aff=odcleoeventsincollection"><b>[DiscoverTech] Unplugged Coding: Binary Code</b></a></td>
-         <td>Join us in this beginner’s programme for an introduction to binary code, one of the languages that computers use to communicate.
+<td><a target="_blank" href="https://www.eventbrite.sg/e/discovertech-coding-unplugged-human-computers-tickets-528014986037?aff=odcleoeventsincollection"><b>[DiscoverTech] Coding Unplugged: Human Computers!</b></a></td>
+         <td>
+Discover basic coding concepts of branching, sequencing and algorithms through storytelling and a series of enjoyable unplugged activities.
  </td>
-        <td>4 Feb 2023<br>11.30am–12.30pm<br></td>
-        <td>Jurong West Public Library  </td>
+        <td>16 Mar 2023<br>11am-12pm<br></td>
+        <td>Jurong Regional Library  </td>
       </tr>
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/e/discover-tech-experience-augmented-reality-tickets-492221165757?aff=odcleoeventsincollection"><b>
-[Discover Tech] Experience Augmented Reality</b></a></td>
+<td><a target="_blank" href="
+https://www.eventbrite.sg/e/discovertech-unplugged-coding-if-thisthen-tickets-528032749167?aff=odcleoeventsincollection"><b>
+[DiscoverTech] Unplugged Coding: If This,Then…</b></a></td>
         <td>
-Discover augmented reality through storytelling and the guided use of digital devices.
+Join us in this introductory programme on branching, where participants will learn about conditional statements.
  </td>
-       <td> 11 Feb 2023 <br> 11am– 12pm</td>
-        <td>Woodlands Regional Library</td>
+       <td> 13 Mar 2023 <br> 11.30am– 12.30pm</td>
+        <td>Bishan Public Library</td>
       </tr>
 			<tr>			
 <td><a target="_blank" href="
-https://www.eventbrite.sg/e/kinderkoder-lets-play-robot-discovertech-tickets-503024177857?aff=odcleoeventsincollection"><b>KinderKoder: Let's Play Robot
+https://www.eventbrite.sg/e/connecting-with-nature-elephants-the-biggest-of-us-needs-help-tickets-528027694047?aff=odcleoeventsincollection"><b>[Connecting with Nature] Elephants – The Biggest of Us Needs Help!
  </b></a></td>
         <td> 
-In this session children will learn how robots work, what algorithms are and how to play some fun robot games at home.
+Learn about the importance of elephants to us, the environment, and threat of their extinction through this storytelling and craft session!
 <br>
  </td>
-					<td>12 Feb 2023 <br>1.30pm - 2.30pm<br></td>
-        <td>Punggol Regional Library</td>
+					<td>14 Mar 2023 <br>3pm-4pm<br></td>
+        <td>Yishun Public Library</td>
       </tr>	
 			<tr>			
-<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b>[DiscoverTech] Ready, Set, Throw
+<td><a target="_blank" href="
+https://www.eventbrite.sg/e/caring-for-the-environment-a-plastic-bottles-journey-tickets-527989620167?aff=odcleoeventsincollection"><b>[Caring For the Environment] A Plastic Bottle’s Journey
  </b></a></td>
-        <td> Using a LEGO Set, participants will build a launcher for a basketball and learn many physical concepts such as forces and energy!
+        <td> Join us to learn about the life of plastic bottles and turn them into beautiful artworks! This session is suitable for children aged 4-6.
 <br>
  </td>
-					<td>18 Feb 2023 <br>11.30am-12.30pm<br></td>
-        <td>Bukit Panjang Public Library</td>
+					<td>18 Mar 2023 <br>3.30pm-4.30pm<br></td>
+        <td>Woodlands Regional Library</td>
       </tr>	
   </tbody>
   </table>
