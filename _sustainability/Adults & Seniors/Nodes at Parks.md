@@ -54,7 +54,7 @@ third_nav_title: Adults & Seniors
 </p>
 
 <p><strong>Book Nodes</strong></p>
-<p>As part of the suite of activities at the Showcase you will also be able to collect free pre-loved books, donate your own pre-loved books, as well as participate in interactive activities to collect sustainable giveaways. </p>
+<p>Enjoy reading with a cup of coffee at our BookNodes! From 8 March 2023, head down to 3 Foreword Coffee outlets to browse our BookNodes and pick up a used library book, or scan the QR codes on the bookcase doors to borrow an eBook! BookNodes was conceived to give used library books a new lease of life, and to encourage reading and sharing among the community. These bookshelves are made from sustainably-sourced reclaimed pallet wood in line with the sustainability theme. </p>
 
 
 
