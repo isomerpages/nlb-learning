@@ -156,7 +156,7 @@ https://www.eventbrite.sg/e/sustainable-art-tickets-532885965267?aff=odcleoevent
 <td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-going-green-with-terrariums-tickets-533217396587?aff=odcleoeventsincollection" target="_blank"><b> [Caring For the Environment] Going Green with Terrariums!
 </b></a></td>
         <td>      Let’s explore a terrarium! Children will learn more about what plants need to survive and design their own ecosystems.   </td>
-        <td>Sun, 25 Mar 2023 <br>12:30pm – 1:30pm<br></td>
+        <td>Sun, 26 Mar 2023 <br>12:30pm – 1:30pm<br></td>
         <td>Punggol Regional Library  </td>
 			</tr>
 		    </tbody>
