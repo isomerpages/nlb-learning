@@ -187,7 +187,7 @@ https://www.eventbrite.sg/e/sustainable-art-tickets-532885965267?aff=odcleoevent
 <tr>			
 <td><a href="https://www.eventbrite.sg/e/discovertech-coding-unplugged-human-computers-tickets-528014986037?aff=odcleoeventsincollection" target="_blank"><b> [DiscoverTech] Coding Unplugged: Human Computers!  </b></a></td>
         <td>      Discover basic coding concepts of branching, sequencing and algorithms through storytelling and a series of enjoyable unplugged activities.    </td>
-        <td> Thu, 16 Mar, 2023<br>11:00am-12:00pm<br></td>
+        <td> 16 Mar 2023<br>11:00am-12:00pm<br></td>
         <td>Jurong Regional Library </td>
 			</tr>
 		  <tr>			
@@ -197,7 +197,7 @@ https://www.eventbrite.sg/e/budding-engineers-fun-with-blocks-and-motors-tickets
         <td>          
 Cars, trucks, fire engines and boats. They move using motors. Let's learn how motors work and how they're used to convert energy into motion6 years old.
 </td>
-        <td>Sat, 26 Mar 2023<br>11:30am–12:30pm <br></td>
+        <td>26 Mar 2023<br>11:30am–12:30pm <br></td>
         <td>
 Sengkang Public Library </td>
 			</tr>
