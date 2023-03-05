@@ -109,7 +109,7 @@ https://www.eventbrite.sg/e/sustainable-art-tickets-532885965267?aff=odcleoevent
 </b></a></td>
         <td>      Learn to upcycle waste into fun board games for the family in this 90-minute session!   </td>
         <td> Sat, 11 Mar 2023
-<br>2:00 – 3:30pm <br></td>
+<br>2:00pm–3:30pm <br></td>
         <td>Choa Chu Kang Public Library</td>
 			</tr>
 <tr>			
@@ -117,7 +117,7 @@ https://www.eventbrite.sg/e/sustainable-art-tickets-532885965267?aff=odcleoevent
 </b></a></td>
         <td>      Learn about the importance of elephants to us, the environment, and threat of their extinction through this storytelling and craft session!   </td>
         <td> Tue, 14 Mar 2023
-<br>3:00-4:00pm <br></td>
+<br>3:00pm-4:00pm <br></td>
         <td>Yishun Public Library</td>
 			</tr>
 <tr>			
@@ -125,7 +125,7 @@ https://www.eventbrite.sg/e/sustainable-art-tickets-532885965267?aff=odcleoevent
 </b></a></td>
         <td>      Join this fun and informative workshop to learn more about wildlife conservation and what we can do to help.   </td>
         <td> Sat, 18 Mar 2023
-<br>2:00 – 3:00pm <br></td>
+<br>2:00pm–3:00pm <br></td>
         <td>Queenstown Public Library</td>
 			</tr>
 <tr>			
@@ -133,7 +133,7 @@ https://www.eventbrite.sg/e/sustainable-art-tickets-532885965267?aff=odcleoevent
 </b></a></td>
         <td>      Join us to learn about the life of plastic bottles and turn them into beautiful artworks!   </td>
         <td> Sat, 18 Mar 2023
-<br>3:30 – 4:30pm <br></td>
+<br>3:30–4:30pm <br></td>
         <td>Woodlands Regional Library</td>
 			</tr>
 <tr>			
@@ -141,7 +141,7 @@ https://www.eventbrite.sg/e/sustainable-art-tickets-532885965267?aff=odcleoevent
 </b></a></td>
         <td>      This session teaches young children on basic plant biology on lifecycles, systems and plant diversity  </td>
         <td> Sat, 25 Mar 2023
-<br>10:30am – 12:00pm <br></td>
+<br>10:30am–12:00pm <br></td>
         <td>Bishan Public Library</td>
 			</tr>
 <tr>			
@@ -187,7 +187,7 @@ https://www.eventbrite.sg/e/sustainable-art-tickets-532885965267?aff=odcleoevent
 <tr>			
 <td><a href="https://www.eventbrite.sg/e/discovertech-coding-unplugged-human-computers-tickets-528014986037?aff=odcleoeventsincollection" target="_blank"><b> [DiscoverTech] Coding Unplugged: Human Computers!  </b></a></td>
         <td>      Discover basic coding concepts of branching, sequencing and algorithms through storytelling and a series of enjoyable unplugged activities.    </td>
-        <td> Thu, 16 Mar, 2023<br>11:00am -12:00pm<br></td>
+        <td> Thu, 16 Mar, 2023<br>11:00am-12:00pm<br></td>
         <td>Jurong Regional Library </td>
 			</tr>
 		  <tr>			
@@ -197,7 +197,7 @@ https://www.eventbrite.sg/e/budding-engineers-fun-with-blocks-and-motors-tickets
         <td>          
 Cars, trucks, fire engines and boats. They move using motors. Let's learn how motors work and how they're used to convert energy into motion6 years old.
 </td>
-        <td>Sat, 26 Mar 2023<br>11:30 AM – 12:30 PM <br></td>
+        <td>Sat, 26 Mar 2023<br>11:30am–12:30pm <br></td>
         <td>
 Sengkang Public Library </td>
 			</tr>
