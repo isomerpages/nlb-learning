@@ -95,19 +95,68 @@ Check out the video resources below to help your child understand the roles of t
 				
 
   <tr>			
-<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-discover-ecofiction-the-lorax-tickets-492221426537" target="_blank"><b> [Connecting With Nature] Discover Ecofiction: The Lorax
+<td><a href="https://www.eventbrite.sg/e/arise-farm-from-seed-to-harvest-plants-friends-foes-tickets-549853726297?aff=odcleoeventsincollection" target="_blank"><b> Arise & Farm: From Seed To Harvest-Plants’ Friends & Foes
 </b></a></td>
-        <td>      Connect with nature and discover ecofiction stories with this special storytelling and craft session!   </td>
-        <td> Sat, 11 Feb 2023
-<br>2:00 – 3:00pm <br></td>
-        <td>library@harbourfront</td>
+        <td>      Participants get to learn each step of the farming process which includes seed sowing, transplant, grow-out and harvest!   </td>
+        <td> Sat, 11 Mar 2023
+<br>10.30am-12pm <br></td>
+        <td>Bishan Public Library</td>
 			</tr>
-			
-  <tr>			
-<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-the-majestic-monarch-butterflies-tickets-524117097347" target="_blank"><b> [Connecting With Nature] The Majestic Monarch Butterflies
+			<tr>			
+<td><a href="
+https://www.eventbrite.sg/e/sustainable-art-tickets-532885965267?aff=odcleoeventsincollection
+" target="_blank"><b> Sustainable Art
 </b></a></td>
-        <td>      Learn facts about monarch butterfiles and how they have been affected by climate change through storytelling and hands-on activities! This programme is suitable for children 4-6 years old.   </td>
-        <td>Tue, 21 Feb 2023 <br>3:00 – 4:00pm<br></td>
+        <td>      Learn to upcycle waste into fun board games for the family in this 90-minute session!   </td>
+        <td> Sat, 11 Mar 2023
+<br>2:00 – 3:30pm <br></td>
+        <td>Choa Chu Kang Public Library</td>
+			</tr>
+<tr>			
+<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-elephants-the-biggest-of-us-needs-help-tickets-528027694047?aff=odcleoeventsincollection" target="_blank"><b> [Connecting with Nature] Elephants – The Biggest of Us Needs Help!
+</b></a></td>
+        <td>      Learn about the importance of elephants to us, the environment, and threat of their extinction through this storytelling and craft session!   </td>
+        <td> Tue, 14 Mar 2023
+<br>3:00-4:00pm <br></td>
+        <td>Yishun Public Library</td>
+			</tr>
+<tr>			
+<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-wildlife-conservation-us-tickets-536628760067?aff=odcleoeventsincollection" target="_blank"><b> [Connecting with Nature] Wildlife Conservation & Us!
+</b></a></td>
+        <td>      Join this fun and informative workshop to learn more about wildlife conservation and what we can do to help.   </td>
+        <td> Sat, 18 Mar 2023
+<br>2:00 – 3:00pm <br></td>
+        <td>Queenstown Public Library</td>
+			</tr>
+<tr>			
+<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-discover-ecofiction-the-lorax-tickets-492221426537" target="_blank"><b> [Caring For the Environment] A Plastic Bottle’s Journey
+</b></a></td>
+        <td>      Join us to learn about the life of plastic bottles and turn them into beautiful artworks!   </td>
+        <td> Sat, 18 Mar 2023
+<br>3:30 – 4:30pm <br></td>
+        <td>Woodlands Regional Library</td>
+			</tr>
+<tr>			
+<td><a href="https://www.eventbrite.sg/e/arise-farm-engaging-communities-what-are-plants-tickets-549855110437?aff=odcleoeventsincollection" target="_blank"><b> Arise & Farm: Engaging Communities-What are plants?
+</b></a></td>
+        <td>      This session teaches young children on basic plant biology on lifecycles, systems and plant diversity  </td>
+        <td> Sat, 25 Mar 2023
+<br>10:30am – 12:00pm <br></td>
+        <td>Bishan Public Library</td>
+			</tr>
+<tr>			
+<td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-going-green-with-terrariums-tickets-527991445627?aff=odcleoeventsincollection" target="_blank"><b> [Caring For the Environment] Going Green with Terrariums!
+</b></a></td>
+        <td>      Let’s explore a terrarium! Children will learn more about what plants need to survive and design their own ecosystems.   </td>
+        <td> Sat, 25 Mar 2023
+<br>11:00am-12:00pm <br></td>
+        <td>Bedok Public Library</td>
+			</tr>
+  <tr>			
+<td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-going-green-with-terrariums-tickets-533217396587?aff=odcleoeventsincollection" target="_blank"><b> [Caring For the Environment] Going Green with Terrariums!
+</b></a></td>
+        <td>      Let’s explore a terrarium! Children will learn more about what plants need to survive and design their own ecosystems.   </td>
+        <td>Sun, 25 Mar 2023 <br>12:30pm – 1:30pm<br></td>
         <td>Punggol Regional Library  </td>
 			</tr>
 		    </tbody>
@@ -124,7 +173,7 @@ Check out the video resources below to help your child understand the roles of t
   <tbody>
 	<tr>			
 <td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
-        <td>Join other parents with young children and support your child’s early development through an enjoyable virtual session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
+        <td>Join other parents with young children and support your child’s early development through an enjoyable session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
         <td>Various Locations</td>
       </tr>
 	<tr>			
@@ -136,19 +185,21 @@ Check out the video resources below to help your child understand the roles of t
 		
 		
 <tr>			
-<td><a href="https://www.eventbrite.sg/e/childrens-puppet-castle-tickets-492220774587?aff=ebdssbdestsearch" target="_blank"><b> Children's Puppet Castle  </b></a></td>
-        <td>      Join us for a puppet show performed by puppet masters Arii Azharii and Christopher Chow!    </td>
-        <td> Sun, Feb 26, 2023<br>1:30 PM – 2:30 PM<br></td>
-        <td>Punggol Regional Library </td>
+<td><a href="https://www.eventbrite.sg/e/discovertech-coding-unplugged-human-computers-tickets-528014986037?aff=odcleoeventsincollection" target="_blank"><b> [DiscoverTech] Coding Unplugged: Human Computers!  </b></a></td>
+        <td>      Discover basic coding concepts of branching, sequencing and algorithms through storytelling and a series of enjoyable unplugged activities.    </td>
+        <td> Thu, 16 Mar, 2023<br>11:00am -12:00pm<br></td>
+        <td>Jurong Regional Library </td>
 			</tr>
 		  <tr>			
-<td><a href="https://www.eventbrite.sg/e/budding-engineers-structural-engineering-tickets-507096237497?aff=odcleoeventsincollection" target="_blank"><b> [Budding Engineers] Structural Engineering
+<td><a href="
+https://www.eventbrite.sg/e/budding-engineers-fun-with-blocks-and-motors-tickets-527997674257?aff=odcleoeventsincollection" target="_blank"><b> [Budding Engineers] Structural Engineering
 </b></a></td>
-        <td>          Have you ever wondered what makes buildings stay upright? Let's learn about basic geometry and find out which shapes are the strongest. This parent-child session is suitable for preschoolers aged 4 to 6 years old.
+        <td>          
+Cars, trucks, fire engines and boats. They move using motors. Let's learn how motors work and how they're used to convert energy into motion6 years old.
 </td>
-        <td>Sat, Feb 25, 2023<br>11:00 AM – 12:00 PM <br></td>
+        <td>Sat, 26 Mar 2023<br>11:30 AM – 12:30 PM <br></td>
         <td>
-Geylang East Public Library </td>
+Sengkang Public Library </td>
 			</tr>
     </tbody>
   </table>
