@@ -276,13 +276,13 @@ Check out these resources to learn more about some trades and occupations that c
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/be5g7Q-Xp2s">
 </iframe>
 </div>
-	</div>
-	<div class="col is-three-fifths">
-		<p><b>The Greatest Gift of a Generation: Tok Tok Mee | irememberSG (4 mins)</b><br>
-			Watch Mr Lai Quoquan reminisce and share about his days as a 'Tok Tok Man'. Walkng the streets, Mr Lai would sell bowls of noodles while rapping on a wooden instrument, signalling to his customers that he was open for business.<br><br>
+</div>
+<div class="col is-three-fifths">
+<p><b>The Greatest Gift of a Generation: Tok Tok Mee | irememberSG (4 mins)</b><br>
+Watch Mr Lai Quoquan reminisce and share about his days as a 'Tok Tok Man'. Walkng the streets, Mr Lai would sell bowls of noodles while rapping on a wooden instrument, signalling to his customers that he was open for business.<br><br>
 <small>Source: The Greatest Gift of a Generation: Tok Tok Mee (2015, January 3). irememberSG. Retrieved 2022, November 1.</small></p>
-	</div>
-	</div>
+</div>
+</div>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
