@@ -172,7 +172,7 @@ Check out these resources to help you gain some understanding of the five-foot-w
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="vanishing-trades" class="margin--bottom--lg"><b>Playlist: Cottage Industries</b></h5>
+<h5 id="cottage-industries" class="margin--bottom--lg"><b>Playlist: Cottage Industries</b></h5>
 Cottage industries are small-scale, family-run businesses typically producing goods and services of cultural significance. Cottage industries are different from other small enterprises in that their owners are directly engaged in production, which is traditionally labour-intensive and involves specialised skill. While machinery may be used to support production, the goods made by cottage industries remain primarily handcrafted. Examples include traditional food, furniture, jewellery, clothing, and religious items. What are some of the cottage industries in our midst? How have they survived through the years and what challenges confront them today? Watch the videos below to find out more.
 
 <br>
