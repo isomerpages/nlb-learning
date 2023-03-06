@@ -98,7 +98,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 	</div>
 	
-<h3><b>Playlist</b></h3>
+<h3><b>Playlists</b></h3>
 A collection of short videos, exploring topics around Singapore’s iconic entertainment places.
 
 <h5 class="margin--bottom--lg" id="amusement-parks"><b>Playlist: Amusement Parks</b></h5>
