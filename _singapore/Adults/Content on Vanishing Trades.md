@@ -44,7 +44,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 	
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#vanishing-trades">
+      <a href="#five-foot-way-traders">
         <span>Playlist: Five-Foot-Way Traders</span>
       </a>
     </div>
