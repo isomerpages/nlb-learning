@@ -579,8 +579,30 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-06-2
 <h4>Books</h4>
 
 <h5>Tiger Balm Gardens: A Chinese billionaire's fantasy environments</h5>
-Brandel, Judith and Tina Turbeville. (1998). <i>Tiger Balm Gardens: A Chinese billionaire's fantasy environments</i> Hong Kong: Aw Boon Haw Foundation. (Call no.: RSING q959.57 BRA)
+Brandel, Judith and Tina Turbeville. (1998). <i>Tiger Balm Gardens: A Chinese billionaire's fantasy environments</i>. Hong Kong: Aw Boon Haw Foundation. (Call no.: RSING q959.57 BRA)
 <br>
 	
 <img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/tiger-balm.png">
 <p> Through over 300 photos and supporting text, this book documents the two Tiger Balm Gardens that billionaire Aw Boon Haw built in Hong Kong and Singapore in the 1930s, as well as his Tiger Balm medical ointment business that funded them all.</p>
+<h5>Tang Dynasty Village</h5>
+Tang Dynasty Village. (1992-). <i>Tang Dynasty Village</i>. Singapore: Tang Dynasty Village. (Call no.: RLCOS EPHE PL39)
+<br>
+
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/tang-dynasty.png">
+<p>This ephemera folder contains brochures on the Tang Dynasty City, a historical and cultural theme park based on the Tang Dynasty. They include a pre-opening promotional brochure, a park guide, a brochure on discounted admission rates, and a promotional brochure for the Ghost Mansion attraction in the park. The park guide brochure provides a snapshot of the theme park, which no longer exists. The guide includes a map of the park and a list of sites and attractions that can be found within.</p>
+
+<h5>Universal City Singapore</h5>
+Universal Studios, Inc. (1997). <i>Universal City Singapore</i>. [Place of publication not identified]: Universal Studios, Inc. (Call no.: RCLOS 791.0685957 UNI -[LKY])
+<br>
+
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/universal-city.png">
+<p>This publication contains the concept plan and business plan for a Universal Studios theme park in Jurong Lake Site in Singapore. The concept plan includes proposals for the different zones, rides, and attractions in the theme park.</p>
+
+<h5>Challenges to theme park development in Singapore</h5>
+Teo, Peggy and Brenda S. A. Teoh. (1999). <i>Challenges to theme park development in Singapore</i>. Singapore: Pagesetters Services Pte. Ltd. for Centre for Advanced Studies, National University of Singapore. (Call no.: RSING q791.0685957 TEO)
+<br>
+
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/teo-and-yeo.png">
+<p>This research paper on theme parks in Singapore analyses their attractiveness, explores problems they face, and examines how they meet the challenges and changes. Some theme parks covered include Tang Dynasty City, Fantasy Island, volcanoland and Haw Par Villa. The research was completed in 1997 and was funded by National University of Singapore and Singapore Tourism Board to support tourism research.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
