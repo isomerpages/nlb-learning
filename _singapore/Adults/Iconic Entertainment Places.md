@@ -89,6 +89,13 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 			</a>
 		</div>
 	</div>
+	<div class= "col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-amusement-and-theme-parks">
+<span>Learning Package: Amusement and Theme Parks</span>
+</a>	
+</div>
+</div>
 	</div>
 	
 <h3><b>Playlist</b></h3>
@@ -539,3 +546,42 @@ Tinsley, Bonnie [2016]. <i> The world in a garden: Singapore's gardens by the ba
 <p> This book chronicles the extensive work put into creating Gardens by the Bay from initial conception and construction to its official opening in 2012 and beyond. It looks at the Gardens’ signature programmes and events, its achievements in the first five years of operation, and future plans.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b>Learning Package</b></h3>
+<h5 class="margin--bottom--lg" id="lp-amusement-and-theme-parks"><b>Amusement and Theme Parks</b></h5>
+
+<p>Built in 1937, Haw Par Villa was a large garden filled with sculptures depicting moral lessons found in Chinese folklore. Though built decades ago, it was characterised by leisure and entertainment facilities that revolve a common theme or subject like most modern theme parks today.
+</p>
+<b></b>
+<p>The success of Disneyland in the post-war years, coupled with rising affluence in our post-independence years, prompted a growth in the amusement and theme park industry in Singapore. There were at least nine theme parks operating in Singapore in the 1990s, though many of these theme parks would eventually close due to low visitor numbers. However, Singapore’s theme park industry got a boost in 2011 with the opening of Universal Studios Singapore, the first Universal studios theme park in Southeast Asia. 
+</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li>Plans for a Universal Studios theme park in the Jurong Lake area were first pitched in the 1990s – almost a decade before Universal Studios Singapore opened at Sentosa island in 2011.</li>
+</ul>
+</td>
+</tr</tbody></table>
+
+These curated set of articles and books will give you a better understanding of the history and development of theme parks in Singapore.
+
+	<h4>Articles</h4>
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_560_2004-12-14.html" target="_blank">Haw Par Villa (Tiger Balm Gardens) by Lim, Irene</a></h5>
+<p>Haw Par Villa is an oriental-style theme park located along Pasir Panjang Road. The park was commissioned in 1937 by businessman Aw Boon Haw, as part of the residential estate he was building for his younger brother, Aw Boon Par. Though located on private property, the garden was opened to the public. The park is known for its statues depicting scenes from Chinese folklore.</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_560_2004-12-14.html" target="_blank"> Haw Par Villa (Tiger Balm Gardens)</a>(2016).<i>Singapore Infopedia.</i> Retrieved 2023, March 6.
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-06-26_162710.html" target="_blank"> Science Centre Singapore
+by Lim, Tin Seng</a></h5>
+<p>The Singapore Science Centre opened to the public on 10 December 1977. It aimed to promote interest and learning in science and technology to students and the public. This objective came at a time when Singapore was industrialising rapidly, and it was paramount to develop Singapore’s industrial and technological skills.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-06-26_162710.html" target="_blank">Science Centre Singapore</a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, March 6.
+<h4>Books</h4>
+
+<h5>Tiger Balm Gardens: A Chinese billionaire's fantasy environments</h5>
+Brandel, Judith and Tina Turbeville. (1998). <i>Tiger Balm Gardens: A Chinese billionaire's fantasy environments</i> Hong Kong: Aw Boon Haw Foundation. (Call no.: RSING q959.57 BRA)
+<br>
+
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/tiger-balm.png">
+<p> Through over 300 photos and supporting text, this book documents the two Tiger Balm Gardens that billionaire Aw Boon Haw built in Hong Kong and Singapore in the 1930s, as well as his Tiger Balm medical ointment business that funded them all.</p>
