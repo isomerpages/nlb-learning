@@ -310,7 +310,7 @@ Watch a retired samsui woman share anecdotes about the work she did as a samsui 
 <div class="col is-three-fifths">
 <p><b>Clearing Illegal Hawkers In 1960s Singapore | A Frame In Time | Episode 1/3 | CNA Insider (48 mins)</b><br>
 Helmed by Singapore director Kelvin Tong, this documentary takes inspiration from social realist Koeh Sia Yong's painting of itinerant street hawkers fleeing from licensing officers titled, "Here They Come". The video explores the lives and experiences of itinerant street hawkers who used to peddle their food along alleys and roads, and covers the street hawker's eventual disappearance as new laws were enacted to clean up the streets. <br><br>
-<small>Source: Clearing Illegal Hawkers In 1960s Singapore | A Frame In Time | Episode 1/3 (2020, April 17). CNA Insider. Retrieved 2022, November 19. </small></p>
+<small>Source: Clearing Illegal Hawkers In 1960s Singapore | A Frame In Time | Episode 1/3 (2020, April 17). CNA Insider. Retrieved 2022, November 1. </small></p>
 </div>
 </div>
 
