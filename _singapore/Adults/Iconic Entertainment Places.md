@@ -463,7 +463,7 @@ Singapore Zoological Gardens (1994). <i>The world’s first night safari.</i> Si
 <img src="/images/Iconic%20Entertainment%20Places/nightsafari.png" style="width:200px;"></a>
 <p>This book introduces the attractions and layout of the Night Safari, the world's first nocturnal zoo located in Mandai.</p>
 
-<h5 id="lp-parks" class="margin--bottom--lg"><b> Learning Package: Parks</b></h5>
+<h5 id="lp-parks" class="margin--bottom--lg"><b> Parks</b></h5>
 
 <p> Parks are an integral part of Singapore’s landscape and greening journey. The history of parks and greening in Singapore can be traced to 1822 when the first botanical garden was set up on Government Hill (now known as Fort Canning Hill). However, it was not until the late 1960s that the creation of green spaces was firmly placed on the official agenda and a long-term vision was put forth to transform Singapore into a garden city. Apart from the large-scale planting of roadside trees and shrubs, parks were created all over the island from the 1970s. Today, Singapore is home to some 400 parks that provide much-needed green space for people to relax, play, and enjoy the outdoors. 
 </p>
@@ -547,7 +547,6 @@ Tinsley, Bonnie [2016]. <i> The world in a garden: Singapore's gardens by the ba
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-amusement-and-theme-parks"><b>Amusement and Theme Parks</b></h5>
 
 <p>Built in 1937, Haw Par Villa was a large garden filled with sculptures depicting moral lessons found in Chinese folklore. Though built decades ago, it was characterised by leisure and entertainment facilities that revolve a common theme or subject like most modern theme parks today.
