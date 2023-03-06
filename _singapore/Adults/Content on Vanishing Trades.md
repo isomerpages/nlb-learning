@@ -317,7 +317,7 @@ Helmed by Singapore director Kelvin Tong, this documentary takes inspiration fro
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
-<h5 id="lp-vanishing-trades" class="margin--bottom--lg"><b>Five-Foot-Way Traders</b></h5>
+<h5 id="lp-five-foot-way-traders" class="margin--bottom--lg"><b>Five-Foot-Way Traders</b></h5>
 
 <p><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html"> Five-foot-way traders </a> were largely craftsmen who conducted their businesses along covered shophouse walkways. The name “five-foot-way” refers to the original stipulation that the walkways be five feet wide. The walkways, which originated in Malaya during the early 19th century, were meant to protect pedestrians from the elements. Due to the movement of peoples throughout the 19th-20th century, this architectural feature can be found in Singapore, Indonesia, Malaysia, and China.</p>
 
