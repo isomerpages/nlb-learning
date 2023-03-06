@@ -51,35 +51,35 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   </div>
 	 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#vanishing-trades">
+      <a href="#cottage-industries">
         <span>Playlist: Cottage Industries</span>
       </a>
     </div>
   </div>
 	<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#vanishing-trades">
+      <a href="#vanished-trades">
         <span>Playlist: Vanished Trades</span>
       </a>
     </div>
   </div>
 			<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-vanishing-trades">
+      <a href="#lp-five-foot-way-traders">
         <span>Learning Package: Five-Foot-Way Traders</span>
       </a>
     </div>
   </div>
 			<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-vanishing-trades">
+      <a href="#lp-cottage-industries">
         <span>Learning Package: Cottage Industries</span>
       </a>
     </div>
   </div>
 				<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-vanishing-trades">
+      <a href="#lp-vanished-trades">
         <span>Learning Package: Vanished Trades</span>
       </a>
     </div>
