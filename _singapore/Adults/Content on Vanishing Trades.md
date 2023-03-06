@@ -262,7 +262,7 @@ Source: Flower Power: The Right Way To Get Blessings From Hindu Gods | Our Grand
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="vanishing-trades" class="margin--bottom--lg"><b>Playlist: Vanished Trades</b></h5>
+<h5 id="vanished-trades" class="margin--bottom--lg"><b>Playlist: Vanished Trades</b></h5>
 Vanished trades can be defined as trades and occupations that no longer exist in society today or have evolved significantly from their traditional iterations to adapt to the needs of modern times.
 
 While no longer be practiced, these trades and ocuupations provide a glimpse into old Singapore and reveal stories of the men and women who provided unique products and services that have since disappeared.
