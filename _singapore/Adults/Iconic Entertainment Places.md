@@ -582,6 +582,5 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-06-2
 <h5>Tiger Balm Gardens: A Chinese billionaire's fantasy environments</h5>
 Brandel, Judith and Tina Turbeville. (1998). <i>Tiger Balm Gardens: A Chinese billionaire's fantasy environments</i> Hong Kong: Aw Boon Haw Foundation. (Call no.: RSING q959.57 BRA)
 <br>
-
 <img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/tiger-balm.png">
 <p> Through over 300 photos and supporting text, this book documents the two Tiger Balm Gardens that billionaire Aw Boon Haw built in Hong Kong and Singapore in the 1930s, as well as his Tiger Balm medical ointment business that funded them all.</p>
