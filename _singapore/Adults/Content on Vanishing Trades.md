@@ -378,7 +378,7 @@ Chew, Angela, Ricky Gui, and Jason Leong, (2016). <i>A Blink in Time: Memories o
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id="lp-cottage-industries"><b> Learning Package: Cottage Industries</b></h5>
+<h5 class="margin--bottom--lg" id="lp-cottage-industries"><b>Cottage Industries</b></h5>
 
 <p> Cottage industries are small-scale, family-run businesses typically producing goods and services of cultural significance. Cottage industries are unique in that their owners are often directly engaged in day-to-day operations and management decisions. Then, the production process is labour-intensive and requires artisanal skills. While machinery may be used, the goods made by cottage industries are still mainly handcrafted.
 </p>
