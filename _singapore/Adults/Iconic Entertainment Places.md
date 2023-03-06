@@ -346,7 +346,7 @@ Watch this for a quick introduction to all the exhibitions, attractions, and pro
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
-<h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks</b></h5>
+<h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Amusement Parks</b></h5>
 
 <p><A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_990_2006-06-09.html">New World Park</A> (1923-1987), <A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1046_2006-06-09.html">Great World Amusement Park</A> (1931-1964), and <A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1044_2006-06-01.html">Gay World (Happy World)</A> (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.</p>
 
