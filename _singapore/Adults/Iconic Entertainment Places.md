@@ -563,7 +563,7 @@ Tinsley, Bonnie [2016]. <i> The world in a garden: Singapore's gardens by the ba
 <li>Plans for a Universal Studios theme park in the Jurong Lake area were first pitched in the 1990s – almost a decade before Universal Studios Singapore opened at Sentosa island in 2011.</li>
 </ul>
 </td>
-</tr</tbody></table>
+		</tr></tbody></table>
 
 These curated set of articles and books will give you a better understanding of the history and development of theme parks in Singapore.
 
