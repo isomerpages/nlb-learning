@@ -595,7 +595,7 @@ Tang Dynasty Village. (1992-). <i>Tang Dynasty Village</i>. Singapore: Tang Dyna
 Universal Studios, Inc. (1997). <i>Universal City Singapore</i>. [Place of publication not identified]: Universal Studios, Inc. (Call no.: RCLOS 791.0685957 UNI -[LKY])
 <br>
 
-<img style="width:300px;" src="/images/Iconic%20Entertainment%20Places/universal-city.png">
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/universal-city.png">
 <p>This publication contains the concept plan and business plan for a Universal Studios theme park in Jurong Lake Site in Singapore. The concept plan includes proposals for the different zones, rides, and attractions in the theme park.</p>
 
 <h5>Challenges to theme park development in Singapore</h5>
