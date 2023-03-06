@@ -567,8 +567,7 @@ Tinsley, Bonnie [2016]. <i> The world in a garden: Singapore's gardens by the ba
 
 These curated set of articles and books will give you a better understanding of the history and development of theme parks in Singapore.
 
-	<h4>Articles</h4>
-
+<h4>Articles</h4>
 <h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_560_2004-12-14.html" target="_blank">Haw Par Villa (Tiger Balm Gardens) by Lim, Irene</a></h5>
 <p>Haw Par Villa is an oriental-style theme park located along Pasir Panjang Road. The park was commissioned in 1937 by businessman Aw Boon Haw, as part of the residential estate he was building for his younger brother, Aw Boon Par. Though located on private property, the garden was opened to the public. The park is known for its statues depicting scenes from Chinese folklore.</p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_560_2004-12-14.html" target="_blank"> Haw Par Villa (Tiger Balm Gardens)</a>(2016).<i>Singapore Infopedia.</i> Retrieved 2023, March 6.
@@ -582,5 +581,6 @@ Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-06-2
 <h5>Tiger Balm Gardens: A Chinese billionaire's fantasy environments</h5>
 Brandel, Judith and Tina Turbeville. (1998). <i>Tiger Balm Gardens: A Chinese billionaire's fantasy environments</i> Hong Kong: Aw Boon Haw Foundation. (Call no.: RSING q959.57 BRA)
 <br>
+	
 <img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/tiger-balm.png">
 <p> Through over 300 photos and supporting text, this book documents the two Tiger Balm Gardens that billionaire Aw Boon Haw built in Hong Kong and Singapore in the 1930s, as well as his Tiger Balm medical ointment business that funded them all.</p>
