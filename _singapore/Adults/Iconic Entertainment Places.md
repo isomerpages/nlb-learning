@@ -61,6 +61,13 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 			</a>
 		 </div>
 	</div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#amusement-and-theme-parks">
+        <span>Playlist: Amusement and Theme Parks</span>
+      </a>
+    </div>
+  </div>
 	 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-amusement-parks">
@@ -278,6 +285,56 @@ Virtual tour of HortPark (short for Horticultural Park), a one-stop resource hub
 </small></p>
 </div>
 </div>	
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="amusement-and-theme-parks"><b>Playlist: Amusement and Theme Parks</b></h5>
+
+A place where nightmares are made for little children, Haw Par Villa was built in 1937. It was one of a kind large garden filled with more than 1000 sculptures and dioramas depicting a wealth of Chinese culture, history, philosophy and religion. Though built decades ago, it was characterised by leisure and entertainment facilities that revolve a common theme or subject like most modern theme parks today. 
+
+In the 1980s and 1990s, the amusement and theme park industry in Singapore witnessed a growth due to the success of Disneyland in the post-war years, coupled with rising affluence in our post-independence years. 
+
+Check out these videos to learn more about theme parks – some still around and some forgotten – in Singapore.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/-5ydJmtcW3c" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>In Singapore, 70 Years of Crafting a Unique Theme Park |Great Big Story (2 mins)</b><br>
+This video provides a look behind the scenes of how the colourful sculptures at Haw Par Villa are maintained year-round. Through an interview with Teo Veoh Seng, one of the master craftsmen behind the park’s countless unique sculptures, learn about how he uses restoration techniques passed down from his father and uncles to lovingly maintaining a piece of Singapore’s cultural history.<br><br>
+<small>Source: In Singapore, 70 Years of Crafting a Unique Theme Park (2017, October 5). Great Big Story. Retrieved 2023, March 6.</small></p>
+</div>
+</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/kNpyTk3gpP0" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> OMTJ PLAY@TJ: Tang Dynasty City | NHB OMTJ (2 mins)</b><br>
+Watch long-time residents of Taman Jurong, Mr Lee and Mdm Tan, recount their memories of Tang Dynasty City and the various attractions that could be found there.<br><br>
+<small> OMTJ PLAY@TJ: Tang Dynasty City (2017, September 7). NHB OMTJ. Retrieved 2023, March 6.</small></p>
+</div>
+</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/Yuq0NgUrfO4" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>Welcome to Science Centre Singapore! (English) | Science Centre Singapore (3 mins)</b><br>
+Watch this for a quick introduction to all the exhibitions, attractions, and programs the Science Centre has to offer.<br><br>
+<small>Source: Welcome to Science Centre Singapore! (English) (2019, November 1). Science Centre Singapore. Retrieved 2023, March 6.</small></p>
+</div>
+</div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
