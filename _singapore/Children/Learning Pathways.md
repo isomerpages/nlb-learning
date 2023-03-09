@@ -39,3 +39,28 @@ third_nav_title: Children
 </style>
 
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
+
+<h3><b>Places in Singapore</b></h3>
+There are many stories to our places and spaces in Singapore. Through this pathway you can explore different resources to discover some interesting sights and sounds of Singapore.
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/singapore/children/content" target="_blank"><b>Tour around Singapore Learning Package</b></a></td>
+        <td style="width: 40%;">Here are some great resources to start with.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td> </td>
+			</tr>
+    </tbody>
+  </table>
+</div>
