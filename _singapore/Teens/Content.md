@@ -188,3 +188,17 @@ Lai, Chee Kien. <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-20
 <br>
 Wong, Sher Maine. <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/istana-turns-150" target="_blank"> The Istana Turns 150</a> <i>BiblioAsia</i> 14(4), (January – March 2020). Retrieved 2023, March 9.
 	
+<h4>Books</h4>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <img style="width:150;" src="/images/SG%20Exploring%20our%20city/ubin.png">
+  </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Footprints on an Island: Rediscovering Pulau Ubin</b><br>
+    Chua, Ee Kiam, Choo Mui Eng and Wong Tuan Wah. (2016). <i>Footprints on an Island: Rediscovering Pulau Ubin</i> Singapore: SIMPLY GREEN and National Parks Board. (Call no.: Adult Sing English 333.78095957 CHU)
+</p>
+ </div>
+</div>
