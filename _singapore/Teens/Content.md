@@ -202,3 +202,16 @@ Wong, Sher Maine. <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-
 </p>
  </div>
 </div>
+	
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <img style="width:150;" src="/images/SG%20Exploring%20our%20city/shophouse_joochiat.png">
+  </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b>Singapore shophouse walks: Joo Chiat, Katong, Geylang</b><br>
+Edmondson, Lisa, Tatyana Kildisheva and Joanne Pasquale. (2021). <i>Singapore shophouse walks: Joo Chiat, Katong, Geylang</i>. Singapore: Kildi Photo. (Call no.: Adult Sing English 728.3 KIL)
+</p>
+ </div>
+</div>
