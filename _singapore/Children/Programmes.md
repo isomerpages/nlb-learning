@@ -42,6 +42,8 @@ LearnX Singapore goes beyond the walls of libraries and archives to bring you ex
 
 Click [here](https://www.eventbrite.sg/cc/programmes-for-children-66139){:target="_blank"} for the latest programme listings for children.
 
+![Alt text for image on Isomer site](/images/singapore/singapore/NLNAS%20Programmes.png)
+
 ## **A Librarian's World**
 Ever wondered what librarians do? Find out what makes our librarians tick as they share highlights of their work from the collections of the National Library. 
 
