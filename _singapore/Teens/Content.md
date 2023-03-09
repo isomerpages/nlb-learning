@@ -206,9 +206,139 @@ Wong, Sher Maine. <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-
      <img style="width:100;" src="/images/SG%20Exploring%20our%20city/shophouse_joochiat.png">
   </div>
   <div class="col is-three-fifths">
-    <p><b>Singapore shophouse walks: Joo Chiat, Katong, Geylang</b><br>
-Edmondson, Lisa, Tatyana Kildisheva and Joanne Pasquale. (2021). <i>Singapore shophouse walks: Joo Chiat, Katong, Geylang</i>. Singapore: Kildi Photo. (Call no.: Adult Sing English 728.3 KIL)
+   <h5>Singapore shophouse walks: Joo Chiat, Katong, Geylang</h5>
+<p>Edmondson, Lisa, Tatyana Kildisheva and Joanne Pasquale. (2021). <i>Singapore shophouse walks: Joo Chiat, Katong, Geylang</i>. Singapore: Kildi Photo. (Call no.: Adult Sing English 728.3 KIL)
 </p>
  </div>
 </div>
 	
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+     <img style="width:100;" src="/images/SG%20Exploring%20our%20city/babahouse.png">
+  </div>
+  <div class="col is-three-fifths">
+   <h5>NUS Baba House: Architecture and artefacts of a Straits Chinese home</h5>
+<p>Foo, Su Ling, Lim Chen Sian, Wee Sheau Theng and Yeo Kang Shua. (2016). <i>NUS Baba House: Architecture and artefacts of a Straits Chinese home</i>. Singapore: NUS Baba House and Editions Didier Millet. (Call no.: Adult Sing English 728.089951059 FOO)
+</p>
+ </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+     <img style="width:100;" src="/images/SG%20Exploring%20our%20city/pang_sua.png">
+  </div>
+  <div class="col is-three-fifths">
+   <h5>Pang Sua Woodland: Sanctuary unveiled along the rail corridor</h5>
+<p>Guttensohn, Teresa Teo and Leong Kwok Peng, eds. (2021). <i>Pang Sua Woodland: Sanctuary unveiled along the rail corridor</i>. Singapore: Cicada Tree Eco-Place and Nature Society (Singapore). (Call no.: Adult Sing English 333.9516095957 PAN)
+</p>
+ </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+     <img style="width:100;" src="/images/SG%20Exploring%20our%20city/leluhur.png">
+  </div>
+  <div class="col is-three-fifths">
+   <h5>Leluhur: Singapore's Kampong Gelam</h5>
+<p>Hidayah Amin. (2019). <i>Leluhur: Singapore's Kampong Gelam</i>. Singapore: Helang Books. (Call no.: Adult Sing English 305.8992805957 HID)
+</p>
+ </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+     <img style="width:100;" src="/images/SG%20Exploring%20our%20city/little_india.png">
+  </div>
+  <div class="col is-three-fifths">
+   <h5>Once upon a time in Little India</h5>
+<p>Gopal, Nalina, ed. (2019). <i>Once upon a time in Little India</i>. Singapore: Indian Heritage Centre. (Call no.: Adult Sing English 305.8914 ONC)
+</p>
+ </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+     <img style="width:100;" src="/images/SG%20Exploring%20our%20city/shophouse_chinatown.png">
+  </div>
+  <div class="col is-three-fifths">
+   <h5>Singapore shophouse walks: Chinatown, Blair Plain, Duxton Hill, Tanjong Pagar</h5>
+<p>Iyer, Jane, Shona Trench, Joanne Pasquale and Tatyana Kildisheva. (2019). <i>Singapore shophouse walks: Chinatown, Blair Plain, Duxton Hill, Tanjong Pagar</i>. Singapore: Kildi Photo. (Call no.: Adult Sing English 728.3 KIL)
+</p>
+ </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+     <img style="width:100;" src="/images/SG%20Exploring%20our%20city/uncommon_ground.png">
+  </div>
+  <div class="col is-three-fifths">
+   <h5>Uncommon ground: The places you know, the stories you don't</h5>
+<p>Lim, Jerome. (2020). <i>Uncommon ground: The places you know, the stories you don't</i>. Singapore: Singapore Land Authority. (Call no.: Adult Sing English 959.57 UNC)
+</p>
+ </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+     <img style="width:100;" src="/images/SG%20Exploring%20our%20city/sgtrails.png">
+  </div>
+  <div class="col is-three-fifths">
+   <h5>Singapore trails: Singapore River Walk and Jubilee Walk </h5>
+<p>National Heritage Board. (2018). <i>Singapore trails: Singapore River Walk and Jubilee Walk</i>. Singapore: Straits Times Press and the National Heritage Board. (Call no.: Adult Sing English 796.51095957 SIN)
+</p>
+ </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+     <img style="width:100;" src="/images/SG%20Exploring%20our%20city/secretsg.png">
+  </div>
+  <div class="col is-three-fifths">
+   <h5>Secret Singapore</h5>
+<p>Sarna, Heidi and Jerome Lim. (2021). <i>Secret Singapore</i>. Versailles: Jonglez Publishing. (Call no.: Adult Sing English 915.9570453 SAR)
+</p>
+ </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+     <img style="width:100;" src="/images/SG%20Exploring%20our%20city/sg_stnames.png">
+  </div>
+  <div class="col is-three-fifths">
+   <h5>Singapore street names: A study of toponymics</h5>
+<p> Savage, Victor R. and Brenda S.A. Yeoh. (2023). <i> Singapore street names: A study of toponymics </i> Singapore: Marshall Cavendish Editions. (Call no.: Adult Sing English 915.9570014 SAV)
+</p>
+ </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+     <img style="width:100;" src="/images/SG%20Exploring%20our%20city/Chinatown_annsiang.png">
+  </div>
+  <div class="col is-three-fifths">
+   <h5>On a little hill in Chinatown: Singapore's Ann Siang Hill</h5>
+<p>Tan, Kevin Y.L. (2018). <i>On a little hill in Chinatown: Singapore's Ann Siang Hill</i>. Singapore: Mileage Communications Pte Ltd. (Call no.: Adult Sing English 959.57 TAN)
+</p>
+ </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+     <img style="width:100;" src="/images/SG%20Exploring%20our%20city/walk_thru_history.png">
+  </div>
+  <div class="col is-three-fifths">
+   <h5>A walk through history: A guide to the Singapore Botanic Gardens</h5>
+<p>Taylor, Nigel and Ada Davis. (2015). <i>A walk through history: A guide to the Singapore Botanic Gardens</i>. Singapore: National Parks Board. (Call no.: Adult Sing English 580.735957 TAY)
+</p>
+ </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+     <img style="width:100;" src="/images/SG%20Exploring%20our%20city/world_garden.png">
+  </div>
+  <div class="col is-three-fifths">
+   <h5>The world in a garden: Singapore's Gardens by the Bay</h5>
+<p>Tinsley, Bonnie. (2016). <i>The world in a garden: Singapore's Gardens by the Bay</i>. Singapore: Marshall Cavendish Editions. (Call no.: Adult Sing English 712.5 TIN)
+</p>
+ </div>
+</div>
