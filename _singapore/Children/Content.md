@@ -314,7 +314,7 @@ Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-wi
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
      <a target="_blank" href="https://nlb.overdrive.com/media/4261786">
-<img style=”width:150;” src="/images/Tour%20Around%20SG/sg-trails-ebook.png"></a>
+<img style="width:150;" src="/images/Tour%20Around%20SG/sg-trails-ebook.png"></a>
   </div>
   <div class="col is-three-fifths">
    <h5>Singapore City Trails</h5>
