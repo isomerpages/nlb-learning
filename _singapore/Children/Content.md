@@ -206,7 +206,7 @@ Check out our **playlists** for collections of short videos, and **learning pack
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-     <img style="width:100;" src="/images/Tour%20Around%20SG/secrets_ngs.png">
+		<img style="width:100;" src="/images/Tour%20Around%20SG/secrets-ngs.png">
   </div>
   <div class="col is-three-fifths">
    <h5>Secrets of Singapore: National Gallery </h5>
