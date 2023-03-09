@@ -342,3 +342,20 @@ Wong, Sher Maine. <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-
 </p>
  </div>
 </div>
+	
+<h4>Story Maps</h4>
+Story Maps are immersive stories that combine text, interactive maps, digital photographs and other multimedia content. They are used to tell stories, especially the urban transformation that Singapore has undergone since Independence.
+
+<h5><a href="https://curiocity.nlb.gov.sg/resource-room/story-maps/chinatown" target="_blank">Curiocity: Chinatown story map</a></h5>
+<p>Learn more about the iconic landmarks in Chinatown through this story map.</p>
+Source: <a href="https://curiocity.nlb.gov.sg/resource-room/story-maps/chinatown" target="_blank"> Chinatown</a>(15 December 2021).<i>Curiocity.</i> Retrieved 2023, February 6.
+
+<h5><a href="https://curiocity.nlb.gov.sg/resource-room/story-maps/little-india" target="_blank">Curiocity: Little India story map</a></h5>
+<p>Journey through Little India with this story map and learn about its history along the way.</p>
+Source: <a href="https://curiocity.nlb.gov.sg/resource-room/story-maps/little-india" target="_blank"> Little India</a>(15 December 2021).<i>Curiocity.</i> Retrieved 2023, February 6.
+
+<h5><a href=https://curiocity.nlb.gov.sg/resource-room/story-maps/kampong-glam target="_blank">Curiocity: Kampong Glam story map</a></h5>
+<p>Check out this story map to learn more about the history of this rich heritage site.</p>
+Source: <a href="https://curiocity.nlb.gov.sg/resource-room/story-maps/kampong-glam" target="_blank"> Kampong Glam</a>(15 December 2021).<i>Curiocity.</i> Retrieved 2023, February 6.
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
