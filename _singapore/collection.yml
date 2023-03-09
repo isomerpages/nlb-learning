@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - LearnX Singapore.md
+      - Children/Content.md
       - Children/Overview.md
       - Children/.keep
       - Teens/.keep
