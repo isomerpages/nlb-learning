@@ -41,7 +41,7 @@ third_nav_title: Children
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
 <h3><b>Places in Singapore</b></h3>
-There are many stories to our places and spaces in Singapore. Through this pathway you can explore different resources to discover some interesting sights and sounds of Singapore.
+There are many stories to our places and spaces in Singapore. Through this pathway, you can explore different resources to discover some of Singapore's interesting sights and sounds.
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
