@@ -54,3 +54,20 @@ Check out our **playlists** for collections of short videos, and **learning pack
 </div>
 </div>
 </div>
+
+<h3><b>Learning Package</b></h3>
+<h5 class="margin--bottom--lg" id="lp-tour-around-sg"><b>Tour around Singapore</b></h5>
+<p>Where is the world’s first night safari? Which country is made up of 64 islands? Where was the world’s first man-made waterfall built? Check out these books to discover some interesting sights and sounds of Singapore. Buckle up your seat belt for a wild tour around our city!</p>
+
+<h4>Books</h4>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+     <img style="width:100;" src="/images/Tour%20Around%20SG/lets-discover.png">
+  </div>
+  <div class="col is-three-fifths">
+   <h5>Let's discover science, Singapore! Exploring the science behind Singapore's well-loved attractions and landmarks</h5>
+<p>Amalina Binte Ebrahm Attia. (2022). <i>Let's discover science, Singapore! Exploring the science behind Singapore's well-loved attractions and landmarks</i>. Singapore: WS Education. (Call no.: J SING 500 AMA)
+</p>
+ </div>
+</div>
