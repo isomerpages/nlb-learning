@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /singapore/Teens/content
+permalink: /singapore/Teens/content/
 description: ""
 third_nav_title: Teens
 ---
@@ -64,6 +64,13 @@ Check out our **playlists** for collections of short videos, and **learning pack
 <div class="clickbox is-mint-jade">
 <a href="#lp-singapore-names">
 <span>Learning Package:<br>Many Names of Singapore</span>
+</a>
+</div>
+</div>
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-exploring-our-city">
+<span>Learning Package: Exploring our City </span>
 </a>
 </div>
 </div>
@@ -168,3 +175,16 @@ Source: <a target="_blank" href="https://www.youtube.com/watch?v=IX7xg-h1CKA">Ma
 </ol>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p><h3>
+	
+<h5 class="margin--bottom--lg" id="lp-exploring-our-city"><b> Exploring our City</b></h5>
+<p>While borders have opened and many are flocking overseas, there is still much to see and explore in Singapore. Check out these resources to discover some familiar and not-so-familiar places of interest in our city.</p>
+	
+<h4>Articles</h4>
+<h5><a href="https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-2016/the-padang" target="_blank">The Padang: Centrepiece of Colonial Design</a></h5>
+<br>
+Lai, Chee Kien. <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-2016/the-padang" target="_blank"> The Padang: Centrepiece of Colonial Design</a> <i>BiblioAsia</i> 12(3), (October – December 2016).  Retrieved 2023, March 9.
+
+<h5><a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/istana-turns-150" target="_blank">The Istana Turns 150</a></h5>
+<br>
+Wong, Sher Maine. <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/istana-turns-150" target="_blank"> The Istana Turns 150</a> <i>BiblioAsia</i> 14(4), (January – March 2020). Retrieved 2023, March 9.
+	
