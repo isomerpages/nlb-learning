@@ -193,7 +193,7 @@ Wong, Sher Maine. <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <img style="width:150;" src="/images/SG%20Exploring%20our%20city/ubin.png">
+     <img style="width:120;" src="/images/SG%20Exploring%20our%20city/ubin.png">
   </div>
   </div>
   <div class="col is-three-fifths">
