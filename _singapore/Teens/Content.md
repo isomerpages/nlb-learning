@@ -211,3 +211,17 @@ Edmondson, Lisa, Tatyana Kildisheva and Joanne Pasquale. (2021). <i>Singapore sh
 </p>
  </div>
 </div>
+	
+<table style="width:100%" style="font-size:125%">
+<tr>
+	<td style="width:30%">
+            <img style="width:150;" src="/images/SG%20Exploring%20our%20city/ubin.png">
+				</td>
+	<td style="width:70%">
+<h5>Footprints on an Island: Rediscovering Pulau Ubin</h5>
+Chua, Ee Kiam, Choo Mui Eng and Wong Tuan Wah. (2016). <i>Footprints on an Island: Rediscovering Pulau Ubin</i> Singapore: SIMPLY GREEN and National Parks Board. (Call no.: Adult Sing English 333.78095957 CHU)
+<br>
+<br>
+		</td>
+</tr>
+</table>
