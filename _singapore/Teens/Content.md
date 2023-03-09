@@ -192,10 +192,8 @@ Wong, Sher Maine. <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
      <img src="/images/SG%20Exploring%20our%20city/ubin.png">
-  </div>
-  </div>
+	</div>
   <div class="col is-three-fifths">
     <p><b>Footprints on an Island: Rediscovering Pulau Ubin</b><br>
     Chua, Ee Kiam, Choo Mui Eng and Wong Tuan Wah. (2016). <i>Footprints on an Island: Rediscovering Pulau Ubin</i> Singapore: SIMPLY GREEN and National Parks Board. (Call no.: Adult Sing English 333.78095957 CHU)
@@ -205,9 +203,7 @@ Wong, Sher Maine. <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-
 	
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
      <img style="width:150;" src="/images/SG%20Exploring%20our%20city/shophouse_joochiat.png">
-  </div>
   </div>
   <div class="col is-three-fifths">
     <p><b>Singapore shophouse walks: Joo Chiat, Katong, Geylang</b><br>
