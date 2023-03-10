@@ -44,31 +44,40 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
 				<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/how-to-fight-a-powerful-ai-a-bridge-to-the-classics-tickets-473210063037"><b>How to Fight a Powerful AI | A Bridge to the Classics</b></a></td>
-        <td> Join Dr Susan Ang as she looks at hackers and nanotech in Saad Z. Hossain's fast-paced novel Cyber Mage!
-        </td><td>14 Feb 2023, <br>7.30pm – 8.30pm</td>
-        <td>Online </td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/the-word-game-wordplay-toa-payoh-public-library-tickets-568947235497"><b>The Word Game | WordPlay @ Toa Payoh Public Library</b></a></td>
+        <td>Explore the connection between words and images during this illustration workshop as Darel takes you through his creation process from idea generation to the finished artwork.
+        </td><td>14 Mar 2023, <br>2pm – 3pm</td>
+        <td>Toa Payoh Public Library PZ </td>
       </tr>
       <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/writing-the-city-writers-cove-tickets-515529240837"><b>Writing the City – Writer’s Cove</b></a></td>
-        <td style="width: 40%;">A workshop for budding writers to read and discuss one another’s submissions in a welcoming environment. </td>
-        <td style="width: 20%;">18 Feb 2023,
-<br>2pm – 4pm</td>
-        <td style="width: 20%;">Toa Payoh Public Library PZ</td>
+        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/become-an-intuitive-interviewer-tweens-write-tickets-550139721717"><b>Become an Intuitive Interviewer! | Tweens Write</b></a></td>
+        <td style="width: 40%;">Learn how to turn interviews into compelling stories! </td>
+        <td style="width: 20%;">16 Mar 2023,
+<br>2.30pm – 4pm</td>
+        <td style="width: 20%;">Punggol Regional Library SCA Room</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/dungeon-mastery-102-know-your-players-dd-wthe-legitimate-business-tickets-526975817857"><b>Dungeon Mastery 102: Know Your Players | D&D w/The Legitimate Business
+<td><a target="_blank" href="https://www.eventbrite.sg/e/writing-the-city-writers-cove-tickets-557579203407"><b>Writing the City – Writer’s Cove
 </b></a></td>
-        <td> Want to hone your skills as a Dungeon Master? Learn the tips and trick to effectively run role-playing games by understanding your players!
-	</td><td>24 Feb 2023, <br>
-7pm – 8.30pm
+        <td> A workshop for budding writers to read and discuss one another’s submissions in a welcoming environment.
+	</td><td>19 Mar 2023, <br>
+2pm – 4pm
 	</td>
-        <td>Online</td>
+        <td>Toa Payoh Public Library PZ</td>
+      </tr>
+			<tr>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/how\-to-write-compelling-character-backstories-sg-author-tickets-530268175387"><b>How to Write Compelling Character Backstories | SG Author
+</b></a></td>
+        <td> A workshop for budding writers to read and discuss one another’s submissions in a welcoming environment.
+	</td><td>22 Mar 2023, <br>
+7.30pm – 9pm
+	</td>
+        <td>National Library Possibility Room</td>
       </tr>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-507034803747"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-550155900107"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
         <td> Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG.</td>
-	<td>25 Feb 2023, <br>1pm – 5pm</td>
+	<td>25 Mar 2023, <br>1pm – 5pm</td>
         <td>Choa Chu Kang Public Library PR1 &2</td>
       </tr>
 
@@ -85,19 +94,19 @@ Take the plunge into a deeper love for the literary.
     </thead>
     <tbody>
 <tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/creating-instagram-ar-filters-canvass-registration-499918879827" ><b>Creating Instagram AR filters | CANVAS/S</b></a></td>
-	<td>Join visual artist Almostasthma as she demonstrates how to create your very own AR filter in this explorative workshop.<br><br>
-        </td><td>12 Feb 2023, <br>
+<td><a target="_blank" href="https://www.eventbrite.sg/e/unplugged-woodlands-regional-library-tickets-550217193437" ><b>Unplugged | Woodlands Regional Library</b></a></td>
+	<td>Set aside your digital devices and enjoy boardgames with your friends and family.<br><br>
+        </td><td>13 Mar 2023, <br>
 2pm-4pm</td>
-        <td>Tampines Regional Library, Programme Zone</td>
+        <td>Woodlands Regional Library, Programme Zone</td>
       </tr>
 <tr>
-        <td><a target="_blank" href="https://www.eventbrite.sg/e/sky-greens-virtual-learning-journey-punggol-regional-library-tickets-519419687267"><b>Sky Greens Virtual Learning Journey @ Punggol Regional Library
+        <td><a target="_blank" href="https://www.eventbrite.sg/e/myths-debunked-viruses-vaccines-online-tickets-550169540907"><b>Myths Debunked: Viruses & Vaccines | Online
 </b></a></td>
-        <td>Go on a virtual learning journey to learn more about vertical farming</td>
+        <td>In this online workshop, discover answers to your questions as vaccine theories and myths are debunked. </td>
         <td>
-			 17 Feb 2023 <br>2.30pm – 3.30pm</td>
-        <td>Punggol Regional Library<br>SCA Room</td>
+			 17 Mar 2023 <br>3pm – 4.30pm</td>
+        <td>Online</td>
       </tr>
     </tbody>
   </table>
