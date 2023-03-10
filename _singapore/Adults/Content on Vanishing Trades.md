@@ -44,51 +44,51 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 	
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#vanishing-trades">
+      <a href="#five-foot-way-traders">
         <span>Playlist: Five-Foot-Way Traders</span>
       </a>
     </div>
   </div>
 	 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#vanishing-trades">
+      <a href="#cottage-industries">
         <span>Playlist: Cottage Industries</span>
       </a>
     </div>
   </div>
 	<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#vanishing-trades">
+      <a href="#vanished-trades">
         <span>Playlist: Vanished Trades</span>
       </a>
     </div>
   </div>
 			<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-vanishing-trades">
+      <a href="#lp-five-foot-way-traders">
         <span>Learning Package: Five-Foot-Way Traders</span>
       </a>
     </div>
   </div>
 			<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-vanishing-trades">
+      <a href="#lp-cottage-industries">
         <span>Learning Package: Cottage Industries</span>
       </a>
     </div>
   </div>
 				<div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#lp-vanishing-trades">
+      <a href="#lp-vanished-trades">
         <span>Learning Package: Vanished Trades</span>
       </a>
     </div>
   </div>
 	</div>
-<h3><b>Playlist</b></h3>
+<h3><b>Playlists</b></h3>
 A collection of short videos or selected podcasts, exploring topics around Singapore’s vanishing trades.
 
-<h5 id="vanishing-trades" class="margin--bottom--lg"><b>Playlist: Five-Foot-Way Traders</b></h5>
+<h5 id="five-foot-way-traders" class="margin--bottom--lg"><b>Playlist: Five-Foot-Way Traders</b></h5>
 The term “five-foot-way” refers to the veranda area in front of shophouses. During the colonial period, due to the lack of available jobs, some immigrants to Singapore set up small one-person businesses in these areas, selling food items—such as street hawkers and the kacang putih man—or services—such as letter writers, cobblers, and street barbers. There were also entertainers, such as snake charmers. As Singapore grew to become more industrialized in the 1970s and these tradesmen grew older, some trades started to sunset due to a lack of successors, a lack of interest in the profession, and/or low income. Other street trades moved into proper premises.
 
 Check out these resources to help you gain some understanding of the five-foot-way traders in Singapore.
@@ -172,7 +172,7 @@ Check out these resources to help you gain some understanding of the five-foot-w
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="vanishing-trades" class="margin--bottom--lg"><b>Playlist: Cottage Industries</b></h5>
+<h5 id="cottage-industries" class="margin--bottom--lg"><b>Playlist: Cottage Industries</b></h5>
 Cottage industries are small-scale, family-run businesses typically producing goods and services of cultural significance. Cottage industries are different from other small enterprises in that their owners are directly engaged in production, which is traditionally labour-intensive and involves specialised skill. While machinery may be used to support production, the goods made by cottage industries remain primarily handcrafted. Examples include traditional food, furniture, jewellery, clothing, and religious items. What are some of the cottage industries in our midst? How have they survived through the years and what challenges confront them today? Watch the videos below to find out more.
 
 <br>
@@ -231,13 +231,13 @@ Source: Artisanal Soy Sauce In Singapore: The Future’s Brewing | On The Red Do
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/-0O1Cwefbg8A">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/0O1Cwefbg8A">
 </iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
 <p><b> On The Michelin-Recommended List: Haig Road Putu Piring | MICHELIN Guide Asia (3 mins) </b><br>
-Aisha Hashim gave up her career as a pastry chef in America and returned home in 2006 to save her family’s _putu piring_ (steamed rice cakes with a palm sugar filling, served with grated coconut) business. In this video, Aisha demonstrates how to make the heritage dessert with the recipe inherited from her great-grandmother and talks about innovating new flavours to attract younger customers. <br><br>
+Aisha Hashim gave up her career as a pastry chef in America and returned home in 2006 to save her family’s <i>putu piring</i> (steamed rice cakes with a palm sugar filling, served with grated coconut) business. In this video, Aisha demonstrates how to make the heritage dessert with the recipe inherited from her great-grandmother and talks about innovating new flavours to attract younger customers. <br><br>
 <small>
 Source: On The Michelin-Recommended List: Haig Road Putu Piring (2019, May 24). MICHELIN Guide Asia. Retrieved 2022, October 5.</small></p>
 </div>
@@ -247,7 +247,7 @@ Source: On The Michelin-Recommended List: Haig Road Putu Piring (2019, May 24). 
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/-8qni1AVmt40"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/8qni1AVmt40"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
@@ -262,7 +262,7 @@ Source: Flower Power: The Right Way To Get Blessings From Hindu Gods | Our Grand
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="vanishing-trades" class="margin--bottom--lg"><b>Playlist: Vanished Trades</b></h5>
+<h5 id="vanished-trades" class="margin--bottom--lg"><b>Playlist: Vanished Trades</b></h5>
 Vanished trades can be defined as trades and occupations that no longer exist in society today or have evolved significantly from their traditional iterations to adapt to the needs of modern times.
 
 While no longer be practiced, these trades and ocuupations provide a glimpse into old Singapore and reveal stories of the men and women who provided unique products and services that have since disappeared.
@@ -276,13 +276,13 @@ Check out these resources to learn more about some trades and occupations that c
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/be5g7Q-Xp2s">
 </iframe>
 </div>
-	</div>
-	<div class="col is-three-fifths">
-		<p><b>The Greatest Gift of a Generation: Tok Tok Mee | irememberSG (4 mins)</b><br>
-			Watch Mr Lai Quoquan reminisce and share about his days as a 'Tok Tok Man'. Walkng the streets, Mr Lai would sell bowls of noodles while rapping on a wooden instrument, signalling to his customers that he was open for business.<br><br>
+</div>
+<div class="col is-three-fifths">
+<p><b>The Greatest Gift of a Generation: Tok Tok Mee | irememberSG (4 mins)</b><br>
+Watch Mr Lai Quoquan reminisce and share about his days as a 'Tok Tok Man'. Walkng the streets, Mr Lai would sell bowls of noodles while rapping on a wooden instrument, signalling to his customers that he was open for business.<br><br>
 <small>Source: The Greatest Gift of a Generation: Tok Tok Mee (2015, January 3). irememberSG. Retrieved 2022, November 1.</small></p>
-	</div>
-	</div>
+</div>
+</div>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
@@ -291,13 +291,13 @@ Check out these resources to learn more about some trades and occupations that c
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/YNsfRSXGrhA">
 </iframe>
 </div>
-	</div>
-	<div class="col is-three-fifths">
-		<p><b>Singtel TV: OUr Lovepedia Episode 18 – Samsui Women | Singtel (3 mins)</b><br>
-			Watch a retired samsui woman share anecdotes about the work she did as a samsui woman, her relationship with other samsui women, and the reasons why they wore the iconic red headscarf.<br><br>
+</div>
+<div class="col is-three-fifths">
+<p><b>Singtel TV: OUr Lovepedia Episode 18 – Samsui Women | Singtel (3 mins)</b><br>
+Watch a retired samsui woman share anecdotes about the work she did as a samsui woman, her relationship with other samsui women, and the reasons why they wore the iconic red headscarf.<br><br>
 <small>Source: Singtel TV: Our Lovepedia Episode 18 – Samsui Women (2015, September 16). Singtel. Retrieved 2022, November 1.</small></p>
-	</div>
-	</div>
+</div>
+</div>
 	
 <br>	
 <div class="row is-multiline margin--bottom--lg">
@@ -305,19 +305,19 @@ Check out these resources to learn more about some trades and occupations that c
 <div class="responsive-iframe-container ratio-16by9">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/pPUKR0N6OHY">
 </iframe>
-	</div>
-	</div>
-	<div class="col is-three-fifths">
-		<p><b>Clearing Illegal Hawkers In 1960s Singapore | A Frame In Time | Episode 1/3 | CNA Insider (48 mins)</b><br>
-			Helmed by Singapore director Kelvin Tong, this documentary takes inspiration from social realist Koeh Sia Yong's painting of itinerant street hawkers fleeing from licensing officers titled, "Here They Come". The video explores the lives and experiences of itinerant street hawkers who used to peddle their food along alleys and roads, and covers the street hawker's eventual disappearance as new laws were enacted to clean up the streets. <br><br>
-	<small>Source: Clearing Illegal Hawkers In 1960s Singapore | A Frame In Time | Episode 1/3 (2020, April 17). CNA Insider. Retrieved 2022, November 19. </small></p>
-	</div>
-	</div>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>Clearing Illegal Hawkers In 1960s Singapore | A Frame In Time | Episode 1/3 | CNA Insider (48 mins)</b><br>
+Helmed by Singapore director Kelvin Tong, this documentary takes inspiration from social realist Koeh Sia Yong's painting of itinerant street hawkers fleeing from licensing officers titled, "Here They Come". The video explores the lives and experiences of itinerant street hawkers who used to peddle their food along alleys and roads, and covers the street hawker's eventual disappearance as new laws were enacted to clean up the streets. <br><br>
+<small>Source: Clearing Illegal Hawkers In 1960s Singapore | A Frame In Time | Episode 1/3 (2020, April 17). CNA Insider. Retrieved 2022, November 1. </small></p>
+</div>
+</div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
-<h5 id="lp-vanishing-trades" class="margin--bottom--lg"><b>Five-Foot-Way Traders</b></h5>
+<h5 id="lp-five-foot-way-traders" class="margin--bottom--lg"><b>Five-Foot-Way Traders</b></h5>
 
 <p><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html"> Five-foot-way traders </a> were largely craftsmen who conducted their businesses along covered shophouse walkways. The name “five-foot-way” refers to the original stipulation that the walkways be five feet wide. The walkways, which originated in Malaya during the early 19th century, were meant to protect pedestrians from the elements. Due to the movement of peoples throughout the 19th-20th century, this architectural feature can be found in Singapore, Indonesia, Malaysia, and China.</p>
 
@@ -378,7 +378,7 @@ Chew, Angela, Ricky Gui, and Jason Leong, (2016). <i>A Blink in Time: Memories o
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id="lp-cottage-industries"><b> Learning Package: Cottage Industries</b></h5>
+<h5 class="margin--bottom--lg" id="lp-cottage-industries"><b>Cottage Industries</b></h5>
 
 <p> Cottage industries are small-scale, family-run businesses typically producing goods and services of cultural significance. Cottage industries are unique in that their owners are often directly engaged in day-to-day operations and management decisions. Then, the production process is labour-intensive and requires artisanal skills. While machinery may be used, the goods made by cottage industries are still mainly handcrafted.
 </p>
@@ -431,7 +431,7 @@ Tells the stories of successful Hainanese family businesses in Singapore, such a
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 class="margin--bottom--lg" id="lp-cottage-industries"><b> Learning Package: Vanished Trades - Occupations of Yesteryear</b></h5>
+<h5 class="margin--bottom--lg" id="lp-vanished-trades"><b>Vanished Trades</b></h5>
 
 <p>With rapid technological advancement and economic development, many occupations and trades that used to be found in Singapore have slowly disappeared.</p>
 <p>While they may no longer be practiced, vanished trades and occupations provide a glimpse into old Singapore as well as the workers who sustained the people relying on their myriad of products and services. Their histories reveal stories about what the generations before us valued and consumed as part of their daily lives.</p>

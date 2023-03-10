@@ -61,6 +61,13 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 			</a>
 		 </div>
 	</div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#amusement-and-theme-parks">
+        <span>Playlist: Amusement and Theme Parks</span>
+      </a>
+    </div>
+  </div>
 	 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-amusement-parks">
@@ -82,9 +89,16 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 			</a>
 		</div>
 	</div>
+	<div class= "col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-amusement-and-theme-parks">
+<span>Learning Package: Amusement and Theme Parks</span>
+</a>	
+</div>
+</div>
 	</div>
 	
-<h3><b>Playlist</b></h3>
+<h3><b>Playlists</b></h3>
 A collection of short videos, exploring topics around Singapore’s iconic entertainment places.
 
 <h5 class="margin--bottom--lg" id="amusement-parks"><b>Playlist: Amusement Parks</b></h5>
@@ -281,8 +295,58 @@ Virtual tour of HortPark (short for Horticultural Park), a one-stop resource hub
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<h5 class="margin--bottom--lg" id="amusement-and-theme-parks"><b>Playlist: Amusement and Theme Parks</b></h5>
+
+A place where nightmares are made for little children, Haw Par Villa was built in 1937. It was one of a kind large garden filled with more than 1000 sculptures and dioramas depicting a wealth of Chinese culture, history, philosophy and religion. Though built decades ago, it was characterised by leisure and entertainment facilities that revolve a common theme or subject like most modern theme parks today. 
+
+In the 1980s and 1990s, the amusement and theme park industry in Singapore witnessed a growth due to the success of Disneyland in the post-war years, coupled with rising affluence in our post-independence years. 
+
+Check out these videos to learn more about theme parks – some still around and some forgotten – in Singapore.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/-5ydJmtcW3c" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>In Singapore, 70 Years of Crafting a Unique Theme Park |Great Big Story (2 mins)</b><br>
+This video provides a look behind the scenes of how the colourful sculptures at Haw Par Villa are maintained year-round. Through an interview with Teo Veoh Seng, one of the master craftsmen behind the park’s countless unique sculptures, learn about how he uses restoration techniques passed down from his father and uncles to lovingly maintaining a piece of Singapore’s cultural history.<br><br>
+<small>Source: In Singapore, 70 Years of Crafting a Unique Theme Park (2017, October 5). Great Big Story. Retrieved 2023, March 6.</small></p>
+</div>
+</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/kNpyTk3gpP0" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> OMTJ PLAY@TJ: Tang Dynasty City | NHB OMTJ (2 mins)</b><br>
+Watch long-time residents of Taman Jurong, Mr Lee and Mdm Tan, recount their memories of Tang Dynasty City and the various attractions that could be found there.<br><br>
+<small> OMTJ PLAY@TJ: Tang Dynasty City (2017, September 7). NHB OMTJ. Retrieved 2023, March 6.</small></p>
+</div>
+</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/Yuq0NgUrfO4" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>Welcome to Science Centre Singapore! (English) | Science Centre Singapore (3 mins)</b><br>
+Watch this for a quick introduction to all the exhibitions, attractions, and programs the Science Centre has to offer.<br><br>
+<small>Source: Welcome to Science Centre Singapore! (English) (2019, November 1). Science Centre Singapore. Retrieved 2023, March 6.</small></p>
+</div>
+</div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3><b>Learning Package</b></h3>
-<h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Learning Package: Amusement Parks</b></h5>
+<h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Amusement Parks</b></h5>
 
 <p><A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_990_2006-06-09.html">New World Park</A> (1923-1987), <A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1046_2006-06-09.html">Great World Amusement Park</A> (1931-1964), and <A HREF="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1044_2006-06-01.html">Gay World (Happy World)</A> (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.</p>
 
@@ -399,7 +463,7 @@ Singapore Zoological Gardens (1994). <i>The world’s first night safari.</i> Si
 <img src="/images/Iconic%20Entertainment%20Places/nightsafari.png" style="width:200px;"></a>
 <p>This book introduces the attractions and layout of the Night Safari, the world's first nocturnal zoo located in Mandai.</p>
 
-<h5 id="lp-parks" class="margin--bottom--lg"><b> Learning Package: Parks</b></h5>
+<h5 id="lp-parks" class="margin--bottom--lg"><b> Parks</b></h5>
 
 <p> Parks are an integral part of Singapore’s landscape and greening journey. The history of parks and greening in Singapore can be traced to 1822 when the first botanical garden was set up on Government Hill (now known as Fort Canning Hill). However, it was not until the late 1960s that the creation of green spaces was firmly placed on the official agenda and a long-term vision was put forth to transform Singapore into a garden city. Apart from the large-scale planting of roadside trees and shrubs, parks were created all over the island from the 1970s. Today, Singapore is home to some 400 parks that provide much-needed green space for people to relax, play, and enjoy the outdoors. 
 </p>
@@ -480,5 +544,64 @@ Tinsley, Bonnie [2016]. <i> The world in a garden: Singapore's gardens by the ba
 <a>
 <img src="/images/Iconic%20Entertainment%20Places/WorldInAGarden.png" style="width:200px;"></a>
 <p> This book chronicles the extensive work put into creating Gardens by the Bay from initial conception and construction to its official opening in 2012 and beyond. It looks at the Gardens’ signature programmes and events, its achievements in the first five years of operation, and future plans.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="lp-amusement-and-theme-parks"><b>Amusement and Theme Parks</b></h5>
+
+<p>Built in 1937, Haw Par Villa was a large garden filled with sculptures depicting moral lessons found in Chinese folklore. Though built decades ago, it was characterised by leisure and entertainment facilities that revolve a common theme or subject like most modern theme parks today.
+</p>
+<b></b>
+<p>The success of Disneyland in the post-war years, coupled with rising affluence in our post-independence years, prompted a growth in the amusement and theme park industry in Singapore. There were at least nine theme parks operating in Singapore in the 1990s, though many of these theme parks would eventually close due to low visitor numbers. However, Singapore’s theme park industry got a boost in 2011 with the opening of Universal Studios Singapore, the first Universal studios theme park in Southeast Asia. 
+</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li>Plans for a Universal Studios theme park in the Jurong Lake area were first pitched in the 1990s – almost a decade before Universal Studios Singapore opened at Sentosa island in 2011.</li>
+</ul>
+</td>
+		</tr></tbody></table>
+
+These curated set of articles and books will give you a better understanding of the history and development of theme parks in Singapore.
+
+<h4>Articles</h4>
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_560_2004-12-14.html" target="_blank">Haw Par Villa (Tiger Balm Gardens) by Lim, Irene</a></h5>
+<p>Haw Par Villa is an oriental-style theme park located along Pasir Panjang Road. The park was commissioned in 1937 by businessman Aw Boon Haw, as part of the residential estate he was building for his younger brother, Aw Boon Par. Though located on private property, the garden was opened to the public. The park is known for its statues depicting scenes from Chinese folklore.</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_560_2004-12-14.html" target="_blank"> Haw Par Villa (Tiger Balm Gardens)</a>(2016).<i>Singapore Infopedia.</i> Retrieved 2023, March 6.
+
+<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-06-26_162710.html" target="_blank"> Science Centre Singapore
+by Lim, Tin Seng</a></h5>
+<p>The Singapore Science Centre opened to the public on 10 December 1977. It aimed to promote interest and learning in science and technology to students and the public. This objective came at a time when Singapore was industrialising rapidly, and it was paramount to develop Singapore’s industrial and technological skills.</p>
+Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-06-26_162710.html" target="_blank">Science Centre Singapore</a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, March 6.
+<h4>Books</h4>
+
+<h5>Tiger Balm Gardens: A Chinese billionaire's fantasy environments</h5>
+Brandel, Judith and Tina Turbeville. (1998). <i>Tiger Balm Gardens: A Chinese billionaire's fantasy environments</i>. Hong Kong: Aw Boon Haw Foundation. (Call no.: RSING q959.57 BRA)
+<br>
+	
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/tiger-balm.png">
+<p> Through over 300 photos and supporting text, this book documents the two Tiger Balm Gardens that billionaire Aw Boon Haw built in Hong Kong and Singapore in the 1930s, as well as his Tiger Balm medical ointment business that funded them all.</p>
+<h5>Tang Dynasty Village</h5>
+Tang Dynasty Village. (1992-). <i>Tang Dynasty Village</i>. Singapore: Tang Dynasty Village. (Call no.: RLCOS EPHE PL39)
+<br>
+
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/tang-dynasty.png">
+<p>This ephemera folder contains brochures on the Tang Dynasty City, a historical and cultural theme park based on the Tang Dynasty. They include a pre-opening promotional brochure, a park guide, a brochure on discounted admission rates, and a promotional brochure for the Ghost Mansion attraction in the park. The park guide brochure provides a snapshot of the theme park, which no longer exists. The guide includes a map of the park and a list of sites and attractions that can be found within.</p>
+
+<h5>Universal City Singapore</h5>
+Universal Studios, Inc. (1997). <i>Universal City Singapore</i>. [Place of publication not identified]: Universal Studios, Inc. (Call no.: RCLOS 791.0685957 UNI -[LKY])
+<br>
+
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/universal-city.png">
+<p>This publication contains the concept plan and business plan for a Universal Studios theme park in Jurong Lake Site in Singapore. The concept plan includes proposals for the different zones, rides, and attractions in the theme park.</p>
+
+<h5>Challenges to theme park development in Singapore</h5>
+Teo, Peggy and Brenda S. A. Teoh. (1999). <i>Challenges to theme park development in Singapore</i>. Singapore: Pagesetters Services Pte. Ltd. for Centre for Advanced Studies, National University of Singapore. (Call no.: RSING q791.0685957 TEO)
+<br>
+
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/teo-and-yeo.png">
+<p>This research paper on theme parks in Singapore analyses their attractiveness, explores problems they face, and examines how they meet the challenges and changes. Some theme parks covered include Tang Dynasty City, Fantasy Island, volcanoland and Haw Par Villa. The research was completed in 1997 and was funded by National University of Singapore and Singapore Tourism Board to support tourism research.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

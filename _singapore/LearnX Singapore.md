@@ -1,6 +1,6 @@
 ---
 title: LearnX Singapore
-permalink: /singapore/overview
+permalink: /singapore/overview/
 description: ""
 ---
 <style type="text/css">
@@ -43,6 +43,13 @@ What does it mean to be a Singaporean? Sometimes, to go forward, we have to seek
 
 <div class="row is-multiline">
   <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/singapore/children/overview">
+        <span>Children</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
     <div class="clickbox is-mint-jade ">
       <a href="/singapore/teens/overview">
         <span>Teens </span>
