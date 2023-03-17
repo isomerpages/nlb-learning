@@ -53,6 +53,11 @@ third_nav_title: Adults & Seniors
 <p>The <a href ="https://sure.nlb.gov.sg/" target="_blank">Read to be Sure</a>  component of the Sustainability Showcase provides multiple perspectives to sustainability issues so you can see the big picture. Don’t forget to vote for your preferred perspective too! 
 </p>
 
+<p><strong>Finding Nature in Singapore: Our Memories eBook</strong></p>
+<p>
+  As part of Nodes at Parks, we sought personal stories about people’s encounters with nature in Singapore to encourage more Singaporeans to explore our island’s natural environment. These memories were collected at Gardens by the Bay, Jurong Lake Gardens, East Coast Park and Pasir Ris park. Download the eBook <a href="http://go.gov.sg/finding-nature-in-sg-ebook" target="_blank">here</a>!
+</p>
+
 <p><strong>Book Nodes</strong></p>
 <p>Enjoy reading with a cup of coffee at our BookNodes! From 8 March 2023, head down to 3 Foreword Coffee outlets to browse our BookNodes and pick up a used library book, or scan the QR codes on the bookcase doors to borrow an eBook! BookNodes was conceived to give used library books a new lease of life, and to encourage reading and sharing among the community. These bookshelves are made from sustainably-sourced reclaimed pallet wood in line with the sustainability theme. </p>
 
