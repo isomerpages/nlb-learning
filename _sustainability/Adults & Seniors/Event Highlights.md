@@ -145,7 +145,7 @@ On 30th April, the teams presented their ideas to an online audience, collected 
 
 <p><strong>Changi General Hospital Main Building Atrium:</strong> 27 February to 13 March 2023</p>
 <p><strong>Changi General Hospital Integrated Building Atrium: </strong>14 March to 22 March 2023:</p>
-<p><strong>Plaza Singapura Near Oldham Lane Entrance: </strong>24 March to 16 April 2023</p>
+<p><strong>Plaza Singapura Courtyard at Level 1 near HSBC: </strong>24 March to 16 April 2023</p>
 
 <p>Look out for it and scan the QR codes to read more about the different perspectives of Sustainability issues.</p>
 
