@@ -439,7 +439,7 @@ Tan, Kar Lin. (2004). <i>The "worlds" entertainment parks of Singapore (1920s-19
 
 <h5>Lancing Girls of Happy World</h5>
 Foo, Adeline. (2017). <i>Lancing Girls of a Happy World</i>. Singapore: Ethos Books.  (Call no.: RSING 792.7095957 FOO)
-<a><br><img src="/images%2FIconic%20Entertainment%20Places%2FLGHW.png" style="width:200px;"></a>
+<a><br><img src="/images/Iconic%20Entertainment%20Places/FLGHW.png" style="width:200px;"></a>
 <p>“Glitz, glamour, and sleaze is what people may remember of the cabaret girls of yesteryear. With curiosity and an open mind, Adeline Foo sets out to uncover the lives of these women and how, even with few dreams and hopes to strive for, these women lived with much heart and courage despite society's disapproving eye. The music of the dance hall may have faded away, but this book carries the echoes of their dance steps, connecting us with a forgotten past that was inspired by faith, hope and charity.”</p>
 
 <h4>Oral History Interview Clip</h4>
