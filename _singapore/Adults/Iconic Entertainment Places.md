@@ -651,3 +651,24 @@ Teo, Peggy and Brenda S. A. Teoh. (1999). <i>Challenges to theme park developmen
 <p>This research paper on theme parks in Singapore analyses their attractiveness, explores problems they face, and examines how they meet the challenges and changes. Some theme parks covered include Tang Dynasty City, Fantasy Island, volcanoland and Haw Par Villa. The research was completed in 1997 and was funded by National University of Singapore and Singapore Tourism Board to support tourism research.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b>Learning Package</b></h3>
+<h5 class="margin--bottom--lg" id="lp-performing-arts-venues"><b>Performing Arts Venues</b></h5>
+
+<p>Performing arts venues in Singapore are not only entertainment hubs, but they also serve as landmarks that trace the development of the performing arts here. From the grand Victoria Theatre and Concert Hall to the state-of-the-art Esplanade – Theatres on the Bay and the once-glamourous The Majestic, these venues have witnessed Singapore's transformation into a cosmopolitan city-state. Collectively, they have hosted an array of performances, from classical music concerts to theatre productions and Cantonese operas. </p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Esplanade’s Concert Hall, which was designed by the acclaimed acoustician Russell Johnson, possesses one of the best acoustics among concert halls worldwide.</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+This set of articles and books will give you a better understanding of some of Singapore’s past and present iconic performing arts venues. 
+
+<h4>Articles</h4>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_770_2004-12-16.html" target="_blank">Victoria Theatre and Concert Hall by Tan, Bonny</a></h5>
+<p>Gazetted as a national monument in 1992, the Victoria Theatre and Concert Hall is Singapore’s oldest performing arts venue. It comprises two blocks of buildings – one constructed in 1862 and the other in 1905 – joined by a clock tower. Many performing arts events including musical and stage performances have been held here. In 2014, it was reopened to the public after undergoing a four-year restoration.</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_770_2004-12-16.html" target="_blank"> Victoria Theatre and Concert Hall (2016). <i> Singapore Infopedia.</i> Retrieved 2023, March 20.
