@@ -68,6 +68,13 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#performing-arts-venues">
+        <span>Playlist: Performing Arts Venues</span>
+      </a>
+    </div>
+  </div>
 	 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-amusement-parks">
@@ -96,6 +103,13 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </a>	
 </div>
 </div>
+	<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-performing-arts-venues">
+<span>Learning Package: Performing Arts Venues</span>
+</a>
+</div>
+</div>
 	</div>
 	
 <h3><b>Playlists</b></h3>
@@ -105,9 +119,7 @@ A collection of short videos, exploring topics around Singapore’s iconic enter
 
 New World Park (1923-1987), Great World Amusement Park (1931-1964), and Gay World (Happy World) (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They offered nightlife entertainment that featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.
 
-Check out these resources to help you gain some understanding of Singapore’s bygone legendary amusement parks.
-
-<br>
+Check out these resources to help you gain some understanding of Singapore’s bygone legendary amusement parks.<br>
 
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
@@ -122,9 +134,7 @@ A movie trailer for “大世界 It’s a Great Great World” produced by Media
 <small>Source: 大世界 It's a Great Great World - Malaysia Trailer 11 August 2011 (2011, August 19). Astro Shaw. Retrieved 2023, January 17.</small></p>
 </div>
 </div>
-
 <br>
-
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
@@ -343,6 +353,39 @@ Watch this for a quick introduction to all the exhibitions, attractions, and pro
 </div>
 </div>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="performing-arts-venues"><b>Playlist: Performing Arts Venues</b></h5>
+
+The Victoria Theatre and Concert Hall and the Esplanade - Theatres by the Bay are two performing arts venues that have hosted an impressive array of performances, ranging from classical music concerts to theatre productions.
+
+Check out these resources to learn more about the rich history of these landmark venues, their architectural features, and their contributions to Singapore’s cultural heritage.
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/6uv2rraxTE8" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> The Victoria Theatre | Singapore International Foundation (5 mins)</b><br>
+This video gives a quick summary of how the Victoria Theatre and Concert Hall is not only a symbol of Singapore's colonial past but also an important cultural and arts hub for local audiences. It includes anecdotes from the staff and old photographs as well as a glimpse at the workings of the clock tower. 
+<br><br>
+<small> Source: The Victoria Theatre | Singapore International Foundation (2010, May 6). Singapore International Foundation. Retrieved 2023, March 20.</small></p>
+</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/mTNs9KBh4ZU" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> A Day in the Life of… A Senior Producer at Esplanade | Esplanade – Theatres on the Bay (3 mins)</b><br>
+This video profiles Esplanade’s senior producer Christel Hon who oversees Western classical music events and manages the acoustics of the Esplanade Concert Hall. From coordinating with musicians and artists to ensuring the sound quality of the concert hall, she works diligently to create a memorable experience for the audience.
+<br><br>
+<small> Source: A Day in the Life of… A Senior Producer at Esplanade | Esplanade – Theatres on the Bay (2021, May 28). Esplanade – Theatres on the Bay. Retrieved 2023, March 20.</small></p>
+</div>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
