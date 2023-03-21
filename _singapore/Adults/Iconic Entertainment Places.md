@@ -681,3 +681,12 @@ Source: Tan, Tara <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-11/
 <h5><a target="_blank" href="https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/The-Majestic"> The Majestic</a></h5>
 <p>Built by businessman and philanthropist Eu Tong Sen in 1927, the Majestic was once a Cantonese opera house. It was later used to screen films. Initially named the Tien Yien Moh Toi Theatre, it was renamed a couple more times before being called the Majestic Theatre after the Second World War. It assumed its current name in 2003.</p>
 Source: <a target="_blank" href="https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/The-Majestic"> The Majestic </a> (2019). <i>Roots</i>. Singapore: National Heritage Board. Retrieved 2023, March 20.
+	
+<h4> Books </h4>
+
+<h5> In granite and chunam: the national monuments of Singapore </h5>
+Liu, Gretchen. (1996). <i>In granite and chunam: the national monuments of Singapore.</i> Singapore: Landmark Books and Preservation of Monuments Board (Call no.: RSING 725.94095957 LIU)
+<br>
+<img src="/images/Iconic%20Entertainment%20Places/InGranite.png" style="width:200px;"></a>
+<p>This book explores the cultural significance of Singapore’s national monuments. The chapter on the Victoria Theatre and Concert Hall (found on pages 45-55) includes information about the performances held here by home-grown and imported world-class talents.</p>
+
