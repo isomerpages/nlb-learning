@@ -227,6 +227,8 @@ Catch this video to learn more about the Night Safari, which is the world’s fi
 </div>
 </div>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h5 id="parks" class="margin--bottom--lg"><b>Playlist: Parks</b></h5>
 
 Singapore’s fame as a garden city was not achieved overnight. Beginning with the launch of the “Garden City” vision in the late 1960s, efforts to green the environment was sustained over the decades, involving large-scale tree-planting as well as the creation of parks all around the island. Today, there are some 400 parks in Singapore that not only offer residents places for recreation and respite from the bustle of city life, but some have also become popular tourist attractions due to their rich heritage, biodiversity, and beauty. 
@@ -247,10 +249,8 @@ Quick introduction to the greening and conservation efforts that have made Singa
 <br><br>
 <small> Source: NParks Explains: Our Greening Journey | NParksSG (2021, Oct 8). Retrieved 2023, February 20. 
 </small></p>
-
 </div>
 </div>
-
 <br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
@@ -290,7 +290,7 @@ Fort Canning Park is an iconic hilltop landmark that has witnessed many of Singa
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/ pcnfVdKlPfU" class="responsive-iframe">
+<iframe src="https://www.youtube.com/embed/pcnfVdKlPfU" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -373,6 +373,7 @@ This video gives a quick summary of how the Victoria Theatre and Concert Hall is
 <br><br>
 <small> Source: The Victoria Theatre | Singapore International Foundation (2010, May 6). Singapore International Foundation. Retrieved 2023, March 20.</small></p>
 </div>
+	</div>
 <br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
@@ -386,6 +387,8 @@ This video profiles Esplanade’s senior producer Christel Hon who oversees West
 <br><br>
 <small> Source: A Day in the Life of… A Senior Producer at Esplanade | Esplanade – Theatres on the Bay (2021, May 28). Esplanade – Theatres on the Bay. Retrieved 2023, March 20.</small></p>
 </div>
+</div>
+	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
