@@ -702,3 +702,4 @@ Sharp, Ilsa. (2009). <i>Path of the righteous crane: the life & legacy of Eu Ton
 <img src="/images/Iconic%20Entertainment%20Places/ETS.png" style="width:200px;"></a>
 <p>This is a biography of Eu Tong Sen, a businessman and philanthropist who established his fortune in Malaya, and subsequently Hong Kong and southern China. It mentions his love for Chinese opera and his contribution to building theatres in Malaya and Singapore including the place we now know as The Majestic in Chinatown.</p>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
