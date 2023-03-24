@@ -38,6 +38,11 @@ third_nav_title: Teens
 .clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; } 
 </style>
 
+### Programmes for Teens
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
+
+### Programmes on Singapore
+
 LearnX Singapore goes beyond the walls of libraries and archives to bring you experiences through talks, workshops, exhibitions, installations and games.
 
 ![Alt text for image on Isomer site](/images/singapore/singapore/NLNAS%20Programmes.png)

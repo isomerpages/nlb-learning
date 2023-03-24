@@ -38,9 +38,12 @@ third_nav_title: Children
 .clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; } 
 </style>
 
-LearnX Singapore goes beyond the walls of libraries and archives to bring you experiences through talks, workshops, exhibitions, installations and games.
+### Programmes for Children
+Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849){:target="_blank"} for the latest programme listings.
 
-Click [here](https://www.eventbrite.sg/cc/programmes-for-children-66139){:target="_blank"} for the latest programme listings for children.
+### Programmes on Singapore
+
+LearnX Singapore goes beyond the walls of libraries and archives to bring you experiences through talks, workshops, exhibitions, installations and games.
 
 ![Alt text for image on Isomer site](/images/singapore/singapore/NLNAS%20Programmes.png)
 

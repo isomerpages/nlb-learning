@@ -68,6 +68,13 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#performing-arts-venues">
+        <span>Playlist: Performing Arts Venues</span>
+      </a>
+    </div>
+  </div>
 	 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-amusement-parks">
@@ -96,6 +103,13 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </a>	
 </div>
 </div>
+	<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-performing-arts-venues">
+<span>Learning Package: Performing Arts Venues</span>
+</a>
+</div>
+</div>
 	</div>
 	
 <h3><b>Playlists</b></h3>
@@ -105,9 +119,7 @@ A collection of short videos, exploring topics around Singapore’s iconic enter
 
 New World Park (1923-1987), Great World Amusement Park (1931-1964), and Gay World (Happy World) (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They offered nightlife entertainment that featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.
 
-Check out these resources to help you gain some understanding of Singapore’s bygone legendary amusement parks.
-
-<br>
+Check out these resources to help you gain some understanding of Singapore’s bygone legendary amusement parks.<br>
 
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
@@ -122,9 +134,7 @@ A movie trailer for “大世界 It’s a Great Great World” produced by Media
 <small>Source: 大世界 It's a Great Great World - Malaysia Trailer 11 August 2011 (2011, August 19). Astro Shaw. Retrieved 2023, January 17.</small></p>
 </div>
 </div>
-
 <br>
-
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
@@ -217,6 +227,8 @@ Catch this video to learn more about the Night Safari, which is the world’s fi
 </div>
 </div>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h5 id="parks" class="margin--bottom--lg"><b>Playlist: Parks</b></h5>
 
 Singapore’s fame as a garden city was not achieved overnight. Beginning with the launch of the “Garden City” vision in the late 1960s, efforts to green the environment was sustained over the decades, involving large-scale tree-planting as well as the creation of parks all around the island. Today, there are some 400 parks in Singapore that not only offer residents places for recreation and respite from the bustle of city life, but some have also become popular tourist attractions due to their rich heritage, biodiversity, and beauty. 
@@ -237,10 +249,8 @@ Quick introduction to the greening and conservation efforts that have made Singa
 <br><br>
 <small> Source: NParks Explains: Our Greening Journey | NParksSG (2021, Oct 8). Retrieved 2023, February 20. 
 </small></p>
-
 </div>
 </div>
-
 <br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
@@ -280,7 +290,7 @@ Fort Canning Park is an iconic hilltop landmark that has witnessed many of Singa
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe src="https://www.youtube.com/embed/ pcnfVdKlPfU" class="responsive-iframe">
+<iframe src="https://www.youtube.com/embed/pcnfVdKlPfU" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -345,6 +355,42 @@ Watch this for a quick introduction to all the exhibitions, attractions, and pro
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<h5 class="margin--bottom--lg" id="performing-arts-venues"><b>Playlist: Performing Arts Venues</b></h5>
+
+The Victoria Theatre and Concert Hall and the Esplanade - Theatres by the Bay are two performing arts venues that have hosted an impressive array of performances, ranging from classical music concerts to theatre productions.
+
+Check out these resources to learn more about the rich history of these landmark venues, their architectural features, and their contributions to Singapore’s cultural heritage.
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/6uv2rraxTE8" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> The Victoria Theatre | Singapore International Foundation (5 mins)</b><br>
+This video gives a quick summary of how the Victoria Theatre and Concert Hall is not only a symbol of Singapore's colonial past but also an important cultural and arts hub for local audiences. It includes anecdotes from the staff and old photographs as well as a glimpse at the workings of the clock tower. 
+<br><br>
+<small> Source: The Victoria Theatre | Singapore International Foundation (2010, May 6). Singapore International Foundation. Retrieved 2023, March 20.</small></p>
+</div>
+	</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/mTNs9KBh4ZU" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> A Day in the Life of… A Senior Producer at Esplanade | Esplanade – Theatres on the Bay (3 mins)</b><br>
+This video profiles Esplanade’s senior producer Christel Hon who oversees Western classical music events and manages the acoustics of the Esplanade Concert Hall. From coordinating with musicians and artists to ensuring the sound quality of the concert hall, she works diligently to create a memorable experience for the audience.
+<br><br>
+<small> Source: A Day in the Life of… A Senior Producer at Esplanade | Esplanade – Theatres on the Bay (2021, May 28). Esplanade – Theatres on the Bay. Retrieved 2023, March 20.</small></p>
+</div>
+</div>
+	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Amusement Parks</b></h5>
 
@@ -393,7 +439,7 @@ Tan, Kar Lin. (2004). <i>The "worlds" entertainment parks of Singapore (1920s-19
 
 <h5>Lancing Girls of Happy World</h5>
 Foo, Adeline. (2017). <i>Lancing Girls of a Happy World</i>. Singapore: Ethos Books.  (Call no.: RSING 792.7095957 FOO)
-<a><br><img src="/images%2FIconic%20Entertainment%20Places%2FLGHW.png" style="width:200px;"></a>
+<a><br><img src="/images/Iconic%20Entertainment%20Places/FLGHW.png" style="width:200px;"></a>
 <p>“Glitz, glamour, and sleaze is what people may remember of the cabaret girls of yesteryear. With curiosity and an open mind, Adeline Foo sets out to uncover the lives of these women and how, even with few dreams and hopes to strive for, these women lived with much heart and courage despite society's disapproving eye. The music of the dance hall may have faded away, but this book carries the echoes of their dance steps, connecting us with a forgotten past that was inspired by faith, hope and charity.”</p>
 
 <h4>Oral History Interview Clip</h4>
@@ -603,5 +649,57 @@ Teo, Peggy and Brenda S. A. Teoh. (1999). <i>Challenges to theme park developmen
 
 <img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/teo-and-yeo.png">
 <p>This research paper on theme parks in Singapore analyses their attractiveness, explores problems they face, and examines how they meet the challenges and changes. Some theme parks covered include Tang Dynasty City, Fantasy Island, volcanoland and Haw Par Villa. The research was completed in 1997 and was funded by National University of Singapore and Singapore Tourism Board to support tourism research.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b>Learning Package</b></h3>
+<h5 class="margin--bottom--lg" id="lp-performing-arts-venues"><b>Performing Arts Venues</b></h5>
+
+<p>Performing arts venues in Singapore are not only entertainment hubs, but they also serve as landmarks that trace the development of the performing arts here. From the grand Victoria Theatre and Concert Hall to the state-of-the-art Esplanade – Theatres on the Bay and the once-glamourous The Majestic, these venues have witnessed Singapore's transformation into a cosmopolitan city-state. Collectively, they have hosted an array of performances, from classical music concerts to theatre productions and Cantonese operas. </p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Esplanade’s Concert Hall, which was designed by the acclaimed acoustician Russell Johnson, possesses one of the best acoustics among concert halls worldwide.</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+This set of articles and books will give you a better understanding of some of Singapore’s past and present iconic performing arts venues. 
+
+<h4>Articles</h4>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_770_2004-12-16.html" target="_blank">Victoria Theatre and Concert Hall by Tan, Bonny</a></h5>
+<p>Gazetted as a national monument in 1992, the Victoria Theatre and Concert Hall is Singapore’s oldest performing arts venue. It comprises two blocks of buildings – one constructed in 1862 and the other in 1905 – joined by a clock tower. Many performing arts events including musical and stage performances have been held here. In 2014, it was reopened to the public after undergoing a four-year restoration.</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_770_2004-12-16.html" target="_blank"> Victoria Theatre and Concert Hall (2016). <i> Singapore Infopedia.</i> Retrieved 2023, March 20.
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1827_2011-08-05.html" target="_blank"> Esplanade – Theatres on the Bay by Faizah Zakaria </a></h5>
+<p>The Esplanade – Theatres on the Bay is an arts centre which features a 1,600-seat concert hall, a 2,000-seat theatre and other smaller performing arts venues. The idea for a performing arts centre was first mooted in 1975 by then Minister of Culture, Ong Teng Cheong. After much deliberation and discussion among many stakeholders, the plans for the centre was unveiled in 1994. The centre was officially opened in 2002 by former President S. R. Nathan.</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1827_2011-08-05.html" target="_blank">Esplanade – Theatres on the Bay</a> (2016, July).<i> Singapore Infopedia.</i> Retrieved 2023, March 20.
+<h5><a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/singapore-dance" target="_blank">The Art of Movement: Dance on the Singapore Stage by Tan, Tara</a></h5>
+<p>This article focuses on five trailblazers of the Singapore dance scene and their journey in the performing arts. It includes mentions of the Victoria Theatre and the Esplanade as venues where some of their performances have taken place.</p>
+Source: Tan, Tara <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/singapore-dance"> The Art of Movement: Dance on the Singapore Stage </a> (2015, Jul-Sep). <i>BiblioAsia</i>11(2). Retrieved 2023, March 20.
+<h5><a target="_blank" href="https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/The-Majestic"> The Majestic</a></h5>
+<p>Built by businessman and philanthropist Eu Tong Sen in 1927, the Majestic was once a Cantonese opera house. It was later used to screen films. Initially named the Tien Yien Moh Toi Theatre, it was renamed a couple more times before being called the Majestic Theatre after the Second World War. It assumed its current name in 2003.</p>
+Source: <a target="_blank" href="https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/The-Majestic"> The Majestic </a> (2019). <i>Roots</i>. Singapore: National Heritage Board. Retrieved 2023, March 20.
+	
+<h4> Books </h4>
+
+<h5> In granite and chunam: the national monuments of Singapore </h5>
+Liu, Gretchen. (1996). <i>In granite and chunam: the national monuments of Singapore.</i> Singapore: Landmark Books and Preservation of Monuments Board (Call no.: RSING 725.94095957 LIU)
+<br>
+<img src="/images/Iconic%20Entertainment%20Places/InGranite.png" style="width:200px;">
+<p>This book explores the cultural significance of Singapore’s national monuments. The chapter on the Victoria Theatre and Concert Hall (found on pages 45-55) includes information about the performances held here by home-grown and imported world-class talents.</p>
+
+<h5> Esplanade: Theatres on the Bay, Singapore </h5>
+Cheong, Colin. (2013). <i>Esplanade: Theatres on the Bay, Singapore.</i> Singapore: Straits Times Press (Call no.: RSING 792.095957 CHE)
+<br>
+<img src="/images/Iconic%20Entertainment%20Places/Esplanade.png" style="width:200px;">
+<p> This commemorative book about the Esplanade covers the history of early performing arts venues in Singapore and showcases the development of Singapore's performing arts scene. It also explains how the Esplanade came about.</p>
+
+<h5> Path of the righteous crane: the life & legacy of Eu Tong Sen</h5>
+Sharp, Ilsa. (2009). <i>Path of the righteous crane: the life & legacy of Eu Tong Sen.</i> Singapore: Landmark Books Pte Ltd (Call no.: RSING 338.7616151092 SHA)
+<br>
+<img src="/images/Iconic%20Entertainment%20Places/ETS.png" style="width:200px;">
+<p>This is a biography of Eu Tong Sen, a businessman and philanthropist who established his fortune in Malaya, and subsequently Hong Kong and southern China. It mentions his love for Chinese opera and his contribution to building theatres in Malaya and Singapore including the place we now know as The Majestic in Chinatown.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
