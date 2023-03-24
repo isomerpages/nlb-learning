@@ -687,19 +687,19 @@ Source: <a target="_blank" href="https://www.roots.gov.sg/places/places-landing/
 <h5> In granite and chunam: the national monuments of Singapore </h5>
 Liu, Gretchen. (1996). <i>In granite and chunam: the national monuments of Singapore.</i> Singapore: Landmark Books and Preservation of Monuments Board (Call no.: RSING 725.94095957 LIU)
 <br>
-<img src="/images/Iconic%20Entertainment%20Places/InGranite.png" style="width:200px;"></a>
+<img src="/images/Iconic%20Entertainment%20Places/InGranite.png" style="width:200px;">
 <p>This book explores the cultural significance of Singapore’s national monuments. The chapter on the Victoria Theatre and Concert Hall (found on pages 45-55) includes information about the performances held here by home-grown and imported world-class talents.</p>
 
 <h5> Esplanade: Theatres on the Bay, Singapore </h5>
 Cheong, Colin. (2013). <i>Esplanade: Theatres on the Bay, Singapore.</i> Singapore: Straits Times Press (Call no.: RSING 792.095957 CHE)
 <br>
-<img src="/images/Iconic%20Entertainment%20Places/Esplanade.png" style="width:200px;"></a>
+<img src="/images/Iconic%20Entertainment%20Places/Esplanade.png" style="width:200px;">
 <p> This commemorative book about the Esplanade covers the history of early performing arts venues in Singapore and showcases the development of Singapore's performing arts scene. It also explains how the Esplanade came about.</p>
 
 <h5> Path of the righteous crane: the life & legacy of Eu Tong Sen</h5>
 Sharp, Ilsa. (2009). <i>Path of the righteous crane: the life & legacy of Eu Tong Sen.</i> Singapore: Landmark Books Pte Ltd (Call no.: RSING 338.7616151092 SHA)
 <br>
-<img src="/images/Iconic%20Entertainment%20Places/ETS.png" style="width:200px;"></a>
+<img src="/images/Iconic%20Entertainment%20Places/ETS.png" style="width:200px;">
 <p>This is a biography of Eu Tong Sen, a businessman and philanthropist who established his fortune in Malaya, and subsequently Hong Kong and southern China. It mentions his love for Chinese opera and his contribution to building theatres in Malaya and Singapore including the place we now know as The Majestic in Chinatown.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
