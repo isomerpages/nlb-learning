@@ -38,13 +38,13 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/sustainability/tweens/content" target="_blank"><b> Playlist:<br>Climate Rescue</b></a></td>
+        <td style="width: 20%;"><a href="/sustainability/tweens/content"><b> Playlist:<br>Climate Rescue</b></a></td>
         <td style="width: 40%;">Every year, our planet gets warmer and warmer. Eventually, Earth may become too hot to live in.<br><br>Our decisions and actions can save our climate: watch on to find out what you can do!</td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
       </tr>
       <tr>
-        <td><a href="/sustainability/tweens/content/#lp-eyespy" target="_blank"><b> Learning Package:<br>Eye Spy a Python | My Animal Buddy (Mandai Wildlife Reserves)</b></a></td>
+        <td><a href="/sustainability/tweens/content/#lp-eyespy"><b> Learning Package:<br>Eye Spy a Python | My Animal Buddy (Mandai Wildlife Reserves)</b></a></td>
         <td>Can you spot the unique characteristics of a reticulated python?</td>
         <td></td>
         <td></td>
@@ -62,12 +62,19 @@ Taking care of the environment starts with YOU!
     </thead>
     <tbody>
 						<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/sky-greens-virtual-learning-journey-punggol-regional-library-tickets-519419687267?aff=odcleoeventsincollection" target="_blank"><b>Create Your Own Fruit Peel Cleaning Enzyme!</b></a></td>
-        <td style="width: 40%;">Join us and learn about the importance of reducing food waste and what you can do at home with remaining fruit peels. Learn how to create your very own Fruit Peel Cleaning Enzyme! Bring your own fruit peels for this activity.
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/make-your-own-pencil-jurong-regional-library-tickets-550153262217?aff=odcleoeventsincollection"><b>Make Your Own Pencil @ Jurong Regional Library</b></a></td>
+        <td style="width: 40%;">Most pencils are made from trees and are usually used for writing and drawing. But do you know that pencils help in forest preservation as well? Embark on a learning journey with the Mighty Pencil to be part of promoting the growth of a sustainable environment and find out what role it plays in bridging communication between people.
 </td>
-        <td style="width: 20%;">16 Mar 2023, 1.30pm-2.30pm</td>
+        <td style="width: 20%;">2 Apr 2023, 2pm-3pm</td>
+        <td style="width: 20%;">Jurong Regional Library</td>
+			</tr>	<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/sustainability-pop-up-sengkang-public-library-tickets-584140729647?aff=odcleoeventsincollection"><b>Sustainability Pop-Up @ Sengkang Public Library
+</b></a></td>
+        <td style="width: 40%;">Come learn about effective recycling and climate change at our activity booths, featuring live demonstrations and a mobile game!
+</td>
+        <td style="width: 20%;">29 Apr 2023, 11am-1pm, 2-4pm</td>
         <td style="width: 20%;">Sengkang Public Library</td>
-			</tr>						
+			</tr>				
     </tbody>
   </table>
 </div>
@@ -76,32 +83,29 @@ Taking care of the environment starts with YOU!
   <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal ">Discover other learning focus areas</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover other learning focus areas</th>
       </tr>
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/the-perfect-balance-clementi-public-library-tweenkerama-tickets-557601961477?aff=odcleoeventsincollection" target="_blank"><b> The Perfect Balance | Tweekerama</b></a></td>
-        <td style="width: 40%;">
-Come join us as we explore this through LEGO! Join us for a fun filled workshop to learn about balanced forces and gravity and create your very own model with LEGO! 
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/math-magic-punggol-regional-library-budding-scientists-tickets-590827219117?aff=odcleoeventsincollection"><b>Math Magic @ Punggol Regional Library | Budding Scientists</b></a></td>
+        <td style="width: 40%;">Through performing 2 different Math magic tricks, students will learn how mathematics concepts&nbsp;(Math Magic with Simple Addition and Subtraction) can be applied in magic tricks and also gain a greater appreciation in Math.
 </td>
-        <td style="width: 20%;">14 Mar 2023, 2pm-4pm</td>
-        <td style="width: 20%;">Clementi Public Library</td>
-      </tr>	<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/become-an-intuitive-interviewer-tweens-write-tickets-550139721717?aff=odcleoeventsincollection" target="_blank"><b> Become an Intuitive Interviewer! | Tweens Write</b></a></td>
-        <td style="width: 40%;">
-In this Tweens Write session, author of the *We Are Singaporeans* book series, Melanie Lee, shares her decades of experience interviewing people in her writing work. Drawing from her experience interviewing people with unconventional jobs for *We Are Singaporeans*, Melanie will take participants through a variety of writing activities to translate interviews into compelling stories.
-</td>
-        <td style="width: 20%;">16 Mar 2023, 2.30pm-4pm</td>
+        <td style="width: 20%;">2 Apr 2023, 12.30pm-2pm</td>
         <td style="width: 20%;">Punggol Regional Library</td>
+			</tr>		<tr>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/instant-conversations-introduction-to-instant-photography-tickets-596382916357?aff=odcleoeventsincollection"><b>Instant Conversations: Introduction to Instant Photography @ Sengkang Public Library</b></a></td>
+        <td style="width: 40%;">OKB.sg will explore Instant Photography’s history from the 1940s development in traditional photography to its current sub-culture resurgence amongst youngsters and artists, as well as share about their passion and inspiration for this hobby.
+</td>
+        <td style="width: 20%;">15 Apr 2023, 11.30am-1pm</td>
+        <td style="width: 20%;">Sengkang Public Library</td>
       </tr>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/digital-drawing-local-delights-with-artgrain-jurong-regional-library-tickets-550247624457?aff=odcleoeventsincollection" target="_blank"><b> Digital Drawing – Local Delights with Artgrain</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/digital-drawing-local-delights-with-artgrain-jurong-regional-library-tickets-550247624457?aff=odcleoeventsincollection"><b> Intro to Mobile App Development Through Coding | Budding Coders</b></a></td>
         <td style="width: 40%;">
-Join us in learning how to draw Singapore’s local food digitally using an Ipad and a digital pencil!
-</td>
-        <td style="width: 20%;">17 Mar 2023, 3pm-5pm</td>
-        <td style="width: 20%;">Jurong Regional Library</td>
+Coding is an essential part of our modern life, powering the mobile apps that we use daily. Come find out more about mobile app development and how easy the fundamentals of coding are to grasp!</td>
+        <td style="width: 20%;">29 Apr 2023, 3pm-4.30pm</td>
+        <td style="width: 20%;">Chua Chu Kang Public Library</td>
       </tr>
       </tbody>
   </table>
