@@ -61,25 +61,18 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 						<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/create-your-own-eco-bag-tickets-540800778687?aff=odcleoeventsincollection" target="_blank"><b>Create Your Own Eco Bag!</b></a></td>
-        <td style="width: 40%;">Do you have unused t-shirts and thinking what you can do with them? Learn how to upcycle t-shirts and turn them into no-sew tote bags. Bring your own unused t-shirts for this activity.
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/make-your-own-pencil-jurong-regional-library-tickets-550153262217?aff=odcleoeventsincollection" target="_blank"><b>Make Your Own Pencil @ Jurong Regional Library</b></a></td>
+        <td style="width: 40%;">Most pencils are made from trees and are usually used for writing and drawing. But do you know that pencils help in forest preservation as well? Embark on a learning journey with the Mighty Pencil to be part of promoting the growth of a sustainable environment and find out what role it plays in bridging communication between people.
 </td>
-        <td style="width: 20%;">11 Mar 2023, 11.30am-12.30pm</td>
+        <td style="width: 20%;">2 Apr 2023, 2pm-3pm</td>
+        <td style="width: 20%;">Jurong Regional Library</td>
+			</tr>
+									<tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/sustainability-pop-up-sengkang-public-library-tickets-584140729647?aff=odcleoeventsincollection" target="_blank"><b> Sustainability Pop-Up @ Sengkang Public Library</b></a></td>
+        <td style="width: 40%;">Come learn about effective recycling and climate change at our activity booths, featuring live demonstrations and a mobile game!
+</td>
+        <td style="width: 20%;">29 Apr 2023, 11am-1pm, 2pm-4pm</td>
         <td style="width: 20%;">Sengkang Public Library</td>
-			</tr>
-									<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/create-your-own-fruit-peel-cleaning-enzyme-cheng-san-public-library-tickets-557588280557?aff=odcleoeventsincollection" target="_blank"><b> Create your own Fruit Peel Cleaning Enzyme!</b></a></td>
-        <td style="width: 40%;">Learn about the importance of reducing food waste and what you can do at home with remaining fruit peels. Create your very own Fruit Peel Cleaning Enzyme in this hands-on workshop!
-</td>
-        <td style="width: 20%;">12 Mar 2023, 2pm-3pm</td>
-        <td style="width: 20%;">Cheng San Public Library</td>
-			</tr>
-									<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/urban-farm-learning-journey-4-12-years-old-tickets-550090865587?aff=odcleoeventsincollection" target="_blank"><b>Urban Farm Learning Journey</b></a></td>
-        <td style="width: 40%;">As part of the Earth Heroes series, this learning journey takes children and parents through Oasis Living Lab, looking at how technology is incorporated into the farming process to make large-scale food production possible amidst inherent challenges in urban Singapore.
-</td>
-        <td style="width: 20%;">18 Mar 2023, 10am-12pm</td>
-        <td style="width: 20%;">Bishan Public Library</td>
 			</tr>
     </tbody>
   </table>
@@ -94,24 +87,23 @@ Go green with your child to build an eco-friendly future together.
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/cc/programmes-on-storytelling-127929?aff=odclrlmctfte" target="_blank"><b> Rooky's Horror Story and Craft</b></a></td>
-        <td style="width: 40%;">Join us for a special storytelling session! Get to know how Rooky got his wings and bring home a unique craft.</td>
-        <td style="width: 20%;">From 6 Mar 2023</td>
-        <td style="width: 20%;">Various Public Libraries</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/the-joy-of-reading-yishun-public-library-tickets-567389536377?aff=odcleoeventsincollection" target="_blank"><b>The Joy of Reading | Yishun Public Library</b></a></td>
+        <td style="width: 40%;">Kids enjoy reading in this Interactive Read Aloud session using effective book discussion techniques based on evidence-based early literacy.</td>
+        <td style="width: 20%;">2 Apr 2023, 11.30am-12.30pm</td>
+        <td style="width: 20%;">Yishun Public Library</td>
       </tr>
 			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/show-me-the-story-a-performance-by-victoria-junior-college-drama-club-registration-540898250227?aff=odcleoeventsincollection" target="_blank"><b>“Show Me The Story!” A Performance</b></a></td>
-        <td style="width: 40%;">A triple-bill of famous children’s books comes to life in this dramatic reading and performance by the Victoria Junior College Drama Club.
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/fantastical-tales-punggol-regional-library-tickets-594271852107?aff=odcleoeventsincollection" target="_blank"><b>Fantastical Tales @ Punggol Regional Library</b></a></td>
+        <td style="width: 40%;">Watch folktales and fables come to life in this immersive animation screening! From tales about wonderful animals to legends about brave adventurers, learn more about stories from all around the world.
 </td>
-        <td style="width: 20%;">13 Mar 2023, 2pm-3pm</td>
-        <td style="width: 20%;">Queenstown Public Library</td>
-			</tr>
-			<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/a-perfect-day-children-write-tickets-550107665837?aff=odcleoeventsincollection" target="_blank"><b>A Perfect Day | Children Write</b></a></td>
-        <td style="width: 40%;">Join Quek Hong Shin, author and illustrator of books like The Amazing Sarong and Universe of Feelings for a workshop as he guides participants in descriptive writing for scene-setting and creating detailed illustrations.
-</td>
-        <td style="width: 20%;">25 Mar 2023, 1pm-2.30pm</td>
+        <td style="width: 20%;">From 2 Apr 2023, Various Timings</td>
         <td style="width: 20%;">Punggol Regional  Library</td>
+			</tr><tr>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/simple-machines-budding-scientists-toa-payoh-public-library-tickets-568874538057?aff=odcleoeventsincollection" target="_blank"><b>Simple Machines | Budding Scientists @ Toa Payoh Public Library</b></a></td>
+        <td style="width: 40%;">Participants will gain basic understanding and interest in the Engineering topic (Simple machines - Lever) through interactive class discussions, experiments, and crafts.
+</td>
+        <td style="width: 20%;">16 Apr 2023, 11am-12.30pm</td>
+        <td style="width: 20%;">Toa Payoh Public Library</td>
 			</tr>
 			     </tbody>
   </table>
