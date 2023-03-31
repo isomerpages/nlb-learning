@@ -61,12 +61,12 @@ Be informed and make an impact to the environment.
     </thead>
     <tbody>
 										<tr>
-         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/build-a-terrarium-jurong-regional-library-teens-takeover-greenhouse-tickets-550179821657?aff=odcleoeventsincollection"><b>Build Your Own Terrarium @ Punggol Regional Library | Teens Takeover</b></a></td>
+         <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/build-your-own-terrarium-punggol-regional-library-teens-takeover-tickets-601335449517?aff=odcleoeventsincollection"><b>Build Your Own Terrarium @ Punggol Regional Library | Teens Takeover</b></a></td>
         <td style="width: 40%;">A terrarium is a collection of plants or mosses grown in a transparent, enclosed environment, making it a self-sustaining ecosystem on its own.
 <br><br>
 In this terrarium workshop, learn more about sustainability with terrariums and unleash your creativity to design your very own mini glass garden to bring home!
 </td>
-        <td style="width: 20%;">17 Feb 2023, 2.30pm-3.30pm</td>
+        <td style="width: 20%;">16 Apr 2023, 2.30pm-4.30pm</td>
         <td style="width: 20%;">Punggol Regional Library</td>
 			</tr>	
 									<tr>
@@ -89,23 +89,26 @@ In this terrarium workshop, learn more about sustainability with terrariums and 
     </thead>
     <tbody>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/unplugged-choa-chu-kang-public-library-tickets-479793905487?aff=odcleoeventsincollection"><b> Unplugged</b></a></td>
-        <td style="width: 40%;">Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
-        <td style="width: 20%;">13 Mar 2023, 2pm - 4pm</td>
-        <td style="width: 20%;">Woodlands Regional Library</td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/virtual-reality-workshop-punggol-regional-library-digilit-tickets-590818362627?aff=odcleoeventsincollection"><b> Virtual Reality Workshop @ Punggol Regional Library | Digi·lit</b></a></td>
+        <td style="width: 40%;">This session introduces students to VR technology and its relevant uses in different industries such as Simulated Airplane for Pilots, Smart Home technologies, game engines for VR games, etc.</td>
+        <td style="width: 20%;">9 Apr 2023, 12.30pm-2pm</td>
+        <td style="width: 20%;">Punggol Regional Library</td>
       </tr>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/augmented-reality-workshop-with-mastereign-serangoon-public-library-tickets-550182870777?aff=odcleoeventsincollection"><b> Augmented Reality Workshop with Mastereign</b></a></td>
-        <td style="width: 40%;">Through this programme, participants will be able to learn and define what is Augmented Reality and understand the usage of Augmented Reality in the currently digital lifestyle that we live in.&nbsp;
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/tellstory8-back-in-the-theatre-w-how-drama-geylang-east-public-library-tickets-590815484017?aff=odcleoeventsincollection"><b>#TellStory8 Back in the Theatre! w How Drama | Geylang East Public Library
+</b></a></td>
+        <td style="width: 40%;">Travel with our youths through their stories on a wonderful dramatic journey filled with adventures and heartfelt messages.
+		<br><br>
+Enjoy dramatic interpretations of classic and (some tummy-tickling) original scripts devised and written by the students! Let them Tell the Story AS IT IS!
 </td>
-        <td style="width: 20%;">19 Mar 2023, 3pm - 4.30pm</td>
-        <td style="width: 20%;">Serangoon Public Library</td>
+        <td style="width: 20%;">15 Apr 2023, 2pm-6pm</td>
+        <td style="width: 20%;">Geylang East Public Library</td>
       </tr>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-550155900107?aff=odcleoeventsincollection"><b> Dungeons &amp; Dragons w/The Legitimate Business</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/dungeon-mastery-102-know-your-players-dd-wthe-legitimate-business-tickets-584151872977?aff=odcleoeventsincollection"><b> Dungeons &amp; Dragons w/The Legitimate Business</b></a></td>
         <td style="width: 40%;">Come by Choa Chu Kang Public Library for a taste of this legendary fantasy role-playing game, and find out why millions of players worldwide have stepped into the boots of mighty heroes (and sneaky antiheroes) to create their own stories.
 </td>
-        <td style="width: 20%;">25 Mar 2023, 1pm - 5pm</td>
+        <td style="width: 20%;">27 Apr 2023, 7.30pm-9pm</td>
         <td style="width: 20%;">Choa Chu Kang Public Library</td>
       </tr>
   </tbody>
