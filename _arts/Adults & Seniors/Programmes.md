@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /arts/Adults-Seniors/programmes
+permalink: /arts/Adults-Seniors/programmes/
 description: ""
 third_nav_title: Adults & Seniors
 ---
@@ -53,21 +53,21 @@ Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singap
 ## **Pro Series**
 ![](/images/arts/programmes/poster_4.png)
 
-Pro Series is a suite of talks curated by library@orchard that gives insight into the craftsmanship of various design disciplines. library@orchard Pro Series topics include zines, concept design, and jewellery design.
+Pro Series is a suite of talks curated by library@orchard that gives insight into the craftsmanship of various design disciplines. library@orchard Pro Series topics include zine design, concept design, and jewellery design.
 
 Click [here](https://www.eventbrite.sg/cc/programmes-on-arts-66189){:target="_blank"} for the latest programme listings.
 
 ## **Communities**
 ![](/images/arts/programmes/poster_3.png)
 
-Communities is an alternative learning environment where you can pick up a plethora of skills by sharing and experimenting with others. This monthly series lead by our community is built on the belief that teaching and learning can happen without a teacher.
+Communities is an alternative learning environment where you can pick up a plethora of skills by sharing and experimenting with others. This monthly series led by our community is built on the belief that teaching and learning can happen without a teacher.
 
 Click [here](https://www.eventbrite.sg/cc/libraryorchard-programmes-138109){:target="_blank"} for the latest programme listings.
 
 ## **Resident**
 ![](/images/arts/programmes/poster_5.png)
 
-Resident is library@orchard’s artist-in-residence programme where a practicing artist or designer to transforms the library space into their studio. Look out for Open Studio sessions where you may visit the studio to take a peek into the works and processes of these artists and designers.
+Resident is library@orchard’s artist-in-residence programme where a practicing artist or designer transforms the library space into their studio. Look out for Open Studio sessions where you may visit the studio to take a peek into the works and processes of these artists and designers.
 
 Click [here](https://www.eventbrite.sg/cc/programmes-on-arts-66189){:target="_blank"} for the latest programme listings.
 
