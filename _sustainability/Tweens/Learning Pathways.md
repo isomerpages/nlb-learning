@@ -101,7 +101,7 @@ Taking care of the environment starts with YOU!
         <td style="width: 20%;">Sengkang Public Library</td>
       </tr>
 			<tr>
-        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/digital-drawing-local-delights-with-artgrain-jurong-regional-library-tickets-550247624457?aff=odcleoeventsincollection"><b> Intro to Mobile App Development Through Coding | Budding Coders</b></a></td>
+        <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/intro-to-mobile-app-development-through-coding-budding-coders-tickets-584042856907?aff=odcleoeventsincollection"><b> Intro to Mobile App Development Through Coding | Budding Coders</b></a></td>
         <td style="width: 40%;">
 Coding is an essential part of our modern life, powering the mobile apps that we use daily. Come find out more about mobile app development and how easy the fundamentals of coding are to grasp!</td>
         <td style="width: 20%;">29 Apr 2023, 3pm-4.30pm</td>
