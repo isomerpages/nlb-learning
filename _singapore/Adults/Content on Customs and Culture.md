@@ -63,7 +63,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring culture and customs topics among Singapore’s ethnic groups.
 
-<h5 id="chinese-culture-and-customs" class="margin--bottom--lg"><b>Playlist: Chinese Culture and Customs</b></h5>
+<h5 id="chinese-culture-and-customs" class="margin--bottom--lg"><b>Playlist: Chinese Customs and Culture</b></h5>
 
 When Chinese immigrants first left their homelands for Singapore in the 1800s in search of jobs and new opportunities, they brought along with them their culture, traditions, and customs to aid in the transition to a new land. These traditions and customs eventually became the foundations of Singapore’s Chinese culture. 
 
