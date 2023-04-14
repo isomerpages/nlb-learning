@@ -45,7 +45,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#chinese-culture-and-customs">
-        <span>Playlist: Chinese Culture and Customs</span>
+        <span>Playlist: Chinese Customs and Culture</span>
       </a>
     </div>
   </div>
