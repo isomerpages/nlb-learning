@@ -62,8 +62,9 @@ third_nav_title: Adults & Seniors
 <h3 id="the-great-make-over-project"><b>The Great Make-Over Project: Punggol Edition</b></h3>
 <img src="/images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:300px;height:500px;">
 
-The Great Make-Over Project, a community co-solutioning initiative by NLB and supported by CapitaLand Hope Foundation, brings together everyday people to co-solution, reinvent, and reimagine spaces to promote sustainable living. 
-Over the course of six weeks, 25 individuals, from different walks of life such as homemakers, artists and entrepreneurs, were divided into five teams and explored the question – “What would Choa Chu Kang look like when our community spaces are reimagined for sustainability?”
+Have you ever re:Imagined Punggol as a more sustainable, vibrant and inclusive neighbourhood? The second iteration of the Great Make-Over Project brought together 5 teams who visualized their chosen space in the Punggol Neighbourhood as a “Great Place” with sustainability in mind. They RE:Imagined the Punggol Town as a more, sustainable, vibrant and inclusive neighbourhood – to transform a ‘Livable space’ to a ‘Loveable space’.
+
+How will the Punggol neighborhood look like if it was re:Imagined to be more sustainable, vibrant and inclusive? The second iteration of The Great Make-Over Project (GMO) brought together 5 teams to do exactly that! With sustainability in mind, GMO participants sought to visualize and transform specific places within the neighborhood into “Great Places”.  
 
 <b>Check out the posters of the teams' finalized ideas:</b>
 <br><a href="https://go.gov.sg/team1sproutup/" target="_blank">Team 1 Sprout Up!</a>
