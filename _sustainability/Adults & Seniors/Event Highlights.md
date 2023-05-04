@@ -45,7 +45,7 @@ third_nav_title: Adults & Seniors
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#the-great-make-over-project">
+      <a href="#the-great-make-over-project: Punggol Edition">
         <span>The Great Make-over Project</span>
       </a>
     </div>
@@ -59,7 +59,7 @@ third_nav_title: Adults & Seniors
   </div>
 </div>
 
-<h3 id="the-great-make-over-project"><b>The Great Make-Over Project</b></h3>
+<h3 id="the-great-make-over-project"><b>The Great Make-Over Project: Punggol Edition</b></h3>
 <img src="/images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:300px;height:500px;">
 
 The Great Make-Over Project, a community co-solutioning initiative by NLB and supported by CapitaLand Hope Foundation, brings together everyday people to co-solution, reinvent, and reimagine spaces to promote sustainable living. 
@@ -90,7 +90,7 @@ In the long run, the team envisions Cho Chu Kang Park as a place for not only ap
 <br><a href="https://go.gov.sg/team4sunshine/" target="_blank">Team 4 Sunshine</a>
 <br>
 <div class="green-text">
-Sunshine has re:imagined Keat Hong Community Centre. They aim to use under-utilized ground floor areas to organize events for the community such as, movie screenings, swapathons, flea markets and hold pop-up markets for small businesses. The space would also feature recycling collection points and a potential collaboration with Two of a Kind for their collection bin. A compost bin would also be set-up to not only encourage the people but F&B establishments to compost food waste. The team’s long-term initiatives include establishing a “Library of Things” – this includes a community fridge, a “single-use plastics alternatives” area and more reading areas to encourage information sharing on sustainability.
+Sunshine has re:imagined Keat Hong Community Centre. They aim to use under-utilized ground floor areas to organize events for the community such as, movie screenings, swapathons, flea markets and hold pop-up markets for small businesses. The space would also feature recycling collection points and a potential collaboration with Two of a Kind for their collection bin. A compost bin would also be set-up to not only encourage the people but F&amp;B establishments to compost food waste. The team’s long-term initiatives include establishing a “Library of Things” – this includes a community fridge, a “single-use plastics alternatives” area and more reading areas to encourage information sharing on sustainability.
 </div>
 
 <br><a href="https://go.gov.sg/team5socialtechfarmer/" target="_blank">Team 5 Social Tech Farmer</a>
@@ -109,17 +109,17 @@ Social Tech Farmer has re:imagined an open green plot of land beside Pang Sua Pa
  <p style="font-size:160%;"><b><u> Re:Imagine CCK Town </u></b></p>
 
 <img src="images/sustainability/adults-and-seniors/Screenshot2.png" style="width:400px;height:300px;">
-<img src="images/sustainability/adults-and-seniors/IMG_6144.jpg" style ="width:400px;height:300px;">
+<img src="images/sustainability/adults-and-seniors/IMG_6144.jpg" style="width:400px;height:300px;">
 		
 Participants attended workshops that closely guided them in their design-thinking and placemaking process. Industry practitioners and sustainability enthusiasts conducted fireside chats and sharing sessions, lending the teams greater insights and knowledge to further refine their green solutions.
 
 <img src="images/sustainability/adults-and-seniors/IMG_6319.jpg" style="width:400px;height:300px;">
-<img src="images/sustainability/adults-and-seniors/Screenshot.png" style ="width:400px;height:300px;">
+<img src="images/sustainability/adults-and-seniors/Screenshot.png" style="width:400px;height:300px;">
 
 The teams also conducted ground-up research to value-add to their projects. From locating potential spaces for reimagination to interviewing members of the public, the teams went the extra mile to ensure that these projects would translate to enticing and inclusive green solutions for the people of Choa Chu Kang. 
 
 <img src="images/sustainability/adults-and-seniors/IMG_6441.jpg" style="width:400px;height:300px;">
-<img src="images/sustainability/adults-and-seniors/IMG_6639.jpg" style ="width:400px;height:300px;">
+<img src="images/sustainability/adults-and-seniors/IMG_6639.jpg" style="width:400px;height:300px;">
 
 On 13th March 2022, participants presented the reimagined spaces and creative green solutions to a panel of judges consisting of representatives from the Choa Chu Kang Town Council, the National Environment Agency, and the National Library Board.
 
@@ -131,11 +131,11 @@ On 23rd April 2022, the participants presented their ideas in a pop-up booth sty
 <img src="images/sustainability/adults-and-seniors/Jpg1.jpg" style="width:400px;height:300px;">
 <img src="images/sustainability/adults-and-seniors/jpg2.jpg" style="width:400px;height:300px;">
 
-On 30th April, the teams presented their ideas to an online audience, collected feedback and engaged in a Q&A session. These community engagement sessions not only allow the teams to share their ideas to the public, but also to rope in other like-minded individuals into their projects and network with potential partners to actualise their projects.
+On 30th April, the teams presented their ideas to an online audience, collected feedback and engaged in a Q&amp;A session. These community engagement sessions not only allow the teams to share their ideas to the public, but also to rope in other like-minded individuals into their projects and network with potential partners to actualise their projects.
 
 <b>Highlights video: </b>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <!-- Nodes at Parks  -->
 <h3 id="nodes-at-parks"><b>Nodes at Parks</b></h3>
