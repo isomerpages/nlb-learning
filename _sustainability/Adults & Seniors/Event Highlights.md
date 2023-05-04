@@ -66,39 +66,11 @@ Have you ever re:Imagined Punggol as a more sustainable, vibrant and inclusive n
 
 How will the Punggol neighborhood look like if it was re:Imagined to be more sustainable, vibrant and inclusive? The second iteration of The Great Make-Over Project (GMO) brought together 5 teams to do exactly that! With sustainability in mind, GMO participants sought to visualize and transform specific places within the neighborhood into “Great Places”.  
 
-<b>Check out the posters of the teams' finalized ideas:</b>
-<br><a href="https://go.gov.sg/team1sproutup/" target="_blank">Team 1 Sprout Up!</a>
-<br>
-<div class="green-text">
-Sprout Up! has re:imagined Lot One Mall Rooftop. The teams’ short-term goals include creating green space for ethical and social marketplaces to thrive. This includes organizing eco-practice interactive workshops and games, setting up vertical gardens and recycling collection points. 
-In the long term, the team envisions Level 5 of Lot One Mall to be a space where the community comes together to grow food, a more robust green infrastructure and even a nature-based playground to get the young involved in sustainability. 
-</div>
+<b><u>About The Great Make-Over Project:</u></b>
 
-<br><a href="https://go.gov.sg/team2staysustainable/" target="_blank">Team 2 Stay Sustainable</a>
-<br>
-<div class="green-text">
-Stay Sustainable has re:imagined CCK Community Centre. The teams’ short-term goals include knowledge-sharing through workshops and digital content on topics such as upcycling and composting. Stay Sustainable would also like to set up community compost bins and self-deposit corners for clothes and books to encourage more sustainable practices among the community. 
-The teams’ long-term plans are to revitalize the CCK Community Centre with green wall features and create rooftop gardens. Additionally, the team would like to set up community establishments for dining, studying, co-working and lifestyle practices that embraces sustainability at its core. 
- </div>
- 
-<br><a href="https://go.gov.sg/team3parkkaki/" target="_blank">Team 3 Park Kaki</a>
-<br>
-<div class="green-text">
-Park Kaki has re:imagined Choa Chu Kang Park. In the short run, team Park Kaki hopes to organize various community initiatives from guided educational tours, eco wellness walks, farmers’ markets and even eco-themed storytelling and craft workshops. They also hope to mobilise the community to do park clean ups. 
-In the long run, the team envisions Cho Chu Kang Park as a place for not only appreciation, but also to serve as a sustainability landmark in Choa Chu Kang where the community can appreciate the natural and historical heritage of the park. 
-	</div>
- 
-<br><a href="https://go.gov.sg/team4sunshine/" target="_blank">Team 4 Sunshine</a>
-<br>
-<div class="green-text">
-Sunshine has re:imagined Keat Hong Community Centre. They aim to use under-utilized ground floor areas to organize events for the community such as, movie screenings, swapathons, flea markets and hold pop-up markets for small businesses. The space would also feature recycling collection points and a potential collaboration with Two of a Kind for their collection bin. A compost bin would also be set-up to not only encourage the people but F&amp;B establishments to compost food waste. The team’s long-term initiatives include establishing a “Library of Things” – this includes a community fridge, a “single-use plastics alternatives” area and more reading areas to encourage information sharing on sustainability.
-</div>
+The Great Make-Over Project (GMO) is a community co-solutioning initiative which tasks participants to propose ways to transform and reinvent spaces to promote sustainable living. 
 
-<br><a href="https://go.gov.sg/team5socialtechfarmer/" target="_blank">Team 5 Social Tech Farmer</a>
-<br>
-<div class="green-text">
-Social Tech Farmer has re:imagined an open green plot of land beside Pang Sua Park Connector . In the short-run, they envision the space to be more accessible, both for sustainable practices and for the people. This would include incorporating vermicomposting and aquaponics models, infrastructures for community gardens and ramps to increase accessibility to certain areas. Long-term plans for the space include setting up nurseries for various herbs, fruits, and plants and to encourage seedling sharing amongst the community. The space would then be transformed to conduct weekend activities such as garden fairs and educational tours.    
-</div>
+This project is supported by CapitaLand Hope Foundation, One Punggol CC and Pasir-Ris Punggol Town Council. 
 
 <b>Share Your Feedback and Collaborate with us!</b>
 <br>You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a> 
