@@ -72,43 +72,24 @@ The Great Make-Over Project (GMO) is a community co-solutioning initiative which
 
 This project is supported by CapitaLand Hope Foundation, One Punggol CC and Pasir-Ris Punggol Town Council. 
 
-<b>Share Your Feedback and Collaborate with us!</b>
-<br>You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a> 
+<h3><b>Their Journey</b></h3>
+<p>
+24 participants were selected from a pool of 83 applicants to be part of the second iteration of The Great Make-Over Project. These participants included a community designer, nurse, students, retirees, housewives and sustainability consultants. 
+</p>
 
+<p>
+Over the course of 4 months, GMO participants underwent a curriculum of design-thinking and placemaking workshops as well as fireside side chats with industry practitioners and sustainability enthusiasts to lay the groundwork for the solutioning process.
+</p>
+<p>
+Separately, the teams also conducted preliminary research for their green solutions. From on-the-ground assessment of potential spaces for reimagination to interviewing members of the public, the teams went the extra mile to ensure that these projects would translate to green solutions for the Punggol Town community.
+</p>
+<p>
+On 15th April 2023, the teams presented their reimagined spaces and creative green solutions to a panel of judges comprising of representatives from the Pasir Ris-Punggol Town Council, the National Environment Agency, the National Library Board and City Sprouts. 
+</p>
+<p>
+The teams will also be sharing their ideas with the public on 6 May from11am to 1pm at Punggol Regional Library - Entrance (Level 1). Join us to learn more about their innovative sustainability solutions and share your own feedback and ideas! For more info, click <a href="https://go.gov.sg/meet-ideators-gmo23/" target="_blank">here</a>!
+</p>
 
-
-<b>Check out the highlights of The Great Make-Over Project below!</b>
-
- <p style="font-size:160%;"><b><u> Re:Imagine CCK Town </u></b></p>
-
-<img src="images/sustainability/adults-and-seniors/Screenshot2.png" style="width:400px;height:300px;">
-<img src="images/sustainability/adults-and-seniors/IMG_6144.jpg" style="width:400px;height:300px;">
-		
-Participants attended workshops that closely guided them in their design-thinking and placemaking process. Industry practitioners and sustainability enthusiasts conducted fireside chats and sharing sessions, lending the teams greater insights and knowledge to further refine their green solutions.
-
-<img src="images/sustainability/adults-and-seniors/IMG_6319.jpg" style="width:400px;height:300px;">
-<img src="images/sustainability/adults-and-seniors/Screenshot.png" style="width:400px;height:300px;">
-
-The teams also conducted ground-up research to value-add to their projects. From locating potential spaces for reimagination to interviewing members of the public, the teams went the extra mile to ensure that these projects would translate to enticing and inclusive green solutions for the people of Choa Chu Kang. 
-
-<img src="images/sustainability/adults-and-seniors/IMG_6441.jpg" style="width:400px;height:300px;">
-<img src="images/sustainability/adults-and-seniors/IMG_6639.jpg" style="width:400px;height:300px;">
-
-On 13th March 2022, participants presented the reimagined spaces and creative green solutions to a panel of judges consisting of representatives from the Choa Chu Kang Town Council, the National Environment Agency, and the National Library Board.
-
-<img src="images/sustainability/adults-and-seniors/DSC_1123.jpg" style="width:400px;height:300px;">
-<img src="images/sustainability/adults-and-seniors/DSC_0914.jpg" style="width:400px;height:300px;">
-
-On 23rd April 2022, the participants presented their ideas in a pop-up booth style at CCKPL. Each team was given a space in the programme zone to engage with visitors on their project ideas. CCK MP Zhulkarnain and MP Don Wee attended the session along other partners from People’s Association (PA), CCK Town Council, NEA and NParks.
-
-<img src="images/sustainability/adults-and-seniors/Jpg1.jpg" style="width:400px;height:300px;">
-<img src="images/sustainability/adults-and-seniors/jpg2.jpg" style="width:400px;height:300px;">
-
-On 30th April, the teams presented their ideas to an online audience, collected feedback and engaged in a Q&amp;A session. These community engagement sessions not only allow the teams to share their ideas to the public, but also to rope in other like-minded individuals into their projects and network with potential partners to actualise their projects.
-
-<b>Highlights video: </b>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <!-- Nodes at Parks  -->
 <h3 id="nodes-at-parks"><b>Nodes at Parks</b></h3>
