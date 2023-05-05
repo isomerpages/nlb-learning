@@ -105,9 +105,8 @@ Team <a href="https://go.gov.sg/team-earthwise" target="_blank">EarthWise</a>
     Team <a href="https://go.gov.sg/team-avoideckadence" target="_blank">aVoideckadence 108</a>
 </p>
     <p>
-      Team <a href="https://go.gov.sg/team-asianpear" target="_blank">Asian Pear</a>
-</p>
-      <p>
+      Team <a href="https://go.gov.sg/team-asianpear" target="_blank">Asian Pear</a></p>
+			<p>
         Team <a href="https://go.gov.sg/team-wow" target="_blank">WoW (Waste-to-Wellness)</a>
 </p>
 
