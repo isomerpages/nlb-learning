@@ -84,6 +84,7 @@ Over the course of 4 months, GMO participants underwent a curriculum of design-t
 <p>
 Separately, the teams also conducted preliminary research for their green solutions. From on-the-ground assessment of potential spaces for reimagination to interviewing members of the public, the teams went the extra mile to ensure that these projects would translate to green solutions for the Punggol Town community.
 </p>
+<img src="/images/sustainability/adults-and-seniors/as_sustainability_gmo_2.png">
 <p>
 On 15th April 2023, the teams presented their reimagined spaces and creative green solutions to a panel of judges comprising of representatives from the Pasir Ris-Punggol Town Council, the National Environment Agency, the National Library Board and City Sprouts. 
 </p>
