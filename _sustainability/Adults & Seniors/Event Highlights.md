@@ -108,6 +108,11 @@ Team <a href="https://go.gov.sg/team-earthwise" target="_blank">EarthWise</a>
 <p>Team <a target="_blank" href="https://go.gov.sg/team-asianpear">Asian Pear</a></p>
 <p>Team <a target="_blank" href="https://go.gov.sg/team-wow">WoW (Waste-to-Wellness)</a></p>
 
+<p>
+  <strong>Share Your Feedback and Collaborate with the teams!</strong>
+</p>
+You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmo23-feedback" target="_blank">here</a>! 
+
 <!-- Nodes at Parks  -->
 <h3 id="nodes-at-parks"><b>Nodes at Parks</b></h3>
 <img src="/images/sustainability/adults-and-seniors/Nodes%20at%20Parks%20Logo.png">
