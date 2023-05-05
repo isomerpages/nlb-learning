@@ -76,7 +76,7 @@ This project is supported by CapitaLand Hope Foundation, One Punggol CC and Pasi
 <h3><b>Their Journey</b></h3>
 <p>
 24 participants were selected from a pool of 83 applicants to be part of the second iteration of The Great Make-Over Project. These participants included a community designer, nurse, students, retirees, housewives and sustainability consultants. 
-</p>
+</p><img src="/images/sustainability/adults-and-seniors/as_sustainability_gmo_1.png">
 
 <p>
 Over the course of 4 months, GMO participants underwent a curriculum of design-thinking and placemaking workshops as well as fireside side chats with industry practitioners and sustainability enthusiasts to lay the groundwork for the solutioning process.
