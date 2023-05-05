@@ -104,11 +104,9 @@ Team <a href="https://go.gov.sg/team-earthwise" target="_blank">EarthWise</a>
   <p>
     Team <a href="https://go.gov.sg/team-avoideckadence" target="_blank">aVoideckadence 108</a>
 </p>
-    <p>
-      Team <a href="https://go.gov.sg/team-asianpear" target="_blank">Asian Pear</a></p>
-			<p>
-        Team <a href="https://go.gov.sg/team-wow" target="_blank">WoW (Waste-to-Wellness)</a>
-</p>
+
+<p>Team <a target="_blank" href="https://go.gov.sg/team-asianpear">Asian Pear</a></p>
+<p>Team <a target="_blank" href="https://go.gov.sg/team-wow">WoW (Waste-to-Wellness)</a></p>
 
 <!-- Nodes at Parks  -->
 <h3 id="nodes-at-parks"><b>Nodes at Parks</b></h3>
