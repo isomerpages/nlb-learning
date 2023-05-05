@@ -59,83 +59,61 @@ third_nav_title: Adults & Seniors
   </div>
 </div>
 
-<h3 id="the-great-make-over-project"><b>The Great Make-Over Project</b></h3>
-<img src="/images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:300px;height:500px;">
+<h3 id="the-great-make-over-project"><b>The Great Make-Over Project: Punggol Edition</b></h3>
+<img src="/images/sustainability/adults-and-seniors/as_sustainability_gmo.png">
 
-The Great Make-Over Project, a community co-solutioning initiative by NLB and supported by CapitaLand Hope Foundation, brings together everyday people to co-solution, reinvent, and reimagine spaces to promote sustainable living. 
-Over the course of six weeks, 25 individuals, from different walks of life such as homemakers, artists and entrepreneurs, were divided into five teams and explored the question – “What would Choa Chu Kang look like when our community spaces are reimagined for sustainability?”
+	
+Have you ever re:Imagined Punggol as a more sustainable, vibrant and inclusive neighbourhood? The second iteration of the Great Make-Over Project brought together 5 teams who visualized their chosen space in the Punggol Neighbourhood as a “Great Place” with sustainability in mind. They re:Imagined the Punggol Town as a more, sustainable, vibrant and inclusive neighbourhood – to transform a ‘Livable space’ to a ‘Loveable space’.
 
-<b>Check out the posters of the teams' finalized ideas:</b>
-<br><a href="https://go.gov.sg/team1sproutup/" target="_blank">Team 1 Sprout Up!</a>
-<br>
-<div class="green-text">
-Sprout Up! has re:imagined Lot One Mall Rooftop. The teams’ short-term goals include creating green space for ethical and social marketplaces to thrive. This includes organizing eco-practice interactive workshops and games, setting up vertical gardens and recycling collection points. 
-In the long term, the team envisions Level 5 of Lot One Mall to be a space where the community comes together to grow food, a more robust green infrastructure and even a nature-based playground to get the young involved in sustainability. 
-</div>
+How will the Punggol neighborhood look like if it was re:Imagined to be more sustainable, vibrant and inclusive? The second iteration of The Great Make-Over Project (GMO) brought together 5 teams to do exactly that! With sustainability in mind, GMO participants sought to visualize and transform specific places within the neighborhood into “Great Places”.  
 
-<br><a href="https://go.gov.sg/team2staysustainable/" target="_blank">Team 2 Stay Sustainable</a>
-<br>
-<div class="green-text">
-Stay Sustainable has re:imagined CCK Community Centre. The teams’ short-term goals include knowledge-sharing through workshops and digital content on topics such as upcycling and composting. Stay Sustainable would also like to set up community compost bins and self-deposit corners for clothes and books to encourage more sustainable practices among the community. 
-The teams’ long-term plans are to revitalize the CCK Community Centre with green wall features and create rooftop gardens. Additionally, the team would like to set up community establishments for dining, studying, co-working and lifestyle practices that embraces sustainability at its core. 
- </div>
- 
-<br><a href="https://go.gov.sg/team3parkkaki/" target="_blank">Team 3 Park Kaki</a>
-<br>
-<div class="green-text">
-Park Kaki has re:imagined Choa Chu Kang Park. In the short run, team Park Kaki hopes to organize various community initiatives from guided educational tours, eco wellness walks, farmers’ markets and even eco-themed storytelling and craft workshops. They also hope to mobilise the community to do park clean ups. 
-In the long run, the team envisions Cho Chu Kang Park as a place for not only appreciation, but also to serve as a sustainability landmark in Choa Chu Kang where the community can appreciate the natural and historical heritage of the park. 
-	</div>
- 
-<br><a href="https://go.gov.sg/team4sunshine/" target="_blank">Team 4 Sunshine</a>
-<br>
-<div class="green-text">
-Sunshine has re:imagined Keat Hong Community Centre. They aim to use under-utilized ground floor areas to organize events for the community such as, movie screenings, swapathons, flea markets and hold pop-up markets for small businesses. The space would also feature recycling collection points and a potential collaboration with Two of a Kind for their collection bin. A compost bin would also be set-up to not only encourage the people but F&B establishments to compost food waste. The team’s long-term initiatives include establishing a “Library of Things” – this includes a community fridge, a “single-use plastics alternatives” area and more reading areas to encourage information sharing on sustainability.
-</div>
+<b><u>About The Great Make-Over Project:</u></b>
 
-<br><a href="https://go.gov.sg/team5socialtechfarmer/" target="_blank">Team 5 Social Tech Farmer</a>
-<br>
-<div class="green-text">
-Social Tech Farmer has re:imagined an open green plot of land beside Pang Sua Park Connector . In the short-run, they envision the space to be more accessible, both for sustainable practices and for the people. This would include incorporating vermicomposting and aquaponics models, infrastructures for community gardens and ramps to increase accessibility to certain areas. Long-term plans for the space include setting up nurseries for various herbs, fruits, and plants and to encourage seedling sharing amongst the community. The space would then be transformed to conduct weekend activities such as garden fairs and educational tours.    
-</div>
+The Great Make-Over Project (GMO) is a community co-solutioning initiative which tasks participants to propose ways to transform and reinvent spaces to promote sustainable living. 
 
-<b>Share Your Feedback and Collaborate with us!</b>
-<br>You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a> 
+This project is supported by CapitaLand Hope Foundation, One Punggol CC and Pasir-Ris Punggol Town Council. 
 
+<h3><b>Their Journey</b></h3>
+<p>
+24 participants were selected from a pool of 83 applicants to be part of the second iteration of The Great Make-Over Project. These participants included a community designer, nurse, students, retirees, housewives and sustainability consultants. 
+</p><img src="/images/sustainability/adults-and-seniors/as_sustainability_gmo_1.png">
 
+<p>
+Over the course of 4 months, GMO participants underwent a curriculum of design-thinking and placemaking workshops as well as fireside side chats with industry practitioners and sustainability enthusiasts to lay the groundwork for the solutioning process.
+</p>
+<p>
+Separately, the teams also conducted preliminary research for their green solutions. From on-the-ground assessment of potential spaces for reimagination to interviewing members of the public, the teams went the extra mile to ensure that these projects would translate to green solutions for the Punggol Town community.
+</p>
+<img src="/images/sustainability/adults-and-seniors/as_sustainability_gmo_2.png">
+<p>
+On 15th April 2023, the teams presented their reimagined spaces and creative green solutions to a panel of judges comprising of representatives from the Pasir Ris-Punggol Town Council, the National Environment Agency, the National Library Board and City Sprouts. 
+</p>
+<p>
+The teams will also be sharing their ideas with the public on 6 May from 11am to 1pm at Punggol Regional Library - Entrance (Level 1). Join us to learn more about their innovative sustainability solutions and share your own feedback and ideas! For more info, click <a href="https://go.gov.sg/meet-ideators-gmo23/" target="_blank">here</a>!
+</p>
 
-<b>Check out the highlights of The Great Make-Over Project below!</b>
+<h3><b>re:Imagining Punggol</b></h3>
+<p><i>“What would Punggol look like when our community spaces are re:Imagined for sustainability?”</i> </p> 
+<p>
+  Wonder how these spaces would look like in real life? Check out the illustrations below and join the teams in their re:Imagination! 
+</p>
+<p>
+Team <a href="https://go.gov.sg/team-earthwise" target="_blank">EarthWise</a>
+</p>
+<p>
+  Team <a href="https://go.gov.sg/team-homeground" target="_blank">HomeGround</a>
+</p>
+  <p>
+    Team <a href="https://go.gov.sg/team-avoideckadence" target="_blank">aVoideckadence 108</a>
+</p>
 
- <p style="font-size:160%;"><b><u> Re:Imagine CCK Town </u></b></p>
+<p>Team <a target="_blank" href="https://go.gov.sg/team-asianpear">Asian Pear</a></p>
+<p>Team <a target="_blank" href="https://go.gov.sg/team-wow">WoW (Waste-to-Wellness)</a></p>
 
-<img src="images/sustainability/adults-and-seniors/Screenshot2.png" style="width:400px;height:300px;">
-<img src="images/sustainability/adults-and-seniors/IMG_6144.jpg" style ="width:400px;height:300px;">
-		
-Participants attended workshops that closely guided them in their design-thinking and placemaking process. Industry practitioners and sustainability enthusiasts conducted fireside chats and sharing sessions, lending the teams greater insights and knowledge to further refine their green solutions.
-
-<img src="images/sustainability/adults-and-seniors/IMG_6319.jpg" style="width:400px;height:300px;">
-<img src="images/sustainability/adults-and-seniors/Screenshot.png" style ="width:400px;height:300px;">
-
-The teams also conducted ground-up research to value-add to their projects. From locating potential spaces for reimagination to interviewing members of the public, the teams went the extra mile to ensure that these projects would translate to enticing and inclusive green solutions for the people of Choa Chu Kang. 
-
-<img src="images/sustainability/adults-and-seniors/IMG_6441.jpg" style="width:400px;height:300px;">
-<img src="images/sustainability/adults-and-seniors/IMG_6639.jpg" style ="width:400px;height:300px;">
-
-On 13th March 2022, participants presented the reimagined spaces and creative green solutions to a panel of judges consisting of representatives from the Choa Chu Kang Town Council, the National Environment Agency, and the National Library Board.
-
-<img src="images/sustainability/adults-and-seniors/DSC_1123.jpg" style="width:400px;height:300px;">
-<img src="images/sustainability/adults-and-seniors/DSC_0914.jpg" style="width:400px;height:300px;">
-
-On 23rd April 2022, the participants presented their ideas in a pop-up booth style at CCKPL. Each team was given a space in the programme zone to engage with visitors on their project ideas. CCK MP Zhulkarnain and MP Don Wee attended the session along other partners from People’s Association (PA), CCK Town Council, NEA and NParks.
-
-<img src="images/sustainability/adults-and-seniors/Jpg1.jpg" style="width:400px;height:300px;">
-<img src="images/sustainability/adults-and-seniors/jpg2.jpg" style="width:400px;height:300px;">
-
-On 30th April, the teams presented their ideas to an online audience, collected feedback and engaged in a Q&A session. These community engagement sessions not only allow the teams to share their ideas to the public, but also to rope in other like-minded individuals into their projects and network with potential partners to actualise their projects.
-
-<b>Highlights video: </b>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sLFsVjhP27I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>
+  <strong>Share Your Feedback and Collaborate with the teams!</strong>
+</p>
+You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmo23-feedback" target="_blank">here</a>! 
 
 <!-- Nodes at Parks  -->
 <h3 id="nodes-at-parks"><b>Nodes at Parks</b></h3>
