@@ -90,6 +90,26 @@ On 15th April 2023, the teams presented their reimagined spaces and creative gre
 The teams will also be sharing their ideas with the public on 6 May from 11am to 1pm at Punggol Regional Library - Entrance (Level 1). Join us to learn more about their innovative sustainability solutions and share your own feedback and ideas! For more info, click <a href="https://go.gov.sg/meet-ideators-gmo23/" target="_blank">here</a>!
 </p>
 
+<h3><b>re:Imagining Punggol</b></h3>
+<p><i>“What would Punggol look like when our community spaces are re:Imagined for sustainability?”</i> </p> 
+<p>
+  Wonder how these spaces would look like in real life? Check out the illustrations below and join the teams in their re:Imagination! 
+</p>
+<p>
+Team <a href="https://go.gov.sg/team-earthwise" target="_blank">EarthWise</a>
+</p>
+<p>
+  Team <a href="https://go.gov.sg/team-homeground" target="_blank">HomeGround</a>
+</p>
+  <p>
+    Team <a href="https://go.gov.sg/team-avoideckadence" target="_blank">aVoideckadence 108</a>
+</p>
+    <p>
+      Team <a href="https://go.gov.sg/team-asianpear" target="_blank">Asian Pear</a>
+</p>
+      <p>
+        Team <a href="https://go.gov.sg/team-wow" target="_blank">WoW (Waste-to-Wellness)</a>
+</p>
 
 <!-- Nodes at Parks  -->
 <h3 id="nodes-at-parks"><b>Nodes at Parks</b></h3>
