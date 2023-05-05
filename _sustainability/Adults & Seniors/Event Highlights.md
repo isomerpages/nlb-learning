@@ -45,7 +45,7 @@ third_nav_title: Adults & Seniors
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#the-great-make-over-project: Punggol Edition">
+      <a href="#the-great-make-over-project">
         <span>The Great Make-over Project</span>
       </a>
     </div>
