@@ -60,8 +60,9 @@ third_nav_title: Adults & Seniors
 </div>
 
 <h3 id="the-great-make-over-project"><b>The Great Make-Over Project: Punggol Edition</b></h3>
-<img src="/images/sustainability/adults-and-seniors/Digital%20Bulletin%20Board.png" style="width:300px;height:500px;">
+<img src="/images/sustainability/adults-and-seniors/as_sustainability_gmo.png">
 
+	
 Have you ever re:Imagined Punggol as a more sustainable, vibrant and inclusive neighbourhood? The second iteration of the Great Make-Over Project brought together 5 teams who visualized their chosen space in the Punggol Neighbourhood as a “Great Place” with sustainability in mind. They re:Imagined the Punggol Town as a more, sustainable, vibrant and inclusive neighbourhood – to transform a ‘Livable space’ to a ‘Loveable space’.
 
 How will the Punggol neighborhood look like if it was re:Imagined to be more sustainable, vibrant and inclusive? The second iteration of The Great Make-Over Project (GMO) brought together 5 teams to do exactly that! With sustainability in mind, GMO participants sought to visualize and transform specific places within the neighborhood into “Great Places”.  
