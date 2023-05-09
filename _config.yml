@@ -52,6 +52,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://nlb-learning-staging.netlify.app
-prod: https://nlb-learning-prod.netlify.app
+staging: https://staging.d3nz4gwa5i4qeb.amplifyapp.com/
+prod: https://master.d3nz4gwa5i4qeb.amplifyapp.com/
 is_government: true
