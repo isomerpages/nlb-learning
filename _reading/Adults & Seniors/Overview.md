@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /reading/Adults-Seniors/overview
+permalink: /reading/adults-seniors/overview/
 description: ""
 third_nav_title: Adults & Seniors
 ---

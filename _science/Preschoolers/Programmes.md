@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /science/Preschoolers/programmes
+permalink: /science/preschoolers/programmes/
 description: ""
 third_nav_title: Preschoolers
 ---

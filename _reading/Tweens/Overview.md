@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /reading/Tweens/overview
+permalink: /reading/tweens/overview/
 description: ""
 third_nav_title: Tweens
 ---

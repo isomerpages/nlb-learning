@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /science/Tweens/learning-pathways/
+permalink: /science/tweens/learning-pathways/
 description: ""
 third_nav_title: Tweens
 ---

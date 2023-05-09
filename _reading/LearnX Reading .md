@@ -1,6 +1,6 @@
 ---
 title: "LearnX Reading "
-permalink: /reading/overview
+permalink: /reading/overview/
 description: ""
 ---
 <style type="text/css">

@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /sustainability/children/overview
+permalink: /sustainability/children/overview/
 description: ""
 third_nav_title: Children
 ---

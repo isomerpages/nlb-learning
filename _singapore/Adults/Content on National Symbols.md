@@ -1,6 +1,6 @@
 ---
 title: Content on National Symbols
-permalink: /singapore/Adults/National-Symbols/
+permalink: /singapore/adults/national-symbols/
 description: ""
 third_nav_title: Adults
 ---

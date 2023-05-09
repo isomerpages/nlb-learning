@@ -1,6 +1,6 @@
 ---
 title: Content on Food Heritage
-permalink: /singapore/Adults/Food-Heritage/
+permalink: /singapore/adults/food-heritage/
 description: ""
 third_nav_title: Adults
 ---

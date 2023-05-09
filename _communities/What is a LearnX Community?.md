@@ -1,6 +1,6 @@
 ---
 title: What is a LearnX Community?
-permalink: /communities/what-is-a-LearnX-Community
+permalink: /communities/what-is-a-learnx-community/
 breadcrumb: overview
 description: ""
 ---

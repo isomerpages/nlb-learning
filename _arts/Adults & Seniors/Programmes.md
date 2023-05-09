@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /arts/Adults-Seniors/programmes/
+permalink: /arts/adults-seniors/programmes/
 description: ""
 third_nav_title: Adults & Seniors
 ---

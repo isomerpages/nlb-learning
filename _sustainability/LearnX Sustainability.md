@@ -1,6 +1,6 @@
 ---
 title: LearnX Sustainability
-permalink: /sustainability/overview
+permalink: /sustainability/overview/
 breadcrumb: overview
 description: ""
 ---

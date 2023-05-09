@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /singapore/Adults/learning-pathways/
+permalink: /singapore/adults/learning-pathways/
 description: ""
 third_nav_title: Adults
 ---

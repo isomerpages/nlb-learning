@@ -1,6 +1,6 @@
 ---
 title: LearnX Arts
-permalink: /arts/overview
+permalink: /arts/overview/
 description: ""
 ---
 <style type="text/css">

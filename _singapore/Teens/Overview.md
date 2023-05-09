@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /singapore/Teens/overview
+permalink: /singapore/teens/overview/
 description: ""
 third_nav_title: Teens
 ---

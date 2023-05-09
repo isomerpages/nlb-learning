@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /singapore/Adults/programmes/
+permalink: /singapore/adults/programmes/
 description: ""
 third_nav_title: Adults
 ---

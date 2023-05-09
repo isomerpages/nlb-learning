@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /reading/Children/content/
+permalink: /reading/children/content/
 description: ""
 third_nav_title: Children
 ---

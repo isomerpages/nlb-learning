@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /arts/Adults-Seniors/learning-pathways/
+permalink: /arts/adults-seniors/learning-pathways/
 description: ""
 third_nav_title: Adults & Seniors
 ---

@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /sustainability/teens/overview
+permalink: /sustainability/teens/overview/
 description: ""
 third_nav_title: Teens
 ---

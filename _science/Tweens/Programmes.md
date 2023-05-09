@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /science/Tweens/programmes
+permalink: /science/tweens/programmes/
 description: ""
 third_nav_title: Tweens
 ---

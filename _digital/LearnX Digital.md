@@ -1,6 +1,6 @@
 ---
 title: LearnX Digital
-permalink: /digital/overview
+permalink: /digital/overview/
 breadcrumb: overview
 description: ""
 ---

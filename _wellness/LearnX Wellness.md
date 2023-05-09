@@ -1,6 +1,6 @@
 ---
 title: LearnX Wellness
-permalink: /wellness/overview
+permalink: /wellness/overview/
 description: ""
 ---
 <style type="text/css">

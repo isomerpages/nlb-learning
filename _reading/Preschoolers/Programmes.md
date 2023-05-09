@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /reading/Preschoolers/programmes/
+permalink: /reading/preschoolers/programmes/
 description: ""
 third_nav_title: Preschoolers
 ---

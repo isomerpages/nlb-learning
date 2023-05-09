@@ -1,5 +1,5 @@
 ---
 title: Terms of Use
-permalink: /terms-of-use
+permalink: /terms-of-use/
 description: ""
 ---
