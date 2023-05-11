@@ -65,7 +65,6 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </a>	
 </div>
 </div>
-
 </div>
 
 <h3><b>Playlist</b></h3>
@@ -121,6 +120,11 @@ This short documentary on Teochew culture was commissioned for Ngee Ann Kongsi. 
 </div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="malay-culture-and-customs" class="margin--bottom--lg"><b>Playlist: Malay Customs and Culture</b></h5>
+
+
+
 
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-chinese-customs-culture" class="margin--bottom--lg"><b> Chinese Customs and Culture</b></h5>
