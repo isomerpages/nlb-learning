@@ -271,6 +271,15 @@ Wong, Lynn Yuqing and Lee Kok Leong. (2022). <i>Reviving Qixi: Singapore’s for
 </tr></tbody></table>
 Check out this set of articles and books to gain a better understanding of Malay culture and customs in Singapore.
 
+<h4>Articles</h4>
+
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html"> Orang Laut by Mazelan Anuar </a></h5>
+<p> The Orang Laut were nomadic sea gypsies who occupied the maritime zone surrounding the Strait of Melaka. As skilled mariners, they used to play an important role in Malay political history.</p>
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html"> Orang Laut </a>(2020)<i>Singapore Infopedia.</i> Retrieved 2023, May 11.
+
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_73_2005-01-25.html">Malay Muslim Marriages by Jaime Koh &amp; Stephanie Ho</a></h5>
+<p> This article describes the stages involved in the festive, grand and celebratory Malay wedding, including the dos and don'ts.</p>
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_73_2005-01-25.html"> Malay Muslim Marriages </a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, May 11.
 
 
 
