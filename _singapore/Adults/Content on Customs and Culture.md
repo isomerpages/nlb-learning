@@ -281,6 +281,27 @@ Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/article
 <p> This article describes the stages involved in the festive, grand and celebratory Malay wedding, including the dos and don'ts.</p>
 Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_73_2005-01-25.html"> Malay Muslim Marriages </a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, May 11.
 
+<h4>Books</h4>
 
+<h5> Malay culture: customs and beliefs</h5>
+Education Department, Ministry of Defence. (Comp.). (1993).<i> Malay culture: customs and beliefs. </i> Singapore: Education Department, Ministry of Defence. (Call No.: RCLOS 305.89928 MAL-[LYF])
+<br>
+<img src="/images/Singapore%20Customs%20and%20Culture/lyfcustoms.png" style="width:200px;">
+<p>With the aim of promoting the learning of the Malay language, the Education Department compiled this handy reference with some insight into the Malay cultural background.</p>
+
+<h5> Gateway to Malay culture</h5>
+Asiapac Editorial. (2003). <i>Gateway to Malay culture </i> Singapore: Asiapac. (Call no.: RSING 305.89928 GAT)
+<br>
+
+<img src="/images/Singapore%20Customs%20and%20Culture/gateway.png" style="width:200px;">
+<p>Enjoying its 5th reprint in 2010, this book introduces the readers an overall look at the various aspects of the Malay culture. It covers topics such as their lifestyle, religious and cultural activities.</p>
+
+<h5> The Singapore ethnic mosaic: many cultures, one people
+</h5>
+Mathew Mathews. (Ed.). (2017)..<i> The Singapore ethnic mosaic: many cultures, one people. </i>Singapore: World Scientific. (Call no.: RSING 305.80095957 SIN)
+<br>
+
+<img src="/images/Singapore%20Customs%20and%20Culture/mosaic.png" style="width:200px;">
+<p>Chapter 4 by Suriani Suratman and Siti Hajar Esa titled Malay Community and Culture in Singapore, introduces the Malay customs and traditions. The chapter also mentions Javanese culture, Baweanese culture and traditions, Minangkabau culture and traditions, Bugis culture and Arab culture.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
