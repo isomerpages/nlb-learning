@@ -123,8 +123,61 @@ This short documentary on Teochew culture was commissioned for Ngee Ann Kongsi. 
 
 <h5 id="malay-culture-and-customs" class="margin--bottom--lg"><b>Playlist: Malay Customs and Culture</b></h5>
 
+Malays are the original settlers and the second largest ethnic group in Singapore. The Malays and their ancestors mostly arrived from peninsular Malaya, and from various parts of the Indonesian archipelago.
 
+Majority of Malays are Muslims and they celebrate key festivals like Hari Raya Puasa and Hari Raya Haji.
 
+Check out the videos below to learn more about various aspects of Singapore’s Malay culture and customs.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Y1bkV5Xd57U"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Malay weddings | by Singapore International Foundation (4 mins)
+</b><br>
+Introduces the customs and traditions of Malay weddings in Singapore.
+<br><br>
+<small> Source: Malay weddings (2010, August 10). Malay weddings by Singapore International Foundation. Retrieved 2023, May 11.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/0T3UgO7tmqA"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Let's Learn About Ramadan and Hari Raya Puasa! | Malay Heritage Centre (21 mins)
+</b><br>
+Join the Malay dance group ATTRIANS Singapore in this video to learn more about the festival, traditional Malay outfits, common festival dishes and songs.
+<br><br>
+<small> Source: Let's Learn About Ramadan and Hari Raya Puasa! (2020, April 29). Malay Heritage Centre. Retrieved 2023, May 11.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/WTdB_XcjOpI"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> 5 Different Style of Wearing the Samping | Malay Heritage Centre (4 mins)
+</b><br>
+A demonstration of the different ways of wearing samping, a traditional Malay costume that is like a short sarong worn after wearing Baju Kurung or Baju Melayu and covers from waist to the knees only. 
+<br><br>
+<small> Source: 5 Different Style of Wearing the Samping (2020, June 29).  Malay Heritage Centre. Retrieved 2023, May 11.</small></p>
+</div>
+</div>
+	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-chinese-customs-culture" class="margin--bottom--lg"><b> Chinese Customs and Culture</b></h5>
