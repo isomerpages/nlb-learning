@@ -65,6 +65,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </a>	
 </div>
 </div>
+
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-malay-customs-culture">
+<span>Learning Package:<br>Malay Customs and Culture</span>
+</a>	
+</div>
+</div>
 </div>
 
 <h3><b>Playlist</b></h3>
