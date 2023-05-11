@@ -253,3 +253,25 @@ Wong, Lynn Yuqing and Lee Kok Leong. (2022). <i>Reviving Qixi: Singapore’s for
 <p>The Qixi Festival, also known as the Cowherd and Weaving Maid Festival, was an important traditional Chinese festival for girls and women in Singapore. This book explores the origins of the festival, how it was introduced and practiced in Singapore, its eventual disappearance, and efforts to revive it today.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b>Learning Package</b></h3>
+<h5 id="lp-malay-culture-and-customs" class="margin--bottom--lg"><b> Malay Culture and Customs</b></h5>
+
+<p> Malay Singaporeans are the second largest ethnic group in this multi-ethnic country. The Malays and their ancestors largely arrived from peninsular Malaya, and from various parts of the Indonesian archipelago.</p>
+<b></b>
+<p> The diversity within the Malay community enriches Singapore's heritage and culture. The cultures, traditions and practices that have passed down from generation to generation, have evolved with time to remain relevant and meaningful..</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Orang Laut (Malay for "sea people" or "people of the sea") used to play an important role in Malay political history. Over time, they were assimilated into the Malay culture, converted to Islam and became ethnically identified as Malay. </li>
+</ul>
+</td>
+</tr></tbody></table>
+Check out this set of articles and books to gain a better understanding of Malay culture and customs in Singapore.
+
+
+
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
