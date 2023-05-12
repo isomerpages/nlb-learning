@@ -10,26 +10,26 @@ sections:
       title: Welcome to LearnX
       background: /images/home/masthead-icons-1366x507-1.gif
   - infobar:
-      description: "A platform where you can choose what, when and how you learn.
+      description: A platform where you can choose what, when and how you learn.
         Customise your learning journey with resources across a wide range of
-        topics. "
+        topics.
   - infopic:
-      description: "Keep up with changing digital trends and technology through
-        easy-to-understand and accessible content. "
+      description: Keep up with changing digital trends and technology through
+        easy-to-understand and accessible content.
       button: Start Learning
       url: /digital/overview
       image: /images/home/home-digital-kv.png
       alt: LearnX Digital
   - infopic:
-      description: "Perfect for professionals, small businesses and entrepreneurs
-        looking to take the next step. "
+      description: Perfect for professionals, small businesses and entrepreneurs
+        looking to take the next step.
       button: Start Learning
       url: /careers/overview
       image: /images/home/home-careers-kv.png
       alt: LearnX Careers
   - infopic:
       description: If you’ve been toying with the idea of living sustainably but don’t
-        know where to start, you’ve come to the right place. 
+        know where to start, you’ve come to the right place.
       button: Start Learning
       url: /sustainability/overview
       image: /images/home/home-sustainability-kv.png
@@ -63,8 +63,8 @@ sections:
       image: /images/wellness/home-wellness.png
       alt: wellness-home
   - infopic:
-      description: "Boost creativity and appreciation of the arts, and train your eye
-        to recognise the art around us in our daily lives. "
+      description: Boost creativity and appreciation of the arts, and train your eye
+        to recognise the art around us in our daily lives.
       button: Start Learning
       url: /arts/overview
       image: /images/home/home-arts-kv.png
