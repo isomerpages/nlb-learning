@@ -1,7 +1,6 @@
 title: LEARNX
-url: ""
+url: https://learning.nlb.gov.sg
 favicon: /images/learnXfavicon.png
-# Analytics
 google_analytics: UA-50449401-41
 colors:
   primary-color: "#322987"
@@ -55,3 +54,7 @@ plugins:
 staging: https://staging.d3nz4gwa5i4qeb.amplifyapp.com/
 prod: https://master.d3nz4gwa5i4qeb.amplifyapp.com/
 is_government: true
+shareicon: /images/isomer-logo.svg
+facebook-pixel: ""
+google_analytics_ga4: G-XLWNEK2W36
+linkedin-insights: ""
