@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /science/Preschoolers/content/
+permalink: /science/preschoolers/content/
 description: ""
 third_nav_title: Preschoolers
 ---

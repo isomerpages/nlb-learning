@@ -1,6 +1,6 @@
 ---
 title: Content on Iconic Entertainment Places
-permalink: /singapore/Adults/Iconic-Entertainment-Places/
+permalink: /singapore/adults/iconic-entertainment-places/
 description: ""
 third_nav_title: Adults
 ---

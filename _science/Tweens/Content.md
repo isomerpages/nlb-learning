@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /science/Tweens/content
+permalink: /science/tweens/content/
 description: ""
 third_nav_title: Tweens
 ---

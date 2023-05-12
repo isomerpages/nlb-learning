@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /reading/Adults-Seniors/programmes/
+permalink: /reading/adults-seniors/programmes/
 description: ""
 third_nav_title: Adults & Seniors
 ---

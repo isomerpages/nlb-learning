@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /science/Children/overview
+permalink: /science/children/overview/
 description: ""
 third_nav_title: Children
 ---

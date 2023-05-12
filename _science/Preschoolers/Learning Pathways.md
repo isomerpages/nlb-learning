@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /science/Preschoolers/learning-pathways/
+permalink: /science/preschoolers/learning-pathways/
 description: ""
 third_nav_title: Preschoolers
 ---

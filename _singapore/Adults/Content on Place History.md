@@ -1,6 +1,6 @@
 ---
 title: Content on Place History
-permalink: /singapore/Adults/content-place-history
+permalink: /singapore/adults/content-place-history/
 description: ""
 third_nav_title: Adults
 ---

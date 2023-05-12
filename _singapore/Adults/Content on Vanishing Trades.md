@@ -1,6 +1,6 @@
 ---
 title: Content on Vanishing Trades
-permalink: /singapore/Adults/Vanishing-Trades/
+permalink: /singapore/adults/vanishing-trades/
 description: ""
 third_nav_title: Adults
 ---

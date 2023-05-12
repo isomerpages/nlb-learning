@@ -1,6 +1,6 @@
 ---
 title: Learning Pathways
-permalink: /singapore/Teens/learning-pathways
+permalink: /singapore/teens/learning-pathways/
 description: ""
 third_nav_title: Teens
 ---

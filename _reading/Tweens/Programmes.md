@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /reading/Tweens/programmes
+permalink: /reading/tweens/programmes/
 description: ""
 third_nav_title: Tweens
 ---

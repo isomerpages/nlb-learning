@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /sustainability/children/programmes
+permalink: /sustainability/children/programmes/
 description: ""
 third_nav_title: Children
 ---

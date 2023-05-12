@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /reading/Children/programmes
+permalink: /reading/children/programmes/
 description: ""
 third_nav_title: Children
 ---

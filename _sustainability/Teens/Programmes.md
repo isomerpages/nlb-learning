@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /sustainability/teens/programmes
+permalink: /sustainability/teens/programmes/
 description: ""
 third_nav_title: Teens
 ---

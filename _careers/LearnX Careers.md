@@ -1,6 +1,6 @@
 ---
 title: LearnX Careers
-permalink: /careers/overview
+permalink: /careers/overview/
 breadcrumb: overview
 description: ""
 ---

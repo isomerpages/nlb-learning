@@ -1,6 +1,6 @@
 ---
 title: LearnX Science
-permalink: /science/overview
+permalink: /science/overview/
 description: ""
 ---
 <style type="text/css">

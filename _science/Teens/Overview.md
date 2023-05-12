@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /science/Teens/overview
+permalink: /science/teens/overview/
 description: ""
 third_nav_title: Teens
 ---

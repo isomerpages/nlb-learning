@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /careers/teens/programmes
+permalink: /careers/teens/programmes/
 description: ""
 third_nav_title: Teens
 ---

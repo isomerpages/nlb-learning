@@ -49,6 +49,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
+	
+<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#malay-culture-and-customs">
+        <span>Playlist: Malay Customs and Culture</span>
+      </a>
+    </div>
+  </div>
 
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
@@ -58,6 +66,13 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 </div>
 
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-malay-customs-culture">
+<span>Learning Package:<br>Malay Customs and Culture</span>
+</a>	
+</div>
+</div>
 </div>
 
 <h3><b>Playlist</b></h3>
@@ -112,6 +127,64 @@ This short documentary on Teochew culture was commissioned for Ngee Ann Kongsi. 
 </div>
 </div>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="malay-culture-and-customs" class="margin--bottom--lg"><b>Playlist: Malay Customs and Culture</b></h5>
+
+Malays are the original settlers and the second largest ethnic group in Singapore. The Malays and their ancestors mostly arrived from peninsular Malaya, and from various parts of the Indonesian archipelago.
+
+Majority of Malays are Muslims and they celebrate key festivals like Hari Raya Puasa and Hari Raya Haji.
+
+Check out the videos below to learn more about various aspects of Singapore’s Malay culture and customs.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/Y1bkV5Xd57U"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Malay weddings | by Singapore International Foundation (4 mins)
+</b><br>
+Introduces the customs and traditions of Malay weddings in Singapore.
+<br><br>
+<small> Source: Malay weddings (2010, August 10). Malay weddings by Singapore International Foundation. Retrieved 2023, May 11.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/0T3UgO7tmqA"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Let's Learn About Ramadan and Hari Raya Puasa! | Malay Heritage Centre (21 mins)
+</b><br>
+Join the Malay dance group ATTRIANS Singapore in this video to learn more about the festival, traditional Malay outfits, common festival dishes and songs.
+<br><br>
+<small> Source: Let's Learn About Ramadan and Hari Raya Puasa! (2020, April 29). Malay Heritage Centre. Retrieved 2023, May 11.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/WTdB_XcjOpI"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> 5 Different Style of Wearing the Samping | Malay Heritage Centre (4 mins)
+</b><br>
+A demonstration of the different ways of wearing samping, a traditional Malay costume that is like a short sarong worn after wearing Baju Kurung or Baju Melayu and covers from waist to the knees only. 
+<br><br>
+<small> Source: 5 Different Style of Wearing the Samping (2020, June 29).  Malay Heritage Centre. Retrieved 2023, May 11.</small></p>
+</div>
+</div>
+	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
@@ -178,5 +251,57 @@ Wong, Lynn Yuqing and Lee Kok Leong. (2022). <i>Reviving Qixi: Singapore’s for
 
 <img src="/images/Singapore%20Customs%20and%20Culture/qixifest.png" style="width:200px;">
 <p>The Qixi Festival, also known as the Cowherd and Weaving Maid Festival, was an important traditional Chinese festival for girls and women in Singapore. This book explores the origins of the festival, how it was introduced and practiced in Singapore, its eventual disappearance, and efforts to revive it today.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b>Learning Package</b></h3>
+<h5 id="lp-malay-culture-and-customs" class="margin--bottom--lg"><b> Malay Culture and Customs</b></h5>
+
+<p> Malay Singaporeans are the second largest ethnic group in this multi-ethnic country. The Malays and their ancestors largely arrived from peninsular Malaya, and from various parts of the Indonesian archipelago.</p>
+<b></b>
+<p> The diversity within the Malay community enriches Singapore's heritage and culture. The cultures, traditions and practices that have passed down from generation to generation, have evolved with time to remain relevant and meaningful..</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Orang Laut (Malay for "sea people" or "people of the sea") used to play an important role in Malay political history. Over time, they were assimilated into the Malay culture, converted to Islam and became ethnically identified as Malay. </li>
+</ul>
+</td>
+</tr></tbody></table>
+Check out this set of articles and books to gain a better understanding of Malay culture and customs in Singapore.
+
+<h4>Articles</h4>
+
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html"> Orang Laut by Mazelan Anuar </a></h5>
+<p> The Orang Laut were nomadic sea gypsies who occupied the maritime zone surrounding the Strait of Melaka. As skilled mariners, they used to play an important role in Malay political history.</p>
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html"> Orang Laut </a>(2020)<i>Singapore Infopedia.</i> Retrieved 2023, May 11.
+
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_73_2005-01-25.html">Malay Muslim Marriages by Jaime Koh &amp; Stephanie Ho</a></h5>
+<p> This article describes the stages involved in the festive, grand and celebratory Malay wedding, including the dos and don'ts.</p>
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_73_2005-01-25.html"> Malay Muslim Marriages </a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, May 11.
+
+<h4>Books</h4>
+
+<h5> Malay culture: customs and beliefs</h5>
+Education Department, Ministry of Defence. (Comp.). (1993).<i> Malay culture: customs and beliefs. </i> Singapore: Education Department, Ministry of Defence. (Call No.: RCLOS 305.89928 MAL-[LYF])
+<br>
+<img src="/images/Singapore%20Customs%20and%20Culture/lyfcustoms.png" style="width:200px;">
+<p>With the aim of promoting the learning of the Malay language, the Education Department compiled this handy reference with some insight into the Malay cultural background.</p>
+
+<h5> Gateway to Malay culture</h5>
+Asiapac Editorial. (2003). <i>Gateway to Malay culture </i> Singapore: Asiapac. (Call no.: RSING 305.89928 GAT)
+<br>
+
+<img src="/images/Singapore%20Customs%20and%20Culture/gateway.png" style="width:200px;">
+<p>Enjoying its 5th reprint in 2010, this book introduces the readers an overall look at the various aspects of the Malay culture. It covers topics such as their lifestyle, religious and cultural activities.</p>
+
+<h5> The Singapore ethnic mosaic: many cultures, one people
+</h5>
+Mathew Mathews. (Ed.). (2017)..<i> The Singapore ethnic mosaic: many cultures, one people. </i>Singapore: World Scientific. (Call no.: RSING 305.80095957 SIN)
+<br>
+
+<img src="/images/Singapore%20Customs%20and%20Culture/mosaic.png" style="width:200px;">
+<p>Chapter 4 by Suriani Suratman and Siti Hajar Esa titled Malay Community and Culture in Singapore, introduces the Malay customs and traditions. The chapter also mentions Javanese culture, Baweanese culture and traditions, Minangkabau culture and traditions, Bugis culture and Arab culture.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

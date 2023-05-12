@@ -1,6 +1,6 @@
 ---
 title: Programmes
-permalink: /science/Children/programme/
+permalink: /science/children/programme/
 description: ""
 third_nav_title: Children
 ---

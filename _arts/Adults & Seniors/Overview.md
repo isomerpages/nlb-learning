@@ -1,8 +1,8 @@
 ---
 title: Overview
-permalink: /arts/Adults-Seniors/overview
+permalink: /arts/adults-seniors/overview/
 description: ""
-third_nav_title: Adults & Seniors
+third_nav_title: Adults &amp; Seniors
 ---
 <style type="text/css">
 /* Links */
@@ -43,21 +43,21 @@ Whether you're seeking to just dip your toes in or to fully immerse yourself in 
 <div class="row is-multiline">
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="/arts/Adults-Seniors/content">
+      <a href="/arts/adults-seniors/content">
         <span>Content</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="/arts/Adults-Seniors/programmes">
+      <a href="/arts/adults-seniors/programmes">
         <span>Programmes</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-pink-ruby">
-      <a href="/arts/Adults-Seniors/learning-pathways">
+      <a href="/arts/adults-seniors/learning-pathways">
         <span>Learning<br>Pathways</span>
       </a>
     </div>

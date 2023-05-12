@@ -1,6 +1,6 @@
 ---
 title: Content
-permalink: /science/Teens/content/
+permalink: /science/teens/content/
 description: ""
 third_nav_title: Teens
 ---
