@@ -50,7 +50,7 @@ third_nav_title: Adults & Seniors
 
 <p>Ever wondered how your daily purchasing decisions impact the environment? Don’t miss this opportunity to browse our “supermarket” aisles and learn about 8 different topics on Sustainability. The items on display showcase interesting products that are conceptual ideas or existing products by green entrepreneurs. Learn about topics such as single-use plastics, composting, sustainable food production and more. </p> 
 
-<p>The <a href="https://sure.nlb.gov.sg/" target="_blank">Read to be Sure</a>  component of the Sustainability Showcase provides multiple perspectives to sustainability issues so you can see the big picture.  
+<p>The <a href="https://sure.nlb.gov.sg/nodes-at-parks/overview/#1" target="_blank">Read to be Sure</a>  component of the Sustainability Showcase provides multiple perspectives to sustainability issues so you can see the big picture.  
 </p>
 <p>Don’t miss this final chance to catch The Sustainable Showcase at The Centrepoint shopping centre, Level 1 atrium (beside Watsons) from 19 May till 2 July 2023.</p>
 
