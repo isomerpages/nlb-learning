@@ -259,7 +259,7 @@ Wong, Lynn Yuqing and Lee Kok Leong. (2022). <i>Reviving Qixi: Singapore’s for
 
 <p> Malay Singaporeans are the second largest ethnic group in this multi-ethnic country. The Malays and their ancestors largely arrived from peninsular Malaya, and from various parts of the Indonesian archipelago.</p>
 <b></b>
-<p> The diversity within the Malay community enriches Singapore's heritage and culture. The cultures, traditions and practices that have passed down from generation to generation, have evolved with time to remain relevant and meaningful..</p>
+<p> The diversity within the Malay community enriches Singapore's heritage and culture. The cultures, traditions and practices that have passed down from generation to generation, have evolved with time to remain relevant and meaningful.</p>
 <table border="1">
 	<tbody><tr>
 		<td>
