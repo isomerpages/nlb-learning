@@ -26,7 +26,7 @@ third_nav_title: Adults & Seniors
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-We start with a healthy digital lifestyle for all, and for seniors, <a href="#effectively-use-smartphones ">Master The Use Of Smartphones</a>.
+We start with a healthy digital lifestyle for all, and for seniors, <a href="#effectively-use-smartphones">Master The Use Of Smartphones</a>.
 
 <h3><b>Explore the latest innovation and emerging tech trends</b></h3>
 The story of technology is the history of people solving problems, overcoming adversity through ingenuity and elegant solutions. Join us as we unpack and demystify some of the latest technology trends and learn how a human-centric design towards innovation can help to improve our work and lifestyle.
@@ -55,43 +55,6 @@ The story of technology is the history of people solving problems, overcoming ad
   </table>
 </div>
 
-<div class="horizontal-scroll margin--bottom--lg">
-  <table class="generic-table">
-    <thead>
-      <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal">Explore with Industry Speakers and Trainers</th>
-      </tr>
-    </thead>
-    <tbody>
-			<tr>
-<td><a href="https://www.eventbrite.sg/e/designing-a-better-remote-work-experience-future-of-work-tickets-514613000337?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>  
-Designing a Better Remote Work Experience</a></td>
-        <td>Is your team working remote? Having trouble engaging the team? Learn how UX designers use design thinking to solve the problem!</td>
-        <td>13 February 2023 - 12 March 2023</td>
-        <td>Tampines Regional Library</td>
-      </tr>
-			<tr>	<td><a href=https://www.eventbrite.sg/e/cybersecurity-from-scratch-future-of-work-tickets-484247185367?aff=odcleoeventsincollection"  target="_blank"><b>[Future of Work]</b><br>Cybersecurity from Scratch</a></td>
-        <td>This talk covers the latest cybersecurity trends and the importance of cybersecurity.
-</td>
-        <td> 16 February 2023<br>6:30pm-8:30pm</td>
-        <td>Zoom</td>
-      </tr>
-<tr>
-	<td><a href="https://www.eventbrite.sg/e/getting-started-with-data-analytics-with-python-future-of-work-tickets-484248098097?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Getting Started with Data Analytics with Python
-</a></td>
-        <td>Learn the fundamental of data analysis and various data analytics processes with Python implementation.</td>
-        <td>21 February 2023<br>6:30pm-8:30pm</td>
-        <td>Zoom</td>
-      </tr>	
-<tr>
-<td><a href="https://www.eventbrite.sg/e/exploring-ai-and-machine-learning-future-of-work-tickets-484249281637?aff=odcleoeventsincollection" target="_blank"><b>[Future of Work]</b><br>Exploring AI and Machine Learning</a></td>
-        <td>Learn about machine learning and its applications.</td>
-        <td>28 February 2023, 6:30pm-8:30pm</td>
-        <td>Zoom</td>
-      </tr>			
-			    </tbody>
-  </table>
-</div>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">
