@@ -26,5 +26,5 @@ third_nav_title: Adults & Seniors
 </style>
 Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
 
-Our new learning pathway are being configured right now! Come back to this space soon for brand new learning pathways to kickstart your career and business journeys.
+Our new learning pathway are being configured right now! Come back to this space soon for brand new learning pathways to kickstart your career and business journeys!
 
