@@ -56,7 +56,7 @@ Hit your career goals with our wide range of resources. Increase employability b
   <div class="col is-one-half">
     <div class="clickbox is-pink-ruby">
       <a href="/careers/adults-seniors/overview">
-        <span>Adults & Seniors</span>
+        <span>Adults &amp; Seniors</span>
       </a>
     </div>
   </div>
