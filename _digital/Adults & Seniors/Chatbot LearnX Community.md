@@ -67,7 +67,8 @@ third_nav_title: Adults & Seniors
 
 <h3 id="Chatbot-LearnX-Community"><b> Chatbot for Non-Programmers Bootcamp (#SupportLocal) Showcase </b></h3>
 
-<img style="width:640px;height:360px;" src="/images/digital/adults-and-seniors/Chatbot.png">
+
+![](/images/chatbot.png)
 
 The Chatbot LearnX Community is a learning group facilitated by AI4IMPACT. In this community, like-minded learners develop skills in creating chatbots that are fun and useful in our daily lives! For age 15 and above. No programming experience needed!
 
@@ -77,75 +78,59 @@ Interested to take part in the next bootcamp? Express interest here and we will 
 
 <br>
 
-<b> Check out the top chatbots here! </b>
+<h4> Check out the top chatbots here! </h4>
 
-<br>
 
 <a target="\_blank" href="https://app.smojo.org/pmenon/snackbot"> Champion: Snackbot </a>
 
-<br>
-
 Meet Snackbot, your guide to Confetti Snacks' veggie chips. Learn about their tasty products and get fun, personalised snack recommendations from this crunch connoisseur chatbot!
 
-<br>
 
 Group members: Prakash, Ruth, Emma, Ryan, Jasmine, Sachreet
-
-<img style="width:397px;height:562px;" src="/images/digital/adults-and-seniors/chatbot1.png">
-
 <br>
+
+
+![](/images/chatbot1.png)
+
 
 <a target="\_blank" href="https://app.smojo.org/timpanister/karla"> First runner-up: Karla </a>
 
-<br>
-
 Introducing Karla, your go-to companion for sustainability, health, and wellness. Discover sustainable living tips, and access curated wellness programmes by Urban Origins with Karla's help.
-
-<br>
 
 Group members: Yoke May, Jenny, David, Pei Fang, Christina
 
-<img style="width:397px;height:562px;" src="/images/digital/adults-and-seniors/chatbot2.png">
+![](/images/chatbot2.png)
 
 <br>
 
 <a target="\_blank" href="https://app.smojo.org/ayumiko/fortunebot"> Second runner-up: Fortunebot </a>
 
-<br>
 
 Powered by ChatGPT and keyword-matching, Fortunebot provides a fun take on Chinese prophecy and divination philosophy.
 
-<br>
 
 Group members: Ayumi, Lawrence, Dee, May
 
-<img style="width:397px;height:562px;" src="/images/digital/adults-and-seniors/chatbot3.png">
+![](/images/chatbot3.png)
 
 <br>
-
 <a target="\_blank" href="https://app.smojo.org/teejx88/FLEX"> Special mention: F.L.E.X </a>
-
-<br>
 
 Introducing F.L.E.X. (Fulfilment Led Engagement &amp; Xploration) your guide to discover, select, and explore a range of programmes by Urban Origins to benefit both yourself and the planet.
 
-<br>
 
 Group members: Jia Xin
-
-<img style="width:397px;height:562px;" src="/images/digital/adults-and-seniors/chatbot4.png">
-
 <br>
+
+![](/images/chatbot4.png)
+
 
 <b> Other finalists </b>
 
 <a target="\_blank" href="https://app.smojo.org/robot1977/ConfettiSnack"> ChippyBot </a>
 
-<br>
 
 Say hello to Chippybot, the snack-sational chatbot that's here to educate, entertain, and tantalize your taste buds with Confetti Snacks' products!
-
-<br>
 
 Group members: Arti, Julong, Raina
 
@@ -153,27 +138,19 @@ Group members: Arti, Julong, Raina
 
 <a target="\_blank" href="https://app.smojo.org/chiewcj/funguy"> Fun Guy </a>
 
-<br>
 
 Fun Guy will guide you on a delicious journey through the world of Confetti Snacks.
-
-<br>
 
 Group members: Chun Jia, Ke Xuan
 
 <br>
 
-<a target="\_blank" href="https://app.smojo.org/richardangac/memotics"> Memotics
-
-Chatbot
+<a target="\_blank" href="https://app.smojo.org/richardangac/memotics"> Memotics Chatbot
 
 </a>
 
-<br>
-
 Learn about memotics through this chatbot!
 
-<br>
 
 Group members: Richard
 
@@ -183,18 +160,16 @@ Group members: Richard
 
 </a>
 
-<br>
 
 Your trusty sidekick on a mission to boost staff morale the sustainable way!
 
-<br>
 
 Group members: Denys, TK, Eugene, Christina, Terri, Benjamin
 
 <br>
 
-<b>Curious about the previous bootcamp?</b>
+<h4>Curious about the previous bootcamp?</h4>
 
-<br>
+
 
 Catch up on the previous bootcamp <a target="\_blank" href="https://www.youtube.com/watch?v=Ck0ejurW51o">HERE!</a>
