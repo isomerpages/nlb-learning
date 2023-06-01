@@ -90,7 +90,7 @@ Group members: Prakash, Ruth, Emma, Ryan, Jasmine, Sachreet
 <br>
 
 
-![](/images/chatbot1.png)
+<img style="width:200px;" src="/images/chatbot1.png">
 
 
 <a target="\_blank" href="https://app.smojo.org/timpanister/karla"> First runner-up: Karla </a>
@@ -99,7 +99,8 @@ Introducing Karla, your go-to companion for sustainability, health, and wellness
 
 Group members: Yoke May, Jenny, David, Pei Fang, Christina
 
-![](/images/chatbot2.png)
+
+<img style="width:200px;" src="/images/chatbot2.png">
 
 <br>
 
@@ -111,7 +112,7 @@ Powered by ChatGPT and keyword-matching, Fortunebot provides a fun take on Chine
 
 Group members: Ayumi, Lawrence, Dee, May
 
-![](/images/chatbot3.png)
+<img style="width:200px;" src="/images/chatbot3.png">
 
 <br>
 <a target="\_blank" href="https://app.smojo.org/teejx88/FLEX"> Special mention: F.L.E.X </a>
@@ -122,7 +123,7 @@ Introducing F.L.E.X. (Fulfilment Led Engagement &amp; Xploration) your guide to 
 Group members: Jia Xin
 <br>
 
-![](/images/chatbot4.png)
+<img style="width:200px;" src="/images/chatbot4.png">
 
 
 <b> Other finalists </b>
