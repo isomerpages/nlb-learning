@@ -93,7 +93,7 @@ Group members: Prakash, Ruth, Emma, Ryan, Jasmine, Sachreet
 <a href="https://app.smojo.org/pmenon/snackbot"> <img style="width:200px;" src="/images/chatbot1.png"> </a>
 
 
-<h4> <a target="\_blank" href="https://app.smojo.org/timpanister/karla"> </a><h4><a target="\_blank" href="https://app.smojo.org/timpanister/karla"> First runner-up: Karla </a> </h4>
+<h4> <a target="\_blank" href="https://app.smojo.org/timpanister/karla"> </a></h4><h4><a target="\_blank" href="https://app.smojo.org/timpanister/karla"> First runner-up: Karla </a> </h4>
 
 Introducing Karla, your go-to companion for sustainability, health, and wellness. Discover sustainable living tips, and access curated wellness programmes by Urban Origins with Karla's help.
 
@@ -104,7 +104,7 @@ Group members: Yoke May, Jenny, David, Pei Fang, Christina
 
 <br>
 
-</h4><h4> <a target="\_blank" href="https://app.smojo.org/ayumiko/fortunebot"> Second runner-up: Fortunebot </a> </h4>
+<h4> <a target="\_blank" href="https://app.smojo.org/ayumiko/fortunebot"> Second runner-up: Fortunebot </a> </h4>
 
 
 Powered by ChatGPT and keyword-matching, Fortunebot provides a fun take on Chinese prophecy and divination philosophy.
