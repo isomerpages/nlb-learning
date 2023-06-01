@@ -81,7 +81,7 @@ Interested to take part in the next bootcamp? Express interest here and we will 
 <h4> Check out the top chatbots here! </h4>
 
 
-<a target="\_blank" href="https://app.smojo.org/pmenon/snackbot"> <h4> Champion: Snackbot </h4> </a>
+<h4> <a target="\_blank" href="https://app.smojo.org/pmenon/snackbot"> Champion: Snackbot </a> </h4> 
 
 Meet Snackbot, your guide to Confetti Snacks' veggie chips. Learn about their tasty products and get fun, personalised snack recommendations from this crunch connoisseur chatbot!
 
@@ -93,7 +93,7 @@ Group members: Prakash, Ruth, Emma, Ryan, Jasmine, Sachreet
 <a href="https://app.smojo.org/pmenon/snackbot"> <img style="width:200px;" src="/images/chatbot1.png"> </a>
 
 
-<a target="\_blank" href="https://app.smojo.org/timpanister/karla"> <h4> First runner-up: Karla </h4> </a>
+<h4> <a target="\_blank" href="https://app.smojo.org/timpanister/karla"> </a><h4><a target="\_blank" href="https://app.smojo.org/timpanister/karla"> First runner-up: Karla </a> </h4>
 
 Introducing Karla, your go-to companion for sustainability, health, and wellness. Discover sustainable living tips, and access curated wellness programmes by Urban Origins with Karla's help.
 
@@ -104,7 +104,7 @@ Group members: Yoke May, Jenny, David, Pei Fang, Christina
 
 <br>
 
-<a target="\_blank" href="https://app.smojo.org/ayumiko/fortunebot"> <h4> Second runner-up: Fortunebot </h4> </a>
+</h4><h4> <a target="\_blank" href="https://app.smojo.org/ayumiko/fortunebot"> Second runner-up: Fortunebot </a> </h4>
 
 
 Powered by ChatGPT and keyword-matching, Fortunebot provides a fun take on Chinese prophecy and divination philosophy.
@@ -115,7 +115,7 @@ Group members: Ayumi, Lawrence, Dee, May
 <a href="https://app.smojo.org/ayumiko/fortunebot"> <img style="width:200px;" src="/images/chatbot3.png"> </a>
 
 <br>
-<a target="\_blank" href="https://app.smojo.org/teejx88/FLEX"> <h4> Special mention: F.L.E.X </h4> </a>
+<h4> <a target="\_blank" href="https://app.smojo.org/teejx88/FLEX"> Special mention: F.L.E.X </a> </h4>
 
 Introducing F.L.E.X. (Fulfilment Led Engagement &amp; Xploration) your guide to discover, select, and explore a range of programmes by Urban Origins to benefit both yourself and the planet.
 
@@ -128,7 +128,7 @@ Group members: Jia Xin
 
 <h4> Other finalists </h4>
 
-<a target="\_blank" href="https://app.smojo.org/robot1977/ConfettiSnack"> <h5> ChippyBot </h5> </a>
+<h5> <a target="\_blank" href="https://app.smojo.org/robot1977/ConfettiSnack"> ChippyBot </a> </h5>
 
 
 Say hello to Chippybot, the snack-sational chatbot that's here to educate, entertain, and tantalize your taste buds with Confetti Snacks' products!
