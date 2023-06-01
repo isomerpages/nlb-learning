@@ -81,7 +81,7 @@ Interested to take part in the next bootcamp? Express interest here and we will 
 <h4> Check out the top chatbots here! </h4>
 
 
-<a target="\_blank" href="https://app.smojo.org/pmenon/snackbot"> Champion: Snackbot </a>
+<a target="\_blank" href="https://app.smojo.org/pmenon/snackbot"> <h4> Champion: Snackbot </h4> </a>
 
 Meet Snackbot, your guide to Confetti Snacks' veggie chips. Learn about their tasty products and get fun, personalised snack recommendations from this crunch connoisseur chatbot!
 
@@ -90,21 +90,21 @@ Group members: Prakash, Ruth, Emma, Ryan, Jasmine, Sachreet
 <br>
 
 
-<img style="width:200px;" src="/images/chatbot1.png">
+<a href="https://app.smojo.org/pmenon/snackbot"> <img style="width:200px;" src="/images/chatbot1.png"> </a>
 
 
-<a target="\_blank" href="https://app.smojo.org/timpanister/karla"> First runner-up: Karla </a>
+<a target="\_blank" href="https://app.smojo.org/timpanister/karla"> <h4> First runner-up: Karla </h4> </a>
 
 Introducing Karla, your go-to companion for sustainability, health, and wellness. Discover sustainable living tips, and access curated wellness programmes by Urban Origins with Karla's help.
 
 Group members: Yoke May, Jenny, David, Pei Fang, Christina
 
 
-<img style="width:200px;" src="/images/chatbot2.png">
+<a href="https://app.smojo.org/timpanister/karla"> <img style="width:200px;" src="/images/chatbot2.png"> </a>
 
 <br>
 
-<a target="\_blank" href="https://app.smojo.org/ayumiko/fortunebot"> Second runner-up: Fortunebot </a>
+<a target="\_blank" href="https://app.smojo.org/ayumiko/fortunebot"> <h4> Second runner-up: Fortunebot </h4> </a>
 
 
 Powered by ChatGPT and keyword-matching, Fortunebot provides a fun take on Chinese prophecy and divination philosophy.
@@ -112,10 +112,10 @@ Powered by ChatGPT and keyword-matching, Fortunebot provides a fun take on Chine
 
 Group members: Ayumi, Lawrence, Dee, May
 
-<img style="width:200px;" src="/images/chatbot3.png">
+<a href="https://app.smojo.org/ayumiko/fortunebot"> <img style="width:200px;" src="/images/chatbot3.png"> </a>
 
 <br>
-<a target="\_blank" href="https://app.smojo.org/teejx88/FLEX"> Special mention: F.L.E.X </a>
+<a target="\_blank" href="https://app.smojo.org/teejx88/FLEX"> <h4> Special mention: F.L.E.X </h4> </a>
 
 Introducing F.L.E.X. (Fulfilment Led Engagement &amp; Xploration) your guide to discover, select, and explore a range of programmes by Urban Origins to benefit both yourself and the planet.
 
@@ -123,12 +123,12 @@ Introducing F.L.E.X. (Fulfilment Led Engagement &amp; Xploration) your guide to 
 Group members: Jia Xin
 <br>
 
-<img style="width:200px;" src="/images/chatbot4.png">
+<a href="https://app.smojo.org/teejx88/FLEX"> <img style="width:200px;" src="/images/chatbot4.png"> </a>
 
 
-<b> Other finalists </b>
+<h4> Other finalists </h4>
 
-<a target="\_blank" href="https://app.smojo.org/robot1977/ConfettiSnack"> ChippyBot </a>
+<a target="\_blank" href="https://app.smojo.org/robot1977/ConfettiSnack"> <h5> ChippyBot </h5> </a>
 
 
 Say hello to Chippybot, the snack-sational chatbot that's here to educate, entertain, and tantalize your taste buds with Confetti Snacks' products!
@@ -137,7 +137,7 @@ Group members: Arti, Julong, Raina
 
 <br>
 
-<a target="\_blank" href="https://app.smojo.org/chiewcj/funguy"> Fun Guy </a>
+<a target="\_blank" href="https://app.smojo.org/chiewcj/funguy"> <h5> Fun Guy </h5> </a>
 
 
 Fun Guy will guide you on a delicious journey through the world of Confetti Snacks.
@@ -146,9 +146,7 @@ Group members: Chun Jia, Ke Xuan
 
 <br>
 
-<a target="\_blank" href="https://app.smojo.org/richardangac/memotics"> Memotics Chatbot
-
-</a>
+<a target="\_blank" href="https://app.smojo.org/richardangac/memotics"> <h5> Memotics Chatbot </h5> </a>
 
 Learn about memotics through this chatbot!
 
@@ -157,9 +155,7 @@ Group members: Richard
 
 <br>
 
-<a target="\_blank" href="https://app.smojo.org/benlimhl/urgin"> Urgin Bot
-
-</a>
+<a target="\_blank" href="https://app.smojo.org/benlimhl/urgin"> <h5> Urgin Bot </h5> </a>
 
 
 Your trusty sidekick on a mission to boost staff morale the sustainable way!
@@ -170,7 +166,5 @@ Group members: Denys, TK, Eugene, Christina, Terri, Benjamin
 <br>
 
 <h4>Curious about the previous bootcamp?</h4>
-
-
 
 Catch up on the previous bootcamp <a target="\_blank" href="https://www.youtube.com/watch?v=Ck0ejurW51o">HERE!</a>
