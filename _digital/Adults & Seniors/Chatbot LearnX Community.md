@@ -137,7 +137,7 @@ Group members: Arti, Julong, Raina
 
 <br>
 
-<a target="\_blank" href="https://app.smojo.org/chiewcj/funguy"> <h5> Fun Guy </h5> </a>
+<h5> <a target="\_blank" href="https://app.smojo.org/chiewcj/funguy"> Fun Guy </a> </h5>
 
 
 Fun Guy will guide you on a delicious journey through the world of Confetti Snacks.
@@ -146,7 +146,7 @@ Group members: Chun Jia, Ke Xuan
 
 <br>
 
-<a target="\_blank" href="https://app.smojo.org/richardangac/memotics"> <h5> Memotics Chatbot </h5> </a>
+<h5> <a target="\_blank" href="https://app.smojo.org/richardangac/memotics"> Memotics Chatbot </a> </h5>
 
 Learn about memotics through this chatbot!
 
@@ -155,7 +155,7 @@ Group members: Richard
 
 <br>
 
-<a target="\_blank" href="https://app.smojo.org/benlimhl/urgin"> <h5> Urgin Bot </h5> </a>
+<h5> <a target="\_blank" href="https://app.smojo.org/benlimhl/urgin">  Urgin Bot </a> </h5>
 
 
 Your trusty sidekick on a mission to boost staff morale the sustainable way!
