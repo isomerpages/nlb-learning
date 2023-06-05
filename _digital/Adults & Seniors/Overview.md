@@ -64,3 +64,10 @@ We understand that learning about new technology can be an unfamiliar adventure.
     </div>
   </div>
 </div>
+<div class="col is-one-third">
+	<div class="clickbox is-sky-indigo">
+		<a href="/digital/adults-seniors/chatbotlxc/">
+			<span>Chatbot LearnX Community</span>
+		</a>
+	</div>
+</div>
