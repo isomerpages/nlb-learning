@@ -335,7 +335,7 @@ Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-wi
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="lp- legends-of-sg" class="margin--bottom--lg"><b>Legends of Singapura</b></h5>
+<h5 id="lp-legends-of-sg" class="margin--bottom--lg"><b>Legends of Singapura</b></h5>
 <p>Have you heard about warriors and mythical creatures of immense strength from the island of Singapura? How did the island get its name? Who was Prince Nila? How did Badang become so strong? When was Merlion, the gigantic sea beast, first spotted?
 
 And most importantly, how true are these stories? Decide for yourself after exploring our selection of books on both the famous and lesser-known legends of Singapura!</p>
