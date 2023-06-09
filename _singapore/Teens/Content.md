@@ -429,7 +429,7 @@ Ng, Irene. <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-15/issue-1
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-     <img src="/images/Making%20of%20SG/LGB.png">
+     <img src="/images/Making%20of%20SG/therewasatime.png">
 	</div>
   <div class="col is-three-fifths">
     <h5>There was a time: Singapore from self-rule to independence, 1959-1965</h5>
@@ -616,4 +616,3 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 </div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
