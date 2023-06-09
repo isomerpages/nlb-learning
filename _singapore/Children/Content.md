@@ -344,7 +344,7 @@ And most importantly, how true are these stories? Decide for yourself after expl
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-     <img src="/images/Legends%20of%20SG/badang.png" style="width:100;">
+     <img src="/images/Legends%20of%20SG/badang.PNG" style="width:100;">
   </div>
   <div class="col is-three-fifths">
    <h5>Badang the mighty warrior</h5>
@@ -354,7 +354,7 @@ And most importantly, how true are these stories? Decide for yourself after expl
 </div>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-     <img src="/images/Legends%20of%20SG/sg-rejoices.png" style="width:100;">
+     <img src="/images/Legends%20of%20SG/sg-rejoices.PNG" style="width:100;">
   </div>
   <div class="col is-three-fifths">
    <h5>Singapura rejoices</h5>
@@ -365,7 +365,7 @@ And most importantly, how true are these stories? Decide for yourself after expl
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-     <img src="/images/Legends%20of%20SG/journey-of.png" style="width:100;">
+     <img src="/images/Legends%20of%20SG/the-journey.PNG" style="width:100;">
   </div>
   <div class="col is-three-fifths">
    <h5>The journey of Raja Suran to Bumi Rika</h5>
@@ -376,7 +376,7 @@ And most importantly, how true are these stories? Decide for yourself after expl
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-     <img src="/images/Legends%20of%20SG/river-life.png" style="width:100;">
+     <img src="/images/Legends%20of%20SG/river-life.PNG" style="width:100;">
   </div>
   <div class="col is-three-fifths">
    <h5>The river that brings us life</h5>
@@ -387,7 +387,7 @@ And most importantly, how true are these stories? Decide for yourself after expl
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-     <img src="/images/Legends%20of%20SG/island-legends.png" style="width:100;">
+     <img src="/images/Legends%20of%20SG/island-legends.PNG" style="width:100;">
   </div>
   <div class="col is-three-fifths">
    <h5>Island of Legends</h5>
@@ -398,7 +398,7 @@ And most importantly, how true are these stories? Decide for yourself after expl
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-     <img src="/images/Legends%20of%20SG/heartlands.png" style="width:100;">
+     <img src="/images/Legends%20of%20SG/heartlands.PNG" style="width:100;">
   </div>
   <div class="col is-three-fifths">
    <h5>Secrets of the heartlands</h5>
@@ -409,7 +409,7 @@ And most importantly, how true are these stories? Decide for yourself after expl
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-     <img src="/images/Legends%20of%20SG/sgname.png" style="width:100;">
+     <img src="/images/Legends%20of%20SG/sgname.PNG" style="width:100;">
   </div>
   <div class="col is-three-fifths">
    <h5>How Singapore got its name: 12 traditional tales of the lion city</h5>
@@ -420,7 +420,7 @@ And most importantly, how true are these stories? Decide for yourself after expl
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-     <img src="/images/Legends%20of%20SG/prince-nila.png" style="width:100;">
+     <img src="/images/Legends%20of%20SG/prince-nila.PNG" style="width:100;">
   </div>
   <div class="col is-three-fifths">
    <h5>Prince Nila discovers a new kingdom</h5>
