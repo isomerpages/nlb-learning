@@ -319,7 +319,7 @@ Wong, Sher Maine. <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-     <img style="width:100;" src="/images/SG%20Exploring%20our%20city/Chinatown_annsiang.png">
+     <img style="width:100;" src="/images/SG%20Exploring%20our%20city/chinatown_annsiang.png">
   </div>
   <div class="col is-three-fifths">
    <h5>On a little hill in Chinatown: Singapore's Ann Siang Hill</h5>
