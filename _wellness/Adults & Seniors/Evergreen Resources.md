@@ -87,7 +87,7 @@ Here are some Wellness resources to help you on your wellness journey!
 <h4 class="margin--bottom--lg" id="myh-resources"><b> Partner Resources</b></h4>
 
 <li><a href="#mindline-link">mindline.sg</a><br>
-<li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
+</li><li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
 <li><a href="#healthxchange-link">HealthXchange.sg</a></li>
 <li><a href="#mentalhealth-link">Mental Health e-Learning</a></li>
 
@@ -98,7 +98,7 @@ Here are some Wellness resources to help you on your wellness journey!
 <h4 class="margin--bottom--lg" id="myb-resources"><b> Partner Resources</b></h4>
 
 <li><a href="#mindline-link">mindline.sg</a><br>
-<li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
+</li><li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
 <li><a href="#healthxchange-link">HealthXchange.sg</a></li>
 
 <!-- AOYT  -->
@@ -117,8 +117,9 @@ Here are some Wellness resources to help you on your wellness journey!
 <h4 class="margin--bottom--lg" id="caregiving-resources"><b> Partner Resources</b></h4>
 
 <li><a href="#mindline-link">mindline.sg</a><br>
-<li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
+</li><li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
 <li><a href="#healthxchange-link">HealthXchange.sg</a></li>
+<li><a href="#phgrands-link">Parents Hub: Grandparents - Resources</a></li>
 
 <!-- Financial Wellness  -->
 <h3><b>Financial Wellness</b></h3>
@@ -127,7 +128,7 @@ Here are some Wellness resources to help you on your wellness journey!
 <h4 class="margin--bottom--lg" id="fin-resources"><b> Partner Resources</b></h4>
 
 <li><a href="#mindline-link">mindline.sg</a><br>
-<li><a href="#healthxchange-link">HealthXchange.sg</a></li>
+</li><li><a href="#healthxchange-link">HealthXchange.sg</a></li>
 
 <h3><b>Wellness Resource Centre</b></h3>
 
@@ -148,3 +149,7 @@ Here are some Wellness resources to help you on your wellness journey!
 <h5 id="mentalhealth-link"><a href="https://go.gov.sg/wr-aicmh" target="_blank"><b> Mental Health e-Learning</b></a></h5>
 
 <p>Want to learn more about dementia or mental health conditions and know where to seek help? Visit this link for e-learning modules dementia or mental health awareness developed by The Agency for Integrated Care (AIC).</p>
+
+<h5 id="phgrands-link"><a href="https://go.gov.sg/ph-grands-nlb" target="_blank"><b>Parent Hub: Grandparents – Resources</b></a></h5>
+
+<p>Grandmas and grandpas, you play a big role your grandchildren’s growth and development. Want to find out more on how you can guide them to consume a balanced diet, adopt healthy eating habits, and manage their screentime better? Check out go.gov.sg/ph-grands-nlb for useful resources by Health Promotion Board, to support your little ones’ development. What’s more, you can take quizzes at the end of the infographics to pick up more insights on how to raise healthier grandchildren.</p>
