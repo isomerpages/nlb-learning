@@ -91,7 +91,6 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 </div>
 
-
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring culture and customs topics among Singapore’s ethnic groups.
 
@@ -202,6 +201,64 @@ A demonstration of the different ways of wearing samping, a traditional Malay co
 </div>
 </div>
 	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="eurasian-culture-and-customs" class="margin--bottom--lg"><b>Playlist: Eurasian Culture and Customs</b></h5>
+
+Eurasians are descendants of hundreds of years of intermarriage between the Europeans and Asians. Majority of Singapore's Eurasians originated from the European colonisation of Asia which began during the 16th century. Most Eurasians in Singapore can trace the European part of their paternal ancestry to primarily the Portuguese, Dutch and British. The Asian component of their maternal ancestry is largely Chinese, Malays, Indians, Thai, Burmese and Indonesian.
+
+Majority of Eurasians in Singapore have Portuguese-Malaccan ancestry, resulting in a strong Portuguese influence in local Eurasian culture.
+
+Check out the videos below to learn more about various aspects of Singapore’s Eurasian culture and customs.
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/563ZORWjqJE"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Community Association Series: Eurasian Association | by SG HeritageFest (8 mins)
+</b><br>
+An introduction to the Singapore Eurasian Association, highlighting its formation, unique aspects of the Eurasian culture, little known medicinal properties of spices used in traditional Eurasian home remedies, and how to cook Kristang stew. 
+<br><br>
+<small> Source: Community Association Series: Eurasian Association (2022, November 17). SG HeritageFest. Retrieved 2023, May 17. 
+</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/tKMi_33bCUI"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> I am Eurasian | Sheena Gow (10 mins)
+</b><br>
+This is a film entry for the Singapore Heritage Short Film Competition in 2015. Several Singapore Eurasians were interviewed in the film. They shared about the history of Eurasians in Singapore and their unique culture.
+<br><br>
+<small> Source: I am Eurasian (2015, October 27). Sheena Gow. Retrieved 2023, May 17.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/lYTvQGnNOXA"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> 5 Kristang - Reviving a Forgotten Language | Andre D'Rozario | TEDxYouth@SJII (23 mins)
+</b><br>
+Andre D'rozario is of Portuguese and Dutch-Eurasian descent. Kristang is a language once spoken by the Eurasian communities in Malaysia and Singapore. Andrea shared about the language and Kodrah Kristang initiative that strives to revive the language. 
+<br><br>
+<small> Source: Kristang - Reviving a Forgotten Language (2019, July 4).  Andre D'Rozario | TEDxYouth@SJII. Retrieved 2023, May 17.</small></p>
+</div>
+</div>
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
