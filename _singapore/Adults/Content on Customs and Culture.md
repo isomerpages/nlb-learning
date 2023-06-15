@@ -379,3 +379,32 @@ Mathew Mathews. (Ed.). (2017)..<i> The Singapore ethnic mosaic: many cultures, o
 <p>Chapter 4 by Suriani Suratman and Siti Hajar Esa titled Malay Community and Culture in Singapore, introduces the Malay customs and traditions. The chapter also mentions Javanese culture, Baweanese culture and traditions, Minangkabau culture and traditions, Bugis culture and Arab culture.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b>Learning Package</b></h3>
+<h5 id="lp-eurasian-culture-and-customs" class="margin--bottom--lg"><b> Eurasian Culture and Customs</b></h5>
+
+<p>According to the Singapore Census of Population 2020, there are about 18,000 Eurasians in Singapore. A mix of European and Asian ancestry, this small minority ethnic group is one of Singapore's earliest residents.</p>
+<b></b>
+<p>Majority of Singapore Eurasians have Portuguese-Malaccan ancestry, resulting in a strong Portuguese influence in their culture.</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> The Singapore Recreation Club is founded by members of the Eurasian community in 1883. It began as a men's only sports club until 1955 when the club was opened to non-Eurasians.</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+Check out this set of articles and books to gain a better understanding of Eurasian culture and customs in Singapore.
+	
+<h4>Articles</h4>
+
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1041_2010-05-07.html"> Singapore Recreation Club by Joshua Chia &amp; Bonny Tan </a></h5>
+<p> Traces the history of the club where cricket was the main sport played at the club by Eurasian members.</p>
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1041_2010-05-07.html"> Singapore Recreation Club </a>(2020)<i>Singapore Infopedia.</i> Retrieved 2023, June 15.
+	
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html"> Eurasian community by Stephanie Ho</a></h5>
+<p>Introduces the Eurasian community, their occupations during colonial period, their associations, cultural practices, famous personalities, and the Eurasian enclaves during colonial period.</p>
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html"> Eurasian community </a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, June 15.
+
