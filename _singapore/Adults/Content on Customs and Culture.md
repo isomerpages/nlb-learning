@@ -222,7 +222,7 @@ Check out the videos below to learn more about various aspects of Singapore’s 
 </b><br>
 An introduction to the Singapore Eurasian Association, highlighting its formation, unique aspects of the Eurasian culture, little known medicinal properties of spices used in traditional Eurasian home remedies, and how to cook Kristang stew. 
 <br><br>
-<small> Source: Community Association Series: Eurasian Association (2022, November 17). SG HeritageFest. Retrieved 2023, May 17. 
+<small> Source: Community Association Series: Eurasian Association (2022, November 17). SG HeritageFest. Retrieved 2023, June 15. 
 </small></p>
 </div>
 </div>
@@ -239,7 +239,7 @@ An introduction to the Singapore Eurasian Association, highlighting its formatio
 </b><br>
 This is a film entry for the Singapore Heritage Short Film Competition in 2015. Several Singapore Eurasians were interviewed in the film. They shared about the history of Eurasians in Singapore and their unique culture.
 <br><br>
-<small> Source: I am Eurasian (2015, October 27). Sheena Gow. Retrieved 2023, May 17.</small></p>
+<small> Source: I am Eurasian (2015, October 27). Sheena Gow. Retrieved 2023, June 15.</small></p>
 </div>
 </div>
 
@@ -255,7 +255,7 @@ This is a film entry for the Singapore Heritage Short Film Competition in 2015. 
 </b><br>
 Andre D'rozario is of Portuguese and Dutch-Eurasian descent. Kristang is a language once spoken by the Eurasian communities in Malaysia and Singapore. Andrea shared about the language and Kodrah Kristang initiative that strives to revive the language. 
 <br><br>
-<small> Source: Kristang - Reviving a Forgotten Language (2019, July 4).  Andre D'Rozario | TEDxYouth@SJII. Retrieved 2023, May 17.</small></p>
+<small> Source: Kristang - Reviving a Forgotten Language (2019, July 4).  Andre D'Rozario | TEDxYouth@SJII. Retrieved 2023, June 15.</small></p>
 </div>
 </div>
 
@@ -408,3 +408,27 @@ Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/article
 <p>Introduces the Eurasian community, their occupations during colonial period, their associations, cultural practices, famous personalities, and the Eurasian enclaves during colonial period.</p>
 Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html"> Eurasian community </a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, June 15.
 
+<h4>Books</h4>
+
+<h5>Standing the test of time: celebrating 100 years of the Eurasian Association, Singapore </h5>
+Eurasian Association (Singapore). (2022).<i> Standing the test of time: celebrating 100 years of the Eurasian Association, Singapore. </i> Singapore: Straits Times Press. (Call No.: RSING 305.80405957 STA)
+<br>
+<img src="/images/Singapore%20Customs%20and%20Culture/lyfcustoms.png" style="width:200px;">
+<p>The Eurasian Association, Singapore, serves as the custodian for Eurasian culture and heritage. Chapter 5, titled Keeping Heritage and Culture Alive, highlights the Eurasian dance, food and language.</p>
+
+<h5> Gateway to Eurasian culture</h5>
+Asiapac Editorial. (2003). <i> Gateway to Eurasian culture. </i> Singapore: Asiapac. (Call no.: RSING 305.804 GAT)
+<br>
+
+<img src="/images/Singapore%20Customs%20and%20Culture/gatewayeura.png" style="width:200px;">
+<p> This book introduces the Singapore Eurasian community, one of the minority ethnic groups, and their customs, culture and traditions.</p>
+
+<h5> Singapore Eurasians: memories, hopes and dreams 
+</h5>
+Myrna Braga-Blake, Ann Ebert-Oehlers, Alexius A. Pereira. (Eds.). (2017).<i> Singapore Eurasians: memories, hopes and dreams. </i>Singapore: World Scientific. (Call no.: RSING 305.80095957 SIN)
+<br>
+
+<img src="/images/Singapore%20Customs%20and%20Culture/sgpeurasian.png" style="width:200px;">
+<p>Chapter 10 by Evelyn Lelcester-Rodrigues titled Rites and Festivals: Customs and Practices of Yesteryear, introduces the Eurasian customs and traditions.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
