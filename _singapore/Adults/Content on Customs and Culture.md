@@ -43,21 +43,29 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <div class="row is-multiline">
 
 <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="#chinese-culture-and-customs">
-        <span>Playlist: Chinese Customs and Culture</span>
-      </a>
-    </div>
-  </div>
+<div class="clickbox is-mint-jade">
+<a href="#chinese-culture-and-customs">
+<span>Playlist: Chinese Customs and Culture</span>
+</a>
+</div>
+</div>
 	
 <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="#malay-culture-and-customs">
-        <span>Playlist: Malay Customs and Culture</span>
-      </a>
-    </div>
-  </div>
+<div class="clickbox is-mint-jade">
+<a href="#malay-culture-and-customs">
+<span>Playlist: Malay Customs and Culture</span>
+</a>
+</div>
+</div>
 
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#eurasian-culture-and-customs">
+<span>Playlist: Eurasian Culture and Customs</span>
+</a>
+</div>
+</div>	
+	
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#lp-chinese-customs-culture">
@@ -74,6 +82,15 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 </div>
 </div>
+
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-eurasian-culture-and-customs">
+<span>Learning Package: Eurasian Culture and Customs</span>
+</a>	
+</div>
+</div>
+
 
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring culture and customs topics among Singapore’s ethnic groups.
