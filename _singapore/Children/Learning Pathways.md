@@ -52,7 +52,7 @@ There are many stories to our places and spaces in Singapore. Through this pathw
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="/singapore/children/touraroundsg" target="_blank"><b>Tour around Singapore Learning Package</b></a></td>
+        <td style="width: 20%;"><a href="/singapore/children/content/touraroundsg" target="_blank"><b>Tour around Singapore Learning Package</b></a></td>
         <td style="width: 40%;">Here are some great resources to start with.</td>
         <td style="width: 20%;"> </td>
         <td style="width: 20%;"> </td>
