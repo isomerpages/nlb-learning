@@ -53,13 +53,6 @@ Check out our **playlists** for collections of short videos, and **learning pack
 </a>
 </div>
 </div>
-	<div class="col is-one-third">
-<div class="clickbox is-mint-jade">
-<a href="#lp-legends-of-sg">
-<span>Learning Package: Legends of Singapura</span>
-</a>
-</div>
-</div>
 </div>
 
 <h3><b>Learning Package</b></h3>
