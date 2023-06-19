@@ -43,21 +43,29 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <div class="row is-multiline">
 
 <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="#chinese-culture-and-customs">
-        <span>Playlist: Chinese Customs and Culture</span>
-      </a>
-    </div>
-  </div>
+<div class="clickbox is-mint-jade">
+<a href="#chinese-culture-and-customs">
+<span>Playlist: Chinese Customs and Culture</span>
+</a>
+</div>
+</div>
 	
 <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="#malay-culture-and-customs">
-        <span>Playlist: Malay Customs and Culture</span>
-      </a>
-    </div>
-  </div>
+<div class="clickbox is-mint-jade">
+<a href="#malay-culture-and-customs">
+<span>Playlist: Malay Customs and Culture</span>
+</a>
+</div>
+</div>
 
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#eurasian-culture-and-customs">
+<span>Playlist: Eurasian Culture and Customs</span>
+</a>
+</div>
+</div>	
+	
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#lp-chinese-customs-culture">
@@ -72,6 +80,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <span>Learning Package:<br>Malay Customs and Culture</span>
 </a>	
 </div>
+</div>
+</div>
+
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-eurasian-culture-and-customs">
+<span>Learning Package: Eurasian Culture and Customs</span>
+</a>	
 </div>
 </div>
 
@@ -185,6 +201,64 @@ A demonstration of the different ways of wearing samping, a traditional Malay co
 </div>
 </div>
 	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="eurasian-culture-and-customs" class="margin--bottom--lg"><b>Playlist: Eurasian Culture and Customs</b></h5>
+
+Eurasians are descendants of hundreds of years of intermarriage between the Europeans and Asians. Majority of Singapore's Eurasians originated from the European colonisation of Asia which began during the 16th century. Most Eurasians in Singapore can trace the European part of their paternal ancestry to primarily the Portuguese, Dutch and British. The Asian component of their maternal ancestry is largely Chinese, Malays, Indians, Thai, Burmese and Indonesian.
+
+Majority of Eurasians in Singapore have Portuguese-Malaccan ancestry, resulting in a strong Portuguese influence in local Eurasian culture.
+
+Check out the videos below to learn more about various aspects of Singapore’s Eurasian culture and customs.
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/563ZORWjqJE"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Community Association Series: Eurasian Association | by SG HeritageFest (8 mins)
+</b><br>
+An introduction to the Singapore Eurasian Association, highlighting its formation, unique aspects of the Eurasian culture, little known medicinal properties of spices used in traditional Eurasian home remedies, and how to cook Kristang stew. 
+<br><br>
+<small> Source: Community Association Series: Eurasian Association (2022, November 17). SG HeritageFest. Retrieved 2023, June 15. 
+</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/tKMi_33bCUI"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> I am Eurasian | Sheena Gow (10 mins)
+</b><br>
+This is a film entry for the Singapore Heritage Short Film Competition in 2015. Several Singapore Eurasians were interviewed in the film. They shared about the history of Eurasians in Singapore and their unique culture.
+<br><br>
+<small> Source: I am Eurasian (2015, October 27). Sheena Gow. Retrieved 2023, June 15.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/lYTvQGnNOXA"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> 5 Kristang - Reviving a Forgotten Language | Andre D'Rozario | TEDxYouth@SJII (23 mins)
+</b><br>
+Andre D'rozario is of Portuguese and Dutch-Eurasian descent. Kristang is a language once spoken by the Eurasian communities in Malaysia and Singapore. Andrea shared about the language and Kodrah Kristang initiative that strives to revive the language. 
+<br><br>
+<small> Source: Kristang - Reviving a Forgotten Language (2019, July 4).  Andre D'Rozario | TEDxYouth@SJII. Retrieved 2023, June 15.</small></p>
+</div>
+</div>
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
@@ -303,5 +377,58 @@ Mathew Mathews. (Ed.). (2017)..<i> The Singapore ethnic mosaic: many cultures, o
 
 <img src="/images/Singapore%20Customs%20and%20Culture/mosaic.png" style="width:200px;">
 <p>Chapter 4 by Suriani Suratman and Siti Hajar Esa titled Malay Community and Culture in Singapore, introduces the Malay customs and traditions. The chapter also mentions Javanese culture, Baweanese culture and traditions, Minangkabau culture and traditions, Bugis culture and Arab culture.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b>Learning Package</b></h3>
+<h5 id="lp-eurasian-culture-and-customs" class="margin--bottom--lg"><b> Eurasian Culture and Customs</b></h5>
+
+<p>According to the Singapore Census of Population 2020, there are about 18,000 Eurasians in Singapore. A mix of European and Asian ancestry, this small minority ethnic group is one of Singapore's earliest residents.</p>
+<b></b>
+<p>Majority of Singapore Eurasians have Portuguese-Malaccan ancestry, resulting in a strong Portuguese influence in their culture.</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> The Singapore Recreation Club is founded by members of the Eurasian community in 1883. It began as a men's only sports club until 1955 when the club was opened to non-Eurasians.</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+Check out this set of articles and books to gain a better understanding of Eurasian culture and customs in Singapore.
+	
+<h4>Articles</h4>
+
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1041_2010-05-07.html"> Singapore Recreation Club by Joshua Chia &amp; Bonny Tan </a></h5>
+<p> Traces the history of the club where cricket was the main sport played at the club by Eurasian members.</p>
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1041_2010-05-07.html"> Singapore Recreation Club </a>(2020)<i>Singapore Infopedia.</i> Retrieved 2023, June 15.
+	
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html"> Eurasian community by Stephanie Ho</a></h5>
+<p>Introduces the Eurasian community, their occupations during colonial period, their associations, cultural practices, famous personalities, and the Eurasian enclaves during colonial period.</p>
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html"> Eurasian community </a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, June 15.
+
+<h4>Books</h4>
+
+<h5>Standing the test of time: celebrating 100 years of the Eurasian Association, Singapore </h5>
+Eurasian Association (Singapore). (2022).<i> Standing the test of time: celebrating 100 years of the Eurasian Association, Singapore. </i> Singapore: Straits Times Press. (Call No.: RSING 305.80405957 STA)
+<br>
+<img src="/images/Singapore%20Customs%20and%20Culture/lyfcustoms.png" style="width:200px;">
+<p>The Eurasian Association, Singapore, serves as the custodian for Eurasian culture and heritage. Chapter 5, titled Keeping Heritage and Culture Alive, highlights the Eurasian dance, food and language.</p>
+
+<h5> Gateway to Eurasian culture</h5>
+Asiapac Editorial. (2003). <i> Gateway to Eurasian culture. </i> Singapore: Asiapac. (Call no.: RSING 305.804 GAT)
+<br>
+
+<img src="/images/Singapore%20Customs%20and%20Culture/gatewayeura.png" style="width:200px;">
+<p> This book introduces the Singapore Eurasian community, one of the minority ethnic groups, and their customs, culture and traditions.</p>
+
+<h5> Singapore Eurasians: memories, hopes and dreams 
+</h5>
+Myrna Braga-Blake, Ann Ebert-Oehlers, Alexius A. Pereira. (Eds.). (2017).<i> Singapore Eurasians: memories, hopes and dreams. </i>Singapore: World Scientific. (Call no.: RSING 305.80095957 SIN)
+<br>
+
+<img src="/images/Singapore%20Customs%20and%20Culture/sgpeurasian.png" style="width:200px;">
+<p>Chapter 10 by Evelyn Lelcester-Rodrigues titled Rites and Festivals: Customs and Practices of Yesteryear, introduces the Eurasian customs and traditions.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
