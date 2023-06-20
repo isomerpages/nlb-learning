@@ -5,12 +5,15 @@ collections:
       - LearnX Singapore.md
       - Children/.keep
       - Children/Overview.md
-      - Children/Content.md
+      - "Children/Content: Tour around Singapore.md"
+      - "Children/Content: Legends of Singapura.md"
       - Children/Programmes.md
       - Children/Learning Pathways.md
       - Teens/.keep
       - Teens/Overview.md
       - Teens/Content.md
+      - "Teens/Content: Exploring Our City.md"
+      - "Teens/Content: The Making of Independent SG.md"
       - Teens/Programmes.md
       - Teens/Learning Pathways.md
       - Adults/.keep

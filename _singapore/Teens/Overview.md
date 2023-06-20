@@ -41,13 +41,30 @@ third_nav_title: Teens
 Learning history and understanding heritage can be simple and interesting. Take a step into each content package containing bitesize information on a slice of history and heritage.  
 
 <div class="row is-multiline">
-  <div class="col is-one-third">
-    <div class="clickbox is-mint-jade ">
-      <a href="/singapore/teens/content ">
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/singapore/teens/content">
         <span>Content </span>
       </a>
     </div>
   </div>
+	
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/singapore/teens/exploring-our-city">
+        <span>Content - Exploring Our City </span>
+      </a>
+    </div>
+  </div>
+	
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/singapore/teens/making-of-sg">
+        <span>Content - The Making of Independent Singapore</span>
+      </a>
+    </div>
+  </div>
+				
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="/singapore/teens/programmes">

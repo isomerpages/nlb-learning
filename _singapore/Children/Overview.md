@@ -42,9 +42,16 @@ Discover all things Singapore with your child through these resources!
 
 <div class="row is-multiline">
   <div class="col is-one-third">
-    <div class="clickbox is-mint-jade ">
-      <a href="/singapore/children/content ">
-        <span>Content </span>
+    <div class="clickbox is-mint-jade">
+      <a href="/singapore/children/content/touraroundsg">
+        <span>Content: Tour around Singapore</span>
+      </a>
+    </div>
+  </div>
+	 <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/singapore/children/content/legendsofsg">
+        <span>Content: Legends of Singapura</span>
       </a>
     </div>
   </div>
