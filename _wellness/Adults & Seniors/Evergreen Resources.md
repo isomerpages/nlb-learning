@@ -119,7 +119,7 @@ Here are some Wellness resources to help you on your wellness journey!
 <li><a href="#mindline-link">mindline.sg</a><br>
 </li><li><a href="#hrc-link">Health Reference Centre e-Resource</a></li>
 <li><a href="#healthxchange-link">HealthXchange.sg</a></li>
-<li><a href="#phgrands-link">Parents Hub: Grandparents - Resources</a></li>
+<li><a href="#phgrands-link">Parent Hub: Grandparents - Resources</a></li>
 
 <!-- Financial Wellness  -->
 <h3><b>Financial Wellness</b></h3>
@@ -152,4 +152,4 @@ Here are some Wellness resources to help you on your wellness journey!
 
 <h5 id="phgrands-link"><a href="https://go.gov.sg/ph-grands-nlb" target="_blank"><b>Parent Hub: Grandparents – Resources</b></a></h5>
 
-<p>Grandmas and grandpas, you play a big role your grandchildren’s growth and development. Want to find out more on how you can guide them to consume a balanced diet, adopt healthy eating habits, and manage their screentime better? Check out go.gov.sg/ph-grands-nlb for useful resources by Health Promotion Board, to support your little ones’ development. What’s more, you can take quizzes at the end of the infographics to pick up more insights on how to raise healthier grandchildren.</p>
+<p>Grandmas and grandpas, you play a big role in your grandchildren’s growth and development. Want to find out more on how you can guide them to consume a balanced diet, adopt healthy eating habits, and manage their screentime better? </p><p>Check out <a href="https://go.gov.sg/ph-grands-nlb" target="_blank">go.gov.sg/ph-grands-nlb</a> for useful resources by Health Promotion Board, to support your little ones’ development. What’s more, you can take quizzes at the end of the infographics to pick up more insights on how to raise healthier grandchildren.</p>
