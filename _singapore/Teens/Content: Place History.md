@@ -1,5 +1,5 @@
 ---
-title: Content
+title: "Content: Place History"
 permalink: /singapore/teens/content/
 description: ""
 third_nav_title: Teens
