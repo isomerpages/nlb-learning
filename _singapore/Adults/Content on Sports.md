@@ -40,6 +40,8 @@ third_nav_title: Adults
 
 Learn on the go. Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
 
+<div class="row is-multiline">
+
 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#sports-sg">
@@ -48,12 +50,12 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
     </div>
   </div>
 
-<div class="row is-multiline">
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#lp-sports">
 <span>Learning Package:<br>Sports in Singapore</span>
 </a>	
+</div>
 </div>
 </div>
 
@@ -78,10 +80,11 @@ Check out the videos below to learn more about some aspect of sports in Singapor
 <div class="col is-three-fifths">
 <p><b>A Portrait of Singapore’s Sporting History | A Frame In Time 2 | Full Episode | CNA Insider (48 mins)</b><br>
 This documentary explores the sporting lives of Singapore’s pioneer athletes, and sportswomen in particular. It also includes interviews with veteran sports observers who recollect momentous sporting events in Singapore between the 1950s and 1970s. <br><br>
-<small>Source: A Portrait of Singapore’s Sporting History | A Frame In Time 2 | Full Episode | CNA Insider (2021, December 31). CNA Insider. Retrieved 2023, June 15</small></p>
+<small>Source: A Portrait of Singapore’s Sporting History | A Frame In Time 2 | Full Episode | CNA Insider (2021, December 31). CNA Insider. Retrieved 2023, July 10.</small></p>
 </div>
 </div>
 
+<br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
@@ -91,10 +94,11 @@ This documentary explores the sporting lives of Singapore’s pioneer athletes, 
 <div class="col is-three-fifths">
 <p><b>Building Singapore's Unbelievable Multi-Sport National Stadium | Singapore's Field Of Dreams | Spark (46 mins)</b><br>
 This documentary follows the construction team behind the Singapore Sports Hub – a 55,000-seat national stadium with a retractable domed roof. Watch to find out the engineering feats and procedures that went into creating this unique structure.<br><br>
-<small>Source: Building Singapore's Unbelievable Multi-Sport National Stadium | Singapore's Field Of Dreams | Spark (2021, June 15). Spark. Retrieved 2023, June 15.</small></p>
+<small>Source: Building Singapore's Unbelievable Multi-Sport National Stadium | Singapore's Field Of Dreams | Spark (2021, June 15). Spark. Retrieved 2023, July 10.</small></p>
 </div>
 </div>
 
+<br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
@@ -104,10 +108,11 @@ This documentary follows the construction team behind the Singapore Sports Hub �
 <div class="col is-three-fifths">
 <p><b>Legacy and impact of the Singapore 2010 Youth Olympic Games (7 mins)</b><br>
 This video describes the impact that the 2010 Youth Olympic Games (YOG) had on organisers, volunteers, and young athletes in Singapore. Includes footage from when it was announced that Singapore won the bid to host the first YOG and clips from the sporting events.<br><br>
-<small>Source: Legacy and impact of the Singapore 2010 Youth Olympic Games (2020, August 26). Singapore National Olympic Council (SNOC). Retrieved 2023, June 15.</small></p>
+<small>Source: Legacy and impact of the Singapore 2010 Youth Olympic Games (2020, August 26). Singapore National Olympic Council (SNOC). Retrieved 2023, July 10.</small></p>
 </div>
 </div>
 
+<br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
@@ -117,9 +122,10 @@ This video describes the impact that the 2010 Youth Olympic Games (YOG) had on o
 <div class="col is-three-fifths">
 <p><b> Game Nation: Enter The World Of Professional eSports In Singapore | CNA Documentary (46 mins)</b><br>
 This documentary follows six Singaporeans in the local eSports scene, including male and female eSports competitors, a game commentator, a game designer, Singapore’s youngest Pokémon champion, and researchers working on exploring the future potential of eSports. It offers a behind-the-scenes look into the new and growing industry.<br><br>
-<small> Source: Game Nation: Enter The World Of Professional eSports In Singapore | CNA Documentary (2021, January 16). CNA Insider. Retrieved 2023, June 23.</small></p>
+<small> Source: Game Nation: Enter The World Of Professional eSports In Singapore | CNA Documentary (2021, January 16). CNA Insider. Retrieved 2023, July 10.</small></p>
 </div>
 </div>
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
@@ -145,15 +151,15 @@ Check out this set of articles and books to gain a better understanding of sport
 
 <h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_145_2005-01-04.html">Singapore Sports Council by Lim, Tin Seng</a></h5>
 <p>The Singapore Sports Council was established on 1 October 1973. It aimed to promote sports to the masses as well as to nurture and develop sports talents. The council was renamed Sport Singapore in 2014.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_145_2005-01-04.html">Singapore Sports Council</a> (2015).<i>Singapore Infopedia.</i> Retrieved 2023, June 15.
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_145_2005-01-04.html">Singapore Sports Council</a> (2015).<i>Singapore Infopedia.</i> Retrieved 2023, July 10.
 
 <h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1695_2010-07-23.html">Singapore 2010 Youth Olympic Games by Tan, Joanna Hwang Soo</a></h5>
 <p>The inaugural Youth Olympic Games (YOG) was hosted by Singapore between 14 and 26 August 2010. Athletes from 205 countries participated in the games and the event gave Singapore considerable international exposure.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1695_2010-07-23.html">Singapore 2010 Youth Olympic Games</a> (2010).<i>Singapore Infopedia.</i> Retrieved 2023, June 15.
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1695_2010-07-23.html">Singapore 2010 Youth Olympic Games</a> (2010).<i>Singapore Infopedia.</i> Retrieved 2023, July 10.
 
 <h5><a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/sg-sporting-greats">Singapore's Sporting Greats by Chua, Chong Jin</a></h5>
 <p>This article covers the sporting feats achieved by some of Singapore’s athletes, from the pioneer sportsmen and women from the 1940s to household names today.</p>
-Source: <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/sg-sporting-greats"> Singapore's Sporting Greats</a>. <i>BiblioAsia</i> 11(2) (July-September 2015). Retrieved 2023, June 15.
+Source: <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/sg-sporting-greats"> Singapore's Sporting Greats</a>. <i>BiblioAsia</i> 11(2) (July-September 2015). Retrieved 2023, July 10.
 
 <h4>Books</h4>
 
@@ -178,4 +184,4 @@ Chua, Chong Jin. (1994). <i>On track: 21 years of the Singapore Sports Council</
 <img src="/images/Singapore%20Sports/ontrack.png" style="width:200px;">
 <p>This is the Singapore Sports Council’s 21st anniversary commemorative publication. It looks back on its origins, growth, achievements, and future plans. It also covers efforts to promote the “Sports for All” policy among Singaporeans.</p>
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p></div>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
