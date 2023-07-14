@@ -413,7 +413,7 @@ Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/article
 <h5>Standing the test of time: celebrating 100 years of the Eurasian Association, Singapore </h5>
 Eurasian Association (Singapore). (2022).<i> Standing the test of time: celebrating 100 years of the Eurasian Association, Singapore. </i> Singapore: Straits Times Press. (Call No.: RSING 305.80405957 STA)
 <br>
-<img src="/images/Singapore%20Customs%20and%20Culture/lyfcustoms.png" style="width:200px;">
+<img src="/images/Singapore%20Customs%20and%20Culture/100years.png" style="width:200px;">
 <p>The Eurasian Association, Singapore, serves as the custodian for Eurasian culture and heritage. Chapter 5, titled Keeping Heritage and Culture Alive, highlights the Eurasian dance, food and language.</p>
 
 <h5> Gateway to Eurasian culture</h5>
