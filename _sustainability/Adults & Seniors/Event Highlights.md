@@ -50,13 +50,7 @@ third_nav_title: Adults & Seniors
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="#nodes-at-parks">
-        <span>Nodes at Parks</span>
-      </a>
-    </div>
-  </div>
+  
 </div>
 
 <h3 id="the-great-make-over-project"><b>The Great Make-Over Project: Punggol Edition</b></h3>
