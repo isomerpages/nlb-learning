@@ -106,4 +106,3 @@ Team <a href="https://go.gov.sg/team-earthwise" target="_blank">EarthWise</a>
 </p>
 You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmo23-feedback" target="_blank">here</a>! 
 
-more information.<p></p>
