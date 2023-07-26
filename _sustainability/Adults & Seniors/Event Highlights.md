@@ -50,13 +50,7 @@ third_nav_title: Adults & Seniors
       </a>
     </div>
   </div>
-  <div class="col is-one-third">
-    <div class="clickbox is-mint-jade">
-      <a href="#nodes-at-parks">
-        <span>Nodes at Parks</span>
-      </a>
-    </div>
-  </div>
+  
 </div>
 
 <h3 id="the-great-make-over-project"><b>The Great Make-Over Project: Punggol Edition</b></h3>
@@ -110,18 +104,4 @@ Team <a href="https://go.gov.sg/team-earthwise" target="_blank">EarthWise</a>
 <p>
   <strong>Share Your Feedback and Collaborate with the teams!</strong>
 </p>
-You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmo23-feedback" target="_blank">here</a>! 
-
-<!-- Nodes at Parks  -->
-<h3 id="nodes-at-parks"><b>Nodes at Parks</b></h3>
-<img src="/images/sustainability/adults-and-seniors/Nodes%20at%20Parks%20Logo.png">
-<p>From 14 October 2022 to 26 February 2023, NLB presented a brand-new initiative called “Nodes at Parks”, which brought NLB’s exciting eResources on Sustainability to parks and gardens near you.</p>
-<p>Due to popular demand, the Nodes at Parks: Sustainability Showcase will be extending its run in the following locations:</p>
-
-<p><strong>Changi General Hospital Main Building Atrium:</strong> 27 February to 13 March 2023</p>
-<p><strong>Changi General Hospital Integrated Building Atrium: </strong>14 March to 22 March 2023:</p>
-<p><strong>Plaza Singapura Courtyard at Level 1 near HSBC: </strong>24 March to 16 April 2023</p>
-
-<p>Look out for it and scan the QR codes to read more about the different perspectives of Sustainability issues.</p>
-
-<p>Visit the <a href="https://go.gov.sg/rtbs-nodesatparks4" target="_blank">Nodes at Parks</a> webpage for more information.</p>
+You can also be a part of the Great Make Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmo23-feedback" target="_blank">here</a>!
