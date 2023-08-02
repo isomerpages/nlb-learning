@@ -105,5 +105,27 @@ How did Singapore celebrate its 55th birthday during a global pandemic? This doc
 <small> Source: What Makes Singapore's National Day 2020 Celebration Remarkable? | On The Red Dot | CNA Insider (2020, Aug 8). Retrieved 2023, July 12.</small></p>
 </div>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>	
+
+
+</div>
+</div>
+
 	
-</div></div></div>
+<h5 class="margin--bottom--lg" id="lp-national-day-parade"><b> Learning Package: National Day Parade</b></h5>
+
+<p> Held on the 9th of August every year since 1966, the National Day parade has become a yearly tradition for Singaporeans to gather and celebrate the nation’s achievements and forge aspirations for the future. </p>
+
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> The state flag flypast made its debut at the National Day Parade in 1970. Originally the size of a pool table, the flag used in the flypast today is about 10 times larger at approximately 30 metres by 20 metres – roughly the size of a basketball court!</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+Learn more about the key elements of the parade and how it has evolved through the resources below. 
+
+	
+</div>
