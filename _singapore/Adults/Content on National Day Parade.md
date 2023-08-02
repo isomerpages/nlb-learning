@@ -60,7 +60,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around Singapore’s National Day parades.
 
-<h5 id="national-day-parade" class="margin--bottom--lg"><b>Playlist: National Day parade</b></h5>
+<h5 id="national-day-parade" class="margin--bottom--lg"><b>Playlist: National Day Parade</b></h5>
 
 Since independence in 1965, Singapore has commemorated its nationhood annually on the 9th of August with a spectacular parade. The National Day Parade (NDP) features marching contingents, military displays, and large-scale performances that symbolise the nation’s strength, progress, and unity. The parade has become a yearly tradition for Singaporeans to gather and celebrate the nation’s achievements and ideals. 
 
