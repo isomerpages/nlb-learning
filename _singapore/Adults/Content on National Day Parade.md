@@ -44,24 +44,23 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#national-day-parade">
-        <span>Playlist:<br>National Day Parade</span>
+        <span>Playlist: National Day Parade</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#lp-national-day-parade">
-        <span>Playlist:<br>Learning Package: National Day Parade</span>
+        <span>Learning Package: National Day Parade</span>
       </a>
     </div>
   </div>
-<div class="col is-one-third">
-<div class="clickbox is-mint-jade">
+	</div>
 
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around Singapore’s National Day parades.
 
-<h5 id="national-symbols" class="margin--bottom--lg"><b>Playlist: National Day parades</b></h5>
+<h5 id="national-day-parade" class="margin--bottom--lg"><b>Playlist: National Day parade</b></h5>
 
 Since independence in 1965, Singapore has commemorated its nationhood annually on the 9th of August with a spectacular parade. The National Day Parade (NDP) features marching contingents, military displays, and large-scale performances that symbolise the nation’s strength, progress, and unity. The parade has become a yearly tradition for Singaporeans to gather and celebrate the nation’s achievements and ideals. 
 
@@ -105,5 +104,6 @@ Singing along to National Day songs is a key ritual of the annual National Day P
 How did Singapore celebrate its 55th birthday during a global pandemic? This documentary looks at how the National Day Parade rallied Singaporeans together despite the event being scaled back and adapted to comply with social-distancing measures in 2020.<br><br>
 <small> Source: What Makes Singapore's National Day 2020 Celebration Remarkable? | On The Red Dot | CNA Insider (2020, Aug 8). Retrieved 2023, July 12.</small></p>
 </div>
-
-</div></div></div></div></div></div>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>	
+	
+</div></div></div>
