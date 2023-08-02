@@ -40,13 +40,23 @@ third_nav_title: Adults
 
 Learn on the go. Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
 
-<div class="col is-one-third">
+<div class="row is-multiline">
+  <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="#national-day-parades">
-        <span>Playlist: National Day parades</span>
+      <a href="#national-day-parade">
+        <span>Playlist:<br>National Day Parade</span>
       </a>
     </div>
   </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-national-day-parade">
+        <span>Playlist:<br>Learning Package: National Day Parade</span>
+      </a>
+    </div>
+  </div>
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
 
 <h3><b>Playlist</b></h3>
 A collection of short videos or selected podcasts, exploring topics around Singapore’s National Day parades.
@@ -96,4 +106,4 @@ How did Singapore celebrate its 55th birthday during a global pandemic? This doc
 <small> Source: What Makes Singapore's National Day 2020 Celebration Remarkable? | On The Red Dot | CNA Insider (2020, Aug 8). Retrieved 2023, July 12.</small></p>
 </div>
 
-</div></div></div>
+</div></div></div></div></div></div>
