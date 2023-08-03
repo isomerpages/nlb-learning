@@ -134,13 +134,11 @@ Learn more about the key elements of the parade and how it has evolved through t
 Source: <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-10/issue-2/jul-sep-2014/singapore-national-day-parades/"> Parades, Flags and Rallies: Celebrating Singapore’s National Day </a> (2014, July-September).<i>Biblioasia.</i> 17(1). Retrieved 2023, July 12.
 
 <h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_524_2004-12-29.html"> Singapore’s first National Day celebrations </a></h5>
-<p> Singapore held its first National Day parade at the Padang on the morning of 9 August 1966. The theme of the parade was “National Pride and Confidence in the Future”. This article describes the festivities of the day.    
-</p> 
+<p> Singapore held its first National Day parade at the Padang on the morning of 9 August 1966. The theme of the parade was “National Pride and Confidence in the Future”. This article describes the festivities of the day. </p> 
 Source:  <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_524_2004-12-29.html"> Singapore’s first National Day celebrations </a>(2014).<i>Singapore Infopedia.</i>Retrieved 2023, July 12
 
 <h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-03-11_165927.html"> National Day songs </a></h5>
-<p> National songs have played a big role in the annual National Day parade since the 1980s. This article gives an overview of how national songs have evolved through the years and their public reception.  
-</p>
+<p> National songs have played a big role in the annual National Day parade since the 1980s. This article gives an overview of how national songs have evolved through the years and their public reception. </p>
 Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-03-11_165927.html"> National Day songs </a>(2015).<i>Singapore Infopedia.</i> Retrieved 2023, July 12
 	
 <h5><a target="_blank" href="https://www.roots.gov.sg/en/stories-landing/stories/50-years-and-counting/story"> 50 Years and Counting: Tracing the History of the National Day Parade </a></h5>
