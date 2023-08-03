@@ -78,6 +78,7 @@ Check out the videos below to learn more about NDP.
 The third episode of the National Heritage Board's "A Nation Remembers" project focuses on Singapore's first National Day Parade on 9 August 1966 and features interviews with participants of the historical parade.<br><br>
 <small> Source: A Nation Remembers: First National Day Parade | Roots Sg (2014, May 5). Retrieved 2023, July 12.</small></p>
 </div>
+</div>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
@@ -109,7 +110,8 @@ How did Singapore celebrate its 55th birthday during a global pandemic? This doc
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-	
+
+<h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-national-day-parade"><b> Learning Package: National Day Parade</b></h5>
 
 <p> Held on the 9th of August every year since 1966, the National Day parade has become a yearly tradition for Singaporeans to gather and celebrate the nation’s achievements and forge aspirations for the future. </p>
@@ -146,7 +148,7 @@ Source:  <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articl
 </p> 
 Source: Ho, Stephanie, <a target="_blank" href="https://www.roots.gov.sg/en/stories-landing/stories/50-years-and-counting/story"> 50 Years and Counting: Tracing the History of the National Day Parade </a>(2016, April-June).<i>MuseSG.</i> Retrieved 2023, July 12
 
-</div>
+
 
 	
 <h4> Books </h4>
