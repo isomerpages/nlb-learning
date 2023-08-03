@@ -91,6 +91,7 @@ The third episode of the National Heritage Board's "A Nation Remembers" project 
 Singing along to National Day songs is a key ritual of the annual National Day Parade. This documentary follows singer-songwriter Shabir as he uncovers the stories behind some of Singapore’s favourite national tunes.<br><br>
 <small> Source: Count On Me, Singapore: Who's Behind Your Favourite National Songs? | Striking A Chord - Ep 1/2 | CNA Insider (2021, Aug 13). Retrieved 2023, July 12.</small></p>
 </div>
+</div>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
@@ -104,11 +105,9 @@ Singing along to National Day songs is a key ritual of the annual National Day P
 How did Singapore celebrate its 55th birthday during a global pandemic? This documentary looks at how the National Day Parade rallied Singaporeans together despite the event being scaled back and adapted to comply with social-distancing measures in 2020.<br><br>
 <small> Source: What Makes Singapore's National Day 2020 Celebration Remarkable? | On The Red Dot | CNA Insider (2020, Aug 8). Retrieved 2023, July 12.</small></p>
 </div>
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>	
-
-
 </div>
-</div>
+	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 	
 <h5 class="margin--bottom--lg" id="lp-national-day-parade"><b> Learning Package: National Day Parade</b></h5>
@@ -166,4 +165,3 @@ Ong, Soh Chin (2016). <i>A Celebration: SG50 </i> Singapore: Straits Times Press
 <p>Did you know the 1971 National Day parade was the first to feature mobile floats? This National Day Parade 2015 souvenir booklet features notable facts and pictures of past National Day parades over Singapore’s 50 years of nationhood.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
