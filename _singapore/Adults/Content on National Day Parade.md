@@ -153,13 +153,13 @@ Source: Ho, Stephanie, <a target="_blank" href="https://www.roots.gov.sg/en/stor
 <h5>A Celebration: SG50 </h5>
 Ong, Soh Chin (2016). <i>A Celebration: SG50 </i> Singapore: Straits Times Press Pte Ltd. (Call no.: RSING 959.57053 ONG-[HIS]
 <br>
-<img style="width:200px;" src="/images/ACelebrationSG50.png">
+<img style="width:200px;" src="/images/National%20Day%20Parade/ACelebrationSG50.png">
 <p> 2015 was a special year that marked the 50th anniversary, or golden jubilee, of Singapore’s independence. This commemorative book chronicles some of the key moments of the SG50 celebrations, including the National Day parade, as well as the many other initiatives, such as exhibitions, performances, and community activities, organised to mark the occasion.</p>
 
 <h5>Majulah Singapura Our Golden Jubilee</h5>
 -. (2015). <i>Majulah Singapura: Our Golden Jubilee </i> Singapore: [NDP 2015 Executive Committee] (Call no.: RSING 959.57053 NAT-[HIS]
 <br>
-<img style="width:200px;" src="/images/MajulahSingapura.png">
+<img style="width:200px;" src="/images/National%20Day%20Parade/MajulahSingapura.png">
 <p>Did you know the 1971 National Day parade was the first to feature mobile floats? This National Day Parade 2015 souvenir booklet features notable facts and pictures of past National Day parades over Singapore’s 50 years of nationhood.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
