@@ -127,5 +127,5 @@ How did Singapore celebrate its 55th birthday during a global pandemic? This doc
 
 Learn more about the key elements of the parade and how it has evolved through the resources below. 
 
-	
+
 </div>
