@@ -116,8 +116,8 @@ The installation forms a written tapestry, woven with circulating ideas. Vein-li
 ___
 
 <h5 class="margin--bottom--lg" id="stonethrow"></h5>
-
-![Alt text for image on Isomer site](/images/FARM_KV1.jpg)
+	
+![](/images/AT%20SG/wy-to%20installation%20kv.jpg)
 
 #### **A Stone's Throw (Away) by WY-TO Group**
 **18 August – 26 August 2023**
@@ -125,15 +125,20 @@ ___
 <br>**Banyan Tree, National Museum of Singapore**
 
 **About the installation:**
-<br>*Paddy Fields* &nbsp;recalls the forgotten practice of drying cultivated rice along the banks of Sungei Brass Bassa (now Stamford Canal) in the early 19<sup>th</sup> century. The area was close to the paddy fields located opposite today’s KK Women’s and Children’s Hospital. South Asian washermen and women also laundered clothes there, laying them out to dry on adjacent open space. Using a palette of humble materials, this installation seeks to evoke the sentiments reminiscent of these activities from a bygone era.
-
-Follow the text running along the clusters of rice paddy to trace the story of Bras Basah (which means “wet rice” in Malay) – from its agricultural roots to its history of redevelopment over the years. These quotes are extracted from poems (including “Bras Basah 1953” by Singapore poet Edwin Thumboo) and articles found in the collections of the National Archives of Singapore and National Library.
+<br>*A Stone's Throw (Away)* is inspired by the legend of the Singapore Stone. Recorded in the Sejarah Melayu (Malay Annals), the stone was flung from Fort Canning Hill to the mouth of the Singapore River by 14th-century strongman Badang, who would have made a fine shot put athlete today. In 1843, the British removed the colossal stone to widen the river's passage. This light installation reimagines the stone through a series of interconnected light panels filled with illustrations that are illuminated with body movement. Gather fellow festival-goers in front of the panels to activate them, and watch the “reconstructed” relic come to life.
+	
 
 **About the collective:**
-<br>[FARM](https://www.farm.sg){:target="_blank"} is a cross-disciplinary company spanning design, architecture, arts and research. The company seeks to cultivate a culture of imagination, endeavouring to share the delight and joyful creativity that underpins all human action. Since 2005, FARM has worked on community projects which promote the arts and has organised national public art competitions and events. In 2007, FARM established its cross-disciplinary design arm, and has since embarked on diverse collaborations with artists and designers. These include architecture and interior design, product design and merchandising, graphic design and branding, art installation and sculpture, exhibition design and curatorial work.
+<br>WY-TO Group doesn’t merely envision urban landscapes and create experiential spaces; they’re also the connoisseur of the visual splendour, culture, and heritage that inhabit them. True to their philosophy, “Design with A Cause”, they put the needs of the people and the environment on a pedestal, conjuring solutions to create an ecosystem that is inclusive, resilient, and free from the stresses of urban living.
 
-**Learn more:**
-<br>Wish to discover the history of Bras Basah? Explore [Bras Basah In Early Maps, Paintings and Postcards](https://curiocity.nlb.gov.sg/singapore-visualised/digital-stories/bb-early){:target="_blank"} via Curiocity's Bras Basah digital story.
+**Behind the work**
+<br>In exploring the stories within Singapore and more specifically within the Bras Basah &amp; Bugis district, we looked at the legend of Badang and the Singapore Stone as the starting point of inspiration for our work. The legend of Badang is a popular childhood story that originated from the Sejarah Melayu (Malay Annals), which has been translated into a movie in 1962 and was even featured in Singapore’s National Day Parade in 2016.
+<br>The story of the Singapore Stone serves as an analogy of the precinct of Bras Basah &amp; Bugis. Indeed, it was previously the centre of governance for the progress of trade in Singapore from the 14th century till the 19th century when British set up a free port. Moreover, it is within this precinct that different types of businesses, residents, schools, entertainment and legends thrive to create a distinctive and diverse community. However, many of these distinctive elements were displaced by the urban renewal which started in the 70s. The multi-facetted installation aims to recall, rejoin and celebrate these diverse communities together.
+<br>Similarly, the surviving fragment of the stone currently on display at the National Museum of Singapore serves as a reminder of the strong roots of the Nation that set the foundation of its development. Nevertheless, to this day linguists are still unable to decipher the inscription on the fragmented piece, which could hold secrets to Singapore’s history.
+<br>The narrative of the installation, the reconstructed Singapore Stone, thus aims to serve as a cultural reminder of Singapore’s past as a historical Great Port City by connecting visitors to the story and the precinct.
+	
+		
+ <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>	
 
 ___
 
