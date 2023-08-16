@@ -98,10 +98,8 @@ ___
 
 **About the installation:**
 <br>The basis for *Spinal Tap* is in the book spine, which is often the reader's first encounter of a book when searching in the library. The spine is imagined as a portal, a liminal space where readers immerses in literary worlds, seeking wisdom and fantasy anew. Parallel to the spinal system of vertebrates, both serve as vessels of information, supporting knowledge's flight, as literal foundations for acquiring knowledge. 
-	
-From afar, *Spinal Tap* presents two large humanoid silhouettes surrounding a spinal-like structure. These bio-mechanical giants engage in silent reading, suspended by ropes in a labyrinthian arrangement. They hold books, resembling the central structure, that seem uncanny at first, but on second glance textual ligatures and strokes can be seen, as they are derived from the titles on book spines used as the basis for *Spinal Tap*. The silhouettes' skin is adorned with imagery extracted from those very same books. These isolated and collaged patterns are fed through an optical flow system, culminating in flowing, intricate and disruptive motifs—a transformation, where literary content takes on tangible form. 
-	
-The installation forms a written tapestry, woven with circulating ideas. Vein-like ropes embrace the silhouettes, imbibing them with potentiality, evoking notions of evolution and intelligence through the simple act of reading—a deeply human way of learning, filled with untapped potential for so much more.
+<br>From afar, *Spinal Tap* presents two large humanoid silhouettes surrounding a spinal-like structure. These bio-mechanical giants engage in silent reading, suspended by ropes in a labyrinthian arrangement. They hold books, resembling the central structure, that seem uncanny at first, but on second glance textual ligatures and strokes can be seen, as they are derived from the titles on book spines used as the basis for *Spinal Tap*. The silhouettes' skin is adorned with imagery extracted from those very same books. These isolated and collaged patterns are fed through an optical flow system, culminating in flowing, intricate and disruptive motifs—a transformation, where literary content takes on tangible form. 
+	<br>The installation forms a written tapestry, woven with circulating ideas. Vein-like ropes embrace the silhouettes, imbibing them with potentiality, evoking notions of evolution and intelligence through the simple act of reading—a deeply human way of learning, filled with untapped potential for so much more.
 
 **About the artist:**
 <br>Tristan Lim is a visual artist whose practice explores the material and existential significance of bodily surface and form in contemporary life, surfacing questions on innate perception and desire. Drawing from observations into contemporary visual culture, abstract bodies and chimeric, mutant subjects emerge, often through open-ended narratives, expressed through drawings, installations, new media, and procedural digital works. His work has been featured in group exhibitions at Ota Fine Arts, The Arts House, SAM at 8Q and The Institute of Contemporary Arts Singapore. He has also participated in the Facebook Artist-in-residence (AIR) programme, and presented work in Singapore Night Festival, Light to Night Festival, ART SG, and overseas in Spain, Vietnam &amp; Taiwan.
@@ -136,29 +134,22 @@ ___
 <br>The story of the Singapore Stone serves as an analogy of the precinct of Bras Basah &amp; Bugis. Indeed, it was previously the centre of governance for the progress of trade in Singapore from the 14th century till the 19th century when British set up a free port. Moreover, it is within this precinct that different types of businesses, residents, schools, entertainment and legends thrive to create a distinctive and diverse community. However, many of these distinctive elements were displaced by the urban renewal which started in the 70s. The multi-facetted installation aims to recall, rejoin and celebrate these diverse communities together.
 <br>Similarly, the surviving fragment of the stone currently on display at the National Museum of Singapore serves as a reminder of the strong roots of the Nation that set the foundation of its development. Nevertheless, to this day linguists are still unable to decipher the inscription on the fragmented piece, which could hold secrets to Singapore’s history.
 <br>The narrative of the installation, the reconstructed Singapore Stone, thus aims to serve as a cultural reminder of Singapore’s past as a historical Great Port City by connecting visitors to the story and the precinct.
-	
-		
- <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>	
 
 ___
 
-<h5 class="margin--bottom--lg" id="mojoko"></h5>
+<h5 class="margin--bottom--lg" id="nasdisplay"></h5>
 
 ![Alt text for image on Isomer site](/images/MOJOKO_KV_HD.jpg)
 
-#### **Midnight Show at the Capitol**
-**19 August – 27 August 2022**
-<br>**7.30 pm – 12 am**
-<br>**National Archives Building** 
-
-**About the installation:**
-<br>Take a trip down memory lane with this hyper colourful visual treat. Remixing images from the collections of the National Archives of Singapore and National Library, visual artist MOJOKO highlights Singapore’s cinemas of times past. Inspired by the cultural importance and rich visual history of Capitol Theatre and Cathay Picture House, MOJOKO brings a contemporary twist to the classic movie posters that were once commonplace in the area. A moving artwork of epic proportions,&nbsp;*Midnight Show at the Capitol* &nbsp;lights up the walls of the Bras Basah.Bugis precinct in a captivating way.
-
-**About the artist:**
-<br>If you are not already familiar with his work, [MOJOKO](https://mojoko.net){:target="_blank"}  is best described as a Pop Art mash-up artist and collage specialist. Often inspired by Singapore’s culture and the energy of living in Southeast Asia, his artworks explore the clashing of cultures, virtual vs. reality, old vs. new, east vs. west. As the creative director of&nbsp;EYEYAH!&nbsp;Magazine, he hopes to share this creativity to inspire the next generation of artists.
+#### **Experiencing Singapore Through Our Senses**
+**18 August – 24 September 2023**
+<br>**10 am – 9 pm** (except 18, 19 25 &amp; 26 August: 10 pm – 12am)
+<br>**Atrium, Level 3, National Archives Building** 
+	
+Visit this pop-up showcase at the National Archives of Singapore, spotlighting the history in the Bras Basah.Bugis precinct that we can rediscover through stories in the community. Take a walk through and experience Singapore’s early days in this interactive display!
 
 **Learn more:**
-<br>Check out [Bras Basah: A Place For Entertainment](https://curiocity.nlb.gov.sg/singapore-visualised/digital-stories/bb-cinemas){:target="_blank"} in Curiocity's Bras Basah digital story to revisit the seven most iconic cinemas in the area.
+<br>Check out Curiocity's digital story [More Than Just A Hill](https://curiocity.nlb.gov.sg/digital-stories/fort-canning-hill/intro/) to gain a deeper appreciation of Fort Canning Hill’s rich history and vibrant present.
 
 ___
 
