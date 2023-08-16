@@ -158,18 +158,18 @@ Visit the National Archives of Singapore for a new display spotlighting the hist
 <h5 class="margin--bottom--lg" id="snfprogs"></h5>
 
 #### **Programmes during Singapore Night Festival**
+
+Check out more AT SG programmes [here](https://www.eventbrite.sg/cc/all-things-singapore-at-sg-2023-2329109) on Eventbrite! Be sure to register to secure a spot. 
 <br>
+
 
 | **Date** | **Title** | **Venue** | **Time** | **Register**|
 | -------- | -------- | -------- | -------- | -------- |
-|**11 Jan**    | **Behind the Façade: Pipe Organs in Singapore**  | Zoom     | 7:30pm to 8:30pm  | Click [here](https://www.eventbrite.com/e/behind-the-facade-pipe-organs-in-singapore-tickets-223913781147?aff=odcleoeventsincollection&amp;keep_tld=1){:target="_blank"} to register |
-|**13 Jan**     | **Connecting with the Past: Reliving Memories with Building Blocks**    | Zoom  | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.sg/e/connecting-with-the-past-reliving-memories-with-building-blocks-tickets-230684793427?aff=odcleoeventsincollection){:target="blank"} to register |
-|**15 Jan**     | **Map-Making and the Fiction of Knowledge**    | National Library Building | 10:00am to 11:00am    | Click [here](https://www.eventbrite.sg/e/map-making-and-the-fiction-of-knowledge-mapping-the-world-exhibition-tickets-227561732267?aff=odcleoeventsincollection){:target="blank"} to register |
-| **19 Jan**     | **Snapshots in Time**    | Zoom  | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.com/e/snapshots-in-time-tickets-230234005107?aff=odcleoeventsincollection&amp;keep_tld=1){:target="blank"} to register |
-| **20 Jan**     | **Immersive Spaces with Art and Technology**     |  Zoom   | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.sg/e/immersive-spaces-with-art-and-technology-tickets-223847593177?aff=odcleoeventsincollection){:target="blank"} to register |
-| **26 Jan**     | **Pastimes from the Past**   | Zoom  | 7:00pm to 8:00pm    | Click [here](https://www.eventbrite.com/e/pastimes-from-the-past-tickets-230232721267?aff=odcleoeventsincollection&amp;keep_tld=1){:target="blank"} to register |
-| **27 Jan**     | **Archives Invites: Dr Kristy Kang – Digital Placemaking &amp; Public History**   | Zoom  | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.com/e/archives-invites-dr-kristy-kang-digital-placemaking-public-history-tickets-239056282777?aff=odcleoeventsincollection&amp;keep_tld=1){:target="blank"} to register |
-| **28 Jan**     | **Histories: Understanding Creative Placemaking**   | Zoom  | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.com/e/histories-understanding-creative-placemaking-tickets-252983840477?aff=odcleoeventsincollection&amp;keep_tld=1){:target="blank"} to register |
+|**18 Aug**    | **Y6 Farewell Concert 2023**  | National Library Building     | 6.45pm – 8.15pm  | Click [here](https://www.eventbrite.sg/e/y6-farewell-concert-2023-a-production-by-dunman-high-mep-class-of-2023-registration-692227700687){:target="_blank"} to register |
+| **18 &amp; 25 Aug**     | **Live at the Archives**    | National Archives Building  | 7.45 pm – 8.30pm / 9.45pm – 10.30pm  | Click [here](https://www.eventbrite.sg/e/at-sg-2023-live-at-the-archives-tickets-667738974247){:target="blank"} to register |
+| **18 &amp; 25 Aug**     | **Sailing Back in Time: Soundscape Prformance by bani haykal**    | National Archives Building  | 9 pm – 9.30pm  | Click [here](https://www.eventbrite.sg/e/at-sg-2023-sailing-back-in-time-screening-and-soundscape-performance-tickets-667736827827){:target="blank"} to register |
+|**19 Aug**     | **Histories: Sea Ports Singapore**    | National Library Building  | 7pm – 8pm    | Click [here](https://www.eventbrite.sg/e/sea-ports-singapore-a-case-study-on-complexity-histories-x-at-sg-2023-tickets-669128259637){:target="blank"} to register |
+|**19 Aug**     | **Archives Invites: Michael Flecker - Singapore's Maritime History: Shipwreck Evidence**    | National Archives Building | 6.45pm – 7.45m    | Click [here](https://www.eventbrite.sg/e/archives-invites-michael-flecker-sg-maritime-history-shipwreck-evidence-tickets-666744559927){:target="blank"} to register || **19 &amp; 26 Aug**     | **Stories of the Sea**   | National Archives Building  | Various timings    | Click [here](https://www.eventbrite.sg/e/at-sg-2023-stories-of-the-sea-tickets-667744500777){:target="blank"} to register |
+| **26 Aug**     | **Singalong Storytelling Session: Sing a Song of Hawker Food**   |  National Archives Building  | 7.30pm – 8pm / 8.15pm – 8.45pm    | Click [here](https://www.eventbrite.sg/e/at-sg-2023-singalong-storytelling-session-sing-a-song-of-hawker-food-tickets-667748603047){:target="blank"} to register |
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
