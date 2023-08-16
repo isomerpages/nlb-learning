@@ -107,9 +107,9 @@ Experience Singapore through your senses at our exciting line up of events celeb
 
 **Find out more:**
 <br>The artist's research journey led him to the rich repository of books on biodiversity at the National Library, culminating in an artwork that drew inspiration from the collection's visual treasures. Skillfully intertwining artistic vision with technology, he harnessed the power of optical flow system and laser-cutting techniques in the creation of his installation, thereby fusing the realms of art and technology into a harmonious whole. 
-* See here for a list of resources referenced by the artist
-* For more books themed on Nature and Environment, check out [BookSG](https://eresources.nlb.gov.sg/printheritage/browse/Nature_and_Environment.aspx)
-* Discover a world of digital wonders and hands-on exploration through NLB’s [MakeIT](https://www.nlb.gov.sg/main/services/MakeIT-at-Libraries) and [ExperienceIT](https://www.eventbrite.sg/e/experienceit-punggol-regional-library-tickets-619561323597) programmes and services
+* See [here](/files/citation%20list%20for%20spinal%20tap.pdf) for a list of resources referenced by the artist.
+* For more books themed on Nature and Environment, check out [BookSG](https://eresources.nlb.gov.sg/printheritage/browse/Nature_and_Environment.aspx).
+* Discover a world of digital wonders and hands-on exploration through NLB’s [MakeIT](https://www.nlb.gov.sg/main/services/MakeIT-at-Libraries) and [ExperienceIT](https://www.eventbrite.sg/e/experienceit-punggol-regional-library-tickets-619561323597) programmes and services.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
