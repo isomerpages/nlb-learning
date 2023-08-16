@@ -85,14 +85,11 @@ Experience Singapore through your senses at our exciting line up of events celeb
     </div>
   </div>
 	
-___
+<h5 id="spinaltap" class="margin--bottom--lg"></h5>
 
-<h5 class="margin--bottom--lg" id="spinaltap"></h5>
+![SpinalTap](/images/AT%20SG/tristan%20lim_spinal%20tap_01.png)
 
-
-![](/images/AT%20SG/tristan%20lim_spinal%20tap_01.png)
-
-<h4><b>Spinal Tap by Tristan Lim</b></h4>
+<h4><b>Spinal Tap</b></h4>
 <b><br>18 August – 26 August 2023
 <br>10 am – 12 am
 <br>The Plaza, Level 1, National Library Building</b>
@@ -117,9 +114,9 @@ ___
 <h5 class="margin--bottom--lg" id="stonethrow"></h5>
 	
 ![](/images/AT%20SG/wy-to%20installation%20kv.jpg)
-
-<h4><b>A Stone's Throw (Away) by WY-TO Group</b></h4>
-<b>18 August – 26 August 2023
+	
+<h4><b>A Stone's Throw (Away)</b></h4>
+<b><br>18 August – 26 August 2023
 <br>7.30 pm – 12 am
 <br>Banyan Tree, National Museum of Singapore</b>
 
@@ -149,7 +146,7 @@ ___
 <h4><b>Experiencing Singapore Through Our Senses</b></h4>
 <b><br>18 August – 24 September 2023
 <br>10 am – 9 pm (except 18, 19 25 &amp; 26 August: 10 pm – 12am)
-	<br>Atrium, Level 3, National Archives Building</b>
+<br>Atrium, Level 3, National Archives Building</b>
 	
 Visit this pop-up showcase at the National Archives of Singapore, spotlighting the history in the Bras Basah.Bugis precinct that we can rediscover through stories in the community. Take a walk through and experience Singapore’s early days in this interactive display!
 
