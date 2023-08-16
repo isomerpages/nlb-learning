@@ -46,6 +46,9 @@ third_nav_title: Adults
 #### **AT SG 2023**
 Experience Singapore through your senses at our exciting line up of events celebrating All Things Singapore! Kick things off at the [Singapore Night Festival (SNF)](https://www.nightfestival.gov.sg/) in August by visiting creative renditions of Singapore’s past and stories through art installations and programmes at the National Library and the National Archives of Singapore. Come September, check out the festivities that will open your eyes to the collections and functions of the National Library and Archives, as part of the National Library Board’s [Love Our Libraries and Archives (LOLA)](https://www.eventbrite.sg/cc/love-our-libraries-archives-lola-2023-2339409) celebration.
 
+<b>About AT SG:</b>
+<br>AT SG advocates All Things Singapore, inviting you to discover and engage with our island’s history and stories. Explore Singapore across various topics and touchpoints through fresh perspectives and gain insights from the content and collections at the NLB. Join our talks, tours, hands-on sessions, displays and more! This programme series contributes towards NLB’s role as Singapore Storytellers, which aims to nurture a stronger appreciation of the Singapore experience by eliciting curiosity and wonder, while shaping an understanding of Singapore’s heritage and identity in the process. 
+
 <br>
 <div class="row is-multiline">
   <div class="col is-one-third">
