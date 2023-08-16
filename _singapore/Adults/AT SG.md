@@ -84,10 +84,12 @@ Experience Singapore through your senses at our exciting line up of events celeb
       </a>
     </div>
   </div>
+  </div>
+	
 
 <h5 class="margin--bottom--lg" id="spinaltap"></h5>
 
-
+![](/images/AT%20SG/tristan%20lim_spinal%20tap_01.png)
 
 #### **Installation: Spinal Tap by Tristan Lim**
 **18 August – 26 August 2023**
@@ -101,4 +103,4 @@ Experience Singapore through your senses at our exciting line up of events celeb
 
 **About the artist:**
 <br>Tristan Lim is a visual artist whose practice explores the material and existential significance of bodily surface and form in contemporary life, surfacing questions on innate perception and desire. Drawing from observations into contemporary visual culture, abstract bodies and chimeric, mutant subjects emerge, often through open-ended narratives, expressed through drawings, installations, new media, and procedural digital works. His work has been featured in group exhibitions at Ota Fine Arts, The Arts House, SAM at 8Q and The Institute of Contemporary Arts Singapore. He has also participated in the Facebook Artist-in-residence (AIR) programme, and presented work in Singapore Night Festival, Light to Night Festival, ART SG, and overseas in Spain, Vietnam and Taiwan.
-	</div>
+	
