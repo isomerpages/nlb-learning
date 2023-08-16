@@ -87,7 +87,7 @@ Experience Singapore through your senses at our exciting line up of events celeb
 
 <h5 class="margin--bottom--lg" id="spinaltap"></h5>
 
-![SpinalTap](/images/AT%20SG/tristan%20lim_spinal%20tap_01.png)
+
 
 #### **Installation: Spinal Tap by Tristan Lim**
 **18 August – 26 August 2023**
@@ -99,4 +99,6 @@ Experience Singapore through your senses at our exciting line up of events celeb
 <br>From afar, *Spinal Tap* presents two large humanoid silhouettes surrounding a spinal-like structure. These bio-mechanical giants engage in silent reading, suspended by ropes in a labyrinthian arrangement. They hold books, resembling the central structure, that seem uncanny at first, but on second glance textual ligatures and strokes can be seen, as they are derived from the titles on book spines used as the basis for *Spinal Tap*. The silhouettes' skin is adorned with imagery extracted from those very same books. These isolated and collaged patterns are fed through an optical flow system, culminating in flowing, intricate and disruptive motifs—a transformation, where literary content takes on tangible form.
 <br>The installation forms a written tapestry, woven with circulating ideas. Vein-like ropes embrace the silhouettes, imbibing them with potentiality, evoking notions of evolution and intelligence through the simple act of reading—a deeply human way of learning, filled with untapped potential for so much more.
 
-</div>
+**About the artist:**
+<br>Tristan Lim is a visual artist whose practice explores the material and existential significance of bodily surface and form in contemporary life, surfacing questions on innate perception and desire. Drawing from observations into contemporary visual culture, abstract bodies and chimeric, mutant subjects emerge, often through open-ended narratives, expressed through drawings, installations, new media, and procedural digital works. His work has been featured in group exhibitions at Ota Fine Arts, The Arts House, SAM at 8Q and The Institute of Contemporary Arts Singapore. He has also participated in the Facebook Artist-in-residence (AIR) programme, and presented work in Singapore Night Festival, Light to Night Festival, ART SG, and overseas in Spain, Vietnam and Taiwan.
+	</div>
