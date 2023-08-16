@@ -151,7 +151,7 @@ Experience Singapore through your senses at our exciting line up of events celeb
 <br>**10 am – 9 pm** (18, 19, 25 &amp; 26 August: 10 am – 12am)
 <br>**Atrium, Level 3, National Archives Building** 
 
-Visit the National Archives of Singapore for a new display spotlighting the history of selected spaces in the Bras Basah.Bugis precinct – some long gone, some less remembered, but all full of charm waiting to be rediscovered. Learn something new about Bras Basah.Bugis as you explore this visual showcase!
+Visit this pop-up showcase at the National Archives of Singapore, spotlighting the history in the Bras Basah.Bugis precinct that we can rediscover through stories in the community. Take a walk through and experience Singapore’s early days in this interactive display!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
@@ -166,10 +166,10 @@ Visit the National Archives of Singapore for a new display spotlighting the hist
 <br>**7.30 pm – 10.30 pm**
 <br>**The Plaza, Level 1, National Library Building** 
 
-Enjoy a creative night out at the National Library during the Singapore Night Festival! Discover artistic possibilities with our craft activities, including stamp art, marble art coasters and shrink art keychains – perfect for crafting delightful moments and unique keepsakes. Experience the fusion of art and technology through interactive activities, from co-creating a dynamic collaborative mural to exploring the vibrant realms of digital aviary colouring, where creativity knows no bounds. Chill and unwind to the melodies of live music performances
+Enjoy a creative night out at the National Library during the Singapore Night Festival! Discover artistic possibilities with our craft activities, including stamp art, marble art coasters and shrink art keychains – perfect for crafting delightful moments and unique keepsakes. Experience the fusion of art and technology through interactive activities, from co-creating a dynamic collaborative mural to exploring the vibrant realms of digital aviary colouring, where creativity knows no bounds. While you are at the Plaza, chill and unwind to the melodies of live music performances!
 
 ##### **More Programmes**
-See the full range of AT SG programmes [here](https://www.eventbrite.sg/cc/all-things-singapore-at-sg-2023-2329109) on Eventbrite. Join in the festival! 
+See the full range of AT SG programmes [here](https://www.eventbrite.sg/cc/all-things-singapore-at-sg-2023-2329109). Let's join in the festival! 
 <br>
 
 
@@ -188,7 +188,7 @@ See the full range of AT SG programmes [here](https://www.eventbrite.sg/cc/all-t
 
 #### **Programmes during Love Our Libraries and Archives 2023**
 
-Register for the programmes [here](https://www.eventbrite.sg/cc/all-things-singapore-at-sg-2023-2329109) on Eventbrite to secure a spot! 
+Be sure to register for the programmes [here](https://www.eventbrite.sg/cc/all-things-singapore-at-sg-2023-2329109) to secure a spot.
 <br>
 
 <b>[ National Archives of Singapore ]</b>
