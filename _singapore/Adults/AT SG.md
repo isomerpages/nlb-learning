@@ -84,8 +84,24 @@ Experience Singapore through your senses at our exciting line up of events celeb
       </a>
     </div>
   </div>
+
+<h5 class="margin--bottom--lg" id="spinaltap"></h5>
+
+![SpinalTap](/images/AT%20SG/tristan%20lim_spinal%20tap_01.png)
+
+#### **An Ocean Without the Anchor**
+**19 August – 27 August 2022**
+<br>**7.30 pm – 12 am**
+<br>**Outside Raffles City** (facing Capitol)
+
+**About the installation:**
+<br>*An Ocean Without the Anchor*&nbsp; is inspired by the lighthouse, a sturdy structure synonymous with being a beacon of hope shining in the darkness. A guiding light for those lost at sea, the lighthouse gives a sense of comfort to seamen leaving and returning home. Aptly located at the entrance of Raffles City – which would have then been along the Singapore shoreline before land reclamation took place in 1822 – this installation is a nod to the Bugis and their rich history as seafarers.&nbsp;
+
+Conveying the value of&nbsp;*bergotong-royong* &nbsp;(Malay for co-operation), the tower comprises five figures sitting stacked on each other's shoulders. At the top is the roof of a traditional&nbsp;*kampung*&nbsp; house, signifying shelter and safety as our community slowly transitions into “the new normal”.
+
+Creating an atmospheric auditory experience is an accompanying [soundtrack](https://www.speakcryptic.com/an-ocean-without-the-anchor.html){:target="_blank"} featuring the sounds of the sea and&nbsp;*kampung*&nbsp; life drawn from SoundScapeSG and the National Archives of Singapore.
 	
-<h5 id="spinaltap" class="margin--bottom--lg"></h5>
+
 
 ![SpinalTap](/images/AT%20SG/tristan%20lim_spinal%20tap_01.png)
 
