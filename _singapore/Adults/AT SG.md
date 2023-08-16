@@ -193,7 +193,6 @@ See the full range of AT SG programmes [here](https://www.eventbrite.sg/cc/all-t
 Be sure to register for the programmes [here](https://www.eventbrite.sg/cc/all-things-singapore-at-sg-2023-2329109) to secure a spot.
 <br>
 
-<b>[ National Archives of Singapore ]</b>
 | **Date** | **Title** | **Venue** | **Time** | **Register**|
 | -------- | -------- | -------- | -------- | -------- |
 | **23 Sep**     | **Archives Explorer: Rewind That Record**    | National Archives Building  | 10.30am – 12pm  | Click [here](){:target="blank"} to register |
@@ -202,10 +201,6 @@ Be sure to register for the programmes [here](https://www.eventbrite.sg/cc/all-t
 |**23 Sep**     | **Archives Unlocked: Roads That Are No Longer There**    | National Archives Building | 2pm – 3pm    | Click [here](https://www.eventbrite.sg/e/roads-that-are-no-longer-there-archives-unlocked-x-lola23-tickets-667725905157){:target="blank"} to register |
 | **23 Sep**     | **Conservation Hands-On Activity: Make Your Own Keepsake Box!**   | National Archives Building  | 2pm – 3.30pm    | Click [here](https://www.eventbrite.sg/e/at-sg-2023-conservation-activity-make-your-own-keepsake-box-lola23-tickets-668158007587){:target="blank"} to register |
 | **23 Sep**     | **Into The Archives: Behind the Scenes Tour** | National Archives Building  | 3pm – 4pm / 4.30pm – 5.30pm  | Click [here](https://www.eventbrite.sg/e/at-sg-2023-into-the-archives-behind-the-scenes-tour-lola23-tickets-668158920317){:target="blank"} to register |
-
-<b>[ National Library ]</b>
-| **Date** | **Title** | **Venue** | **Time** | **Register**|
-| -------- | -------- | -------- | -------- | -------- |
 |**23 Sep**    | **The News Gallery Exhibition Tour**  | National Library Building     | 11am – 12pm  | Click [here](https://www.eventbrite.sg/e/the-news-gallery-exhibition-tour-tickets-696508233877){:target="_blank"} to register |
 |**23 Sep**    | **Learning From Literature: Through the Lens of Stories**  | National Library Building     | 1.30pm – 3pm  | Click [here](https://www.eventbrite.sg/e/learning-from-literature-through-the-lens-of-stories-lola23-tickets-689161690167){:target="_blank"} to register |
 |**23 Sep**    | **Art X Stacks Tour**  | National Library Building     | 2pm – 3pm / 4pm – 5pm  | Click [here](https://www.eventbrite.sg/e/arts-x-stacks-tour-tickets-696512416387){:target="_blank"} to register |
