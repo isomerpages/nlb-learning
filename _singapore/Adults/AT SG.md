@@ -147,8 +147,8 @@ Experience Singapore through your senses at our exciting line up of events celeb
 ![](/images/AT%20SG/experiencing%20singapore%20through%20our%20senses.jpg)
 
 #### **Display: Experiencing Singapore Through Our Senses**
-**18 August – 4 September 2023**
-<br>**10 am – 9 pm**
+**18 August – 24 September 2023**
+<br>**10 am – 9 pm** (18, 19, 25 &amp; 26 August: 10 am – 12am)
 <br>**Atrium, Level 3, National Archives Building** 
 
 Visit the National Archives of Singapore for a new display spotlighting the history of selected spaces in the Bras Basah.Bugis precinct – some long gone, some less remembered, but all full of charm waiting to be rediscovered. Learn something new about Bras Basah.Bugis as you explore this visual showcase!
