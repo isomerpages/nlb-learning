@@ -91,7 +91,7 @@ Experience Singapore through your senses at our exciting line up of events celeb
 
 ![](/images/AT%20SG/tristan%20lim_spinal%20tap_01.png)
 
-#### **Installation: Spinal Tap by Tristan Lim**
+#### **Installation: Spinal Tap**
 **18 August – 26 August 2023**
 <br>**10 am – 12 am**
 <br>**The Plaza, Level 1, National Library Building** 
@@ -103,4 +103,73 @@ Experience Singapore through your senses at our exciting line up of events celeb
 
 **About the artist:**
 <br>Tristan Lim is a visual artist whose practice explores the material and existential significance of bodily surface and form in contemporary life, surfacing questions on innate perception and desire. Drawing from observations into contemporary visual culture, abstract bodies and chimeric, mutant subjects emerge, often through open-ended narratives, expressed through drawings, installations, new media, and procedural digital works. His work has been featured in group exhibitions at Ota Fine Arts, The Arts House, SAM at 8Q and The Institute of Contemporary Arts Singapore. He has also participated in the Facebook Artist-in-residence (AIR) programme, and presented work in Singapore Night Festival, Light to Night Festival, ART SG, and overseas in Spain, Vietnam and Taiwan.
-	
+
+**Find out more:**
+<br>The artist's research journey led him to the rich repository of books on biodiversity at the National Library, culminating in an artwork that drew inspiration from the collection's visual treasures. Skillfully intertwining artistic vision with technology, he harnessed the power of optical flow system and laser-cutting techniques in the creation of his installation, thereby fusing the realms of art and technology into a harmonious whole. 
+* See here for a list of resources referenced by the artist
+* For more books themed on Nature and Environment, check out [BookSG](https://eresources.nlb.gov.sg/printheritage/browse/Nature_and_Environment.aspx)
+* Discover a world of digital wonders and hands-on exploration through NLB’s [MakeIT](https://www.nlb.gov.sg/main/services/MakeIT-at-Libraries) and [ExperienceIT](https://www.eventbrite.sg/e/experienceit-punggol-regional-library-tickets-619561323597) programmes and services
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="stonethrow"></h5>
+
+![](/images/AT%20SG/wy-to%20installation%20kv.jpg)
+
+#### **Installation: A Stone's Throw (Away)**
+**18 August – 26 August 2023**
+<br>**7.30 pm – 12 am**
+<br>**Banyan Tree, National Museum of Singapore** 
+
+**About the installation:**
+<br>*A Stone's Throw (Away)* is inspired by the legend of the Singapore Stone. Recorded in the Sejarah Melayu (Malay Annals), the stone was flung from Fort Canning Hill to the mouth of the Singapore River by 14th-century strongman Badang, who would have made a fine shot put athlete today. In 1843, the British removed the colossal stone to widen the river's passage. This light installation reimagines the stone through a series of interconnected light panels filled with illustrations that are illuminated with body movement. Gather fellow festival-goers in front of the panels to activate them, and watch the “reconstructed” relic come to life.
+
+**About the artist:**
+<br>WY-TO Group doesn’t merely envision urban landscapes and create experiential spaces; they’re also the connoisseur of the visual splendour, culture, and heritage that inhabit them. True to their philosophy, “Design with A Cause”, they put the needs of the people and the environment on a pedestal, conjuring solutions to create an ecosystem that is inclusive, resilient, and free from the stresses of urban living.
+
+**Behind the work:**
+<br>In exploring the stories within Singapore and more specifically within the Bras Basah &amp; Bugis district, we looked at the legend of Badang and the Singapore Stone as the starting point of inspiration for our work. The legend of Badang is a popular childhood story that originated from the Sejarah Melayu (Malay Annals), which has been translated into a movie in 1962 and was even featured in Singapore’s National Day Parade in 2016.
+<br>The story of the Singapore Stone serves as an analogy of the precinct of Bras Basah &amp; Bugis. Indeed, it was previously the centre of governance for the progress of trade in Singapore from the 14th century till the 19th century when British set up a free port. Moreover, it is within this precinct that different types of businesses, residents, schools, entertainment and legends thrive to create a distinctive and diverse community. However, many of these distinctive elements were displaced by the urban renewal which started in the 70s. The multi-facetted installation aims to recall, rejoin and celebrate these diverse communities together.
+<br>Similarly, the surviving fragment of the stone currently on display at the National Museum of Singapore serves as a reminder of the strong roots of the Nation that set the foundation of its development. Nevertheless, to this day linguists are still unable to decipher the inscription on the fragmented piece, which could hold secrets to Singapore’s history.
+<br>The narrative of the installation, the reconstructed Singapore Stone, thus aims to serve as a cultural reminder of Singapore’s past as a historical Great Port City by connecting visitors to the story and the precinct.
+
+**Find out more:**
+* Learn more about the past and present of Fort Canning Hill via Curiocity’s digital story [More Than Just A Hill](https://curiocity.nlb.gov.sg/digital-stories/fort-canning-hill/intro/).
+* Discover the history of the Singapore stone via Infopedia [here](https://eresources.nlb.gov.sg/infopedia/articles/SIP_43_2005-01-26.html?s=singapore%20stone).
+* Explore the [Asian Children's Literature](https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/collections/Collections/asian-children-literature) collection to discover more stories and folktales from Singapore and the region.
+* Check out this children's book [Attack of the Swordfish And Other Singapore Tales](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12543303) that was referenced for the installation's illustrations.
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+
+<h5 class="margin--bottom--lg" id="nasdisplay"></h5>
+
+![](/images/AT%20SG/experiencing%20singapore%20through%20our%20senses.jpg)
+
+#### **Display: Experiencing Singapore Through Our Senses**
+**18 August – 4 September 2023**
+<br>**10 am – 9 pm**
+<br>**Atrium, Level 3, National Archives Building** 
+
+Visit the National Archives of Singapore for a new display spotlighting the history of selected spaces in the Bras Basah.Bugis precinct – some long gone, some less remembered, but all full of charm waiting to be rediscovered. Learn something new about Bras Basah.Bugis as you explore this visual showcase!
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="snfprogs"></h5>
+
+#### **Programmes during Singapore Night Festival**
+<br>
+
+| **Date** | **Title** | **Venue** | **Time** | **Register**|
+| -------- | -------- | -------- | -------- | -------- |
+|**11 Jan**    | **Behind the Façade: Pipe Organs in Singapore**  | Zoom     | 7:30pm to 8:30pm  | Click [here](https://www.eventbrite.com/e/behind-the-facade-pipe-organs-in-singapore-tickets-223913781147?aff=odcleoeventsincollection&amp;keep_tld=1){:target="_blank"} to register |
+|**13 Jan**     | **Connecting with the Past: Reliving Memories with Building Blocks**    | Zoom  | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.sg/e/connecting-with-the-past-reliving-memories-with-building-blocks-tickets-230684793427?aff=odcleoeventsincollection){:target="blank"} to register |
+|**15 Jan**     | **Map-Making and the Fiction of Knowledge**    | National Library Building | 10:00am to 11:00am    | Click [here](https://www.eventbrite.sg/e/map-making-and-the-fiction-of-knowledge-mapping-the-world-exhibition-tickets-227561732267?aff=odcleoeventsincollection){:target="blank"} to register |
+| **19 Jan**     | **Snapshots in Time**    | Zoom  | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.com/e/snapshots-in-time-tickets-230234005107?aff=odcleoeventsincollection&amp;keep_tld=1){:target="blank"} to register |
+| **20 Jan**     | **Immersive Spaces with Art and Technology**     |  Zoom   | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.sg/e/immersive-spaces-with-art-and-technology-tickets-223847593177?aff=odcleoeventsincollection){:target="blank"} to register |
+| **26 Jan**     | **Pastimes from the Past**   | Zoom  | 7:00pm to 8:00pm    | Click [here](https://www.eventbrite.com/e/pastimes-from-the-past-tickets-230232721267?aff=odcleoeventsincollection&amp;keep_tld=1){:target="blank"} to register |
+| **27 Jan**     | **Archives Invites: Dr Kristy Kang – Digital Placemaking &amp; Public History**   | Zoom  | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.com/e/archives-invites-dr-kristy-kang-digital-placemaking-public-history-tickets-239056282777?aff=odcleoeventsincollection&amp;keep_tld=1){:target="blank"} to register |
+| **28 Jan**     | **Histories: Understanding Creative Placemaking**   | Zoom  | 6:00pm to 7:00pm    | Click [here](https://www.eventbrite.com/e/histories-understanding-creative-placemaking-tickets-252983840477?aff=odcleoeventsincollection&amp;keep_tld=1){:target="blank"} to register |
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
