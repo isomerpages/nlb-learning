@@ -201,7 +201,7 @@ Be sure to register for the programmes [here](https://www.eventbrite.sg/cc/all-t
 |**23 Sep**     | **All About Us: Screening of NAS Clips**    | National Archives Building  | 12pm – 1.30pm    | Click [here](https://www.eventbrite.sg/e/at-sg-2023-all-about-us-video-screening-of-nas-clips-lola23-tickets-689988934477){:target="blank"} to register |
 |**23 Sep**     | **Archives Unlocked: Roads That Are No Longer There**    | National Archives Building | 2pm – 3pm    | Click [here](https://www.eventbrite.sg/e/roads-that-are-no-longer-there-archives-unlocked-x-lola23-tickets-667725905157){:target="blank"} to register |
 | **23 Sep**     | **Conservation Hands-On Activity: Make Your Own Keepsake Box!**   | National Archives Building  | 2pm – 3.30pm    | Click [here](https://www.eventbrite.sg/e/at-sg-2023-conservation-activity-make-your-own-keepsake-box-lola23-tickets-668158007587){:target="blank"} to register |
-| **23 Sep**     | **Into The Archives: Behind the Scenes Tour** | National Archives Building  | 3pm – 4pm / 4.30pm – 5.30pm  | Click [here](https://www.eventbrite.sg/e/at-sg-2023-into-the-archives-behind-the-scenes-tour-lola23-tickets-668158920317){:target="blank"} to register 
+| **23 Sep**     | **Into The Archives: Behind the Scenes Tour** | National Archives Building  | 3pm – 4pm / 4.30pm – 5.30pm  | Click [here](https://www.eventbrite.sg/e/at-sg-2023-into-the-archives-behind-the-scenes-tour-lola23-tickets-668158920317){:target="blank"} to register |
 
 <b>[ National Library ]</b>
 | **Date** | **Title** | **Venue** | **Time** | **Register**|
