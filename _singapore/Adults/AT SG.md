@@ -111,17 +111,18 @@ The installation forms a written tapestry, woven with circulating ideas. Vein-li
 * See here for a list of resources referenced by the artist
 * For more books themed on Nature and Environment, check out [BookSG](https://eresources.nlb.gov.sg/printheritage/browse/Nature_and_Environment.aspx) 
 * Discover a world of digital wonders and hands-on exploration through NLB’s MakeIT[MakeIT](https://www.nlb.gov.sg/main/services/MakeIT-at-Libraries) and [ExperienceIT](https://www.eventbrite.sg/e/experienceit-punggol-regional-library-tickets-619561323597) programmes and services
-
+	
+	<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>	
 ___
 
-<h5 class="margin--bottom--lg" id="farm"></h5>
+<h5 class="margin--bottom--lg" id="stonethrow"></h5>
 
 ![Alt text for image on Isomer site](/images/FARM_KV1.jpg)
 
 #### **A Stone's Throw (Away) by WY-TO Group**
-**19 August – 27 August 2022**
+**18 August – 26 August 2023**
 <br>**7.30 pm – 12 am**
-<br>**Stamford Walkway** (along Stamford Road, opposite Capitol)
+<br>**Banyan Tree, National Museum of Singapore**
 
 **About the installation:**
 <br>*Paddy Fields* &nbsp;recalls the forgotten practice of drying cultivated rice along the banks of Sungei Brass Bassa (now Stamford Canal) in the early 19<sup>th</sup> century. The area was close to the paddy fields located opposite today’s KK Women’s and Children’s Hospital. South Asian washermen and women also laundered clothes there, laying them out to dry on adjacent open space. Using a palette of humble materials, this installation seeks to evoke the sentiments reminiscent of these activities from a bygone era.
