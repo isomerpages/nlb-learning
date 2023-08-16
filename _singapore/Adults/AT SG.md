@@ -212,3 +212,5 @@ Be sure to register for the programmes [here](https://www.eventbrite.sg/cc/all-t
 |**24 Sep**    | **Folktales and Living Lore Tour**  | National Library Building     | 2pm – 3pm  | Click [here](https://www.eventbrite.sg/e/folktales-and-living-lore-tour-tickets-696526167517){:target="_blank"} to register |
 |**24 Sep**    | **A Librarian's World: Indian Festivities From Colonial to Current Times in Singapore**  | National Library Building     | 4pm – 5pm  | Click [here](https://www.eventbrite.sg/e/indian-festivities-from-colonial-times-a-librarians-world-x-lola23-tickets-691562470967){:target="_blank"} to register |
 |**24 Sep**    | **Fall in Love with Local Edibles**  | National Library Building     | 5pm – 6pm  | Click [here](https://www.eventbrite.sg/e/at-sg-2023-fall-in-love-with-local-edibles-lola23-tickets-690053537707){:target="_blank"} to register |
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
