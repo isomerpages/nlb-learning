@@ -169,6 +169,25 @@ Visit the National Archives of Singapore for a new display spotlighting the hist
 Enjoy a creative night out at the National Library during the Singapore Night Festival! Discover artistic possibilities with our craft activities, including stamp art, marble art coasters and shrink art keychains – perfect for crafting delightful moments and unique keepsakes. Experience the fusion of art and technology through interactive activities, from co-creating a dynamic collaborative mural to exploring the vibrant realms of digital aviary colouring, where creativity knows no bounds. Chill and unwind to the melodies of live music performances
 
 ##### **More Programmes**
+See the full range of AT SG programmes [here](https://www.eventbrite.sg/cc/all-things-singapore-at-sg-2023-2329109) on Eventbrite. Join in the festival! 
+<br>
+
+
+| **Date** | **Title** | **Venue** | **Time** | **Register**|
+| -------- | -------- | -------- | -------- | -------- |
+|**23 Sep**    | **The News Gallery Exhibition Tour**  | National Library Building     | 11am – 12pm  | Click [here](https://www.eventbrite.sg/e/y6-farewell-concert-2023-a-production-by-dunman-high-mep-class-of-2023-registration-692227700687){:target="_blank"} to register |
+| **18 &amp; 25 Aug**     | **Live at the Archives**    | National Archives Building  | 7.45 pm – 8.30pm / 9.45pm – 10.30pm  | Click [here](https://www.eventbrite.sg/e/at-sg-2023-live-at-the-archives-tickets-667738974247){:target="blank"} to register |
+| **18 &amp; 25 Aug**     | **Sailing Back in Time: Soundscape Prformance by bani haykal**    | National Archives Building  | 9pm – 9.30pm  | Click [here](https://www.eventbrite.sg/e/at-sg-2023-sailing-back-in-time-screening-and-soundscape-performance-tickets-667736827827){:target="blank"} to register |
+|**19 Aug**     | **Histories: Sea Ports Singapore**    | National Library Building  | 7pm – 8pm    | Click [here](https://www.eventbrite.sg/e/sea-ports-singapore-a-case-study-on-complexity-histories-x-at-sg-2023-tickets-669128259637){:target="blank"} to register |
+|**19 Aug**     | **Archives Invites: Michael Flecker - Singapore's Maritime History: Shipwreck Evidence**    | National Archives Building | 6.45pm – 7.45pm    | Click [here](https://www.eventbrite.sg/e/archives-invites-michael-flecker-sg-maritime-history-shipwreck-evidence-tickets-666744559927){:target="blank"} to register || **19 &amp; 26 Aug**     | **Stories of the Sea**   | National Archives Building  | Various timings    | Click [here](https://www.eventbrite.sg/e/at-sg-2023-stories-of-the-sea-tickets-667744500777){:target="blank"} to register |
+| **26 Aug**     | **Singalong Storytelling Session: Sing a Song of Hawker Food**   |  National Archives Building  | 7.30pm – 8pm / 8.15pm – 8.45pm    | Click [here](https://www.eventbrite.sg/e/at-sg-2023-singalong-storytelling-session-sing-a-song-of-hawker-food-tickets-667748603047){:target="blank"} to register |
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="lolaprogs"></h5>
+
+#### **Programmes during Love Our Libraries and Archives (LOLA)**
+
 Check out more AT SG programmes [here](https://www.eventbrite.sg/cc/all-things-singapore-at-sg-2023-2329109) on Eventbrite! Be sure to register to secure a spot. 
 <br>
 
@@ -181,5 +200,3 @@ Check out more AT SG programmes [here](https://www.eventbrite.sg/cc/all-things-s
 |**19 Aug**     | **Histories: Sea Ports Singapore**    | National Library Building  | 7pm – 8pm    | Click [here](https://www.eventbrite.sg/e/sea-ports-singapore-a-case-study-on-complexity-histories-x-at-sg-2023-tickets-669128259637){:target="blank"} to register |
 |**19 Aug**     | **Archives Invites: Michael Flecker - Singapore's Maritime History: Shipwreck Evidence**    | National Archives Building | 6.45pm – 7.45pm    | Click [here](https://www.eventbrite.sg/e/archives-invites-michael-flecker-sg-maritime-history-shipwreck-evidence-tickets-666744559927){:target="blank"} to register || **19 &amp; 26 Aug**     | **Stories of the Sea**   | National Archives Building  | Various timings    | Click [here](https://www.eventbrite.sg/e/at-sg-2023-stories-of-the-sea-tickets-667744500777){:target="blank"} to register |
 | **26 Aug**     | **Singalong Storytelling Session: Sing a Song of Hawker Food**   |  National Archives Building  | 7.30pm – 8pm / 8.15pm – 8.45pm    | Click [here](https://www.eventbrite.sg/e/at-sg-2023-singalong-storytelling-session-sing-a-song-of-hawker-food-tickets-667748603047){:target="blank"} to register |
-
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
