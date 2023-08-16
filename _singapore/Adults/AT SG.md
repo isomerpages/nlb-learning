@@ -159,6 +159,15 @@ Visit the National Archives of Singapore for a new display spotlighting the hist
 
 #### **Programmes during Singapore Night Festival**
 
+
+
+#### **Plaza Party at the Library**
+**18 &amp; 19 August2023**
+<br>**7.30pm – 10.30 pm**
+<br>**The Plaza, Level 1, National Library Building** 
+
+Enjoy a creative night out at the National Library during the Singapore Night Festival! Discover artistic possibilities with our craft activities, including stamp art, marble art coasters and shrink art keychains – perfect for crafting delightful moments and unique keepsakes. Experience the fusion of art and technology through interactive activities, from co-creating a dynamic collaborative mural to exploring the vibrant realms of digital aviary colouring, where creativity knows no bounds. Chill and unwind to the melodies of live music performances
+
 Check out more AT SG programmes [here](https://www.eventbrite.sg/cc/all-things-singapore-at-sg-2023-2329109) on Eventbrite! Be sure to register to secure a spot. 
 <br>
 
