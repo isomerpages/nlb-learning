@@ -142,6 +142,8 @@ Similarly, the surviving fragment of the stone currently on display at the Natio
 
 The narrative of the installation—the reconstructed Singapore Stone—thus aims to serve as a cultural reminder of Singapore’s past as a historical Great Port City by connecting visitors to the story and the precinct.
 
+<b>Watch [this episode](https://www.youtube.com/watch?v=pP5TXdJiQVw) of The Library Report to delve into the inspiration behind the installation, the Asian Children's Literature collection, and the intricate processes involved in conceptualising and crafting the artwork.</b>
+
 **Find out more:**
 * Learn more about the past and present of Fort Canning Hill via Curiocity’s digital story [More Than Just A Hill](https://curiocity.nlb.gov.sg/digital-stories/fort-canning-hill/intro/).
 * Discover the history of the Singapore stone via Infopedia [here](https://eresources.nlb.gov.sg/infopedia/articles/SIP_43_2005-01-26.html?s=singapore%20stone).
