@@ -184,6 +184,7 @@ See the full range of AT SG programmes [here](https://www.eventbrite.sg/cc/all-t
 
 | **Date** | **Title** | **Venue** | **Time** | **Register**|
 | -------- | -------- | -------- | -------- | -------- |
+|**18 &amp; 19 Aug**    | **Plaza Party at the Library**  | National Library Building     |7.30pm – 10.30pm  | Click [here](https://www.eventbrite.sg/e/at-sg-2023-plaza-party-at-the-library-tickets-679325860937){:target="_blank"} to register |
 |**18 Aug**    | **Y6 Farewell Concert 2023**  | National Library Building     | 6.45pm – 8.15pm  | Click [here](https://www.eventbrite.sg/e/y6-farewell-concert-2023-a-production-by-dunman-high-mep-class-of-2023-registration-692227700687){:target="_blank"} to register |
 | **18 &amp; 25 Aug**     | **Live at the Archives**    | National Archives Building  | 7.45 pm – 8.30pm / 9.45pm – 10.30pm  | Click [here](https://www.eventbrite.sg/e/at-sg-2023-live-at-the-archives-tickets-667738974247){:target="blank"} to register |
 | **18 &amp; 25 Aug**     | **Sailing Back in Time: Soundscape Prformance by bani haykal**    | National Archives Building  | 9pm – 9.30pm  | Click [here](https://www.eventbrite.sg/e/at-sg-2023-sailing-back-in-time-screening-and-soundscape-performance-tickets-667736827827){:target="blank"} to register |
