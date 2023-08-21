@@ -159,7 +159,7 @@ The narrative of the installation—the reconstructed Singapore Stone—thus aim
 
 #### **Display: Experiencing Singapore Through Our Senses**
 **18 August – 24 September 2023**
-<br>**10 am – 9 pm** (18, 19, 25 &amp; 26 August: 10 am – 12am)
+<br>**10 am – 9 pm** 
 <br>**Atrium, Level 3, National Archives Building** 
 
 Visit this pop-up showcase at the National Archives of Singapore, spotlighting the history in the Bras Basah.Bugis precinct that we can rediscover through stories in the community. Take a walk through and experience Singapore’s early days in this interactive display!
