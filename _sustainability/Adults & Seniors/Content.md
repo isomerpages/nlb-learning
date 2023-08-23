@@ -533,7 +533,7 @@ It’s common to think that sustainability and economic growth are mutually excl
 	</tbody></table>
 	<h4>Videos</h4>
 <h5>1. What is a Green Economy?</h5>
-<p>Still confused about how the green economy works? Get started by understanding its advantages and learn about </p>
+<p>Still confused about how the green economy works? Get started by understanding its advantages and learn about some initiatives in Singapore that support a Green Economy! </p>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VkOtfvhtawA" height="315" width="560"></iframe></div>
 Source: <a target="_blank" href="https://www.youtube.com/embed/VkOtfvhtawA">What is a Green Economy?</a> (2020, July 6). <i>Greenpeace UK.</i> Retrieved 2021, September 15
