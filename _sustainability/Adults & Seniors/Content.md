@@ -60,7 +60,7 @@ Check our **learning packages** for articles that will give you insights into li
 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#nature-playlist">
-        <span>Playlist:<br>You & Nature</span>
+        <span>Playlist:<br>You &amp; Nature</span>
       </a>
     </div>
   </div>
@@ -123,7 +123,7 @@ Check our **learning packages** for articles that will give you insights into li
 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       	<a href="#forests-plants">
-        <span>Playlist:<br>Forest & Plants</span>
+        <span>Playlist:<br>Forest &amp; Plants</span>
       </a>
     </div>
 </div>
@@ -509,8 +509,8 @@ Peter Dauvergne ( 2020), <i> AI in the Wild by Peter Dauvergne </i>, MIT Press
 
 <h3> Learning Package: Green Economy </h3>	
 	
-It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><small></small></sup></a><small><a href="#footnote-one">1</a></small>
-	<p>As one of the key pillars of the Singapore Green Plan 2030, a whole-of-nation movement to advance Singapore’s national agenda on sustainable development<sup><small><a href="#footnote-two">2</a></small></sup> developing a Green Economy in Singapore refers to seeking green growth to create new jobs, transform industries and harness sustainability as a competitive advantage<sup><small><a href="#footnote-three">3</a></small></sup>.</p>
+It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><small><a href="#footnote-one">1</a></small></sup><p></p>
+	<p>As one of the key pillars of the Singapore Green Plan 2030, a whole-of-nation movement to advance Singapore’s national agenda on sustainable development<sup><small><a href="#footnote-two">2</a></small></sup> developing a Green Economy in Singapore refers to seeking green growth to create new jobs, transform industries and harness sustainability as a competitive advantage.<sup><small><a href="#footnote-three">3</a></small></sup></p>
 <p>In a green economy, growth in employment and income are driven by public and private investment into low carbon, resource efficient and socially inclusive economic activities, infrastructure, and assets that allow reduced carbon emissions and pollution, enhanced energy and resource efficiency, and prevention of the loss of biodiversity and ecosystem services.<sup><small><a href="#footnote-four">4</a></small></sup></p>
 <p>In the Green Plan, Singapore’s key targets are to Introduce an Enterprise Sustainability Programme, Create business and job opportunities, Be a leading centre for Green Finance in Asia and globally and to Promote homegrown innovation under the Research, Innovation and Enterprise Plan 2025.<sup><small><a href="#footnote-three">3</a></small></sup></p>
 <p>As the global awareness for sustainability efforts increase, more corporations are heading towards more sustainable business models. 
@@ -533,7 +533,7 @@ It’s common to think that sustainability and economic growth are mutually excl
 	</tbody></table>
 	<h4>Videos</h4>
 <h5>1. What is a Green Economy?</h5>
-<p>Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here! Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here!</p>
+<p>Still confused about how the green economy works? Get started by understanding its advantages and learn about </p>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VkOtfvhtawA" height="315" width="560"></iframe></div>
 Source: <a target="_blank" href="https://www.youtube.com/embed/VkOtfvhtawA">What is a Green Economy?</a> (2020, July 6). <i>Greenpeace UK.</i> Retrieved 2021, September 15
@@ -937,7 +937,7 @@ Source: <a target="_blank" href="https://www.youtube.com/embed/rCdVWD4Ko_0"> Con
 
 <p>Malaysian anthropologist Long Litt Woon found solace in fungi foraging after the unexpected death of her husband. She's now become a certified mushroom expert.
 
-<h4>Ebooks</h4>
+</p><h4>Ebooks</h4>
 <h5>1.The Well Gardened Mind:Rediscovering Nature in the Modern World </h5>
 Sue Stuart-Smith, (2020)<i>The Well Gardened Mind: Rediscovering Nature in the Modern World<i>,New York: HarperCollins Publishers.
 
@@ -949,12 +949,12 @@ Sue Stuart-Smith, (2020)<i>The Well Gardened Mind: Rediscovering Nature in the M
 <p><a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Well-Gardened%20Mind/page-1/2300804">Borrow the eBook here</a>. </p>
 Retrieved from Libby (myLibraryid is required to access the eBook).
 	
-<h5>2. The Living Wisdom of Trees : A Guide to the Natural History, Symbolism and Healing Power Of Trees</h5>
-Fred Hageneder (2020), <i>The Living Wisdom of Trees : A Guide to the Natural History, Symbolism and Healing Power Of Trees <i>, Watkins Publishing
+<h5>2. The Living Wisdom of&nbsp;Trees :&nbsp;A Guide to the Natural History, Symbolism and Healing Power Of&nbsp;Trees</h5>
+Fred&nbsp;Hageneder&nbsp;(2020), <i>The Living Wisdom of&nbsp;Trees :&nbsp;A Guide to the Natural History, Symbolism and Healing Power Of&nbsp;Trees <i>, Watkins Publishing
 <p>
 
 <a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Living%20Wisdom%20of%20Trees/page-1"><img alt="book cover for living wisdom of trees" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Living Wisdom of Trees.png"></a>
-<p>A definitive illustrated guide to the sacred place trees hold for cultures around the world, looking in particular at their botanical characteristics; their place in world myth, magic and folklore; their healing properties; and their practical contribution to society.</p>
+</p><p>A definitive illustrated guide to the sacred place trees hold for cultures around the world, looking&nbsp;in particular at&nbsp;their botanical characteristics; their place in world myth, magic and folklore; their healing properties; and their practical contribution to society.</p>
 <p><a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Living%20Wisdom%20of%20Trees/page-1">Borrow the eBook here</a>.</p>Retrieved from Libby (myLibraryid is required to access the eBook)
 	
 <h4>Book</h4>
@@ -963,19 +963,20 @@ Kua Ee Heok et al (2020), <i> Nature, Health, Happiness: Enhancing Well-Being an
 
 <p>
 
-<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204519930"><img alt="book cover for nature, health, happiness" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Nature, Health.png"></a>
-<p>A Singapore-based perspective at the importance of greenery in our lives, and how walking mindfully in a forest can enhance well-being and resilience.</p>
-<p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204519930">Borrow the Book at the Public Libraries</a>.
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204519930"><img alt="book cover for nature, health, happiness" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Nature, Health.png"></a>
+</p><p>A Singapore-based perspective at the importance of greenery in our lives, and how walking mindfully in a forest can enhance well-being and resilience.</p>
+<p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204519930">Borrow the Book at the Public Libraries</a>.
 
-<h5>2.Recalling forgotten tastes: Of Illustrated Edible Plants, Food and Memories.</h5>
+</p><h5>2.Recalling forgotten tastes: Of Illustrated Edible Plants, Food and Memories.</h5>
 Syarifah Nadhirah (2020), <i> Recalling forgotten tastes: Of Illustrated Edible Plants, Food and Memories <i>,Malaysia: Syarifah Nadhirah. 
 
 <p>
 
-<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205288452"><img alt="book cover for recalling forgotten tastes" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Recalling Forgotten.png"></a>
-<p>A whimsical illustrative collection of edible plants that centres on the environmental knowledge and traditional culinary practices of the Orang Asli communities in Peninsular Malaysia.</p>
-<p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205288452">Borrow the Book at the Public Libraries</a>.
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205288452"><img alt="book cover for recalling forgotten tastes" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Recalling Forgotten.png"></a>
+</p><p>A whimsical illustrative collection of edible plants that centres on the environmental knowledge and traditional culinary practices of the Orang Asli communities in Peninsular Malaysia.</p>
+<p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205288452">Borrow the Book at the Public Libraries</a>.
 
-<h4>Sustainability Programmes in NLB</h4>
+</p><h4>Sustainability Programmes in NLB</h4>
 
 <p>There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a target="_blank" href="https://go.gov.sg/sustainprog">go.gov.sg/sustainprog</a>
+</p></i></i></i></i></i></i></i></i>
