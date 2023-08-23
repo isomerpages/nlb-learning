@@ -509,7 +509,7 @@ Peter Dauvergne ( 2020), <i> AI in the Wild by Peter Dauvergne </i>, MIT Press
 
 <h3> Learning Package: Green Economy </h3>	
 	
-It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><small><a href="#footnote-one">1</a></small></sup><p></p>
+It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><small><a href="#footnote-one">1</a></small></sup>
 	<p>As one of the key pillars of the Singapore Green Plan 2030, a whole-of-nation movement to advance Singapore’s national agenda on sustainable development<sup><small><a href="#footnote-two">2</a></small></sup> developing a Green Economy in Singapore refers to seeking green growth to create new jobs, transform industries and harness sustainability as a competitive advantage.<sup><small><a href="#footnote-three">3</a></small></sup></p>
 <p>In a green economy, growth in employment and income are driven by public and private investment into low carbon, resource efficient and socially inclusive economic activities, infrastructure, and assets that allow reduced carbon emissions and pollution, enhanced energy and resource efficiency, and prevention of the loss of biodiversity and ecosystem services.<sup><small><a href="#footnote-four">4</a></small></sup></p>
 <p>In the Green Plan, Singapore’s key targets are to Introduce an Enterprise Sustainability Programme, Create business and job opportunities, Be a leading centre for Green Finance in Asia and globally and to Promote homegrown innovation under the Research, Innovation and Enterprise Plan 2025.<sup><small><a href="#footnote-three">3</a></small></sup></p>
@@ -569,7 +569,7 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 <h5>3. Tomorrow's economy: A guide to creating healthy green growth</h5>
 Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy green growth</i>, New York: The MIT Press.
 <br>
-<a target="_blank" href="https://nlb.overdrive.com/media/5461605"><img alt="you're not listening" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/TomorrowsEconomy.jpg"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/5461605"><img alt="Book cover for Tomorrow's Economy" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/TomorrowsEconomy.jpg"></a>
 <p>How does the economy and climate change intertwine? Giving real examples and tactics to ensure a business, individual, or institution is moving towards healthy, green, growth and limiting its impacts on climate change, Tomorrow’s economy: A guide to creating healthy green growth reframes the hot-button issue of economic growth.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/5461605">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
