@@ -520,14 +520,14 @@ It’s common to think that sustainability and economic growth are mutually excl
 		<td>
 			<h2>Did you know...</h2>
 			<p>In 2015, Amsterdam become one of the world’s first circular cities.<sup><a href="#footnote-five">5</a></sup> They were also the first city to get a circular city scan, in collaboration with Circle Economy<sup><a href="#footnote-six">6</a></sup>, which identifies those areas where the most significant, tangible progress in realizing a circular economy can be achieved<sup><a href="#footnote-seven">7</a></sup>. Through the circular city scan, they found out that both the food and the construction sector had large circular potential, with potentially high economic and environmental impact.</p>
-			<p>Amsterdam’s approach to a circular economy is focused on 3 value chains<sup><a href="#footnote-eight">8</a></sup>.</p>
+			<p>Amsterdam’s approach to a circular economy is focused on 3 value chains.<sup><a href="#footnote-eight">8</a></sup></p>
 			<ul>
 				<li>Food and organic waste streams</li>
 				<li>Consumer goods</li>
 				<li>Built environment</li>
 			</ul>
 			<p>Singapore, however, is not too far behind. Through policies to encourage sustainable production and consumption, such as the Extended Producer Responsibility (EPR)<sup><a href="#footnote-nine">9</a></sup>, Singapore has begun to embrace the circular economy approach in several areas.</p>
-			<p>On top of having almost all our construction waste and metals recycled, Singapore has also managed to close the water loop. This is possible through Singapore’s ability to endlessly recycle water, enabling it to be reused indefinitely! This has allowed Singapore to reintroduce up to almost 800,000 m<sup>3</sup> of ultra-pure recycled water into our system each day <sup><a href="#footnote-ten">10</a></sup>.</p>
+			<p>On top of having almost all our construction waste and metals recycled, Singapore has also managed to close the water loop. This is possible through Singapore’s ability to endlessly recycle water, enabling it to be reused indefinitely! This has allowed Singapore to reintroduce up to almost 800,000 m<sup>3</sup> of ultra-pure recycled water into our system each day. <sup><a href="#footnote-ten">10</a></sup></p>
 		</td>
 	</tr>
 	</tbody></table>
@@ -535,7 +535,7 @@ It’s common to think that sustainability and economic growth are mutually excl
 <h5>1. What is a Green Economy?</h5>
 <p>Still confused about how the green economy works? Get started by understanding its advantages and learn about some initiatives in Singapore that support a Green Economy! </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VkOtfvhtawA" height="315" width="560"></iframe></div>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7MkSgSt3yVI" height="315" width="560"></iframe></div>
 Source: <a target="_blank" href="https://www.youtube.com/embed/VkOtfvhtawA">What is a Green Economy?</a> (2020, July 6). <i>Greenpeace UK.</i> Retrieved 2021, September 15
 
 <h5>2. How to Get Everyone to Care about a Green Economy</h5> 
