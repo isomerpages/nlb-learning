@@ -531,7 +531,7 @@ It’s common to think that sustainability and economic growth are mutually excl
 		</td>
 	</tr>
 	</tbody></table>
-	<h4>Videos</h4>
+<h4>Videos</h4>
 <h5>1. What is a Green Economy?</h5>
 <p>Still confused about how the green economy works? Get started by understanding its advantages and learn about some initiatives in Singapore that support a Green Economy! </p>
 <div class="bp-youtube">
