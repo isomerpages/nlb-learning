@@ -536,7 +536,7 @@ It’s common to think that sustainability and economic growth are mutually excl
 <p>Still confused about how the green economy works? Get started by understanding its advantages and learn about some initiatives in Singapore that support a Green Economy! </p>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7MkSgSt3yVI" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/embed/VkOtfvhtawA">What is a Green Economy?</a> (2020, July 6). <i>Greenpeace UK.</i> Retrieved 2021, September 15
+Source: <a target="_blank" href="https://www.youtube.com/embed/7MkSgSt3yVI">Green Economy | Explained in 3 Minutes</a> (2023, May 25). <i>NLB Singapore.</i> Retrieved 2023, August 18
 
 <h5>2. How to Get Everyone to Care about a Green Economy</h5> 
 <p>Watch this video to gather tips on how to convince people about the Green Economy. </p>
@@ -547,7 +547,7 @@ Source: <a target="_blank" href="https://www.youtube.com/embed/slbfAfEvnQ0">How 
 <h4>Website</h4>
 
 <h5><a target="_blank" href="https://www.unep.org/explore-topics/green-economy?__cf_chl_managed_tk__=pmd_3uVt5NT5vJszILkDQcVVe9Mo8Y_Mcem8z3ZkMMqxUG4-1632874402-0-gqNtZGzNAxCjcnBszQjl">UN Environment Programme</a></h5>
-<p>Explore the site to read about the green economy on a global scale and the transition to economies that are low carbon, resource efficient and socially inclusive.</p>
+<p>Explore the site to read about the green economy on a global scale and the transition to economies that are low-carbon, resource-efficient and socially inclusive.</p>
 
 <h4>eBooks</h4>
 <h5>1. Greening the global economy</h5>
