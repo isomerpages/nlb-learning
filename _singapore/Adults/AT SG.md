@@ -201,7 +201,7 @@ See the full range of AT SG programmes [here](https://www.eventbrite.sg/cc/all-t
 
 #### **Programmes during Love Our Libraries and Archives 2023**
 
-Check out the Lobby at the National Library Building and the Atrium of the National Archives Building on 23 September to indulge in some local drinks or snacks, and don't forget to join in our programmes! Be sure to register for the programmes [here](https://www.eventbrite.sg/cc/all-things-singapore-at-sg-2023-2329109) to secure a spot.
+Check out the Lobby at the National Library Building and the Atrium of the National Archives Building on 23 September 2023 to indulge in some local drinks or snacks, and don't forget to join in our programmes! Be sure to register for the programmes [here](https://www.eventbrite.sg/cc/all-things-singapore-at-sg-2023-2329109) to secure a spot.
 <br>
 
 | **Date** | **Title** | **Venue** | **Time** | **Register**|
