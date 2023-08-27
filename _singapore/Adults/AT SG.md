@@ -108,7 +108,7 @@ From afar, *Spinal Tap* presents two large humanoid silhouettes surrounding a sp
 The installation forms a written tapestry, woven with circulating ideas. Vein-like ropes embrace the silhouettes, imbibing them with potentiality, evoking notions of evolution and intelligence through the simple act of reading—a deeply human way of learning, filled with untapped potential for so much more.
 
 **About the artist:**
-<br>Tristan Lim is a visual artist whose practice explores the material and existential significance of bodily surface and form in contemporary life, surfacing questions on innate perception and desire. Drawing from observations into contemporary visual culture, abstract bodies and chimeric, mutant subjects emerge, often through open-ended narratives, expressed through drawings, installations, new media, and procedural digital works. His work has been featured in group exhibitions at Ota Fine Arts, The Arts House, SAM at 8Q and The Institute of Contemporary Arts Singapore. He has also participated in the Facebook Artist-in-residence (AIR) programme, and presented work in Singapore Night Festival, Light to Night Festival, ART SG, and overseas in Spain, Vietnam and Taiwan.
+<br>[Tristan Lim](https://tristan-lim.com) is a visual artist whose practice explores the material and existential significance of bodily surface and form in contemporary life, surfacing questions on innate perception and desire. Drawing from observations into contemporary visual culture, abstract bodies and chimeric, mutant subjects emerge, often through open-ended narratives, expressed through drawings, installations, new media, and procedural digital works. His work has been featured in group exhibitions at Ota Fine Arts, The Arts House, SAM at 8Q and The Institute of Contemporary Arts Singapore. He has also participated in the Facebook Artist-in-residence (AIR) programme, and presented work in Singapore Night Festival, Light to Night Festival, ART SG, and overseas in Spain, Vietnam and Taiwan.
 
 **Find out more:**
 <br>The artist's research journey led him to the rich repository of books on biodiversity at the National Library, culminating in an artwork that drew inspiration from the collection's visual treasures. Skillfully intertwining artistic vision with technology, he harnessed the power of optical flow system and laser-cutting techniques in the creation of his installation, thereby fusing the realms of art and technology into a harmonious whole. 
@@ -131,7 +131,7 @@ The installation forms a written tapestry, woven with circulating ideas. Vein-li
 <br>*A Stone's Throw (Away)* is inspired by the legend of the Singapore Stone. Recorded in the Sejarah Melayu (Malay Annals), the stone was flung from Fort Canning Hill to the mouth of the Singapore River by 14th-century strongman Badang, who would have made a fine shot put athlete today. In 1843, the British removed the colossal stone to widen the river's passage. This light installation reimagines the stone through a series of interconnected light panels filled with illustrations that are illuminated with body movement. Gather fellow festival-goers in front of the panels to activate them, and watch the “reconstructed” relic come to life.
 
 **About the artist:**
-<br>WY-TO Group doesn’t merely envision urban landscapes and create experiential spaces; they’re also the connoisseur of the visual splendour, culture, and heritage that inhabit them. True to their philosophy, “Design with A Cause”, they put the needs of the people and the environment on a pedestal, conjuring solutions to create an ecosystem that is inclusive, resilient, and free from the stresses of urban living.
+<br>[WY-TO Group](https://www.wy-to.com) doesn’t merely envision urban landscapes and create experiential spaces; they’re also the connoisseur of the visual splendour, culture, and heritage that inhabit them. True to their philosophy, “Design with A Cause”, they put the needs of the people and the environment on a pedestal, conjuring solutions to create an ecosystem that is inclusive, resilient, and free from the stresses of urban living.
 
 **Behind the work:**
 <br>In exploring the stories within Singapore and more specifically within the Bras Basah &amp; Bugis district, we looked at the legend of Badang and the Singapore Stone as the starting point of inspiration for our work. The legend of Badang is a popular childhood story that originated from the Sejarah Melayu (Malay Annals), which has been translated into a movie in 1962 and was even featured in Singapore’s National Day Parade in 2016.
@@ -141,6 +141,8 @@ The story of the Singapore Stone serves as an analogy of the precinct of Bras Ba
 Similarly, the surviving fragment of the stone currently on display at the National Museum of Singapore serves as a reminder of the strong roots of the Nation that set the foundation of its development. Nevertheless, to this day linguists are still unable to decipher the inscription on the fragmented piece, which could hold secrets to Singapore’s history.
 
 The narrative of the installation—the reconstructed Singapore Stone—thus aims to serve as a cultural reminder of Singapore’s past as a historical Great Port City by connecting visitors to the story and the precinct.
+
+<b>Watch [this episode](https://www.youtube.com/watch?v=pP5TXdJiQVw) of The Library Report to delve into the inspiration behind the installation, the Asian Children's Literature collection, and get a behind-the-scenes glimpse into the journey of conceptualising and crafting this artwork.</b>
 
 **Find out more:**
 * Learn more about the past and present of Fort Canning Hill via Curiocity’s digital story [More Than Just A Hill](https://curiocity.nlb.gov.sg/digital-stories/fort-canning-hill/intro/).
@@ -157,7 +159,7 @@ The narrative of the installation—the reconstructed Singapore Stone—thus aim
 
 #### **Display: Experiencing Singapore Through Our Senses**
 **18 August – 24 September 2023**
-<br>**10 am – 9 pm** (18, 19, 25 &amp; 26 August: 10 am – 12am)
+<br>**10 am – 9 pm** 
 <br>**Atrium, Level 3, National Archives Building** 
 
 Visit this pop-up showcase at the National Archives of Singapore, spotlighting the history in the Bras Basah.Bugis precinct that we can rediscover through stories in the community. Take a walk through and experience Singapore’s early days in this interactive display!
@@ -199,13 +201,13 @@ See the full range of AT SG programmes [here](https://www.eventbrite.sg/cc/all-t
 
 #### **Programmes during Love Our Libraries and Archives 2023**
 
-Be sure to register for the programmes [here](https://www.eventbrite.sg/cc/all-things-singapore-at-sg-2023-2329109) to secure a spot.
+Check out the Lobby at the National Library Building and the Atrium of the National Archives Building on 23 September 2023 to indulge in some local drinks or snacks, and don't forget to join in our programmes! Be sure to register for the programmes [here](https://www.eventbrite.sg/cc/all-things-singapore-at-sg-2023-2329109) to secure a spot.
 <br>
 
 | **Date** | **Title** | **Venue** | **Time** | **Register**|
 | -------- | -------- | -------- | -------- | -------- |
-| **23 Sep**     | **Archives Explorer: Rewind That Record**    | National Archives Building  | 10.30am – 12pm  | Click [here](){:target="blank"} to register |
-| **23 Sep**     | **Rock &amp; Roll with Jerry Neufaces**    | National Archives Building  | 12pm – 12.30pm / 1.30pm – 2pm | Click [here](https://www.eventbrite.sg/e/at-sg-2023-rock-roll-with-jerry-and-the-neufaces-lola23-tickets-668160224217){:target="blank"} to register |
+| **23 Sep**     | **Archives Explorer: Rewind That Record**    | National Archives Building  | 10.30am – 12pm  | Click [here](https://www.eventbrite.sg/e/at-sg-2023-archives-explorer-rewind-that-record-lola-2023-tickets-697261386577){:target="blank"} to register |
+| **23 Sep**     | **Rock &amp; Roll with Jerry and The NeuFaces**    | National Archives Building  | 12pm – 12.30pm / 1.30pm – 2pm | Click [here](https://www.eventbrite.sg/e/at-sg-2023-rock-roll-with-jerry-and-the-neufaces-lola23-tickets-668160224217){:target="blank"} to register |
 |**23 Sep**     | **All About Us: Screening of NAS Clips**    | National Archives Building  | 12pm – 1.30pm    | Click [here](https://www.eventbrite.sg/e/at-sg-2023-all-about-us-video-screening-of-nas-clips-lola23-tickets-689988934477){:target="blank"} to register |
 |**23 Sep**     | **Archives Unlocked: Roads That Are No Longer There**    | National Archives Building | 2pm – 3pm    | Click [here](https://www.eventbrite.sg/e/roads-that-are-no-longer-there-archives-unlocked-x-lola23-tickets-667725905157){:target="blank"} to register |
 | **23 Sep**     | **Conservation Hands-On Activity: Make Your Own Keepsake Box!**   | National Archives Building  | 2pm – 3.30pm    | Click [here](https://www.eventbrite.sg/e/at-sg-2023-conservation-activity-make-your-own-keepsake-box-lola23-tickets-668158007587){:target="blank"} to register |

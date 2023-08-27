@@ -60,7 +60,7 @@ Check our **learning packages** for articles that will give you insights into li
 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="#nature-playlist">
-        <span>Playlist:<br>You & Nature</span>
+        <span>Playlist:<br>You &amp; Nature</span>
       </a>
     </div>
   </div>
@@ -123,7 +123,7 @@ Check our **learning packages** for articles that will give you insights into li
 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       	<a href="#forests-plants">
-        <span>Playlist:<br>Forest & Plants</span>
+        <span>Playlist:<br>Forest &amp; Plants</span>
       </a>
     </div>
 </div>
@@ -509,8 +509,8 @@ Peter Dauvergne ( 2020), <i> AI in the Wild by Peter Dauvergne </i>, MIT Press
 
 <h3> Learning Package: Green Economy </h3>	
 	
-It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><small></small></sup></a><small><a href="#footnote-one">1</a></small>
-	<p>As one of the key pillars of the Singapore Green Plan 2030, a whole-of-nation movement to advance Singapore’s national agenda on sustainable development<sup><small><a href="#footnote-two">2</a></small></sup> developing a Green Economy in Singapore refers to seeking green growth to create new jobs, transform industries and harness sustainability as a competitive advantage<sup><small><a href="#footnote-three">3</a></small></sup>.</p>
+It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><small><a href="#footnote-one">1</a></small></sup>
+<p>As one of the key pillars of the Singapore Green Plan 2030, a whole-of-nation movement to advance Singapore’s national agenda on sustainable development<sup><small><a href="#footnote-two">2</a></small></sup> developing a Green Economy in Singapore refers to seeking green growth to create new jobs, transform industries and harness sustainability as a competitive advantage.<sup><small><a href="#footnote-three">3</a></small></sup></p>
 <p>In a green economy, growth in employment and income are driven by public and private investment into low carbon, resource efficient and socially inclusive economic activities, infrastructure, and assets that allow reduced carbon emissions and pollution, enhanced energy and resource efficiency, and prevention of the loss of biodiversity and ecosystem services.<sup><small><a href="#footnote-four">4</a></small></sup></p>
 <p>In the Green Plan, Singapore’s key targets are to Introduce an Enterprise Sustainability Programme, Create business and job opportunities, Be a leading centre for Green Finance in Asia and globally and to Promote homegrown innovation under the Research, Innovation and Enterprise Plan 2025.<sup><small><a href="#footnote-three">3</a></small></sup></p>
 <p>As the global awareness for sustainability efforts increase, more corporations are heading towards more sustainable business models. 
@@ -520,23 +520,24 @@ It’s common to think that sustainability and economic growth are mutually excl
 		<td>
 			<h2>Did you know...</h2>
 			<p>In 2015, Amsterdam become one of the world’s first circular cities.<sup><a href="#footnote-five">5</a></sup> They were also the first city to get a circular city scan, in collaboration with Circle Economy<sup><a href="#footnote-six">6</a></sup>, which identifies those areas where the most significant, tangible progress in realizing a circular economy can be achieved<sup><a href="#footnote-seven">7</a></sup>. Through the circular city scan, they found out that both the food and the construction sector had large circular potential, with potentially high economic and environmental impact.</p>
-			<p>Amsterdam’s approach to a circular economy is focused on 3 value chains<sup><a href="#footnote-eight">8</a></sup>.</p>
+			<p>Amsterdam’s approach to a circular economy is focused on 3 value chains.<sup><a href="#footnote-eight">8</a></sup></p>
 			<ul>
 				<li>Food and organic waste streams</li>
 				<li>Consumer goods</li>
 				<li>Built environment</li>
 			</ul>
 			<p>Singapore, however, is not too far behind. Through policies to encourage sustainable production and consumption, such as the Extended Producer Responsibility (EPR)<sup><a href="#footnote-nine">9</a></sup>, Singapore has begun to embrace the circular economy approach in several areas.</p>
-			<p>On top of having almost all our construction waste and metals recycled, Singapore has also managed to close the water loop. This is possible through Singapore’s ability to endlessly recycle water, enabling it to be reused indefinitely! This has allowed Singapore to reintroduce up to almost 800,000 m<sup>3</sup> of ultra-pure recycled water into our system each day <sup><a href="#footnote-ten">10</a></sup>.</p>
+			<p>On top of having almost all our construction waste and metals recycled, Singapore has also managed to close the water loop. This is possible through Singapore’s ability to endlessly recycle water, enabling it to be reused indefinitely! This has allowed Singapore to reintroduce up to almost 800,000 m<sup>3</sup> of ultra-pure recycled water into our system each day. <sup><a href="#footnote-ten">10</a></sup></p>
 		</td>
 	</tr>
 	</tbody></table>
-	<h4>Videos</h4>
+
+<h4>Videos</h4>
 <h5>1. What is a Green Economy?</h5>
-<p>Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here! Still confused about how the green economy works? Get started in understanding its advantages and how the green economy differs from our current economic model here!</p>
+<p>Still confused about how the green economy works? Get started by understanding its advantages and learn about some initiatives in Singapore that support a Green Economy! </p>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VkOtfvhtawA" height="315" width="560"></iframe></div>
-Source: <a target="_blank" href="https://www.youtube.com/embed/VkOtfvhtawA">What is a Green Economy?</a> (2020, July 6). <i>Greenpeace UK.</i> Retrieved 2021, September 15
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7MkSgSt3yVI" height="315" width="560"></iframe></div>
+Source: <a target="_blank" href="https://www.youtube.com/embed/7MkSgSt3yVI">Green Economy | Explained in 3 Minutes</a> (2023, May 25). <i>NLB Singapore.</i> Retrieved 2023, August 18
 
 <h5>2. How to Get Everyone to Care about a Green Economy</h5> 
 <p>Watch this video to gather tips on how to convince people about the Green Economy. </p>
@@ -547,7 +548,7 @@ Source: <a target="_blank" href="https://www.youtube.com/embed/slbfAfEvnQ0">How 
 <h4>Website</h4>
 
 <h5><a target="_blank" href="https://www.unep.org/explore-topics/green-economy?__cf_chl_managed_tk__=pmd_3uVt5NT5vJszILkDQcVVe9Mo8Y_Mcem8z3ZkMMqxUG4-1632874402-0-gqNtZGzNAxCjcnBszQjl">UN Environment Programme</a></h5>
-<p>Explore the site to read about the green economy on a global scale and the transition to economies that are low carbon, resource efficient and socially inclusive.</p>
+<p>Explore the site to read about the green economy on a global scale and the transition to economies that are low-carbon, resource-efficient and socially inclusive.</p>
 
 <h4>eBooks</h4>
 <h5>1. Greening the global economy</h5>
@@ -561,15 +562,15 @@ Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 <h5>2. The Sustainable City </h5>
 Steven Cohen (2021), <i>The Sustainable City</i>, New York: The MIT Press.
 <p>
-<a target="_blank" href="https://nlb.overdrive.com/media/3294693"><img alt="Book cover for The Sustainable City" style="width:300px; text-align:left;" src="images/sustainability/adults-and-seniors/TheSustainableCity.jpg"></a>
-</p><p>Lost on how to embrace sustainability in an urban city? The Sustainable City synthesizes the disparate strands of sustainable city planning in an approachable and applicable guide that highlights how these issues touch our lives on a daily basis, whether the transportation we take, where our energy comes from, or what becomes of our food waste. Providing recommendations and insights with immediacy and relevance, this book has invaluable lessons for anyone seeking to link public policy to promoting a sustainable lifestyle.</p>
+<a target="_blank" href="https://nlb.overdrive.com/media/3294693"><img alt="Book cover for The Sustainable City" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/TheSustainableCity.jpg"></a>
+</p><p>Lost on how to embrace sustainability in an urban city? The Sustainable City synthesizes the disparate strands of sustainable city planning in an approachable and applicable guide that highlights how these issues touch our lives on a daily basis, be it the transportation we take, where our energy comes from, or what becomes of our food waste. Providing recommendations and insights with immediacy and relevance, this book has invaluable lessons for anyone seeking to link public policy to promoting a sustainable lifestyle.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/3294693">Borrow the eBook here</a>. </p>
 Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).
 	
 <h5>3. Tomorrow's economy: A guide to creating healthy green growth</h5>
 Per Espen Stoknes (2021), <i>Tomorrow's economy: A guide to creating healthy green growth</i>, New York: The MIT Press.
 <br>
-<a target="_blank" href="https://nlb.overdrive.com/media/5461605"><img alt="you're not listening" style="width:300px; text-align:left;" src="images/sustainability/adults-and-seniors/TomorrowsEconomy.jpg"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/5461605"><img alt="Book cover for Tomorrow's Economy" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/TomorrowsEconomy.jpg"></a>
 <p>How does the economy and climate change intertwine? Giving real examples and tactics to ensure a business, individual, or institution is moving towards healthy, green, growth and limiting its impacts on climate change, Tomorrow’s economy: A guide to creating healthy green growth reframes the hot-button issue of economic growth.</p>
 <p><a target="_blank" href="https://nlb.overdrive.com/media/5461605">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
@@ -937,7 +938,7 @@ Source: <a target="_blank" href="https://www.youtube.com/embed/rCdVWD4Ko_0"> Con
 
 <p>Malaysian anthropologist Long Litt Woon found solace in fungi foraging after the unexpected death of her husband. She's now become a certified mushroom expert.
 
-<h4>Ebooks</h4>
+</p><h4>Ebooks</h4>
 <h5>1.The Well Gardened Mind:Rediscovering Nature in the Modern World </h5>
 Sue Stuart-Smith, (2020)<i>The Well Gardened Mind: Rediscovering Nature in the Modern World<i>,New York: HarperCollins Publishers.
 
@@ -949,12 +950,12 @@ Sue Stuart-Smith, (2020)<i>The Well Gardened Mind: Rediscovering Nature in the M
 <p><a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Well-Gardened%20Mind/page-1/2300804">Borrow the eBook here</a>. </p>
 Retrieved from Libby (myLibraryid is required to access the eBook).
 	
-<h5>2. The Living Wisdom of Trees : A Guide to the Natural History, Symbolism and Healing Power Of Trees</h5>
-Fred Hageneder (2020), <i>The Living Wisdom of Trees : A Guide to the Natural History, Symbolism and Healing Power Of Trees <i>, Watkins Publishing
+<h5>2. The Living Wisdom of&nbsp;Trees :&nbsp;A Guide to the Natural History, Symbolism and Healing Power Of&nbsp;Trees</h5>
+Fred&nbsp;Hageneder&nbsp;(2020), <i>The Living Wisdom of&nbsp;Trees :&nbsp;A Guide to the Natural History, Symbolism and Healing Power Of&nbsp;Trees <i>, Watkins Publishing
 <p>
 
 <a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Living%20Wisdom%20of%20Trees/page-1"><img alt="book cover for living wisdom of trees" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Living Wisdom of Trees.png"></a>
-<p>A definitive illustrated guide to the sacred place trees hold for cultures around the world, looking in particular at their botanical characteristics; their place in world myth, magic and folklore; their healing properties; and their practical contribution to society.</p>
+</p><p>A definitive illustrated guide to the sacred place trees hold for cultures around the world, looking&nbsp;in particular at&nbsp;their botanical characteristics; their place in world myth, magic and folklore; their healing properties; and their practical contribution to society.</p>
 <p><a target="_blank" href="https://libbyapp.com/search/nlb/search/query-The%20Living%20Wisdom%20of%20Trees/page-1">Borrow the eBook here</a>.</p>Retrieved from Libby (myLibraryid is required to access the eBook)
 	
 <h4>Book</h4>
@@ -963,19 +964,20 @@ Kua Ee Heok et al (2020), <i> Nature, Health, Happiness: Enhancing Well-Being an
 
 <p>
 
-<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204519930"><img alt="book cover for nature, health, happiness" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Nature, Health.png"></a>
-<p>A Singapore-based perspective at the importance of greenery in our lives, and how walking mindfully in a forest can enhance well-being and resilience.</p>
-<p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204519930">Borrow the Book at the Public Libraries</a>.
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204519930"><img alt="book cover for nature, health, happiness" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Nature, Health.png"></a>
+</p><p>A Singapore-based perspective at the importance of greenery in our lives, and how walking mindfully in a forest can enhance well-being and resilience.</p>
+<p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204519930">Borrow the Book at the Public Libraries</a>.
 
-<h5>2.Recalling forgotten tastes: Of Illustrated Edible Plants, Food and Memories.</h5>
+</p><h5>2.Recalling forgotten tastes: Of Illustrated Edible Plants, Food and Memories.</h5>
 Syarifah Nadhirah (2020), <i> Recalling forgotten tastes: Of Illustrated Edible Plants, Food and Memories <i>,Malaysia: Syarifah Nadhirah. 
 
 <p>
 
-<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205288452"><img alt="book cover for recalling forgotten tastes" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Recalling Forgotten.png"></a>
-<p>A whimsical illustrative collection of edible plants that centres on the environmental knowledge and traditional culinary practices of the Orang Asli communities in Peninsular Malaysia.</p>
-<p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205288452">Borrow the Book at the Public Libraries</a>.
+<a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205288452"><img alt="book cover for recalling forgotten tastes" style="width:300px; text-align:left;" src="/images/sustainability/adults-and-seniors/Recalling Forgotten.png"></a>
+</p><p>A whimsical illustrative collection of edible plants that centres on the environmental knowledge and traditional culinary practices of the Orang Asli communities in Peninsular Malaysia.</p>
+<p><a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205288452">Borrow the Book at the Public Libraries</a>.
 
-<h4>Sustainability Programmes in NLB</h4>
+</p><h4>Sustainability Programmes in NLB</h4>
 
 <p>There’s more to explore! Sign up for our programmes themed around sustainability through this link: <a target="_blank" href="https://go.gov.sg/sustainprog">go.gov.sg/sustainprog</a>
+</p></i></i></i></i></i></i></i></i>
