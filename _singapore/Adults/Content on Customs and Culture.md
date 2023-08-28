@@ -266,8 +266,7 @@ div class+"responsive-iframe-container ratio-16by9">
 <div class="col is-three-fifths">
 <p><b> Do you know? - Why do we do Namaste? | Interesting Facts & Importance About Namaste | by Rajshri Soul (3 mins)
 </b><br>
-This video explores Namaste, the formal and respectful way of Indian greeting. Many would have encountered this practice during meditation and yoga sessions, perhaps without understanding the significance behind the gesture. This video helps us to understand the reason for this way of greeting.
-	
+This video explores Namaste, the formal and respectful way of Indian greeting. Many would have encountered this practice during meditation and yoga sessions, perhaps without understanding the significance behind the gesture. This video helps us to understand the reason for this way of greeting.	
 <br><br>
 <small> Source: Do you know? - Why do we do Namaste? | Interesting Facts & Importance About Namaste (2018, May 28). Rajshri Soul. Retrieved 2023, May 23.</small></p>
 
