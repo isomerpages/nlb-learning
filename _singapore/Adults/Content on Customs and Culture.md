@@ -59,6 +59,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 
 <div class="col is-one-third">
+<div class+"clickbox is-mint-jade">
+<a href="#indian-culture-and-customs">
+<span>Playlist: Indian Customs and Culture</span>
+</a>
+</div>
+</div>
+
+<div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#eurasian-culture-and-customs">
 <span>Playlist: Eurasian Culture and Customs</span>
@@ -80,6 +88,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <span>Learning Package:<br>Malay Customs and Culture</span>
 </a>	
 </div>
+</div>
+</div>
+
+<div class="col is-one-third">
+<div class+"clickbox is-mint-jade">
+<a href+"#lp-indian-customs-culture">
+<span>Learning Package:<br>Indian Customs and CUlture</span>
+</a>
 </div>
 </div>
 
