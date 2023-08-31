@@ -96,7 +96,7 @@ Experience Singapore through your senses at our exciting line up of events celeb
 ![](/images/AT%20SG/tristan%20lim_spinal%20tap_01.png)
 
 #### **Installation: Spinal Tap**
-**18 August – 26 August 2023**
+**18 August – 17 September 2023**
 <br>**10 am – 12 am**
 <br>**The Plaza, Level 1, National Library Building** 
 
