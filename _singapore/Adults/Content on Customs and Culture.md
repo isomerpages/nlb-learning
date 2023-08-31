@@ -59,6 +59,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 
 <div class="col is-one-third">
+<div class+"clickbox is-mint-jade">
+<a href="#indian-culture-and-customs">
+<span>Playlist: Indian Customs and Culture</span>
+</a>
+</div>
+</div>
+
+<div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#eurasian-culture-and-customs">
 <span>Playlist: Eurasian Culture and Customs</span>
@@ -80,6 +88,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 <span>Learning Package:<br>Malay Customs and Culture</span>
 </a>	
 </div>
+</div>
+</div>
+
+<div class="col is-one-third">
+<div class+"clickbox is-mint-jade">
+<a href+"#lp-indian-customs-culture">
+<span>Learning Package:<br>Indian Customs and CUlture</span>
+</a>
 </div>
 </div>
 
@@ -201,6 +217,80 @@ A demonstration of the different ways of wearing samping, a traditional Malay co
 </div>
 </div>
 	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="indian-culture-and-customs" class="margin--bottom--lg"><b>Playlist: Indian Culture and Customs</b></h5>
+
+From Indian clothes, gold ornaments, traditional dishes, herbal medicines, arts, architecture to the etiquette of daily routines, you can observe symbols and significance of Indian beliefs and rituals in every aspect of an Indian's life. The Indian community in Singapore has, till today, preserved many of these customs and cultural practices, which originated from diverse communities of the Indian subcontinent.
+
+Check out the videos below to learn more about various aspects of Singapore's Indian culture and customs.
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+div class+"responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/ov8EsZszz78"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Importance of RANGOLI | Traditional, Cultural, Scientific & Historical Significance | Diwali Rangoli | by Timeless Wisdom - Food & Lifestyle (5 mins)
+</b><br>
+This video highlights the traditional, cultural, historical significance of Rangoli and explains about its importance in Indian Vedic culture and its positive influence on the mind.
+<br><br>
+<small> Source: Importance of RANGOLI | Traditional, Cultural, Scientific & Historical Significance | Diwali Rangoli (2020, September 19). Timeless Wisdom - Food & Lifestyle. Retrieved 2023, May 23.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+div class+"responsive-iframe-container ratio-16by9">	
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/32_hqnabr_w&t=13s"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Do you know? - Why do we light a lamp? | Importance Of Lamp | Interesting Facts About Lamp | by Rajshri Soul (2 mins)
+</b><br>
+This video highlights interesting facts about lighting a lamp, which is considered to be auspicious in various Hindu customs and traditions. It explores why this age-old Indian practice is believed to spread peace during important occasions.
+<br><br>
+<small> Source: Do you know? - Why do we light a lamp? | Importance of Lamp | Interesting Facts About Lamp (2018, January 17). Rajshri Soul. Retrieved 2023, May 23.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+div class+"responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/SNE58JOTou8"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Do you know? - Why do we do Namaste? | Interesting Facts & Importance About Namaste | by Rajshri Soul (3 mins)
+</b><br>
+This video explores Namaste, the formal and respectful way of Indian greeting. Many would have encountered this practice during meditation and yoga sessions, perhaps without understanding the significance behind the gesture. This video helps us to understand the reason for this way of greeting.	
+<br><br>
+<small> Source: Do you know? - Why do we do Namaste? | Interesting Facts & Importance About Namaste (2018, May 28). Rajshri Soul. Retrieved 2023, May 23.</small></p>
+
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+div class+"responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/iebfx9_gic"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Significance of Touching Feet in Hinduism | Indian Tradition | Science Behind Touching Feet In India | by Artha (2 mins)
+</b><br>
+Bowing down and falling at the feet of the elders is a commonsight at every wedding and other auspicious Indian rituals and festivals. This video sheds some light on the meaning behind this practice.
+	
+<br><br>
+<small> Source: Significance of Touching Feet in Hinduism | Indian Tradition | Sceince Behind Touching Feet in India (2017, October 29). Artha. Retrieved 2023, May 23.</small></p>
+
+</div>
+</div>
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h5 id="eurasian-culture-and-customs" class="margin--bottom--lg"><b>Playlist: Eurasian Culture and Customs</b></h5>
