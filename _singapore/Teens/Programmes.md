@@ -66,9 +66,3 @@ Click [here](https://www.eventbrite.com/cc/learnx-singapore-67809){:target="_bla
 For 2022, we are placing the focus on places, food, developments and trades in Singapore, and examine how they have impacted communities and lives.
 
 Click [here](https://www.eventbrite.com/cc/learnx-singapore-67809){:target="_blank"} for the latest programme listings.
-
-## **Languages of Singapore**
-A moderated series driven by an intent to bridge the distance between academic research and communities, on topics related to languages as living and evolving aspects of our society.
-
-Join the first discussion titled "Singlish - A Badge of Singaporean Identity or an Enduring Virus?" on 2 March 2022, 6:30pm. Register [here](https://www.eventbrite.sg/e/languages-of-singapore-singlish-tickets-269407955447?aff=ebdsoporgprofile){:target="_blank"}.
-
