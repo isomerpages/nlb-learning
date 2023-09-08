@@ -59,7 +59,7 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 
 <div class="col is-one-third">
-<div class+"clickbox is-mint-jade">
+<div>
 <a href="#indian-culture-and-customs">
 <span>Playlist: Indian Customs and Culture</span>
 </a>
@@ -92,9 +92,9 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 
 <div class="col is-one-third">
-<div class+"clickbox is-mint-jade">
-<a href+"#lp-indian-customs-culture">
-<span>Learning Package:<br>Indian Customs and CUlture</span>
+<div class="clickbox is-mint-jade">
+<a href="#lp-indian-customs-culture">
+<span>Learning Package:<br>Indian Customs and Culture</span>
 </a>
 </div>
 </div>
@@ -227,24 +227,24 @@ Check out the videos below to learn more about various aspects of Singapore's In
 <br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
-div class+"responsive-iframe-container ratio-16by9">
+div class+"responsive-iframe-container ratio-16by9"&gt;
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/ov8EsZszz78"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
-<p><b> Importance of RANGOLI | Traditional, Cultural, Scientific & Historical Significance | Diwali Rangoli | by Timeless Wisdom - Food & Lifestyle (5 mins)
+<p><b> Importance of RANGOLI | Traditional, Cultural, Scientific &amp; Historical Significance | Diwali Rangoli | by Timeless Wisdom - Food &amp; Lifestyle (5 mins)
 </b><br>
 This video highlights the traditional, cultural, historical significance of Rangoli and explains about its importance in Indian Vedic culture and its positive influence on the mind.
 <br><br>
-<small> Source: Importance of RANGOLI | Traditional, Cultural, Scientific & Historical Significance | Diwali Rangoli (2020, September 19). Timeless Wisdom - Food & Lifestyle. Retrieved 2023, May 23.</small></p>
+<small> Source: Importance of RANGOLI | Traditional, Cultural, Scientific &amp; Historical Significance | Diwali Rangoli (2020, September 19). Timeless Wisdom - Food &amp; Lifestyle. Retrieved 2023, May 23.</small></p>
 </div>
-</div>
+
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
-div class+"responsive-iframe-container ratio-16by9">	
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/32_hqnabr_w&t=13s"></iframe>
+div class+"responsive-iframe-container ratio-16by9"&gt;	
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/32_hqnabr_w&amp;t=13s"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
@@ -254,29 +254,29 @@ This video highlights interesting facts about lighting a lamp, which is consider
 <br><br>
 <small> Source: Do you know? - Why do we light a lamp? | Importance of Lamp | Interesting Facts About Lamp (2018, January 17). Rajshri Soul. Retrieved 2023, May 23.</small></p>
 </div>
-</div>
+
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
-div class+"responsive-iframe-container ratio-16by9">
+div class+"responsive-iframe-container ratio-16by9"&gt;
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/SNE58JOTou8"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
-<p><b> Do you know? - Why do we do Namaste? | Interesting Facts & Importance About Namaste | by Rajshri Soul (3 mins)
+<p><b> Do you know? - Why do we do Namaste? | Interesting Facts &amp; Importance About Namaste | by Rajshri Soul (3 mins)
 </b><br>
 This video explores Namaste, the formal and respectful way of Indian greeting. Many would have encountered this practice during meditation and yoga sessions, perhaps without understanding the significance behind the gesture. This video helps us to understand the reason for this way of greeting.	
 <br><br>
-<small> Source: Do you know? - Why do we do Namaste? | Interesting Facts & Importance About Namaste (2018, May 28). Rajshri Soul. Retrieved 2023, May 23.</small></p>
+<small> Source: Do you know? - Why do we do Namaste? | Interesting Facts &amp; Importance About Namaste (2018, May 28). Rajshri Soul. Retrieved 2023, May 23.</small></p>
 
 </div>
-</div>
+
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
-div class+"responsive-iframe-container ratio-16by9">
+div class+"responsive-iframe-container ratio-16by9"&gt;
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/iebfx9_gic"></iframe>
 </div>
 </div>
@@ -289,7 +289,7 @@ Bowing down and falling at the feet of the elders is a commonsight at every wedd
 <small> Source: Significance of Touching Feet in Hinduism | Indian Tradition | Sceince Behind Touching Feet in India (2017, October 29). Artha. Retrieved 2023, May 23.</small></p>
 
 </div>
-</div>
+
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
