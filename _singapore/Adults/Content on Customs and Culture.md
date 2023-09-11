@@ -287,11 +287,11 @@ Bowing down and falling at the feet of the elders is a commonsight at every wedd
 	
 <br><br>
 <small> Source: Significance of Touching Feet in Hinduism | Indian Tradition | Sceince Behind Touching Feet in India (2017, October 29). Artha. Retrieved 2023, May 23.</small></p>
-
 </div>
-
-
+</div>
+</div>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 
 <h5 id="eurasian-culture-and-customs" class="margin--bottom--lg"><b>Playlist: Eurasian Culture and Customs</b></h5>
 
@@ -521,4 +521,4 @@ Myrna Braga-Blake, Ann Ebert-Oehlers, Alexius A. Pereira. (Eds.). (2017).<i> Sin
 <img src="/images/Singapore%20Customs%20and%20Culture/sgpeurasian.png" style="width:200px;">
 <p>Chapter 10 by Evelyn Lelcester-Rodrigues titled Rites and Festivals: Customs and Practices of Yesteryear, introduces the Eurasian customs and traditions.</p>
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p></div></div>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
