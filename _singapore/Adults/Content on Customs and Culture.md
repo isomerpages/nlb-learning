@@ -227,7 +227,7 @@ Check out the videos below to learn more about various aspects of Singapore's In
 <br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
-div class+"responsive-iframe-container ratio-16by9"&gt;
+<div class="responsive-iframe-container ratio-16by9">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/ov8EsZszz78"></iframe>
 </div>
 </div>
@@ -238,12 +238,12 @@ This video highlights the traditional, cultural, historical significance of Rang
 <br><br>
 <small> Source: Importance of RANGOLI | Traditional, Cultural, Scientific &amp; Historical Significance | Diwali Rangoli (2020, September 19). Timeless Wisdom - Food &amp; Lifestyle. Retrieved 2023, May 23.</small></p>
 </div>
-
+</div>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
-div class+"responsive-iframe-container ratio-16by9"&gt;	
+<div class="responsive-iframe-container ratio-16by9">	
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/32_hqnabr_w&amp;t=13s"></iframe>
 </div>
 </div>
@@ -254,12 +254,12 @@ This video highlights interesting facts about lighting a lamp, which is consider
 <br><br>
 <small> Source: Do you know? - Why do we light a lamp? | Importance of Lamp | Interesting Facts About Lamp (2018, January 17). Rajshri Soul. Retrieved 2023, May 23.</small></p>
 </div>
-
+</div>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
-div class+"responsive-iframe-container ratio-16by9"&gt;
+<div class="responsive-iframe-container ratio-16by9">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/SNE58JOTou8"></iframe>
 </div>
 </div>
@@ -276,7 +276,7 @@ This video explores Namaste, the formal and respectful way of Indian greeting. M
 <br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
-div class+"responsive-iframe-container ratio-16by9"&gt;
+<div class="responsive-iframe-container ratio-16by9">
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/iebfx9_gic"></iframe>
 </div>
 </div>
@@ -521,4 +521,4 @@ Myrna Braga-Blake, Ann Ebert-Oehlers, Alexius A. Pereira. (Eds.). (2017).<i> Sin
 <img src="/images/Singapore%20Customs%20and%20Culture/sgpeurasian.png" style="width:200px;">
 <p>Chapter 10 by Evelyn Lelcester-Rodrigues titled Rites and Festivals: Customs and Practices of Yesteryear, introduces the Eurasian customs and traditions.</p>
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p></div></div>
