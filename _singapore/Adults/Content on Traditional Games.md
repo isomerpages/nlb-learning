@@ -79,7 +79,7 @@ Check out these resources to help you gain some understanding of traditional gam
 <div class="col is-three-fifths">
 <p><b>Capteh, Five Stones &amp; Gasing: Toys of Yesteryear – The Time Travelling Trio #01 (11 mins)</b><br>
 How did kids occupy their time before the advent of smartphones and tablets?  “The Time Travelling Trio” stars Sarah, Rina and Rokawa, with the assistance of Liana, the friendly librarian. In a kampong, the trio try their hands (and feet) at "goli", "gasing" and "chapteh". Joining them is special guest Aunty Shirley, a 75-year-old cosplayer, who shares her memories and experiences playing kampong games and toys.  <br><br>
-<small>Source: Capteh, Five Stones &amp; Gasing: Toys of Yesteryear – The Time Travelling Trio #01 (2022, May 31). NLB Singapore. Retrieved 2022, August 7.</small></p>
+<small>Source: Capteh, Five Stones &amp; Gasing: Toys of Yesteryear – The Time Travelling Trio #01 (2022, May 31). NLB Singapore. Retrieved 2022, September 14.</small></p>
 </div>
 </div>
 
@@ -88,43 +88,52 @@ How did kids occupy their time before the advent of smartphones and tablets?  �
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/1oMscIgFv1s"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/gUtznfS4pk4">
+</iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
-<p><b>Building Singapore's Unbelievable Multi-Sport National Stadium | Singapore's Field Of Dreams | Spark (46 mins)</b><br>
-This documentary follows the construction team behind the Singapore Sports Hub – a 55,000-seat national stadium with a retractable domed roof. Watch to find out the engineering feats and procedures that went into creating this unique structure.<br><br>
-<small>Source: Building Singapore's Unbelievable Multi-Sport National Stadium | Singapore's Field Of Dreams | Spark (2021, June 15). Spark. Retrieved 2023, July 10.</small></p>
+<p><b> Chapteh Game That’s Not Just For Kids | OGS (2 mins)
+</b>
+<br> “'Chapteh' is a traditional game where one has to keep a feathered shuttlecock in the air for as long as possible by kicking it up. Well-known internationally (as 'da cau' in Vietnam, and 'jianzi' in China), it is associated as a childhood game in Singapore.” This video showcases how it’s being played in Singapore today.<br><br>
+<small> Source: Chapteh Game That’s Not Just For Kids. (2019, 28 Jan). OGS. Retrieved 2023, September 14.</small></p>
 </div>
 </div>
+
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/ Rel162G4GEo"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/NWxBY69Uge4">
+</iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
-<p><b>Legacy and impact of the Singapore 2010 Youth Olympic Games (7 mins)</b><br>
-This video describes the impact that the 2010 Youth Olympic Games (YOG) had on organisers, volunteers, and young athletes in Singapore. Includes footage from when it was announced that Singapore won the bid to host the first YOG and clips from the sporting events.<br><br>
-<small>Source: Legacy and impact of the Singapore 2010 Youth Olympic Games (2020, August 26). Singapore National Olympic Council (SNOC). Retrieved 2023, July 10.</small></p>
+<p><b> And the Games We Played | Malay Heritage Centre (6 mins)</b>
+<br> Using high-speed filming techniques, this short video introduces the game play of five traditional kampung games, played during the early 70s to 80s in Singapore. This includes Batu Seremban (Five Stones), Chapteh (ti jian zi 'kick shuttlecock'), Guli (Marbles), Gasing (Spinning Top) &amp; Ye-ye (Zero-Point). <br><br>
+<small> Source: And the Games We Played (2020, July  9). Malay Heritage Centre. Retrieved 2023, September 14.
+</small></p>
 </div>
 </div>
+
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/enK552Ai7W0"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/M4Bnd50MmwU">
+</iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
-<p><b> Game Nation: Enter The World Of Professional eSports In Singapore | CNA Documentary (46 mins)</b><br>
-This documentary follows six Singaporeans in the local eSports scene, including male and female eSports competitors, a game commentator, a game designer, Singapore’s youngest Pokémon champion, and researchers working on exploring the future potential of eSports. It offers a behind-the-scenes look into the new and growing industry.<br><br>
-<small> Source: Game Nation: Enter The World Of Professional eSports In Singapore | CNA Documentary (2021, January 16). CNA Insider. Retrieved 2023, July 10.</small></p>
+<p><b>Singapore Traditional Games – Congkak (4 mins)</b>
+<br> This video, which was initially made for the Singapore Sports Museum by the Comwerks agency, teaches viewers how congkak, a mancala logic game, is played.<br><br>
+<small> Source: Singapore Traditional Games - Congkak (2017, February 7). Tom Thanachart. Retrieved 2023, September 14.
+</small></p>
 </div>
 </div>
+
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
