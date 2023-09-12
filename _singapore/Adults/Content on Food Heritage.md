@@ -972,11 +972,11 @@ Get to know the history and development of hawker centres and the array of dishe
 <p>Hawker culture in Singapore had its roots in street food sold by itinerant hawkers during the 19th to mid-20th centuries. While hawkers served the needs of the population, problems such as food contamination and traffic obstruction led to their regulation.</p>
 Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=ede5738c-465b-49ce-9b3f-4001ad6826e5" target="_blank"> Travelling hawkers </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
 	
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1637_2010-01-31.html" target="_blank"> Hawker centres by Tung Ai Jui </a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=d30b9e62-9e71-4e1e-9f5e-a6573380f4b6" target="_blank"> Hawker centres by Tung Ai Jui </a></h5>
 
 <p> In the interests of public health, the government moved to regulate food hawkers in the 1960s and relocated them from the streets to purpose-built food centres over the 1970s-80s.</p>
 
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1637_2010-01-31.html" target="_blank"> Hawker centres </a>(2020, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=d30b9e62-9e71-4e1e-9f5e-a6573380f4b6" target="_blank"> Hawker centres </a>(2020, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
 
 <h4>eBooks</h4>
 
@@ -1036,14 +1036,14 @@ Lai, Chee Kien &amp; Koh, Hon Teng. (2021). <i>Hawker centre food: ambrosia for 
 	
 <h4>Articles</h4>
 
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-05-11_100628.html" target="_blank"> Bee Cheng Hiang by Hwa Chong Institution </a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=770e4fee-0e66-4bcf-85b7-fe3e1c43f984" target="_blank"> Bee Cheng Hiang by Hwa Chong Institution </a></h5>
 <p> Most notably known for its signature bakkwa (barbequed pork slices), Bee Cheng Hiang started off its journey on a pushcart in Chinatown in 1933. This article gives an insight into its success story.</p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-05-11_100628.html" target="_blank"> Bee Cheng Hiang </a>(2015, May).<i> Singapore Infopedia.</i> Retrieved 2022, July 19.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=770e4fee-0e66-4bcf-85b7-fe3e1c43f984" target="_blank"> Bee Cheng Hiang </a>(2015, May).<i> Singapore Infopedia.</i> Retrieved 2022, July 19.
 	
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1670_2010-06-16.html" target="_blank"> Khong Guan Biscuit Company by Chua, Alvin </a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=025cb390-d1bc-4709-aa99-6b0ee1bf12fd" target="_blank"> Khong Guan Biscuit Company by Chua, Alvin </a></h5>
 <p> This article presents Khong Guan, a biscuit company with over 70 years of history that grew from a factory into a multinational business.
 </p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1670_2010-06-16.html" target="_blank"> Khong Guan Biscuit Company </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 19.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=025cb390-d1bc-4709-aa99-6b0ee1bf12fd" target="_blank"> Khong Guan Biscuit Company </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 19.
 	
 <h4>Books</h4>
 <h5> 1883-1983, the great years </h5>
