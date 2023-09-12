@@ -319,7 +319,7 @@ Helmed by Singapore director Kelvin Tong, this documentary takes inspiration fro
 <h3><b>Learning Package</b></h3>
 <h5 id="lp-five-foot-way-traders" class="margin--bottom--lg"><b>Five-Foot-Way Traders</b></h5>
 
-<p><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html"> Five-foot-way traders </a> were largely craftsmen who conducted their businesses along covered shophouse walkways. The name “five-foot-way” refers to the original stipulation that the walkways be five feet wide. The walkways, which originated in Malaya during the early 19th century, were meant to protect pedestrians from the elements. Due to the movement of peoples throughout the 19th-20th century, this architectural feature can be found in Singapore, Indonesia, Malaysia, and China.</p>
+<p><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=604a6d18-793d-4919-af9b-5ef014ba2141"> Five-foot-way traders </a> were largely craftsmen who conducted their businesses along covered shophouse walkways. The name “five-foot-way” refers to the original stipulation that the walkways be five feet wide. The walkways, which originated in Malaya during the early 19th century, were meant to protect pedestrians from the elements. Due to the movement of peoples throughout the 19th-20th century, this architectural feature can be found in Singapore, Indonesia, Malaysia, and China.</p>
 
 <p>In Singapore, the five-foot-way traders engaged in trading inexpensive commodities (such as selling newspapers or food items)—and services (this included roadside barbers, shoe shining, locksmiths, fortune tellers, letter writing, traditional medicine healing, and knife sharpening to name a few). These trades started propping up when the influx of migrants to Singapore found it difficult to find work. Some began to use the corridors to set up these small businesses and paid rent to the shopkeeper. By the mid-1970s, as Singapore became more industrialized and these traders became older, some of these trades were either in decline or had moved into proper retail areas. </p>
 
@@ -347,9 +347,9 @@ Source: Lim, Fiona. <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-1
 
 Source: Teng, Sharon. <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-march-2014/forgotten-trades-singapore">Time-forgotten Trades</a>, <i>BiblioAsia</i> 9(4) (January-March 2014). Retrieved 2022, September 1.
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html">Five-foot-way traders by Thulaja, Naidu Ratnala</a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=604a6d18-793d-4919-af9b-5ef014ba2141">Five-foot-way traders by Thulaja, Naidu Ratnala</a></h5>
 <p>Thulaja gives a short history of five-foot-ways before giving some resource links for knife sharpeners, roadside barbers, mask makers, fortune tellers, locksmiths, letter writers, traditional medicine men, newspaper vendors, storytellers, tinsmiths, hair-bun makers, stool makers, garland makers, stamp dealers, and food vendors.</p>
-Source: Thulaja, Naidu Ratnala. <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html">Five-foot-way traders</a>. (2016). <i>Singapore Infopedia.</i> Retrieved, 2022 September 1.
+Source: Thulaja, Naidu Ratnala. <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=604a6d18-793d-4919-af9b-5ef014ba2141">Five-foot-way traders</a>. (2016). <i>Singapore Infopedia.</i> Retrieved, 2022 September 1.
 
 <h4>Books</h4>
 <h5>Vanishing Trades of Singapore</h5>
@@ -410,9 +410,8 @@ Source: <a target="_blank" href="https://www.roots.gov.sg/ich-landing/ich/making
 <h4>eBook</h4>
 <h5> Moving Singapore from Rickshaws to Motorbikes: Raising Singapore Family Business </h5>
 Tan, Eileen. (2019). <i> Moving Singapore from Rickshaws to Motorbikes: Raising Singapore Family Business </i> Singapore: Partridge Publishing.<br>
-<a target="_blank" href="https://nlb.overdrive.com/media/5102018" >
-<img media="" style="width:200px;" 
-src="/images/Singapore%20Vanishing%20Trades/MovingSingapore.png"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/5102018">
+<img media="" style="width:200px;" src="/images/Singapore%20Vanishing%20Trades/MovingSingapore.png"></a>
 <p> A family business history of motorbike dealership Ban Hock Hin, interwoven with the biographies of its founder, Tan San Chwee, and his eldest son, Robert Tan, who inherited the reins. It is also a history of the transport trade in Singapore, which the Henghua dialect group came to specialise in from the late 19th century. The first two chapters describe how Ban Hock Hin started in 1939 as a bicycle repair shop that later expanded into production with the innovation of its own carriage tricycle, hiring fellow Henghua clansmen as workers to support the growing business.</p><p><a href="https://nlb.overdrive.com/media/5102018" target="_blank"> Borrow the eBook here.</a></p>
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook).
 
@@ -448,11 +447,11 @@ Tells the stories of successful Hainanese family businesses in Singapore, such a
 These curated set of articles and books will give you a better understanding of trades no longer practised in Singapore.
 
 <h4>Articles</h4>
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html" target="_blank">Chinese street storytellers by Tan, Fiona</a></h5>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html" target="_blank">Chinese street storytellers by Tan, Fiona</a></h5>
 <p>Chinese street storytelling was a popular form of entertainment in Singapore during the colonial period up till the 1960s. Working from makeshift premises in various locations, storytellers would read stories aloud in dialect to paying customers. However, this trade met its demise with the rise of television and radio, and the reduced use of dialects.</p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html" target="_blank">Chinese street storytellers</a> (2014, July).<i> Singapore Infopedia.</i> Retrieved 2022, November 1.
 
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_190_2005-01-03.html" target="_blank">Night jaga by Naidu Ratnala Thulaja</a></h5>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_190_2005-01-03.html" target="_blank">Night jaga by Naidu Ratnala Thulaja</a></h5>
 <p><i>Jaga</i> is Malay for a watchman or caretaker. They are traditional watchmen or guards who used to stand vigil outside banks, godowns and shops o prevent theft and damage to property. <i> Jaga</i> became a dying trade by the 1980s and is virtually extinct today thanks to the introduction of modern security systems and services.</p>
 Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_190_2005-01-03.html" target="_blank">Night jaga</a> (2017).<i> Singapore Infopedia.</i> Retrieved 2022, November 1.
 
