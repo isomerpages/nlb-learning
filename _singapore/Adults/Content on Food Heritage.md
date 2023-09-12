@@ -855,10 +855,10 @@ Learn more about the multifaceted heritage of Malay food in Singapore from these
 	
 </p><h4>Articles</h4>
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-10-26_111827.html">Ketupat by Bonny Tan
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=cf26883a-d1ab-426c-908a-322fb5561a0c">Ketupat by Bonny Tan
 </a></h5>
 <p>“Ketupat is a diamond-shaped rice cake. This Malay food staple is made of cooked rice compressed and wrapped in woven coconut leaves. Originating from Indonesia and Malaysia, ketupat is often consumed as an accompaniment to meat dishes such as satay (skewered barbecued meat) or stews, although the traditional version has become less common in Singapore. It is served during special occasions such as Hari Raya Puasa and Malay weddings, but can also be eaten during regular meals.”</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-10-26_111827.html"> Ketupat </a>(2015, October 26).<i> Singapore Infopedia.</i> Retrieved 2022, June 8.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=cf26883a-d1ab-426c-908a-322fb5561a0c"> Ketupat </a>(2015, October 26).<i> Singapore Infopedia.</i> Retrieved 2022, June 8.
 
 <h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1739_2010-12-13.html">Nasi lemak by Bonny Tan</a></h5>
 <p>“Nasi lemak is a dish made of rice cooked in coconut milk. Aromatics, such as pandan leaves, bay leaves, lemongrass, ginger, garlic and fenugreek, can be added to it. A light meal that is believed to be Malay in origin, it is traditionally accompanied by fried anchovies, sliced cucumbers, fried fish known as ikan selar, and a sweet chili sauce. Modern-day variations on the dish now offer an extensive array of other side dishes.”</p>
