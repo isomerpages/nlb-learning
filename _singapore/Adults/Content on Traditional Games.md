@@ -154,29 +154,9 @@ How did kids occupy their time before the advent of smartphones and tablets?  �
 These curated set of articles and books will help you understand more about these traditional games in Singapore.
 
 </p><h4>Articles</h4>
-<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7bedd52d-ff96-472d-b423-4dc6790e98c8" target="_blank">Congkak by Bonny Tan</a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7bedd52d-ff96-472d-b423-4dc6790e98c8">Congkak by Bonny Tan</a></h5>
 <p>Known elsewhere as mancala, this is a popular game of logic. The version which is commonly played in the Malay Archipelago requires two players to share a wooden board with one row of seven holes along each side, and one bigger hole at either end. </p>
 Source: Bonny Tan. (2016). <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7bedd52d-ff96-472d-b423-4dc6790e98c8" target="_blank">Congkak</a> <i> Singapore Infopedia</i>. Retrieved 2023, September 14.
-
-<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=a8546d9a-0c28-444a-9e06-961528345936” target="> Five Stones by Bonny Tan and Damien Wang</a></h5>
-<p> Five stones is a traditional game that was popular with children in the kampong days. Few may know about its ancient origins, and its popularity declined with the urbanisation of Singapore. However, it has seen a few revivals through the efforts of schools, community organisations and government agencies.</p>
-
-Source: Tan, Bonny, and Wang, Damien. (2019). “<a target="”_blank”">Five Stones</a>.” <i>Singapore Infopedia</i>. Retrieved 2023, September 14.
-
-<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=274d6731-e5f5-4d5c-8341-9587b83d71e6” target=">Capteh by Bonny Tan </a></h5>
-<p>Capteh is a traditional game that requires great dexterity and balance in keeping a feathered shuttlecock in the air for as long as possible by kicking it up with the heel of the foot.</p>
-
-Source: Tan, Bonny. (2017). “<a target="”_blank”">Capteh</a>.” <i>Singapore Infopedia</i>. Retrieved 2023, September 14.
-
-<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=adef04c4-9aa8-453d-b890-a0e8cbeca718” target=">Gasing by Stephanie Ho</a></h5>
-<p>Capteh is a traditional game that requires great dexterity and balance in keeping a feathered shuttlecock in the air for as long as possible by kicking it up with the heel of the foot.</p>
-
-Source: Tan, Bonny. (2013). “<a href="”https://www.nlb.gov.sg/main/article-detail?cmsuuid=adef04c4-9aa8-453d-b890-a0e8cbeca718”" target="”_blank”">Gasing</a>.” <i>Singapore Infopedia</i>. Retrieved 2023, September 14.
-
-<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5d856d1f-c223-47fd-9ad4-e636ee5d9197” target=">Kuti Kuti by Bonny Tan</a></h5>
-<p>Kuti kuti is a traditional children’s game in which two opposing players take turns to deftly flip colourful plastic tokens on top of those of their opponent. If a player’s token lands on top of an opponent’s token, the player then claims the opponent’s token as his own.</p>
-
-Source: Tan, Bonny. (2014). “<a href="”https://www.nlb.gov.sg/main/article-detail?cmsuuid=5d856d1f-c223-47fd-9ad4-e636ee5d9197”" target="”_blank”">Kuti kuti</a>.” <i>Singapore Infopedia</i>. Retrieved 2023, September 14.
 
 
 <h4>Books</h4>
