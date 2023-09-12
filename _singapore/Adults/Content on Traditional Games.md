@@ -77,7 +77,7 @@ Check out these resources to help you gain some understanding of traditional gam
 </div>
 </div>
 <div class="col is-three-fifths">
-<p><b>Capteh, Five Stones &amp; Gasing: Toys of Yesteryear – The Time Travelling Trio #01(11 mins)</b><br>
+<p><b>Capteh, Five Stones &amp; Gasing: Toys of Yesteryear – The Time Travelling Trio #01 (11 mins)</b><br>
 How did kids occupy their time before the advent of smartphones and tablets?  “The Time Travelling Trio” stars Sarah, Rina and Rokawa, with the assistance of Liana, the friendly librarian. In a kampong, the trio try their hands (and feet) at "goli", "gasing" and "chapteh". Joining them is special guest Aunty Shirley, a 75-year-old cosplayer, who shares her memories and experiences playing kampong games and toys.  <br><br>
 <small>Source: Capteh, Five Stones &amp; Gasing: Toys of Yesteryear – The Time Travelling Trio #01 (2022, May 31). NLB Singapore. Retrieved 2022, August 7.</small></p>
 </div>
