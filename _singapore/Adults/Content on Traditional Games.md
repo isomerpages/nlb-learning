@@ -158,6 +158,10 @@ These curated set of articles and books will help you understand more about thes
 <p>Known elsewhere as mancala, this is a popular game of logic. The version which is commonly played in the Malay Archipelago requires two players to share a wooden board with one row of seven holes along each side, and one bigger hole at either end. </p>
 Source: Bonny Tan. (2016). <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7bedd52d-ff96-472d-b423-4dc6790e98c8" target="_blank">Congkak</a> <i> Singapore Infopedia</i>. Retrieved 2023, September 14.
 
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=a8546d9a-0c28-444a-9e06-961528345936"> Five Stones by Bonny Tan and Damien Wang</a></h5>
+<p> Five stones is a traditional game that was popular with children in the kampong days. Few may know about its ancient origins, and its popularity declined with the urbanisation of Singapore. However, it has seen a few revivals through the efforts of schools, community organisations and government agencies.</p>
+
+Source: Tan, Bonny, and Wang, Damien. (2019). "<a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=a8546d9a-0c28-444a-9e06-961528345936">Five Stones</a>." <i>Singapore Infopedia</i>. Retrieved 2023, September 14.
 
 <h4>Books</h4>
 
