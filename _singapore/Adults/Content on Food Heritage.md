@@ -968,9 +968,9 @@ Get to know the history and development of hawker centres and the array of dishe
 
 <h4>Articles</h4>
 	
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12-27.html" target="_blank"> Travelling hawkers by Naidu Ratnala Thulaja </a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=ede5738c-465b-49ce-9b3f-4001ad6826e5" target="_blank"> Travelling hawkers by Naidu Ratnala Thulaja </a></h5>
 <p>Hawker culture in Singapore had its roots in street food sold by itinerant hawkers during the 19th to mid-20th centuries. While hawkers served the needs of the population, problems such as food contamination and traffic obstruction led to their regulation.</p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_47_2004-12-27.html" target="_blank"> Travelling hawkers </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=ede5738c-465b-49ce-9b3f-4001ad6826e5" target="_blank"> Travelling hawkers </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 7.
 	
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1637_2010-01-31.html" target="_blank"> Hawker centres by Tung Ai Jui </a></h5>
 
