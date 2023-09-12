@@ -245,7 +245,7 @@ This video highlights the traditional, cultural, historical significance of Rang
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">	
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/32_hqnabr_w&amp;t=13s"></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/32_hqNAbr_w"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
@@ -287,7 +287,7 @@ This video explores Namaste, the formal and respectful way of Indian greeting. M
 Bowing down and falling at the feet of the elders is a commonsight at every wedding and other auspicious Indian rituals and festivals. This video sheds some light on the meaning behind this practice.
 	
 <br><br>
-<small> Source: Significance of Touching Feet in Hinduism | Indian Tradition | Sceince Behind Touching Feet in India (2017, October 29). Artha. Retrieved 2023, May 23.</small></p>
+<small> Source: Significance of Touching Feet in Hinduism | Indian Tradition | Science Behind Touching Feet in India (2017, October 29). Artha. Retrieved 2023, May 23.</small></p>
 </div>
 </div>
 </div>
