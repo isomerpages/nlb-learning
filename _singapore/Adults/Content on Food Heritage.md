@@ -794,10 +794,10 @@ These curated set of articles and books give an overview of Singapore’s Chines
 </p>
 Source: Low, Sze Wee. <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore"> We are what we eat: the evolution of Chinese food in Singapore </a>(2022, April-June).<i> BiblioAsia</i> 18(1). Retrieved 2022, May 23.
 	
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_27_2_2009-01-07.html"> Chinese New Year delicacies
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=540ebfac-c16a-41a2-9484-34b0b09d3cc2"> Chinese New Year delicacies
 by Bonny Tan &amp; Vicky Gao </a></h5>
 <p> Discover the common food items found in Singapore Chinese homes during Chinese New Year.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_27_2_2009-01-07.html"> Chinese New Year delicacies</a> (2018, July).<i> Singapore Infopedia.</i> Retrieved 2022, May 23.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=540ebfac-c16a-41a2-9484-34b0b09d3cc2"> Chinese New Year delicacies</a> (2018, July).<i> Singapore Infopedia.</i> Retrieved 2022, May 23.
 	
 <h4>eBooks</h4>
 
