@@ -637,9 +637,9 @@ These curated set of articles and books give an overview of Singapore’s food h
 
 <h4>Articles</h4>
 
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-01-14.html" target="_blank"> Violet Oon by Nureza Ahmad</a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=4db9b1ea-c6fb-4edb-8ac8-720324f2b1b7" target="_blank"> Violet Oon by Nureza Ahmad</a></h5>
 <p> Violet Oon is one of Singapore's best known food personalities. She has influenced the Singapore food scene as author, speaker, teacher, consultant and restauranteur. </p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_459_2005-01-14.html" target="_blank"> Violet Oon </a>(2019, April).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=4db9b1ea-c6fb-4edb-8ac8-720324f2b1b7" target="_blank"> Violet Oon </a>(2019, April).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
 	
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html" target="_blank"> Fast-food chains by Marsita Omar</a></h5>
 <p> Singapore’s love for fast-food began as early as the 1970s, making it one of the popular options among Singaporeans’ dining out culture.</p>
@@ -670,7 +670,7 @@ Tan, Sylvia. (2014). <i> Singapore heritage food: yesterday's recipes for today'
 <img src="/images/Singapore%20Food%20Heritage/Sylvia.png" style="width:200px;">
 <p> Describes the factors and influences in the unique Singapore culinary heritage and lists the classic dishes and their recipes. </p>
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p></div>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
 <h5 class="margin--bottom--lg" id="lp-peranakan-cuisine"><b>Singapore's Food Heritage: Peranakan Cuisine</b></h5>
 	
@@ -907,20 +907,20 @@ Rita Zahara (2016). <i>The many flavours of Malay cooking.</i> Singapore: Marsha
 <li> Eating on banana leaves not only make the dishes look more colourful and appealing, it also enhances the taste of the dish. When hot rice is served on the leaf, it absorbs the healthy compounds and unique flavour of the leaf. Banana leaves are waterproof too! Indian dishes, which are mostly accompanied with gravies, chutneys and ghee, are not going to stick to the leaf. This provides us with the fullest dining experience. After the meal, closing the leaf inwards demonstrates a feeling of gratefulness towards the host, so always remember to fold correctly!</li>
 </ul>
 </td>
-</tr</tbody></table>
+</tr></tbody></table>
 These curated set of articles and books will give you a better understanding of Indian food in Singapore.
 
 <h4>Articles</h4>
 
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1749_2011-01-05.html" target="_blank"> Putu mayam by Bonny Tan </a></h5>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1749_2011-01-05.html" target="_blank"> Putu mayam by Bonny Tan </a></h5>
 <p> Putu mayam, a popular breakfast dish of South Indian origin, is also extremely popular in parts of Southeast Asia such as Singapore, Malaysia and Indonesia. Made from rice flour, this dish can be served with both sweet and savoury sides or dips.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1749_2011-01-05.html" target="_blank"> Putu mayam </a>(2020, May).<i> Singapore Infopedia.</i> Retrieved 2022, June 21.
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1749_2011-01-05.html" target="_blank"> Putu mayam </a>(2020, May).<i> Singapore Infopedia.</i> Retrieved 2022, June 21.
 
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-12-30_093442.html" target="_blank"> Vadai by Bonny Tan </a></h5>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-12-30_093442.html" target="_blank"> Vadai by Bonny Tan </a></h5>
 
 <p> The roots of vadai, a vegetarian South Indian snack, can be traced back the period of ancient Tamils, between 100 BCE and 300 CE. Today, this snack has evolved into various forms, one of which is the Singaporean version of prawn vadai.</p>
 
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-12-30_093442.html" target="_blank"> Vadai </a>(2014, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, June 21.
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-12-30_093442.html" target="_blank"> Vadai </a>(2014, Dec).<i> Singapore Infopedia.</i> Retrieved 2022, June 21.
 	
 <h4>Books</h4>
 
@@ -953,9 +953,9 @@ Rajan, Uma. (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singap
 <h5 class="margin--bottom--lg" id="lp-hawker-centres"><b>Singapore's Food Heritage: Hawker Centres</b></h5>
 
 <p>From chicken rice and prata, to nasi lemak and laksa, hawker centres offer a dazzling array of dishes that reflect the multicultural identity and heritage of Singapore. More than just eating places, hawker centres are a unique aspect of Singapore culture and everyday life.</p>
-<table border="1">
-            <tbody><tr>
-                        <td>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <table border="1"><tbody><tr><td>
 <h4>Did you know...</h4>
 <ul>
 	<li>A popular destination for hawker food among locals and tourists, <i>Lau Pa Sat</i> (former Telok Ayer Market) was one of Singapore’s oldest wet markets with a history that dates to the 1820s. The wet market was renovated and turned into a hawker centre in 1972 as its surroundings were redeveloped into a commercial and financial district.</li>
@@ -979,9 +979,9 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1637_2010-
 
 <h4>eBooks</h4>
 
-<h5> Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore</h5>
+<h5>&nbsp;Food, foodways and foodscapes: culture,&nbsp;community&nbsp;and consumption in post-colonial Singapore</h5>
 
-Kong, Lily and Vineeta Sinha (2015).<i> Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore.</i>Hackensack: World Scientific.<br>
+Kong, Lily and&nbsp;Vineeta&nbsp;Sinha (2015).<i>&nbsp;Food, foodways and foodscapes: culture, community and consumption in post-colonial Singapore.</i>Hackensack: World Scientific.<br>
 
 <a href="https://nlb.overdrive.com/media/3715193" target="_blank"></a>
 
@@ -1012,7 +1012,7 @@ Kong, Lily. (2007). <i>Singapore hawker centres: people, places, food</i>. Singa
 <p>This book chronicles the beginnings and development of hawker centres in Singapore, with a focus on planning and design, and the different stakeholders involved. It also highlights the significance of hawker centres and hawker food to Singaporean life and culture. </p>
 
 <h5> Hawker centre food: ambrosia for the people</h5>
-Lai, Chee Kien & Koh, Hon Teng. (2021). <i>Hawker centre food: ambrosia for the people</i>. Singapore: Achates 360 Pte Ltd. (Call no.: RSING 641.595957 LAI) 
+Lai, Chee Kien &amp; Koh, Hon Teng. (2021). <i>Hawker centre food: ambrosia for the people</i>. Singapore: Achates 360 Pte Ltd. (Call no.: RSING 641.595957 LAI) 
 <br>
 <img src="/images/Singapore%20Food%20Heritage/HawkerCentreFood.png" style="width:200px;">
 <p>On 16 December 2020, hawker culture in Singapore was officially inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity. Published in 2021 with support from the National Heritage Board, this book, which features illustrations and stories of 129 food stalls from 111 hawker centres across the island, contributes to the documentation of Singapore’s evolving hawker culture and food heritage. </p>
@@ -1042,14 +1042,14 @@ Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-05-11
 <h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1670_2010-06-16.html" target="_blank"> Khong Guan Biscuit Company by Chua, Alvin </a></h5>
 <p> This article presents Khong Guan, a biscuit company with over 70 years of history that grew from a factory into a multinational business.
 </p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_1670_2010-06-16.html" target="_blank"> Khong Guan Biscuit Company </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 19.
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1670_2010-06-16.html" target="_blank"> Khong Guan Biscuit Company </a>(2016).<i> Singapore Infopedia.</i> Retrieved 2022, July 19.
 	
 <h4>Books</h4>
 <h5> 1883-1983, the great years </h5>
-Fraser & Neave Ltd. (1983). <i> 1883-1983, the great years. </i> Singapore: Fraser & Neave Ltd. (Call no.: RSING 338.7663 EIG)
+Fraser &amp; Neave Ltd. (1983). <i> 1883-1983, the great years. </i> Singapore: Fraser &amp; Neave Ltd. (Call no.: RSING 338.7663 EIG)
 <br>
 <img src="/images/Singapore%20Food%20Heritage/FnN.png" style="width:200px;">
-<p> Published to mark the 100th anniversary of Fraser and Neave. This book recounts the history of F&N from the early days in 1883 when it had only a modest operation, to one of the most well-known brand names of the 20th century in Singapore. </p>
+<p> Published to mark the 100th anniversary of Fraser and Neave. This book recounts the history of F&amp;N from the early days in 1883 when it had only a modest operation, to one of the most well-known brand names of the 20th century in Singapore. </p>
 
 <h5> Tiger Beer: distinctly Asian, unmistakably world classic</h5>
 Tai, Jacky (2008). <i> Tiger Beer: distinctly Asian, unmistakably world classic. </i> Singapore: Marshall Cavendish Business. (Call no.: RSING 658.827095957 TAI)
