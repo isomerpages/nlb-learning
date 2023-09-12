@@ -954,7 +954,9 @@ Rajan, Uma. (2011). <i> Spice potpourri: stellar cuisine favourites. </i> Singap
 
 <p>From chicken rice and prata, to nasi lemak and laksa, hawker centres offer a dazzling array of dishes that reflect the multicultural identity and heritage of Singapore. More than just eating places, hawker centres are a unique aspect of Singapore culture and everyday life.</p>
 
-<table border="1"><tbody><tr><td>
+<table border="1">
+	<tbody><tr>
+		<td>
 <h4>Did you know...</h4>
 <ul>
 	<li>A popular destination for hawker food among locals and tourists, <i>Lau Pa Sat</i> (former Telok Ayer Market) was one of Singapore’s oldest wet markets with a history that dates to the 1820s. The wet market was renovated and turned into a hawker centre in 1972 as its surroundings were redeveloped into a commercial and financial district.</li>
