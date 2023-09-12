@@ -472,6 +472,73 @@ Mathew Mathews. (Ed.). (2017)..<i> The Singapore ethnic mosaic: many cultures, o
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
+<h5 id="lp-indian-culture-and-customs" class="margin--bottom--lg"><b> Indian Culture and Customs</b></h5>
+
+<p> Aspects of Indian custom and culture have been preserved in many parts of Southeast Asia today. Some of these have evolved with time to cater to the ever-changing needs of our daily lives.</p>
+<b></b>
+<p> In Singapore too, we witness a trend of change and continuity in some of these traditional beliefs and practices. Those that are continued and preserved with time, though may seem symbolic in nature, are usually backed up by both spirituality and science.</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> The name India was derived from the word ‘Sindhu’. Sindhu is the name of the Indus River, one of the longest rivers in the world that runs from southwestern Tibet to the Arabian Sea. Interestingly, the practice of neighbouring people in the Middle East of pronouncing the ‘s’ as 'h' ended up with the name ‘Hindu’ instead. The English term ‘India’ was borrowed from Greek, in which ‘India’ refers to the region beyond the Indus River. Therefore, the collective term ‘Indian’ was used by the British to refer to the descendants of people who originated from this region. </li>
+</ul>
+</td>
+</tr></tbody></table>
+Check out this set of articles and books to gain a better understanding of the Indian culture and customs in Singapore.
+
+<h4>Articles</h4>
+
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2019-04-05_110953.html"> Indian birth rituals by Anasuya Soundararajan </a></h5>
+<p> The arrival of a new baby in any household, is an occasion for celebration. The Indian traditional ceremonies start before the baby is born and may continue for up to a year after the child’s birth. This article brings us through the various rituals and customs observed during this period of time.</p>
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2019-04-05_110953.html"> Indian birth rituals </a>(2016)<i>Singapore Infopedia.</i> Retrieved 2023, May 23.
+
+<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_883_2004-12-17.html"> Betel chewing by Suchitthra Vasu </a></h5>
+<p> The art of paan or betel chewing dates back to the pre-Vedic Saivite Harappan empire. This article brings us through the origin of this practice and its usage among the Indian community in Singapore.</p>
+Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_883_2004-12-17.html"> Betel chewing </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2023, May 23.
+
+<h4>Books</h4>
+
+<h5> An ABC of Indian culture: a personal padayatra of half a century into India</h5>
+Peggy Holroyde. (2007).<i> An ABC of Indian culture: a personal padayatra of half a century into India. </i> Usmanpura, Ahmedabad, India: Mapinlit. (Call No.: R 954 HOL)
+<br>
+<img src="/images/Singapore%20Customs%20and%20Culture/anabcof.png" style="width:200px;">
+<p>This book is an interpretation of 400 Indian concepts and practices derived from a personal exploration of Indian customs and culture over a period of 50 years.</p>
+
+<h5> Gateway to Indian culture</h5>
+Chitra Soundar. (1994). <i>Gateway to Indian culture </i> Singapore: Asiapac. (Call no.: RSING 305.891411 CHI)
+<br>
+
+<img src="/images/Singapore%20Customs%20and%20Culture/gtindc.png" style="width:200px;">
+<p>This book starts off with the origin of the Indian religious and social customs and tracks down its evolution into a spicy blend of traditions, religions and languages, derived from the diverse states of India.</p>
+
+<h5> Traditions: a complete book of Indian arts and crafts motifs, special reference to rangoli design
+</h5>
+Neelam Verma. (2005)..<i> Traditions: a complete book of Indian arts and crafts motifs, special reference to rangoli design. </i>Mumbai: English Edition Publishers and Distributors. (Call no.: RART 745.0954 VER)
+<br>
+
+<img src="/images/Singapore%20Customs%20and%20Culture/traditions.png" style="width:200px;">
+<p>This unique book brings to you a compilation of Rangoli designs based on traditional Indian motifs, symbolising significant cultural and religious significance.</p>
+
+<h5> South Indian Hindu festivals and traditions</h5>
+Maithily Jagannathan. (2005). <i>South Indian Hindu festivals and traditions </i> New Delhi: Abhinav Publications. (Call no.: R 294.536 MAI)
+<br>
+
+<img src="/images/Singapore%20Customs%20and%20Culture/southindian.png" style="width:200px;">
+<p>This book on Hindu customs and traditions puts together everyday beliefs, practices, observances and etiquette of Indians. It explores the intricate links between these customs and legend, history, philosophy and folklores.</p>
+
+<h5> New place, old ways: essays on Indian society and culture in modern Singapore
+</h5>
+Anthony R Walker &gt; New place, old ways: essays on Indian society and culture in modern Singapore. Delhi: Hindustan Pub. Corp. (Call no.: RSING 305.894805957 NEW)
+<br>
+
+<img src="/images/Singapore%20Customs%20and%20Culture/newplace.png" style="width:200px;">
+<p>This book focuses on the ornate Hindu temples and shrines, public displays of Indian religiosity, diverse Indian traditions observed in Singapore.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b>Learning Package</b></h3>
 <h5 id="lp-eurasian-culture-and-customs" class="margin--bottom--lg"><b> Eurasian Culture and Customs</b></h5>
 
 <p>According to the Singapore Census of Population 2020, there are about 18,000 Eurasians in Singapore. A mix of European and Asian ancestry, this small minority ethnic group is one of Singapore's earliest residents.</p>
