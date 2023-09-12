@@ -131,17 +131,17 @@ Assistant Curator Suhaili Osman explains how Zubir Said’s background in Singap
 These curated set of articles and books will give you a better understanding of our National Symbols and their significance to Singapore’s national identity.
 
 <h4>Articles</h4>
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_815_2004-12-23.html" target="_blank">Singapore’s national anthem by Sim, Cheryl</a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=566487d5-7862-4dc7-8f8b-162356ec2b5c" target="_blank">Singapore’s national anthem by Sim, Cheryl</a></h5>
 <p>Singapore’s national anthem, <i>Majulah Singapura</i>, was first composed in 1958 by Zubir Said to be the City Council of Singapore’s official song. It became the state national anthem when Singapore attained self-governance in 1959 and was finally adopted as the National Anthem when we gained independence in 1965.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_815_2004-12-23.html" target="_blank">Singapore’s national anthem</a> (2014, September).<i> Singapore Infopedia.</i> Retrieved 2022, August 8.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=566487d5-7862-4dc7-8f8b-162356ec2b5c" target="_blank">Singapore’s national anthem</a> (2014, September).<i> Singapore Infopedia.</i> Retrieved 2022, August 8.
 
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_488_2004-12-18.html" target="_blank">Singapore’s national flag by Sim, Cheryl</a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=66bb01bf-8643-4d4b-b77b-8dd01a185e3b" target="_blank">Singapore’s national flag by Sim, Cheryl</a></h5>
 <p>A new Singapore state flag was created in 1959 shortly after Singapore became a self-governing state under British rule. The same flag was later adopted as the National Flag when Singapore became an independent nation in 1965.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_488_2004-12-18.html" target="_blank">Singapore’s national flag</a> (2014, September).<i> Singapore Infopedia.</i> Retrieved 2022, August 8.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=66bb01bf-8643-4d4b-b77b-8dd01a185e3b" target="_blank">Singapore’s national flag</a> (2014, September).<i> Singapore Infopedia.</i> Retrieved 2022, August 8.
 	
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_752_2005-01-10.html" target="_blank">Vanda Miss Joaquim by Arunasalam, Sitragandi</a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=a6d4c4a7-18ac-4b8f-a07f-7790d501b8a5" target="_blank">Vanda Miss Joaquim by Arunasalam, Sitragandi</a></h5>
 <p>The Vanda Miss Joaquim orchid was officially launched as Singapore’s national flower on 15 April 1981. It was selected for its vibrant colour, “resilience and year-round blooming quality”. The flower is the first recorded orchid hybrid from Singapore and was first created in the early 1890s.</p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_752_2005-01-10.html" target="_blank">Vanda Miss Joaquim</a> (2017). <i>Singapore Infopedia.</i> Retrieved 2022, August 8.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=a6d4c4a7-18ac-4b8f-a07f-7790d501b8a5" target="_blank">Vanda Miss Joaquim</a> (2017). <i>Singapore Infopedia.</i> Retrieved 2022, August 8.
 
 <h5><a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj"> Blooming Lies: The Vanda Miss Joaquim Story by Nadia Wright, Linda Locke and Harold Johnson</a></h5>
 <p>The authors present the truth of the genesis of Singapore's national flower, Vanda Miss Joaqium, combing through various narratives on how the flower came about through the years since it was first mentioned in 1893.</p>
@@ -152,31 +152,24 @@ Source: Wright, Nadia, Locke, Linda and Johnson, Harold, <a target="_blank" href
 <h5>Zubir Said: The composer of Majulah Singapura</h5>
 Rohana Zubir. (2014). <i>Zubir Said: The composer of Majulah Singapura.</i> Singapore: Institute of Southeast Asian Studies.<br>
 <a target="_blank" href="https://nlb.overdrive.com/media/1972027">
-<img style="width:200px;"
-src="/images/National%20Symbols/ZubirS.png"></a>
+<img style="width:200px;" src="/images/National%20Symbols/ZubirS.png"></a>
 <p>Zubir Said is best known as the composer of Singapore’s National Anthem. This book is a biography of the composer, as written by his daughter. It covers his experience composing the anthem and challenges he faced in the process, as well as the events in his life that led him to call Singapore home.</p>
-<p><a href="https://nlb.overdrive.com/media/1972027"
-target="_blank">Borrow the eBook here.</a></p>
-<p>Retrieved from OverDrive (a <a 
-href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). </p>
+<p><a href="https://nlb.overdrive.com/media/1972027" target="_blank">Borrow the eBook here.</a></p>
+<p>Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). </p>
 
 <h4>Books</h4>
 
 <h5>A Joy Forever: Vanda Miss Joaquim, Singapore's national flower</h5>
 Teoh, Eng Soon. (1998). <i>A Joy Forever: Vanda Miss Joaquim, Singapore's national flower</i> Singapore: Times Editions. (Call no.: RSING 584.4095957 TEO)
 <br>
-<a 
-href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 9090097"
-target="_blank">
+<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 9090097" target="_blank">
 <img src="/images/National%20Symbols/VandaMJ.png" style="width:200px;"></a>
 <p>The Vanda Miss Joaquim orchid was chosen as Singapore’s National flower in 1981. This book attempts to put the story of this orchid into historical perspective. It highlights why the orchid was chosen as a National Symbol and how it was originally discovered, and includes information on how to grow it.</p>
 
 <h5>The National Symbols Kit</h5>
 Singapore, Ministry of Information and the Arts. (1999). <i>The National Symbols Kit</i> Singapore: Ministry of Information and the Arts. (Call no.: RCLOS 320.54095957027 NAT)
 <br>
-<a 
-href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 9606171"
-target="_blank">
+<a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid= 9606171" target="_blank">
 <img src="/images/National%20Symbols/NSKit.png" style="width:200px;"></a>
 <p>Prepared by the Ministry of Information and the Arts, this kit comprises eight fact sheets containing information on Singapore’s National Symbols as well as the nation’s Shared Values. A booklet with the guidelines governing the use of the National Symbols, a National Flag, and a compact disc with the National Anthem stored within are also included.</p>
 
