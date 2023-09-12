@@ -1028,11 +1028,11 @@ Lai, Chee Kien &amp; Koh, Hon Teng. (2021). <i>Hawker centre food: ambrosia for 
 		<td>
 <h4>Did you know...</h4>
 	<ul>
-		<li>According to recent studies, consumer demand for ready-to-eat (RTE) food will be seeing a significant rise in Singapore in the next five years. As Singaporeans are allocating less time to cooking food at home and seeking out health-conscious meals, the growing demand for quick food that is fresh and nutritious has seen the emergence of many local food brands providing pre-cleaned, pre-cooked, and ready for consumption packaged food. Prima Taste is one such local brand which has emerged among top five RTE brands in Singapore, competing with well-known international names such as Nestle and Kellogg’s.</li>
-		</ul>
-		</td>
-		</tr></tbody></table>
-	These curated set of articles and books will give you a better understanding of heritage food brands in Singapore.
+		<li>According to recent studies, consumer demand for ready-to-eat (RTE) food will be seeing a significant rise in Singapore in the next five years. As Singaporeans are allocating less time to cooking food at home and seeking out health-conscious meals, the growing demand for quick food that is fresh and nutritious has seen the emergence of many local food brands providing pre-cleaned, pre-cooked, and ready for consumption packaged food. Prima Taste is one such local brand which has emerged among top five RTE brands in Singapore, competing with well-known international names such as Nestle and Kello</li>
+</ul>
+</td>
+</tr></tbody></table>
+These curated set of articles and books will give you a better understanding of heritage food brands in Singapore.
 	
 <h4>Articles</h4>
 
