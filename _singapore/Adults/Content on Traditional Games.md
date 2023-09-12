@@ -60,9 +60,9 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </div>
 
 <h3><b>Playlist</b></h3>
-A collection of short videos or selected podcasts, exploring traditional games in Singapore.
+A collection of short videos exploring traditional games in Singapore.
 
-<h5 id="traditional-games" class="margin--bottom--lg"><b>Playlist: Traditional Games</b></h5>
+<h5 class="margin--bottom--lg" id="traditional-games"><b>Playlist: Traditional Games</b></h5>
 
 Traditional games can serve as a valuable bridge to our past and showcase the values that our society finds important, such as sportsmanship and teamwork. Such traditional games require the players to follow the game rules and try to win against an opponent with skills, knowledge, and a bit of luck!
 
@@ -73,7 +73,7 @@ Check out these resources to help you gain some understanding of traditional gam
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/PBCnL-hYIEo"></iframe>
+<iframe src="https://www.youtube.com/embed/PBCnL-hYIEo" class="responsive-iframe"></iframe>
 </div>
 </div>
 <div class="col is-three-fifths">
@@ -88,7 +88,7 @@ How did kids occupy their time before the advent of smartphones and tablets?  �
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/gUtznfS4pk4">
+<iframe src="https://www.youtube.com/embed/gUtznfS4pk4" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -105,7 +105,7 @@ How did kids occupy their time before the advent of smartphones and tablets?  �
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/NWxBY69Uge4">
+<iframe src="https://www.youtube.com/embed/NWxBY69Uge4" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -122,7 +122,7 @@ How did kids occupy their time before the advent of smartphones and tablets?  �
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 <div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/M4Bnd50MmwU">
+<iframe src="https://www.youtube.com/embed/M4Bnd50MmwU" class="responsive-iframe">
 </iframe>
 </div>
 </div>
@@ -137,38 +137,47 @@ How did kids occupy their time before the advent of smartphones and tablets?  �
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h3><b>Learning Package</b></h3>
-<h5 id="lp-sports" class="margin--bottom--lg"><b>Sports in Singapore</b></h5>
+<h5 id="lp-traditional games" class="margin--bottom--lg"><b>Traditional Games</b></h5>
 
-<p>From exclusive colonial sports clubs to public sporting facilities for the masses, the experience of sports in Singapore has evolved significantly in the last two centuries.
-</p>
-<p>Today, Singapore not only supports and promotes an active and healthy lifestyle amongst citizens, but also boasts world-class sporting facilities and has achieved notable sporting successes in international competitions.
-</p>
-<table border="1">
+<p>Traditional games can serve as a valuable bridge to our past and showcase the values that our society finds important, such as sportsmanship and teamwork. Games also provide a way to relieve everyday life tensions.</p>
+
+<p><table border="1">
 	<tbody><tr>
 		<td>
 <h4>Did you know...</h4>
 <ul>
-<li>Singapore’s first Olympic medallist is Tan Howe Liang, a weightlifter who bagged a silver medal at the 1960 Rome Olympic Games.</li>
+<li> Congkak was predominantly associated as a woman’s game in South and Southeast Asia, while in Africa, the game was largely played by men.</li>
 </ul>
 </td>
 </tr></tbody></table>
 
-Check out this set of articles and books to gain a better understanding of sports in Singapore.
+These curated set of articles and books will help you understand more about these traditional games in Singapore.
 
-<h4>Articles</h4>
+</p><h4>Articles</h4>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7bedd52d-ff96-472d-b423-4dc6790e98c8" target="_blank">Congkak by Bonny Tan</a></h5>
+<p>Known elsewhere as mancala, this is a popular game of logic. The version which is commonly played in the Malay Archipelago requires two players to share a wooden board with one row of seven holes along each side, and one bigger hole at either end. </p>
+Source: Bonny Tan. (2016). <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7bedd52d-ff96-472d-b423-4dc6790e98c8" target="_blank">Congkak</a> <i> Singapore Infopedia</i>. Retrieved 2023, September 14.
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_145_2005-01-04.html">Singapore Sports Council by Lim, Tin Seng</a></h5>
-<p>The Singapore Sports Council was established on 1 October 1973. It aimed to promote sports to the masses as well as to nurture and develop sports talents. The council was renamed Sport Singapore in 2014.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_145_2005-01-04.html">Singapore Sports Council</a> (2015).<i>Singapore Infopedia.</i> Retrieved 2023, July 10.
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=a8546d9a-0c28-444a-9e06-961528345936” target="> Five Stones by Bonny Tan and Damien Wang</a></h5>
+<p> Five stones is a traditional game that was popular with children in the kampong days. Few may know about its ancient origins, and its popularity declined with the urbanisation of Singapore. However, it has seen a few revivals through the efforts of schools, community organisations and government agencies.</p>
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1695_2010-07-23.html">Singapore 2010 Youth Olympic Games by Tan, Joanna Hwang Soo</a></h5>
-<p>The inaugural Youth Olympic Games (YOG) was hosted by Singapore between 14 and 26 August 2010. Athletes from 205 countries participated in the games and the event gave Singapore considerable international exposure.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1695_2010-07-23.html">Singapore 2010 Youth Olympic Games</a> (2010).<i>Singapore Infopedia.</i> Retrieved 2023, July 10.
+Source: Tan, Bonny, and Wang, Damien. (2019). “<a target="”_blank”">Five Stones</a>.” <i>Singapore Infopedia</i>. Retrieved 2023, September 14.
 
-<h5><a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/sg-sporting-greats">Singapore's Sporting Greats by Chua, Chong Jin</a></h5>
-<p>This article covers the sporting feats achieved by some of Singapore’s athletes, from the pioneer sportsmen and women from the 1940s to household names today.</p>
-Source: <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/sg-sporting-greats"> Singapore's Sporting Greats</a>. <i>BiblioAsia</i> 11(2) (July-September 2015). Retrieved 2023, July 10.
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=274d6731-e5f5-4d5c-8341-9587b83d71e6” target=">Capteh by Bonny Tan </a></h5>
+<p>Capteh is a traditional game that requires great dexterity and balance in keeping a feathered shuttlecock in the air for as long as possible by kicking it up with the heel of the foot.</p>
+
+Source: Tan, Bonny. (2017). “<a target="”_blank”">Capteh</a>.” <i>Singapore Infopedia</i>. Retrieved 2023, September 14.
+
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=adef04c4-9aa8-453d-b890-a0e8cbeca718” target=">Gasing by Stephanie Ho</a></h5>
+<p>Capteh is a traditional game that requires great dexterity and balance in keeping a feathered shuttlecock in the air for as long as possible by kicking it up with the heel of the foot.</p>
+
+Source: Tan, Bonny. (2013). “<a href="”https://www.nlb.gov.sg/main/article-detail?cmsuuid=adef04c4-9aa8-453d-b890-a0e8cbeca718”" target="”_blank”">Gasing</a>.” <i>Singapore Infopedia</i>. Retrieved 2023, September 14.
+
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5d856d1f-c223-47fd-9ad4-e636ee5d9197” target=">Kuti Kuti by Bonny Tan</a></h5>
+<p>Kuti kuti is a traditional children’s game in which two opposing players take turns to deftly flip colourful plastic tokens on top of those of their opponent. If a player’s token lands on top of an opponent’s token, the player then claims the opponent’s token as his own.</p>
+
+Source: Tan, Bonny. (2014). “<a href="”https://www.nlb.gov.sg/main/article-detail?cmsuuid=5d856d1f-c223-47fd-9ad4-e636ee5d9197”" target="”_blank”">Kuti kuti</a>.” <i>Singapore Infopedia</i>. Retrieved 2023, September 14.
+
 
 <h4>Books</h4>
 
@@ -176,21 +185,21 @@ Source: <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/ju
 Aplin, Nick. (2019). <i>Sport in Singapore: The colonial legacy</i>. Singapore: Straits Times Press. (Call no.: RSING 796.095957 APL)
 <br>
 
-<img src="/images/Singapore%20Sports/naplin.png" style="width:200px;">
+<img style="width:200px;" src="/images/Singapore%20Sports/naplin.png">
 <p>This book provides a wide survey of sports, sporting clubs, and sporting events that existed in colonial Singapore. Beyond sports enjoyed by the European population, the author also discusses sports that were significant to the Eurasian, Malay, Chinese and Indian communities.</p>
 
 <h5>Sports</h5>
 Robert, Godfrey. (2017). <i>Sports</i>. Singapore: Institute of Policy Studies &amp; Straits Times Press Pte Ltd. (Call no. RSING 796.095957 ROB)
 <br>
 
-<img src="/images/Singapore%20Sports/robert.png" style="width:200px;">
+<img style="width:200px;" src="/images/Singapore%20Sports/robert.png">
 <p>Written by veteran sports journalist Godfrey Robert, this book charts the development of organised sports in Singapore from the pre-war to post-independence years. It also discusses how the previously egalitarian mindset surrounding sports has evolved since Singapore’s early post-independence years.</p>
 
 <h5>On track: 21 years of the Singapore Sports Council</h5>
 Chua, Chong Jin. (1994). <i>On track: 21 years of the Singapore Sports Council</i>. Singapore: Published for the Singapore Sports Council by Times Editions. (Call no.: RSING 796.42 CHU)
 <br>
 
-<img src="/images/Singapore%20Sports/ontrack.png" style="width:200px;">
+<img style="width:200px;" src="/images/Singapore%20Sports/ontrack.png">
 <p>This is the Singapore Sports Council’s 21st anniversary commemorative publication. It looks back on its origins, growth, achievements, and future plans. It also covers efforts to promote the “Sports for All” policy among Singaporeans.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
