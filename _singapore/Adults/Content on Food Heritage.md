@@ -641,9 +641,9 @@ These curated set of articles and books give an overview of Singapore’s food h
 <p> Violet Oon is one of Singapore's best known food personalities. She has influenced the Singapore food scene as author, speaker, teacher, consultant and restauranteur. </p>
 Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=4db9b1ea-c6fb-4edb-8ac8-720324f2b1b7" target="_blank"> Violet Oon </a>(2019, April).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
 	
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html" target="_blank"> Fast-food chains by Marsita Omar</a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=fca5127f-894f-4a4a-bb27-9f2d64f252dd" target="_blank"> Fast-food chains by Marsita Omar</a></h5>
 <p> Singapore’s love for fast-food began as early as the 1970s, making it one of the popular options among Singaporeans’ dining out culture.</p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1037_2008-12-03.html" target="_blank"> Fast-food chains </a>(2019, May).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=fca5127f-894f-4a4a-bb27-9f2d64f252dd" target="_blank"> Fast-food chains </a>(2019, May).<i> Singapore Infopedia.</i> Retrieved 2022, April 7.
 	
 <h4>eBook</h4>
 
