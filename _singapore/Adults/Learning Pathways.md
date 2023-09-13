@@ -196,3 +196,31 @@ Discover Singapore's iconic entertainment places, such as the amusement parks es
     </tbody>
   </table>
 </div>
+
+
+<h3><b>Traditional Games</b></h3>
+Discover Singapore's traditional games, such as congkak, five stones, gasing, and capteh.
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/singapore/adults/traditional-games/" target="_blank"><b>Traditional Games Learning Package</b></a></td>
+        <td style="width: 40%;">Here are some initial resources to learn about traditional games.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="/singapore/adults/traditional-games/" target="_blank"><b>Traditional Games Playlist</b></a></td>
+       <td style="width: 40%;">Learn more about Singapore's traditional games through these videos.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+			</tr>
+    </tbody>
+  </table>
+</div>
