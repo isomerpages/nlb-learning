@@ -374,18 +374,18 @@ Check out this set of articles and books to gain a better understanding of Chine
 
 <h4>Articles</h4>
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_948__2009-01-02.html">Chinese New Year customs in Singapore by Tan, Bonny</a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=64b992e6-bc61-4950-95c3-5faaf841c3f6">Chinese New Year customs in Singapore by Tan, Bonny</a></h5>
 <p>Learn more about how and why we practice certain Chinese New Year customs in Singapore.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_948__2009-01-02.html">Chinese New Year customs in Singapore</a>(2018).<i>Singapore Infopedia.</i> Retrieved 2023, April 14.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=64b992e6-bc61-4950-95c3-5faaf841c3f6">Chinese New Year customs in Singapore</a>(2018).<i>Singapore Infopedia.</i> Retrieved 2023, April 14.
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1747_2010-12-30.html">Chinese weddings by Yeo, Teresa Rebecca</a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=78aea38b-3bad-4262-8906-89c98f85ed28">Chinese weddings by Yeo, Teresa Rebecca</a></h5>
 <p>Chinese wedding customs and traditions vary slightly according to dialect groups. This article provides a brief overview of the common customary rites that are practiced on the eve of the wedding and wedding day.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1747_2010-12-30.html"> Chinese weddings </a>(2016).<i>Singapore Infopedia.</i> Retrieved 2023, April 14.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=78aea38b-3bad-4262-8906-89c98f85ed28"> Chinese weddings </a>(2016).<i>Singapore Infopedia.</i> Retrieved 2023, April 14.
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_842_2005-01-03.html"> Qing Ming Jie (All Souls’ Day)
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=1c3bd4a1-0383-4125-8717-73e59e805ea6"> Qing Ming Jie (All Souls’ Day)
 By Koh, Qi Rui Vincent</a></h5>
 <p> Qing Ming Jie is a festival that falls in early April. During the festival, people visit ancestors’ graves at cemeteries and columbaria with food and other offerings to mark this period of remembrance.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_842_2005-01-03.html"> Qing Ming Jie (All Souls’ Day)</a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, April 14.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=1c3bd4a1-0383-4125-8717-73e59e805ea6"> Qing Ming Jie (All Souls’ Day)</a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, April 14.
 
 <h4>Books</h4>
 
@@ -438,13 +438,13 @@ Check out this set of articles and books to gain a better understanding of Malay
 
 <h4>Articles</h4>
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html"> Orang Laut by Mazelan Anuar </a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=e586ffef-6277-4c3d-b463-bd14eefc914f"> Orang Laut by Mazelan Anuar </a></h5>
 <p> The Orang Laut were nomadic sea gypsies who occupied the maritime zone surrounding the Strait of Melaka. As skilled mariners, they used to play an important role in Malay political history.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html"> Orang Laut </a>(2020)<i>Singapore Infopedia.</i> Retrieved 2023, May 11.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=e586ffef-6277-4c3d-b463-bd14eefc914f"> Orang Laut </a>(2020)<i>Singapore Infopedia.</i> Retrieved 2023, May 11.
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_73_2005-01-25.html">Malay Muslim Marriages by Jaime Koh &amp; Stephanie Ho</a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=84aa5ca2-de14-48a3-b2a2-949e906f6772">Malay Muslim Marriages by Jaime Koh &amp; Stephanie Ho</a></h5>
 <p> This article describes the stages involved in the festive, grand and celebratory Malay wedding, including the dos and don'ts.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_73_2005-01-25.html"> Malay Muslim Marriages </a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, May 11.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=84aa5ca2-de14-48a3-b2a2-949e906f6772"> Malay Muslim Marriages </a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, May 11.
 
 <h4>Books</h4>
 
@@ -490,13 +490,13 @@ Check out this set of articles and books to gain a better understanding of the I
 
 <h4>Articles</h4>
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2019-04-05_110953.html"> Indian birth rituals by Anasuya Soundararajan </a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=aaefe8d2-a3cb-443c-950d-5637252bc79d"> Indian birth rituals by Anasuya Soundararajan </a></h5>
 <p> The arrival of a new baby in any household, is an occasion for celebration. The Indian traditional ceremonies start before the baby is born and may continue for up to a year after the child’s birth. This article brings us through the various rituals and customs observed during this period of time.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2019-04-05_110953.html"> Indian birth rituals </a>(2016)<i>Singapore Infopedia.</i> Retrieved 2023, May 23.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=aaefe8d2-a3cb-443c-950d-5637252bc79d"> Indian birth rituals </a>(2016)<i>Singapore Infopedia.</i> Retrieved 2023, May 23.
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_883_2004-12-17.html"> Betel chewing by Suchitthra Vasu </a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=e6f4151a-aef8-4d61-b509-f54cd9049c71"> Betel chewing by Suchitthra Vasu </a></h5>
 <p> The art of paan or betel chewing dates back to the pre-Vedic Saivite Harappan empire. This article brings us through the origin of this practice and its usage among the Indian community in Singapore.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_883_2004-12-17.html"> Betel chewing </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2023, May 23.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=e6f4151a-aef8-4d61-b509-f54cd9049c71"> Betel chewing </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2023, May 23.
 
 <h4>Books</h4>
 
@@ -558,13 +558,13 @@ Check out this set of articles and books to gain a better understanding of Euras
 	
 <h4>Articles</h4>
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1041_2010-05-07.html"> Singapore Recreation Club by Joshua Chia &amp; Bonny Tan </a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=353c6e61-323f-4818-a351-611a1cd8cff1"> Singapore Recreation Club by Joshua Chia &amp; Bonny Tan </a></h5>
 <p> Traces the history of the club where cricket was the main sport played at the club by Eurasian members.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1041_2010-05-07.html"> Singapore Recreation Club </a>(2020)<i>Singapore Infopedia.</i> Retrieved 2023, June 15.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=353c6e61-323f-4818-a351-611a1cd8cff1"> Singapore Recreation Club </a>(2020)<i>Singapore Infopedia.</i> Retrieved 2023, June 15.
 	
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html"> Eurasian community by Stephanie Ho</a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=45dd95f2-31e0-4f7c-b264-dabc79907fbe"> Eurasian community by Stephanie Ho</a></h5>
 <p>Introduces the Eurasian community, their occupations during colonial period, their associations, cultural practices, famous personalities, and the Eurasian enclaves during colonial period.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html"> Eurasian community </a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, June 15.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=45dd95f2-31e0-4f7c-b264-dabc79907fbe"> Eurasian community </a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, June 15.
 
 <h4>Books</h4>
 
