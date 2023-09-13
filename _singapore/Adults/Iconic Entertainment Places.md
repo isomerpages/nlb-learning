@@ -461,7 +461,7 @@ National Archives of Singapore. (2017). "Happy and New World Amusement Parks." <
 Our island is home to more than 1,000 species of birds, animals and marine life? Singapore has five animal-themed parks namely, the SEA Aquarium, River Wonders Singapore, Bird Paradise (opening during the third quarter this year), Night Safari and Singapore Zoo. Some of these parks are home to endangered animals like Orangutan, Red Panda and Clouded Leopard!</li>
 </ul>
 </td>
-							</tr></tbody></table>
+</tr></tbody></table>
 These curated set of articles and books will give you a better understanding of the important roles played by animal parks in Singapore.
 
 <h4>Articles</h4>
