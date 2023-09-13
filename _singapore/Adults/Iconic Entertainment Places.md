@@ -394,7 +394,7 @@ This video profiles Esplanade’s senior producer Christel Hon who oversees West
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Amusement Parks</b></h5>
 
-<p><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_990_2006-06-09.html">New World Park</a> (1923-1987), <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1046_2006-06-09.html">Great World Amusement Park</a> (1931-1964), and <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1044_2006-06-01.html">Gay World (Happy World)</a> (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.</p>
+<p><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=161ef808-c4e0-41db-9d4d-630a6b7f7a6e">New World Park</a> (1923-1987), <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=6ee2d6c5-e088-4b79-9ce9-6da97c95b77d">Great World Amusement Park</a> (1931-1964), and <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=93d1427e-9cad-4617-a2d3-7b29487f705b">Gay World (Happy World)</a> (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.</p>
 
 <p>After the 1960s, many of these amusement parks declined due to competing alternative entertainment options such as radios, televisions, shopping centres, discos, and nightclubs.</p>
 
@@ -412,9 +412,9 @@ This video profiles Esplanade’s senior producer Christel Hon who oversees West
 
 <h4>Articles</h4>
 
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html" target="_blank">Getai by Jaime Koh and Stephanie Ho</a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5f641690-731c-4816-b84b-733232c8d44f" target="_blank">Getai by Jaime Koh and Stephanie Ho</a></h5>
 <p>Getai is a popular form of mass entertainment that is believed to have originated during the Japanese Occupation and flourished in the 1950s. Amusement park based Getai went into a decline in the 1960s and 1970s after the introduction of the television. Today Getai is mainly staged during the Hungry Ghost Festival to entertain both the living and the dead.</p>
-Source: Koh, Jaime, and Ho, Stephanie. (2015). <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-25_161203.html" target="_blank">Getai</a>. <i> Singapore Infopedia</i>. Retrieved 2023, January 26.
+Source: Koh, Jaime, and Ho, Stephanie. (2015). <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5f641690-731c-4816-b84b-733232c8d44f" target="_blank">Getai</a>. <i> Singapore Infopedia</i>. Retrieved 2023, January 26.
 
 <h5><a href="https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement" target="_blank">Old-world Amusement Parks by Lim Tin Seng</a></h5>
 <p> Theme parks in Singapore had their heyday from the 1920s to 50s. This <i>BiblioAsia</i> article charts their glory days and subsequent decline.</p>
