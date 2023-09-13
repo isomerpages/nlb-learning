@@ -168,6 +168,20 @@ Source: Tan, Bonny, and Wang, Damien. (2019). "<a target="_blank" href="https://
 
 Source: Tan, Bonny. (2017). "<a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=274d6731-e5f5-4d5c-8341-9587b83d71e6">Capteh</a>.” <i>Singapore Infopedia</i>. Retrieved 2023, September 14.
 
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=adef04c4-9aa8-453d-b890-a0e8cbeca718">Gasing by Stephanie Ho</a></h5>
+<p>Gasing is a term that refers to both the Malay spinning top and the game of top spinning. Gasing was a popular game played in the kampongs (“villages” in Malay) of Singapore and Malaysia, especially among members of the Malay community. Competitive gasing is still played in Malaysia today.</p>
+
+Source: Tan, Bonny. (2013). "<a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=adef04c4-9aa8-453d-b890-a0e8cbeca718">Gasing</a>." <i>Singapore Infopedia</i>. Retrieved 2023, September 14.
+
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=8a47c535-503b-47f8-ad84-fd8e56e16a19">Hopscotch by Bonny Tan</a></h5>
+<p>Hopscotch is a traditional children’s game in which one more players hop over a series of squares drawn on the ground.</p>
+
+Source: Tan, Bonny. (2017). "<a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=8a47c535-503b-47f8-ad84-fd8e56e16a19">Hopscotch</a>." <i>Singapore Infopedia</i>. Retrieved 2023, September 14.
+
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5d856d1f-c223-47fd-9ad4-e636ee5d9197">Kuti Kuti by Bonny Tan</a></h5>
+<p>Kuti kuti is a traditional children’s game in which two opposing players take turns to deftly flip colourful plastic tokens on top of those of their opponent. If a player’s token lands on top of an opponent’s token, the player then claims the opponent’s token as his own.</p>
+
+Source: Tan, Bonny. (2014). "<a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5d856d1f-c223-47fd-9ad4-e636ee5d9197">Kuti kuti</a>." <i>Singapore Infopedia</i>. Retrieved 2023, September 14.
 
 
 <h4>Books</h4>
