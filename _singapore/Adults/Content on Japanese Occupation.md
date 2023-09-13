@@ -173,7 +173,7 @@ British surrender marks the beginning of the Japanese Occupation. Hear the World
 </div>
 <div class="col is-three-fifths">
 <p><b>From The Stacks Episode 18 – The Syonan Shimbun by Lee Meiyu and Fiona Tan | NLB Singapore (3 mins)</b><br>
-Librarian Lee Meiyu and archivist Fiona Tan present "The Syonan Shimbun", an English newspaper published during the Japanese Occupation of Singapore. Together with its Chinese imprint ???? "Zhaonan Ribao", it carried official notices, wartime propaganda and price lists of essential goods, serving as a historic record of what people went through during the Japanese Occupation.<br><br>
+Librarian Lee Meiyu and archivist Fiona Tan present "The Syonan Shimbun", an English newspaper published during the Japanese Occupation of Singapore. Together with its Chinese imprint 昭南日报 "Zhaonan Ribao", it carried official notices, wartime propaganda and price lists of essential goods, serving as a historic record of what people went through during the Japanese Occupation.<br><br>
 <small>Source: The Stacks Episode 18 – The Syonan Shimbun by Lee Meiyu and Fiona Tan | NLB Singapore (2021, Nov 16). NLB Singapore. Retrieved 2022, January 12.</small></p>
 </div>
 </div>
@@ -416,7 +416,7 @@ Lee, Geok Boi. (2017). <i> Syonan: Singapore under the Japanese 1942-1945. </i> 
 <p> This revised edition frames the social memories of Singapore residents who lived through the Japanese military administration. </p>
 
 <h5> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945</h5>
-Akashi, Yo?ji &amp; Yoshimura, Mako (Eds.). (2008). <i> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945. </i> Singapore: NUS Press. (Call no.: RSING 940.5337 NEW) 
+Akashi, Yōji &amp; Yoshimura, Mako (Eds.). (2008). <i> New perspectives on the Japanese occupation in Malaya and Singapore, 1941-1945. </i> Singapore: NUS Press. (Call no.: RSING 940.5337 NEW) 
 <br>
 <img style="width:200px;" src="/images/singapore-japanese-occupation/NPJO.png">
 <p> A collection of articles that cover various topics on Japanese Occupation of Malaya and Singapore, based on Japanese primary sources, and sources from the archives and libraries in Britain, Malaysia, Singapore, United States, Australia and India. </p>
