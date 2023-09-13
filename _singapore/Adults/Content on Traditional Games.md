@@ -151,7 +151,7 @@ How did kids occupy their time before the advent of smartphones and tablets?  â€
 </td>
 </tr></tbody></table>
 
-These curated set of articles and books will help you understand more about these traditional games in Singapore.
+</p><p>These curated set of articles and books will help you understand more about these traditional games in Singapore.
 
 </p><h4>Articles</h4>
 <h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7bedd52d-ff96-472d-b423-4dc6790e98c8">Congkak by Bonny Tan</a></h5>
