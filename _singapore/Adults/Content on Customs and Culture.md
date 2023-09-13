@@ -503,37 +503,37 @@ Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsu
 <h5> An ABC of Indian culture: a personal padayatra of half a century into India</h5>
 Peggy Holroyde. (2007).<i> An ABC of Indian culture: a personal padayatra of half a century into India. </i> Usmanpura, Ahmedabad, India: Mapinlit. (Call No.: R 954 HOL)
 <br>
-<img src="/images/Singapore%20Customs%20and%20Culture/anabcof.png" style="width:200px;">
+<img src="/images/Singapore%20Customs%20and%20Culture/anabcof.PNG" style="width:200px;">
 <p>This book is an interpretation of 400 Indian concepts and practices derived from a personal exploration of Indian customs and culture over a period of 50 years.</p>
 
 <h5> Gateway to Indian culture</h5>
 Chitra Soundar. (1994). <i>Gateway to Indian culture </i> Singapore: Asiapac. (Call no.: RSING 305.891411 CHI)
 <br>
 
-<img src="/images/Singapore%20Customs%20and%20Culture/gtindc.png" style="width:200px;">
+<img src="/images/Singapore%20Customs%20and%20Culture/gtindc.PNG" style="width:200px;">
 <p>This book starts off with the origin of the Indian religious and social customs and tracks down its evolution into a spicy blend of traditions, religions and languages, derived from the diverse states of India.</p>
 
 <h5> Traditions: a complete book of Indian arts and crafts motifs, special reference to rangoli design
 </h5>
-Neelam Verma. (2005)..<i> Traditions: a complete book of Indian arts and crafts motifs, special reference to rangoli design. </i>Mumbai: English Edition Publishers and Distributors. (Call no.: RART 745.0954 VER)
+Neelam Verma. (2005).<i> Traditions: a complete book of Indian arts and crafts motifs, special reference to rangoli design. </i>Mumbai: English Edition Publishers and Distributors. (Call no.: RART 745.0954 VER)
 <br>
 
-<img src="/images/Singapore%20Customs%20and%20Culture/traditions.png" style="width:200px;">
+<img src="/images/Singapore%20Customs%20and%20Culture/traditions.PNG" style="width:200px;">
 <p>This unique book brings to you a compilation of Rangoli designs based on traditional Indian motifs, symbolising significant cultural and religious significance.</p>
 
 <h5> South Indian Hindu festivals and traditions</h5>
 Maithily Jagannathan. (2005). <i>South Indian Hindu festivals and traditions </i> New Delhi: Abhinav Publications. (Call no.: R 294.536 MAI)
 <br>
 
-<img src="/images/Singapore%20Customs%20and%20Culture/southindian.png" style="width:200px;">
+<img src="/images/Singapore%20Customs%20and%20Culture/southindian.PNG" style="width:200px;">
 <p>This book on Hindu customs and traditions puts together everyday beliefs, practices, observances and etiquette of Indians. It explores the intricate links between these customs and legend, history, philosophy and folklores.</p>
 
 <h5> New place, old ways: essays on Indian society and culture in modern Singapore
 </h5>
-Anthony R Walker &gt; New place, old ways: essays on Indian society and culture in modern Singapore. Delhi: Hindustan Pub. Corp. (Call no.: RSING 305.894805957 NEW)
+Anthony R Walker. (1994). <i>New place, old ways: essays on Indian society and culture in modern Singapore.</i> Delhi: Hindustan Pub. Corp. (Call no.: RSING 305.894805957 NEW)
 <br>
 
-<img src="/images/Singapore%20Customs%20and%20Culture/newplace.png" style="width:200px;">
+<img src="/images/Singapore%20Customs%20and%20Culture/newplace.PNG" style="width:200px;">
 <p>This book focuses on the ornate Hindu temples and shrines, public displays of Indian religiosity, diverse Indian traditions observed in Singapore.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
