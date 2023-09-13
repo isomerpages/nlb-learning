@@ -530,15 +530,15 @@ Learn more about green efforts over the decades and explore some of Singapore’
 <p> This article charts Singapore’s greening journey from colonial times through to the present. It covers important developments including the creation of the Botanic Gardens, early tree-planting efforts, the launch of the “Garden City” vision in 1967, and beyond to the “City in Nature” strategy, part of the latest ten-year blueprint for sustainable development, the Singapore Green Plan 2030.</p> 
 Source: Lim, Tin Seng, <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/greening" target="_blank"> Of Parks, Trees and Gardens: The Greening of Singapore </a>(2021, April-June).<i>Biblioasia.</i> 17(1). Retrieved 2023, February 20.
 
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_421_2005-01-03.html" target="_blank"> Chinese Garden (Yu Hwa Yuan) </a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=f7c83ad6-8985-4027-b203-63409d028204" target="_blank"> Chinese Garden (Yu Hwa Yuan) </a></h5>
 <p> The Chinese Garden in Jurong was built in 1975 to provide social and recreational amenities for the then rapidly developing Jurong industrial town. Designed by Yu Yuen Chen, a Taiwanese expert on Chinese gardens, the garden is modelled on the northern Chinese imperial style of architecture during the Song dynasty (960–1279 CE) and the Summer Palace in Beijing.  
 </p> 
-Source:  <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_421_2005-01-03.html" target="_blank"> Chinese Garden (Yu Hwa Yuan) </a>(2012).<i>Singapore Infopedia.</i> Retrieved 2023, February 20.
+Source:  <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=f7c83ad6-8985-4027-b203-63409d028204" target="_blank"> Chinese Garden (Yu Hwa Yuan) </a>(2012).<i>Singapore Infopedia.</i> Retrieved 2023, February 20.
 
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-06-26_095923.html" target="_blank"> Gardens by the Bay</a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5686d939-61e9-4fb0-9e58-c38b635d97e4" target="_blank"> Gardens by the Bay</a></h5>
 <p> Occupying some 101 hectares along the Marina Bay waterfront, Gardens by the Bay is Singapore’s premier horticultural attraction. It was conceptualised in 2005 as part of the plan to develop Singapore’s reputation as a “City in a Garden” with world-class green spaces that enhance the quality of life and distinguish Singapore as a global city. 
 </p> 
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-06-26_095923.html" target="_blank"> Gardens by the Bay</a>(2013).<i>Singapore Infopedia.</i> Retrieved 2023, February 20.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5686d939-61e9-4fb0-9e58-c38b635d97e4" target="_blank"> Gardens by the Bay</a>(2013).<i>Singapore Infopedia.</i> Retrieved 2023, February 20.
 
 <h4>eBook</h4>
 
@@ -608,14 +608,15 @@ Tinsley, Bonnie [2016]. <i> The world in a garden: Singapore's gardens by the ba
 These curated set of articles and books will give you a better understanding of the history and development of theme parks in Singapore.
 
 <h4>Articles</h4>
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_560_2004-12-14.html" target="_blank">Haw Par Villa (Tiger Balm Gardens) by Lim, Irene</a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7809f4c9-d067-455c-8dbb-a511073e4d31" target="_blank">Haw Par Villa (Tiger Balm Gardens) by Lim, Irene</a></h5>
 <p>Haw Par Villa is an oriental-style theme park located along Pasir Panjang Road. The park was commissioned in 1937 by businessman Aw Boon Haw, as part of the residential estate he was building for his younger brother, Aw Boon Par. Though located on private property, the garden was opened to the public. The park is known for its statues depicting scenes from Chinese folklore.</p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_560_2004-12-14.html" target="_blank"> Haw Par Villa (Tiger Balm Gardens)</a>(2016).<i>Singapore Infopedia.</i> Retrieved 2023, March 6.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7809f4c9-d067-455c-8dbb-a511073e4d31" target="_blank"> Haw Par Villa (Tiger Balm Gardens)</a>(2016).<i>Singapore Infopedia.</i> Retrieved 2023, March 6.
 
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-06-26_162710.html" target="_blank"> Science Centre Singapore
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=0f3b25dd-46b6-4cc0-98e6-3b282ffe0390" target="_blank"> Science Centre Singapore
 by Lim, Tin Seng</a></h5>
 <p>The Singapore Science Centre opened to the public on 10 December 1977. It aimed to promote interest and learning in science and technology to students and the public. This objective came at a time when Singapore was industrialising rapidly, and it was paramount to develop Singapore’s industrial and technological skills.</p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-06-26_162710.html" target="_blank">Science Centre Singapore</a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, March 6.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=0f3b25dd-46b6-4cc0-98e6-3b282ffe0390" target="_blank">Science Centre Singapore</a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, March 6.
+
 <h4>Books</h4>
 
 <h5>Tiger Balm Gardens: A Chinese billionaire's fantasy environments</h5>
@@ -664,12 +665,14 @@ Teo, Peggy and Brenda S. A. Teoh. (1999). <i>Challenges to theme park developmen
 This set of articles and books will give you a better understanding of some of Singapore’s past and present iconic performing arts venues. 
 
 <h4>Articles</h4>
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_770_2004-12-16.html" target="_blank">Victoria Theatre and Concert Hall by Tan, Bonny</a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=8472b2d8-5549-4858-912b-f6150b4bcae6" target="_blank">Victoria Theatre and Concert Hall by Tan, Bonny</a></h5>
 <p>Gazetted as a national monument in 1992, the Victoria Theatre and Concert Hall is Singapore’s oldest performing arts venue. It comprises two blocks of buildings – one constructed in 1862 and the other in 1905 – joined by a clock tower. Many performing arts events including musical and stage performances have been held here. In 2014, it was reopened to the public after undergoing a four-year restoration.</p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_770_2004-12-16.html" target="_blank"> Victoria Theatre and Concert Hall (2016). <i> Singapore Infopedia.</i> Retrieved 2023, March 20.
-</a><h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_770_2004-12-16.html" target="_blank"></a><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1827_2011-08-05.html" target="_blank"> Esplanade – Theatres on the Bay by Faizah Zakaria </a></h5>
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=8472b2d8-5549-4858-912b-f6150b4bcae6" target="_blank"> Victoria Theatre and Concert Hall (2016).</a> <i> Singapore Infopedia.</i> Retrieved 2023, March 20.
+
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=b356eaf1-8f27-47e3-b2ac-608fafe060aa" target="_blank"> Esplanade – Theatres on the Bay by Faizah Zakaria </a></h5>
 <p>The Esplanade – Theatres on the Bay is an arts centre which features a 1,600-seat concert hall, a 2,000-seat theatre and other smaller performing arts venues. The idea for a performing arts centre was first mooted in 1975 by then Minister of Culture, Ong Teng Cheong. After much deliberation and discussion among many stakeholders, the plans for the centre was unveiled in 1994. The centre was officially opened in 2002 by former President S. R. Nathan.</p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1827_2011-08-05.html" target="_blank">Esplanade – Theatres on the Bay</a> (2016, July).<i> Singapore Infopedia.</i> Retrieved 2023, March 20.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=b356eaf1-8f27-47e3-b2ac-608fafe060aa" target="_blank">Esplanade – Theatres on the Bay</a> (2016, July).<i> Singapore Infopedia.</i> Retrieved 2023, March 20.
+
 <h5><a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/singapore-dance" target="_blank">The Art of Movement: Dance on the Singapore Stage by Tan, Tara</a></h5>
 <p>This article focuses on five trailblazers of the Singapore dance scene and their journey in the performing arts. It includes mentions of the Victoria Theatre and the Esplanade as venues where some of their performances have taken place.</p>
 Source: Tan, Tara <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/singapore-dance"> The Art of Movement: Dance on the Singapore Stage </a> (2015, Jul-Sep). <i>BiblioAsia</i>11(2). Retrieved 2023, March 20.
