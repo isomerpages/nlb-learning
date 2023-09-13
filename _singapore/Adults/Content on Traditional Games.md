@@ -186,25 +186,25 @@ Source: Tan, Bonny. (2014). "<a target="_blank" href="https://www.nlb.gov.sg/mai
 
 <h4>Books</h4>
 
-<h5>Sport in Singapore: The colonial legacy</h5>
-Aplin, Nick. (2019). <i>Sport in Singapore: The colonial legacy</i>. Singapore: Straits Times Press. (Call no.: RSING 796.095957 APL)
+<h5>Traditional Games</h5>
+PE Unit, Science Branch, Curriculum Planning &amp; Development Division, Ministry of Education. (1998). <i>Traditional Games</i>. Singapore: Ministry of Education. (Call no.: RSING 796.0959 INV) 
 <br>
+<img style="width:200px;" src="/images%2FSingapore%20Traditional%20Games/games_tg.png">
+<p> This booklet describes traditional games in Singapore such as sepak raga, kabaddi, capteh, big balloon, hopscotch, hantam bola, long rope skipping, rounders, congkak, and five stones.</p>
 
-<img style="width:200px;" src="/images/Singapore%20Sports/naplin.png">
-<p>This book provides a wide survey of sports, sporting clubs, and sporting events that existed in colonial Singapore. Beyond sports enjoyed by the European population, the author also discusses sports that were significant to the Eurasian, Malay, Chinese and Indian communities.</p>
 
-<h5>Sports</h5>
-Robert, Godfrey. (2017). <i>Sports</i>. Singapore: Institute of Policy Studies &amp; Straits Times Press Pte Ltd. (Call no. RSING 796.095957 ROB)
+<h5>Have Fun with Traditional Games</h5>
+People’s Association. (1982). <i>Have Fun with Traditional Games</i>. Singapore: The Association. (Call no.: RCLOS 394.3095957 HAV -[CUS]) 
 <br>
+<img style="width:200px;" src="/images%2FSingapore%20Traditional%20Games/games_hfwtg.png">
+<p> This booklet introduces readers to traditional games in Singapore such as gasing (top-spinning), main lereng (bicycle rim), tapak kuda (tin-walking), capteh, goli panjang (marbles), Chinese hopscotch, bola tin, keleret, tick-tock, galah panjang, congkak, and five stones.</p>
 
-<img style="width:200px;" src="/images/Singapore%20Sports/robert.png">
-<p>Written by veteran sports journalist Godfrey Robert, this book charts the development of organised sports in Singapore from the pre-war to post-independence years. It also discusses how the previously egalitarian mindset surrounding sports has evolved since Singapore’s early post-independence years.</p>
 
-<h5>On track: 21 years of the Singapore Sports Council</h5>
-Chua, Chong Jin. (1994). <i>On track: 21 years of the Singapore Sports Council</i>. Singapore: Published for the Singapore Sports Council by Times Editions. (Call no.: RSING 796.42 CHU)
+<h5>Inventory of ASEAN Traditional Games and Sports</h5>
+Inon Shaharuddin Abdul Rahman (ed.). (1998). <i>Inventory of ASEAN Traditional Games and Sports</i>. Malaysia: ASEAN Committee on Culture and Information. (Call no.: RSING 796.0959 INV) 
 <br>
+<img style="width:200px;" src="/images%2FSingapore%20Traditional%20Games/games_ioatg.png">
+<p>This book covers the various traditional games and sports from Brunei, Indonesia, Malaysia, Philippines, Singapore, and Thailand.</p>
 
-<img style="width:200px;" src="/images/Singapore%20Sports/ontrack.png">
-<p>This is the Singapore Sports Council’s 21st anniversary commemorative publication. It looks back on its origins, growth, achievements, and future plans. It also covers efforts to promote the “Sports for All” policy among Singaporeans.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
