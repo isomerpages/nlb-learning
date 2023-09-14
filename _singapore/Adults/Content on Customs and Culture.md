@@ -420,7 +420,7 @@ Wong, Lynn Yuqing and Lee Kok Leong. (2022). <i>Reviving Qixi: Singapore’s for
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
-<h5 id="lp-malay-culture-and-customs" class="margin--bottom--lg"><b> Malay Culture and Customs</b></h5>
+<h5 id="lp-malay-customs-culture" class="margin--bottom--lg"><b> Malay Customs and Culture</b></h5>
 
 <p> Malay Singaporeans are the second largest ethnic group in this multi-ethnic country. The Malays and their ancestors largely arrived from peninsular Malaya, and from various parts of the Indonesian archipelago.</p>
 <b></b>
@@ -472,7 +472,7 @@ Mathew Mathews. (Ed.). (2017)..<i> The Singapore ethnic mosaic: many cultures, o
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3><b>Learning Package</b></h3>
-<h5 id="lp-indian-culture-and-customs" class="margin--bottom--lg"><b> Indian Culture and Customs</b></h5>
+<h5 id="lp-indian-customs-culture" class="margin--bottom--lg"><b> Indian Customs and Culture</b></h5>
 
 <p> Aspects of Indian custom and culture have been preserved in many parts of Southeast Asia today. Some of these have evolved with time to cater to the ever-changing needs of our daily lives.</p>
 <b></b>
