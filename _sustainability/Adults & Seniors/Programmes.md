@@ -42,25 +42,31 @@ Watch the recordings <a href="https://nlb.ap.panopto.com/Panopto/Pages/Sessions/
 
 Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings. 
 
+## **Garden Talks by NParks** 
 
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-01.jpg) 
 
-## **Garden Talks by NParks**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-01.jpg)
+Started at Queenstown Public Library, this series of garden talks is a collaboration with National Parks Board (NParks) in promoting green living in the city and sharing of knowledge on home gardening.  
 
-Started at Queenstown Public Library, this series of garden talks is a collaboration with National Parks Board (NParks) in promoting green living in the city and sharing of knowledge on home gardening. 
+Held on a quarterly basis, this programme is specially targeted at seniors who would like to find out more on a variety of gardening topics, such as composting and optimising the environment for plant growth, and more from the passionate Community in Bloom ambassadors.  
 
-Held on a quarterly basis, this programme is specially targeted at seniors who would like to find out more on a variety of gardening topics, such as composting and optimising the environment for plant growth, and more from the passionate Community in Bloom ambassadors. 
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
 
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+## **Build Your Own Workshops** 
 
-## **Build Your Own Workshop**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-02.jpg)
+![Alt text for image on Isomer site](/images/sustainability/byoworkshopscover.png) 
 
-Get ready to get your hands dirty as you learn how to make lifestyle products such as beauty scrubs and items for home use using discardables and décor items with elements from nature. 
+Get ready to get your hands dirty as you learn how to grow your own microgreens, compost, upcycle and more! 
 
-Pitched at beginners. 
+<i>Past Workshops:</i>  
+<ul>  
+  <li><i>T-Shirt Upcycling</i></li>  
+  <li><i>Glass Jar Light</i></li>  
+  <li><i>Introduction to Microgreens and Herb Care</i></li>  
+  <li><i>Composting 101</i></li> 
+</ul> 
 
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
 
 ## **Green Market**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-GreenMarket.jpg)
