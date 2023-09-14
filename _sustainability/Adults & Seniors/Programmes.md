@@ -68,18 +68,13 @@ Get ready to get your hands dirty as you learn how to grow your own microgreens,
 
 Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
 
-## **Green Market**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-GreenMarket.jpg)
+## **Swap &amp; Share (New Series launching at Punggol Regional Library)** 
 
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-GreenMarket.jpg) 
 
-Mark your calendars for our signature event that presents a range of fun activities and programmes from talks, workshops to activity booths that will engage you in sustainable practices and green groups to support. Each iteration of the event will take on a different theme.  
+A series to promote the sharing economy and sustaining Earth’s resources. There will be a swapping session on the selected item packaged with hands-on workshop and/or a talk related to the topic.  
 
-If you have been wondering how to start  your sustainability journey, look no further than the Green Market. 
-
-Suitable for the whole family. This event is supported by CapitaLand Hope Foundation (CHF).
-
- 
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings. 
 
 ## **Learning Journeys**
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-05.jpg)
