@@ -43,6 +43,14 @@ Watch the recordings <a href="https://nlb.ap.panopto.com/Panopto/Pages/Sessions/
 
 Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings. 
 
+## **Swap &amp; Share** 
+
+![Alt text for image on Isomer site](/images/sustainability/swapnshare.png) 
+
+In this second edition of Swap &amp; Share, NLB brings you a lineup of pioneers and practitioners in sustainable fashion. From recycling, to styling, to thrifting, hear from them and join likeminded others to swap clothes, share knowledge and lighten your lifestyle!  
+
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
+
 ## **Garden Talks by NParks** 
 
 ![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-01.jpg) 
@@ -69,13 +77,6 @@ Get ready to get your hands dirty as you learn how to grow your own microgreens,
 
 Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
 
-## **Swap &amp; Share** 
-
-![Alt text for image on Isomer site](/images/sustainability/swapnshare.png) 
-
-In this second edition of Swap &amp; Share, NLB brings you a lineup of pioneers and practitioners in sustainable fashion. From recycling, to styling, to thrifting, hear from them and join likeminded others to swap clothes, share knowledge and lighten your lifestyle!  
-
-Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
 
 ## **Green Market** 
 
