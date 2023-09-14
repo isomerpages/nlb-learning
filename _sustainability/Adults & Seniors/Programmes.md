@@ -31,7 +31,8 @@ Hear from experts, attend workshops, and connect with your community to start yo
 
 
 <i>Down to Earth Expert Series</i> unpacks pertinent sustainability topics and makes them accessible whatever your background. From demystifying the latest green buzzwords to illuminating the incredible biodiversity we live amongst, join us and grow your knowledge with experts as they give you the break down on all things green.
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings. <br>
 Watch the recordings <a href="https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%221eec4f52-625c-42f5-94e4-ae2000b7453e%22">HERE.</a>
 
 ## **The Green Economy Series** 
@@ -68,11 +69,11 @@ Get ready to get your hands dirty as you learn how to grow your own microgreens,
 
 Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
 
-## **Swap &amp; Share (New Series launching at Punggol Regional Library)** 
+## **Swap &amp; Share** 
 
 ![Alt text for image on Isomer site](/images/sustainability/swapnshare.png) 
 
-A series to promote the sharing economy and sustaining Earth’s resources. There will be a swapping session on the selected item packaged with hands-on workshop and/or a talk related to the topic.  
+In this second edition of Swap &amp; Share, NLB brings you a lineup of pioneers and practitioners in sustainable fashion. From recycling, to styling, to thrifting, hear from them and join likeminded others to swap clothes, share knowledge and lighten your lifestyle!  
 
 Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
 
