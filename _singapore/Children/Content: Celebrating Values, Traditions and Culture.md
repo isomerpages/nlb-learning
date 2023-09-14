@@ -99,7 +99,7 @@ third_nav_title: Children
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-     <img src="/images/Celebrating%20Values/crescent-moons.PNG" style="width:100;">
+     <img src="/images/Celebrating%20Values/crescent-moons.png" style="width:100;">
   </div>
   <div class="col is-three-fifths">
    <h5>Crescent moons and pointed minarets: A Muslim book of shapes</h5>
@@ -154,7 +154,7 @@ third_nav_title: Children
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-     <img src="/images/Celebrating%20Values/how-to-catch-dragon.PNG" style="width:100;">
+     <img src="/images/Celebrating%20Values/how-to-catch-dragon.png" style="width:100;">
   </div>
   <div class="col is-three-fifths">
    <h5>How to catch a dragon</h5>
@@ -228,7 +228,7 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
      <a href="https://nlb.overdrive.com/media/6769189" target="_blank">
-<img src="/images/Celebrating%20Values/dadima-sari.PNG" style="”width:150;”"></a>
+<img src="/images/Celebrating%20Values/dadima-sari.png" style="”width:150;”"></a>
   </div>
   <div class="col is-three-fifths">
    <h5>My dadima wears a sari</h5>
@@ -273,5 +273,3 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
  </div>
 </div>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
-
