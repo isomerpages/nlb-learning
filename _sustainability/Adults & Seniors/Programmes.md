@@ -86,7 +86,7 @@ Watch the recordings <a href="https://nlb.ap.panopto.com/Panopto/Pages/Sessions/
 
 ## **Learning Journeys** 
 
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-05.jpg) 
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-04.jpg) 
  
 If you are an outdoorsy person, then this will be right up your alley.  
 
@@ -116,8 +116,6 @@ Check out the post-event highlight here: https://learning.nlb.gov.sg/sustainabil
 
 Watch the recordings <a href="https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%222a087906-264a-4941-99f6-ae9800913211%22">HERE.</a> 
 
+This co-solutioning initiative is supported by CapitaLand Hope Foundation (CHF). 
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p> 
-
-This co-solutioning initiative is supported by CapitaLand Hope Foundation (CHF).  
-
-This co-solutioning initiative is supported by CapitaLand Hope Foundation (CHF).
