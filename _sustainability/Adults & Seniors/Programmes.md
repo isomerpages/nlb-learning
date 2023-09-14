@@ -108,7 +108,7 @@ Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229">
 
 ## **The Great Make-Over Project (GMO)** 
 
-![Alt text for image on Isomer site](/images/sustainability/adults-and-seniors/GMO_eDM_600x300_1.jpg) 
+![Alt text for image on Isomer site](/images/sustainability/gmobanner.png) 
 
 A community co-solutioning initiative which invites participants to propose ways to transform and reinvent spaces to promote sustainable living over a period of engagement. 
 
@@ -118,4 +118,4 @@ Watch the recordings <a href="https://nlb.ap.panopto.com/Panopto/Pages/Sessions/
 
 This co-solutioning initiative is supported by CapitaLand Hope Foundation (CHF). 
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p> 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
