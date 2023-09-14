@@ -146,7 +146,7 @@ The narrative of the installation—the reconstructed Singapore Stone—thus aim
 
 **Find out more:**
 * Learn more about the past and present of Fort Canning Hill via Curiocity’s digital story [More Than Just A Hill](https://curiocity.nlb.gov.sg/digital-stories/fort-canning-hill/intro/).
-* Discover the history of the Singapore stone via Infopedia [here](https://eresources.nlb.gov.sg/infopedia/articles/SIP_43_2005-01-26.html?s=singapore%20stone).
+* Discover the history of the Singapore stone via Infopedia [here](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a757a02-5f6b-483a-8a32-97a09953da63).
 * Explore the [Asian Children's Literature](https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/collections/Collections/asian-children-literature) collection to discover more stories and folktales from Singapore and the region.
 * Check out this children's book [Attack of the Swordfish And Other Singapore Tales](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12543303) that was referenced for the illustrations in the installation.
 
