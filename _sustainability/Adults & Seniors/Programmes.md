@@ -70,45 +70,54 @@ Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229">
 
 ## **Swap &amp; Share (New Series launching at Punggol Regional Library)** 
 
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-GreenMarket.jpg) 
+![Alt text for image on Isomer site](/images/sustainability/swapnshare.png) 
 
 A series to promote the sharing economy and sustaining Earth’s resources. There will be a swapping session on the selected item packaged with hands-on workshop and/or a talk related to the topic.  
 
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings. 
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
 
-## **Learning Journeys**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-05.jpg)
+## **Green Market** 
 
-If you are an outdoorsy person, then this will be right up your alley. 
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-GreenMarket.jpg) 
 
-Nothing beats getting up close to learn how Singapore and various organisations have implemented sustainable solutions. Here you can expect visits to places such as Semakau Island, tree-planting at our parks and even beach clean ups to experience Sustainability in action. 
+Green Market is an annual event that celebrates sustainable living and connects the community to green groups and initiatives they can support.  
 
-These journeys are open to both adults and seniors. 
+Watch the recordings <a href="https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22de3152b3-e058-4d5f-a247-ae7c003805b5%22">HERE.</a>
 
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+## **Learning Journeys** 
 
-## **Sustainable Chapter**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-06.jpg)
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-05.jpg) 
+ 
+If you are an outdoorsy person, then this will be right up your alley.  
 
-Be prepared to be inspired. Practitioners, innovators, grandfluencers, ordinary adults and seniors will share how they adopt and practise natural or sustainable living together with our librarian. 
+Nothing beats getting up close to learn how Singapore and various organisations have implemented sustainable solutions. Here you can expect visits to places such as therapeutic gardens, local farms  and even beach clean ups to experience Sustainability in action.  
 
-This series is specially targeted at seniors who want to more ideas on how they can practise sustainable living by learning through the experience of others. 
+These journeys are open to both adults and seniors.  
 
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
 
-## **The Great Make-Over Project**
-![Alt text for image on Isomer site](/images/sustainability/adults-and-seniors/GMO_eDM_600x300_1.jpg)
+## **Sustainable Chapter** 
 
-What would Singapore look like when our community spaces are reimagined for sustainability? 
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-06.jpg) 
 
-Starting at Choa Chu Kang Town, participants of the first run of the Great Make-Over Project reimagined various community spaces for sustainability. 
+Be prepared to be inspired. Practitioners, innovators, grandfluencers, ordinary adults and seniors will share how they adopt and practise natural or sustainable living together with our librarian.  
 
-<b>View their Projects</b>
-<br>Take a sneak peek at their proposed ideas for a sustainable Choa Chu Kang <a href="https://go.gov.sg/gmoprojects" target="_blank">HERE!</a>.
+This series is specially targeted at seniors who want to have more ideas on how they can practise sustainable living by learning through the experience of others.  
 
-<b>Share your Feedback</b>
-<br>You can also be a part of the Great Make-Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a>
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+## **The Great Make-Over Project (GMO)** 
+
+![Alt text for image on Isomer site](/images/sustainability/adults-and-seniors/GMO_eDM_600x300_1.jpg) 
+
+A community co-solutioning initiative which invites participants to propose ways to transform and reinvent spaces to promote sustainable living over a period of engagement. 
+
+Check out the post-event highlight here: https://learning.nlb.gov.sg/sustainability/adults-seniors/event-highlights/ 
+
+Watch the recordings <a href="https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%222a087906-264a-4941-99f6-ae9800913211%22">HERE.</a> 
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p> 
+
+This co-solutioning initiative is supported by CapitaLand Hope Foundation (CHF).  
 
 This co-solutioning initiative is supported by CapitaLand Hope Foundation (CHF).
