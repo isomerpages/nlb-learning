@@ -137,7 +137,7 @@ How did kids occupy their time before the advent of smartphones and tablets?  â€
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-<h5 id="lp-traditional games" class="margin--bottom--lg"><b>Traditional Games</b></h5>
+<h5 id="lp-traditional-games" class="margin--bottom--lg"><b>Traditional Games</b></h5>
 
 <p>Traditional games can serve as a valuable bridge to our past and showcase the values that our society finds important, such as sportsmanship and teamwork. Games also provide a way to relieve everyday life tensions.</p>
 
