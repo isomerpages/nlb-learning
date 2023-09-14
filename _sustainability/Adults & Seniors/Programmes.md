@@ -34,7 +34,13 @@ Hear from experts, attend workshops, and connect with your community to start yo
 Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
 Watch the recordings <a href="https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%221eec4f52-625c-42f5-94e4-ae2000b7453e%22">HERE.</a>
 
+## **The Green Economy Series** 
 
+![Alt text for image on Isomer site](/images/sustainability/gmocover.png) 
+
+<i>The Green Economy Series</i> dives into the world of green jobs and explores the essential skills needed to thrive in the rapidly evolving green economy. Join us as we bring together professionals, educators and advocates who are shaping the green economy, and discover the endless possibilities of green jobs as well as the transformative impact of acquiring green skills.  
+
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings. 
 
 
 
