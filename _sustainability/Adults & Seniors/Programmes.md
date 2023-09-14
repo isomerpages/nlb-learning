@@ -26,16 +26,15 @@ third_nav_title: Adults & Seniors
 </style>
 Hear from experts, attend workshops, and connect with your community to start your sustainable living journey. 
 
-## **Expert Talks**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-08.png)
+## **Down to Earth Expert Series**
+![Alt text for image on Isomer site](/images/sustainability/experttalkscover.png)
 
-In partnership with **NUS’s Ridge View Residential College (RVRC)**, this series of talks unpacks pertinent sustainability topics and makes them accessible whatever your background.
 
-Held on weekday evenings, these talks seek to better your knowledge about Sustainability. 
-
-All talks are listed on Eventbrite and suitable for adults and seniors.    
-
+<i>Down to Earth Expert Series</i> unpacks pertinent sustainability topics and makes them accessible whatever your background. From demystifying the latest green buzzwords to illuminating the incredible biodiversity we live amongst, join us and grow your knowledge with experts as they give you the break down on all things green.
 Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+Watch the recordings <a href="https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%221eec4f52-625c-42f5-94e4-ae2000b7453e%22">HERE.</a>
+
+
 
 
 
