@@ -65,6 +65,14 @@ Learning history and understanding heritage can be simple and interesting. Take 
     </div>
   </div>
 				
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/singapore/teens/celebrations-customs-traditions">
+        <span>Content - Celebrations, Customs and Traditions</span>
+      </a>
+    </div>
+  </div>
+	
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="/singapore/teens/programmes">
