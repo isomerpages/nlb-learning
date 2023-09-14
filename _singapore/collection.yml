@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - LearnX Singapore.md
-      - "Children/Content: Celebrating Values, Traditions and Culture.md"
       - Children/.keep
       - Children/Overview.md
       - "Children/Content: Tour around Singapore.md"
       - "Children/Content: Legends of Singapura.md"
+      - "Children/Content: Celebrating Values, Traditions and Culture.md"
       - Children/Programmes.md
       - Children/Learning Pathways.md
       - Teens/.keep
