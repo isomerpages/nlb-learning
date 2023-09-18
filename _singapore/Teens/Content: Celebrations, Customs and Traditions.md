@@ -237,7 +237,7 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
-     <a href="https://nlb.overdrive.com/media/127060" target="_blank">
+     <a href="https://nlb.overdrive.com/media/1270603" target="_blank">
 <img src="/images/Celebrations%20customs/eurasian-cooking.png" style="”width:150;”"></a>
   </div>
   <div class="col is-three-fifths">
@@ -245,7 +245,7 @@ Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.s
 <p>Pereira, Quentin. (2013). <i>Eurasian heritage cooking</i>. Singapore: Marshall Cavendish.
 </p>
 <br>
-<a target="_blank" href="https://nlb.overdrive.com/media/127060">Borrow the eBook here.</a>
+<a target="_blank" href="https://nlb.overdrive.com/media/1270603">Borrow the eBook here.</a>
 <br>
 Retrieved from OverDrive (a <a target="_blank" href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/">myLibrary username</a> is required to access the eBook). 
  </div>
