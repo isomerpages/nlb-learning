@@ -149,13 +149,13 @@ Check out this set of articles and books to gain a better understanding of sport
 
 <h4>Articles</h4>
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_145_2005-01-04.html">Singapore Sports Council by Lim, Tin Seng</a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=fec2a9a0-6586-472d-a1ec-cc4ef4cf6572">Singapore Sports Council by Lim, Tin Seng</a></h5>
 <p>The Singapore Sports Council was established on 1 October 1973. It aimed to promote sports to the masses as well as to nurture and develop sports talents. The council was renamed Sport Singapore in 2014.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_145_2005-01-04.html">Singapore Sports Council</a> (2015).<i>Singapore Infopedia.</i> Retrieved 2023, July 10.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=fec2a9a0-6586-472d-a1ec-cc4ef4cf6572">Singapore Sports Council</a> (2015).<i>Singapore Infopedia.</i> Retrieved 2023, July 10.
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1695_2010-07-23.html">Singapore 2010 Youth Olympic Games by Tan, Joanna Hwang Soo</a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7e84d3c4-7917-4fa8-ba9f-03b3626204f5">Singapore 2010 Youth Olympic Games by Tan, Joanna Hwang Soo</a></h5>
 <p>The inaugural Youth Olympic Games (YOG) was hosted by Singapore between 14 and 26 August 2010. Athletes from 205 countries participated in the games and the event gave Singapore considerable international exposure.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1695_2010-07-23.html">Singapore 2010 Youth Olympic Games</a> (2010).<i>Singapore Infopedia.</i> Retrieved 2023, July 10.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7e84d3c4-7917-4fa8-ba9f-03b3626204f5">Singapore 2010 Youth Olympic Games</a> (2010).<i>Singapore Infopedia.</i> Retrieved 2023, July 10.
 
 <h5><a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/sg-sporting-greats">Singapore's Sporting Greats by Chua, Chong Jin</a></h5>
 <p>This article covers the sporting feats achieved by some of Singapore’s athletes, from the pioneer sportsmen and women from the 1940s to household names today.</p>

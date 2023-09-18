@@ -84,14 +84,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </a>
 </div>
 </div>	
-<div class= "col is-one-third">
+<div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#lp-memories-of-japanese">
 <span>Learning Package:<br>Memories of Japanese Occupation</span>
 </a>
 </div>
 </div>
-<div class= "col is-one-third">
+<div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#lp-aftermath-of-war">
 <span>Learning Package:<br> Liberation and Aftermath of War </span>
@@ -270,13 +270,13 @@ Recounts the Civilian War Memorial project, a monument dedicated to civilians wh
 These curated set of articles and books will help you understand how Singapore as "Gibraltar of the East" prepared for the imminent threat of Japanese invasion.
 
 <h4>Articles</h4>
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html" target="_blank"> Malayan Campaign by Ho, Stephanie</a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=f2e9428f-c2cc-4c21-8a33-6ba79d03d77e" target="_blank"> Malayan Campaign by Ho, Stephanie</a></h5>
 <p>“The Malayan Campaign consisted of a series of battles fought in Malaya between Allied (mainly British Commonwealth) and Axis (primarily Japanese) forces. The campaign began on 8 December 1941 when Japanese forces landed in Singora and Patani in southern Thailand, and Kota Bharu in northern Malaya. The campaign ended on 31 January 1942 with the Japanese forces gaining control of the Malay Peninsula.”</p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_162143.html" target="_blank">Malayan Campaign </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2021, January 19.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=f2e9428f-c2cc-4c21-8a33-6ba79d03d77e" target="_blank">Malayan Campaign </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2021, January 19.
 
-<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-10-23.html" target="_blank"> Singapore Volunteer Corps by Soong, Alec and Goh, Lee Kim</a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=e0a84f66-bb18-4d44-918a-5025bb78c90c" target="_blank"> Singapore Volunteer Corps by Soong, Alec and Goh, Lee Kim</a></h5>
 <p>Learn about the formation of such a group and how the Straits Settlements Volunteer Force defended Singapore.</p>
-Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1050_2008-10-23.html" target="_blank">Singapore Volunteer Corps </a>(2021, Oct).<i> Singapore Infopedia.</i> Retrieved 2021, January 19.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=e0a84f66-bb18-4d44-918a-5025bb78c90c" target="_blank">Singapore Volunteer Corps </a>(2021, Oct).<i> Singapore Infopedia.</i> Retrieved 2021, January 19.
 
 <h4>eBooks</h4>
 <h5>The defence and fall of Singapore 1940-1942</h5>
@@ -326,13 +326,13 @@ These curated set of articles and books shed lights on the historic event.
 
 <h4>Articles</h4>
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_113523.html"> Battle of Singapore by Ho, Stephanie</a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=1afe9a7e-f0bd-4b11-9fe3-bb3aab31c3e8"> Battle of Singapore by Ho, Stephanie</a></h5>
 <p>The Battle of Singapore, which took place from 8 to 15 February 1942, saw the capture of Singapore by the Japanese and the largest British surrender in history.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-07-19_113523.html"> Battle of Singapore </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2022, February 4.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=1afe9a7e-f0bd-4b11-9fe3-bb3aab31c3e8"> Battle of Singapore </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2022, February 4.
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_7_2005-01-25.html"> First air raid on Singapore by Chua, Alvin</a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=2f893232-e511-49f8-a017-0fd3eb8591b0"> First air raid on Singapore by Chua, Alvin</a></h5>
 <p> The first air raid on Singapore occurs during the early morning of 8 December 1941. Seventeen Japanese planes from the Imperial Japanese Navy Air Force struck many targets including Chinatown, Raffles Place and Keppel Harbour, resulting in 61 casualties and 133 injuries.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_7_2005-01-25.html"> First air raid on Singapore </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2022, February 4.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=2f893232-e511-49f8-a017-0fd3eb8591b0"> First air raid on Singapore </a>(2013, Jul 19).<i> Singapore Infopedia.</i> Retrieved 2022, February 4.
 	
 <h4>eBooks</h4>
 
@@ -382,13 +382,13 @@ These curated set of articles and books will help you understand life under Japa
 
 <h4>Articles</h4>
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1220_2006-12-29.html"> Bahau settlement by Chia, Joshua Yeong Jia and Tan, Florence </a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=c38cb04c-578e-4264-b714-e2686270b84a"> Bahau settlement by Chia, Joshua Yeong Jia and Tan, Florence </a></h5>
 <p> The Bahau settlement was set up for Eurasians and Chinese Roman Catholics in November 1943, to migrate there and be self-sufficient in growing their own food. It was also known as Fuji-Go in Japanese to mean "beautiful village”.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1220_2006-12-29.html"> Bahau settlement </a>(2020, May).<i> Singapore Infopedia.</i> Retrieved 2022, February 10.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=c38cb04c-578e-4264-b714-e2686270b84a"> Bahau settlement </a>(2020, May).<i> Singapore Infopedia.</i> Retrieved 2022, February 10.
 
-<h5><a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1221_2006-12-29.html"> Endau settlement by Chia, Joshua Yeong Jia </a></h5>
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=f832d31c-facd-4c43-be04-4a31638d08a6"> Endau settlement by Chia, Joshua Yeong Jia </a></h5>
 <p> Endau settlement was considered one of the most successful settlement for Chinese settlers, where they could farm and live off the land. It was also known as New Syonan Model Farm.</p>
-Source: <a target="_blank" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1221_2006-12-29.html"> Endau settlement</a>(2019, Aug).<i> Singapore Infopedia.</i> Retrieved 2022, February 10.
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=f832d31c-facd-4c43-be04-4a31638d08a6"> Endau settlement</a>(2019, Aug).<i> Singapore Infopedia.</i> Retrieved 2022, February 10.
 
 <h4>eBook</h4>
 
@@ -441,53 +441,41 @@ These selected articles and books present a snapshot of people’s experiences d
 
 <h4>Articles</h4>
 
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html" target="_blank"> Operation Sook Ching by Ho, Stephanie</a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=cc4da337-3bcd-4f96-bdc6-5210646bdd90" target="_blank"> Operation Sook Ching by Ho, Stephanie</a></h5>
 <p> Operation Sook Ching was a military operation carried out by the Japanese in Singapore from 21 February to 4 March 1942. Chinese men between the ages of 18 and 50 under suspicion of being anti-Japanese would be detained at various mass screening centres and executed.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html " target="_blank"> Operation Sook Ching </a>(2013, Jun 17).<i> Singapore Infopedia.</i> Retrieved 2022, March 3.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=cc4da337-3bcd-4f96-bdc6-5210646bdd90" target="_blank"> Operation Sook Ching </a>(2013, Jun 17).<i> Singapore Infopedia.</i> Retrieved 2022, March 3.
 
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_79_2005-02-02.html" target="_blank"> Kempeitai by Wong, Heng
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5c8c9772-69d9-4554-ae5c-7bfeb6ccd528" target="_blank"> Kempeitai by Wong, Heng
 </a></h5>
 <p> Many died under the torture of Kempeitai, the Japanese military police force, whose main task was to crush all resistance to the Japanese military rule. They had a main jail in Outram and several branches in Chinatown, Oxley Road and the Central Police Station.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_79_2005-02-02.html" target="_blank"> Kempeitai </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2022, March 3.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5c8c9772-69d9-4554-ae5c-7bfeb6ccd528" target="_blank"> Kempeitai </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2022, March 3.
 
 <h4>eBooks</h4>
 
 <h5> Sayonara Singapura</h5>
 Joseph John, Parapuram. (2016). <i> Sayonara Singapura.</i> [Leics, United Kingdom]: Monsoon Books. <br>
-<a target="_blank"
-href="https://nlb.overdrive.com/media/2974479">
-<img style="width:200px;"
-src="/images/singapore-japanese-occupation/Syonara.png"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/2974479">
+<img style="width:200px;" src="/images/singapore-japanese-occupation/Syonara.png"></a>
 <p> An eyewitness account of the Japanese occupation of Singapore and Malaya by a career journalist who worked with The Malaya Tribune before and after the war.</p>
-<p><a href="https://nlb.overdrive.com/media/2974479 "
-target="_blank">Borrow the eBook here.</a></p>
-Retrieved from OverDrive (a <a 
-href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+<p><a href="https://nlb.overdrive.com/media/2974479" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
 
 <h5> Within Changi's walls: a record of civilian internment in World War II</h5>
 Peet, George L. (2015). <i> Within Changi's walls: a record of civilian internment in World War II.</i> Singapore: Marshall Cavendish Editions. <br>
-<a target="_blank"
-href="https://nlb.overdrive.com/media/2194387">
-<img style="width:200px;"
-src="/images/singapore-japanese-occupation/Changi.png"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/2194387">
+<img style="width:200px;" src="/images/singapore-japanese-occupation/Changi.png"></a>
 <p> The former internee's diaries and records preserved the story of life at Changi Goal and Sime Road Camp, where the human spirit triumph over adversity.</p>
-<p><a href="https://nlb.overdrive.com/media/2194387"
-target="_blank">Borrow the eBook here.</a></p>
-Retrieved from OverDrive (a <a 
-href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+<p><a href="https://nlb.overdrive.com/media/2194387" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
 
 <h5> A Baba boyhood: growing up during World War 2
 </h5>
 Gwee, Thian Hock. (2013). <i> A Baba boyhood: growing up during World War 2.</i> Singapore: Marshall Cavendish. <br>
-<a target="_blank"
-href="https://nlb.overdrive.com/media/1270588">
-<img style="width:200px;"
-src="/images/singapore-japanese-occupation/Baba.png"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/1270588">
+<img style="width:200px;" src="/images/singapore-japanese-occupation/Baba.png"></a>
 <p> Author shares his experiences growing up during the Japanese occupation among the Peranakan community.</p>
-<p><a href="https://nlb.overdrive.com/media/1270588"
-target="_blank">Borrow the eBook here.</a></p>
-Retrieved from OverDrive (a <a 
-href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+<p><a href="https://nlb.overdrive.com/media/1270588" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
@@ -512,34 +500,30 @@ These curated set of articles and books are just the tip of a plethora of resour
 
 <h4>Articles</h4>
 
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_874_2004-12-30.html" target="_blank"> Double Tenth trial by Wong, Heng</a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=9d5f7c14-bde9-414c-803f-59dc16487dab" target="_blank"> Double Tenth trial by Wong, Heng</a></h5>
 <p> In a war crime trial between 18 March to 15 April 1946, 21 of the Kempeitai, military police arm of the Imperial Japanese Army, involved in the Double Tenth incident were charged for the atrocities they committed against 57 civilians whom they suspected were involved in a raid at Singapore Harbour. The raid had been carried out by Anglo-Australian commandos under codename Operation Jaywick.</p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_874_2004-12-30.html " target="_blank"> Double Tenth trial by Wong, Heng </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2022, March 16.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=9d5f7c14-bde9-414c-803f-59dc16487dab" target="_blank"> Double Tenth trial by Wong, Heng </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2022, March 16.
 
-<h5><a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_516_2004-12-23.html" target="_blank"> Civilian War Memorial by Cornelius-Takahama, Vernon</a></h5>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5af9422f-99a6-4606-ad11-21e991ecfab2" target="_blank"> Civilian War Memorial by Cornelius-Takahama, Vernon</a></h5>
 
 <p> Located on a parkland along Beach Road and opposite Raffles City, the Civilian War Memorial is a gazetted national monument dedicated to civilians who perished during the Japanese Occupation of Singapore. The memorial was built on a burial chamber containing 606 urns of the remains of unknown civilians exhumed from more than 40 mass graves.
 </p>
-Source: <a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_516_2004-12-23.html " target="_blank"> Civilian War Memorial by Cornelius-Takahama, Vernon </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2022, March 16.
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5af9422f-99a6-4606-ad11-21e991ecfab2" target="_blank"> Civilian War Memorial by Cornelius-Takahama, Vernon </a>(2017).<i> Singapore Infopedia.</i> Retrieved 2022, March 16.
 	
 <h4>eBook</h4>
 
 <h5> Conflict and violence in Singapore and Malaysia, 1945-1983 </h5>
 Clutterbuck, Richard. (2019). <i> Conflict and violence in Singapore and Malaysia, 1945-1983.</i> Abingdon: Routledge. <br>
-<a target="_blank"
-href="https://nlb.overdrive.com/media/4781842">
-<img style="width:200px;"
-src="/images/singapore-japanese-occupation/Clutterbuck.png"></a>
+<a target="_blank" href="https://nlb.overdrive.com/media/4781842">
+<img style="width:200px;" src="/images/singapore-japanese-occupation/Clutterbuck.png"></a>
 <p> Originally published in 1984. Covers mainly the historical aspects of the revolutionary attempts in Singapore and Malaysia from 1940s to the 1960s.</p>
-<p><a href=" https://nlb.overdrive.com/media/4781842"
-target="_blank">Borrow the eBook here.</a></p>
-Retrieved from OverDrive (a <a 
-href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+<p><a href="https://nlb.overdrive.com/media/4781842" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
 
 <h4>Books</h4>
 
-<h5> With freedom to Singapore: a social & administrative assessment of post-war Singapore 1945-1950</h5>
-Gilmour, Oswald Wellington. (2020). <i> With freedom to Singapore: a social & administrative assessment of post-war Singapore 1945-1950. </i> [Place of publication not identified]: [Patrick Gilmour]. (Call no.: RSING 959.57023 GIL) 
+<h5> With freedom to Singapore: a social &amp; administrative assessment of post-war Singapore 1945-1950</h5>
+Gilmour, Oswald Wellington. (2020). <i> With freedom to Singapore: a social &amp; administrative assessment of post-war Singapore 1945-1950. </i> [Place of publication not identified]: [Patrick Gilmour]. (Call no.: RSING 959.57023 GIL) 
 <br>
 <img src="/images/singapore-japanese-occupation/Oswald.png" style="width:200px;">
 <p> An in-depth study of Singapore during the immediate post-war years between 1945-1950, covering the civil, political, and social aspects. First published in 1950. </p>

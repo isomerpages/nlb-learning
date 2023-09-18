@@ -26,83 +26,98 @@ third_nav_title: Adults & Seniors
 </style>
 Hear from experts, attend workshops, and connect with your community to start your sustainable living journey. 
 
-## **Expert Talks**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-08.png)
-
-In partnership with **NUS’s Ridge View Residential College (RVRC)**, this series of talks unpacks pertinent sustainability topics and makes them accessible whatever your background.
-
-Held on weekday evenings, these talks seek to better your knowledge about Sustainability. 
-
-All talks are listed on Eventbrite and suitable for adults and seniors.    
-
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+## **Down to Earth Expert Series**
+![Alt text for image on Isomer site](/images/sustainability/experttalkscover.png)
 
 
+<i>Down to Earth Expert Series</i> unpacks pertinent sustainability topics and makes them accessible whatever your background. From demystifying the latest green buzzwords to illuminating the incredible biodiversity we live amongst, join us and grow your knowledge with experts as they give you the break down on all things green.
 
-## **Garden Talks by NParks**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-01.jpg)
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings. <br>
+Watch the recordings <a href="https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%221eec4f52-625c-42f5-94e4-ae2000b7453e%22">HERE.</a>
 
-Started at Queenstown Public Library, this series of garden talks is a collaboration with National Parks Board (NParks) in promoting green living in the city and sharing of knowledge on home gardening. 
+## **The Green Economy Series** 
 
-Held on a quarterly basis, this programme is specially targeted at seniors who would like to find out more on a variety of gardening topics, such as composting and optimising the environment for plant growth, and more from the passionate Community in Bloom ambassadors. 
+![Alt text for image on Isomer site](/images/sustainability/gmocover.png) 
 
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+<i>The Green Economy Series</i> dives into the world of green jobs and explores the essential skills needed to thrive in the rapidly evolving green economy. Join us as we bring together professionals, educators and advocates who are shaping the green economy, and discover the endless possibilities of green jobs as well as the transformative impact of acquiring green skills.  
 
-## **Build Your Own Workshop**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-02.jpg)
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings. 
 
-Get ready to get your hands dirty as you learn how to make lifestyle products such as beauty scrubs and items for home use using discardables and décor items with elements from nature. 
+## **Swap &amp; Share** 
 
-Pitched at beginners. 
+![Alt text for image on Isomer site](/images/sustainability/swapnshare.png) 
 
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+In this second edition of Swap &amp; Share, NLB brings you a lineup of pioneers and practitioners in sustainable fashion. From recycling, to styling, to thrifting, hear from them and join likeminded others to swap clothes, share knowledge and lighten your lifestyle!  
 
-## **Green Market**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-GreenMarket.jpg)
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
+
+## **Garden Talks by NParks** 
+
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-01.jpg) 
+
+Started at Queenstown Public Library, this series of garden talks is a collaboration with National Parks Board (NParks) in promoting green living in the city and sharing of knowledge on home gardening.  
+
+Held on a quarterly basis, this programme is specially targeted at seniors who would like to find out more on a variety of gardening topics, such as composting and optimising the environment for plant growth, and more from the passionate Community in Bloom ambassadors.  
+
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
+
+## **Build Your Own Workshops** 
+
+![Alt text for image on Isomer site](/images/sustainability/byoworkshopscover.png) 
+
+Get ready to get your hands dirty as you learn how to grow your own microgreens, compost, upcycle and more! 
+
+<i>Past Workshops:</i>  
+<ul>  
+  <li><i>T-Shirt Upcycling</i></li>  
+  <li><i>Glass Jar Light</i></li>  
+  <li><i>Introduction to Microgreens and Herb Care</i></li>  
+  <li><i>Composting 101</i></li> 
+</ul> 
+
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
 
 
-Mark your calendars for our signature event that presents a range of fun activities and programmes from talks, workshops to activity booths that will engage you in sustainable practices and green groups to support. Each iteration of the event will take on a different theme.  
+## **Green Market** 
 
-If you have been wondering how to start  your sustainability journey, look no further than the Green Market. 
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-Prog-AS-GreenMarket.jpg) 
 
-Suitable for the whole family. This event is supported by CapitaLand Hope Foundation (CHF).
+Green Market is an annual event that celebrates sustainable living and connects the community to green groups and initiatives they can support.  
 
+Watch the recordings <a href="https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22de3152b3-e058-4d5f-a247-ae7c003805b5%22">HERE.</a>
+
+## **Learning Journeys** 
+
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-04.jpg) 
  
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+If you are an outdoorsy person, then this will be right up your alley.  
 
-## **Learning Journeys**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-05.jpg)
+Nothing beats getting up close to learn how Singapore and various organisations have implemented sustainable solutions. Here you can expect visits to places such as therapeutic gardens, local farms  and even beach clean ups to experience Sustainability in action.  
 
-If you are an outdoorsy person, then this will be right up your alley. 
+These journeys are open to both adults and seniors.  
 
-Nothing beats getting up close to learn how Singapore and various organisations have implemented sustainable solutions. Here you can expect visits to places such as Semakau Island, tree-planting at our parks and even beach clean ups to experience Sustainability in action. 
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
 
-These journeys are open to both adults and seniors. 
+## **Sustainable Chapter** 
 
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-06.jpg) 
 
-## **Sustainable Chapter**
-![Alt text for image on Isomer site](/images/sustainability/Sustainability-AS-Prog-06.jpg)
+Be prepared to be inspired. Practitioners, innovators, grandfluencers, ordinary adults and seniors will share how they adopt and practise natural or sustainable living together with our librarian.  
 
-Be prepared to be inspired. Practitioners, innovators, grandfluencers, ordinary adults and seniors will share how they adopt and practise natural or sustainable living together with our librarian. 
+This series is specially targeted at seniors who want to have more ideas on how they can practise sustainable living by learning through the experience of others.  
 
-This series is specially targeted at seniors who want to more ideas on how they can practise sustainable living by learning through the experience of others. 
+Click <a href="https://www.eventbrite.sg/cc/programmes-on-sustainability-66229"> HERE</a> for the latest programme listings.
 
-Click [here](https://www.eventbrite.sg/cc/programmes-on-sustainability-66229){:target="_blank"} for the latest programme listings.
+## **The Great Make-Over Project (GMO)** 
 
-## **The Great Make-Over Project**
-![Alt text for image on Isomer site](/images/sustainability/adults-and-seniors/GMO_eDM_600x300_1.jpg)
+![Alt text for image on Isomer site](/images/sustainability/gmobanner.png) 
 
-What would Singapore look like when our community spaces are reimagined for sustainability? 
+A community co-solutioning initiative which invites participants to propose ways to transform and reinvent spaces to promote sustainable living over a period of engagement. 
 
-Starting at Choa Chu Kang Town, participants of the first run of the Great Make-Over Project reimagined various community spaces for sustainability. 
+Check out the post-event highlight here: https://learning.nlb.gov.sg/sustainability/adults-seniors/event-highlights/ 
 
-<b>View their Projects</b>
-<br>Take a sneak peek at their proposed ideas for a sustainable Choa Chu Kang <a href="https://go.gov.sg/gmoprojects" target="_blank">HERE!</a>.
+Watch the recordings <a href="https://nlb.ap.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%222a087906-264a-4941-99f6-ae9800913211%22">HERE.</a> 
 
-<b>Share your Feedback</b>
-<br>You can also be a part of the Great Make-Over Project by leaving the teams your feedback or collaborating with them on their projects <a href="https://go.gov.sg/gmocommunity/" target="_blank">HERE!</a>
+This co-solutioning initiative is supported by CapitaLand Hope Foundation (CHF). 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
-This co-solutioning initiative is supported by CapitaLand Hope Foundation (CHF).

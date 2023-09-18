@@ -55,6 +55,13 @@ Discover all things Singapore with your child through these resources!
       </a>
     </div>
   </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="/singapore/children/celebrating-values-traditions-culture">
+        <span>Content: Celebrating Values, Traditions and Culture</span>
+      </a>
+    </div>
+  </div>
   <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
       <a href="/singapore/children/programmes">
