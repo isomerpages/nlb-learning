@@ -127,7 +127,7 @@ Check out the videos below to learn more about various aspects of Singapore’s 
 </div>
 <div class="col is-three-fifths">
 <p><b>The Many Misconceptions of Chinese Weddings – SOLVED | Real Talk by MOSG (4 mins)</b><br>
-Bling, a newly minted bride, speaks with Mrs Lee, speaks with Mrs Lee, a veteran in the traditional Chinese wedding gifts and goods scene, to find out more about the significance of the various wedding rituals she did on her big day.<br><br>
+Bling, a newly minted bride, speaks with Mrs Lee, a veteran in the traditional Chinese wedding gifts and goods scene, to find out more about the significance of the various wedding rituals she did on her big day.<br><br>
 <small>Source: The Many Misconceptions of Chinese Weddings – SOLVED (2019, July 22). Real Talk by MOSG. Retrieved 2023, April 14.</small></p>
 </div>
 </div>
