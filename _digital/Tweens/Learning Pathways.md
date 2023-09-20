@@ -36,11 +36,12 @@ Spark your child’s curiosity in digital literacy through engaging activities a
     </thead>
     <tbody>
       <tr>
-        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/images/diyresources/secondary/FA_Tweenkerama-Issue-1.pdf" target="_blank"><b>Learning Package: 
-<br>Tweenkerama: Robotics and Coding 
-					<br><small>[Lab Mag #1 pages 6 – 9]</small>
+        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/carinaction_preview_fa.pdf" target="_blank"><b>Learning Package: 
+<br>Tweenkerama: Car in Action 
+					
 </b></a></td>
-        <td style="width: 40%;">Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out!
+        <td style="width: 40%;">In motor sports such as Formula 1 racing – where speed is the determining factor
+in winning.Learn more about car and try the activity to find out!
 </td>
         <td style="width: 20%;"></td>
         <td style="width: 20%;"></td>
@@ -109,7 +110,7 @@ Spark your child’s curiosity in digital literacy through engaging activities a
 <td><a href="https://www.eventbrite.sg/e/cckpl-unplugged-tickets-435571324557?aff=ebdssbdestsearch" target="_blank"><b>CCKPL: Unplugged</b></a></td>
 <td>Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
 <td>18 November 2022,<br>3pm - 5pm</td>
-<td>Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
+<td>Choa Chu Kang Public Library, Programme Room 1 &amp; 2 (Level 4)</td>
 </tr>
 			<tr>
 <td style="width: 20%;"><a href="https://www.eventbrite.sg/e/introducing-your-imaginary-friend-children-write-tickets-441497710537?aff" target="_blank"><b>Introducing… Your Imaginary Friend! | Children Write</b></a></td>
@@ -140,3 +141,5 @@ Spark your child’s curiosity in digital literacy through engaging activities a
 </div>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+
