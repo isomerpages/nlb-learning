@@ -44,6 +44,6 @@ Click [here](https://www.eventbrite.sg/o/golibrary-national-library-board-singap
 ![Alt text for image on Isomer site](/images/digital/steamlab.jpg)
 An annual event for children, tweens and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.
 
-Click [here](https://childrenandteens.nlb.gov.sg/events/steamla/){:target="_blank"} for the latest programme listings.
+Click [here](https://childrenandteens.nlb.gov.sg/events/steamlab/){:target="_blank"} for the latest programme listings.
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
