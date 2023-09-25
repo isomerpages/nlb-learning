@@ -78,40 +78,34 @@ Go digital with your child and discover a world of technology and innovation tog
 <table class="generic-table">
     <thead>
       <tr>
-        <th colspan="4" class="is-uppercase has-weight-normal ">Discover Other Learning Focus Area</th>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Area</th>
       </tr>
     </thead>
 <tbody>
 <tr>
-<td><a href="https://www.eventbrite.sg/e/cckpl-unplugged-tickets-435571324557?aff=ebdssbdestsearch" target="_blank"><b>CCKPL: Unplugged</b></a></td>
-<td>Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
-<td>18 November 2022,<br>3pm - 5pm</td>
-<td>Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
-</tr>
-			<tr>
-<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/introducing-your-imaginary-friend-children-write-tickets-441497710537?aff" target="_blank"><b>Introducing… Your Imaginary Friend! | Children Write</b></a></td>
-<td style="width: 40%;">Let your imagination run wild and create your very own story! This programme is part of the Children Write series, where children aged 7 to 12 create a piece of writing and/or illustrative work as guided by established authors and/or illustrators.</td>
-<td style="width: 20%;">23 November 2022,<br> 2pm - 3.30pm</td>
-<td style="width: 20%;">Jurong Regional Library, Programme Zone</td>
-</tr>
-			<tr>
-<td><a href="https://www.eventbrite.sg/e/see-hear-feel-imagine-wordplay-tickets-461572043407?aff" target="_blank"><b>See, hear, feel… Imagine! | WordPlay</b></a></td>
-<td>Join us at WordPlay, a series of reading-related workshops for the school holidays! This programme is suitable for children aged 9-12.</td>
-<td>23 November 2022,<br> 2.30pm - 3.45pm</td>
-<td>library@harbourfront, Programme Room 2</td>
+<td><a href="https://www.eventbrite.sg/e/kerching-financial-literacy-with-eyeyah-woodlands-regional-library-tickets-715821149327?aff=ebdssbdestsearch" target="_blank"><b>Kerching! Financial Literacy with EYEYAH!</b></a></td>
+<td>A visually-led, fun and interactive session that teaches children about financial wellbeing.</td>
+<td>6 October 2023,<br>11am - 12.30pm</td>
+<td>Woodlands Regional Library - Programme Zone</td>
 </tr>
 				<tr>
-<td><a href="https://www.eventbrite.sg/e/urban-farm-learning-journey-tickets-424908251017?aff" target="_blank"><b>Urban Farm Learning Journey</b></a></td>
-<td>Get a first-hand, onsite experience on how nutritious and affordable vegetables are grown with the help of technology! This programme is for children aged 7 years and above, and parents/caregivers are needed to accompany their children for this learning journey.</td>
-<td>9 December 2022,<br>9.30am - 11.30am</td>
-<td>Bishan Public Library</td>
+<td><a href="https://www.eventbrite.sg/e/anything-dystinctive-club-tickets-719612188427?aff=ebdssbdestsearch" target="_blank"><b>Anything DYStinctive Club</b></a></td><td>This free workshop will teach parents and educators how to help DYStinctive learners develop the skills and strategies they need to succeed in paper-based exams.</td>
+<td>14 October 2023,<br>7 - 8.30pm</td>
+<td>Tampines Regional Library - Programme Zone L6</td>
 </tr>
 			<tr>
-<td><a href="https://www.eventbrite.sg/cc/book-bugs-rescuers-community-day-1310889" target="_blank"><b>Book Bugs Rescuers: Community Day</b></a></td>
-<td>Join fellow Rescuers at the Book Bugs Community Day events during the school holidays! For more information on the happenings during Book Bugs Community Day, visit <a href="https://www.go.gov.sg/bookbugs-commday" target="_blank">www.go.gov.sg/bookbugs-commday.</a></td>
-<td>Nov - Dec 2022</td>
-<td>Multiple Public Libraries</td>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/gmo-lxc-upcycling-crafts-choa-chu-kang-library-tickets-709245902587?aff=ebdssbdestsearch" target="_blank"><b>GMO LXC Upcycling Crafts</b></a></td>
+<td style="width: 40%;">Learn to upcycle creatively and turn simple trash to treasure craft!</td>
+<td style="width: 20%;">22 October 2023,<br> 3pm - 4.30pm</td>
+<td style="width: 20%;">Choa Chu Kang Public Library – Programme Room 1 &amp; 2 (level 4)</td>
 </tr>
+			<tr>
+<td><a href="https://www.eventbrite.sg/e/introduction-to-squeegee-painting-a-parent-child-workshop-tickets-716644020557?aff=ebdssbdestsearch" target="_blank"><b>Introduction to Squeegee Painting: A Parent-Child Workshop</b></a></td>
+<td>Join us at WordPlay, a series of reading-related workshops for the school holidays! This programme is suitable for children aged 9-12.</td>
+<td>28 October 2023<br>11am - 1pm</td>
+<td>Clementi Public Library - Programme Zone</td>
+</tr>
+
 </tbody>
 </table>
 </div>	
