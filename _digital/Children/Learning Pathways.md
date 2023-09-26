@@ -83,6 +83,12 @@ Go digital with your child and discover a world of technology and innovation tog
     </thead>
 <tbody>
 <tr>
+<td><a href="https://www.eventbrite.sg/e/sparklabtm-pop-up-bedok-public-library-tickets-708369019807?aff" target="_blank"><b>Spark!Lab™ Pop-Up | Bedok Public Library</b></a></td>
+<td>Are you always asking how things work or do you love taking things apart? Join us at our Spark!Lab™ pop-ups, where young inventors get to explore outside the box with hands-on activities!</td>
+<td>29 September - 1 October 2023,<br>12pm - 6pm</td>
+<td>Bedok Public Library - Programme Zone</td>
+</tr>
+<tr>
 <td><a href="https://www.eventbrite.sg/e/kerching-financial-literacy-with-eyeyah-woodlands-regional-library-tickets-715821149327?aff=ebdssbdestsearch" target="_blank"><b>Kerching! Financial Literacy with EYEYAH!</b></a></td>
 <td>A visually-led, fun and interactive session that teaches children about financial wellbeing.</td>
 <td>6 October 2023,<br>11am - 12.30pm</td>
