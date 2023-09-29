@@ -58,6 +58,4 @@ Join us at our Spark!Lab™ pop-ups, where young inventors get to explore outsid
 
 ![](/images/sparklab%20edm%20(800%20×%20800px).png)
 
-Activities are suitable for children aged 7-12. See you there! 
-
-
+Activities are suitable for children aged 7-12. See you there!
