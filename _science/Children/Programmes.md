@@ -47,4 +47,17 @@ Click [here](https://go.gov.sg/nlb-events){:target="_blank"} for the latest prog
 ![STEAM Lab](/images/science-lfa-updates/STEAM-Lab.png)
 An annual event for children and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.
 
-Click [here](https://childrenandteens.nlb.gov.sg/events/steamlab2022/programmelineup){:target="_blank"} for the latest programme listings. Stay tuned for more updates.
+Click [here](https://childrenandteens.nlb.gov.sg/events/steamlab2022/programmelineup) for the latest programme listings. Stay tuned for more updates.
+
+
+## **Spark!Lab™**
+![](/images/sparklab%20edm%20(800%20×%20800px)%20(1).png)
+
+Spark!Lab goes to the public libraries. 
+Join us at our Spark!Lab™ pop-ups, where young inventors get to explore outside the box with hands-on activities! Check out this page for programme dates. 
+
+![](/images/sparklab%20edm%20(800%20×%20800px).png)
+
+Activities are suitable for children aged 7-12. See you there! 
+
+
