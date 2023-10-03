@@ -40,4 +40,5 @@ Click [here](https://go.gov.sg/nlb-events){:target="_blank"} for the latest prog
 ![STEAM Lab](/images/science-lfa-updates/STEAM-Lab.png)
 An annual event for children and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.
 
-Click [here](https://go.gov.sg/nlb-events){:target="_blank"} for the latest programme listings. Stay tuned for more updates.
+Click [here](https://childrenandteens.nlb.gov.sg/events/steamlab/) for the latest programme listings.
+

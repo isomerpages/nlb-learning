@@ -83,47 +83,35 @@ Check out these resources that highlight new digital advancements and opportunit
       </tr>
     </thead>
     <tbody>
-    	<tr>
-<td><a href="https://www.eventbrite.sg/e/cckpl-unplugged-tickets-435571324557?aff=ebdssbdestsearch" target="_blank"><b>CCKPL: Unplugged</b></a></td>
-<td>Take a break, unwind and unplug over a game of tabletop games in this session for friends and family!</td>
-<td>18 November 2022,<br>3pm - 5pm</td>
-<td>Choa Chu Kang Public Library, Programme Room 1 & 2 (Level 4)</td>
+ <tr>
+<td><a href="https://www.eventbrite.sg/e/kerching-financial-literacy-with-eyeyah-woodlands-regional-library-tickets-715821149327?aff=ebdssbdestsearch" target="_blank"><b>Kerching! Financial Literacy with EYEYAH!</b></a></td>
+<td>A visually-led, fun and interactive session that teaches children about financial wellbeing.</td>
+<td>6 October 2023,<br>11am - 12.30pm</td>
+<td>Woodlands Regional Library - Programme Zone</td>
 </tr>
-			 <tr>
-        <td style="width: 20%;"><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-toa-payoh-public-library-tickets-435573541187?aff=odcleoeventsincollection"><b>Dungeons & Dragons w/The Legitimate Business @ Toa Payoh Public Library</b></a></td>
-        <td style="width: 40%;">Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG.</td>
-        <td style="width: 20%;">6 Nov 2022,
-<br>1.30pm – 5.30pm,</td>
-        <td style="width: 20%;">Toa Payoh Public Library Programme Zone</td>
-      </tr>
-					<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/the-pleasure-of-the-short-story-story-beings-tickets-443923315587?aff=odcleoeventsincollection"><b>The Pleasure of the Short Story | Story Beings</b></a></td>
-        <td>Elaine Chiew will introduce you to must-read short story from our region and examine the characteristics for a good short story.
-        </td><td>14 Nov 2022, <br>6pm – 7pm</td>
-        <td>Online</td>
-      </tr>
-<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/pro-series-zine-design-the-future-of-zines-libraryorchard-registration-409152735847?aff=ebdsoporgprofile"><b>[The Nocturnal Poet] Ode to The Night | Night at The Library
-</b></a></td>
-        <td> Join Jennifer Anne Champion, Jedidiah Huang, Mok Zining and Low Kian Seh for an Ode writing workshop with readings.
-	</td><td>18 Nov 2022, <br>
-7.30pm – 9.30pm
-	</td>
-        <td>National Library, The Pod</td>
-      </tr>
-<tr>
-<td><a target="_blank" href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-411728520087?aff=ebdsoporgprofile"><b>Dungeons & Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
-        <td> Join us for a session of storytelling, roleplaying, and dice rolling in Dungeons and Dragons, the world’s biggest tabletop RPG. </td>
-	<td>26 Nov 2022, <br>1pm – 5pm</td>
-        <td>Choa Chu Kang Public Library Programme Zone</td>
-      </tr>
+				<tr>
+<td><a href="https://www.eventbrite.sg/e/anything-dystinctive-club-tickets-719612188427?aff=ebdssbdestsearch" target="_blank"><b>Anything DYStinctive Club</b></a></td><td>This free workshop will teach parents and educators how to help DYStinctive learners develop the skills and strategies they need to succeed in paper-based exams.</td>
+<td>14 October 2023,<br>7 - 8.30pm</td>
+<td>Tampines Regional Library - Programme Zone L6</td>
+</tr>
 			<tr>
-	<td><b>News Journalism 101 | Teens Takeover | re:write </b><br><a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429092526297?aff=odcleoeventsincollection"><b>Session 1 </b><br></a>
-					<a target="_blank" href="https://www.eventbrite.sg/e/news-journalism-101-teens-takeover-rewrite-tickets-429090249487?aff=odcleoeventsincollection"><b>Session 2 </b></a></td>
-	<td>Learn what it takes to be a journalist! Pick up tips and competencies needed to succeed in this field.<br>
-        </td><td>10 Dec 2022, <br>2pm-3.30pm | <br>17 Dec 2022,<br>2pm-3.30pm</td>
-        <td>Serangoon Public Library, Programme Zone</td>
-      </tr>
+<td style="width: 20%;"><a href="https://www.eventbrite.sg/e/gmo-lxc-upcycling-crafts-choa-chu-kang-library-tickets-709245902587?aff=ebdssbdestsearch" target="_blank"><b>GMO LXC Upcycling Crafts</b></a></td>
+<td style="width: 40%;">Learn to upcycle creatively and turn simple trash to treasure craft!</td>
+<td style="width: 20%;">22 October 2023,<br> 3pm - 4.30pm</td>
+<td style="width: 20%;">Choa Chu Kang Public Library – Programme Room 1 &amp; 2 (level 4)</td>
+</tr>
+			<tr>
+<td><a href="https://www.eventbrite.sg/e/introduction-to-squeegee-painting-a-parent-child-workshop-tickets-716644020557?aff=ebdssbdestsearch" target="_blank"><b>Introduction to Squeegee Painting: A Parent-Child Workshop</b></a></td>
+<td>Join us at WordPlay, a series of reading-related workshops for the school holidays! This programme is suitable for children aged 9-12.</td>
+<td>28 October 2023<br>11am - 1pm</td>
+<td>Clementi Public Library - Programme Zone</td>
+</tr>
+			<tr>
+<td><a href="https://www.eventbrite.sg/e/dungeons-dragons-wthe-legitimate-business-choa-chu-kang-public-library-tickets-709251047977?aff=ebdssbdestsearch" target="_blank"><b>Dungeons &amp; Dragons w/The Legitimate Business @ Choa Chu Kang Public Library</b></a></td>
+<td>Come by Choa Chu Kang Public Library for a taste of this legendary fantasy role-playing game and find out why millions of players worldwide have stepped into the boots of mighty heroes.</td>
+<td>28 October 2023<br>1pm - 5pm</td>
+<td>Choa Chu Kang Public Library – Programme Room 1 &amp; 2 (Level 4)</td>
+</tr>
     </tbody>
   </table>
 </div>

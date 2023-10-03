@@ -42,35 +42,35 @@ Use these resources to introduce your child to science concepts!
 
 <div class="row is-multiline">
   <div class="col is-one-third">
-    <div class="clickbox is-thoughtful-tangerine ">
+    <div class="clickbox is-thoughtful-tangerine">
       <a href="#time-for-science">
         <span>Playlist:<br>Time for Science</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
-    <div class="clickbox is-thoughtful-tangerine ">
+    <div class="clickbox is-thoughtful-tangerine">
       <a href="#all-about-food-science">
         <span>Playlist:<br>All about Food Science</span>
       </a>
     </div>
   </div>
 	  <div class="col is-one-third">
-    <div class="clickbox is-thoughtful-tangerine ">
+    <div class="clickbox is-thoughtful-tangerine">
       <a href="#playlist-beyond-our-planet-earth">
         <span>Playlist:<br> Beyond Our Planet Earth </span>
       </a>
    </div>
   </div>
   <div class="col is-one-third">
-    <div class="clickbox is-thoughtful-tangerine ">
+    <div class="clickbox is-thoughtful-tangerine">
       <a href="#baking-chemistry">
         <span>Learning Package:<br>Baking Chemistry</span>
       </a>
     </div>
   </div>
   <div class="col is-one-third">
-    <div class="clickbox is-thoughtful-tangerine ">
+    <div class="clickbox is-thoughtful-tangerine">
       <a href="#lp-beyond-our-planet-earth">
         <span>Learning Package:<br>Beyond Our Planet Eath</span>
       </a>
@@ -80,13 +80,13 @@ Use these resources to introduce your child to science concepts!
 
 <h3><b>Playlist</b></h3>
 <p>A collection of short videos exploring topics around science concepts.</p>
-<h5 id="time-for-science"  class="margin--bottom--lg"><b>Playlist: Time for Science!</b></h5>
+<h5 id="time-for-science" class="margin--bottom--lg"><b>Playlist: Time for Science!</b></h5>
 <p>Spark your child’s curiosity in science literacy through these engaging and educational videos!</p>
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/vUXWrQMa8QY " class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/vUXWrQMa8QY" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -98,7 +98,7 @@ Do your children like creating their own inventions just like Leonardo Da Vinci?
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/NyZD-c4J4NU " class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/NyZD-c4J4NU" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -112,7 +112,7 @@ Hot air balloons have been around for ages and are known as a form of transporta
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/O5IZFC8BYgo " class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/O5IZFC8BYgo" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -122,13 +122,13 @@ Have you ever wondered how a tall and high skyscraper like the Burj Khalifa in D
   </div>
 </div>
 
-<h5 id="all-about-food-science"  class="margin--bottom--lg"><b>Playlist: All about Food Science!</b></h5>
+<h5 id="all-about-food-science" class="margin--bottom--lg"><b>Playlist: All about Food Science!</b></h5>
 <p>Satisfy your food cravings and learn about science behind it with this tasty taster playlist!</p>
 <br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/74RnO_wHX7k " class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/74RnO_wHX7k" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -141,7 +141,7 @@ Have you heard about molecular gastronomy? Learn how to make popping boba balls 
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/0ODKxiptt7c " class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/0ODKxiptt7c" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -154,7 +154,7 @@ Have you ever used baking soda while baking? Learn more about the science behind
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/H_rlit9yV4A " class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/H_rlit9yV4A" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -169,7 +169,7 @@ Feed your curiosity and learn about the solar system and beyond in this out of t
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/E6qqF5PKInw" class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/E6qqF5PKInw" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -182,7 +182,7 @@ Learn more about the enormous planets orbiting around the sun, their size, orbit
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="image">
-      <a target="_blank" href=" https://www.youtube.com/watch?v=ErUZVWUP0c4"><img src="/images/science/tweens/everythingaboutss.jpeg"></a>
+      <a target="_blank" href="https://www.youtube.com/watch?v=ErUZVWUP0c4"><img src="/images/science/Tweens/everythingaboutss.jpeg"></a>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -196,7 +196,7 @@ Join Dr Binocs as we take a closer look at our solar system and galaxy. Learn mo
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
-     <iframe src=" https://www.youtube.com/embed/w5LEtILN8vI " class="responsive-iframe"></iframe>
+     <iframe src="https://www.youtube.com/embed/w5LEtILN8vI" class="responsive-iframe"></iframe>
     </div>
   </div>
   <div class="col is-three-fifths">
@@ -213,15 +213,15 @@ Every wondered how we got a picture of the Milky Way? Or how know it is spiral? 
 
 ![Baking Chemistry](/images/science-lfa-updates/scwyc-baking-chemistry.JPG)
 
-<h5 class="margin--bottom--lg" id="baking-chemistry" ><b> Stay Curious with Your Child: Baking Chemistry!</b></h5>
+<h5 class="margin--bottom--lg" id="baking-chemistry"><b> Stay Curious with Your Child: Baking Chemistry!</b></h5>
 <p> Make chemistry come alive at home by trying out this hands-on baking experiment with your child! </p>
-<h4 id="scwyc-baking-chemistry"><a href=" https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b>Learn More</b></a></h4>
+<h4 id="scwyc-baking-chemistry"><a href="https://childrenandteens.nlb.gov.sg/diy-resources/primary/stay-curious-with-your-child" target="_blank"><b>Learn More</b></a></h4>
 <br>
 
 ![Beyond Our Planet Earth](/images/science-lfa-updates/beyond-our-planet-earth.jpg)
 <h5 class="margin--bottom--lg" id="lp-beyond-our-planet-earth"><b>Beyond Our Planet Earth</b></h5>
 <p> Explore how stories related to space and the solar system through a series of engaging discussions and activities. </p>
-<h4 id="Science-Tweens-Cakes-in-Space"><a href="https://childrenandteens.nlb.gov.sg/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Science-Fiction_Cakes-in-Space.PDF" target="_blank"><b>Learn More</b></a></h4>
+<h4 id="Science-Tweens-Cakes-in-Space"><a href="https://childrenandteens.nlb.gov.sg/images/diyresources/primary/nlb_read-reap-write-booklet-pri_science-fiction_cakes-in-space.pdf" target="_blank"><b>Learn More</b></a></h4>
 
 
 

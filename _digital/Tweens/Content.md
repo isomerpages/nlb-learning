@@ -121,9 +121,7 @@ How are memes created? What makes them popular and viral? How do they impact the
 
 
 <h5 id="playlist-informed"><b> Exploring Technology and Digital Tools
- </b>
-<p>
-</h5>
+ </b></h5><p></p>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">
@@ -164,7 +162,8 @@ Can you tell a legit friend request apart from an impersonation scam? Keep yours
 
 <h3><b>Learning Package</b></h3>
 <p>Spark your tween’s curiosity in digital literacy through engaging activities and articles.</p>
-<h5 id="lp-tweenkerama-robotics-and-coding"><b>Tweenkerama: Robotics and Coding</b></h5> [Lab Mag #1 pages 6 &ndash; 9]<br>
-<p>Do you have what it takes to be a successful roboticist? Learn more about robotics and coding and try the activity to find out! <a target="_blank" href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/FA_Tweenkerama-Issue-1.pdf">Check it out!</a></p>
-<small>Source: https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama (,). National Library Board, Singapore. Retrieved 2022, January 26</small>
+<h5 id="lp-tweenkerama-robotics-and-coding"><b>Tweenkerama: Car in Action</b></h5> 
+<p>In motor sports such as Formula 1 racing – where speed is the determining factor
+in winning.Learn more about car and try the activity to find out! <a target="_blank" href="https://childrenandteens.nlb.gov.sg/images/unsorted/tweenkerama/carinaction_preview_fa.pdf">Check it out!</a></p>
+<small>Source: https://childrenandteens.nlb.gov.sg/services/programmes/tweenkerama (,). National Library Board, Singapore. Retrieved 2023, September 20</small>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
