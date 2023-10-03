@@ -56,6 +56,6 @@ Click [here](https://childrenandteens.nlb.gov.sg/events/steamlab2022/programmeli
 Spark!Lab goes to the public libraries. 
 Join us at our Spark!Lab™ pop-ups, where young inventors get to explore outside the box with hands-on activities! Check out this page for programme dates. 
 
-![](/images/sparklab%20edm%20(800%20×%20800px).png)
+![](/images/sparklab%20edm_ed.png)
 
 Activities are suitable for children ages 7-12. See you there!
