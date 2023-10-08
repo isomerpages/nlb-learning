@@ -207,8 +207,11 @@ Woodlands Regional Library</td>
 <span style="display: none"><a id="“programmes”">programmes</a></span>
 ### Featured Programmes
 
+Don't miss out on these programmes happening between 11-19 November 2023 at a public library near you! 
+
+
 <span style="display: none"><a id="“participate”">participate</a></span>
-### How to Participate
+### How to Redeem a S.T.E.A.M. Activity Pack
 
 * Pick up a Lab Chart when you arrive at the event.
 <table cellpadding="5">
