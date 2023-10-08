@@ -44,28 +44,21 @@ Tweenkerama gives tweens aged 10-13 years the opportunity to learn and explore t
 Click [here](https://go.gov.sg/nlb-events){:target="_blank"} for the latest programme listings. Stay tuned for more updates.
 
 ## **S.T.E.A.M. Lab**
-![Banner for Steam Lab 2023](/images/steam%20lab%202023.png)
+![Steam Lab Banner](/images/Steam%20Lab%202023/steam%20lab%202023.png)
 
 ##### About the Event
 
-***Explore Robotics, Virtual Reality, Outer Space and more in this two-day learning and tinkering carnival for children and teens!***
+###### S.T.E.A.M. Lab is a two-day learning and tinkering carnival for children and teens!
 
-Enjoy various interactive booths exploring thrilling experiences and new technologies. You'll even get to redeem an exclusive S.T.E.A.M. Activity Pack when you learn and play at S.T.E.A.M. Lab!
+Enjoy various interactive booths exploring thrilling experiences and new technologies, featuring virtual reality, robotics, gerontech and even deep space objects. You’ll even get to redeem an exclusive S.T.E.A.M. Activity Pack when you learn and play at S.T.E.A.M. Lab!
 
 **<center>Join us at S.T.E.A.M. Lab 2023!<br>
 18 and 19 November 2023<br>
 11am - 5pm<br>
-Woodlands Regional Library**</center>
-##### How to Participate
-
-* Pick up a Lab Chart when you arrive at the event.
-
-* Collect a sticker by participating in the activities at any of our S.T.E.A.M. Lab booths. Earn 5 stickers to complete the Lab Chart.
-* Borrow 8 books.
-* Visit our redemption booth to show your loan receipt and completed Lab Chart to redeem an exclusive S.T.E.A.M. Activity Pack! (while stocks last)!
-
-Stay tuned for more updates!
-
+Woodlands Regional Library**
+##### [Find out more!](https://learning.nlb.gov.sg/science/children/steamlab/)
+</center>
+	
 ## **Spark!Lab™**
 ![](/images/sparklab%20edm%20(800%20×%20800px)%20(1).png)
 
