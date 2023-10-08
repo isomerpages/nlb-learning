@@ -42,7 +42,7 @@ Enjoy various interactive booths exploring thrilling experiences and new technol
 <center><table style="width:60%;">
 <tbody>
 <tr>
-<td style="text-align: center; font-size:18px; background-color: #CCFFFF; font-weight:nn">Join us at S.T.E.A.M. Lab 2023!<br>
+<td style="text-align: center; font-size:18px; border: 10px solid #FED800; font-weight:nn">Join us at S.T.E.A.M. Lab 2023!<br>
 18 and 19 November 2023<br>
 11am - 5pm<br>
 Woodlands Regional Library</td>
