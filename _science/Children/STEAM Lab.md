@@ -33,7 +33,7 @@ third_nav_title: Children
 <span style="visibility: hidden"><a id="about">about</a></span>
 
 ---
-#### About the Event
+### About the Event
 
 ###### S.T.E.A.M. Lab is a two-day learning and tinkering carnival for children and teens!
 
@@ -42,7 +42,7 @@ Enjoy various interactive booths exploring thrilling experiences and new technol
 <center><table style="width:60%;">
 <tbody>
 <tr>
-<td style="text-align: center; font-size:18px; background-color: #CCFFFF; font-weight:bold">Join us at S.T.E.A.M. Lab 2023!<br>
+<td style="text-align: center; font-size:18px; background-color: #CCFFFF; font-weight:nn">Join us at S.T.E.A.M. Lab 2023!<br>
 18 and 19 November 2023<br>
 11am - 5pm<br>
 Woodlands Regional Library</td>
@@ -51,13 +51,13 @@ Woodlands Regional Library</td>
 </table></center>
 
 <span style="visibility: hidden"><a id="booths">booth</a></span>
-#### What's in Store
+### What's in Store
 
 <table style="text-align: center; border: 1px solid #FF99CC">
 <tbody>
 <tr>
 <td rowspan="2" style="border: 1px solid #FF99CC; text-align: center; width: 30%">44</td>
-<td style="text-align: left; font-size:20px; font-weight: bold">Astronomical Discoveries!</td>
+<td style="text-align: left; font-size:20px; font-weight: nn">Astronomical Discoveries!</td>
 </tr>
 <tr>
 <td style="text-align: left">text2</td>
@@ -66,10 +66,10 @@ Woodlands Regional Library</td>
 </table>
 
 <span style="visibility: hidden"><a id="“programmes”">programmes</a></span>
-#### Featured Programmes
+### Featured Programmes
 
 <span style="visibility: hidden"><a id="“participate”">participate</a></span>
-#### How to Participate
+### How to Participate
 
 * Pick up a Lab Chart when you arrive at the event.
 <table cellpadding="5">
@@ -88,7 +88,7 @@ Woodlands Regional Library</td>
 
 ---
 <span style="visibility: hidden"><a id="“at-home”">at-home</a></span>
-#### Explore S.T.E.A.M. at Home!
+### Explore S.T.E.A.M. at Home!
 Do these fun experiments at home to learn more about science!
 <br>
 
