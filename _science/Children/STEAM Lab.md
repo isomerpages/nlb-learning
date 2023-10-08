@@ -207,23 +207,36 @@ Woodlands Regional Library</td>
 <span style="display: none"><a id="“programmes”">programmes</a></span>
 ### Featured Programmes
 
-Don't miss out on these programmes happening between 11-19 November 2023 at a public library near you! 
 
-![A colourful banner with manatees in the ocean ](/images/Steam%20Lab%202023/pedro%20banner.jpg)
-##### Pedro the Manatee and His Grandparents
+![A vibrant banner of three anthropomorphised foods-egg, fish, vegetable against the Singapore skyline](/images/Steam%20Lab%202023/sfa%20banner.jpg)
+##### The Singapore Farmed Forces: A Storytelling Session
 
-Storytelling and Craft Session
+**@ Woodlands Regional Library, Everest Room, Level 4**
 <table>
 <tbody>
 <tr>
-<td>18 November 2023</td>
-<td>4pm - 4.30pm <br>followed by a book sale</td>
+<td>19 November 2023</td>
+<td>11am - 12pm</td>
 <td>Register here</td>
 </tr>
 </tbody>
 </table>
-<br>
-Pop-up Storytelling Sessions
+
+![A colourful banner with manatees in the ocean ](/images/Steam%20Lab%202023/pedro%20banner.jpg)
+##### Pedro the Manatee and His Grandparents
+
+**Storytelling and Craft Session @ Woodlands Regional Library, Everest Room, Level 4**
+<table>
+<tbody>
+<tr>
+<td>18 November 2023</td>
+<td>4pm - 4.30pm followed by a book sale</td>
+<td>Register here</td>
+</tr>
+</tbody>
+</table>
+
+**Pop-up Storytelling Sessions @ Woodlands Regional Library, Level 4**
 <table>
 <tbody>
 <tr>
@@ -244,8 +257,9 @@ Pop-up Storytelling Sessions
 </tbody>
 </table>
 
-![A vibrant banner of three anthropomorphised foods-egg, fish, vegetable against the Singapore skyline](/images/Steam%20Lab%202023/sfa%20banner.jpg)
+[Unplugged]
 
+##### Don't miss out on these programmes happening between 11-19 November 2023 at a public library near you! 
 
 <span style="display: none"><a id="“participate”">participate</a></span>
 ### How to Redeem a S.T.E.A.M. Activity Pack
