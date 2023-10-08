@@ -35,7 +35,7 @@ third_nav_title: Children
 ---
 ### About the Event
 
-###### S.T.E.A.M. Lab is a two-day learning and tinkering carnival for children and teens!
+##### S.T.E.A.M. Lab is a two-day learning and tinkering carnival for children and teens!
 
 Enjoy various interactive booths exploring thrilling experiences and new technologies, featuring virtual reality, robotics, gerontech and even deep space objects. You'll even get to redeem an exclusive S.T.E.A.M. Activity Pack when you learn and play at S.T.E.A.M. Lab!
 
