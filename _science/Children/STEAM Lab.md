@@ -27,7 +27,7 @@ third_nav_title: Children
 </style>
 
 ## **S.T.E.A.M. Lab**
-![Banner for Steam Lab 2023](/images/steam%20lab%202023.png)
+![STEAM Lab Banner ](/images/Steam%20Lab%202023/steam%20lab%202023.png)
 
 <center><a href="#about">About the Event</a> | <a href="“#booths”">What’s in Store</a> | <a href="“#programmes”">Featured Programmes</a> | <a href="“#participate”">How to Participate</a> | <br><a href="“#at-home”">Explore S.T.E.A.M. at Home!</a> |</center>
 <span style="visibility: hidden"><a id="about">about</a></span>
@@ -57,13 +57,153 @@ Woodlands Regional Library</td>
 <tbody>
 <tr>
 <td rowspan="2" style="border: 1px solid #FF99CC; text-align: center; width: 30%">44</td>
-<td style="text-align: left; font-size:20px; font-weight: nn">Astronomical Discoveries!</td>
+<td style="text-align: left; font-size:20px; font-weight: nn">Spark!Lab Pop-up</td>
 </tr>
 <tr>
-<td style="text-align: left">text2</td>
+<td style="text-align: left">Do you love finding out how things work? Are you a young inventor? Think outside the box with hands-on activities at Spark!Lab!
+</td>
 </tr>
 </tbody>
 </table>
+<br>
+
+<table style="text-align: center; border: 1px solid #FF99CC">
+<tbody>
+<tr>
+<td rowspan="2" style="border: 1px solid #FF99CC; text-align: center; width: 30%">44</td>
+<td style="text-align: left; font-size:20px; font-weight: nn">Astronomical Discoveries!</td>
+</tr>
+<tr>
+<td style="text-align: left">Learn about deep sky objects, stars and constellations and build your own with Ngee Ann Poly's Astronomy Club!</td>
+</tr>
+</tbody>
+</table>
+<br>
+
+<table style="text-align: center; border: 1px solid #FF99CC">
+<tbody>
+<tr>
+<td rowspan="2" style="border: 1px solid #FF99CC; text-align: center; width: 30%">44</td>
+<td style="text-align: left; font-size:20px; font-weight: nn">Dare to be a Game Dev!</td>
+</tr>
+<tr>
+<td style="text-align: left">Discover the essential skills behind game development in this 10-minute quest! Do you have what it takes? <br> <br>
+	<i>Supported by DBS and Flying Cape<i></i></i></td>
+</tr>
+</tbody>
+</table>
+<br>
+
+<table style="text-align: center; border: 1px solid #FF99CC">
+<tbody>
+<tr>
+<td rowspan="2" style="border: 1px solid #FF99CC; text-align: center; width: 30%">44</td>
+<td style="text-align: left; font-size:20px; font-weight: nn">Deep Sea Dangers: Ocean Acidification and Marine Life</td>
+</tr>
+<tr>
+<td style="text-align: left">Ocean acidification is a phenomenon that affects the marine environment and its inhabitants. Find out more at this booth by Resorts World Sentosa, S.E.A. Aquarium!</td>
+</tr>
+</tbody>
+</table>
+<br>
+
+<table style="text-align: center; border: 1px solid #FF99CC">
+<tbody>
+<tr>
+<td rowspan="2" style="border: 1px solid #FF99CC; text-align: center; width: 30%">44</td>
+<td style="text-align: left; font-size:20px; font-weight: nn">Meet LOVOT the Social Robot</td>
+</tr>
+<tr>
+<td style="text-align: left">Ever wonder what it would be like to have a robot friend? Meet LOVOT, a robot powered by artificial intelligence that can mimic human's behaviour! <br><br>
+	<i>Supported by Singapore University of Social Sciences</i></td>
+</tr>
+</tbody>
+</table>
+<br>
+
+<table style="text-align: center; border: 1px solid #FF99CC">
+<tbody>
+<tr>
+<td rowspan="2" style="border: 1px solid #FF99CC; text-align: center; width: 30%">44</td>
+<td style="text-align: left; font-size:20px; font-weight: nn">Retrace your Memories with VR</td>
+</tr>
+<tr>
+<td style="text-align: left">See how virtual reality can help those with dementia reconnect with their memories. <br><br>
+	<i>Supported by Singapore University of Social Sciences and Vue Reality Labs</i></td>
+</tr>
+</tbody>
+</table>
+<br>
+
+<table style="text-align: center; border: 1px solid #FF99CC">
+<tbody>
+<tr>
+<td rowspan="2" style="border: 1px solid #FF99CC; text-align: center; width: 30%">44</td>
+<td style="text-align: left; font-size:20px; font-weight: nn">Sherlock Holmes' Ideas for Creative Solutions: An Exhibition</td>
+</tr>
+<tr>
+<td style="text-align: left">Discover assistive technologies, gerontech tools and apps that help make life more inclusive for all in this exhibition. Plus, flex your detective skills and investigate some mystery cases! <br><br>
+	<i>Supported by Singapore University of Social Sciences </i></td>
+</tr>
+</tbody>
+</table>
+<br>
+
+<table style="text-align: center; border: 1px solid #FF99CC">
+<tbody>
+<tr>
+<td rowspan="2" style="border: 1px solid #FF99CC; text-align: center; width: 30%">44</td>
+<td style="text-align: left; font-size:20px; font-weight: nn">Roblox Science Tournament</td>
+</tr>
+<tr>
+<td style="text-align: left">Have a fun-filled time at the Roblox Science Tournament. Watch, cheer and compete with others to win prizes!</td>
+</tr>
+</tbody>
+</table>
+<br>
+
+<table style="text-align: center; border: 1px solid #FF99CC">
+<tbody>
+<tr>
+<td rowspan="2" style="border: 1px solid #FF99CC; text-align: center; width: 30%">44</td>
+<td style="text-align: left; font-size:20px; font-weight: nn">Colour and Craft with Seabasstian Water, Eggs Benedette C and Caixinderella</td>
+</tr>
+<tr>
+<td style="text-align: left">A fun and educational colouring and paper crafts activity with local produce heroes from the Singapore Farmed Forces! <br><br>
+	<i>Supported by the Singapore Food Agency</i></td>
+</tr>
+</tbody>
+</table>
+<br>
+
+<table style="text-align: center; border: 1px solid #FF99CC">
+<tbody>
+<tr>
+<td rowspan="2" style="border: 1px solid #FF99CC; text-align: center; width: 30%">44</td>
+<td style="text-align: left; font-size:20px; font-weight: nn">Magnificent Mangroves</td>
+</tr>
+<tr>
+<td style="text-align: left">Learn about mangroves through a virtual reality experience!<br><br>
+	<i>Supported by Hadi Ikhsan from NTU ADM</i></td>
+</tr>
+</tbody>
+</table>
+<br>
+
+<table style="text-align: center; border: 1px solid #FF99CC">
+<tbody>
+<tr>
+<td rowspan="2" style="border: 1px solid #FF99CC; text-align: center; width: 30%">44</td>
+<td style="text-align: left; font-size:20px; font-weight: nn">Learn, Grow, Eat! Edible Gardening for all</td>
+</tr>
+<tr>
+<td style="text-align: left">Get up close and personal with plants in a series of hands-on activities to identify plant anatomy, experiment with potting media and even diagnose plant health! <br><br>
+<i>Supported by Corridor Farmers</i>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
 
 <span style="visibility: hidden"><a id="“programmes”">programmes</a></span>
 ### Featured Programmes
