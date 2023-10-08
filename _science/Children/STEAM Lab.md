@@ -29,9 +29,10 @@ third_nav_title: Children
 ## **S.T.E.A.M. Lab**
 ![Banner for Steam Lab 2023](/images/steam%20lab%202023.png)
 
-<center><a href="#about">About the Event  |</a></center>
+<center><a href="#about">About the Event</a> | <a href="“#booths”">What’s in Store</a> | <a href="“#programmes”">Featured Programmes</a> | <a href="“#participate”">How to Participate</a> | <br><a href="“#at-home”">Explore S.T.E.A.M. at Home!</a> |</center>
 <span style="visibility: hidden"><a id="about">about</a></span>
 
+---
 #### About the Event
 
 ###### S.T.E.A.M. Lab is a two-day learning and tinkering carnival for children and teens!
@@ -64,8 +65,10 @@ Woodlands Regional Library</td>
 </tbody>
 </table>
 
+<span style="visibility: hidden"><a id="“programmes”">programmes</a></span>
 #### Featured Programmes
 
+<span style="visibility: hidden"><a id="“participate”">participate</a></span>
 #### How to Participate
 
 * Pick up a Lab Chart when you arrive at the event.
@@ -84,6 +87,7 @@ Woodlands Regional Library</td>
 **while stocks last*
 
 ---
+<span style="visibility: hidden"><a id="“at-home”">at-home</a></span>
 #### Explore S.T.E.A.M. at Home!
 Do these fun experiments at home to learn more about science!
 <br>
