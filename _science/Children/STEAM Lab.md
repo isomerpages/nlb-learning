@@ -209,6 +209,42 @@ Woodlands Regional Library</td>
 
 Don't miss out on these programmes happening between 11-19 November 2023 at a public library near you! 
 
+![A colourful banner with manatees in the ocean ](/images/Steam%20Lab%202023/pedro%20banner.jpg)
+##### Pedro the Manatee and His Grandparents
+
+Storytelling and Craft Session
+<table>
+<tbody>
+<tr>
+<td>18 November 2023</td>
+<td>4pm - 4.30pm <br>followed by a book sale</td>
+<td>Register here</td>
+</tr>
+</tbody>
+</table>
+<br>
+Pop-up Storytelling Sessions
+<table>
+<tbody>
+<tr>
+<td>18 November 2023</td>
+<td>12.30pm - 1pm</td>
+<td>Register here</td>
+</tr>
+<tr>
+<td>19 November 2023</td>
+<td>12.30pm - 1pm</td>
+<td>Register here</td>
+</tr>
+	<tr>
+<td>18 November 2023</td>
+<td>3pm - 3.30pm</td>
+<td>Register here</td>
+</tr>
+</tbody>
+</table>
+
+![A vibrant banner of three anthropomorphised foods-egg, fish, vegetable against the Singapore skyline](/images/Steam%20Lab%202023/sfa%20banner.jpg)
 
 
 <span style="display: none"><a id="“participate”">participate</a></span>
