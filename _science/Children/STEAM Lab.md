@@ -39,10 +39,10 @@ third_nav_title: Children
 
 Enjoy various interactive booths exploring thrilling experiences and new technologies, featuring virtual reality, robotics, gerontech and even deep space objects. You'll even get to redeem an exclusive S.T.E.A.M. Activity Pack when you learn and play at S.T.E.A.M. Lab!
 
-<center><table style="width:60%;">
+<center><table style="width:50%;">
 <tbody>
 <tr>
-<td style="text-align: center; font-size:18px; border: 10px solid #FED800; font-weight:nn">Join us at S.T.E.A.M. Lab 2023!<br>
+<td style="text-align: center; font-size:18px; border: 10px solid #FED800; font-weight:none">Join us at S.T.E.A.M. Lab 2023!<br>
 18 and 19 November 2023<br>
 11am - 5pm<br>
 Woodlands Regional Library</td>
