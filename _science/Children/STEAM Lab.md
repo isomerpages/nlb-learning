@@ -56,7 +56,7 @@ Woodlands Regional Library</td>
 <table style="text-align: center; border: none">
 <tbody>
 <tr>
-<td rowspan="2" style="border: none; text-align: center; width: 30%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/0yPCSDL2/STEAMLab-2.png"></td>
+<td rowspan="2" style="border: none; text-align: center; width: 20%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/0yPCSDL2/STEAMLab-2.png"></td>
 <td style="text-align: left; font-size:20px; font-weight: nn">Spark!Lab Pop-up</td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ Woodlands Regional Library</td>
 <table style="text-align: center; border: 0px solid #FF99CC">
 <tbody>
 <tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 30%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/s20Pb81v/STEAMLab-4.png"></td>
+<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/s20Pb81v/STEAMLab-4.png"></td>
 <td style="text-align: left; font-size:20px; font-weight: nn">Astronomical Discoveries!</td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ Woodlands Regional Library</td>
 <table style="text-align: center;">
 <tbody>
 <tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 30%"></td>
+<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"></td>
 <td style="text-align: left; font-size:20px; font-weight: nn">Dare to be a Game Dev!</td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ Woodlands Regional Library</td>
 <table style="text-align: center; border: 0px solid #FF99CC">
 <tbody>
 <tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 30%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/PxpbH48K/STEAMLab-5.png"></td>
+<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/PxpbH48K/STEAMLab-5.png"></td>
 <td style="text-align: left; font-size:20px; font-weight: nn">Deep Sea Dangers: Ocean Acidification and Marine Life</td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ Woodlands Regional Library</td>
 <table style="text-align: center; border: 0px solid #FF99CC">
 <tbody>
 <tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 30%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/0QTYywYv/STEAMLab-3.png"></td>
+<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/0QTYywYv/STEAMLab-3.png"></td>
 <td style="text-align: left; font-size:20px; font-weight: nn">Meet LOVOT the Social Robot</td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ Woodlands Regional Library</td>
 <table style="text-align: center; border: 0px solid #FF99CC">
 <tbody>
 <tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 30%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/pXDZyqc6/STEAMLab-1.png"></td>
+<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/pXDZyqc6/STEAMLab-1.png"></td>
 <td style="text-align: left; font-size:20px; font-weight: nn">Retrace your Memories with VR</td>
 </tr>
 <tr>
@@ -138,7 +138,7 @@ Woodlands Regional Library</td>
 <table style="text-align: center; border: 0px solid #FF99CC">
 <tbody>
 <tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 30%"></td>
+<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"></td>
 <td style="text-align: left; font-size:20px; font-weight: nn">Sherlock Holmes' Ideas for Creative Solutions: An Exhibition</td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ Woodlands Regional Library</td>
 <table style="text-align: center; border: px solid #FF99CC">
 <tbody>
 <tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 30%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/8CCBKDp2/STEAMLab-6.png"></td>
+<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/8CCBKDp2/STEAMLab-6.png"></td>
 <td style="text-align: left; font-size:20px; font-weight: nn">Roblox Science Tournament</td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@ Woodlands Regional Library</td>
 <table style="text-align: center; border: 0px solid #FF99CC">
 <tbody>
 <tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 30%"></td>
+<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"></td>
 <td style="text-align: left; font-size:20px; font-weight: nn">Colour and Craft with Seabasstian Water, Eggs Benedette C and Caixinderella</td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ Woodlands Regional Library</td>
 <table style="text-align: center; border: 0px solid #FF99CC">
 <tbody>
 <tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 30%"></td>
+<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"></td>
 <td style="text-align: left; font-size:20px; font-weight: nn">Magnificent Mangroves</td>
 </tr>
 <tr>
@@ -193,7 +193,7 @@ Woodlands Regional Library</td>
 <table style="text-align: center; border: 0px solid #FF99CC">
 <tbody>
 <tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 30%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/L8D33hpk/STEAMLab-7.png"></td>
+<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/L8D33hpk/STEAMLab-7.png"></td>
 <td style="text-align: left; font-size:20px; font-weight: nn">Learn, Grow, Eat! Edible Gardening for all</td>
 </tr>
 <tr>
