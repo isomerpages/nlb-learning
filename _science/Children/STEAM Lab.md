@@ -29,7 +29,7 @@ third_nav_title: Children
 ## **S.T.E.A.M. Lab**
 ![STEAM Lab Banner ](/images/Steam%20Lab%202023/steam%20lab%202023.png)
 
-<center><a href="#about">About the Event</a> | <a href="“#booths”">What’s in Store</a> | <a href="“#programmes”">Featured Programmes</a> | <a href="“#participate”">How to Participate</a> | <br><a href="“#at-home”">Explore S.T.E.A.M. at Home!</a> |</center>
+<center><a href="#about">About the Event</a> | <a href="“#booths”">What’s in Store</a> | <a href="“#programmes”">Featured Programmes</a> | <a href="“#participate”">Redeem Exclusive Merchandise</a> | <br><a href="“#at-home”">Explore S.T.E.A.M. at Home!</a> |</center>
 <span style="display: none"><a id="about">about</a></span>
 
 ---
