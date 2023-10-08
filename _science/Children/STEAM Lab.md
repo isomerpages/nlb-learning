@@ -52,11 +52,12 @@ Woodlands Regional Library</td>
 
 <span style="display: none"><a id="booths">booth</a></span>
 ### What's in Store
+1.  Pick up a Lab Chart when you arrive at the event.
 
 <table style="text-align: center; border: 1px solid #FF99CC">
 <tbody>
 <tr>
-<td rowspan="2" style="border: 1px solid #FF99CC; text-align: center; width: 30%">44</td>
+<td rowspan="2" style="border: 1px solid #FF99CC; text-align: center; width: 30%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/0yPCSDL2/STEAMLab-2.png"></td>
 <td style="text-align: left; font-size:20px; font-weight: nn">Spark!Lab Pop-up</td>
 </tr>
 <tr>
@@ -203,7 +204,6 @@ Woodlands Regional Library</td>
 </tr>
 </tbody>
 </table>
-<br>
 
 <span style="display: none"><a id="“programmes”">programmes</a></span>
 ### Featured Programmes
