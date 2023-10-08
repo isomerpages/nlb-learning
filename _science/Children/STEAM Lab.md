@@ -30,7 +30,7 @@ third_nav_title: Children
 ![STEAM Lab Banner ](/images/Steam%20Lab%202023/steam%20lab%202023.png)
 
 <center><a href="#about">About the Event</a> | <a href="“#booths”">What’s in Store</a> | <a href="“#programmes”">Featured Programmes</a> | <a href="“#participate”">How to Participate</a> | <br><a href="“#at-home”">Explore S.T.E.A.M. at Home!</a> |</center>
-<span style="visibility: hidden"><a id="about">about</a></span>
+<span style="display: none"><a id="about">about</a></span>
 
 ---
 ### About the Event
@@ -50,7 +50,7 @@ Woodlands Regional Library</td>
 </tbody>
 </table></center>
 
-<span style="visibility: hidden"><a id="booths">booth</a></span>
+<span style="display: none"><a id="booths">booth</a></span>
 ### What's in Store
 
 <table style="text-align: center; border: 1px solid #FF99CC">
@@ -205,10 +205,10 @@ Woodlands Regional Library</td>
 </table>
 <br>
 
-<span style="visibility: hidden"><a id="“programmes”">programmes</a></span>
+<span style="display: none"><a id="“programmes”">programmes</a></span>
 ### Featured Programmes
 
-<span style="visibility: hidden"><a id="“participate”">participate</a></span>
+<span style="display: none"><a id="“participate”">participate</a></span>
 ### How to Participate
 
 * Pick up a Lab Chart when you arrive at the event.
@@ -227,7 +227,7 @@ Woodlands Regional Library</td>
 **while stocks last*
 
 ---
-<span style="visibility: hidden"><a id="“at-home”">at-home</a></span>
+<span style="display: none"><a id="“at-home”">at-home</a></span>
 ### Explore S.T.E.A.M. at Home!
 Do these fun experiments at home to learn more about science!
 <br>
