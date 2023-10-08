@@ -75,8 +75,8 @@ Woodlands Regional Library</td>
 <table cellpadding="5">
 <tbody>
 <tr>
-<td>test</td>
-<td>test</td>
+<td style="padding-left: 30px">test</td>
+<td style="padding-left: 30px">test</td>
 </tr>
 </tbody>
 </table>
