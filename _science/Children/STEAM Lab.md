@@ -213,14 +213,7 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 ### How to Redeem a S.T.E.A.M. Activity Pack
 
 * Pick up a Lab Chart when you arrive at the event.
-<table cellpadding="5">
-<tbody>
-<tr>
-<td style="padding-left: 30px">test</td>
-<td style="padding-left: 30px">test</td>
-</tr>
-</tbody>
-</table>
+
 * **Collect** stickers by participating in the activities at the S.T.E.A.M. Lab booths. Earn stickers from 5 booths to complete the Lab Chart!
 * **Borrow** 8 books.
 * **Redeem** an exclusive S.T.E.A.M. Activity Pack*. Simply present your loan receipt and completed Lab Chart at our redemption booth!
