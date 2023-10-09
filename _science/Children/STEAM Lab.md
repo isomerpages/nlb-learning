@@ -64,7 +64,7 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 <td style="text-align: left; font-size:20px; font-weight: nn">Spark!Lab Pop-up</td>
 </tr>
 <tr>
-<td style="text-align: left">Do you love finding out how things work? Are you a young inventor? Think outside the box with hands-on activities at Spark!Lab!
+<td style="text-align: left">Do you love finding out how things work? Do you love to tinker and invent? Think outside the box with hands-on challenges at Spark!Lab!
 </td>
 </tr>
 </tbody>
@@ -74,10 +74,10 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 <tbody>
 <tr>
 <td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 28%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/s20Pb81v/STEAMLab-4.png"></td>
-<td style="text-align: left; font-size:20px; font-weight: nn">Astronomical Discoveries!</td>
+<td style="text-align: left; font-size:20px; font-weight: nn">Astronomical Discoveries</td>
 </tr>
 <tr>
-<td style="text-align: left">Learn about deep sky objects, stars and constellations and build your own with Ngee Ann Poly's Astronomy Club!</td>
+<td style="text-align: left">Calling all space enthusiasts: learn about deep sky objects, stars and constellations and build your own with Arduino boards and LEDs! <br> <br> <i>Supported by Ngee Ann Poly's Astronomy Club!</i></td>
 </tr>
 </tbody>
 </table>
