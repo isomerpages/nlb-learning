@@ -35,9 +35,11 @@ third_nav_title: Children
 ---
 ### About the Event
 
-##### S.T.E.A.M. Lab is a two-day learning and tinkering carnival for children and teens!
+##### A Carnival of Science, Technology, Engineering, Arts and Mathematics!
 
-Enjoy various interactive booths exploring thrilling experiences and new technologies, featuring virtual reality, robotics, gerontech and even deep space objects. You'll even get to <a href="“#participate”">redeem an exclusive S.T.E.A.M. Activity Pack</a> when you learn and play at S.T.E.A.M. Lab!
+S.T.E.A.M. Lab is a two-day learning and tinkering carnival for children and teens featuring virtual reality, robotics, astronomy, botany and more,
+
+You'll even get to <a href="“#participate”">redeem an exclusive S.T.E.A.M. Activity Pack</a> when you learn and play at S.T.E.A.M. Lab!
 
 <center><table style="width:50%;">
 <tbody>
@@ -52,6 +54,8 @@ Woodlands Regional Library</td>
 
 <span style="display: none"><a id="booths">booth</a></span>
 ### What's in Store
+
+Pop by our various interactive booths to explore thrilling experiences and impressive technologies! Highlights include
 
 <table style="text-align: center; border: none">
 <tbody>
