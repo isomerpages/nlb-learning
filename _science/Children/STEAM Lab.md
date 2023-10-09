@@ -207,16 +207,30 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 
 ##### Don't miss out on these programmes happening between 11-19 November 2023 at a public library near you! 
 
+<table>
+<tbody>
+<tr>
+<td>[Banner]</td>
+<td>Programme Details
+	<br>11am - 12pm</td>
+</tr>
+<tr>
+<td>[Banner]</td>
+<td>Programme Details
+	<br>11am - 12pm</td>
+</tr>
+</tbody>
+</table>
 
 ---
 <span style="display: none"><a id="“participate”">participate</a></span>
 ### How to Redeem a S.T.E.A.M. Activity Pack
 
-* Pick up a Lab Chart when you arrive at the event.
+1. Pick up a Lab Chart when you arrive at the event.
 ![Redemption card for steam Lab, also known as a Lab Chart](/images/Steam%20Lab%202023/redemption%20card.png)
-* **Collect** stickers by participating in the activities at the S.T.E.A.M. Lab booths. Earn stickers from 5 booths to complete the Lab Chart!
-* **Borrow** 8 books.
-* **Redeem** an exclusive S.T.E.A.M. Activity Pack*. Simply present your loan receipt and completed Lab Chart at our redemption booth!
+2. **Collect** stickers by participating in the activities at the S.T.E.A.M. Lab booths. Earn stickers from 5 booths to complete the Lab Chart!
+3. **Borrow** 8 books.
+4. **Redeem** an exclusive S.T.E.A.M. Activity Pack*. Simply present your loan receipt and completed Lab Chart at our redemption booth!
 
 **while stocks last*
 
