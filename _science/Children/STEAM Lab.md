@@ -70,7 +70,6 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 </tbody>
 </table>
 
-
 <table style="text-align: center; border: 0px solid #FF99CC">
 <tbody>
 <tr>
@@ -83,19 +82,6 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 </tbody>
 </table>
 
-
-<table style="text-align: center;">
-<tbody>
-<tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 28%"></td>
-<td style="text-align: left; font-size:20px; font-weight: nn">Dare to be a Game Dev!</td>
-</tr>
-<tr>
-<td style="text-align: left">Discover the essential skills behind game development in this 10-minute quest! Do you have what it takes? <br> <br>
-	<i>Supported by DBS and Flying Cape<i></i></i></td>
-</tr>
-</tbody>
-</table>
 <br>
 
 <table style="text-align: center; border: 0px solid #FF99CC">
@@ -138,25 +124,10 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 </tbody>
 </table>
 <br>
-
-<table style="text-align: center; border: 0px solid #FF99CC">
-<tbody>
-<tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"></td>
-<td style="text-align: left; font-size:20px; font-weight: nn">Sherlock Holmes' Ideas for Creative Solutions: An Exhibition</td>
-</tr>
-<tr>
-<td style="text-align: left">Discover assistive technologies, gerontech tools and apps that help make life more inclusive for all in this exhibition. Plus, flex your detective skills and investigate some mystery cases! <br><br>
-	<i>Supported by Singapore University of Social Sciences </i></td>
-</tr>
-</tbody>
-</table>
-<br>
-
 <table style="text-align: center; border: px solid #FF99CC">
 <tbody>
 <tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/8CCBKDp2/STEAMLab-6.png"></td>
+<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 28%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/8CCBKDp2/STEAMLab-6.png"></td>
 <td style="text-align: left; font-size:20px; font-weight: nn">Roblox Science Tournament</td>
 </tr>
 <tr>
@@ -169,35 +140,7 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 <table style="text-align: center; border: 0px solid #FF99CC">
 <tbody>
 <tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"></td>
-<td style="text-align: left; font-size:20px; font-weight: nn">Colour and Craft with Seabasstian Water, Eggs Benedette C and Caixinderella</td>
-</tr>
-<tr>
-<td style="text-align: left">A fun and educational colouring and paper crafts activity with local produce heroes from the Singapore Farmed Forces! <br><br>
-	<i>Supported by the Singapore Food Agency</i></td>
-</tr>
-</tbody>
-</table>
-<br>
-
-<table style="text-align: center; border: 0px solid #FF99CC">
-<tbody>
-<tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"></td>
-<td style="text-align: left; font-size:20px; font-weight: nn">Magnificent Mangroves</td>
-</tr>
-<tr>
-<td style="text-align: left">Learn about mangroves through a virtual reality experience!<br><br>
-	<i>Supported by Hadi Ikhsan from NTU ADM</i></td>
-</tr>
-</tbody>
-</table>
-<br>
-
-<table style="text-align: center; border: 0px solid #FF99CC">
-<tbody>
-<tr>
-<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 20%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/L8D33hpk/STEAMLab-7.png"></td>
+<td rowspan="2" style="border: 0px solid #FF99CC; text-align: center; width: 28%"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; padding: 0px" alt="Lab Chart" src="https://i.postimg.cc/L8D33hpk/STEAMLab-7.png"></td>
 <td style="text-align: left; font-size:20px; font-weight: nn">Learn, Grow, Eat! Edible Gardening for all</td>
 </tr>
 <tr>
@@ -210,7 +153,6 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 
 <span style="display: none"><a id="“programmes”">programmes</a></span>
 ### Featured Programmes
-
 
 ![A vibrant banner of three anthropomorphised foods-egg, fish, vegetable against the Singapore skyline](/images/Steam%20Lab%202023/sfa%20banner.jpg)
 ##### The Singapore Farmed Forces: A Storytelling Session
@@ -265,6 +207,7 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 
 ##### Don't miss out on these programmes happening between 11-19 November 2023 at a public library near you! 
 
+
 ---
 <span style="display: none"><a id="“participate”">participate</a></span>
 ### How to Redeem a S.T.E.A.M. Activity Pack
@@ -278,9 +221,9 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 </tr>
 </tbody>
 </table>
-* Participate in the activities at the S.T.E.A.M. Lab booths and collect a sticker. Earn stickers from 5 booths to complete the Lab Chart!
-* Borrow 8 books.
-* Visit our redemption booth to show your loan receipt and completed Lab Chart to redeem an exclusive S.T.E.A.M. Activity Pack*!
+* **Collect** stickers by participating in the activities at the S.T.E.A.M. Lab booths. Earn stickers from 5 booths to complete the Lab Chart!
+* **Borrow** 8 books.
+* **Redeem** an exclusive S.T.E.A.M. Activity Pack*. Simply present your loan receipt and completed Lab Chart at our redemption booth!
 
 **while stocks last*
 
