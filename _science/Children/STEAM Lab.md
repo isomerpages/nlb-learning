@@ -153,6 +153,7 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 
 <span style="display: none"><a id="“programmes”">programmes</a></span>
 ### Featured Programmes
+See the full line up for S.T.E.A.M. Lab on Go Library!
 
 ![A vibrant banner of three anthropomorphised foods-egg, fish, vegetable against the Singapore skyline](/images/Steam%20Lab%202023/sfa%20banner.jpg)
 ##### The Singapore Farmed Forces: A Storytelling Session
@@ -203,9 +204,40 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 </tbody>
 </table>
 
-##### [Unplugged]
+![Banner of the programme, a dark space theme with mystery and game symbols](/images/Steam%20Lab%202023/webunplugged.jpg)
+##### Unplugged - S.T.E.A.M. Lab Edition: A Table-top Escape Room Quest 
 
-##### Don't miss out on these programmes happening between 11-19 November 2023 at a public library near you! 
+**@ Bedok Public Library, Programme Zone**
+<table>
+<tbody>
+<tr>
+<td>15 November 2023</td>
+<td>2.30pm - 4.30pm</td>
+<td>Register here</td>
+</tr>
+</tbody>
+</table>
+
+***For teens only***
+
+![Dark space themed background with symbols of mystery and games](/images/Steam%20Lab%202023/webttg.jpg)
+
+##### A Table-top Escape Room Quest 
+
+**@ Woodlands Regional Library, Everest Room, Level 4**
+<table>
+<tbody>
+<tr>
+<td>19 November 2023</td>
+<td>2pm - 4pm</td>
+<td>Register here</td>
+</tr>
+</tbody>
+</table>
+
+***For teens only***
+
+##### Don't miss out on these other programmes happening between 11-19 November 2023 at a public library near you! 
 
 <table>
 <tbody>
@@ -227,7 +259,7 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 ### How to Redeem a S.T.E.A.M. Activity Pack
 
 1. Pick up a Lab Chart when you arrive at the event.
-![Redemption card for steam Lab, also known as a Lab Chart](/images/Steam%20Lab%202023/redemption%20card.png)
+![A lab chart used at STEAM Lab 2023](/images/Steam%20Lab%202023/labchart%20preview.png)
 2. **Collect** stickers by participating in the activities at the S.T.E.A.M. Lab booths. Earn stickers from 5 booths to complete the Lab Chart!
 3. **Borrow** 8 books.
 4. **Redeem** an exclusive S.T.E.A.M. Activity Pack*. Simply present your loan receipt and completed Lab Chart at our redemption booth!
