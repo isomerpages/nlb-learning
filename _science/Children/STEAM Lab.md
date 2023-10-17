@@ -159,6 +159,7 @@ See the full line up for S.T.E.A.M. Lab on Go Library!
 
 ![A vibrant banner of three anthropomorphised foods-egg, fish, vegetable against the Singapore skyline](/images/Steam%20Lab%202023/sfa%20banner.jpg)
 ##### The Singapore Farmed Forces: A Storytelling Session
+Singapore's farms are under attack! It's up to the Singapore Farmed Forces -- Sebasstian Water, Eggs Benedette C and Caixinderella to save the day!
 
 **@ Woodlands Regional Library, Everest Room, Level 4**
 <table>
@@ -173,6 +174,7 @@ See the full line up for S.T.E.A.M. Lab on Go Library!
 
 ![A colourful banner with manatees in the ocean ](/images/Steam%20Lab%202023/pedro%20banner.jpg)
 ##### Pedro the Manatee and His Grandparents
+Join little Pedro in his journey to learn how to care for his grandparents!
 
 **Storytelling and Craft Session @ Woodlands Regional Library, Everest Room, Level 4**
 <table>
@@ -185,29 +187,28 @@ See the full line up for S.T.E.A.M. Lab on Go Library!
 </tbody>
 </table>
 
-**Pop-up Storytelling Sessions @ Woodlands Regional Library, Level 4**
+**Pop-up Storytelling Sessions @ Woodlands Regional Library, Level 4** *(registration not required)*
 <table>
 <tbody>
 <tr>
 <td>18 November 2023</td>
 <td>12.30pm - 1pm</td>
-<td>No Registration Required</td>
 </tr>
 <tr>
 <td>19 November 2023</td>
 <td>12.30pm - 1pm</td>
-<td>No Registration Required</td>
 </tr>
 	<tr>
 <td>18 November 2023</td>
 <td>3pm - 3.30pm</td>
-<td>No Registration Required</td>
 </tr>
 </tbody>
 </table>
 
 ![Banner of the programme, a dark space theme with mystery and game symbols](/images/Steam%20Lab%202023/webunplugged.jpg)
 ##### Unplugged - S.T.E.A.M. Lab Edition: A Table-top Escape Room Quest 
+
+Join us at a special S.T.E.A.M. Lab Edition of Unplugged. In this thrilling science-fiction adventure, you and your friends must solve challenging puzzles to escape a spaceship before it explodes...
 
 **@ Bedok Public Library, Programme Zone**
 <table>
@@ -225,6 +226,8 @@ See the full line up for S.T.E.A.M. Lab on Go Library!
 ![Dark space themed background with symbols of mystery and games](/images/Steam%20Lab%202023/webttg.jpg)
 
 ##### A Table-top Escape Room Quest 
+
+In this thrilling science-fiction adventure, you and your friends must solve challenging puzzles to escape a spaceship before it explodes...
 
 **@ Woodlands Regional Library, Everest Room, Level 4**
 <table>
