@@ -131,7 +131,9 @@ Pop by our various interactive booths to explore thrilling experiences and impre
 <td style="text-align: left; font-size:20px; font-weight: nn">Roblox Science Tournament</td>
 </tr>
 <tr>
-<td style="text-align: left">Have a fun-filled time at the Roblox Science Tournament. Watch, cheer and compete with others to win prizes!</td>
+<td style="text-align: left">Have a fun-filled time at the Roblox Science Tournament. Watch, cheer and compete with others to win prizes!<br><br>
+	<i>Supported by Ottodot</i></td>
+	
 </tr>
 </tbody>
 </table>
@@ -177,7 +179,7 @@ See the full line up for S.T.E.A.M. Lab on Go Library!
 <tbody>
 <tr>
 <td>18 November 2023</td>
-<td>4pm - 4.30pm followed by a book sale</td>
+<td>4pm - 4.30pm</td>
 <td>Register here</td>
 </tr>
 </tbody>
@@ -189,17 +191,17 @@ See the full line up for S.T.E.A.M. Lab on Go Library!
 <tr>
 <td>18 November 2023</td>
 <td>12.30pm - 1pm</td>
-<td>Register here</td>
+<td>No Registration Required</td>
 </tr>
 <tr>
 <td>19 November 2023</td>
 <td>12.30pm - 1pm</td>
-<td>Register here</td>
+<td>No Registration Required</td>
 </tr>
 	<tr>
 <td>18 November 2023</td>
 <td>3pm - 3.30pm</td>
-<td>Register here</td>
+<td>No Registration Required</td>
 </tr>
 </tbody>
 </table>
@@ -241,11 +243,10 @@ See the full line up for S.T.E.A.M. Lab on Go Library!
 <span style="display: none"><a id="“participate”">participate</a></span>
 ### How to Redeem a S.T.E.A.M. Activity Pack
 
-1. Pick up a Lab Chart when you arrive at the event.
 ![A lab chart used at STEAM Lab 2023](/images/Steam%20Lab%202023/labchart%20preview.png)
+1. **Borrow** 8 books to get a Lab Chart.
 2. **Collect** stickers by participating in the activities at the S.T.E.A.M. Lab booths. Earn stickers from 5 booths to complete the Lab Chart!
-3. **Borrow** 8 books.
-4. **Redeem** an exclusive S.T.E.A.M. Activity Pack*. Simply present your loan receipt and completed Lab Chart at our redemption booth!
+3. **Redeem** an exclusive S.T.E.A.M. Activity Pack*. Simply present your loan receipt and completed Lab Chart at our redemption booth!
 
 **while stocks last*
 
