@@ -237,23 +237,6 @@ See the full line up for S.T.E.A.M. Lab on Go Library!
 
 ***For teens only***
 
-##### Don't miss out on these other programmes happening between 11-19 November 2023 at a public library near you! 
-
-<table>
-<tbody>
-<tr>
-<td>[Banner]</td>
-<td>Programme Details
-	<br>11am - 12pm</td>
-</tr>
-<tr>
-<td>[Banner]</td>
-<td>Programme Details
-	<br>11am - 12pm</td>
-</tr>
-</tbody>
-</table>
-
 ---
 <span style="display: none"><a id="“participate”">participate</a></span>
 ### How to Redeem a S.T.E.A.M. Activity Pack
