@@ -184,25 +184,28 @@ Source: Lim, Jon S. H. (2016). “The ‘Shophouse Rafflesia: An Outline of Its 
 
 <h4>Books</h4>
 
-<h5>Traditional Games</h5>
-PE Unit, Science Branch, Curriculum Planning &amp; Development Division, Ministry of Education. (1998). <i>Traditional Games</i>. Singapore: Ministry of Education. (Call no.: RSING 796.0959 INV) 
+<h5>Singapore Shophouse Walks: Joo Chiat, Katong, Geylang</h5>
+Kildisheva, Tatyana, Edmonson, Lisa, and Pasquale, Joanne. (2021). <i>Singapore Shophouse Walks: Joo Chiat, Katong, Geylang</i>. 2nd edition. Singapore: Kildi Photo. (Call no.: RSING 728.3 KIL) 
 <br>
-<img style="width:200px;" src="/images%2FSingapore%20Traditional%20Games/games_tg.png">
-<p> This booklet describes traditional games in Singapore such as sepak raga, kabaddi, capteh, big balloon, hopscotch, hantam bola, long rope skipping, rounders, congkak, and five stones.</p>
+<img style="width:200px;" src="/images%2FSingapore%20Shophouses/shophouse_jc.png">
+<p> This colourful book presents a photo documentation of the front façade of residential shophouses in the Joo Chiat, Katong, and Geylang area. The photographs are accompanied by brief explanations of the history of the area, the symbols used to decorade the façade, and peppered with lively anecdotes from its inhabitants.</p>
 
 
-<h5>Have Fun with Traditional Games</h5>
-People’s Association. (1982). <i>Have Fun with Traditional Games</i>. Singapore: The Association. (Call no.: RCLOS 394.3095957 HAV -[CUS]) 
+
+<h5> Singapore Shophouse Walks: Chinatown, Blair Plain, Duxton Hill, Tanjong Pagar</h5>
+Kildisheva, Tatyana, Trench, Shona, and Pasquale, Joanne. (2019). <i>Singapore Shophouse Walks: Chinatown, Blair Plain, Duxton Hill, Tanjong Pagar</i>. Singapore: Kildi Photo. (Call no.: RSING 728.3 KIL) 
 <br>
-<img style="width:200px;" src="/images%2FSingapore%20Traditional%20Games/games_hfwtg.png">
-<p> This booklet introduces readers to traditional games in Singapore such as gasing (top-spinning), main lereng (bicycle rim), tapak kuda (tin-walking), capteh, goli panjang (marbles), Chinese hopscotch, bola tin, keleret, tick-tock, galah panjang, congkak, and five stones.</p>
+<img style="width:200px;" src="/images%2FSingapore%Shophouses/shophouse_ct.png">
+<p>This book is a sequel to the book on Joo Chiat, Katong, and Geylang. Similar to the first book, the photographs are also accompanied by brief explanations of the history of the area, the symbols used to decorade the façade, and peppered with anecdotes from its inhabitants, as well as street mural artists.</p>
 
 
-<h5>Inventory of ASEAN Traditional Games and Sports</h5>
-Inon Shaharuddin Abdul Rahman (ed.). (1998). <i>Inventory of ASEAN Traditional Games and Sports</i>. Malaysia: ASEAN Committee on Culture and Information. (Call no.: RSING 796.0959 INV) 
+
+<h5>The Functional Shophouse</h5>
+Tan, Sylvia S. H., Chia, Josephina, Chua, May, D’Silva, Julia, Iyer, Jane, Goh, Brenda, Tahir, Ibrahim, and Yeo, Sharon. <i>The Functional Shophouse</i>. Singapore: OPUS Editorial Pte Ltd. (Call no.: RSING 725.21095957 FUN)
 <br>
-<img style="width:200px;" src="/images%2FSingapore%20Traditional%20Games/games_ioatg.png">
-<p>This book covers the various traditional games and sports from Brunei, Indonesia, Malaysia, Philippines, Singapore, and Thailand.</p>
+<img style="width:200px;" src="/images%2FSingapore%Shophouses/shophouse_func.png">
+<p>This small booklet presents photos and information regarding the shophouses in a few Singapore historic districts such as Chinatown and Little India, and includes images of the inside of some shophouses, which include some businesses as well as residences.</p>
+
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
