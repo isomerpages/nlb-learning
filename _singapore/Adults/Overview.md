@@ -113,8 +113,8 @@ Singapore history and heritage are steeped in our everyday lives without us bein
   </div>
 	 <div class="col is-one-third">
     <div class="clickbox is-mint-jade">
-      <a href="/singapore/adults/shophouses/">
-        <span>Content - Shophouses</span>
+      <a href="/singapore/adults/urbanredevelopment/">
+        <span>Content - Urban Redevelopment</span>
       </a>
     </div>
   </div>
