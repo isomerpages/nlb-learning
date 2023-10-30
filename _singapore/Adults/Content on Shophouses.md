@@ -191,7 +191,7 @@ Kildisheva, Tatyana, Edmonson, Lisa, and Pasquale, Joanne. (2021). <i>Singapore 
 <h5> Singapore Shophouse Walks: Chinatown, Blair Plain, Duxton Hill, Tanjong Pagar</h5>
 Kildisheva, Tatyana, Trench, Shona, and Pasquale, Joanne. (2019). <i>Singapore Shophouse Walks: Chinatown, Blair Plain, Duxton Hill, Tanjong Pagar</i>. Singapore: Kildi Photo. (Call no.: RSING 728.3 KIL) 
 <br>
-<img style="width:200px;" src="/images%2FSingapore%Shophouses/shophouse_ct.png">
+<img style="width:200px;" src="/images%2FSingapore%20Shophouses/shophouse_ct.png">
 <p>This book is a sequel to the book on Joo Chiat, Katong, and Geylang. Similar to the first book, the photographs are also accompanied by brief explanations of the history of the area, the symbols used to decorade the façade, and peppered with anecdotes from its inhabitants, as well as street mural artists.</p>
 
 
@@ -199,7 +199,7 @@ Kildisheva, Tatyana, Trench, Shona, and Pasquale, Joanne. (2019). <i>Singapore S
 <h5>The Functional Shophouse</h5>
 Tan, Sylvia S. H., Chia, Josephina, Chua, May, D’Silva, Julia, Iyer, Jane, Goh, Brenda, Tahir, Ibrahim, and Yeo, Sharon. <i>The Functional Shophouse</i>. Singapore: OPUS Editorial Pte Ltd. (Call no.: RSING 725.21095957 FUN)
 <br>
-<img style="width:200px;" src="/images%2FSingapore%Shophouses/shophouse_func.png">
+<img style="width:200px;" src="/images%2FSingapore%20Shophouses/shophouse_func.png">
 <p>This small booklet presents photos and information regarding the shophouses in a few Singapore historic districts such as Chinatown and Little India, and includes images of the inside of some shophouses, which include some businesses as well as residences.</p>
 
 
