@@ -112,13 +112,11 @@ The video gives a brief history of shophouses in Singapore, before showcasing �
 <br>
 
 
-<div class="col is-three-fifths">
 <p><b><a href="https://youtu.be/ymAOycXfprM?si=tTgaAvVCYdeEPqwq">A tale of two shophouses | Katong News Agency &amp; Shanghai Chen Hin Dry-cleaning (7 mins)</a></b>
 <br>A video about two businesses in the same shophouse row. “Katong News Agency, which opened in 1955, is shutting down after 67 years in business. Its neighbour, Shanghai Chen Hin Dry-cleaning, the oldest occupant in the same row of shophouses, continues to do business.”
 <br><br>
 <small>A tale of two shophouses | Katong News Agency &amp; Shanghai Chen Hin Dry-cleaning. (2022, July 11). Straits Times. Retrieved 2023, October 20.
 </small></p>
-</div>
 
 
 
@@ -126,12 +124,10 @@ The video gives a brief history of shophouses in Singapore, before showcasing �
 <br>
 
 
-<div class="col is-three-fifths">
 <p><b><a href="https://youtu.be/GLwztC7E8SI?si=dkkyEj6BDwwHh5lN">Are Shophouses in Singapore an Evergreen Asset Class? | Business Times (6 mins)</a></b>
 <br> This video looks at shophouses from a business perspective. “The first half of 2021 saw shophouse transactions in Singapore hit S$860 million, 96% more than the total sales generated from the entire 2020. What is fuelling the demand for shophouses and how has the rise of co-living contributed to this trend?” <br><br>
 <small> Source: Are Shophouses in Singapore an Evergreen Asset Class? (2021, December 30). Business Times. Retrieved 2023, October 20.
 </small></p>
-</div>
 
 
 
@@ -161,7 +157,7 @@ These curated set of articles and books will help you understand more about shop
 </p><h4>Articles</h4>
 
 <h5>Singapore Shophouses: Conserving a Landscape Tradition by Victor R. Savage</h5>
-<p> This article looks at the "origins, growth, demise and conservation of the shophouse in Singapore. "</p>
+<p> This article looks at the "origins, growth, demise and conservation of the shophouse in Singapore."</p>
 Source: Savage, Victor R. (2001). "Singapore Shophouses: Conserving a Landscape Tradition. <i>SPAFA Journal</i> Vol 11 No. 1 (January-April): 5-22. (Call no. RSEA SER 959 SPAFAJ)
 
 
