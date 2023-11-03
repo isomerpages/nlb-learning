@@ -44,12 +44,21 @@ Tweenkerama gives tweens aged 10-13 years the opportunity to learn and explore t
 Click [here](https://go.gov.sg/nlb-events){:target="_blank"} for the latest programme listings. Stay tuned for more updates.
 
 ## **S.T.E.A.M. Lab**
-![STEAM Lab](/images/science-lfa-updates/STEAM-Lab.png)
-An annual event for children and teens aged 7-17 years to engage in an all-round tinkering experience on S.T.E.A.M. topics through hands-on activities.
+![Steam Lab Banner](/images/Steam%20Lab%202023/steam%20lab%202023.png)
 
-Click [here](https://childrenandteens.nlb.gov.sg/events/steamlab2022/programmelineup) for the latest programme listings. Stay tuned for more updates.
+##### About the Event
 
+###### S.T.E.A.M. Lab is a two-day learning and tinkering carnival for children and teens!
 
+Enjoy various interactive booths exploring thrilling experiences and new technologies, featuring virtual reality, robotics, gerontech and even deep space objects. You’ll even get to redeem an exclusive S.T.E.A.M. Activity Pack when you learn and play at S.T.E.A.M. Lab!
+
+**<center>Join us at S.T.E.A.M. Lab 2023!<br>
+18 and 19 November 2023<br>
+11am - 5pm<br>
+Woodlands Regional Library**
+##### [Find out more!](https://learning.nlb.gov.sg/science/children/steamlab/)
+</center>
+	
 ## **Spark!Lab™**
 ![](/images/sparklab%20edm%20(800%20×%20800px)%20(1).png)
 
