@@ -240,9 +240,9 @@ The Residential Historic Districts of Emerald Hill, Cairnhill, and Blair Plain w
 Explore these resources to delve deeper into the cultural significance and architectural beauty of Singapore's Residential Historic Districts.
 
 <p><b> <a href="https://www.youtube.com/embed/tq64PweS0As?si=00PVGATUEVblqZ3Y">Emerald Hill | Urban Redevelopment Authority</a> (9:22 mins) </b><br>
-</p><p><b> Emerald Hill, once plantation land, boasts a collection of terrace houses with diverse architectural styles ranging from Transitional Shophouse to Art Deco Styles. This video explores the features adorning the shophouses of this area including the ornate pintu-pagars (fence doors of the front entrance), ceramic tilework, plaster work, and wood carvings. 
+</p><p>Emerald Hill, once plantation land, boasts a collection of terrace houses with diverse architectural styles ranging from Transitional Shophouse to Art Deco Styles. This video explores the features adorning the shophouses of this area including the ornate pintu-pagars (fence doors of the front entrance), ceramic tilework, plaster work, and wood carvings. 
 <br><br>
-<small> Source: Emerald Hill (2022, Nov 15). Urban Redevelopment Authority. Retrieved 2023, Nov 3.</small></b></p><b>
+<small> Source: Emerald Hill (2022, Nov 15). Urban Redevelopment Authority. Retrieved 2023, Nov 3.</small></p>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
@@ -444,4 +444,3 @@ Foo, Su Ling, Lim Chen Sian, Wee Sheau Theng, and Yeo Kang Shua. (2016). <i> NUS
 <p> The NUS Baba House is a three-storey townhouse in the Blair Plain conservation area. This illustrated guidebook is for its visitors and those interested in Southeast Asia's social history. It features detailed photography and researched explanations of the house's objects and ornamental motifs, giving the reader a view into the domestic life of the Straits Chinese who used to lived in there.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-</b>
