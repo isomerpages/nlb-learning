@@ -311,7 +311,7 @@ Source: Lim, Jon S. H. (2016).  The  Shophouse Rafflesia: An Outline of Its Mala
 <h5>Singapore Shophouse Walks: Joo Chiat, Katong, Geylang</h5>
 Kildisheva, Tatyana, Edmonson, Lisa, and Pasquale, Joanne. (2021). <i>Singapore Shophouse Walks: Joo Chiat, Katong, Geylang</i>. 2nd edition. Singapore: Kildi Photo. (Call no.: RSING 728.3 KIL) 
 <br>
-<img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/shophouse_jc.png">
+<img style="width:200px;" src="/images/Singapore%20Urban%20Redevelopment/shophouse_jc.png">
 <p> This colourful book presents a photo documentation of the front fa ade of residential shophouses in the Joo Chiat, Katong, and Geylang area. The photographs are accompanied by brief explanations of the history of the area, the symbols used to decorade the fa ade, and peppered with lively anecdotes from its inhabitants.</p>
 
 
