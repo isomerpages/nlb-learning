@@ -311,7 +311,7 @@ Source: Lim, Jon S. H. (2016).  The  Shophouse Rafflesia: An Outline of Its Mala
 <h5>Singapore Shophouse Walks: Joo Chiat, Katong, Geylang</h5>
 Kildisheva, Tatyana, Edmonson, Lisa, and Pasquale, Joanne. (2021). <i>Singapore Shophouse Walks: Joo Chiat, Katong, Geylang</i>. 2nd edition. Singapore: Kildi Photo. (Call no.: RSING 728.3 KIL) 
 <br>
-<img style="width:200px;" src="/images%2FSingapore%20Shophouses/shophouse_jc.png">
+<img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/shophouse_jc.png">
 <p> This colourful book presents a photo documentation of the front fa ade of residential shophouses in the Joo Chiat, Katong, and Geylang area. The photographs are accompanied by brief explanations of the history of the area, the symbols used to decorade the fa ade, and peppered with lively anecdotes from its inhabitants.</p>
 
 
@@ -319,7 +319,7 @@ Kildisheva, Tatyana, Edmonson, Lisa, and Pasquale, Joanne. (2021). <i>Singapore 
 <h5> Singapore Shophouse Walks: Chinatown, Blair Plain, Duxton Hill, Tanjong Pagar</h5>
 Kildisheva, Tatyana, Trench, Shona, and Pasquale, Joanne. (2019). <i>Singapore Shophouse Walks: Chinatown, Blair Plain, Duxton Hill, Tanjong Pagar</i>. Singapore: Kildi Photo. (Call no.: RSING 728.3 KIL) 
 <br>
-<img style="width:200px;" src="/images%2FSingapore%20Shophouses/shophouse_ct.png">
+<img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/shophouse_ct.png">
 <p>This book is a sequel to the book on Joo Chiat, Katong, and Geylang. Similar to the first book, the photographs are also accompanied by brief explanations of the history of the area, the symbols used to decorade the fa ade, and peppered with anecdotes from its inhabitants, as well as street mural artists.</p>
 
 
@@ -327,7 +327,7 @@ Kildisheva, Tatyana, Trench, Shona, and Pasquale, Joanne. (2019). <i>Singapore S
 <h5>The Functional Shophouse</h5>
 Tan, Sylvia S. H., Chia, Josephina, Chua, May, D Silva, Julia, Iyer, Jane, Goh, Brenda, Tahir, Ibrahim, and Yeo, Sharon. <i>The Functional Shophouse</i>. Singapore: OPUS Editorial Pte Ltd. (Call no.: RSING 725.21095957 FUN)
 <br>
-<img style="width:200px;" src="/images%2FSingapore%20Shophouses/shophouse_func.png">
+<img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/shophouse_func.png">
 <p>This small booklet presents photos and information regarding the shophouses in a few Singapore historic districts such as Chinatown and Little India, and includes images of the inside of some shophouses, which include some businesses as well as residences.</p>
 
 
@@ -372,25 +372,25 @@ Source: Ong, Christopher, <a href="https://www.nlb.gov.sg/main/article-detail?cm
 <h5> Historic area: conservation guidelines for Boat Quay conservation area</h5>
 Urban Redevelopment Authority. (1991). <i> Historic area: conservation guidelines for Boat Quay conservation area.</i> Singapore: Urban Redevelopment Authority (Call no. RSING 363.69095957 HIS)
 <br>
-<a><img style="width:200px;" src="/images/Historic%20Districts/boatquaycon.jpg"></a>
+<a><img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/boatquaycon.jpg"></a>
 <p> This is a documentation on the conservation of Boat Quay. It is divided into three parts: the history and architectural characteristics of the area, general development guidelines, and general restoration guidelines.</p>
 
 <h5> Chinatown: historic district</h5>
 Urban Redevelopment Authority. (1995). <i>Chinatown: historic district.</i> Singapore: Urban Redevelopment Authority (Call no. RSING 363.69095957 CHI)
 <br>
-<a><img style="width:200px;" src="/images/Historic%20Districts/chinatown.jpg"></a>
+<a><img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/chinatown.jpg"></a>
 <p> Chinatown was one of the historical areas identified in URA s Conservation Master Plan. Policies focused on conserving multi-ethnic and colonial built heritage to promote tourism and preserve local identity are reflected in this publication.</p>
 
 <h5> Leluhur: Singapore's Kampong Gelam</h5>
 Hidayah Amin. (2019). <i> Leluhur: Singapore's Kampong Gelam.</i> Singapore: Helang Books (Call no. RSING 305.8992805957 HID)
 <br>
-<a><img style="width:200px;" src="/images/Historic%20Districts/leluhur.jpg"></a>
+<a><img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/leluhur.jpg"></a>
 <p> Kampong Gelam was established two centuries ago with the signing of a treaty between Sultan Hussein Mohamed Shah, Temenggong Abdul Rahman and Sir Stamford Raffles of the East India Company. It was once the centre of trade and commerce connecting Singapore to the rest of the Malay Archipelago, and served as a religious, intellectual, and social hub for the Malays in Singapore. In 1989, it was gazetted as a conservation area.</p>
 
 <h5> Once upon a time in Little India</h5>
 Indian Heritage Centre. (2019). <i> Once upon a time in Little India.</i> Singapore: Indian Heritage Centre (Call no. RSING 305.8914 ONC)
 <br>
-<a><img style="width:200px;" src="/images/Historic%20Districts/onclittleindia.jpg"></a>
+<a><img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/onclittleindia.jpg"></a>
 <p> The Indian Heritage Centre held an exhibition in 2017 called "Once Upon a Time in Little India", and this publication serves as the accompanying catalogue. It tells the story of Singapore s Little India through historical and contemporary lenses, and draws parallels with diasporic settlements across the globe.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
@@ -429,18 +429,18 @@ Source: Thulaja, Naidu Ratnala. <a target="_blank" href="https://www.nlb.gov.sg/
 
 <h5> Emerald Hill: the story of a street in words and pictures</h5>
 Lee, Kip Lin. (1984). <i> Emerald Hill: the story of a street in words and pictures.</i> Singapore: National Museum Singapore (Call no. RSING 959.57 LEE-[HIS])<br>
-<a><img style="width:200px;" src="/images/ResidentialHD/emeraldhill.jpg"></a>
+<a><img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/emeraldhill.jpg"></a>
 <p> This book delves not only into the history of Emerald Hill and its roads, but also details the architectural styles of the area. It was written by Lee Kip Lin, who was an architect, professor, and a mentor to prominent local architects. Throughout his life, Lee was a vocal advocate for the conservation of old buildings in Singapore.</p>
 
 <h5> Nutmeg, and a touch of spice: the story of Cairnhill Road</h5>
 Siddique, Sharon. (2000). <i> Nutmeg, and a touch of spice: the story of Cairnhill Road. </i> Singapore: Sembawang Properties (Call no.: RSING 959.57 SID-[HIS])
 <br>
-<a><img style="width:200px;" src="/images/ResidentialHD/cairnhillroad.jpg"></a>
+<a><img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/cairnhillroad.jpg"></a>
 <p> This book delves into the history of Cairnhill, exploring the stories of its plantations, buildings, and personalities, while tracing the area's transformation over time.</p>
 
 <h5> NUS Baba House: architecture and artefacts of a Straits Chinese home</h5>
 Foo, Su Ling, Lim Chen Sian, Wee Sheau Theng, and Yeo Kang Shua. (2016). <i> NUS Baba House: architecture and artefacts of a Straits Chinese home.</i> Singapore: NUS Baba House; Editions Didier Millet (Call no. RSING 728.089951059 FOO)<br>
-<a><img style="width:200px;" src="/images/ResidentialHD/nusbabahouse.jpg"></a>
+<a><img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/nusbabahouse.jpg"></a>
 <p> The NUS Baba House is a three-storey townhouse in the Blair Plain conservation area. This illustrated guidebook is for its visitors and those interested in Southeast Asia's social history. It features detailed photography and researched explanations of the house's objects and ornamental motifs, giving the reader a view into the domestic life of the Straits Chinese who used to lived in there.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
