@@ -239,20 +239,10 @@ The Residential Historic Districts of Emerald Hill, Cairnhill, and Blair Plain w
 
 Explore these resources to delve deeper into the cultural significance and architectural beauty of Singapore's Residential Historic Districts.
 
-<br>
-<div class="row is-multiline margin--bottom--lg">
-<div class="col is-two-fifths">
-<div class="responsive-iframe-container ratio-16by9">
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/tq64PweS0As?si=00PVGATUEVblqZ3Y"></iframe>
-</div>
-</div>
-<div class="col is-three-fifths">
-<p><b> Emerald Hill | Urban Redevelopment Authority (9:22 mins) </b><br>
+<p><b> <a href="https://www.youtube.com/embed/tq64PweS0As?si=00PVGATUEVblqZ3Y">Emerald Hill | Urban Redevelopment Authority</a> (9:22 mins) </b><br>
 </p><p><b> Emerald Hill, once plantation land, boasts a collection of terrace houses with diverse architectural styles ranging from Transitional Shophouse to Art Deco Styles. This video explores the features adorning the shophouses of this area including the ornate pintu-pagars (fence doors of the front entrance), ceramic tilework, plaster work, and wood carvings. 
 <br><br>
 <small> Source: Emerald Hill (2022, Nov 15). Urban Redevelopment Authority. Retrieved 2023, Nov 3.</small></b></p><b>
-</b></div><b>
-</b></div><b>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
