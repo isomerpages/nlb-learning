@@ -240,9 +240,9 @@ The Residential Historic Districts of Emerald Hill, Cairnhill, and Blair Plain w
 Explore these resources to delve deeper into the cultural significance and architectural beauty of Singapore's Residential Historic Districts.
 
 <p><b> <a href="https://www.youtube.com/embed/tq64PweS0As?si=00PVGATUEVblqZ3Y">Emerald Hill | Urban Redevelopment Authority</a> (9:22 mins) </b><br>
-</p><p>Emerald Hill, once plantation land, boasts a collection of terrace houses with diverse architectural styles ranging from Transitional Shophouse to Art Deco Styles. This video explores the features adorning the shophouses of this area including the ornate pintu-pagars (fence doors of the front entrance), ceramic tilework, plaster work, and wood carvings. 
+</p><p><b> Emerald Hill, once plantation land, boasts a collection of terrace houses with diverse architectural styles ranging from Transitional Shophouse to Art Deco Styles. This video explores the features adorning the shophouses of this area including the ornate pintu-pagars (fence doors of the front entrance), ceramic tilework, plaster work, and wood carvings. 
 <br><br>
-<small> Source: Emerald Hill (2022, Nov 15). Urban Redevelopment Authority. Retrieved 2023, Nov 3.</small></p>
+<small> Source: Emerald Hill (2022, Nov 15). Urban Redevelopment Authority. Retrieved 2023, Nov 3.</small></b></p><b>
 
 <br>
 <div class="row is-multiline margin--bottom--lg">
@@ -355,7 +355,7 @@ Learn more about Singapore's Historic Districts from these articles and books be
 <p> Singapore's Urban Redevelopment Authority (URA) unveiled its first Conservation Master Plan in 1986, identifying six historical areas for conservation: Chinatown, Kampong Glam, Little India, Singapore River, Emerald Hill and the Heritage Link, which connects Empress Place, Fort Canning Park and Bras Basah Road. This master plan is the first conservation blueprint of Singapore s built heritage.</p>
 Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=c90b40e3-9370-485b-99a6-6f761fed3b35"> URA announces its Conservation Master Plan (2014). <i>Singapore Infopedia.</i> Retrieved 2023, Nov 3.
 
-</a><h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=c90b40e3-9370-485b-99a6-6f761fed3b35"></a><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=e965a1df-e1be-4016-a1a1-dc86bc2bc107"> Chinatown by Cornelius-Takahama, Vernon</a></h5>
+</a><h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=c90b40e3-9370-485b-99a6-6f761fed3b35"></a><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=c90b40e3-9370-485b-99a6-6f761fed3b35"></a><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=e965a1df-e1be-4016-a1a1-dc86bc2bc107"> Chinatown by Cornelius-Takahama, Vernon</a></h5>
 <p>In his 1822 master Town Plan, Sir Stamford Raffles allocated the whole area west of the Singapore River for a Chinese settlement known as the Chinese Campong (kampong in Malay means  village ), envisaging that the Chinese would form the bulk of future town dwellers. Singapore, the new land of opportunity then, had attracted many immigrants from China, who expanded the original boundaries of this economically and culturally vibrant, self-contained town. </p>
 Source: Cornelius-Takahama, Vernon, <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=e965a1df-e1be-4016-a1a1-dc86bc2bc107" target="_blank"> Chinatown </a> (2020, Jan).<i> Singapore Infopedia.</i> Retrieved 2023, Nov 3.
 
@@ -444,3 +444,4 @@ Foo, Su Ling, Lim Chen Sian, Wee Sheau Theng, and Yeo Kang Shua. (2016). <i> NUS
 <p> The NUS Baba House is a three-storey townhouse in the Blair Plain conservation area. This illustrated guidebook is for its visitors and those interested in Southeast Asia's social history. It features detailed photography and researched explanations of the house's objects and ornamental motifs, giving the reader a view into the domestic life of the Straits Chinese who used to lived in there.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+</b>
