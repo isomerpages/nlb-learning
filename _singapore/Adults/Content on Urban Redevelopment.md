@@ -94,7 +94,14 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
 </a>	
 </div>
 </div>
+<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-secondary-settlements">
+<span>Learning Package:<br>Secondary Settlements</span>
+</a>	
 </div>
+</div>
+	</div>
 
 <h3><b>Playlist</b></h3>
 A collection of short videos exploring shophouses in Singapore.
@@ -537,5 +544,71 @@ Siddique, Sharon. (2000). <i> Nutmeg, and a touch of spice: the story of Cairnhi
 Foo, Su Ling, Lim Chen Sian, Wee Sheau Theng, and Yeo Kang Shua. (2016). <i> NUS Baba House: architecture and artefacts of a Straits Chinese home.</i> Singapore: NUS Baba House; Editions Didier Millet (Call no. RSING 728.089951059 FOO)<br>
 <a><img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/nusbabahouse.jpg"></a>
 <p> The NUS Baba House is a three-storey townhouse in the Blair Plain conservation area. This illustrated guidebook is for its visitors and those interested in Southeast Asia's social history. It features detailed photography and researched explanations of the house's objects and ornamental motifs, giving the reader a view into the domestic life of the Straits Chinese who used to lived in there.</p>
+
+<h3><b>Learning Package</b></h3>
+<h5 id="lp-secondary-settlements" class="margin--bottom--lg"><b> Secondary settlements</b></h5>
+
+<p> Secondary settlements capture the history of Singapore’s urban transformation. Developed from the 1900s to the 1960s, the buildings in these areas make up the transitional urban areas between the historic districts of the city centre and the newer satellite towns. Low-rise shophouses of different architectural styles can be found in secondary settlements. They intersperse with high-rise developments from later decades, creating an interesting streetscape that mixes heritage and modernity.</p>
+
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> The recognition of Joo Chiat as a historic district started in 1991 when 518 buildings in the area were gazetted for conservation. In 1993, Joo Chiat was designated a conservation area. In 2011, Joo Chiat became Singapore’s first Heritage Town. </li> 
+</ul>
+</td>
+</tr></tbody></table>
+
+Learn more about the preservation of built heritage in Singapore and some of our secondary settlement conservation areas through the resources below. 
+
+<h4>Articles</h4>
+
+<h5><a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/preservation-buildings/"> To Wreck or to Recreate: Giving New Life to Singapore’s Built Heritage</a></h5>
+<p> From individual buildings and landmarks to entire areas and districts, how has the conservation and preservation of built heritage in Singapore grown and evolved? This article tells the story of urban conservation and preservation in Singapore.    
+</p> 
+Source:  <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/preservation-buildings/"> To Wreck or to Recreate: Giving New Life to Singapore’s Built Heritage </a>(2019, July-September).<i>BiblioAsia. </i> Retrieved 2023, November 14.
+
+<h5><a target="_blank" href="https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Conservation-Guidelines/Part-2-Planning-Parameters-and-Restoration-Guidelines/Secondary-Settlement"> Secondary Settlements</a></h5>
+<p> This resource contains the conservation guidelines for secondary settlements in Singapore. Features brief historical and architectural highlights about each settlement, as well as conservation plans that show the boundary of the conservation areas, buildings to be conserved, national monuments to be preserved, and the envelope control sites. 
+</p>
+Source: <a target="_blank" href="https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Conservation-Guidelines/Part-2-Planning-Parameters-and-Restoration-Guidelines/Secondary-Settlement"> Secondary Settlements </a> (2023, September). Urban Redevelopment Authority. Retrieved 2023, November 14.
+
+<h5><a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/karikal/">Karikal Mahal: The Lost Palace of a Fallen Cattle King</a></h5>
+<p> No. 25 and No. 26 Still Road are conserved buildings within Joo Chiat. They were originally part of a private residence, known as Karikal Mahal, and had included a third building. This article uncovers the fascinating history behind Karikal Mahal and its subsequent transformation.
+</p> 
+Source: <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/karikal/"> Karikal Mahal: The Lost Palace of a Fallen Cattle King </a>(2020, October-December).<i>BiblioAsia</i> Retrieved 2023, November 14.
+<h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=fefa9f00-de04-40f5-bf77-2aa13893d352"> Former Victoria School building </a></h5>
+<p> The former Victoria School building is an architectural landmark in Jalan Besar. Designed by architect Frank Dorrington Ward (who also designed the former Supreme Court), two blocks of the former Victoria School were gazetted for conservation in 2007.
+</p> 
+Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=fefa9f00-de04-40f5-bf77-2aa13893d352"> Former Victoria School building </a>(2013).<i>Singapore Infopedia</i> Retrieved 2023, November 14.
+
+<h4> Books </h4>
+
+<h5>Singapore shophouse walks : Joo Chiat, Katong, Geylang</h5>
+Kildisheva, Tatyana (2021). <i> Singapore shophouse walks : Joo Chiat, Katong, Geylang </i> [Singapore]: [Kildi Photo]. (Call no.: RSING 728.3 KIL)
+<br>
+<img style="width:200px;" src="/images/TiongBahruTrail.png">
+<p> The area bounded by Seng Poh Road, Outram Road and Tiong Poh Road in Tiong Bahru was designated a conservation area in 2003. It includes the first public housing estate in Singapore, comprising 20 blocks of 2-to-5 storey flats built by the Singapore Improvement Trust (also known as SIT flats) in the 1930s. Explore the history and architecture of Tiong Bahru through this guide. </p>
+
+<h5> Balestier : a heritage trail : a companion guide
+</h5>
+-. (2018). <i> Balestier : a heritage trail : a companion guide </i> Singapore: National Heritage Board. (Call no.: RSING 959.57 BAL -[HIS]) 
+<br>
+<img style="width:200px;" src="/images/BalestierTrail.png">
+<p> Named after Joseph Balestier, the first American Consul to Singapore, the Balestier area was given conservation status in 2003. This guide presents the history and social memories of the area through notable landmarks, including the conserved shophouses and terrace houses along Balestier Road.</p>
+
+<h5> The urban history of Jalan Besar </h5>
+Woo, Pui Leng (2010). <i> The urban history of Jalan Besar </i> Singapore: Urban Redevelopment Authority. (Call no.: RSING 720.95957 WOO)
+
+<br>
+<img style="width:200px;" src="/images/UrbanHistoryJalanBesar.png">
+<p>Jalan Besar was first given conservation status in 1991. This booklet traces the area’s urban development and highlights examples of houses and flats built in a variety of architectural styles between 1880s and 1960s. Also covers industrial structures, places of entertainment, open spaces, religious landmarks, and hotels. Includes photographs and plans.</p>
+
+<h5> Joo Chiat: a living legacy </h5>
+Kong, Lily and T. C. Chang. (2001). <i> Joo Chiat: a living legacy </i> Singapore: Joo Chiat Citizens' Consultative Committee in association with National Archives of Singapore. (Call no.: RSING q959.57 KON -[HIS])
+<br>
+<img style="width:200px;" src="/images/JooChiatLivingLegacy.png">
+<p> Highlights the history and culture of Joo Chiat from the early 19th century until the 1990s. Covers Joo Chiat’s economic and community life, physical transformation, and urban conservation, including the rejuvenation of conserved shophouses, and the area’s growth as a cultural attraction for visitors to Singapore. </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
