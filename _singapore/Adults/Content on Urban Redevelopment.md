@@ -588,27 +588,27 @@ Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsu
 <h5> Tiong Bahru : heritage trail</h5>
 -. (2013). <i> Tiong Bahru : heritage trail </i> Singapore: National Heritage Board. (Call no.: RSING  915.95704 TIO -[TRA])
 <br>
-<img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/TiongBahruTrail.png">
+<img style="width:200px;" src="/images/Singapore%20Urban%20Redevelopment/TiongBahruTrail.png">
 <p> The area bounded by Seng Poh Road, Outram Road and Tiong Poh Road in Tiong Bahru was designated a conservation area in 2003. It includes the first public housing estate in Singapore, comprising 20 blocks of 2-to-5 storey flats built by the Singapore Improvement Trust (also known as SIT flats) in the 1930s. Explore the history and architecture of Tiong Bahru through this guide. </p>
 
 <h5> Balestier : a heritage trail : a companion guide
 </h5>
 -. (2018). <i> Balestier : a heritage trail : a companion guide </i> Singapore: National Heritage Board. (Call no.: RSING 959.57 BAL -[HIS]) 
 <br>
-<img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/BalestierTrail.png">
+<img style="width:200px;" src="/images/Singapore%20Urban%20Redevelopment/BalestierTrail.png">
 <p> Named after Joseph Balestier, the first American Consul to Singapore, the Balestier area was given conservation status in 2003. This guide presents the history and social memories of the area through notable landmarks, including the conserved shophouses and terrace houses along Balestier Road.</p>
 
 <h5> The urban history of Jalan Besar </h5>
 Woo, Pui Leng (2010). <i> The urban history of Jalan Besar </i> Singapore: Urban Redevelopment Authority. (Call no.: RSING 720.95957 WOO)
 
 <br>
-<img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/UrbanHistoryJalanBesar.png">
+<img style="width:200px;" src="/images/Singapore%20Urban%20Redevelopment/UrbanHistoryJalanBesar.png">
 <p>Jalan Besar was first given conservation status in 1991. This booklet traces the area’s urban development and highlights examples of houses and flats built in a variety of architectural styles between 1880s and 1960s. Also covers industrial structures, places of entertainment, open spaces, religious landmarks, and hotels. Includes photographs and plans.</p>
 
 <h5> Joo Chiat: a living legacy </h5>
 Kong, Lily and T. C. Chang. (2001). <i> Joo Chiat: a living legacy </i> Singapore: Joo Chiat Citizens' Consultative Committee in association with National Archives of Singapore. (Call no.: RSING q959.57 KON -[HIS])
 <br>
-<img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/JooChiatLivingLegacy.png">
+<img style="width:200px;" src="/images/Singapore%20Urban%20Redevelopment/JooChiatLivingLegacy.png">
 <p> Highlights the history and culture of Joo Chiat from the early 19th century until the 1990s. Covers Joo Chiat’s economic and community life, physical transformation, and urban conservation, including the rejuvenation of conserved shophouses, and the area’s growth as a cultural attraction for visitors to Singapore. </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
