@@ -608,7 +608,7 @@ Woo, Pui Leng (2010). <i> The urban history of Jalan Besar </i> Singapore: Urban
 <h5> Joo Chiat: a living legacy </h5>
 Kong, Lily and T. C. Chang. (2001). <i> Joo Chiat: a living legacy </i> Singapore: Joo Chiat Citizens' Consultative Committee in association with National Archives of Singapore. (Call no.: RSING q959.57 KON -[HIS])
 <br>
-<img style="width:200px;" src="/images/Singapore%20Urban%20Redevelopment/JooChiatLivingLegacy.png">
+<img style="width:200px;" src="/images/Singapore%20Urban%20Redevelopment/JooChiatLivingLegacy.PNG">
 <p> Highlights the history and culture of Joo Chiat from the early 19th century until the 1990s. Covers Joo Chiat’s economic and community life, physical transformation, and urban conservation, including the rejuvenation of conserved shophouses, and the area’s growth as a cultural attraction for visitors to Singapore. </p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
