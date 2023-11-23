@@ -66,6 +66,13 @@ Learn on the go. Check out our **playlists** for collections of short videos, an
       </a>
     </div>
   </div>
+	 <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#secondary-settlements">
+        <span>Playlist: Secondary Settlements</span>
+      </a>
+    </div>
+  </div>
 <div class="col is-one-third">
 <div class="clickbox is-mint-jade">
 <a href="#lp-shophouses">
@@ -261,6 +268,84 @@ Blair Plain is a conservation area comprising two-and three- storey shophouses a
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<h3><b>Playlist</b></h3>
+A collection of short videos about secondary settlements in Singapore.
+
+<h5 id="national-symbols" class="margin--bottom--lg"><b>Playlist: Secondary Settlements </b></h5>
+
+According to URA, “secondary settlements” refer to areas in Singapore that developed outside of the city centre between 1900s and 1960s. These can be found in Balestier, Beach Road, Geylang, Jalan Besar, Jalan Jurong Kechil, Joo Chiat, Mount Sophia, River Valley, Tanjong Katong, Upper Circular Road and Tiong Bahru. Shophouses and bungalows in various styles form the historic streetscapes of these conservation areas. Together they tell stories of Singapore’s urban development and architectural heritage. 
+
+Learn more about secondary settlements through the resources below:
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/84T4WRSnIyM"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Balestier | Urban Redevelopment Authority (8 mins) </b><br>
+The Balestier conservation area is located along Balestier Road, between Thomson Road and Moulmein Road. This video showcases the mix of historic shophouses that give Balestier its unique identity. Interviewees, including the resident of a conserved shophouse, share their impressions and memories of the place. <br><br>
+<small> Source: Balestier | Urban Redevelopment Authority (2021, Nov 24). Retrieved 2023, November 14. </small></p>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/ 52P1W9ZOMdA"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Geylang | Urban Redevelopment Authority (7 mins)</b><br>
+The Geylang conservation area stretches along Geylang Road and selected lorongs (lanes). This video sheds light on the colourful history, heritage, and evolving character of Geylang beyond its reputation as a hub for vice.
+<br><br>
+<small> Geylang: Not Just The Seedy Underbelly Of Singapore | On The Red Dot | CNA Insider (2023, Jun 13). Retrieved 2023, November 14.</small></p>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/FP3ceLXpvzk"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Jalan Besar | Urban Redevelopment Authority (5 mins) </b><br>
+The Jalan Besar conservation area stretches along Jalan Besar and Foch Road, the upper portions of Tessensohn Road, Race Course Road and Tyrwhitt Road, along Cavan Road and Hamilton Road, parts of Serangoon Road, Lavender Street, Kitchener Road, Sam Leong Road, Maude Road, and includes terrace houses along Petain Road. This video highlights the Henghua community that have historically settled in Jalan Besar.<br><br>
+<small> Source: Jalan Besar | Urban Redevelopment Authority (2022, Nov 15). Retrieved 2023, November 14.</small></p>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/ bTXulFJ7Zq4"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> River Valley | Urban Redevelopment Authority (10 mins)</b><br>
+The River Valley conservation area is located next to Robertson Quay to the south of River Valley Road. It includes buildings along parts of River Valley Road, Mohamed Sultan Road, Tong Watt Road, and Kim Yam Road. Interviews in this video delve into the area’s past and the changes it has since witnessed. The Hong San See Temple, a national monument, is featured.<br><br>
+<small> Source: River Valley | Urban Redevelopment Authority (2021, Nov 24). Retrieved 2023, November 14.</small></p>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/xeBzlC7BqX0"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Tanjong Katong | Urban Redevelopment Authority (9 mins)</b><br>
+The Tanjong Katong conservation area is located along Tanjong Katong Road, between Dunman Road and Mountbatten Road. This video highlights the memories of a shop owner and alumni of the former Tanjong Katong Girls School, one of the conserved buildings in Tanjong Katong.<br><br>
+<small> Source: Tanjong Katong | Urban Redevelopment Authority (2022, Nov 15). Retrieved 2023, November 14.</small></p>
+</div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+	
 <h3><b>Learning Package</b></h3>
 <h5 class="margin--bottom--lg" id="lp-shophouses"><b>Shophouses</b></h5>
 
@@ -443,4 +528,4 @@ Foo, Su Ling, Lim Chen Sian, Wee Sheau Theng, and Yeo Kang Shua. (2016). <i> NUS
 <a><img style="width:200px;" src="/images%2FSingapore%20Urban%20Redevelopment/nusbabahouse.jpg"></a>
 <p> The NUS Baba House is a three-storey townhouse in the Blair Plain conservation area. This illustrated guidebook is for its visitors and those interested in Southeast Asia's social history. It features detailed photography and researched explanations of the house's objects and ornamental motifs, giving the reader a view into the domestic life of the Straits Chinese who used to lived in there.</p>
 
-<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p></div></div></div></div></div>
