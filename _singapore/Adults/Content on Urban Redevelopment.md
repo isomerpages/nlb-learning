@@ -511,7 +511,7 @@ Indian Heritage Centre. (2019). <i> Once upon a time in Little India.</i> Singap
 </td>
 </tr></tbody></table>
 
-This set of articles and books will give you a better understanding of Singapore s Residential Historic Districts. 
+This set of articles and books will give you a better understanding of Singapore's Residential Historic Districts. 
 
 <h4>Articles</h4>
 <h5><a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=467c289f-592f-478e-b3e9-4c66e50406c1"> Peranakan Place by Cornelius-Takahama, Vernon</a></h5>
@@ -585,8 +585,8 @@ Source: <a target="_blank" href="https://www.nlb.gov.sg/main/article-detail?cmsu
 
 <h4> Books </h4>
 
-<h5>Singapore shophouse walks : Joo Chiat, Katong, Geylang</h5>
-Kildisheva, Tatyana (2021). <i> Singapore shophouse walks : Joo Chiat, Katong, Geylang </i> [Singapore]: [Kildi Photo]. (Call no.: RSING 728.3 KIL)
+<h5> Tiong Bahru : heritage trail</h5>
+-. (2013). <i> Tiong Bahru : heritage trail </i> Singapore: National Heritage Board. (Call no.: RSING  915.95704 TIO -[TRA])
 <br>
 <img style="width:200px;" src="/images/TiongBahruTrail.png">
 <p> The area bounded by Seng Poh Road, Outram Road and Tiong Poh Road in Tiong Bahru was designated a conservation area in 2003. It includes the first public housing estate in Singapore, comprising 20 blocks of 2-to-5 storey flats built by the Singapore Improvement Trust (also known as SIT flats) in the 1930s. Explore the history and architecture of Tiong Bahru through this guide. </p>
