@@ -278,7 +278,7 @@ Blair Plain is a conservation area comprising two-and three- storey shophouses a
 <h3><b>Playlist</b></h3>
 A collection of short videos about secondary settlements in Singapore.
 
-<h5 id="national-symbols" class="margin--bottom--lg"><b>Playlist: Secondary Settlements </b></h5>
+<h5 id="secondary-settlements" class="margin--bottom--lg"><b>Playlist: Secondary Settlements </b></h5>
 
 According to URA, “secondary settlements” refer to areas in Singapore that developed outside of the city centre between 1900s and 1960s. These can be found in Balestier, Beach Road, Geylang, Jalan Besar, Jalan Jurong Kechil, Joo Chiat, Mount Sophia, River Valley, Tanjong Katong, Upper Circular Road and Tiong Bahru. Shophouses and bungalows in various styles form the historic streetscapes of these conservation areas. Together they tell stories of Singapore’s urban development and architectural heritage. 
 
