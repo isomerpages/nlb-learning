@@ -260,7 +260,7 @@ A related concept to the green economy is the blue economy which is about managi
   </div>
 </div>
 
-<h5 class="margin--bottom--lg" id="green-technology"><b>Playlist: Green Technology </b></h5>
+<h5 class="margin--bottom--lg" id="#green-technology"><b>Playlist: Green Technology </b></h5>
 We learn about some of the technological innovations that promise to revolutionize sustainability efforts and the limits of climate solutions that overly focus on technological improvements. 
 
 <br>
@@ -393,7 +393,7 @@ This video examines what draws us to nature and the lessons it can impart about 
   </div>
 </div>
 
-<h5 class="margin--bottom--lg" id="wardrobe-playlist"><b>Playlist: Why You Should Be Concerned About Your Wardrobe</b></h5>
+<h5 class="margin--bottom--lg" id="#wardrobe-playlist"><b>Playlist: Why You Should Be Concerned About Your Wardrobe</b></h5>
 
 We zero in on some of the sustainability issues related to fashion in this compilation. <br>
 
