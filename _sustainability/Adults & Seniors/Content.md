@@ -3,6 +3,7 @@ title: Content
 permalink: /sustainability/adults-seniors/content/
 description: ""
 third_nav_title: Adults & Seniors
+variant: markdown
 ---
 <style type="text/css">
 /* Links */
@@ -507,7 +508,7 @@ Peter Dauvergne ( 2020), <i> AI in the Wild by Peter Dauvergne </i>, MIT Press
 <p><a target="_blank" href="https://nlb.overdrive.com/media/5284963">Borrow the eBook here</a>.</p>
 <p>Retrieved from NLB Overdrive (myLibraryid is required to access the eBook).</p>
 
-<h3> Learning Package: Green Economy </h3>	
+<h3 id="lp-green-econ" class="margin--bottom--lg"> Learning Package: Green Economy </h3>	
 	
 It’s common to think that sustainability and economic growth are mutually exclusive, thinking that one will compromise the other. However, economies globally are realising that developing the Green Economy could provide a competitive edge in economic opportunities while advancing sustainability and society’s welfare.<sup><small><a href="#footnote-one">1</a></small></sup>
 <p>As one of the key pillars of the Singapore Green Plan 2030, a whole-of-nation movement to advance Singapore’s national agenda on sustainable development<sup><small><a href="#footnote-two">2</a></small></sup> developing a Green Economy in Singapore refers to seeking green growth to create new jobs, transform industries and harness sustainability as a competitive advantage.<sup><small><a href="#footnote-three">3</a></small></sup></p>
