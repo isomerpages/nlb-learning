@@ -1,0 +1,705 @@
+---
+title: Content on Iconic Entertainment Places
+permalink: /singapore/adults/iconic-entertainment-places/
+description: ""
+third_nav_title: Adults
+---
+<style type="text/css">
+/* Links */
+.content a { color: #322987; }
+.content a:focus,
+.content a:hover { color: #28216c; }
+/* Button Outline */
+.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
+.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
+.bp-button.is-primary-outline:focus,
+.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
+
+/* Responsive Iframe */
+.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
+.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
+.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
+.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
+.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
+.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Mint Jade */
+.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
+.clickbox.is-mint-jade a { color: #00b794; }
+.clickbox.is-mint-jade a:focus,
+.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; } 
+</style>
+
+Learn on the go. Check out our **playlists** for collections of short videos, and **learning packages** for articles, that will give you a slice of history and heritage.
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#amusement-parks">
+        <span>Playlist: Amusement Parks</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#animal-attractions">
+        <span>Playlist: Animal Attractions</span>
+      </a>
+    </div>
+  </div>
+	 <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+			<a href="#parks">
+				<span>Playlist: Parks</span>
+			</a>
+		 </div>
+	</div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#amusement-and-theme-parks">
+        <span>Playlist: Amusement and Theme Parks</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#performing-arts-venues">
+        <span>Playlist: Performing Arts Venues</span>
+      </a>
+    </div>
+  </div>
+	 <div class="col is-one-third">
+    <div class="clickbox is-mint-jade">
+      <a href="#lp-amusement-parks">
+        <span>Learning Package: Amusement Parks</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+   <div class="clickbox is-mint-jade">
+      <a href="#lp-animal-attractions">
+        <span>Learning Package: Animal Attractions</span>
+      </a>
+    </div> 
+  </div>
+	<div class="col is-one-third">
+		<div class="clickbox is-mint-jade">
+			<a href="#lp-parks">
+				<span>Learning Package: Parks</span>
+			</a>
+		</div>
+	</div>
+	<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-amusement-and-theme-parks">
+<span>Learning Package: Amusement and Theme Parks</span>
+</a>	
+</div>
+</div>
+	<div class="col is-one-third">
+<div class="clickbox is-mint-jade">
+<a href="#lp-performing-arts-venues">
+<span>Learning Package: Performing Arts Venues</span>
+</a>
+</div>
+</div>
+	</div>
+	
+<h3><b>Playlists</b></h3>
+A collection of short videos, exploring topics around Singapore’s iconic entertainment places.
+
+<h5 class="margin--bottom--lg" id="amusement-parks"><b>Playlist: Amusement Parks</b></h5>
+
+New World Park (1923-1987), Great World Amusement Park (1931-1964), and Gay World (Happy World) (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They offered nightlife entertainment that featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.
+
+Check out these resources to help you gain some understanding of Singapore’s bygone legendary amusement parks.<br>
+
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/t9c2ibcXlck" class="responsive-iframe"></iframe>
+</div>
+</div>
+	<p></p>
+<div class="col is-three-fifths">
+<p><b>大世界 It's a Great Great World (33 secs)</b><br>
+A movie trailer for “大世界 It’s a Great Great World” produced by MediaCorp Raintree Pictures. The movie is set in Singapore's legendary amusement park Great World, which was also affectionately known in Hokkien as Tua Seh Kai or 大世界. The film presents four tales revolving around iconic Great World landmarks: the Sky Theatre, the Ghost Train, the Flamingo Niteclub and the Wing Choon Yuen Restaurant. Multilingual in Mandarin, English, and various Chinese dialects, the movie comes with Chinese and English subtitles. <br><br>
+<small>Source: 大世界 It's a Great Great World - Malaysia Trailer 11 August 2011 (2011, August 19). Astro Shaw. Retrieved 2023, January 17.</small></p>
+</div>
+</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/8xVBCOvj0sE" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>Cabaret Dancers Turn Charity Queens | Stories from BiblioAsia #03 (19 mins)</b><br> In amusement parks such as New World and Great World, cabaret dancers like Rose Chan were notorious. However, while they may not have had respectable jobs, these women were generous to the less fortunate. They supported charitable causes and even helped set up the Happy Charity School which provided free education to poor children in Singapore.<br><br>
+<small>Source: Cabaret Dancers Turn Charity Queens | Stories from BiblioAsia #03 (2022, May 26). NLB Singapore. Retrieved 2023, January 17.
+</small>
+</p>
+</div>
+</div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="animal-attractions"><b>Playlist: Animal Attractions</b></h5>
+
+Since the establishment of the island’s first public zoo in 1875, Singapore has taken countless initiatives to create places of animal attractions, not just to bring the public closer to nature, but also to create meaningful spaces to accommodate to the specific needs of the hundreds of different species that are now calling Singapore their home.&nbsp;
+
+Check out these resources to help you gain some understanding on both famous and the lesser-known animal attraction sports on the island.
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/Ah20Mhjjnos" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> This park is for the BIRDS (literally): Jurong, Singapore | Tales From Our Pocket (14 mins)</b><br>
+Join Bill and Heather, avid travellers, who share their moments spent at Asia's largest bird park at Jurong and their impressive encounters with various species of birds, that they cannot get to see back at their home or anywhere else in the world!<br><br>
+<small> Source: This park is for the BIRDS (literally): Jurong, Singapore | Tales From Our Pocket (2022, May 28). Tales From Our Pocket. Retrieved 2023, February 7.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/jejZVbo7x1g" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Singapore Zoo, The World’s Best Rainforest Zoo | Explore Singapore SG | Traverse the Globe (10 mins)</b><br>
+Join the host as he brings us through the birth of the Singapore Zoo, key milestones in its history, re-branding campaigns in the latter years and its efforts at wildlife conservation.<br><br>
+<small> Source: Singapore Zoo, The World’s Best Rainforest Zoo | Explore Singapore SG | Traverse the Globe (2021, Apr 17). Traverse the Globe. Retrieved 2023, February 7.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/KAqzNcRuroM" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Gardens at Changi: Catch a glimpse of Singapore's national butterfly at Changi | Changi Airport (2 mins)</b><br>
+This video explores how the Butterfly Garden in Changi Airport breeds and houses over 50 species of tropical butterflies, including Singapore’s National Butterfly, known as the Common Rose Butterfly. Indulge in the beautiful colours that adorn this garden!
+<br><br>
+<small> Source: Gardens at Changi: Catch a glimpse of Singapore's national butterfly at Changi | Changi Airport (2018, Apr 17). Changi Airport. Retrieved 2023, February 7.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/b4vo--dx72E" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Insider Guide to Exploring SEA Aquarium in Sentosa | Singapore | Travel with Yiew (5 mins)</b><br>
+Join Terence as he explores and highlights some of his favourite parts of his adventure at the SEA Aquarium at Resorts World Sentosa. As the sheer size of this aquarium will require any traveller to plan their trip well to have a fruitful experience, this video will come in handy to do just that.<br><br>
+<small> Source: Insider Guide to Exploring SEA Aquarium in Sentosa | Singapore | Travel with Yiew (2022, Jan 12). Travel with Yiew. Retrieved 2023, February 7.</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/QNa9YNdstek" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Singapore Night Safari | Explore Singapore | Travel Guide | MM Travel Guide (8 mins)</b><br>
+Catch this video to learn more about the Night Safari, which is the world’s first night zoo that allows visitors to observe nocturnal animals in a natural habitat. Find out how the Night Safari is very different from the typical zoo, as the video brings you up close to its nocturnal residents!<br><br>
+<small> Source: Singapore Night Safari Explore Singapore | Travel Guide | MM Travel Guide (2020, Aug 8). MM Travel Guide. Retrieved 2023, February 7.</small></p>
+</div>
+</div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="parks" class="margin--bottom--lg"><b>Playlist: Parks</b></h5>
+
+Singapore’s fame as a garden city was not achieved overnight. Beginning with the launch of the “Garden City” vision in the late 1960s, efforts to green the environment was sustained over the decades, involving large-scale tree-planting as well as the creation of parks all around the island. Today, there are some 400 parks in Singapore that not only offer residents places for recreation and respite from the bustle of city life, but some have also become popular tourist attractions due to their rich heritage, biodiversity, and beauty. 
+ 
+Check out the videos below to learn more about some of Singapore’s iconic parks and gardens. 
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/Mn26f_e8Pno" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> NParks Explains: Our Greening Journey | NParksSG (7 mins)</b><br>
+Quick introduction to the greening and conservation efforts that have made Singapore the green city that it is today. 
+<br><br>
+<small> Source: NParks Explains: Our Greening Journey | NParksSG (2021, Oct 8). Retrieved 2023, February 20. 
+</small></p>
+</div>
+</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/10_41ukjY-g" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Singapore Botanic Gardens Heritage Trail | An NParks Virtual Tour | NParksSG (6 mins)</b><br>
+Learn about Singapore Botanic Gardens' history and heritage in this video tour of the Gardens’ historic and iconic sights, including Holttum Hall, Heritage Trees including the Kapok Tree and Tembusu, Prisoner-of-War Brick Steps and the Swan Lake.
+<br><br>
+<small> Source: Singapore Botanic Gardens Heritage Trail | An NParks Virtual Tour | NParksSG (2020, Sep 29). Retrieved 2023, February 20.
+</small></p>
+</div>
+</div>
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/7vbi3UCx6k0" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Fort Canning Park | An NParks Virtual Tour | NParksSG (4 mins) </b><br>
+Fort Canning Park is an iconic hilltop landmark that has witnessed many of Singapore’s historical milestones. Explore the park in this video that takes you back in time to the Forbidden Spring, Artisan's Garden, Raffles Garden, First Botanic Garden, Fort Gate, Sally Port and Fort Canning Centre. 
+<br><br>
+<small> Source: Fort Canning Park | An NParks Virtual Tour | NParksSG (2020, Oct 6). Retrieved 2023, February 20. 
+</small></p>
+</div>
+</div>
+
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/pcnfVdKlPfU" class="responsive-iframe">
+</iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> Fort Canning Park | An NParks Virtual Tour | NParksSG (4 mins) </b><br>
+Virtual tour of HortPark (short for Horticultural Park), a one-stop resource hub to learn about gardening and plant needs, and some of its themed gardens.
+<br><br>
+<small> Source: Fort Canning Park | An NParks Virtual Tour | NParksSG (2020, Oct 6). Retrieved 2023, February 20. 
+</small></p>
+</div>
+</div>	
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="amusement-and-theme-parks"><b>Playlist: Amusement and Theme Parks</b></h5>
+
+A place where nightmares are made for little children, Haw Par Villa was built in 1937. It was one of a kind large garden filled with more than 1000 sculptures and dioramas depicting a wealth of Chinese culture, history, philosophy and religion. Though built decades ago, it was characterised by leisure and entertainment facilities that revolve a common theme or subject like most modern theme parks today. 
+
+In the 1980s and 1990s, the amusement and theme park industry in Singapore witnessed a growth due to the success of Disneyland in the post-war years, coupled with rising affluence in our post-independence years. 
+
+Check out these videos to learn more about theme parks – some still around and some forgotten – in Singapore.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/-5ydJmtcW3c" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>In Singapore, 70 Years of Crafting a Unique Theme Park |Great Big Story (2 mins)</b><br>
+This video provides a look behind the scenes of how the colourful sculptures at Haw Par Villa are maintained year-round. Through an interview with Teo Veoh Seng, one of the master craftsmen behind the park’s countless unique sculptures, learn about how he uses restoration techniques passed down from his father and uncles to lovingly maintaining a piece of Singapore’s cultural history.<br><br>
+<small>Source: In Singapore, 70 Years of Crafting a Unique Theme Park (2017, October 5). Great Big Story. Retrieved 2023, March 6.</small></p>
+</div>
+</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/kNpyTk3gpP0" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> OMTJ PLAY@TJ: Tang Dynasty City | NHB OMTJ (2 mins)</b><br>
+Watch long-time residents of Taman Jurong, Mr Lee and Mdm Tan, recount their memories of Tang Dynasty City and the various attractions that could be found there.<br><br>
+<small> OMTJ PLAY@TJ: Tang Dynasty City (2017, September 7). NHB OMTJ. Retrieved 2023, March 6.</small></p>
+</div>
+</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/Yuq0NgUrfO4" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b>Welcome to Science Centre Singapore! (English) | Science Centre Singapore (3 mins)</b><br>
+Watch this for a quick introduction to all the exhibitions, attractions, and programs the Science Centre has to offer.<br><br>
+<small>Source: Welcome to Science Centre Singapore! (English) (2019, November 1). Science Centre Singapore. Retrieved 2023, March 6.</small></p>
+</div>
+</div>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="performing-arts-venues"><b>Playlist: Performing Arts Venues</b></h5>
+
+The Victoria Theatre and Concert Hall and the Esplanade - Theatres by the Bay are two performing arts venues that have hosted an impressive array of performances, ranging from classical music concerts to theatre productions.
+
+Check out these resources to learn more about the rich history of these landmark venues, their architectural features, and their contributions to Singapore’s cultural heritage.
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/6uv2rraxTE8" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> The Victoria Theatre | Singapore International Foundation (5 mins)</b><br>
+This video gives a quick summary of how the Victoria Theatre and Concert Hall is not only a symbol of Singapore's colonial past but also an important cultural and arts hub for local audiences. It includes anecdotes from the staff and old photographs as well as a glimpse at the workings of the clock tower. 
+<br><br>
+<small> Source: The Victoria Theatre | Singapore International Foundation (2010, May 6). Singapore International Foundation. Retrieved 2023, March 20.</small></p>
+</div>
+	</div>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+<div class="responsive-iframe-container ratio-16by9">
+<iframe src="https://www.youtube.com/embed/mTNs9KBh4ZU" class="responsive-iframe"></iframe>
+</div>
+</div>
+<div class="col is-three-fifths">
+<p><b> A Day in the Life of… A Senior Producer at Esplanade | Esplanade – Theatres on the Bay (3 mins)</b><br>
+This video profiles Esplanade’s senior producer Christel Hon who oversees Western classical music events and manages the acoustics of the Esplanade Concert Hall. From coordinating with musicians and artists to ensuring the sound quality of the concert hall, she works diligently to create a memorable experience for the audience.
+<br><br>
+<small> Source: A Day in the Life of… A Senior Producer at Esplanade | Esplanade – Theatres on the Bay (2021, May 28). Esplanade – Theatres on the Bay. Retrieved 2023, March 20.</small></p>
+</div>
+</div>
+	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b>Learning Package</b></h3>
+<h5 class="margin--bottom--lg" id="lp-amusement-parks"><b>Amusement Parks</b></h5>
+
+<p><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=161ef808-c4e0-41db-9d4d-630a6b7f7a6e">New World Park</a> (1923-1987), <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=6ee2d6c5-e088-4b79-9ce9-6da97c95b77d">Great World Amusement Park</a> (1931-1964), and <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=93d1427e-9cad-4617-a2d3-7b29487f705b">Gay World (Happy World)</a> (1937-2000) were the three amusement parks built in Singapore before World War II. The parks were popular entertainment areas before the advent of television and shopping malls. They featured the cabaret, opera halls, movies, gaming, sports matches, stunts, and shopping.</p>
+
+<p>After the 1960s, many of these amusement parks declined due to competing alternative entertainment options such as radios, televisions, shopping centres, discos, and nightclubs.</p>
+
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li>Getai (歌台), which literally means “song stage” in Chinese, is a popular form of entertainment believed to have originated during the Japanese Occupation at the New World Amusement Park. The first getai is believed to be Da Ye Hui (大夜会).</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+<p>These curated set of articles and books will help you understand more about these former amusement parks in Singapore.</p>
+
+<h4>Articles</h4>
+
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5f641690-731c-4816-b84b-733232c8d44f" target="_blank">Getai by Jaime Koh and Stephanie Ho</a></h5>
+<p>Getai is a popular form of mass entertainment that is believed to have originated during the Japanese Occupation and flourished in the 1950s. Amusement park based Getai went into a decline in the 1960s and 1970s after the introduction of the television. Today Getai is mainly staged during the Hungry Ghost Festival to entertain both the living and the dead.</p>
+Source: Koh, Jaime, and Ho, Stephanie. (2015). <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5f641690-731c-4816-b84b-733232c8d44f" target="_blank">Getai</a>. <i> Singapore Infopedia</i>. Retrieved 2023, January 26.
+
+<h5><a href="https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement" target="_blank">Old-world Amusement Parks by Lim Tin Seng</a></h5>
+<p> Theme parks in Singapore had their heyday from the 1920s to 50s. This <i>BiblioAsia</i> article charts their glory days and subsequent decline.</p>
+Source: Lim, Tin Seng, <a href="https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/old-world-amusement" target="_blank">Old-World Amusement Parks</a> (2016, April-June). <i> BiblioAsia</i> 12(1). Retrieved 2023, January 26.
+
+<h5><a href="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour" target="_blank">Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls by Adeline Foo</a></h5>
+<p>The cabaret girls that worked at the amusement parks in Singapore were better known for their risqué stage shows, but some also donated generously to charity. Adeline Foo uncovers these women with hearts of gold.</p>
+
+Source: Foo, Adeline. “<a href="https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour" target="_blank">Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls</a>.” (2017, January-March). <i>BiblioAsia</i> 12(4). Retrieved 2023, January 26.
+
+<h5><a href="https://www.roots.gov.sg/stories-landing/stories/themeparks-in-singapore/story" target="_blank">Theme Parks in Singapore by Gayathiri Chandramohan </a></h5>
+<p> As the popularity of the ‘three worlds’ waned, other amusement parks blossomed. This article mentions the Wonderland Amusement Park at Kallang and Big Splash Theme Park at East Coast Park.</p>
+
+Source: Chandramohan, Gayathiri. (2022, March 6). <a href="https://www.roots.gov.sg/stories-landing/stories/themeparks-in-singapore/story" target="_blank">Theme Parks in Singapore</a>. <i> Roots</i>. Singapore: National Heritage Board. Retrieved 2023, January 26.
+
+<h4>Books</h4>
+
+<h5> The "worlds" entertainment parks of Singapore (1920s-1980s): new urban form and social space for culture and consumption </h5>
+Tan, Kar Lin. (2004). <i>The "worlds" entertainment parks of Singapore (1920s-1980s): new urban form and social space for culture and consumption</i>. Unpublished thesis (Master of Arts, Architecture), National University of Singapore. (Call no.: RSING 725.76095957 TAN) 
+<br><a><img src="/images%2FIconic%20Entertainment%20Places%2FTWEP.png" style="width:200px;"></a>
+<p> This 2-volume thesis studies the three “Worlds” entertainment parks. Tan argued that the parks were sites of mass consumption that “transgressed entrenched class and ethnic boundaries of the colonial public sphere.” Volume I has nine chapters while Volume II consists of illustrations such as figures, maps, and building plans.</p>
+
+<h5>Lancing Girls of Happy World</h5>
+Foo, Adeline. (2017). <i>Lancing Girls of a Happy World</i>. Singapore: Ethos Books.  (Call no.: RSING 792.7095957 FOO)
+<a><br><img src="/images/Iconic%20Entertainment%20Places/LGHW.png" style="width:200px;"></a>
+<p>“Glitz, glamour, and sleaze is what people may remember of the cabaret girls of yesteryear. With curiosity and an open mind, Adeline Foo sets out to uncover the lives of these women and how, even with few dreams and hopes to strive for, these women lived with much heart and courage despite society's disapproving eye. The music of the dance hall may have faded away, but this book carries the echoes of their dance steps, connecting us with a forgotten past that was inspired by faith, hope and charity.”</p>
+
+<h4>Oral History Interview Clip</h4>
+<h5>Happy and New World Amusement Parks</h5>
+National Archives of Singapore. (2017). "Happy and New World Amusement Parks." <i>Stories of Yesteryear - Changing Landscapes</i> Season 1 Ep 15. Retrieved 2023, January 26.
+
+<br><a href="https://www.mewatch.sg/watch/Stories-of-Yesteryear-Changing-Landscapes-E15-Happy-and-New-World-Amusement-Parks-253180" target="_blank">Happy and New World Amusement Parks</a>
+
+<p>Richard Tan Leng Poh is the Founder and Chair of Garden &amp; Landscape Centre. In this 2 minute clip, he shares his childhood memories of the Happy and New World Amusement Parks.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 id="lp-animal-attractions" class="margin--bottom--lg"><b> Animal Attractions </b></h5>
+<p> The animal attractions in Singapore are continuously evolving, providing experiential learning with leisure activities for the public. These parks enable people to have meaningful encounters with animals and nature, contained within a safe environment for all. While the takeaway from visiting these places may vary among individuals, the aim is for us to gain a deeper understanding of flora and fauna, and the environment through the varied sights and sounds. </p>
+
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul><li> Did you know...
+Our island is home to more than 1,000 species of birds, animals and marine life? Singapore has five animal-themed parks namely, the SEA Aquarium, River Wonders Singapore, Bird Paradise (opening during the third quarter this year), Night Safari and Singapore Zoo. Some of these parks are home to endangered animals like Orangutan, Red Panda and Clouded Leopard!</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+These curated set of articles and books will give you a better understanding of the important roles played by animal parks in Singapore.
+
+<h4>Articles</h4>
+<h5><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-03-14_140006.html?s=zoo" target="_blank"> Punggol Zoo by Teng, Sharon </a></h5>
+<p>Punggol Zoo, established in 1928 by William Lawrence Soma Basapa, was Singapore’s first full-size public zoo and bird park, and the first to be known as the Singapore Zoo.</p>
+Source: <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-03-14_140006.html?s=zoo" target="_blank"> Punggol Zoo </a>(2016, Mar).<i> Singapore Infopedia.</i> Retrieved 2023, February 7.
+
+<h5><a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/sg-first-zoo" target="_blank"> All Creatures Great and Small: Singapore’s First Zoos by Lim, Tin Seng </a></h5>
+<p> This article takes us through an interesting journey that begins from the British early fascination with natural history and zoology in this region, to the private zoos for public visits during early Singapore and recent developments on nature themed attractions.</p>
+Source: <a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/sg-first-zoo" target="_blank"> Lim, Tin Seng. All Creatures Great and Small: Singapore’s First Zoos </a>(2015, July-September).<i> BiblioAsia, 11(2).</i> Retrieved 2023, February 7.
+
+<h4>Books</h4>
+<h5> The first 21 years: the Singapore Zoological Gardens story</h5>
+Sharp, Ilsa (1994). <i> The first 21 years: the Singapore Zoological Gardens story </i> Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.7445957 SHA) 
+<br>
+<a><img src="/images/Iconic%20Entertainment%20Places/TSZGS.png" style="width:200px;"></a>
+<p> This book commemorates the Zoo’s 21st anniversary with colourful illustrations and traces its initial development up to its upgrading. It also documents the ups and downs of running Zoo. </p>
+
+<h5> Feathered jewels: the Jurong Birdpark</h5>
+Snyder, Lee (1995). <i> Feathered jewels: the Jurong Birdpark </i> Singapore: Jurong Birdpark. (Call no.: RSING q598.095957 SNY) 
+<br>
+<a>
+<img src="/images/Iconic%20Entertainment%20Places/FJTJB.png" style="width:200px;"></a>
+<p> A colourful guide to Jurong Bird Park which first opened its doors to visitors in 1971. As we prepare to embrace a brand-new home to its avian residents at Bird Paradise at Mandai Wildlife Reserve, this book will give a sense of nostalgic reminiscence, touching upon memorable scenes of this beautiful park.</p>
+
+<h5> Migratory birds of Sungei Buloh Wetland Reserve: a photographic, ringing and educational resource guide</h5>
+Gan, James Wan Meng; Tan, Mendis &amp; Li, David (2009). <i> Migratory birds of Sungei Buloh Wetland Reserve: a photographic, ringing and educational resource guide.</i> Singapore: National Parks Board. (Call no.: RSING 598.095957 GAN) 
+<br>
+<a>
+<img src="/images/Iconic%20Entertainment%20Places/sungeibuloh.png" style="width:200px;"></a>
+<p>This is a first comprehensive photographic guidebook on 108 species of migratory birds found at the Sungei Buloh Wetland Reserve, Singapore's first ASEAN Heritage Park.</p>
+
+<h5>On wings of excellence</h5>
+Jurong Bird Park (1994). <i>On wings of excellence.</i> Singapore: Jurong Bird Park. (Call no.: RSING 598.295957 ON) 
+<br>
+<a> 
+<img src="/images/Iconic%20Entertainment%20Places/Wings.png" style="width:200px;"></a>
+<p> Published to commemorate Jurong Bird Park's major achievements for the past 21 years as a sanctuary for birds, the book chronicles its rise as a world-class establishment that offers recreation with education, conservation, and research.</p>
+
+<h5>The world’s first night safari</h5>
+Singapore Zoological Gardens (1994). <i>The world’s first night safari.</i> Singapore: Singapore Zoological Gardens. (Call no.: RSING 590.735957 WOR-[SRN]) 
+<br>
+<a> 
+<img src="/images/Iconic%20Entertainment%20Places/nightsafari.png" style="width:200px;"></a>
+<p>This book introduces the attractions and layout of the Night Safari, the world's first nocturnal zoo located in Mandai.</p>
+
+<h5 id="lp-parks" class="margin--bottom--lg"><b> Parks</b></h5>
+
+<p> Parks are an integral part of Singapore’s landscape and greening journey. The history of parks and greening in Singapore can be traced to 1822 when the first botanical garden was set up on Government Hill (now known as Fort Canning Hill). However, it was not until the late 1960s that the creation of green spaces was firmly placed on the official agenda and a long-term vision was put forth to transform Singapore into a garden city. Apart from the large-scale planting of roadside trees and shrubs, parks were created all over the island from the 1970s. Today, Singapore is home to some 400 parks that provide much-needed green space for people to relax, play, and enjoy the outdoors. 
+</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Therapeutic gardens are outdoor gardens designed to promote the restorative benefits of nature. The first therapeutic garden in Singapore was launched at HortPark in 2016. Ample shade, wind chimes, and water features help make the garden a relaxing place for visitors.</li>
+</ul>
+</td>
+		</tr></tbody></table>
+
+Learn more about green efforts over the decades and explore some of Singapore’s iconic parks and gardens through the resources here.
+
+<h4>Articles</h4>
+<h5><a href="https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/greening" target="_blank"> Of Parks, Trees and Gardens: The Greening of Singapore </a></h5>
+<p> This article charts Singapore’s greening journey from colonial times through to the present. It covers important developments including the creation of the Botanic Gardens, early tree-planting efforts, the launch of the “Garden City” vision in 1967, and beyond to the “City in Nature” strategy, part of the latest ten-year blueprint for sustainable development, the Singapore Green Plan 2030.</p> 
+Source: Lim, Tin Seng, <a href="https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/greening" target="_blank"> Of Parks, Trees and Gardens: The Greening of Singapore </a>(2021, April-June).<i>Biblioasia.</i> 17(1). Retrieved 2023, February 20.
+
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=f7c83ad6-8985-4027-b203-63409d028204" target="_blank"> Chinese Garden (Yu Hwa Yuan) </a></h5>
+<p> The Chinese Garden in Jurong was built in 1975 to provide social and recreational amenities for the then rapidly developing Jurong industrial town. Designed by Yu Yuen Chen, a Taiwanese expert on Chinese gardens, the garden is modelled on the northern Chinese imperial style of architecture during the Song dynasty (960–1279 CE) and the Summer Palace in Beijing.  
+</p> 
+Source:  <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=f7c83ad6-8985-4027-b203-63409d028204" target="_blank"> Chinese Garden (Yu Hwa Yuan) </a>(2012).<i>Singapore Infopedia.</i> Retrieved 2023, February 20.
+
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5686d939-61e9-4fb0-9e58-c38b635d97e4" target="_blank"> Gardens by the Bay</a></h5>
+<p> Occupying some 101 hectares along the Marina Bay waterfront, Gardens by the Bay is Singapore’s premier horticultural attraction. It was conceptualised in 2005 as part of the plan to develop Singapore’s reputation as a “City in a Garden” with world-class green spaces that enhance the quality of life and distinguish Singapore as a global city. 
+</p> 
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5686d939-61e9-4fb0-9e58-c38b635d97e4" target="_blank"> Gardens by the Bay</a>(2013).<i>Singapore Infopedia.</i> Retrieved 2023, February 20.
+
+<h4>eBook</h4>
+
+<h5> Singapore: City of Gardens </h5>
+Warren, William and Luca Invernizzi Tettoni (2012). <i> Singapore: City of Gardens</i> Singapore: Tuttle Publishing, 2012<br>
+<a href="https://nlb.overdrive.com/media/1272565" target="_blank">
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/CityofGardens.png"></a>
+
+<p> This travel pictorial showcases many of the green spaces – from public parks to private gardens and even roadside plantings – that contribute to Singapore’s reputation as a garden city.</p>
+<p><a href="https://nlb.overdrive.com/media/1272565" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
+
+<h5> Nature's Colony: Empire, Nation and Environment in the Singapore Botanic Gardens </h5>
+Barnard, Timothy P. (2018). <i> Nature's Colony: Empire, Nation and Environment in the Singapore Botanic Gardens </i> Singapore: Partridge Publishing<br>
+<a target="_blank" href="https://nlb.overdrive.com/media/3968845">
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/NaturesColony.png"></a>
+<p> This book presents a fascinating look at the 150-year history of the Singapore Botanic Gardens and its shifting functions in the colonial and post-colonial context. </p><p><a href="https://nlb.overdrive.com/media/3968845" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook). 
+
+<h5> Singapore's Park System Master Planning:
+A Nation Building Tool to Construct Narratives in Post-Colonial Countries
+ </h5>
+Sini, Raffaella (2019). <i> Singapore's Park System Master Planning:
+A Nation Building Tool to Construct Narratives in Post-Colonial Countries </i> Singapore: Springer Nature Singapore<br>
+<a target="_blank" href="https://nlb.overdrive.com/media/4743500">
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/ParkSystem.png"></a>
+<p> This book traces the evolution of Singapore's parks system from colonial to present times. It focuses on the application of western practices as well as the influence of the state and national policies on park planning and design.
+</p><p><a href="https://nlb.overdrive.com/media/4743500" target="_blank">Borrow the eBook here.</a></p>
+Retrieved from OverDrive (a <a href="https://mobileapp.nlb.gov.sg/get-started-with/mylibrary/" target="_blank">myLibrary username</a> is required to access the eBook).
+
+<h4>Books</h4>
+
+<h5> Living in a garden: the greening of Singapore</h5>
+Auger, Timothy (2013). <i> Living in a garden: the greening of Singapore </i> Singapore: Published for National Parks Board by Editions Didier Millet (Call no.: RSING 363.68095957 AUG) 
+<br>
+<a>
+<img src="/images/Iconic%20Entertainment%20Places/LivingInAGarden.png" style="width:200px;"></a>
+<p> This book focuses on the work of the National Parks Board (NParks) in the greening of Singapore. It spotlights the parks, nature reserves, and other green spaces under the Board’s care, the rich biodiversity of those sites, and the importance of community involvement in greening and conservation.  
+</p>
+
+<h5> The world in a garden: Singapore's gardens by the bay </h5>
+Tinsley, Bonnie [2016]. <i> The world in a garden: Singapore's gardens by the bay </i> Singapore: Marshall Cavendish Editions. (Call no.: RSING 712.5 TIN) 
+<br>
+<a>
+<img src="/images/Iconic%20Entertainment%20Places/WorldInAGarden.png" style="width:200px;"></a>
+<p> This book chronicles the extensive work put into creating Gardens by the Bay from initial conception and construction to its official opening in 2012 and beyond. It looks at the Gardens’ signature programmes and events, its achievements in the first five years of operation, and future plans.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h5 class="margin--bottom--lg" id="lp-amusement-and-theme-parks"><b>Amusement and Theme Parks</b></h5>
+
+<p>Built in 1937, Haw Par Villa was a large garden filled with sculptures depicting moral lessons found in Chinese folklore. Though built decades ago, it was characterised by leisure and entertainment facilities that revolve a common theme or subject like most modern theme parks today.
+</p>
+<b></b>
+<p>The success of Disneyland in the post-war years, coupled with rising affluence in our post-independence years, prompted a growth in the amusement and theme park industry in Singapore. There were at least nine theme parks operating in Singapore in the 1990s, though many of these theme parks would eventually close due to low visitor numbers. However, Singapore’s theme park industry got a boost in 2011 with the opening of Universal Studios Singapore, the first Universal studios theme park in Southeast Asia. 
+</p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li>Plans for a Universal Studios theme park in the Jurong Lake area were first pitched in the 1990s – almost a decade before Universal Studios Singapore opened at Sentosa island in 2011.</li>
+</ul>
+</td>
+		</tr></tbody></table>
+
+These curated set of articles and books will give you a better understanding of the history and development of theme parks in Singapore.
+
+<h4>Articles</h4>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7809f4c9-d067-455c-8dbb-a511073e4d31" target="_blank">Haw Par Villa (Tiger Balm Gardens) by Lim, Irene</a></h5>
+<p>Haw Par Villa is an oriental-style theme park located along Pasir Panjang Road. The park was commissioned in 1937 by businessman Aw Boon Haw, as part of the residential estate he was building for his younger brother, Aw Boon Par. Though located on private property, the garden was opened to the public. The park is known for its statues depicting scenes from Chinese folklore.</p>
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=7809f4c9-d067-455c-8dbb-a511073e4d31" target="_blank"> Haw Par Villa (Tiger Balm Gardens)</a>(2016).<i>Singapore Infopedia.</i> Retrieved 2023, March 6.
+
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=0f3b25dd-46b6-4cc0-98e6-3b282ffe0390" target="_blank"> Science Centre Singapore
+by Lim, Tin Seng</a></h5>
+<p>The Singapore Science Centre opened to the public on 10 December 1977. It aimed to promote interest and learning in science and technology to students and the public. This objective came at a time when Singapore was industrialising rapidly, and it was paramount to develop Singapore’s industrial and technological skills.</p>
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=0f3b25dd-46b6-4cc0-98e6-3b282ffe0390" target="_blank">Science Centre Singapore</a>(2014).<i> Singapore Infopedia.</i> Retrieved 2023, March 6.
+
+<h4>Books</h4>
+
+<h5>Tiger Balm Gardens: A Chinese billionaire's fantasy environments</h5>
+Brandel, Judith and Tina Turbeville. (1998). <i>Tiger Balm Gardens: A Chinese billionaire's fantasy environments</i>. Hong Kong: Aw Boon Haw Foundation. (Call no.: RSING q959.57 BRA)
+<br>
+	
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/tiger-balm.png">
+<p> Through over 300 photos and supporting text, this book documents the two Tiger Balm Gardens that billionaire Aw Boon Haw built in Hong Kong and Singapore in the 1930s, as well as his Tiger Balm medical ointment business that funded them all.</p>
+<h5>Tang Dynasty Village</h5>
+Tang Dynasty Village. (1992-). <i>Tang Dynasty Village</i>. Singapore: Tang Dynasty Village. (Call no.: RLCOS EPHE PL39)
+<br>
+
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/tang-dynasty.png">
+<p>This ephemera folder contains brochures on the Tang Dynasty City, a historical and cultural theme park based on the Tang Dynasty. They include a pre-opening promotional brochure, a park guide, a brochure on discounted admission rates, and a promotional brochure for the Ghost Mansion attraction in the park. The park guide brochure provides a snapshot of the theme park, which no longer exists. The guide includes a map of the park and a list of sites and attractions that can be found within.</p>
+
+<h5>Universal City Singapore</h5>
+Universal Studios, Inc. (1997). <i>Universal City Singapore</i>. [Place of publication not identified]: Universal Studios, Inc. (Call no.: RCLOS 791.0685957 UNI -[LKY])
+<br>
+
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/universal-city.png">
+<p>This publication contains the concept plan and business plan for a Universal Studios theme park in Jurong Lake Site in Singapore. The concept plan includes proposals for the different zones, rides, and attractions in the theme park.</p>
+
+<h5>Challenges to theme park development in Singapore</h5>
+Teo, Peggy and Brenda S. A. Teoh. (1999). <i>Challenges to theme park development in Singapore</i>. Singapore: Pagesetters Services Pte. Ltd. for Centre for Advanced Studies, National University of Singapore. (Call no.: RSING q791.0685957 TEO)
+<br>
+
+<img style="width:200px;" src="/images/Iconic%20Entertainment%20Places/teo-and-yeo.png">
+<p>This research paper on theme parks in Singapore analyses their attractiveness, explores problems they face, and examines how they meet the challenges and changes. Some theme parks covered include Tang Dynasty City, Fantasy Island, volcanoland and Haw Par Villa. The research was completed in 1997 and was funded by National University of Singapore and Singapore Tourism Board to support tourism research.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3><b>Learning Package</b></h3>
+<h5 class="margin--bottom--lg" id="lp-performing-arts-venues"><b>Performing Arts Venues</b></h5>
+
+<p>Performing arts venues in Singapore are not only entertainment hubs, but they also serve as landmarks that trace the development of the performing arts here. From the grand Victoria Theatre and Concert Hall to the state-of-the-art Esplanade – Theatres on the Bay and the once-glamourous The Majestic, these venues have witnessed Singapore's transformation into a cosmopolitan city-state. Collectively, they have hosted an array of performances, from classical music concerts to theatre productions and Cantonese operas. </p>
+<table border="1">
+	<tbody><tr>
+		<td>
+<h4>Did you know...</h4>
+<ul>
+<li> Esplanade’s Concert Hall, which was designed by the acclaimed acoustician Russell Johnson, possesses one of the best acoustics among concert halls worldwide.</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+This set of articles and books will give you a better understanding of some of Singapore’s past and present iconic performing arts venues. 
+
+<h4>Articles</h4>
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=8472b2d8-5549-4858-912b-f6150b4bcae6" target="_blank">Victoria Theatre and Concert Hall by Tan, Bonny</a></h5>
+<p>Gazetted as a national monument in 1992, the Victoria Theatre and Concert Hall is Singapore’s oldest performing arts venue. It comprises two blocks of buildings – one constructed in 1862 and the other in 1905 – joined by a clock tower. Many performing arts events including musical and stage performances have been held here. In 2014, it was reopened to the public after undergoing a four-year restoration.</p>
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=8472b2d8-5549-4858-912b-f6150b4bcae6" target="_blank"> Victoria Theatre and Concert Hall (2016).</a> <i> Singapore Infopedia.</i> Retrieved 2023, March 20.
+
+<h5><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=b356eaf1-8f27-47e3-b2ac-608fafe060aa" target="_blank"> Esplanade – Theatres on the Bay by Faizah Zakaria </a></h5>
+<p>The Esplanade – Theatres on the Bay is an arts centre which features a 1,600-seat concert hall, a 2,000-seat theatre and other smaller performing arts venues. The idea for a performing arts centre was first mooted in 1975 by then Minister of Culture, Ong Teng Cheong. After much deliberation and discussion among many stakeholders, the plans for the centre was unveiled in 1994. The centre was officially opened in 2002 by former President S. R. Nathan.</p>
+Source: <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=b356eaf1-8f27-47e3-b2ac-608fafe060aa" target="_blank">Esplanade – Theatres on the Bay</a> (2016, July).<i> Singapore Infopedia.</i> Retrieved 2023, March 20.
+
+<h5><a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/singapore-dance" target="_blank">The Art of Movement: Dance on the Singapore Stage by Tan, Tara</a></h5>
+<p>This article focuses on five trailblazers of the Singapore dance scene and their journey in the performing arts. It includes mentions of the Victoria Theatre and the Esplanade as venues where some of their performances have taken place.</p>
+Source: Tan, Tara <a target="_blank" href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/singapore-dance"> The Art of Movement: Dance on the Singapore Stage </a> (2015, Jul-Sep). <i>BiblioAsia</i>11(2). Retrieved 2023, March 20.
+<h5><a target="_blank" href="https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/The-Majestic"> The Majestic</a></h5>
+<p>Built by businessman and philanthropist Eu Tong Sen in 1927, the Majestic was once a Cantonese opera house. It was later used to screen films. Initially named the Tien Yien Moh Toi Theatre, it was renamed a couple more times before being called the Majestic Theatre after the Second World War. It assumed its current name in 2003.</p>
+Source: <a target="_blank" href="https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/The-Majestic"> The Majestic </a> (2019). <i>Roots</i>. Singapore: National Heritage Board. Retrieved 2023, March 20.
+	
+<h4> Books </h4>
+
+<h5> In granite and chunam: the national monuments of Singapore </h5>
+Liu, Gretchen. (1996). <i>In granite and chunam: the national monuments of Singapore.</i> Singapore: Landmark Books and Preservation of Monuments Board (Call no.: RSING 725.94095957 LIU)
+<br>
+<img src="/images/Iconic%20Entertainment%20Places/InGranite.png" style="width:200px;">
+<p>This book explores the cultural significance of Singapore’s national monuments. The chapter on the Victoria Theatre and Concert Hall (found on pages 45-55) includes information about the performances held here by home-grown and imported world-class talents.</p>
+
+<h5> Esplanade: Theatres on the Bay, Singapore </h5>
+Cheong, Colin. (2013). <i>Esplanade: Theatres on the Bay, Singapore.</i> Singapore: Straits Times Press (Call no.: RSING 792.095957 CHE)
+<br>
+<img src="/images/Iconic%20Entertainment%20Places/Esplanade.png" style="width:200px;">
+<p> This commemorative book about the Esplanade covers the history of early performing arts venues in Singapore and showcases the development of Singapore's performing arts scene. It also explains how the Esplanade came about.</p>
+
+<h5> Path of the righteous crane: the life &amp; legacy of Eu Tong Sen</h5>
+Sharp, Ilsa. (2009). <i>Path of the righteous crane: the life &amp; legacy of Eu Tong Sen.</i> Singapore: Landmark Books Pte Ltd (Call no.: RSING 338.7616151092 SHA)
+<br>
+<img src="/images/Iconic%20Entertainment%20Places/ETS.png" style="width:200px;">
+<p>This is a biography of Eu Tong Sen, a businessman and philanthropist who established his fortune in Malaya, and subsequently Hong Kong and southern China. It mentions his love for Chinese opera and his contribution to building theatres in Malaya and Singapore including the place we now know as The Majestic in Chinatown.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

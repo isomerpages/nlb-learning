@@ -1,0 +1,461 @@
+---
+title: Content
+permalink: /wellness/adults-seniors/content/
+description: ""
+third_nav_title: Adults & Seniors
+---
+<style type="text/css">
+/* Links */
+.content a { color: #322987; }
+.content a:focus,
+.content a:hover { color: #28216c; }
+
+/* Button Outline */
+.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
+.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
+.bp-button.is-primary-outline:focus,
+.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
+
+/* Responsive Iframe */
+.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
+.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
+.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
+.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
+.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
+.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+	
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+	
+/* Thoughtful Tangerine */ 
+.clickbox.is-thoughtful-tangerine { background-color: #ffc9ad; color: #FE5828; }
+.clickbox.is-thoughtful-tangerine a { color: #FE5828; }
+.clickbox.is-thoughtful-tangerine a:focus,
+.clickbox.is-thoughtful-tangerine a:hover { background-color: #FE5828; color: #ffc9ad; }
+</style>
+
+Check out our playlists and learning packages for book recommendations, collection of short videos, selected podcasts and articles exploring topics around health and wellness.  
+
+<div class="row is-multiline">
+  <div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#playlist-nourish">
+        <span>Playlist: Nourish Your Body</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#playlist-sleep">
+        <span>Playlist: Sleep</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#playlist-managing-conditions">
+        <span>Playlist: Managing Conditions & Medications</span>
+      </a>
+    </div>
+  </div>
+  <div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#lp-nourish">
+        <span>Learning Package: Nourish Your Body</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#lp-sleep">
+        <span>Learning Package: Sleep</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#lp-managing-conditions">
+        <span>Learning Package: Managing Conditions & Medications</span>
+      </a>
+    </div>
+  </div>
+	<div class="col is-one-third">
+    <div class="clickbox is-thoughtful-tangerine">
+      <a href="#lp-mindhead">
+        <span>Learning Package: Mind Your Head</span>
+      </a>
+    </div>
+  </div>
+  </div>
+
+<h3><b>Playlists</b></h3>
+A collection of short videos or selected podcasts, exploring topics around mental, physical and financial wellness.
+
+<!-- Nourish Playlist  -->
+<h5 class="margin--bottom--lg" id="playlist-nourish"><b> Playlist: Nourish Your Body</b></h5>
+
+What does it mean to eat well and how do you go about achieving it?
+
+From cracking the food label code to understanding the larger implications of eating right, here’re some tips to get you started.
+
+<br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/xyQY8a-ng6g" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> How The Food You Eat Affects Your Brain (2:37)</b><br>
+Our food choices have a much larger implication than we think. <br>
+<small> Source: How the food you eat affects your brain (2016, Jun 21). TED-Ed. Retrieved 2021, December 20. </small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/LqnIrpORAGU" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Are Food Labels Actually Important? (6:00) </b><br>
+Hint: it is. Learn how to crack the food label code with Biogirl MJ as she heads to NTUC FairPrice. <br>
+<small> Source: Are food labels actually important? (2021, Mar 17). SGFoodAgency. Retrieved 2021, December 20.</small></p>
+  </div>
+</div>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/fqhYBTg73fw" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> What’s The Best Diet? Healthy Eating 101 (15:00) </b><br>
+It seems simple enough, but healthy eating is more complex than it looks. This video breaks down the various strategies of healthy eating into easy-to-understand snippets to get you started. <br>
+<small> Source: What's the Best Diet? Healthy Eating 101 (2015, Sep 25). DocMikeEvans. Retrieved 2021, December 20. </small></p>
+  </div>
+</div> 
+
+<!-- Sleep Playlist  -->
+<h5 class="margin--bottom--lg" id="playlist-sleep"><b> Playlist: Sleep</b></h5>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/t0kACis_dJE" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> 6 Tips for Better Sleep (5:00)</b><br>
+Want to improve the quantity and quality of your sleep? Sleep Scientist Matt Walker offers six scientifically grounded tips for better sleep.<br>
+<small> Source: 6 Tips For Better Sleep (2020, Sep 22). TED. Retrieved 2022, April 18. </small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/BN9yqF6Um98" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> How Long Should Your Naps Be? - Sara C. Mednick (5:00)</b><br>
+Not all naps are created equal. For a start, consider the time of the day and the length of your naps to optimise your mid-day snooze. <br>
+<small> Source: How long should your naps be? - Sara C. Mednick (2021, Apr 29). TED-Ed. Retrieved 2022, April 18.</small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/owMlmhvik_0" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Sleep Experts Debunk 15 Sleep Myths (14:00) </b><br>
+We may think we are the experts of sleep – after all, it’s something we do every night! However, there remains countless misinformation relating to the science of sleep. This video puts the 15 most common sleep myths to rest. <br>
+<small> Source: Sleep Experts Debunk 15 Sleep Myths. (2019, Nov 3). Science Insider. Retrieved 2022, April 18. </small></p>
+  </div>
+</div> 
+
+<!-- Managing Conditions Playlist  -->
+
+<h5 class="margin--bottom--lg" id="playlist-managing-conditions"><b> Playlist: Managing Conditions and Medications</b></h5>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src="https://www.youtube.com/embed/CQyn4ZyPq9k" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> 9 Ways to Medication Safety (3:29)</b><br>
+Find out 9 simple steps to ensure you are taking your medicine safely and responsibly in this animated video.<br>
+<small> Source: 9 Ways to Medication Safety (2018, Jan 22). IMHsingapore. Retrieved 2022, Sept 8. </small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/FWsBm3hr3B0" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Why Haven’t We Cured Arthritis - Kaitlyn Sadtler and Heather J. Faust (4:24 mins)</b><br>
+From explaining the different types of arthritis conditions, debunking popular myths to introducing tips to prevent the onset of arthritis, get to know more about one of the most common chronic pains that plagues the human race. <br>
+<small> Source: Why Haven't We Cured Arthritis? – Kaitlyn Sadtler and Heather J. Faust (2019, Nov 8). TED-Ed. Retrieved 2022, Sept 12.</small></p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+     <iframe src=" https://www.youtube.com/embed/Ab3nSeTc6I4" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Neurologists Debunk 11 Headache And Migraine Myths | Debunked (12:13) </b><br>
+Neurologists Deena Kuruvilla and Cynthia Armand debunk 11 myths about headaches and migraine attacks. Watch on to find out how migraine is just simply a headache (but a neurological disease!), the relationship it has with caffeine and more. <br>
+<small> Source: Neurologists Debunk 11 Headache And Migraine Myths | Debunked (2021, Dec 13). Science Insider. Retrieved 2022, Sept 12. </small></p>
+  </div>
+</div> 
+
+<h3><b>Learning Package</b></h3>
+
+<!-- Nourish LP  -->
+
+<h5 class="margin--bottom--lg" id="lp-nourish"><b>Learning Package: Nourish Your Body</b></h5>
+	
+A key pillar of physical wellness is a healthy, balanced diet. However, when it comes to nutrition, it seems as if everyone has a different opinion of what it means to eat well. How do you make sense of all these recommendations? To help you separate the myths from the facts, check out the resources we have compiled here.
+
+<h4>Articles</h4>
+
+<h5>1. 7 Signs That Show You Are Not Getting Enough Nutrients </h5>
+<p>
+<a href="https://www.activehealth.sg/read/nutrition/7-signs-that-show-you-are-not-getting-enough-nutrients" target="_blank"><img src="/images/wellness/adults-and-seniors/wellness-article1.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> Managing our nutritional intake is an important, yet understated, aspect of our eating habits. This article lists the signs of a nutrition-sparse diet (which may be more common than you think) and provides tips on getting you to incorporate nutrient-rich food into your daily meals.</p>
+<p><a href="https://www.activehealth.sg/read/nutrition/7-signs-that-show-you-are-not-getting-enough-nutrients" target="_blank"> Read the article here</a>. </p>
+<small>Source: 7 Signs That Show You Are Not Getting Enough Nutrients. Active Health. Retrieved 2021, December 20. Photo by Foodie Factor from Pexels.</small>
+
+
+<h5>2. Eating Right: Healthy Plate and Understanding Food Labels</h5>
+<p>
+<a href="https://www.healthxchange.sg/food-nutrition/weight-management/eating-right-healthy-plate-understanding-food-labels" target="_blank"><img src="/images/wellness/adults-and-seniors/wellness-article2.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> Pick up tips on reading food labels and learn how you can adopt healthier eating habits with Health Promotion Board’s My Healthy Plate.
+</p>
+<p><a href="https://www.healthxchange.sg/food-nutrition/weight-management/eating-right-healthy-plate-understanding-food-labels" target="_blank"> Read the article here</a>. </p>
+<small>Source: Source: Eating Right: Healthy Plate and Understanding Food Labels. HealthXchange.sg Retrieved 2021, December 20. Photo by Ella Olsson from Pexels.</small>
+
+
+<h4>Resource Page</h4>
+<h5>KTPH Nutrition and Dietetics Resource Page </h5>
+<p>
+<a href="https://www.ktph.com.sg/services/clinical-support/nutrition-and-dietetics" target="_blank"><img src="/images/wellness/adults-and-seniors/wellness-resourcepage1.jpg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> Explore cookbooks, recipes and nutrition information written by dietitians.</p>
+<p><a href="https://www.ktph.com.sg/services/clinical-support/nutrition-and-dietetics" target="_blank"> Visit the resource page here</a>. </p>
+<small>Source: Nutrition and Dietetics. Khoo Teck Puat Hospital. Retrieved 2021, December 20. Photo by Ella Olsson from Pexels.</small>
+
+
+<h4>eBooks & Audiobooks</h4>
+<h5>1. The Blue Zone Solution </h5>
+Dan Buettner, (2015), The Blue Zones Solution: Eating and Living Like the World's Healthiest People.<br>
+Washington, D.C.: National Geographic.
+<p>
+<a href="https://share.libbyapp.com/title/1927185" target="_blank"><img src="/images/wellness/adults-and-seniors/bluezones-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> What are the diets, eating habits, and lifestyle practices of the world’s longest-lived communities? Based on longevity research of what Dan Buettner has identified as "Blue Zones", take inspiration from these communities on how you can lead a healthier and longer life.</p>
+<p><a href="https://share.libbyapp.com/title/1927185" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/1927185. Retrieved from Libby. </small>
+
+
+<h5>2. Food Rules </h5>
+Michael Pollan, (2021), Food Rules:  An Eater's Manual.<br>
+London: Penguin Books.
+<p>
+<a href="https://share.libbyapp.com/title/292644" target="_blank"><img src="/images/wellness/adults-and-seniors/foodrules-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> In the sea of seemingly contradictory information surrounding the question of what we should eat, Michael Pollan offers a simple manifesto and handbook to eating well.</p>
+<p><a href="https://share.libbyapp.com/title/292644" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/292644. Retrieved from Libby. </small>
+
+
+<h5>3. Good Calories, Bad Calories </h5>
+Gary Taubes, (2008), Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health. <br>
+New York : Anchor Books, 2008.
+<p>
+<a href="https://share.libbyapp.com/title/5921840" target="_blank"><img src="/images/wellness/adults-and-seniors/goodbadcalories-book-cover.jpeg" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a>
+</p><p> Not all calories are created equal. In this book, Gary Taubes argues that the key to good health is the kind of calories we take in, not the number.</p>
+<p><a href="https://share.libbyapp.com/title/5921840" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/5921840. Retrieved from Libby. </small>
+<br>
+
+<!-- Sleep LP  -->
+<h5 class="margin--bottom--lg" id="lp-sleep"><b>Learning Package: Sleep</b></h5>
+
+Sleep is an underrated and increasingly neglected aspect of our health. In fact, Singaporeans are amongst the most sleep-deprived people in the world! So, why do we sleep? And what benefits do we get out of this seemingly passive activity? Dive into the wonderful world of sleep with these resources.
+
+<h4>Resource Page</h4>
+
+<h5>1. Caring For Ourselves – Sleeping Well </h5>
+
+<p>From sleep deprivation to revenge bedtime procrastination, this resource page offers answers to most important questions about sleep.</p>
+<p><a href="https://www.healthhub.sg/programmes/186/MindSG/Caring-For-Ourselves/Sleeping-Well-Adults#home" target="_blank"> Visit the resource page here</a>. </p>
+<small>Source: Caring For Ourselves – Sleeping Well. HealthHub. Retrieved 2022, April 19.</small>
+<br>
+
+<h5>2. How to Sleep Better </h5>
+
+<p>Struggling to fall asleep? Here’re 15 science-backed tips to get some good quality sleep.</p>
+<p><a href="https://www.headspace.com/sleep/how-to-sleep-better" target="_blank"> Visit the resource page here</a>. </p>
+<small>Source: How to Sleep Better. Headspace. Retrieved 2022, April 19.</small>
+<br>
+
+<h4>Articles</h4>
+
+<h5>1. 8 Sleeping Positions to Improve Your Health </h5>
+<p> Your sleeping postures have a surprising effect on your health and the quality of your sleep. This article details the 8 most common sleeping positions how it may benefit you.</p>
+<p><a href="https://www.healthhub.sg/live-healthy/1925/8-Sleeping-Positions-To-Improve-Your-Health" target="_blank"> Read the article here</a>. </p>
+<small>Source: 8 Sleeping Positions to Improve Your Health. HealthHub. Retrieved 2021, December 20.</small>
+<br>
+
+<h4>eBooks</h4>
+<h5>1. Why We Sleep </h5>
+Matthew Walker, (2017), Why We Sleep: The New Science of Sleep and Dreams. <br>
+Penguin Books Ltd.
+<p><a href="https://share.libbyapp.com/title/3576801" target="_blank"><img src="/images/wellness/adults-and-seniors/whywesleep-book-cover.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Neuroscientist and sleep expert Matthew Walker takes you on a fascinating journey in exploring the mysteries of sleep, and why it matters.</p>
+<p><a href="https://share.libbyapp.com/title/3576801" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/3576801. Retrieved from Libby. </small>
+
+
+<h5>2. The Sleep Solution </h5>
+W. Chris Winter, M.D., (2017), The Sleep Solution: Why Your Sleep is Broken and How to Fix It. <br>
+Penguin Publishing Group.
+<p><a href="https://share.libbyapp.com/title/2926257" target="_blank"><img src="/images/wellness/adults-and-seniors/sleepsolution-book-cover.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Do you have trouble falling asleep? Or do you feel fatigued upon waking up? In the world of seemingly contradictory tips and advice, this book offers a way for you to customise specific interventions to fit your lifestyle and your sleep.</p>
+<p><a href="https://share.libbyapp.com/title/2926257" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/2926257. Retrieved from Libby. </small>
+
+
+<h5>3. The Sleep Fix  </h5>
+Diane Macedo, (2021), The Sleep Fix: Practical, Proven, and Surprising Solutions for Insomnia, Snoring, Shift Work, and More.<br>
+HarperCollins.
+<p><a href="https://share.libbyapp.com/title/6158921" target="_blank"><img src="/images/wellness/adults-and-seniors/sleepfix-book-cover.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Drawing from her own experiences of dealing with insomnia, renowned ABC News anchor/correspondent Diane Macedo offers an accessible guide to getting better sleep.</p>
+<p><a href="https://share.libbyapp.com/title/6158921" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.)</p>
+<small>https://share.libbyapp.com/title/6158921. Retrieved from Libby. </small>
+
+<!-- Managing Conditions LP  -->
+
+<h5 class="margin--bottom--lg" id="lp-managing-conditions"><b>Learning Package: Managing Conditions and Medications</b></h5>
+
+<p>We may find ourselves face-to-face with medical conditions that, despite not being life-threatening, significantly impair our daily lives. To help you better prevent and manage these medical conditions, check out the resources we have compiled here.</p>
+
+<h4>Articles</h4>
+
+<h5>1. Glaucoma: How to Prevent and Manage </h5>
+<p> Glaucoma is the 2nd leading cause of blindness in Asia. This article advises on how to detect glaucoma in its early stages, manage glaucoma better and offers tips on maintaining better eye health in general.</p>
+<p><a href="https://www.healthxchange.sg/head-neck/eye-care/glaucoma-how-to-prevent-and-manage" target="_blank"> Read the article here</a>. </p>
+<small>Source: Glaucoma: How to Prevent and Manage. HealthXchange.sg. Retrieved 2022, Sept 12.</small>
+<br>
+
+<h5>2. Common Myths and Facts about Sleep </h5>
+<p> How many hours of sleep do we really need? Can napping compensate for our lack of sleep? Find out more about the facts of sleep in this article to navigate sleep disorders and improve the quality of your nightly rest.</p>
+<p><a href="https://www.sleepfoundation.org/how-sleep-works/myths-and-facts-about-sleep" target="_blank"> Read the article here</a>. </p>
+<small>Source: Common Myths and Facts About Sleep. Sleep Foundation. Retrieved 2022, Sept 12.</small>
+<br>
+
+<h5>3. Management and Treatment for Irritable Bowel Syndrome (IBS) </h5>
+<p> Irritable bowel syndrome (IBS) is a chronic medical condition of the gut and intestine that affects up to 9 per cent of the population in Singapore. This article shares diet and lifestyle tips that could help you achieve a happier and healthier gut.</p>
+<p><a href="https://www.healthxchange.sg/digestive-system/irritable-bowel-syndrome/management-treatment-irritable-bowel-syndrome-ibs" target="_blank"> Read the article here</a>. </p>
+<small>Source: Management and Treatment for Irritable Bowel Syndrome (IBS). HealthXchange.sg Retrieved 2022, Sept 12.</small>
+<br>
+
+<h4>eBooks & audiobooks</h4>
+<h5>1. Manage Your Menopause Naturally </h5>
+Maryon Stewart, (2020), Manage Your Menopause Naturally: The Six-Week Guide to Calming Hot Flashes & Night Sweats, Getting Your Sex Drive Back, Sharpening Memory & Reclaiming Well-Being<br>
+San Francisco: New World Library.
+<p><a href="https://share.libbyapp.com/title/5779197" target="_blank"><img src="/images/wellness/adults-and-seniors/manage-your-menopause-ebook.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Menopause is too often treated as a problem to be solved or an illness to be cured, not the natural process it is. World-renowned healthcare expert Maryon Stewart outlines her wonderfully comprehensive and practical Six-Week Natural Menopause Solution with steps that women can take to feel better right away.</p>
+<p><a href="https://share.libbyapp.com/title/5779197" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.) </p>
+<small>https://share.libbyapp.com/title/5779197. Retrieved from Libby. </small>
+
+
+<h5>2. Navigating Life with Chronic Pain (Audiobook) </h5>
+Robert A Lavin MD, MS, Sara Clayton PhD, Lindsay Zilliox MD (2020), Navigating Life with Chronic Pain<br>
+United Kingdom: Oxford University Press 
+
+<p><a href="https://share.libbyapp.com/title/5280186" target="_blank"><img src="/images/wellness/adults-and-seniors/navigating-chronic-pain-audiobook.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> This audiobook aims to provide clear and reliable information about chronic pain, including current approaches to diagnoses, a comprehensive, integrated approach to chronic pain treatment and real-world experiences and advice on navigating the day-to-day challenges of chronic pain.</p>
+<p><a href="https://share.libbyapp.com/title/5280186" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this audio book.) </p>
+<small>https://share.libbyapp.com/title/5280186. Retrieved from Libby. </small>
+
+
+<h5>3. The Anxious Perfectionist  </h5>
+Clarissa W. Ong, Michael P. Twohig, Randy O. Frost, (2022), The Anxious Perfectionist: How to Manage Perfectionism-Driven Anxiety Using Acceptance & Commitment Therapy <br>
+Oakland, California: New Harbinger Publications
+
+<p><a href="https://share.libbyapp.com/title/6461508" target="_blank"><img src="/images/wellness/adults-and-seniors/anxious-perfectionist-ebook.png" style="width:300px; text-align:left;" alt="7-Signs-Thumbnail"></a></p>
+<p> Written by two clinical psychologists, The Anxious Perfectionist shines a much-needed light on the hidden costs of “being the best,” and offers essential skills based in acceptance and commitment therapy (ACT) to help you cope with the anxiety that is driven by your perfectionism.</p>
+<p><a href="https://share.libbyapp.com/title/6461508" target="_blank"> Read the ebook here</a>. (A myLibrary username is required to access this digital book.)</p>
+<small>https://share.libbyapp.com/title/6461508. Retrieved from Libby. </small>
+
+
+<!-- Mind Your Head LP  -->
+
+<h5 class="margin--bottom--lg" id="lp-mindhead"><b>Learning Package: Mind Your Head</b></h5>
+
+<p> A large spotlight has been placed on the topic of mental health and the stigma surrounding it. In fact, a survey by Channel NewsAsia found that 66% of respondents expressed concerns about the stigma surrounding mental health. Although there has been a growing awareness in recent years with more individuals coming forward with their stories, and an increase in studies about mental health, misconceptions continue to prevail. </p>
+
+<p> Dispel these misconceptions by learning more about mental health and discover how you can better help yourself and those around you with these resources!</p>
+
+<h4>Articles</h4>
+
+<h5><a href="https://www.samhealth.org.sg/understanding-mental-health/what-is-mental-wellness/" target="_blank"> 1. What is Mental Wellness</a></h5>
+
+<p> The term “mental wellness” has been a prominent part of the current zeitgeist. But what exactly does it mean? Learn more about what it means to be mentally well and how you can work towards it.</p>
+
+<h5><a href="https://www.psychologytoday.com/sg/blog/your-emotional-meter/201910/what-do-when-someone-you-love-is-struggling" target="_blank"> 2. What to Do When Someone You Love Is Struggling</a></h5>
+
+<p> We are often unequipped with the skills and knowledge to help those around us. This article sheds some light on how you can best help the people you love who are struggling with their mental health.</p>
+
+<h4>eBooks & Audiobooks</h4>
+
+<h5>1. Why Has Nobody Told Me This Before?</h5>
+
+Dr. Julie Smith (2022), <i>Why Has Nobody Told Me This Before?</i>, HarperCollins.
+
+<p>
+<a href="https://share.libbyapp.com/title/6384560" target="_blank"><img src="/images/wellness/adults-and-seniors/NobodyBefore.png " style="width:300px; text-align:left;" alt="Book Cover for Why Has Nobody Told Me This Before"></a>
+
+<p>Gain a better understanding of your mind’s inner workings and learn techniques that will enable you to take charge of your mental health.</p>
+
+<p>Also available as an audiobook.</p>
+
+<p><a href="https://share.libbyapp.com/title/6384560" target="_blank">Read the eBook here.</a>(A myLibrary username is required to access this digital book.)</p>
+
+<h5>2. Maybe You Should Talk to Someone</h5>
+
+Lori Gottlieb (2019), <i>Maybe You Should Talk to Someone</i>, HarperCollins
+
+<p>
+
+<a href="https://share.libbyapp.com/title/3938290" target="_blank"><img src="images/wellness/adults-and-seniors/TalkSomeone.png" style="width:300px; text-align:left;" alt="Book cover for Maybe You Should Talk to Someone"></a>
+
+<p>Psychotherapist Lori Gottlieb takes us behind the curtain of her experiences as both a clinician and patient through which she explores the internal struggles we often encounter and how we have the power to transform our lives.</p>
+
+<p><a href="https://share.libbyapp.com/title/3938290" target="_blank"> Read the eBook here.</a>(A myLibrary username is required to access this digital book.)</p>
+
+             
+
+<h5>3. Bird Brain</h5>
+
+Chuck Mullin (2020), <i>Bird Brain</i>, Unbound.
+
+<br>
+
+<a href="https://share.libbyapp.com/title/4661233" target="_blank"><img src="images/wellness/adults-and-seniors/BirdBrain.png" style="width:300px; text-align:left;" alt="Book cover for Bird Brain"></a>
+
+<p>Chuck Mullin offers a humorous glimpse into her struggles with mental health through illustrations of quirky pigeons.</p>
+
+<p><a href="https://share.libbyapp.com/title/4661233" target="_blank"> Read the eBook here.</a>(A myLibrary username is required to access this digital book.)</p>

@@ -1,0 +1,26 @@
+collections:
+  science:
+    output: true
+    order:
+      - LearnX Science.md
+      - Preschoolers/Overview.md
+      - Preschoolers/Content.md
+      - Preschoolers/Programmes.md
+      - Preschoolers/Learning Pathways.md
+      - Preschoolers/.keep
+      - Children/.keep
+      - Children/Overview.md
+      - Children/Content.md
+      - Children/Programmes.md
+      - Children/STEAM Lab.md
+      - Children/Learning Pathways.md
+      - Tweens/Overview.md
+      - Tweens/Content.md
+      - Tweens/Programmes.md
+      - Tweens/Learning Pathways.md
+      - Tweens/.keep
+      - Teens/Overview.md
+      - Teens/Content.md
+      - Teens/Programmes.md
+      - Teens/Learning Pathways.md
+      - Teens/.keep

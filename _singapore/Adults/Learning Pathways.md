@@ -1,0 +1,226 @@
+---
+title: Learning Pathways
+permalink: /singapore/adults/learning-pathways/
+description: ""
+third_nav_title: Adults
+---
+<style type="text/css">
+/* Links */
+.content a { color: #322987; }
+.content a:focus,
+.content a:hover { color: #28216c; }
+
+/* Button Outline */
+.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
+.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
+.bp-button.is-primary-outline:focus,
+.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
+
+/* Responsive Iframe */
+.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
+.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
+.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
+.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
+.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
+.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+
+/* Click Box */
+.clickbox { display: block; position: relative; width: 100%; padding-bottom: 56.25%; background-color: transparent; }
+.clickbox span { padding: .5rem; }
+.clickbox a { position: absolute; display: flex; width: 100%; height: 100%; align-items: center; justify-content: center; font-size: 1.25rem; text-align: center; text-decoration: none; text-transform: uppercase; }
+.clickbox a:focus,
+.clickbox a:hover { text-decoration: none; }
+
+/* Mint Jade */
+.clickbox.is-mint-jade { background-color: #dce5d3; color: #00b794; }
+.clickbox.is-mint-jade a { color: #00b794; }
+.clickbox.is-mint-jade a:focus,
+.clickbox.is-mint-jade a:hover { background-color: #00b794; color: #dce5d3; } 
+</style>
+
+Think of learning pathways as appetisers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you. Let's begin with these below!
+
+<h3><b>Place history Singapore</b></h3>
+There are many stories to our places and spaces in Singapore. Through this pathway you can explore different resources to discover the history behind places in Singapore. 
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/singapore/adults/content-place-history" target="_blank"><b>Place History Learning Package</b></a></td>
+        <td style="width: 40%;">Here are some great resources to start with.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="/singapore/adults/content-place-history" target="_blank"><b>Place History Playlist</b></a></td>
+        <td>Be curious about our place history. Learn it the easy way with Curiocity</td>
+        <td></td>
+        <td> </td>
+			</tr>
+    </tbody>
+  </table>
+</div>
+<h3><b>Japanese Occupation</b></h3>
+Dive deep into the stories from the Japanese Occupation. 
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/singapore/adults/content-japanese-occupation" target="_blank"><b>Japanese Occupation Learning Package</b></a></td>
+        <td style="width: 40%;">Here are some great resources to start with.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="/singapore/adults/content-japanese-occupation" target="_blank"><b>Japanese Occupation Playlist</b></a></td>
+       <td style="width: 40%;">Check out these resources to help you gain some understanding of the events which led to the fall of Singapore, Japanese Occupation, and post-war Singapore.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+			</tr>
+    </tbody>
+  </table>
+</div>
+<h3><b>Food Heritage</b></h3>
+Discover the wide array of heritage foods from different ethnic groups that make up the cuisine of Singapore. 
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/singapore/adults/food-heritage" target="_blank"><b>Food Heritage Learning Package</b></a></td>
+        <td style="width: 40%;">Here are some great resources to start with to acquaint with Singapore’s food heritage, which mirrors our multi-ethnic culture.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="/singapore/adults/food-heritage" target="_blank"><b>Food Heritage Playlist</b></a></td>
+       <td style="width: 40%;">Check out these resources on Singapore's food heritage that binds its people together through its common food culture.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+			</tr>
+    </tbody>
+  </table>
+</div>
+<h3><b>National Symbols</b></h3>
+As a nation made up of people from different races, classes and backgrounds, our National Symbols aim to rally our diverse communities together as one people. 
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/singapore/adults/national-symbols" target="_blank"><b>National Symbols Learning Package</b></a></td>
+        <td style="width: 40%;">Here are some great resources to start with.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="/singapore/adults/national-symbols" target="_blank"><b>National Symbols Playlist</b></a></td>
+       <td style="width: 40%;">Gain insights to the formation and importance of the national symbols which help foster national identity.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+			</tr>
+    </tbody>
+  </table>
+</div>
+<h3><b>Vanishing Trades</b></h3>
+As the nation develops, many trades evolve or are slowly replaced. Learn about the cotton industries that no longer exist in society today or are fast disappearing.
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/singapore/adults/vanishing-trades" target="_blank"><b>Vanishing Trades Learning Package</b></a></td>
+        <td style="width: 40%;">Here are some great resources to start with.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="/singapore/adults/vanishing-trades" target="_blank"><b>Vanishing Trades Playlist</b></a></td>
+       <td style="width: 40%;">Learn more about some trades and occupations that can no longer be found in Singapore or are dwindling.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+			</tr>
+    </tbody>
+  </table>
+</div>
+<h3><b>Iconic Entertainment Places</b></h3>
+Discover Singapore's iconic entertainment places, such as the amusement parks established before World War II. They were known as the Three Worlds (New World, Great World, Gay World).
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/singapore/adults/iconic-entertainment-places" target="_blank"><b>Iconic Entertainment Places Learning Package</b></a></td>
+        <td style="width: 40%;">Here are some great resources to start with.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="/singapore/adults/iconic-entertainment-places" target="_blank"><b>Iconic Entertainment Places Playlist</b></a></td>
+       <td style="width: 40%;">Learn more about Singapore's iconic places through these videos.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+			</tr>
+    </tbody>
+  </table>
+</div>
+
+
+<h3><b>Traditional Games</b></h3>
+Discover Singapore's traditional games, such as congkak, five stones, gasing, and capteh.
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="/singapore/adults/traditional-games/" target="_blank"><b>Traditional Games Learning Package</b></a></td>
+        <td style="width: 40%;">Here are some initial resources to learn about traditional games.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="/singapore/adults/traditional-games/" target="_blank"><b>Traditional Games Playlist</b></a></td>
+       <td style="width: 40%;">Learn more about Singapore's traditional games through these videos.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+			</tr>
+    </tbody>
+  </table>
+</div>

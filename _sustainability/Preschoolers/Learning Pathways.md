@@ -1,0 +1,209 @@
+---
+title: Learning Pathways
+permalink: /sustainability/preschoolers/learning-pathways/
+description: ""
+third_nav_title: Preschoolers
+---
+<style type="text/css">
+/* Links */
+.content a { color: #322987; }
+.content a:focus,
+.content a:hover { color: #28216c; }
+
+/* Button Outline */
+.bp-button { padding-left: 1.5rem; padding-right: 1.5rem; }
+.bp-button.is-primary-outline { border: 1px solid #322987; color: #322987; background-color: transparent; text-decoration: none; }
+.bp-button.is-primary-outline:focus,
+.bp-button.is-primary-outline:hover { border: 1px solid #322987; color: #cff2e8; background-color: #322987; text-decoration: none; }
+
+/* Responsive Iframe */
+.responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; }
+.responsive-iframe-container { position: relative; overflow: hidden; width: 100%; }
+.responsive-iframe-container.ratio-16by9 { padding-top: 56.25%; }
+.responsive-iframe-container.ratio-4by3 { padding-top: 75%; }
+.responsive-iframe-container.ratio-3by2 { padding-top: 66.66%; }
+.responsive-iframe-container.ratio-1by1 { padding-top: 100%; }
+</style>
+Think of learning pathways as appetizers. Get started on your learning journey with curated programmes and content before delving deeper into topics that interest you.
+
+<h3><b>Go Wild & Wow With Sustainability!</b></h3>
+What can we do to protect the environment around us? Do you know the different types of animals and plants in Singapore that we can care for? Through the suite of exciting programmes available, children will get an opportunity to learn all about the various facets of sustainability and the role they can play in taking care of the natural environment. Join us on this journey on caring for the environment and connecting with nature with the various interesting talks, workshops and activities available online and at the libraries!
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Recommended Resources</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><a href="https://childrenandteens.nlb.gov.sg/connecting-with-nature#lp-protectbirds" target="_blank"><b>[Connecting with Nature] Animal Conservation Series: Protecting birds in Singapore</b></a></td>
+        <td style="width: 40%;"> Understand more about the different types of birds in Singapore, why they are important and how to protect them. There are also fun activities and related book recommendations.</td>
+        <td style="width: 20%;"> </td>
+        <td style="width: 20%;"> </td>
+      </tr>
+      <tr>
+        <td><a href="https://childrenandteens.nlb.gov.sg/connecting-with-nature#lp-seaturtles" target="_blank"><b>[Connecting with Nature] Animal Conservation Series: Sea Turtle Rescue</b></a></td>
+        <td>Understand more about sea turtles and the dangers they are facing and how to protect them. There are also fun activities and related book recommendations.</td>
+        <td></td>
+        <td> </td>
+      </tr>
+<tr>
+        <td><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment#lp-urbanfarm" target="_blank"><b>[Caring for the Environment] Urban Farming</b></a></td>
+        <td>Understand more about what is urban farming and its benefits. There are also fun activities and related book recommendations.</td>
+        <td></td>
+        <td> </td>
+      </tr>
+			 <tr>
+        <td><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment/#lp-urbanhome" target="_blank"><b>[Caring for the Environment] Urban Farming - Farm to Table</b></a><img src="/images/sustainability/Preschoolers/Jade%20-%20urban%20farming%20farm%20to%20table.png" style="width:400px; text-align:left;"></td>
+        <td>"All big things come from small beginnings." - James Clear
+Why is learning about Farm to Table important for your child? This concept is a way to teach your child where food comes from, which in turn will show that it's important to eat healthy and not waste what we have. Try to spot the difference between urban farming and traditional farming and check out our supermarket scavenger hunt!</td>
+        <td></td>
+        <td> </td>
+      </tr>
+			    <tr>
+        <td><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment#lp-susfood" target="_blank"><b>[Caring for the Environment] Sustainable Foods</b></a></td>
+        <td>Do you know that the food we eat has an impact on the environment? Find out how science and technology can help us create a planet-friendly food system! From meat grown in labs to insects that are safe for consumption, these new innovations could be the future of our food.</td>
+        <td></td>
+        <td> </td>
+      </tr>
+			 <tr>
+        <td><a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment/#lp-sushome" target="_blank"><b>[Caring for the Environment] Sustainability at Home!</b></a></td>
+        <td>Being sustainable can start from small actions at home. No one is too young to become a sustainability warrior!</td>
+        <td></td>
+        <td> </td>
+      </tr>
+<tr>
+        <td><a href="/sustainability/preschoolers/content" target="_blank"><b> Seas & Oceans playlist</b></a></td>
+        <td>Dolphins, blue whales, sea lions, jellyfishes, and ocean sunfish, are some of our favourite beautiful sea creatures that live in the oceans.
+<br><br>
+Not only do oceans house these marine lives, but these bodies of water also help in maintaining the Earth’s oxygen level, making it easier for us to breathe.
+<br><br>
+Check out the video resources below to help your child understand the roles of the oceans and seas in our ecosystem!</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Explore Programmes</th>
+      </tr>
+    </thead>
+    <tbody>			
+				
+
+  <tr>			
+<td><a href="https://www.eventbrite.sg/e/arise-farm-from-seed-to-harvest-plants-friends-foes-tickets-549853726297?aff=odcleoeventsincollection" target="_blank"><b> Arise & Farm: From Seed To Harvest-Plants’ Friends & Foes
+</b></a></td>
+        <td>      Participants get to learn each step of the farming process which includes seed sowing, transplant, grow-out and harvest!   </td>
+        <td> Sat, 11 Mar 2023
+<br>10.30am-12pm <br></td>
+        <td>Bishan Public Library</td>
+			</tr>
+			<tr>			
+<td><a href="
+https://www.eventbrite.sg/e/sustainable-art-tickets-532885965267?aff=odcleoeventsincollection
+" target="_blank"><b> Sustainable Art
+</b></a></td>
+        <td>      Learn to upcycle waste into fun board games for the family in this 90-minute session!   </td>
+        <td> Sat, 11 Mar 2023
+<br>2:00pm–3:30pm <br></td>
+        <td>Choa Chu Kang Public Library</td>
+			</tr>
+<tr>			
+<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-elephants-the-biggest-of-us-needs-help-tickets-528027694047?aff=odcleoeventsincollection" target="_blank"><b> [Connecting with Nature] Elephants – The Biggest of Us Needs Help!
+</b></a></td>
+        <td>      Learn about the importance of elephants to us, the environment, and threat of their extinction through this storytelling and craft session!   </td>
+        <td> Tue, 14 Mar 2023
+<br>3:00pm-4:00pm <br></td>
+        <td>Yishun Public Library</td>
+			</tr>
+<tr>			
+<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-wildlife-conservation-us-tickets-536628760067?aff=odcleoeventsincollection" target="_blank"><b> [Connecting with Nature] Wildlife Conservation & Us!
+</b></a></td>
+        <td>      Join this fun and informative workshop to learn more about wildlife conservation and what we can do to help.   </td>
+        <td> Sat, 18 Mar 2023
+<br>2:00pm–3:00pm <br></td>
+        <td>Queenstown Public Library</td>
+			</tr>
+<tr>			
+<td><a href="https://www.eventbrite.sg/e/connecting-with-nature-discover-ecofiction-the-lorax-tickets-492221426537" target="_blank"><b> [Caring For the Environment] A Plastic Bottle’s Journey
+</b></a></td>
+        <td>      Join us to learn about the life of plastic bottles and turn them into beautiful artworks!   </td>
+        <td> Sat, 18 Mar 2023
+<br>3:30–4:30pm <br></td>
+        <td>Woodlands Regional Library</td>
+			</tr>
+<tr>			
+<td><a href="https://www.eventbrite.sg/e/arise-farm-engaging-communities-what-are-plants-tickets-549855110437?aff=odcleoeventsincollection" target="_blank"><b> Arise & Farm: Engaging Communities-What are plants?
+</b></a></td>
+        <td>      This session teaches young children on basic plant biology on lifecycles, systems and plant diversity  </td>
+        <td> Sat, 25 Mar 2023
+<br>10:30am–12:00pm <br></td>
+        <td>Bishan Public Library</td>
+			</tr>
+<tr>			
+<td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-going-green-with-terrariums-tickets-527991445627?aff=odcleoeventsincollection" target="_blank"><b> [Caring For the Environment] Going Green with Terrariums!
+</b></a></td>
+        <td>      Let’s explore a terrarium! Children will learn more about what plants need to survive and design their own ecosystems.   </td>
+        <td> Sat, 25 Mar 2023
+<br>11:00am-12:00pm <br></td>
+        <td>Bedok Public Library</td>
+			</tr>
+  <tr>			
+<td><a href="https://www.eventbrite.sg/e/caring-for-the-environment-going-green-with-terrariums-tickets-533217396587?aff=odcleoeventsincollection" target="_blank"><b> [Caring For the Environment] Going Green with Terrariums!
+</b></a></td>
+        <td>      Let’s explore a terrarium! Children will learn more about what plants need to survive and design their own ecosystems.   </td>
+        <td>Sun, 26 Mar 2023 <br>12:30pm – 1:30pm<br></td>
+        <td>Punggol Regional Library  </td>
+			</tr>
+		    </tbody>
+  </table>
+</div>
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="is-uppercase has-weight-normal">Discover Other Learning Focus Areas</th>
+      </tr>
+    </thead>
+  <tbody>
+	<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b> Jiggle Read & Rhyme | Early READ  </b></a></td>
+        <td>Join other parents with young children and support your child’s early development through an enjoyable session with songs and rhymes. This programme is intended for parents and toddlers 1-3 years old. </td>
+        <td>Various Locations</td>
+      </tr>
+	<tr>			
+<td><a target="_blank" href="https://www.eventbrite.sg/cc/reading-programmes-for-0-6-years-old-570869"><b>  Baby Lapsit | Early READ  </b></a></td>
+        <td>Bond with your baby through songs, rhymes and finger plays in this meaningful play session!In this session, you will be introduced to simple stories, songs, action rhymes and finger plays that you can use to interact and bond with your baby at home.This programme is for parents with babies up to 12 months old. </td>
+        <td>Various Locations</td>
+      </tr>
+
+		
+		
+<tr>			
+<td><a href="https://www.eventbrite.sg/e/discovertech-coding-unplugged-human-computers-tickets-528014986037?aff=odcleoeventsincollection" target="_blank"><b> [DiscoverTech] Coding Unplugged: Human Computers!  </b></a></td>
+        <td>      Discover basic coding concepts of branching, sequencing and algorithms through storytelling and a series of enjoyable unplugged activities.    </td>
+        <td> 16 Mar 2023<br>11:00am-12:00pm<br></td>
+        <td>Jurong Regional Library </td>
+			</tr>
+		  <tr>			
+<td><a href="
+https://www.eventbrite.sg/e/budding-engineers-fun-with-blocks-and-motors-tickets-527997674257?aff=odcleoeventsincollection" target="_blank"><b> [Budding Engineers] Structural Engineering
+</b></a></td>
+        <td>          
+Cars, trucks, fire engines and boats. They move using motors. Let's learn how motors work and how they're used to convert energy into motion6 years old.
+</td>
+        <td>26 Mar 2023<br>11:30am–12:30pm <br></td>
+        <td>
+Sengkang Public Library </td>
+			</tr>
+    </tbody>
+  </table>
+</div>
+
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

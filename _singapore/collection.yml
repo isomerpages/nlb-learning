@@ -1,0 +1,36 @@
+collections:
+  singapore:
+    output: true
+    order:
+      - LearnX Singapore.md
+      - Children/.keep
+      - Children/Overview.md
+      - "Children/Content: Tour around Singapore.md"
+      - "Children/Content: Legends of Singapura.md"
+      - "Children/Content: Celebrating Values, Traditions and Culture.md"
+      - Children/Programmes.md
+      - Children/Learning Pathways.md
+      - Teens/.keep
+      - Teens/Overview.md
+      - "Teens/Content: Place History.md"
+      - "Teens/Content: Exploring Our City.md"
+      - "Teens/Content: The Making of Independent SG.md"
+      - "Teens/Content: Celebrations, Customs and Traditions.md"
+      - Teens/Programmes.md
+      - Teens/Learning Pathways.md
+      - Adults/.keep
+      - Adults/Overview.md
+      - Adults/Content on Japanese Occupation.md
+      - Adults/Content on Place History.md
+      - Adults/Content on Food Heritage.md
+      - Adults/Content on National Symbols.md
+      - Adults/Content on Vanishing Trades.md
+      - Adults/Iconic Entertainment Places.md
+      - Adults/Content on Customs and Culture.md
+      - Adults/Content on Sports.md
+      - Adults/Content on National Day Parade.md
+      - Adults/Content on Traditional Games.md
+      - Adults/Content on Urban Redevelopment.md
+      - Adults/AT SG.md
+      - Adults/Programmes.md
+      - Adults/Learning Pathways.md
